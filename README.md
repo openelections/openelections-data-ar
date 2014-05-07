@@ -14,5 +14,5 @@ The PDF results were converted by first converting the PDF to text and passing
 the text through a filter script that outputs CSV.
 
 ```
-pdftotext -layout /path/to/openelex-core/openelex/us/ar/cache/20020521__ar__primary.pdf - | ./scripts/parse_ar_pdf.py > 20020521__ar__primary.csv
+pdftotext -layout /path/to/openelex-core/openelex/us/ar/cache/20020521__ar__primary.pdf - | ./scripts/parse_ar_primary_pdf.py > 20020521__ar__primary.csv
 ```
