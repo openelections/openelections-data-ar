@@ -1,25 +1,9 @@
 #!/usr/bin/env python
 
-import argparse
 from datetime import datetime
-import csv
 import re
-import sys
 
-
-class ParserState(object):
-    def __init__(self, context):
-        self._context = context
-
-    def handle_line(self, line):
-        raise NotImplemented
-
-    def enter(self):
-        pass
-
-    def exit(self):
-        pass
-
+from base import ParserState, BaseParser, get_arg_parser, parse_csv
 
 class RootState(ParserState):
     name = 'root'
@@ -222,46 +206,9 @@ class PrecinctResultsState(ParserState):
             self._context.results.append(result)
 
 
-class StateManager(object):
-    def __init__(self):
-        self._states = {}
-        self._attrs = {}
-
-    def _register_state(self, state):
-        self._states[state.name] = state
-
-    def _get_state(self, name):
-        return self._states[name]
-
-    def set(self, key, val):
-        self._attrs[key] = val
-
-    def get(self, key):
-        return self._attrs[key]
-
-    def has(self, key):
-        return key in self._attrs
-
-    def unset(self, key):
-        try:
-            del self._attrs[key]
-        except KeyError:
-            pass
-
-    def change_state(self, name):
-        self._current_state.exit()
-        self._current_state = self._get_state(name)
-        self._current_state.enter()
-
-    def handle_line(self, line):
-        self._current_state.handle_line(line)
-
-
-class ResultParser(StateManager):
+class ResultParser(BaseParser):
     def __init__(self, infile):
-        super(ResultParser, self).__init__()
-        self.infile = infile
-        self.results = []
+        super(ResultParser, self).__init__(infile)
         self._register_state(RootState(self))
         self._register_state(CountySummariesState(self))
         self._register_state(CertificationReport(self))
@@ -273,37 +220,20 @@ class ResultParser(StateManager):
         self._current_state = self._get_state('root')
         self.set('seen_summaries', False)
 
-    def parse(self):
-        for line in self.infile:
-            clean_line = line.decode('utf-8').replace(u'\xa0', u' ').strip() 
-            self.handle_line(clean_line)
 
-
-def main(args):
-    fields = [
-        'date',
-        'office',
-        'candidate',
-        'party',
-        'reporting_level',
-        'jurisdiction',
-        'county',
-        'votes',
-        'percentage',
-    ]
-    result_parser = ResultParser(args.infile)
-    writer = csv.DictWriter(args.outfile, fields)
-    result_parser.parse()
-    writer.writeheader()
-    for result in result_parser.results:
-        writer.writerow(result)
+fields = [
+    'date',
+    'office',
+    'candidate',
+    'party',
+    'reporting_level',
+    'jurisdiction',
+    'county',
+    'votes',
+    'percentage',
+]
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser()
-    parser.add_argument("infile", nargs='?', type=argparse.FileType('r'),
-        default=sys.stdin, help="input filename")
-    parser.add_argument("outfile", nargs='?', type=argparse.FileType('w'), 
-        default=sys.stdout, help="output filename")
-    args = parser.parse_args()
-    main(args)
+    args = get_arg_parser().parse_args()
+    parse_csv(args.infile, args.outfile, fields, ResultParser)
