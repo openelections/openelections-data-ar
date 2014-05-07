@@ -24,7 +24,7 @@ class ParserState(object):
 class RootState(ParserState):
     name = 'root'
 
-    _date_re = re.compile(r'May|June|November \d{1,2}, \d{4}')
+    _date_re = re.compile(r'(May|June|November) \d{1,2}(th|), \d{4}')
 
     def handle_line(self, line):
         if self._date_re.match(line) and not self._context.has('date'):
@@ -36,7 +36,7 @@ class RootState(ParserState):
             self._context.change_state('certification_report')
 
     def _parse_date(self, line):
-        parsed = datetime.strptime(line, "%B %d, %Y")
+        parsed = datetime.strptime(line.replace('th', ''), "%B %d, %Y")
         return parsed.strftime("%Y-%m-%d")
 
 
