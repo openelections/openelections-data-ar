@@ -74,7 +74,8 @@ class LegendState(ParserState):
         if line.startswith('#'): 
             name = self._parse_legend_name(line)
             self._legend.append(name)
-        else:
+        elif line == "" or line.startswith("1"):
+            # An empty line or a header line means we're changing to
             self._context.change_state(self._context.previous_state)
 
     def enter(self):

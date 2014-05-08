@@ -22,22 +22,16 @@ class RootState(ParserState):
 class CountyState(ParserState):
     county_re = re.compile(r'^[a-zA-Z ]+ County$')
 
-    def __init__(self, context):
-        super(CountyState, self).__init__(context)
-        self._skip = False
-
     def handle_line(self, line):
-        if self.county_re.match(line) and not self._skip:
+        if self.county_re.match(line):
             self._context.set('county', line)
             self._context.set('parent', self.name)
             self._context.change_state('county_results')
         elif line.endswith("Non Partisan Judicial"):
-            self._skip = True
+            self._context.set('party', "")
         elif line.endswith("Republican"):
-            self._skip = False
             self._context.set('party', 'Republican')
         elif line.endswith("Democrat"):
-            self._skip = False
             self._context.set('party', 'Democrat')
         elif line == "State of Arkansas" :
             self._context.unset('party')
@@ -59,10 +53,7 @@ class CertificationReport(CountyState):
 
 class CountyResultsState(ParserState):
     name = 'county_results'
-
-    def __init__(self, context):
-        super(CountyResultsState, self).__init__(context)
-        self._nonblank_re = re.compile(r'\w+')
+    _nonblank_re = re.compile(r'\w+')
 
     def handle_line(self, line):
         if line == "Election Statistics": 
@@ -93,7 +84,7 @@ class ContestResultsState(ParserState):
             self._context.change_state('precinct_results')
         else:
             self.parse_result(line)
-            if "Total under votes" in line:
+            if "Total under votes" in line or "All unopposed" in line:
                 self._context.unset('office')
                 self._context.change_state('county_results')
 
@@ -122,6 +113,7 @@ class ContestResultsState(ParserState):
 
 class PrecinctResultsState(ParserState):
     name = 'precinct_results'
+    _consecutive_zeros_re = re.compile(r'00+$')
 
     def handle_line(self, line):
         if line.startswith("1"):
@@ -134,21 +126,42 @@ class PrecinctResultsState(ParserState):
             self.parse_result(line)
 
     def exit(self):
+        if self._context.has('inject_corrections'):
+            county = self._context.get('county')
+            self._context.inject_corrections(office=self._context.get('office'),
+                reporting_level='precinct', county=county,
+                legend=self._context.get('legend'),
+                party=self._context.get('party'))
+
+            self._context.unset('inject_corrections')
+
         self._context.unset('legend')
 
     def parse_result(self, line):
         legend = self._context.get('legend')
         bits = re.split(r'\s+', line)
         # Sometimes zeros aren't split
-        if bits[-1] == "0000":
-            precinct = ' '.join(bits[:-1])
-            votes = ['0', '0', '0', '0']
-        elif bits[-1] == "000":
-            precinct = ' '.join(bits[:-2])
-            votes = [bits[-1], '0', '0', '0']
-        else:
-            precinct = ' '.join(bits[:-len(legend)])
-            votes = bits[-len(legend):]
+        if self._consecutive_zeros_re.match(bits[-1]):
+            num_compacted = len(bits[-1])
+            # Remove the last item and replace with individual '0' chars
+            bits.pop()
+            for i in range(num_compacted):
+                bits.append('0')
+
+        precinct = ' '.join(bits[:-len(legend)])
+        votes = bits[-len(legend):]
+
+        if not re.match(r'\d+', votes[0]):
+            # There are some messed up lines.  Don't try to parse
+            # and deal with them later.
+            if (line.startswith("Dobson-Cooper") or 
+                    line.startswith("Willis all Wards") or
+                    line.startswith("Early & Absentee")):
+                self._context.set('inject_corrections', True)
+                return
+            
+            # Sometimes there are just missing votes
+            precinct, votes = self._fix_votes(precinct, votes, legend)
 
         assert len(votes) == len(legend)
 
@@ -167,6 +180,22 @@ class PrecinctResultsState(ParserState):
             }
             self._context.results.append(result)
 
+    def _fix_votes(self, precinct, votes, legend):
+        precinct_bits = []
+        if precinct:
+            precinct_bits.append(precinct)
+        clean_votes = []
+        for vote in votes:
+            if not re.match(r'\d+', vote):
+                precinct_bits.append(vote)
+            else:
+                clean_votes.append(vote)
+
+        while len(clean_votes) < len(legend):
+            clean_votes.append('0')
+
+        return ' '.join(precinct_bits), clean_votes
+
 
 class ResultParser(BaseParser):
     def __init__(self, infile):
@@ -181,6 +210,39 @@ class ResultParser(BaseParser):
         self._register_state(PrecinctResultsState(self))
         self._current_state = self._get_state('root')
         self.set('seen_summaries', False)
+
+    def inject_corrections(self, office, reporting_level, county, legend,
+            **kwargs):
+        if (office == "Circuit Judge, District 02, Division 01, At Large" and
+                reporting_level == 'precinct' and
+                county == "Poinsett County"):
+            party = kwargs.get('party')
+            corrections = {
+                "Little River - Payneway": [29, 44, 0, 0],
+                "Lunsford - Weona & McCormick": [8, 17, 0, 9],
+                "Lunsford-Tulot": [12, 17, 0, 0],
+                "Owen-Fisher City & Rural": [44, 22, 0, 11],
+                "Owen-Waldenburg City & Rural": [21, 38, 0, 0],
+                "Tyronza City & Rural": [82, 109, 3, 30],
+                "Scott-Valley View": [50, 24, 0, 0],
+                "Scott-Whitehall": [24, 31, 0, 0],
+                "Dobson-Cooper Haynes West Prairie City & Rural": [96, 102, 0, 22],
+                "Willis all Wards & Twp": [444, 587, 5, 59],
+                "Early & Absentee": [102, 181, 1, 36],
+            }
+            for jurisdiction, votes in corrections:
+                for i in range(len(legend)):
+                    name = legend[i]
+                    self.results.append({
+                        'date': self.get('date'),
+                        'office': office,
+                        'candidate': name,
+                        'party': party, 
+                        'reporting_level': 'precinct',
+                        'jurisdiction': jurisdiction, 
+                        'county': county,
+                        'votes': "{}".format(votes[i]),
+                    })
 
 
 fields = [
