@@ -17,6 +17,66 @@ class RootState(ParserState):
         elif (line == "Certification Report" and
               self._context.get('seen_summaries')):
             self._context.change_state('certification_report')
+        elif line == "Vote totals for all candidates":
+            self._context.change_state('vote_totals')
+
+
+class VoteTotalsState(ParserState):
+    name = 'vote_totals'
+
+    def handle_line(self, line):
+        if line == "All unopposed":
+            self._context.change_state('judicial_all_unopposed')
+        elif line != "":
+            self._context.set('office', line)
+            self._context.change_state('contest_totals')
+
+
+class ContestTotalsState(ParserState):
+    name = 'contest_totals'
+
+    def handle_line(self, line):
+        if line == "State of Arkansas" :
+            self._context.change_state('root')
+        elif line == "" and len(self._results) > 0:
+            self._context.change_state('vote_totals')
+        elif line == "":
+            return
+        else:
+            self.parse_result(line)
+
+    def enter(self):
+        self._results = []
+
+    def parse_result(self, line):
+        bits = re.split(r'\s+', line)
+        candidate = ' '.join(bits[:-2])
+        candidate_bits = candidate.split('-')
+        votes = bits[-2].replace(',', '')
+        percentage = bits[-1].replace('%', '')
+        name = candidate_bits[0].strip()
+        party = candidate_bits[1].strip()
+
+        result = {
+            'date': self._context.get('date'),
+            'office': self._context.get('office'),
+            'candidate': name,
+            'party': party, 
+            'reporting_level': 'contest',
+            'jurisdiction': "Arkansas", 
+            'votes': votes,
+            'percentage': percentage,
+        }
+        self._results.append(result)
+        self._context.results.append(result)
+
+
+class JudicialAllUnopposedState(ParserState):
+    name = 'judicial_all_unopposed'
+
+    def handle_line(self, line):
+        if line == "State of Arkansas" :
+            self._context.change_state('root')
 
 
 class CountyState(ParserState):
@@ -201,6 +261,9 @@ class ResultParser(BaseParser):
     def __init__(self, infile):
         super(ResultParser, self).__init__(infile)
         self._register_state(RootState(self))
+        self._register_state(VoteTotalsState(self))
+        self._register_state(ContestTotalsState(self))
+        self._register_state(JudicialAllUnopposedState(self))
         self._register_state(CountySummariesState(self))
         self._register_state(CertificationReport(self))
         self._register_state(CountyResultsState(self))
