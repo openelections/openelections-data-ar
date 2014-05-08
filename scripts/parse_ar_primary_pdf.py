@@ -1,27 +1,22 @@
 #!/usr/bin/env python
 
-from datetime import datetime
 import re
 
-from base import ParserState, BaseParser, get_arg_parser, parse_csv
+from base import ParserState, BaseParser, LegendState, get_arg_parser, parse_csv
+from util import parse_date
 
 class RootState(ParserState):
     name = 'root'
-
     _date_re = re.compile(r'(May|June|November) \d{1,2}(th|), \d{4}')
 
     def handle_line(self, line):
         if self._date_re.match(line) and not self._context.has('date'):
-            self._context.set('date', self._parse_date(line))
+            self._context.set('date', parse_date(line))
         elif line == "County Sumamry of Votes":
             self._context.change_state('county_summaries')
         elif (line == "Certification Report" and
               self._context.get('seen_summaries')):
             self._context.change_state('certification_report')
-
-    def _parse_date(self, line):
-        parsed = datetime.strptime(line.replace('th', ''), "%B %d, %Y")
-        return parsed.strftime("%Y-%m-%d")
 
 
 class CountyState(ParserState):
@@ -90,26 +85,22 @@ class ContestResultsState(ParserState):
     name = 'contest_results'
 
     def handle_line(self, line):
-        if line == "" or "Total over votes" in line:
+        if line == "":
             return
-        elif "Total under votes" in line:
-            self._context.unset('office')
-            self._context.change_state('county_results')
         elif line == "LEGEND":
             self._context.change_state('legend')
         elif self._context.has('legend'):
             self._context.change_state('precinct_results')
         else:
             self.parse_result(line)
+            if "Total under votes" in line:
+                self._context.unset('office')
+                self._context.change_state('county_results')
 
     def parse_result(self, line):
         bits = re.split(r'\s+', line)
         percentage = bits[-1].replace('%', '')
-        try:
-            votes = bits[-2]
-        except IndexError:
-            print line
-            raise
+        votes = bits[-2]
         name = ' '.join(bits[:-2]).strip()
 
         assert votes != ""
@@ -127,27 +118,6 @@ class ContestResultsState(ParserState):
         }
         self._context.results.append(result)
 
-
-class LegendState(ParserState):
-    name = 'legend'
-
-    def handle_line(self, line):
-        if line.startswith('#'): 
-            name = self._parse_legend_name(line)
-            self._legend.append(name)
-        else:
-            self._context.change_state('contest_results')
-
-    def enter(self):
-        self._legend = []
-
-    def exit(self):
-        self._context.set('legend', self._legend)
-
-    def _parse_legend_name(self, line):
-        first, second = line.split("represents")
-        first, second = second.split("[")
-        return first.strip()
 
 
 class PrecinctResultsState(ParserState):
@@ -175,23 +145,15 @@ class PrecinctResultsState(ParserState):
             votes = ['0', '0', '0', '0']
         elif bits[-1] == "000":
             precinct = ' '.join(bits[:-2])
-            votes = [bits[-1], 0, 0, 0]
+            votes = [bits[-1], '0', '0', '0']
         else:
             precinct = ' '.join(bits[:-len(legend)])
             votes = bits[-len(legend):]
 
-        try:
-            assert len(votes) == len(legend)
-        except AssertionError:
-            print line
-            print legend
-            print bits
-            print votes
-            raise
+        assert len(votes) == len(legend)
+
         for i in range(len(votes)):
             name = legend[i]
-            if name == "Total over votes" or name == "Total under votes":
-                continue 
 
             result = {
                 'date': self._context.get('date'),
@@ -201,7 +163,7 @@ class PrecinctResultsState(ParserState):
                 'reporting_level': 'precinct',
                 'jurisdiction': precinct, 
                 'county': self._context.get('county'),
-                'votes': votes[i],
+                'votes': votes[i].replace(',', ''),
             }
             self._context.results.append(result)
 

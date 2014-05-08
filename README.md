@@ -14,5 +14,15 @@ The PDF results were converted by first converting the PDF to text and passing
 the text through a filter script that outputs CSV.
 
 ```
-pdftotext -layout /path/to/openelex-core/openelex/us/ar/cache/20020521__ar__primary.pdf - | ./scripts/parse_ar_primary_pdf.py > 20020521__ar__primary.csv
+pdftotext -layout ~/workspace/openelex-core/openelex/us/ar/cache/20021105__ar__general.pdf - | ./scripts/parse_ar_general_pdf.py > 20021105__ar__general.csv
+pdftotext -layout ~/workspace/openelex-core/openelex/us/ar/cache/20020521__ar__primary.pdf - | ./scripts/parse_ar_primary_pdf.py > 20020521__ar__primary.csv 
+pdftotext -layout ~/workspace/openelex-core/openelex/us/ar/cache/20020611__ar__primary_runoff.pdf - | ./scripts/parse_ar_primary_pdf.py > 20020611__ar__primary_runoff.csv 
 ```
+
+# Unicode Replacement
+
+To make consumption a bit easier, we output the CSV in ASCII.  The general election results file has a few Unicode characters in the precinct names.  We replace them with ASCII characters as follows:
+
+* "EN DASH" (U+2013) is converted to '-'
+* "EM DASH" (U+2014) is converted to '-'
+* "RIGHT SINGLE QUOTATION MARK" (U+2019) is converted to "'"
