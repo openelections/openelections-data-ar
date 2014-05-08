@@ -51,11 +51,13 @@ class ContestTotalsState(ParserState):
     def parse_result(self, line):
         bits = re.split(r'\s+', line)
         candidate = ' '.join(bits[:-2])
-        candidate_bits = candidate.split('-')
+        candidate_bits = candidate.split(' - ')
         votes = bits[-2].replace(',', '')
         percentage = bits[-1].replace('%', '')
         name = candidate_bits[0].strip()
         party = candidate_bits[1].strip()
+        if party == "Non Partisan Judicial":
+            party = ""
 
         result = {
             'date': self._context.get('date'),
@@ -119,7 +121,10 @@ class CountyResultsState(ParserState):
         if line == "Election Statistics": 
             self._context.change_state('election_statistics')
         elif self._nonblank_re.match(line):
-            self._context.set('office', line)
+            office = line
+            if " - " in office:
+                office = office.split(" - ")[0]
+            self._context.set('office', office)
             self._context.change_state('contest_results')
 
 
@@ -150,9 +155,15 @@ class ContestResultsState(ParserState):
 
     def parse_result(self, line):
         bits = re.split(r'\s+', line)
-        percentage = bits[-1].replace('%', '')
-        votes = bits[-2]
-        name = ' '.join(bits[:-2]).strip()
+        if line.startswith("Total"):
+            # Total over votes / Total under votes don't have a percentage
+            percentage = ""
+            votes = bits[-1]
+            name = ' '.join(bits[:-1]).strip()
+        else:
+            percentage = bits[-1].replace('%', '')
+            votes = bits[-2]
+            name = ' '.join(bits[:-2]).strip()
 
         assert votes != ""
 
