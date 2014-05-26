@@ -2,8 +2,9 @@
 
 import re
 
-from base import ParserState, BaseParser, LegendState, get_arg_parser, parse_csv
-from util import parse_date
+from openelexdata.us.ar.base import (ParserState, BaseParser, LegendState,
+    get_arg_parser, parse_csv)
+from openelexdata.us.ar.util import parse_date
 
 county_re = re.compile(r'^[\.a-zA-Z ]+ County$')
 
