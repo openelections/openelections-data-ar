@@ -25,7 +25,7 @@ def buildLine(county,r):
     if house >= 0 or senate >= 0:
       office = parts[0].strip()
       district = parts[1].strip()
-   
+
   if r.jurisdiction is not None:
     precinct = r.jurisdiction.name
 
@@ -49,14 +49,14 @@ def output_file(outfile,items):
     outfile.writerows(items)
 
 
-# process a file and return list  of items 
+# process a file and return list  of items
 def go(filename):
 
   items = []
   p = clarify.Parser()
   p.parse(filename)
   print( "Processing ", filename, p.election_name, p.region )
-  county = p.region 
+  county = p.region
 
   for r in p.results:
      if r.votes > 0:
@@ -67,7 +67,7 @@ def go(filename):
 
   return(items)
 
-# process a file and return list  of items 
+# process a file and return list  of items
 def processCounties(counties,outfile):
   allitems = []
   for c in counties:
@@ -85,33 +85,34 @@ def processCounties(counties,outfile):
 
 
 def get_county_files():
-  c_url = "https://results.enr.clarityelections.com/AR/63912/184685/Web01/en/summary.html"
+  c_url = "http://results.enr.clarityelections.com/AR/58350/163701/Web01/en/summary.html"
   jurisdiction = clarify.Jurisdiction(url=c_url, level='county')
 
   for j in jurisdiction.get_subjurisdictions():
     print("j ", j.name, j.report_url('xml'))
-    detail_url = j.report_url('xml').replace("http:", "https:")
-    r = requests.get(detail_url, allow_redirects=True)
-    zip_filename = j.name + "_detailxml.zip"
-    open(zip_filename, 'wb').write(r.content)
-    zip = zipfile.ZipFile(zip_filename)
-    zip.extractall() 
-    shutil.move("detail.xml", j.name + ".xml")
+    if j.report_url('xml'):
+        detail_url = j.report_url('xml').replace("http:", "https:")
+        r = requests.get(detail_url, allow_redirects=True)
+        zip_filename = j.name + "_detailxml.zip"
+        open(zip_filename, 'wb').write(r.content)
+        zip = zipfile.ZipFile(zip_filename)
+        zip.extractall()
+        shutil.move("detail.xml", j.name + ".xml")
 
 def process_county_files():
-  c_url = "https://results.enr.clarityelections.com/AR/63912/184685/Web01/en/summary.html"
+  c_url = "http://results.enr.clarityelections.com/AR/58350/163701/Web01/en/summary.html"
   jurisdiction = clarify.Jurisdiction(url=c_url, level='county')
   allitems = []
   for j in jurisdiction.get_subjurisdictions():
     print("j ", j.name, j.report_url('xml'))
-    filename = j.name + ".xml"
-    items = go(filename)
-    allitems = allitems + items
+    if j.report_url('xml'):
+        filename = j.name + ".xml"
+        items = go(filename)
+        allitems = allitems + items
 
-  outfile = "20161108__ar__general__precinct.csv"
+  outfile = "20160301__ar__primary__precinct.csv"
   output_file(outfile,allitems)
 
 # download the files first, so no need to redownload if there are parser errors
 #get_county_files()
 process_county_files()
-
