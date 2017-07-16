@@ -26,3 +26,10 @@ To make consumption a bit easier, we output the CSV in ASCII.  The general elect
 * "EN DASH" (U+2013) is converted to '-'
 * "EM DASH" (U+2014) is converted to '-'
 * "RIGHT SINGLE QUOTATION MARK" (U+2019) is converted to "'"
+
+
+# Converted 2016 Clarify Election Results 
+
+http://results.enr.clarityelections.com/AR/Arkansas/63914/184003/Web01/en/summary.html#
+
+
