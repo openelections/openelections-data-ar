@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 
-import os.path
 import clarify
 import clarify.jurisdiction
 import csv
@@ -9,10 +8,10 @@ import requests
 import zipfile
 import shutil
 import pandas as pd
-from collections import OrderedDict
 
-# extract vote totals one subjurisdiction
 def buildLine(county, r):
+  "extract vote totals one for one subjurisdiction (precinct)"
+
   district = ""
   precinct = r.jurisdiction
 
@@ -27,7 +26,6 @@ def buildLine(county, r):
   office = r.contest.text
   office = office.replace('  ', ' ')
   parts = office.split(",")
-
 
   if len(parts) == 2:
     house = office.find( "House")
@@ -50,6 +48,10 @@ def buildLine(county, r):
     candidate = r.choice.text
     candidate = candidate.replace('  ', ' ')
 
+    # Martin O'Mally appears with 2 different spellings
+    if candidate == "Martin J O'Malley":
+      candidate = "Martin J. O'Malley"
+
     if vote_type == 'Early Vote':
       early_vote = votes
 
@@ -69,18 +71,17 @@ def buildLine(county, r):
     return(item)
 
 
-# write items to file
 def output_file(outfile,items):
+  "write items to file"
   with open(outfile, "w") as csv_outfile:
     outfile = csv.writer(csv_outfile)
     outfile.writerow(['county', 'precinct', 'office', 'district',
                       'party', 'candidate', 'votes', 'election_day', 'early_vote', 'absentee', 'provisional'])
-
     outfile.writerows(items)
 
 
-# process a file and return list  of items
 def extract_data_from_file(filename):
+  "process a file and return list  of items"
 
   items = []
   p = clarify.Parser()
@@ -98,9 +99,11 @@ def extract_data_from_file(filename):
   return(items)
 
 
-# using the summary url, downloads all the detail xml files 
-# named prefix_county.xml
 def get_county_files(c_url, prefix):
+  """
+  using the summary url, downloads all the detail xml files , unzips them, 
+  renames the detail to prefix_county.xml
+  """
   jurisdiction = clarify.Jurisdiction(url=c_url, level='county')
 
   for j in jurisdiction.get_subjurisdictions():
@@ -115,46 +118,61 @@ def get_county_files(c_url, prefix):
         shutil.move("detail.xml", prefix + j.name + ".xml")
 
 
+def rollup_by_vote_type(items):
+  "Rolls up votes and adds the election day, absentee, early voting, and provisional values to the item"
+
+  df = pd.DataFrame.from_dict(items)
+  grp = df.groupby(['county', 'precinct', 'office', 'district', 'party', 'candidate'])
+
+  grouped_items = []
+  for k, g in grp:
+    gg = grp.get_group(k)
+    votes = sum(gg['votes'])
+    election_day = sum(gg['election_day'])
+    early_vote = sum(gg['early_vote'])
+    absentee = sum(gg['absentee'])
+    provisional = sum(gg['provisional'])
+
+    gitem = ( k[0], k[1], k[2], str(k[3]), str(k[4]), str(k[5]),
+       str(int(votes)), str(int(election_day)), str(int(early_vote)),
+       str(int(absentee)), str(int(provisional)))
+
+    grouped_items = grouped_items + list([gitem])
+
+  return(grouped_items)
+
+
 def process_county_files(c_url, outfile, prefix):
+  """
+  Data files must be prefected and named <prefix><county>.xml
+  
+  Processes each file, extracts vote totals, rolls up by vote type,
+  and returns a list of items
+  """
   jurisdiction = clarify.Jurisdiction(url=c_url, level='county')
   allitems = []
   for j in jurisdiction.get_subjurisdictions():
     county = j.name
-    try:
-      if j.report_url('xml'):
-        filename = prefix + j.name + ".xml"
-        items = extract_data_from_file(filename)
-        df = pd.DataFrame.from_dict(items)
-        grp = df.groupby(['county', 'precinct', 'office', 'district', 'party', 'candidate'])
-
-
-        grouped_items = []
-        for k, g in grp:
-
-            gg = grp.get_group(k)
-            votes = sum(gg['votes'])
-            election_day = sum(gg['election_day'])
-            early_vote = sum(gg['early_vote'])
-            absentee = sum(gg['absentee'])
-            provisional = sum(gg['provisional'])
-
-            gitem = (
-                k[0], k[1], k[2], str(k[3]), str(k[4]), str(k[5]),
-                      str(int(votes)),
-                      str(int(election_day)),
-                      str(int(early_vote)),
-                      str(int(absentee)),
-                      str(int(provisional)))
-
-
-            grouped_items = grouped_items + list([gitem])
-
-        allitems = allitems + grouped_items
-    except:
-        print("FAILED: Processing ", county, filename, j.report_url('xml'))
-        #print("Unexpected error:", sys.exec_info()[0])
+    if j is not None:
+      try:
+        if j.report_url('xml'):
+          filename = prefix + j.name + ".xml"
+          items = extract_data_from_file(filename)
+          grouped_items = rollup_by_vote_type(items)
+          allitems = allitems + grouped_items
+      except:
+          print("FAILED: Processing ", county, filename, j.report_url('xml'))
+        
 
   output_file(outfile,allitems)
+
+
+def process_single_file(filename):
+  "for testing/debugging - handle one xml file"
+  items = extract_data_from_file(filename)
+  gitems = rollup_by_vote_type(items)
+  print("Num items", len(items), " num gitems ", len(gitems))
+  output_file("single.csv", gitems)
 
 ###############################################################################
 
@@ -166,6 +184,8 @@ primary_election_march_2016_file = "20160301__ar__primary__precinct.csv"
 
 #get_county_files(pres_election_2016_url, "nov2016_")
 #process_county_files(pres_election_2016_url, pres_election_file, "nov2016_")
+
+#process_single_file("nov2016_Newton.xml")
 
 #get_county_files(primary_election_march_2016_url, "mar2016_")
 process_county_files(primary_election_march_2016_url, primary_election_march_2016_file, "mar2016_")
