@@ -52,17 +52,18 @@ def buildLine(county, r):
     if candidate == "Martin J O'Malley":
       candidate = "Martin J. O'Malley"
 
-    if vote_type == 'Early Vote':
+    # Can be Early Vote, Early Vote (North), Early Vote (South)
+    if vote_type.startswith('Early Vote'):
       early_vote = votes
-
-    if vote_type == 'Election Day':
+    elif vote_type.startswith('Election Day'):
       election_day = votes
-
-    if vote_type == 'Absentee':
-      absentee = votes
-
-    if vote_type == 'Provisional':
+    elif vote_type.startswith('Absentee'):
+      absentee = votes 
+    elif vote_type.startswith('Provisional'):
       provisional = votes
+    else:
+      print("WARNING VOTE TYPE ", vote_type, votes)
+      other = votes
 
     item = {'county': county, 'precinct': precinct, 'office': office, 'district': district,
             'party': party, 'candidate': candidate, 'votes': votes, 
@@ -133,9 +134,13 @@ def rollup_by_vote_type(items):
     absentee = sum(gg['absentee'])
     provisional = sum(gg['provisional'])
 
+
     gitem = ( k[0], k[1], k[2], str(k[3]), str(k[4]), str(k[5]),
        str(int(votes)), str(int(election_day)), str(int(early_vote)),
        str(int(absentee)), str(int(provisional)))
+
+    if votes != (election_day + early_vote + absentee + provisional):
+      print("VOTE ISSUE", votes, election_day, early_vote, absentee, provisional, gitem )
 
     grouped_items = grouped_items + list([gitem])
 
@@ -160,8 +165,12 @@ def process_county_files(c_url, outfile, prefix):
           items = extract_data_from_file(filename)
           grouped_items = rollup_by_vote_type(items)
           allitems = allitems + grouped_items
-      except:
+      except Exception as ex:
           print("FAILED: Processing ", county, filename, j.report_url('xml'))
+          if hasattr(ex, 'message'):
+            print(ex.message)
+          else:
+            print(ex)
         
 
   output_file(outfile,allitems)
@@ -183,10 +192,10 @@ primary_election_march_2016_url = "http://results.enr.clarityelections.com/AR/58
 primary_election_march_2016_file = "20160301__ar__primary__precinct.csv"
 
 #get_county_files(pres_election_2016_url, "nov2016_")
-#process_county_files(pres_election_2016_url, pres_election_file, "nov2016_")
+process_county_files(pres_election_2016_url, pres_election_file, "nov2016_")
 
 #process_single_file("nov2016_Newton.xml")
 
 #get_county_files(primary_election_march_2016_url, "mar2016_")
-process_county_files(primary_election_march_2016_url, primary_election_march_2016_file, "mar2016_")
+#process_county_files(primary_election_march_2016_url, primary_election_march_2016_file, "mar2016_")
 
