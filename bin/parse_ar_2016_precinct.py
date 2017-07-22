@@ -2,6 +2,7 @@
 
 import clarify
 import clarify.jurisdiction
+import sys
 import csv
 import re
 import requests
@@ -15,6 +16,7 @@ def buildLine(county, r):
   district = ""
   precinct = r.jurisdiction
 
+  hand_count = 0
   total_votes = 0
   early_vote = 0
   election_day = 0
@@ -53,14 +55,39 @@ def buildLine(county, r):
       candidate = "Martin J. O'Malley"
 
     # Can be Early Vote, Early Vote (North), Early Vote (South)
-    if vote_type.startswith('Early Vote'):
+    # could be Early Vote or Early Voting
+
+    """
+    vote types in the primary file
+
+    Absentee
+    Counted Provisional
+    Early Vote
+    Early Vote - HSB
+    Early Vote Ivo Machine
+    Early Vote - North
+    Early Vote - Ozarka
+    Early Vote Paper
+    Early Vote - South
+    Early Voting
+    Election Day
+    Election Day Ivo Machine
+    Election Day Paper
+    Election Night
+    Hand Count
+    Provisional
+    """
+
+    if (vote_type.startswith("Early Vot")) | (vote_type == "Early Voting"):
       early_vote = votes
-    elif vote_type.startswith('Election Day'):
+    elif (vote_type.startswith('Election Day') | (vote_type == "Election Night")):
       election_day = votes
     elif vote_type.startswith('Absentee'):
       absentee = votes 
-    elif vote_type.startswith('Provisional'):
+    elif (vote_type.startswith('Provisional') | (vote_type == "Counted Provisional")):
       provisional = votes
+    elif vote_type.startswith('Hand Count'):
+      hand_count = votes
     else:
       print("WARNING VOTE TYPE ", vote_type, votes)
       other = votes
@@ -68,7 +95,7 @@ def buildLine(county, r):
     item = {'county': county, 'precinct': precinct, 'office': office, 'district': district,
             'party': party, 'candidate': candidate, 'votes': votes, 
             'vote_type': vote_type, 'early_vote': early_vote, 'absentee': absentee, 'election_day': election_day,
-            'provisional': provisional}
+            'provisional': provisional, 'hand_count': hand_count }
     return(item)
 
 
@@ -77,7 +104,8 @@ def output_file(outfile,items):
   with open(outfile, "w") as csv_outfile:
     outfile = csv.writer(csv_outfile)
     outfile.writerow(['county', 'precinct', 'office', 'district',
-                      'party', 'candidate', 'votes', 'election_day', 'early_vote', 'absentee', 'provisional'])
+                      'party', 'candidate', 'votes', 'election_day', 
+                      'early_vote', 'absentee', 'provisional', 'hand_count'])
     outfile.writerows(items)
 
 
@@ -108,7 +136,7 @@ def get_county_files(c_url, prefix):
   jurisdiction = clarify.Jurisdiction(url=c_url, level='county')
 
   for j in jurisdiction.get_subjurisdictions():
-    print("j ", j.name, j.report_url('xml'))
+    print("County: ", j.name, j.report_url('xml'))
     if j.report_url('xml'):
         detail_url = j.report_url('xml').replace("http:", "https:")
         r = requests.get(detail_url, allow_redirects=True)
@@ -118,6 +146,13 @@ def get_county_files(c_url, prefix):
         zip.extractall()
         shutil.move("detail.xml", prefix + j.name + ".xml")
 
+def print_vote_types(items):
+  df = pd.DataFrame.from_dict(items)
+  print(items[0])
+
+  vt_grp = df.groupby(['vote_type'])
+  for v, vg in vt_grp:
+    print("print_vote_types: ", v)
 
 def rollup_by_vote_type(items):
   "Rolls up votes and adds the election day, absentee, early voting, and provisional values to the item"
@@ -126,21 +161,20 @@ def rollup_by_vote_type(items):
   grp = df.groupby(['county', 'precinct', 'office', 'district', 'party', 'candidate'])
 
   grouped_items = []
-  for k, g in grp:
-    gg = grp.get_group(k)
+  for k, gg in grp:
     votes = sum(gg['votes'])
     election_day = sum(gg['election_day'])
     early_vote = sum(gg['early_vote'])
     absentee = sum(gg['absentee'])
     provisional = sum(gg['provisional'])
+    hand_count = sum(gg['hand_count'])
 
-
-    gitem = ( k[0], k[1], k[2], str(k[3]), str(k[4]), str(k[5]),
+    gitem = ( str(k[0]), str(k[1]), str(k[2]), str(k[3]), str(k[4]), str(k[5]),
        str(int(votes)), str(int(election_day)), str(int(early_vote)),
-       str(int(absentee)), str(int(provisional)))
+       str(int(absentee)), str(int(provisional)), str(int(hand_count)) )
 
-    if votes != (election_day + early_vote + absentee + provisional):
-      print("VOTE ISSUE", votes, election_day, early_vote, absentee, provisional, gitem )
+    if votes != (election_day + early_vote + absentee + provisional + hand_count):
+      print("VOTE ISSUE", votes, election_day, early_vote, absentee, provisional, hand_count, gitem )
 
     grouped_items = grouped_items + list([gitem])
 
@@ -171,9 +205,8 @@ def process_county_files(c_url, outfile, prefix):
             print(ex.message)
           else:
             print(ex)
-        
 
-  output_file(outfile,allitems)
+  output_file(outfile, allitems)
 
 
 def process_single_file(filename):
@@ -183,6 +216,9 @@ def process_single_file(filename):
   print("Num items", len(items), " num gitems ", len(gitems))
   output_file("single.csv", gitems)
 
+def usage():
+  print("usage: parser [fetch|process] [march2016|nov2016]")
+
 ###############################################################################
 
 pres_election_2016_url = "https://results.enr.clarityelections.com/AR/63912/184685/Web01/en/summary.html"
@@ -191,11 +227,28 @@ pres_election_file =     "20161108__ar__general__precinct.csv"
 primary_election_march_2016_url = "http://results.enr.clarityelections.com/AR/58350/163701/Web01/en/summary.html"
 primary_election_march_2016_file = "20160301__ar__primary__precinct.csv"
 
-#get_county_files(pres_election_2016_url, "nov2016_")
-process_county_files(pres_election_2016_url, pres_election_file, "nov2016_")
+if __name__ == "__main__":
+  if len(sys.argv) != 3:
+    usage()
+    sys.exit(1)
 
-#process_single_file("nov2016_Newton.xml")
-
-#get_county_files(primary_election_march_2016_url, "mar2016_")
-#process_county_files(primary_election_march_2016_url, primary_election_march_2016_file, "mar2016_")
-
+  cmd = sys.argv[1]
+  which = sys.argv[2]
+  if cmd == "fetch":
+    if which == "march2016":
+      print("Getting PRIMARY files")
+      get_county_files(primary_election_march_2016_url, "mar2016_")
+    elif which == "nov2016":
+      print("Getting General election files")
+      get_county_files(pres_election_2016_url, "nov2016_")
+    else:
+      usage()
+  elif cmd == "process":
+    if which == "march2016":
+      print("Processsing PRIMARY files")
+      process_county_files(primary_election_march_2016_url, primary_election_march_2016_file, "mar2016_")
+    elif which == "nov2016":
+      print("Processsing General Election files")
+      process_county_files(pres_election_2016_url, pres_election_file, "nov2016_")
+    else:
+      usage()
