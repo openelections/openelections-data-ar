@@ -1,0 +1,282 @@
+county,precinct,office,district,party,candidate,votes
+Phillips,PRECINCT 0001,Governor,,DEM,Leticia Sanders,145
+Phillips,PRECINCT 0002,Governor,,DEM,Leticia Sanders,19
+Phillips,PRECINCT 0003,Governor,,DEM,Leticia Sanders,102
+Phillips,PRECINCT 0004,Governor,,DEM,Leticia Sanders,151
+Phillips,PRECINCT 0005,Governor,,DEM,Leticia Sanders,127
+Phillips,PRECINCT 0006,Governor,,DEM,Leticia Sanders,144
+Phillips,PRECINCT 0007,Governor,,DEM,Leticia Sanders,60
+Phillips,PRECINCT 0008,Governor,,DEM,Leticia Sanders,41
+Phillips,PRECINCT 0009,Governor,,DEM,Leticia Sanders,39
+Phillips,PRECINCT 0010,Governor,,DEM,Leticia Sanders,35
+Phillips,PRECINCT 0011,Governor,,DEM,Leticia Sanders,37
+Phillips,PRECINCT 0012,Governor,,DEM,Leticia Sanders,32
+Phillips,PRECINCT 0013,Governor,,DEM,Leticia Sanders,91
+Phillips,PRECINCT 0014,Governor,,DEM,Leticia Sanders,16
+Phillips,PRECINCT 0015,Governor,,DEM,Leticia Sanders,53
+Phillips,PRECINCT 0016,Governor,,DEM,Leticia Sanders,71
+Phillips,PRECINCT 0017,Governor,,DEM,Leticia Sanders,6
+Phillips,PRECINCT 0001,Governor,,DEM,Jared K. Henderson,101
+Phillips,PRECINCT 0002,Governor,,DEM,Jared K. Henderson,22
+Phillips,PRECINCT 0003,Governor,,DEM,Jared K. Henderson,126
+Phillips,PRECINCT 0004,Governor,,DEM,Jared K. Henderson,98
+Phillips,PRECINCT 0005,Governor,,DEM,Jared K. Henderson,85
+Phillips,PRECINCT 0006,Governor,,DEM,Jared K. Henderson,98
+Phillips,PRECINCT 0007,Governor,,DEM,Jared K. Henderson,88
+Phillips,PRECINCT 0008,Governor,,DEM,Jared K. Henderson,61
+Phillips,PRECINCT 0009,Governor,,DEM,Jared K. Henderson,50
+Phillips,PRECINCT 0010,Governor,,DEM,Jared K. Henderson,94
+Phillips,PRECINCT 0011,Governor,,DEM,Jared K. Henderson,46
+Phillips,PRECINCT 0012,Governor,,DEM,Jared K. Henderson,18
+Phillips,PRECINCT 0013,Governor,,DEM,Jared K. Henderson,81
+Phillips,PRECINCT 0014,Governor,,DEM,Jared K. Henderson,29
+Phillips,PRECINCT 0015,Governor,,DEM,Jared K. Henderson,22
+Phillips,PRECINCT 0016,Governor,,DEM,Jared K. Henderson,26
+Phillips,PRECINCT 0017,Governor,,DEM,Jared K. Henderson,2
+Phillips,PRECINCT 0001,State Senate District 24,,DEM,Mayor Dorothy A. Cooper,75
+Phillips,PRECINCT 0002,State Senate District 24,,DEM,Mayor Dorothy A. Cooper,12
+Phillips,PRECINCT 0003,State Senate District 24,,DEM,Mayor Dorothy A. Cooper,59
+Phillips,PRECINCT 0004,State Senate District 24,,DEM,Mayor Dorothy A. Cooper,80
+Phillips,PRECINCT 0005,State Senate District 24,,DEM,Mayor Dorothy A. Cooper,76
+Phillips,PRECINCT 0006,State Senate District 24,,DEM,Mayor Dorothy A. Cooper,80
+Phillips,PRECINCT 0007,State Senate District 24,,DEM,Mayor Dorothy A. Cooper,5
+Phillips,PRECINCT 0008,State Senate District 24,,DEM,Mayor Dorothy A. Cooper,25
+Phillips,PRECINCT 0010,State Senate District 24,,DEM,Mayor Dorothy A. Cooper,4
+Phillips,PRECINCT 0011,State Senate District 24,,DEM,Mayor Dorothy A. Cooper,23
+Phillips,PRECINCT 0013,State Senate District 24,,DEM,Mayor Dorothy A. Cooper,23
+Phillips,PRECINCT 0001,State Senate District 24,,DEM,Senator Keith M. Ingram,183
+Phillips,PRECINCT 0002,State Senate District 24,,DEM,Senator Keith M. Ingram,26
+Phillips,PRECINCT 0003,State Senate District 24,,DEM,Senator Keith M. Ingram,201
+Phillips,PRECINCT 0004,State Senate District 24,,DEM,Senator Keith M. Ingram,191
+Phillips,PRECINCT 0005,State Senate District 24,,DEM,Senator Keith M. Ingram,143
+Phillips,PRECINCT 0006,State Senate District 24,,DEM,Senator Keith M. Ingram,176
+Phillips,PRECINCT 0007,State Senate District 24,,DEM,Senator Keith M. Ingram,48
+Phillips,PRECINCT 0008,State Senate District 24,,DEM,Senator Keith M. Ingram,79
+Phillips,PRECINCT 0010,State Senate District 24,,DEM,Senator Keith M. Ingram,20
+Phillips,PRECINCT 0011,State Senate District 24,,DEM,Senator Keith M. Ingram,66
+Phillips,PRECINCT 0013,State Senate District 24,,DEM,Senator Keith M. Ingram,34
+Phillips,PRECINCT 0001,PHILLIPS COUNTY SHERIFF,,,NEAL BYRD,232
+Phillips,PRECINCT 0002,PHILLIPS COUNTY SHERIFF,,,NEAL BYRD,35
+Phillips,PRECINCT 0003,PHILLIPS COUNTY SHERIFF,,,NEAL BYRD,256
+Phillips,PRECINCT 0004,PHILLIPS COUNTY SHERIFF,,,NEAL BYRD,235
+Phillips,PRECINCT 0005,PHILLIPS COUNTY SHERIFF,,,NEAL BYRD,176
+Phillips,PRECINCT 0006,PHILLIPS COUNTY SHERIFF,,,NEAL BYRD,218
+Phillips,PRECINCT 0007,PHILLIPS COUNTY SHERIFF,,,NEAL BYRD,145
+Phillips,PRECINCT 0008,PHILLIPS COUNTY SHERIFF,,,NEAL BYRD,90
+Phillips,PRECINCT 0009,PHILLIPS COUNTY SHERIFF,,,NEAL BYRD,79
+Phillips,PRECINCT 0010,PHILLIPS COUNTY SHERIFF,,,NEAL BYRD,129
+Phillips,PRECINCT 0011,PHILLIPS COUNTY SHERIFF,,,NEAL BYRD,83
+Phillips,PRECINCT 0012,PHILLIPS COUNTY SHERIFF,,,NEAL BYRD,51
+Phillips,PRECINCT 0013,PHILLIPS COUNTY SHERIFF,,,NEAL BYRD,157
+Phillips,PRECINCT 0014,PHILLIPS COUNTY SHERIFF,,,NEAL BYRD,62
+Phillips,PRECINCT 0015,PHILLIPS COUNTY SHERIFF,,,NEAL BYRD,75
+Phillips,PRECINCT 0016,PHILLIPS COUNTY SHERIFF,,,NEAL BYRD,133
+Phillips,PRECINCT 0017,PHILLIPS COUNTY SHERIFF,,,NEAL BYRD,8
+Phillips,PRECINCT 0001,PHILLIPS COUNTY SHERIFF,,,VINCENT BELL,54
+Phillips,PRECINCT 0002,PHILLIPS COUNTY SHERIFF,,,VINCENT BELL,11
+Phillips,PRECINCT 0003,PHILLIPS COUNTY SHERIFF,,,VINCENT BELL,24
+Phillips,PRECINCT 0004,PHILLIPS COUNTY SHERIFF,,,VINCENT BELL,55
+Phillips,PRECINCT 0005,PHILLIPS COUNTY SHERIFF,,,VINCENT BELL,56
+Phillips,PRECINCT 0006,PHILLIPS COUNTY SHERIFF,,,VINCENT BELL,59
+Phillips,PRECINCT 0007,PHILLIPS COUNTY SHERIFF,,,VINCENT BELL,37
+Phillips,PRECINCT 0008,PHILLIPS COUNTY SHERIFF,,,VINCENT BELL,17
+Phillips,PRECINCT 0009,PHILLIPS COUNTY SHERIFF,,,VINCENT BELL,28
+Phillips,PRECINCT 0010,PHILLIPS COUNTY SHERIFF,,,VINCENT BELL,18
+Phillips,PRECINCT 0011,PHILLIPS COUNTY SHERIFF,,,VINCENT BELL,18
+Phillips,PRECINCT 0012,PHILLIPS COUNTY SHERIFF,,,VINCENT BELL,6
+Phillips,PRECINCT 0013,PHILLIPS COUNTY SHERIFF,,,VINCENT BELL,48
+Phillips,PRECINCT 0014,PHILLIPS COUNTY SHERIFF,,,VINCENT BELL,10
+Phillips,PRECINCT 0015,PHILLIPS COUNTY SHERIFF,,,VINCENT BELL,12
+Phillips,PRECINCT 0016,PHILLIPS COUNTY SHERIFF,,,VINCENT BELL,6
+Phillips,PRECINCT 0017,PHILLIPS COUNTY SHERIFF,,,VINCENT BELL,2
+Phillips,PRECINCT 0001,PHILLIPS COUNTY ASSESSOR,,,JEROME TURNER,213
+Phillips,PRECINCT 0002,PHILLIPS COUNTY ASSESSOR,,,JEROME TURNER,25
+Phillips,PRECINCT 0003,PHILLIPS COUNTY ASSESSOR,,,JEROME TURNER,127
+Phillips,PRECINCT 0004,PHILLIPS COUNTY ASSESSOR,,,JEROME TURNER,203
+Phillips,PRECINCT 0005,PHILLIPS COUNTY ASSESSOR,,,JEROME TURNER,160
+Phillips,PRECINCT 0006,PHILLIPS COUNTY ASSESSOR,,,JEROME TURNER,192
+Phillips,PRECINCT 0007,PHILLIPS COUNTY ASSESSOR,,,JEROME TURNER,57
+Phillips,PRECINCT 0008,PHILLIPS COUNTY ASSESSOR,,,JEROME TURNER,56
+Phillips,PRECINCT 0009,PHILLIPS COUNTY ASSESSOR,,,JEROME TURNER,29
+Phillips,PRECINCT 0010,PHILLIPS COUNTY ASSESSOR,,,JEROME TURNER,22
+Phillips,PRECINCT 0011,PHILLIPS COUNTY ASSESSOR,,,JEROME TURNER,63
+Phillips,PRECINCT 0012,PHILLIPS COUNTY ASSESSOR,,,JEROME TURNER,39
+Phillips,PRECINCT 0013,PHILLIPS COUNTY ASSESSOR,,,JEROME TURNER,102
+Phillips,PRECINCT 0014,PHILLIPS COUNTY ASSESSOR,,,JEROME TURNER,14
+Phillips,PRECINCT 0015,PHILLIPS COUNTY ASSESSOR,,,JEROME TURNER,68
+Phillips,PRECINCT 0016,PHILLIPS COUNTY ASSESSOR,,,JEROME TURNER,106
+Phillips,PRECINCT 0017,PHILLIPS COUNTY ASSESSOR,,,JEROME TURNER,8
+Phillips,PRECINCT 0001,PHILLIPS COUNTY ASSESSOR,,,JACKIE S. SANDERS,69
+Phillips,PRECINCT 0002,PHILLIPS COUNTY ASSESSOR,,,JACKIE S. SANDERS,20
+Phillips,PRECINCT 0003,PHILLIPS COUNTY ASSESSOR,,,JACKIE S. SANDERS,149
+Phillips,PRECINCT 0004,PHILLIPS COUNTY ASSESSOR,,,JACKIE S. SANDERS,84
+Phillips,PRECINCT 0005,PHILLIPS COUNTY ASSESSOR,,,JACKIE S. SANDERS,73
+Phillips,PRECINCT 0006,PHILLIPS COUNTY ASSESSOR,,,JACKIE S. SANDERS,79
+Phillips,PRECINCT 0007,PHILLIPS COUNTY ASSESSOR,,,JACKIE S. SANDERS,124
+Phillips,PRECINCT 0008,PHILLIPS COUNTY ASSESSOR,,,JACKIE S. SANDERS,51
+Phillips,PRECINCT 0009,PHILLIPS COUNTY ASSESSOR,,,JACKIE S. SANDERS,77
+Phillips,PRECINCT 0010,PHILLIPS COUNTY ASSESSOR,,,JACKIE S. SANDERS,127
+Phillips,PRECINCT 0011,PHILLIPS COUNTY ASSESSOR,,,JACKIE S. SANDERS,38
+Phillips,PRECINCT 0012,PHILLIPS COUNTY ASSESSOR,,,JACKIE S. SANDERS,16
+Phillips,PRECINCT 0013,PHILLIPS COUNTY ASSESSOR,,,JACKIE S. SANDERS,100
+Phillips,PRECINCT 0014,PHILLIPS COUNTY ASSESSOR,,,JACKIE S. SANDERS,58
+Phillips,PRECINCT 0015,PHILLIPS COUNTY ASSESSOR,,,JACKIE S. SANDERS,19
+Phillips,PRECINCT 0016,PHILLIPS COUNTY ASSESSOR,,,JACKIE S. SANDERS,33
+Phillips,PRECINCT 0017,PHILLIPS COUNTY ASSESSOR,,,JACKIE S. SANDERS,2
+Phillips,PRECINCT 0009,CONSTABLE SPRING CREEK TOWNShIP,,,JIMMY JONES,26
+Phillips,PRECINCT 0010,CONSTABLE SPRING CREEK TOWNShIP,,,JIMMY JONES,24
+Phillips,PRECINCT 0009,CONSTABLE SPRING CREEK TOWNShIP,,,LEWIS HALL,63
+Phillips,PRECINCT 0010,CONSTABLE SPRING CREEK TOWNShIP,,,LEWIS HALL,124
+Phillips,PRECINCT 0001,Governor,,REP,Governor Asa Hutchinson,3
+Phillips,PRECINCT 0002,Governor,,REP,Governor Asa Hutchinson,2
+Phillips,PRECINCT 0003,Governor,,REP,Governor Asa Hutchinson,14
+Phillips,PRECINCT 0004,Governor,,REP,Governor Asa Hutchinson,1
+Phillips,PRECINCT 0005,Governor,,REP,Governor Asa Hutchinson,10
+Phillips,PRECINCT 0006,Governor,,REP,Governor Asa Hutchinson,6
+Phillips,PRECINCT 0007,Governor,,REP,Governor Asa Hutchinson,14
+Phillips,PRECINCT 0008,Governor,,REP,Governor Asa Hutchinson,3
+Phillips,PRECINCT 0009,Governor,,REP,Governor Asa Hutchinson,6
+Phillips,PRECINCT 0010,Governor,,REP,Governor Asa Hutchinson,6
+Phillips,PRECINCT 0011,Governor,,REP,Governor Asa Hutchinson,3
+Phillips,PRECINCT 0012,Governor,,REP,Governor Asa Hutchinson,1
+Phillips,PRECINCT 0013,Governor,,REP,Governor Asa Hutchinson,17
+Phillips,PRECINCT 0014,Governor,,REP,Governor Asa Hutchinson,1
+Phillips,PRECINCT 0015,Governor,,REP,Governor Asa Hutchinson,0
+Phillips,PRECINCT 0016,Governor,,REP,Governor Asa Hutchinson,4
+Phillips,PRECINCT 0017,Governor,,REP,Governor Asa Hutchinson,1
+Phillips,PRECINCT 0001,Governor,,REP,Jan Morgan,1
+Phillips,PRECINCT 0002,Governor,,REP,Jan Morgan,4
+Phillips,PRECINCT 0003,Governor,,REP,Jan Morgan,6
+Phillips,PRECINCT 0004,Governor,,REP,Jan Morgan,5
+Phillips,PRECINCT 0005,Governor,,REP,Jan Morgan,2
+Phillips,PRECINCT 0006,Governor,,REP,Jan Morgan,6
+Phillips,PRECINCT 0007,Governor,,REP,Jan Morgan,3
+Phillips,PRECINCT 0008,Governor,,REP,Jan Morgan,2
+Phillips,PRECINCT 0009,Governor,,REP,Jan Morgan,1
+Phillips,PRECINCT 0010,Governor,,REP,Jan Morgan,1
+Phillips,PRECINCT 0011,Governor,,REP,Jan Morgan,3
+Phillips,PRECINCT 0012,Governor,,REP,Jan Morgan,0
+Phillips,PRECINCT 0013,Governor,,REP,Jan Morgan,6
+Phillips,PRECINCT 0014,Governor,,REP,Jan Morgan,0
+Phillips,PRECINCT 0015,Governor,,REP,Jan Morgan,0
+Phillips,PRECINCT 0016,Governor,,REP,Jan Morgan,0
+Phillips,PRECINCT 0017,Governor,,REP,Jan Morgan,2
+Phillips,PRECINCT 0001,Secretary of State,,REP,State Representative Trevor Drown,3
+Phillips,PRECINCT 0002,Secretary of State,,REP,State Representative Trevor Drown,1
+Phillips,PRECINCT 0003,Secretary of State,,REP,State Representative Trevor Drown,8
+Phillips,PRECINCT 0004,Secretary of State,,REP,State Representative Trevor Drown,2
+Phillips,PRECINCT 0005,Secretary of State,,REP,State Representative Trevor Drown,3
+Phillips,PRECINCT 0006,Secretary of State,,REP,State Representative Trevor Drown,7
+Phillips,PRECINCT 0007,Secretary of State,,REP,State Representative Trevor Drown,4
+Phillips,PRECINCT 0008,Secretary of State,,REP,State Representative Trevor Drown,0
+Phillips,PRECINCT 0009,Secretary of State,,REP,State Representative Trevor Drown,1
+Phillips,PRECINCT 0010,Secretary of State,,REP,State Representative Trevor Drown,2
+Phillips,PRECINCT 0011,Secretary of State,,REP,State Representative Trevor Drown,2
+Phillips,PRECINCT 0012,Secretary of State,,REP,State Representative Trevor Drown,0
+Phillips,PRECINCT 0013,Secretary of State,,REP,State Representative Trevor Drown,12
+Phillips,PRECINCT 0014,Secretary of State,,REP,State Representative Trevor Drown,1
+Phillips,PRECINCT 0015,Secretary of State,,REP,State Representative Trevor Drown,0
+Phillips,PRECINCT 0016,Secretary of State,,REP,State Representative Trevor Drown,1
+Phillips,PRECINCT 0017,Secretary of State,,REP,State Representative Trevor Drown,1
+Phillips,PRECINCT 0001,Secretary of State,,REP,John Thurston Commissioner of State Lands,1
+Phillips,PRECINCT 0002,Secretary of State,,REP,John Thurston Commissioner of State Lands,5
+Phillips,PRECINCT 0003,Secretary of State,,REP,John Thurston Commissioner of State Lands,11
+Phillips,PRECINCT 0004,Secretary of State,,REP,John Thurston Commissioner of State Lands,4
+Phillips,PRECINCT 0005,Secretary of State,,REP,John Thurston Commissioner of State Lands,9
+Phillips,PRECINCT 0006,Secretary of State,,REP,John Thurston Commissioner of State Lands,4
+Phillips,PRECINCT 0007,Secretary of State,,REP,John Thurston Commissioner of State Lands,13
+Phillips,PRECINCT 0008,Secretary of State,,REP,John Thurston Commissioner of State Lands,5
+Phillips,PRECINCT 0009,Secretary of State,,REP,John Thurston Commissioner of State Lands,4
+Phillips,PRECINCT 0010,Secretary of State,,REP,John Thurston Commissioner of State Lands,5
+Phillips,PRECINCT 0011,Secretary of State,,REP,John Thurston Commissioner of State Lands,4
+Phillips,PRECINCT 0012,Secretary of State,,REP,John Thurston Commissioner of State Lands,1
+Phillips,PRECINCT 0013,Secretary of State,,REP,John Thurston Commissioner of State Lands,10
+Phillips,PRECINCT 0014,Secretary of State,,REP,John Thurston Commissioner of State Lands,0
+Phillips,PRECINCT 0015,Secretary of State,,REP,John Thurston Commissioner of State Lands,0
+Phillips,PRECINCT 0016,Secretary of State,,REP,John Thurston Commissioner of State Lands,2
+Phillips,PRECINCT 0017,Secretary of State,,REP,John Thurston Commissioner of State Lands,2
+Phillips,PRECINCT 0001,State Supreme Court Associate Justice, Position 3,,David Sterling,55
+Phillips,PRECINCT 0002,State Supreme Court Associate Justice, Position 3,,David Sterling,14
+Phillips,PRECINCT 0003,State Supreme Court Associate Justice, Position 3,,David Sterling,43
+Phillips,PRECINCT 0004,State Supreme Court Associate Justice, Position 3,,David Sterling,59
+Phillips,PRECINCT 0005,State Supreme Court Associate Justice, Position 3,,David Sterling,53
+Phillips,PRECINCT 0006,State Supreme Court Associate Justice, Position 3,,David Sterling,61
+Phillips,PRECINCT 0007,State Supreme Court Associate Justice, Position 3,,David Sterling,49
+Phillips,PRECINCT 0008,State Supreme Court Associate Justice, Position 3,,David Sterling,25
+Phillips,PRECINCT 0009,State Supreme Court Associate Justice, Position 3,,David Sterling,28
+Phillips,PRECINCT 0010,State Supreme Court Associate Justice, Position 3,,David Sterling,32
+Phillips,PRECINCT 0011,State Supreme Court Associate Justice, Position 3,,David Sterling,18
+Phillips,PRECINCT 0012,State Supreme Court Associate Justice, Position 3,,David Sterling,11
+Phillips,PRECINCT 0013,State Supreme Court Associate Justice, Position 3,,David Sterling,50
+Phillips,PRECINCT 0014,State Supreme Court Associate Justice, Position 3,,David Sterling,17
+Phillips,PRECINCT 0015,State Supreme Court Associate Justice, Position 3,,David Sterling,19
+Phillips,PRECINCT 0016,State Supreme Court Associate Justice, Position 3,,David Sterling,19
+Phillips,PRECINCT 0017,State Supreme Court Associate Justice, Position 3,,David Sterling,4
+Phillips,PRECINCT 0001,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,145
+Phillips,PRECINCT 0002,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,22
+Phillips,PRECINCT 0003,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,147
+Phillips,PRECINCT 0004,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,146
+Phillips,PRECINCT 0005,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,122
+Phillips,PRECINCT 0006,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,142
+Phillips,PRECINCT 0007,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,82
+Phillips,PRECINCT 0008,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,51
+Phillips,PRECINCT 0009,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,47
+Phillips,PRECINCT 0010,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,69
+Phillips,PRECINCT 0011,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,50
+Phillips,PRECINCT 0012,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,11
+Phillips,PRECINCT 0013,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,91
+Phillips,PRECINCT 0014,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,22
+Phillips,PRECINCT 0015,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,41
+Phillips,PRECINCT 0016,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,44
+Phillips,PRECINCT 0017,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,8
+Phillips,PRECINCT 0001,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,59
+Phillips,PRECINCT 0002,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,12
+Phillips,PRECINCT 0003,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,82
+Phillips,PRECINCT 0004,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,63
+Phillips,PRECINCT 0005,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,49
+Phillips,PRECINCT 0006,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,48
+Phillips,PRECINCT 0007,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,55
+Phillips,PRECINCT 0008,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,31
+Phillips,PRECINCT 0009,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,24
+Phillips,PRECINCT 0010,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,48
+Phillips,PRECINCT 0011,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,24
+Phillips,PRECINCT 0012,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,30
+Phillips,PRECINCT 0013,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,51
+Phillips,PRECINCT 0014,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,17
+Phillips,PRECINCT 0015,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,18
+Phillips,PRECINCT 0016,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,41
+Phillips,PRECINCT 0017,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,11
+Phillips,PRECINCT 0001,Prosecuting Attorney,1,,"James Fitzgerald ""JF"" Valley",236
+Phillips,PRECINCT 0002,Prosecuting Attorney,1,,"James Fitzgerald ""JF"" Valley",32
+Phillips,PRECINCT 0003,Prosecuting Attorney,1,,"James Fitzgerald ""JF"" Valley",139
+Phillips,PRECINCT 0004,Prosecuting Attorney,1,,"James Fitzgerald ""JF"" Valley",206
+Phillips,PRECINCT 0005,Prosecuting Attorney,1,,"James Fitzgerald ""JF"" Valley",167
+Phillips,PRECINCT 0006,Prosecuting Attorney,1,,"James Fitzgerald ""JF"" Valley",225
+Phillips,PRECINCT 0007,Prosecuting Attorney,1,,"James Fitzgerald ""JF"" Valley",66
+Phillips,PRECINCT 0008,Prosecuting Attorney,1,,"James Fitzgerald ""JF"" Valley",47
+Phillips,PRECINCT 0009,Prosecuting Attorney,1,,"James Fitzgerald ""JF"" Valley",55
+Phillips,PRECINCT 0010,Prosecuting Attorney,1,,"James Fitzgerald ""JF"" Valley",29
+Phillips,PRECINCT 0011,Prosecuting Attorney,1,,"James Fitzgerald ""JF"" Valley",53
+Phillips,PRECINCT 0012,Prosecuting Attorney,1,,"James Fitzgerald ""JF"" Valley",39
+Phillips,PRECINCT 0013,Prosecuting Attorney,1,,"James Fitzgerald ""JF"" Valley",108
+Phillips,PRECINCT 0014,Prosecuting Attorney,1,,"James Fitzgerald ""JF"" Valley",16
+Phillips,PRECINCT 0015,Prosecuting Attorney,1,,"James Fitzgerald ""JF"" Valley",58
+Phillips,PRECINCT 0016,Prosecuting Attorney,1,,"James Fitzgerald ""JF"" Valley",103
+Phillips,PRECINCT 0017,Prosecuting Attorney,1,,"James Fitzgerald ""JF"" Valley",10
+Phillips,PRECINCT 0001,Prosecuting Attorney,1,,Todd Murray,59
+Phillips,PRECINCT 0002,Prosecuting Attorney,1,,Todd Murray,21
+Phillips,PRECINCT 0003,Prosecuting Attorney,1,,Todd Murray,168
+Phillips,PRECINCT 0004,Prosecuting Attorney,1,,Todd Murray,90
+Phillips,PRECINCT 0005,Prosecuting Attorney,1,,Todd Murray,78
+Phillips,PRECINCT 0006,Prosecuting Attorney,1,,Todd Murray,66
+Phillips,PRECINCT 0007,Prosecuting Attorney,1,,Todd Murray,134
+Phillips,PRECINCT 0008,Prosecuting Attorney,1,,Todd Murray,65
+Phillips,PRECINCT 0009,Prosecuting Attorney,1,,Todd Murray,58
+Phillips,PRECINCT 0010,Prosecuting Attorney,1,,Todd Murray,128
+Phillips,PRECINCT 0011,Prosecuting Attorney,1,,Todd Murray,51
+Phillips,PRECINCT 0012,Prosecuting Attorney,1,,Todd Murray,19
+Phillips,PRECINCT 0013,Prosecuting Attorney,1,,Todd Murray,115
+Phillips,PRECINCT 0014,Prosecuting Attorney,1,,Todd Murray,53
+Phillips,PRECINCT 0015,Prosecuting Attorney,1,,Todd Murray,26
+Phillips,PRECINCT 0016,Prosecuting Attorney,1,,Todd Murray,40
+Phillips,PRECINCT 0017,Prosecuting Attorney,1,,Todd Murray,6

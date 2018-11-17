@@ -1,0 +1,757 @@
+county,precinct,office,district,party,candidate,votes
+Jackson,AIRBASE,Governor,,REP,Jan Morgan,1
+Jackson,ALCORN,Governor,,REP,Jan Morgan,2
+Jackson,AMAGON,Governor,,REP,Jan Morgan,5
+Jackson,AUVERGNE,Governor,,REP,Jan Morgan,2
+Jackson,BEEDEVILLE,Governor,,REP,Jan Morgan,20
+Jackson,BLACKVILLE,Governor,,REP,Jan Morgan,0
+Jackson,CAMPBELL STATION,Governor,,REP,Jan Morgan,8
+Jackson,CROSSROAD-37,Governor,,REP,Jan Morgan,17
+Jackson,DENMARK,Governor,,REP,Jan Morgan,4
+Jackson,DIAZ,Governor,,REP,Jan Morgan,18
+Jackson,GOURDNECK-CITIZENSHIP,Governor,,REP,Jan Morgan,2
+Jackson,GREENHAW,Governor,,REP,Jan Morgan,6
+Jackson,GRUBBS,Governor,,REP,Jan Morgan,12
+Jackson,HICKORY GROVE,Governor,,REP,Jan Morgan,2
+Jackson,HORSESHOE,Governor,,REP,Jan Morgan,0
+Jackson,INGLESIDE,Governor,,REP,Jan Morgan,0
+Jackson,ISLAND,Governor,,REP,Jan Morgan,1
+Jackson,JACKSONPORT,Governor,,REP,Jan Morgan,4
+Jackson,LIBERTY,Governor,,REP,Jan Morgan,4
+Jackson,MACKS,Governor,,REP,Jan Morgan,0
+Jackson,NEW GLAISE,Governor,,REP,Jan Morgan,14
+Jackson,NEWPORT 2-A,Governor,,REP,Jan Morgan,2
+Jackson,NEWPORT 1-B,Governor,,REP,Jan Morgan,2
+Jackson,NEWPORT 1-A,Governor,,REP,Jan Morgan,2
+Jackson,NEWPORT 3-A,Governor,,REP,Jan Morgan,3
+Jackson,NEWPORT 3-B,Governor,,REP,Jan Morgan,14
+Jackson,NEWPORT 3-C,Governor,,REP,Jan Morgan,3
+Jackson,NEWPORT 2-C,Governor,,REP,Jan Morgan,16
+Jackson,NEWPORT 2-B,Governor,,REP,Jan Morgan,11
+Jackson,NEWPORT 4-A,Governor,,REP,Jan Morgan,30
+Jackson,NEWPORT 4-B,Governor,,REP,Jan Morgan,18
+Jackson,OLD GLAISE,Governor,,REP,Jan Morgan,0
+Jackson,OLYPHANT,Governor,,REP,Jan Morgan,0
+Jackson,PENNINGTON BALCH,Governor,,REP,Jan Morgan,0
+Jackson,REMMEL,Governor,,REP,Jan Morgan,7
+Jackson,SHOFFNER,Governor,,REP,Jan Morgan,3
+Jackson,SWIFTON,Governor,,REP,Jan Morgan,18
+Jackson,TUCKERMAN W1,Governor,,REP,Jan Morgan,6
+Jackson,TUCKERMAN W2,Governor,,REP,Jan Morgan,15
+Jackson,TUCKERMAN W3,Governor,,REP,Jan Morgan,13
+Jackson,TUCKERMAN OUTSIDE,Governor,,REP,Jan Morgan,3
+Jackson,TUPELO,Governor,,REP,Jan Morgan,0
+Jackson,WATERS STORE,Governor,,REP,Jan Morgan,1
+Jackson,WELDON,Governor,,REP,Jan Morgan,0
+Jackson,ALGOA,Governor,,REP,Jan Morgan,0
+Jackson,AIRBASE,Governor,,REP,Governor Asa Hutchinson,2
+Jackson,ALCORN,Governor,,REP,Governor Asa Hutchinson,5
+Jackson,AMAGON,Governor,,REP,Governor Asa Hutchinson,1
+Jackson,AUVERGNE,Governor,,REP,Governor Asa Hutchinson,1
+Jackson,BEEDEVILLE,Governor,,REP,Governor Asa Hutchinson,24
+Jackson,BLACKVILLE,Governor,,REP,Governor Asa Hutchinson,0
+Jackson,CAMPBELL STATION,Governor,,REP,Governor Asa Hutchinson,6
+Jackson,CROSSROAD-37,Governor,,REP,Governor Asa Hutchinson,19
+Jackson,DENMARK,Governor,,REP,Governor Asa Hutchinson,7
+Jackson,DIAZ,Governor,,REP,Governor Asa Hutchinson,32
+Jackson,GOURDNECK-CITIZENSHIP,Governor,,REP,Governor Asa Hutchinson,7
+Jackson,GREENHAW,Governor,,REP,Governor Asa Hutchinson,1
+Jackson,GRUBBS,Governor,,REP,Governor Asa Hutchinson,19
+Jackson,HICKORY GROVE,Governor,,REP,Governor Asa Hutchinson,1
+Jackson,HORSESHOE,Governor,,REP,Governor Asa Hutchinson,0
+Jackson,INGLESIDE,Governor,,REP,Governor Asa Hutchinson,0
+Jackson,ISLAND,Governor,,REP,Governor Asa Hutchinson,10
+Jackson,JACKSONPORT,Governor,,REP,Governor Asa Hutchinson,6
+Jackson,LIBERTY,Governor,,REP,Governor Asa Hutchinson,1
+Jackson,MACKS,Governor,,REP,Governor Asa Hutchinson,1
+Jackson,NEW GLAISE,Governor,,REP,Governor Asa Hutchinson,37
+Jackson,NEWPORT 2-A,Governor,,REP,Governor Asa Hutchinson,18
+Jackson,NEWPORT 1-B,Governor,,REP,Governor Asa Hutchinson,15
+Jackson,NEWPORT 1-A,Governor,,REP,Governor Asa Hutchinson,0
+Jackson,NEWPORT 3-A,Governor,,REP,Governor Asa Hutchinson,3
+Jackson,NEWPORT 3-B,Governor,,REP,Governor Asa Hutchinson,11
+Jackson,NEWPORT 3-C,Governor,,REP,Governor Asa Hutchinson,5
+Jackson,NEWPORT 2-C,Governor,,REP,Governor Asa Hutchinson,31
+Jackson,NEWPORT 2-B,Governor,,REP,Governor Asa Hutchinson,24
+Jackson,NEWPORT 4-A,Governor,,REP,Governor Asa Hutchinson,40
+Jackson,NEWPORT 4-B,Governor,,REP,Governor Asa Hutchinson,47
+Jackson,OLD GLAISE,Governor,,REP,Governor Asa Hutchinson,4
+Jackson,OLYPHANT,Governor,,REP,Governor Asa Hutchinson,0
+Jackson,PENNINGTON BALCH,Governor,,REP,Governor Asa Hutchinson,1
+Jackson,REMMEL,Governor,,REP,Governor Asa Hutchinson,5
+Jackson,SHOFFNER,Governor,,REP,Governor Asa Hutchinson,0
+Jackson,SWIFTON,Governor,,REP,Governor Asa Hutchinson,14
+Jackson,TUCKERMAN W1,Governor,,REP,Governor Asa Hutchinson,11
+Jackson,TUCKERMAN W2,Governor,,REP,Governor Asa Hutchinson,25
+Jackson,TUCKERMAN W3,Governor,,REP,Governor Asa Hutchinson,15
+Jackson,TUCKERMAN OUTSIDE,Governor,,REP,Governor Asa Hutchinson,8
+Jackson,TUPELO,Governor,,REP,Governor Asa Hutchinson,2
+Jackson,WATERS STORE,Governor,,REP,Governor Asa Hutchinson,4
+Jackson,WELDON,Governor,,REP,Governor Asa Hutchinson,3
+Jackson,ALGOA,Governor,,REP,Governor Asa Hutchinson,0
+Jackson,AIRBASE,Secretary of State,,REP,John Thurston Commissioner of State Lands,1
+Jackson,ALCORN,Secretary of State,,REP,John Thurston Commissioner of State Lands,4
+Jackson,AMAGON,Secretary of State,,REP,John Thurston Commissioner of State Lands,3
+Jackson,AUVERGNE,Secretary of State,,REP,John Thurston Commissioner of State Lands,0
+Jackson,BEEDEVILLE,Secretary of State,,REP,John Thurston Commissioner of State Lands,30
+Jackson,BLACKVILLE,Secretary of State,,REP,John Thurston Commissioner of State Lands,0
+Jackson,CAMPBELL STATION,Secretary of State,,REP,John Thurston Commissioner of State Lands,10
+Jackson,CROSSROAD-37,Secretary of State,,REP,John Thurston Commissioner of State Lands,22
+Jackson,DENMARK,Secretary of State,,REP,John Thurston Commissioner of State Lands,7
+Jackson,DIAZ,Secretary of State,,REP,John Thurston Commissioner of State Lands,30
+Jackson,GOURDNECK-CITIZENSHIP,Secretary of State,,REP,John Thurston Commissioner of State Lands,7
+Jackson,GREENHAW,Secretary of State,,REP,John Thurston Commissioner of State Lands,4
+Jackson,GRUBBS,Secretary of State,,REP,John Thurston Commissioner of State Lands,22
+Jackson,HICKORY GROVE,Secretary of State,,REP,John Thurston Commissioner of State Lands,3
+Jackson,HORSESHOE,Secretary of State,,REP,John Thurston Commissioner of State Lands,0
+Jackson,INGLESIDE,Secretary of State,,REP,John Thurston Commissioner of State Lands,0
+Jackson,ISLAND,Secretary of State,,REP,John Thurston Commissioner of State Lands,5
+Jackson,JACKSONPORT,Secretary of State,,REP,John Thurston Commissioner of State Lands,5
+Jackson,LIBERTY,Secretary of State,,REP,John Thurston Commissioner of State Lands,2
+Jackson,MACKS,Secretary of State,,REP,John Thurston Commissioner of State Lands,1
+Jackson,NEW GLAISE,Secretary of State,,REP,John Thurston Commissioner of State Lands,28
+Jackson,NEWPORT 2-A,Secretary of State,,REP,John Thurston Commissioner of State Lands,12
+Jackson,NEWPORT 1-B,Secretary of State,,REP,John Thurston Commissioner of State Lands,9
+Jackson,NEWPORT 1-A,Secretary of State,,REP,John Thurston Commissioner of State Lands,0
+Jackson,NEWPORT 3-A,Secretary of State,,REP,John Thurston Commissioner of State Lands,4
+Jackson,NEWPORT 3-B,Secretary of State,,REP,John Thurston Commissioner of State Lands,15
+Jackson,NEWPORT 3-C,Secretary of State,,REP,John Thurston Commissioner of State Lands,3
+Jackson,NEWPORT 2-C,Secretary of State,,REP,John Thurston Commissioner of State Lands,33
+Jackson,NEWPORT 2-B,Secretary of State,,REP,John Thurston Commissioner of State Lands,18
+Jackson,NEWPORT 4-A,Secretary of State,,REP,John Thurston Commissioner of State Lands,44
+Jackson,NEWPORT 4-B,Secretary of State,,REP,John Thurston Commissioner of State Lands,40
+Jackson,OLD GLAISE,Secretary of State,,REP,John Thurston Commissioner of State Lands,3
+Jackson,OLYPHANT,Secretary of State,,REP,John Thurston Commissioner of State Lands,0
+Jackson,PENNINGTON BALCH,Secretary of State,,REP,John Thurston Commissioner of State Lands,1
+Jackson,REMMEL,Secretary of State,,REP,John Thurston Commissioner of State Lands,5
+Jackson,SHOFFNER,Secretary of State,,REP,John Thurston Commissioner of State Lands,3
+Jackson,SWIFTON,Secretary of State,,REP,John Thurston Commissioner of State Lands,22
+Jackson,TUCKERMAN W1,Secretary of State,,REP,John Thurston Commissioner of State Lands,11
+Jackson,TUCKERMAN W2,Secretary of State,,REP,John Thurston Commissioner of State Lands,25
+Jackson,TUCKERMAN W3,Secretary of State,,REP,John Thurston Commissioner of State Lands,22
+Jackson,TUCKERMAN OUTSIDE,Secretary of State,,REP,John Thurston Commissioner of State Lands,7
+Jackson,TUPELO,Secretary of State,,REP,John Thurston Commissioner of State Lands,1
+Jackson,WATERS STORE,Secretary of State,,REP,John Thurston Commissioner of State Lands,3
+Jackson,WELDON,Secretary of State,,REP,John Thurston Commissioner of State Lands,2
+Jackson,ALGOA,Secretary of State,,REP,John Thurston Commissioner of State Lands,0
+Jackson,AIRBASE,Secretary of State,,REP,State Representative Trevor Drown,2
+Jackson,ALCORN,Secretary of State,,REP,State Representative Trevor Drown,2
+Jackson,AMAGON,Secretary of State,,REP,State Representative Trevor Drown,3
+Jackson,AUVERGNE,Secretary of State,,REP,State Representative Trevor Drown,2
+Jackson,BEEDEVILLE,Secretary of State,,REP,State Representative Trevor Drown,12
+Jackson,BLACKVILLE,Secretary of State,,REP,State Representative Trevor Drown,0
+Jackson,CAMPBELL STATION,Secretary of State,,REP,State Representative Trevor Drown,4
+Jackson,CROSSROAD-37,Secretary of State,,REP,State Representative Trevor Drown,12
+Jackson,DENMARK,Secretary of State,,REP,State Representative Trevor Drown,4
+Jackson,DIAZ,Secretary of State,,REP,State Representative Trevor Drown,17
+Jackson,GOURDNECK-CITIZENSHIP,Secretary of State,,REP,State Representative Trevor Drown,2
+Jackson,GREENHAW,Secretary of State,,REP,State Representative Trevor Drown,2
+Jackson,GRUBBS,Secretary of State,,REP,State Representative Trevor Drown,7
+Jackson,HICKORY GROVE,Secretary of State,,REP,State Representative Trevor Drown,0
+Jackson,HORSESHOE,Secretary of State,,REP,State Representative Trevor Drown,0
+Jackson,INGLESIDE,Secretary of State,,REP,State Representative Trevor Drown,0
+Jackson,ISLAND,Secretary of State,,REP,State Representative Trevor Drown,4
+Jackson,JACKSONPORT,Secretary of State,,REP,State Representative Trevor Drown,4
+Jackson,LIBERTY,Secretary of State,,REP,State Representative Trevor Drown,3
+Jackson,MACKS,Secretary of State,,REP,State Representative Trevor Drown,0
+Jackson,NEW GLAISE,Secretary of State,,REP,State Representative Trevor Drown,20
+Jackson,NEWPORT 2-A,Secretary of State,,REP,State Representative Trevor Drown,6
+Jackson,NEWPORT 1-B,Secretary of State,,REP,State Representative Trevor Drown,6
+Jackson,NEWPORT 1-A,Secretary of State,,REP,State Representative Trevor Drown,0
+Jackson,NEWPORT 3-A,Secretary of State,,REP,State Representative Trevor Drown,2
+Jackson,NEWPORT 3-B,Secretary of State,,REP,State Representative Trevor Drown,9
+Jackson,NEWPORT 3-C,Secretary of State,,REP,State Representative Trevor Drown,1
+Jackson,NEWPORT 2-C,Secretary of State,,REP,State Representative Trevor Drown,10
+Jackson,NEWPORT 2-B,Secretary of State,,REP,State Representative Trevor Drown,17
+Jackson,NEWPORT 4-A,Secretary of State,,REP,State Representative Trevor Drown,21
+Jackson,NEWPORT 4-B,Secretary of State,,REP,State Representative Trevor Drown,21
+Jackson,OLD GLAISE,Secretary of State,,REP,State Representative Trevor Drown,1
+Jackson,OLYPHANT,Secretary of State,,REP,State Representative Trevor Drown,0
+Jackson,PENNINGTON BALCH,Secretary of State,,REP,State Representative Trevor Drown,0
+Jackson,REMMEL,Secretary of State,,REP,State Representative Trevor Drown,5
+Jackson,SHOFFNER,Secretary of State,,REP,State Representative Trevor Drown,0
+Jackson,SWIFTON,Secretary of State,,REP,State Representative Trevor Drown,10
+Jackson,TUCKERMAN W1,Secretary of State,,REP,State Representative Trevor Drown,7
+Jackson,TUCKERMAN W2,Secretary of State,,REP,State Representative Trevor Drown,12
+Jackson,TUCKERMAN W3,Secretary of State,,REP,State Representative Trevor Drown,6
+Jackson,TUCKERMAN OUTSIDE,Secretary of State,,REP,State Representative Trevor Drown,4
+Jackson,TUPELO,Secretary of State,,REP,State Representative Trevor Drown,1
+Jackson,WATERS STORE,Secretary of State,,REP,State Representative Trevor Drown,2
+Jackson,WELDON,Secretary of State,,REP,State Representative Trevor Drown,1
+Jackson,ALGOA,Secretary of State,,REP,State Representative Trevor Drown,0
+Jackson,AIRBASE,JACKSON COUNTY SHERIFF,,,RICKY MORALES,1
+Jackson,ALCORN,JACKSON COUNTY SHERIFF,,,RICKY MORALES,6
+Jackson,AMAGON,JACKSON COUNTY SHERIFF,,,RICKY MORALES,3
+Jackson,AUVERGNE,JACKSON COUNTY SHERIFF,,,RICKY MORALES,3
+Jackson,BEEDEVILLE,JACKSON COUNTY SHERIFF,,,RICKY MORALES,13
+Jackson,BLACKVILLE,JACKSON COUNTY SHERIFF,,,RICKY MORALES,0
+Jackson,CAMPBELL STATION,JACKSON COUNTY SHERIFF,,,RICKY MORALES,13
+Jackson,CROSSROAD-37,JACKSON COUNTY SHERIFF,,,RICKY MORALES,23
+Jackson,DENMARK,JACKSON COUNTY SHERIFF,,,RICKY MORALES,7
+Jackson,DIAZ,JACKSON COUNTY SHERIFF,,,RICKY MORALES,34
+Jackson,GOURDNECK-CITIZENSHIP,JACKSON COUNTY SHERIFF,,,RICKY MORALES,3
+Jackson,GREENHAW,JACKSON COUNTY SHERIFF,,,RICKY MORALES,5
+Jackson,GRUBBS,JACKSON COUNTY SHERIFF,,,RICKY MORALES,15
+Jackson,HICKORY GROVE,JACKSON COUNTY SHERIFF,,,RICKY MORALES,3
+Jackson,HORSESHOE,JACKSON COUNTY SHERIFF,,,RICKY MORALES,0
+Jackson,INGLESIDE,JACKSON COUNTY SHERIFF,,,RICKY MORALES,0
+Jackson,ISLAND,JACKSON COUNTY SHERIFF,,,RICKY MORALES,8
+Jackson,JACKSONPORT,JACKSON COUNTY SHERIFF,,,RICKY MORALES,5
+Jackson,LIBERTY,JACKSON COUNTY SHERIFF,,,RICKY MORALES,4
+Jackson,MACKS,JACKSON COUNTY SHERIFF,,,RICKY MORALES,0
+Jackson,NEW GLAISE,JACKSON COUNTY SHERIFF,,,RICKY MORALES,36
+Jackson,NEWPORT 2-A,JACKSON COUNTY SHERIFF,,,RICKY MORALES,8
+Jackson,NEWPORT 1-B,JACKSON COUNTY SHERIFF,,,RICKY MORALES,14
+Jackson,NEWPORT 1-A,JACKSON COUNTY SHERIFF,,,RICKY MORALES,2
+Jackson,NEWPORT 3-A,JACKSON COUNTY SHERIFF,,,RICKY MORALES,4
+Jackson,NEWPORT 3-B,JACKSON COUNTY SHERIFF,,,RICKY MORALES,15
+Jackson,NEWPORT 3-C,JACKSON COUNTY SHERIFF,,,RICKY MORALES,5
+Jackson,NEWPORT 2-C,JACKSON COUNTY SHERIFF,,,RICKY MORALES,31
+Jackson,NEWPORT 2-B,JACKSON COUNTY SHERIFF,,,RICKY MORALES,22
+Jackson,NEWPORT 4-A,JACKSON COUNTY SHERIFF,,,RICKY MORALES,50
+Jackson,NEWPORT 4-B,JACKSON COUNTY SHERIFF,,,RICKY MORALES,48
+Jackson,OLD GLAISE,JACKSON COUNTY SHERIFF,,,RICKY MORALES,3
+Jackson,OLYPHANT,JACKSON COUNTY SHERIFF,,,RICKY MORALES,0
+Jackson,PENNINGTON BALCH,JACKSON COUNTY SHERIFF,,,RICKY MORALES,1
+Jackson,REMMEL,JACKSON COUNTY SHERIFF,,,RICKY MORALES,11
+Jackson,SHOFFNER,JACKSON COUNTY SHERIFF,,,RICKY MORALES,1
+Jackson,SWIFTON,JACKSON COUNTY SHERIFF,,,RICKY MORALES,15
+Jackson,TUCKERMAN W1,JACKSON COUNTY SHERIFF,,,RICKY MORALES,15
+Jackson,TUCKERMAN W2,JACKSON COUNTY SHERIFF,,,RICKY MORALES,26
+Jackson,TUCKERMAN W3,JACKSON COUNTY SHERIFF,,,RICKY MORALES,18
+Jackson,TUCKERMAN OUTSIDE,JACKSON COUNTY SHERIFF,,,RICKY MORALES,7
+Jackson,TUPELO,JACKSON COUNTY SHERIFF,,,RICKY MORALES,2
+Jackson,WATERS STORE,JACKSON COUNTY SHERIFF,,,RICKY MORALES,0
+Jackson,WELDON,JACKSON COUNTY SHERIFF,,,RICKY MORALES,1
+Jackson,ALGOA,JACKSON COUNTY SHERIFF,,,RICKY MORALES,0
+Jackson,AIRBASE,JACKSON COUNTY SHERIFF,,,JASPER BEEDE,1
+Jackson,ALCORN,JACKSON COUNTY SHERIFF,,,JASPER BEEDE,0
+Jackson,AMAGON,JACKSON COUNTY SHERIFF,,,JASPER BEEDE,3
+Jackson,AUVERGNE,JACKSON COUNTY SHERIFF,,,JASPER BEEDE,0
+Jackson,BEEDEVILLE,JACKSON COUNTY SHERIFF,,,JASPER BEEDE,31
+Jackson,BLACKVILLE,JACKSON COUNTY SHERIFF,,,JASPER BEEDE,0
+Jackson,CAMPBELL STATION,JACKSON COUNTY SHERIFF,,,JASPER BEEDE,1
+Jackson,CROSSROAD-37,JACKSON COUNTY SHERIFF,,,JASPER BEEDE,12
+Jackson,DENMARK,JACKSON COUNTY SHERIFF,,,JASPER BEEDE,4
+Jackson,DIAZ,JACKSON COUNTY SHERIFF,,,JASPER BEEDE,12
+Jackson,GOURDNECK-CITIZENSHIP,JACKSON COUNTY SHERIFF,,,JASPER BEEDE,6
+Jackson,GREENHAW,JACKSON COUNTY SHERIFF,,,JASPER BEEDE,2
+Jackson,GRUBBS,JACKSON COUNTY SHERIFF,,,JASPER BEEDE,15
+Jackson,HICKORY GROVE,JACKSON COUNTY SHERIFF,,,JASPER BEEDE,0
+Jackson,HORSESHOE,JACKSON COUNTY SHERIFF,,,JASPER BEEDE,0
+Jackson,INGLESIDE,JACKSON COUNTY SHERIFF,,,JASPER BEEDE,0
+Jackson,ISLAND,JACKSON COUNTY SHERIFF,,,JASPER BEEDE,3
+Jackson,JACKSONPORT,JACKSON COUNTY SHERIFF,,,JASPER BEEDE,5
+Jackson,LIBERTY,JACKSON COUNTY SHERIFF,,,JASPER BEEDE,1
+Jackson,MACKS,JACKSON COUNTY SHERIFF,,,JASPER BEEDE,1
+Jackson,NEW GLAISE,JACKSON COUNTY SHERIFF,,,JASPER BEEDE,10
+Jackson,NEWPORT 2-A,JACKSON COUNTY SHERIFF,,,JASPER BEEDE,10
+Jackson,NEWPORT 1-B,JACKSON COUNTY SHERIFF,,,JASPER BEEDE,3
+Jackson,NEWPORT 1-A,JACKSON COUNTY SHERIFF,,,JASPER BEEDE,1
+Jackson,NEWPORT 3-A,JACKSON COUNTY SHERIFF,,,JASPER BEEDE,2
+Jackson,NEWPORT 3-B,JACKSON COUNTY SHERIFF,,,JASPER BEEDE,7
+Jackson,NEWPORT 3-C,JACKSON COUNTY SHERIFF,,,JASPER BEEDE,2
+Jackson,NEWPORT 2-C,JACKSON COUNTY SHERIFF,,,JASPER BEEDE,13
+Jackson,NEWPORT 2-B,JACKSON COUNTY SHERIFF,,,JASPER BEEDE,12
+Jackson,NEWPORT 4-A,JACKSON COUNTY SHERIFF,,,JASPER BEEDE,15
+Jackson,NEWPORT 4-B,JACKSON COUNTY SHERIFF,,,JASPER BEEDE,17
+Jackson,OLD GLAISE,JACKSON COUNTY SHERIFF,,,JASPER BEEDE,1
+Jackson,OLYPHANT,JACKSON COUNTY SHERIFF,,,JASPER BEEDE,0
+Jackson,PENNINGTON BALCH,JACKSON COUNTY SHERIFF,,,JASPER BEEDE,0
+Jackson,REMMEL,JACKSON COUNTY SHERIFF,,,JASPER BEEDE,0
+Jackson,SHOFFNER,JACKSON COUNTY SHERIFF,,,JASPER BEEDE,2
+Jackson,SWIFTON,JACKSON COUNTY SHERIFF,,,JASPER BEEDE,18
+Jackson,TUCKERMAN W1,JACKSON COUNTY SHERIFF,,,JASPER BEEDE,3
+Jackson,TUCKERMAN W2,JACKSON COUNTY SHERIFF,,,JASPER BEEDE,14
+Jackson,TUCKERMAN W3,JACKSON COUNTY SHERIFF,,,JASPER BEEDE,10
+Jackson,TUCKERMAN OUTSIDE,JACKSON COUNTY SHERIFF,,,JASPER BEEDE,4
+Jackson,TUPELO,JACKSON COUNTY SHERIFF,,,JASPER BEEDE,0
+Jackson,WATERS STORE,JACKSON COUNTY SHERIFF,,,JASPER BEEDE,5
+Jackson,WELDON,JACKSON COUNTY SHERIFF,,,JASPER BEEDE,2
+Jackson,ALGOA,JACKSON COUNTY SHERIFF,,,JASPER BEEDE,0
+Jackson,AIRBASE,JACKSON COUNTY CIRCUIT CLERK,,,BARBARA METZGER HACKNEY,2
+Jackson,ALCORN,JACKSON COUNTY CIRCUIT CLERK,,,BARBARA METZGER HACKNEY,6
+Jackson,AMAGON,JACKSON COUNTY CIRCUIT CLERK,,,BARBARA METZGER HACKNEY,6
+Jackson,AUVERGNE,JACKSON COUNTY CIRCUIT CLERK,,,BARBARA METZGER HACKNEY,3
+Jackson,BEEDEVILLE,JACKSON COUNTY CIRCUIT CLERK,,,BARBARA METZGER HACKNEY,44
+Jackson,BLACKVILLE,JACKSON COUNTY CIRCUIT CLERK,,,BARBARA METZGER HACKNEY,0
+Jackson,CAMPBELL STATION,JACKSON COUNTY CIRCUIT CLERK,,,BARBARA METZGER HACKNEY,13
+Jackson,CROSSROAD-37,JACKSON COUNTY CIRCUIT CLERK,,,BARBARA METZGER HACKNEY,35
+Jackson,DENMARK,JACKSON COUNTY CIRCUIT CLERK,,,BARBARA METZGER HACKNEY,11
+Jackson,DIAZ,JACKSON COUNTY CIRCUIT CLERK,,,BARBARA METZGER HACKNEY,46
+Jackson,GOURDNECK-CITIZENSHIP,JACKSON COUNTY CIRCUIT CLERK,,,BARBARA METZGER HACKNEY,9
+Jackson,GREENHAW,JACKSON COUNTY CIRCUIT CLERK,,,BARBARA METZGER HACKNEY,6
+Jackson,GRUBBS,JACKSON COUNTY CIRCUIT CLERK,,,BARBARA METZGER HACKNEY,25
+Jackson,HICKORY GROVE,JACKSON COUNTY CIRCUIT CLERK,,,BARBARA METZGER HACKNEY,3
+Jackson,HORSESHOE,JACKSON COUNTY CIRCUIT CLERK,,,BARBARA METZGER HACKNEY,0
+Jackson,INGLESIDE,JACKSON COUNTY CIRCUIT CLERK,,,BARBARA METZGER HACKNEY,0
+Jackson,ISLAND,JACKSON COUNTY CIRCUIT CLERK,,,BARBARA METZGER HACKNEY,9
+Jackson,JACKSONPORT,JACKSON COUNTY CIRCUIT CLERK,,,BARBARA METZGER HACKNEY,8
+Jackson,LIBERTY,JACKSON COUNTY CIRCUIT CLERK,,,BARBARA METZGER HACKNEY,5
+Jackson,MACKS,JACKSON COUNTY CIRCUIT CLERK,,,BARBARA METZGER HACKNEY,1
+Jackson,NEW GLAISE,JACKSON COUNTY CIRCUIT CLERK,,,BARBARA METZGER HACKNEY,43
+Jackson,NEWPORT 2-A,JACKSON COUNTY CIRCUIT CLERK,,,BARBARA METZGER HACKNEY,20
+Jackson,NEWPORT 1-B,JACKSON COUNTY CIRCUIT CLERK,,,BARBARA METZGER HACKNEY,15
+Jackson,NEWPORT 1-A,JACKSON COUNTY CIRCUIT CLERK,,,BARBARA METZGER HACKNEY,0
+Jackson,NEWPORT 3-A,JACKSON COUNTY CIRCUIT CLERK,,,BARBARA METZGER HACKNEY,6
+Jackson,NEWPORT 3-B,JACKSON COUNTY CIRCUIT CLERK,,,BARBARA METZGER HACKNEY,23
+Jackson,NEWPORT 3-C,JACKSON COUNTY CIRCUIT CLERK,,,BARBARA METZGER HACKNEY,6
+Jackson,NEWPORT 2-C,JACKSON COUNTY CIRCUIT CLERK,,,BARBARA METZGER HACKNEY,42
+Jackson,NEWPORT 2-B,JACKSON COUNTY CIRCUIT CLERK,,,BARBARA METZGER HACKNEY,31
+Jackson,NEWPORT 4-A,JACKSON COUNTY CIRCUIT CLERK,,,BARBARA METZGER HACKNEY,62
+Jackson,NEWPORT 4-B,JACKSON COUNTY CIRCUIT CLERK,,,BARBARA METZGER HACKNEY,62
+Jackson,OLD GLAISE,JACKSON COUNTY CIRCUIT CLERK,,,BARBARA METZGER HACKNEY,4
+Jackson,OLYPHANT,JACKSON COUNTY CIRCUIT CLERK,,,BARBARA METZGER HACKNEY,0
+Jackson,PENNINGTON BALCH,JACKSON COUNTY CIRCUIT CLERK,,,BARBARA METZGER HACKNEY,1
+Jackson,REMMEL,JACKSON COUNTY CIRCUIT CLERK,,,BARBARA METZGER HACKNEY,10
+Jackson,SHOFFNER,JACKSON COUNTY CIRCUIT CLERK,,,BARBARA METZGER HACKNEY,2
+Jackson,SWIFTON,JACKSON COUNTY CIRCUIT CLERK,,,BARBARA METZGER HACKNEY,33
+Jackson,TUCKERMAN W1,JACKSON COUNTY CIRCUIT CLERK,,,BARBARA METZGER HACKNEY,17
+Jackson,TUCKERMAN W2,JACKSON COUNTY CIRCUIT CLERK,,,BARBARA METZGER HACKNEY,39
+Jackson,TUCKERMAN W3,JACKSON COUNTY CIRCUIT CLERK,,,BARBARA METZGER HACKNEY,22
+Jackson,TUCKERMAN OUTSIDE,JACKSON COUNTY CIRCUIT CLERK,,,BARBARA METZGER HACKNEY,9
+Jackson,TUPELO,JACKSON COUNTY CIRCUIT CLERK,,,BARBARA METZGER HACKNEY,2
+Jackson,WATERS STORE,JACKSON COUNTY CIRCUIT CLERK,,,BARBARA METZGER HACKNEY,4
+Jackson,WELDON,JACKSON COUNTY CIRCUIT CLERK,,,BARBARA METZGER HACKNEY,3
+Jackson,ALGOA,JACKSON COUNTY CIRCUIT CLERK,,,BARBARA METZGER HACKNEY,0
+Jackson,AIRBASE,MAYOR NEWPORT,,,SCOTT WHITMIRE,2
+Jackson,NEWPORT 2-A,MAYOR NEWPORT,,,SCOTT WHITMIRE,13
+Jackson,NEWPORT 1-B,MAYOR NEWPORT,,,SCOTT WHITMIRE,13
+Jackson,NEWPORT 1-A,MAYOR NEWPORT,,,SCOTT WHITMIRE,0
+Jackson,NEWPORT 3-A,MAYOR NEWPORT,,,SCOTT WHITMIRE,5
+Jackson,NEWPORT 3-B,MAYOR NEWPORT,,,SCOTT WHITMIRE,22
+Jackson,NEWPORT 3-C,MAYOR NEWPORT,,,SCOTT WHITMIRE,4
+Jackson,NEWPORT 2-C,MAYOR NEWPORT,,,SCOTT WHITMIRE,35
+Jackson,NEWPORT 2-B,MAYOR NEWPORT,,,SCOTT WHITMIRE,28
+Jackson,NEWPORT 4-A,MAYOR NEWPORT,,,SCOTT WHITMIRE,53
+Jackson,NEWPORT 4-B,MAYOR NEWPORT,,,SCOTT WHITMIRE,54
+Jackson,TUCKERMAN W1,BIRD TOWNSHIP CONSTABLE BIRD,,,"CHRISTOPHER ""LANCE"" IVIE",7
+Jackson,TUCKERMAN W2,BIRD TOWNSHIP CONSTABLE BIRD,,,"CHRISTOPHER ""LANCE"" IVIE",11
+Jackson,TUCKERMAN W3,BIRD TOWNSHIP CONSTABLE BIRD,,,"CHRISTOPHER ""LANCE"" IVIE",4
+Jackson,TUCKERMAN OUTSIDE,BIRD TOWNSHIP CONSTABLE BIRD,,,"CHRISTOPHER ""LANCE"" IVIE",1
+Jackson,WATERS STORE,BIRD TOWNSHIP CONSTABLE BIRD,,,"CHRISTOPHER ""LANCE"" IVIE",4
+Jackson,TUCKERMAN W1,BIRD TOWNSHIP CONSTABLE BIRD,,,JUSTIN STAGGS,11
+Jackson,TUCKERMAN W2,BIRD TOWNSHIP CONSTABLE BIRD,,,JUSTIN STAGGS,24
+Jackson,TUCKERMAN W3,BIRD TOWNSHIP CONSTABLE BIRD,,,JUSTIN STAGGS,23
+Jackson,TUCKERMAN OUTSIDE,BIRD TOWNSHIP CONSTABLE BIRD,,,JUSTIN STAGGS,7
+Jackson,WATERS STORE,BIRD TOWNSHIP CONSTABLE BIRD,,,JUSTIN STAGGS,0
+Jackson,AIRBASE,Governor,,DEM,Jared K. Henderson,1
+Jackson,ALCORN,Governor,,DEM,Jared K. Henderson,7
+Jackson,AMAGON,Governor,,DEM,Jared K. Henderson,3
+Jackson,AUVERGNE,Governor,,DEM,Jared K. Henderson,2
+Jackson,BEEDEVILLE,Governor,,DEM,Jared K. Henderson,7
+Jackson,BLACKVILLE,Governor,,DEM,Jared K. Henderson,0
+Jackson,CAMPBELL STATION,Governor,,DEM,Jared K. Henderson,4
+Jackson,CROSSROAD-37,Governor,,DEM,Jared K. Henderson,11
+Jackson,DENMARK,Governor,,DEM,Jared K. Henderson,2
+Jackson,DIAZ,Governor,,DEM,Jared K. Henderson,29
+Jackson,GOURDNECK-CITIZENSHIP,Governor,,DEM,Jared K. Henderson,1
+Jackson,GREENHAW,Governor,,DEM,Jared K. Henderson,1
+Jackson,GRUBBS,Governor,,DEM,Jared K. Henderson,14
+Jackson,HICKORY GROVE,Governor,,DEM,Jared K. Henderson,0
+Jackson,HORSESHOE,Governor,,DEM,Jared K. Henderson,1
+Jackson,INGLESIDE,Governor,,DEM,Jared K. Henderson,0
+Jackson,ISLAND,Governor,,DEM,Jared K. Henderson,8
+Jackson,JACKSONPORT,Governor,,DEM,Jared K. Henderson,2
+Jackson,LIBERTY,Governor,,DEM,Jared K. Henderson,1
+Jackson,MACKS,Governor,,DEM,Jared K. Henderson,3
+Jackson,NEW GLAISE,Governor,,DEM,Jared K. Henderson,3
+Jackson,NEWPORT 2-A,Governor,,DEM,Jared K. Henderson,20
+Jackson,NEWPORT 1-B,Governor,,DEM,Jared K. Henderson,15
+Jackson,NEWPORT 1-A,Governor,,DEM,Jared K. Henderson,5
+Jackson,NEWPORT 3-A,Governor,,DEM,Jared K. Henderson,12
+Jackson,NEWPORT 3-B,Governor,,DEM,Jared K. Henderson,6
+Jackson,NEWPORT 3-C,Governor,,DEM,Jared K. Henderson,6
+Jackson,NEWPORT 2-C,Governor,,DEM,Jared K. Henderson,23
+Jackson,NEWPORT 2-B,Governor,,DEM,Jared K. Henderson,46
+Jackson,NEWPORT 4-A,Governor,,DEM,Jared K. Henderson,58
+Jackson,NEWPORT 4-B,Governor,,DEM,Jared K. Henderson,31
+Jackson,OLD GLAISE,Governor,,DEM,Jared K. Henderson,1
+Jackson,OLYPHANT,Governor,,DEM,Jared K. Henderson,0
+Jackson,PENNINGTON BALCH,Governor,,DEM,Jared K. Henderson,8
+Jackson,REMMEL,Governor,,DEM,Jared K. Henderson,3
+Jackson,SHOFFNER,Governor,,DEM,Jared K. Henderson,0
+Jackson,SWIFTON,Governor,,DEM,Jared K. Henderson,37
+Jackson,TUCKERMAN W1,Governor,,DEM,Jared K. Henderson,30
+Jackson,TUCKERMAN W2,Governor,,DEM,Jared K. Henderson,41
+Jackson,TUCKERMAN W3,Governor,,DEM,Jared K. Henderson,35
+Jackson,TUCKERMAN OUTSIDE,Governor,,DEM,Jared K. Henderson,14
+Jackson,TUPELO,Governor,,DEM,Jared K. Henderson,11
+Jackson,WATERS STORE,Governor,,DEM,Jared K. Henderson,3
+Jackson,WELDON,Governor,,DEM,Jared K. Henderson,1
+Jackson,ALGOA,Governor,,DEM,Jared K. Henderson,0
+Jackson,AIRBASE,Governor,,DEM,Leticia Sanders,1
+Jackson,ALCORN,Governor,,DEM,Leticia Sanders,8
+Jackson,AMAGON,Governor,,DEM,Leticia Sanders,0
+Jackson,AUVERGNE,Governor,,DEM,Leticia Sanders,1
+Jackson,BEEDEVILLE,Governor,,DEM,Leticia Sanders,0
+Jackson,BLACKVILLE,Governor,,DEM,Leticia Sanders,0
+Jackson,CAMPBELL STATION,Governor,,DEM,Leticia Sanders,0
+Jackson,CROSSROAD-37,Governor,,DEM,Leticia Sanders,2
+Jackson,DENMARK,Governor,,DEM,Leticia Sanders,3
+Jackson,DIAZ,Governor,,DEM,Leticia Sanders,10
+Jackson,GOURDNECK-CITIZENSHIP,Governor,,DEM,Leticia Sanders,0
+Jackson,GREENHAW,Governor,,DEM,Leticia Sanders,0
+Jackson,GRUBBS,Governor,,DEM,Leticia Sanders,4
+Jackson,HICKORY GROVE,Governor,,DEM,Leticia Sanders,4
+Jackson,HORSESHOE,Governor,,DEM,Leticia Sanders,0
+Jackson,INGLESIDE,Governor,,DEM,Leticia Sanders,0
+Jackson,ISLAND,Governor,,DEM,Leticia Sanders,0
+Jackson,JACKSONPORT,Governor,,DEM,Leticia Sanders,0
+Jackson,LIBERTY,Governor,,DEM,Leticia Sanders,0
+Jackson,MACKS,Governor,,DEM,Leticia Sanders,0
+Jackson,NEW GLAISE,Governor,,DEM,Leticia Sanders,3
+Jackson,NEWPORT 2-A,Governor,,DEM,Leticia Sanders,4
+Jackson,NEWPORT 1-B,Governor,,DEM,Leticia Sanders,9
+Jackson,NEWPORT 1-A,Governor,,DEM,Leticia Sanders,7
+Jackson,NEWPORT 3-A,Governor,,DEM,Leticia Sanders,2
+Jackson,NEWPORT 3-B,Governor,,DEM,Leticia Sanders,0
+Jackson,NEWPORT 3-C,Governor,,DEM,Leticia Sanders,13
+Jackson,NEWPORT 2-C,Governor,,DEM,Leticia Sanders,8
+Jackson,NEWPORT 2-B,Governor,,DEM,Leticia Sanders,18
+Jackson,NEWPORT 4-A,Governor,,DEM,Leticia Sanders,13
+Jackson,NEWPORT 4-B,Governor,,DEM,Leticia Sanders,17
+Jackson,OLD GLAISE,Governor,,DEM,Leticia Sanders,0
+Jackson,OLYPHANT,Governor,,DEM,Leticia Sanders,0
+Jackson,PENNINGTON BALCH,Governor,,DEM,Leticia Sanders,4
+Jackson,REMMEL,Governor,,DEM,Leticia Sanders,1
+Jackson,SHOFFNER,Governor,,DEM,Leticia Sanders,0
+Jackson,SWIFTON,Governor,,DEM,Leticia Sanders,12
+Jackson,TUCKERMAN W1,Governor,,DEM,Leticia Sanders,15
+Jackson,TUCKERMAN W2,Governor,,DEM,Leticia Sanders,10
+Jackson,TUCKERMAN W3,Governor,,DEM,Leticia Sanders,11
+Jackson,TUCKERMAN OUTSIDE,Governor,,DEM,Leticia Sanders,2
+Jackson,TUPELO,Governor,,DEM,Leticia Sanders,1
+Jackson,WATERS STORE,Governor,,DEM,Leticia Sanders,0
+Jackson,WELDON,Governor,,DEM,Leticia Sanders,0
+Jackson,ALGOA,Governor,,DEM,Leticia Sanders,0
+Jackson,AIRBASE,JACKSON COUNTY CIRCUIT CLERK,,,KAREN FORTUNE CATHEY,1
+Jackson,ALCORN,JACKSON COUNTY CIRCUIT CLERK,,,KAREN FORTUNE CATHEY,10
+Jackson,AMAGON,JACKSON COUNTY CIRCUIT CLERK,,,KAREN FORTUNE CATHEY,2
+Jackson,AUVERGNE,JACKSON COUNTY CIRCUIT CLERK,,,KAREN FORTUNE CATHEY,3
+Jackson,BEEDEVILLE,JACKSON COUNTY CIRCUIT CLERK,,,KAREN FORTUNE CATHEY,8
+Jackson,BLACKVILLE,JACKSON COUNTY CIRCUIT CLERK,,,KAREN FORTUNE CATHEY,0
+Jackson,CAMPBELL STATION,JACKSON COUNTY CIRCUIT CLERK,,,KAREN FORTUNE CATHEY,1
+Jackson,CROSSROAD-37,JACKSON COUNTY CIRCUIT CLERK,,,KAREN FORTUNE CATHEY,9
+Jackson,DENMARK,JACKSON COUNTY CIRCUIT CLERK,,,KAREN FORTUNE CATHEY,2
+Jackson,DIAZ,JACKSON COUNTY CIRCUIT CLERK,,,KAREN FORTUNE CATHEY,31
+Jackson,GOURDNECK-CITIZENSHIP,JACKSON COUNTY CIRCUIT CLERK,,,KAREN FORTUNE CATHEY,1
+Jackson,GREENHAW,JACKSON COUNTY CIRCUIT CLERK,,,KAREN FORTUNE CATHEY,1
+Jackson,GRUBBS,JACKSON COUNTY CIRCUIT CLERK,,,KAREN FORTUNE CATHEY,13
+Jackson,HICKORY GROVE,JACKSON COUNTY CIRCUIT CLERK,,,KAREN FORTUNE CATHEY,1
+Jackson,HORSESHOE,JACKSON COUNTY CIRCUIT CLERK,,,KAREN FORTUNE CATHEY,0
+Jackson,INGLESIDE,JACKSON COUNTY CIRCUIT CLERK,,,KAREN FORTUNE CATHEY,0
+Jackson,ISLAND,JACKSON COUNTY CIRCUIT CLERK,,,KAREN FORTUNE CATHEY,7
+Jackson,JACKSONPORT,JACKSON COUNTY CIRCUIT CLERK,,,KAREN FORTUNE CATHEY,2
+Jackson,LIBERTY,JACKSON COUNTY CIRCUIT CLERK,,,KAREN FORTUNE CATHEY,0
+Jackson,MACKS,JACKSON COUNTY CIRCUIT CLERK,,,KAREN FORTUNE CATHEY,2
+Jackson,NEW GLAISE,JACKSON COUNTY CIRCUIT CLERK,,,KAREN FORTUNE CATHEY,5
+Jackson,NEWPORT 2-A,JACKSON COUNTY CIRCUIT CLERK,,,KAREN FORTUNE CATHEY,24
+Jackson,NEWPORT 1-B,JACKSON COUNTY CIRCUIT CLERK,,,KAREN FORTUNE CATHEY,18
+Jackson,NEWPORT 1-A,JACKSON COUNTY CIRCUIT CLERK,,,KAREN FORTUNE CATHEY,11
+Jackson,NEWPORT 3-A,JACKSON COUNTY CIRCUIT CLERK,,,KAREN FORTUNE CATHEY,9
+Jackson,NEWPORT 3-B,JACKSON COUNTY CIRCUIT CLERK,,,KAREN FORTUNE CATHEY,5
+Jackson,NEWPORT 3-C,JACKSON COUNTY CIRCUIT CLERK,,,KAREN FORTUNE CATHEY,17
+Jackson,NEWPORT 2-C,JACKSON COUNTY CIRCUIT CLERK,,,KAREN FORTUNE CATHEY,30
+Jackson,NEWPORT 2-B,JACKSON COUNTY CIRCUIT CLERK,,,KAREN FORTUNE CATHEY,64
+Jackson,NEWPORT 4-A,JACKSON COUNTY CIRCUIT CLERK,,,KAREN FORTUNE CATHEY,83
+Jackson,NEWPORT 4-B,JACKSON COUNTY CIRCUIT CLERK,,,KAREN FORTUNE CATHEY,41
+Jackson,OLD GLAISE,JACKSON COUNTY CIRCUIT CLERK,,,KAREN FORTUNE CATHEY,1
+Jackson,OLYPHANT,JACKSON COUNTY CIRCUIT CLERK,,,KAREN FORTUNE CATHEY,0
+Jackson,PENNINGTON BALCH,JACKSON COUNTY CIRCUIT CLERK,,,KAREN FORTUNE CATHEY,11
+Jackson,REMMEL,JACKSON COUNTY CIRCUIT CLERK,,,KAREN FORTUNE CATHEY,4
+Jackson,SHOFFNER,JACKSON COUNTY CIRCUIT CLERK,,,KAREN FORTUNE CATHEY,0
+Jackson,SWIFTON,JACKSON COUNTY CIRCUIT CLERK,,,KAREN FORTUNE CATHEY,12
+Jackson,TUCKERMAN W1,JACKSON COUNTY CIRCUIT CLERK,,,KAREN FORTUNE CATHEY,27
+Jackson,TUCKERMAN W2,JACKSON COUNTY CIRCUIT CLERK,,,KAREN FORTUNE CATHEY,32
+Jackson,TUCKERMAN W3,JACKSON COUNTY CIRCUIT CLERK,,,KAREN FORTUNE CATHEY,23
+Jackson,TUCKERMAN OUTSIDE,JACKSON COUNTY CIRCUIT CLERK,,,KAREN FORTUNE CATHEY,12
+Jackson,TUPELO,JACKSON COUNTY CIRCUIT CLERK,,,KAREN FORTUNE CATHEY,10
+Jackson,WATERS STORE,JACKSON COUNTY CIRCUIT CLERK,,,KAREN FORTUNE CATHEY,2
+Jackson,WELDON,JACKSON COUNTY CIRCUIT CLERK,,,KAREN FORTUNE CATHEY,1
+Jackson,ALGOA,JACKSON COUNTY CIRCUIT CLERK,,,KAREN FORTUNE CATHEY,0
+Jackson,AIRBASE,JACKSON COUNTY CIRCUIT CLERK,,,SAMANTHA WEBB,1
+Jackson,ALCORN,JACKSON COUNTY CIRCUIT CLERK,,,SAMANTHA WEBB,4
+Jackson,AMAGON,JACKSON COUNTY CIRCUIT CLERK,,,SAMANTHA WEBB,1
+Jackson,AUVERGNE,JACKSON COUNTY CIRCUIT CLERK,,,SAMANTHA WEBB,0
+Jackson,BEEDEVILLE,JACKSON COUNTY CIRCUIT CLERK,,,SAMANTHA WEBB,0
+Jackson,BLACKVILLE,JACKSON COUNTY CIRCUIT CLERK,,,SAMANTHA WEBB,0
+Jackson,CAMPBELL STATION,JACKSON COUNTY CIRCUIT CLERK,,,SAMANTHA WEBB,3
+Jackson,CROSSROAD-37,JACKSON COUNTY CIRCUIT CLERK,,,SAMANTHA WEBB,5
+Jackson,DENMARK,JACKSON COUNTY CIRCUIT CLERK,,,SAMANTHA WEBB,3
+Jackson,DIAZ,JACKSON COUNTY CIRCUIT CLERK,,,SAMANTHA WEBB,9
+Jackson,GOURDNECK-CITIZENSHIP,JACKSON COUNTY CIRCUIT CLERK,,,SAMANTHA WEBB,1
+Jackson,GREENHAW,JACKSON COUNTY CIRCUIT CLERK,,,SAMANTHA WEBB,0
+Jackson,GRUBBS,JACKSON COUNTY CIRCUIT CLERK,,,SAMANTHA WEBB,4
+Jackson,HICKORY GROVE,JACKSON COUNTY CIRCUIT CLERK,,,SAMANTHA WEBB,3
+Jackson,HORSESHOE,JACKSON COUNTY CIRCUIT CLERK,,,SAMANTHA WEBB,1
+Jackson,INGLESIDE,JACKSON COUNTY CIRCUIT CLERK,,,SAMANTHA WEBB,0
+Jackson,ISLAND,JACKSON COUNTY CIRCUIT CLERK,,,SAMANTHA WEBB,1
+Jackson,JACKSONPORT,JACKSON COUNTY CIRCUIT CLERK,,,SAMANTHA WEBB,0
+Jackson,LIBERTY,JACKSON COUNTY CIRCUIT CLERK,,,SAMANTHA WEBB,1
+Jackson,MACKS,JACKSON COUNTY CIRCUIT CLERK,,,SAMANTHA WEBB,1
+Jackson,NEW GLAISE,JACKSON COUNTY CIRCUIT CLERK,,,SAMANTHA WEBB,1
+Jackson,NEWPORT 2-A,JACKSON COUNTY CIRCUIT CLERK,,,SAMANTHA WEBB,2
+Jackson,NEWPORT 1-B,JACKSON COUNTY CIRCUIT CLERK,,,SAMANTHA WEBB,9
+Jackson,NEWPORT 1-A,JACKSON COUNTY CIRCUIT CLERK,,,SAMANTHA WEBB,2
+Jackson,NEWPORT 3-A,JACKSON COUNTY CIRCUIT CLERK,,,SAMANTHA WEBB,6
+Jackson,NEWPORT 3-B,JACKSON COUNTY CIRCUIT CLERK,,,SAMANTHA WEBB,3
+Jackson,NEWPORT 3-C,JACKSON COUNTY CIRCUIT CLERK,,,SAMANTHA WEBB,2
+Jackson,NEWPORT 2-C,JACKSON COUNTY CIRCUIT CLERK,,,SAMANTHA WEBB,9
+Jackson,NEWPORT 2-B,JACKSON COUNTY CIRCUIT CLERK,,,SAMANTHA WEBB,10
+Jackson,NEWPORT 4-A,JACKSON COUNTY CIRCUIT CLERK,,,SAMANTHA WEBB,3
+Jackson,NEWPORT 4-B,JACKSON COUNTY CIRCUIT CLERK,,,SAMANTHA WEBB,12
+Jackson,OLD GLAISE,JACKSON COUNTY CIRCUIT CLERK,,,SAMANTHA WEBB,0
+Jackson,OLYPHANT,JACKSON COUNTY CIRCUIT CLERK,,,SAMANTHA WEBB,0
+Jackson,PENNINGTON BALCH,JACKSON COUNTY CIRCUIT CLERK,,,SAMANTHA WEBB,2
+Jackson,REMMEL,JACKSON COUNTY CIRCUIT CLERK,,,SAMANTHA WEBB,1
+Jackson,SHOFFNER,JACKSON COUNTY CIRCUIT CLERK,,,SAMANTHA WEBB,0
+Jackson,SWIFTON,JACKSON COUNTY CIRCUIT CLERK,,,SAMANTHA WEBB,39
+Jackson,TUCKERMAN W1,JACKSON COUNTY CIRCUIT CLERK,,,SAMANTHA WEBB,22
+Jackson,TUCKERMAN W2,JACKSON COUNTY CIRCUIT CLERK,,,SAMANTHA WEBB,23
+Jackson,TUCKERMAN W3,JACKSON COUNTY CIRCUIT CLERK,,,SAMANTHA WEBB,25
+Jackson,TUCKERMAN OUTSIDE,JACKSON COUNTY CIRCUIT CLERK,,,SAMANTHA WEBB,5
+Jackson,TUPELO,JACKSON COUNTY CIRCUIT CLERK,,,SAMANTHA WEBB,3
+Jackson,WATERS STORE,JACKSON COUNTY CIRCUIT CLERK,,,SAMANTHA WEBB,2
+Jackson,WELDON,JACKSON COUNTY CIRCUIT CLERK,,,SAMANTHA WEBB,0
+Jackson,ALGOA,JACKSON COUNTY CIRCUIT CLERK,,,SAMANTHA WEBB,0
+Jackson,TUCKERMAN W1,TUCKERMAN CITY CLERK TUCKERMAN,,,PAMELA BOBO CAWTHON,15
+Jackson,TUCKERMAN W2,TUCKERMAN CITY CLERK TUCKERMAN,,,PAMELA BOBO CAWTHON,9
+Jackson,TUCKERMAN W3,TUCKERMAN CITY CLERK TUCKERMAN,,,PAMELA BOBO CAWTHON,20
+Jackson,TUCKERMAN W1,TUCKERMAN CITY CLERK TUCKERMAN,,,VICKIE HARTSELL ADAMS,20
+Jackson,TUCKERMAN W2,TUCKERMAN CITY CLERK TUCKERMAN,,,VICKIE HARTSELL ADAMS,35
+Jackson,TUCKERMAN W3,TUCKERMAN CITY CLERK TUCKERMAN,,,VICKIE HARTSELL ADAMS,19
+Jackson,TUCKERMAN W1,TUCKERMAN CITY CLERK TUCKERMAN,,,JOYCE A. HEMBREY,14
+Jackson,TUCKERMAN W2,TUCKERMAN CITY CLERK TUCKERMAN,,,JOYCE A. HEMBREY,11
+Jackson,TUCKERMAN W3,TUCKERMAN CITY CLERK TUCKERMAN,,,JOYCE A. HEMBREY,10
+Jackson,TUCKERMAN W1,TUCKERMAN CITY COUNCIL TUCKERMAN,,,RONALD D. KOLLER,28
+Jackson,TUCKERMAN W2,TUCKERMAN CITY COUNCIL TUCKERMAN,,,RONALD D. KOLLER,31
+Jackson,TUCKERMAN W3,TUCKERMAN CITY COUNCIL TUCKERMAN,,,RONALD D. KOLLER,31
+Jackson,TUCKERMAN W1,TUCKERMAN CITY COUNCIL TUCKERMAN,,,KRISTIE MOODY,20
+Jackson,TUCKERMAN W2,TUCKERMAN CITY COUNCIL TUCKERMAN,,,KRISTIE MOODY,24
+Jackson,TUCKERMAN W3,TUCKERMAN CITY COUNCIL TUCKERMAN,,,KRISTIE MOODY,17
+Jackson,AIRBASE,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,1
+Jackson,ALCORN,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,10
+Jackson,AMAGON,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,7
+Jackson,AUVERGNE,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,3
+Jackson,BEEDEVILLE,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,16
+Jackson,BLACKVILLE,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,0
+Jackson,CAMPBELL STATION,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,6
+Jackson,CROSSROAD-37,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,14
+Jackson,DENMARK,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,6
+Jackson,DIAZ,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,36
+Jackson,GOURDNECK-CITIZENSHIP,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,4
+Jackson,GREENHAW,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,1
+Jackson,GRUBBS,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,20
+Jackson,HICKORY GROVE,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,1
+Jackson,HORSESHOE,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,1
+Jackson,INGLESIDE,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,0
+Jackson,ISLAND,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,5
+Jackson,JACKSONPORT,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,7
+Jackson,LIBERTY,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,2
+Jackson,MACKS,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,3
+Jackson,NEW GLAISE,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,22
+Jackson,NEWPORT 2-A,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,16
+Jackson,NEWPORT 1-B,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,18
+Jackson,NEWPORT 1-A,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,4
+Jackson,NEWPORT 3-A,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,4
+Jackson,NEWPORT 3-B,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,15
+Jackson,NEWPORT 3-C,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,16
+Jackson,NEWPORT 2-C,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,36
+Jackson,NEWPORT 2-B,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,40
+Jackson,NEWPORT 4-A,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,52
+Jackson,NEWPORT 4-B,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,51
+Jackson,OLD GLAISE,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,1
+Jackson,OLYPHANT,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,0
+Jackson,PENNINGTON BALCH,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,4
+Jackson,REMMEL,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,8
+Jackson,SHOFFNER,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,1
+Jackson,SWIFTON,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,40
+Jackson,TUCKERMAN W1,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,26
+Jackson,TUCKERMAN W2,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,39
+Jackson,TUCKERMAN W3,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,31
+Jackson,TUCKERMAN OUTSIDE,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,10
+Jackson,TUPELO,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,2
+Jackson,WATERS STORE,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,5
+Jackson,WELDON,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,0
+Jackson,ALGOA,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,0
+Jackson,AIRBASE,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,1
+Jackson,ALCORN,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,7
+Jackson,AMAGON,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,0
+Jackson,AUVERGNE,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,2
+Jackson,BEEDEVILLE,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,7
+Jackson,BLACKVILLE,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,0
+Jackson,CAMPBELL STATION,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,8
+Jackson,CROSSROAD-37,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,7
+Jackson,DENMARK,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,2
+Jackson,DIAZ,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,22
+Jackson,GOURDNECK-CITIZENSHIP,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,1
+Jackson,GREENHAW,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,2
+Jackson,GRUBBS,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,12
+Jackson,HICKORY GROVE,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,4
+Jackson,HORSESHOE,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,0
+Jackson,INGLESIDE,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,0
+Jackson,ISLAND,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,5
+Jackson,JACKSONPORT,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,0
+Jackson,LIBERTY,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,3
+Jackson,MACKS,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,1
+Jackson,NEW GLAISE,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,8
+Jackson,NEWPORT 2-A,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,14
+Jackson,NEWPORT 1-B,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,9
+Jackson,NEWPORT 1-A,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,3
+Jackson,NEWPORT 3-A,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,9
+Jackson,NEWPORT 3-B,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,7
+Jackson,NEWPORT 3-C,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,5
+Jackson,NEWPORT 2-C,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,21
+Jackson,NEWPORT 2-B,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,40
+Jackson,NEWPORT 4-A,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,42
+Jackson,NEWPORT 4-B,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,30
+Jackson,OLD GLAISE,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,2
+Jackson,OLYPHANT,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,0
+Jackson,PENNINGTON BALCH,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,5
+Jackson,REMMEL,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,4
+Jackson,SHOFFNER,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,2
+Jackson,SWIFTON,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,20
+Jackson,TUCKERMAN W1,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,23
+Jackson,TUCKERMAN W2,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,23
+Jackson,TUCKERMAN W3,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,26
+Jackson,TUCKERMAN OUTSIDE,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,4
+Jackson,TUPELO,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,6
+Jackson,WATERS STORE,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,2
+Jackson,WELDON,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,1
+Jackson,ALGOA,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,0
+Jackson,AIRBASE,State Supreme Court Associate Justice, Position 3,,David Sterling,3
+Jackson,ALCORN,State Supreme Court Associate Justice, Position 3,,David Sterling,4
+Jackson,AMAGON,State Supreme Court Associate Justice, Position 3,,David Sterling,2
+Jackson,AUVERGNE,State Supreme Court Associate Justice, Position 3,,David Sterling,1
+Jackson,BEEDEVILLE,State Supreme Court Associate Justice, Position 3,,David Sterling,26
+Jackson,BLACKVILLE,State Supreme Court Associate Justice, Position 3,,David Sterling,0
+Jackson,CAMPBELL STATION,State Supreme Court Associate Justice, Position 3,,David Sterling,4
+Jackson,CROSSROAD-37,State Supreme Court Associate Justice, Position 3,,David Sterling,28
+Jackson,DENMARK,State Supreme Court Associate Justice, Position 3,,David Sterling,8
+Jackson,DIAZ,State Supreme Court Associate Justice, Position 3,,David Sterling,27
+Jackson,GOURDNECK-CITIZENSHIP,State Supreme Court Associate Justice, Position 3,,David Sterling,6
+Jackson,GREENHAW,State Supreme Court Associate Justice, Position 3,,David Sterling,4
+Jackson,GRUBBS,State Supreme Court Associate Justice, Position 3,,David Sterling,16
+Jackson,HICKORY GROVE,State Supreme Court Associate Justice, Position 3,,David Sterling,2
+Jackson,HORSESHOE,State Supreme Court Associate Justice, Position 3,,David Sterling,0
+Jackson,INGLESIDE,State Supreme Court Associate Justice, Position 3,,David Sterling,0
+Jackson,ISLAND,State Supreme Court Associate Justice, Position 3,,David Sterling,6
+Jackson,JACKSONPORT,State Supreme Court Associate Justice, Position 3,,David Sterling,3
+Jackson,LIBERTY,State Supreme Court Associate Justice, Position 3,,David Sterling,1
+Jackson,MACKS,State Supreme Court Associate Justice, Position 3,,David Sterling,0
+Jackson,NEW GLAISE,State Supreme Court Associate Justice, Position 3,,David Sterling,30
+Jackson,NEWPORT 2-A,State Supreme Court Associate Justice, Position 3,,David Sterling,14
+Jackson,NEWPORT 1-B,State Supreme Court Associate Justice, Position 3,,David Sterling,13
+Jackson,NEWPORT 1-A,State Supreme Court Associate Justice, Position 3,,David Sterling,5
+Jackson,NEWPORT 3-A,State Supreme Court Associate Justice, Position 3,,David Sterling,7
+Jackson,NEWPORT 3-B,State Supreme Court Associate Justice, Position 3,,David Sterling,9
+Jackson,NEWPORT 3-C,State Supreme Court Associate Justice, Position 3,,David Sterling,6
+Jackson,NEWPORT 2-C,State Supreme Court Associate Justice, Position 3,,David Sterling,21
+Jackson,NEWPORT 2-B,State Supreme Court Associate Justice, Position 3,,David Sterling,24
+Jackson,NEWPORT 4-A,State Supreme Court Associate Justice, Position 3,,David Sterling,47
+Jackson,NEWPORT 4-B,State Supreme Court Associate Justice, Position 3,,David Sterling,36
+Jackson,OLD GLAISE,State Supreme Court Associate Justice, Position 3,,David Sterling,4
+Jackson,OLYPHANT,State Supreme Court Associate Justice, Position 3,,David Sterling,0
+Jackson,PENNINGTON BALCH,State Supreme Court Associate Justice, Position 3,,David Sterling,4
+Jackson,REMMEL,State Supreme Court Associate Justice, Position 3,,David Sterling,3
+Jackson,SHOFFNER,State Supreme Court Associate Justice, Position 3,,David Sterling,1
+Jackson,SWIFTON,State Supreme Court Associate Justice, Position 3,,David Sterling,21
+Jackson,TUCKERMAN W1,State Supreme Court Associate Justice, Position 3,,David Sterling,14
+Jackson,TUCKERMAN W2,State Supreme Court Associate Justice, Position 3,,David Sterling,33
+Jackson,TUCKERMAN W3,State Supreme Court Associate Justice, Position 3,,David Sterling,17
+Jackson,TUCKERMAN OUTSIDE,State Supreme Court Associate Justice, Position 3,,David Sterling,13
+Jackson,TUPELO,State Supreme Court Associate Justice, Position 3,,David Sterling,7
+Jackson,WATERS STORE,State Supreme Court Associate Justice, Position 3,,David Sterling,1
+Jackson,WELDON,State Supreme Court Associate Justice, Position 3,,David Sterling,3
+Jackson,ALGOA,State Supreme Court Associate Justice, Position 3,,David Sterling,0
+Jackson,AIRBASE,Court of Appeals Associate Judge District 2, Position 1,,Court of Appeals Judge Bart Virden,2
+Jackson,ALCORN,Court of Appeals Associate Judge District 2, Position 1,,Court of Appeals Judge Bart Virden,8
+Jackson,AMAGON,Court of Appeals Associate Judge District 2, Position 1,,Court of Appeals Judge Bart Virden,1
+Jackson,AUVERGNE,Court of Appeals Associate Judge District 2, Position 1,,Court of Appeals Judge Bart Virden,4
+Jackson,BEEDEVILLE,Court of Appeals Associate Judge District 2, Position 1,,Court of Appeals Judge Bart Virden,22
+Jackson,BLACKVILLE,Court of Appeals Associate Judge District 2, Position 1,,Court of Appeals Judge Bart Virden,0
+Jackson,CAMPBELL STATION,Court of Appeals Associate Judge District 2, Position 1,,Court of Appeals Judge Bart Virden,13
+Jackson,CROSSROAD-37,Court of Appeals Associate Judge District 2, Position 1,,Court of Appeals Judge Bart Virden,19
+Jackson,DENMARK,Court of Appeals Associate Judge District 2, Position 1,,Court of Appeals Judge Bart Virden,8
+Jackson,DIAZ,Court of Appeals Associate Judge District 2, Position 1,,Court of Appeals Judge Bart Virden,48
+Jackson,GOURDNECK-CITIZENSHIP,Court of Appeals Associate Judge District 2, Position 1,,Court of Appeals Judge Bart Virden,7
+Jackson,GREENHAW,Court of Appeals Associate Judge District 2, Position 1,,Court of Appeals Judge Bart Virden,1
+Jackson,GRUBBS,Court of Appeals Associate Judge District 2, Position 1,,Court of Appeals Judge Bart Virden,28
+Jackson,HICKORY GROVE,Court of Appeals Associate Judge District 2, Position 1,,Court of Appeals Judge Bart Virden,3
+Jackson,HORSESHOE,Court of Appeals Associate Judge District 2, Position 1,,Court of Appeals Judge Bart Virden,1
+Jackson,INGLESIDE,Court of Appeals Associate Judge District 2, Position 1,,Court of Appeals Judge Bart Virden,0
+Jackson,ISLAND,Court of Appeals Associate Judge District 2, Position 1,,Court of Appeals Judge Bart Virden,9
+Jackson,JACKSONPORT,Court of Appeals Associate Judge District 2, Position 1,,Court of Appeals Judge Bart Virden,4
+Jackson,LIBERTY,Court of Appeals Associate Judge District 2, Position 1,,Court of Appeals Judge Bart Virden,4
+Jackson,MACKS,Court of Appeals Associate Judge District 2, Position 1,,Court of Appeals Judge Bart Virden,4
+Jackson,NEW GLAISE,Court of Appeals Associate Judge District 2, Position 1,,Court of Appeals Judge Bart Virden,25
+Jackson,NEWPORT 2-A,Court of Appeals Associate Judge District 2, Position 1,,Court of Appeals Judge Bart Virden,29
+Jackson,NEWPORT 1-B,Court of Appeals Associate Judge District 2, Position 1,,Court of Appeals Judge Bart Virden,23
+Jackson,NEWPORT 1-A,Court of Appeals Associate Judge District 2, Position 1,,Court of Appeals Judge Bart Virden,5
+Jackson,NEWPORT 3-A,Court of Appeals Associate Judge District 2, Position 1,,Court of Appeals Judge Bart Virden,14
+Jackson,NEWPORT 3-B,Court of Appeals Associate Judge District 2, Position 1,,Court of Appeals Judge Bart Virden,14
+Jackson,NEWPORT 3-C,Court of Appeals Associate Judge District 2, Position 1,,Court of Appeals Judge Bart Virden,13
+Jackson,NEWPORT 2-C,Court of Appeals Associate Judge District 2, Position 1,,Court of Appeals Judge Bart Virden,52
+Jackson,NEWPORT 2-B,Court of Appeals Associate Judge District 2, Position 1,,Court of Appeals Judge Bart Virden,75
+Jackson,NEWPORT 4-A,Court of Appeals Associate Judge District 2, Position 1,,Court of Appeals Judge Bart Virden,83
+Jackson,NEWPORT 4-B,Court of Appeals Associate Judge District 2, Position 1,,Court of Appeals Judge Bart Virden,78
+Jackson,OLD GLAISE,Court of Appeals Associate Judge District 2, Position 1,,Court of Appeals Judge Bart Virden,4
+Jackson,OLYPHANT,Court of Appeals Associate Judge District 2, Position 1,,Court of Appeals Judge Bart Virden,0
+Jackson,PENNINGTON BALCH,Court of Appeals Associate Judge District 2, Position 1,,Court of Appeals Judge Bart Virden,6
+Jackson,REMMEL,Court of Appeals Associate Judge District 2, Position 1,,Court of Appeals Judge Bart Virden,10
+Jackson,SHOFFNER,Court of Appeals Associate Judge District 2, Position 1,,Court of Appeals Judge Bart Virden,2
+Jackson,SWIFTON,Court of Appeals Associate Judge District 2, Position 1,,Court of Appeals Judge Bart Virden,42
+Jackson,TUCKERMAN W1,Court of Appeals Associate Judge District 2, Position 1,,Court of Appeals Judge Bart Virden,38
+Jackson,TUCKERMAN W2,Court of Appeals Associate Judge District 2, Position 1,,Court of Appeals Judge Bart Virden,49
+Jackson,TUCKERMAN W3,Court of Appeals Associate Judge District 2, Position 1,,Court of Appeals Judge Bart Virden,40
+Jackson,TUCKERMAN OUTSIDE,Court of Appeals Associate Judge District 2, Position 1,,Court of Appeals Judge Bart Virden,16
+Jackson,TUPELO,Court of Appeals Associate Judge District 2, Position 1,,Court of Appeals Judge Bart Virden,4
+Jackson,WATERS STORE,Court of Appeals Associate Judge District 2, Position 1,,Court of Appeals Judge Bart Virden,4
+Jackson,WELDON,Court of Appeals Associate Judge District 2, Position 1,,Court of Appeals Judge Bart Virden,2
+Jackson,ALGOA,Court of Appeals Associate Judge District 2, Position 1,,Court of Appeals Judge Bart Virden,0
+Jackson,AIRBASE,Court of Appeals Associate Judge District 2, Position 1,,Johnnie Copeland,3
+Jackson,ALCORN,Court of Appeals Associate Judge District 2, Position 1,,Johnnie Copeland,13
+Jackson,AMAGON,Court of Appeals Associate Judge District 2, Position 1,,Johnnie Copeland,8
+Jackson,AUVERGNE,Court of Appeals Associate Judge District 2, Position 1,,Johnnie Copeland,2
+Jackson,BEEDEVILLE,Court of Appeals Associate Judge District 2, Position 1,,Johnnie Copeland,28
+Jackson,BLACKVILLE,Court of Appeals Associate Judge District 2, Position 1,,Johnnie Copeland,0
+Jackson,CAMPBELL STATION,Court of Appeals Associate Judge District 2, Position 1,,Johnnie Copeland,5
+Jackson,CROSSROAD-37,Court of Appeals Associate Judge District 2, Position 1,,Johnnie Copeland,30
+Jackson,DENMARK,Court of Appeals Associate Judge District 2, Position 1,,Johnnie Copeland,8
+Jackson,DIAZ,Court of Appeals Associate Judge District 2, Position 1,,Johnnie Copeland,33
+Jackson,GOURDNECK-CITIZENSHIP,Court of Appeals Associate Judge District 2, Position 1,,Johnnie Copeland,4
+Jackson,GREENHAW,Court of Appeals Associate Judge District 2, Position 1,,Johnnie Copeland,5
+Jackson,GRUBBS,Court of Appeals Associate Judge District 2, Position 1,,Johnnie Copeland,20
+Jackson,HICKORY GROVE,Court of Appeals Associate Judge District 2, Position 1,,Johnnie Copeland,4
+Jackson,HORSESHOE,Court of Appeals Associate Judge District 2, Position 1,,Johnnie Copeland,0
+Jackson,INGLESIDE,Court of Appeals Associate Judge District 2, Position 1,,Johnnie Copeland,0
+Jackson,ISLAND,Court of Appeals Associate Judge District 2, Position 1,,Johnnie Copeland,7
+Jackson,JACKSONPORT,Court of Appeals Associate Judge District 2, Position 1,,Johnnie Copeland,7
+Jackson,LIBERTY,Court of Appeals Associate Judge District 2, Position 1,,Johnnie Copeland,2
+Jackson,MACKS,Court of Appeals Associate Judge District 2, Position 1,,Johnnie Copeland,0
+Jackson,NEW GLAISE,Court of Appeals Associate Judge District 2, Position 1,,Johnnie Copeland,29
+Jackson,NEWPORT 2-A,Court of Appeals Associate Judge District 2, Position 1,,Johnnie Copeland,14
+Jackson,NEWPORT 1-B,Court of Appeals Associate Judge District 2, Position 1,,Johnnie Copeland,17
+Jackson,NEWPORT 1-A,Court of Appeals Associate Judge District 2, Position 1,,Johnnie Copeland,7
+Jackson,NEWPORT 3-A,Court of Appeals Associate Judge District 2, Position 1,,Johnnie Copeland,5
+Jackson,NEWPORT 3-B,Court of Appeals Associate Judge District 2, Position 1,,Johnnie Copeland,17
+Jackson,NEWPORT 3-C,Court of Appeals Associate Judge District 2, Position 1,,Johnnie Copeland,12
+Jackson,NEWPORT 2-C,Court of Appeals Associate Judge District 2, Position 1,,Johnnie Copeland,24
+Jackson,NEWPORT 2-B,Court of Appeals Associate Judge District 2, Position 1,,Johnnie Copeland,26
+Jackson,NEWPORT 4-A,Court of Appeals Associate Judge District 2, Position 1,,Johnnie Copeland,60
+Jackson,NEWPORT 4-B,Court of Appeals Associate Judge District 2, Position 1,,Johnnie Copeland,38
+Jackson,OLD GLAISE,Court of Appeals Associate Judge District 2, Position 1,,Johnnie Copeland,3
+Jackson,OLYPHANT,Court of Appeals Associate Judge District 2, Position 1,,Johnnie Copeland,0
+Jackson,PENNINGTON BALCH,Court of Appeals Associate Judge District 2, Position 1,,Johnnie Copeland,7
+Jackson,REMMEL,Court of Appeals Associate Judge District 2, Position 1,,Johnnie Copeland,5
+Jackson,SHOFFNER,Court of Appeals Associate Judge District 2, Position 1,,Johnnie Copeland,2
+Jackson,SWIFTON,Court of Appeals Associate Judge District 2, Position 1,,Johnnie Copeland,38
+Jackson,TUCKERMAN W1,Court of Appeals Associate Judge District 2, Position 1,,Johnnie Copeland,25
+Jackson,TUCKERMAN W2,Court of Appeals Associate Judge District 2, Position 1,,Johnnie Copeland,45
+Jackson,TUCKERMAN W3,Court of Appeals Associate Judge District 2, Position 1,,Johnnie Copeland,34
+Jackson,TUCKERMAN OUTSIDE,Court of Appeals Associate Judge District 2, Position 1,,Johnnie Copeland,12
+Jackson,TUPELO,Court of Appeals Associate Judge District 2, Position 1,,Johnnie Copeland,11
+Jackson,WATERS STORE,Court of Appeals Associate Judge District 2, Position 1,,Johnnie Copeland,4
+Jackson,WELDON,Court of Appeals Associate Judge District 2, Position 1,,Johnnie Copeland,2
+Jackson,ALGOA,Court of Appeals Associate Judge District 2, Position 1,,Johnnie Copeland,0
