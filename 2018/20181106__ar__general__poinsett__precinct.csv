@@ -1,43 +1,43 @@
 county,precinct,office,district,party,candidate,votes,election_day,early_vote,election_day_paper,absentee,early_vote_paper
-Poinsett,Bolivar,U.S. Congress District 1,,DEM,Chintan Desai,187,10,35,82,3,57
-Poinsett,Greenfield - Greenfield,U.S. Congress District 1,,DEM,Chintan Desai,13,0,3,5,2,3
-Poinsett,Scott VV and WH,U.S. Congress District 1,,DEM,Chintan Desai,44,2,4,22,1,15
-Poinsett,West Prairie,U.S. Congress District 1,,DEM,Chintan Desai,65,10,6,48,1,0
-Poinsett,Dobson,U.S. Congress District 1,,DEM,Chintan Desai,3,2,0,1,0,0
-Poinsett,Greenfield - Buffalo Lick,U.S. Congress District 1,,DEM,Chintan Desai,33,8,4,14,2,5
-Poinsett,Greenwood and Rivervale,U.S. Congress District 1,,DEM,Chintan Desai,147,14,1,124,0,8
-Poinsett,Little River and Payneway,U.S. Congress District 1,,DEM,Chintan Desai,290,14,4,212,41,19
-Poinsett,Owen - Fisher,U.S. Congress District 1,,DEM,Chintan Desai,10,1,2,7,0,0
-Poinsett,Owen - Waldenburg,U.S. Congress District 1,,DEM,Chintan Desai,12,3,0,5,0,4
-Poinsett,Tyronza,U.S. Congress District 1,,DEM,Chintan Desai,41,5,2,34,0,0
-Poinsett,Willis,U.S. Congress District 1,,DEM,Chintan Desai,418,28,10,312,38,30
-Poinsett,Lunsford,U.S. Congress District 1,,DEM,Chintan Desai,10,0,0,9,0,1
-Poinsett,Bolivar,U.S. Congress District 1,,REP,Congressman Rick Crawford,898,70,171,356,15,286
-Poinsett,Greenfield - Greenfield,U.S. Congress District 1,,REP,Congressman Rick Crawford,89,2,14,48,1,24
-Poinsett,Scott VV and WH,U.S. Congress District 1,,REP,Congressman Rick Crawford,204,14,39,87,5,59
-Poinsett,West Prairie,U.S. Congress District 1,,REP,Congressman Rick Crawford,209,36,11,148,5,9
-Poinsett,Dobson,U.S. Congress District 1,,REP,Congressman Rick Crawford,36,2,4,22,1,7
-Poinsett,Greenfield - Buffalo Lick,U.S. Congress District 1,,REP,Congressman Rick Crawford,192,47,17,115,0,13
-Poinsett,Greenwood and Rivervale,U.S. Congress District 1,,REP,Congressman Rick Crawford,496,48,11,416,8,13
-Poinsett,Little River and Payneway,U.S. Congress District 1,,REP,Congressman Rick Crawford,575,62,8,448,21,36
-Poinsett,Owen - Fisher,U.S. Congress District 1,,REP,Congressman Rick Crawford,63,29,4,29,0,1
-Poinsett,Owen - Waldenburg,U.S. Congress District 1,,REP,Congressman Rick Crawford,39,24,3,12,0,0
-Poinsett,Tyronza,U.S. Congress District 1,,REP,Congressman Rick Crawford,236,49,6,175,1,5
-Poinsett,Willis,U.S. Congress District 1,,REP,Congressman Rick Crawford,1571,80,64,1207,65,155
-Poinsett,Lunsford,U.S. Congress District 1,,REP,Congressman Rick Crawford,43,1,1,31,0,10
-Poinsett,Bolivar,U.S. Congress District 1,,LIB,Elvis Presley,56,5,7,26,0,18
-Poinsett,Greenfield - Greenfield,U.S. Congress District 1,,LIB,Elvis Presley,0,0,0,0,0,0
-Poinsett,Scott VV and WH,U.S. Congress District 1,,LIB,Elvis Presley,9,1,1,3,0,4
-Poinsett,West Prairie,U.S. Congress District 1,,LIB,Elvis Presley,8,1,0,6,0,1
-Poinsett,Dobson,U.S. Congress District 1,,LIB,Elvis Presley,1,0,0,1,0,0
-Poinsett,Greenfield - Buffalo Lick,U.S. Congress District 1,,LIB,Elvis Presley,6,2,1,3,0,0
-Poinsett,Greenwood and Rivervale,U.S. Congress District 1,,LIB,Elvis Presley,9,1,0,8,0,0
-Poinsett,Little River and Payneway,U.S. Congress District 1,,LIB,Elvis Presley,16,2,0,11,1,2
-Poinsett,Owen - Fisher,U.S. Congress District 1,,LIB,Elvis Presley,1,0,0,1,0,0
-Poinsett,Owen - Waldenburg,U.S. Congress District 1,,LIB,Elvis Presley,0,0,0,0,0,0
-Poinsett,Tyronza,U.S. Congress District 1,,LIB,Elvis Presley,2,0,0,2,0,0
-Poinsett,Willis,U.S. Congress District 1,,LIB,Elvis Presley,55,1,4,42,4,4
-Poinsett,Lunsford,U.S. Congress District 1,,LIB,Elvis Presley,1,0,1,0,0,0
+Poinsett,Bolivar,U.S. House,1,DEM,Chintan Desai,187,10,35,82,3,57
+Poinsett,Greenfield - Greenfield,U.S. House,1,DEM,Chintan Desai,13,0,3,5,2,3
+Poinsett,Scott VV and WH,U.S. House,1,DEM,Chintan Desai,44,2,4,22,1,15
+Poinsett,West Prairie,U.S. House,1,DEM,Chintan Desai,65,10,6,48,1,0
+Poinsett,Dobson,U.S. House,1,DEM,Chintan Desai,3,2,0,1,0,0
+Poinsett,Greenfield - Buffalo Lick,U.S. House,1,DEM,Chintan Desai,33,8,4,14,2,5
+Poinsett,Greenwood and Rivervale,U.S. House,1,DEM,Chintan Desai,147,14,1,124,0,8
+Poinsett,Little River and Payneway,U.S. House,1,DEM,Chintan Desai,290,14,4,212,41,19
+Poinsett,Owen - Fisher,U.S. House,1,DEM,Chintan Desai,10,1,2,7,0,0
+Poinsett,Owen - Waldenburg,U.S. House,1,DEM,Chintan Desai,12,3,0,5,0,4
+Poinsett,Tyronza,U.S. House,1,DEM,Chintan Desai,41,5,2,34,0,0
+Poinsett,Willis,U.S. House,1,DEM,Chintan Desai,418,28,10,312,38,30
+Poinsett,Lunsford,U.S. House,1,DEM,Chintan Desai,10,0,0,9,0,1
+Poinsett,Bolivar,U.S. House,1,REP,Congressman Rick Crawford,898,70,171,356,15,286
+Poinsett,Greenfield - Greenfield,U.S. House,1,REP,Congressman Rick Crawford,89,2,14,48,1,24
+Poinsett,Scott VV and WH,U.S. House,1,REP,Congressman Rick Crawford,204,14,39,87,5,59
+Poinsett,West Prairie,U.S. House,1,REP,Congressman Rick Crawford,209,36,11,148,5,9
+Poinsett,Dobson,U.S. House,1,REP,Congressman Rick Crawford,36,2,4,22,1,7
+Poinsett,Greenfield - Buffalo Lick,U.S. House,1,REP,Congressman Rick Crawford,192,47,17,115,0,13
+Poinsett,Greenwood and Rivervale,U.S. House,1,REP,Congressman Rick Crawford,496,48,11,416,8,13
+Poinsett,Little River and Payneway,U.S. House,1,REP,Congressman Rick Crawford,575,62,8,448,21,36
+Poinsett,Owen - Fisher,U.S. House,1,REP,Congressman Rick Crawford,63,29,4,29,0,1
+Poinsett,Owen - Waldenburg,U.S. House,1,REP,Congressman Rick Crawford,39,24,3,12,0,0
+Poinsett,Tyronza,U.S. House,1,REP,Congressman Rick Crawford,236,49,6,175,1,5
+Poinsett,Willis,U.S. House,1,REP,Congressman Rick Crawford,1571,80,64,1207,65,155
+Poinsett,Lunsford,U.S. House,1,REP,Congressman Rick Crawford,43,1,1,31,0,10
+Poinsett,Bolivar,U.S. House,1,LIB,Elvis Presley,56,5,7,26,0,18
+Poinsett,Greenfield - Greenfield,U.S. House,1,LIB,Elvis Presley,0,0,0,0,0,0
+Poinsett,Scott VV and WH,U.S. House,1,LIB,Elvis Presley,9,1,1,3,0,4
+Poinsett,West Prairie,U.S. House,1,LIB,Elvis Presley,8,1,0,6,0,1
+Poinsett,Dobson,U.S. House,1,LIB,Elvis Presley,1,0,0,1,0,0
+Poinsett,Greenfield - Buffalo Lick,U.S. House,1,LIB,Elvis Presley,6,2,1,3,0,0
+Poinsett,Greenwood and Rivervale,U.S. House,1,LIB,Elvis Presley,9,1,0,8,0,0
+Poinsett,Little River and Payneway,U.S. House,1,LIB,Elvis Presley,16,2,0,11,1,2
+Poinsett,Owen - Fisher,U.S. House,1,LIB,Elvis Presley,1,0,0,1,0,0
+Poinsett,Owen - Waldenburg,U.S. House,1,LIB,Elvis Presley,0,0,0,0,0,0
+Poinsett,Tyronza,U.S. House,1,LIB,Elvis Presley,2,0,0,2,0,0
+Poinsett,Willis,U.S. House,1,LIB,Elvis Presley,55,1,4,42,4,4
+Poinsett,Lunsford,U.S. House,1,LIB,Elvis Presley,1,0,1,0,0,0
 Poinsett,Bolivar,Governor,,LIB,Mark West,65,6,12,30,0,17
 Poinsett,Greenfield - Greenfield,Governor,,LIB,Mark West,1,0,0,1,0,0
 Poinsett,Scott VV and WH,Governor,,LIB,Mark West,9,0,2,6,0,1
@@ -285,10 +285,10 @@ Poinsett,Owen - Waldenburg,Commissioner of State Lands,,LIB,T.J. Campbell,0,0,0,
 Poinsett,Tyronza,Commissioner of State Lands,,LIB,T.J. Campbell,3,0,0,3,0,0
 Poinsett,Willis,Commissioner of State Lands,,LIB,T.J. Campbell,54,2,3,45,3,1
 Poinsett,Lunsford,Commissioner of State Lands,,LIB,T.J. Campbell,0,0,0,0,0,0
-Poinsett,Greenwood and Rivervale,State Representative District 54,,DEM,Austin W. Jones,127,12,1,107,0,7
-Poinsett,Willis,State Representative District 54,,DEM,Austin W. Jones,653,39,15,518,34,47
-Poinsett,Greenwood and Rivervale,State Representative District 54,,REP,Representative Johnny Rye,516,51,11,434,6,14
-Poinsett,Willis,State Representative District 54,,REP,Representative Johnny Rye,1372,72,62,1032,72,134
+Poinsett,Greenwood and Rivervale,State Representative,54,DEM,Austin W. Jones,127,12,1,107,0,7
+Poinsett,Willis,State Representative,54,DEM,Austin W. Jones,653,39,15,518,34,47
+Poinsett,Greenwood and Rivervale,State Representative,54,REP,Representative Johnny Rye,516,51,11,434,6,14
+Poinsett,Willis,State Representative,54,REP,Representative Johnny Rye,1372,72,62,1032,72,134
 Poinsett,Bolivar,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,633,53,128,264,12,176
 Poinsett,Greenfield - Greenfield,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,54,1,9,32,2,10
 Poinsett,Scott VV and WH,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,127,12,21,52,3,39

@@ -1,30 +1,30 @@
 county,precinct,office,district,party,candidate,votes
-Carroll,B1-2/PR/CB/ KR/HK/YO/WN,U.S. Congress District 3,,REP,Robb Ryerse,121
-Carroll,Omega/Dry Fork/Piney,U.S. Congress District 3,,REP,Robb Ryerse,12
-Carroll,Polo,U.S. Congress District 3,,REP,Robb Ryerse,17
-Carroll,PR/ES/JS/PS/WIN/HI/KR/BEA,U.S. Congress District 3,,REP,Robb Ryerse,335
-Carroll,GF/SW SE HICKORY/LIBERTY,U.S. Congress District 3,,REP,Robb Ryerse,34
-Carroll,PR/CAB/COIN/HICK/LC/YOC,U.S. Congress District 3,,REP,Robb Ryerse,32
-Carroll,Carrollton/Osage,U.S. Congress District 3,,REP,Robb Ryerse,9
-Carroll,Piney,U.S. Congress District 3,,REP,Robb Ryerse,3
-Carroll,Carrollton/Osage/Alpena SD,U.S. Congress District 3,,REP,Robb Ryerse,14
-Carroll,Liberty,U.S. Congress District 3,,REP,Robb Ryerse,0
-Carroll,Coin/Long Creek,U.S. Congress District 3,,REP,Robb Ryerse,1
-Carroll,Dry Fork,U.S. Congress District 3,,REP,Robb Ryerse,0
-Carroll,Dry Fork/Omega,U.S. Congress District 3,,REP,Robb Ryerse,2
-Carroll,B1-2/PR/CB/ KR/HK/YO/WN,U.S. Congress District 3,,REP,Congressman Steve Womack,828
-Carroll,Omega/Dry Fork/Piney,U.S. Congress District 3,,REP,Congressman Steve Womack,50
-Carroll,Polo,U.S. Congress District 3,,REP,Congressman Steve Womack,184
-Carroll,PR/ES/JS/PS/WIN/HI/KR/BEA,U.S. Congress District 3,,REP,Congressman Steve Womack,676
-Carroll,GF/SW SE HICKORY/LIBERTY,U.S. Congress District 3,,REP,Congressman Steve Womack,210
-Carroll,PR/CAB/COIN/HICK/LC/YOC,U.S. Congress District 3,,REP,Congressman Steve Womack,315
-Carroll,Carrollton/Osage,U.S. Congress District 3,,REP,Congressman Steve Womack,17
-Carroll,Piney,U.S. Congress District 3,,REP,Congressman Steve Womack,5
-Carroll,Carrollton/Osage/Alpena SD,U.S. Congress District 3,,REP,Congressman Steve Womack,59
-Carroll,Liberty,U.S. Congress District 3,,REP,Congressman Steve Womack,0
-Carroll,Coin/Long Creek,U.S. Congress District 3,,REP,Congressman Steve Womack,17
-Carroll,Dry Fork,U.S. Congress District 3,,REP,Congressman Steve Womack,0
-Carroll,Dry Fork/Omega,U.S. Congress District 3,,REP,Congressman Steve Womack,6
+Carroll,B1-2/PR/CB/ KR/HK/YO/WN,U.S. House,3,REP,Robb Ryerse,121
+Carroll,Omega/Dry Fork/Piney,U.S. House,3,REP,Robb Ryerse,12
+Carroll,Polo,U.S. House,3,REP,Robb Ryerse,17
+Carroll,PR/ES/JS/PS/WIN/HI/KR/BEA,U.S. House,3,REP,Robb Ryerse,335
+Carroll,GF/SW SE HICKORY/LIBERTY,U.S. House,3,REP,Robb Ryerse,34
+Carroll,PR/CAB/COIN/HICK/LC/YOC,U.S. House,3,REP,Robb Ryerse,32
+Carroll,Carrollton/Osage,U.S. House,3,REP,Robb Ryerse,9
+Carroll,Piney,U.S. House,3,REP,Robb Ryerse,3
+Carroll,Carrollton/Osage/Alpena SD,U.S. House,3,REP,Robb Ryerse,14
+Carroll,Liberty,U.S. House,3,REP,Robb Ryerse,0
+Carroll,Coin/Long Creek,U.S. House,3,REP,Robb Ryerse,1
+Carroll,Dry Fork,U.S. House,3,REP,Robb Ryerse,0
+Carroll,Dry Fork/Omega,U.S. House,3,REP,Robb Ryerse,2
+Carroll,B1-2/PR/CB/ KR/HK/YO/WN,U.S. House,3,REP,Congressman Steve Womack,828
+Carroll,Omega/Dry Fork/Piney,U.S. House,3,REP,Congressman Steve Womack,50
+Carroll,Polo,U.S. House,3,REP,Congressman Steve Womack,184
+Carroll,PR/ES/JS/PS/WIN/HI/KR/BEA,U.S. House,3,REP,Congressman Steve Womack,676
+Carroll,GF/SW SE HICKORY/LIBERTY,U.S. House,3,REP,Congressman Steve Womack,210
+Carroll,PR/CAB/COIN/HICK/LC/YOC,U.S. House,3,REP,Congressman Steve Womack,315
+Carroll,Carrollton/Osage,U.S. House,3,REP,Congressman Steve Womack,17
+Carroll,Piney,U.S. House,3,REP,Congressman Steve Womack,5
+Carroll,Carrollton/Osage/Alpena SD,U.S. House,3,REP,Congressman Steve Womack,59
+Carroll,Liberty,U.S. House,3,REP,Congressman Steve Womack,0
+Carroll,Coin/Long Creek,U.S. House,3,REP,Congressman Steve Womack,17
+Carroll,Dry Fork,U.S. House,3,REP,Congressman Steve Womack,0
+Carroll,Dry Fork/Omega,U.S. House,3,REP,Congressman Steve Womack,6
 Carroll,B1-2/PR/CB/ KR/HK/YO/WN,Governor,,REP,Jan Morgan,229
 Carroll,Omega/Dry Fork/Piney,Governor,,REP,Jan Morgan,14
 Carroll,Polo,Governor,,REP,Jan Morgan,40
@@ -77,42 +77,42 @@ Carroll,Liberty,Secretary of State,,REP,State Representative Trevor Drown,0
 Carroll,Coin/Long Creek,Secretary of State,,REP,State Representative Trevor Drown,10
 Carroll,Dry Fork,Secretary of State,,REP,State Representative Trevor Drown,0
 Carroll,Dry Fork/Omega,Secretary of State,,REP,State Representative Trevor Drown,2
-Carroll,B1-2/PR/CB/ KR/HK/YO/WN,State Senate District 5,,REP,Senator Bryan B. King,581
-Carroll,Omega/Dry Fork/Piney,State Senate District 5,,REP,Senator Bryan B. King,42
-Carroll,Polo,State Senate District 5,,REP,Senator Bryan B. King,131
-Carroll,PR/ES/JS/PS/WIN/HI/KR/BEA,State Senate District 5,,REP,Senator Bryan B. King,548
-Carroll,PR/CAB/COIN/HICK/LC/YOC,State Senate District 5,,REP,Senator Bryan B. King,251
-Carroll,Piney,State Senate District 5,,REP,Senator Bryan B. King,6
-Carroll,Coin/Long Creek,State Senate District 5,,REP,Senator Bryan B. King,11
-Carroll,Dry Fork,State Senate District 5,,REP,Senator Bryan B. King,0
-Carroll,Dry Fork/Omega,State Senate District 5,,REP,Senator Bryan B. King,5
-Carroll,B1-2/PR/CB/ KR/HK/YO/WN,State Senate District 5,,REP,Representative Bob Ballinger,378
-Carroll,Omega/Dry Fork/Piney,State Senate District 5,,REP,Representative Bob Ballinger,20
-Carroll,Polo,State Senate District 5,,REP,Representative Bob Ballinger,75
-Carroll,PR/ES/JS/PS/WIN/HI/KR/BEA,State Senate District 5,,REP,Representative Bob Ballinger,455
-Carroll,PR/CAB/COIN/HICK/LC/YOC,State Senate District 5,,REP,Representative Bob Ballinger,99
-Carroll,Piney,State Senate District 5,,REP,Representative Bob Ballinger,2
-Carroll,Coin/Long Creek,State Senate District 5,,REP,Representative Bob Ballinger,7
-Carroll,Dry Fork,State Senate District 5,,REP,Representative Bob Ballinger,0
-Carroll,Dry Fork/Omega,State Senate District 5,,REP,Representative Bob Ballinger,3
-Carroll,Omega/Dry Fork/Piney,State Representative District 83,,REP,Sheriff Keith Slape,16
-Carroll,Carrollton/Osage,State Representative District 83,,REP,Sheriff Keith Slape,6
-Carroll,Piney,State Representative District 83,,REP,Sheriff Keith Slape,1
-Carroll,Carrollton/Osage/Alpena SD,State Representative District 83,,REP,Sheriff Keith Slape,32
-Carroll,Dry Fork,State Representative District 83,,REP,Sheriff Keith Slape,0
-Carroll,Dry Fork/Omega,State Representative District 83,,REP,Sheriff Keith Slape,4
-Carroll,Omega/Dry Fork/Piney,State Representative District 83,,REP,Donald Ragland,23
-Carroll,Carrollton/Osage,State Representative District 83,,REP,Donald Ragland,13
-Carroll,Piney,State Representative District 83,,REP,Donald Ragland,4
-Carroll,Carrollton/Osage/Alpena SD,State Representative District 83,,REP,Donald Ragland,35
-Carroll,Dry Fork,State Representative District 83,,REP,Donald Ragland,0
-Carroll,Dry Fork/Omega,State Representative District 83,,REP,Donald Ragland,3
-Carroll,Omega/Dry Fork/Piney,State Representative District 83,,REP,Timmy Reid,19
-Carroll,Carrollton/Osage,State Representative District 83,,REP,Timmy Reid,5
-Carroll,Piney,State Representative District 83,,REP,Timmy Reid,2
-Carroll,Carrollton/Osage/Alpena SD,State Representative District 83,,REP,Timmy Reid,6
-Carroll,Dry Fork,State Representative District 83,,REP,Timmy Reid,0
-Carroll,Dry Fork/Omega,State Representative District 83,,REP,Timmy Reid,1
+Carroll,B1-2/PR/CB/ KR/HK/YO/WN,State Senate,5,REP,Senator Bryan B. King,581
+Carroll,Omega/Dry Fork/Piney,State Senate,5,REP,Senator Bryan B. King,42
+Carroll,Polo,State Senate,5,REP,Senator Bryan B. King,131
+Carroll,PR/ES/JS/PS/WIN/HI/KR/BEA,State Senate,5,REP,Senator Bryan B. King,548
+Carroll,PR/CAB/COIN/HICK/LC/YOC,State Senate,5,REP,Senator Bryan B. King,251
+Carroll,Piney,State Senate,5,REP,Senator Bryan B. King,6
+Carroll,Coin/Long Creek,State Senate,5,REP,Senator Bryan B. King,11
+Carroll,Dry Fork,State Senate,5,REP,Senator Bryan B. King,0
+Carroll,Dry Fork/Omega,State Senate,5,REP,Senator Bryan B. King,5
+Carroll,B1-2/PR/CB/ KR/HK/YO/WN,State Senate,5,REP,Representative Bob Ballinger,378
+Carroll,Omega/Dry Fork/Piney,State Senate,5,REP,Representative Bob Ballinger,20
+Carroll,Polo,State Senate,5,REP,Representative Bob Ballinger,75
+Carroll,PR/ES/JS/PS/WIN/HI/KR/BEA,State Senate,5,REP,Representative Bob Ballinger,455
+Carroll,PR/CAB/COIN/HICK/LC/YOC,State Senate,5,REP,Representative Bob Ballinger,99
+Carroll,Piney,State Senate,5,REP,Representative Bob Ballinger,2
+Carroll,Coin/Long Creek,State Senate,5,REP,Representative Bob Ballinger,7
+Carroll,Dry Fork,State Senate,5,REP,Representative Bob Ballinger,0
+Carroll,Dry Fork/Omega,State Senate,5,REP,Representative Bob Ballinger,3
+Carroll,Omega/Dry Fork/Piney,State Representative,83,REP,Sheriff Keith Slape,16
+Carroll,Carrollton/Osage,State Representative,83,REP,Sheriff Keith Slape,6
+Carroll,Piney,State Representative,83,REP,Sheriff Keith Slape,1
+Carroll,Carrollton/Osage/Alpena SD,State Representative,83,REP,Sheriff Keith Slape,32
+Carroll,Dry Fork,State Representative,83,REP,Sheriff Keith Slape,0
+Carroll,Dry Fork/Omega,State Representative,83,REP,Sheriff Keith Slape,4
+Carroll,Omega/Dry Fork/Piney,State Representative,83,REP,Donald Ragland,23
+Carroll,Carrollton/Osage,State Representative,83,REP,Donald Ragland,13
+Carroll,Piney,State Representative,83,REP,Donald Ragland,4
+Carroll,Carrollton/Osage/Alpena SD,State Representative,83,REP,Donald Ragland,35
+Carroll,Dry Fork,State Representative,83,REP,Donald Ragland,0
+Carroll,Dry Fork/Omega,State Representative,83,REP,Donald Ragland,3
+Carroll,Omega/Dry Fork/Piney,State Representative,83,REP,Timmy Reid,19
+Carroll,Carrollton/Osage,State Representative,83,REP,Timmy Reid,5
+Carroll,Piney,State Representative,83,REP,Timmy Reid,2
+Carroll,Carrollton/Osage/Alpena SD,State Representative,83,REP,Timmy Reid,6
+Carroll,Dry Fork,State Representative,83,REP,Timmy Reid,0
+Carroll,Dry Fork/Omega,State Representative,83,REP,Timmy Reid,1
 Carroll,B1-2/PR/CB/ KR/HK/YO/WN,County Judge,,,Charles B. Reece,537
 Carroll,Omega/Dry Fork/Piney,County Judge,,,Charles B. Reece,31
 Carroll,Polo,County Judge,,,Charles B. Reece,98

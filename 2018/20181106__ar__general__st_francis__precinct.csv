@@ -1,49 +1,49 @@
 county,precinct,office,district,party,candidate,votes,election_day,early_vote,absentee
-St Francis,Hughes,U.S. Congress District 1,,LIB,Elvis Presley,16,15,1,0
-St Francis,Heth/Blackfish,U.S. Congress District 1,,LIB,Elvis Presley,1,1,0,0
-St Francis,Widener,U.S. Congress District 1,,LIB,Elvis Presley,5,5,0,0
-St Francis,Madison,U.S. Congress District 1,,LIB,Elvis Presley,3,2,1,0
-St Francis,Bonair,U.S. Congress District 1,,LIB,Elvis Presley,8,4,4,0
-St Francis,Newcastle/Parrott,U.S. Congress District 1,,LIB,Elvis Presley,14,9,5,0
-St Francis,Colt,U.S. Congress District 1,,LIB,Elvis Presley,5,5,0,0
-St Francis,Caldwell,U.S. Congress District 1,,LIB,Elvis Presley,2,2,0,0
-St Francis,Forrest City Country West,U.S. Congress District 1,,LIB,Elvis Presley,1,0,1,0
-St Francis,Palestine,U.S. Congress District 1,,LIB,Elvis Presley,5,2,3,0
-St Francis,Wheatley,U.S. Congress District 1,,LIB,Elvis Presley,5,5,0,0
-St Francis,FC Ward 1,U.S. Congress District 1,,LIB,Elvis Presley,16,5,10,1
-St Francis,FC Ward 2,U.S. Congress District 1,,LIB,Elvis Presley,18,3,14,1
-St Francis,FC Ward 3,U.S. Congress District 1,,LIB,Elvis Presley,16,9,7,0
-St Francis,FC Ward 4,U.S. Congress District 1,,LIB,Elvis Presley,14,7,7,0
-St Francis,Hughes,U.S. Congress District 1,,DEM,Chintan Desai,327,237,58,32
-St Francis,Heth/Blackfish,U.S. Congress District 1,,DEM,Chintan Desai,43,33,10,0
-St Francis,Widener,U.S. Congress District 1,,DEM,Chintan Desai,66,58,8,0
-St Francis,Madison,U.S. Congress District 1,,DEM,Chintan Desai,191,117,68,6
-St Francis,Bonair,U.S. Congress District 1,,DEM,Chintan Desai,65,25,40,0
-St Francis,Newcastle/Parrott,U.S. Congress District 1,,DEM,Chintan Desai,113,44,67,2
-St Francis,Colt,U.S. Congress District 1,,DEM,Chintan Desai,153,95,57,1
-St Francis,Caldwell,U.S. Congress District 1,,DEM,Chintan Desai,51,23,22,6
-St Francis,Forrest City Country West,U.S. Congress District 1,,DEM,Chintan Desai,60,7,49,4
-St Francis,Palestine,U.S. Congress District 1,,DEM,Chintan Desai,128,69,53,6
-St Francis,Wheatley,U.S. Congress District 1,,DEM,Chintan Desai,39,30,9,0
-St Francis,FC Ward 1,U.S. Congress District 1,,DEM,Chintan Desai,486,164,301,21
-St Francis,FC Ward 2,U.S. Congress District 1,,DEM,Chintan Desai,577,180,351,46
-St Francis,FC Ward 3,U.S. Congress District 1,,DEM,Chintan Desai,397,126,240,31
-St Francis,FC Ward 4,U.S. Congress District 1,,DEM,Chintan Desai,342,110,217,15
-St Francis,Hughes,U.S. Congress District 1,,REP,Congressman Rick Crawford,159,121,31,7
-St Francis,Heth/Blackfish,U.S. Congress District 1,,REP,Congressman Rick Crawford,79,68,11,0
-St Francis,Widener,U.S. Congress District 1,,REP,Congressman Rick Crawford,57,39,17,1
-St Francis,Madison,U.S. Congress District 1,,REP,Congressman Rick Crawford,34,23,8,3
-St Francis,Bonair,U.S. Congress District 1,,REP,Congressman Rick Crawford,212,116,95,1
-St Francis,Newcastle/Parrott,U.S. Congress District 1,,REP,Congressman Rick Crawford,549,311,235,3
-St Francis,Colt,U.S. Congress District 1,,REP,Congressman Rick Crawford,230,149,77,4
-St Francis,Caldwell,U.S. Congress District 1,,REP,Congressman Rick Crawford,148,97,50,1
-St Francis,Forrest City Country West,U.S. Congress District 1,,REP,Congressman Rick Crawford,54,22,32,0
-St Francis,Palestine,U.S. Congress District 1,,REP,Congressman Rick Crawford,264,187,73,4
-St Francis,Wheatley,U.S. Congress District 1,,REP,Congressman Rick Crawford,80,69,11,0
-St Francis,FC Ward 1,U.S. Congress District 1,,REP,Congressman Rick Crawford,45,16,27,2
-St Francis,FC Ward 2,U.S. Congress District 1,,REP,Congressman Rick Crawford,79,23,54,2
-St Francis,FC Ward 3,U.S. Congress District 1,,REP,Congressman Rick Crawford,327,93,220,14
-St Francis,FC Ward 4,U.S. Congress District 1,,REP,Congressman Rick Crawford,270,75,190,5
+St Francis,Hughes,U.S. House,1,LIB,Elvis Presley,16,15,1,0
+St Francis,Heth/Blackfish,U.S. House,1,LIB,Elvis Presley,1,1,0,0
+St Francis,Widener,U.S. House,1,LIB,Elvis Presley,5,5,0,0
+St Francis,Madison,U.S. House,1,LIB,Elvis Presley,3,2,1,0
+St Francis,Bonair,U.S. House,1,LIB,Elvis Presley,8,4,4,0
+St Francis,Newcastle/Parrott,U.S. House,1,LIB,Elvis Presley,14,9,5,0
+St Francis,Colt,U.S. House,1,LIB,Elvis Presley,5,5,0,0
+St Francis,Caldwell,U.S. House,1,LIB,Elvis Presley,2,2,0,0
+St Francis,Forrest City Country West,U.S. House,1,LIB,Elvis Presley,1,0,1,0
+St Francis,Palestine,U.S. House,1,LIB,Elvis Presley,5,2,3,0
+St Francis,Wheatley,U.S. House,1,LIB,Elvis Presley,5,5,0,0
+St Francis,FC Ward 1,U.S. House,1,LIB,Elvis Presley,16,5,10,1
+St Francis,FC Ward 2,U.S. House,1,LIB,Elvis Presley,18,3,14,1
+St Francis,FC Ward 3,U.S. House,1,LIB,Elvis Presley,16,9,7,0
+St Francis,FC Ward 4,U.S. House,1,LIB,Elvis Presley,14,7,7,0
+St Francis,Hughes,U.S. House,1,DEM,Chintan Desai,327,237,58,32
+St Francis,Heth/Blackfish,U.S. House,1,DEM,Chintan Desai,43,33,10,0
+St Francis,Widener,U.S. House,1,DEM,Chintan Desai,66,58,8,0
+St Francis,Madison,U.S. House,1,DEM,Chintan Desai,191,117,68,6
+St Francis,Bonair,U.S. House,1,DEM,Chintan Desai,65,25,40,0
+St Francis,Newcastle/Parrott,U.S. House,1,DEM,Chintan Desai,113,44,67,2
+St Francis,Colt,U.S. House,1,DEM,Chintan Desai,153,95,57,1
+St Francis,Caldwell,U.S. House,1,DEM,Chintan Desai,51,23,22,6
+St Francis,Forrest City Country West,U.S. House,1,DEM,Chintan Desai,60,7,49,4
+St Francis,Palestine,U.S. House,1,DEM,Chintan Desai,128,69,53,6
+St Francis,Wheatley,U.S. House,1,DEM,Chintan Desai,39,30,9,0
+St Francis,FC Ward 1,U.S. House,1,DEM,Chintan Desai,486,164,301,21
+St Francis,FC Ward 2,U.S. House,1,DEM,Chintan Desai,577,180,351,46
+St Francis,FC Ward 3,U.S. House,1,DEM,Chintan Desai,397,126,240,31
+St Francis,FC Ward 4,U.S. House,1,DEM,Chintan Desai,342,110,217,15
+St Francis,Hughes,U.S. House,1,REP,Congressman Rick Crawford,159,121,31,7
+St Francis,Heth/Blackfish,U.S. House,1,REP,Congressman Rick Crawford,79,68,11,0
+St Francis,Widener,U.S. House,1,REP,Congressman Rick Crawford,57,39,17,1
+St Francis,Madison,U.S. House,1,REP,Congressman Rick Crawford,34,23,8,3
+St Francis,Bonair,U.S. House,1,REP,Congressman Rick Crawford,212,116,95,1
+St Francis,Newcastle/Parrott,U.S. House,1,REP,Congressman Rick Crawford,549,311,235,3
+St Francis,Colt,U.S. House,1,REP,Congressman Rick Crawford,230,149,77,4
+St Francis,Caldwell,U.S. House,1,REP,Congressman Rick Crawford,148,97,50,1
+St Francis,Forrest City Country West,U.S. House,1,REP,Congressman Rick Crawford,54,22,32,0
+St Francis,Palestine,U.S. House,1,REP,Congressman Rick Crawford,264,187,73,4
+St Francis,Wheatley,U.S. House,1,REP,Congressman Rick Crawford,80,69,11,0
+St Francis,FC Ward 1,U.S. House,1,REP,Congressman Rick Crawford,45,16,27,2
+St Francis,FC Ward 2,U.S. House,1,REP,Congressman Rick Crawford,79,23,54,2
+St Francis,FC Ward 3,U.S. House,1,REP,Congressman Rick Crawford,327,93,220,14
+St Francis,FC Ward 4,U.S. House,1,REP,Congressman Rick Crawford,270,75,190,5
 St Francis,Hughes,Governor,,DEM,Jared K. Henderson,335,243,60,32
 St Francis,Heth/Blackfish,Governor,,DEM,Jared K. Henderson,42,32,10,0
 St Francis,Widener,Governor,,DEM,Jared K. Henderson,68,59,9,0
@@ -329,30 +329,30 @@ St Francis,FC Ward 1,Commissioner of State Lands,,DEM,Larry Williams,516,173,320
 St Francis,FC Ward 2,Commissioner of State Lands,,DEM,Larry Williams,604,183,374,47
 St Francis,FC Ward 3,Commissioner of State Lands,,DEM,Larry Williams,418,135,250,33
 St Francis,FC Ward 4,Commissioner of State Lands,,DEM,Larry Williams,361,117,229,15
-St Francis,Widener,State Representative District 49,,REP,Representative Steve Hollowell,0,0,0,0
-St Francis,Bonair,State Representative District 49,,REP,Representative Steve Hollowell,166,109,56,1
-St Francis,Newcastle/Parrott,State Representative District 49,,REP,Representative Steve Hollowell,538,307,229,2
-St Francis,Colt,State Representative District 49,,REP,Representative Steve Hollowell,229,154,71,4
-St Francis,Caldwell,State Representative District 49,,REP,Representative Steve Hollowell,152,100,51,1
-St Francis,Forrest City Country West,State Representative District 49,,REP,Representative Steve Hollowell,52,21,31,0
-St Francis,Palestine,State Representative District 49,,REP,Representative Steve Hollowell,264,190,71,3
-St Francis,Wheatley,State Representative District 49,,REP,Representative Steve Hollowell,84,73,11,0
-St Francis,FC Ward 1,State Representative District 49,,REP,Representative Steve Hollowell,4,2,2,0
-St Francis,FC Ward 2,State Representative District 49,,REP,Representative Steve Hollowell,19,5,14,0
-St Francis,FC Ward 3,State Representative District 49,,REP,Representative Steve Hollowell,293,88,190,15
-St Francis,FC Ward 4,State Representative District 49,,REP,Representative Steve Hollowell,107,18,88,1
-St Francis,Widener,State Representative District 49,,DEM,"Howard (Jr.) Smith, II",0,0,0,0
-St Francis,Bonair,State Representative District 49,,DEM,"Howard (Jr.) Smith, II",64,25,39,0
-St Francis,Newcastle/Parrott,State Representative District 49,,DEM,"Howard (Jr.) Smith, II",140,56,81,3
-St Francis,Colt,State Representative District 49,,DEM,"Howard (Jr.) Smith, II",167,96,70,1
-St Francis,Caldwell,State Representative District 49,,DEM,"Howard (Jr.) Smith, II",52,24,22,6
-St Francis,Forrest City Country West,State Representative District 49,,DEM,"Howard (Jr.) Smith, II",63,8,51,4
-St Francis,Palestine,State Representative District 49,,DEM,"Howard (Jr.) Smith, II",138,71,60,7
-St Francis,Wheatley,State Representative District 49,,DEM,"Howard (Jr.) Smith, II",39,30,9,0
-St Francis,FC Ward 1,State Representative District 49,,DEM,"Howard (Jr.) Smith, II",54,24,25,5
-St Francis,FC Ward 2,State Representative District 49,,DEM,"Howard (Jr.) Smith, II",131,42,82,7
-St Francis,FC Ward 3,State Representative District 49,,DEM,"Howard (Jr.) Smith, II",307,86,198,23
-St Francis,FC Ward 4,State Representative District 49,,DEM,"Howard (Jr.) Smith, II",42,6,36,0
+St Francis,Widener,State Representative,49,REP,Representative Steve Hollowell,0,0,0,0
+St Francis,Bonair,State Representative,49,REP,Representative Steve Hollowell,166,109,56,1
+St Francis,Newcastle/Parrott,State Representative,49,REP,Representative Steve Hollowell,538,307,229,2
+St Francis,Colt,State Representative,49,REP,Representative Steve Hollowell,229,154,71,4
+St Francis,Caldwell,State Representative,49,REP,Representative Steve Hollowell,152,100,51,1
+St Francis,Forrest City Country West,State Representative,49,REP,Representative Steve Hollowell,52,21,31,0
+St Francis,Palestine,State Representative,49,REP,Representative Steve Hollowell,264,190,71,3
+St Francis,Wheatley,State Representative,49,REP,Representative Steve Hollowell,84,73,11,0
+St Francis,FC Ward 1,State Representative,49,REP,Representative Steve Hollowell,4,2,2,0
+St Francis,FC Ward 2,State Representative,49,REP,Representative Steve Hollowell,19,5,14,0
+St Francis,FC Ward 3,State Representative,49,REP,Representative Steve Hollowell,293,88,190,15
+St Francis,FC Ward 4,State Representative,49,REP,Representative Steve Hollowell,107,18,88,1
+St Francis,Widener,State Representative,49,DEM,"Howard (Jr.) Smith, II",0,0,0,0
+St Francis,Bonair,State Representative,49,DEM,"Howard (Jr.) Smith, II",64,25,39,0
+St Francis,Newcastle/Parrott,State Representative,49,DEM,"Howard (Jr.) Smith, II",140,56,81,3
+St Francis,Colt,State Representative,49,DEM,"Howard (Jr.) Smith, II",167,96,70,1
+St Francis,Caldwell,State Representative,49,DEM,"Howard (Jr.) Smith, II",52,24,22,6
+St Francis,Forrest City Country West,State Representative,49,DEM,"Howard (Jr.) Smith, II",63,8,51,4
+St Francis,Palestine,State Representative,49,DEM,"Howard (Jr.) Smith, II",138,71,60,7
+St Francis,Wheatley,State Representative,49,DEM,"Howard (Jr.) Smith, II",39,30,9,0
+St Francis,FC Ward 1,State Representative,49,DEM,"Howard (Jr.) Smith, II",54,24,25,5
+St Francis,FC Ward 2,State Representative,49,DEM,"Howard (Jr.) Smith, II",131,42,82,7
+St Francis,FC Ward 3,State Representative,49,DEM,"Howard (Jr.) Smith, II",307,86,198,23
+St Francis,FC Ward 4,State Representative,49,DEM,"Howard (Jr.) Smith, II",42,6,36,0
 St Francis,Hughes,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,264,195,46,23
 St Francis,Heth/Blackfish,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,63,50,13,0
 St Francis,Widener,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,58,43,14,1

@@ -1,64 +1,64 @@
 county,precinct,office,district,party,candidate,votes
-Ashley,CW1,U.S. Congress District 4,,REP,Representative Bruce Westerman,33
-Ashley,CW2,U.S. Congress District 4,,REP,Representative Bruce Westerman,76
-Ashley,CW3,U.S. Congress District 4,,REP,Representative Bruce Westerman,161
-Ashley,NCE,U.S. Congress District 4,,REP,Representative Bruce Westerman,58
-Ashley,NCW,U.S. Congress District 4,,REP,Representative Bruce Westerman,36
-Ashley,WCR,U.S. Congress District 4,,REP,Representative Bruce Westerman,83
-Ashley,VOTECH,U.S. Congress District 4,,REP,Representative Bruce Westerman,55
-Ashley,COOTER,U.S. Congress District 4,,REP,Representative Bruce Westerman,44
-Ashley,HICKORY GROVE,U.S. Congress District 4,,REP,Representative Bruce Westerman,67
-Ashley,CROSSROADS,U.S. Congress District 4,,REP,Representative Bruce Westerman,83
-Ashley,HW3,U.S. Congress District 4,,REP,Representative Bruce Westerman,97
-Ashley,HW2,U.S. Congress District 4,,REP,Representative Bruce Westerman,45
-Ashley,HW1,U.S. Congress District 4,,REP,Representative Bruce Westerman,24
-Ashley,HBG RURAL,U.S. Congress District 4,,REP,Representative Bruce Westerman,168
-Ashley,MT ZION,U.S. Congress District 4,,REP,Representative Bruce Westerman,38
-Ashley,MILO,U.S. Congress District 4,,REP,Representative Bruce Westerman,93
-Ashley,BEECH CREEK,U.S. Congress District 4,,REP,Representative Bruce Westerman,5
-Ashley,MIST,U.S. Congress District 4,,REP,Representative Bruce Westerman,15
-Ashley,FH CITY,U.S. Congress District 4,,REP,Representative Bruce Westerman,8
-Ashley,FH RURAL,U.S. Congress District 4,,REP,Representative Bruce Westerman,51
-Ashley,PORTLAND CITY,U.S. Congress District 4,,REP,Representative Bruce Westerman,24
-Ashley,PORTLAND RURAL,U.S. Congress District 4,,REP,Representative Bruce Westerman,3
-Ashley,BOYDELL,U.S. Congress District 4,,REP,Representative Bruce Westerman,2
-Ashley,SNY/TRA,U.S. Congress District 4,,REP,Representative Bruce Westerman,7
-Ashley,MONTROSE CITY,U.S. Congress District 4,,REP,Representative Bruce Westerman,6
-Ashley,MONTROSE RURAL,U.S. Congress District 4,,REP,Representative Bruce Westerman,1
-Ashley,PARKDALE CITY,U.S. Congress District 4,,REP,Representative Bruce Westerman,7
-Ashley,PARKDALE RURAL,U.S. Congress District 4,,REP,Representative Bruce Westerman,0
-Ashley,WILMOT CITY,U.S. Congress District 4,,REP,Representative Bruce Westerman,9
-Ashley,WILMOT RURAL,U.S. Congress District 4,,REP,Representative Bruce Westerman,6
-Ashley,CW1,U.S. Congress District 4,,REP,Randy Caldwell,11
-Ashley,CW2,U.S. Congress District 4,,REP,Randy Caldwell,23
-Ashley,CW3,U.S. Congress District 4,,REP,Randy Caldwell,33
-Ashley,NCE,U.S. Congress District 4,,REP,Randy Caldwell,15
-Ashley,NCW,U.S. Congress District 4,,REP,Randy Caldwell,8
-Ashley,WCR,U.S. Congress District 4,,REP,Randy Caldwell,26
-Ashley,VOTECH,U.S. Congress District 4,,REP,Randy Caldwell,11
-Ashley,COOTER,U.S. Congress District 4,,REP,Randy Caldwell,12
-Ashley,HICKORY GROVE,U.S. Congress District 4,,REP,Randy Caldwell,11
-Ashley,CROSSROADS,U.S. Congress District 4,,REP,Randy Caldwell,30
-Ashley,HW3,U.S. Congress District 4,,REP,Randy Caldwell,29
-Ashley,HW2,U.S. Congress District 4,,REP,Randy Caldwell,23
-Ashley,HW1,U.S. Congress District 4,,REP,Randy Caldwell,14
-Ashley,HBG RURAL,U.S. Congress District 4,,REP,Randy Caldwell,52
-Ashley,MT ZION,U.S. Congress District 4,,REP,Randy Caldwell,7
-Ashley,MILO,U.S. Congress District 4,,REP,Randy Caldwell,31
-Ashley,BEECH CREEK,U.S. Congress District 4,,REP,Randy Caldwell,2
-Ashley,MIST,U.S. Congress District 4,,REP,Randy Caldwell,4
-Ashley,FH CITY,U.S. Congress District 4,,REP,Randy Caldwell,7
-Ashley,FH RURAL,U.S. Congress District 4,,REP,Randy Caldwell,29
-Ashley,PORTLAND CITY,U.S. Congress District 4,,REP,Randy Caldwell,0
-Ashley,PORTLAND RURAL,U.S. Congress District 4,,REP,Randy Caldwell,0
-Ashley,BOYDELL,U.S. Congress District 4,,REP,Randy Caldwell,0
-Ashley,SNY/TRA,U.S. Congress District 4,,REP,Randy Caldwell,2
-Ashley,MONTROSE CITY,U.S. Congress District 4,,REP,Randy Caldwell,3
-Ashley,MONTROSE RURAL,U.S. Congress District 4,,REP,Randy Caldwell,0
-Ashley,PARKDALE CITY,U.S. Congress District 4,,REP,Randy Caldwell,1
-Ashley,PARKDALE RURAL,U.S. Congress District 4,,REP,Randy Caldwell,0
-Ashley,WILMOT CITY,U.S. Congress District 4,,REP,Randy Caldwell,8
-Ashley,WILMOT RURAL,U.S. Congress District 4,,REP,Randy Caldwell,3
+Ashley,CW1,U.S. House,4,REP,Representative Bruce Westerman,33
+Ashley,CW2,U.S. House,4,REP,Representative Bruce Westerman,76
+Ashley,CW3,U.S. House,4,REP,Representative Bruce Westerman,161
+Ashley,NCE,U.S. House,4,REP,Representative Bruce Westerman,58
+Ashley,NCW,U.S. House,4,REP,Representative Bruce Westerman,36
+Ashley,WCR,U.S. House,4,REP,Representative Bruce Westerman,83
+Ashley,VOTECH,U.S. House,4,REP,Representative Bruce Westerman,55
+Ashley,COOTER,U.S. House,4,REP,Representative Bruce Westerman,44
+Ashley,HICKORY GROVE,U.S. House,4,REP,Representative Bruce Westerman,67
+Ashley,CROSSROADS,U.S. House,4,REP,Representative Bruce Westerman,83
+Ashley,HW3,U.S. House,4,REP,Representative Bruce Westerman,97
+Ashley,HW2,U.S. House,4,REP,Representative Bruce Westerman,45
+Ashley,HW1,U.S. House,4,REP,Representative Bruce Westerman,24
+Ashley,HBG RURAL,U.S. House,4,REP,Representative Bruce Westerman,168
+Ashley,MT ZION,U.S. House,4,REP,Representative Bruce Westerman,38
+Ashley,MILO,U.S. House,4,REP,Representative Bruce Westerman,93
+Ashley,BEECH CREEK,U.S. House,4,REP,Representative Bruce Westerman,5
+Ashley,MIST,U.S. House,4,REP,Representative Bruce Westerman,15
+Ashley,FH CITY,U.S. House,4,REP,Representative Bruce Westerman,8
+Ashley,FH RURAL,U.S. House,4,REP,Representative Bruce Westerman,51
+Ashley,PORTLAND CITY,U.S. House,4,REP,Representative Bruce Westerman,24
+Ashley,PORTLAND RURAL,U.S. House,4,REP,Representative Bruce Westerman,3
+Ashley,BOYDELL,U.S. House,4,REP,Representative Bruce Westerman,2
+Ashley,SNY/TRA,U.S. House,4,REP,Representative Bruce Westerman,7
+Ashley,MONTROSE CITY,U.S. House,4,REP,Representative Bruce Westerman,6
+Ashley,MONTROSE RURAL,U.S. House,4,REP,Representative Bruce Westerman,1
+Ashley,PARKDALE CITY,U.S. House,4,REP,Representative Bruce Westerman,7
+Ashley,PARKDALE RURAL,U.S. House,4,REP,Representative Bruce Westerman,0
+Ashley,WILMOT CITY,U.S. House,4,REP,Representative Bruce Westerman,9
+Ashley,WILMOT RURAL,U.S. House,4,REP,Representative Bruce Westerman,6
+Ashley,CW1,U.S. House,4,REP,Randy Caldwell,11
+Ashley,CW2,U.S. House,4,REP,Randy Caldwell,23
+Ashley,CW3,U.S. House,4,REP,Randy Caldwell,33
+Ashley,NCE,U.S. House,4,REP,Randy Caldwell,15
+Ashley,NCW,U.S. House,4,REP,Randy Caldwell,8
+Ashley,WCR,U.S. House,4,REP,Randy Caldwell,26
+Ashley,VOTECH,U.S. House,4,REP,Randy Caldwell,11
+Ashley,COOTER,U.S. House,4,REP,Randy Caldwell,12
+Ashley,HICKORY GROVE,U.S. House,4,REP,Randy Caldwell,11
+Ashley,CROSSROADS,U.S. House,4,REP,Randy Caldwell,30
+Ashley,HW3,U.S. House,4,REP,Randy Caldwell,29
+Ashley,HW2,U.S. House,4,REP,Randy Caldwell,23
+Ashley,HW1,U.S. House,4,REP,Randy Caldwell,14
+Ashley,HBG RURAL,U.S. House,4,REP,Randy Caldwell,52
+Ashley,MT ZION,U.S. House,4,REP,Randy Caldwell,7
+Ashley,MILO,U.S. House,4,REP,Randy Caldwell,31
+Ashley,BEECH CREEK,U.S. House,4,REP,Randy Caldwell,2
+Ashley,MIST,U.S. House,4,REP,Randy Caldwell,4
+Ashley,FH CITY,U.S. House,4,REP,Randy Caldwell,7
+Ashley,FH RURAL,U.S. House,4,REP,Randy Caldwell,29
+Ashley,PORTLAND CITY,U.S. House,4,REP,Randy Caldwell,0
+Ashley,PORTLAND RURAL,U.S. House,4,REP,Randy Caldwell,0
+Ashley,BOYDELL,U.S. House,4,REP,Randy Caldwell,0
+Ashley,SNY/TRA,U.S. House,4,REP,Randy Caldwell,2
+Ashley,MONTROSE CITY,U.S. House,4,REP,Randy Caldwell,3
+Ashley,MONTROSE RURAL,U.S. House,4,REP,Randy Caldwell,0
+Ashley,PARKDALE CITY,U.S. House,4,REP,Randy Caldwell,1
+Ashley,PARKDALE RURAL,U.S. House,4,REP,Randy Caldwell,0
+Ashley,WILMOT CITY,U.S. House,4,REP,Randy Caldwell,8
+Ashley,WILMOT RURAL,U.S. House,4,REP,Randy Caldwell,3
 Ashley,CW1,Governor,,REP,Governor Asa Hutchinson,29
 Ashley,CW2,Governor,,REP,Governor Asa Hutchinson,65
 Ashley,CW3,Governor,,REP,Governor Asa Hutchinson,128

@@ -1,48 +1,48 @@
 county,precinct,office,district,party,candidate,votes,election_day,early_vote,absentee
-Pike,Antoine,U.S. Congress District 4,,LIB,Tom Canada,2,2,0,0
-Pike,Daisy,U.S. Congress District 4,,LIB,Tom Canada,3,1,0,2
-Pike,Delight,U.S. Congress District 4,,LIB,Tom Canada,11,8,0,3
-Pike,Glenwood North,U.S. Congress District 4,,LIB,Tom Canada,3,3,0,0
-Pike,Glenwood South,U.S. Congress District 4,,LIB,Tom Canada,12,3,0,9
-Pike,Kirby,U.S. Congress District 4,,LIB,Tom Canada,7,5,0,2
-Pike,Langley/Lodi,U.S. Congress District 4,,LIB,Tom Canada,6,4,0,2
-Pike,Murfreesboro East,U.S. Congress District 4,,LIB,Tom Canada,11,4,0,7
-Pike,Murfreesboro West,U.S. Congress District 4,,LIB,Tom Canada,12,2,2,8
-Pike,Newhope,U.S. Congress District 4,,LIB,Tom Canada,0,0,0,0
-Pike,Pisgah,U.S. Congress District 4,,LIB,Tom Canada,3,1,0,2
-Pike,Antoine,U.S. Congress District 4,,REP,Representative Bruce Westerman,39,31,0,8
-Pike,Daisy,U.S. Congress District 4,,REP,Representative Bruce Westerman,183,85,12,86
-Pike,Delight,U.S. Congress District 4,,REP,Representative Bruce Westerman,282,150,5,127
-Pike,Glenwood North,U.S. Congress District 4,,REP,Representative Bruce Westerman,251,96,10,145
-Pike,Glenwood South,U.S. Congress District 4,,REP,Representative Bruce Westerman,359,132,10,217
-Pike,Kirby,U.S. Congress District 4,,REP,Representative Bruce Westerman,326,207,7,112
-Pike,Langley/Lodi,U.S. Congress District 4,,REP,Representative Bruce Westerman,158,80,13,65
-Pike,Murfreesboro East,U.S. Congress District 4,,REP,Representative Bruce Westerman,354,96,11,247
-Pike,Murfreesboro West,U.S. Congress District 4,,REP,Representative Bruce Westerman,440,119,18,303
-Pike,Newhope,U.S. Congress District 4,,REP,Representative Bruce Westerman,145,84,12,49
-Pike,Pisgah,U.S. Congress District 4,,REP,Representative Bruce Westerman,127,75,0,52
-Pike,Antoine,U.S. Congress District 4,,DEM,Hayden Catherine Shamel,65,46,4,15
-Pike,Daisy,U.S. Congress District 4,,DEM,Hayden Catherine Shamel,25,9,2,14
-Pike,Delight,U.S. Congress District 4,,DEM,Hayden Catherine Shamel,56,26,0,30
-Pike,Glenwood North,U.S. Congress District 4,,DEM,Hayden Catherine Shamel,52,22,3,27
-Pike,Glenwood South,U.S. Congress District 4,,DEM,Hayden Catherine Shamel,72,37,0,35
-Pike,Kirby,U.S. Congress District 4,,DEM,Hayden Catherine Shamel,57,33,4,20
-Pike,Langley/Lodi,U.S. Congress District 4,,DEM,Hayden Catherine Shamel,9,6,1,2
-Pike,Murfreesboro East,U.S. Congress District 4,,DEM,Hayden Catherine Shamel,104,23,2,79
-Pike,Murfreesboro West,U.S. Congress District 4,,DEM,Hayden Catherine Shamel,124,35,7,82
-Pike,Newhope,U.S. Congress District 4,,DEM,Hayden Catherine Shamel,7,3,0,4
-Pike,Pisgah,U.S. Congress District 4,,DEM,Hayden Catherine Shamel,28,13,0,15
-Pike,Antoine,U.S. Congress District 4,,NON,Write-In,0,0,0,0
-Pike,Daisy,U.S. Congress District 4,,NON,Write-In,0,0,0,0
-Pike,Delight,U.S. Congress District 4,,NON,Write-In,1,0,0,1
-Pike,Glenwood North,U.S. Congress District 4,,NON,Write-In,0,0,0,0
-Pike,Glenwood South,U.S. Congress District 4,,NON,Write-In,0,0,0,0
-Pike,Kirby,U.S. Congress District 4,,NON,Write-In,0,0,0,0
-Pike,Langley/Lodi,U.S. Congress District 4,,NON,Write-In,0,0,0,0
-Pike,Murfreesboro East,U.S. Congress District 4,,NON,Write-In,0,0,0,0
-Pike,Murfreesboro West,U.S. Congress District 4,,NON,Write-In,0,0,0,0
-Pike,Newhope,U.S. Congress District 4,,NON,Write-In,0,0,0,0
-Pike,Pisgah,U.S. Congress District 4,,NON,Write-In,0,0,0,0
+Pike,Antoine,U.S. House,4,LIB,Tom Canada,2,2,0,0
+Pike,Daisy,U.S. House,4,LIB,Tom Canada,3,1,0,2
+Pike,Delight,U.S. House,4,LIB,Tom Canada,11,8,0,3
+Pike,Glenwood North,U.S. House,4,LIB,Tom Canada,3,3,0,0
+Pike,Glenwood South,U.S. House,4,LIB,Tom Canada,12,3,0,9
+Pike,Kirby,U.S. House,4,LIB,Tom Canada,7,5,0,2
+Pike,Langley/Lodi,U.S. House,4,LIB,Tom Canada,6,4,0,2
+Pike,Murfreesboro East,U.S. House,4,LIB,Tom Canada,11,4,0,7
+Pike,Murfreesboro West,U.S. House,4,LIB,Tom Canada,12,2,2,8
+Pike,Newhope,U.S. House,4,LIB,Tom Canada,0,0,0,0
+Pike,Pisgah,U.S. House,4,LIB,Tom Canada,3,1,0,2
+Pike,Antoine,U.S. House,4,REP,Representative Bruce Westerman,39,31,0,8
+Pike,Daisy,U.S. House,4,REP,Representative Bruce Westerman,183,85,12,86
+Pike,Delight,U.S. House,4,REP,Representative Bruce Westerman,282,150,5,127
+Pike,Glenwood North,U.S. House,4,REP,Representative Bruce Westerman,251,96,10,145
+Pike,Glenwood South,U.S. House,4,REP,Representative Bruce Westerman,359,132,10,217
+Pike,Kirby,U.S. House,4,REP,Representative Bruce Westerman,326,207,7,112
+Pike,Langley/Lodi,U.S. House,4,REP,Representative Bruce Westerman,158,80,13,65
+Pike,Murfreesboro East,U.S. House,4,REP,Representative Bruce Westerman,354,96,11,247
+Pike,Murfreesboro West,U.S. House,4,REP,Representative Bruce Westerman,440,119,18,303
+Pike,Newhope,U.S. House,4,REP,Representative Bruce Westerman,145,84,12,49
+Pike,Pisgah,U.S. House,4,REP,Representative Bruce Westerman,127,75,0,52
+Pike,Antoine,U.S. House,4,DEM,Hayden Catherine Shamel,65,46,4,15
+Pike,Daisy,U.S. House,4,DEM,Hayden Catherine Shamel,25,9,2,14
+Pike,Delight,U.S. House,4,DEM,Hayden Catherine Shamel,56,26,0,30
+Pike,Glenwood North,U.S. House,4,DEM,Hayden Catherine Shamel,52,22,3,27
+Pike,Glenwood South,U.S. House,4,DEM,Hayden Catherine Shamel,72,37,0,35
+Pike,Kirby,U.S. House,4,DEM,Hayden Catherine Shamel,57,33,4,20
+Pike,Langley/Lodi,U.S. House,4,DEM,Hayden Catherine Shamel,9,6,1,2
+Pike,Murfreesboro East,U.S. House,4,DEM,Hayden Catherine Shamel,104,23,2,79
+Pike,Murfreesboro West,U.S. House,4,DEM,Hayden Catherine Shamel,124,35,7,82
+Pike,Newhope,U.S. House,4,DEM,Hayden Catherine Shamel,7,3,0,4
+Pike,Pisgah,U.S. House,4,DEM,Hayden Catherine Shamel,28,13,0,15
+Pike,Antoine,U.S. House,4,NON,Write-In,0,0,0,0
+Pike,Daisy,U.S. House,4,NON,Write-In,0,0,0,0
+Pike,Delight,U.S. House,4,NON,Write-In,1,0,0,1
+Pike,Glenwood North,U.S. House,4,NON,Write-In,0,0,0,0
+Pike,Glenwood South,U.S. House,4,NON,Write-In,0,0,0,0
+Pike,Kirby,U.S. House,4,NON,Write-In,0,0,0,0
+Pike,Langley/Lodi,U.S. House,4,NON,Write-In,0,0,0,0
+Pike,Murfreesboro East,U.S. House,4,NON,Write-In,0,0,0,0
+Pike,Murfreesboro West,U.S. House,4,NON,Write-In,0,0,0,0
+Pike,Newhope,U.S. House,4,NON,Write-In,0,0,0,0
+Pike,Pisgah,U.S. House,4,NON,Write-In,0,0,0,0
 Pike,Antoine,Governor,,DEM,Jared K. Henderson,56,41,2,13
 Pike,Daisy,Governor,,DEM,Jared K. Henderson,18,7,1,10
 Pike,Delight,Governor,,DEM,Jared K. Henderson,56,27,0,29
@@ -252,50 +252,50 @@ Pike,Murfreesboro East,Commissioner of State Lands,,LIB,T.J. Campbell,16,6,1,9
 Pike,Murfreesboro West,Commissioner of State Lands,,LIB,T.J. Campbell,23,4,4,15
 Pike,Newhope,Commissioner of State Lands,,LIB,T.J. Campbell,5,3,0,2
 Pike,Pisgah,Commissioner of State Lands,,LIB,T.J. Campbell,6,2,0,4
-Pike,Antoine,State Senate District 10,,LIB,Bobbi Hicks,18,16,0,2
-Pike,Daisy,State Senate District 10,,LIB,Bobbi Hicks,92,44,7,41
-Pike,Delight,State Senate District 10,,LIB,Bobbi Hicks,129,76,0,53
-Pike,Glenwood North,State Senate District 10,,LIB,Bobbi Hicks,120,49,2,69
-Pike,Glenwood South,State Senate District 10,,LIB,Bobbi Hicks,167,64,3,100
-Pike,Kirby,State Senate District 10,,LIB,Bobbi Hicks,152,102,0,50
-Pike,Langley/Lodi,State Senate District 10,,LIB,Bobbi Hicks,75,40,3,32
-Pike,Murfreesboro East,State Senate District 10,,LIB,Bobbi Hicks,126,37,3,86
-Pike,Murfreesboro West,State Senate District 10,,LIB,Bobbi Hicks,149,43,6,100
-Pike,Newhope,State Senate District 10,,LIB,Bobbi Hicks,60,34,4,22
-Pike,Pisgah,State Senate District 10,,LIB,Bobbi Hicks,47,23,0,24
-Pike,Antoine,State Senate District 10,,DEM,Senator Larry Teague,86,60,4,22
-Pike,Daisy,State Senate District 10,,DEM,Senator Larry Teague,107,45,5,57
-Pike,Delight,State Senate District 10,,DEM,Senator Larry Teague,201,98,3,100
-Pike,Glenwood North,State Senate District 10,,DEM,Senator Larry Teague,167,66,9,92
-Pike,Glenwood South,State Senate District 10,,DEM,Senator Larry Teague,250,101,6,143
-Pike,Kirby,State Senate District 10,,DEM,Senator Larry Teague,212,131,11,70
-Pike,Langley/Lodi,State Senate District 10,,DEM,Senator Larry Teague,85,47,11,27
-Pike,Murfreesboro East,State Senate District 10,,DEM,Senator Larry Teague,322,80,10,232
-Pike,Murfreesboro West,State Senate District 10,,DEM,Senator Larry Teague,407,108,21,278
-Pike,Newhope,State Senate District 10,,DEM,Senator Larry Teague,75,44,5,26
-Pike,Pisgah,State Senate District 10,,DEM,Senator Larry Teague,101,60,0,41
-Pike,Antoine,State Representative District 19,,DEM,Jeremy Ross,67,45,4,18
-Pike,Daisy,State Representative District 19,,DEM,Jeremy Ross,42,15,4,23
-Pike,Delight,State Representative District 19,,DEM,Jeremy Ross,74,36,0,38
-Pike,Glenwood North,State Representative District 19,,DEM,Jeremy Ross,119,47,7,65
-Pike,Glenwood South,State Representative District 19,,DEM,Jeremy Ross,148,63,4,81
-Pike,Kirby,State Representative District 19,,DEM,Jeremy Ross,130,82,9,39
-Pike,Langley/Lodi,State Representative District 19,,DEM,Jeremy Ross,32,18,5,9
-Pike,Murfreesboro East,State Representative District 19,,DEM,Jeremy Ross,173,37,6,130
-Pike,Murfreesboro West,State Representative District 19,,DEM,Jeremy Ross,215,52,14,149
-Pike,Newhope,State Representative District 19,,DEM,Jeremy Ross,19,10,1,8
-Pike,Pisgah,State Representative District 19,,DEM,Jeremy Ross,33,14,0,19
-Pike,Antoine,State Representative District 19,,REP,Representative Justin Gonzales,39,32,1,6
-Pike,Daisy,State Representative District 19,,REP,Representative Justin Gonzales,166,79,10,77
-Pike,Delight,State Representative District 19,,REP,Representative Justin Gonzales,277,149,5,123
-Pike,Glenwood North,State Representative District 19,,REP,Representative Justin Gonzales,187,74,4,109
-Pike,Glenwood South,State Representative District 19,,REP,Representative Justin Gonzales,293,107,7,179
-Pike,Kirby,State Representative District 19,,REP,Representative Justin Gonzales,264,167,2,95
-Pike,Langley/Lodi,State Representative District 19,,REP,Representative Justin Gonzales,146,76,9,61
-Pike,Murfreesboro East,State Representative District 19,,REP,Representative Justin Gonzales,299,87,7,205
-Pike,Murfreesboro West,State Representative District 19,,REP,Representative Justin Gonzales,366,104,15,247
-Pike,Newhope,State Representative District 19,,REP,Representative Justin Gonzales,132,77,10,45
-Pike,Pisgah,State Representative District 19,,REP,Representative Justin Gonzales,126,75,0,51
+Pike,Antoine,State Senate,10,LIB,Bobbi Hicks,18,16,0,2
+Pike,Daisy,State Senate,10,LIB,Bobbi Hicks,92,44,7,41
+Pike,Delight,State Senate,10,LIB,Bobbi Hicks,129,76,0,53
+Pike,Glenwood North,State Senate,10,LIB,Bobbi Hicks,120,49,2,69
+Pike,Glenwood South,State Senate,10,LIB,Bobbi Hicks,167,64,3,100
+Pike,Kirby,State Senate,10,LIB,Bobbi Hicks,152,102,0,50
+Pike,Langley/Lodi,State Senate,10,LIB,Bobbi Hicks,75,40,3,32
+Pike,Murfreesboro East,State Senate,10,LIB,Bobbi Hicks,126,37,3,86
+Pike,Murfreesboro West,State Senate,10,LIB,Bobbi Hicks,149,43,6,100
+Pike,Newhope,State Senate,10,LIB,Bobbi Hicks,60,34,4,22
+Pike,Pisgah,State Senate,10,LIB,Bobbi Hicks,47,23,0,24
+Pike,Antoine,State Senate,10,DEM,Senator Larry Teague,86,60,4,22
+Pike,Daisy,State Senate,10,DEM,Senator Larry Teague,107,45,5,57
+Pike,Delight,State Senate,10,DEM,Senator Larry Teague,201,98,3,100
+Pike,Glenwood North,State Senate,10,DEM,Senator Larry Teague,167,66,9,92
+Pike,Glenwood South,State Senate,10,DEM,Senator Larry Teague,250,101,6,143
+Pike,Kirby,State Senate,10,DEM,Senator Larry Teague,212,131,11,70
+Pike,Langley/Lodi,State Senate,10,DEM,Senator Larry Teague,85,47,11,27
+Pike,Murfreesboro East,State Senate,10,DEM,Senator Larry Teague,322,80,10,232
+Pike,Murfreesboro West,State Senate,10,DEM,Senator Larry Teague,407,108,21,278
+Pike,Newhope,State Senate,10,DEM,Senator Larry Teague,75,44,5,26
+Pike,Pisgah,State Senate,10,DEM,Senator Larry Teague,101,60,0,41
+Pike,Antoine,State Representative,19,DEM,Jeremy Ross,67,45,4,18
+Pike,Daisy,State Representative,19,DEM,Jeremy Ross,42,15,4,23
+Pike,Delight,State Representative,19,DEM,Jeremy Ross,74,36,0,38
+Pike,Glenwood North,State Representative,19,DEM,Jeremy Ross,119,47,7,65
+Pike,Glenwood South,State Representative,19,DEM,Jeremy Ross,148,63,4,81
+Pike,Kirby,State Representative,19,DEM,Jeremy Ross,130,82,9,39
+Pike,Langley/Lodi,State Representative,19,DEM,Jeremy Ross,32,18,5,9
+Pike,Murfreesboro East,State Representative,19,DEM,Jeremy Ross,173,37,6,130
+Pike,Murfreesboro West,State Representative,19,DEM,Jeremy Ross,215,52,14,149
+Pike,Newhope,State Representative,19,DEM,Jeremy Ross,19,10,1,8
+Pike,Pisgah,State Representative,19,DEM,Jeremy Ross,33,14,0,19
+Pike,Antoine,State Representative,19,REP,Representative Justin Gonzales,39,32,1,6
+Pike,Daisy,State Representative,19,REP,Representative Justin Gonzales,166,79,10,77
+Pike,Delight,State Representative,19,REP,Representative Justin Gonzales,277,149,5,123
+Pike,Glenwood North,State Representative,19,REP,Representative Justin Gonzales,187,74,4,109
+Pike,Glenwood South,State Representative,19,REP,Representative Justin Gonzales,293,107,7,179
+Pike,Kirby,State Representative,19,REP,Representative Justin Gonzales,264,167,2,95
+Pike,Langley/Lodi,State Representative,19,REP,Representative Justin Gonzales,146,76,9,61
+Pike,Murfreesboro East,State Representative,19,REP,Representative Justin Gonzales,299,87,7,205
+Pike,Murfreesboro West,State Representative,19,REP,Representative Justin Gonzales,366,104,15,247
+Pike,Newhope,State Representative,19,REP,Representative Justin Gonzales,132,77,10,45
+Pike,Pisgah,State Representative,19,REP,Representative Justin Gonzales,126,75,0,51
 Pike,Antoine,State Supreme Court Associate Justice Position 3,,NON,David Sterling,39,27,0,12
 Pike,Daisy,State Supreme Court Associate Justice Position 3,,NON,David Sterling,92,49,7,36
 Pike,Delight,State Supreme Court Associate Justice Position 3,,NON,David Sterling,155,82,4,69

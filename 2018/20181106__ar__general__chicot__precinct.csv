@@ -1,40 +1,40 @@
 county,precinct,office,district,party,candidate,votes,absentee,provisional,early_vote,election_day
-Chicot,Carlton 1 & 2,U.S. Congress District 1,,Rep,Congressman Rick Crawford,144,6,0,90,48
-Chicot,Carlton 3,U.S. Congress District 1,,Rep,Congressman Rick Crawford,195,9,0,112,74
-Chicot,Carlton Rural,U.S. Congress District 1,,Rep,Congressman Rick Crawford,699,28,0,441,230
-Chicot,Planters 1,U.S. Congress District 1,,Rep,Congressman Rick Crawford,32,4,0,17,11
-Chicot,Planters 2,U.S. Congress District 1,,Rep,Congressman Rick Crawford,27,2,0,10,15
-Chicot,Planters 3,U.S. Congress District 1,,Rep,Congressman Rick Crawford,9,0,0,1,8
-Chicot,Planters 4,U.S. Congress District 1,,Rep,Congressman Rick Crawford,11,3,0,4,4
-Chicot,Planters Rural,U.S. Congress District 1,,Rep,Congressman Rick Crawford,214,12,0,110,92
-Chicot,Bowie 1,U.S. Congress District 1,,Rep,Congressman Rick Crawford,29,0,0,6,23
-Chicot,Bowie 2,U.S. Congress District 1,,Rep,Congressman Rick Crawford,59,7,0,13,39
-Chicot,Bowie 3,U.S. Congress District 1,,Rep,Congressman Rick Crawford,61,8,0,11,42
-Chicot,Bowie Rural,U.S. Congress District 1,,Rep,Congressman Rick Crawford,57,2,0,25,30
-Chicot,Carlton 1 & 2,U.S. Congress District 1,,Dem,Chintan Desai,371,21,0,184,166
-Chicot,Carlton 3,U.S. Congress District 1,,Dem,Chintan Desai,190,16,0,70,104
-Chicot,Carlton Rural,U.S. Congress District 1,,Dem,Chintan Desai,141,8,0,60,73
-Chicot,Planters 1,U.S. Congress District 1,,Dem,Chintan Desai,104,3,0,39,62
-Chicot,Planters 2,U.S. Congress District 1,,Dem,Chintan Desai,150,6,0,41,103
-Chicot,Planters 3,U.S. Congress District 1,,Dem,Chintan Desai,154,3,0,48,103
-Chicot,Planters 4,U.S. Congress District 1,,Dem,Chintan Desai,159,4,0,40,115
-Chicot,Planters Rural,U.S. Congress District 1,,Dem,Chintan Desai,107,3,0,42,62
-Chicot,Bowie 1,U.S. Congress District 1,,Dem,Chintan Desai,155,6,0,27,122
-Chicot,Bowie 2,U.S. Congress District 1,,Dem,Chintan Desai,206,10,0,37,159
-Chicot,Bowie 3,U.S. Congress District 1,,Dem,Chintan Desai,176,12,0,25,139
-Chicot,Bowie Rural,U.S. Congress District 1,,Dem,Chintan Desai,16,0,0,5,11
-Chicot,Carlton 1 & 2,U.S. Congress District 1,,Lib,Elvis Presley,10,1,0,7,2
-Chicot,Carlton 3,U.S. Congress District 1,,Lib,Elvis Presley,15,3,0,5,7
-Chicot,Carlton Rural,U.S. Congress District 1,,Lib,Elvis Presley,9,1,0,6,2
-Chicot,Planters 1,U.S. Congress District 1,,Lib,Elvis Presley,1,0,0,1,0
-Chicot,Planters 2,U.S. Congress District 1,,Lib,Elvis Presley,3,0,0,1,2
-Chicot,Planters 3,U.S. Congress District 1,,Lib,Elvis Presley,5,0,0,2,3
-Chicot,Planters 4,U.S. Congress District 1,,Lib,Elvis Presley,0,0,0,0,0
-Chicot,Planters Rural,U.S. Congress District 1,,Lib,Elvis Presley,3,0,0,1,2
-Chicot,Bowie 1,U.S. Congress District 1,,Lib,Elvis Presley,7,0,0,1,6
-Chicot,Bowie 2,U.S. Congress District 1,,Lib,Elvis Presley,3,1,0,0,2
-Chicot,Bowie 3,U.S. Congress District 1,,Lib,Elvis Presley,5,0,0,0,5
-Chicot,Bowie Rural,U.S. Congress District 1,,Lib,Elvis Presley,0,0,0,0,0
+Chicot,Carlton 1 & 2,U.S. House,1,Rep,Congressman Rick Crawford,144,6,0,90,48
+Chicot,Carlton 3,U.S. House,1,Rep,Congressman Rick Crawford,195,9,0,112,74
+Chicot,Carlton Rural,U.S. House,1,Rep,Congressman Rick Crawford,699,28,0,441,230
+Chicot,Planters 1,U.S. House,1,Rep,Congressman Rick Crawford,32,4,0,17,11
+Chicot,Planters 2,U.S. House,1,Rep,Congressman Rick Crawford,27,2,0,10,15
+Chicot,Planters 3,U.S. House,1,Rep,Congressman Rick Crawford,9,0,0,1,8
+Chicot,Planters 4,U.S. House,1,Rep,Congressman Rick Crawford,11,3,0,4,4
+Chicot,Planters Rural,U.S. House,1,Rep,Congressman Rick Crawford,214,12,0,110,92
+Chicot,Bowie 1,U.S. House,1,Rep,Congressman Rick Crawford,29,0,0,6,23
+Chicot,Bowie 2,U.S. House,1,Rep,Congressman Rick Crawford,59,7,0,13,39
+Chicot,Bowie 3,U.S. House,1,Rep,Congressman Rick Crawford,61,8,0,11,42
+Chicot,Bowie Rural,U.S. House,1,Rep,Congressman Rick Crawford,57,2,0,25,30
+Chicot,Carlton 1 & 2,U.S. House,1,Dem,Chintan Desai,371,21,0,184,166
+Chicot,Carlton 3,U.S. House,1,Dem,Chintan Desai,190,16,0,70,104
+Chicot,Carlton Rural,U.S. House,1,Dem,Chintan Desai,141,8,0,60,73
+Chicot,Planters 1,U.S. House,1,Dem,Chintan Desai,104,3,0,39,62
+Chicot,Planters 2,U.S. House,1,Dem,Chintan Desai,150,6,0,41,103
+Chicot,Planters 3,U.S. House,1,Dem,Chintan Desai,154,3,0,48,103
+Chicot,Planters 4,U.S. House,1,Dem,Chintan Desai,159,4,0,40,115
+Chicot,Planters Rural,U.S. House,1,Dem,Chintan Desai,107,3,0,42,62
+Chicot,Bowie 1,U.S. House,1,Dem,Chintan Desai,155,6,0,27,122
+Chicot,Bowie 2,U.S. House,1,Dem,Chintan Desai,206,10,0,37,159
+Chicot,Bowie 3,U.S. House,1,Dem,Chintan Desai,176,12,0,25,139
+Chicot,Bowie Rural,U.S. House,1,Dem,Chintan Desai,16,0,0,5,11
+Chicot,Carlton 1 & 2,U.S. House,1,Lib,Elvis Presley,10,1,0,7,2
+Chicot,Carlton 3,U.S. House,1,Lib,Elvis Presley,15,3,0,5,7
+Chicot,Carlton Rural,U.S. House,1,Lib,Elvis Presley,9,1,0,6,2
+Chicot,Planters 1,U.S. House,1,Lib,Elvis Presley,1,0,0,1,0
+Chicot,Planters 2,U.S. House,1,Lib,Elvis Presley,3,0,0,1,2
+Chicot,Planters 3,U.S. House,1,Lib,Elvis Presley,5,0,0,2,3
+Chicot,Planters 4,U.S. House,1,Lib,Elvis Presley,0,0,0,0,0
+Chicot,Planters Rural,U.S. House,1,Lib,Elvis Presley,3,0,0,1,2
+Chicot,Bowie 1,U.S. House,1,Lib,Elvis Presley,7,0,0,1,6
+Chicot,Bowie 2,U.S. House,1,Lib,Elvis Presley,3,1,0,0,2
+Chicot,Bowie 3,U.S. House,1,Lib,Elvis Presley,5,0,0,0,5
+Chicot,Bowie Rural,U.S. House,1,Lib,Elvis Presley,0,0,0,0,0
 Chicot,Carlton 1 & 2,Governor,,Rep,Governor Asa Hutchinson,152,8,0,92,52
 Chicot,Carlton 3,Governor,,Rep,Governor Asa Hutchinson,208,9,0,121,78
 Chicot,Carlton Rural,Governor,,Rep,Governor Asa Hutchinson,698,23,0,446,229
@@ -263,42 +263,42 @@ Chicot,Bowie 1,Commissioner of State Lands,,Lib,T.J. Campbell,4,0,0,1,3
 Chicot,Bowie 2,Commissioner of State Lands,,Lib,T.J. Campbell,6,2,0,1,3
 Chicot,Bowie 3,Commissioner of State Lands,,Lib,T.J. Campbell,3,0,0,0,3
 Chicot,Bowie Rural,Commissioner of State Lands,,Lib,T.J. Campbell,0,0,0,0,0
-Chicot,Carlton 1 & 2,State Representative District 11,,Rep,"Ricky E. Lattimore, Sr.",86,3,0,56,27
-Chicot,Carlton 3,State Representative District 11,,Rep,"Ricky E. Lattimore, Sr.",113,5,0,63,45
-Chicot,Carlton Rural,State Representative District 11,,Rep,"Ricky E. Lattimore, Sr.",410,10,0,266,134
-Chicot,Planters 1,State Representative District 11,,Rep,"Ricky E. Lattimore, Sr.",21,3,0,11,7
-Chicot,Planters 2,State Representative District 11,,Rep,"Ricky E. Lattimore, Sr.",22,0,0,8,14
-Chicot,Planters 3,State Representative District 11,,Rep,"Ricky E. Lattimore, Sr.",5,0,0,0,5
-Chicot,Planters 4,State Representative District 11,,Rep,"Ricky E. Lattimore, Sr.",5,1,0,1,3
-Chicot,Planters Rural,State Representative District 11,,Rep,"Ricky E. Lattimore, Sr.",131,9,0,63,59
-Chicot,Bowie 1,State Representative District 11,,Rep,"Ricky E. Lattimore, Sr.",37,1,0,7,29
-Chicot,Bowie 2,State Representative District 11,,Rep,"Ricky E. Lattimore, Sr.",30,1,0,5,24
-Chicot,Bowie 3,State Representative District 11,,Rep,"Ricky E. Lattimore, Sr.",32,4,0,7,21
-Chicot,Bowie Rural,State Representative District 11,,Rep,"Ricky E. Lattimore, Sr.",18,0,0,4,14
-Chicot,Carlton 1 & 2,State Representative District 11,,Dem,Don Glover,331,19,0,161,151
-Chicot,Carlton 3,State Representative District 11,,Dem,Don Glover,159,15,0,57,87
-Chicot,Carlton Rural,State Representative District 11,,Dem,Don Glover,127,9,0,57,61
-Chicot,Planters 1,State Representative District 11,,Dem,Don Glover,100,3,0,38,59
-Chicot,Planters 2,State Representative District 11,,Dem,Don Glover,143,6,0,38,99
-Chicot,Planters 3,State Representative District 11,,Dem,Don Glover,156,3,0,49,104
-Chicot,Planters 4,State Representative District 11,,Dem,Don Glover,157,5,0,41,111
-Chicot,Planters Rural,State Representative District 11,,Dem,Don Glover,102,2,0,37,63
-Chicot,Bowie 1,State Representative District 11,,Dem,Don Glover,143,5,0,25,113
-Chicot,Bowie 2,State Representative District 11,,Dem,Don Glover,191,14,0,35,142
-Chicot,Bowie 3,State Representative District 11,,Dem,Don Glover,160,13,0,21,126
-Chicot,Bowie Rural,State Representative District 11,,Dem,Don Glover,19,1,0,10,8
-Chicot,Carlton 1 & 2,State Representative District 11,,Ind,Representative Mark McElroy,109,7,0,64,38
-Chicot,Carlton 3,State Representative District 11,,Ind,Representative Mark McElroy,129,7,0,68,54
-Chicot,Carlton Rural,State Representative District 11,,Ind,Representative Mark McElroy,314,17,0,187,110
-Chicot,Planters 1,State Representative District 11,,Ind,Representative Mark McElroy,15,1,0,9,5
-Chicot,Planters 2,State Representative District 11,,Ind,Representative Mark McElroy,14,2,0,6,6
-Chicot,Planters 3,State Representative District 11,,Ind,Representative Mark McElroy,8,0,0,1,7
-Chicot,Planters 4,State Representative District 11,,Ind,Representative Mark McElroy,11,2,0,4,5
-Chicot,Planters Rural,State Representative District 11,,Ind,Representative Mark McElroy,91,4,0,53,34
-Chicot,Bowie 1,State Representative District 11,,Ind,Representative Mark McElroy,15,0,0,2,13
-Chicot,Bowie 2,State Representative District 11,,Ind,Representative Mark McElroy,53,3,0,10,40
-Chicot,Bowie 3,State Representative District 11,,Ind,Representative Mark McElroy,55,4,0,7,44
-Chicot,Bowie Rural,State Representative District 11,,Ind,Representative Mark McElroy,36,0,0,17,19
+Chicot,Carlton 1 & 2,State Representative,11,Rep,"Ricky E. Lattimore, Sr.",86,3,0,56,27
+Chicot,Carlton 3,State Representative,11,Rep,"Ricky E. Lattimore, Sr.",113,5,0,63,45
+Chicot,Carlton Rural,State Representative,11,Rep,"Ricky E. Lattimore, Sr.",410,10,0,266,134
+Chicot,Planters 1,State Representative,11,Rep,"Ricky E. Lattimore, Sr.",21,3,0,11,7
+Chicot,Planters 2,State Representative,11,Rep,"Ricky E. Lattimore, Sr.",22,0,0,8,14
+Chicot,Planters 3,State Representative,11,Rep,"Ricky E. Lattimore, Sr.",5,0,0,0,5
+Chicot,Planters 4,State Representative,11,Rep,"Ricky E. Lattimore, Sr.",5,1,0,1,3
+Chicot,Planters Rural,State Representative,11,Rep,"Ricky E. Lattimore, Sr.",131,9,0,63,59
+Chicot,Bowie 1,State Representative,11,Rep,"Ricky E. Lattimore, Sr.",37,1,0,7,29
+Chicot,Bowie 2,State Representative,11,Rep,"Ricky E. Lattimore, Sr.",30,1,0,5,24
+Chicot,Bowie 3,State Representative,11,Rep,"Ricky E. Lattimore, Sr.",32,4,0,7,21
+Chicot,Bowie Rural,State Representative,11,Rep,"Ricky E. Lattimore, Sr.",18,0,0,4,14
+Chicot,Carlton 1 & 2,State Representative,11,Dem,Don Glover,331,19,0,161,151
+Chicot,Carlton 3,State Representative,11,Dem,Don Glover,159,15,0,57,87
+Chicot,Carlton Rural,State Representative,11,Dem,Don Glover,127,9,0,57,61
+Chicot,Planters 1,State Representative,11,Dem,Don Glover,100,3,0,38,59
+Chicot,Planters 2,State Representative,11,Dem,Don Glover,143,6,0,38,99
+Chicot,Planters 3,State Representative,11,Dem,Don Glover,156,3,0,49,104
+Chicot,Planters 4,State Representative,11,Dem,Don Glover,157,5,0,41,111
+Chicot,Planters Rural,State Representative,11,Dem,Don Glover,102,2,0,37,63
+Chicot,Bowie 1,State Representative,11,Dem,Don Glover,143,5,0,25,113
+Chicot,Bowie 2,State Representative,11,Dem,Don Glover,191,14,0,35,142
+Chicot,Bowie 3,State Representative,11,Dem,Don Glover,160,13,0,21,126
+Chicot,Bowie Rural,State Representative,11,Dem,Don Glover,19,1,0,10,8
+Chicot,Carlton 1 & 2,State Representative,11,Ind,Representative Mark McElroy,109,7,0,64,38
+Chicot,Carlton 3,State Representative,11,Ind,Representative Mark McElroy,129,7,0,68,54
+Chicot,Carlton Rural,State Representative,11,Ind,Representative Mark McElroy,314,17,0,187,110
+Chicot,Planters 1,State Representative,11,Ind,Representative Mark McElroy,15,1,0,9,5
+Chicot,Planters 2,State Representative,11,Ind,Representative Mark McElroy,14,2,0,6,6
+Chicot,Planters 3,State Representative,11,Ind,Representative Mark McElroy,8,0,0,1,7
+Chicot,Planters 4,State Representative,11,Ind,Representative Mark McElroy,11,2,0,4,5
+Chicot,Planters Rural,State Representative,11,Ind,Representative Mark McElroy,91,4,0,53,34
+Chicot,Bowie 1,State Representative,11,Ind,Representative Mark McElroy,15,0,0,2,13
+Chicot,Bowie 2,State Representative,11,Ind,Representative Mark McElroy,53,3,0,10,40
+Chicot,Bowie 3,State Representative,11,Ind,Representative Mark McElroy,55,4,0,7,44
+Chicot,Bowie Rural,State Representative,11,Ind,Representative Mark McElroy,36,0,0,17,19
 Chicot,Carlton 1 & 2,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,274,12,0,161,101
 Chicot,Carlton 3,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,254,17,0,134,103
 Chicot,Carlton Rural,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,566,27,0,336,203

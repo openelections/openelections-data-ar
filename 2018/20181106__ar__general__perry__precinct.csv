@@ -1,55 +1,55 @@
 county,precinct,office,district,party,candidate,votes,election_day,early_vote,absentee,provisional
-Perry,1-Aplin,U.S. Congress District 2,,DEM,Representative Clarke Tucker,29,13,15,1,0
-Perry,2-Casa,U.S. Congress District 2,,DEM,Representative Clarke Tucker,48,24,24,0,0
-Perry,3-Cherry Hill,U.S. Congress District 2,,DEM,Representative Clarke Tucker,24,6,18,0,0
-Perry,4-Fourche,U.S. Congress District 2,,DEM,Representative Clarke Tucker,179,56,120,2,1
-Perry,5-Houston,U.S. Congress District 2,,DEM,Representative Clarke Tucker,62,37,23,2,0
-Perry,6-Kenney,U.S. Congress District 2,,DEM,Representative Clarke Tucker,7,1,5,1,0
-Perry,7-Lake,U.S. Congress District 2,,DEM,Representative Clarke Tucker,43,13,29,1,0
-Perry,8-Maumelle,U.S. Congress District 2,,DEM,Representative Clarke Tucker,68,18,49,1,0
-Perry,9-New Tennessee,U.S. Congress District 2,,DEM,Representative Clarke Tucker,14,11,3,0,0
-Perry,10-Perry,U.S. Congress District 2,,DEM,Representative Clarke Tucker,91,64,23,4,0
-Perry,11-Petit Jean,U.S. Congress District 2,,DEM,Representative Clarke Tucker,30,20,10,0,0
-Perry,12-Rankin,U.S. Congress District 2,,DEM,Representative Clarke Tucker,132,38,94,0,0
-Perry,13-Rose Creek,U.S. Congress District 2,,DEM,Representative Clarke Tucker,19,15,4,0,0
-Perry,14-Tyler,U.S. Congress District 2,,DEM,Representative Clarke Tucker,25,23,2,0,0
-Perry,15-Union,U.S. Congress District 2,,DEM,Representative Clarke Tucker,110,74,31,5,0
-Perry,16-Union Valley,U.S. Congress District 2,,DEM,Representative Clarke Tucker,45,15,27,3,0
-Perry,17-Wye,U.S. Congress District 2,,DEM,Representative Clarke Tucker,121,84,33,4,0
-Perry,1-Aplin,U.S. Congress District 2,,LIB,Joe Ryne Swafford,3,1,2,0,0
-Perry,2-Casa,U.S. Congress District 2,,LIB,Joe Ryne Swafford,4,3,1,0,0
-Perry,3-Cherry Hill,U.S. Congress District 2,,LIB,Joe Ryne Swafford,4,2,2,0,0
-Perry,4-Fourche,U.S. Congress District 2,,LIB,Joe Ryne Swafford,11,5,6,0,0
-Perry,5-Houston,U.S. Congress District 2,,LIB,Joe Ryne Swafford,3,3,0,0,0
-Perry,6-Kenney,U.S. Congress District 2,,LIB,Joe Ryne Swafford,1,1,0,0,0
-Perry,7-Lake,U.S. Congress District 2,,LIB,Joe Ryne Swafford,4,0,4,0,0
-Perry,8-Maumelle,U.S. Congress District 2,,LIB,Joe Ryne Swafford,6,0,6,0,0
-Perry,9-New Tennessee,U.S. Congress District 2,,LIB,Joe Ryne Swafford,1,0,1,0,0
-Perry,10-Perry,U.S. Congress District 2,,LIB,Joe Ryne Swafford,13,9,4,0,0
-Perry,11-Petit Jean,U.S. Congress District 2,,LIB,Joe Ryne Swafford,6,2,4,0,0
-Perry,12-Rankin,U.S. Congress District 2,,LIB,Joe Ryne Swafford,12,6,6,0,0
-Perry,13-Rose Creek,U.S. Congress District 2,,LIB,Joe Ryne Swafford,2,1,1,0,0
-Perry,14-Tyler,U.S. Congress District 2,,LIB,Joe Ryne Swafford,0,0,0,0,0
-Perry,15-Union,U.S. Congress District 2,,LIB,Joe Ryne Swafford,9,5,4,0,0
-Perry,16-Union Valley,U.S. Congress District 2,,LIB,Joe Ryne Swafford,1,0,1,0,0
-Perry,17-Wye,U.S. Congress District 2,,LIB,Joe Ryne Swafford,8,8,0,0,0
-Perry,1-Aplin,U.S. Congress District 2,,REP,Congressman French Hill,88,57,31,0,0
-Perry,2-Casa,U.S. Congress District 2,,REP,Congressman French Hill,116,73,42,1,0
-Perry,3-Cherry Hill,U.S. Congress District 2,,REP,Congressman French Hill,69,21,47,1,0
-Perry,4-Fourche,U.S. Congress District 2,,REP,Congressman French Hill,386,104,280,2,0
-Perry,5-Houston,U.S. Congress District 2,,REP,Congressman French Hill,218,105,113,0,0
-Perry,6-Kenney,U.S. Congress District 2,,REP,Congressman French Hill,47,27,20,0,0
-Perry,7-Lake,U.S. Congress District 2,,REP,Congressman French Hill,143,48,95,0,0
-Perry,8-Maumelle,U.S. Congress District 2,,REP,Congressman French Hill,165,54,108,2,1
-Perry,9-New Tennessee,U.S. Congress District 2,,REP,Congressman French Hill,58,36,21,1,0
-Perry,10-Perry,U.S. Congress District 2,,REP,Congressman French Hill,238,157,78,3,0
-Perry,11-Petit Jean,U.S. Congress District 2,,REP,Congressman French Hill,99,52,47,0,0
-Perry,12-Rankin,U.S. Congress District 2,,REP,Congressman French Hill,278,95,183,0,0
-Perry,13-Rose Creek,U.S. Congress District 2,,REP,Congressman French Hill,54,28,24,2,0
-Perry,14-Tyler,U.S. Congress District 2,,REP,Congressman French Hill,60,56,4,0,0
-Perry,15-Union,U.S. Congress District 2,,REP,Congressman French Hill,226,149,77,0,0
-Perry,16-Union Valley,U.S. Congress District 2,,REP,Congressman French Hill,100,35,62,2,1
-Perry,17-Wye,U.S. Congress District 2,,REP,Congressman French Hill,223,151,70,2,0
+Perry,1-Aplin,U.S. House,2,DEM,Representative Clarke Tucker,29,13,15,1,0
+Perry,2-Casa,U.S. House,2,DEM,Representative Clarke Tucker,48,24,24,0,0
+Perry,3-Cherry Hill,U.S. House,2,DEM,Representative Clarke Tucker,24,6,18,0,0
+Perry,4-Fourche,U.S. House,2,DEM,Representative Clarke Tucker,179,56,120,2,1
+Perry,5-Houston,U.S. House,2,DEM,Representative Clarke Tucker,62,37,23,2,0
+Perry,6-Kenney,U.S. House,2,DEM,Representative Clarke Tucker,7,1,5,1,0
+Perry,7-Lake,U.S. House,2,DEM,Representative Clarke Tucker,43,13,29,1,0
+Perry,8-Maumelle,U.S. House,2,DEM,Representative Clarke Tucker,68,18,49,1,0
+Perry,9-New Tennessee,U.S. House,2,DEM,Representative Clarke Tucker,14,11,3,0,0
+Perry,10-Perry,U.S. House,2,DEM,Representative Clarke Tucker,91,64,23,4,0
+Perry,11-Petit Jean,U.S. House,2,DEM,Representative Clarke Tucker,30,20,10,0,0
+Perry,12-Rankin,U.S. House,2,DEM,Representative Clarke Tucker,132,38,94,0,0
+Perry,13-Rose Creek,U.S. House,2,DEM,Representative Clarke Tucker,19,15,4,0,0
+Perry,14-Tyler,U.S. House,2,DEM,Representative Clarke Tucker,25,23,2,0,0
+Perry,15-Union,U.S. House,2,DEM,Representative Clarke Tucker,110,74,31,5,0
+Perry,16-Union Valley,U.S. House,2,DEM,Representative Clarke Tucker,45,15,27,3,0
+Perry,17-Wye,U.S. House,2,DEM,Representative Clarke Tucker,121,84,33,4,0
+Perry,1-Aplin,U.S. House,2,LIB,Joe Ryne Swafford,3,1,2,0,0
+Perry,2-Casa,U.S. House,2,LIB,Joe Ryne Swafford,4,3,1,0,0
+Perry,3-Cherry Hill,U.S. House,2,LIB,Joe Ryne Swafford,4,2,2,0,0
+Perry,4-Fourche,U.S. House,2,LIB,Joe Ryne Swafford,11,5,6,0,0
+Perry,5-Houston,U.S. House,2,LIB,Joe Ryne Swafford,3,3,0,0,0
+Perry,6-Kenney,U.S. House,2,LIB,Joe Ryne Swafford,1,1,0,0,0
+Perry,7-Lake,U.S. House,2,LIB,Joe Ryne Swafford,4,0,4,0,0
+Perry,8-Maumelle,U.S. House,2,LIB,Joe Ryne Swafford,6,0,6,0,0
+Perry,9-New Tennessee,U.S. House,2,LIB,Joe Ryne Swafford,1,0,1,0,0
+Perry,10-Perry,U.S. House,2,LIB,Joe Ryne Swafford,13,9,4,0,0
+Perry,11-Petit Jean,U.S. House,2,LIB,Joe Ryne Swafford,6,2,4,0,0
+Perry,12-Rankin,U.S. House,2,LIB,Joe Ryne Swafford,12,6,6,0,0
+Perry,13-Rose Creek,U.S. House,2,LIB,Joe Ryne Swafford,2,1,1,0,0
+Perry,14-Tyler,U.S. House,2,LIB,Joe Ryne Swafford,0,0,0,0,0
+Perry,15-Union,U.S. House,2,LIB,Joe Ryne Swafford,9,5,4,0,0
+Perry,16-Union Valley,U.S. House,2,LIB,Joe Ryne Swafford,1,0,1,0,0
+Perry,17-Wye,U.S. House,2,LIB,Joe Ryne Swafford,8,8,0,0,0
+Perry,1-Aplin,U.S. House,2,REP,Congressman French Hill,88,57,31,0,0
+Perry,2-Casa,U.S. House,2,REP,Congressman French Hill,116,73,42,1,0
+Perry,3-Cherry Hill,U.S. House,2,REP,Congressman French Hill,69,21,47,1,0
+Perry,4-Fourche,U.S. House,2,REP,Congressman French Hill,386,104,280,2,0
+Perry,5-Houston,U.S. House,2,REP,Congressman French Hill,218,105,113,0,0
+Perry,6-Kenney,U.S. House,2,REP,Congressman French Hill,47,27,20,0,0
+Perry,7-Lake,U.S. House,2,REP,Congressman French Hill,143,48,95,0,0
+Perry,8-Maumelle,U.S. House,2,REP,Congressman French Hill,165,54,108,2,1
+Perry,9-New Tennessee,U.S. House,2,REP,Congressman French Hill,58,36,21,1,0
+Perry,10-Perry,U.S. House,2,REP,Congressman French Hill,238,157,78,3,0
+Perry,11-Petit Jean,U.S. House,2,REP,Congressman French Hill,99,52,47,0,0
+Perry,12-Rankin,U.S. House,2,REP,Congressman French Hill,278,95,183,0,0
+Perry,13-Rose Creek,U.S. House,2,REP,Congressman French Hill,54,28,24,2,0
+Perry,14-Tyler,U.S. House,2,REP,Congressman French Hill,60,56,4,0,0
+Perry,15-Union,U.S. House,2,REP,Congressman French Hill,226,149,77,0,0
+Perry,16-Union Valley,U.S. House,2,REP,Congressman French Hill,100,35,62,2,1
+Perry,17-Wye,U.S. House,2,REP,Congressman French Hill,223,151,70,2,0
 Perry,1-Aplin,Governor,,LIB,Mark West,3,2,1,0,0
 Perry,2-Casa,Governor,,LIB,Mark West,9,9,0,0,0
 Perry,3-Cherry Hill,Governor,,LIB,Mark West,2,0,2,0,0
@@ -373,54 +373,54 @@ Perry,14-Tyler,Commissioner of State Lands,,LIB,T.J. Campbell,1,1,0,0,0
 Perry,15-Union,Commissioner of State Lands,,LIB,T.J. Campbell,6,2,4,0,0
 Perry,16-Union Valley,Commissioner of State Lands,,LIB,T.J. Campbell,4,3,1,0,0
 Perry,17-Wye,Commissioner of State Lands,,LIB,T.J. Campbell,15,15,0,0,0
-Perry,15-Union,State Senate District 35,,DEM,Maureen Skinner,59,38,16,5,0
-Perry,15-Union,State Senate District 35,,REP,Senator Jason Rapert,97,66,31,0,0
-Perry,14-Tyler,State Representative District 21,,DEM,Stele Wayne James,25,23,2,0,0
-Perry,14-Tyler,State Representative District 21,,REP,Representative Marcus E. Richmond,58,54,4,0,0
-Perry,3-Cherry Hill,State Representative District 65,,REP,Representative Rick Beck,0,0,0,0,0
-Perry,4-Fourche,State Representative District 65,,REP,Representative Rick Beck,390,104,283,2,1
-Perry,5-Houston,State Representative District 65,,REP,Representative Rick Beck,212,106,106,0,0
-Perry,6-Kenney,State Representative District 65,,REP,Representative Rick Beck,47,26,21,0,0
-Perry,7-Lake,State Representative District 65,,REP,Representative Rick Beck,146,47,99,0,0
-Perry,8-Maumelle,State Representative District 65,,REP,Representative Rick Beck,0,0,0,0,0
-Perry,10-Perry,State Representative District 65,,REP,Representative Rick Beck,124,82,41,1,0
-Perry,11-Petit Jean,State Representative District 65,,REP,Representative Rick Beck,108,56,52,0,0
-Perry,12-Rankin,State Representative District 65,,REP,Representative Rick Beck,273,93,180,0,0
-Perry,15-Union,State Representative District 65,,REP,Representative Rick Beck,181,126,55,0,0
-Perry,16-Union Valley,State Representative District 65,,REP,Representative Rick Beck,98,34,61,2,1
-Perry,17-Wye,State Representative District 65,,REP,Representative Rick Beck,234,163,69,2,0
-Perry,3-Cherry Hill,State Representative District 65,,DEM,Michael J. Roetzel,0,0,0,0,0
-Perry,4-Fourche,State Representative District 65,,DEM,Michael J. Roetzel,187,62,123,2,0
-Perry,5-Houston,State Representative District 65,,DEM,Michael J. Roetzel,70,42,27,1,0
-Perry,6-Kenney,State Representative District 65,,DEM,Michael J. Roetzel,8,3,4,1,0
-Perry,7-Lake,State Representative District 65,,DEM,Michael J. Roetzel,45,15,29,1,0
-Perry,8-Maumelle,State Representative District 65,,DEM,Michael J. Roetzel,0,0,0,0,0
-Perry,10-Perry,State Representative District 65,,DEM,Michael J. Roetzel,62,47,13,2,0
-Perry,11-Petit Jean,State Representative District 65,,DEM,Michael J. Roetzel,27,18,9,0,0
-Perry,12-Rankin,State Representative District 65,,DEM,Michael J. Roetzel,149,45,104,0,0
-Perry,15-Union,State Representative District 65,,DEM,Michael J. Roetzel,62,40,22,0,0
-Perry,16-Union Valley,State Representative District 65,,DEM,Michael J. Roetzel,48,17,28,3,0
-Perry,17-Wye,State Representative District 65,,DEM,Michael J. Roetzel,114,78,33,3,0
-Perry,10-Perry,State Representative District 70,,REP,Justice of the Peace Spencer Hawks,116,76,39,1,0
-Perry,15-Union,State Representative District 70,,REP,Justice of the Peace Spencer Hawks,49,26,23,0,0
-Perry,17-Wye,State Representative District 70,,REP,Justice of the Peace Spencer Hawks,0,0,0,0,0
-Perry,10-Perry,State Representative District 70,,DEM,Alderman Andy Hawkins,41,24,14,3,0
-Perry,15-Union,State Representative District 70,,DEM,Alderman Andy Hawkins,53,36,12,5,0
-Perry,17-Wye,State Representative District 70,,DEM,Alderman Andy Hawkins,1,0,0,1,0
-Perry,1-Aplin,State Representative District 73,,DEM,Dana Bonham,31,15,15,1,0
-Perry,2-Casa,State Representative District 73,,DEM,Dana Bonham,50,27,23,0,0
-Perry,3-Cherry Hill,State Representative District 73,,DEM,Dana Bonham,27,9,18,0,0
-Perry,8-Maumelle,State Representative District 73,,DEM,Dana Bonham,70,18,51,1,0
-Perry,9-New Tennessee,State Representative District 73,,DEM,Dana Bonham,21,17,4,0,0
-Perry,11-Petit Jean,State Representative District 73,,DEM,Dana Bonham,0,0,0,0,0
-Perry,13-Rose Creek,State Representative District 73,,DEM,Dana Bonham,20,15,5,0,0
-Perry,1-Aplin,State Representative District 73,,REP,State Representative Mary Bentley,88,56,32,0,0
-Perry,2-Casa,State Representative District 73,,REP,State Representative Mary Bentley,118,73,44,1,0
-Perry,3-Cherry Hill,State Representative District 73,,REP,State Representative Mary Bentley,70,20,49,1,0
-Perry,8-Maumelle,State Representative District 73,,REP,State Representative Mary Bentley,165,54,108,2,1
-Perry,9-New Tennessee,State Representative District 73,,REP,State Representative Mary Bentley,52,30,21,1,0
-Perry,11-Petit Jean,State Representative District 73,,REP,State Representative Mary Bentley,0,0,0,0,0
-Perry,13-Rose Creek,State Representative District 73,,REP,State Representative Mary Bentley,55,29,24,2,0
+Perry,15-Union,State Senate,35,DEM,Maureen Skinner,59,38,16,5,0
+Perry,15-Union,State Senate,35,REP,Senator Jason Rapert,97,66,31,0,0
+Perry,14-Tyler,State Representative,21,DEM,Stele Wayne James,25,23,2,0,0
+Perry,14-Tyler,State Representative,21,REP,Representative Marcus E. Richmond,58,54,4,0,0
+Perry,3-Cherry Hill,State Representative,65,REP,Representative Rick Beck,0,0,0,0,0
+Perry,4-Fourche,State Representative,65,REP,Representative Rick Beck,390,104,283,2,1
+Perry,5-Houston,State Representative,65,REP,Representative Rick Beck,212,106,106,0,0
+Perry,6-Kenney,State Representative,65,REP,Representative Rick Beck,47,26,21,0,0
+Perry,7-Lake,State Representative,65,REP,Representative Rick Beck,146,47,99,0,0
+Perry,8-Maumelle,State Representative,65,REP,Representative Rick Beck,0,0,0,0,0
+Perry,10-Perry,State Representative,65,REP,Representative Rick Beck,124,82,41,1,0
+Perry,11-Petit Jean,State Representative,65,REP,Representative Rick Beck,108,56,52,0,0
+Perry,12-Rankin,State Representative,65,REP,Representative Rick Beck,273,93,180,0,0
+Perry,15-Union,State Representative,65,REP,Representative Rick Beck,181,126,55,0,0
+Perry,16-Union Valley,State Representative,65,REP,Representative Rick Beck,98,34,61,2,1
+Perry,17-Wye,State Representative,65,REP,Representative Rick Beck,234,163,69,2,0
+Perry,3-Cherry Hill,State Representative,65,DEM,Michael J. Roetzel,0,0,0,0,0
+Perry,4-Fourche,State Representative,65,DEM,Michael J. Roetzel,187,62,123,2,0
+Perry,5-Houston,State Representative,65,DEM,Michael J. Roetzel,70,42,27,1,0
+Perry,6-Kenney,State Representative,65,DEM,Michael J. Roetzel,8,3,4,1,0
+Perry,7-Lake,State Representative,65,DEM,Michael J. Roetzel,45,15,29,1,0
+Perry,8-Maumelle,State Representative,65,DEM,Michael J. Roetzel,0,0,0,0,0
+Perry,10-Perry,State Representative,65,DEM,Michael J. Roetzel,62,47,13,2,0
+Perry,11-Petit Jean,State Representative,65,DEM,Michael J. Roetzel,27,18,9,0,0
+Perry,12-Rankin,State Representative,65,DEM,Michael J. Roetzel,149,45,104,0,0
+Perry,15-Union,State Representative,65,DEM,Michael J. Roetzel,62,40,22,0,0
+Perry,16-Union Valley,State Representative,65,DEM,Michael J. Roetzel,48,17,28,3,0
+Perry,17-Wye,State Representative,65,DEM,Michael J. Roetzel,114,78,33,3,0
+Perry,10-Perry,State Representative,70,REP,Justice of the Peace Spencer Hawks,116,76,39,1,0
+Perry,15-Union,State Representative,70,REP,Justice of the Peace Spencer Hawks,49,26,23,0,0
+Perry,17-Wye,State Representative,70,REP,Justice of the Peace Spencer Hawks,0,0,0,0,0
+Perry,10-Perry,State Representative,70,DEM,Alderman Andy Hawkins,41,24,14,3,0
+Perry,15-Union,State Representative,70,DEM,Alderman Andy Hawkins,53,36,12,5,0
+Perry,17-Wye,State Representative,70,DEM,Alderman Andy Hawkins,1,0,0,1,0
+Perry,1-Aplin,State Representative,73,DEM,Dana Bonham,31,15,15,1,0
+Perry,2-Casa,State Representative,73,DEM,Dana Bonham,50,27,23,0,0
+Perry,3-Cherry Hill,State Representative,73,DEM,Dana Bonham,27,9,18,0,0
+Perry,8-Maumelle,State Representative,73,DEM,Dana Bonham,70,18,51,1,0
+Perry,9-New Tennessee,State Representative,73,DEM,Dana Bonham,21,17,4,0,0
+Perry,11-Petit Jean,State Representative,73,DEM,Dana Bonham,0,0,0,0,0
+Perry,13-Rose Creek,State Representative,73,DEM,Dana Bonham,20,15,5,0,0
+Perry,1-Aplin,State Representative,73,REP,State Representative Mary Bentley,88,56,32,0,0
+Perry,2-Casa,State Representative,73,REP,State Representative Mary Bentley,118,73,44,1,0
+Perry,3-Cherry Hill,State Representative,73,REP,State Representative Mary Bentley,70,20,49,1,0
+Perry,8-Maumelle,State Representative,73,REP,State Representative Mary Bentley,165,54,108,2,1
+Perry,9-New Tennessee,State Representative,73,REP,State Representative Mary Bentley,52,30,21,1,0
+Perry,11-Petit Jean,State Representative,73,REP,State Representative Mary Bentley,0,0,0,0,0
+Perry,13-Rose Creek,State Representative,73,REP,State Representative Mary Bentley,55,29,24,2,0
 Perry,1-Aplin,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,54,29,25,0,0
 Perry,2-Casa,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,101,53,48,0,0
 Perry,3-Cherry Hill,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,47,13,34,0,0

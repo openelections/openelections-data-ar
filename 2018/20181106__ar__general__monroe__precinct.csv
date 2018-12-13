@@ -1,52 +1,52 @@
 county,precinct,office,district,party,candidate,votes,election_day,early_vote,election_day_paper,absentee,provisional
-Monroe,BRINKLEY WARD 1,U.S. Congress District 1,,REP,Congressman Rick Crawford,193,138,31,0,3,21
-Monroe,BRINKLEY WARD 2,U.S. Congress District 1,,REP,Congressman Rick Crawford,124,85,21,0,7,11
-Monroe,BRINKLEY WARD 3,U.S. Congress District 1,,REP,Congressman Rick Crawford,176,139,23,0,2,12
-Monroe,CLARENDON WARD 1,U.S. Congress District 1,,REP,Congressman Rick Crawford,76,31,20,0,0,25
-Monroe,CLARENDON WARD 2,U.S. Congress District 1,,REP,Congressman Rick Crawford,126,36,40,0,4,46
-Monroe,CLARENDON WARD 3,U.S. Congress District 1,,REP,Congressman Rick Crawford,97,35,30,0,2,30
-Monroe,HOLLY GROVE,U.S. Congress District 1,,REP,Congressman Rick Crawford,18,10,4,0,0,4
-Monroe,RICHLAND/GREENFIELD/FARGO,U.S. Congress District 1,,REP,Congressman Rick Crawford,67,61,3,0,0,3
-Monroe,BRINKLEY/ DIXON,U.S. Congress District 1,,REP,Congressman Rick Crawford,138,101,19,0,1,17
-Monroe,CACHE,U.S. Congress District 1,,REP,Congressman Rick Crawford,33,11,12,0,0,10
-Monroe,KEEVIL,U.S. Congress District 1,,REP,Congressman Rick Crawford,41,24,14,0,1,2
-Monroe,CYPRESS RIDGE,U.S. Congress District 1,,REP,Congressman Rick Crawford,79,32,11,29,3,4
-Monroe,HINDMAN/ RAYMOND/PINE RID,U.S. Congress District 1,,REP,Congressman Rick Crawford,49,28,7,9,0,5
-Monroe,DUNCAN,U.S. Congress District 1,,REP,Congressman Rick Crawford,41,11,14,9,1,6
-Monroe,JACKSN/CLBRNE/MONT./SMALL,U.S. Congress District 1,,REP,Congressman Rick Crawford,69,41,9,5,1,13
-Monroe,ROC,U.S. Congress District 1,,REP,Congressman Rick Crawford,81,69,5,4,2,1
-Monroe,BRINKLEY WARD 1,U.S. Congress District 1,,DEM,Chintan Desai,138,64,33,1,3,37
-Monroe,BRINKLEY WARD 2,U.S. Congress District 1,,DEM,Chintan Desai,198,127,33,0,4,34
-Monroe,BRINKLEY WARD 3,U.S. Congress District 1,,DEM,Chintan Desai,161,85,46,0,5,25
-Monroe,CLARENDON WARD 1,U.S. Congress District 1,,DEM,Chintan Desai,99,38,37,0,4,20
-Monroe,CLARENDON WARD 2,U.S. Congress District 1,,DEM,Chintan Desai,73,31,26,0,1,15
-Monroe,CLARENDON WARD 3,U.S. Congress District 1,,DEM,Chintan Desai,64,24,24,1,1,14
-Monroe,HOLLY GROVE,U.S. Congress District 1,,DEM,Chintan Desai,184,115,27,19,2,21
-Monroe,RICHLAND/GREENFIELD/FARGO,U.S. Congress District 1,,DEM,Chintan Desai,36,23,8,0,1,4
-Monroe,BRINKLEY/ DIXON,U.S. Congress District 1,,DEM,Chintan Desai,55,33,13,0,3,6
-Monroe,CACHE,U.S. Congress District 1,,DEM,Chintan Desai,10,6,1,0,0,3
-Monroe,KEEVIL,U.S. Congress District 1,,DEM,Chintan Desai,12,8,2,0,1,1
-Monroe,CYPRESS RIDGE,U.S. Congress District 1,,DEM,Chintan Desai,11,4,4,3,0,0
-Monroe,HINDMAN/ RAYMOND/PINE RID,U.S. Congress District 1,,DEM,Chintan Desai,16,9,2,3,0,2
-Monroe,DUNCAN,U.S. Congress District 1,,DEM,Chintan Desai,27,13,4,2,1,7
-Monroe,JACKSN/CLBRNE/MONT./SMALL,U.S. Congress District 1,,DEM,Chintan Desai,29,13,8,1,1,6
-Monroe,ROC,U.S. Congress District 1,,DEM,Chintan Desai,18,10,5,1,2,0
-Monroe,BRINKLEY WARD 1,U.S. Congress District 1,,LIB,Elvis Presley,4,4,0,0,0,0
-Monroe,BRINKLEY WARD 2,U.S. Congress District 1,,LIB,Elvis Presley,3,3,0,0,0,0
-Monroe,BRINKLEY WARD 3,U.S. Congress District 1,,LIB,Elvis Presley,6,5,1,0,0,0
-Monroe,CLARENDON WARD 1,U.S. Congress District 1,,LIB,Elvis Presley,5,2,1,0,0,2
-Monroe,CLARENDON WARD 2,U.S. Congress District 1,,LIB,Elvis Presley,8,4,3,0,0,1
-Monroe,CLARENDON WARD 3,U.S. Congress District 1,,LIB,Elvis Presley,6,2,2,0,0,2
-Monroe,HOLLY GROVE,U.S. Congress District 1,,LIB,Elvis Presley,3,2,1,0,0,0
-Monroe,RICHLAND/GREENFIELD/FARGO,U.S. Congress District 1,,LIB,Elvis Presley,2,2,0,0,0,0
-Monroe,BRINKLEY/ DIXON,U.S. Congress District 1,,LIB,Elvis Presley,3,2,0,0,0,1
-Monroe,CACHE,U.S. Congress District 1,,LIB,Elvis Presley,1,0,1,0,0,0
-Monroe,KEEVIL,U.S. Congress District 1,,LIB,Elvis Presley,2,1,1,0,0,0
-Monroe,CYPRESS RIDGE,U.S. Congress District 1,,LIB,Elvis Presley,0,0,0,0,0,0
-Monroe,HINDMAN/ RAYMOND/PINE RID,U.S. Congress District 1,,LIB,Elvis Presley,3,3,0,0,0,0
-Monroe,DUNCAN,U.S. Congress District 1,,LIB,Elvis Presley,1,0,1,0,0,0
-Monroe,JACKSN/CLBRNE/MONT./SMALL,U.S. Congress District 1,,LIB,Elvis Presley,0,0,0,0,0,0
-Monroe,ROC,U.S. Congress District 1,,LIB,Elvis Presley,2,1,1,0,0,0
+Monroe,BRINKLEY WARD 1,U.S. House,1,REP,Congressman Rick Crawford,193,138,31,0,3,21
+Monroe,BRINKLEY WARD 2,U.S. House,1,REP,Congressman Rick Crawford,124,85,21,0,7,11
+Monroe,BRINKLEY WARD 3,U.S. House,1,REP,Congressman Rick Crawford,176,139,23,0,2,12
+Monroe,CLARENDON WARD 1,U.S. House,1,REP,Congressman Rick Crawford,76,31,20,0,0,25
+Monroe,CLARENDON WARD 2,U.S. House,1,REP,Congressman Rick Crawford,126,36,40,0,4,46
+Monroe,CLARENDON WARD 3,U.S. House,1,REP,Congressman Rick Crawford,97,35,30,0,2,30
+Monroe,HOLLY GROVE,U.S. House,1,REP,Congressman Rick Crawford,18,10,4,0,0,4
+Monroe,RICHLAND/GREENFIELD/FARGO,U.S. House,1,REP,Congressman Rick Crawford,67,61,3,0,0,3
+Monroe,BRINKLEY/ DIXON,U.S. House,1,REP,Congressman Rick Crawford,138,101,19,0,1,17
+Monroe,CACHE,U.S. House,1,REP,Congressman Rick Crawford,33,11,12,0,0,10
+Monroe,KEEVIL,U.S. House,1,REP,Congressman Rick Crawford,41,24,14,0,1,2
+Monroe,CYPRESS RIDGE,U.S. House,1,REP,Congressman Rick Crawford,79,32,11,29,3,4
+Monroe,HINDMAN/ RAYMOND/PINE RID,U.S. House,1,REP,Congressman Rick Crawford,49,28,7,9,0,5
+Monroe,DUNCAN,U.S. House,1,REP,Congressman Rick Crawford,41,11,14,9,1,6
+Monroe,JACKSN/CLBRNE/MONT./SMALL,U.S. House,1,REP,Congressman Rick Crawford,69,41,9,5,1,13
+Monroe,ROC,U.S. House,1,REP,Congressman Rick Crawford,81,69,5,4,2,1
+Monroe,BRINKLEY WARD 1,U.S. House,1,DEM,Chintan Desai,138,64,33,1,3,37
+Monroe,BRINKLEY WARD 2,U.S. House,1,DEM,Chintan Desai,198,127,33,0,4,34
+Monroe,BRINKLEY WARD 3,U.S. House,1,DEM,Chintan Desai,161,85,46,0,5,25
+Monroe,CLARENDON WARD 1,U.S. House,1,DEM,Chintan Desai,99,38,37,0,4,20
+Monroe,CLARENDON WARD 2,U.S. House,1,DEM,Chintan Desai,73,31,26,0,1,15
+Monroe,CLARENDON WARD 3,U.S. House,1,DEM,Chintan Desai,64,24,24,1,1,14
+Monroe,HOLLY GROVE,U.S. House,1,DEM,Chintan Desai,184,115,27,19,2,21
+Monroe,RICHLAND/GREENFIELD/FARGO,U.S. House,1,DEM,Chintan Desai,36,23,8,0,1,4
+Monroe,BRINKLEY/ DIXON,U.S. House,1,DEM,Chintan Desai,55,33,13,0,3,6
+Monroe,CACHE,U.S. House,1,DEM,Chintan Desai,10,6,1,0,0,3
+Monroe,KEEVIL,U.S. House,1,DEM,Chintan Desai,12,8,2,0,1,1
+Monroe,CYPRESS RIDGE,U.S. House,1,DEM,Chintan Desai,11,4,4,3,0,0
+Monroe,HINDMAN/ RAYMOND/PINE RID,U.S. House,1,DEM,Chintan Desai,16,9,2,3,0,2
+Monroe,DUNCAN,U.S. House,1,DEM,Chintan Desai,27,13,4,2,1,7
+Monroe,JACKSN/CLBRNE/MONT./SMALL,U.S. House,1,DEM,Chintan Desai,29,13,8,1,1,6
+Monroe,ROC,U.S. House,1,DEM,Chintan Desai,18,10,5,1,2,0
+Monroe,BRINKLEY WARD 1,U.S. House,1,LIB,Elvis Presley,4,4,0,0,0,0
+Monroe,BRINKLEY WARD 2,U.S. House,1,LIB,Elvis Presley,3,3,0,0,0,0
+Monroe,BRINKLEY WARD 3,U.S. House,1,LIB,Elvis Presley,6,5,1,0,0,0
+Monroe,CLARENDON WARD 1,U.S. House,1,LIB,Elvis Presley,5,2,1,0,0,2
+Monroe,CLARENDON WARD 2,U.S. House,1,LIB,Elvis Presley,8,4,3,0,0,1
+Monroe,CLARENDON WARD 3,U.S. House,1,LIB,Elvis Presley,6,2,2,0,0,2
+Monroe,HOLLY GROVE,U.S. House,1,LIB,Elvis Presley,3,2,1,0,0,0
+Monroe,RICHLAND/GREENFIELD/FARGO,U.S. House,1,LIB,Elvis Presley,2,2,0,0,0,0
+Monroe,BRINKLEY/ DIXON,U.S. House,1,LIB,Elvis Presley,3,2,0,0,0,1
+Monroe,CACHE,U.S. House,1,LIB,Elvis Presley,1,0,1,0,0,0
+Monroe,KEEVIL,U.S. House,1,LIB,Elvis Presley,2,1,1,0,0,0
+Monroe,CYPRESS RIDGE,U.S. House,1,LIB,Elvis Presley,0,0,0,0,0,0
+Monroe,HINDMAN/ RAYMOND/PINE RID,U.S. House,1,LIB,Elvis Presley,3,3,0,0,0,0
+Monroe,DUNCAN,U.S. House,1,LIB,Elvis Presley,1,0,1,0,0,0
+Monroe,JACKSN/CLBRNE/MONT./SMALL,U.S. House,1,LIB,Elvis Presley,0,0,0,0,0,0
+Monroe,ROC,U.S. House,1,LIB,Elvis Presley,2,1,1,0,0,0
 Monroe,BRINKLEY WARD 1,Governor,,LIB,Mark West,5,4,1,0,0,0
 Monroe,BRINKLEY WARD 2,Governor,,LIB,Mark West,6,4,0,0,0,2
 Monroe,BRINKLEY WARD 3,Governor,,LIB,Mark West,2,1,1,0,0,0
@@ -351,20 +351,20 @@ Monroe,HINDMAN/ RAYMOND/PINE RID,Commissioner of State Lands,,DEM,Larry Williams
 Monroe,DUNCAN,Commissioner of State Lands,,DEM,Larry Williams,30,15,5,2,1,7
 Monroe,JACKSN/CLBRNE/MONT./SMALL,Commissioner of State Lands,,DEM,Larry Williams,35,19,7,2,1,6
 Monroe,ROC,Commissioner of State Lands,,DEM,Larry Williams,19,11,4,2,2,0
-Monroe,BRINKLEY WARD 1,State Representative District 49,,REP,Representative Steve Hollowell,185,128,33,0,4,20
-Monroe,BRINKLEY WARD 2,State Representative District 49,,REP,Representative Steve Hollowell,119,81,20,0,6,12
-Monroe,BRINKLEY WARD 3,State Representative District 49,,REP,Representative Steve Hollowell,165,133,19,0,0,13
-Monroe,RICHLAND/GREENFIELD/FARGO,State Representative District 49,,REP,Representative Steve Hollowell,65,60,2,0,0,3
-Monroe,BRINKLEY/ DIXON,State Representative District 49,,REP,Representative Steve Hollowell,137,101,19,0,1,16
-Monroe,KEEVIL,State Representative District 49,,REP,Representative Steve Hollowell,42,24,15,0,1,2
-Monroe,CYPRESS RIDGE,State Representative District 49,,REP,Representative Steve Hollowell,73,30,10,26,3,4
-Monroe,BRINKLEY WARD 1,State Representative District 49,,DEM,"Howard (Jr.) Smith, II",149,75,32,1,4,37
-Monroe,BRINKLEY WARD 2,State Representative District 49,,DEM,"Howard (Jr.) Smith, II",211,136,36,0,5,34
-Monroe,BRINKLEY WARD 3,State Representative District 49,,DEM,"Howard (Jr.) Smith, II",184,99,54,0,7,24
-Monroe,RICHLAND/GREENFIELD/FARGO,State Representative District 49,,DEM,"Howard (Jr.) Smith, II",44,30,9,0,1,4
-Monroe,BRINKLEY/ DIXON,State Representative District 49,,DEM,"Howard (Jr.) Smith, II",65,39,15,0,3,8
-Monroe,KEEVIL,State Representative District 49,,DEM,"Howard (Jr.) Smith, II",12,8,2,0,1,1
-Monroe,CYPRESS RIDGE,State Representative District 49,,DEM,"Howard (Jr.) Smith, II",17,6,5,6,0,0
+Monroe,BRINKLEY WARD 1,State Representative,49,REP,Representative Steve Hollowell,185,128,33,0,4,20
+Monroe,BRINKLEY WARD 2,State Representative,49,REP,Representative Steve Hollowell,119,81,20,0,6,12
+Monroe,BRINKLEY WARD 3,State Representative,49,REP,Representative Steve Hollowell,165,133,19,0,0,13
+Monroe,RICHLAND/GREENFIELD/FARGO,State Representative,49,REP,Representative Steve Hollowell,65,60,2,0,0,3
+Monroe,BRINKLEY/ DIXON,State Representative,49,REP,Representative Steve Hollowell,137,101,19,0,1,16
+Monroe,KEEVIL,State Representative,49,REP,Representative Steve Hollowell,42,24,15,0,1,2
+Monroe,CYPRESS RIDGE,State Representative,49,REP,Representative Steve Hollowell,73,30,10,26,3,4
+Monroe,BRINKLEY WARD 1,State Representative,49,DEM,"Howard (Jr.) Smith, II",149,75,32,1,4,37
+Monroe,BRINKLEY WARD 2,State Representative,49,DEM,"Howard (Jr.) Smith, II",211,136,36,0,5,34
+Monroe,BRINKLEY WARD 3,State Representative,49,DEM,"Howard (Jr.) Smith, II",184,99,54,0,7,24
+Monroe,RICHLAND/GREENFIELD/FARGO,State Representative,49,DEM,"Howard (Jr.) Smith, II",44,30,9,0,1,4
+Monroe,BRINKLEY/ DIXON,State Representative,49,DEM,"Howard (Jr.) Smith, II",65,39,15,0,3,8
+Monroe,KEEVIL,State Representative,49,DEM,"Howard (Jr.) Smith, II",12,8,2,0,1,1
+Monroe,CYPRESS RIDGE,State Representative,49,DEM,"Howard (Jr.) Smith, II",17,6,5,6,0,0
 Monroe,BRINKLEY WARD 1,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,180,111,36,0,4,29
 Monroe,BRINKLEY WARD 2,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,180,113,35,0,3,29
 Monroe,BRINKLEY WARD 3,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,191,124,41,0,2,24

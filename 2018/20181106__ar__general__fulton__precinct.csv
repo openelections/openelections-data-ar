@@ -1,40 +1,40 @@
 county,precinct,office,district,party,candidate,votes,absentee,provisional,early_vote,election_day
-Fulton,BENTON/UNION,U.S. Congress District 1,,DEM,Chintan Desai,267,0,0,208,59
-Fulton,VIDETTE/BIG CREEK,U.S. Congress District 1,,DEM,Chintan Desai,44,0,0,10,34
-Fulton,CLEVELAND,U.S. Congress District 1,,DEM,Chintan Desai,25,0,0,8,17
-Fulton,FULTON/MT CALM,U.S. Congress District 1,,DEM,Chintan Desai,66,0,0,21,45
-Fulton,MAMMOTH SPRING/AFTON,U.S. Congress District 1,,DEM,Chintan Desai,186,0,0,82,104
-Fulton,MYATT,U.S. Congress District 1,,DEM,Chintan Desai,14,0,0,4,10
-Fulton,PLEASANT RIDGE,U.S. Congress District 1,,DEM,Chintan Desai,77,0,0,33,44
-Fulton,CHEROKEE VILLAGE,U.S. Congress District 1,,DEM,Chintan Desai,73,0,0,27,46
-Fulton,SOUTHFORK/WILSON,U.S. Congress District 1,,DEM,Chintan Desai,72,0,0,45,27
-Fulton,STRAWBERRY,U.S. Congress District 1,,DEM,Chintan Desai,53,0,0,37,16
-Fulton,WASHINGTON,U.S. Congress District 1,,DEM,Chintan Desai,42,0,0,17,25
-Fulton,ABSENTEE,U.S. Congress District 1,,DEM,Chintan Desai,14,14,0,0,0
-Fulton,BENTON/UNION,U.S. Congress District 1,,LIB,Elvis Presley,19,0,0,13,6
-Fulton,VIDETTE/BIG CREEK,U.S. Congress District 1,,LIB,Elvis Presley,4,0,0,1,3
-Fulton,CLEVELAND,U.S. Congress District 1,,LIB,Elvis Presley,2,0,0,1,1
-Fulton,FULTON/MT CALM,U.S. Congress District 1,,LIB,Elvis Presley,5,0,0,2,3
-Fulton,MAMMOTH SPRING/AFTON,U.S. Congress District 1,,LIB,Elvis Presley,17,0,0,5,12
-Fulton,MYATT,U.S. Congress District 1,,LIB,Elvis Presley,1,0,0,0,1
-Fulton,PLEASANT RIDGE,U.S. Congress District 1,,LIB,Elvis Presley,4,0,0,2,2
-Fulton,CHEROKEE VILLAGE,U.S. Congress District 1,,LIB,Elvis Presley,8,0,0,2,6
-Fulton,SOUTHFORK/WILSON,U.S. Congress District 1,,LIB,Elvis Presley,6,0,0,1,5
-Fulton,STRAWBERRY,U.S. Congress District 1,,LIB,Elvis Presley,6,0,0,3,3
-Fulton,WASHINGTON,U.S. Congress District 1,,LIB,Elvis Presley,1,0,0,1,0
-Fulton,ABSENTEE,U.S. Congress District 1,,LIB,Elvis Presley,2,2,0,0,0
-Fulton,BENTON/UNION,U.S. Congress District 1,,REP,Congressman Rick Crawford,611,0,0,441,170
-Fulton,VIDETTE/BIG CREEK,U.S. Congress District 1,,REP,Congressman Rick Crawford,215,0,0,68,147
-Fulton,CLEVELAND,U.S. Congress District 1,,REP,Congressman Rick Crawford,103,0,0,39,64
-Fulton,FULTON/MT CALM,U.S. Congress District 1,,REP,Congressman Rick Crawford,278,0,0,90,188
-Fulton,MAMMOTH SPRING/AFTON,U.S. Congress District 1,,REP,Congressman Rick Crawford,547,0,0,245,302
-Fulton,MYATT,U.S. Congress District 1,,REP,Congressman Rick Crawford,55,0,0,12,43
-Fulton,PLEASANT RIDGE,U.S. Congress District 1,,REP,Congressman Rick Crawford,247,0,0,114,133
-Fulton,CHEROKEE VILLAGE,U.S. Congress District 1,,REP,Congressman Rick Crawford,212,0,0,76,136
-Fulton,SOUTHFORK/WILSON,U.S. Congress District 1,,REP,Congressman Rick Crawford,190,0,0,108,82
-Fulton,STRAWBERRY,U.S. Congress District 1,,REP,Congressman Rick Crawford,175,0,0,75,100
-Fulton,WASHINGTON,U.S. Congress District 1,,REP,Congressman Rick Crawford,97,0,0,45,52
-Fulton,ABSENTEE,U.S. Congress District 1,,REP,Congressman Rick Crawford,60,60,0,0,0
+Fulton,BENTON/UNION,U.S. House,1,DEM,Chintan Desai,267,0,0,208,59
+Fulton,VIDETTE/BIG CREEK,U.S. House,1,DEM,Chintan Desai,44,0,0,10,34
+Fulton,CLEVELAND,U.S. House,1,DEM,Chintan Desai,25,0,0,8,17
+Fulton,FULTON/MT CALM,U.S. House,1,DEM,Chintan Desai,66,0,0,21,45
+Fulton,MAMMOTH SPRING/AFTON,U.S. House,1,DEM,Chintan Desai,186,0,0,82,104
+Fulton,MYATT,U.S. House,1,DEM,Chintan Desai,14,0,0,4,10
+Fulton,PLEASANT RIDGE,U.S. House,1,DEM,Chintan Desai,77,0,0,33,44
+Fulton,CHEROKEE VILLAGE,U.S. House,1,DEM,Chintan Desai,73,0,0,27,46
+Fulton,SOUTHFORK/WILSON,U.S. House,1,DEM,Chintan Desai,72,0,0,45,27
+Fulton,STRAWBERRY,U.S. House,1,DEM,Chintan Desai,53,0,0,37,16
+Fulton,WASHINGTON,U.S. House,1,DEM,Chintan Desai,42,0,0,17,25
+Fulton,ABSENTEE,U.S. House,1,DEM,Chintan Desai,14,14,0,0,0
+Fulton,BENTON/UNION,U.S. House,1,LIB,Elvis Presley,19,0,0,13,6
+Fulton,VIDETTE/BIG CREEK,U.S. House,1,LIB,Elvis Presley,4,0,0,1,3
+Fulton,CLEVELAND,U.S. House,1,LIB,Elvis Presley,2,0,0,1,1
+Fulton,FULTON/MT CALM,U.S. House,1,LIB,Elvis Presley,5,0,0,2,3
+Fulton,MAMMOTH SPRING/AFTON,U.S. House,1,LIB,Elvis Presley,17,0,0,5,12
+Fulton,MYATT,U.S. House,1,LIB,Elvis Presley,1,0,0,0,1
+Fulton,PLEASANT RIDGE,U.S. House,1,LIB,Elvis Presley,4,0,0,2,2
+Fulton,CHEROKEE VILLAGE,U.S. House,1,LIB,Elvis Presley,8,0,0,2,6
+Fulton,SOUTHFORK/WILSON,U.S. House,1,LIB,Elvis Presley,6,0,0,1,5
+Fulton,STRAWBERRY,U.S. House,1,LIB,Elvis Presley,6,0,0,3,3
+Fulton,WASHINGTON,U.S. House,1,LIB,Elvis Presley,1,0,0,1,0
+Fulton,ABSENTEE,U.S. House,1,LIB,Elvis Presley,2,2,0,0,0
+Fulton,BENTON/UNION,U.S. House,1,REP,Congressman Rick Crawford,611,0,0,441,170
+Fulton,VIDETTE/BIG CREEK,U.S. House,1,REP,Congressman Rick Crawford,215,0,0,68,147
+Fulton,CLEVELAND,U.S. House,1,REP,Congressman Rick Crawford,103,0,0,39,64
+Fulton,FULTON/MT CALM,U.S. House,1,REP,Congressman Rick Crawford,278,0,0,90,188
+Fulton,MAMMOTH SPRING/AFTON,U.S. House,1,REP,Congressman Rick Crawford,547,0,0,245,302
+Fulton,MYATT,U.S. House,1,REP,Congressman Rick Crawford,55,0,0,12,43
+Fulton,PLEASANT RIDGE,U.S. House,1,REP,Congressman Rick Crawford,247,0,0,114,133
+Fulton,CHEROKEE VILLAGE,U.S. House,1,REP,Congressman Rick Crawford,212,0,0,76,136
+Fulton,SOUTHFORK/WILSON,U.S. House,1,REP,Congressman Rick Crawford,190,0,0,108,82
+Fulton,STRAWBERRY,U.S. House,1,REP,Congressman Rick Crawford,175,0,0,75,100
+Fulton,WASHINGTON,U.S. House,1,REP,Congressman Rick Crawford,97,0,0,45,52
+Fulton,ABSENTEE,U.S. House,1,REP,Congressman Rick Crawford,60,60,0,0,0
 Fulton,BENTON/UNION,Governor,,DEM,Jared K. Henderson,268,0,0,212,56
 Fulton,VIDETTE/BIG CREEK,Governor,,DEM,Jared K. Henderson,40,0,0,9,31
 Fulton,CLEVELAND,Governor,,DEM,Jared K. Henderson,24,0,0,9,15
@@ -263,42 +263,42 @@ Fulton,SOUTHFORK/WILSON,Commissioner of State Lands,,REP,Tommy Land,174,0,0,101,
 Fulton,STRAWBERRY,Commissioner of State Lands,,REP,Tommy Land,163,0,0,69,94
 Fulton,WASHINGTON,Commissioner of State Lands,,REP,Tommy Land,88,0,0,40,48
 Fulton,ABSENTEE,Commissioner of State Lands,,REP,Tommy Land,59,59,0,0,0
-Fulton,MAMMOTH SPRING/AFTON,State Senate District 19,,REP,Representative James Sturch,490,0,0,212,278
-Fulton,MYATT,State Senate District 19,,REP,Representative James Sturch,46,0,0,11,35
-Fulton,PLEASANT RIDGE,State Senate District 19,,REP,Representative James Sturch,226,0,0,103,123
-Fulton,CHEROKEE VILLAGE,State Senate District 19,,REP,Representative James Sturch,195,0,0,69,126
-Fulton,STRAWBERRY,State Senate District 19,,REP,Representative James Sturch,169,0,0,78,91
-Fulton,ABSENTEE,State Senate District 19,,REP,Representative James Sturch,34,34,0,0,0
-Fulton,MAMMOTH SPRING/AFTON,State Senate District 19,,DEM,Susi Epperson,256,0,0,119,137
-Fulton,MYATT,State Senate District 19,,DEM,Susi Epperson,22,0,0,5,17
-Fulton,PLEASANT RIDGE,State Senate District 19,,DEM,Susi Epperson,101,0,0,44,57
-Fulton,CHEROKEE VILLAGE,State Senate District 19,,DEM,Susi Epperson,96,0,0,35,61
-Fulton,STRAWBERRY,State Senate District 19,,DEM,Susi Epperson,68,0,0,39,29
-Fulton,ABSENTEE,State Senate District 19,,DEM,Susi Epperson,7,7,0,0,0
-Fulton,BENTON/UNION,State Representative District 61,,DEM,Representative Scott Baltz,547,0,0,418,129
-Fulton,VIDETTE/BIG CREEK,State Representative District 61,,DEM,Representative Scott Baltz,90,0,0,23,67
-Fulton,CLEVELAND,State Representative District 61,,DEM,Representative Scott Baltz,64,0,0,23,41
-Fulton,FULTON/MT CALM,State Representative District 61,,DEM,Representative Scott Baltz,145,0,0,45,100
-Fulton,MAMMOTH SPRING/AFTON,State Representative District 61,,DEM,Representative Scott Baltz,320,0,0,147,173
-Fulton,MYATT,State Representative District 61,,DEM,Representative Scott Baltz,35,0,0,4,31
-Fulton,PLEASANT RIDGE,State Representative District 61,,DEM,Representative Scott Baltz,122,0,0,54,68
-Fulton,CHEROKEE VILLAGE,State Representative District 61,,DEM,Representative Scott Baltz,109,0,0,44,65
-Fulton,SOUTHFORK/WILSON,State Representative District 61,,DEM,Representative Scott Baltz,133,0,0,71,62
-Fulton,STRAWBERRY,State Representative District 61,,DEM,Representative Scott Baltz,93,0,0,57,36
-Fulton,WASHINGTON,State Representative District 61,,DEM,Representative Scott Baltz,72,0,0,28,44
-Fulton,ABSENTEE,State Representative District 61,,DEM,Representative Scott Baltz,26,26,0,0,0
-Fulton,BENTON/UNION,State Representative District 61,,REP,Marsh Davis,361,0,0,251,110
-Fulton,VIDETTE/BIG CREEK,State Representative District 61,,REP,Marsh Davis,174,0,0,58,116
-Fulton,CLEVELAND,State Representative District 61,,REP,Marsh Davis,68,0,0,26,42
-Fulton,FULTON/MT CALM,State Representative District 61,,REP,Marsh Davis,217,0,0,74,143
-Fulton,MAMMOTH SPRING/AFTON,State Representative District 61,,REP,Marsh Davis,428,0,0,183,245
-Fulton,MYATT,State Representative District 61,,REP,Marsh Davis,33,0,0,12,21
-Fulton,PLEASANT RIDGE,State Representative District 61,,REP,Marsh Davis,206,0,0,94,112
-Fulton,CHEROKEE VILLAGE,State Representative District 61,,REP,Marsh Davis,181,0,0,58,123
-Fulton,SOUTHFORK/WILSON,State Representative District 61,,REP,Marsh Davis,139,0,0,84,55
-Fulton,STRAWBERRY,State Representative District 61,,REP,Marsh Davis,146,0,0,61,85
-Fulton,WASHINGTON,State Representative District 61,,REP,Marsh Davis,72,0,0,38,34
-Fulton,ABSENTEE,State Representative District 61,,REP,Marsh Davis,52,52,0,0,0
+Fulton,MAMMOTH SPRING/AFTON,State Senate,19,REP,Representative James Sturch,490,0,0,212,278
+Fulton,MYATT,State Senate,19,REP,Representative James Sturch,46,0,0,11,35
+Fulton,PLEASANT RIDGE,State Senate,19,REP,Representative James Sturch,226,0,0,103,123
+Fulton,CHEROKEE VILLAGE,State Senate,19,REP,Representative James Sturch,195,0,0,69,126
+Fulton,STRAWBERRY,State Senate,19,REP,Representative James Sturch,169,0,0,78,91
+Fulton,ABSENTEE,State Senate,19,REP,Representative James Sturch,34,34,0,0,0
+Fulton,MAMMOTH SPRING/AFTON,State Senate,19,DEM,Susi Epperson,256,0,0,119,137
+Fulton,MYATT,State Senate,19,DEM,Susi Epperson,22,0,0,5,17
+Fulton,PLEASANT RIDGE,State Senate,19,DEM,Susi Epperson,101,0,0,44,57
+Fulton,CHEROKEE VILLAGE,State Senate,19,DEM,Susi Epperson,96,0,0,35,61
+Fulton,STRAWBERRY,State Senate,19,DEM,Susi Epperson,68,0,0,39,29
+Fulton,ABSENTEE,State Senate,19,DEM,Susi Epperson,7,7,0,0,0
+Fulton,BENTON/UNION,State Representative,61,DEM,Representative Scott Baltz,547,0,0,418,129
+Fulton,VIDETTE/BIG CREEK,State Representative,61,DEM,Representative Scott Baltz,90,0,0,23,67
+Fulton,CLEVELAND,State Representative,61,DEM,Representative Scott Baltz,64,0,0,23,41
+Fulton,FULTON/MT CALM,State Representative,61,DEM,Representative Scott Baltz,145,0,0,45,100
+Fulton,MAMMOTH SPRING/AFTON,State Representative,61,DEM,Representative Scott Baltz,320,0,0,147,173
+Fulton,MYATT,State Representative,61,DEM,Representative Scott Baltz,35,0,0,4,31
+Fulton,PLEASANT RIDGE,State Representative,61,DEM,Representative Scott Baltz,122,0,0,54,68
+Fulton,CHEROKEE VILLAGE,State Representative,61,DEM,Representative Scott Baltz,109,0,0,44,65
+Fulton,SOUTHFORK/WILSON,State Representative,61,DEM,Representative Scott Baltz,133,0,0,71,62
+Fulton,STRAWBERRY,State Representative,61,DEM,Representative Scott Baltz,93,0,0,57,36
+Fulton,WASHINGTON,State Representative,61,DEM,Representative Scott Baltz,72,0,0,28,44
+Fulton,ABSENTEE,State Representative,61,DEM,Representative Scott Baltz,26,26,0,0,0
+Fulton,BENTON/UNION,State Representative,61,REP,Marsh Davis,361,0,0,251,110
+Fulton,VIDETTE/BIG CREEK,State Representative,61,REP,Marsh Davis,174,0,0,58,116
+Fulton,CLEVELAND,State Representative,61,REP,Marsh Davis,68,0,0,26,42
+Fulton,FULTON/MT CALM,State Representative,61,REP,Marsh Davis,217,0,0,74,143
+Fulton,MAMMOTH SPRING/AFTON,State Representative,61,REP,Marsh Davis,428,0,0,183,245
+Fulton,MYATT,State Representative,61,REP,Marsh Davis,33,0,0,12,21
+Fulton,PLEASANT RIDGE,State Representative,61,REP,Marsh Davis,206,0,0,94,112
+Fulton,CHEROKEE VILLAGE,State Representative,61,REP,Marsh Davis,181,0,0,58,123
+Fulton,SOUTHFORK/WILSON,State Representative,61,REP,Marsh Davis,139,0,0,84,55
+Fulton,STRAWBERRY,State Representative,61,REP,Marsh Davis,146,0,0,61,85
+Fulton,WASHINGTON,State Representative,61,REP,Marsh Davis,72,0,0,38,34
+Fulton,ABSENTEE,State Representative,61,REP,Marsh Davis,52,52,0,0,0
 Fulton,BENTON/UNION,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,464,0,0,329,135
 Fulton,VIDETTE/BIG CREEK,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,101,0,0,30,71
 Fulton,CLEVELAND,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,74,0,0,26,48

@@ -1,72 +1,72 @@
 county,precinct,office,district,party,candidate,votes
-Perry,1-Aplin,U.S. Congress District 2,,DEM,Representative Clarke Tucker,24
-Perry,2-Casa,U.S. Congress District 2,,DEM,Representative Clarke Tucker,10
-Perry,3-Cherry Hill,U.S. Congress District 2,,DEM,Representative Clarke Tucker,17
-Perry,4-Fourche,U.S. Congress District 2,,DEM,Representative Clarke Tucker,71
-Perry,5-Houston,U.S. Congress District 2,,DEM,Representative Clarke Tucker,17
-Perry,6-Kenney,U.S. Congress District 2,,DEM,Representative Clarke Tucker,1
-Perry,7-Lake,U.S. Congress District 2,,DEM,Representative Clarke Tucker,17
-Perry,8-Maumelle,U.S. Congress District 2,,DEM,Representative Clarke Tucker,34
-Perry,9-New Tennessee,U.S. Congress District 2,,DEM,Representative Clarke Tucker,6
-Perry,10-Perry,U.S. Congress District 2,,DEM,Representative Clarke Tucker,45
-Perry,11-Petit Jean,U.S. Congress District 2,,DEM,Representative Clarke Tucker,9
-Perry,12-Rankin,U.S. Congress District 2,,DEM,Representative Clarke Tucker,37
-Perry,13-Rose Creek,U.S. Congress District 2,,DEM,Representative Clarke Tucker,7
-Perry,14-Tyler,U.S. Congress District 2,,DEM,Representative Clarke Tucker,12
-Perry,15-Union,U.S. Congress District 2,,DEM,Representative Clarke Tucker,31
-Perry,16-Union Valley,U.S. Congress District 2,,DEM,Representative Clarke Tucker,14
-Perry,17-Wye,U.S. Congress District 2,,DEM,Representative Clarke Tucker,23
-Perry,1-Aplin,U.S. Congress District 2,,DEM,Jonathan Dunkley,0
-Perry,2-Casa,U.S. Congress District 2,,DEM,Jonathan Dunkley,1
-Perry,3-Cherry Hill,U.S. Congress District 2,,DEM,Jonathan Dunkley,2
-Perry,4-Fourche,U.S. Congress District 2,,DEM,Jonathan Dunkley,4
-Perry,5-Houston,U.S. Congress District 2,,DEM,Jonathan Dunkley,1
-Perry,6-Kenney,U.S. Congress District 2,,DEM,Jonathan Dunkley,0
-Perry,7-Lake,U.S. Congress District 2,,DEM,Jonathan Dunkley,1
-Perry,8-Maumelle,U.S. Congress District 2,,DEM,Jonathan Dunkley,0
-Perry,9-New Tennessee,U.S. Congress District 2,,DEM,Jonathan Dunkley,0
-Perry,10-Perry,U.S. Congress District 2,,DEM,Jonathan Dunkley,3
-Perry,11-Petit Jean,U.S. Congress District 2,,DEM,Jonathan Dunkley,3
-Perry,12-Rankin,U.S. Congress District 2,,DEM,Jonathan Dunkley,4
-Perry,13-Rose Creek,U.S. Congress District 2,,DEM,Jonathan Dunkley,0
-Perry,14-Tyler,U.S. Congress District 2,,DEM,Jonathan Dunkley,0
-Perry,15-Union,U.S. Congress District 2,,DEM,Jonathan Dunkley,3
-Perry,16-Union Valley,U.S. Congress District 2,,DEM,Jonathan Dunkley,3
-Perry,17-Wye,U.S. Congress District 2,,DEM,Jonathan Dunkley,2
-Perry,1-Aplin,U.S. Congress District 2,,DEM,Gwen Combs,6
-Perry,2-Casa,U.S. Congress District 2,,DEM,Gwen Combs,2
-Perry,3-Cherry Hill,U.S. Congress District 2,,DEM,Gwen Combs,2
-Perry,4-Fourche,U.S. Congress District 2,,DEM,Gwen Combs,21
-Perry,5-Houston,U.S. Congress District 2,,DEM,Gwen Combs,1
-Perry,6-Kenney,U.S. Congress District 2,,DEM,Gwen Combs,0
-Perry,7-Lake,U.S. Congress District 2,,DEM,Gwen Combs,3
-Perry,8-Maumelle,U.S. Congress District 2,,DEM,Gwen Combs,5
-Perry,9-New Tennessee,U.S. Congress District 2,,DEM,Gwen Combs,1
-Perry,10-Perry,U.S. Congress District 2,,DEM,Gwen Combs,9
-Perry,11-Petit Jean,U.S. Congress District 2,,DEM,Gwen Combs,4
-Perry,12-Rankin,U.S. Congress District 2,,DEM,Gwen Combs,12
-Perry,13-Rose Creek,U.S. Congress District 2,,DEM,Gwen Combs,0
-Perry,14-Tyler,U.S. Congress District 2,,DEM,Gwen Combs,0
-Perry,15-Union,U.S. Congress District 2,,DEM,Gwen Combs,12
-Perry,16-Union Valley,U.S. Congress District 2,,DEM,Gwen Combs,8
-Perry,17-Wye,U.S. Congress District 2,,DEM,Gwen Combs,12
-Perry,1-Aplin,U.S. Congress District 2,,DEM,Paul J. Spencer,2
-Perry,2-Casa,U.S. Congress District 2,,DEM,Paul J. Spencer,2
-Perry,3-Cherry Hill,U.S. Congress District 2,,DEM,Paul J. Spencer,2
-Perry,4-Fourche,U.S. Congress District 2,,DEM,Paul J. Spencer,16
-Perry,5-Houston,U.S. Congress District 2,,DEM,Paul J. Spencer,2
-Perry,6-Kenney,U.S. Congress District 2,,DEM,Paul J. Spencer,0
-Perry,7-Lake,U.S. Congress District 2,,DEM,Paul J. Spencer,3
-Perry,8-Maumelle,U.S. Congress District 2,,DEM,Paul J. Spencer,7
-Perry,9-New Tennessee,U.S. Congress District 2,,DEM,Paul J. Spencer,1
-Perry,10-Perry,U.S. Congress District 2,,DEM,Paul J. Spencer,5
-Perry,11-Petit Jean,U.S. Congress District 2,,DEM,Paul J. Spencer,4
-Perry,12-Rankin,U.S. Congress District 2,,DEM,Paul J. Spencer,5
-Perry,13-Rose Creek,U.S. Congress District 2,,DEM,Paul J. Spencer,0
-Perry,14-Tyler,U.S. Congress District 2,,DEM,Paul J. Spencer,2
-Perry,15-Union,U.S. Congress District 2,,DEM,Paul J. Spencer,13
-Perry,16-Union Valley,U.S. Congress District 2,,DEM,Paul J. Spencer,5
-Perry,17-Wye,U.S. Congress District 2,,DEM,Paul J. Spencer,7
+Perry,1-Aplin,U.S. House,2,DEM,Representative Clarke Tucker,24
+Perry,2-Casa,U.S. House,2,DEM,Representative Clarke Tucker,10
+Perry,3-Cherry Hill,U.S. House,2,DEM,Representative Clarke Tucker,17
+Perry,4-Fourche,U.S. House,2,DEM,Representative Clarke Tucker,71
+Perry,5-Houston,U.S. House,2,DEM,Representative Clarke Tucker,17
+Perry,6-Kenney,U.S. House,2,DEM,Representative Clarke Tucker,1
+Perry,7-Lake,U.S. House,2,DEM,Representative Clarke Tucker,17
+Perry,8-Maumelle,U.S. House,2,DEM,Representative Clarke Tucker,34
+Perry,9-New Tennessee,U.S. House,2,DEM,Representative Clarke Tucker,6
+Perry,10-Perry,U.S. House,2,DEM,Representative Clarke Tucker,45
+Perry,11-Petit Jean,U.S. House,2,DEM,Representative Clarke Tucker,9
+Perry,12-Rankin,U.S. House,2,DEM,Representative Clarke Tucker,37
+Perry,13-Rose Creek,U.S. House,2,DEM,Representative Clarke Tucker,7
+Perry,14-Tyler,U.S. House,2,DEM,Representative Clarke Tucker,12
+Perry,15-Union,U.S. House,2,DEM,Representative Clarke Tucker,31
+Perry,16-Union Valley,U.S. House,2,DEM,Representative Clarke Tucker,14
+Perry,17-Wye,U.S. House,2,DEM,Representative Clarke Tucker,23
+Perry,1-Aplin,U.S. House,2,DEM,Jonathan Dunkley,0
+Perry,2-Casa,U.S. House,2,DEM,Jonathan Dunkley,1
+Perry,3-Cherry Hill,U.S. House,2,DEM,Jonathan Dunkley,2
+Perry,4-Fourche,U.S. House,2,DEM,Jonathan Dunkley,4
+Perry,5-Houston,U.S. House,2,DEM,Jonathan Dunkley,1
+Perry,6-Kenney,U.S. House,2,DEM,Jonathan Dunkley,0
+Perry,7-Lake,U.S. House,2,DEM,Jonathan Dunkley,1
+Perry,8-Maumelle,U.S. House,2,DEM,Jonathan Dunkley,0
+Perry,9-New Tennessee,U.S. House,2,DEM,Jonathan Dunkley,0
+Perry,10-Perry,U.S. House,2,DEM,Jonathan Dunkley,3
+Perry,11-Petit Jean,U.S. House,2,DEM,Jonathan Dunkley,3
+Perry,12-Rankin,U.S. House,2,DEM,Jonathan Dunkley,4
+Perry,13-Rose Creek,U.S. House,2,DEM,Jonathan Dunkley,0
+Perry,14-Tyler,U.S. House,2,DEM,Jonathan Dunkley,0
+Perry,15-Union,U.S. House,2,DEM,Jonathan Dunkley,3
+Perry,16-Union Valley,U.S. House,2,DEM,Jonathan Dunkley,3
+Perry,17-Wye,U.S. House,2,DEM,Jonathan Dunkley,2
+Perry,1-Aplin,U.S. House,2,DEM,Gwen Combs,6
+Perry,2-Casa,U.S. House,2,DEM,Gwen Combs,2
+Perry,3-Cherry Hill,U.S. House,2,DEM,Gwen Combs,2
+Perry,4-Fourche,U.S. House,2,DEM,Gwen Combs,21
+Perry,5-Houston,U.S. House,2,DEM,Gwen Combs,1
+Perry,6-Kenney,U.S. House,2,DEM,Gwen Combs,0
+Perry,7-Lake,U.S. House,2,DEM,Gwen Combs,3
+Perry,8-Maumelle,U.S. House,2,DEM,Gwen Combs,5
+Perry,9-New Tennessee,U.S. House,2,DEM,Gwen Combs,1
+Perry,10-Perry,U.S. House,2,DEM,Gwen Combs,9
+Perry,11-Petit Jean,U.S. House,2,DEM,Gwen Combs,4
+Perry,12-Rankin,U.S. House,2,DEM,Gwen Combs,12
+Perry,13-Rose Creek,U.S. House,2,DEM,Gwen Combs,0
+Perry,14-Tyler,U.S. House,2,DEM,Gwen Combs,0
+Perry,15-Union,U.S. House,2,DEM,Gwen Combs,12
+Perry,16-Union Valley,U.S. House,2,DEM,Gwen Combs,8
+Perry,17-Wye,U.S. House,2,DEM,Gwen Combs,12
+Perry,1-Aplin,U.S. House,2,DEM,Paul J. Spencer,2
+Perry,2-Casa,U.S. House,2,DEM,Paul J. Spencer,2
+Perry,3-Cherry Hill,U.S. House,2,DEM,Paul J. Spencer,2
+Perry,4-Fourche,U.S. House,2,DEM,Paul J. Spencer,16
+Perry,5-Houston,U.S. House,2,DEM,Paul J. Spencer,2
+Perry,6-Kenney,U.S. House,2,DEM,Paul J. Spencer,0
+Perry,7-Lake,U.S. House,2,DEM,Paul J. Spencer,3
+Perry,8-Maumelle,U.S. House,2,DEM,Paul J. Spencer,7
+Perry,9-New Tennessee,U.S. House,2,DEM,Paul J. Spencer,1
+Perry,10-Perry,U.S. House,2,DEM,Paul J. Spencer,5
+Perry,11-Petit Jean,U.S. House,2,DEM,Paul J. Spencer,4
+Perry,12-Rankin,U.S. House,2,DEM,Paul J. Spencer,5
+Perry,13-Rose Creek,U.S. House,2,DEM,Paul J. Spencer,0
+Perry,14-Tyler,U.S. House,2,DEM,Paul J. Spencer,2
+Perry,15-Union,U.S. House,2,DEM,Paul J. Spencer,13
+Perry,16-Union Valley,U.S. House,2,DEM,Paul J. Spencer,5
+Perry,17-Wye,U.S. House,2,DEM,Paul J. Spencer,7
 Perry,1-Aplin,Governor,,DEM,Jared K. Henderson,26
 Perry,2-Casa,Governor,,DEM,Jared K. Henderson,13
 Perry,3-Cherry Hill,Governor,,DEM,Jared K. Henderson,18
@@ -181,40 +181,40 @@ Perry,14-Tyler,Secretary of State,,REP,John Thurston Commissioner of State Lands
 Perry,15-Union,Secretary of State,,REP,John Thurston Commissioner of State Lands,39
 Perry,16-Union Valley,Secretary of State,,REP,John Thurston Commissioner of State Lands,22
 Perry,17-Wye,Secretary of State,,REP,John Thurston Commissioner of State Lands,45
-Perry,1-Aplin,State Senate District 15,,REP,Dean Elliott,9
-Perry,2-Casa,State Senate District 15,,REP,Dean Elliott,10
-Perry,3-Cherry Hill,State Senate District 15,,REP,Dean Elliott,7
-Perry,4-Fourche,State Senate District 15,,REP,Dean Elliott,27
-Perry,5-Houston,State Senate District 15,,REP,Dean Elliott,15
-Perry,6-Kenney,State Senate District 15,,REP,Dean Elliott,0
-Perry,7-Lake,State Senate District 15,,REP,Dean Elliott,13
-Perry,8-Maumelle,State Senate District 15,,REP,Dean Elliott,24
-Perry,9-New Tennessee,State Senate District 15,,REP,Dean Elliott,6
-Perry,10-Perry,State Senate District 15,,REP,Dean Elliott,26
-Perry,11-Petit Jean,State Senate District 15,,REP,Dean Elliott,5
-Perry,12-Rankin,State Senate District 15,,REP,Dean Elliott,26
-Perry,13-Rose Creek,State Senate District 15,,REP,Dean Elliott,2
-Perry,14-Tyler,State Senate District 15,,REP,Dean Elliott,7
-Perry,15-Union,State Senate District 15,,REP,Dean Elliott,13
-Perry,16-Union Valley,State Senate District 15,,REP,Dean Elliott,5
-Perry,17-Wye,State Senate District 15,,REP,Dean Elliott,21
-Perry,1-Aplin,State Senate District 15,,REP,Mark Johnson,21
-Perry,2-Casa,State Senate District 15,,REP,Mark Johnson,17
-Perry,3-Cherry Hill,State Senate District 15,,REP,Mark Johnson,23
-Perry,4-Fourche,State Senate District 15,,REP,Mark Johnson,131
-Perry,5-Houston,State Senate District 15,,REP,Mark Johnson,36
-Perry,6-Kenney,State Senate District 15,,REP,Mark Johnson,12
-Perry,7-Lake,State Senate District 15,,REP,Mark Johnson,26
-Perry,8-Maumelle,State Senate District 15,,REP,Mark Johnson,40
-Perry,9-New Tennessee,State Senate District 15,,REP,Mark Johnson,14
-Perry,10-Perry,State Senate District 15,,REP,Mark Johnson,68
-Perry,11-Petit Jean,State Senate District 15,,REP,Mark Johnson,21
-Perry,12-Rankin,State Senate District 15,,REP,Mark Johnson,60
-Perry,13-Rose Creek,State Senate District 15,,REP,Mark Johnson,9
-Perry,14-Tyler,State Senate District 15,,REP,Mark Johnson,12
-Perry,15-Union,State Senate District 15,,REP,Mark Johnson,26
-Perry,16-Union Valley,State Senate District 15,,REP,Mark Johnson,32
-Perry,17-Wye,State Senate District 15,,REP,Mark Johnson,60
+Perry,1-Aplin,State Senate,15,REP,Dean Elliott,9
+Perry,2-Casa,State Senate,15,REP,Dean Elliott,10
+Perry,3-Cherry Hill,State Senate,15,REP,Dean Elliott,7
+Perry,4-Fourche,State Senate,15,REP,Dean Elliott,27
+Perry,5-Houston,State Senate,15,REP,Dean Elliott,15
+Perry,6-Kenney,State Senate,15,REP,Dean Elliott,0
+Perry,7-Lake,State Senate,15,REP,Dean Elliott,13
+Perry,8-Maumelle,State Senate,15,REP,Dean Elliott,24
+Perry,9-New Tennessee,State Senate,15,REP,Dean Elliott,6
+Perry,10-Perry,State Senate,15,REP,Dean Elliott,26
+Perry,11-Petit Jean,State Senate,15,REP,Dean Elliott,5
+Perry,12-Rankin,State Senate,15,REP,Dean Elliott,26
+Perry,13-Rose Creek,State Senate,15,REP,Dean Elliott,2
+Perry,14-Tyler,State Senate,15,REP,Dean Elliott,7
+Perry,15-Union,State Senate,15,REP,Dean Elliott,13
+Perry,16-Union Valley,State Senate,15,REP,Dean Elliott,5
+Perry,17-Wye,State Senate,15,REP,Dean Elliott,21
+Perry,1-Aplin,State Senate,15,REP,Mark Johnson,21
+Perry,2-Casa,State Senate,15,REP,Mark Johnson,17
+Perry,3-Cherry Hill,State Senate,15,REP,Mark Johnson,23
+Perry,4-Fourche,State Senate,15,REP,Mark Johnson,131
+Perry,5-Houston,State Senate,15,REP,Mark Johnson,36
+Perry,6-Kenney,State Senate,15,REP,Mark Johnson,12
+Perry,7-Lake,State Senate,15,REP,Mark Johnson,26
+Perry,8-Maumelle,State Senate,15,REP,Mark Johnson,40
+Perry,9-New Tennessee,State Senate,15,REP,Mark Johnson,14
+Perry,10-Perry,State Senate,15,REP,Mark Johnson,68
+Perry,11-Petit Jean,State Senate,15,REP,Mark Johnson,21
+Perry,12-Rankin,State Senate,15,REP,Mark Johnson,60
+Perry,13-Rose Creek,State Senate,15,REP,Mark Johnson,9
+Perry,14-Tyler,State Senate,15,REP,Mark Johnson,12
+Perry,15-Union,State Senate,15,REP,Mark Johnson,26
+Perry,16-Union Valley,State Senate,15,REP,Mark Johnson,32
+Perry,17-Wye,State Senate,15,REP,Mark Johnson,60
 Perry,1-Aplin,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,21
 Perry,2-Casa,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,13
 Perry,3-Cherry Hill,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,18

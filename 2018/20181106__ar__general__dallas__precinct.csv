@@ -1,40 +1,40 @@
 county,precinct,office,district,party,candidate,votes,absentee,provisional,early_vote,election_day
-Dallas,District 1,U.S. Congress District 4,,Rep,Representative Bruce Westerman,20,12,0,0,8
-Dallas,District 2,U.S. Congress District 4,,Rep,Representative Bruce Westerman,66,37,0,3,26
-Dallas,District 3,U.S. Congress District 4,,Rep,Representative Bruce Westerman,34,27,0,0,7
-Dallas,District 4,U.S. Congress District 4,,Rep,Representative Bruce Westerman,162,106,1,4,51
-Dallas,District 5,U.S. Congress District 4,,Rep,Representative Bruce Westerman,210,137,0,5,68
-Dallas,District 6,U.S. Congress District 4,,Rep,Representative Bruce Westerman,103,41,0,2,60
-Dallas,District 7,U.S. Congress District 4,,Rep,Representative Bruce Westerman,140,12,2,0,126
-Dallas,District 8,U.S. Congress District 4,,Rep,Representative Bruce Westerman,254,15,4,1,234
-Dallas,District 9,U.S. Congress District 4,,Rep,Representative Bruce Westerman,290,151,1,0,138
-Dallas,District 1,U.S. Congress District 4,,Lib,Tom Canada,1,1,0,0,0
-Dallas,District 2,U.S. Congress District 4,,Lib,Tom Canada,3,0,0,0,3
-Dallas,District 3,U.S. Congress District 4,,Lib,Tom Canada,3,3,0,0,0
-Dallas,District 4,U.S. Congress District 4,,Lib,Tom Canada,2,2,0,0,0
-Dallas,District 5,U.S. Congress District 4,,Lib,Tom Canada,2,1,0,0,1
-Dallas,District 6,U.S. Congress District 4,,Lib,Tom Canada,3,0,0,0,3
-Dallas,District 7,U.S. Congress District 4,,Lib,Tom Canada,4,0,0,0,4
-Dallas,District 8,U.S. Congress District 4,,Lib,Tom Canada,4,1,0,0,3
-Dallas,District 9,U.S. Congress District 4,,Lib,Tom Canada,3,0,0,0,3
-Dallas,District 1,U.S. Congress District 4,,Dem,Hayden Catherine Shamel,128,92,1,1,34
-Dallas,District 2,U.S. Congress District 4,,Dem,Hayden Catherine Shamel,144,68,0,2,74
-Dallas,District 3,U.S. Congress District 4,,Dem,Hayden Catherine Shamel,89,59,0,2,28
-Dallas,District 4,U.S. Congress District 4,,Dem,Hayden Catherine Shamel,62,39,0,1,22
-Dallas,District 5,U.S. Congress District 4,,Dem,Hayden Catherine Shamel,64,43,0,0,21
-Dallas,District 6,U.S. Congress District 4,,Dem,Hayden Catherine Shamel,141,19,0,2,120
-Dallas,District 7,U.S. Congress District 4,,Dem,Hayden Catherine Shamel,98,9,6,1,82
-Dallas,District 8,U.S. Congress District 4,,Dem,Hayden Catherine Shamel,51,16,2,0,33
-Dallas,District 9,U.S. Congress District 4,,Dem,Hayden Catherine Shamel,30,15,0,0,15
-Dallas,District 1,U.S. Congress District 4,,Non,Write-In,0,0,0,0,0
-Dallas,District 2,U.S. Congress District 4,,Non,Write-In,0,0,0,0,0
-Dallas,District 3,U.S. Congress District 4,,Non,Write-In,0,0,0,0,0
-Dallas,District 4,U.S. Congress District 4,,Non,Write-In,0,0,0,0,0
-Dallas,District 5,U.S. Congress District 4,,Non,Write-In,0,0,0,0,0
-Dallas,District 6,U.S. Congress District 4,,Non,Write-In,0,0,0,0,0
-Dallas,District 7,U.S. Congress District 4,,Non,Write-In,1,0,0,0,1
-Dallas,District 8,U.S. Congress District 4,,Non,Write-In,0,0,0,0,0
-Dallas,District 9,U.S. Congress District 4,,Non,Write-In,0,0,0,0,0
+Dallas,District 1,U.S. House,4,Rep,Representative Bruce Westerman,20,12,0,0,8
+Dallas,District 2,U.S. House,4,Rep,Representative Bruce Westerman,66,37,0,3,26
+Dallas,District 3,U.S. House,4,Rep,Representative Bruce Westerman,34,27,0,0,7
+Dallas,District 4,U.S. House,4,Rep,Representative Bruce Westerman,162,106,1,4,51
+Dallas,District 5,U.S. House,4,Rep,Representative Bruce Westerman,210,137,0,5,68
+Dallas,District 6,U.S. House,4,Rep,Representative Bruce Westerman,103,41,0,2,60
+Dallas,District 7,U.S. House,4,Rep,Representative Bruce Westerman,140,12,2,0,126
+Dallas,District 8,U.S. House,4,Rep,Representative Bruce Westerman,254,15,4,1,234
+Dallas,District 9,U.S. House,4,Rep,Representative Bruce Westerman,290,151,1,0,138
+Dallas,District 1,U.S. House,4,Lib,Tom Canada,1,1,0,0,0
+Dallas,District 2,U.S. House,4,Lib,Tom Canada,3,0,0,0,3
+Dallas,District 3,U.S. House,4,Lib,Tom Canada,3,3,0,0,0
+Dallas,District 4,U.S. House,4,Lib,Tom Canada,2,2,0,0,0
+Dallas,District 5,U.S. House,4,Lib,Tom Canada,2,1,0,0,1
+Dallas,District 6,U.S. House,4,Lib,Tom Canada,3,0,0,0,3
+Dallas,District 7,U.S. House,4,Lib,Tom Canada,4,0,0,0,4
+Dallas,District 8,U.S. House,4,Lib,Tom Canada,4,1,0,0,3
+Dallas,District 9,U.S. House,4,Lib,Tom Canada,3,0,0,0,3
+Dallas,District 1,U.S. House,4,Dem,Hayden Catherine Shamel,128,92,1,1,34
+Dallas,District 2,U.S. House,4,Dem,Hayden Catherine Shamel,144,68,0,2,74
+Dallas,District 3,U.S. House,4,Dem,Hayden Catherine Shamel,89,59,0,2,28
+Dallas,District 4,U.S. House,4,Dem,Hayden Catherine Shamel,62,39,0,1,22
+Dallas,District 5,U.S. House,4,Dem,Hayden Catherine Shamel,64,43,0,0,21
+Dallas,District 6,U.S. House,4,Dem,Hayden Catherine Shamel,141,19,0,2,120
+Dallas,District 7,U.S. House,4,Dem,Hayden Catherine Shamel,98,9,6,1,82
+Dallas,District 8,U.S. House,4,Dem,Hayden Catherine Shamel,51,16,2,0,33
+Dallas,District 9,U.S. House,4,Dem,Hayden Catherine Shamel,30,15,0,0,15
+Dallas,District 1,U.S. House,4,Non,Write-In,0,0,0,0,0
+Dallas,District 2,U.S. House,4,Non,Write-In,0,0,0,0,0
+Dallas,District 3,U.S. House,4,Non,Write-In,0,0,0,0,0
+Dallas,District 4,U.S. House,4,Non,Write-In,0,0,0,0,0
+Dallas,District 5,U.S. House,4,Non,Write-In,0,0,0,0,0
+Dallas,District 6,U.S. House,4,Non,Write-In,0,0,0,0,0
+Dallas,District 7,U.S. House,4,Non,Write-In,1,0,0,0,1
+Dallas,District 8,U.S. House,4,Non,Write-In,0,0,0,0,0
+Dallas,District 9,U.S. House,4,Non,Write-In,0,0,0,0,0
 Dallas,District 1,Governor,,Dem,Jared K. Henderson,125,90,1,1,33
 Dallas,District 2,Governor,,Dem,Jared K. Henderson,145,67,0,2,76
 Dallas,District 3,Governor,,Dem,Jared K. Henderson,79,51,0,2,26

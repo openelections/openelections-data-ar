@@ -1,50 +1,50 @@
 county,precinct,office,district,party,candidate,votes,election_day,early_vote,absentee,provisional
-Searcy,Bear Creek #4,U.S. Congress District 1,,LIB,Elvis Presley,6,3,3,0,0
-Searcy,Bear Creek #5,U.S. Congress District 1,,LIB,Elvis Presley,16,3,9,4,0
-Searcy,Bear Creek #6,U.S. Congress District 1,,LIB,Elvis Presley,7,1,6,0,0
-Searcy,Calf Creek,U.S. Congress District 1,,LIB,Elvis Presley,10,8,2,0,0
-Searcy,Long Creek,U.S. Congress District 1,,LIB,Elvis Presley,9,0,9,0,0
-Searcy,Mt. Pleasant,U.S. Congress District 1,,LIB,Elvis Presley,9,5,4,0,0
-Searcy,Oxley,U.S. Congress District 1,,LIB,Elvis Presley,5,3,2,0,0
-Searcy,Red River,U.S. Congress District 1,,LIB,Elvis Presley,1,0,1,0,0
-Searcy,Rock Creek,U.S. Congress District 1,,LIB,Elvis Presley,8,5,3,0,0
-Searcy,Shady Grove,U.S. Congress District 1,,LIB,Elvis Presley,4,3,1,0,0
-Searcy,Spring,U.S. Congress District 1,,LIB,Elvis Presley,6,4,2,0,0
-Searcy,St. Joe,U.S. Congress District 1,,LIB,Elvis Presley,3,2,1,0,0
-Searcy,Tomahawk,U.S. Congress District 1,,LIB,Elvis Presley,2,0,2,0,0
-Searcy,Wiley's Cove,U.S. Congress District 1,,LIB,Elvis Presley,17,7,10,0,0
-Searcy,Bear Creek #4,U.S. Congress District 1,,REP,Congressman Rick Crawford,310,92,213,5,0
-Searcy,Bear Creek #5,U.S. Congress District 1,,REP,Congressman Rick Crawford,292,88,177,27,0
-Searcy,Bear Creek #6,U.S. Congress District 1,,REP,Congressman Rick Crawford,295,92,196,7,0
-Searcy,Calf Creek,U.S. Congress District 1,,REP,Congressman Rick Crawford,83,50,30,3,0
-Searcy,Long Creek,U.S. Congress District 1,,REP,Congressman Rick Crawford,158,75,79,4,0
-Searcy,Mt. Pleasant,U.S. Congress District 1,,REP,Congressman Rick Crawford,158,99,56,3,0
-Searcy,Oxley,U.S. Congress District 1,,REP,Congressman Rick Crawford,124,69,54,1,0
-Searcy,Red River,U.S. Congress District 1,,REP,Congressman Rick Crawford,73,27,43,3,0
-Searcy,Rock Creek,U.S. Congress District 1,,REP,Congressman Rick Crawford,155,100,51,4,0
-Searcy,Shady Grove,U.S. Congress District 1,,REP,Congressman Rick Crawford,39,14,23,2,0
-Searcy,Spring,U.S. Congress District 1,,REP,Congressman Rick Crawford,190,83,104,3,0
-Searcy,St. Joe,U.S. Congress District 1,,REP,Congressman Rick Crawford,84,52,31,1,0
-Searcy,Tomahawk,U.S. Congress District 1,,REP,Congressman Rick Crawford,154,66,86,2,0
-Searcy,Wiley's Cove,U.S. Congress District 1,,REP,Congressman Rick Crawford,282,150,125,7,0
-Searcy,Bear Creek #4,U.S. Congress District 1,,DEM,Chintan Desai,36,11,25,0,0
-Searcy,Bear Creek #5,U.S. Congress District 1,,DEM,Chintan Desai,50,13,30,7,0
-Searcy,Bear Creek #6,U.S. Congress District 1,,DEM,Chintan Desai,28,10,17,1,0
-Searcy,Calf Creek,U.S. Congress District 1,,DEM,Chintan Desai,31,21,9,1,0
-Searcy,Long Creek,U.S. Congress District 1,,DEM,Chintan Desai,14,3,8,3,0
-Searcy,Mt. Pleasant,U.S. Congress District 1,,DEM,Chintan Desai,24,15,9,0,0
-Searcy,Oxley,U.S. Congress District 1,,DEM,Chintan Desai,28,7,19,2,0
-Searcy,Red River,U.S. Congress District 1,,DEM,Chintan Desai,23,4,19,0,0
-Searcy,Rock Creek,U.S. Congress District 1,,DEM,Chintan Desai,27,15,9,3,0
-Searcy,Shady Grove,U.S. Congress District 1,,DEM,Chintan Desai,19,7,10,2,0
-Searcy,Spring,U.S. Congress District 1,,DEM,Chintan Desai,46,21,25,0,0
-Searcy,St. Joe,U.S. Congress District 1,,DEM,Chintan Desai,23,13,10,0,0
-Searcy,Tomahawk,U.S. Congress District 1,,DEM,Chintan Desai,35,14,20,1,0
-Searcy,Wiley's Cove,U.S. Congress District 1,,DEM,Chintan Desai,74,42,26,5,1
-Searcy,Prairie,U.S. Congress District 3,,DEM,Josh Mahony,20,19,1,0,0
-Searcy,Prairie,U.S. Congress District 3,,REP,Congressman Steve Womack,149,127,21,1,0
-Searcy,Prairie,U.S. Congress District 3,,LIB,Michael J. Kalagias,4,4,0,0,0
-Searcy,Prairie,U.S. Congress District 3,,NON,Write-In,0,0,0,0,0
+Searcy,Bear Creek #4,U.S. House,1,LIB,Elvis Presley,6,3,3,0,0
+Searcy,Bear Creek #5,U.S. House,1,LIB,Elvis Presley,16,3,9,4,0
+Searcy,Bear Creek #6,U.S. House,1,LIB,Elvis Presley,7,1,6,0,0
+Searcy,Calf Creek,U.S. House,1,LIB,Elvis Presley,10,8,2,0,0
+Searcy,Long Creek,U.S. House,1,LIB,Elvis Presley,9,0,9,0,0
+Searcy,Mt. Pleasant,U.S. House,1,LIB,Elvis Presley,9,5,4,0,0
+Searcy,Oxley,U.S. House,1,LIB,Elvis Presley,5,3,2,0,0
+Searcy,Red River,U.S. House,1,LIB,Elvis Presley,1,0,1,0,0
+Searcy,Rock Creek,U.S. House,1,LIB,Elvis Presley,8,5,3,0,0
+Searcy,Shady Grove,U.S. House,1,LIB,Elvis Presley,4,3,1,0,0
+Searcy,Spring,U.S. House,1,LIB,Elvis Presley,6,4,2,0,0
+Searcy,St. Joe,U.S. House,1,LIB,Elvis Presley,3,2,1,0,0
+Searcy,Tomahawk,U.S. House,1,LIB,Elvis Presley,2,0,2,0,0
+Searcy,Wiley's Cove,U.S. House,1,LIB,Elvis Presley,17,7,10,0,0
+Searcy,Bear Creek #4,U.S. House,1,REP,Congressman Rick Crawford,310,92,213,5,0
+Searcy,Bear Creek #5,U.S. House,1,REP,Congressman Rick Crawford,292,88,177,27,0
+Searcy,Bear Creek #6,U.S. House,1,REP,Congressman Rick Crawford,295,92,196,7,0
+Searcy,Calf Creek,U.S. House,1,REP,Congressman Rick Crawford,83,50,30,3,0
+Searcy,Long Creek,U.S. House,1,REP,Congressman Rick Crawford,158,75,79,4,0
+Searcy,Mt. Pleasant,U.S. House,1,REP,Congressman Rick Crawford,158,99,56,3,0
+Searcy,Oxley,U.S. House,1,REP,Congressman Rick Crawford,124,69,54,1,0
+Searcy,Red River,U.S. House,1,REP,Congressman Rick Crawford,73,27,43,3,0
+Searcy,Rock Creek,U.S. House,1,REP,Congressman Rick Crawford,155,100,51,4,0
+Searcy,Shady Grove,U.S. House,1,REP,Congressman Rick Crawford,39,14,23,2,0
+Searcy,Spring,U.S. House,1,REP,Congressman Rick Crawford,190,83,104,3,0
+Searcy,St. Joe,U.S. House,1,REP,Congressman Rick Crawford,84,52,31,1,0
+Searcy,Tomahawk,U.S. House,1,REP,Congressman Rick Crawford,154,66,86,2,0
+Searcy,Wiley's Cove,U.S. House,1,REP,Congressman Rick Crawford,282,150,125,7,0
+Searcy,Bear Creek #4,U.S. House,1,DEM,Chintan Desai,36,11,25,0,0
+Searcy,Bear Creek #5,U.S. House,1,DEM,Chintan Desai,50,13,30,7,0
+Searcy,Bear Creek #6,U.S. House,1,DEM,Chintan Desai,28,10,17,1,0
+Searcy,Calf Creek,U.S. House,1,DEM,Chintan Desai,31,21,9,1,0
+Searcy,Long Creek,U.S. House,1,DEM,Chintan Desai,14,3,8,3,0
+Searcy,Mt. Pleasant,U.S. House,1,DEM,Chintan Desai,24,15,9,0,0
+Searcy,Oxley,U.S. House,1,DEM,Chintan Desai,28,7,19,2,0
+Searcy,Red River,U.S. House,1,DEM,Chintan Desai,23,4,19,0,0
+Searcy,Rock Creek,U.S. House,1,DEM,Chintan Desai,27,15,9,3,0
+Searcy,Shady Grove,U.S. House,1,DEM,Chintan Desai,19,7,10,2,0
+Searcy,Spring,U.S. House,1,DEM,Chintan Desai,46,21,25,0,0
+Searcy,St. Joe,U.S. House,1,DEM,Chintan Desai,23,13,10,0,0
+Searcy,Tomahawk,U.S. House,1,DEM,Chintan Desai,35,14,20,1,0
+Searcy,Wiley's Cove,U.S. House,1,DEM,Chintan Desai,74,42,26,5,1
+Searcy,Prairie,U.S. House,3,DEM,Josh Mahony,20,19,1,0,0
+Searcy,Prairie,U.S. House,3,REP,Congressman Steve Womack,149,127,21,1,0
+Searcy,Prairie,U.S. House,3,LIB,Michael J. Kalagias,4,4,0,0,0
+Searcy,Prairie,U.S. House,3,NON,Write-In,0,0,0,0,0
 Searcy,Bear Creek #4,Governor,,DEM,Jared K. Henderson,47,16,30,1,0
 Searcy,Bear Creek #5,Governor,,DEM,Jared K. Henderson,57,18,33,6,0
 Searcy,Bear Creek #6,Governor,,DEM,Jared K. Henderson,34,14,19,1,0

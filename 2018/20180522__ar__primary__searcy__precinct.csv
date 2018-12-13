@@ -29,8 +29,8 @@ Searcy,Spring,Governor,,DEM,Jared K. Henderson,5
 Searcy,St. Joe,Governor,,DEM,Jared K. Henderson,1
 Searcy,Tomahawk,Governor,,DEM,Jared K. Henderson,3
 Searcy,WIley's Cove,Governor,,DEM,Jared K. Henderson,7
-Searcy,Prairie,U.S. Congress District 3,,REP,Robb Ryerse,13
-Searcy,Prairie,U.S. Congress District 3,,REP,Congressman Steve Womack,83
+Searcy,Prairie,U.S. House,3,REP,Robb Ryerse,13
+Searcy,Prairie,U.S. House,3,REP,Congressman Steve Womack,83
 Searcy,Bear Creek #4,Governor,,REP,Governor Asa Hutchinson,183
 Searcy,Bear Creek #5,Governor,,REP,Governor Asa Hutchinson,211
 Searcy,Bear Creek #6,Governor,,REP,Governor Asa Hutchinson,181
@@ -91,33 +91,33 @@ Searcy,Spring,Secretary of State,,REP,State Representative Trevor Drown,62
 Searcy,St. Joe,Secretary of State,,REP,State Representative Trevor Drown,20
 Searcy,Tomahawk,Secretary of State,,REP,State Representative Trevor Drown,35
 Searcy,WIley's Cove,Secretary of State,,REP,State Representative Trevor Drown,88
-Searcy,Bear Creek #4,State Representative District 83,,REP,Timmy Reid,84
-Searcy,Bear Creek #5,State Representative District 83,,REP,Timmy Reid,103
-Searcy,Bear Creek #6,State Representative District 83,,REP,Timmy Reid,126
-Searcy,Calf Creek,State Representative District 83,,REP,Timmy Reid,33
-Searcy,Mt. Pleasant,State Representative District 83,,REP,Timmy Reid,40
-Searcy,Red River,State Representative District 83,,REP,Timmy Reid,36
-Searcy,Shady Grove,State Representative District 83,,REP,Timmy Reid,6
-Searcy,Spring,State Representative District 83,,REP,Timmy Reid,77
-Searcy,St. Joe,State Representative District 83,,REP,Timmy Reid,21
-Searcy,Bear Creek #4,State Representative District 83,,REP,Sheriff Keith Slape,21
-Searcy,Bear Creek #5,State Representative District 83,,REP,Sheriff Keith Slape,18
-Searcy,Bear Creek #6,State Representative District 83,,REP,Sheriff Keith Slape,8
-Searcy,Calf Creek,State Representative District 83,,REP,Sheriff Keith Slape,12
-Searcy,Mt. Pleasant,State Representative District 83,,REP,Sheriff Keith Slape,5
-Searcy,Red River,State Representative District 83,,REP,Sheriff Keith Slape,5
-Searcy,Shady Grove,State Representative District 83,,REP,Sheriff Keith Slape,2
-Searcy,Spring,State Representative District 83,,REP,Sheriff Keith Slape,14
-Searcy,St. Joe,State Representative District 83,,REP,Sheriff Keith Slape,19
-Searcy,Bear Creek #4,State Representative District 83,,REP,Donald Ragland,169
-Searcy,Bear Creek #5,State Representative District 83,,REP,Donald Ragland,184
-Searcy,Bear Creek #6,State Representative District 83,,REP,Donald Ragland,140
-Searcy,Calf Creek,State Representative District 83,,REP,Donald Ragland,62
-Searcy,Mt. Pleasant,State Representative District 83,,REP,Donald Ragland,79
-Searcy,Red River,State Representative District 83,,REP,Donald Ragland,29
-Searcy,Shady Grove,State Representative District 83,,REP,Donald Ragland,15
-Searcy,Spring,State Representative District 83,,REP,Donald Ragland,91
-Searcy,St. Joe,State Representative District 83,,REP,Donald Ragland,35
+Searcy,Bear Creek #4,State Representative,83,REP,Timmy Reid,84
+Searcy,Bear Creek #5,State Representative,83,REP,Timmy Reid,103
+Searcy,Bear Creek #6,State Representative,83,REP,Timmy Reid,126
+Searcy,Calf Creek,State Representative,83,REP,Timmy Reid,33
+Searcy,Mt. Pleasant,State Representative,83,REP,Timmy Reid,40
+Searcy,Red River,State Representative,83,REP,Timmy Reid,36
+Searcy,Shady Grove,State Representative,83,REP,Timmy Reid,6
+Searcy,Spring,State Representative,83,REP,Timmy Reid,77
+Searcy,St. Joe,State Representative,83,REP,Timmy Reid,21
+Searcy,Bear Creek #4,State Representative,83,REP,Sheriff Keith Slape,21
+Searcy,Bear Creek #5,State Representative,83,REP,Sheriff Keith Slape,18
+Searcy,Bear Creek #6,State Representative,83,REP,Sheriff Keith Slape,8
+Searcy,Calf Creek,State Representative,83,REP,Sheriff Keith Slape,12
+Searcy,Mt. Pleasant,State Representative,83,REP,Sheriff Keith Slape,5
+Searcy,Red River,State Representative,83,REP,Sheriff Keith Slape,5
+Searcy,Shady Grove,State Representative,83,REP,Sheriff Keith Slape,2
+Searcy,Spring,State Representative,83,REP,Sheriff Keith Slape,14
+Searcy,St. Joe,State Representative,83,REP,Sheriff Keith Slape,19
+Searcy,Bear Creek #4,State Representative,83,REP,Donald Ragland,169
+Searcy,Bear Creek #5,State Representative,83,REP,Donald Ragland,184
+Searcy,Bear Creek #6,State Representative,83,REP,Donald Ragland,140
+Searcy,Calf Creek,State Representative,83,REP,Donald Ragland,62
+Searcy,Mt. Pleasant,State Representative,83,REP,Donald Ragland,79
+Searcy,Red River,State Representative,83,REP,Donald Ragland,29
+Searcy,Shady Grove,State Representative,83,REP,Donald Ragland,15
+Searcy,Spring,State Representative,83,REP,Donald Ragland,91
+Searcy,St. Joe,State Representative,83,REP,Donald Ragland,35
 Searcy,Bear Creek #4,County Judge,,,County Judge Jim Harness,161
 Searcy,Bear Creek #5,County Judge,,,County Judge Jim Harness,174
 Searcy,Bear Creek #6,County Judge,,,County Judge Jim Harness,178

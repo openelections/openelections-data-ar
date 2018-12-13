@@ -1,31 +1,31 @@
 county,precinct,office,district,party,candidate,votes,election_day,election_day_paper,early_vote,absentee,early_vote_paper
-Lee,JP01,U.S. Congress District 1,,DEM,Chintan Desai,91,0,70,0,5,16
-Lee,JP02,U.S. Congress District 1,,DEM,Chintan Desai,151,0,74,0,31,46
-Lee,JP03,U.S. Congress District 1,,DEM,Chintan Desai,151,0,37,0,7,107
-Lee,JP04,U.S. Congress District 1,,DEM,Chintan Desai,86,0,35,0,3,48
-Lee,JP05,U.S. Congress District 1,,DEM,Chintan Desai,55,0,18,0,6,31
-Lee,JP06,U.S. Congress District 1,,DEM,Chintan Desai,175,0,47,0,22,106
-Lee,JP07,U.S. Congress District 1,,DEM,Chintan Desai,124,0,22,0,8,94
-Lee,JP08,U.S. Congress District 1,,DEM,Chintan Desai,124,0,48,0,6,70
-Lee,JP09,U.S. Congress District 1,,DEM,Chintan Desai,197,0,108,0,26,63
-Lee,JP01,U.S. Congress District 1,,LIB,Elvis Presley,6,0,4,0,0,2
-Lee,JP02,U.S. Congress District 1,,LIB,Elvis Presley,2,0,2,0,0,0
-Lee,JP03,U.S. Congress District 1,,LIB,Elvis Presley,3,0,1,0,0,2
-Lee,JP04,U.S. Congress District 1,,LIB,Elvis Presley,3,0,0,0,0,3
-Lee,JP05,U.S. Congress District 1,,LIB,Elvis Presley,2,0,1,0,0,1
-Lee,JP06,U.S. Congress District 1,,LIB,Elvis Presley,1,0,0,0,1,0
-Lee,JP07,U.S. Congress District 1,,LIB,Elvis Presley,2,0,1,0,0,1
-Lee,JP08,U.S. Congress District 1,,LIB,Elvis Presley,3,0,2,0,0,1
-Lee,JP09,U.S. Congress District 1,,LIB,Elvis Presley,1,0,0,0,1,0
-Lee,JP01,U.S. Congress District 1,,REP,Congressman Rick Crawford,183,0,156,0,1,26
-Lee,JP02,U.S. Congress District 1,,REP,Congressman Rick Crawford,140,0,98,0,2,40
-Lee,JP03,U.S. Congress District 1,,REP,Congressman Rick Crawford,104,0,33,0,3,68
-Lee,JP04,U.S. Congress District 1,,REP,Congressman Rick Crawford,109,0,35,0,3,71
-Lee,JP05,U.S. Congress District 1,,REP,Congressman Rick Crawford,124,0,47,0,5,72
-Lee,JP06,U.S. Congress District 1,,REP,Congressman Rick Crawford,49,0,8,0,4,37
-Lee,JP07,U.S. Congress District 1,,REP,Congressman Rick Crawford,105,0,21,0,5,79
-Lee,JP08,U.S. Congress District 1,,REP,Congressman Rick Crawford,68,0,23,0,2,43
-Lee,JP09,U.S. Congress District 1,,REP,Congressman Rick Crawford,42,0,36,0,1,5
+Lee,JP01,U.S. House,1,DEM,Chintan Desai,91,0,70,0,5,16
+Lee,JP02,U.S. House,1,DEM,Chintan Desai,151,0,74,0,31,46
+Lee,JP03,U.S. House,1,DEM,Chintan Desai,151,0,37,0,7,107
+Lee,JP04,U.S. House,1,DEM,Chintan Desai,86,0,35,0,3,48
+Lee,JP05,U.S. House,1,DEM,Chintan Desai,55,0,18,0,6,31
+Lee,JP06,U.S. House,1,DEM,Chintan Desai,175,0,47,0,22,106
+Lee,JP07,U.S. House,1,DEM,Chintan Desai,124,0,22,0,8,94
+Lee,JP08,U.S. House,1,DEM,Chintan Desai,124,0,48,0,6,70
+Lee,JP09,U.S. House,1,DEM,Chintan Desai,197,0,108,0,26,63
+Lee,JP01,U.S. House,1,LIB,Elvis Presley,6,0,4,0,0,2
+Lee,JP02,U.S. House,1,LIB,Elvis Presley,2,0,2,0,0,0
+Lee,JP03,U.S. House,1,LIB,Elvis Presley,3,0,1,0,0,2
+Lee,JP04,U.S. House,1,LIB,Elvis Presley,3,0,0,0,0,3
+Lee,JP05,U.S. House,1,LIB,Elvis Presley,2,0,1,0,0,1
+Lee,JP06,U.S. House,1,LIB,Elvis Presley,1,0,0,0,1,0
+Lee,JP07,U.S. House,1,LIB,Elvis Presley,2,0,1,0,0,1
+Lee,JP08,U.S. House,1,LIB,Elvis Presley,3,0,2,0,0,1
+Lee,JP09,U.S. House,1,LIB,Elvis Presley,1,0,0,0,1,0
+Lee,JP01,U.S. House,1,REP,Congressman Rick Crawford,183,0,156,0,1,26
+Lee,JP02,U.S. House,1,REP,Congressman Rick Crawford,140,0,98,0,2,40
+Lee,JP03,U.S. House,1,REP,Congressman Rick Crawford,104,0,33,0,3,68
+Lee,JP04,U.S. House,1,REP,Congressman Rick Crawford,109,0,35,0,3,71
+Lee,JP05,U.S. House,1,REP,Congressman Rick Crawford,124,0,47,0,5,72
+Lee,JP06,U.S. House,1,REP,Congressman Rick Crawford,49,0,8,0,4,37
+Lee,JP07,U.S. House,1,REP,Congressman Rick Crawford,105,0,21,0,5,79
+Lee,JP08,U.S. House,1,REP,Congressman Rick Crawford,68,0,23,0,2,43
+Lee,JP09,U.S. House,1,REP,Congressman Rick Crawford,42,0,36,0,1,5
 Lee,JP01,Governor,,LIB,Mark West,4,0,3,0,0,1
 Lee,JP02,Governor,,LIB,Mark West,3,0,2,0,1,0
 Lee,JP03,Governor,,LIB,Mark West,3,0,1,0,0,2

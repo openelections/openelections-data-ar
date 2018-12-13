@@ -1,52 +1,52 @@
 county,precinct,office,district,party,candidate,votes,election_day,early_vote,absentee,provisional
-Nevada,Bluff City City/Rural,U.S. Congress District 4,,LIB,Tom Canada,2,2,0,0,0
-Nevada,Bodcaw,U.S. Congress District 4,,LIB,Tom Canada,5,3,0,2,0
-Nevada,Georgia,U.S. Congress District 4,,LIB,Tom Canada,3,2,1,0,0
-Nevada,Emmet City,U.S. Congress District 4,,LIB,Tom Canada,0,0,0,0,0
-Nevada,Laneburg,U.S. Congress District 4,,LIB,Tom Canada,3,2,1,0,0
-Nevada,Rosston Rural,U.S. Congress District 4,,LIB,Tom Canada,1,1,0,0,0
-Nevada,Rosston City,U.S. Congress District 4,,LIB,Tom Canada,1,1,0,0,0
-Nevada,Willisville City/Rural,U.S. Congress District 4,,LIB,Tom Canada,5,3,2,0,0
-Nevada,"Wards 1,2,3,4",U.S. Congress District 4,,LIB,Tom Canada,14,7,6,1,0
-Nevada,West Rural,U.S. Congress District 4,,LIB,Tom Canada,7,5,2,0,0
-Nevada,East Rural,U.S. Congress District 4,,LIB,Tom Canada,4,3,1,0,0
-Nevada,Emmet Rural,U.S. Congress District 4,,LIB,Tom Canada,1,1,0,0,0
-Nevada,Bluff City City/Rural,U.S. Congress District 4,,REP,Representative Bruce Westerman,39,25,13,1,0
-Nevada,Bodcaw,U.S. Congress District 4,,REP,Representative Bruce Westerman,236,173,55,8,0
-Nevada,Georgia,U.S. Congress District 4,,REP,Representative Bruce Westerman,56,40,16,0,0
-Nevada,Emmet City,U.S. Congress District 4,,REP,Representative Bruce Westerman,89,61,19,9,0
-Nevada,Laneburg,U.S. Congress District 4,,REP,Representative Bruce Westerman,127,87,40,0,0
-Nevada,Rosston Rural,U.S. Congress District 4,,REP,Representative Bruce Westerman,40,28,12,0,0
-Nevada,Rosston City,U.S. Congress District 4,,REP,Representative Bruce Westerman,27,23,3,1,0
-Nevada,Willisville City/Rural,U.S. Congress District 4,,REP,Representative Bruce Westerman,99,79,20,0,0
-Nevada,"Wards 1,2,3,4",U.S. Congress District 4,,REP,Representative Bruce Westerman,319,142,162,15,0
-Nevada,West Rural,U.S. Congress District 4,,REP,Representative Bruce Westerman,205,104,101,0,0
-Nevada,East Rural,U.S. Congress District 4,,REP,Representative Bruce Westerman,285,129,156,0,0
-Nevada,Emmet Rural,U.S. Congress District 4,,REP,Representative Bruce Westerman,40,32,8,0,0
-Nevada,Bluff City City/Rural,U.S. Congress District 4,,DEM,Hayden Catherine Shamel,53,40,6,7,0
-Nevada,Bodcaw,U.S. Congress District 4,,DEM,Hayden Catherine Shamel,52,30,12,10,0
-Nevada,Georgia,U.S. Congress District 4,,DEM,Hayden Catherine Shamel,13,9,4,0,0
-Nevada,Emmet City,U.S. Congress District 4,,DEM,Hayden Catherine Shamel,35,19,12,4,0
-Nevada,Laneburg,U.S. Congress District 4,,DEM,Hayden Catherine Shamel,31,15,16,0,0
-Nevada,Rosston Rural,U.S. Congress District 4,,DEM,Hayden Catherine Shamel,59,47,12,0,0
-Nevada,Rosston City,U.S. Congress District 4,,DEM,Hayden Catherine Shamel,67,61,4,2,0
-Nevada,Willisville City/Rural,U.S. Congress District 4,,DEM,Hayden Catherine Shamel,69,53,16,0,0
-Nevada,"Wards 1,2,3,4",U.S. Congress District 4,,DEM,Hayden Catherine Shamel,398,183,191,24,0
-Nevada,West Rural,U.S. Congress District 4,,DEM,Hayden Catherine Shamel,44,23,21,0,0
-Nevada,East Rural,U.S. Congress District 4,,DEM,Hayden Catherine Shamel,62,31,31,0,0
-Nevada,Emmet Rural,U.S. Congress District 4,,DEM,Hayden Catherine Shamel,23,11,12,0,0
-Nevada,Bluff City City/Rural,U.S. Congress District 4,,NON,Write-In,0,0,0,0,0
-Nevada,Bodcaw,U.S. Congress District 4,,NON,Write-In,0,0,0,0,0
-Nevada,Georgia,U.S. Congress District 4,,NON,Write-In,1,1,0,0,0
-Nevada,Emmet City,U.S. Congress District 4,,NON,Write-In,0,0,0,0,0
-Nevada,Laneburg,U.S. Congress District 4,,NON,Write-In,0,0,0,0,0
-Nevada,Rosston Rural,U.S. Congress District 4,,NON,Write-In,0,0,0,0,0
-Nevada,Rosston City,U.S. Congress District 4,,NON,Write-In,0,0,0,0,0
-Nevada,Willisville City/Rural,U.S. Congress District 4,,NON,Write-In,0,0,0,0,0
-Nevada,"Wards 1,2,3,4",U.S. Congress District 4,,NON,Write-In,0,0,0,0,0
-Nevada,West Rural,U.S. Congress District 4,,NON,Write-In,1,1,0,0,0
-Nevada,East Rural,U.S. Congress District 4,,NON,Write-In,0,0,0,0,0
-Nevada,Emmet Rural,U.S. Congress District 4,,NON,Write-In,0,0,0,0,0
+Nevada,Bluff City City/Rural,U.S. House,4,LIB,Tom Canada,2,2,0,0,0
+Nevada,Bodcaw,U.S. House,4,LIB,Tom Canada,5,3,0,2,0
+Nevada,Georgia,U.S. House,4,LIB,Tom Canada,3,2,1,0,0
+Nevada,Emmet City,U.S. House,4,LIB,Tom Canada,0,0,0,0,0
+Nevada,Laneburg,U.S. House,4,LIB,Tom Canada,3,2,1,0,0
+Nevada,Rosston Rural,U.S. House,4,LIB,Tom Canada,1,1,0,0,0
+Nevada,Rosston City,U.S. House,4,LIB,Tom Canada,1,1,0,0,0
+Nevada,Willisville City/Rural,U.S. House,4,LIB,Tom Canada,5,3,2,0,0
+Nevada,"Wards 1,2,3,4",U.S. House,4,LIB,Tom Canada,14,7,6,1,0
+Nevada,West Rural,U.S. House,4,LIB,Tom Canada,7,5,2,0,0
+Nevada,East Rural,U.S. House,4,LIB,Tom Canada,4,3,1,0,0
+Nevada,Emmet Rural,U.S. House,4,LIB,Tom Canada,1,1,0,0,0
+Nevada,Bluff City City/Rural,U.S. House,4,REP,Representative Bruce Westerman,39,25,13,1,0
+Nevada,Bodcaw,U.S. House,4,REP,Representative Bruce Westerman,236,173,55,8,0
+Nevada,Georgia,U.S. House,4,REP,Representative Bruce Westerman,56,40,16,0,0
+Nevada,Emmet City,U.S. House,4,REP,Representative Bruce Westerman,89,61,19,9,0
+Nevada,Laneburg,U.S. House,4,REP,Representative Bruce Westerman,127,87,40,0,0
+Nevada,Rosston Rural,U.S. House,4,REP,Representative Bruce Westerman,40,28,12,0,0
+Nevada,Rosston City,U.S. House,4,REP,Representative Bruce Westerman,27,23,3,1,0
+Nevada,Willisville City/Rural,U.S. House,4,REP,Representative Bruce Westerman,99,79,20,0,0
+Nevada,"Wards 1,2,3,4",U.S. House,4,REP,Representative Bruce Westerman,319,142,162,15,0
+Nevada,West Rural,U.S. House,4,REP,Representative Bruce Westerman,205,104,101,0,0
+Nevada,East Rural,U.S. House,4,REP,Representative Bruce Westerman,285,129,156,0,0
+Nevada,Emmet Rural,U.S. House,4,REP,Representative Bruce Westerman,40,32,8,0,0
+Nevada,Bluff City City/Rural,U.S. House,4,DEM,Hayden Catherine Shamel,53,40,6,7,0
+Nevada,Bodcaw,U.S. House,4,DEM,Hayden Catherine Shamel,52,30,12,10,0
+Nevada,Georgia,U.S. House,4,DEM,Hayden Catherine Shamel,13,9,4,0,0
+Nevada,Emmet City,U.S. House,4,DEM,Hayden Catherine Shamel,35,19,12,4,0
+Nevada,Laneburg,U.S. House,4,DEM,Hayden Catherine Shamel,31,15,16,0,0
+Nevada,Rosston Rural,U.S. House,4,DEM,Hayden Catherine Shamel,59,47,12,0,0
+Nevada,Rosston City,U.S. House,4,DEM,Hayden Catherine Shamel,67,61,4,2,0
+Nevada,Willisville City/Rural,U.S. House,4,DEM,Hayden Catherine Shamel,69,53,16,0,0
+Nevada,"Wards 1,2,3,4",U.S. House,4,DEM,Hayden Catherine Shamel,398,183,191,24,0
+Nevada,West Rural,U.S. House,4,DEM,Hayden Catherine Shamel,44,23,21,0,0
+Nevada,East Rural,U.S. House,4,DEM,Hayden Catherine Shamel,62,31,31,0,0
+Nevada,Emmet Rural,U.S. House,4,DEM,Hayden Catherine Shamel,23,11,12,0,0
+Nevada,Bluff City City/Rural,U.S. House,4,NON,Write-In,0,0,0,0,0
+Nevada,Bodcaw,U.S. House,4,NON,Write-In,0,0,0,0,0
+Nevada,Georgia,U.S. House,4,NON,Write-In,1,1,0,0,0
+Nevada,Emmet City,U.S. House,4,NON,Write-In,0,0,0,0,0
+Nevada,Laneburg,U.S. House,4,NON,Write-In,0,0,0,0,0
+Nevada,Rosston Rural,U.S. House,4,NON,Write-In,0,0,0,0,0
+Nevada,Rosston City,U.S. House,4,NON,Write-In,0,0,0,0,0
+Nevada,Willisville City/Rural,U.S. House,4,NON,Write-In,0,0,0,0,0
+Nevada,"Wards 1,2,3,4",U.S. House,4,NON,Write-In,0,0,0,0,0
+Nevada,West Rural,U.S. House,4,NON,Write-In,1,1,0,0,0
+Nevada,East Rural,U.S. House,4,NON,Write-In,0,0,0,0,0
+Nevada,Emmet Rural,U.S. House,4,NON,Write-In,0,0,0,0,0
 Nevada,Bluff City City/Rural,Governor,,REP,Governor Asa Hutchinson,37,23,13,1,0
 Nevada,Bodcaw,Governor,,REP,Governor Asa Hutchinson,240,175,55,10,0
 Nevada,Georgia,Governor,,REP,Governor Asa Hutchinson,60,41,19,0,0
@@ -275,18 +275,18 @@ Nevada,"Wards 1,2,3,4",Commissioner of State Lands,,DEM,Larry Williams,415,189,2
 Nevada,West Rural,Commissioner of State Lands,,DEM,Larry Williams,50,27,23,0,0
 Nevada,East Rural,Commissioner of State Lands,,DEM,Larry Williams,73,34,39,0,0
 Nevada,Emmet Rural,Commissioner of State Lands,,DEM,Larry Williams,26,13,13,0,0
-Nevada,Emmet City,State Senate District 10,,LIB,Bobbi Hicks,59,41,11,7,0
-Nevada,West Rural,State Senate District 10,,LIB,Bobbi Hicks,101,55,46,0,0
-Nevada,Emmet City,State Senate District 10,,DEM,Senator Larry Teague,58,34,18,6,0
-Nevada,West Rural,State Senate District 10,,DEM,Senator Larry Teague,141,71,70,0,0
-Nevada,Bluff City City/Rural,State Representative District 5,,DEM,State Representative David Fielding,57,42,8,7,0
-Nevada,Rosston Rural,State Representative District 5,,DEM,State Representative David Fielding,59,47,12,0,0
-Nevada,Rosston City,State Representative District 5,,DEM,State Representative David Fielding,69,63,4,2,0
-Nevada,Willisville City/Rural,State Representative District 5,,DEM,State Representative David Fielding,73,54,19,0,0
-Nevada,Bluff City City/Rural,State Representative District 5,,REP,Wade Andrews,36,24,11,1,0
-Nevada,Rosston Rural,State Representative District 5,,REP,Wade Andrews,41,29,12,0,0
-Nevada,Rosston City,State Representative District 5,,REP,Wade Andrews,26,22,3,1,0
-Nevada,Willisville City/Rural,State Representative District 5,,REP,Wade Andrews,101,82,19,0,0
+Nevada,Emmet City,State Senate,10,LIB,Bobbi Hicks,59,41,11,7,0
+Nevada,West Rural,State Senate,10,LIB,Bobbi Hicks,101,55,46,0,0
+Nevada,Emmet City,State Senate,10,DEM,Senator Larry Teague,58,34,18,6,0
+Nevada,West Rural,State Senate,10,DEM,Senator Larry Teague,141,71,70,0,0
+Nevada,Bluff City City/Rural,State Representative,5,DEM,State Representative David Fielding,57,42,8,7,0
+Nevada,Rosston Rural,State Representative,5,DEM,State Representative David Fielding,59,47,12,0,0
+Nevada,Rosston City,State Representative,5,DEM,State Representative David Fielding,69,63,4,2,0
+Nevada,Willisville City/Rural,State Representative,5,DEM,State Representative David Fielding,73,54,19,0,0
+Nevada,Bluff City City/Rural,State Representative,5,REP,Wade Andrews,36,24,11,1,0
+Nevada,Rosston Rural,State Representative,5,REP,Wade Andrews,41,29,12,0,0
+Nevada,Rosston City,State Representative,5,REP,Wade Andrews,26,22,3,1,0
+Nevada,Willisville City/Rural,State Representative,5,REP,Wade Andrews,101,82,19,0,0
 Nevada,Bluff City City/Rural,State Supreme Court Associate Justice Position 3,,NON,David Sterling,46,31,11,4,0
 Nevada,Bodcaw,State Supreme Court Associate Justice Position 3,,NON,David Sterling,130,96,28,6,0
 Nevada,Georgia,State Supreme Court Associate Justice Position 3,,NON,David Sterling,24,19,5,0,0
