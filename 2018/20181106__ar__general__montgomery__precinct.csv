@@ -1,0 +1,623 @@
+county,precinct,office,district,party,candidate,votes,election_day,early_vote,absentee
+Montgomery,Alamo,U.S. Congress District 4,,Lib,Tom Canada,0,0,0,0
+Montgomery,Black Springs,U.S. Congress District 4,,Lib,Tom Canada,2,0,2,0
+Montgomery,Caddo Gap,U.S. Congress District 4,,Lib,Tom Canada,7,6,1,0
+Montgomery,Caney,U.S. Congress District 4,,Lib,Tom Canada,2,2,0,0
+Montgomery,Center,U.S. Congress District 4,,Lib,Tom Canada,10,5,5,0
+Montgomery,Fannie,U.S. Congress District 4,,Lib,Tom Canada,0,0,0,0
+Montgomery,Hopper,U.S. Congress District 4,,Lib,Tom Canada,0,0,0,0
+Montgomery,Mount Ida - Inside,U.S. Congress District 4,,Lib,Tom Canada,6,1,4,1
+Montgomery,Mount Ida - Outside,U.S. Congress District 4,,Lib,Tom Canada,7,3,4,0
+Montgomery,Norman - Inside,U.S. Congress District 4,,Lib,Tom Canada,2,1,1,0
+Montgomery,Norman - Outside,U.S. Congress District 4,,Lib,Tom Canada,3,2,1,0
+Montgomery,Oden - Inside,U.S. Congress District 4,,Lib,Tom Canada,0,0,0,0
+Montgomery,Oden - Outside,U.S. Congress District 4,,Lib,Tom Canada,7,5,2,0
+Montgomery,Pencil Bluff,U.S. Congress District 4,,Lib,Tom Canada,4,3,1,0
+Montgomery,Sims,U.S. Congress District 4,,Lib,Tom Canada,1,0,1,0
+Montgomery,Washita,U.S. Congress District 4,,Lib,Tom Canada,1,0,1,0
+Montgomery,Alamo,U.S. Congress District 4,,Dem,Hayden Catherine Shamel,4,2,2,0
+Montgomery,Black Springs,U.S. Congress District 4,,Dem,Hayden Catherine Shamel,39,18,18,3
+Montgomery,Caddo Gap,U.S. Congress District 4,,Dem,Hayden Catherine Shamel,33,17,15,1
+Montgomery,Caney,U.S. Congress District 4,,Dem,Hayden Catherine Shamel,23,19,2,2
+Montgomery,Center,U.S. Congress District 4,,Dem,Hayden Catherine Shamel,112,41,70,1
+Montgomery,Fannie,U.S. Congress District 4,,Dem,Hayden Catherine Shamel,15,7,7,1
+Montgomery,Hopper,U.S. Congress District 4,,Dem,Hayden Catherine Shamel,10,4,5,1
+Montgomery,Mount Ida - Inside,U.S. Congress District 4,,Dem,Hayden Catherine Shamel,96,25,61,10
+Montgomery,Mount Ida - Outside,U.S. Congress District 4,,Dem,Hayden Catherine Shamel,82,21,61,0
+Montgomery,Norman - Inside,U.S. Congress District 4,,Dem,Hayden Catherine Shamel,20,15,5,0
+Montgomery,Norman - Outside,U.S. Congress District 4,,Dem,Hayden Catherine Shamel,41,19,22,0
+Montgomery,Oden - Inside,U.S. Congress District 4,,Dem,Hayden Catherine Shamel,22,12,8,2
+Montgomery,Oden - Outside,U.S. Congress District 4,,Dem,Hayden Catherine Shamel,45,31,12,2
+Montgomery,Pencil Bluff,U.S. Congress District 4,,Dem,Hayden Catherine Shamel,19,13,6,0
+Montgomery,Sims,U.S. Congress District 4,,Dem,Hayden Catherine Shamel,29,13,14,2
+Montgomery,Washita,U.S. Congress District 4,,Dem,Hayden Catherine Shamel,25,10,15,0
+Montgomery,Alamo,U.S. Congress District 4,,Rep,Representative Bruce Westerman,19,13,6,0
+Montgomery,Black Springs,U.S. Congress District 4,,Rep,Representative Bruce Westerman,140,84,52,4
+Montgomery,Caddo Gap,U.S. Congress District 4,,Rep,Representative Bruce Westerman,184,110,62,12
+Montgomery,Caney,U.S. Congress District 4,,Rep,Representative Bruce Westerman,194,168,23,3
+Montgomery,Center,U.S. Congress District 4,,Rep,Representative Bruce Westerman,339,124,212,3
+Montgomery,Fannie,U.S. Congress District 4,,Rep,Representative Bruce Westerman,48,15,32,1
+Montgomery,Hopper,U.S. Congress District 4,,Rep,Representative Bruce Westerman,42,30,11,1
+Montgomery,Mount Ida - Inside,U.S. Congress District 4,,Rep,Representative Bruce Westerman,198,80,107,11
+Montgomery,Mount Ida - Outside,U.S. Congress District 4,,Rep,Representative Bruce Westerman,264,101,157,6
+Montgomery,Norman - Inside,U.S. Congress District 4,,Rep,Representative Bruce Westerman,69,47,22,0
+Montgomery,Norman - Outside,U.S. Congress District 4,,Rep,Representative Bruce Westerman,107,75,28,4
+Montgomery,Oden - Inside,U.S. Congress District 4,,Rep,Representative Bruce Westerman,52,29,23,0
+Montgomery,Oden - Outside,U.S. Congress District 4,,Rep,Representative Bruce Westerman,205,107,93,5
+Montgomery,Pencil Bluff,U.S. Congress District 4,,Rep,Representative Bruce Westerman,115,87,28,0
+Montgomery,Sims,U.S. Congress District 4,,Rep,Representative Bruce Westerman,85,55,29,1
+Montgomery,Washita,U.S. Congress District 4,,Rep,Representative Bruce Westerman,101,45,56,0
+Montgomery,Alamo,U.S. Congress District 4,,Non,Write-In,0,0,0,0
+Montgomery,Black Springs,U.S. Congress District 4,,Non,Write-In,0,0,0,0
+Montgomery,Caddo Gap,U.S. Congress District 4,,Non,Write-In,0,0,0,0
+Montgomery,Caney,U.S. Congress District 4,,Non,Write-In,0,0,0,0
+Montgomery,Center,U.S. Congress District 4,,Non,Write-In,0,0,0,0
+Montgomery,Fannie,U.S. Congress District 4,,Non,Write-In,0,0,0,0
+Montgomery,Hopper,U.S. Congress District 4,,Non,Write-In,0,0,0,0
+Montgomery,Mount Ida - Inside,U.S. Congress District 4,,Non,Write-In,1,1,0,0
+Montgomery,Mount Ida - Outside,U.S. Congress District 4,,Non,Write-In,0,0,0,0
+Montgomery,Norman - Inside,U.S. Congress District 4,,Non,Write-In,0,0,0,0
+Montgomery,Norman - Outside,U.S. Congress District 4,,Non,Write-In,0,0,0,0
+Montgomery,Oden - Inside,U.S. Congress District 4,,Non,Write-In,0,0,0,0
+Montgomery,Oden - Outside,U.S. Congress District 4,,Non,Write-In,0,0,0,0
+Montgomery,Pencil Bluff,U.S. Congress District 4,,Non,Write-In,0,0,0,0
+Montgomery,Sims,U.S. Congress District 4,,Non,Write-In,0,0,0,0
+Montgomery,Washita,U.S. Congress District 4,,Non,Write-In,0,0,0,0
+Montgomery,Alamo,Governor,,Lib,Mark West,1,0,1,0
+Montgomery,Black Springs,Governor,,Lib,Mark West,4,2,2,0
+Montgomery,Caddo Gap,Governor,,Lib,Mark West,2,1,1,0
+Montgomery,Caney,Governor,,Lib,Mark West,2,2,0,0
+Montgomery,Center,Governor,,Lib,Mark West,11,8,3,0
+Montgomery,Fannie,Governor,,Lib,Mark West,1,0,0,1
+Montgomery,Hopper,Governor,,Lib,Mark West,3,2,1,0
+Montgomery,Mount Ida - Inside,Governor,,Lib,Mark West,6,4,1,1
+Montgomery,Mount Ida - Outside,Governor,,Lib,Mark West,8,3,5,0
+Montgomery,Norman - Inside,Governor,,Lib,Mark West,5,3,2,0
+Montgomery,Norman - Outside,Governor,,Lib,Mark West,10,8,2,0
+Montgomery,Oden - Inside,Governor,,Lib,Mark West,1,1,0,0
+Montgomery,Oden - Outside,Governor,,Lib,Mark West,7,6,1,0
+Montgomery,Pencil Bluff,Governor,,Lib,Mark West,4,3,1,0
+Montgomery,Sims,Governor,,Lib,Mark West,2,1,1,0
+Montgomery,Washita,Governor,,Lib,Mark West,2,2,0,0
+Montgomery,Alamo,Governor,,Dem,Jared K. Henderson,2,1,1,0
+Montgomery,Black Springs,Governor,,Dem,Jared K. Henderson,36,15,18,3
+Montgomery,Caddo Gap,Governor,,Dem,Jared K. Henderson,31,19,11,1
+Montgomery,Caney,Governor,,Dem,Jared K. Henderson,20,16,2,2
+Montgomery,Center,Governor,,Dem,Jared K. Henderson,100,37,62,1
+Montgomery,Fannie,Governor,,Dem,Jared K. Henderson,12,7,5,0
+Montgomery,Hopper,Governor,,Dem,Jared K. Henderson,8,3,4,1
+Montgomery,Mount Ida - Inside,Governor,,Dem,Jared K. Henderson,82,20,51,11
+Montgomery,Mount Ida - Outside,Governor,,Dem,Jared K. Henderson,73,16,57,0
+Montgomery,Norman - Inside,Governor,,Dem,Jared K. Henderson,15,10,5,0
+Montgomery,Norman - Outside,Governor,,Dem,Jared K. Henderson,40,20,20,0
+Montgomery,Oden - Inside,Governor,,Dem,Jared K. Henderson,19,10,7,2
+Montgomery,Oden - Outside,Governor,,Dem,Jared K. Henderson,48,34,12,2
+Montgomery,Pencil Bluff,Governor,,Dem,Jared K. Henderson,21,14,7,0
+Montgomery,Sims,Governor,,Dem,Jared K. Henderson,23,10,11,2
+Montgomery,Washita,Governor,,Dem,Jared K. Henderson,28,9,19,0
+Montgomery,Alamo,Governor,,Rep,Governor Asa Hutchinson,20,14,6,0
+Montgomery,Black Springs,Governor,,Rep,Governor Asa Hutchinson,142,87,51,4
+Montgomery,Caddo Gap,Governor,,Rep,Governor Asa Hutchinson,192,113,67,12
+Montgomery,Caney,Governor,,Rep,Governor Asa Hutchinson,197,172,22,3
+Montgomery,Center,Governor,,Rep,Governor Asa Hutchinson,351,126,222,3
+Montgomery,Fannie,Governor,,Rep,Governor Asa Hutchinson,52,15,36,1
+Montgomery,Hopper,Governor,,Rep,Governor Asa Hutchinson,42,30,11,1
+Montgomery,Mount Ida - Inside,Governor,,Rep,Governor Asa Hutchinson,214,83,120,11
+Montgomery,Mount Ida - Outside,Governor,,Rep,Governor Asa Hutchinson,273,106,161,6
+Montgomery,Norman - Inside,Governor,,Rep,Governor Asa Hutchinson,71,50,21,0
+Montgomery,Norman - Outside,Governor,,Rep,Governor Asa Hutchinson,99,66,29,4
+Montgomery,Oden - Inside,Governor,,Rep,Governor Asa Hutchinson,54,30,24,0
+Montgomery,Oden - Outside,Governor,,Rep,Governor Asa Hutchinson,201,103,93,5
+Montgomery,Pencil Bluff,Governor,,Rep,Governor Asa Hutchinson,112,86,26,0
+Montgomery,Sims,Governor,,Rep,Governor Asa Hutchinson,92,59,32,1
+Montgomery,Washita,Governor,,Rep,Governor Asa Hutchinson,92,41,51,0
+Montgomery,Alamo,Lieutenant Governor,,Lib,Frank Gilbert,0,0,0,0
+Montgomery,Black Springs,Lieutenant Governor,,Lib,Frank Gilbert,3,1,2,0
+Montgomery,Caddo Gap,Lieutenant Governor,,Lib,Frank Gilbert,2,1,1,0
+Montgomery,Caney,Lieutenant Governor,,Lib,Frank Gilbert,4,4,0,0
+Montgomery,Center,Lieutenant Governor,,Lib,Frank Gilbert,13,7,6,0
+Montgomery,Fannie,Lieutenant Governor,,Lib,Frank Gilbert,1,0,0,1
+Montgomery,Hopper,Lieutenant Governor,,Lib,Frank Gilbert,1,1,0,0
+Montgomery,Mount Ida - Inside,Lieutenant Governor,,Lib,Frank Gilbert,7,2,4,1
+Montgomery,Mount Ida - Outside,Lieutenant Governor,,Lib,Frank Gilbert,4,2,2,0
+Montgomery,Norman - Inside,Lieutenant Governor,,Lib,Frank Gilbert,3,1,2,0
+Montgomery,Norman - Outside,Lieutenant Governor,,Lib,Frank Gilbert,3,3,0,0
+Montgomery,Oden - Inside,Lieutenant Governor,,Lib,Frank Gilbert,0,0,0,0
+Montgomery,Oden - Outside,Lieutenant Governor,,Lib,Frank Gilbert,5,3,2,0
+Montgomery,Pencil Bluff,Lieutenant Governor,,Lib,Frank Gilbert,3,2,1,0
+Montgomery,Sims,Lieutenant Governor,,Lib,Frank Gilbert,1,0,1,0
+Montgomery,Washita,Lieutenant Governor,,Lib,Frank Gilbert,3,2,1,0
+Montgomery,Alamo,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,20,13,7,0
+Montgomery,Black Springs,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,143,88,51,4
+Montgomery,Caddo Gap,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,191,115,64,12
+Montgomery,Caney,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,196,170,23,3
+Montgomery,Center,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,343,131,210,2
+Montgomery,Fannie,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,52,15,36,1
+Montgomery,Hopper,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,42,30,12,0
+Montgomery,Mount Ida - Inside,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,206,86,110,10
+Montgomery,Mount Ida - Outside,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,275,107,162,6
+Montgomery,Norman - Inside,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,73,51,22,0
+Montgomery,Norman - Outside,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,105,72,29,4
+Montgomery,Oden - Inside,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,55,30,25,0
+Montgomery,Oden - Outside,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,209,110,94,5
+Montgomery,Pencil Bluff,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,117,90,27,0
+Montgomery,Sims,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,90,57,32,1
+Montgomery,Washita,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,90,42,48,0
+Montgomery,Alamo,Lieutenant Governor,,Dem,Anthony Bland,3,2,1,0
+Montgomery,Black Springs,Lieutenant Governor,,Dem,Anthony Bland,37,15,19,3
+Montgomery,Caddo Gap,Lieutenant Governor,,Dem,Anthony Bland,33,18,14,1
+Montgomery,Caney,Lieutenant Governor,,Dem,Anthony Bland,20,16,2,2
+Montgomery,Center,Lieutenant Governor,,Dem,Anthony Bland,107,34,71,2
+Montgomery,Fannie,Lieutenant Governor,,Dem,Anthony Bland,12,7,5,0
+Montgomery,Hopper,Lieutenant Governor,,Dem,Anthony Bland,10,4,4,2
+Montgomery,Mount Ida - Inside,Lieutenant Governor,,Dem,Anthony Bland,89,19,59,11
+Montgomery,Mount Ida - Outside,Lieutenant Governor,,Dem,Anthony Bland,75,17,58,0
+Montgomery,Norman - Inside,Lieutenant Governor,,Dem,Anthony Bland,14,10,4,0
+Montgomery,Norman - Outside,Lieutenant Governor,,Dem,Anthony Bland,42,20,22,0
+Montgomery,Oden - Inside,Lieutenant Governor,,Dem,Anthony Bland,19,11,6,2
+Montgomery,Oden - Outside,Lieutenant Governor,,Dem,Anthony Bland,41,29,10,2
+Montgomery,Pencil Bluff,Lieutenant Governor,,Dem,Anthony Bland,16,10,6,0
+Montgomery,Sims,Lieutenant Governor,,Dem,Anthony Bland,25,12,11,2
+Montgomery,Washita,Lieutenant Governor,,Dem,Anthony Bland,30,9,21,0
+Montgomery,Alamo,Attorney General,,Rep,Attorney General Leslie Rutledge,19,13,6,0
+Montgomery,Black Springs,Attorney General,,Rep,Attorney General Leslie Rutledge,136,82,50,4
+Montgomery,Caddo Gap,Attorney General,,Rep,Attorney General Leslie Rutledge,185,110,63,12
+Montgomery,Caney,Attorney General,,Rep,Attorney General Leslie Rutledge,193,167,23,3
+Montgomery,Center,Attorney General,,Rep,Attorney General Leslie Rutledge,340,126,212,2
+Montgomery,Fannie,Attorney General,,Rep,Attorney General Leslie Rutledge,51,15,35,1
+Montgomery,Hopper,Attorney General,,Rep,Attorney General Leslie Rutledge,41,29,12,0
+Montgomery,Mount Ida - Inside,Attorney General,,Rep,Attorney General Leslie Rutledge,206,84,112,10
+Montgomery,Mount Ida - Outside,Attorney General,,Rep,Attorney General Leslie Rutledge,268,102,160,6
+Montgomery,Norman - Inside,Attorney General,,Rep,Attorney General Leslie Rutledge,67,46,21,0
+Montgomery,Norman - Outside,Attorney General,,Rep,Attorney General Leslie Rutledge,102,68,30,4
+Montgomery,Oden - Inside,Attorney General,,Rep,Attorney General Leslie Rutledge,52,30,22,0
+Montgomery,Oden - Outside,Attorney General,,Rep,Attorney General Leslie Rutledge,203,105,93,5
+Montgomery,Pencil Bluff,Attorney General,,Rep,Attorney General Leslie Rutledge,113,85,28,0
+Montgomery,Sims,Attorney General,,Rep,Attorney General Leslie Rutledge,84,53,30,1
+Montgomery,Washita,Attorney General,,Rep,Attorney General Leslie Rutledge,93,41,52,0
+Montgomery,Alamo,Attorney General,,Dem,Mike Lee,4,2,2,0
+Montgomery,Black Springs,Attorney General,,Dem,Mike Lee,39,18,18,3
+Montgomery,Caddo Gap,Attorney General,,Dem,Mike Lee,39,23,15,1
+Montgomery,Caney,Attorney General,,Dem,Mike Lee,26,22,2,2
+Montgomery,Center,Attorney General,,Dem,Mike Lee,112,40,70,2
+Montgomery,Fannie,Attorney General,,Dem,Mike Lee,13,7,6,0
+Montgomery,Hopper,Attorney General,,Dem,Mike Lee,11,5,4,2
+Montgomery,Mount Ida - Inside,Attorney General,,Dem,Mike Lee,88,21,56,11
+Montgomery,Mount Ida - Outside,Attorney General,,Dem,Mike Lee,81,19,62,0
+Montgomery,Norman - Inside,Attorney General,,Dem,Mike Lee,20,15,5,0
+Montgomery,Norman - Outside,Attorney General,,Dem,Mike Lee,44,24,20,0
+Montgomery,Oden - Inside,Attorney General,,Dem,Mike Lee,19,9,8,2
+Montgomery,Oden - Outside,Attorney General,,Dem,Mike Lee,49,36,11,2
+Montgomery,Pencil Bluff,Attorney General,,Dem,Mike Lee,22,16,6,0
+Montgomery,Sims,Attorney General,,Dem,Mike Lee,30,15,13,2
+Montgomery,Washita,Attorney General,,Dem,Mike Lee,28,10,18,0
+Montgomery,Alamo,Attorney General,,Lib,Kerry Hicks,0,0,0,0
+Montgomery,Black Springs,Attorney General,,Lib,Kerry Hicks,6,2,4,0
+Montgomery,Caddo Gap,Attorney General,,Lib,Kerry Hicks,1,0,1,0
+Montgomery,Caney,Attorney General,,Lib,Kerry Hicks,2,2,0,0
+Montgomery,Center,Attorney General,,Lib,Kerry Hicks,11,6,5,0
+Montgomery,Fannie,Attorney General,,Lib,Kerry Hicks,1,0,0,1
+Montgomery,Hopper,Attorney General,,Lib,Kerry Hicks,0,0,0,0
+Montgomery,Mount Ida - Inside,Attorney General,,Lib,Kerry Hicks,8,2,4,2
+Montgomery,Mount Ida - Outside,Attorney General,,Lib,Kerry Hicks,6,5,1,0
+Montgomery,Norman - Inside,Attorney General,,Lib,Kerry Hicks,5,3,2,0
+Montgomery,Norman - Outside,Attorney General,,Lib,Kerry Hicks,5,4,1,0
+Montgomery,Oden - Inside,Attorney General,,Lib,Kerry Hicks,3,2,1,0
+Montgomery,Oden - Outside,Attorney General,,Lib,Kerry Hicks,6,3,3,0
+Montgomery,Pencil Bluff,Attorney General,,Lib,Kerry Hicks,4,3,1,0
+Montgomery,Sims,Attorney General,,Lib,Kerry Hicks,2,2,0,0
+Montgomery,Washita,Attorney General,,Lib,Kerry Hicks,2,2,0,0
+Montgomery,Alamo,Secretary of State,,Rep,John Thurston Commissioner of State Lands,20,13,7,0
+Montgomery,Black Springs,Secretary of State,,Rep,John Thurston Commissioner of State Lands,138,82,52,4
+Montgomery,Caddo Gap,Secretary of State,,Rep,John Thurston Commissioner of State Lands,181,107,62,12
+Montgomery,Caney,Secretary of State,,Rep,John Thurston Commissioner of State Lands,193,167,23,3
+Montgomery,Center,Secretary of State,,Rep,John Thurston Commissioner of State Lands,330,124,204,2
+Montgomery,Fannie,Secretary of State,,Rep,John Thurston Commissioner of State Lands,50,15,34,1
+Montgomery,Hopper,Secretary of State,,Rep,John Thurston Commissioner of State Lands,41,29,12,0
+Montgomery,Mount Ida - Inside,Secretary of State,,Rep,John Thurston Commissioner of State Lands,194,77,108,9
+Montgomery,Mount Ida - Outside,Secretary of State,,Rep,John Thurston Commissioner of State Lands,259,100,153,6
+Montgomery,Norman - Inside,Secretary of State,,Rep,John Thurston Commissioner of State Lands,70,48,22,0
+Montgomery,Norman - Outside,Secretary of State,,Rep,John Thurston Commissioner of State Lands,105,74,27,4
+Montgomery,Oden - Inside,Secretary of State,,Rep,John Thurston Commissioner of State Lands,52,29,23,0
+Montgomery,Oden - Outside,Secretary of State,,Rep,John Thurston Commissioner of State Lands,197,104,88,5
+Montgomery,Pencil Bluff,Secretary of State,,Rep,John Thurston Commissioner of State Lands,113,87,26,0
+Montgomery,Sims,Secretary of State,,Rep,John Thurston Commissioner of State Lands,84,53,30,1
+Montgomery,Washita,Secretary of State,,Rep,John Thurston Commissioner of State Lands,88,41,47,0
+Montgomery,Alamo,Secretary of State,,Dem,Susan Inman,2,1,1,0
+Montgomery,Black Springs,Secretary of State,,Dem,Susan Inman,40,17,20,3
+Montgomery,Caddo Gap,Secretary of State,,Dem,Susan Inman,41,24,16,1
+Montgomery,Caney,Secretary of State,,Dem,Susan Inman,27,23,2,2
+Montgomery,Center,Secretary of State,,Dem,Susan Inman,122,43,77,2
+Montgomery,Fannie,Secretary of State,,Dem,Susan Inman,13,7,6,0
+Montgomery,Hopper,Secretary of State,,Dem,Susan Inman,10,5,3,2
+Montgomery,Mount Ida - Inside,Secretary of State,,Dem,Susan Inman,102,26,64,12
+Montgomery,Mount Ida - Outside,Secretary of State,,Dem,Susan Inman,84,22,62,0
+Montgomery,Norman - Inside,Secretary of State,,Dem,Susan Inman,18,13,5,0
+Montgomery,Norman - Outside,Secretary of State,,Dem,Susan Inman,41,19,22,0
+Montgomery,Oden - Inside,Secretary of State,,Dem,Susan Inman,22,12,8,2
+Montgomery,Oden - Outside,Secretary of State,,Dem,Susan Inman,51,36,13,2
+Montgomery,Pencil Bluff,Secretary of State,,Dem,Susan Inman,22,14,8,0
+Montgomery,Sims,Secretary of State,,Dem,Susan Inman,31,15,14,2
+Montgomery,Washita,Secretary of State,,Dem,Susan Inman,32,12,20,0
+Montgomery,Alamo,Secretary of State,,Lib,Christopher Olson,0,0,0,0
+Montgomery,Black Springs,Secretary of State,,Lib,Christopher Olson,3,2,1,0
+Montgomery,Caddo Gap,Secretary of State,,Lib,Christopher Olson,3,2,1,0
+Montgomery,Caney,Secretary of State,,Lib,Christopher Olson,2,2,0,0
+Montgomery,Center,Secretary of State,,Lib,Christopher Olson,12,5,7,0
+Montgomery,Fannie,Secretary of State,,Lib,Christopher Olson,2,0,1,1
+Montgomery,Hopper,Secretary of State,,Lib,Christopher Olson,2,1,1,0
+Montgomery,Mount Ida - Inside,Secretary of State,,Lib,Christopher Olson,8,5,1,2
+Montgomery,Mount Ida - Outside,Secretary of State,,Lib,Christopher Olson,11,4,7,0
+Montgomery,Norman - Inside,Secretary of State,,Lib,Christopher Olson,3,2,1,0
+Montgomery,Norman - Outside,Secretary of State,,Lib,Christopher Olson,5,3,2,0
+Montgomery,Oden - Inside,Secretary of State,,Lib,Christopher Olson,0,0,0,0
+Montgomery,Oden - Outside,Secretary of State,,Lib,Christopher Olson,7,1,6,0
+Montgomery,Pencil Bluff,Secretary of State,,Lib,Christopher Olson,4,3,1,0
+Montgomery,Sims,Secretary of State,,Lib,Christopher Olson,1,1,0,0
+Montgomery,Washita,Secretary of State,,Lib,Christopher Olson,6,1,5,0
+Montgomery,Alamo,State Treasurer,,Rep,Treasurer of State Dennis Milligan,21,13,8,0
+Montgomery,Black Springs,State Treasurer,,Rep,Treasurer of State Dennis Milligan,153,91,56,6
+Montgomery,Caddo Gap,State Treasurer,,Rep,Treasurer of State Dennis Milligan,194,115,67,12
+Montgomery,Caney,State Treasurer,,Rep,Treasurer of State Dennis Milligan,202,175,24,3
+Montgomery,Center,State Treasurer,,Rep,Treasurer of State Dennis Milligan,354,141,211,2
+Montgomery,Fannie,State Treasurer,,Rep,Treasurer of State Dennis Milligan,50,16,33,1
+Montgomery,Hopper,State Treasurer,,Rep,Treasurer of State Dennis Milligan,46,31,14,1
+Montgomery,Mount Ida - Inside,State Treasurer,,Rep,Treasurer of State Dennis Milligan,219,87,118,14
+Montgomery,Mount Ida - Outside,State Treasurer,,Rep,Treasurer of State Dennis Milligan,275,104,165,6
+Montgomery,Norman - Inside,State Treasurer,,Rep,Treasurer of State Dennis Milligan,81,58,23,0
+Montgomery,Norman - Outside,State Treasurer,,Rep,Treasurer of State Dennis Milligan,114,80,30,4
+Montgomery,Oden - Inside,State Treasurer,,Rep,Treasurer of State Dennis Milligan,56,30,26,0
+Montgomery,Oden - Outside,State Treasurer,,Rep,Treasurer of State Dennis Milligan,210,114,91,5
+Montgomery,Pencil Bluff,State Treasurer,,Rep,Treasurer of State Dennis Milligan,119,90,29,0
+Montgomery,Sims,State Treasurer,,Rep,Treasurer of State Dennis Milligan,89,57,31,1
+Montgomery,Washita,State Treasurer,,Rep,Treasurer of State Dennis Milligan,101,45,56,0
+Montgomery,Alamo,State Treasurer,,Lib,Ashley Ewald,1,1,0,0
+Montgomery,Black Springs,State Treasurer,,Lib,Ashley Ewald,26,9,16,1
+Montgomery,Caddo Gap,State Treasurer,,Lib,Ashley Ewald,30,18,11,1
+Montgomery,Caney,State Treasurer,,Lib,Ashley Ewald,18,16,1,1
+Montgomery,Center,State Treasurer,,Lib,Ashley Ewald,104,30,72,2
+Montgomery,Fannie,State Treasurer,,Lib,Ashley Ewald,13,6,6,1
+Montgomery,Hopper,State Treasurer,,Lib,Ashley Ewald,7,4,2,1
+Montgomery,Mount Ida - Inside,State Treasurer,,Lib,Ashley Ewald,81,20,54,7
+Montgomery,Mount Ida - Outside,State Treasurer,,Lib,Ashley Ewald,75,21,54,0
+Montgomery,Norman - Inside,State Treasurer,,Lib,Ashley Ewald,10,5,5,0
+Montgomery,Norman - Outside,State Treasurer,,Lib,Ashley Ewald,30,14,16,0
+Montgomery,Oden - Inside,State Treasurer,,Lib,Ashley Ewald,14,10,2,2
+Montgomery,Oden - Outside,State Treasurer,,Lib,Ashley Ewald,43,29,12,2
+Montgomery,Pencil Bluff,State Treasurer,,Lib,Ashley Ewald,19,13,6,0
+Montgomery,Sims,State Treasurer,,Lib,Ashley Ewald,26,11,13,2
+Montgomery,Washita,State Treasurer,,Lib,Ashley Ewald,25,9,16,0
+Montgomery,Alamo,Auditor of State,,Rep,Auditor Andrea Lea,20,13,7,0
+Montgomery,Black Springs,Auditor of State,,Rep,Auditor Andrea Lea,150,88,56,6
+Montgomery,Caddo Gap,Auditor of State,,Rep,Auditor Andrea Lea,197,117,68,12
+Montgomery,Caney,Auditor of State,,Rep,Auditor Andrea Lea,201,174,24,3
+Montgomery,Center,Auditor of State,,Rep,Auditor Andrea Lea,370,140,228,2
+Montgomery,Fannie,Auditor of State,,Rep,Auditor Andrea Lea,52,16,35,1
+Montgomery,Hopper,Auditor of State,,Rep,Auditor Andrea Lea,48,33,14,1
+Montgomery,Mount Ida - Inside,Auditor of State,,Rep,Auditor Andrea Lea,232,89,128,15
+Montgomery,Mount Ida - Outside,Auditor of State,,Rep,Auditor Andrea Lea,288,110,172,6
+Montgomery,Norman - Inside,Auditor of State,,Rep,Auditor Andrea Lea,80,57,23,0
+Montgomery,Norman - Outside,Auditor of State,,Rep,Auditor Andrea Lea,117,79,34,4
+Montgomery,Oden - Inside,Auditor of State,,Rep,Auditor Andrea Lea,56,30,26,0
+Montgomery,Oden - Outside,Auditor of State,,Rep,Auditor Andrea Lea,213,117,91,5
+Montgomery,Pencil Bluff,Auditor of State,,Rep,Auditor Andrea Lea,115,87,28,0
+Montgomery,Sims,Auditor of State,,Rep,Auditor Andrea Lea,92,57,34,1
+Montgomery,Washita,Auditor of State,,Rep,Auditor Andrea Lea,101,44,57,0
+Montgomery,Alamo,Auditor of State,,Lib,David E. Dinwiddie,2,1,1,0
+Montgomery,Black Springs,Auditor of State,,Lib,David E. Dinwiddie,29,14,14,1
+Montgomery,Caddo Gap,Auditor of State,,Lib,David E. Dinwiddie,28,17,10,1
+Montgomery,Caney,Auditor of State,,Lib,David E. Dinwiddie,19,17,1,1
+Montgomery,Center,Auditor of State,,Lib,David E. Dinwiddie,89,32,55,2
+Montgomery,Fannie,Auditor of State,,Lib,David E. Dinwiddie,13,6,6,1
+Montgomery,Hopper,Auditor of State,,Lib,David E. Dinwiddie,5,2,2,1
+Montgomery,Mount Ida - Inside,Auditor of State,,Lib,David E. Dinwiddie,66,18,42,6
+Montgomery,Mount Ida - Outside,Auditor of State,,Lib,David E. Dinwiddie,59,16,43,0
+Montgomery,Norman - Inside,Auditor of State,,Lib,David E. Dinwiddie,12,7,5,0
+Montgomery,Norman - Outside,Auditor of State,,Lib,David E. Dinwiddie,27,15,12,0
+Montgomery,Oden - Inside,Auditor of State,,Lib,David E. Dinwiddie,15,10,3,2
+Montgomery,Oden - Outside,Auditor of State,,Lib,David E. Dinwiddie,38,26,10,2
+Montgomery,Pencil Bluff,Auditor of State,,Lib,David E. Dinwiddie,21,14,7,0
+Montgomery,Sims,Auditor of State,,Lib,David E. Dinwiddie,23,11,10,2
+Montgomery,Washita,Auditor of State,,Lib,David E. Dinwiddie,23,9,14,0
+Montgomery,Alamo,Commissioner of State Lands,,Dem,Larry Williams,4,1,3,0
+Montgomery,Black Springs,Commissioner of State Lands,,Dem,Larry Williams,40,16,21,3
+Montgomery,Caddo Gap,Commissioner of State Lands,,Dem,Larry Williams,41,25,15,1
+Montgomery,Caney,Commissioner of State Lands,,Dem,Larry Williams,27,23,2,2
+Montgomery,Center,Commissioner of State Lands,,Dem,Larry Williams,129,44,85,0
+Montgomery,Fannie,Commissioner of State Lands,,Dem,Larry Williams,14,7,7,0
+Montgomery,Hopper,Commissioner of State Lands,,Dem,Larry Williams,12,5,5,2
+Montgomery,Mount Ida - Inside,Commissioner of State Lands,,Dem,Larry Williams,102,28,63,11
+Montgomery,Mount Ida - Outside,Commissioner of State Lands,,Dem,Larry Williams,95,23,72,0
+Montgomery,Norman - Inside,Commissioner of State Lands,,Dem,Larry Williams,22,16,6,0
+Montgomery,Norman - Outside,Commissioner of State Lands,,Dem,Larry Williams,46,23,23,0
+Montgomery,Oden - Inside,Commissioner of State Lands,,Dem,Larry Williams,23,13,8,2
+Montgomery,Oden - Outside,Commissioner of State Lands,,Dem,Larry Williams,48,32,14,2
+Montgomery,Pencil Bluff,Commissioner of State Lands,,Dem,Larry Williams,26,18,8,0
+Montgomery,Sims,Commissioner of State Lands,,Dem,Larry Williams,31,15,14,2
+Montgomery,Washita,Commissioner of State Lands,,Dem,Larry Williams,36,12,24,0
+Montgomery,Alamo,Commissioner of State Lands,,Rep,Tommy Land,18,13,5,0
+Montgomery,Black Springs,Commissioner of State Lands,,Rep,Tommy Land,137,84,49,4
+Montgomery,Caddo Gap,Commissioner of State Lands,,Rep,Tommy Land,179,108,59,12
+Montgomery,Caney,Commissioner of State Lands,,Rep,Tommy Land,192,166,23,3
+Montgomery,Center,Commissioner of State Lands,,Rep,Tommy Land,318,122,194,2
+Montgomery,Fannie,Commissioner of State Lands,,Rep,Tommy Land,48,15,32,1
+Montgomery,Hopper,Commissioner of State Lands,,Rep,Tommy Land,41,30,11,0
+Montgomery,Mount Ida - Inside,Commissioner of State Lands,,Rep,Tommy Land,191,75,106,10
+Montgomery,Mount Ida - Outside,Commissioner of State Lands,,Rep,Tommy Land,251,99,146,6
+Montgomery,Norman - Inside,Commissioner of State Lands,,Rep,Tommy Land,64,43,21,0
+Montgomery,Norman - Outside,Commissioner of State Lands,,Rep,Tommy Land,98,67,27,4
+Montgomery,Oden - Inside,Commissioner of State Lands,,Rep,Tommy Land,51,28,23,0
+Montgomery,Oden - Outside,Commissioner of State Lands,,Rep,Tommy Land,203,108,91,4
+Montgomery,Pencil Bluff,Commissioner of State Lands,,Rep,Tommy Land,110,84,26,0
+Montgomery,Sims,Commissioner of State Lands,,Rep,Tommy Land,83,52,30,1
+Montgomery,Washita,Commissioner of State Lands,,Rep,Tommy Land,86,41,45,0
+Montgomery,Alamo,Commissioner of State Lands,,Lib,T.J. Campbell,0,0,0,0
+Montgomery,Black Springs,Commissioner of State Lands,,Lib,T.J. Campbell,3,2,1,0
+Montgomery,Caddo Gap,Commissioner of State Lands,,Lib,T.J. Campbell,6,2,4,0
+Montgomery,Caney,Commissioner of State Lands,,Lib,T.J. Campbell,4,4,0,0
+Montgomery,Center,Commissioner of State Lands,,Lib,T.J. Campbell,14,6,6,2
+Montgomery,Fannie,Commissioner of State Lands,,Lib,T.J. Campbell,2,0,1,1
+Montgomery,Hopper,Commissioner of State Lands,,Lib,T.J. Campbell,0,0,0,0
+Montgomery,Mount Ida - Inside,Commissioner of State Lands,,Lib,T.J. Campbell,12,6,4,2
+Montgomery,Mount Ida - Outside,Commissioner of State Lands,,Lib,T.J. Campbell,9,4,5,0
+Montgomery,Norman - Inside,Commissioner of State Lands,,Lib,T.J. Campbell,5,4,1,0
+Montgomery,Norman - Outside,Commissioner of State Lands,,Lib,T.J. Campbell,7,6,1,0
+Montgomery,Oden - Inside,Commissioner of State Lands,,Lib,T.J. Campbell,0,0,0,0
+Montgomery,Oden - Outside,Commissioner of State Lands,,Lib,T.J. Campbell,5,3,2,0
+Montgomery,Pencil Bluff,Commissioner of State Lands,,Lib,T.J. Campbell,3,2,1,0
+Montgomery,Sims,Commissioner of State Lands,,Lib,T.J. Campbell,1,1,0,0
+Montgomery,Washita,Commissioner of State Lands,,Lib,T.J. Campbell,4,1,3,0
+Montgomery,Alamo,State Senate District 10,,Lib,Bobbie Hicks,15,11,4,0
+Montgomery,Black Springs,State Senate District 10,,Lib,Bobbie Hicks,88,49,37,2
+Montgomery,Caddo Gap,State Senate District 10,,Lib,Bobbie Hicks,120,68,42,10
+Montgomery,Caney,State Senate District 10,,Lib,Bobbie Hicks,117,102,14,1
+Montgomery,Center,State Senate District 10,,Lib,Bobbie Hicks,202,82,119,1
+Montgomery,Fannie,State Senate District 10,,Lib,Bobbie Hicks,27,7,19,1
+Montgomery,Hopper,State Senate District 10,,Lib,Bobbie Hicks,28,17,11,0
+Montgomery,Mount Ida - Inside,State Senate District 10,,Lib,Bobbie Hicks,109,48,55,6
+Montgomery,Mount Ida - Outside,State Senate District 10,,Lib,Bobbie Hicks,152,62,88,2
+Montgomery,Norman - Inside,State Senate District 10,,Lib,Bobbie Hicks,47,35,12,0
+Montgomery,Norman - Outside,State Senate District 10,,Lib,Bobbie Hicks,81,54,24,3
+Montgomery,Oden - Inside,State Senate District 10,,Lib,Bobbie Hicks,31,20,11,0
+Montgomery,Oden - Outside,State Senate District 10,,Lib,Bobbie Hicks,122,66,54,2
+Montgomery,Pencil Bluff,State Senate District 10,,Lib,Bobbie Hicks,63,50,13,0
+Montgomery,Sims,State Senate District 10,,Lib,Bobbie Hicks,56,33,23,0
+Montgomery,Washita,State Senate District 10,,Lib,Bobbie Hicks,53,29,24,0
+Montgomery,Alamo,State Senate District 10,,Dem,Senator Larry Teague,7,3,4,0
+Montgomery,Black Springs,State Senate District 10,,Dem,Senator Larry Teague,85,48,32,5
+Montgomery,Caddo Gap,State Senate District 10,,Dem,Senator Larry Teague,91,57,33,1
+Montgomery,Caney,State Senate District 10,,Dem,Senator Larry Teague,78,72,4,2
+Montgomery,Center,State Senate District 10,,Dem,Senator Larry Teague,235,79,153,3
+Montgomery,Fannie,State Senate District 10,,Dem,Senator Larry Teague,30,11,18,1
+Montgomery,Hopper,State Senate District 10,,Dem,Senator Larry Teague,24,17,5,2
+Montgomery,Mount Ida - Inside,State Senate District 10,,Dem,Senator Larry Teague,180,56,109,15
+Montgomery,Mount Ida - Outside,State Senate District 10,,Dem,Senator Larry Teague,181,57,121,3
+Montgomery,Norman - Inside,State Senate District 10,,Dem,Senator Larry Teague,34,23,11,0
+Montgomery,Norman - Outside,State Senate District 10,,Dem,Senator Larry Teague,64,36,27,1
+Montgomery,Oden - Inside,State Senate District 10,,Dem,Senator Larry Teague,41,21,18,2
+Montgomery,Oden - Outside,State Senate District 10,,Dem,Senator Larry Teague,104,61,40,3
+Montgomery,Pencil Bluff,State Senate District 10,,Dem,Senator Larry Teague,66,47,19,0
+Montgomery,Sims,State Senate District 10,,Dem,Senator Larry Teague,56,33,20,3
+Montgomery,Washita,State Senate District 10,,Dem,Senator Larry Teague,65,23,42,0
+Montgomery,Fannie,State Representative District 21,,Dem,Stele Wayne James,14,7,7,0
+Montgomery,Oden - Outside,State Representative District 21,,Dem,Stele Wayne James,0,0,0,0
+Montgomery,Pencil Bluff,State Representative District 21,,Dem,Stele Wayne James,27,18,9,0
+Montgomery,Sims,State Representative District 21,,Dem,Stele Wayne James,33,16,15,2
+Montgomery,Washita,State Representative District 21,,Dem,Stele Wayne James,41,15,26,0
+Montgomery,Fannie,State Representative District 21,,Rep,Representative Marcus E. Richmond,50,15,33,2
+Montgomery,Oden - Outside,State Representative District 21,,Rep,Representative Marcus E. Richmond,0,0,0,0
+Montgomery,Pencil Bluff,State Representative District 21,,Rep,Representative Marcus E. Richmond,111,85,26,0
+Montgomery,Sims,State Representative District 21,,Rep,Representative Marcus E. Richmond,82,53,28,1
+Montgomery,Washita,State Representative District 21,,Rep,Representative Marcus E. Richmond,84,39,45,0
+Montgomery,Alamo,County Judge,,Ind,Sammy Jones,19,13,6,0
+Montgomery,Black Springs,County Judge,,Ind,Sammy Jones,133,80,47,6
+Montgomery,Caddo Gap,County Judge,,Ind,Sammy Jones,152,91,52,9
+Montgomery,Caney,County Judge,,Ind,Sammy Jones,152,136,14,2
+Montgomery,Center,County Judge,,Ind,Sammy Jones,377,139,236,2
+Montgomery,Fannie,County Judge,,Ind,Sammy Jones,47,13,33,1
+Montgomery,Hopper,County Judge,,Ind,Sammy Jones,41,24,15,2
+Montgomery,Mount Ida - Inside,County Judge,,Ind,Sammy Jones,226,79,131,16
+Montgomery,Mount Ida - Outside,County Judge,,Ind,Sammy Jones,268,94,169,5
+Montgomery,Norman - Inside,County Judge,,Ind,Sammy Jones,66,44,22,0
+Montgomery,Norman - Outside,County Judge,,Ind,Sammy Jones,107,64,41,2
+Montgomery,Oden - Inside,County Judge,,Ind,Sammy Jones,58,29,27,2
+Montgomery,Oden - Outside,County Judge,,Ind,Sammy Jones,182,100,77,5
+Montgomery,Pencil Bluff,County Judge,,Ind,Sammy Jones,112,84,28,0
+Montgomery,Sims,County Judge,,Ind,Sammy Jones,74,46,27,1
+Montgomery,Washita,County Judge,,Ind,Sammy Jones,93,39,54,0
+Montgomery,Alamo,County Judge,,Ind,Frank Klein,3,1,2,0
+Montgomery,Black Springs,County Judge,,Ind,Frank Klein,45,22,22,1
+Montgomery,Caddo Gap,County Judge,,Ind,Frank Klein,62,34,24,4
+Montgomery,Caney,County Judge,,Ind,Frank Klein,49,42,5,2
+Montgomery,Center,County Judge,,Ind,Frank Klein,68,31,37,0
+Montgomery,Fannie,County Judge,,Ind,Frank Klein,15,7,7,1
+Montgomery,Hopper,County Judge,,Ind,Frank Klein,11,10,1,0
+Montgomery,Mount Ida - Inside,County Judge,,Ind,Frank Klein,64,23,35,6
+Montgomery,Mount Ida - Outside,County Judge,,Ind,Frank Klein,71,25,46,0
+Montgomery,Norman - Inside,County Judge,,Ind,Frank Klein,21,16,5,0
+Montgomery,Norman - Outside,County Judge,,Ind,Frank Klein,36,27,8,1
+Montgomery,Oden - Inside,County Judge,,Ind,Frank Klein,11,11,0,0
+Montgomery,Oden - Outside,County Judge,,Ind,Frank Klein,54,33,20,1
+Montgomery,Pencil Bluff,County Judge,,Ind,Frank Klein,23,16,7,0
+Montgomery,Sims,County Judge,,Ind,Frank Klein,36,21,13,2
+Montgomery,Washita,County Judge,,Ind,Frank Klein,26,12,14,0
+Montgomery,Alamo,County Circuit/County Clerk,,Rep,Penny Black,21,14,7,0
+Montgomery,Black Springs,County Circuit/County Clerk,,Rep,Penny Black,171,99,66,6
+Montgomery,Caddo Gap,County Circuit/County Clerk,,Rep,Penny Black,219,133,73,13
+Montgomery,Caney,County Circuit/County Clerk,,Rep,Penny Black,213,185,25,3
+Montgomery,Center,County Circuit/County Clerk,,Rep,Penny Black,437,165,268,4
+Montgomery,Fannie,County Circuit/County Clerk,,Rep,Penny Black,60,18,40,2
+Montgomery,Hopper,County Circuit/County Clerk,,Rep,Penny Black,52,34,16,2
+Montgomery,Mount Ida - Inside,County Circuit/County Clerk,,Rep,Penny Black,288,107,165,16
+Montgomery,Mount Ida - Outside,County Circuit/County Clerk,,Rep,Penny Black,333,123,204,6
+Montgomery,Norman - Inside,County Circuit/County Clerk,,Rep,Penny Black,90,62,28,0
+Montgomery,Norman - Outside,County Circuit/County Clerk,,Rep,Penny Black,137,90,43,4
+Montgomery,Oden - Inside,County Circuit/County Clerk,,Rep,Penny Black,69,39,28,2
+Montgomery,Oden - Outside,County Circuit/County Clerk,,Rep,Penny Black,241,135,101,5
+Montgomery,Pencil Bluff,County Circuit/County Clerk,,Rep,Penny Black,128,97,31,0
+Montgomery,Sims,County Circuit/County Clerk,,Rep,Penny Black,112,68,43,1
+Montgomery,Washita,County Circuit/County Clerk,,Rep,Penny Black,120,52,68,0
+Montgomery,Center,Justice Of The Peace District No. 5 DISTRICT 5,,Ind,Barry Spivey,152,55,96,1
+Montgomery,Mount Ida - Outside,Justice Of The Peace District No. 5 DISTRICT 5,,Ind,Barry Spivey,12,4,7,1
+Montgomery,Center,Justice Of The Peace District No. 5 DISTRICT 5,,Rep,Kenn C. Greene,254,102,149,3
+Montgomery,Mount Ida - Outside,Justice Of The Peace District No. 5 DISTRICT 5,,Rep,Kenn C. Greene,15,10,5,0
+Montgomery,Alamo,Constable South District SOUTH DISTRICT,,Rep,"Joseph A. ""Lou"" Price",17,12,5,0
+Montgomery,Black Springs,Constable South District SOUTH DISTRICT,,Rep,"Joseph A. ""Lou"" Price",105,65,36,4
+Montgomery,Caddo Gap,Constable South District SOUTH DISTRICT,,Rep,"Joseph A. ""Lou"" Price",163,96,55,12
+Montgomery,Caney,Constable South District SOUTH DISTRICT,,Rep,"Joseph A. ""Lou"" Price",182,157,22,3
+Montgomery,Hopper,Constable South District SOUTH DISTRICT,,Rep,"Joseph A. ""Lou"" Price",29,18,9,2
+Montgomery,Norman - Inside,Constable South District SOUTH DISTRICT,,Rep,"Joseph A. ""Lou"" Price",64,43,21,0
+Montgomery,Norman - Outside,Constable South District SOUTH DISTRICT,,Rep,"Joseph A. ""Lou"" Price",90,61,26,3
+Montgomery,Alamo,Constable South District SOUTH DISTRICT,,Dem,Loren (Mitch) Michener,5,2,3,0
+Montgomery,Black Springs,Constable South District SOUTH DISTRICT,,Dem,Loren (Mitch) Michener,76,37,36,3
+Montgomery,Caddo Gap,Constable South District SOUTH DISTRICT,,Dem,Loren (Mitch) Michener,59,36,22,1
+Montgomery,Caney,Constable South District SOUTH DISTRICT,,Dem,Loren (Mitch) Michener,35,31,2,2
+Montgomery,Hopper,Constable South District SOUTH DISTRICT,,Dem,Loren (Mitch) Michener,24,17,7,0
+Montgomery,Norman - Inside,Constable South District SOUTH DISTRICT,,Dem,Loren (Mitch) Michener,25,18,7,0
+Montgomery,Norman - Outside,Constable South District SOUTH DISTRICT,,Dem,Loren (Mitch) Michener,59,33,25,1
+Montgomery,Caddo Gap,City of Glenwood Mayor GLENWOOD,,Ind,Sharon Wisener Noble,0,0,0,0
+Montgomery,Caney,City of Glenwood Mayor GLENWOOD,,Ind,Sharon Wisener Noble,2,2,0,0
+Montgomery,Caddo Gap,City of Glenwood Mayor GLENWOOD,,Ind,Billy (BT) Smith,3,2,1,0
+Montgomery,Caney,City of Glenwood Mayor GLENWOOD,,Ind,Billy (BT) Smith,4,2,2,0
+Montgomery,Caddo Gap,City of Glenwood Alderman South Ward Position 2 G,,Ind,Buddy Green,1,0,1,0
+Montgomery,Caney,City of Glenwood Alderman South Ward Position 2 G,,Ind,Buddy Green,5,4,1,0
+Montgomery,Caddo Gap,City of Glenwood Alderman South Ward Position 2 G,,Ind,Jim Arrington,2,2,0,0
+Montgomery,Caney,City of Glenwood Alderman South Ward Position 2 G,,Ind,Jim Arrington,1,0,1,0
+Montgomery,Caddo Gap,City of Glenwood Alderman North Ward Position 2 G,,Ind,Brenda Driggers,0,0,0,0
+Montgomery,Caney,City of Glenwood Alderman North Ward Position 2 G,,Ind,Brenda Driggers,3,2,1,0
+Montgomery,Caddo Gap,City of Glenwood Alderman North Ward Position 2 G,,Ind,Karen Baker,3,2,1,0
+Montgomery,Caney,City of Glenwood Alderman North Ward Position 2 G,,Ind,Karen Baker,3,2,1,0
+Montgomery,Mount Ida - Inside,City of Mount Ida Mayor MOUNT IDA,,Ind,Vann Andy Morgan,110,52,55,3
+Montgomery,Mount Ida - Inside,City of Mount Ida Mayor MOUNT IDA,,Ind,Jo Childress,189,56,116,17
+Montgomery,Norman - Inside,City of Norman Mayor NORMAN,,Ind,Roseanna Markham,83,58,25,0
+Montgomery,Oden - Inside,City of Oden Mayor ODEN,,Ind,Tim Philpot,72,41,29,2
+Montgomery,Alamo,State Supreme Court Associate Justice Position 3,,Non,David Sterling,7,6,1,0
+Montgomery,Black Springs,State Supreme Court Associate Justice Position 3,,Non,David Sterling,92,55,34,3
+Montgomery,Caddo Gap,State Supreme Court Associate Justice Position 3,,Non,David Sterling,117,72,38,7
+Montgomery,Caney,State Supreme Court Associate Justice Position 3,,Non,David Sterling,125,106,14,5
+Montgomery,Center,State Supreme Court Associate Justice Position 3,,Non,David Sterling,245,96,146,3
+Montgomery,Fannie,State Supreme Court Associate Justice Position 3,,Non,David Sterling,36,9,25,2
+Montgomery,Hopper,State Supreme Court Associate Justice Position 3,,Non,David Sterling,27,18,8,1
+Montgomery,Mount Ida - Inside,State Supreme Court Associate Justice Position 3,,Non,David Sterling,130,50,73,7
+Montgomery,Mount Ida - Outside,State Supreme Court Associate Justice Position 3,,Non,David Sterling,170,61,107,2
+Montgomery,Norman - Inside,State Supreme Court Associate Justice Position 3,,Non,David Sterling,46,33,13,0
+Montgomery,Norman - Outside,State Supreme Court Associate Justice Position 3,,Non,David Sterling,69,43,25,1
+Montgomery,Oden - Inside,State Supreme Court Associate Justice Position 3,,Non,David Sterling,38,21,15,2
+Montgomery,Oden - Outside,State Supreme Court Associate Justice Position 3,,Non,David Sterling,132,74,56,2
+Montgomery,Pencil Bluff,State Supreme Court Associate Justice Position 3,,Non,David Sterling,72,56,16,0
+Montgomery,Sims,State Supreme Court Associate Justice Position 3,,Non,David Sterling,51,26,24,1
+Montgomery,Washita,State Supreme Court Associate Justice Position 3,,Non,David Sterling,63,24,39,0
+Montgomery,Alamo,State Supreme Court Associate Justice Position 3,,Non,State Supreme Court Justice Courtney Goodson,15,8,7,0
+Montgomery,Black Springs,State Supreme Court Associate Justice Position 3,,Non,State Supreme Court Justice Courtney Goodson,76,39,33,4
+Montgomery,Caddo Gap,State Supreme Court Associate Justice Position 3,,Non,State Supreme Court Justice Courtney Goodson,97,56,37,4
+Montgomery,Caney,State Supreme Court Associate Justice Position 3,,Non,State Supreme Court Justice Courtney Goodson,81,71,10,0
+Montgomery,Center,State Supreme Court Associate Justice Position 3,,Non,State Supreme Court Justice Courtney Goodson,199,71,127,1
+Montgomery,Fannie,State Supreme Court Associate Justice Position 3,,Non,State Supreme Court Justice Courtney Goodson,25,11,14,0
+Montgomery,Hopper,State Supreme Court Associate Justice Position 3,,Non,State Supreme Court Justice Courtney Goodson,26,17,8,1
+Montgomery,Mount Ida - Inside,State Supreme Court Associate Justice Position 3,,Non,State Supreme Court Justice Courtney Goodson,158,56,90,12
+Montgomery,Mount Ida - Outside,State Supreme Court Associate Justice Position 3,,Non,State Supreme Court Justice Courtney Goodson,162,57,102,3
+Montgomery,Norman - Inside,State Supreme Court Associate Justice Position 3,,Non,State Supreme Court Justice Courtney Goodson,39,26,13,0
+Montgomery,Norman - Outside,State Supreme Court Associate Justice Position 3,,Non,State Supreme Court Justice Courtney Goodson,72,49,20,3
+Montgomery,Oden - Inside,State Supreme Court Associate Justice Position 3,,Non,State Supreme Court Justice Courtney Goodson,32,19,13,0
+Montgomery,Oden - Outside,State Supreme Court Associate Justice Position 3,,Non,State Supreme Court Justice Courtney Goodson,102,60,38,4
+Montgomery,Pencil Bluff,State Supreme Court Associate Justice Position 3,,Non,State Supreme Court Justice Courtney Goodson,61,43,18,0
+Montgomery,Sims,State Supreme Court Associate Justice Position 3,,Non,State Supreme Court Justice Courtney Goodson,58,37,19,2
+Montgomery,Washita,State Supreme Court Associate Justice Position 3,,Non,State Supreme Court Justice Courtney Goodson,55,26,29,0
+Montgomery,Alamo,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,FOR,19,13,6,0
+Montgomery,Black Springs,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,FOR,146,82,61,3
+Montgomery,Caddo Gap,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,FOR,194,116,65,13
+Montgomery,Caney,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,FOR,198,171,23,4
+Montgomery,Center,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,FOR,394,145,247,2
+Montgomery,Fannie,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,FOR,54,16,36,2
+Montgomery,Hopper,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,FOR,47,34,11,2
+Montgomery,Mount Ida - Inside,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,FOR,248,91,141,16
+Montgomery,Mount Ida - Outside,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,FOR,302,107,190,5
+Montgomery,Norman - Inside,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,FOR,72,48,24,0
+Montgomery,Norman - Outside,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,FOR,118,80,34,4
+Montgomery,Oden - Inside,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,FOR,63,35,26,2
+Montgomery,Oden - Outside,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,FOR,215,116,94,5
+Montgomery,Pencil Bluff,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,FOR,124,91,33,0
+Montgomery,Sims,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,FOR,88,55,31,2
+Montgomery,Washita,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,FOR,109,48,61,0
+Montgomery,Alamo,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,AGAINST,3,2,1,0
+Montgomery,Black Springs,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,AGAINST,35,21,10,4
+Montgomery,Caddo Gap,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,AGAINST,30,16,14,0
+Montgomery,Caney,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,AGAINST,20,17,2,1
+Montgomery,Center,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,AGAINST,68,27,38,3
+Montgomery,Fannie,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,AGAINST,11,6,5,0
+Montgomery,Hopper,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,AGAINST,6,1,5,0
+Montgomery,Mount Ida - Inside,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,AGAINST,50,15,31,4
+Montgomery,Mount Ida - Outside,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,AGAINST,48,17,30,1
+Montgomery,Norman - Inside,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,AGAINST,15,12,3,0
+Montgomery,Norman - Outside,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,AGAINST,30,15,15,0
+Montgomery,Oden - Inside,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,AGAINST,10,6,4,0
+Montgomery,Oden - Outside,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,AGAINST,39,24,13,2
+Montgomery,Pencil Bluff,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,AGAINST,12,10,2,0
+Montgomery,Sims,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,AGAINST,22,9,12,1
+Montgomery,Washita,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,AGAINST,15,5,10,0
+Montgomery,Alamo,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,11,8,3,0
+Montgomery,Black Springs,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,87,49,34,4
+Montgomery,Caddo Gap,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,109,64,40,5
+Montgomery,Caney,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,107,93,9,5
+Montgomery,Center,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,262,99,162,1
+Montgomery,Fannie,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,26,5,20,1
+Montgomery,Hopper,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,24,17,5,2
+Montgomery,Mount Ida - Inside,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,169,66,100,3
+Montgomery,Mount Ida - Outside,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,198,70,125,3
+Montgomery,Norman - Inside,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,60,42,18,0
+Montgomery,Norman - Outside,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,77,51,23,3
+Montgomery,Oden - Inside,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,37,21,16,0
+Montgomery,Oden - Outside,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,128,76,50,2
+Montgomery,Pencil Bluff,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,61,46,15,0
+Montgomery,Sims,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,66,43,21,2
+Montgomery,Washita,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,60,24,36,0
+Montgomery,Alamo,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,12,7,5,0
+Montgomery,Black Springs,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,95,54,38,3
+Montgomery,Caddo Gap,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,115,69,38,8
+Montgomery,Caney,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,113,97,16,0
+Montgomery,Center,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,200,73,123,4
+Montgomery,Fannie,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,39,17,21,1
+Montgomery,Hopper,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,29,18,11,0
+Montgomery,Mount Ida - Inside,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,128,42,72,14
+Montgomery,Mount Ida - Outside,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,150,53,95,2
+Montgomery,Norman - Inside,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,29,20,9,0
+Montgomery,Norman - Outside,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,70,43,26,1
+Montgomery,Oden - Inside,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,35,19,14,2
+Montgomery,Oden - Outside,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,127,68,55,4
+Montgomery,Pencil Bluff,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,75,55,20,0
+Montgomery,Sims,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,48,24,23,1
+Montgomery,Washita,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,65,30,35,0
+Montgomery,Alamo,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,FOR,14,9,5,0
+Montgomery,Black Springs,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,FOR,110,65,40,5
+Montgomery,Caddo Gap,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,FOR,135,72,53,10
+Montgomery,Caney,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,FOR,124,112,9,3
+Montgomery,Center,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,FOR,291,103,184,4
+Montgomery,Fannie,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,FOR,37,13,23,1
+Montgomery,Hopper,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,FOR,32,20,10,2
+Montgomery,Mount Ida - Inside,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,FOR,209,74,119,16
+Montgomery,Mount Ida - Outside,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,FOR,233,84,147,2
+Montgomery,Norman - Inside,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,FOR,54,41,13,0
+Montgomery,Norman - Outside,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,FOR,105,65,37,3
+Montgomery,Oden - Inside,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,FOR,44,24,18,2
+Montgomery,Oden - Outside,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,FOR,161,91,65,5
+Montgomery,Pencil Bluff,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,FOR,76,55,21,0
+Montgomery,Sims,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,FOR,76,47,27,2
+Montgomery,Washita,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,FOR,90,38,52,0
+Montgomery,Alamo,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,AGAINST,8,5,3,0
+Montgomery,Black Springs,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,AGAINST,70,36,32,2
+Montgomery,Caddo Gap,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,AGAINST,89,61,25,3
+Montgomery,Caney,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,AGAINST,94,77,15,2
+Montgomery,Center,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,AGAINST,170,67,102,1
+Montgomery,Fannie,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,AGAINST,28,9,18,1
+Montgomery,Hopper,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,AGAINST,21,15,6,0
+Montgomery,Mount Ida - Inside,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,AGAINST,88,32,51,5
+Montgomery,Mount Ida - Outside,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,AGAINST,117,41,73,3
+Montgomery,Norman - Inside,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,AGAINST,33,20,13,0
+Montgomery,Norman - Outside,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,AGAINST,41,31,9,1
+Montgomery,Oden - Inside,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,AGAINST,28,16,12,0
+Montgomery,Oden - Outside,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,AGAINST,94,51,41,2
+Montgomery,Pencil Bluff,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,AGAINST,60,46,14,0
+Montgomery,Sims,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,AGAINST,40,22,17,1
+Montgomery,Washita,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,AGAINST,33,15,18,0
+Montgomery,Norman - Inside,Proposed Redistribution of Current Sales and Use,,Non,For Redistribution,61,42,19,0
+Montgomery,Norman - Inside,Proposed Redistribution of Current Sales and Use,,Non,Against Redistribution,26,17,9,0

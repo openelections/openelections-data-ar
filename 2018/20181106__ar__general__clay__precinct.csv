@@ -1,0 +1,662 @@
+county,precinct,office,district,party,candidate,votes,absentee,provisional,election_day,early_vote
+Clay,North St. Francis,U.S. Congress District 1,,REP,Congressman Rick Crawford,679,21,0,274,384
+Clay,South St. Francis,U.S. Congress District 1,,REP,Congressman Rick Crawford,356,4,1,147,204
+Clay,East Oak Bluff & Blue Cane,U.S. Congress District 1,,REP,Congressman Rick Crawford,201,2,0,143,56
+Clay,West Oak Bluff,U.S. Congress District 1,,REP,Congressman Rick Crawford,228,0,0,194,34
+Clay,Bennett and Lemmons,U.S. Congress District 1,,REP,Congressman Rick Crawford,87,0,0,62,25
+Clay,Bradshaw & Haywood,U.S. Congress District 1,,REP,Congressman Rick Crawford,137,1,1,102,33
+Clay,Johnson,U.S. Congress District 1,,REP,Congressman Rick Crawford,70,3,0,55,12
+Clay,Knob,U.S. Congress District 1,,REP,Congressman Rick Crawford,36,2,0,29,5
+Clay,Liddell & Chalk Bluff,U.S. Congress District 1,,REP,Congressman Rick Crawford,131,1,1,78,51
+Clay,Payne & Swain,U.S. Congress District 1,,REP,Congressman Rick Crawford,78,1,0,32,45
+Clay,Pollard,U.S. Congress District 1,,REP,Congressman Rick Crawford,130,0,0,98,32
+Clay,Brown & Carpenter,U.S. Congress District 1,,REP,Congressman Rick Crawford,79,1,1,62,15
+Clay,Cache & Wilson,U.S. Congress District 1,,REP,Congressman Rick Crawford,44,0,0,36,8
+Clay,Clark,U.S. Congress District 1,,REP,Congressman Rick Crawford,38,1,0,31,6
+Clay,Nelson,U.S. Congress District 1,,REP,Congressman Rick Crawford,29,0,0,15,14
+Clay,N Kilgore & Cleveland,U.S. Congress District 1,,REP,Congressman Rick Crawford,458,5,7,196,250
+Clay,S Kilgore & Gleghorn,U.S. Congress District 1,,REP,Congressman Rick Crawford,401,2,4,149,246
+Clay,North St. Francis,U.S. Congress District 1,,DEM,Chintan Desai,167,1,0,52,114
+Clay,South St. Francis,U.S. Congress District 1,,DEM,Chintan Desai,101,0,0,49,52
+Clay,East Oak Bluff & Blue Cane,U.S. Congress District 1,,DEM,Chintan Desai,81,5,0,57,19
+Clay,West Oak Bluff,U.S. Congress District 1,,DEM,Chintan Desai,95,0,0,73,22
+Clay,Bennett and Lemmons,U.S. Congress District 1,,DEM,Chintan Desai,20,0,0,17,3
+Clay,Bradshaw & Haywood,U.S. Congress District 1,,DEM,Chintan Desai,14,0,0,6,8
+Clay,Johnson,U.S. Congress District 1,,DEM,Chintan Desai,9,0,0,8,1
+Clay,Knob,U.S. Congress District 1,,DEM,Chintan Desai,9,0,0,8,1
+Clay,Liddell & Chalk Bluff,U.S. Congress District 1,,DEM,Chintan Desai,23,0,0,16,7
+Clay,Payne & Swain,U.S. Congress District 1,,DEM,Chintan Desai,14,0,0,8,6
+Clay,Pollard,U.S. Congress District 1,,DEM,Chintan Desai,34,1,0,24,9
+Clay,Brown & Carpenter,U.S. Congress District 1,,DEM,Chintan Desai,22,0,0,18,4
+Clay,Cache & Wilson,U.S. Congress District 1,,DEM,Chintan Desai,17,2,0,12,3
+Clay,Clark,U.S. Congress District 1,,DEM,Chintan Desai,11,0,0,9,2
+Clay,Nelson,U.S. Congress District 1,,DEM,Chintan Desai,10,0,0,8,2
+Clay,N Kilgore & Cleveland,U.S. Congress District 1,,DEM,Chintan Desai,119,2,2,49,66
+Clay,S Kilgore & Gleghorn,U.S. Congress District 1,,DEM,Chintan Desai,96,5,1,29,61
+Clay,North St. Francis,U.S. Congress District 1,,LIB,Elvis Presley,22,1,0,13,8
+Clay,South St. Francis,U.S. Congress District 1,,LIB,Elvis Presley,20,2,0,9,9
+Clay,East Oak Bluff & Blue Cane,U.S. Congress District 1,,LIB,Elvis Presley,1,0,0,1,0
+Clay,West Oak Bluff,U.S. Congress District 1,,LIB,Elvis Presley,4,0,0,3,1
+Clay,Bennett and Lemmons,U.S. Congress District 1,,LIB,Elvis Presley,3,0,0,2,1
+Clay,Bradshaw & Haywood,U.S. Congress District 1,,LIB,Elvis Presley,7,0,0,6,1
+Clay,Johnson,U.S. Congress District 1,,LIB,Elvis Presley,1,0,0,1,0
+Clay,Knob,U.S. Congress District 1,,LIB,Elvis Presley,0,0,0,0,0
+Clay,Liddell & Chalk Bluff,U.S. Congress District 1,,LIB,Elvis Presley,4,0,0,1,3
+Clay,Payne & Swain,U.S. Congress District 1,,LIB,Elvis Presley,2,0,0,2,0
+Clay,Pollard,U.S. Congress District 1,,LIB,Elvis Presley,3,0,0,3,0
+Clay,Brown & Carpenter,U.S. Congress District 1,,LIB,Elvis Presley,6,0,0,6,0
+Clay,Cache & Wilson,U.S. Congress District 1,,LIB,Elvis Presley,2,0,0,2,0
+Clay,Clark,U.S. Congress District 1,,LIB,Elvis Presley,4,1,0,3,0
+Clay,Nelson,U.S. Congress District 1,,LIB,Elvis Presley,0,0,0,0,0
+Clay,N Kilgore & Cleveland,U.S. Congress District 1,,LIB,Elvis Presley,7,0,0,2,5
+Clay,S Kilgore & Gleghorn,U.S. Congress District 1,,LIB,Elvis Presley,4,0,0,1,3
+Clay,North St. Francis,Governor,,REP,Governor Asa Hutchinson,676,19,0,270,387
+Clay,South St. Francis,Governor,,REP,Governor Asa Hutchinson,355,4,2,151,198
+Clay,East Oak Bluff & Blue Cane,Governor,,REP,Governor Asa Hutchinson,205,2,0,148,55
+Clay,West Oak Bluff,Governor,,REP,Governor Asa Hutchinson,235,0,0,204,31
+Clay,Bennett and Lemmons,Governor,,REP,Governor Asa Hutchinson,90,0,0,65,25
+Clay,Bradshaw & Haywood,Governor,,REP,Governor Asa Hutchinson,134,1,1,100,32
+Clay,Johnson,Governor,,REP,Governor Asa Hutchinson,66,3,0,52,11
+Clay,Knob,Governor,,REP,Governor Asa Hutchinson,37,2,0,30,5
+Clay,Liddell & Chalk Bluff,Governor,,REP,Governor Asa Hutchinson,135,1,1,78,55
+Clay,Payne & Swain,Governor,,REP,Governor Asa Hutchinson,79,1,0,33,45
+Clay,Pollard,Governor,,REP,Governor Asa Hutchinson,130,0,0,97,33
+Clay,Brown & Carpenter,Governor,,REP,Governor Asa Hutchinson,80,1,1,68,10
+Clay,Cache & Wilson,Governor,,REP,Governor Asa Hutchinson,44,0,0,38,6
+Clay,Clark,Governor,,REP,Governor Asa Hutchinson,41,2,0,32,7
+Clay,Nelson,Governor,,REP,Governor Asa Hutchinson,30,0,0,16,14
+Clay,N Kilgore & Cleveland,Governor,,REP,Governor Asa Hutchinson,471,7,7,193,264
+Clay,S Kilgore & Gleghorn,Governor,,REP,Governor Asa Hutchinson,410,3,3,148,256
+Clay,North St. Francis,Governor,,LIB,Mark West,27,0,0,15,12
+Clay,South St. Francis,Governor,,LIB,Mark West,15,1,0,10,4
+Clay,East Oak Bluff & Blue Cane,Governor,,LIB,Mark West,5,0,0,4,1
+Clay,West Oak Bluff,Governor,,LIB,Mark West,8,0,0,3,5
+Clay,Bennett and Lemmons,Governor,,LIB,Mark West,4,0,0,3,1
+Clay,Bradshaw & Haywood,Governor,,LIB,Mark West,8,0,0,7,1
+Clay,Johnson,Governor,,LIB,Mark West,3,0,0,2,1
+Clay,Knob,Governor,,LIB,Mark West,1,0,0,0,1
+Clay,Liddell & Chalk Bluff,Governor,,LIB,Mark West,5,0,0,4,1
+Clay,Payne & Swain,Governor,,LIB,Mark West,2,0,0,1,1
+Clay,Pollard,Governor,,LIB,Mark West,5,0,0,4,1
+Clay,Brown & Carpenter,Governor,,LIB,Mark West,2,0,0,1,1
+Clay,Cache & Wilson,Governor,,LIB,Mark West,4,0,0,3,1
+Clay,Clark,Governor,,LIB,Mark West,2,0,0,1,1
+Clay,Nelson,Governor,,LIB,Mark West,3,0,0,3,0
+Clay,N Kilgore & Cleveland,Governor,,LIB,Mark West,23,0,1,11,11
+Clay,S Kilgore & Gleghorn,Governor,,LIB,Mark West,15,0,0,9,6
+Clay,North St. Francis,Governor,,DEM,Jared K. Henderson,163,4,0,51,108
+Clay,South St. Francis,Governor,,DEM,Jared K. Henderson,111,1,0,47,63
+Clay,East Oak Bluff & Blue Cane,Governor,,DEM,Jared K. Henderson,76,5,0,52,19
+Clay,West Oak Bluff,Governor,,DEM,Jared K. Henderson,83,0,0,63,20
+Clay,Bennett and Lemmons,Governor,,DEM,Jared K. Henderson,18,0,0,15,3
+Clay,Bradshaw & Haywood,Governor,,DEM,Jared K. Henderson,17,0,0,8,9
+Clay,Johnson,Governor,,DEM,Jared K. Henderson,10,0,0,10,0
+Clay,Knob,Governor,,DEM,Jared K. Henderson,7,0,0,7,0
+Clay,Liddell & Chalk Bluff,Governor,,DEM,Jared K. Henderson,18,0,0,13,5
+Clay,Payne & Swain,Governor,,DEM,Jared K. Henderson,13,0,0,8,5
+Clay,Pollard,Governor,,DEM,Jared K. Henderson,33,1,0,25,7
+Clay,Brown & Carpenter,Governor,,DEM,Jared K. Henderson,26,0,0,18,8
+Clay,Cache & Wilson,Governor,,DEM,Jared K. Henderson,14,2,0,8,4
+Clay,Clark,Governor,,DEM,Jared K. Henderson,10,0,0,10,0
+Clay,Nelson,Governor,,DEM,Jared K. Henderson,6,0,0,4,2
+Clay,N Kilgore & Cleveland,Governor,,DEM,Jared K. Henderson,99,0,1,40,58
+Clay,S Kilgore & Gleghorn,Governor,,DEM,Jared K. Henderson,78,4,2,21,51
+Clay,North St. Francis,Lieutenant Governor,,DEM,Anthony Bland,213,4,0,65,144
+Clay,South St. Francis,Lieutenant Governor,,DEM,Anthony Bland,124,0,0,58,66
+Clay,East Oak Bluff & Blue Cane,Lieutenant Governor,,DEM,Anthony Bland,88,5,0,61,22
+Clay,West Oak Bluff,Lieutenant Governor,,DEM,Anthony Bland,100,0,0,78,22
+Clay,Bennett and Lemmons,Lieutenant Governor,,DEM,Anthony Bland,20,0,0,16,4
+Clay,Bradshaw & Haywood,Lieutenant Governor,,DEM,Anthony Bland,21,0,1,11,9
+Clay,Johnson,Lieutenant Governor,,DEM,Anthony Bland,11,0,0,10,1
+Clay,Knob,Lieutenant Governor,,DEM,Anthony Bland,12,0,0,11,1
+Clay,Liddell & Chalk Bluff,Lieutenant Governor,,DEM,Anthony Bland,33,0,0,22,11
+Clay,Payne & Swain,Lieutenant Governor,,DEM,Anthony Bland,17,0,0,10,7
+Clay,Pollard,Lieutenant Governor,,DEM,Anthony Bland,34,1,0,25,8
+Clay,Brown & Carpenter,Lieutenant Governor,,DEM,Anthony Bland,30,0,0,25,5
+Clay,Cache & Wilson,Lieutenant Governor,,DEM,Anthony Bland,21,2,0,15,4
+Clay,Clark,Lieutenant Governor,,DEM,Anthony Bland,12,0,0,10,2
+Clay,Nelson,Lieutenant Governor,,DEM,Anthony Bland,10,0,0,8,2
+Clay,N Kilgore & Cleveland,Lieutenant Governor,,DEM,Anthony Bland,136,2,2,49,83
+Clay,S Kilgore & Gleghorn,Lieutenant Governor,,DEM,Anthony Bland,110,6,1,32,71
+Clay,North St. Francis,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,617,18,0,254,345
+Clay,South St. Francis,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,331,4,2,138,187
+Clay,East Oak Bluff & Blue Cane,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,192,2,0,137,53
+Clay,West Oak Bluff,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,224,0,0,192,32
+Clay,Bennett and Lemmons,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,92,0,0,68,24
+Clay,Bradshaw & Haywood,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,132,1,0,99,32
+Clay,Johnson,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,67,3,0,52,12
+Clay,Knob,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,33,2,0,26,5
+Clay,Liddell & Chalk Bluff,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,120,1,1,70,48
+Clay,Payne & Swain,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,76,1,0,32,43
+Clay,Pollard,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,130,0,0,98,32
+Clay,Brown & Carpenter,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,74,1,0,61,12
+Clay,Cache & Wilson,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,38,0,0,31,7
+Clay,Clark,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,37,2,0,29,6
+Clay,Nelson,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,29,0,0,15,14
+Clay,N Kilgore & Cleveland,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,441,5,6,190,240
+Clay,S Kilgore & Gleghorn,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,382,1,4,143,234
+Clay,North St. Francis,Lieutenant Governor,,LIB,Frank Gilbert,29,1,0,15,13
+Clay,South St. Francis,Lieutenant Governor,,LIB,Frank Gilbert,18,2,0,10,6
+Clay,East Oak Bluff & Blue Cane,Lieutenant Governor,,LIB,Frank Gilbert,4,0,0,3,1
+Clay,West Oak Bluff,Lieutenant Governor,,LIB,Frank Gilbert,4,0,0,1,3
+Clay,Bennett and Lemmons,Lieutenant Governor,,LIB,Frank Gilbert,1,0,0,0,1
+Clay,Bradshaw & Haywood,Lieutenant Governor,,LIB,Frank Gilbert,6,0,0,5,1
+Clay,Johnson,Lieutenant Governor,,LIB,Frank Gilbert,1,0,0,1,0
+Clay,Knob,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0,0
+Clay,Liddell & Chalk Bluff,Lieutenant Governor,,LIB,Frank Gilbert,3,0,0,3,0
+Clay,Payne & Swain,Lieutenant Governor,,LIB,Frank Gilbert,1,0,0,0,1
+Clay,Pollard,Lieutenant Governor,,LIB,Frank Gilbert,3,0,0,2,1
+Clay,Brown & Carpenter,Lieutenant Governor,,LIB,Frank Gilbert,2,0,0,1,1
+Clay,Cache & Wilson,Lieutenant Governor,,LIB,Frank Gilbert,3,0,0,3,0
+Clay,Clark,Lieutenant Governor,,LIB,Frank Gilbert,4,0,0,4,0
+Clay,Nelson,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0,0
+Clay,N Kilgore & Cleveland,Lieutenant Governor,,LIB,Frank Gilbert,14,0,0,7,7
+Clay,S Kilgore & Gleghorn,Lieutenant Governor,,LIB,Frank Gilbert,6,0,0,2,4
+Clay,North St. Francis,Attorney General,,REP,Attorney General Leslie Rutledge,608,18,0,247,343
+Clay,South St. Francis,Attorney General,,REP,Attorney General Leslie Rutledge,322,4,2,135,181
+Clay,East Oak Bluff & Blue Cane,Attorney General,,REP,Attorney General Leslie Rutledge,187,2,0,133,52
+Clay,West Oak Bluff,Attorney General,,REP,Attorney General Leslie Rutledge,217,0,0,187,30
+Clay,Bennett and Lemmons,Attorney General,,REP,Attorney General Leslie Rutledge,89,0,0,65,24
+Clay,Bradshaw & Haywood,Attorney General,,REP,Attorney General Leslie Rutledge,130,1,1,97,31
+Clay,Johnson,Attorney General,,REP,Attorney General Leslie Rutledge,67,3,0,52,12
+Clay,Knob,Attorney General,,REP,Attorney General Leslie Rutledge,31,2,0,26,3
+Clay,Liddell & Chalk Bluff,Attorney General,,REP,Attorney General Leslie Rutledge,118,1,1,70,46
+Clay,Payne & Swain,Attorney General,,REP,Attorney General Leslie Rutledge,75,1,0,31,43
+Clay,Pollard,Attorney General,,REP,Attorney General Leslie Rutledge,123,0,0,90,33
+Clay,Brown & Carpenter,Attorney General,,REP,Attorney General Leslie Rutledge,76,1,0,65,10
+Clay,Cache & Wilson,Attorney General,,REP,Attorney General Leslie Rutledge,38,0,0,32,6
+Clay,Clark,Attorney General,,REP,Attorney General Leslie Rutledge,34,2,0,27,5
+Clay,Nelson,Attorney General,,REP,Attorney General Leslie Rutledge,27,0,0,14,13
+Clay,N Kilgore & Cleveland,Attorney General,,REP,Attorney General Leslie Rutledge,452,4,6,195,247
+Clay,S Kilgore & Gleghorn,Attorney General,,REP,Attorney General Leslie Rutledge,389,3,3,140,243
+Clay,North St. Francis,Attorney General,,DEM,Mike Lee,227,4,0,73,150
+Clay,South St. Francis,Attorney General,,DEM,Mike Lee,133,0,0,63,70
+Clay,East Oak Bluff & Blue Cane,Attorney General,,DEM,Mike Lee,93,5,0,65,23
+Clay,West Oak Bluff,Attorney General,,DEM,Mike Lee,105,0,0,81,24
+Clay,Bennett and Lemmons,Attorney General,,DEM,Mike Lee,19,0,0,16,3
+Clay,Bradshaw & Haywood,Attorney General,,DEM,Mike Lee,24,0,0,14,10
+Clay,Johnson,Attorney General,,DEM,Mike Lee,12,0,0,11,1
+Clay,Knob,Attorney General,,DEM,Mike Lee,14,0,0,11,3
+Clay,Liddell & Chalk Bluff,Attorney General,,DEM,Mike Lee,36,0,0,23,13
+Clay,Payne & Swain,Attorney General,,DEM,Mike Lee,17,0,0,10,7
+Clay,Pollard,Attorney General,,DEM,Mike Lee,38,1,0,30,7
+Clay,Brown & Carpenter,Attorney General,,DEM,Mike Lee,27,0,1,21,5
+Clay,Cache & Wilson,Attorney General,,DEM,Mike Lee,22,2,0,17,3
+Clay,Clark,Attorney General,,DEM,Mike Lee,16,0,0,14,2
+Clay,Nelson,Attorney General,,DEM,Mike Lee,11,0,0,8,3
+Clay,N Kilgore & Cleveland,Attorney General,,DEM,Mike Lee,124,3,2,43,76
+Clay,S Kilgore & Gleghorn,Attorney General,,DEM,Mike Lee,101,4,1,32,64
+Clay,North St. Francis,Attorney General,,LIB,Kerry Hicks,25,1,0,14,10
+Clay,South St. Francis,Attorney General,,LIB,Kerry Hicks,18,2,0,10,6
+Clay,East Oak Bluff & Blue Cane,Attorney General,,LIB,Kerry Hicks,6,0,0,5,1
+Clay,West Oak Bluff,Attorney General,,LIB,Kerry Hicks,4,0,0,2,2
+Clay,Bennett and Lemmons,Attorney General,,LIB,Kerry Hicks,4,0,0,2,2
+Clay,Bradshaw & Haywood,Attorney General,,LIB,Kerry Hicks,5,0,0,4,1
+Clay,Johnson,Attorney General,,LIB,Kerry Hicks,1,0,0,1,0
+Clay,Knob,Attorney General,,LIB,Kerry Hicks,0,0,0,0,0
+Clay,Liddell & Chalk Bluff,Attorney General,,LIB,Kerry Hicks,2,0,0,2,0
+Clay,Payne & Swain,Attorney General,,LIB,Kerry Hicks,2,0,0,0,2
+Clay,Pollard,Attorney General,,LIB,Kerry Hicks,5,0,0,4,1
+Clay,Brown & Carpenter,Attorney General,,LIB,Kerry Hicks,3,0,0,1,2
+Clay,Cache & Wilson,Attorney General,,LIB,Kerry Hicks,3,0,0,1,2
+Clay,Clark,Attorney General,,LIB,Kerry Hicks,3,0,0,2,1
+Clay,Nelson,Attorney General,,LIB,Kerry Hicks,1,0,0,1,0
+Clay,N Kilgore & Cleveland,Attorney General,,LIB,Kerry Hicks,19,0,0,9,10
+Clay,S Kilgore & Gleghorn,Attorney General,,LIB,Kerry Hicks,10,0,1,5,4
+Clay,North St. Francis,Secretary of State,,REP,John Thurston Commissioner of State Lands,616,18,0,251,347
+Clay,South St. Francis,Secretary of State,,REP,John Thurston Commissioner of State Lands,321,3,2,139,177
+Clay,East Oak Bluff & Blue Cane,Secretary of State,,REP,John Thurston Commissioner of State Lands,192,2,0,137,53
+Clay,West Oak Bluff,Secretary of State,,REP,John Thurston Commissioner of State Lands,221,0,0,190,31
+Clay,Bennett and Lemmons,Secretary of State,,REP,John Thurston Commissioner of State Lands,91,0,0,67,24
+Clay,Bradshaw & Haywood,Secretary of State,,REP,John Thurston Commissioner of State Lands,131,1,1,97,32
+Clay,Johnson,Secretary of State,,REP,John Thurston Commissioner of State Lands,66,2,0,52,12
+Clay,Knob,Secretary of State,,REP,John Thurston Commissioner of State Lands,32,2,0,26,4
+Clay,Liddell & Chalk Bluff,Secretary of State,,REP,John Thurston Commissioner of State Lands,118,0,1,69,48
+Clay,Payne & Swain,Secretary of State,,REP,John Thurston Commissioner of State Lands,73,1,0,31,41
+Clay,Pollard,Secretary of State,,REP,John Thurston Commissioner of State Lands,126,0,0,95,31
+Clay,Brown & Carpenter,Secretary of State,,REP,John Thurston Commissioner of State Lands,75,1,1,62,11
+Clay,Cache & Wilson,Secretary of State,,REP,John Thurston Commissioner of State Lands,39,0,0,32,7
+Clay,Clark,Secretary of State,,REP,John Thurston Commissioner of State Lands,35,1,0,29,5
+Clay,Nelson,Secretary of State,,REP,John Thurston Commissioner of State Lands,31,0,0,17,14
+Clay,N Kilgore & Cleveland,Secretary of State,,REP,John Thurston Commissioner of State Lands,439,4,6,186,243
+Clay,S Kilgore & Gleghorn,Secretary of State,,REP,John Thurston Commissioner of State Lands,378,1,4,136,237
+Clay,North St. Francis,Secretary of State,,LIB,Christopher Olson,28,0,0,17,11
+Clay,South St. Francis,Secretary of State,,LIB,Christopher Olson,19,2,0,10,7
+Clay,East Oak Bluff & Blue Cane,Secretary of State,,LIB,Christopher Olson,4,0,0,4,0
+Clay,West Oak Bluff,Secretary of State,,LIB,Christopher Olson,8,0,0,6,2
+Clay,Bennett and Lemmons,Secretary of State,,LIB,Christopher Olson,3,0,0,1,2
+Clay,Bradshaw & Haywood,Secretary of State,,LIB,Christopher Olson,8,0,0,7,1
+Clay,Johnson,Secretary of State,,LIB,Christopher Olson,2,0,0,2,0
+Clay,Knob,Secretary of State,,LIB,Christopher Olson,0,0,0,0,0
+Clay,Liddell & Chalk Bluff,Secretary of State,,LIB,Christopher Olson,4,0,0,4,0
+Clay,Payne & Swain,Secretary of State,,LIB,Christopher Olson,1,0,0,1,0
+Clay,Pollard,Secretary of State,,LIB,Christopher Olson,6,0,0,5,1
+Clay,Brown & Carpenter,Secretary of State,,LIB,Christopher Olson,2,0,0,1,1
+Clay,Cache & Wilson,Secretary of State,,LIB,Christopher Olson,2,0,0,2,0
+Clay,Clark,Secretary of State,,LIB,Christopher Olson,1,0,0,0,1
+Clay,Nelson,Secretary of State,,LIB,Christopher Olson,1,0,0,1,0
+Clay,N Kilgore & Cleveland,Secretary of State,,LIB,Christopher Olson,22,0,0,10,12
+Clay,S Kilgore & Gleghorn,Secretary of State,,LIB,Christopher Olson,7,0,0,5,2
+Clay,North St. Francis,Secretary of State,,DEM,Susan Inman,218,5,0,67,146
+Clay,South St. Francis,Secretary of State,,DEM,Susan Inman,135,1,0,59,75
+Clay,East Oak Bluff & Blue Cane,Secretary of State,,DEM,Susan Inman,87,5,0,61,21
+Clay,West Oak Bluff,Secretary of State,,DEM,Susan Inman,98,0,0,75,23
+Clay,Bennett and Lemmons,Secretary of State,,DEM,Susan Inman,19,0,0,16,3
+Clay,Bradshaw & Haywood,Secretary of State,,DEM,Susan Inman,20,0,0,11,9
+Clay,Johnson,Secretary of State,,DEM,Susan Inman,12,1,0,10,1
+Clay,Knob,Secretary of State,,DEM,Susan Inman,13,0,0,11,2
+Clay,Liddell & Chalk Bluff,Secretary of State,,DEM,Susan Inman,36,1,0,22,13
+Clay,Payne & Swain,Secretary of State,,DEM,Susan Inman,19,0,0,10,9
+Clay,Pollard,Secretary of State,,DEM,Susan Inman,35,1,0,26,8
+Clay,Brown & Carpenter,Secretary of State,,DEM,Susan Inman,29,0,0,23,6
+Clay,Cache & Wilson,Secretary of State,,DEM,Susan Inman,22,2,0,16,4
+Clay,Clark,Secretary of State,,DEM,Susan Inman,17,1,0,14,2
+Clay,Nelson,Secretary of State,,DEM,Susan Inman,7,0,0,5,2
+Clay,N Kilgore & Cleveland,Secretary of State,,DEM,Susan Inman,134,3,2,53,76
+Clay,S Kilgore & Gleghorn,Secretary of State,,DEM,Susan Inman,113,6,1,35,71
+Clay,North St. Francis,State Treasurer,,LIB,Ashley Ewald,167,3,0,58,106
+Clay,South St. Francis,State Treasurer,,LIB,Ashley Ewald,97,2,0,47,48
+Clay,East Oak Bluff & Blue Cane,State Treasurer,,LIB,Ashley Ewald,73,3,0,52,18
+Clay,West Oak Bluff,State Treasurer,,LIB,Ashley Ewald,71,0,0,52,19
+Clay,Bennett and Lemmons,State Treasurer,,LIB,Ashley Ewald,21,0,0,16,5
+Clay,Bradshaw & Haywood,State Treasurer,,LIB,Ashley Ewald,19,0,0,11,8
+Clay,Johnson,State Treasurer,,LIB,Ashley Ewald,10,0,0,9,1
+Clay,Knob,State Treasurer,,LIB,Ashley Ewald,7,0,0,7,0
+Clay,Liddell & Chalk Bluff,State Treasurer,,LIB,Ashley Ewald,20,0,0,13,7
+Clay,Payne & Swain,State Treasurer,,LIB,Ashley Ewald,13,0,0,7,6
+Clay,Pollard,State Treasurer,,LIB,Ashley Ewald,29,1,0,24,4
+Clay,Brown & Carpenter,State Treasurer,,LIB,Ashley Ewald,24,0,0,19,5
+Clay,Cache & Wilson,State Treasurer,,LIB,Ashley Ewald,13,0,0,11,2
+Clay,Clark,State Treasurer,,LIB,Ashley Ewald,16,0,0,13,3
+Clay,Nelson,State Treasurer,,LIB,Ashley Ewald,7,0,0,5,2
+Clay,N Kilgore & Cleveland,State Treasurer,,LIB,Ashley Ewald,111,0,2,52,57
+Clay,S Kilgore & Gleghorn,State Treasurer,,LIB,Ashley Ewald,86,4,1,28,53
+Clay,North St. Francis,State Treasurer,,REP,Treasurer of State Dennis Milligan,681,20,0,271,390
+Clay,South St. Francis,State Treasurer,,REP,Treasurer of State Dennis Milligan,372,4,2,159,207
+Clay,East Oak Bluff & Blue Cane,State Treasurer,,REP,Treasurer of State Dennis Milligan,207,4,0,146,57
+Clay,West Oak Bluff,State Treasurer,,REP,Treasurer of State Dennis Milligan,249,0,0,213,36
+Clay,Bennett and Lemmons,State Treasurer,,REP,Treasurer of State Dennis Milligan,90,0,0,66,24
+Clay,Bradshaw & Haywood,State Treasurer,,REP,Treasurer of State Dennis Milligan,139,1,1,104,33
+Clay,Johnson,State Treasurer,,REP,Treasurer of State Dennis Milligan,68,3,0,53,12
+Clay,Knob,State Treasurer,,REP,Treasurer of State Dennis Milligan,37,2,0,29,6
+Clay,Liddell & Chalk Bluff,State Treasurer,,REP,Treasurer of State Dennis Milligan,132,1,1,77,53
+Clay,Payne & Swain,State Treasurer,,REP,Treasurer of State Dennis Milligan,80,1,0,33,46
+Clay,Pollard,State Treasurer,,REP,Treasurer of State Dennis Milligan,136,0,0,100,36
+Clay,Brown & Carpenter,State Treasurer,,REP,Treasurer of State Dennis Milligan,79,1,1,65,12
+Clay,Cache & Wilson,State Treasurer,,REP,Treasurer of State Dennis Milligan,46,0,0,38,8
+Clay,Clark,State Treasurer,,REP,Treasurer of State Dennis Milligan,37,2,0,30,5
+Clay,Nelson,State Treasurer,,REP,Treasurer of State Dennis Milligan,31,0,0,17,14
+Clay,N Kilgore & Cleveland,State Treasurer,,REP,Treasurer of State Dennis Milligan,478,6,6,194,272
+Clay,S Kilgore & Gleghorn,State Treasurer,,REP,Treasurer of State Dennis Milligan,407,3,4,148,252
+Clay,North St. Francis,Auditor of State,,REP,Auditor Andrea Lea,685,21,0,274,390
+Clay,South St. Francis,Auditor of State,,REP,Auditor Andrea Lea,367,5,2,157,203
+Clay,East Oak Bluff & Blue Cane,Auditor of State,,REP,Auditor Andrea Lea,209,3,0,151,55
+Clay,West Oak Bluff,Auditor of State,,REP,Auditor Andrea Lea,246,0,0,211,35
+Clay,Bennett and Lemmons,Auditor of State,,REP,Auditor Andrea Lea,92,0,0,66,26
+Clay,Bradshaw & Haywood,Auditor of State,,REP,Auditor Andrea Lea,140,1,1,103,35
+Clay,Johnson,Auditor of State,,REP,Auditor Andrea Lea,64,3,0,50,11
+Clay,Knob,Auditor of State,,REP,Auditor Andrea Lea,33,2,0,26,5
+Clay,Liddell & Chalk Bluff,Auditor of State,,REP,Auditor Andrea Lea,129,0,0,77,52
+Clay,Payne & Swain,Auditor of State,,REP,Auditor Andrea Lea,82,1,0,35,46
+Clay,Pollard,Auditor of State,,REP,Auditor Andrea Lea,136,0,0,100,36
+Clay,Brown & Carpenter,Auditor of State,,REP,Auditor Andrea Lea,83,1,1,69,12
+Clay,Cache & Wilson,Auditor of State,,REP,Auditor Andrea Lea,41,0,0,35,6
+Clay,Clark,Auditor of State,,REP,Auditor Andrea Lea,41,2,0,33,6
+Clay,Nelson,Auditor of State,,REP,Auditor Andrea Lea,29,0,0,15,14
+Clay,N Kilgore & Cleveland,Auditor of State,,REP,Auditor Andrea Lea,496,6,7,206,277
+Clay,S Kilgore & Gleghorn,Auditor of State,,REP,Auditor Andrea Lea,430,2,4,153,271
+Clay,North St. Francis,Auditor of State,,LIB,David E. Dinwiddie,158,2,0,54,102
+Clay,South St. Francis,Auditor of State,,LIB,David E. Dinwiddie,98,1,0,48,49
+Clay,East Oak Bluff & Blue Cane,Auditor of State,,LIB,David E. Dinwiddie,70,4,0,47,19
+Clay,West Oak Bluff,Auditor of State,,LIB,David E. Dinwiddie,75,0,0,57,18
+Clay,Bennett and Lemmons,Auditor of State,,LIB,David E. Dinwiddie,20,0,0,17,3
+Clay,Bradshaw & Haywood,Auditor of State,,LIB,David E. Dinwiddie,18,0,0,12,6
+Clay,Johnson,Auditor of State,,LIB,David E. Dinwiddie,14,0,0,12,2
+Clay,Knob,Auditor of State,,LIB,David E. Dinwiddie,10,0,0,9,1
+Clay,Liddell & Chalk Bluff,Auditor of State,,LIB,David E. Dinwiddie,21,1,0,13,7
+Clay,Payne & Swain,Auditor of State,,LIB,David E. Dinwiddie,12,0,0,7,5
+Clay,Pollard,Auditor of State,,LIB,David E. Dinwiddie,29,1,0,24,4
+Clay,Brown & Carpenter,Auditor of State,,LIB,David E. Dinwiddie,20,0,0,15,5
+Clay,Cache & Wilson,Auditor of State,,LIB,David E. Dinwiddie,17,0,0,13,4
+Clay,Clark,Auditor of State,,LIB,David E. Dinwiddie,11,0,0,10,1
+Clay,Nelson,Auditor of State,,LIB,David E. Dinwiddie,9,0,0,7,2
+Clay,N Kilgore & Cleveland,Auditor of State,,LIB,David E. Dinwiddie,89,0,1,38,50
+Clay,S Kilgore & Gleghorn,Auditor of State,,LIB,David E. Dinwiddie,61,4,1,23,33
+Clay,North St. Francis,Commissioner of State Lands,,DEM,Larry Williams,269,4,0,88,177
+Clay,South St. Francis,Commissioner of State Lands,,DEM,Larry Williams,155,0,0,73,82
+Clay,East Oak Bluff & Blue Cane,Commissioner of State Lands,,DEM,Larry Williams,98,5,0,69,24
+Clay,West Oak Bluff,Commissioner of State Lands,,DEM,Larry Williams,119,0,0,94,25
+Clay,Bennett and Lemmons,Commissioner of State Lands,,DEM,Larry Williams,24,0,0,21,3
+Clay,Bradshaw & Haywood,Commissioner of State Lands,,DEM,Larry Williams,31,0,0,21,10
+Clay,Johnson,Commissioner of State Lands,,DEM,Larry Williams,17,1,0,15,1
+Clay,Knob,Commissioner of State Lands,,DEM,Larry Williams,15,0,0,12,3
+Clay,Liddell & Chalk Bluff,Commissioner of State Lands,,DEM,Larry Williams,41,1,0,26,14
+Clay,Payne & Swain,Commissioner of State Lands,,DEM,Larry Williams,22,0,0,11,11
+Clay,Pollard,Commissioner of State Lands,,DEM,Larry Williams,39,1,0,30,8
+Clay,Brown & Carpenter,Commissioner of State Lands,,DEM,Larry Williams,34,0,0,27,7
+Clay,Cache & Wilson,Commissioner of State Lands,,DEM,Larry Williams,24,2,0,17,5
+Clay,Clark,Commissioner of State Lands,,DEM,Larry Williams,18,0,0,15,3
+Clay,Nelson,Commissioner of State Lands,,DEM,Larry Williams,13,0,0,9,4
+Clay,N Kilgore & Cleveland,Commissioner of State Lands,,DEM,Larry Williams,165,3,3,60,99
+Clay,S Kilgore & Gleghorn,Commissioner of State Lands,,DEM,Larry Williams,134,6,2,44,82
+Clay,North St. Francis,Commissioner of State Lands,,REP,Tommy Land,557,18,0,224,315
+Clay,South St. Francis,Commissioner of State Lands,,REP,Tommy Land,297,4,1,122,170
+Clay,East Oak Bluff & Blue Cane,Commissioner of State Lands,,REP,Tommy Land,185,2,0,131,52
+Clay,West Oak Bluff,Commissioner of State Lands,,REP,Tommy Land,202,0,0,172,30
+Clay,Bennett and Lemmons,Commissioner of State Lands,,REP,Tommy Land,84,0,0,60,24
+Clay,Bradshaw & Haywood,Commissioner of State Lands,,REP,Tommy Land,123,1,1,90,31
+Clay,Johnson,Commissioner of State Lands,,REP,Tommy Land,61,2,0,47,12
+Clay,Knob,Commissioner of State Lands,,REP,Tommy Land,30,2,0,25,3
+Clay,Liddell & Chalk Bluff,Commissioner of State Lands,,REP,Tommy Land,110,0,1,65,44
+Clay,Payne & Swain,Commissioner of State Lands,,REP,Tommy Land,69,1,0,29,39
+Clay,Pollard,Commissioner of State Lands,,REP,Tommy Land,125,0,0,93,32
+Clay,Brown & Carpenter,Commissioner of State Lands,,REP,Tommy Land,70,1,1,58,10
+Clay,Cache & Wilson,Commissioner of State Lands,,REP,Tommy Land,36,0,0,30,6
+Clay,Clark,Commissioner of State Lands,,REP,Tommy Land,30,1,0,25,4
+Clay,Nelson,Commissioner of State Lands,,REP,Tommy Land,24,0,0,12,12
+Clay,N Kilgore & Cleveland,Commissioner of State Lands,,REP,Tommy Land,394,4,5,173,212
+Clay,S Kilgore & Gleghorn,Commissioner of State Lands,,REP,Tommy Land,344,0,3,124,217
+Clay,North St. Francis,Commissioner of State Lands,,LIB,T.J. Campbell,30,1,0,18,11
+Clay,South St. Francis,Commissioner of State Lands,,LIB,T.J. Campbell,22,2,0,12,8
+Clay,East Oak Bluff & Blue Cane,Commissioner of State Lands,,LIB,T.J. Campbell,3,0,0,3,0
+Clay,West Oak Bluff,Commissioner of State Lands,,LIB,T.J. Campbell,5,0,0,4,1
+Clay,Bennett and Lemmons,Commissioner of State Lands,,LIB,T.J. Campbell,3,0,0,2,1
+Clay,Bradshaw & Haywood,Commissioner of State Lands,,LIB,T.J. Campbell,5,0,0,4,1
+Clay,Johnson,Commissioner of State Lands,,LIB,T.J. Campbell,2,0,0,2,0
+Clay,Knob,Commissioner of State Lands,,LIB,T.J. Campbell,0,0,0,0,0
+Clay,Liddell & Chalk Bluff,Commissioner of State Lands,,LIB,T.J. Campbell,5,0,0,4,1
+Clay,Payne & Swain,Commissioner of State Lands,,LIB,T.J. Campbell,2,0,0,1,1
+Clay,Pollard,Commissioner of State Lands,,LIB,T.J. Campbell,5,0,0,4,1
+Clay,Brown & Carpenter,Commissioner of State Lands,,LIB,T.J. Campbell,1,0,0,1,0
+Clay,Cache & Wilson,Commissioner of State Lands,,LIB,T.J. Campbell,3,0,0,3,0
+Clay,Clark,Commissioner of State Lands,,LIB,T.J. Campbell,5,1,0,3,1
+Clay,Nelson,Commissioner of State Lands,,LIB,T.J. Campbell,1,0,0,1,0
+Clay,N Kilgore & Cleveland,Commissioner of State Lands,,LIB,T.J. Campbell,31,0,0,12,19
+Clay,S Kilgore & Gleghorn,Commissioner of State Lands,,LIB,T.J. Campbell,14,0,0,7,7
+Clay,North St. Francis,State Representative District 56,,REP,Representative Joe Jett,663,19,0,278,366
+Clay,South St. Francis,State Representative District 56,,REP,Representative Joe Jett,353,4,2,154,193
+Clay,East Oak Bluff & Blue Cane,State Representative District 56,,REP,Representative Joe Jett,196,2,0,140,54
+Clay,West Oak Bluff,State Representative District 56,,REP,Representative Joe Jett,241,0,0,202,39
+Clay,Bennett and Lemmons,State Representative District 56,,REP,Representative Joe Jett,85,0,0,62,23
+Clay,Bradshaw & Haywood,State Representative District 56,,REP,Representative Joe Jett,136,1,1,103,31
+Clay,Johnson,State Representative District 56,,REP,Representative Joe Jett,66,3,0,51,12
+Clay,Knob,State Representative District 56,,REP,Representative Joe Jett,33,2,0,28,3
+Clay,Liddell & Chalk Bluff,State Representative District 56,,REP,Representative Joe Jett,129,1,1,76,51
+Clay,Payne & Swain,State Representative District 56,,REP,Representative Joe Jett,77,1,0,31,45
+Clay,Pollard,State Representative District 56,,REP,Representative Joe Jett,124,0,0,92,32
+Clay,Brown & Carpenter,State Representative District 56,,REP,Representative Joe Jett,88,1,1,74,12
+Clay,Cache & Wilson,State Representative District 56,,REP,Representative Joe Jett,34,0,0,26,8
+Clay,Clark,State Representative District 56,,REP,Representative Joe Jett,39,2,0,33,4
+Clay,Nelson,State Representative District 56,,REP,Representative Joe Jett,28,0,0,16,12
+Clay,N Kilgore & Cleveland,State Representative District 56,,REP,Representative Joe Jett,429,5,6,180,238
+Clay,S Kilgore & Gleghorn,State Representative District 56,,REP,Representative Joe Jett,376,3,4,134,235
+Clay,North St. Francis,State Representative District 56,,DEM,Ryan Carter,215,5,0,65,145
+Clay,South St. Francis,State Representative District 56,,DEM,Ryan Carter,130,1,0,55,74
+Clay,East Oak Bluff & Blue Cane,State Representative District 56,,DEM,Ryan Carter,90,5,0,63,22
+Clay,West Oak Bluff,State Representative District 56,,DEM,Ryan Carter,84,0,0,68,16
+Clay,Bennett and Lemmons,State Representative District 56,,DEM,Ryan Carter,27,0,0,21,6
+Clay,Bradshaw & Haywood,State Representative District 56,,DEM,Ryan Carter,24,0,0,13,11
+Clay,Johnson,State Representative District 56,,DEM,Ryan Carter,14,0,0,13,1
+Clay,Knob,State Representative District 56,,DEM,Ryan Carter,12,0,0,9,3
+Clay,Liddell & Chalk Bluff,State Representative District 56,,DEM,Ryan Carter,29,0,0,19,10
+Clay,Payne & Swain,State Representative District 56,,DEM,Ryan Carter,18,0,0,11,7
+Clay,Pollard,State Representative District 56,,DEM,Ryan Carter,44,1,0,34,9
+Clay,Brown & Carpenter,State Representative District 56,,DEM,Ryan Carter,20,0,0,13,7
+Clay,Cache & Wilson,State Representative District 56,,DEM,Ryan Carter,29,2,0,24,3
+Clay,Clark,State Representative District 56,,DEM,Ryan Carter,14,0,0,10,4
+Clay,Nelson,State Representative District 56,,DEM,Ryan Carter,11,0,0,7,4
+Clay,N Kilgore & Cleveland,State Representative District 56,,DEM,Ryan Carter,171,2,3,69,97
+Clay,S Kilgore & Gleghorn,State Representative District 56,,DEM,Ryan Carter,125,3,1,45,76
+Clay,North St. Francis,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,479,8,0,174,297
+Clay,South St. Francis,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,269,1,2,118,148
+Clay,East Oak Bluff & Blue Cane,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,151,6,0,104,41
+Clay,West Oak Bluff,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,196,0,0,160,36
+Clay,Bennett and Lemmons,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,62,0,0,40,22
+Clay,Bradshaw & Haywood,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,93,1,1,65,26
+Clay,Johnson,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,47,2,0,35,10
+Clay,Knob,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,22,0,0,19,3
+Clay,Liddell & Chalk Bluff,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,90,0,1,48,41
+Clay,Payne & Swain,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,53,1,0,23,29
+Clay,Pollard,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,73,0,0,54,19
+Clay,Brown & Carpenter,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,65,1,0,49,15
+Clay,Cache & Wilson,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,40,0,0,34,6
+Clay,Clark,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,30,2,0,23,5
+Clay,Nelson,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,20,0,0,10,10
+Clay,N Kilgore & Cleveland,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,361,4,5,146,206
+Clay,S Kilgore & Gleghorn,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,330,4,3,115,208
+Clay,North St. Francis,State Supreme Court Associate Justice Position 3,,NON,David Sterling,345,11,0,147,187
+Clay,South St. Francis,State Supreme Court Associate Justice Position 3,,NON,David Sterling,184,3,0,81,100
+Clay,East Oak Bluff & Blue Cane,State Supreme Court Associate Justice Position 3,,NON,David Sterling,122,1,0,93,28
+Clay,West Oak Bluff,State Supreme Court Associate Justice Position 3,,NON,David Sterling,123,0,0,105,18
+Clay,Bennett and Lemmons,State Supreme Court Associate Justice Position 3,,NON,David Sterling,43,0,0,37,6
+Clay,Bradshaw & Haywood,State Supreme Court Associate Justice Position 3,,NON,David Sterling,63,0,0,50,13
+Clay,Johnson,State Supreme Court Associate Justice Position 3,,NON,David Sterling,27,0,0,24,3
+Clay,Knob,State Supreme Court Associate Justice Position 3,,NON,David Sterling,21,2,0,16,3
+Clay,Liddell & Chalk Bluff,State Supreme Court Associate Justice Position 3,,NON,David Sterling,57,1,0,42,14
+Clay,Payne & Swain,State Supreme Court Associate Justice Position 3,,NON,David Sterling,33,0,0,16,17
+Clay,Pollard,State Supreme Court Associate Justice Position 3,,NON,David Sterling,85,1,0,65,19
+Clay,Brown & Carpenter,State Supreme Court Associate Justice Position 3,,NON,David Sterling,36,0,1,32,3
+Clay,Cache & Wilson,State Supreme Court Associate Justice Position 3,,NON,David Sterling,19,0,0,15,4
+Clay,Clark,State Supreme Court Associate Justice Position 3,,NON,David Sterling,23,0,0,20,3
+Clay,Nelson,State Supreme Court Associate Justice Position 3,,NON,David Sterling,17,0,0,12,5
+Clay,N Kilgore & Cleveland,State Supreme Court Associate Justice Position 3,,NON,David Sterling,210,1,1,94,114
+Clay,S Kilgore & Gleghorn,State Supreme Court Associate Justice Position 3,,NON,David Sterling,148,2,2,55,89
+Clay,North St. Francis,CC Circuit Clerk,,DEM,Janet Luff Kilbreath,817,18,0,324,475
+Clay,South St. Francis,CC Circuit Clerk,,DEM,Janet Luff Kilbreath,444,4,1,198,241
+Clay,East Oak Bluff & Blue Cane,CC Circuit Clerk,,DEM,Janet Luff Kilbreath,257,7,0,184,66
+Clay,West Oak Bluff,CC Circuit Clerk,,DEM,Janet Luff Kilbreath,305,0,0,255,50
+Clay,Bennett and Lemmons,CC Circuit Clerk,,DEM,Janet Luff Kilbreath,102,0,0,77,25
+Clay,Bradshaw & Haywood,CC Circuit Clerk,,DEM,Janet Luff Kilbreath,141,1,0,105,35
+Clay,Johnson,CC Circuit Clerk,,DEM,Janet Luff Kilbreath,68,1,0,56,11
+Clay,Knob,CC Circuit Clerk,,DEM,Janet Luff Kilbreath,35,2,0,27,6
+Clay,Liddell & Chalk Bluff,CC Circuit Clerk,,DEM,Janet Luff Kilbreath,142,1,1,85,55
+Clay,Payne & Swain,CC Circuit Clerk,,DEM,Janet Luff Kilbreath,82,1,0,35,46
+Clay,Pollard,CC Circuit Clerk,,DEM,Janet Luff Kilbreath,146,0,0,114,32
+Clay,Brown & Carpenter,CC Circuit Clerk,,DEM,Janet Luff Kilbreath,93,1,1,75,16
+Clay,Cache & Wilson,CC Circuit Clerk,,DEM,Janet Luff Kilbreath,60,2,0,48,10
+Clay,Clark,CC Circuit Clerk,,DEM,Janet Luff Kilbreath,51,2,0,41,8
+Clay,Nelson,CC Circuit Clerk,,DEM,Janet Luff Kilbreath,33,0,0,20,13
+Clay,N Kilgore & Cleveland,CC Circuit Clerk,,DEM,Janet Luff Kilbreath,542,5,7,233,297
+Clay,S Kilgore & Gleghorn,CC Circuit Clerk,,DEM,Janet Luff Kilbreath,462,7,4,172,279
+Clay,North St. Francis,Tax Assessor,,REP,Erika Snow,286,9,0,130,147
+Clay,South St. Francis,Tax Assessor,,REP,Erika Snow,185,2,1,86,96
+Clay,East Oak Bluff & Blue Cane,Tax Assessor,,REP,Erika Snow,147,3,0,109,35
+Clay,West Oak Bluff,Tax Assessor,,REP,Erika Snow,169,0,0,143,26
+Clay,Bennett and Lemmons,Tax Assessor,,REP,Erika Snow,64,0,0,49,15
+Clay,Bradshaw & Haywood,Tax Assessor,,REP,Erika Snow,89,1,1,65,22
+Clay,Johnson,Tax Assessor,,REP,Erika Snow,48,2,0,35,11
+Clay,Knob,Tax Assessor,,REP,Erika Snow,23,1,0,19,3
+Clay,Liddell & Chalk Bluff,Tax Assessor,,REP,Erika Snow,64,0,0,44,20
+Clay,Payne & Swain,Tax Assessor,,REP,Erika Snow,43,1,0,16,26
+Clay,Pollard,Tax Assessor,,REP,Erika Snow,75,0,0,51,24
+Clay,Brown & Carpenter,Tax Assessor,,REP,Erika Snow,60,1,0,50,9
+Clay,Cache & Wilson,Tax Assessor,,REP,Erika Snow,32,0,0,26,6
+Clay,Clark,Tax Assessor,,REP,Erika Snow,30,1,0,24,5
+Clay,Nelson,Tax Assessor,,REP,Erika Snow,22,0,0,12,10
+Clay,N Kilgore & Cleveland,Tax Assessor,,REP,Erika Snow,339,3,5,152,179
+Clay,S Kilgore & Gleghorn,Tax Assessor,,REP,Erika Snow,267,1,3,100,163
+Clay,North St. Francis,Tax Assessor,,DEM,Tracy Gurley,589,14,0,209,366
+Clay,South St. Francis,Tax Assessor,,DEM,Tracy Gurley,296,4,1,122,169
+Clay,East Oak Bluff & Blue Cane,Tax Assessor,,DEM,Tracy Gurley,139,4,0,94,41
+Clay,West Oak Bluff,Tax Assessor,,DEM,Tracy Gurley,158,0,0,129,29
+Clay,Bennett and Lemmons,Tax Assessor,,DEM,Tracy Gurley,49,0,0,35,14
+Clay,Bradshaw & Haywood,Tax Assessor,,DEM,Tracy Gurley,70,0,0,50,20
+Clay,Johnson,Tax Assessor,,DEM,Tracy Gurley,32,1,0,29,2
+Clay,Knob,Tax Assessor,,DEM,Tracy Gurley,22,1,0,18,3
+Clay,Liddell & Chalk Bluff,Tax Assessor,,DEM,Tracy Gurley,93,1,1,51,40
+Clay,Payne & Swain,Tax Assessor,,DEM,Tracy Gurley,52,0,0,26,26
+Clay,Pollard,Tax Assessor,,DEM,Tracy Gurley,93,1,0,76,16
+Clay,Brown & Carpenter,Tax Assessor,,DEM,Tracy Gurley,46,0,1,36,9
+Clay,Cache & Wilson,Tax Assessor,,DEM,Tracy Gurley,30,2,0,24,4
+Clay,Clark,Tax Assessor,,DEM,Tracy Gurley,23,1,0,19,3
+Clay,Nelson,Tax Assessor,,DEM,Tracy Gurley,17,0,0,11,6
+Clay,N Kilgore & Cleveland,Tax Assessor,,DEM,Tracy Gurley,255,4,4,94,153
+Clay,S Kilgore & Gleghorn,Tax Assessor,,DEM,Tracy Gurley,233,6,2,77,148
+Clay,Payne & Swain,P&S Constable Payne & Swain,,REP,Chip O'Connor,58,1,0,25,32
+Clay,Payne & Swain,P&S Constable Payne & Swain,,IND,Jase Speer,35,0,0,17,18
+Clay,North St. Francis,Piggott Mayor Piggott,,IND,Jim Poole,372,16,2,127,227
+Clay,South St. Francis,Piggott Mayor Piggott,,IND,Jim Poole,180,4,0,64,112
+Clay,North St. Francis,Piggott Mayor Piggott,,IND,Travis Williams,433,8,0,177,248
+Clay,South St. Francis,Piggott Mayor Piggott,,IND,Travis Williams,247,2,0,118,127
+Clay,North St. Francis,Piggott City Clerk Piggott,,IND,Julie McMillon,415,11,1,170,233
+Clay,South St. Francis,Piggott City Clerk Piggott,,IND,Julie McMillon,240,2,0,122,116
+Clay,North St. Francis,Piggott City Clerk Piggott,,IND,Ramona Magee,385,13,1,131,240
+Clay,South St. Francis,Piggott City Clerk Piggott,,IND,Ramona Magee,184,4,0,58,122
+Clay,North St. Francis,Piggott SW 2 Piggott,,IND,Jimmy L. Chilcutt,38,1,0,14,23
+Clay,South St. Francis,Piggott SW 2 Piggott,,IND,Jimmy L. Chilcutt,26,0,0,11,15
+Clay,North St. Francis,Piggott SW 2 Piggott,,IND,Brent Sanders,362,11,0,148,203
+Clay,South St. Francis,Piggott SW 2 Piggott,,IND,Brent Sanders,206,2,0,105,99
+Clay,North St. Francis,Piggott SW 2 Piggott,,IND,Jamey Parks,400,10,2,142,246
+Clay,South St. Francis,Piggott SW 2 Piggott,,IND,Jamey Parks,190,4,0,62,124
+Clay,North St. Francis,Piggott NW 2 Piggott,,IND,Kevin Jones,525,18,2,184,321
+Clay,South St. Francis,Piggott NW 2 Piggott,,IND,Kevin Jones,250,5,0,105,140
+Clay,North St. Francis,Piggott NW 2 Piggott,,IND,Mike Cook,278,6,0,119,153
+Clay,South St. Francis,Piggott NW 2 Piggott,,IND,Mike Cook,172,1,0,75,96
+Clay,East Oak Bluff & Blue Cane,Rector Mayor Rector,,IND,Teresa L Roofe,161,4,0,124,33
+Clay,West Oak Bluff,Rector Mayor Rector,,IND,Teresa L Roofe,236,0,0,196,40
+Clay,Liddell & Chalk Bluff,St. Francis Mayor St.Francis,,IND,Teressa Johnson,28,0,0,22,6
+Clay,Liddell & Chalk Bluff,St. Francis Mayor St.Francis,,IND,Charles Conley,27,1,0,19,7
+Clay,Bennett and Lemmons,McDougal Mayor McDougal,,IND,Carroll Shipman,36,0,0,30,6
+Clay,Bradshaw & Haywood,Greenway Mayor Greenway,,IND,W F (Bill) McHaffey,43,0,0,36,7
+Clay,N Kilgore & Cleveland,Corning Mayor Corning,,IND,Gregory D. Ahrent,202,1,3,79,119
+Clay,S Kilgore & Gleghorn,Corning Mayor Corning,,IND,Gregory D. Ahrent,239,4,3,76,156
+Clay,N Kilgore & Cleveland,Corning Mayor Corning,,IND,Rob Young,22,0,1,9,12
+Clay,S Kilgore & Gleghorn,Corning Mayor Corning,,IND,Rob Young,17,0,1,10,6
+Clay,N Kilgore & Cleveland,Corning Mayor Corning,,IND,Mickey Hollis,162,4,1,56,101
+Clay,S Kilgore & Gleghorn,Corning Mayor Corning,,IND,Mickey Hollis,102,1,1,38,62
+Clay,N Kilgore & Cleveland,Corning Mayor Corning,,IND,Bob Fry,59,0,2,19,38
+Clay,S Kilgore & Gleghorn,Corning Mayor Corning,,IND,Bob Fry,66,2,0,18,46
+Clay,N Kilgore & Cleveland,Corning City Clerk Corning,,IND,Kelly J. Mahan,122,0,1,45,76
+Clay,S Kilgore & Gleghorn,Corning City Clerk Corning,,IND,Kelly J. Mahan,93,2,0,32,59
+Clay,N Kilgore & Cleveland,Corning City Clerk Corning,,IND,J'Anna Couch,196,3,3,68,122
+Clay,S Kilgore & Gleghorn,Corning City Clerk Corning,,IND,J'Anna Couch,233,4,4,79,146
+Clay,N Kilgore & Cleveland,Corning City Clerk Corning,,IND,Leah Kilbreath,125,2,3,49,71
+Clay,S Kilgore & Gleghorn,Corning City Clerk Corning,,IND,Leah Kilbreath,97,0,1,31,65
+Clay,N Kilgore & Cleveland,Corning NW 1 Corning,,IND,Terry Masterson,241,1,4,100,136
+Clay,S Kilgore & Gleghorn,Corning NW 1 Corning,,IND,Terry Masterson,236,2,3,90,141
+Clay,N Kilgore & Cleveland,Corning NW 1 Corning,,IND,George E Bobby Lowe,198,4,3,64,127
+Clay,S Kilgore & Gleghorn,Corning NW 1 Corning,,IND,George E Bobby Lowe,183,4,2,51,126
+Clay,N Kilgore & Cleveland,Corning NW 2 Corning,,IND,Ray Vannoy,234,1,4,95,134
+Clay,S Kilgore & Gleghorn,Corning NW 2 Corning,,IND,Ray Vannoy,229,3,2,75,149
+Clay,N Kilgore & Cleveland,Corning NW 2 Corning,,IND,Logan Carpenter,209,4,3,68,134
+Clay,S Kilgore & Gleghorn,Corning NW 2 Corning,,IND,Logan Carpenter,189,2,3,67,117
+Clay,N Kilgore & Cleveland,Corning SW 2 Corning,,IND,Mark D. Woods,147,4,5,55,83
+Clay,S Kilgore & Gleghorn,Corning SW 2 Corning,,IND,Mark D. Woods,125,1,3,50,71
+Clay,N Kilgore & Cleveland,Corning SW 2 Corning,,IND,Trent McKinney,286,1,2,107,176
+Clay,S Kilgore & Gleghorn,Corning SW 2 Corning,,IND,Trent McKinney,291,5,2,90,194
+Clay,Nelson,Datto Mayor Datto,,IND,Jeremy Edington,15,0,0,12,3
+Clay,Clark,Peach Orchard Mayor Peach Orchard,,IND,Linda Gilland,7,0,0,6,1
+Clay,Clark,Peach Orchard Mayor Peach Orchard,,IND,Bobbie Kunold,10,2,0,5,3
+Clay,Clark,Peach Orchard Mayor Peach Orchard,,IND,Dianne Neill,24,0,0,21,3
+Clay,Clark,Peach Orchard Council 2 Peach Orchard,,IND,William Rieger (Bill),25,0,0,22,3
+Clay,Clark,Peach Orchard Council 2 Peach Orchard,,IND,Debbie Malding,16,2,0,10,4
+Clay,Clark,GCT POS3 GREENE COUNTY TECH SCHOOL,,NON,Curtis Hitt,38,2,0,30,6
+Clay,Clark,GCT POS4 GREENE COUNTY TECH SCHOOL,,NON,Jason Weatherford,38,2,0,30,6
+Clay,North St. Francis,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,740,19,0,287,434
+Clay,South St. Francis,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,397,5,0,177,215
+Clay,East Oak Bluff & Blue Cane,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,234,5,0,168,61
+Clay,West Oak Bluff,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,283,0,0,238,45
+Clay,Bennett and Lemmons,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,87,0,0,58,29
+Clay,Bradshaw & Haywood,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,144,1,1,104,38
+Clay,Johnson,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,71,3,0,55,13
+Clay,Knob,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,34,2,0,29,3
+Clay,Liddell & Chalk Bluff,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,130,1,0,78,51
+Clay,Payne & Swain,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,80,1,0,37,42
+Clay,Pollard,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,149,0,0,112,37
+Clay,Brown & Carpenter,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,84,1,1,67,15
+Clay,Cache & Wilson,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,55,2,0,43,10
+Clay,Clark,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,45,2,0,37,6
+Clay,Nelson,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,29,0,0,17,12
+Clay,N Kilgore & Cleveland,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,522,7,7,225,283
+Clay,S Kilgore & Gleghorn,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,436,4,4,166,262
+Clay,North St. Francis,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,122,3,0,52,67
+Clay,South St. Francis,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,72,1,0,28,43
+Clay,East Oak Bluff & Blue Cane,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,48,2,0,32,14
+Clay,West Oak Bluff,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,43,0,0,32,11
+Clay,Bennett and Lemmons,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,22,0,0,22,0
+Clay,Bradshaw & Haywood,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,17,0,1,12,4
+Clay,Johnson,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,8,0,0,8,0
+Clay,Knob,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,11,0,0,8,3
+Clay,Liddell & Chalk Bluff,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,22,0,0,15,7
+Clay,Payne & Swain,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,11,0,0,3,8
+Clay,Pollard,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,18,1,0,13,4
+Clay,Brown & Carpenter,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,24,0,0,20,4
+Clay,Cache & Wilson,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,7,0,0,6,1
+Clay,Clark,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,8,0,0,6,2
+Clay,Nelson,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,9,0,0,6,3
+Clay,N Kilgore & Cleveland,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,72,0,2,23,47
+Clay,S Kilgore & Gleghorn,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,59,3,1,13,42
+Clay,North St. Francis,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,521,9,0,205,307
+Clay,South St. Francis,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,278,5,0,128,145
+Clay,East Oak Bluff & Blue Cane,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,160,5,0,122,33
+Clay,West Oak Bluff,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,191,0,0,157,34
+Clay,Bennett and Lemmons,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,72,0,0,54,18
+Clay,Bradshaw & Haywood,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,89,1,1,59,28
+Clay,Johnson,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,48,2,0,37,9
+Clay,Knob,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,22,0,0,19,3
+Clay,Liddell & Chalk Bluff,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,86,1,0,50,35
+Clay,Payne & Swain,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,50,0,0,21,29
+Clay,Pollard,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,79,1,0,60,18
+Clay,Brown & Carpenter,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,54,1,1,39,13
+Clay,Cache & Wilson,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,37,1,0,29,7
+Clay,Clark,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,40,1,0,32,7
+Clay,Nelson,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,24,0,0,16,8
+Clay,N Kilgore & Cleveland,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,390,3,7,169,211
+Clay,S Kilgore & Gleghorn,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,293,3,2,119,169
+Clay,North St. Francis,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,340,14,0,134,192
+Clay,South St. Francis,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,191,1,0,76,114
+Clay,East Oak Bluff & Blue Cane,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,124,2,0,81,41
+Clay,West Oak Bluff,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,136,0,0,114,22
+Clay,Bennett and Lemmons,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,40,0,0,29,11
+Clay,Bradshaw & Haywood,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,72,0,0,58,14
+Clay,Johnson,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,30,1,0,25,4
+Clay,Knob,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,23,2,0,18,3
+Clay,Liddell & Chalk Bluff,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,66,0,0,41,25
+Clay,Payne & Swain,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,40,1,0,19,20
+Clay,Pollard,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,88,0,0,65,23
+Clay,Brown & Carpenter,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,51,0,0,46,5
+Clay,Cache & Wilson,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,25,1,0,20,4
+Clay,Clark,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,13,1,0,11,1
+Clay,Nelson,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,13,0,0,6,7
+Clay,N Kilgore & Cleveland,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,205,4,0,80,121
+Clay,S Kilgore & Gleghorn,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,205,4,3,60,138
+Clay,North St. Francis,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,614,14,0,245,355
+Clay,South St. Francis,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,322,5,0,145,172
+Clay,East Oak Bluff & Blue Cane,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,219,6,0,163,50
+Clay,West Oak Bluff,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,234,0,0,194,40
+Clay,Bennett and Lemmons,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,83,0,0,62,21
+Clay,Bradshaw & Haywood,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,90,1,0,70,19
+Clay,Johnson,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,54,2,0,46,6
+Clay,Knob,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,23,0,0,19,4
+Clay,Liddell & Chalk Bluff,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,102,0,0,62,40
+Clay,Payne & Swain,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,63,0,0,28,35
+Clay,Pollard,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,107,1,0,75,31
+Clay,Brown & Carpenter,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,74,1,1,59,13
+Clay,Cache & Wilson,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,49,0,0,41,8
+Clay,Clark,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,33,2,0,25,6
+Clay,Nelson,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,26,0,0,18,8
+Clay,N Kilgore & Cleveland,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,419,6,5,169,239
+Clay,S Kilgore & Gleghorn,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,326,6,2,114,204
+Clay,North St. Francis,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,251,7,0,95,149
+Clay,South St. Francis,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,149,1,0,61,87
+Clay,East Oak Bluff & Blue Cane,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,65,1,0,39,25
+Clay,West Oak Bluff,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,93,0,0,76,17
+Clay,Bennett and Lemmons,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,28,0,0,20,8
+Clay,Bradshaw & Haywood,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,69,0,1,46,22
+Clay,Johnson,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,24,1,0,16,7
+Clay,Knob,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,22,2,0,18,2
+Clay,Liddell & Chalk Bluff,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,52,1,0,32,19
+Clay,Payne & Swain,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,29,1,0,13,15
+Clay,Pollard,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,59,0,0,49,10
+Clay,Brown & Carpenter,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,34,0,0,28,6
+Clay,Cache & Wilson,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,13,2,0,8,3
+Clay,Clark,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,20,0,0,18,2
+Clay,Nelson,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,12,0,0,5,7
+Clay,N Kilgore & Cleveland,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,174,1,3,77,93
+Clay,S Kilgore & Gleghorn,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,173,1,0,66,106
+Clay,Clark,GCT Millage GREENE COUNTY TECH SCHOOL,,NON,For tax,11,1,0,7,3
+Clay,Clark,GCT Millage GREENE COUNTY TECH SCHOOL,,NON,Against tax,30,1,0,25,4
+Clay,East Oak Bluff & Blue Cane,Rector Council Members Rector,,NON,FOR,100,2,0,77,21
+Clay,West Oak Bluff,Rector Council Members Rector,,NON,FOR,152,0,0,125,27
+Clay,East Oak Bluff & Blue Cane,Rector Council Members Rector,,NON,AGAINST,66,2,0,49,15
+Clay,West Oak Bluff,Rector Council Members Rector,,NON,AGAINST,87,0,0,74,13

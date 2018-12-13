@@ -1,0 +1,430 @@
+county,precinct,office,district,party,candidate,votes,election_day,early_vote,absentee,provisional
+Nevada,Bluff City City/Rural,U.S. Congress District 4,,LIB,Tom Canada,2,2,0,0,0
+Nevada,Bodcaw,U.S. Congress District 4,,LIB,Tom Canada,5,3,0,2,0
+Nevada,Georgia,U.S. Congress District 4,,LIB,Tom Canada,3,2,1,0,0
+Nevada,Emmet City,U.S. Congress District 4,,LIB,Tom Canada,0,0,0,0,0
+Nevada,Laneburg,U.S. Congress District 4,,LIB,Tom Canada,3,2,1,0,0
+Nevada,Rosston Rural,U.S. Congress District 4,,LIB,Tom Canada,1,1,0,0,0
+Nevada,Rosston City,U.S. Congress District 4,,LIB,Tom Canada,1,1,0,0,0
+Nevada,Willisville City/Rural,U.S. Congress District 4,,LIB,Tom Canada,5,3,2,0,0
+Nevada,"Wards 1,2,3,4",U.S. Congress District 4,,LIB,Tom Canada,14,7,6,1,0
+Nevada,West Rural,U.S. Congress District 4,,LIB,Tom Canada,7,5,2,0,0
+Nevada,East Rural,U.S. Congress District 4,,LIB,Tom Canada,4,3,1,0,0
+Nevada,Emmet Rural,U.S. Congress District 4,,LIB,Tom Canada,1,1,0,0,0
+Nevada,Bluff City City/Rural,U.S. Congress District 4,,REP,Representative Bruce Westerman,39,25,13,1,0
+Nevada,Bodcaw,U.S. Congress District 4,,REP,Representative Bruce Westerman,236,173,55,8,0
+Nevada,Georgia,U.S. Congress District 4,,REP,Representative Bruce Westerman,56,40,16,0,0
+Nevada,Emmet City,U.S. Congress District 4,,REP,Representative Bruce Westerman,89,61,19,9,0
+Nevada,Laneburg,U.S. Congress District 4,,REP,Representative Bruce Westerman,127,87,40,0,0
+Nevada,Rosston Rural,U.S. Congress District 4,,REP,Representative Bruce Westerman,40,28,12,0,0
+Nevada,Rosston City,U.S. Congress District 4,,REP,Representative Bruce Westerman,27,23,3,1,0
+Nevada,Willisville City/Rural,U.S. Congress District 4,,REP,Representative Bruce Westerman,99,79,20,0,0
+Nevada,"Wards 1,2,3,4",U.S. Congress District 4,,REP,Representative Bruce Westerman,319,142,162,15,0
+Nevada,West Rural,U.S. Congress District 4,,REP,Representative Bruce Westerman,205,104,101,0,0
+Nevada,East Rural,U.S. Congress District 4,,REP,Representative Bruce Westerman,285,129,156,0,0
+Nevada,Emmet Rural,U.S. Congress District 4,,REP,Representative Bruce Westerman,40,32,8,0,0
+Nevada,Bluff City City/Rural,U.S. Congress District 4,,DEM,Hayden Catherine Shamel,53,40,6,7,0
+Nevada,Bodcaw,U.S. Congress District 4,,DEM,Hayden Catherine Shamel,52,30,12,10,0
+Nevada,Georgia,U.S. Congress District 4,,DEM,Hayden Catherine Shamel,13,9,4,0,0
+Nevada,Emmet City,U.S. Congress District 4,,DEM,Hayden Catherine Shamel,35,19,12,4,0
+Nevada,Laneburg,U.S. Congress District 4,,DEM,Hayden Catherine Shamel,31,15,16,0,0
+Nevada,Rosston Rural,U.S. Congress District 4,,DEM,Hayden Catherine Shamel,59,47,12,0,0
+Nevada,Rosston City,U.S. Congress District 4,,DEM,Hayden Catherine Shamel,67,61,4,2,0
+Nevada,Willisville City/Rural,U.S. Congress District 4,,DEM,Hayden Catherine Shamel,69,53,16,0,0
+Nevada,"Wards 1,2,3,4",U.S. Congress District 4,,DEM,Hayden Catherine Shamel,398,183,191,24,0
+Nevada,West Rural,U.S. Congress District 4,,DEM,Hayden Catherine Shamel,44,23,21,0,0
+Nevada,East Rural,U.S. Congress District 4,,DEM,Hayden Catherine Shamel,62,31,31,0,0
+Nevada,Emmet Rural,U.S. Congress District 4,,DEM,Hayden Catherine Shamel,23,11,12,0,0
+Nevada,Bluff City City/Rural,U.S. Congress District 4,,NON,Write-In,0,0,0,0,0
+Nevada,Bodcaw,U.S. Congress District 4,,NON,Write-In,0,0,0,0,0
+Nevada,Georgia,U.S. Congress District 4,,NON,Write-In,1,1,0,0,0
+Nevada,Emmet City,U.S. Congress District 4,,NON,Write-In,0,0,0,0,0
+Nevada,Laneburg,U.S. Congress District 4,,NON,Write-In,0,0,0,0,0
+Nevada,Rosston Rural,U.S. Congress District 4,,NON,Write-In,0,0,0,0,0
+Nevada,Rosston City,U.S. Congress District 4,,NON,Write-In,0,0,0,0,0
+Nevada,Willisville City/Rural,U.S. Congress District 4,,NON,Write-In,0,0,0,0,0
+Nevada,"Wards 1,2,3,4",U.S. Congress District 4,,NON,Write-In,0,0,0,0,0
+Nevada,West Rural,U.S. Congress District 4,,NON,Write-In,1,1,0,0,0
+Nevada,East Rural,U.S. Congress District 4,,NON,Write-In,0,0,0,0,0
+Nevada,Emmet Rural,U.S. Congress District 4,,NON,Write-In,0,0,0,0,0
+Nevada,Bluff City City/Rural,Governor,,REP,Governor Asa Hutchinson,37,23,13,1,0
+Nevada,Bodcaw,Governor,,REP,Governor Asa Hutchinson,240,175,55,10,0
+Nevada,Georgia,Governor,,REP,Governor Asa Hutchinson,60,41,19,0,0
+Nevada,Emmet City,Governor,,REP,Governor Asa Hutchinson,93,64,20,9,0
+Nevada,Laneburg,Governor,,REP,Governor Asa Hutchinson,137,94,43,0,0
+Nevada,Rosston Rural,Governor,,REP,Governor Asa Hutchinson,42,28,14,0,0
+Nevada,Rosston City,Governor,,REP,Governor Asa Hutchinson,32,27,3,2,0
+Nevada,Willisville City/Rural,Governor,,REP,Governor Asa Hutchinson,105,83,22,0,0
+Nevada,"Wards 1,2,3,4",Governor,,REP,Governor Asa Hutchinson,344,150,174,20,0
+Nevada,West Rural,Governor,,REP,Governor Asa Hutchinson,212,110,102,0,0
+Nevada,East Rural,Governor,,REP,Governor Asa Hutchinson,284,138,146,0,0
+Nevada,Emmet Rural,Governor,,REP,Governor Asa Hutchinson,42,34,8,0,0
+Nevada,Bluff City City/Rural,Governor,,DEM,Jared K. Henderson,54,41,6,7,0
+Nevada,Bodcaw,Governor,,DEM,Jared K. Henderson,50,29,11,10,0
+Nevada,Georgia,Governor,,DEM,Jared K. Henderson,8,6,2,0,0
+Nevada,Emmet City,Governor,,DEM,Jared K. Henderson,30,15,11,4,0
+Nevada,Laneburg,Governor,,DEM,Jared K. Henderson,25,11,14,0,0
+Nevada,Rosston Rural,Governor,,DEM,Jared K. Henderson,56,46,10,0,0
+Nevada,Rosston City,Governor,,DEM,Jared K. Henderson,62,57,4,1,0
+Nevada,Willisville City/Rural,Governor,,DEM,Jared K. Henderson,67,51,16,0,0
+Nevada,"Wards 1,2,3,4",Governor,,DEM,Jared K. Henderson,373,172,181,20,0
+Nevada,West Rural,Governor,,DEM,Jared K. Henderson,39,21,18,0,0
+Nevada,East Rural,Governor,,DEM,Jared K. Henderson,57,23,34,0,0
+Nevada,Emmet Rural,Governor,,DEM,Jared K. Henderson,21,9,12,0,0
+Nevada,Bluff City City/Rural,Governor,,LIB,Mark West,3,3,0,0,0
+Nevada,Bodcaw,Governor,,LIB,Mark West,1,0,1,0,0
+Nevada,Georgia,Governor,,LIB,Mark West,5,5,0,0,0
+Nevada,Emmet City,Governor,,LIB,Mark West,2,2,0,0,0
+Nevada,Laneburg,Governor,,LIB,Mark West,1,1,0,0,0
+Nevada,Rosston Rural,Governor,,LIB,Mark West,1,1,0,0,0
+Nevada,Rosston City,Governor,,LIB,Mark West,1,1,0,0,0
+Nevada,Willisville City/Rural,Governor,,LIB,Mark West,2,2,0,0,0
+Nevada,"Wards 1,2,3,4",Governor,,LIB,Mark West,11,8,2,1,0
+Nevada,West Rural,Governor,,LIB,Mark West,7,3,4,0,0
+Nevada,East Rural,Governor,,LIB,Mark West,11,2,9,0,0
+Nevada,Emmet Rural,Governor,,LIB,Mark West,1,1,0,0,0
+Nevada,Bluff City City/Rural,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,40,26,13,1,0
+Nevada,Bodcaw,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,241,177,54,10,0
+Nevada,Georgia,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,58,41,17,0,0
+Nevada,Emmet City,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,90,62,19,9,0
+Nevada,Laneburg,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,132,91,41,0,0
+Nevada,Rosston Rural,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,42,28,14,0,0
+Nevada,Rosston City,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,30,25,3,2,0
+Nevada,Willisville City/Rural,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,100,79,21,0,0
+Nevada,"Wards 1,2,3,4",Lieutenant Governor,,REP,Lt. Governor Tim Griffin,323,141,167,15,0
+Nevada,West Rural,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,210,107,103,0,0
+Nevada,East Rural,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,287,135,152,0,0
+Nevada,Emmet Rural,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,40,32,8,0,0
+Nevada,Bluff City City/Rural,Lieutenant Governor,,DEM,Anthony Bland,54,41,6,7,0
+Nevada,Bodcaw,Lieutenant Governor,,DEM,Anthony Bland,49,26,13,10,0
+Nevada,Georgia,Lieutenant Governor,,DEM,Anthony Bland,11,8,3,0,0
+Nevada,Emmet City,Lieutenant Governor,,DEM,Anthony Bland,31,15,12,4,0
+Nevada,Laneburg,Lieutenant Governor,,DEM,Anthony Bland,28,12,16,0,0
+Nevada,Rosston Rural,Lieutenant Governor,,DEM,Anthony Bland,56,47,9,0,0
+Nevada,Rosston City,Lieutenant Governor,,DEM,Anthony Bland,65,60,4,1,0
+Nevada,Willisville City/Rural,Lieutenant Governor,,DEM,Anthony Bland,71,54,17,0,0
+Nevada,"Wards 1,2,3,4",Lieutenant Governor,,DEM,Anthony Bland,397,185,187,25,0
+Nevada,West Rural,Lieutenant Governor,,DEM,Anthony Bland,46,25,21,0,0
+Nevada,East Rural,Lieutenant Governor,,DEM,Anthony Bland,61,27,34,0,0
+Nevada,Emmet Rural,Lieutenant Governor,,DEM,Anthony Bland,22,10,12,0,0
+Nevada,Bluff City City/Rural,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0,0
+Nevada,Bodcaw,Lieutenant Governor,,LIB,Frank Gilbert,2,2,0,0,0
+Nevada,Georgia,Lieutenant Governor,,LIB,Frank Gilbert,3,3,0,0,0
+Nevada,Emmet City,Lieutenant Governor,,LIB,Frank Gilbert,3,3,0,0,0
+Nevada,Laneburg,Lieutenant Governor,,LIB,Frank Gilbert,1,1,0,0,0
+Nevada,Rosston Rural,Lieutenant Governor,,LIB,Frank Gilbert,1,1,0,0,0
+Nevada,Rosston City,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0,0
+Nevada,Willisville City/Rural,Lieutenant Governor,,LIB,Frank Gilbert,2,2,0,0,0
+Nevada,"Wards 1,2,3,4",Lieutenant Governor,,LIB,Frank Gilbert,11,6,4,1,0
+Nevada,West Rural,Lieutenant Governor,,LIB,Frank Gilbert,3,2,1,0,0
+Nevada,East Rural,Lieutenant Governor,,LIB,Frank Gilbert,4,1,3,0,0
+Nevada,Emmet Rural,Lieutenant Governor,,LIB,Frank Gilbert,2,2,0,0,0
+Nevada,Bluff City City/Rural,Attorney General,,LIB,Kerry Hicks,1,1,0,0,0
+Nevada,Bodcaw,Attorney General,,LIB,Kerry Hicks,6,6,0,0,0
+Nevada,Georgia,Attorney General,,LIB,Kerry Hicks,5,4,1,0,0
+Nevada,Emmet City,Attorney General,,LIB,Kerry Hicks,1,1,0,0,0
+Nevada,Laneburg,Attorney General,,LIB,Kerry Hicks,1,1,0,0,0
+Nevada,Rosston Rural,Attorney General,,LIB,Kerry Hicks,1,1,0,0,0
+Nevada,Rosston City,Attorney General,,LIB,Kerry Hicks,1,1,0,0,0
+Nevada,Willisville City/Rural,Attorney General,,LIB,Kerry Hicks,5,5,0,0,0
+Nevada,"Wards 1,2,3,4",Attorney General,,LIB,Kerry Hicks,14,9,4,1,0
+Nevada,West Rural,Attorney General,,LIB,Kerry Hicks,2,0,2,0,0
+Nevada,East Rural,Attorney General,,LIB,Kerry Hicks,8,3,5,0,0
+Nevada,Emmet Rural,Attorney General,,LIB,Kerry Hicks,1,1,0,0,0
+Nevada,Bluff City City/Rural,Attorney General,,REP,Attorney General Leslie Rutledge,39,26,12,1,0
+Nevada,Bodcaw,Attorney General,,REP,Attorney General Leslie Rutledge,230,166,54,10,0
+Nevada,Georgia,Attorney General,,REP,Attorney General Leslie Rutledge,55,38,17,0,0
+Nevada,Emmet City,Attorney General,,REP,Attorney General Leslie Rutledge,86,59,18,9,0
+Nevada,Laneburg,Attorney General,,REP,Attorney General Leslie Rutledge,135,92,43,0,0
+Nevada,Rosston Rural,Attorney General,,REP,Attorney General Leslie Rutledge,41,28,13,0,0
+Nevada,Rosston City,Attorney General,,REP,Attorney General Leslie Rutledge,29,24,3,2,0
+Nevada,Willisville City/Rural,Attorney General,,REP,Attorney General Leslie Rutledge,96,76,20,0,0
+Nevada,"Wards 1,2,3,4",Attorney General,,REP,Attorney General Leslie Rutledge,321,142,164,15,0
+Nevada,West Rural,Attorney General,,REP,Attorney General Leslie Rutledge,201,102,99,0,0
+Nevada,East Rural,Attorney General,,REP,Attorney General Leslie Rutledge,280,132,148,0,0
+Nevada,Emmet Rural,Attorney General,,REP,Attorney General Leslie Rutledge,40,32,8,0,0
+Nevada,Bluff City City/Rural,Attorney General,,DEM,Mike Lee,53,40,6,7,0
+Nevada,Bodcaw,Attorney General,,DEM,Mike Lee,52,29,13,10,0
+Nevada,Georgia,Attorney General,,DEM,Mike Lee,13,10,3,0,0
+Nevada,Emmet City,Attorney General,,DEM,Mike Lee,36,20,12,4,0
+Nevada,Laneburg,Attorney General,,DEM,Mike Lee,26,12,14,0,0
+Nevada,Rosston Rural,Attorney General,,DEM,Mike Lee,58,47,11,0,0
+Nevada,Rosston City,Attorney General,,DEM,Mike Lee,65,60,4,1,0
+Nevada,Willisville City/Rural,Attorney General,,DEM,Mike Lee,72,54,18,0,0
+Nevada,"Wards 1,2,3,4",Attorney General,,DEM,Mike Lee,394,180,189,25,0
+Nevada,West Rural,Attorney General,,DEM,Mike Lee,54,32,22,0,0
+Nevada,East Rural,Attorney General,,DEM,Mike Lee,65,29,36,0,0
+Nevada,Emmet Rural,Attorney General,,DEM,Mike Lee,23,11,12,0,0
+Nevada,Bluff City City/Rural,Secretary of State,,DEM,Susan Inman,54,41,6,7,0
+Nevada,Bodcaw,Secretary of State,,DEM,Susan Inman,52,30,12,10,0
+Nevada,Georgia,Secretary of State,,DEM,Susan Inman,13,10,3,0,0
+Nevada,Emmet City,Secretary of State,,DEM,Susan Inman,36,19,13,4,0
+Nevada,Laneburg,Secretary of State,,DEM,Susan Inman,31,14,17,0,0
+Nevada,Rosston Rural,Secretary of State,,DEM,Susan Inman,59,48,11,0,0
+Nevada,Rosston City,Secretary of State,,DEM,Susan Inman,65,60,4,1,0
+Nevada,Willisville City/Rural,Secretary of State,,DEM,Susan Inman,73,56,17,0,0
+Nevada,"Wards 1,2,3,4",Secretary of State,,DEM,Susan Inman,420,193,200,27,0
+Nevada,West Rural,Secretary of State,,DEM,Susan Inman,54,31,23,0,0
+Nevada,East Rural,Secretary of State,,DEM,Susan Inman,76,38,38,0,0
+Nevada,Emmet Rural,Secretary of State,,DEM,Susan Inman,24,12,12,0,0
+Nevada,Bluff City City/Rural,Secretary of State,,REP,John Thurston Commissioner of State Lands,40,26,13,1,0
+Nevada,Bodcaw,Secretary of State,,REP,John Thurston Commissioner of State Lands,238,173,55,10,0
+Nevada,Georgia,Secretary of State,,REP,John Thurston Commissioner of State Lands,55,39,16,0,0
+Nevada,Emmet City,Secretary of State,,REP,John Thurston Commissioner of State Lands,86,59,18,9,0
+Nevada,Laneburg,Secretary of State,,REP,John Thurston Commissioner of State Lands,128,88,40,0,0
+Nevada,Rosston Rural,Secretary of State,,REP,John Thurston Commissioner of State Lands,40,28,12,0,0
+Nevada,Rosston City,Secretary of State,,REP,John Thurston Commissioner of State Lands,30,25,3,2,0
+Nevada,Willisville City/Rural,Secretary of State,,REP,John Thurston Commissioner of State Lands,100,79,21,0,0
+Nevada,"Wards 1,2,3,4",Secretary of State,,REP,John Thurston Commissioner of State Lands,303,131,159,13,0
+Nevada,West Rural,Secretary of State,,REP,John Thurston Commissioner of State Lands,201,101,100,0,0
+Nevada,East Rural,Secretary of State,,REP,John Thurston Commissioner of State Lands,272,124,148,0,0
+Nevada,Emmet Rural,Secretary of State,,REP,John Thurston Commissioner of State Lands,38,31,7,0,0
+Nevada,Bluff City City/Rural,Secretary of State,,LIB,Christopher Olson,0,0,0,0,0
+Nevada,Bodcaw,Secretary of State,,LIB,Christopher Olson,2,2,0,0,0
+Nevada,Georgia,Secretary of State,,LIB,Christopher Olson,4,3,1,0,0
+Nevada,Emmet City,Secretary of State,,LIB,Christopher Olson,1,1,0,0,0
+Nevada,Laneburg,Secretary of State,,LIB,Christopher Olson,2,2,0,0,0
+Nevada,Rosston Rural,Secretary of State,,LIB,Christopher Olson,0,0,0,0,0
+Nevada,Rosston City,Secretary of State,,LIB,Christopher Olson,0,0,0,0,0
+Nevada,Willisville City/Rural,Secretary of State,,LIB,Christopher Olson,1,1,0,0,0
+Nevada,"Wards 1,2,3,4",Secretary of State,,LIB,Christopher Olson,12,7,5,0,0
+Nevada,West Rural,Secretary of State,,LIB,Christopher Olson,4,2,2,0,0
+Nevada,East Rural,Secretary of State,,LIB,Christopher Olson,4,2,2,0,0
+Nevada,Emmet Rural,Secretary of State,,LIB,Christopher Olson,1,1,0,0,0
+Nevada,Bluff City City/Rural,State Treasurer,,LIB,Ashley Ewald,46,34,6,6,0
+Nevada,Bodcaw,State Treasurer,,LIB,Ashley Ewald,45,27,11,7,0
+Nevada,Georgia,State Treasurer,,LIB,Ashley Ewald,11,8,3,0,0
+Nevada,Emmet City,State Treasurer,,LIB,Ashley Ewald,30,17,8,5,0
+Nevada,Laneburg,State Treasurer,,LIB,Ashley Ewald,22,11,11,0,0
+Nevada,Rosston Rural,State Treasurer,,LIB,Ashley Ewald,51,42,9,0,0
+Nevada,Rosston City,State Treasurer,,LIB,Ashley Ewald,59,54,3,2,0
+Nevada,Willisville City/Rural,State Treasurer,,LIB,Ashley Ewald,59,46,13,0,0
+Nevada,"Wards 1,2,3,4",State Treasurer,,LIB,Ashley Ewald,307,137,155,15,0
+Nevada,West Rural,State Treasurer,,LIB,Ashley Ewald,37,21,16,0,0
+Nevada,East Rural,State Treasurer,,LIB,Ashley Ewald,50,27,23,0,0
+Nevada,Emmet Rural,State Treasurer,,LIB,Ashley Ewald,14,8,6,0,0
+Nevada,Bluff City City/Rural,State Treasurer,,REP,Treasurer of State Dennis Milligan,46,31,13,2,0
+Nevada,Bodcaw,State Treasurer,,REP,Treasurer of State Dennis Milligan,245,179,55,11,0
+Nevada,Georgia,State Treasurer,,REP,Treasurer of State Dennis Milligan,61,44,17,0,0
+Nevada,Emmet City,State Treasurer,,REP,Treasurer of State Dennis Milligan,91,63,20,8,0
+Nevada,Laneburg,State Treasurer,,REP,Treasurer of State Dennis Milligan,140,94,46,0,0
+Nevada,Rosston Rural,State Treasurer,,REP,Treasurer of State Dennis Milligan,48,34,14,0,0
+Nevada,Rosston City,State Treasurer,,REP,Treasurer of State Dennis Milligan,35,31,3,1,0
+Nevada,Willisville City/Rural,State Treasurer,,REP,Treasurer of State Dennis Milligan,105,82,23,0,0
+Nevada,"Wards 1,2,3,4",State Treasurer,,REP,Treasurer of State Dennis Milligan,377,173,186,18,0
+Nevada,West Rural,State Treasurer,,REP,Treasurer of State Dennis Milligan,221,112,109,0,0
+Nevada,East Rural,State Treasurer,,REP,Treasurer of State Dennis Milligan,298,136,162,0,0
+Nevada,Emmet Rural,State Treasurer,,REP,Treasurer of State Dennis Milligan,45,35,10,0,0
+Nevada,Bluff City City/Rural,Auditor of State,,REP,Auditor Andrea Lea,47,33,13,1,0
+Nevada,Bodcaw,Auditor of State,,REP,Auditor Andrea Lea,242,176,55,11,0
+Nevada,Georgia,Auditor of State,,REP,Auditor Andrea Lea,59,42,17,0,0
+Nevada,Emmet City,Auditor of State,,REP,Auditor Andrea Lea,99,68,22,9,0
+Nevada,Laneburg,Auditor of State,,REP,Auditor Andrea Lea,139,96,43,0,0
+Nevada,Rosston Rural,Auditor of State,,REP,Auditor Andrea Lea,49,34,15,0,0
+Nevada,Rosston City,Auditor of State,,REP,Auditor Andrea Lea,35,30,3,2,0
+Nevada,Willisville City/Rural,Auditor of State,,REP,Auditor Andrea Lea,105,81,24,0,0
+Nevada,"Wards 1,2,3,4",Auditor of State,,REP,Auditor Andrea Lea,401,185,197,19,0
+Nevada,West Rural,Auditor of State,,REP,Auditor Andrea Lea,222,113,109,0,0
+Nevada,East Rural,Auditor of State,,REP,Auditor Andrea Lea,303,144,159,0,0
+Nevada,Emmet Rural,Auditor of State,,REP,Auditor Andrea Lea,47,36,11,0,0
+Nevada,Bluff City City/Rural,Auditor of State,,LIB,David E. Dinwiddie,45,32,6,7,0
+Nevada,Bodcaw,Auditor of State,,LIB,David E. Dinwiddie,45,26,12,7,0
+Nevada,Georgia,Auditor of State,,LIB,David E. Dinwiddie,13,10,3,0,0
+Nevada,Emmet City,Auditor of State,,LIB,David E. Dinwiddie,24,12,8,4,0
+Nevada,Laneburg,Auditor of State,,LIB,David E. Dinwiddie,22,8,14,0,0
+Nevada,Rosston Rural,Auditor of State,,LIB,David E. Dinwiddie,50,42,8,0,0
+Nevada,Rosston City,Auditor of State,,LIB,David E. Dinwiddie,59,55,3,1,0
+Nevada,Willisville City/Rural,Auditor of State,,LIB,David E. Dinwiddie,59,48,11,0,0
+Nevada,"Wards 1,2,3,4",Auditor of State,,LIB,David E. Dinwiddie,285,126,143,16,0
+Nevada,West Rural,Auditor of State,,LIB,David E. Dinwiddie,36,21,15,0,0
+Nevada,East Rural,Auditor of State,,LIB,David E. Dinwiddie,43,18,25,0,0
+Nevada,Emmet Rural,Auditor of State,,LIB,David E. Dinwiddie,14,8,6,0,0
+Nevada,Bluff City City/Rural,Commissioner of State Lands,,REP,Tommy Land,37,24,12,1,0
+Nevada,Bodcaw,Commissioner of State Lands,,REP,Tommy Land,236,171,55,10,0
+Nevada,Georgia,Commissioner of State Lands,,REP,Tommy Land,54,39,15,0,0
+Nevada,Emmet City,Commissioner of State Lands,,REP,Tommy Land,87,60,18,9,0
+Nevada,Laneburg,Commissioner of State Lands,,REP,Tommy Land,128,87,41,0,0
+Nevada,Rosston Rural,Commissioner of State Lands,,REP,Tommy Land,40,28,12,0,0
+Nevada,Rosston City,Commissioner of State Lands,,REP,Tommy Land,27,23,3,1,0
+Nevada,Willisville City/Rural,Commissioner of State Lands,,REP,Tommy Land,99,79,20,0,0
+Nevada,"Wards 1,2,3,4",Commissioner of State Lands,,REP,Tommy Land,302,134,156,12,0
+Nevada,West Rural,Commissioner of State Lands,,REP,Tommy Land,202,104,98,0,0
+Nevada,East Rural,Commissioner of State Lands,,REP,Tommy Land,275,128,147,0,0
+Nevada,Emmet Rural,Commissioner of State Lands,,REP,Tommy Land,37,30,7,0,0
+Nevada,Bluff City City/Rural,Commissioner of State Lands,,LIB,T.J. Campbell,3,1,1,1,0
+Nevada,Bodcaw,Commissioner of State Lands,,LIB,T.J. Campbell,3,3,0,0,0
+Nevada,Georgia,Commissioner of State Lands,,LIB,T.J. Campbell,3,3,0,0,0
+Nevada,Emmet City,Commissioner of State Lands,,LIB,T.J. Campbell,0,0,0,0,0
+Nevada,Laneburg,Commissioner of State Lands,,LIB,T.J. Campbell,2,2,0,0,0
+Nevada,Rosston Rural,Commissioner of State Lands,,LIB,T.J. Campbell,1,1,0,0,0
+Nevada,Rosston City,Commissioner of State Lands,,LIB,T.J. Campbell,0,0,0,0,0
+Nevada,Willisville City/Rural,Commissioner of State Lands,,LIB,T.J. Campbell,1,1,0,0,0
+Nevada,"Wards 1,2,3,4",Commissioner of State Lands,,LIB,T.J. Campbell,18,8,8,2,0
+Nevada,West Rural,Commissioner of State Lands,,LIB,T.J. Campbell,5,2,3,0,0
+Nevada,East Rural,Commissioner of State Lands,,LIB,T.J. Campbell,5,2,3,0,0
+Nevada,Emmet Rural,Commissioner of State Lands,,LIB,T.J. Campbell,1,1,0,0,0
+Nevada,Bluff City City/Rural,Commissioner of State Lands,,DEM,Larry Williams,54,42,6,6,0
+Nevada,Bodcaw,Commissioner of State Lands,,DEM,Larry Williams,51,30,12,9,0
+Nevada,Georgia,Commissioner of State Lands,,DEM,Larry Williams,15,10,5,0,0
+Nevada,Emmet City,Commissioner of State Lands,,DEM,Larry Williams,36,19,13,4,0
+Nevada,Laneburg,Commissioner of State Lands,,DEM,Larry Williams,32,16,16,0,0
+Nevada,Rosston Rural,Commissioner of State Lands,,DEM,Larry Williams,59,47,12,0,0
+Nevada,Rosston City,Commissioner of State Lands,,DEM,Larry Williams,68,62,4,2,0
+Nevada,Willisville City/Rural,Commissioner of State Lands,,DEM,Larry Williams,74,56,18,0,0
+Nevada,"Wards 1,2,3,4",Commissioner of State Lands,,DEM,Larry Williams,415,189,200,26,0
+Nevada,West Rural,Commissioner of State Lands,,DEM,Larry Williams,50,27,23,0,0
+Nevada,East Rural,Commissioner of State Lands,,DEM,Larry Williams,73,34,39,0,0
+Nevada,Emmet Rural,Commissioner of State Lands,,DEM,Larry Williams,26,13,13,0,0
+Nevada,Emmet City,State Senate District 10,,LIB,Bobbi Hicks,59,41,11,7,0
+Nevada,West Rural,State Senate District 10,,LIB,Bobbi Hicks,101,55,46,0,0
+Nevada,Emmet City,State Senate District 10,,DEM,Senator Larry Teague,58,34,18,6,0
+Nevada,West Rural,State Senate District 10,,DEM,Senator Larry Teague,141,71,70,0,0
+Nevada,Bluff City City/Rural,State Representative District 5,,DEM,State Representative David Fielding,57,42,8,7,0
+Nevada,Rosston Rural,State Representative District 5,,DEM,State Representative David Fielding,59,47,12,0,0
+Nevada,Rosston City,State Representative District 5,,DEM,State Representative David Fielding,69,63,4,2,0
+Nevada,Willisville City/Rural,State Representative District 5,,DEM,State Representative David Fielding,73,54,19,0,0
+Nevada,Bluff City City/Rural,State Representative District 5,,REP,Wade Andrews,36,24,11,1,0
+Nevada,Rosston Rural,State Representative District 5,,REP,Wade Andrews,41,29,12,0,0
+Nevada,Rosston City,State Representative District 5,,REP,Wade Andrews,26,22,3,1,0
+Nevada,Willisville City/Rural,State Representative District 5,,REP,Wade Andrews,101,82,19,0,0
+Nevada,Bluff City City/Rural,State Supreme Court Associate Justice Position 3,,NON,David Sterling,46,31,11,4,0
+Nevada,Bodcaw,State Supreme Court Associate Justice Position 3,,NON,David Sterling,130,96,28,6,0
+Nevada,Georgia,State Supreme Court Associate Justice Position 3,,NON,David Sterling,24,19,5,0,0
+Nevada,Emmet City,State Supreme Court Associate Justice Position 3,,NON,David Sterling,45,25,13,7,0
+Nevada,Laneburg,State Supreme Court Associate Justice Position 3,,NON,David Sterling,73,54,19,0,0
+Nevada,Rosston Rural,State Supreme Court Associate Justice Position 3,,NON,David Sterling,56,43,13,0,0
+Nevada,Rosston City,State Supreme Court Associate Justice Position 3,,NON,David Sterling,38,34,4,0,0
+Nevada,Willisville City/Rural,State Supreme Court Associate Justice Position 3,,NON,David Sterling,69,56,13,0,0
+Nevada,"Wards 1,2,3,4",State Supreme Court Associate Justice Position 3,,NON,David Sterling,283,120,148,15,0
+Nevada,West Rural,State Supreme Court Associate Justice Position 3,,NON,David Sterling,104,48,56,0,0
+Nevada,East Rural,State Supreme Court Associate Justice Position 3,,NON,David Sterling,124,58,66,0,0
+Nevada,Emmet Rural,State Supreme Court Associate Justice Position 3,,NON,David Sterling,26,17,9,0,0
+Nevada,Bluff City City/Rural,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,43,31,8,4,0
+Nevada,Bodcaw,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,157,106,37,14,0
+Nevada,Georgia,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,45,29,16,0,0
+Nevada,Emmet City,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,76,54,16,6,0
+Nevada,Laneburg,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,86,50,36,0,0
+Nevada,Rosston Rural,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,44,33,11,0,0
+Nevada,Rosston City,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,56,51,2,3,0
+Nevada,Willisville City/Rural,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,93,72,21,0,0
+Nevada,"Wards 1,2,3,4",State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,389,181,187,21,0
+Nevada,West Rural,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,147,82,65,0,0
+Nevada,East Rural,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,217,100,117,0,0
+Nevada,Emmet Rural,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,35,27,8,0,0
+Nevada,Bluff City City/Rural,NEVADA COUNTY JUDGE,,DEM,Mark Glass,66,47,11,8,0
+Nevada,Bodcaw,NEVADA COUNTY JUDGE,,DEM,Mark Glass,109,71,25,13,0
+Nevada,Georgia,NEVADA COUNTY JUDGE,,DEM,Mark Glass,50,40,10,0,0
+Nevada,Emmet City,NEVADA COUNTY JUDGE,,DEM,Mark Glass,40,21,15,4,0
+Nevada,Laneburg,NEVADA COUNTY JUDGE,,DEM,Mark Glass,77,41,36,0,0
+Nevada,Rosston Rural,NEVADA COUNTY JUDGE,,DEM,Mark Glass,68,54,14,0,0
+Nevada,Rosston City,NEVADA COUNTY JUDGE,,DEM,Mark Glass,77,68,6,3,0
+Nevada,Willisville City/Rural,NEVADA COUNTY JUDGE,,DEM,Mark Glass,82,61,21,0,0
+Nevada,"Wards 1,2,3,4",NEVADA COUNTY JUDGE,,DEM,Mark Glass,576,262,281,33,0
+Nevada,West Rural,NEVADA COUNTY JUDGE,,DEM,Mark Glass,130,62,68,0,0
+Nevada,East Rural,NEVADA COUNTY JUDGE,,DEM,Mark Glass,193,100,93,0,0
+Nevada,Emmet Rural,NEVADA COUNTY JUDGE,,DEM,Mark Glass,27,13,14,0,0
+Nevada,Bluff City City/Rural,NEVADA COUNTY JUDGE,,REP,Mike Otwell,27,20,7,0,0
+Nevada,Bodcaw,NEVADA COUNTY JUDGE,,REP,Mike Otwell,182,133,42,7,0
+Nevada,Georgia,NEVADA COUNTY JUDGE,,REP,Mike Otwell,23,12,11,0,0
+Nevada,Emmet City,NEVADA COUNTY JUDGE,,REP,Mike Otwell,85,60,16,9,0
+Nevada,Laneburg,NEVADA COUNTY JUDGE,,REP,Mike Otwell,86,65,21,0,0
+Nevada,Rosston Rural,NEVADA COUNTY JUDGE,,REP,Mike Otwell,32,22,10,0,0
+Nevada,Rosston City,NEVADA COUNTY JUDGE,,REP,Mike Otwell,18,17,1,0,0
+Nevada,Willisville City/Rural,NEVADA COUNTY JUDGE,,REP,Mike Otwell,92,75,17,0,0
+Nevada,"Wards 1,2,3,4",NEVADA COUNTY JUDGE,,REP,Mike Otwell,161,71,82,8,0
+Nevada,West Rural,NEVADA COUNTY JUDGE,,REP,Mike Otwell,129,72,57,0,0
+Nevada,East Rural,NEVADA COUNTY JUDGE,,REP,Mike Otwell,160,64,96,0,0
+Nevada,Emmet Rural,NEVADA COUNTY JUDGE,,REP,Mike Otwell,37,31,6,0,0
+Nevada,Rosston City,MAYOR OF ROSSTON ROSSTON,,NON,Lewis Jackson,31,26,3,2,0
+Nevada,Rosston City,MAYOR OF ROSSTON ROSSTON,,NON,Samuel L. Quarles,64,59,4,1,0
+Nevada,Rosston City,ROSSTON CITY COUNCILMAN ROSSTON,,NON,Irene Tidwell,65,59,4,2,0
+Nevada,Rosston City,ROSSTON CITY COUNCILMAN ROSSTON,,NON,Lesa Ward,30,26,3,1,0
+Nevada,"Wards 1,2,3,4",MAYOR OF PRESCOTT PRESCOTT,,DEM,Terry Oliver,688,316,336,36,0
+Nevada,Bluff City City/Rural,NEVADA COUNTY CIRCUIT CLERK,,NON,Rita Reyenga,91,64,19,8,0
+Nevada,Bodcaw,NEVADA COUNTY CIRCUIT CLERK,,NON,Rita Reyenga,283,197,66,20,0
+Nevada,Georgia,NEVADA COUNTY CIRCUIT CLERK,,NON,Rita Reyenga,73,52,21,0,0
+Nevada,Emmet City,NEVADA COUNTY CIRCUIT CLERK,,NON,Rita Reyenga,119,78,29,12,0
+Nevada,Laneburg,NEVADA COUNTY CIRCUIT CLERK,,NON,Rita Reyenga,157,103,54,0,0
+Nevada,Rosston Rural,NEVADA COUNTY CIRCUIT CLERK,,NON,Rita Reyenga,99,76,23,0,0
+Nevada,Rosston City,NEVADA COUNTY CIRCUIT CLERK,,NON,Rita Reyenga,94,85,6,3,0
+Nevada,Willisville City/Rural,NEVADA COUNTY CIRCUIT CLERK,,NON,Rita Reyenga,163,127,36,0,0
+Nevada,"Wards 1,2,3,4",NEVADA COUNTY CIRCUIT CLERK,,NON,Rita Reyenga,688,308,342,38,0
+Nevada,West Rural,NEVADA COUNTY CIRCUIT CLERK,,NON,Rita Reyenga,252,132,120,0,0
+Nevada,East Rural,NEVADA COUNTY CIRCUIT CLERK,,NON,Rita Reyenga,343,158,185,0,0
+Nevada,Emmet Rural,NEVADA COUNTY CIRCUIT CLERK,,NON,Rita Reyenga,62,44,18,0,0
+Nevada,Bodcaw,JP DIST. #8 DISTRICT 8,,DEM,George S. Smith,37,18,15,4,0
+Nevada,Laneburg,JP DIST. #8 DISTRICT 8,,DEM,George S. Smith,17,10,7,0,0
+Nevada,Bodcaw,JP DIST. #8 DISTRICT 8,,REP,Chris Fore,164,126,33,5,0
+Nevada,Laneburg,JP DIST. #8 DISTRICT 8,,REP,Chris Fore,75,48,27,0,0
+Nevada,Bluff City City/Rural,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,69,53,13,3,0
+Nevada,Bodcaw,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,250,172,63,15,0
+Nevada,Georgia,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,61,44,17,0,0
+Nevada,Emmet City,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,109,75,24,10,0
+Nevada,Laneburg,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,135,87,48,0,0
+Nevada,Rosston Rural,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,74,57,17,0,0
+Nevada,Rosston City,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,82,73,6,3,0
+Nevada,Willisville City/Rural,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,141,113,28,0,0
+Nevada,"Wards 1,2,3,4",Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,573,278,267,28,0
+Nevada,West Rural,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,224,116,108,0,0
+Nevada,East Rural,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,319,150,169,0,0
+Nevada,Emmet Rural,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,56,41,15,0,0
+Nevada,Bluff City City/Rural,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,22,12,5,5,0
+Nevada,Bodcaw,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,43,34,4,5,0
+Nevada,Georgia,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,9,6,3,0,0
+Nevada,Emmet City,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,13,5,5,3,0
+Nevada,Laneburg,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,25,17,8,0,0
+Nevada,Rosston Rural,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,25,19,6,0,0
+Nevada,Rosston City,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,12,11,1,0,0
+Nevada,Willisville City/Rural,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,29,19,10,0,0
+Nevada,"Wards 1,2,3,4",Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,150,49,89,12,0
+Nevada,West Rural,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,34,18,16,0,0
+Nevada,East Rural,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,34,14,20,0,0
+Nevada,Emmet Rural,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,8,3,5,0,0
+Nevada,Bluff City City/Rural,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,62,46,10,6,0
+Nevada,Bodcaw,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,125,76,36,13,0
+Nevada,Georgia,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,42,29,13,0,0
+Nevada,Emmet City,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,78,54,17,7,0
+Nevada,Laneburg,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,73,46,27,0,0
+Nevada,Rosston Rural,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,66,51,15,0,0
+Nevada,Rosston City,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,68,62,4,2,0
+Nevada,Willisville City/Rural,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,87,67,20,0,0
+Nevada,"Wards 1,2,3,4",Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,487,220,241,26,0
+Nevada,West Rural,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,147,77,70,0,0
+Nevada,East Rural,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,210,91,119,0,0
+Nevada,Emmet Rural,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,41,27,14,0,0
+Nevada,Bluff City City/Rural,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,29,18,9,2,0
+Nevada,Bodcaw,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,166,129,31,6,0
+Nevada,Georgia,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,30,22,8,0,0
+Nevada,Emmet City,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,45,27,12,6,0
+Nevada,Laneburg,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,86,58,28,0,0
+Nevada,Rosston Rural,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,34,25,9,0,0
+Nevada,Rosston City,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,26,22,3,1,0
+Nevada,Willisville City/Rural,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,84,66,18,0,0
+Nevada,"Wards 1,2,3,4",Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,238,111,114,13,0
+Nevada,West Rural,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,111,57,54,0,0
+Nevada,East Rural,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,138,71,67,0,0
+Nevada,Emmet Rural,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,23,17,6,0,0
+Nevada,Bluff City City/Rural,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,66,46,12,8,0
+Nevada,Bodcaw,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,154,94,46,14,0
+Nevada,Georgia,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,44,34,10,0,0
+Nevada,Emmet City,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,81,60,14,7,0
+Nevada,Laneburg,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,101,66,35,0,0
+Nevada,Rosston Rural,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,80,64,16,0,0
+Nevada,Rosston City,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,87,79,5,3,0
+Nevada,Willisville City/Rural,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,114,86,28,0,0
+Nevada,"Wards 1,2,3,4",Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,579,263,283,33,0
+Nevada,West Rural,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,160,77,83,0,0
+Nevada,East Rural,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,203,94,109,0,0
+Nevada,Emmet Rural,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,52,33,19,0,0
+Nevada,Bluff City City/Rural,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,25,18,7,0,0
+Nevada,Bodcaw,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,139,112,21,6,0
+Nevada,Georgia,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,28,18,10,0,0
+Nevada,Emmet City,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,44,21,17,6,0
+Nevada,Laneburg,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,62,41,21,0,0
+Nevada,Rosston Rural,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,20,12,8,0,0
+Nevada,Rosston City,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,8,6,2,0,0
+Nevada,Willisville City/Rural,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,55,46,9,0,0
+Nevada,"Wards 1,2,3,4",Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,154,69,77,8,0
+Nevada,West Rural,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,95,57,38,0,0
+Nevada,East Rural,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,149,70,79,0,0
+Nevada,Emmet Rural,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,12,11,1,0,0

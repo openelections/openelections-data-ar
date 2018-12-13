@@ -1,0 +1,617 @@
+county,precinct,office,district,party,candidate,votes,election_day,early_vote,absentee,provisional
+Sevier,Bear Creek West,U.S. Congress District 4,,Lib,Tom Canada,12,9,2,1,0
+Sevier,Bear Creek East,U.S. Congress District 4,,Lib,Tom Canada,3,2,1,0,0
+Sevier,Saline West,U.S. Congress District 4,,Lib,Tom Canada,0,0,0,0,0
+Sevier,Clear Creek 1,U.S. Congress District 4,,Lib,Tom Canada,5,3,0,2,0
+Sevier,Clear Creek 2,U.S. Congress District 4,,Lib,Tom Canada,14,8,6,0,0
+Sevier,Red Colony,U.S. Congress District 4,,Lib,Tom Canada,6,4,2,0,0
+Sevier,Saline East,U.S. Congress District 4,,Lib,Tom Canada,0,0,0,0,0
+Sevier,De Queen North Central,U.S. Congress District 4,,Lib,Tom Canada,4,2,2,0,0
+Sevier,Mineral,U.S. Congress District 4,,Lib,Tom Canada,9,8,1,0,0
+Sevier,Jefferson,U.S. Congress District 4,,Lib,Tom Canada,1,1,0,0,0
+Sevier,Ben Lomond,U.S. Congress District 4,,Lib,Tom Canada,3,3,0,0,0
+Sevier,Paraclifta,U.S. Congress District 4,,Lib,Tom Canada,0,0,0,0,0
+Sevier,Washington,U.S. Congress District 4,,Lib,Tom Canada,1,1,0,0,0
+Sevier,De Queen Southwest,U.S. Congress District 4,,Lib,Tom Canada,9,6,3,0,0
+Sevier,DQ Northwest,U.S. Congress District 4,,Lib,Tom Canada,5,5,0,0,0
+Sevier,Monroe,U.S. Congress District 4,,Lib,Tom Canada,8,6,2,0,0
+Sevier,De Queen East,U.S. Congress District 4,,Lib,Tom Canada,6,0,6,0,0
+Sevier,Bear Creek West,U.S. Congress District 4,,Dem,Hayden Catherine Shamel,75,49,24,2,0
+Sevier,Bear Creek East,U.S. Congress District 4,,Dem,Hayden Catherine Shamel,15,7,8,0,0
+Sevier,Saline West,U.S. Congress District 4,,Dem,Hayden Catherine Shamel,6,2,2,2,0
+Sevier,Clear Creek 1,U.S. Congress District 4,,Dem,Hayden Catherine Shamel,15,11,4,0,0
+Sevier,Clear Creek 2,U.S. Congress District 4,,Dem,Hayden Catherine Shamel,98,64,30,4,0
+Sevier,Red Colony,U.S. Congress District 4,,Dem,Hayden Catherine Shamel,63,48,15,0,0
+Sevier,Saline East,U.S. Congress District 4,,Dem,Hayden Catherine Shamel,5,5,0,0,0
+Sevier,De Queen North Central,U.S. Congress District 4,,Dem,Hayden Catherine Shamel,47,28,17,2,0
+Sevier,Mineral,U.S. Congress District 4,,Dem,Hayden Catherine Shamel,45,29,14,2,0
+Sevier,Jefferson,U.S. Congress District 4,,Dem,Hayden Catherine Shamel,4,1,3,0,0
+Sevier,Ben Lomond,U.S. Congress District 4,,Dem,Hayden Catherine Shamel,14,14,0,0,0
+Sevier,Paraclifta,U.S. Congress District 4,,Dem,Hayden Catherine Shamel,23,19,4,0,0
+Sevier,Washington,U.S. Congress District 4,,Dem,Hayden Catherine Shamel,43,41,2,0,0
+Sevier,De Queen Southwest,U.S. Congress District 4,,Dem,Hayden Catherine Shamel,110,61,49,0,0
+Sevier,DQ Northwest,U.S. Congress District 4,,Dem,Hayden Catherine Shamel,75,44,29,2,0
+Sevier,Monroe,U.S. Congress District 4,,Dem,Hayden Catherine Shamel,45,23,22,0,0
+Sevier,De Queen East,U.S. Congress District 4,,Dem,Hayden Catherine Shamel,51,29,16,6,0
+Sevier,Bear Creek West,U.S. Congress District 4,,Rep,Representative Bruce Westerman,289,168,121,0,0
+Sevier,Bear Creek East,U.S. Congress District 4,,Rep,Representative Bruce Westerman,121,79,39,3,0
+Sevier,Saline West,U.S. Congress District 4,,Rep,Representative Bruce Westerman,26,17,9,0,0
+Sevier,Clear Creek 1,U.S. Congress District 4,,Rep,Representative Bruce Westerman,139,102,33,4,0
+Sevier,Clear Creek 2,U.S. Congress District 4,,Rep,Representative Bruce Westerman,335,216,109,10,0
+Sevier,Red Colony,U.S. Congress District 4,,Rep,Representative Bruce Westerman,298,241,57,0,0
+Sevier,Saline East,U.S. Congress District 4,,Rep,Representative Bruce Westerman,33,24,9,0,0
+Sevier,De Queen North Central,U.S. Congress District 4,,Rep,Representative Bruce Westerman,90,48,39,3,0
+Sevier,Mineral,U.S. Congress District 4,,Rep,Representative Bruce Westerman,201,113,84,4,0
+Sevier,Jefferson,U.S. Congress District 4,,Rep,Representative Bruce Westerman,31,17,14,0,0
+Sevier,Ben Lomond,U.S. Congress District 4,,Rep,Representative Bruce Westerman,53,51,2,0,0
+Sevier,Paraclifta,U.S. Congress District 4,,Rep,Representative Bruce Westerman,102,79,21,2,0
+Sevier,Washington,U.S. Congress District 4,,Rep,Representative Bruce Westerman,73,58,15,0,0
+Sevier,De Queen Southwest,U.S. Congress District 4,,Rep,Representative Bruce Westerman,101,59,40,2,0
+Sevier,DQ Northwest,U.S. Congress District 4,,Rep,Representative Bruce Westerman,203,125,74,4,0
+Sevier,Monroe,U.S. Congress District 4,,Rep,Representative Bruce Westerman,203,121,80,2,0
+Sevier,De Queen East,U.S. Congress District 4,,Rep,Representative Bruce Westerman,74,43,31,0,0
+Sevier,Bear Creek West,U.S. Congress District 4,,NON,Write-In,0,0,0,0,0
+Sevier,Bear Creek East,U.S. Congress District 4,,NON,Write-In,0,0,0,0,0
+Sevier,Saline West,U.S. Congress District 4,,NON,Write-In,0,0,0,0,0
+Sevier,Clear Creek 1,U.S. Congress District 4,,NON,Write-In,0,0,0,0,0
+Sevier,Clear Creek 2,U.S. Congress District 4,,NON,Write-In,0,0,0,0,0
+Sevier,Red Colony,U.S. Congress District 4,,NON,Write-In,0,0,0,0,0
+Sevier,Saline East,U.S. Congress District 4,,NON,Write-In,0,0,0,0,0
+Sevier,De Queen North Central,U.S. Congress District 4,,NON,Write-In,0,0,0,0,0
+Sevier,Mineral,U.S. Congress District 4,,NON,Write-In,0,0,0,0,0
+Sevier,Jefferson,U.S. Congress District 4,,NON,Write-In,0,0,0,0,0
+Sevier,Ben Lomond,U.S. Congress District 4,,NON,Write-In,0,0,0,0,0
+Sevier,Paraclifta,U.S. Congress District 4,,NON,Write-In,0,0,0,0,0
+Sevier,Washington,U.S. Congress District 4,,NON,Write-In,0,0,0,0,0
+Sevier,De Queen Southwest,U.S. Congress District 4,,NON,Write-In,0,0,0,0,0
+Sevier,DQ Northwest,U.S. Congress District 4,,NON,Write-In,0,0,0,0,0
+Sevier,Monroe,U.S. Congress District 4,,NON,Write-In,0,0,0,0,0
+Sevier,De Queen East,U.S. Congress District 4,,NON,Write-In,0,0,0,0,0
+Sevier,Bear Creek West,Governor,,Rep,Governor Asa Hutchinson,299,176,122,1,0
+Sevier,Bear Creek East,Governor,,Rep,Governor Asa Hutchinson,120,79,38,3,0
+Sevier,Saline West,Governor,,Rep,Governor Asa Hutchinson,26,17,9,0,0
+Sevier,Clear Creek 1,Governor,,Rep,Governor Asa Hutchinson,133,96,33,4,0
+Sevier,Clear Creek 2,Governor,,Rep,Governor Asa Hutchinson,339,220,109,10,0
+Sevier,Red Colony,Governor,,Rep,Governor Asa Hutchinson,305,241,64,0,0
+Sevier,Saline East,Governor,,Rep,Governor Asa Hutchinson,34,25,9,0,0
+Sevier,De Queen North Central,Governor,,Rep,Governor Asa Hutchinson,98,53,41,4,0
+Sevier,Mineral,Governor,,Rep,Governor Asa Hutchinson,195,107,83,5,0
+Sevier,Jefferson,Governor,,Rep,Governor Asa Hutchinson,29,15,14,0,0
+Sevier,Ben Lomond,Governor,,Rep,Governor Asa Hutchinson,57,55,2,0,0
+Sevier,Paraclifta,Governor,,Rep,Governor Asa Hutchinson,102,81,19,2,0
+Sevier,Washington,Governor,,Rep,Governor Asa Hutchinson,78,63,15,0,0
+Sevier,De Queen Southwest,Governor,,Rep,Governor Asa Hutchinson,106,60,44,2,0
+Sevier,DQ Northwest,Governor,,Rep,Governor Asa Hutchinson,213,135,74,4,0
+Sevier,Monroe,Governor,,Rep,Governor Asa Hutchinson,205,123,80,2,0
+Sevier,De Queen East,Governor,,Rep,Governor Asa Hutchinson,73,39,34,0,0
+Sevier,Bear Creek West,Governor,,Dem,Jared K. Henderson,64,42,20,2,0
+Sevier,Bear Creek East,Governor,,Dem,Jared K. Henderson,17,9,8,0,0
+Sevier,Saline West,Governor,,Dem,Jared K. Henderson,6,2,2,2,0
+Sevier,Clear Creek 1,Governor,,Dem,Jared K. Henderson,17,13,4,0,0
+Sevier,Clear Creek 2,Governor,,Dem,Jared K. Henderson,91,59,28,4,0
+Sevier,Red Colony,Governor,,Dem,Jared K. Henderson,56,46,10,0,0
+Sevier,Saline East,Governor,,Dem,Jared K. Henderson,4,4,0,0,0
+Sevier,De Queen North Central,Governor,,Dem,Jared K. Henderson,45,25,19,1,0
+Sevier,Mineral,Governor,,Dem,Jared K. Henderson,49,32,16,1,0
+Sevier,Jefferson,Governor,,Dem,Jared K. Henderson,6,3,3,0,0
+Sevier,Ben Lomond,Governor,,Dem,Jared K. Henderson,12,12,0,0,0
+Sevier,Paraclifta,Governor,,Dem,Jared K. Henderson,22,17,5,0,0
+Sevier,Washington,Governor,,Dem,Jared K. Henderson,39,37,2,0,0
+Sevier,De Queen Southwest,Governor,,Dem,Jared K. Henderson,98,53,45,0,0
+Sevier,DQ Northwest,Governor,,Dem,Jared K. Henderson,64,34,28,2,0
+Sevier,Monroe,Governor,,Dem,Jared K. Henderson,43,22,21,0,0
+Sevier,De Queen East,Governor,,Dem,Jared K. Henderson,49,28,15,6,0
+Sevier,Bear Creek West,Governor,,Lib,Mark West,12,7,5,0,0
+Sevier,Bear Creek East,Governor,,Lib,Mark West,3,1,2,0,0
+Sevier,Saline West,Governor,,Lib,Mark West,0,0,0,0,0
+Sevier,Clear Creek 1,Governor,,Lib,Mark West,10,8,0,2,0
+Sevier,Clear Creek 2,Governor,,Lib,Mark West,21,10,11,0,0
+Sevier,Red Colony,Governor,,Lib,Mark West,6,5,1,0,0
+Sevier,Saline East,Governor,,Lib,Mark West,0,0,0,0,0
+Sevier,De Queen North Central,Governor,,Lib,Mark West,2,2,0,0,0
+Sevier,Mineral,Governor,,Lib,Mark West,11,11,0,0,0
+Sevier,Jefferson,Governor,,Lib,Mark West,1,1,0,0,0
+Sevier,Ben Lomond,Governor,,Lib,Mark West,1,1,0,0,0
+Sevier,Paraclifta,Governor,,Lib,Mark West,2,1,1,0,0
+Sevier,Washington,Governor,,Lib,Mark West,1,1,0,0,0
+Sevier,De Queen Southwest,Governor,,Lib,Mark West,15,12,3,0,0
+Sevier,DQ Northwest,Governor,,Lib,Mark West,8,6,2,0,0
+Sevier,Monroe,Governor,,Lib,Mark West,6,4,2,0,0
+Sevier,De Queen East,Governor,,Lib,Mark West,9,5,4,0,0
+Sevier,Bear Creek West,Lieutenant Governor,,Lib,Frank Gilbert,11,6,5,0,0
+Sevier,Bear Creek East,Lieutenant Governor,,Lib,Frank Gilbert,4,3,1,0,0
+Sevier,Saline West,Lieutenant Governor,,Lib,Frank Gilbert,0,0,0,0,0
+Sevier,Clear Creek 1,Lieutenant Governor,,Lib,Frank Gilbert,9,7,0,2,0
+Sevier,Clear Creek 2,Lieutenant Governor,,Lib,Frank Gilbert,17,9,8,0,0
+Sevier,Red Colony,Lieutenant Governor,,Lib,Frank Gilbert,4,3,1,0,0
+Sevier,Saline East,Lieutenant Governor,,Lib,Frank Gilbert,0,0,0,0,0
+Sevier,De Queen North Central,Lieutenant Governor,,Lib,Frank Gilbert,3,2,1,0,0
+Sevier,Mineral,Lieutenant Governor,,Lib,Frank Gilbert,14,13,1,0,0
+Sevier,Jefferson,Lieutenant Governor,,Lib,Frank Gilbert,1,1,0,0,0
+Sevier,Ben Lomond,Lieutenant Governor,,Lib,Frank Gilbert,1,1,0,0,0
+Sevier,Paraclifta,Lieutenant Governor,,Lib,Frank Gilbert,3,3,0,0,0
+Sevier,Washington,Lieutenant Governor,,Lib,Frank Gilbert,1,1,0,0,0
+Sevier,De Queen Southwest,Lieutenant Governor,,Lib,Frank Gilbert,11,8,3,0,0
+Sevier,DQ Northwest,Lieutenant Governor,,Lib,Frank Gilbert,6,5,1,0,0
+Sevier,Monroe,Lieutenant Governor,,Lib,Frank Gilbert,5,3,2,0,0
+Sevier,De Queen East,Lieutenant Governor,,Lib,Frank Gilbert,8,3,5,0,0
+Sevier,Bear Creek West,Lieutenant Governor,,Dem,Anthony Bland,62,43,17,2,0
+Sevier,Bear Creek East,Lieutenant Governor,,Dem,Anthony Bland,17,11,6,0,0
+Sevier,Saline West,Lieutenant Governor,,Dem,Anthony Bland,6,2,2,2,0
+Sevier,Clear Creek 1,Lieutenant Governor,,Dem,Anthony Bland,16,11,5,0,0
+Sevier,Clear Creek 2,Lieutenant Governor,,Dem,Anthony Bland,102,63,35,4,0
+Sevier,Red Colony,Lieutenant Governor,,Dem,Anthony Bland,56,45,11,0,0
+Sevier,Saline East,Lieutenant Governor,,Dem,Anthony Bland,5,5,0,0,0
+Sevier,De Queen North Central,Lieutenant Governor,,Dem,Anthony Bland,55,33,20,2,0
+Sevier,Mineral,Lieutenant Governor,,Dem,Anthony Bland,43,29,11,3,0
+Sevier,Jefferson,Lieutenant Governor,,Dem,Anthony Bland,3,1,2,0,0
+Sevier,Ben Lomond,Lieutenant Governor,,Dem,Anthony Bland,14,14,0,0,0
+Sevier,Paraclifta,Lieutenant Governor,,Dem,Anthony Bland,23,17,6,0,0
+Sevier,Washington,Lieutenant Governor,,Dem,Anthony Bland,42,40,2,0,0
+Sevier,De Queen Southwest,Lieutenant Governor,,Dem,Anthony Bland,102,57,45,0,0
+Sevier,DQ Northwest,Lieutenant Governor,,Dem,Anthony Bland,74,42,29,3,0
+Sevier,Monroe,Lieutenant Governor,,Dem,Anthony Bland,47,26,21,0,0
+Sevier,De Queen East,Lieutenant Governor,,Dem,Anthony Bland,46,27,15,4,0
+Sevier,Bear Creek West,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,303,176,126,1,0
+Sevier,Bear Creek East,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,118,75,40,3,0
+Sevier,Saline West,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,26,17,9,0,0
+Sevier,Clear Creek 1,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,136,100,32,4,0
+Sevier,Clear Creek 2,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,329,218,102,9,0
+Sevier,Red Colony,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,309,247,62,0,0
+Sevier,Saline East,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,33,24,9,0,0
+Sevier,De Queen North Central,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,86,44,39,3,0
+Sevier,Mineral,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,198,108,87,3,0
+Sevier,Jefferson,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,32,17,15,0,0
+Sevier,Ben Lomond,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,54,52,2,0,0
+Sevier,Paraclifta,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,101,79,20,2,0
+Sevier,Washington,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,73,58,15,0,0
+Sevier,De Queen Southwest,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,107,61,44,2,0
+Sevier,DQ Northwest,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,204,128,73,3,0
+Sevier,Monroe,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,205,122,81,2,0
+Sevier,De Queen East,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,76,42,32,2,0
+Sevier,Bear Creek West,Attorney General,,Dem,Mike Lee,73,48,23,2,0
+Sevier,Bear Creek East,Attorney General,,Dem,Mike Lee,19,11,8,0,0
+Sevier,Saline West,Attorney General,,Dem,Mike Lee,6,2,2,2,0
+Sevier,Clear Creek 1,Attorney General,,Dem,Mike Lee,17,13,4,0,0
+Sevier,Clear Creek 2,Attorney General,,Dem,Mike Lee,104,62,38,4,0
+Sevier,Red Colony,Attorney General,,Dem,Mike Lee,71,56,15,0,0
+Sevier,Saline East,Attorney General,,Dem,Mike Lee,6,6,0,0,0
+Sevier,De Queen North Central,Attorney General,,Dem,Mike Lee,54,33,19,2,0
+Sevier,Mineral,Attorney General,,Dem,Mike Lee,49,32,14,3,0
+Sevier,Jefferson,Attorney General,,Dem,Mike Lee,7,2,5,0,0
+Sevier,Ben Lomond,Attorney General,,Dem,Mike Lee,19,19,0,0,0
+Sevier,Paraclifta,Attorney General,,Dem,Mike Lee,24,19,5,0,0
+Sevier,Washington,Attorney General,,Dem,Mike Lee,45,42,3,0,0
+Sevier,De Queen Southwest,Attorney General,,Dem,Mike Lee,107,60,47,0,0
+Sevier,DQ Northwest,Attorney General,,Dem,Mike Lee,78,47,29,2,0
+Sevier,Monroe,Attorney General,,Dem,Mike Lee,52,25,27,0,0
+Sevier,De Queen East,Attorney General,,Dem,Mike Lee,50,28,16,6,0
+Sevier,Bear Creek West,Attorney General,,Lib,Kerry Hicks,10,7,3,0,0
+Sevier,Bear Creek East,Attorney General,,Lib,Kerry Hicks,4,2,2,0,0
+Sevier,Saline West,Attorney General,,Lib,Kerry Hicks,0,0,0,0,0
+Sevier,Clear Creek 1,Attorney General,,Lib,Kerry Hicks,6,4,0,2,0
+Sevier,Clear Creek 2,Attorney General,,Lib,Kerry Hicks,16,9,7,0,0
+Sevier,Red Colony,Attorney General,,Lib,Kerry Hicks,3,3,0,0,0
+Sevier,Saline East,Attorney General,,Lib,Kerry Hicks,0,0,0,0,0
+Sevier,De Queen North Central,Attorney General,,Lib,Kerry Hicks,5,3,2,0,0
+Sevier,Mineral,Attorney General,,Lib,Kerry Hicks,9,9,0,0,0
+Sevier,Jefferson,Attorney General,,Lib,Kerry Hicks,0,0,0,0,0
+Sevier,Ben Lomond,Attorney General,,Lib,Kerry Hicks,1,1,0,0,0
+Sevier,Paraclifta,Attorney General,,Lib,Kerry Hicks,1,1,0,0,0
+Sevier,Washington,Attorney General,,Lib,Kerry Hicks,1,1,0,0,0
+Sevier,De Queen Southwest,Attorney General,,Lib,Kerry Hicks,12,9,3,0,0
+Sevier,DQ Northwest,Attorney General,,Lib,Kerry Hicks,11,8,3,0,0
+Sevier,Monroe,Attorney General,,Lib,Kerry Hicks,6,4,2,0,0
+Sevier,De Queen East,Attorney General,,Lib,Kerry Hicks,4,1,3,0,0
+Sevier,Bear Creek West,Attorney General,,Rep,Leslie Rutledge,293,172,120,1,0
+Sevier,Bear Creek East,Attorney General,,Rep,Leslie Rutledge,117,76,38,3,0
+Sevier,Saline West,Attorney General,,Rep,Leslie Rutledge,26,17,9,0,0
+Sevier,Clear Creek 1,Attorney General,,Rep,Leslie Rutledge,137,100,33,4,0
+Sevier,Clear Creek 2,Attorney General,,Rep,Leslie Rutledge,330,218,103,9,0
+Sevier,Red Colony,Attorney General,,Rep,Leslie Rutledge,295,235,60,0,0
+Sevier,Saline East,Attorney General,,Rep,Leslie Rutledge,32,23,9,0,0
+Sevier,De Queen North Central,Attorney General,,Rep,Leslie Rutledge,85,43,39,3,0
+Sevier,Mineral,Attorney General,,Rep,Leslie Rutledge,196,109,84,3,0
+Sevier,Jefferson,Attorney General,,Rep,Leslie Rutledge,29,17,12,0,0
+Sevier,Ben Lomond,Attorney General,,Rep,Leslie Rutledge,50,48,2,0,0
+Sevier,Paraclifta,Attorney General,,Rep,Leslie Rutledge,103,80,21,2,0
+Sevier,Washington,Attorney General,,Rep,Leslie Rutledge,72,58,14,0,0
+Sevier,De Queen Southwest,Attorney General,,Rep,Leslie Rutledge,99,56,41,2,0
+Sevier,DQ Northwest,Attorney General,,Rep,Leslie Rutledge,196,120,72,4,0
+Sevier,Monroe,Attorney General,,Rep,Leslie Rutledge,200,122,76,2,0
+Sevier,De Queen East,Attorney General,,Rep,Leslie Rutledge,78,43,35,0,0
+Sevier,Bear Creek West,Secretary of State,,Rep,John Thurston Commissioner of State Lands,287,168,118,1,0
+Sevier,Bear Creek East,Secretary of State,,Rep,John Thurston Commissioner of State Lands,116,75,38,3,0
+Sevier,Saline West,Secretary of State,,Rep,John Thurston Commissioner of State Lands,26,17,9,0,0
+Sevier,Clear Creek 1,Secretary of State,,Rep,John Thurston Commissioner of State Lands,139,100,33,6,0
+Sevier,Clear Creek 2,Secretary of State,,Rep,John Thurston Commissioner of State Lands,331,215,107,9,0
+Sevier,Red Colony,Secretary of State,,Rep,John Thurston Commissioner of State Lands,296,238,58,0,0
+Sevier,Saline East,Secretary of State,,Rep,John Thurston Commissioner of State Lands,33,24,9,0,0
+Sevier,De Queen North Central,Secretary of State,,Rep,John Thurston Commissioner of State Lands,86,44,39,3,0
+Sevier,Mineral,Secretary of State,,Rep,John Thurston Commissioner of State Lands,201,113,86,2,0
+Sevier,Jefferson,Secretary of State,,Rep,John Thurston Commissioner of State Lands,31,18,13,0,0
+Sevier,Ben Lomond,Secretary of State,,Rep,John Thurston Commissioner of State Lands,53,52,1,0,0
+Sevier,Paraclifta,Secretary of State,,Rep,John Thurston Commissioner of State Lands,103,80,21,2,0
+Sevier,Washington,Secretary of State,,Rep,John Thurston Commissioner of State Lands,73,59,14,0,0
+Sevier,De Queen Southwest,Secretary of State,,Rep,John Thurston Commissioner of State Lands,102,61,39,2,0
+Sevier,DQ Northwest,Secretary of State,,Rep,John Thurston Commissioner of State Lands,197,122,71,4,0
+Sevier,Monroe,Secretary of State,,Rep,John Thurston Commissioner of State Lands,200,120,78,2,0
+Sevier,De Queen East,Secretary of State,,Rep,John Thurston Commissioner of State Lands,73,41,32,0,0
+Sevier,Bear Creek West,Secretary of State,,Lib,Christopher Olson,13,9,4,0,0
+Sevier,Bear Creek East,Secretary of State,,Lib,Christopher Olson,4,3,1,0,0
+Sevier,Saline West,Secretary of State,,Lib,Christopher Olson,0,0,0,0,0
+Sevier,Clear Creek 1,Secretary of State,,Lib,Christopher Olson,3,3,0,0,0
+Sevier,Clear Creek 2,Secretary of State,,Lib,Christopher Olson,18,10,7,1,0
+Sevier,Red Colony,Secretary of State,,Lib,Christopher Olson,3,2,1,0,0
+Sevier,Saline East,Secretary of State,,Lib,Christopher Olson,0,0,0,0,0
+Sevier,De Queen North Central,Secretary of State,,Lib,Christopher Olson,6,4,2,0,0
+Sevier,Mineral,Secretary of State,,Lib,Christopher Olson,7,7,0,0,0
+Sevier,Jefferson,Secretary of State,,Lib,Christopher Olson,2,1,1,0,0
+Sevier,Ben Lomond,Secretary of State,,Lib,Christopher Olson,0,0,0,0,0
+Sevier,Paraclifta,Secretary of State,,Lib,Christopher Olson,1,1,0,0,0
+Sevier,Washington,Secretary of State,,Lib,Christopher Olson,2,2,0,0,0
+Sevier,De Queen Southwest,Secretary of State,,Lib,Christopher Olson,8,6,2,0,0
+Sevier,DQ Northwest,Secretary of State,,Lib,Christopher Olson,10,8,2,0,0
+Sevier,Monroe,Secretary of State,,Lib,Christopher Olson,5,2,3,0,0
+Sevier,De Queen East,Secretary of State,,Lib,Christopher Olson,4,0,4,0,0
+Sevier,Bear Creek West,Secretary of State,,Dem,Susan Inman,75,48,25,2,0
+Sevier,Bear Creek East,Secretary of State,,Dem,Susan Inman,19,10,9,0,0
+Sevier,Saline West,Secretary of State,,Dem,Susan Inman,6,2,2,2,0
+Sevier,Clear Creek 1,Secretary of State,,Dem,Susan Inman,18,14,4,0,0
+Sevier,Clear Creek 2,Secretary of State,,Dem,Susan Inman,102,66,32,4,0
+Sevier,Red Colony,Secretary of State,,Dem,Susan Inman,70,54,16,0,0
+Sevier,Saline East,Secretary of State,,Dem,Susan Inman,5,5,0,0,0
+Sevier,De Queen North Central,Secretary of State,,Dem,Susan Inman,51,31,18,2,0
+Sevier,Mineral,Secretary of State,,Dem,Susan Inman,47,31,12,4,0
+Sevier,Jefferson,Secretary of State,,Dem,Susan Inman,3,0,3,0,0
+Sevier,Ben Lomond,Secretary of State,,Dem,Susan Inman,16,16,0,0,0
+Sevier,Paraclifta,Secretary of State,,Dem,Susan Inman,24,19,5,0,0
+Sevier,Washington,Secretary of State,,Dem,Susan Inman,42,39,3,0,0
+Sevier,De Queen Southwest,Secretary of State,,Dem,Susan Inman,109,59,50,0,0
+Sevier,DQ Northwest,Secretary of State,,Dem,Susan Inman,77,44,31,2,0
+Sevier,Monroe,Secretary of State,,Dem,Susan Inman,52,29,23,0,0
+Sevier,De Queen East,Secretary of State,,Dem,Susan Inman,52,29,17,6,0
+Sevier,Bear Creek West,State Treasurer,,Lib,Ashley Ewald,55,34,19,2,0
+Sevier,Bear Creek East,State Treasurer,,Lib,Ashley Ewald,12,6,6,0,0
+Sevier,Saline West,State Treasurer,,Lib,Ashley Ewald,6,2,2,2,0
+Sevier,Clear Creek 1,State Treasurer,,Lib,Ashley Ewald,19,15,2,2,0
+Sevier,Clear Creek 2,State Treasurer,,Lib,Ashley Ewald,89,56,31,2,0
+Sevier,Red Colony,State Treasurer,,Lib,Ashley Ewald,44,33,11,0,0
+Sevier,Saline East,State Treasurer,,Lib,Ashley Ewald,3,3,0,0,0
+Sevier,De Queen North Central,State Treasurer,,Lib,Ashley Ewald,40,25,15,0,0
+Sevier,Mineral,State Treasurer,,Lib,Ashley Ewald,41,29,11,1,0
+Sevier,Jefferson,State Treasurer,,Lib,Ashley Ewald,3,1,2,0,0
+Sevier,Ben Lomond,State Treasurer,,Lib,Ashley Ewald,12,12,0,0,0
+Sevier,Paraclifta,State Treasurer,,Lib,Ashley Ewald,20,17,3,0,0
+Sevier,Washington,State Treasurer,,Lib,Ashley Ewald,38,36,2,0,0
+Sevier,De Queen Southwest,State Treasurer,,Lib,Ashley Ewald,87,44,43,0,0
+Sevier,DQ Northwest,State Treasurer,,Lib,Ashley Ewald,45,22,23,0,0
+Sevier,Monroe,State Treasurer,,Lib,Ashley Ewald,36,22,14,0,0
+Sevier,De Queen East,State Treasurer,,Lib,Ashley Ewald,42,21,17,4,0
+Sevier,Bear Creek West,State Treasurer,,Rep,Treasurer of State Dennis Milligan,318,189,128,1,0
+Sevier,Bear Creek East,State Treasurer,,Rep,Treasurer of State Dennis Milligan,124,81,40,3,0
+Sevier,Saline West,State Treasurer,,Rep,Treasurer of State Dennis Milligan,26,17,9,0,0
+Sevier,Clear Creek 1,State Treasurer,,Rep,Treasurer of State Dennis Milligan,141,102,35,4,0
+Sevier,Clear Creek 2,State Treasurer,,Rep,Treasurer of State Dennis Milligan,356,230,115,11,0
+Sevier,Red Colony,State Treasurer,,Rep,Treasurer of State Dennis Milligan,323,259,64,0,0
+Sevier,Saline East,State Treasurer,,Rep,Treasurer of State Dennis Milligan,35,26,9,0,0
+Sevier,De Queen North Central,State Treasurer,,Rep,Treasurer of State Dennis Milligan,103,55,43,5,0
+Sevier,Mineral,State Treasurer,,Rep,Treasurer of State Dennis Milligan,213,122,86,5,0
+Sevier,Jefferson,State Treasurer,,Rep,Treasurer of State Dennis Milligan,33,18,15,0,0
+Sevier,Ben Lomond,State Treasurer,,Rep,Treasurer of State Dennis Milligan,57,55,2,0,0
+Sevier,Paraclifta,State Treasurer,,Rep,Treasurer of State Dennis Milligan,107,83,22,2,0
+Sevier,Washington,State Treasurer,,Rep,Treasurer of State Dennis Milligan,79,64,15,0,0
+Sevier,De Queen Southwest,State Treasurer,,Rep,Treasurer of State Dennis Milligan,122,74,46,2,0
+Sevier,DQ Northwest,State Treasurer,,Rep,Treasurer of State Dennis Milligan,233,148,79,6,0
+Sevier,Monroe,State Treasurer,,Rep,Treasurer of State Dennis Milligan,218,128,88,2,0
+Sevier,De Queen East,State Treasurer,,Rep,Treasurer of State Dennis Milligan,87,50,35,2,0
+Sevier,Bear Creek West,Auditor of State,,Lib,David E. Dinwiddie,65,42,21,2,0
+Sevier,Bear Creek East,Auditor of State,,Lib,David E. Dinwiddie,15,9,6,0,0
+Sevier,Saline West,Auditor of State,,Lib,David E. Dinwiddie,6,2,2,2,0
+Sevier,Clear Creek 1,Auditor of State,,Lib,David E. Dinwiddie,15,13,2,0,0
+Sevier,Clear Creek 2,Auditor of State,,Lib,David E. Dinwiddie,84,56,26,2,0
+Sevier,Red Colony,Auditor of State,,Lib,David E. Dinwiddie,49,38,11,0,0
+Sevier,Saline East,Auditor of State,,Lib,David E. Dinwiddie,2,2,0,0,0
+Sevier,De Queen North Central,Auditor of State,,Lib,David E. Dinwiddie,40,26,14,0,0
+Sevier,Mineral,Auditor of State,,Lib,David E. Dinwiddie,44,31,12,1,0
+Sevier,Jefferson,Auditor of State,,Lib,David E. Dinwiddie,3,1,2,0,0
+Sevier,Ben Lomond,Auditor of State,,Lib,David E. Dinwiddie,12,12,0,0,0
+Sevier,Paraclifta,Auditor of State,,Lib,David E. Dinwiddie,19,16,3,0,0
+Sevier,Washington,Auditor of State,,Lib,David E. Dinwiddie,39,37,2,0,0
+Sevier,De Queen Southwest,Auditor of State,,Lib,David E. Dinwiddie,82,43,39,0,0
+Sevier,DQ Northwest,Auditor of State,,Lib,David E. Dinwiddie,53,25,26,2,0
+Sevier,Monroe,Auditor of State,,Lib,David E. Dinwiddie,36,21,15,0,0
+Sevier,De Queen East,Auditor of State,,Lib,David E. Dinwiddie,42,22,16,4,0
+Sevier,Bear Creek West,Auditor of State,,Rep,Andrea Lea,309,182,126,1,0
+Sevier,Bear Creek East,Auditor of State,,Rep,Andrea Lea,121,78,40,3,0
+Sevier,Saline West,Auditor of State,,Rep,Andrea Lea,26,17,9,0,0
+Sevier,Clear Creek 1,Auditor of State,,Rep,Andrea Lea,145,104,35,6,0
+Sevier,Clear Creek 2,Auditor of State,,Rep,Andrea Lea,359,231,117,11,0
+Sevier,Red Colony,Auditor of State,,Rep,Andrea Lea,318,254,64,0,0
+Sevier,Saline East,Auditor of State,,Rep,Andrea Lea,36,27,9,0,0
+Sevier,De Queen North Central,Auditor of State,,Rep,Andrea Lea,103,53,45,5,0
+Sevier,Mineral,Auditor of State,,Rep,Andrea Lea,211,119,87,5,0
+Sevier,Jefferson,Auditor of State,,Rep,Andrea Lea,32,17,15,0,0
+Sevier,Ben Lomond,Auditor of State,,Rep,Andrea Lea,58,56,2,0,0
+Sevier,Paraclifta,Auditor of State,,Rep,Andrea Lea,107,83,22,2,0
+Sevier,Washington,Auditor of State,,Rep,Andrea Lea,77,62,15,0,0
+Sevier,De Queen Southwest,Auditor of State,,Rep,Andrea Lea,126,74,50,2,0
+Sevier,DQ Northwest,Auditor of State,,Rep,Andrea Lea,227,146,77,4,0
+Sevier,Monroe,Auditor of State,,Rep,Andrea Lea,216,127,87,2,0
+Sevier,De Queen East,Auditor of State,,Rep,Andrea Lea,85,48,35,2,0
+Sevier,Bear Creek West,Commissioner of State Lands,,Lib,T. J. Campbell,9,5,3,1,0
+Sevier,Bear Creek East,Commissioner of State Lands,,Lib,T. J. Campbell,4,4,0,0,0
+Sevier,Saline West,Commissioner of State Lands,,Lib,T. J. Campbell,0,0,0,0,0
+Sevier,Clear Creek 1,Commissioner of State Lands,,Lib,T. J. Campbell,4,4,0,0,0
+Sevier,Clear Creek 2,Commissioner of State Lands,,Lib,T. J. Campbell,20,14,6,0,0
+Sevier,Red Colony,Commissioner of State Lands,,Lib,T. J. Campbell,11,9,2,0,0
+Sevier,Saline East,Commissioner of State Lands,,Lib,T. J. Campbell,0,0,0,0,0
+Sevier,De Queen North Central,Commissioner of State Lands,,Lib,T. J. Campbell,7,3,4,0,0
+Sevier,Mineral,Commissioner of State Lands,,Lib,T. J. Campbell,7,7,0,0,0
+Sevier,Jefferson,Commissioner of State Lands,,Lib,T. J. Campbell,2,1,1,0,0
+Sevier,Ben Lomond,Commissioner of State Lands,,Lib,T. J. Campbell,1,1,0,0,0
+Sevier,Paraclifta,Commissioner of State Lands,,Lib,T. J. Campbell,1,1,0,0,0
+Sevier,Washington,Commissioner of State Lands,,Lib,T. J. Campbell,2,2,0,0,0
+Sevier,De Queen Southwest,Commissioner of State Lands,,Lib,T. J. Campbell,13,9,4,0,0
+Sevier,DQ Northwest,Commissioner of State Lands,,Lib,T. J. Campbell,8,6,2,0,0
+Sevier,Monroe,Commissioner of State Lands,,Lib,T. J. Campbell,6,5,1,0,0
+Sevier,De Queen East,Commissioner of State Lands,,Lib,T. J. Campbell,6,2,4,0,0
+Sevier,Bear Creek West,Commissioner of State Lands,,Rep,Tommy Land,285,168,117,0,0
+Sevier,Bear Creek East,Commissioner of State Lands,,Rep,Tommy Land,107,67,37,3,0
+Sevier,Saline West,Commissioner of State Lands,,Rep,Tommy Land,26,17,9,0,0
+Sevier,Clear Creek 1,Commissioner of State Lands,,Rep,Tommy Land,134,96,32,6,0
+Sevier,Clear Creek 2,Commissioner of State Lands,,Rep,Tommy Land,317,202,106,9,0
+Sevier,Red Colony,Commissioner of State Lands,,Rep,Tommy Land,288,230,58,0,0
+Sevier,Saline East,Commissioner of State Lands,,Rep,Tommy Land,32,23,9,0,0
+Sevier,De Queen North Central,Commissioner of State Lands,,Rep,Tommy Land,79,42,34,3,0
+Sevier,Mineral,Commissioner of State Lands,,Rep,Tommy Land,193,107,84,2,0
+Sevier,Jefferson,Commissioner of State Lands,,Rep,Tommy Land,30,18,12,0,0
+Sevier,Ben Lomond,Commissioner of State Lands,,Rep,Tommy Land,53,51,2,0,0
+Sevier,Paraclifta,Commissioner of State Lands,,Rep,Tommy Land,102,79,21,2,0
+Sevier,Washington,Commissioner of State Lands,,Rep,Tommy Land,70,56,14,0,0
+Sevier,De Queen Southwest,Commissioner of State Lands,,Rep,Tommy Land,100,58,40,2,0
+Sevier,DQ Northwest,Commissioner of State Lands,,Rep,Tommy Land,188,118,66,4,0
+Sevier,Monroe,Commissioner of State Lands,,Rep,Tommy Land,192,111,79,2,0
+Sevier,De Queen East,Commissioner of State Lands,,Rep,Tommy Land,72,39,33,0,0
+Sevier,Bear Creek West,Commissioner of State Lands,,Dem,Larry Williams,81,52,27,2,0
+Sevier,Bear Creek East,Commissioner of State Lands,,Dem,Larry Williams,28,17,11,0,0
+Sevier,Saline West,Commissioner of State Lands,,Dem,Larry Williams,6,2,2,2,0
+Sevier,Clear Creek 1,Commissioner of State Lands,,Dem,Larry Williams,23,18,5,0,0
+Sevier,Clear Creek 2,Commissioner of State Lands,,Dem,Larry Williams,114,74,36,4,0
+Sevier,Red Colony,Commissioner of State Lands,,Dem,Larry Williams,69,54,15,0,0
+Sevier,Saline East,Commissioner of State Lands,,Dem,Larry Williams,6,6,0,0,0
+Sevier,De Queen North Central,Commissioner of State Lands,,Dem,Larry Williams,57,35,20,2,0
+Sevier,Mineral,Commissioner of State Lands,,Dem,Larry Williams,54,36,14,4,0
+Sevier,Jefferson,Commissioner of State Lands,,Dem,Larry Williams,4,0,4,0,0
+Sevier,Ben Lomond,Commissioner of State Lands,,Dem,Larry Williams,16,16,0,0,0
+Sevier,Paraclifta,Commissioner of State Lands,,Dem,Larry Williams,24,20,4,0,0
+Sevier,Washington,Commissioner of State Lands,,Dem,Larry Williams,43,40,3,0,0
+Sevier,De Queen Southwest,Commissioner of State Lands,,Dem,Larry Williams,105,57,48,0,0
+Sevier,DQ Northwest,Commissioner of State Lands,,Dem,Larry Williams,85,48,36,1,0
+Sevier,Monroe,Commissioner of State Lands,,Dem,Larry Williams,59,35,24,0,0
+Sevier,De Queen East,Commissioner of State Lands,,Dem,Larry Williams,52,30,16,6,0
+Sevier,Saline West,State Senate District 10,,Dem,Senator Larry Teague,20,10,8,2,0
+Sevier,Red Colony,State Senate District 10,,Dem,Senator Larry Teague,202,163,39,0,0
+Sevier,Saline East,State Senate District 10,,Dem,Senator Larry Teague,29,24,5,0,0
+Sevier,Jefferson,State Senate District 10,,Dem,Senator Larry Teague,19,12,7,0,0
+Sevier,Saline West,State Senate District 10,,Lib,Bobbi Hicks,7,4,3,0,0
+Sevier,Red Colony,State Senate District 10,,Lib,Bobbi Hicks,84,70,14,0,0
+Sevier,Saline East,State Senate District 10,,Lib,Bobbi Hicks,7,4,3,0,0
+Sevier,Jefferson,State Senate District 10,,Lib,Bobbi Hicks,14,6,8,0,0
+Sevier,Bear Creek West,Circuit Clerk,,Dem,Kathy Smith,336,208,125,3,0
+Sevier,Bear Creek East,Circuit Clerk,,Dem,Kathy Smith,128,81,44,3,0
+Sevier,Saline West,Circuit Clerk,,Dem,Kathy Smith,26,13,11,2,0
+Sevier,Clear Creek 1,Circuit Clerk,,Dem,Kathy Smith,136,98,32,6,0
+Sevier,Clear Creek 2,Circuit Clerk,,Dem,Kathy Smith,397,254,134,9,0
+Sevier,Red Colony,Circuit Clerk,,Dem,Kathy Smith,315,251,64,0,0
+Sevier,Saline East,Circuit Clerk,,Dem,Kathy Smith,32,25,7,0,0
+Sevier,De Queen North Central,Circuit Clerk,,Dem,Kathy Smith,134,76,54,4,0
+Sevier,Mineral,Circuit Clerk,,Dem,Kathy Smith,204,119,81,4,0
+Sevier,Jefferson,Circuit Clerk,,Dem,Kathy Smith,28,17,11,0,0
+Sevier,Ben Lomond,Circuit Clerk,,Dem,Kathy Smith,60,60,0,0,0
+Sevier,Paraclifta,Circuit Clerk,,Dem,Kathy Smith,102,81,21,0,0
+Sevier,Washington,Circuit Clerk,,Dem,Kathy Smith,95,80,15,0,0
+Sevier,De Queen Southwest,Circuit Clerk,,Dem,Kathy Smith,207,120,86,1,0
+Sevier,DQ Northwest,Circuit Clerk,,Dem,Kathy Smith,261,163,92,6,0
+Sevier,Monroe,Circuit Clerk,,Dem,Kathy Smith,238,141,96,1,0
+Sevier,De Queen East,Circuit Clerk,,Dem,Kathy Smith,119,66,47,6,0
+Sevier,Clear Creek 2,Justice of the Peace District 6 DISTRICT 6,,Dem,Victor J. Pulido-Rojas,27,16,10,1,0
+Sevier,De Queen Southwest,Justice of the Peace District 6 DISTRICT 6,,Dem,Victor J. Pulido-Rojas,11,3,8,0,0
+Sevier,Monroe,Justice of the Peace District 6 DISTRICT 6,,Dem,Victor J. Pulido-Rojas,51,25,26,0,0
+Sevier,Clear Creek 2,Justice of the Peace District 6 DISTRICT 6,,Ind,Angie Hughes-Walker,62,45,14,3,0
+Sevier,De Queen Southwest,Justice of the Peace District 6 DISTRICT 6,,Ind,Angie Hughes-Walker,28,16,12,0,0
+Sevier,Monroe,Justice of the Peace District 6 DISTRICT 6,,Ind,Angie Hughes-Walker,202,126,75,1,0
+Sevier,Bear Creek West,State Supreme Court Associate Justice Position 3,,NON,David Sterling,168,103,65,0,0
+Sevier,Bear Creek East,State Supreme Court Associate Justice Position 3,,NON,David Sterling,65,41,22,2,0
+Sevier,Saline West,State Supreme Court Associate Justice Position 3,,NON,David Sterling,11,8,2,1,0
+Sevier,Clear Creek 1,State Supreme Court Associate Justice Position 3,,NON,David Sterling,67,47,17,3,0
+Sevier,Clear Creek 2,State Supreme Court Associate Justice Position 3,,NON,David Sterling,175,111,61,3,0
+Sevier,Red Colony,State Supreme Court Associate Justice Position 3,,NON,David Sterling,142,118,24,0,0
+Sevier,Saline East,State Supreme Court Associate Justice Position 3,,NON,David Sterling,18,18,0,0,0
+Sevier,De Queen North Central,State Supreme Court Associate Justice Position 3,,NON,David Sterling,49,25,23,1,0
+Sevier,Mineral,State Supreme Court Associate Justice Position 3,,NON,David Sterling,116,56,56,4,0
+Sevier,Jefferson,State Supreme Court Associate Justice Position 3,,NON,David Sterling,14,10,4,0,0
+Sevier,Ben Lomond,State Supreme Court Associate Justice Position 3,,NON,David Sterling,24,22,2,0,0
+Sevier,Paraclifta,State Supreme Court Associate Justice Position 3,,NON,David Sterling,52,42,8,2,0
+Sevier,Washington,State Supreme Court Associate Justice Position 3,,NON,David Sterling,56,48,8,0,0
+Sevier,De Queen Southwest,State Supreme Court Associate Justice Position 3,,NON,David Sterling,105,62,43,0,0
+Sevier,DQ Northwest,State Supreme Court Associate Justice Position 3,,NON,David Sterling,112,65,45,2,0
+Sevier,Monroe,State Supreme Court Associate Justice Position 3,,NON,David Sterling,89,56,33,0,0
+Sevier,De Queen East,State Supreme Court Associate Justice Position 3,,NON,David Sterling,60,32,28,0,0
+Sevier,Bear Creek West,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,201,118,81,2,0
+Sevier,Bear Creek East,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,68,43,24,1,0
+Sevier,Saline West,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,18,9,9,0,0
+Sevier,Clear Creek 1,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,85,65,17,3,0
+Sevier,Clear Creek 2,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,250,164,76,10,0
+Sevier,Red Colony,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,213,167,46,0,0
+Sevier,Saline East,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,19,11,8,0,0
+Sevier,De Queen North Central,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,92,52,36,4,0
+Sevier,Mineral,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,119,79,38,2,0
+Sevier,Jefferson,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,21,9,12,0,0
+Sevier,Ben Lomond,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,43,43,0,0,0
+Sevier,Paraclifta,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,69,51,18,0,0
+Sevier,Washington,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,56,48,8,0,0
+Sevier,De Queen Southwest,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,102,59,42,1,0
+Sevier,DQ Northwest,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,165,105,56,4,0
+Sevier,Monroe,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,161,92,68,1,0
+Sevier,De Queen East,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,67,38,23,6,0
+Sevier,De Queen North Central,Mayor City of De Queen DE QUEEN,,Ind,Jeff Brown,95,55,38,2,0
+Sevier,De Queen Southwest,Mayor City of De Queen DE QUEEN,,Ind,Jeff Brown,113,70,42,1,0
+Sevier,DQ Northwest,Mayor City of De Queen DE QUEEN,,Ind,Jeff Brown,241,143,94,4,0
+Sevier,De Queen East,Mayor City of De Queen DE QUEEN,,Ind,Jeff Brown,80,37,38,5,0
+Sevier,De Queen North Central,Mayor City of De Queen DE QUEEN,,Ind,Kelly W. Boyles,30,16,13,1,0
+Sevier,De Queen Southwest,Mayor City of De Queen DE QUEEN,,Ind,Kelly W. Boyles,79,35,44,0,0
+Sevier,DQ Northwest,Mayor City of De Queen DE QUEEN,,Ind,Kelly W. Boyles,26,19,7,0,0
+Sevier,De Queen East,Mayor City of De Queen DE QUEEN,,Ind,Kelly W. Boyles,33,23,9,1,0
+Sevier,De Queen North Central,Mayor City of De Queen DE QUEEN,,Ind,Gerald Burt,19,9,8,2,0
+Sevier,De Queen Southwest,Mayor City of De Queen DE QUEEN,,Ind,Gerald Burt,27,21,6,0,0
+Sevier,DQ Northwest,Mayor City of De Queen DE QUEEN,,Ind,Gerald Burt,16,12,2,2,0
+Sevier,De Queen East,Mayor City of De Queen DE QUEEN,,Ind,Gerald Burt,17,12,5,0,0
+Sevier,De Queen North Central,DE QUEEN ALDERMEN,,NON,FOR four-year terms for Aldermen,94,55,36,3,0
+Sevier,De Queen Southwest,DE QUEEN ALDERMEN,,NON,FOR four-year terms for Aldermen,132,77,54,1,0
+Sevier,DQ Northwest,DE QUEEN ALDERMEN,,NON,FOR four-year terms for Aldermen,188,116,69,3,0
+Sevier,De Queen East,DE QUEEN ALDERMEN,,NON,FOR four-year terms for Aldermen,76,40,34,2,0
+Sevier,De Queen North Central,DE QUEEN ALDERMEN,,NON,AGAINST four-year terms for Alderm,51,25,24,2,0
+Sevier,De Queen Southwest,DE QUEEN ALDERMEN,,NON,AGAINST four-year terms for Alderm,83,45,38,0,0
+Sevier,DQ Northwest,DE QUEEN ALDERMEN,,NON,AGAINST four-year terms for Alderm,94,56,35,3,0
+Sevier,De Queen East,DE QUEEN ALDERMEN,,NON,AGAINST four-year terms for Alderm,55,31,20,4,0
+Sevier,Mineral,Mayor City of Gillham GILLHAM,,Ind,Lester Overturf,23,19,4,0,0
+Sevier,Red Colony,Mayor of Lockesburg LOCKESBURG,,Ind,Danny R. Ruth,126,96,30,0,0
+Sevier,Clear Creek 2,Mayor City of Horatio HORATIO,,Ind,Richard T. Dorsey,144,93,47,4,0
+Sevier,Ben Lomond,Mayor City of Ben Lomond BEN LOMOND,,Ind,"Ronald D. ""Shorty"" Smith",52,50,2,0,0
+Sevier,Bear Creek West,0.25 PERCENT SALES AND USE TAX,,NON,FOR TAX,193,109,83,1,0
+Sevier,Bear Creek East,0.25 PERCENT SALES AND USE TAX,,NON,FOR TAX,56,37,17,2,0
+Sevier,Saline West,0.25 PERCENT SALES AND USE TAX,,NON,FOR TAX,10,4,5,1,0
+Sevier,Clear Creek 1,0.25 PERCENT SALES AND USE TAX,,NON,FOR TAX,75,54,17,4,0
+Sevier,Clear Creek 2,0.25 PERCENT SALES AND USE TAX,,NON,FOR TAX,226,139,79,8,0
+Sevier,Red Colony,0.25 PERCENT SALES AND USE TAX,,NON,FOR TAX,143,113,30,0,0
+Sevier,Saline East,0.25 PERCENT SALES AND USE TAX,,NON,FOR TAX,8,6,2,0,0
+Sevier,De Queen North Central,0.25 PERCENT SALES AND USE TAX,,NON,FOR TAX,82,51,28,3,0
+Sevier,Mineral,0.25 PERCENT SALES AND USE TAX,,NON,FOR TAX,102,57,41,4,0
+Sevier,Jefferson,0.25 PERCENT SALES AND USE TAX,,NON,FOR TAX,17,8,9,0,0
+Sevier,Ben Lomond,0.25 PERCENT SALES AND USE TAX,,NON,FOR TAX,28,28,0,0,0
+Sevier,Paraclifta,0.25 PERCENT SALES AND USE TAX,,NON,FOR TAX,45,31,12,2,0
+Sevier,Washington,0.25 PERCENT SALES AND USE TAX,,NON,FOR TAX,42,31,11,0,0
+Sevier,De Queen Southwest,0.25 PERCENT SALES AND USE TAX,,NON,FOR TAX,104,65,37,2,0
+Sevier,DQ Northwest,0.25 PERCENT SALES AND USE TAX,,NON,FOR TAX,157,91,62,4,0
+Sevier,Monroe,0.25 PERCENT SALES AND USE TAX,,NON,FOR TAX,134,79,54,1,0
+Sevier,De Queen East,0.25 PERCENT SALES AND USE TAX,,NON,FOR TAX,75,37,36,2,0
+Sevier,Bear Creek West,0.25 PERCENT SALES AND USE TAX,,NON,AGAINST TAX,183,116,65,2,0
+Sevier,Bear Creek East,0.25 PERCENT SALES AND USE TAX,,NON,AGAINST TAX,82,51,30,1,0
+Sevier,Saline West,0.25 PERCENT SALES AND USE TAX,,NON,AGAINST TAX,22,15,6,1,0
+Sevier,Clear Creek 1,0.25 PERCENT SALES AND USE TAX,,NON,AGAINST TAX,83,62,20,1,0
+Sevier,Clear Creek 2,0.25 PERCENT SALES AND USE TAX,,NON,AGAINST TAX,225,152,67,6,0
+Sevier,Red Colony,0.25 PERCENT SALES AND USE TAX,,NON,AGAINST TAX,226,181,45,0,0
+Sevier,Saline East,0.25 PERCENT SALES AND USE TAX,,NON,AGAINST TAX,30,23,7,0,0
+Sevier,De Queen North Central,0.25 PERCENT SALES AND USE TAX,,NON,AGAINST TAX,63,29,32,2,0
+Sevier,Mineral,0.25 PERCENT SALES AND USE TAX,,NON,AGAINST TAX,154,94,58,2,0
+Sevier,Jefferson,0.25 PERCENT SALES AND USE TAX,,NON,AGAINST TAX,17,11,6,0,0
+Sevier,Ben Lomond,0.25 PERCENT SALES AND USE TAX,,NON,AGAINST TAX,42,40,2,0,0
+Sevier,Paraclifta,0.25 PERCENT SALES AND USE TAX,,NON,AGAINST TAX,83,69,14,0,0
+Sevier,Washington,0.25 PERCENT SALES AND USE TAX,,NON,AGAINST TAX,76,70,6,0,0
+Sevier,De Queen Southwest,0.25 PERCENT SALES AND USE TAX,,NON,AGAINST TAX,116,60,56,0,0
+Sevier,DQ Northwest,0.25 PERCENT SALES AND USE TAX,,NON,AGAINST TAX,126,82,42,2,0
+Sevier,Monroe,0.25 PERCENT SALES AND USE TAX,,NON,AGAINST TAX,123,71,51,1,0
+Sevier,De Queen East,0.25 PERCENT SALES AND USE TAX,,NON,AGAINST TAX,57,35,18,4,0
+Sevier,Bear Creek West,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,335,204,130,1,0
+Sevier,Bear Creek East,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,124,79,42,3,0
+Sevier,Saline West,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,26,17,9,0,0
+Sevier,Clear Creek 1,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,146,105,35,6,0
+Sevier,Clear Creek 2,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,391,244,133,14,0
+Sevier,Red Colony,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,341,273,68,0,0
+Sevier,Saline East,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,33,24,9,0,0
+Sevier,De Queen North Central,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,119,67,48,4,0
+Sevier,Mineral,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,220,129,86,5,0
+Sevier,Jefferson,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,32,18,14,0,0
+Sevier,Ben Lomond,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,59,57,2,0,0
+Sevier,Paraclifta,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,111,88,21,2,0
+Sevier,Washington,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,109,92,17,0,0
+Sevier,De Queen Southwest,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,180,100,78,2,0
+Sevier,DQ Northwest,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,239,147,87,5,0
+Sevier,Monroe,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,226,136,88,2,0
+Sevier,De Queen East,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,97,55,41,1,0
+Sevier,Bear Creek West,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,41,22,17,2,0
+Sevier,Bear Creek East,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,16,10,6,0,0
+Sevier,Saline West,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,6,2,2,2,0
+Sevier,Clear Creek 1,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,12,10,2,0,0
+Sevier,Clear Creek 2,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,59,45,14,0,0
+Sevier,Red Colony,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,26,21,5,0,0
+Sevier,Saline East,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,5,5,0,0,0
+Sevier,De Queen North Central,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,24,11,12,1,0
+Sevier,Mineral,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,29,17,11,1,0
+Sevier,Jefferson,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,2,0,2,0,0
+Sevier,Ben Lomond,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,10,10,0,0,0
+Sevier,Paraclifta,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,17,12,5,0,0
+Sevier,Washington,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,8,8,0,0,0
+Sevier,De Queen Southwest,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,39,24,15,0,0
+Sevier,DQ Northwest,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,46,28,17,1,0
+Sevier,Monroe,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,32,15,17,0,0
+Sevier,De Queen East,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,33,17,12,4,0
+Sevier,Bear Creek West,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,193,123,70,0,0
+Sevier,Bear Creek East,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,69,45,22,2,0
+Sevier,Saline West,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,12,7,5,0,0
+Sevier,Clear Creek 1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,82,62,18,2,0
+Sevier,Clear Creek 2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,248,164,77,7,0
+Sevier,Red Colony,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,189,152,37,0,0
+Sevier,Saline East,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,15,13,2,0,0
+Sevier,De Queen North Central,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,88,55,31,2,0
+Sevier,Mineral,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,134,82,51,1,0
+Sevier,Jefferson,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,15,8,7,0,0
+Sevier,Ben Lomond,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,39,38,1,0,0
+Sevier,Paraclifta,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,65,48,17,0,0
+Sevier,Washington,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,75,68,7,0,0
+Sevier,De Queen Southwest,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,125,65,59,1,0
+Sevier,DQ Northwest,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,157,97,59,1,0
+Sevier,Monroe,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,143,85,56,2,0
+Sevier,De Queen East,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,65,40,22,3,0
+Sevier,Bear Creek West,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,181,102,76,3,0
+Sevier,Bear Creek East,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,68,42,25,1,0
+Sevier,Saline West,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,20,12,6,2,0
+Sevier,Clear Creek 1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,77,54,19,4,0
+Sevier,Clear Creek 2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,199,123,69,7,0
+Sevier,Red Colony,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,179,142,37,0,0
+Sevier,Saline East,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,23,16,7,0,0
+Sevier,De Queen North Central,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,56,25,28,3,0
+Sevier,Mineral,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,120,69,46,5,0
+Sevier,Jefferson,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,20,11,9,0,0
+Sevier,Ben Lomond,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,30,29,1,0,0
+Sevier,Paraclifta,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,60,51,7,2,0
+Sevier,Washington,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,41,31,10,0,0
+Sevier,De Queen Southwest,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,96,61,34,1,0
+Sevier,DQ Northwest,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,126,77,44,5,0
+Sevier,Monroe,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,112,65,47,0,0
+Sevier,De Queen East,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,66,32,32,2,0
+Sevier,Bear Creek West,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,243,146,95,2,0
+Sevier,Bear Creek East,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,86,52,34,0,0
+Sevier,Saline West,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,16,5,9,2,0
+Sevier,Clear Creek 1,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,78,57,17,4,0
+Sevier,Clear Creek 2,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,268,173,90,5,0
+Sevier,Red Colony,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,224,171,53,0,0
+Sevier,Saline East,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,24,20,4,0,0
+Sevier,De Queen North Central,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,110,66,43,1,0
+Sevier,Mineral,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,161,103,54,4,0
+Sevier,Jefferson,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,25,12,13,0,0
+Sevier,Ben Lomond,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,49,48,1,0,0
+Sevier,Paraclifta,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,75,55,18,2,0
+Sevier,Washington,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,74,66,8,0,0
+Sevier,De Queen Southwest,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,166,93,72,1,0
+Sevier,DQ Northwest,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,187,117,68,2,0
+Sevier,Monroe,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,160,96,63,1,0
+Sevier,De Queen East,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,91,52,34,5,0
+Sevier,Bear Creek West,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,133,79,53,1,0
+Sevier,Bear Creek East,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,53,37,13,3,0
+Sevier,Saline West,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,16,14,2,0,0
+Sevier,Clear Creek 1,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,82,60,20,2,0
+Sevier,Clear Creek 2,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,183,115,59,9,0
+Sevier,Red Colony,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,145,124,21,0,0
+Sevier,Saline East,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,14,9,5,0,0
+Sevier,De Queen North Central,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,35,14,17,4,0
+Sevier,Mineral,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,92,47,43,2,0
+Sevier,Jefferson,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,10,7,3,0,0
+Sevier,Ben Lomond,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,21,20,1,0,0
+Sevier,Paraclifta,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,53,45,8,0,0
+Sevier,Washington,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,41,32,9,0,0
+Sevier,De Queen Southwest,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,56,33,22,1,0
+Sevier,DQ Northwest,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,98,58,36,4,0
+Sevier,Monroe,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,97,54,42,1,0
+Sevier,De Queen East,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,40,20,20,0,0

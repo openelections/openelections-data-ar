@@ -1,0 +1,483 @@
+county,precinct,office,district,party,candidate,votes,election_day,early_vote,absentee
+Pike,Antoine,U.S. Congress District 4,,LIB,Tom Canada,2,2,0,0
+Pike,Daisy,U.S. Congress District 4,,LIB,Tom Canada,3,1,0,2
+Pike,Delight,U.S. Congress District 4,,LIB,Tom Canada,11,8,0,3
+Pike,Glenwood North,U.S. Congress District 4,,LIB,Tom Canada,3,3,0,0
+Pike,Glenwood South,U.S. Congress District 4,,LIB,Tom Canada,12,3,0,9
+Pike,Kirby,U.S. Congress District 4,,LIB,Tom Canada,7,5,0,2
+Pike,Langley/Lodi,U.S. Congress District 4,,LIB,Tom Canada,6,4,0,2
+Pike,Murfreesboro East,U.S. Congress District 4,,LIB,Tom Canada,11,4,0,7
+Pike,Murfreesboro West,U.S. Congress District 4,,LIB,Tom Canada,12,2,2,8
+Pike,Newhope,U.S. Congress District 4,,LIB,Tom Canada,0,0,0,0
+Pike,Pisgah,U.S. Congress District 4,,LIB,Tom Canada,3,1,0,2
+Pike,Antoine,U.S. Congress District 4,,REP,Representative Bruce Westerman,39,31,0,8
+Pike,Daisy,U.S. Congress District 4,,REP,Representative Bruce Westerman,183,85,12,86
+Pike,Delight,U.S. Congress District 4,,REP,Representative Bruce Westerman,282,150,5,127
+Pike,Glenwood North,U.S. Congress District 4,,REP,Representative Bruce Westerman,251,96,10,145
+Pike,Glenwood South,U.S. Congress District 4,,REP,Representative Bruce Westerman,359,132,10,217
+Pike,Kirby,U.S. Congress District 4,,REP,Representative Bruce Westerman,326,207,7,112
+Pike,Langley/Lodi,U.S. Congress District 4,,REP,Representative Bruce Westerman,158,80,13,65
+Pike,Murfreesboro East,U.S. Congress District 4,,REP,Representative Bruce Westerman,354,96,11,247
+Pike,Murfreesboro West,U.S. Congress District 4,,REP,Representative Bruce Westerman,440,119,18,303
+Pike,Newhope,U.S. Congress District 4,,REP,Representative Bruce Westerman,145,84,12,49
+Pike,Pisgah,U.S. Congress District 4,,REP,Representative Bruce Westerman,127,75,0,52
+Pike,Antoine,U.S. Congress District 4,,DEM,Hayden Catherine Shamel,65,46,4,15
+Pike,Daisy,U.S. Congress District 4,,DEM,Hayden Catherine Shamel,25,9,2,14
+Pike,Delight,U.S. Congress District 4,,DEM,Hayden Catherine Shamel,56,26,0,30
+Pike,Glenwood North,U.S. Congress District 4,,DEM,Hayden Catherine Shamel,52,22,3,27
+Pike,Glenwood South,U.S. Congress District 4,,DEM,Hayden Catherine Shamel,72,37,0,35
+Pike,Kirby,U.S. Congress District 4,,DEM,Hayden Catherine Shamel,57,33,4,20
+Pike,Langley/Lodi,U.S. Congress District 4,,DEM,Hayden Catherine Shamel,9,6,1,2
+Pike,Murfreesboro East,U.S. Congress District 4,,DEM,Hayden Catherine Shamel,104,23,2,79
+Pike,Murfreesboro West,U.S. Congress District 4,,DEM,Hayden Catherine Shamel,124,35,7,82
+Pike,Newhope,U.S. Congress District 4,,DEM,Hayden Catherine Shamel,7,3,0,4
+Pike,Pisgah,U.S. Congress District 4,,DEM,Hayden Catherine Shamel,28,13,0,15
+Pike,Antoine,U.S. Congress District 4,,NON,Write-In,0,0,0,0
+Pike,Daisy,U.S. Congress District 4,,NON,Write-In,0,0,0,0
+Pike,Delight,U.S. Congress District 4,,NON,Write-In,1,0,0,1
+Pike,Glenwood North,U.S. Congress District 4,,NON,Write-In,0,0,0,0
+Pike,Glenwood South,U.S. Congress District 4,,NON,Write-In,0,0,0,0
+Pike,Kirby,U.S. Congress District 4,,NON,Write-In,0,0,0,0
+Pike,Langley/Lodi,U.S. Congress District 4,,NON,Write-In,0,0,0,0
+Pike,Murfreesboro East,U.S. Congress District 4,,NON,Write-In,0,0,0,0
+Pike,Murfreesboro West,U.S. Congress District 4,,NON,Write-In,0,0,0,0
+Pike,Newhope,U.S. Congress District 4,,NON,Write-In,0,0,0,0
+Pike,Pisgah,U.S. Congress District 4,,NON,Write-In,0,0,0,0
+Pike,Antoine,Governor,,DEM,Jared K. Henderson,56,41,2,13
+Pike,Daisy,Governor,,DEM,Jared K. Henderson,18,7,1,10
+Pike,Delight,Governor,,DEM,Jared K. Henderson,56,27,0,29
+Pike,Glenwood North,Governor,,DEM,Jared K. Henderson,48,19,4,25
+Pike,Glenwood South,Governor,,DEM,Jared K. Henderson,78,35,0,43
+Pike,Kirby,Governor,,DEM,Jared K. Henderson,53,28,3,22
+Pike,Langley/Lodi,Governor,,DEM,Jared K. Henderson,16,11,1,4
+Pike,Murfreesboro East,Governor,,DEM,Jared K. Henderson,93,18,3,72
+Pike,Murfreesboro West,Governor,,DEM,Jared K. Henderson,111,30,8,73
+Pike,Newhope,Governor,,DEM,Jared K. Henderson,10,3,1,6
+Pike,Pisgah,Governor,,DEM,Jared K. Henderson,24,11,0,13
+Pike,Antoine,Governor,,REP,Asa Hutchinson,49,35,3,11
+Pike,Daisy,Governor,,REP,Asa Hutchinson,186,86,13,87
+Pike,Delight,Governor,,REP,Asa Hutchinson,284,150,5,129
+Pike,Glenwood North,Governor,,REP,Asa Hutchinson,256,101,8,147
+Pike,Glenwood South,Governor,,REP,Asa Hutchinson,349,130,10,209
+Pike,Kirby,Governor,,REP,Asa Hutchinson,335,218,8,109
+Pike,Langley/Lodi,Governor,,REP,Asa Hutchinson,156,80,15,61
+Pike,Murfreesboro East,Governor,,REP,Asa Hutchinson,369,102,10,257
+Pike,Murfreesboro West,Governor,,REP,Asa Hutchinson,452,120,18,314
+Pike,Newhope,Governor,,REP,Asa Hutchinson,139,81,11,47
+Pike,Pisgah,Governor,,REP,Asa Hutchinson,133,77,0,56
+Pike,Antoine,Governor,,LIB,Mark West,2,2,0,0
+Pike,Daisy,Governor,,LIB,Mark West,9,3,0,6
+Pike,Delight,Governor,,LIB,Mark West,13,8,0,5
+Pike,Glenwood North,Governor,,LIB,Mark West,6,3,1,2
+Pike,Glenwood South,Governor,,LIB,Mark West,13,6,1,6
+Pike,Kirby,Governor,,LIB,Mark West,8,5,0,3
+Pike,Langley/Lodi,Governor,,LIB,Mark West,8,3,0,5
+Pike,Murfreesboro East,Governor,,LIB,Mark West,8,4,0,4
+Pike,Murfreesboro West,Governor,,LIB,Mark West,16,5,3,8
+Pike,Newhope,Governor,,LIB,Mark West,2,2,0,0
+Pike,Pisgah,Governor,,LIB,Mark West,2,1,0,1
+Pike,Antoine,Lieutenant Governor,,DEM,Anthony Bland,63,44,4,15
+Pike,Daisy,Lieutenant Governor,,DEM,Anthony Bland,18,4,2,12
+Pike,Delight,Lieutenant Governor,,DEM,Anthony Bland,55,24,0,31
+Pike,Glenwood North,Lieutenant Governor,,DEM,Anthony Bland,50,20,4,26
+Pike,Glenwood South,Lieutenant Governor,,DEM,Anthony Bland,81,38,0,43
+Pike,Kirby,Lieutenant Governor,,DEM,Anthony Bland,50,28,3,19
+Pike,Langley/Lodi,Lieutenant Governor,,DEM,Anthony Bland,9,6,1,2
+Pike,Murfreesboro East,Lieutenant Governor,,DEM,Anthony Bland,101,19,3,79
+Pike,Murfreesboro West,Lieutenant Governor,,DEM,Anthony Bland,108,25,6,77
+Pike,Newhope,Lieutenant Governor,,DEM,Anthony Bland,10,3,2,5
+Pike,Pisgah,Lieutenant Governor,,DEM,Anthony Bland,24,11,0,13
+Pike,Antoine,Lieutenant Governor,,LIB,Frank Gilbert,3,3,0,0
+Pike,Daisy,Lieutenant Governor,,LIB,Frank Gilbert,5,1,0,4
+Pike,Delight,Lieutenant Governor,,LIB,Frank Gilbert,9,7,0,2
+Pike,Glenwood North,Lieutenant Governor,,LIB,Frank Gilbert,5,4,0,1
+Pike,Glenwood South,Lieutenant Governor,,LIB,Frank Gilbert,6,3,0,3
+Pike,Kirby,Lieutenant Governor,,LIB,Frank Gilbert,4,2,0,2
+Pike,Langley/Lodi,Lieutenant Governor,,LIB,Frank Gilbert,11,7,0,4
+Pike,Murfreesboro East,Lieutenant Governor,,LIB,Frank Gilbert,7,3,0,4
+Pike,Murfreesboro West,Lieutenant Governor,,LIB,Frank Gilbert,11,3,2,6
+Pike,Newhope,Lieutenant Governor,,LIB,Frank Gilbert,1,1,0,0
+Pike,Pisgah,Lieutenant Governor,,LIB,Frank Gilbert,3,2,0,1
+Pike,Antoine,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,40,30,1,9
+Pike,Daisy,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,187,89,11,87
+Pike,Delight,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,285,151,5,129
+Pike,Glenwood North,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,253,98,8,147
+Pike,Glenwood South,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,356,129,11,216
+Pike,Kirby,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,339,216,8,115
+Pike,Langley/Lodi,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,159,80,15,64
+Pike,Murfreesboro East,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,363,102,10,251
+Pike,Murfreesboro West,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,457,127,20,310
+Pike,Newhope,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,141,83,10,48
+Pike,Pisgah,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,131,76,0,55
+Pike,Antoine,Attorney General,,DEM,Mike Lee,65,45,4,16
+Pike,Daisy,Attorney General,,DEM,Mike Lee,23,9,3,11
+Pike,Delight,Attorney General,,DEM,Mike Lee,54,27,0,27
+Pike,Glenwood North,Attorney General,,DEM,Mike Lee,59,23,4,32
+Pike,Glenwood South,Attorney General,,DEM,Mike Lee,88,37,0,51
+Pike,Kirby,Attorney General,,DEM,Mike Lee,64,38,5,21
+Pike,Langley/Lodi,Attorney General,,DEM,Mike Lee,13,9,1,3
+Pike,Murfreesboro East,Attorney General,,DEM,Mike Lee,114,23,2,89
+Pike,Murfreesboro West,Attorney General,,DEM,Mike Lee,124,32,6,86
+Pike,Newhope,Attorney General,,DEM,Mike Lee,10,3,2,5
+Pike,Pisgah,Attorney General,,DEM,Mike Lee,26,13,0,13
+Pike,Antoine,Attorney General,,LIB,Kerry Hicks,1,1,0,0
+Pike,Daisy,Attorney General,,LIB,Kerry Hicks,8,3,0,5
+Pike,Delight,Attorney General,,LIB,Kerry Hicks,13,10,0,3
+Pike,Glenwood North,Attorney General,,LIB,Kerry Hicks,5,5,0,0
+Pike,Glenwood South,Attorney General,,LIB,Kerry Hicks,7,5,0,2
+Pike,Kirby,Attorney General,,LIB,Kerry Hicks,6,4,0,2
+Pike,Langley/Lodi,Attorney General,,LIB,Kerry Hicks,8,2,0,6
+Pike,Murfreesboro East,Attorney General,,LIB,Kerry Hicks,9,3,1,5
+Pike,Murfreesboro West,Attorney General,,LIB,Kerry Hicks,17,5,4,8
+Pike,Newhope,Attorney General,,LIB,Kerry Hicks,1,1,0,0
+Pike,Pisgah,Attorney General,,LIB,Kerry Hicks,2,1,0,1
+Pike,Antoine,Attorney General,,REP,Attorney General Leslie Rutledge,41,32,1,8
+Pike,Daisy,Attorney General,,REP,Attorney General Leslie Rutledge,178,83,9,86
+Pike,Delight,Attorney General,,REP,Attorney General Leslie Rutledge,285,148,5,132
+Pike,Glenwood North,Attorney General,,REP,Attorney General Leslie Rutledge,245,94,9,142
+Pike,Glenwood South,Attorney General,,REP,Attorney General Leslie Rutledge,345,127,11,207
+Pike,Kirby,Attorney General,,REP,Attorney General Leslie Rutledge,326,207,6,113
+Pike,Langley/Lodi,Attorney General,,REP,Attorney General Leslie Rutledge,158,82,15,61
+Pike,Murfreesboro East,Attorney General,,REP,Attorney General Leslie Rutledge,348,98,10,240
+Pike,Murfreesboro West,Attorney General,,REP,Attorney General Leslie Rutledge,435,118,19,298
+Pike,Newhope,Attorney General,,REP,Attorney General Leslie Rutledge,141,82,10,49
+Pike,Pisgah,Attorney General,,REP,Attorney General Leslie Rutledge,128,75,0,53
+Pike,Antoine,Secretary of State,,REP,John Thurston Commissioner of State Lands,36,28,1,7
+Pike,Daisy,Secretary of State,,REP,John Thurston Commissioner of State Lands,177,85,10,82
+Pike,Delight,Secretary of State,,REP,John Thurston Commissioner of State Lands,269,142,5,122
+Pike,Glenwood North,Secretary of State,,REP,John Thurston Commissioner of State Lands,241,94,7,140
+Pike,Glenwood South,Secretary of State,,REP,John Thurston Commissioner of State Lands,347,123,10,214
+Pike,Kirby,Secretary of State,,REP,John Thurston Commissioner of State Lands,318,200,8,110
+Pike,Langley/Lodi,Secretary of State,,REP,John Thurston Commissioner of State Lands,157,81,13,63
+Pike,Murfreesboro East,Secretary of State,,REP,John Thurston Commissioner of State Lands,348,99,10,239
+Pike,Murfreesboro West,Secretary of State,,REP,John Thurston Commissioner of State Lands,428,115,22,291
+Pike,Newhope,Secretary of State,,REP,John Thurston Commissioner of State Lands,134,80,10,44
+Pike,Pisgah,Secretary of State,,REP,John Thurston Commissioner of State Lands,122,74,0,48
+Pike,Antoine,Secretary of State,,LIB,Christopher Olson,2,2,0,0
+Pike,Daisy,Secretary of State,,LIB,Christopher Olson,4,1,0,3
+Pike,Delight,Secretary of State,,LIB,Christopher Olson,10,7,0,3
+Pike,Glenwood North,Secretary of State,,LIB,Christopher Olson,3,3,0,0
+Pike,Glenwood South,Secretary of State,,LIB,Christopher Olson,8,3,0,5
+Pike,Kirby,Secretary of State,,LIB,Christopher Olson,4,2,0,2
+Pike,Langley/Lodi,Secretary of State,,LIB,Christopher Olson,8,5,0,3
+Pike,Murfreesboro East,Secretary of State,,LIB,Christopher Olson,5,2,0,3
+Pike,Murfreesboro West,Secretary of State,,LIB,Christopher Olson,12,3,2,7
+Pike,Newhope,Secretary of State,,LIB,Christopher Olson,1,0,0,1
+Pike,Pisgah,Secretary of State,,LIB,Christopher Olson,3,2,0,1
+Pike,Antoine,Secretary of State,,DEM,Susan Inman,68,47,4,17
+Pike,Daisy,Secretary of State,,DEM,Susan Inman,27,8,3,16
+Pike,Delight,Secretary of State,,DEM,Susan Inman,68,33,0,35
+Pike,Glenwood North,Secretary of State,,DEM,Susan Inman,63,25,6,32
+Pike,Glenwood South,Secretary of State,,DEM,Susan Inman,88,44,1,43
+Pike,Kirby,Secretary of State,,DEM,Susan Inman,69,43,2,24
+Pike,Langley/Lodi,Secretary of State,,DEM,Susan Inman,14,7,3,4
+Pike,Murfreesboro East,Secretary of State,,DEM,Susan Inman,118,23,3,92
+Pike,Murfreesboro West,Secretary of State,,DEM,Susan Inman,134,37,5,92
+Pike,Newhope,Secretary of State,,DEM,Susan Inman,13,6,2,5
+Pike,Pisgah,Secretary of State,,DEM,Susan Inman,31,12,0,19
+Pike,Antoine,State Treasurer,,REP,Treasurer of State Dennis Milligan,51,36,3,12
+Pike,Daisy,State Treasurer,,REP,Treasurer of State Dennis Milligan,190,88,11,91
+Pike,Delight,State Treasurer,,REP,Treasurer of State Dennis Milligan,289,155,5,129
+Pike,Glenwood North,State Treasurer,,REP,Treasurer of State Dennis Milligan,260,100,10,150
+Pike,Glenwood South,State Treasurer,,REP,Treasurer of State Dennis Milligan,376,140,10,226
+Pike,Kirby,State Treasurer,,REP,Treasurer of State Dennis Milligan,343,215,10,118
+Pike,Langley/Lodi,State Treasurer,,REP,Treasurer of State Dennis Milligan,165,83,16,66
+Pike,Murfreesboro East,State Treasurer,,REP,Treasurer of State Dennis Milligan,393,107,12,274
+Pike,Murfreesboro West,State Treasurer,,REP,Treasurer of State Dennis Milligan,482,134,20,328
+Pike,Newhope,State Treasurer,,REP,Treasurer of State Dennis Milligan,141,82,12,47
+Pike,Pisgah,State Treasurer,,REP,Treasurer of State Dennis Milligan,135,78,0,57
+Pike,Antoine,State Treasurer,,LIB,Ashley Ewald,44,32,2,10
+Pike,Daisy,State Treasurer,,LIB,Ashley Ewald,18,5,2,11
+Pike,Delight,State Treasurer,,LIB,Ashley Ewald,51,25,0,26
+Pike,Glenwood North,State Treasurer,,LIB,Ashley Ewald,44,22,3,19
+Pike,Glenwood South,State Treasurer,,LIB,Ashley Ewald,63,28,1,34
+Pike,Kirby,State Treasurer,,LIB,Ashley Ewald,46,30,1,15
+Pike,Langley/Lodi,State Treasurer,,LIB,Ashley Ewald,13,9,0,4
+Pike,Murfreesboro East,State Treasurer,,LIB,Ashley Ewald,73,17,1,55
+Pike,Murfreesboro West,State Treasurer,,LIB,Ashley Ewald,86,21,8,57
+Pike,Newhope,State Treasurer,,LIB,Ashley Ewald,9,5,0,4
+Pike,Pisgah,State Treasurer,,LIB,Ashley Ewald,22,11,0,11
+Pike,Antoine,Auditor of State,,LIB,David E. Dinwiddie,40,29,1,10
+Pike,Daisy,Auditor of State,,LIB,David E. Dinwiddie,20,5,3,12
+Pike,Delight,Auditor of State,,LIB,David E. Dinwiddie,46,24,0,22
+Pike,Glenwood North,Auditor of State,,LIB,David E. Dinwiddie,46,20,5,21
+Pike,Glenwood South,Auditor of State,,LIB,David E. Dinwiddie,56,23,0,33
+Pike,Kirby,Auditor of State,,LIB,David E. Dinwiddie,31,17,1,13
+Pike,Langley/Lodi,Auditor of State,,LIB,David E. Dinwiddie,17,12,0,5
+Pike,Murfreesboro East,Auditor of State,,LIB,David E. Dinwiddie,78,18,1,59
+Pike,Murfreesboro West,Auditor of State,,LIB,David E. Dinwiddie,84,26,7,51
+Pike,Newhope,Auditor of State,,LIB,David E. Dinwiddie,10,5,1,4
+Pike,Pisgah,Auditor of State,,LIB,David E. Dinwiddie,21,10,0,11
+Pike,Antoine,Auditor of State,,REP,Auditor Andrea Lea,55,39,4,12
+Pike,Daisy,Auditor of State,,REP,Auditor Andrea Lea,186,87,10,89
+Pike,Delight,Auditor of State,,REP,Auditor Andrea Lea,292,155,5,132
+Pike,Glenwood North,Auditor of State,,REP,Auditor Andrea Lea,261,103,8,150
+Pike,Glenwood South,Auditor of State,,REP,Auditor Andrea Lea,381,143,11,227
+Pike,Kirby,Auditor of State,,REP,Auditor Andrea Lea,358,228,10,120
+Pike,Langley/Lodi,Auditor of State,,REP,Auditor Andrea Lea,159,79,15,65
+Pike,Murfreesboro East,Auditor of State,,REP,Auditor Andrea Lea,387,106,12,269
+Pike,Murfreesboro West,Auditor of State,,REP,Auditor Andrea Lea,484,129,21,334
+Pike,Newhope,Auditor of State,,REP,Auditor Andrea Lea,136,79,10,47
+Pike,Pisgah,Auditor of State,,REP,Auditor Andrea Lea,134,77,0,57
+Pike,Antoine,Commissioner of State Lands,,DEM,Larry Williams,70,49,5,16
+Pike,Daisy,Commissioner of State Lands,,DEM,Larry Williams,25,6,3,16
+Pike,Delight,Commissioner of State Lands,,DEM,Larry Williams,69,32,0,37
+Pike,Glenwood North,Commissioner of State Lands,,DEM,Larry Williams,72,30,5,37
+Pike,Glenwood South,Commissioner of State Lands,,DEM,Larry Williams,99,43,3,53
+Pike,Kirby,Commissioner of State Lands,,DEM,Larry Williams,77,46,5,26
+Pike,Langley/Lodi,Commissioner of State Lands,,DEM,Larry Williams,17,8,2,7
+Pike,Murfreesboro East,Commissioner of State Lands,,DEM,Larry Williams,124,21,5,98
+Pike,Murfreesboro West,Commissioner of State Lands,,DEM,Larry Williams,168,42,10,116
+Pike,Newhope,Commissioner of State Lands,,DEM,Larry Williams,13,7,1,5
+Pike,Pisgah,Commissioner of State Lands,,DEM,Larry Williams,34,16,0,18
+Pike,Antoine,Commissioner of State Lands,,REP,Tommy Land,36,28,0,8
+Pike,Daisy,Commissioner of State Lands,,REP,Tommy Land,174,84,9,81
+Pike,Delight,Commissioner of State Lands,,REP,Tommy Land,260,138,5,117
+Pike,Glenwood North,Commissioner of State Lands,,REP,Tommy Land,230,88,8,134
+Pike,Glenwood South,Commissioner of State Lands,,REP,Tommy Land,328,121,8,199
+Pike,Kirby,Commissioner of State Lands,,REP,Tommy Land,312,197,6,109
+Pike,Langley/Lodi,Commissioner of State Lands,,REP,Tommy Land,150,77,13,60
+Pike,Murfreesboro East,Commissioner of State Lands,,REP,Tommy Land,332,97,7,228
+Pike,Murfreesboro West,Commissioner of State Lands,,REP,Tommy Land,386,109,15,262
+Pike,Newhope,Commissioner of State Lands,,REP,Tommy Land,134,76,11,47
+Pike,Pisgah,Commissioner of State Lands,,REP,Tommy Land,117,71,0,46
+Pike,Antoine,Commissioner of State Lands,,LIB,T.J. Campbell,0,0,0,0
+Pike,Daisy,Commissioner of State Lands,,LIB,T.J. Campbell,10,4,1,5
+Pike,Delight,Commissioner of State Lands,,LIB,T.J. Campbell,18,12,0,6
+Pike,Glenwood North,Commissioner of State Lands,,LIB,T.J. Campbell,7,5,0,2
+Pike,Glenwood South,Commissioner of State Lands,,LIB,T.J. Campbell,16,6,0,10
+Pike,Kirby,Commissioner of State Lands,,LIB,T.J. Campbell,4,3,0,1
+Pike,Langley/Lodi,Commissioner of State Lands,,LIB,T.J. Campbell,10,7,0,3
+Pike,Murfreesboro East,Commissioner of State Lands,,LIB,T.J. Campbell,16,6,1,9
+Pike,Murfreesboro West,Commissioner of State Lands,,LIB,T.J. Campbell,23,4,4,15
+Pike,Newhope,Commissioner of State Lands,,LIB,T.J. Campbell,5,3,0,2
+Pike,Pisgah,Commissioner of State Lands,,LIB,T.J. Campbell,6,2,0,4
+Pike,Antoine,State Senate District 10,,LIB,Bobbi Hicks,18,16,0,2
+Pike,Daisy,State Senate District 10,,LIB,Bobbi Hicks,92,44,7,41
+Pike,Delight,State Senate District 10,,LIB,Bobbi Hicks,129,76,0,53
+Pike,Glenwood North,State Senate District 10,,LIB,Bobbi Hicks,120,49,2,69
+Pike,Glenwood South,State Senate District 10,,LIB,Bobbi Hicks,167,64,3,100
+Pike,Kirby,State Senate District 10,,LIB,Bobbi Hicks,152,102,0,50
+Pike,Langley/Lodi,State Senate District 10,,LIB,Bobbi Hicks,75,40,3,32
+Pike,Murfreesboro East,State Senate District 10,,LIB,Bobbi Hicks,126,37,3,86
+Pike,Murfreesboro West,State Senate District 10,,LIB,Bobbi Hicks,149,43,6,100
+Pike,Newhope,State Senate District 10,,LIB,Bobbi Hicks,60,34,4,22
+Pike,Pisgah,State Senate District 10,,LIB,Bobbi Hicks,47,23,0,24
+Pike,Antoine,State Senate District 10,,DEM,Senator Larry Teague,86,60,4,22
+Pike,Daisy,State Senate District 10,,DEM,Senator Larry Teague,107,45,5,57
+Pike,Delight,State Senate District 10,,DEM,Senator Larry Teague,201,98,3,100
+Pike,Glenwood North,State Senate District 10,,DEM,Senator Larry Teague,167,66,9,92
+Pike,Glenwood South,State Senate District 10,,DEM,Senator Larry Teague,250,101,6,143
+Pike,Kirby,State Senate District 10,,DEM,Senator Larry Teague,212,131,11,70
+Pike,Langley/Lodi,State Senate District 10,,DEM,Senator Larry Teague,85,47,11,27
+Pike,Murfreesboro East,State Senate District 10,,DEM,Senator Larry Teague,322,80,10,232
+Pike,Murfreesboro West,State Senate District 10,,DEM,Senator Larry Teague,407,108,21,278
+Pike,Newhope,State Senate District 10,,DEM,Senator Larry Teague,75,44,5,26
+Pike,Pisgah,State Senate District 10,,DEM,Senator Larry Teague,101,60,0,41
+Pike,Antoine,State Representative District 19,,DEM,Jeremy Ross,67,45,4,18
+Pike,Daisy,State Representative District 19,,DEM,Jeremy Ross,42,15,4,23
+Pike,Delight,State Representative District 19,,DEM,Jeremy Ross,74,36,0,38
+Pike,Glenwood North,State Representative District 19,,DEM,Jeremy Ross,119,47,7,65
+Pike,Glenwood South,State Representative District 19,,DEM,Jeremy Ross,148,63,4,81
+Pike,Kirby,State Representative District 19,,DEM,Jeremy Ross,130,82,9,39
+Pike,Langley/Lodi,State Representative District 19,,DEM,Jeremy Ross,32,18,5,9
+Pike,Murfreesboro East,State Representative District 19,,DEM,Jeremy Ross,173,37,6,130
+Pike,Murfreesboro West,State Representative District 19,,DEM,Jeremy Ross,215,52,14,149
+Pike,Newhope,State Representative District 19,,DEM,Jeremy Ross,19,10,1,8
+Pike,Pisgah,State Representative District 19,,DEM,Jeremy Ross,33,14,0,19
+Pike,Antoine,State Representative District 19,,REP,Representative Justin Gonzales,39,32,1,6
+Pike,Daisy,State Representative District 19,,REP,Representative Justin Gonzales,166,79,10,77
+Pike,Delight,State Representative District 19,,REP,Representative Justin Gonzales,277,149,5,123
+Pike,Glenwood North,State Representative District 19,,REP,Representative Justin Gonzales,187,74,4,109
+Pike,Glenwood South,State Representative District 19,,REP,Representative Justin Gonzales,293,107,7,179
+Pike,Kirby,State Representative District 19,,REP,Representative Justin Gonzales,264,167,2,95
+Pike,Langley/Lodi,State Representative District 19,,REP,Representative Justin Gonzales,146,76,9,61
+Pike,Murfreesboro East,State Representative District 19,,REP,Representative Justin Gonzales,299,87,7,205
+Pike,Murfreesboro West,State Representative District 19,,REP,Representative Justin Gonzales,366,104,15,247
+Pike,Newhope,State Representative District 19,,REP,Representative Justin Gonzales,132,77,10,45
+Pike,Pisgah,State Representative District 19,,REP,Representative Justin Gonzales,126,75,0,51
+Pike,Antoine,State Supreme Court Associate Justice Position 3,,NON,David Sterling,39,27,0,12
+Pike,Daisy,State Supreme Court Associate Justice Position 3,,NON,David Sterling,92,49,7,36
+Pike,Delight,State Supreme Court Associate Justice Position 3,,NON,David Sterling,155,82,4,69
+Pike,Glenwood North,State Supreme Court Associate Justice Position 3,,NON,David Sterling,134,52,5,77
+Pike,Glenwood South,State Supreme Court Associate Justice Position 3,,NON,David Sterling,194,73,5,116
+Pike,Kirby,State Supreme Court Associate Justice Position 3,,NON,David Sterling,168,107,2,59
+Pike,Langley/Lodi,State Supreme Court Associate Justice Position 3,,NON,David Sterling,67,40,4,23
+Pike,Murfreesboro East,State Supreme Court Associate Justice Position 3,,NON,David Sterling,209,61,1,147
+Pike,Murfreesboro West,State Supreme Court Associate Justice Position 3,,NON,David Sterling,231,62,10,159
+Pike,Newhope,State Supreme Court Associate Justice Position 3,,NON,David Sterling,65,40,3,22
+Pike,Pisgah,State Supreme Court Associate Justice Position 3,,NON,David Sterling,77,42,0,35
+Pike,Antoine,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,51,38,3,10
+Pike,Daisy,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,107,42,6,59
+Pike,Delight,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,168,87,0,81
+Pike,Glenwood North,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,152,63,7,82
+Pike,Glenwood South,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,228,91,6,131
+Pike,Kirby,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,192,123,8,61
+Pike,Langley/Lodi,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,93,46,9,38
+Pike,Murfreesboro East,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,240,61,11,168
+Pike,Murfreesboro West,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,317,86,14,217
+Pike,Newhope,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,75,44,5,26
+Pike,Pisgah,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,71,42,0,29
+Pike,Antoine,Pike County Judge,,DEM,Dewight Mack,84,62,3,19
+Pike,Daisy,Pike County Judge,,DEM,Dewight Mack,134,54,10,70
+Pike,Delight,Pike County Judge,,DEM,Dewight Mack,189,104,1,84
+Pike,Glenwood North,Pike County Judge,,DEM,Dewight Mack,221,93,13,115
+Pike,Glenwood South,Pike County Judge,,DEM,Dewight Mack,306,124,8,174
+Pike,Kirby,Pike County Judge,,DEM,Dewight Mack,297,187,10,100
+Pike,Langley/Lodi,Pike County Judge,,DEM,Dewight Mack,114,54,12,48
+Pike,Murfreesboro East,Pike County Judge,,DEM,Dewight Mack,236,62,8,166
+Pike,Murfreesboro West,Pike County Judge,,DEM,Dewight Mack,234,61,8,165
+Pike,Newhope,Pike County Judge,,DEM,Dewight Mack,78,46,2,30
+Pike,Pisgah,Pike County Judge,,DEM,Dewight Mack,85,45,0,40
+Pike,Antoine,Pike County Judge,,IND,Keith Couch,24,17,2,5
+Pike,Daisy,Pike County Judge,,IND,Keith Couch,74,41,3,30
+Pike,Delight,Pike County Judge,,IND,Keith Couch,152,76,3,73
+Pike,Glenwood North,Pike County Judge,,IND,Keith Couch,89,30,0,59
+Pike,Glenwood South,Pike County Judge,,IND,Keith Couch,131,48,3,80
+Pike,Kirby,Pike County Judge,,IND,Keith Couch,99,63,1,35
+Pike,Langley/Lodi,Pike County Judge,,IND,Keith Couch,61,39,3,19
+Pike,Murfreesboro East,Pike County Judge,,IND,Keith Couch,231,60,5,166
+Pike,Murfreesboro West,Pike County Judge,,IND,Keith Couch,339,95,19,225
+Pike,Newhope,Pike County Judge,,IND,Keith Couch,72,40,8,24
+Pike,Pisgah,Pike County Judge,,IND,Keith Couch,72,42,0,30
+Pike,Antoine,Pike County Sheriff/Collector,,REP,"Roger ""Bimbo"" Flemens",19,18,0,1
+Pike,Daisy,Pike County Sheriff/Collector,,REP,"Roger ""Bimbo"" Flemens",116,59,6,51
+Pike,Delight,Pike County Sheriff/Collector,,REP,"Roger ""Bimbo"" Flemens",167,87,3,77
+Pike,Glenwood North,Pike County Sheriff/Collector,,REP,"Roger ""Bimbo"" Flemens",151,55,6,90
+Pike,Glenwood South,Pike County Sheriff/Collector,,REP,"Roger ""Bimbo"" Flemens",218,85,4,129
+Pike,Kirby,Pike County Sheriff/Collector,,REP,"Roger ""Bimbo"" Flemens",165,103,4,58
+Pike,Langley/Lodi,Pike County Sheriff/Collector,,REP,"Roger ""Bimbo"" Flemens",76,41,3,32
+Pike,Murfreesboro East,Pike County Sheriff/Collector,,REP,"Roger ""Bimbo"" Flemens",165,43,3,119
+Pike,Murfreesboro West,Pike County Sheriff/Collector,,REP,"Roger ""Bimbo"" Flemens",209,55,15,139
+Pike,Newhope,Pike County Sheriff/Collector,,REP,"Roger ""Bimbo"" Flemens",101,61,11,29
+Pike,Pisgah,Pike County Sheriff/Collector,,REP,"Roger ""Bimbo"" Flemens",57,28,0,29
+Pike,Antoine,Pike County Sheriff/Collector,,IND,James Dwight Cogburn,4,4,0,0
+Pike,Daisy,Pike County Sheriff/Collector,,IND,James Dwight Cogburn,46,18,4,24
+Pike,Delight,Pike County Sheriff/Collector,,IND,James Dwight Cogburn,13,5,0,8
+Pike,Glenwood North,Pike County Sheriff/Collector,,IND,James Dwight Cogburn,36,14,2,20
+Pike,Glenwood South,Pike County Sheriff/Collector,,IND,James Dwight Cogburn,46,15,1,30
+Pike,Kirby,Pike County Sheriff/Collector,,IND,James Dwight Cogburn,41,27,0,14
+Pike,Langley/Lodi,Pike County Sheriff/Collector,,IND,James Dwight Cogburn,39,20,4,15
+Pike,Murfreesboro East,Pike County Sheriff/Collector,,IND,James Dwight Cogburn,50,13,2,35
+Pike,Murfreesboro West,Pike County Sheriff/Collector,,IND,James Dwight Cogburn,82,21,6,55
+Pike,Newhope,Pike County Sheriff/Collector,,IND,James Dwight Cogburn,7,3,0,4
+Pike,Pisgah,Pike County Sheriff/Collector,,IND,James Dwight Cogburn,7,5,0,2
+Pike,Antoine,Pike County Sheriff/Collector,,DEM,Travis Hill,84,56,5,23
+Pike,Daisy,Pike County Sheriff/Collector,,DEM,Travis Hill,50,18,4,28
+Pike,Delight,Pike County Sheriff/Collector,,DEM,Travis Hill,172,92,1,79
+Pike,Glenwood North,Pike County Sheriff/Collector,,DEM,Travis Hill,123,53,4,66
+Pike,Glenwood South,Pike County Sheriff/Collector,,DEM,Travis Hill,181,72,6,103
+Pike,Kirby,Pike County Sheriff/Collector,,DEM,Travis Hill,192,121,7,64
+Pike,Langley/Lodi,Pike County Sheriff/Collector,,DEM,Travis Hill,65,33,9,23
+Pike,Murfreesboro East,Pike County Sheriff/Collector,,DEM,Travis Hill,256,68,8,180
+Pike,Murfreesboro West,Pike County Sheriff/Collector,,DEM,Travis Hill,290,79,8,203
+Pike,Newhope,Pike County Sheriff/Collector,,DEM,Travis Hill,45,23,1,21
+Pike,Pisgah,Pike County Sheriff/Collector,,DEM,Travis Hill,93,54,0,39
+Pike,Antoine,Pike County Circuit Clerk,,DEM,Sabrina Williams,99,71,5,23
+Pike,Daisy,Pike County Circuit Clerk,,DEM,Sabrina Williams,177,78,13,86
+Pike,Delight,Pike County Circuit Clerk,,DEM,Sabrina Williams,308,162,1,145
+Pike,Glenwood North,Pike County Circuit Clerk,,DEM,Sabrina Williams,266,106,11,149
+Pike,Glenwood South,Pike County Circuit Clerk,,DEM,Sabrina Williams,391,155,10,226
+Pike,Kirby,Pike County Circuit Clerk,,DEM,Sabrina Williams,353,225,11,117
+Pike,Langley/Lodi,Pike County Circuit Clerk,,DEM,Sabrina Williams,144,80,14,50
+Pike,Murfreesboro East,Pike County Circuit Clerk,,DEM,Sabrina Williams,442,115,12,315
+Pike,Murfreesboro West,Pike County Circuit Clerk,,DEM,Sabrina Williams,534,148,23,363
+Pike,Newhope,Pike County Circuit Clerk,,DEM,Sabrina Williams,120,73,4,43
+Pike,Pisgah,Pike County Circuit Clerk,,DEM,Sabrina Williams,145,80,0,65
+Pike,Antoine,Justice of the Peace Dist 3 Dist 3,,REP,Seth Henry Kirkham,8,5,2,1
+Pike,Delight,Justice of the Peace Dist 3 Dist 3,,REP,Seth Henry Kirkham,197,95,5,97
+Pike,Glenwood South,Justice of the Peace Dist 3 Dist 3,,REP,Seth Henry Kirkham,6,2,0,4
+Pike,Kirby,Justice of the Peace Dist 3 Dist 3,,REP,Seth Henry Kirkham,7,3,0,4
+Pike,Murfreesboro East,Justice of the Peace Dist 3 Dist 3,,REP,Seth Henry Kirkham,74,19,1,54
+Pike,Antoine,Justice of the Peace Dist 3 Dist 3,,DEM,Ricky Buck,20,15,0,5
+Pike,Delight,Justice of the Peace Dist 3 Dist 3,,DEM,Ricky Buck,43,20,0,23
+Pike,Glenwood South,Justice of the Peace Dist 3 Dist 3,,DEM,Ricky Buck,3,3,0,0
+Pike,Kirby,Justice of the Peace Dist 3 Dist 3,,DEM,Ricky Buck,1,1,0,0
+Pike,Murfreesboro East,Justice of the Peace Dist 3 Dist 3,,DEM,Ricky Buck,36,12,0,24
+Pike,Daisy,Mayor of Daisy Daisy,,IND,Lisa Cogburn,28,8,2,18
+Pike,Daisy,Mayor of Daisy Daisy,,IND,Ronnie Partee,18,6,4,8
+Pike,Murfreesboro East,Mayor of Murfreesboro Murfreesboro,,IND,Rodney Fagan,223,63,9,151
+Pike,Murfreesboro West,Mayor of Murfreesboro Murfreesboro,,IND,Rodney Fagan,247,60,17,170
+Pike,Glenwood North,Mayor of Glenwood Glenwood,,IND,Sharon Wisener Noble,122,41,8,73
+Pike,Glenwood South,Mayor of Glenwood Glenwood,,IND,Sharon Wisener Noble,75,20,4,51
+Pike,Glenwood North,Mayor of Glenwood Glenwood,,IND,Billy (BT) Smith,135,60,2,73
+Pike,Glenwood South,Mayor of Glenwood Glenwood,,IND,Billy (BT) Smith,149,51,0,98
+Pike,Delight,Mayor of Delight Delight,,IND,Paul Lane,96,54,1,41
+Pike,Antoine,Mayor of Antoine Antoine,,IND,Dwight Finney,29,21,0,8
+Pike,Delight,Delight Alderman Pos 2 Delight,,IND,Valerie Wingfield,45,25,0,20
+Pike,Delight,Delight Alderman Pos 2 Delight,,IND,Bobby Robinson,13,6,1,6
+Pike,Delight,Delight Alderman Pos 2 Delight,,IND,Tom Wilson,39,21,2,16
+Pike,Glenwood North,Glenwood Alderman SW Pos 2 Glenwood,,IND,Buddy Green,114,50,4,60
+Pike,Glenwood South,Glenwood Alderman SW Pos 2 Glenwood,,IND,Buddy Green,91,42,2,47
+Pike,Glenwood North,Glenwood Alderman SW Pos 2 Glenwood,,IND,Jim Arrington,140,49,6,85
+Pike,Glenwood South,Glenwood Alderman SW Pos 2 Glenwood,,IND,Jim Arrington,130,29,2,99
+Pike,Glenwood North,Glenwood Alderman NW Pos 2 Glenwood,,IND,Brenda Driggers,119,36,5,78
+Pike,Glenwood South,Glenwood Alderman NW Pos 2 Glenwood,,IND,Brenda Driggers,82,27,4,51
+Pike,Glenwood North,Glenwood Alderman NW Pos 2 Glenwood,,IND,Karen Baker,136,63,5,68
+Pike,Glenwood South,Glenwood Alderman NW Pos 2 Glenwood,,IND,Karen Baker,139,43,0,96
+Pike,Antoine,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,87,66,5,16
+Pike,Daisy,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,186,89,11,86
+Pike,Delight,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,310,158,5,147
+Pike,Glenwood North,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,270,104,10,156
+Pike,Glenwood South,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,371,141,11,219
+Pike,Kirby,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,348,223,6,119
+Pike,Langley/Lodi,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,163,83,13,67
+Pike,Murfreesboro East,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,412,112,13,287
+Pike,Murfreesboro West,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,521,142,24,355
+Pike,Newhope,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,136,81,9,46
+Pike,Pisgah,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,133,75,0,58
+Pike,Antoine,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,14,8,0,6
+Pike,Daisy,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,24,7,2,15
+Pike,Delight,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,42,25,0,17
+Pike,Glenwood North,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,38,18,2,18
+Pike,Glenwood South,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,66,27,0,39
+Pike,Kirby,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,45,25,5,15
+Pike,Langley/Lodi,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,14,10,3,1
+Pike,Murfreesboro East,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,54,11,0,43
+Pike,Murfreesboro West,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,53,13,5,35
+Pike,Newhope,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,12,5,0,7
+Pike,Pisgah,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,23,12,0,11
+Pike,Antoine,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,72,52,2,18
+Pike,Daisy,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,130,63,6,61
+Pike,Delight,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,202,114,2,86
+Pike,Glenwood North,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,162,61,7,94
+Pike,Glenwood South,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,229,91,6,132
+Pike,Kirby,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,201,130,8,63
+Pike,Langley/Lodi,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,66,34,4,28
+Pike,Murfreesboro East,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,268,80,7,181
+Pike,Murfreesboro West,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,335,88,21,226
+Pike,Newhope,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,76,54,0,22
+Pike,Pisgah,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,76,41,0,35
+Pike,Antoine,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,32,24,3,5
+Pike,Daisy,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,80,32,7,41
+Pike,Delight,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,153,72,3,78
+Pike,Glenwood North,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,146,62,5,79
+Pike,Glenwood South,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,213,80,5,128
+Pike,Kirby,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,195,121,3,71
+Pike,Langley/Lodi,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,111,58,13,40
+Pike,Murfreesboro East,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,203,44,6,153
+Pike,Murfreesboro West,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,239,67,6,166
+Pike,Newhope,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,70,32,6,32
+Pike,Pisgah,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,78,44,0,34
+Pike,Antoine,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,86,63,5,18
+Pike,Daisy,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,141,72,9,60
+Pike,Delight,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,228,121,2,105
+Pike,Glenwood North,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,214,82,12,120
+Pike,Glenwood South,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,279,114,8,157
+Pike,Kirby,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,267,173,8,86
+Pike,Langley/Lodi,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,109,58,16,35
+Pike,Murfreesboro East,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,321,85,10,226
+Pike,Murfreesboro West,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,363,100,18,245
+Pike,Newhope,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,101,57,9,35
+Pike,Pisgah,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,89,47,0,42
+Pike,Antoine,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,18,14,0,4
+Pike,Daisy,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,72,24,5,43
+Pike,Delight,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,125,63,3,59
+Pike,Glenwood North,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,95,40,0,55
+Pike,Glenwood South,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,161,56,3,102
+Pike,Kirby,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,129,79,2,48
+Pike,Langley/Lodi,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,70,34,1,35
+Pike,Murfreesboro East,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,151,39,3,109
+Pike,Murfreesboro West,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,212,53,11,148
+Pike,Newhope,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,50,30,2,18
+Pike,Pisgah,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,68,42,0,26
