@@ -1,0 +1,1163 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Conway,AUSTIN,U.S. House,2,DEM,Representative Clarke Tucker,14,0,4,10
+Conway,BENTLEY CITY,U.S. House,2,DEM,Representative Clarke Tucker,46,1,13,32
+Conway,WELBOURNE WEST,U.S. House,2,DEM,Representative Clarke Tucker,75,1,37,37
+Conway,ST. VINCENT,U.S. House,2,DEM,Representative Clarke Tucker,87,3,32,52
+Conway,STEELE,U.S. House,2,DEM,Representative Clarke Tucker,41,3,12,26
+Conway,MENIFEE CITY,U.S. House,2,DEM,Representative Clarke Tucker,112,9,28,75
+Conway,HOWARD CITY,U.S. House,2,DEM,Representative Clarke Tucker,144,38,35,71
+Conway,HIGGINS,U.S. House,2,DEM,Representative Clarke Tucker,3,0,0,3
+Conway,CEDAR FALLS,U.S. House,2,DEM,Representative Clarke Tucker,67,0,17,50
+Conway,GREGORY,U.S. House,2,DEM,Representative Clarke Tucker,37,0,5,32
+Conway,GRIFFIN,U.S. House,2,DEM,Representative Clarke Tucker,42,1,4,37
+Conway,LICK MTN.,U.S. House,2,DEM,Representative Clarke Tucker,63,1,19,43
+Conway,WASHINGTON EAST,U.S. House,2,DEM,Representative Clarke Tucker,107,3,45,59
+Conway,MCCLAREN,U.S. House,2,DEM,Representative Clarke Tucker,15,0,5,10
+Conway,HOWARD RURAL,U.S. House,2,DEM,Representative Clarke Tucker,100,21,37,42
+Conway,WHITE EAGLE,U.S. House,2,DEM,Representative Clarke Tucker,6,0,2,4
+Conway,WARD 3,U.S. House,2,DEM,Representative Clarke Tucker,232,18,133,81
+Conway,WARD 4,U.S. House,2,DEM,Representative Clarke Tucker,248,10,170,68
+Conway,MARTIN,U.S. House,2,DEM,Representative Clarke Tucker,7,0,2,5
+Conway,WARD 2,U.S. House,2,DEM,Representative Clarke Tucker,142,13,73,56
+Conway,UNION,U.S. House,2,DEM,Representative Clarke Tucker,114,11,38,65
+Conway,BENTLEY RURAL,U.S. House,2,DEM,Representative Clarke Tucker,40,4,14,22
+Conway,WASHINGTON WEST,U.S. House,2,DEM,Representative Clarke Tucker,59,1,14,44
+Conway,BIRD,U.S. House,2,DEM,Representative Clarke Tucker,68,4,22,42
+Conway,CATHOLIC POINT,U.S. House,2,DEM,Representative Clarke Tucker,54,2,14,38
+Conway,PETIT JEAN,U.S. House,2,DEM,Representative Clarke Tucker,12,0,0,12
+Conway,NICHOLS,U.S. House,2,DEM,Representative Clarke Tucker,56,5,16,35
+Conway,OLD HICKORY,U.S. House,2,DEM,Representative Clarke Tucker,18,0,4,14
+Conway,WARD 1,U.S. House,2,DEM,Representative Clarke Tucker,218,28,113,77
+Conway,WELBOURNE EAST,U.S. House,2,DEM,Representative Clarke Tucker,196,8,123,65
+Conway,MENIFEE RURAL,U.S. House,2,DEM,Representative Clarke Tucker,20,0,7,13
+Conway,AUSTIN,U.S. House,2,LIB,Joe Ryne Swafford,1,0,0,1
+Conway,BENTLEY CITY,U.S. House,2,LIB,Joe Ryne Swafford,6,0,3,3
+Conway,WELBOURNE WEST,U.S. House,2,LIB,Joe Ryne Swafford,2,0,2,0
+Conway,ST. VINCENT,U.S. House,2,LIB,Joe Ryne Swafford,4,0,0,4
+Conway,STEELE,U.S. House,2,LIB,Joe Ryne Swafford,3,0,1,2
+Conway,MENIFEE CITY,U.S. House,2,LIB,Joe Ryne Swafford,1,0,1,0
+Conway,HOWARD CITY,U.S. House,2,LIB,Joe Ryne Swafford,2,0,0,2
+Conway,HIGGINS,U.S. House,2,LIB,Joe Ryne Swafford,0,0,0,0
+Conway,CEDAR FALLS,U.S. House,2,LIB,Joe Ryne Swafford,0,0,0,0
+Conway,GREGORY,U.S. House,2,LIB,Joe Ryne Swafford,5,0,2,3
+Conway,GRIFFIN,U.S. House,2,LIB,Joe Ryne Swafford,3,0,0,3
+Conway,LICK MTN.,U.S. House,2,LIB,Joe Ryne Swafford,5,0,1,4
+Conway,WASHINGTON EAST,U.S. House,2,LIB,Joe Ryne Swafford,6,0,0,6
+Conway,MCCLAREN,U.S. House,2,LIB,Joe Ryne Swafford,1,0,0,1
+Conway,HOWARD RURAL,U.S. House,2,LIB,Joe Ryne Swafford,2,0,1,1
+Conway,WHITE EAGLE,U.S. House,2,LIB,Joe Ryne Swafford,0,0,0,0
+Conway,WARD 3,U.S. House,2,LIB,Joe Ryne Swafford,13,0,9,4
+Conway,WARD 4,U.S. House,2,LIB,Joe Ryne Swafford,12,0,9,3
+Conway,MARTIN,U.S. House,2,LIB,Joe Ryne Swafford,1,0,0,1
+Conway,WARD 2,U.S. House,2,LIB,Joe Ryne Swafford,5,0,2,3
+Conway,UNION,U.S. House,2,LIB,Joe Ryne Swafford,5,0,3,2
+Conway,BENTLEY RURAL,U.S. House,2,LIB,Joe Ryne Swafford,1,0,0,1
+Conway,WASHINGTON WEST,U.S. House,2,LIB,Joe Ryne Swafford,2,0,0,2
+Conway,BIRD,U.S. House,2,LIB,Joe Ryne Swafford,4,0,0,4
+Conway,CATHOLIC POINT,U.S. House,2,LIB,Joe Ryne Swafford,5,0,2,3
+Conway,PETIT JEAN,U.S. House,2,LIB,Joe Ryne Swafford,0,0,0,0
+Conway,NICHOLS,U.S. House,2,LIB,Joe Ryne Swafford,7,0,3,4
+Conway,OLD HICKORY,U.S. House,2,LIB,Joe Ryne Swafford,2,0,0,2
+Conway,WARD 1,U.S. House,2,LIB,Joe Ryne Swafford,7,0,5,2
+Conway,WELBOURNE EAST,U.S. House,2,LIB,Joe Ryne Swafford,5,0,2,3
+Conway,MENIFEE RURAL,U.S. House,2,LIB,Joe Ryne Swafford,1,0,0,1
+Conway,AUSTIN,U.S. House,2,REP,Congressman French Hill,55,1,10,44
+Conway,BENTLEY CITY,U.S. House,2,REP,Congressman French Hill,151,0,41,110
+Conway,WELBOURNE WEST,U.S. House,2,REP,Congressman French Hill,162,2,63,97
+Conway,ST. VINCENT,U.S. House,2,REP,Congressman French Hill,147,4,32,111
+Conway,STEELE,U.S. House,2,REP,Congressman French Hill,137,1,33,103
+Conway,MENIFEE CITY,U.S. House,2,REP,Congressman French Hill,10,2,4,4
+Conway,HOWARD CITY,U.S. House,2,REP,Congressman French Hill,116,1,28,87
+Conway,HIGGINS,U.S. House,2,REP,Congressman French Hill,15,0,0,15
+Conway,CEDAR FALLS,U.S. House,2,REP,Congressman French Hill,77,0,19,58
+Conway,GREGORY,U.S. House,2,REP,Congressman French Hill,86,0,20,66
+Conway,GRIFFIN,U.S. House,2,REP,Congressman French Hill,123,0,24,99
+Conway,LICK MTN.,U.S. House,2,REP,Congressman French Hill,169,2,51,116
+Conway,WASHINGTON EAST,U.S. House,2,REP,Congressman French Hill,278,5,84,189
+Conway,MCCLAREN,U.S. House,2,REP,Congressman French Hill,60,0,18,42
+Conway,HOWARD RURAL,U.S. House,2,REP,Congressman French Hill,115,1,56,58
+Conway,WHITE EAGLE,U.S. House,2,REP,Congressman French Hill,12,0,3,9
+Conway,WARD 3,U.S. House,2,REP,Congressman French Hill,207,2,99,106
+Conway,WARD 4,U.S. House,2,REP,Congressman French Hill,340,5,212,123
+Conway,MARTIN,U.S. House,2,REP,Congressman French Hill,28,0,8,20
+Conway,WARD 2,U.S. House,2,REP,Congressman French Hill,164,4,90,70
+Conway,UNION,U.S. House,2,REP,Congressman French Hill,160,1,31,128
+Conway,BENTLEY RURAL,U.S. House,2,REP,Congressman French Hill,144,3,55,86
+Conway,WASHINGTON WEST,U.S. House,2,REP,Congressman French Hill,84,0,17,67
+Conway,BIRD,U.S. House,2,REP,Congressman French Hill,161,1,42,118
+Conway,CATHOLIC POINT,U.S. House,2,REP,Congressman French Hill,97,2,31,64
+Conway,PETIT JEAN,U.S. House,2,REP,Congressman French Hill,28,1,0,27
+Conway,NICHOLS,U.S. House,2,REP,Congressman French Hill,136,1,34,101
+Conway,OLD HICKORY,U.S. House,2,REP,Congressman French Hill,46,0,9,37
+Conway,WARD 1,U.S. House,2,REP,Congressman French Hill,240,3,124,113
+Conway,WELBOURNE EAST,U.S. House,2,REP,Congressman French Hill,332,6,164,162
+Conway,MENIFEE RURAL,U.S. House,2,REP,Congressman French Hill,30,0,11,19
+Conway,AUSTIN,Governor,,LIB,Mark West,1,0,0,1
+Conway,BENTLEY CITY,Governor,,LIB,Mark West,17,0,0,17
+Conway,WELBOURNE WEST,Governor,,LIB,Mark West,5,0,3,2
+Conway,ST. VINCENT,Governor,,LIB,Mark West,8,0,1,7
+Conway,STEELE,Governor,,LIB,Mark West,3,0,0,3
+Conway,MENIFEE CITY,Governor,,LIB,Mark West,0,0,0,0
+Conway,HOWARD CITY,Governor,,LIB,Mark West,4,0,1,3
+Conway,HIGGINS,Governor,,LIB,Mark West,2,0,0,2
+Conway,CEDAR FALLS,Governor,,LIB,Mark West,2,0,1,1
+Conway,GREGORY,Governor,,LIB,Mark West,3,0,1,2
+Conway,GRIFFIN,Governor,,LIB,Mark West,8,0,3,5
+Conway,LICK MTN.,Governor,,LIB,Mark West,7,0,1,6
+Conway,WASHINGTON EAST,Governor,,LIB,Mark West,7,0,4,3
+Conway,MCCLAREN,Governor,,LIB,Mark West,1,0,0,1
+Conway,HOWARD RURAL,Governor,,LIB,Mark West,3,0,1,2
+Conway,WHITE EAGLE,Governor,,LIB,Mark West,0,0,0,0
+Conway,WARD 3,Governor,,LIB,Mark West,15,0,10,5
+Conway,WARD 4,Governor,,LIB,Mark West,13,0,9,4
+Conway,MARTIN,Governor,,LIB,Mark West,1,0,0,1
+Conway,WARD 2,Governor,,LIB,Mark West,9,0,6,3
+Conway,UNION,Governor,,LIB,Mark West,6,0,2,4
+Conway,BENTLEY RURAL,Governor,,LIB,Mark West,4,0,1,3
+Conway,WASHINGTON WEST,Governor,,LIB,Mark West,3,0,1,2
+Conway,BIRD,Governor,,LIB,Mark West,3,0,0,3
+Conway,CATHOLIC POINT,Governor,,LIB,Mark West,5,0,0,5
+Conway,PETIT JEAN,Governor,,LIB,Mark West,1,0,0,1
+Conway,NICHOLS,Governor,,LIB,Mark West,5,0,4,1
+Conway,OLD HICKORY,Governor,,LIB,Mark West,4,0,0,4
+Conway,WARD 1,Governor,,LIB,Mark West,9,0,4,5
+Conway,WELBOURNE EAST,Governor,,LIB,Mark West,7,0,5,2
+Conway,MENIFEE RURAL,Governor,,LIB,Mark West,4,0,0,4
+Conway,AUSTIN,Governor,,REP,Governor Asa Hutchinson,65,3,10,52
+Conway,BENTLEY CITY,Governor,,REP,Governor Asa Hutchinson,146,0,43,103
+Conway,WELBOURNE WEST,Governor,,REP,Governor Asa Hutchinson,176,2,68,106
+Conway,ST. VINCENT,Governor,,REP,Governor Asa Hutchinson,169,3,35,131
+Conway,STEELE,Governor,,REP,Governor Asa Hutchinson,155,3,39,113
+Conway,MENIFEE CITY,Governor,,REP,Governor Asa Hutchinson,20,2,7,11
+Conway,HOWARD CITY,Governor,,REP,Governor Asa Hutchinson,131,2,25,104
+Conway,HIGGINS,Governor,,REP,Governor Asa Hutchinson,15,0,0,15
+Conway,CEDAR FALLS,Governor,,REP,Governor Asa Hutchinson,89,0,20,69
+Conway,GREGORY,Governor,,REP,Governor Asa Hutchinson,96,1,20,75
+Conway,GRIFFIN,Governor,,REP,Governor Asa Hutchinson,134,0,23,111
+Conway,LICK MTN.,Governor,,REP,Governor Asa Hutchinson,181,2,50,129
+Conway,WASHINGTON EAST,Governor,,REP,Governor Asa Hutchinson,309,5,98,206
+Conway,MCCLAREN,Governor,,REP,Governor Asa Hutchinson,64,0,21,43
+Conway,HOWARD RURAL,Governor,,REP,Governor Asa Hutchinson,124,0,59,65
+Conway,WHITE EAGLE,Governor,,REP,Governor Asa Hutchinson,12,0,3,9
+Conway,WARD 3,Governor,,REP,Governor Asa Hutchinson,234,1,116,117
+Conway,WARD 4,Governor,,REP,Governor Asa Hutchinson,391,8,242,141
+Conway,MARTIN,Governor,,REP,Governor Asa Hutchinson,29,0,8,21
+Conway,WARD 2,Governor,,REP,Governor Asa Hutchinson,185,6,103,76
+Conway,UNION,Governor,,REP,Governor Asa Hutchinson,172,1,34,137
+Conway,BENTLEY RURAL,Governor,,REP,Governor Asa Hutchinson,151,3,56,92
+Conway,WASHINGTON WEST,Governor,,REP,Governor Asa Hutchinson,105,0,20,85
+Conway,BIRD,Governor,,REP,Governor Asa Hutchinson,172,1,45,126
+Conway,CATHOLIC POINT,Governor,,REP,Governor Asa Hutchinson,108,2,37,69
+Conway,PETIT JEAN,Governor,,REP,Governor Asa Hutchinson,31,1,0,30
+Conway,NICHOLS,Governor,,REP,Governor Asa Hutchinson,141,1,32,108
+Conway,OLD HICKORY,Governor,,REP,Governor Asa Hutchinson,49,0,9,40
+Conway,WARD 1,Governor,,REP,Governor Asa Hutchinson,285,5,144,136
+Conway,WELBOURNE EAST,Governor,,REP,Governor Asa Hutchinson,368,6,182,180
+Conway,MENIFEE RURAL,Governor,,REP,Governor Asa Hutchinson,32,0,13,19
+Conway,AUSTIN,Governor,,DEM,Jared K. Henderson,6,0,4,2
+Conway,BENTLEY CITY,Governor,,DEM,Jared K. Henderson,41,1,14,26
+Conway,WELBOURNE WEST,Governor,,DEM,Jared K. Henderson,55,1,31,23
+Conway,ST. VINCENT,Governor,,DEM,Jared K. Henderson,63,4,28,31
+Conway,STEELE,Governor,,DEM,Jared K. Henderson,25,1,7,17
+Conway,MENIFEE CITY,Governor,,DEM,Jared K. Henderson,106,9,28,69
+Conway,HOWARD CITY,Governor,,DEM,Jared K. Henderson,125,37,37,51
+Conway,HIGGINS,Governor,,DEM,Jared K. Henderson,2,0,0,2
+Conway,CEDAR FALLS,Governor,,DEM,Jared K. Henderson,53,0,15,38
+Conway,GREGORY,Governor,,DEM,Jared K. Henderson,28,0,6,22
+Conway,GRIFFIN,Governor,,DEM,Jared K. Henderson,26,1,2,23
+Conway,LICK MTN.,Governor,,DEM,Jared K. Henderson,49,1,20,28
+Conway,WASHINGTON EAST,Governor,,DEM,Jared K. Henderson,76,3,28,45
+Conway,MCCLAREN,Governor,,DEM,Jared K. Henderson,10,0,2,8
+Conway,HOWARD RURAL,Governor,,DEM,Jared K. Henderson,89,22,33,34
+Conway,WHITE EAGLE,Governor,,DEM,Jared K. Henderson,6,0,2,4
+Conway,WARD 3,Governor,,DEM,Jared K. Henderson,203,19,116,68
+Conway,WARD 4,Governor,,DEM,Jared K. Henderson,192,7,137,48
+Conway,MARTIN,Governor,,DEM,Jared K. Henderson,6,0,2,4
+Conway,WARD 2,Governor,,DEM,Jared K. Henderson,114,11,56,47
+Conway,UNION,Governor,,DEM,Jared K. Henderson,103,11,36,56
+Conway,BENTLEY RURAL,Governor,,DEM,Jared K. Henderson,30,4,12,14
+Conway,WASHINGTON WEST,Governor,,DEM,Jared K. Henderson,38,1,10,27
+Conway,BIRD,Governor,,DEM,Jared K. Henderson,58,4,19,35
+Conway,CATHOLIC POINT,Governor,,DEM,Jared K. Henderson,43,2,9,32
+Conway,PETIT JEAN,Governor,,DEM,Jared K. Henderson,9,0,0,9
+Conway,NICHOLS,Governor,,DEM,Jared K. Henderson,51,5,15,31
+Conway,OLD HICKORY,Governor,,DEM,Jared K. Henderson,13,0,4,9
+Conway,WARD 1,Governor,,DEM,Jared K. Henderson,171,26,92,53
+Conway,WELBOURNE EAST,Governor,,DEM,Jared K. Henderson,159,8,101,50
+Conway,MENIFEE RURAL,Governor,,DEM,Jared K. Henderson,16,0,6,10
+Conway,AUSTIN,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,61,3,10,48
+Conway,BENTLEY CITY,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,161,0,44,117
+Conway,WELBOURNE WEST,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,179,2,71,106
+Conway,ST. VINCENT,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,167,3,38,126
+Conway,STEELE,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,153,3,35,115
+Conway,MENIFEE CITY,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,14,2,6,6
+Conway,HOWARD CITY,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,128,1,26,101
+Conway,HIGGINS,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,16,0,0,16
+Conway,CEDAR FALLS,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,88,0,23,65
+Conway,GREGORY,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,93,1,21,71
+Conway,GRIFFIN,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,137,0,25,112
+Conway,LICK MTN.,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,177,2,50,125
+Conway,WASHINGTON EAST,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,305,5,96,204
+Conway,MCCLAREN,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,62,0,20,42
+Conway,HOWARD RURAL,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,123,0,59,64
+Conway,WHITE EAGLE,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,14,0,3,11
+Conway,WARD 3,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,230,1,115,114
+Conway,WARD 4,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,383,5,238,140
+Conway,MARTIN,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,30,0,8,22
+Conway,WARD 2,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,184,8,102,74
+Conway,UNION,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,174,1,37,136
+Conway,BENTLEY RURAL,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,150,3,57,90
+Conway,WASHINGTON WEST,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,95,0,21,74
+Conway,BIRD,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,175,1,44,130
+Conway,CATHOLIC POINT,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,112,2,37,73
+Conway,PETIT JEAN,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,34,1,0,33
+Conway,NICHOLS,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,143,1,32,110
+Conway,OLD HICKORY,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,51,0,9,42
+Conway,WARD 1,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,271,4,136,131
+Conway,WELBOURNE EAST,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,361,6,183,172
+Conway,MENIFEE RURAL,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,33,0,12,21
+Conway,AUSTIN,Lieutenant Governor,,LIB,Frank Gilbert,1,0,0,1
+Conway,BENTLEY CITY,Lieutenant Governor,,LIB,Frank Gilbert,5,0,1,4
+Conway,WELBOURNE WEST,Lieutenant Governor,,LIB,Frank Gilbert,4,0,2,2
+Conway,ST. VINCENT,Lieutenant Governor,,LIB,Frank Gilbert,4,0,1,3
+Conway,STEELE,Lieutenant Governor,,LIB,Frank Gilbert,4,0,0,4
+Conway,MENIFEE CITY,Lieutenant Governor,,LIB,Frank Gilbert,1,0,1,0
+Conway,HOWARD CITY,Lieutenant Governor,,LIB,Frank Gilbert,7,0,3,4
+Conway,HIGGINS,Lieutenant Governor,,LIB,Frank Gilbert,1,0,0,1
+Conway,CEDAR FALLS,Lieutenant Governor,,LIB,Frank Gilbert,1,0,0,1
+Conway,GREGORY,Lieutenant Governor,,LIB,Frank Gilbert,7,0,2,5
+Conway,GRIFFIN,Lieutenant Governor,,LIB,Frank Gilbert,4,0,0,4
+Conway,LICK MTN.,Lieutenant Governor,,LIB,Frank Gilbert,10,0,3,7
+Conway,WASHINGTON EAST,Lieutenant Governor,,LIB,Frank Gilbert,4,0,1,3
+Conway,MCCLAREN,Lieutenant Governor,,LIB,Frank Gilbert,1,0,0,1
+Conway,HOWARD RURAL,Lieutenant Governor,,LIB,Frank Gilbert,2,0,1,1
+Conway,WHITE EAGLE,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0
+Conway,WARD 3,Lieutenant Governor,,LIB,Frank Gilbert,13,0,8,5
+Conway,WARD 4,Lieutenant Governor,,LIB,Frank Gilbert,14,0,11,3
+Conway,MARTIN,Lieutenant Governor,,LIB,Frank Gilbert,1,0,0,1
+Conway,WARD 2,Lieutenant Governor,,LIB,Frank Gilbert,14,0,4,10
+Conway,UNION,Lieutenant Governor,,LIB,Frank Gilbert,5,0,0,5
+Conway,BENTLEY RURAL,Lieutenant Governor,,LIB,Frank Gilbert,1,0,0,1
+Conway,WASHINGTON WEST,Lieutenant Governor,,LIB,Frank Gilbert,4,0,2,2
+Conway,BIRD,Lieutenant Governor,,LIB,Frank Gilbert,4,0,2,2
+Conway,CATHOLIC POINT,Lieutenant Governor,,LIB,Frank Gilbert,3,0,0,3
+Conway,PETIT JEAN,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0
+Conway,NICHOLS,Lieutenant Governor,,LIB,Frank Gilbert,6,0,4,2
+Conway,OLD HICKORY,Lieutenant Governor,,LIB,Frank Gilbert,2,0,0,2
+Conway,WARD 1,Lieutenant Governor,,LIB,Frank Gilbert,10,0,5,5
+Conway,WELBOURNE EAST,Lieutenant Governor,,LIB,Frank Gilbert,6,0,5,1
+Conway,MENIFEE RURAL,Lieutenant Governor,,LIB,Frank Gilbert,2,0,1,1
+Conway,AUSTIN,Lieutenant Governor,,DEM,Anthony Bland,10,0,4,6
+Conway,BENTLEY CITY,Lieutenant Governor,,DEM,Anthony Bland,37,1,11,25
+Conway,WELBOURNE WEST,Lieutenant Governor,,DEM,Anthony Bland,54,1,28,25
+Conway,ST. VINCENT,Lieutenant Governor,,DEM,Anthony Bland,67,3,25,39
+Conway,STEELE,Lieutenant Governor,,DEM,Anthony Bland,26,1,11,14
+Conway,MENIFEE CITY,Lieutenant Governor,,DEM,Anthony Bland,110,9,28,73
+Conway,HOWARD CITY,Lieutenant Governor,,DEM,Anthony Bland,127,38,34,55
+Conway,HIGGINS,Lieutenant Governor,,DEM,Anthony Bland,2,0,0,2
+Conway,CEDAR FALLS,Lieutenant Governor,,DEM,Anthony Bland,55,0,13,42
+Conway,GREGORY,Lieutenant Governor,,DEM,Anthony Bland,29,0,4,25
+Conway,GRIFFIN,Lieutenant Governor,,DEM,Anthony Bland,26,1,2,23
+Conway,LICK MTN.,Lieutenant Governor,,DEM,Anthony Bland,51,1,18,32
+Conway,WASHINGTON EAST,Lieutenant Governor,,DEM,Anthony Bland,78,3,33,42
+Conway,MCCLAREN,Lieutenant Governor,,DEM,Anthony Bland,13,0,3,10
+Conway,HOWARD RURAL,Lieutenant Governor,,DEM,Anthony Bland,92,22,35,35
+Conway,WHITE EAGLE,Lieutenant Governor,,DEM,Anthony Bland,4,0,2,2
+Conway,WARD 3,Lieutenant Governor,,DEM,Anthony Bland,210,19,120,71
+Conway,WARD 4,Lieutenant Governor,,DEM,Anthony Bland,200,10,139,51
+Conway,MARTIN,Lieutenant Governor,,DEM,Anthony Bland,5,0,2,3
+Conway,WARD 2,Lieutenant Governor,,DEM,Anthony Bland,109,9,58,42
+Conway,UNION,Lieutenant Governor,,DEM,Anthony Bland,99,11,35,53
+Conway,BENTLEY RURAL,Lieutenant Governor,,DEM,Anthony Bland,32,4,10,18
+Conway,WASHINGTON WEST,Lieutenant Governor,,DEM,Anthony Bland,46,1,8,37
+Conway,BIRD,Lieutenant Governor,,DEM,Anthony Bland,54,4,18,32
+Conway,CATHOLIC POINT,Lieutenant Governor,,DEM,Anthony Bland,41,2,9,30
+Conway,PETIT JEAN,Lieutenant Governor,,DEM,Anthony Bland,8,0,0,8
+Conway,NICHOLS,Lieutenant Governor,,DEM,Anthony Bland,47,4,14,29
+Conway,OLD HICKORY,Lieutenant Governor,,DEM,Anthony Bland,13,0,4,9
+Conway,WARD 1,Lieutenant Governor,,DEM,Anthony Bland,186,27,101,58
+Conway,WELBOURNE EAST,Lieutenant Governor,,DEM,Anthony Bland,163,8,99,56
+Conway,MENIFEE RURAL,Lieutenant Governor,,DEM,Anthony Bland,17,0,6,11
+Conway,AUSTIN,Attorney General,,LIB,Kerry Hicks,1,0,0,1
+Conway,BENTLEY CITY,Attorney General,,LIB,Kerry Hicks,7,0,3,4
+Conway,WELBOURNE WEST,Attorney General,,LIB,Kerry Hicks,5,0,2,3
+Conway,ST. VINCENT,Attorney General,,LIB,Kerry Hicks,4,0,0,4
+Conway,STEELE,Attorney General,,LIB,Kerry Hicks,5,0,1,4
+Conway,MENIFEE CITY,Attorney General,,LIB,Kerry Hicks,5,0,2,3
+Conway,HOWARD CITY,Attorney General,,LIB,Kerry Hicks,5,0,0,5
+Conway,HIGGINS,Attorney General,,LIB,Kerry Hicks,0,0,0,0
+Conway,CEDAR FALLS,Attorney General,,LIB,Kerry Hicks,4,0,1,3
+Conway,GREGORY,Attorney General,,LIB,Kerry Hicks,4,0,1,3
+Conway,GRIFFIN,Attorney General,,LIB,Kerry Hicks,9,0,2,7
+Conway,LICK MTN.,Attorney General,,LIB,Kerry Hicks,4,0,1,3
+Conway,WASHINGTON EAST,Attorney General,,LIB,Kerry Hicks,9,1,0,8
+Conway,MCCLAREN,Attorney General,,LIB,Kerry Hicks,1,0,0,1
+Conway,HOWARD RURAL,Attorney General,,LIB,Kerry Hicks,2,0,0,2
+Conway,WHITE EAGLE,Attorney General,,LIB,Kerry Hicks,0,0,0,0
+Conway,WARD 3,Attorney General,,LIB,Kerry Hicks,10,0,5,5
+Conway,WARD 4,Attorney General,,LIB,Kerry Hicks,17,0,13,4
+Conway,MARTIN,Attorney General,,LIB,Kerry Hicks,3,0,0,3
+Conway,WARD 2,Attorney General,,LIB,Kerry Hicks,10,0,3,7
+Conway,UNION,Attorney General,,LIB,Kerry Hicks,5,0,1,4
+Conway,BENTLEY RURAL,Attorney General,,LIB,Kerry Hicks,4,0,2,2
+Conway,WASHINGTON WEST,Attorney General,,LIB,Kerry Hicks,4,1,1,2
+Conway,BIRD,Attorney General,,LIB,Kerry Hicks,3,0,0,3
+Conway,CATHOLIC POINT,Attorney General,,LIB,Kerry Hicks,5,0,1,4
+Conway,PETIT JEAN,Attorney General,,LIB,Kerry Hicks,3,0,0,3
+Conway,NICHOLS,Attorney General,,LIB,Kerry Hicks,8,0,5,3
+Conway,OLD HICKORY,Attorney General,,LIB,Kerry Hicks,2,0,0,2
+Conway,WARD 1,Attorney General,,LIB,Kerry Hicks,10,0,2,8
+Conway,WELBOURNE EAST,Attorney General,,LIB,Kerry Hicks,6,0,2,4
+Conway,MENIFEE RURAL,Attorney General,,LIB,Kerry Hicks,1,0,0,1
+Conway,AUSTIN,Attorney General,,REP,Attorney General Leslie Rutledge,58,3,10,45
+Conway,BENTLEY CITY,Attorney General,,REP,Attorney General Leslie Rutledge,154,0,40,114
+Conway,WELBOURNE WEST,Attorney General,,REP,Attorney General Leslie Rutledge,164,0,62,102
+Conway,ST. VINCENT,Attorney General,,REP,Attorney General Leslie Rutledge,157,4,37,116
+Conway,STEELE,Attorney General,,REP,Attorney General Leslie Rutledge,141,3,34,104
+Conway,MENIFEE CITY,Attorney General,,REP,Attorney General Leslie Rutledge,8,0,4,4
+Conway,HOWARD CITY,Attorney General,,REP,Attorney General Leslie Rutledge,118,1,29,88
+Conway,HIGGINS,Attorney General,,REP,Attorney General Leslie Rutledge,16,0,0,16
+Conway,CEDAR FALLS,Attorney General,,REP,Attorney General Leslie Rutledge,82,0,20,62
+Conway,GREGORY,Attorney General,,REP,Attorney General Leslie Rutledge,90,1,21,68
+Conway,GRIFFIN,Attorney General,,REP,Attorney General Leslie Rutledge,122,0,21,101
+Conway,LICK MTN.,Attorney General,,REP,Attorney General Leslie Rutledge,166,2,51,113
+Conway,WASHINGTON EAST,Attorney General,,REP,Attorney General Leslie Rutledge,286,4,89,193
+Conway,MCCLAREN,Attorney General,,REP,Attorney General Leslie Rutledge,61,0,20,41
+Conway,HOWARD RURAL,Attorney General,,REP,Attorney General Leslie Rutledge,111,0,53,58
+Conway,WHITE EAGLE,Attorney General,,REP,Attorney General Leslie Rutledge,12,0,3,9
+Conway,WARD 3,Attorney General,,REP,Attorney General Leslie Rutledge,210,1,106,103
+Conway,WARD 4,Attorney General,,REP,Attorney General Leslie Rutledge,359,5,223,131
+Conway,MARTIN,Attorney General,,REP,Attorney General Leslie Rutledge,28,0,8,20
+Conway,WARD 2,Attorney General,,REP,Attorney General Leslie Rutledge,164,6,92,66
+Conway,UNION,Attorney General,,REP,Attorney General Leslie Rutledge,159,1,32,126
+Conway,BENTLEY RURAL,Attorney General,,REP,Attorney General Leslie Rutledge,146,3,56,87
+Conway,WASHINGTON WEST,Attorney General,,REP,Attorney General Leslie Rutledge,92,0,20,72
+Conway,BIRD,Attorney General,,REP,Attorney General Leslie Rutledge,164,1,43,120
+Conway,CATHOLIC POINT,Attorney General,,REP,Attorney General Leslie Rutledge,98,2,32,64
+Conway,PETIT JEAN,Attorney General,,REP,Attorney General Leslie Rutledge,28,1,0,27
+Conway,NICHOLS,Attorney General,,REP,Attorney General Leslie Rutledge,140,1,32,107
+Conway,OLD HICKORY,Attorney General,,REP,Attorney General Leslie Rutledge,49,0,9,40
+Conway,WARD 1,Attorney General,,REP,Attorney General Leslie Rutledge,249,3,128,118
+Conway,WELBOURNE EAST,Attorney General,,REP,Attorney General Leslie Rutledge,350,6,174,170
+Conway,MENIFEE RURAL,Attorney General,,REP,Attorney General Leslie Rutledge,32,0,12,20
+Conway,AUSTIN,Attorney General,,DEM,Mike Lee,12,0,4,8
+Conway,BENTLEY CITY,Attorney General,,DEM,Mike Lee,42,1,13,28
+Conway,WELBOURNE WEST,Attorney General,,DEM,Mike Lee,68,2,37,29
+Conway,ST. VINCENT,Attorney General,,DEM,Mike Lee,79,3,27,49
+Conway,STEELE,Attorney General,,DEM,Mike Lee,37,1,11,25
+Conway,MENIFEE CITY,Attorney General,,DEM,Mike Lee,112,11,28,73
+Conway,HOWARD CITY,Attorney General,,DEM,Mike Lee,139,38,34,67
+Conway,HIGGINS,Attorney General,,DEM,Mike Lee,3,0,0,3
+Conway,CEDAR FALLS,Attorney General,,DEM,Mike Lee,58,0,15,43
+Conway,GREGORY,Attorney General,,DEM,Mike Lee,36,0,5,31
+Conway,GRIFFIN,Attorney General,,DEM,Mike Lee,36,1,5,30
+Conway,LICK MTN.,Attorney General,,DEM,Mike Lee,67,1,19,47
+Conway,WASHINGTON EAST,Attorney General,,DEM,Mike Lee,95,3,41,51
+Conway,MCCLAREN,Attorney General,,DEM,Mike Lee,14,0,3,11
+Conway,HOWARD RURAL,Attorney General,,DEM,Mike Lee,102,22,41,39
+Conway,WHITE EAGLE,Attorney General,,DEM,Mike Lee,6,0,2,4
+Conway,WARD 3,Attorney General,,DEM,Mike Lee,232,19,131,82
+Conway,WARD 4,Attorney General,,DEM,Mike Lee,223,10,156,57
+Conway,MARTIN,Attorney General,,DEM,Mike Lee,5,0,2,3
+Conway,WARD 2,Attorney General,,DEM,Mike Lee,132,10,69,53
+Conway,UNION,Attorney General,,DEM,Mike Lee,116,11,39,66
+Conway,BENTLEY RURAL,Attorney General,,DEM,Mike Lee,34,4,11,19
+Conway,WASHINGTON WEST,Attorney General,,DEM,Mike Lee,50,0,10,40
+Conway,BIRD,Attorney General,,DEM,Mike Lee,65,4,21,40
+Conway,CATHOLIC POINT,Attorney General,,DEM,Mike Lee,53,2,13,38
+Conway,PETIT JEAN,Attorney General,,DEM,Mike Lee,11,0,0,11
+Conway,NICHOLS,Attorney General,,DEM,Mike Lee,48,5,14,29
+Conway,OLD HICKORY,Attorney General,,DEM,Mike Lee,16,0,4,12
+Conway,WARD 1,Attorney General,,DEM,Mike Lee,204,28,112,64
+Conway,WELBOURNE EAST,Attorney General,,DEM,Mike Lee,177,8,114,55
+Conway,MENIFEE RURAL,Attorney General,,DEM,Mike Lee,19,0,7,12
+Conway,AUSTIN,Secretary of State,,DEM,Susan Inman,15,0,4,11
+Conway,BENTLEY CITY,Secretary of State,,DEM,Susan Inman,41,1,12,28
+Conway,WELBOURNE WEST,Secretary of State,,DEM,Susan Inman,70,1,33,36
+Conway,ST. VINCENT,Secretary of State,,DEM,Susan Inman,90,4,33,53
+Conway,STEELE,Secretary of State,,DEM,Susan Inman,33,1,12,20
+Conway,MENIFEE CITY,Secretary of State,,DEM,Susan Inman,109,11,26,72
+Conway,HOWARD CITY,Secretary of State,,DEM,Susan Inman,125,38,31,56
+Conway,HIGGINS,Secretary of State,,DEM,Susan Inman,3,0,0,3
+Conway,CEDAR FALLS,Secretary of State,,DEM,Susan Inman,56,0,13,43
+Conway,GREGORY,Secretary of State,,DEM,Susan Inman,31,0,5,26
+Conway,GRIFFIN,Secretary of State,,DEM,Susan Inman,40,1,5,34
+Conway,LICK MTN.,Secretary of State,,DEM,Susan Inman,58,1,17,40
+Conway,WASHINGTON EAST,Secretary of State,,DEM,Susan Inman,103,4,41,58
+Conway,MCCLAREN,Secretary of State,,DEM,Susan Inman,17,0,3,14
+Conway,HOWARD RURAL,Secretary of State,,DEM,Susan Inman,97,22,36,39
+Conway,WHITE EAGLE,Secretary of State,,DEM,Susan Inman,6,0,2,4
+Conway,WARD 3,Secretary of State,,DEM,Susan Inman,224,19,122,83
+Conway,WARD 4,Secretary of State,,DEM,Susan Inman,232,10,156,66
+Conway,MARTIN,Secretary of State,,DEM,Susan Inman,6,0,2,4
+Conway,WARD 2,Secretary of State,,DEM,Susan Inman,125,8,64,53
+Conway,UNION,Secretary of State,,DEM,Susan Inman,101,11,34,56
+Conway,BENTLEY RURAL,Secretary of State,,DEM,Susan Inman,42,4,12,26
+Conway,WASHINGTON WEST,Secretary of State,,DEM,Susan Inman,46,1,8,37
+Conway,BIRD,Secretary of State,,DEM,Susan Inman,67,4,19,44
+Conway,CATHOLIC POINT,Secretary of State,,DEM,Susan Inman,59,2,14,43
+Conway,PETIT JEAN,Secretary of State,,DEM,Susan Inman,10,0,0,10
+Conway,NICHOLS,Secretary of State,,DEM,Susan Inman,47,5,14,28
+Conway,OLD HICKORY,Secretary of State,,DEM,Susan Inman,16,0,3,13
+Conway,WARD 1,Secretary of State,,DEM,Susan Inman,208,27,111,70
+Conway,WELBOURNE EAST,Secretary of State,,DEM,Susan Inman,188,8,112,68
+Conway,MENIFEE RURAL,Secretary of State,,DEM,Susan Inman,18,0,6,12
+Conway,AUSTIN,Secretary of State,,REP,John Thurston Commissioner of State Lands,55,3,10,42
+Conway,BENTLEY CITY,Secretary of State,,REP,John Thurston Commissioner of State Lands,154,0,41,113
+Conway,WELBOURNE WEST,Secretary of State,,REP,John Thurston Commissioner of State Lands,164,1,66,97
+Conway,ST. VINCENT,Secretary of State,,REP,John Thurston Commissioner of State Lands,143,3,31,109
+Conway,STEELE,Secretary of State,,REP,John Thurston Commissioner of State Lands,141,3,33,105
+Conway,MENIFEE CITY,Secretary of State,,REP,John Thurston Commissioner of State Lands,9,0,6,3
+Conway,HOWARD CITY,Secretary of State,,REP,John Thurston Commissioner of State Lands,124,1,27,96
+Conway,HIGGINS,Secretary of State,,REP,John Thurston Commissioner of State Lands,15,0,0,15
+Conway,CEDAR FALLS,Secretary of State,,REP,John Thurston Commissioner of State Lands,83,0,23,60
+Conway,GREGORY,Secretary of State,,REP,John Thurston Commissioner of State Lands,87,1,20,66
+Conway,GRIFFIN,Secretary of State,,REP,John Thurston Commissioner of State Lands,122,0,22,100
+Conway,LICK MTN.,Secretary of State,,REP,John Thurston Commissioner of State Lands,173,2,53,118
+Conway,WASHINGTON EAST,Secretary of State,,REP,John Thurston Commissioner of State Lands,269,4,85,180
+Conway,MCCLAREN,Secretary of State,,REP,John Thurston Commissioner of State Lands,58,0,19,39
+Conway,HOWARD RURAL,Secretary of State,,REP,John Thurston Commissioner of State Lands,114,0,56,58
+Conway,WHITE EAGLE,Secretary of State,,REP,John Thurston Commissioner of State Lands,11,0,3,8
+Conway,WARD 3,Secretary of State,,REP,John Thurston Commissioner of State Lands,208,1,107,100
+Conway,WARD 4,Secretary of State,,REP,John Thurston Commissioner of State Lands,344,4,218,122
+Conway,MARTIN,Secretary of State,,REP,John Thurston Commissioner of State Lands,29,0,8,21
+Conway,WARD 2,Secretary of State,,REP,John Thurston Commissioner of State Lands,160,8,88,64
+Conway,UNION,Secretary of State,,REP,John Thurston Commissioner of State Lands,164,1,35,128
+Conway,BENTLEY RURAL,Secretary of State,,REP,John Thurston Commissioner of State Lands,135,3,55,77
+Conway,WASHINGTON WEST,Secretary of State,,REP,John Thurston Commissioner of State Lands,92,0,22,70
+Conway,BIRD,Secretary of State,,REP,John Thurston Commissioner of State Lands,159,1,44,114
+Conway,CATHOLIC POINT,Secretary of State,,REP,John Thurston Commissioner of State Lands,89,2,31,56
+Conway,PETIT JEAN,Secretary of State,,REP,John Thurston Commissioner of State Lands,28,1,0,27
+Conway,NICHOLS,Secretary of State,,REP,John Thurston Commissioner of State Lands,139,1,33,105
+Conway,OLD HICKORY,Secretary of State,,REP,John Thurston Commissioner of State Lands,46,0,10,36
+Conway,WARD 1,Secretary of State,,REP,John Thurston Commissioner of State Lands,237,3,121,113
+Conway,WELBOURNE EAST,Secretary of State,,REP,John Thurston Commissioner of State Lands,325,6,164,155
+Conway,MENIFEE RURAL,Secretary of State,,REP,John Thurston Commissioner of State Lands,32,0,13,19
+Conway,AUSTIN,Secretary of State,,LIB,Christopher Olson,1,0,0,1
+Conway,BENTLEY CITY,Secretary of State,,LIB,Christopher Olson,8,0,3,5
+Conway,WELBOURNE WEST,Secretary of State,,LIB,Christopher Olson,4,0,2,2
+Conway,ST. VINCENT,Secretary of State,,LIB,Christopher Olson,6,0,0,6
+Conway,STEELE,Secretary of State,,LIB,Christopher Olson,7,0,1,6
+Conway,MENIFEE CITY,Secretary of State,,LIB,Christopher Olson,7,0,3,4
+Conway,HOWARD CITY,Secretary of State,,LIB,Christopher Olson,11,0,5,6
+Conway,HIGGINS,Secretary of State,,LIB,Christopher Olson,0,0,0,0
+Conway,CEDAR FALLS,Secretary of State,,LIB,Christopher Olson,3,0,0,3
+Conway,GREGORY,Secretary of State,,LIB,Christopher Olson,10,0,2,8
+Conway,GRIFFIN,Secretary of State,,LIB,Christopher Olson,5,0,0,5
+Conway,LICK MTN.,Secretary of State,,LIB,Christopher Olson,4,0,1,3
+Conway,WASHINGTON EAST,Secretary of State,,LIB,Christopher Olson,16,0,3,13
+Conway,MCCLAREN,Secretary of State,,LIB,Christopher Olson,0,0,0,0
+Conway,HOWARD RURAL,Secretary of State,,LIB,Christopher Olson,4,0,2,2
+Conway,WHITE EAGLE,Secretary of State,,LIB,Christopher Olson,1,0,0,1
+Conway,WARD 3,Secretary of State,,LIB,Christopher Olson,18,0,11,7
+Conway,WARD 4,Secretary of State,,LIB,Christopher Olson,19,1,14,4
+Conway,MARTIN,Secretary of State,,LIB,Christopher Olson,1,0,0,1
+Conway,WARD 2,Secretary of State,,LIB,Christopher Olson,18,0,10,8
+Conway,UNION,Secretary of State,,LIB,Christopher Olson,12,0,3,9
+Conway,BENTLEY RURAL,Secretary of State,,LIB,Christopher Olson,4,0,0,4
+Conway,WASHINGTON WEST,Secretary of State,,LIB,Christopher Olson,7,0,1,6
+Conway,BIRD,Secretary of State,,LIB,Christopher Olson,4,0,0,4
+Conway,CATHOLIC POINT,Secretary of State,,LIB,Christopher Olson,9,0,2,7
+Conway,PETIT JEAN,Secretary of State,,LIB,Christopher Olson,2,0,0,2
+Conway,NICHOLS,Secretary of State,,LIB,Christopher Olson,10,0,3,7
+Conway,OLD HICKORY,Secretary of State,,LIB,Christopher Olson,3,0,0,3
+Conway,WARD 1,Secretary of State,,LIB,Christopher Olson,18,0,10,8
+Conway,WELBOURNE EAST,Secretary of State,,LIB,Christopher Olson,20,0,12,8
+Conway,MENIFEE RURAL,Secretary of State,,LIB,Christopher Olson,2,0,0,2
+Conway,AUSTIN,State Treasurer,,REP,Treasurer of State Dennis Milligan,58,3,10,45
+Conway,BENTLEY CITY,State Treasurer,,REP,Treasurer of State Dennis Milligan,162,0,44,118
+Conway,WELBOURNE WEST,State Treasurer,,REP,Treasurer of State Dennis Milligan,186,0,71,115
+Conway,ST. VINCENT,State Treasurer,,REP,Treasurer of State Dennis Milligan,177,4,44,129
+Conway,STEELE,State Treasurer,,REP,Treasurer of State Dennis Milligan,159,3,39,117
+Conway,MENIFEE CITY,State Treasurer,,REP,Treasurer of State Dennis Milligan,25,3,5,17
+Conway,HOWARD CITY,State Treasurer,,REP,Treasurer of State Dennis Milligan,141,1,30,110
+Conway,HIGGINS,State Treasurer,,REP,Treasurer of State Dennis Milligan,15,0,0,15
+Conway,CEDAR FALLS,State Treasurer,,REP,Treasurer of State Dennis Milligan,98,0,24,74
+Conway,GREGORY,State Treasurer,,REP,Treasurer of State Dennis Milligan,94,1,21,72
+Conway,GRIFFIN,State Treasurer,,REP,Treasurer of State Dennis Milligan,136,0,23,113
+Conway,LICK MTN.,State Treasurer,,REP,Treasurer of State Dennis Milligan,189,2,55,132
+Conway,WASHINGTON EAST,State Treasurer,,REP,Treasurer of State Dennis Milligan,314,5,101,208
+Conway,MCCLAREN,State Treasurer,,REP,Treasurer of State Dennis Milligan,61,0,19,42
+Conway,HOWARD RURAL,State Treasurer,,REP,Treasurer of State Dennis Milligan,130,1,65,64
+Conway,WHITE EAGLE,State Treasurer,,REP,Treasurer of State Dennis Milligan,14,0,5,9
+Conway,WARD 3,State Treasurer,,REP,Treasurer of State Dennis Milligan,245,2,128,115
+Conway,WARD 4,State Treasurer,,REP,Treasurer of State Dennis Milligan,420,8,267,145
+Conway,MARTIN,State Treasurer,,REP,Treasurer of State Dennis Milligan,31,0,9,22
+Conway,WARD 2,State Treasurer,,REP,Treasurer of State Dennis Milligan,199,7,108,84
+Conway,UNION,State Treasurer,,REP,Treasurer of State Dennis Milligan,194,1,46,147
+Conway,BENTLEY RURAL,State Treasurer,,REP,Treasurer of State Dennis Milligan,155,4,58,93
+Conway,WASHINGTON WEST,State Treasurer,,REP,Treasurer of State Dennis Milligan,105,0,21,84
+Conway,BIRD,State Treasurer,,REP,Treasurer of State Dennis Milligan,185,1,51,133
+Conway,CATHOLIC POINT,State Treasurer,,REP,Treasurer of State Dennis Milligan,118,4,42,72
+Conway,PETIT JEAN,State Treasurer,,REP,Treasurer of State Dennis Milligan,32,1,0,31
+Conway,NICHOLS,State Treasurer,,REP,Treasurer of State Dennis Milligan,152,4,39,109
+Conway,OLD HICKORY,State Treasurer,,REP,Treasurer of State Dennis Milligan,51,0,9,42
+Conway,WARD 1,State Treasurer,,REP,Treasurer of State Dennis Milligan,298,4,149,145
+Conway,WELBOURNE EAST,State Treasurer,,REP,Treasurer of State Dennis Milligan,394,8,202,184
+Conway,MENIFEE RURAL,State Treasurer,,REP,Treasurer of State Dennis Milligan,36,0,14,22
+Conway,AUSTIN,State Treasurer,,LIB,Ashley Ewald,10,0,4,6
+Conway,BENTLEY CITY,State Treasurer,,LIB,Ashley Ewald,41,1,12,28
+Conway,WELBOURNE WEST,State Treasurer,,LIB,Ashley Ewald,41,1,23,17
+Conway,ST. VINCENT,State Treasurer,,LIB,Ashley Ewald,52,3,15,34
+Conway,STEELE,State Treasurer,,LIB,Ashley Ewald,19,1,4,14
+Conway,MENIFEE CITY,State Treasurer,,LIB,Ashley Ewald,89,7,29,53
+Conway,HOWARD CITY,State Treasurer,,LIB,Ashley Ewald,96,28,27,41
+Conway,HIGGINS,State Treasurer,,LIB,Ashley Ewald,3,0,0,3
+Conway,CEDAR FALLS,State Treasurer,,LIB,Ashley Ewald,41,0,12,29
+Conway,GREGORY,State Treasurer,,LIB,Ashley Ewald,33,0,6,27
+Conway,GRIFFIN,State Treasurer,,LIB,Ashley Ewald,28,1,2,25
+Conway,LICK MTN.,State Treasurer,,LIB,Ashley Ewald,40,1,14,25
+Conway,WASHINGTON EAST,State Treasurer,,LIB,Ashley Ewald,68,1,26,41
+Conway,MCCLAREN,State Treasurer,,LIB,Ashley Ewald,14,0,4,10
+Conway,HOWARD RURAL,State Treasurer,,LIB,Ashley Ewald,69,19,21,29
+Conway,WHITE EAGLE,State Treasurer,,LIB,Ashley Ewald,2,0,0,2
+Conway,WARD 3,State Treasurer,,LIB,Ashley Ewald,190,18,101,71
+Conway,WARD 4,State Treasurer,,LIB,Ashley Ewald,161,7,113,41
+Conway,MARTIN,State Treasurer,,LIB,Ashley Ewald,5,0,1,4
+Conway,WARD 2,State Treasurer,,LIB,Ashley Ewald,97,9,52,36
+Conway,UNION,State Treasurer,,LIB,Ashley Ewald,72,11,19,42
+Conway,BENTLEY RURAL,State Treasurer,,LIB,Ashley Ewald,21,0,8,13
+Conway,WASHINGTON WEST,State Treasurer,,LIB,Ashley Ewald,40,1,10,29
+Conway,BIRD,State Treasurer,,LIB,Ashley Ewald,39,4,10,25
+Conway,CATHOLIC POINT,State Treasurer,,LIB,Ashley Ewald,32,0,5,27
+Conway,PETIT JEAN,State Treasurer,,LIB,Ashley Ewald,8,0,0,8
+Conway,NICHOLS,State Treasurer,,LIB,Ashley Ewald,37,2,11,24
+Conway,OLD HICKORY,State Treasurer,,LIB,Ashley Ewald,11,0,3,8
+Conway,WARD 1,State Treasurer,,LIB,Ashley Ewald,145,26,80,39
+Conway,WELBOURNE EAST,State Treasurer,,LIB,Ashley Ewald,124,6,77,41
+Conway,MENIFEE RURAL,State Treasurer,,LIB,Ashley Ewald,16,0,5,11
+Conway,AUSTIN,Auditor of State,,REP,Auditor Andrea Lea,64,3,10,51
+Conway,BENTLEY CITY,Auditor of State,,REP,Auditor Andrea Lea,168,0,48,120
+Conway,WELBOURNE WEST,Auditor of State,,REP,Auditor Andrea Lea,192,1,74,117
+Conway,ST. VINCENT,Auditor of State,,REP,Auditor Andrea Lea,183,4,44,135
+Conway,STEELE,Auditor of State,,REP,Auditor Andrea Lea,158,3,39,116
+Conway,MENIFEE CITY,Auditor of State,,REP,Auditor Andrea Lea,27,3,8,16
+Conway,HOWARD CITY,Auditor of State,,REP,Auditor Andrea Lea,142,1,30,111
+Conway,HIGGINS,Auditor of State,,REP,Auditor Andrea Lea,16,0,0,16
+Conway,CEDAR FALLS,Auditor of State,,REP,Auditor Andrea Lea,94,0,25,69
+Conway,GREGORY,Auditor of State,,REP,Auditor Andrea Lea,103,1,22,80
+Conway,GRIFFIN,Auditor of State,,REP,Auditor Andrea Lea,141,1,24,116
+Conway,LICK MTN.,Auditor of State,,REP,Auditor Andrea Lea,185,2,54,129
+Conway,WASHINGTON EAST,Auditor of State,,REP,Auditor Andrea Lea,315,5,104,206
+Conway,MCCLAREN,Auditor of State,,REP,Auditor Andrea Lea,63,0,20,43
+Conway,HOWARD RURAL,Auditor of State,,REP,Auditor Andrea Lea,129,1,64,64
+Conway,WHITE EAGLE,Auditor of State,,REP,Auditor Andrea Lea,13,0,3,10
+Conway,WARD 3,Auditor of State,,REP,Auditor Andrea Lea,249,2,135,112
+Conway,WARD 4,Auditor of State,,REP,Auditor Andrea Lea,429,8,274,147
+Conway,MARTIN,Auditor of State,,REP,Auditor Andrea Lea,31,0,9,22
+Conway,WARD 2,Auditor of State,,REP,Auditor Andrea Lea,196,7,106,83
+Conway,UNION,Auditor of State,,REP,Auditor Andrea Lea,191,1,45,145
+Conway,BENTLEY RURAL,Auditor of State,,REP,Auditor Andrea Lea,160,4,61,95
+Conway,WASHINGTON WEST,Auditor of State,,REP,Auditor Andrea Lea,108,0,22,86
+Conway,BIRD,Auditor of State,,REP,Auditor Andrea Lea,181,1,50,130
+Conway,CATHOLIC POINT,Auditor of State,,REP,Auditor Andrea Lea,120,4,39,77
+Conway,PETIT JEAN,Auditor of State,,REP,Auditor Andrea Lea,37,1,0,36
+Conway,NICHOLS,Auditor of State,,REP,Auditor Andrea Lea,157,4,41,112
+Conway,OLD HICKORY,Auditor of State,,REP,Auditor Andrea Lea,51,0,10,41
+Conway,WARD 1,Auditor of State,,REP,Auditor Andrea Lea,301,4,157,140
+Conway,WELBOURNE EAST,Auditor of State,,REP,Auditor Andrea Lea,393,8,205,180
+Conway,MENIFEE RURAL,Auditor of State,,REP,Auditor Andrea Lea,37,0,14,23
+Conway,AUSTIN,Auditor of State,,LIB,David E. Dinwiddie,6,0,4,2
+Conway,BENTLEY CITY,Auditor of State,,LIB,David E. Dinwiddie,34,1,8,25
+Conway,WELBOURNE WEST,Auditor of State,,LIB,David E. Dinwiddie,34,1,19,14
+Conway,ST. VINCENT,Auditor of State,,LIB,David E. Dinwiddie,45,3,15,27
+Conway,STEELE,Auditor of State,,LIB,David E. Dinwiddie,19,1,4,14
+Conway,MENIFEE CITY,Auditor of State,,LIB,David E. Dinwiddie,87,7,26,54
+Conway,HOWARD CITY,Auditor of State,,LIB,David E. Dinwiddie,101,28,30,43
+Conway,HIGGINS,Auditor of State,,LIB,David E. Dinwiddie,2,0,0,2
+Conway,CEDAR FALLS,Auditor of State,,LIB,David E. Dinwiddie,43,0,11,32
+Conway,GREGORY,Auditor of State,,LIB,David E. Dinwiddie,26,0,5,21
+Conway,GRIFFIN,Auditor of State,,LIB,David E. Dinwiddie,22,0,1,21
+Conway,LICK MTN.,Auditor of State,,LIB,David E. Dinwiddie,45,1,15,29
+Conway,WASHINGTON EAST,Auditor of State,,LIB,David E. Dinwiddie,67,1,23,43
+Conway,MCCLAREN,Auditor of State,,LIB,David E. Dinwiddie,11,0,2,9
+Conway,HOWARD RURAL,Auditor of State,,LIB,David E. Dinwiddie,72,19,23,30
+Conway,WHITE EAGLE,Auditor of State,,LIB,David E. Dinwiddie,5,0,2,3
+Conway,WARD 3,Auditor of State,,LIB,David E. Dinwiddie,185,18,94,73
+Conway,WARD 4,Auditor of State,,LIB,David E. Dinwiddie,150,7,105,38
+Conway,MARTIN,Auditor of State,,LIB,David E. Dinwiddie,5,0,1,4
+Conway,WARD 2,Auditor of State,,LIB,David E. Dinwiddie,100,9,53,38
+Conway,UNION,Auditor of State,,LIB,David E. Dinwiddie,73,11,20,42
+Conway,BENTLEY RURAL,Auditor of State,,LIB,David E. Dinwiddie,17,0,6,11
+Conway,WASHINGTON WEST,Auditor of State,,LIB,David E. Dinwiddie,37,1,9,27
+Conway,BIRD,Auditor of State,,LIB,David E. Dinwiddie,42,4,11,27
+Conway,CATHOLIC POINT,Auditor of State,,LIB,David E. Dinwiddie,31,0,8,23
+Conway,PETIT JEAN,Auditor of State,,LIB,David E. Dinwiddie,4,0,0,4
+Conway,NICHOLS,Auditor of State,,LIB,David E. Dinwiddie,32,2,10,20
+Conway,OLD HICKORY,Auditor of State,,LIB,David E. Dinwiddie,12,0,2,10
+Conway,WARD 1,Auditor of State,,LIB,David E. Dinwiddie,141,26,73,42
+Conway,WELBOURNE EAST,Auditor of State,,LIB,David E. Dinwiddie,122,6,73,43
+Conway,MENIFEE RURAL,Auditor of State,,LIB,David E. Dinwiddie,15,0,5,10
+Conway,AUSTIN,Commissioner of State Lands,,LIB,T.J. Campbell,1,0,0,1
+Conway,BENTLEY CITY,Commissioner of State Lands,,LIB,T.J. Campbell,11,0,1,10
+Conway,WELBOURNE WEST,Commissioner of State Lands,,LIB,T.J. Campbell,7,0,3,4
+Conway,ST. VINCENT,Commissioner of State Lands,,LIB,T.J. Campbell,7,0,0,7
+Conway,STEELE,Commissioner of State Lands,,LIB,T.J. Campbell,3,0,0,3
+Conway,MENIFEE CITY,Commissioner of State Lands,,LIB,T.J. Campbell,5,0,3,2
+Conway,HOWARD CITY,Commissioner of State Lands,,LIB,T.J. Campbell,11,0,3,8
+Conway,HIGGINS,Commissioner of State Lands,,LIB,T.J. Campbell,0,0,0,0
+Conway,CEDAR FALLS,Commissioner of State Lands,,LIB,T.J. Campbell,2,0,1,1
+Conway,GREGORY,Commissioner of State Lands,,LIB,T.J. Campbell,8,0,3,5
+Conway,GRIFFIN,Commissioner of State Lands,,LIB,T.J. Campbell,7,0,1,6
+Conway,LICK MTN.,Commissioner of State Lands,,LIB,T.J. Campbell,3,0,0,3
+Conway,WASHINGTON EAST,Commissioner of State Lands,,LIB,T.J. Campbell,15,0,3,12
+Conway,MCCLAREN,Commissioner of State Lands,,LIB,T.J. Campbell,2,0,0,2
+Conway,HOWARD RURAL,Commissioner of State Lands,,LIB,T.J. Campbell,6,0,2,4
+Conway,WHITE EAGLE,Commissioner of State Lands,,LIB,T.J. Campbell,1,0,0,1
+Conway,WARD 3,Commissioner of State Lands,,LIB,T.J. Campbell,14,0,7,7
+Conway,WARD 4,Commissioner of State Lands,,LIB,T.J. Campbell,21,0,18,3
+Conway,MARTIN,Commissioner of State Lands,,LIB,T.J. Campbell,3,0,0,3
+Conway,WARD 2,Commissioner of State Lands,,LIB,T.J. Campbell,10,0,4,6
+Conway,UNION,Commissioner of State Lands,,LIB,T.J. Campbell,5,0,1,4
+Conway,BENTLEY RURAL,Commissioner of State Lands,,LIB,T.J. Campbell,4,0,0,4
+Conway,WASHINGTON WEST,Commissioner of State Lands,,LIB,T.J. Campbell,6,0,1,5
+Conway,BIRD,Commissioner of State Lands,,LIB,T.J. Campbell,2,0,0,2
+Conway,CATHOLIC POINT,Commissioner of State Lands,,LIB,T.J. Campbell,5,0,2,3
+Conway,PETIT JEAN,Commissioner of State Lands,,LIB,T.J. Campbell,1,0,0,1
+Conway,NICHOLS,Commissioner of State Lands,,LIB,T.J. Campbell,10,0,4,6
+Conway,OLD HICKORY,Commissioner of State Lands,,LIB,T.J. Campbell,1,0,0,1
+Conway,WARD 1,Commissioner of State Lands,,LIB,T.J. Campbell,14,0,7,7
+Conway,WELBOURNE EAST,Commissioner of State Lands,,LIB,T.J. Campbell,8,0,5,3
+Conway,MENIFEE RURAL,Commissioner of State Lands,,LIB,T.J. Campbell,1,0,0,1
+Conway,AUSTIN,Commissioner of State Lands,,REP,Tommy Land,53,3,10,40
+Conway,BENTLEY CITY,Commissioner of State Lands,,REP,Tommy Land,143,0,40,103
+Conway,WELBOURNE WEST,Commissioner of State Lands,,REP,Tommy Land,156,1,63,92
+Conway,ST. VINCENT,Commissioner of State Lands,,REP,Tommy Land,141,3,31,107
+Conway,STEELE,Commissioner of State Lands,,REP,Tommy Land,144,2,36,106
+Conway,MENIFEE CITY,Commissioner of State Lands,,REP,Tommy Land,8,0,5,3
+Conway,HOWARD CITY,Commissioner of State Lands,,REP,Tommy Land,109,1,25,83
+Conway,HIGGINS,Commissioner of State Lands,,REP,Tommy Land,17,0,0,17
+Conway,CEDAR FALLS,Commissioner of State Lands,,REP,Tommy Land,84,0,21,63
+Conway,GREGORY,Commissioner of State Lands,,REP,Tommy Land,82,1,20,61
+Conway,GRIFFIN,Commissioner of State Lands,,REP,Tommy Land,115,0,19,96
+Conway,LICK MTN.,Commissioner of State Lands,,REP,Tommy Land,164,2,48,114
+Conway,WASHINGTON EAST,Commissioner of State Lands,,REP,Tommy Land,272,5,86,181
+Conway,MCCLAREN,Commissioner of State Lands,,REP,Tommy Land,57,0,18,39
+Conway,HOWARD RURAL,Commissioner of State Lands,,REP,Tommy Land,109,0,53,56
+Conway,WHITE EAGLE,Commissioner of State Lands,,REP,Tommy Land,11,0,3,8
+Conway,WARD 3,Commissioner of State Lands,,REP,Tommy Land,206,1,105,100
+Conway,WARD 4,Commissioner of State Lands,,REP,Tommy Land,332,4,205,123
+Conway,MARTIN,Commissioner of State Lands,,REP,Tommy Land,29,0,8,21
+Conway,WARD 2,Commissioner of State Lands,,REP,Tommy Land,155,3,83,69
+Conway,UNION,Commissioner of State Lands,,REP,Tommy Land,154,1,33,120
+Conway,BENTLEY RURAL,Commissioner of State Lands,,REP,Tommy Land,141,3,56,82
+Conway,WASHINGTON WEST,Commissioner of State Lands,,REP,Tommy Land,81,0,19,62
+Conway,BIRD,Commissioner of State Lands,,REP,Tommy Land,162,1,44,117
+Conway,CATHOLIC POINT,Commissioner of State Lands,,REP,Tommy Land,91,1,31,59
+Conway,PETIT JEAN,Commissioner of State Lands,,REP,Tommy Land,28,1,0,27
+Conway,NICHOLS,Commissioner of State Lands,,REP,Tommy Land,134,1,30,103
+Conway,OLD HICKORY,Commissioner of State Lands,,REP,Tommy Land,46,0,9,37
+Conway,WARD 1,Commissioner of State Lands,,REP,Tommy Land,225,3,112,110
+Conway,WELBOURNE EAST,Commissioner of State Lands,,REP,Tommy Land,324,4,163,157
+Conway,MENIFEE RURAL,Commissioner of State Lands,,REP,Tommy Land,32,0,12,20
+Conway,AUSTIN,Commissioner of State Lands,,DEM,Larry Williams,17,0,4,13
+Conway,BENTLEY CITY,Commissioner of State Lands,,DEM,Larry Williams,49,1,15,33
+Conway,WELBOURNE WEST,Commissioner of State Lands,,DEM,Larry Williams,72,1,35,36
+Conway,ST. VINCENT,Commissioner of State Lands,,DEM,Larry Williams,91,3,33,55
+Conway,STEELE,Commissioner of State Lands,,DEM,Larry Williams,31,1,10,20
+Conway,MENIFEE CITY,Commissioner of State Lands,,DEM,Larry Williams,111,11,26,74
+Conway,HOWARD CITY,Commissioner of State Lands,,DEM,Larry Williams,139,38,35,66
+Conway,HIGGINS,Commissioner of State Lands,,DEM,Larry Williams,2,0,0,2
+Conway,CEDAR FALLS,Commissioner of State Lands,,DEM,Larry Williams,57,0,14,43
+Conway,GREGORY,Commissioner of State Lands,,DEM,Larry Williams,40,0,4,36
+Conway,GRIFFIN,Commissioner of State Lands,,DEM,Larry Williams,45,1,7,37
+Conway,LICK MTN.,Commissioner of State Lands,,DEM,Larry Williams,69,1,23,45
+Conway,WASHINGTON EAST,Commissioner of State Lands,,DEM,Larry Williams,100,3,40,57
+Conway,MCCLAREN,Commissioner of State Lands,,DEM,Larry Williams,16,0,5,11
+Conway,HOWARD RURAL,Commissioner of State Lands,,DEM,Larry Williams,101,22,40,39
+Conway,WHITE EAGLE,Commissioner of State Lands,,DEM,Larry Williams,6,0,2,4
+Conway,WARD 3,Commissioner of State Lands,,DEM,Larry Williams,224,19,126,79
+Conway,WARD 4,Commissioner of State Lands,,DEM,Larry Williams,237,11,164,62
+Conway,MARTIN,Commissioner of State Lands,,DEM,Larry Williams,4,0,2,2
+Conway,WARD 2,Commissioner of State Lands,,DEM,Larry Williams,140,14,75,51
+Conway,UNION,Commissioner of State Lands,,DEM,Larry Williams,118,11,36,71
+Conway,BENTLEY RURAL,Commissioner of State Lands,,DEM,Larry Williams,34,4,11,19
+Conway,WASHINGTON WEST,Commissioner of State Lands,,DEM,Larry Williams,57,0,11,46
+Conway,BIRD,Commissioner of State Lands,,DEM,Larry Williams,66,4,20,42
+Conway,CATHOLIC POINT,Commissioner of State Lands,,DEM,Larry Williams,58,3,14,41
+Conway,PETIT JEAN,Commissioner of State Lands,,DEM,Larry Williams,11,0,0,11
+Conway,NICHOLS,Commissioner of State Lands,,DEM,Larry Williams,53,5,17,31
+Conway,OLD HICKORY,Commissioner of State Lands,,DEM,Larry Williams,19,0,4,15
+Conway,WARD 1,Commissioner of State Lands,,DEM,Larry Williams,221,28,121,72
+Conway,WELBOURNE EAST,Commissioner of State Lands,,DEM,Larry Williams,199,10,120,69
+Conway,MENIFEE RURAL,Commissioner of State Lands,,DEM,Larry Williams,19,0,7,12
+Conway,AUSTIN,State Representative,65,REP,Representative Rick Beck,54,3,10,41
+Conway,BENTLEY CITY,State Representative,65,REP,Representative Rick Beck,162,0,44,118
+Conway,WELBOURNE WEST,State Representative,65,REP,Representative Rick Beck,173,2,68,103
+Conway,ST. VINCENT,State Representative,65,REP,Representative Rick Beck,177,3,37,137
+Conway,STEELE,State Representative,65,REP,Representative Rick Beck,144,2,31,111
+Conway,MENIFEE CITY,State Representative,65,REP,Representative Rick Beck,13,0,6,7
+Conway,HOWARD CITY,State Representative,65,REP,Representative Rick Beck,128,1,26,101
+Conway,HIGGINS,State Representative,65,REP,Representative Rick Beck,17,0,0,17
+Conway,CEDAR FALLS,State Representative,65,REP,Representative Rick Beck,87,0,21,66
+Conway,GREGORY,State Representative,65,REP,Representative Rick Beck,92,0,23,69
+Conway,GRIFFIN,State Representative,65,REP,Representative Rick Beck,134,1,23,110
+Conway,LICK MTN.,State Representative,65,REP,Representative Rick Beck,173,2,48,123
+Conway,WASHINGTON EAST,State Representative,65,REP,Representative Rick Beck,296,5,94,197
+Conway,MCCLAREN,State Representative,65,REP,Representative Rick Beck,60,0,21,39
+Conway,HOWARD RURAL,State Representative,65,REP,Representative Rick Beck,114,1,53,60
+Conway,WHITE EAGLE,State Representative,65,REP,Representative Rick Beck,12,0,3,9
+Conway,WARD 3,State Representative,65,REP,Representative Rick Beck,222,1,109,112
+Conway,WARD 4,State Representative,65,REP,Representative Rick Beck,378,6,241,131
+Conway,MARTIN,State Representative,65,REP,Representative Rick Beck,29,0,8,21
+Conway,WARD 2,State Representative,65,REP,Representative Rick Beck,173,6,89,78
+Conway,UNION,State Representative,65,REP,Representative Rick Beck,166,1,37,128
+Conway,BENTLEY RURAL,State Representative,65,REP,Representative Rick Beck,149,3,58,88
+Conway,WASHINGTON WEST,State Representative,65,REP,Representative Rick Beck,99,0,21,78
+Conway,BIRD,State Representative,65,REP,Representative Rick Beck,173,1,44,128
+Conway,CATHOLIC POINT,State Representative,65,REP,Representative Rick Beck,111,2,32,77
+Conway,NICHOLS,State Representative,65,REP,Representative Rick Beck,147,1,35,111
+Conway,OLD HICKORY,State Representative,65,REP,Representative Rick Beck,52,0,9,43
+Conway,WARD 1,State Representative,65,REP,Representative Rick Beck,278,4,143,131
+Conway,WELBOURNE EAST,State Representative,65,REP,Representative Rick Beck,351,6,174,171
+Conway,MENIFEE RURAL,State Representative,65,REP,Representative Rick Beck,34,0,13,21
+Conway,AUSTIN,State Representative,65,DEM,Michael J. Roetzel,17,0,4,13
+Conway,BENTLEY CITY,State Representative,65,DEM,Michael J. Roetzel,41,1,13,27
+Conway,WELBOURNE WEST,State Representative,65,DEM,Michael J. Roetzel,65,1,33,31
+Conway,ST. VINCENT,State Representative,65,DEM,Michael J. Roetzel,64,4,27,33
+Conway,STEELE,State Representative,65,DEM,Michael J. Roetzel,34,1,15,18
+Conway,MENIFEE CITY,State Representative,65,DEM,Michael J. Roetzel,112,11,29,72
+Conway,HOWARD CITY,State Representative,65,DEM,Michael J. Roetzel,129,38,34,57
+Conway,HIGGINS,State Representative,65,DEM,Michael J. Roetzel,2,0,0,2
+Conway,CEDAR FALLS,State Representative,65,DEM,Michael J. Roetzel,57,0,15,42
+Conway,GREGORY,State Representative,65,DEM,Michael J. Roetzel,39,1,4,34
+Conway,GRIFFIN,State Representative,65,DEM,Michael J. Roetzel,34,0,5,29
+Conway,LICK MTN.,State Representative,65,DEM,Michael J. Roetzel,64,1,23,40
+Conway,WASHINGTON EAST,State Representative,65,DEM,Michael J. Roetzel,92,3,36,53
+Conway,MCCLAREN,State Representative,65,DEM,Michael J. Roetzel,15,0,2,13
+Conway,HOWARD RURAL,State Representative,65,DEM,Michael J. Roetzel,102,21,40,41
+Conway,WHITE EAGLE,State Representative,65,DEM,Michael J. Roetzel,6,0,2,4
+Conway,WARD 3,State Representative,65,DEM,Michael J. Roetzel,229,19,131,79
+Conway,WARD 4,State Representative,65,DEM,Michael J. Roetzel,219,9,149,61
+Conway,MARTIN,State Representative,65,DEM,Michael J. Roetzel,7,0,2,5
+Conway,WARD 2,State Representative,65,DEM,Michael J. Roetzel,136,11,75,50
+Conway,UNION,State Representative,65,DEM,Michael J. Roetzel,113,11,35,67
+Conway,BENTLEY RURAL,State Representative,65,DEM,Michael J. Roetzel,36,4,10,22
+Conway,WASHINGTON WEST,State Representative,65,DEM,Michael J. Roetzel,46,1,10,35
+Conway,BIRD,State Representative,65,DEM,Michael J. Roetzel,60,4,20,36
+Conway,CATHOLIC POINT,State Representative,65,DEM,Michael J. Roetzel,46,2,15,29
+Conway,NICHOLS,State Representative,65,DEM,Michael J. Roetzel,50,5,17,28
+Conway,OLD HICKORY,State Representative,65,DEM,Michael J. Roetzel,15,0,4,11
+Conway,WARD 1,State Representative,65,DEM,Michael J. Roetzel,188,27,99,62
+Conway,WELBOURNE EAST,State Representative,65,DEM,Michael J. Roetzel,180,6,115,59
+Conway,MENIFEE RURAL,State Representative,65,DEM,Michael J. Roetzel,18,0,6,12
+Conway,PETIT JEAN,State Representative,73,DEM,Dana Bonham,10,0,0,10
+Conway,PETIT JEAN,State Representative,73,REP,State Representative Mary Bentley,32,1,0,31
+Conway,AUSTIN,COUNTY CLERK,,DEM,COUNTY CLERK DEBBIE HARTMAN,23,2,4,17
+Conway,BENTLEY CITY,COUNTY CLERK,,DEM,COUNTY CLERK DEBBIE HARTMAN,110,1,29,80
+Conway,WELBOURNE WEST,COUNTY CLERK,,DEM,COUNTY CLERK DEBBIE HARTMAN,145,2,62,81
+Conway,ST. VINCENT,COUNTY CLERK,,DEM,COUNTY CLERK DEBBIE HARTMAN,152,7,40,105
+Conway,STEELE,COUNTY CLERK,,DEM,COUNTY CLERK DEBBIE HARTMAN,94,3,23,68
+Conway,MENIFEE CITY,COUNTY CLERK,,DEM,COUNTY CLERK DEBBIE HARTMAN,115,11,29,75
+Conway,HOWARD CITY,COUNTY CLERK,,DEM,COUNTY CLERK DEBBIE HARTMAN,192,38,48,106
+Conway,HIGGINS,COUNTY CLERK,,DEM,COUNTY CLERK DEBBIE HARTMAN,6,0,0,6
+Conway,CEDAR FALLS,COUNTY CLERK,,DEM,COUNTY CLERK DEBBIE HARTMAN,81,0,19,62
+Conway,GREGORY,COUNTY CLERK,,DEM,COUNTY CLERK DEBBIE HARTMAN,60,0,10,50
+Conway,GRIFFIN,COUNTY CLERK,,DEM,COUNTY CLERK DEBBIE HARTMAN,75,1,14,60
+Conway,LICK MTN.,COUNTY CLERK,,DEM,COUNTY CLERK DEBBIE HARTMAN,83,1,25,57
+Conway,WASHINGTON EAST,COUNTY CLERK,,DEM,COUNTY CLERK DEBBIE HARTMAN,206,4,84,118
+Conway,MCCLAREN,COUNTY CLERK,,DEM,COUNTY CLERK DEBBIE HARTMAN,31,0,6,25
+Conway,HOWARD RURAL,COUNTY CLERK,,DEM,COUNTY CLERK DEBBIE HARTMAN,136,22,58,56
+Conway,WHITE EAGLE,COUNTY CLERK,,DEM,COUNTY CLERK DEBBIE HARTMAN,8,0,3,5
+Conway,WARD 3,COUNTY CLERK,,DEM,COUNTY CLERK DEBBIE HARTMAN,326,20,170,136
+Conway,WARD 4,COUNTY CLERK,,DEM,COUNTY CLERK DEBBIE HARTMAN,407,14,276,117
+Conway,MARTIN,COUNTY CLERK,,DEM,COUNTY CLERK DEBBIE HARTMAN,20,0,5,15
+Conway,WARD 2,COUNTY CLERK,,DEM,COUNTY CLERK DEBBIE HARTMAN,209,17,109,83
+Conway,UNION,COUNTY CLERK,,DEM,COUNTY CLERK DEBBIE HARTMAN,147,11,42,94
+Conway,BENTLEY RURAL,COUNTY CLERK,,DEM,COUNTY CLERK DEBBIE HARTMAN,92,6,29,57
+Conway,WASHINGTON WEST,COUNTY CLERK,,DEM,COUNTY CLERK DEBBIE HARTMAN,85,0,20,65
+Conway,BIRD,COUNTY CLERK,,DEM,COUNTY CLERK DEBBIE HARTMAN,91,5,33,53
+Conway,CATHOLIC POINT,COUNTY CLERK,,DEM,COUNTY CLERK DEBBIE HARTMAN,75,4,21,50
+Conway,PETIT JEAN,COUNTY CLERK,,DEM,COUNTY CLERK DEBBIE HARTMAN,17,0,0,17
+Conway,NICHOLS,COUNTY CLERK,,DEM,COUNTY CLERK DEBBIE HARTMAN,82,6,23,53
+Conway,OLD HICKORY,COUNTY CLERK,,DEM,COUNTY CLERK DEBBIE HARTMAN,29,0,7,22
+Conway,WARD 1,COUNTY CLERK,,DEM,COUNTY CLERK DEBBIE HARTMAN,321,30,169,122
+Conway,WELBOURNE EAST,COUNTY CLERK,,DEM,COUNTY CLERK DEBBIE HARTMAN,339,13,187,139
+Conway,MENIFEE RURAL,COUNTY CLERK,,DEM,COUNTY CLERK DEBBIE HARTMAN,23,0,9,14
+Conway,AUSTIN,COUNTY CLERK,,REP,JEREMY KISSIRE,49,1,10,38
+Conway,BENTLEY CITY,COUNTY CLERK,,REP,JEREMY KISSIRE,94,0,28,66
+Conway,WELBOURNE WEST,COUNTY CLERK,,REP,JEREMY KISSIRE,92,1,39,52
+Conway,ST. VINCENT,COUNTY CLERK,,REP,JEREMY KISSIRE,89,0,24,65
+Conway,STEELE,COUNTY CLERK,,REP,JEREMY KISSIRE,88,0,23,65
+Conway,MENIFEE CITY,COUNTY CLERK,,REP,JEREMY KISSIRE,9,0,6,3
+Conway,HOWARD CITY,COUNTY CLERK,,REP,JEREMY KISSIRE,67,1,13,53
+Conway,HIGGINS,COUNTY CLERK,,REP,JEREMY KISSIRE,13,0,0,13
+Conway,CEDAR FALLS,COUNTY CLERK,,REP,JEREMY KISSIRE,63,0,18,45
+Conway,GREGORY,COUNTY CLERK,,REP,JEREMY KISSIRE,71,1,17,53
+Conway,GRIFFIN,COUNTY CLERK,,REP,JEREMY KISSIRE,92,0,14,78
+Conway,LICK MTN.,COUNTY CLERK,,REP,JEREMY KISSIRE,152,2,45,105
+Conway,WASHINGTON EAST,COUNTY CLERK,,REP,JEREMY KISSIRE,186,4,45,137
+Conway,MCCLAREN,COUNTY CLERK,,REP,JEREMY KISSIRE,45,0,17,28
+Conway,HOWARD RURAL,COUNTY CLERK,,REP,JEREMY KISSIRE,81,0,36,45
+Conway,WHITE EAGLE,COUNTY CLERK,,REP,JEREMY KISSIRE,10,0,2,8
+Conway,WARD 3,COUNTY CLERK,,REP,JEREMY KISSIRE,125,0,70,55
+Conway,WARD 4,COUNTY CLERK,,REP,JEREMY KISSIRE,191,1,116,74
+Conway,MARTIN,COUNTY CLERK,,REP,JEREMY KISSIRE,16,0,5,11
+Conway,WARD 2,COUNTY CLERK,,REP,JEREMY KISSIRE,100,0,55,45
+Conway,UNION,COUNTY CLERK,,REP,JEREMY KISSIRE,133,1,30,102
+Conway,BENTLEY RURAL,COUNTY CLERK,,REP,JEREMY KISSIRE,91,1,39,51
+Conway,WASHINGTON WEST,COUNTY CLERK,,REP,JEREMY KISSIRE,60,0,11,49
+Conway,BIRD,COUNTY CLERK,,REP,JEREMY KISSIRE,142,0,31,111
+Conway,CATHOLIC POINT,COUNTY CLERK,,REP,JEREMY KISSIRE,82,0,26,56
+Conway,PETIT JEAN,COUNTY CLERK,,REP,JEREMY KISSIRE,24,1,0,23
+Conway,NICHOLS,COUNTY CLERK,,REP,JEREMY KISSIRE,115,0,27,88
+Conway,OLD HICKORY,COUNTY CLERK,,REP,JEREMY KISSIRE,37,0,6,31
+Conway,WARD 1,COUNTY CLERK,,REP,JEREMY KISSIRE,146,1,73,72
+Conway,WELBOURNE EAST,COUNTY CLERK,,REP,JEREMY KISSIRE,195,1,102,92
+Conway,MENIFEE RURAL,COUNTY CLERK,,REP,JEREMY KISSIRE,29,0,10,19
+Conway,AUSTIN,CORONER,,REP,DENNIS B. DECKER,51,2,10,39
+Conway,BENTLEY CITY,CORONER,,REP,DENNIS B. DECKER,154,0,42,112
+Conway,WELBOURNE WEST,CORONER,,REP,DENNIS B. DECKER,157,1,58,98
+Conway,ST. VINCENT,CORONER,,REP,DENNIS B. DECKER,143,3,35,105
+Conway,STEELE,CORONER,,REP,DENNIS B. DECKER,139,2,36,101
+Conway,MENIFEE CITY,CORONER,,REP,DENNIS B. DECKER,10,0,6,4
+Conway,HOWARD CITY,CORONER,,REP,DENNIS B. DECKER,111,2,22,87
+Conway,HIGGINS,CORONER,,REP,DENNIS B. DECKER,17,0,0,17
+Conway,CEDAR FALLS,CORONER,,REP,DENNIS B. DECKER,81,0,20,61
+Conway,GREGORY,CORONER,,REP,DENNIS B. DECKER,81,1,21,59
+Conway,GRIFFIN,CORONER,,REP,DENNIS B. DECKER,120,0,22,98
+Conway,LICK MTN.,CORONER,,REP,DENNIS B. DECKER,167,1,48,118
+Conway,WASHINGTON EAST,CORONER,,REP,DENNIS B. DECKER,281,6,86,189
+Conway,MCCLAREN,CORONER,,REP,DENNIS B. DECKER,56,0,17,39
+Conway,HOWARD RURAL,CORONER,,REP,DENNIS B. DECKER,110,1,52,57
+Conway,WHITE EAGLE,CORONER,,REP,DENNIS B. DECKER,12,0,3,9
+Conway,WARD 3,CORONER,,REP,DENNIS B. DECKER,213,1,108,104
+Conway,WARD 4,CORONER,,REP,DENNIS B. DECKER,349,5,214,130
+Conway,MARTIN,CORONER,,REP,DENNIS B. DECKER,30,0,8,22
+Conway,WARD 2,CORONER,,REP,DENNIS B. DECKER,168,5,95,68
+Conway,UNION,CORONER,,REP,DENNIS B. DECKER,163,1,34,128
+Conway,BENTLEY RURAL,CORONER,,REP,DENNIS B. DECKER,144,3,55,86
+Conway,WASHINGTON WEST,CORONER,,REP,DENNIS B. DECKER,93,0,19,74
+Conway,BIRD,CORONER,,REP,DENNIS B. DECKER,165,1,43,121
+Conway,CATHOLIC POINT,CORONER,,REP,DENNIS B. DECKER,93,1,31,61
+Conway,PETIT JEAN,CORONER,,REP,DENNIS B. DECKER,31,1,0,30
+Conway,NICHOLS,CORONER,,REP,DENNIS B. DECKER,140,1,36,103
+Conway,OLD HICKORY,CORONER,,REP,DENNIS B. DECKER,41,0,8,33
+Conway,WARD 1,CORONER,,REP,DENNIS B. DECKER,251,4,128,119
+Conway,WELBOURNE EAST,CORONER,,REP,DENNIS B. DECKER,320,6,160,154
+Conway,MENIFEE RURAL,CORONER,,REP,DENNIS B. DECKER,32,0,11,21
+Conway,AUSTIN,CORONER,,DEM,STACY DELK,21,1,4,16
+Conway,BENTLEY CITY,CORONER,,DEM,STACY DELK,47,1,13,33
+Conway,WELBOURNE WEST,CORONER,,DEM,STACY DELK,78,1,42,35
+Conway,ST. VINCENT,CORONER,,DEM,STACY DELK,93,3,28,62
+Conway,STEELE,CORONER,,DEM,STACY DELK,39,1,10,28
+Conway,MENIFEE CITY,CORONER,,DEM,STACY DELK,114,11,29,74
+Conway,HOWARD CITY,CORONER,,DEM,STACY DELK,147,36,40,71
+Conway,HIGGINS,CORONER,,DEM,STACY DELK,2,0,0,2
+Conway,CEDAR FALLS,CORONER,,DEM,STACY DELK,59,0,15,44
+Conway,GREGORY,CORONER,,DEM,STACY DELK,46,0,6,40
+Conway,GRIFFIN,CORONER,,DEM,STACY DELK,45,1,5,39
+Conway,LICK MTN.,CORONER,,DEM,STACY DELK,70,2,23,45
+Conway,WASHINGTON EAST,CORONER,,DEM,STACY DELK,102,1,41,60
+Conway,MCCLAREN,CORONER,,DEM,STACY DELK,20,0,6,14
+Conway,HOWARD RURAL,CORONER,,DEM,STACY DELK,103,21,39,43
+Conway,WHITE EAGLE,CORONER,,DEM,STACY DELK,6,0,2,4
+Conway,WARD 3,CORONER,,DEM,STACY DELK,234,19,128,87
+Conway,WARD 4,CORONER,,DEM,STACY DELK,242,9,172,61
+Conway,MARTIN,CORONER,,DEM,STACY DELK,6,0,2,4
+Conway,WARD 2,CORONER,,DEM,STACY DELK,139,12,67,60
+Conway,UNION,CORONER,,DEM,STACY DELK,115,11,38,66
+Conway,BENTLEY RURAL,CORONER,,DEM,STACY DELK,37,4,12,21
+Conway,WASHINGTON WEST,CORONER,,DEM,STACY DELK,51,1,11,39
+Conway,BIRD,CORONER,,DEM,STACY DELK,64,4,20,40
+Conway,CATHOLIC POINT,CORONER,,DEM,STACY DELK,63,3,16,44
+Conway,PETIT JEAN,CORONER,,DEM,STACY DELK,11,0,0,11
+Conway,NICHOLS,CORONER,,DEM,STACY DELK,56,5,15,36
+Conway,OLD HICKORY,CORONER,,DEM,STACY DELK,22,0,4,18
+Conway,WARD 1,CORONER,,DEM,STACY DELK,211,28,113,70
+Conway,WELBOURNE EAST,CORONER,,DEM,STACY DELK,210,8,128,74
+Conway,MENIFEE RURAL,CORONER,,DEM,STACY DELK,20,0,8,12
+Conway,AUSTIN,CIRCUIT CLERK,,DEM,CIRCUIT CLERK DARLENE MASSINGILL,53,3,11,39
+Conway,BENTLEY CITY,CIRCUIT CLERK,,DEM,CIRCUIT CLERK DARLENE MASSINGILL,171,1,43,127
+Conway,WELBOURNE WEST,CIRCUIT CLERK,,DEM,CIRCUIT CLERK DARLENE MASSINGILL,193,2,81,110
+Conway,ST. VINCENT,CIRCUIT CLERK,,DEM,CIRCUIT CLERK DARLENE MASSINGILL,207,6,54,147
+Conway,STEELE,CIRCUIT CLERK,,DEM,CIRCUIT CLERK DARLENE MASSINGILL,134,3,34,97
+Conway,MENIFEE CITY,CIRCUIT CLERK,,DEM,CIRCUIT CLERK DARLENE MASSINGILL,120,9,34,77
+Conway,HOWARD CITY,CIRCUIT CLERK,,DEM,CIRCUIT CLERK DARLENE MASSINGILL,224,37,55,132
+Conway,HIGGINS,CIRCUIT CLERK,,DEM,CIRCUIT CLERK DARLENE MASSINGILL,17,0,0,17
+Conway,CEDAR FALLS,CIRCUIT CLERK,,DEM,CIRCUIT CLERK DARLENE MASSINGILL,109,0,24,85
+Conway,GREGORY,CIRCUIT CLERK,,DEM,CIRCUIT CLERK DARLENE MASSINGILL,108,1,22,85
+Conway,GRIFFIN,CIRCUIT CLERK,,DEM,CIRCUIT CLERK DARLENE MASSINGILL,134,1,20,113
+Conway,LICK MTN.,CIRCUIT CLERK,,DEM,CIRCUIT CLERK DARLENE MASSINGILL,183,3,51,129
+Conway,WASHINGTON EAST,CIRCUIT CLERK,,DEM,CIRCUIT CLERK DARLENE MASSINGILL,298,5,105,188
+Conway,MCCLAREN,CIRCUIT CLERK,,DEM,CIRCUIT CLERK DARLENE MASSINGILL,62,0,18,44
+Conway,HOWARD RURAL,CIRCUIT CLERK,,DEM,CIRCUIT CLERK DARLENE MASSINGILL,178,22,76,80
+Conway,WHITE EAGLE,CIRCUIT CLERK,,DEM,CIRCUIT CLERK DARLENE MASSINGILL,13,0,4,9
+Conway,WARD 3,CIRCUIT CLERK,,DEM,CIRCUIT CLERK DARLENE MASSINGILL,409,19,214,176
+Conway,WARD 4,CIRCUIT CLERK,,DEM,CIRCUIT CLERK DARLENE MASSINGILL,519,15,342,162
+Conway,MARTIN,CIRCUIT CLERK,,DEM,CIRCUIT CLERK DARLENE MASSINGILL,30,0,7,23
+Conway,WARD 2,CIRCUIT CLERK,,DEM,CIRCUIT CLERK DARLENE MASSINGILL,271,15,142,114
+Conway,UNION,CIRCUIT CLERK,,DEM,CIRCUIT CLERK DARLENE MASSINGILL,223,11,55,157
+Conway,BENTLEY RURAL,CIRCUIT CLERK,,DEM,CIRCUIT CLERK DARLENE MASSINGILL,142,4,54,84
+Conway,WASHINGTON WEST,CIRCUIT CLERK,,DEM,CIRCUIT CLERK DARLENE MASSINGILL,126,1,25,100
+Conway,BIRD,CIRCUIT CLERK,,DEM,CIRCUIT CLERK DARLENE MASSINGILL,195,5,54,136
+Conway,CATHOLIC POINT,CIRCUIT CLERK,,DEM,CIRCUIT CLERK DARLENE MASSINGILL,135,4,39,92
+Conway,PETIT JEAN,CIRCUIT CLERK,,DEM,CIRCUIT CLERK DARLENE MASSINGILL,29,0,0,29
+Conway,NICHOLS,CIRCUIT CLERK,,DEM,CIRCUIT CLERK DARLENE MASSINGILL,154,6,36,112
+Conway,OLD HICKORY,CIRCUIT CLERK,,DEM,CIRCUIT CLERK DARLENE MASSINGILL,54,0,10,44
+Conway,WARD 1,CIRCUIT CLERK,,DEM,CIRCUIT CLERK DARLENE MASSINGILL,388,30,203,155
+Conway,WELBOURNE EAST,CIRCUIT CLERK,,DEM,CIRCUIT CLERK DARLENE MASSINGILL,452,10,247,195
+Conway,MENIFEE RURAL,CIRCUIT CLERK,,DEM,CIRCUIT CLERK DARLENE MASSINGILL,43,0,16,27
+Conway,WASHINGTON EAST,JP DIST. 5,,DEM,TRENTON ANDERSON,135,2,53,80
+Conway,MCCLAREN,JP DIST. 5,,DEM,TRENTON ANDERSON,11,0,0,11
+Conway,UNION,JP DIST. 5,,DEM,TRENTON ANDERSON,7,0,1,6
+Conway,BIRD,JP DIST. 5,,DEM,TRENTON ANDERSON,120,3,36,81
+Conway,WASHINGTON EAST,JP DIST. 5,,REP,KEITH LONG,236,5,67,164
+Conway,MCCLAREN,JP DIST. 5,,REP,KEITH LONG,21,0,0,21
+Conway,UNION,JP DIST. 5,,REP,KEITH LONG,6,0,0,6
+Conway,BIRD,JP DIST. 5,,REP,KEITH LONG,83,1,22,60
+Conway,WARD 3,MORRILTON MAYOR,,DEM,MAYOR ALLEN LIPSMEYER,405,20,211,174
+Conway,WARD 4,MORRILTON MAYOR,,DEM,MAYOR ALLEN LIPSMEYER,501,14,326,161
+Conway,WARD 2,MORRILTON MAYOR,,DEM,MAYOR ALLEN LIPSMEYER,272,15,145,112
+Conway,WARD 1,MORRILTON MAYOR,,DEM,MAYOR ALLEN LIPSMEYER,391,29,207,155
+Conway,MENIFEE CITY,MENIFEE MAYOR,,DEM,GARY L. GREEN,99,8,26,65
+Conway,HOWARD CITY,PLUMERVILLE MAYOR,,DEM,ED PALADINO,225,35,56,134
+Conway,BENTLEY CITY,OPPELO MAYOR,,DEM,LARRY A. WILSON,161,1,44,116
+Conway,AUSTIN,State Supreme Court Associate Justice Position 3,,NON,David Sterling,37,2,8,27
+Conway,BENTLEY CITY,State Supreme Court Associate Justice Position 3,,NON,David Sterling,110,0,18,92
+Conway,WELBOURNE WEST,State Supreme Court Associate Justice Position 3,,NON,David Sterling,103,1,43,59
+Conway,ST. VINCENT,State Supreme Court Associate Justice Position 3,,NON,David Sterling,104,3,32,69
+Conway,STEELE,State Supreme Court Associate Justice Position 3,,NON,David Sterling,87,1,23,63
+Conway,MENIFEE CITY,State Supreme Court Associate Justice Position 3,,NON,David Sterling,42,3,13,26
+Conway,HOWARD CITY,State Supreme Court Associate Justice Position 3,,NON,David Sterling,114,4,25,85
+Conway,HIGGINS,State Supreme Court Associate Justice Position 3,,NON,David Sterling,8,0,0,8
+Conway,CEDAR FALLS,State Supreme Court Associate Justice Position 3,,NON,David Sterling,70,0,17,53
+Conway,GREGORY,State Supreme Court Associate Justice Position 3,,NON,David Sterling,77,1,13,63
+Conway,GRIFFIN,State Supreme Court Associate Justice Position 3,,NON,David Sterling,84,0,11,73
+Conway,LICK MTN.,State Supreme Court Associate Justice Position 3,,NON,David Sterling,122,2,41,79
+Conway,WASHINGTON EAST,State Supreme Court Associate Justice Position 3,,NON,David Sterling,185,3,58,124
+Conway,MCCLAREN,State Supreme Court Associate Justice Position 3,,NON,David Sterling,31,0,9,22
+Conway,HOWARD RURAL,State Supreme Court Associate Justice Position 3,,NON,David Sterling,78,1,37,40
+Conway,WHITE EAGLE,State Supreme Court Associate Justice Position 3,,NON,David Sterling,15,0,4,11
+Conway,WARD 3,State Supreme Court Associate Justice Position 3,,NON,David Sterling,177,4,88,85
+Conway,WARD 4,State Supreme Court Associate Justice Position 3,,NON,David Sterling,286,8,181,97
+Conway,MARTIN,State Supreme Court Associate Justice Position 3,,NON,David Sterling,15,0,1,14
+Conway,WARD 2,State Supreme Court Associate Justice Position 3,,NON,David Sterling,131,1,75,55
+Conway,UNION,State Supreme Court Associate Justice Position 3,,NON,David Sterling,129,2,35,92
+Conway,BENTLEY RURAL,State Supreme Court Associate Justice Position 3,,NON,David Sterling,84,2,28,54
+Conway,WASHINGTON WEST,State Supreme Court Associate Justice Position 3,,NON,David Sterling,70,0,17,53
+Conway,BIRD,State Supreme Court Associate Justice Position 3,,NON,David Sterling,124,1,29,94
+Conway,CATHOLIC POINT,State Supreme Court Associate Justice Position 3,,NON,David Sterling,64,4,16,44
+Conway,PETIT JEAN,State Supreme Court Associate Justice Position 3,,NON,David Sterling,22,0,0,22
+Conway,NICHOLS,State Supreme Court Associate Justice Position 3,,NON,David Sterling,95,2,27,66
+Conway,OLD HICKORY,State Supreme Court Associate Justice Position 3,,NON,David Sterling,30,0,7,23
+Conway,WARD 1,State Supreme Court Associate Justice Position 3,,NON,David Sterling,218,7,122,89
+Conway,WELBOURNE EAST,State Supreme Court Associate Justice Position 3,,NON,David Sterling,220,2,123,95
+Conway,MENIFEE RURAL,State Supreme Court Associate Justice Position 3,,NON,David Sterling,23,0,6,17
+Conway,AUSTIN,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,31,1,6,24
+Conway,BENTLEY CITY,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,80,1,34,45
+Conway,WELBOURNE WEST,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,119,0,52,67
+Conway,ST. VINCENT,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,123,2,31,90
+Conway,STEELE,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,66,1,15,50
+Conway,MENIFEE CITY,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,75,8,19,48
+Conway,HOWARD CITY,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,124,26,31,67
+Conway,HIGGINS,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,10,0,0,10
+Conway,CEDAR FALLS,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,63,0,18,45
+Conway,GREGORY,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,51,0,13,38
+Conway,GRIFFIN,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,73,1,13,59
+Conway,LICK MTN.,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,102,1,26,75
+Conway,WASHINGTON EAST,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,184,4,66,114
+Conway,MCCLAREN,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,37,0,10,27
+Conway,HOWARD RURAL,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,122,20,45,57
+Conway,WHITE EAGLE,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,2,0,0,2
+Conway,WARD 3,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,243,15,136,92
+Conway,WARD 4,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,271,6,178,87
+Conway,MARTIN,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,19,0,7,12
+Conway,WARD 2,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,147,15,73,59
+Conway,UNION,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,128,10,31,87
+Conway,BENTLEY RURAL,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,82,4,32,46
+Conway,WASHINGTON WEST,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,73,1,14,58
+Conway,BIRD,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,97,4,30,63
+Conway,CATHOLIC POINT,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,81,0,29,52
+Conway,PETIT JEAN,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,19,1,0,18
+Conway,NICHOLS,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,87,4,20,63
+Conway,OLD HICKORY,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,32,0,4,28
+Conway,WARD 1,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,212,22,99,91
+Conway,WELBOURNE EAST,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,280,12,152,116
+Conway,MENIFEE RURAL,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,24,0,11,13
+Conway,AUSTIN,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,52,3,7,42
+Conway,BENTLEY CITY,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,166,0,47,119
+Conway,WELBOURNE WEST,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,187,2,79,106
+Conway,ST. VINCENT,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,171,1,37,133
+Conway,STEELE,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,146,4,34,108
+Conway,MENIFEE CITY,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,69,4,12,53
+Conway,HOWARD CITY,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,165,12,40,113
+Conway,HIGGINS,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,17,0,0,17
+Conway,CEDAR FALLS,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,102,0,24,78
+Conway,GREGORY,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,93,1,15,77
+Conway,GRIFFIN,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,132,1,24,107
+Conway,LICK MTN.,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,177,2,50,125
+Conway,WASHINGTON EAST,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,310,4,107,199
+Conway,MCCLAREN,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,63,0,21,42
+Conway,HOWARD RURAL,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,165,4,78,83
+Conway,WHITE EAGLE,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,13,0,2,11
+Conway,WARD 3,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,331,7,167,157
+Conway,WARD 4,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,461,9,286,166
+Conway,MARTIN,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,29,0,9,20
+Conway,WARD 2,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,236,10,121,105
+Conway,UNION,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,197,3,42,152
+Conway,BENTLEY RURAL,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,148,5,51,92
+Conway,WASHINGTON WEST,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,109,0,24,85
+Conway,BIRD,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,188,4,51,133
+Conway,CATHOLIC POINT,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,125,4,42,79
+Conway,PETIT JEAN,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,32,1,0,31
+Conway,NICHOLS,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,151,6,38,107
+Conway,OLD HICKORY,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,52,0,8,44
+Conway,WARD 1,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,331,9,180,142
+Conway,WELBOURNE EAST,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,392,8,204,180
+Conway,MENIFEE RURAL,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,40,0,14,26
+Conway,AUSTIN,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,17,0,6,11
+Conway,BENTLEY CITY,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,35,1,9,25
+Conway,WELBOURNE WEST,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,47,1,22,24
+Conway,ST. VINCENT,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,63,6,26,31
+Conway,STEELE,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,33,0,10,23
+Conway,MENIFEE CITY,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,49,6,18,25
+Conway,HOWARD CITY,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,87,25,22,40
+Conway,HIGGINS,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,2,0,0,2
+Conway,CEDAR FALLS,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,42,0,13,29
+Conway,GREGORY,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,29,0,11,18
+Conway,GRIFFIN,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,31,0,3,28
+Conway,LICK MTN.,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,52,1,17,34
+Conway,WASHINGTON EAST,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,67,4,17,46
+Conway,MCCLAREN,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,8,0,1,7
+Conway,HOWARD RURAL,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,48,18,14,16
+Conway,WHITE EAGLE,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,2,0,1,1
+Conway,WARD 3,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,105,12,65,28
+Conway,WARD 4,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,121,6,92,23
+Conway,MARTIN,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,6,0,1,5
+Conway,WARD 2,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,58,6,33,19
+Conway,UNION,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,70,9,27,34
+Conway,BENTLEY RURAL,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,29,2,12,15
+Conway,WASHINGTON WEST,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,34,1,6,27
+Conway,BIRD,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,42,1,12,29
+Conway,CATHOLIC POINT,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,27,0,5,22
+Conway,PETIT JEAN,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,10,0,0,10
+Conway,NICHOLS,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,36,0,9,27
+Conway,OLD HICKORY,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,14,0,4,10
+Conway,WARD 1,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,121,22,53,46
+Conway,WELBOURNE EAST,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,121,6,76,39
+Conway,MENIFEE RURAL,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,12,0,5,7
+Conway,AUSTIN,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,34,0,8,26
+Conway,BENTLEY CITY,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,117,0,34,83
+Conway,WELBOURNE WEST,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,122,2,48,72
+Conway,ST. VINCENT,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,143,4,33,106
+Conway,STEELE,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,79,4,14,61
+Conway,MENIFEE CITY,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,91,8,26,57
+Conway,HOWARD CITY,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,167,33,44,90
+Conway,HIGGINS,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,12,0,0,12
+Conway,CEDAR FALLS,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,55,0,13,42
+Conway,GREGORY,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,57,0,12,45
+Conway,GRIFFIN,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,89,1,23,65
+Conway,LICK MTN.,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,132,1,36,95
+Conway,WASHINGTON EAST,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,180,5,64,111
+Conway,MCCLAREN,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,54,0,15,39
+Conway,HOWARD RURAL,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,134,16,56,62
+Conway,WHITE EAGLE,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,3,0,1,2
+Conway,WARD 3,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,304,14,156,134
+Conway,WARD 4,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,320,6,210,104
+Conway,MARTIN,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,23,0,3,20
+Conway,WARD 2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,187,12,95,80
+Conway,UNION,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,158,10,36,112
+Conway,BENTLEY RURAL,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,98,2,37,59
+Conway,WASHINGTON WEST,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,77,0,11,66
+Conway,BIRD,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,127,4,36,87
+Conway,CATHOLIC POINT,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,95,4,26,65
+Conway,PETIT JEAN,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,9,1,0,8
+Conway,NICHOLS,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,102,6,27,69
+Conway,OLD HICKORY,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,31,0,7,24
+Conway,WARD 1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,275,24,137,114
+Conway,WELBOURNE EAST,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,282,8,148,126
+Conway,MENIFEE RURAL,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,25,0,9,16
+Conway,AUSTIN,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,38,3,6,29
+Conway,BENTLEY CITY,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,84,1,22,61
+Conway,WELBOURNE WEST,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,111,1,52,58
+Conway,ST. VINCENT,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,98,3,31,64
+Conway,STEELE,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,104,0,32,72
+Conway,MENIFEE CITY,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,34,2,8,24
+Conway,HOWARD CITY,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,94,6,19,69
+Conway,HIGGINS,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,7,0,0,7
+Conway,CEDAR FALLS,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,89,0,23,66
+Conway,GREGORY,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,74,1,15,58
+Conway,GRIFFIN,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,78,0,5,73
+Conway,LICK MTN.,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,103,2,34,67
+Conway,WASHINGTON EAST,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,207,3,63,141
+Conway,MCCLAREN,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,20,0,8,12
+Conway,HOWARD RURAL,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,85,6,39,40
+Conway,WHITE EAGLE,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,14,0,4,10
+Conway,WARD 3,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,147,6,83,58
+Conway,WARD 4,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,276,9,180,87
+Conway,MARTIN,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,13,0,7,6
+Conway,WARD 2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,118,4,67,47
+Conway,UNION,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,118,2,33,83
+Conway,BENTLEY RURAL,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,82,5,29,48
+Conway,WASHINGTON WEST,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,64,0,18,46
+Conway,BIRD,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,108,2,30,76
+Conway,CATHOLIC POINT,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,60,0,20,40
+Conway,PETIT JEAN,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,33,0,0,33
+Conway,NICHOLS,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,94,0,25,69
+Conway,OLD HICKORY,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,36,0,6,30
+Conway,WARD 1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,191,8,104,79
+Conway,WELBOURNE EAST,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,243,6,137,100
+Conway,MENIFEE RURAL,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,27,0,10,17
+Conway,AUSTIN,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,41,3,5,33
+Conway,BENTLEY CITY,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,129,1,36,92
+Conway,WELBOURNE WEST,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,151,1,65,85
+Conway,ST. VINCENT,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,158,6,40,112
+Conway,STEELE,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,103,4,27,72
+Conway,MENIFEE CITY,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,117,11,29,77
+Conway,HOWARD CITY,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,206,36,55,115
+Conway,HIGGINS,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,14,0,0,14
+Conway,CEDAR FALLS,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,105,0,25,80
+Conway,GREGORY,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,84,1,16,67
+Conway,GRIFFIN,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,120,1,19,100
+Conway,LICK MTN.,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,172,3,47,122
+Conway,WASHINGTON EAST,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,264,4,87,173
+Conway,MCCLAREN,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,59,0,18,41
+Conway,HOWARD RURAL,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,154,20,67,67
+Conway,WHITE EAGLE,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,10,0,5,5
+Conway,WARD 3,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,347,19,188,140
+Conway,WARD 4,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,411,9,280,122
+Conway,MARTIN,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,16,0,4,12
+Conway,WARD 2,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,229,15,120,94
+Conway,UNION,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,201,12,58,131
+Conway,BENTLEY RURAL,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,127,6,47,74
+Conway,WASHINGTON WEST,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,104,1,18,85
+Conway,BIRD,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,160,4,48,108
+Conway,CATHOLIC POINT,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,108,4,30,74
+Conway,PETIT JEAN,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,30,1,0,29
+Conway,NICHOLS,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,128,6,30,92
+Conway,OLD HICKORY,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,43,0,8,35
+Conway,WARD 1,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,319,29,165,125
+Conway,WELBOURNE EAST,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,347,11,187,149
+Conway,MENIFEE RURAL,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,33,0,13,20
+Conway,AUSTIN,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,31,0,9,22
+Conway,BENTLEY CITY,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,73,0,20,53
+Conway,WELBOURNE WEST,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,85,1,36,48
+Conway,ST. VINCENT,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,79,1,24,54
+Conway,STEELE,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,77,0,17,60
+Conway,MENIFEE CITY,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,8,0,4,4
+Conway,HOWARD CITY,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,55,3,8,44
+Conway,HIGGINS,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,5,0,0,5
+Conway,CEDAR FALLS,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,40,0,12,28
+Conway,GREGORY,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,47,0,11,36
+Conway,GRIFFIN,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,46,0,8,38
+Conway,LICK MTN.,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,66,0,24,42
+Conway,WASHINGTON EAST,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,126,4,42,80
+Conway,MCCLAREN,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,16,0,5,11
+Conway,HOWARD RURAL,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,63,2,27,34
+Conway,WHITE EAGLE,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,8,0,0,8
+Conway,WARD 3,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,106,1,54,51
+Conway,WARD 4,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,185,6,110,69
+Conway,MARTIN,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,19,0,6,13
+Conway,WARD 2,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,76,2,41,33
+Conway,UNION,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,75,0,13,62
+Conway,BENTLEY RURAL,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,55,1,19,35
+Conway,WASHINGTON WEST,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,39,0,11,28
+Conway,BIRD,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,75,1,17,57
+Conway,CATHOLIC POINT,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,49,0,17,32
+Conway,PETIT JEAN,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,12,0,0,12
+Conway,NICHOLS,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,69,0,21,48
+Conway,OLD HICKORY,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,24,0,5,19
+Conway,WARD 1,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,143,1,73,69
+Conway,WELBOURNE EAST,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,186,3,103,80
+Conway,MENIFEE RURAL,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,19,0,6,13

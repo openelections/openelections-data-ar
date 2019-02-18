@@ -1,0 +1,670 @@
+county,precinct,office,district,party,candidate,votes,election_day,early_voting,absentee,provisional
+Perry,1-Aplin,U.S. House,2,DEM,Representative Clarke Tucker,29,13,15,1,0
+Perry,2-Casa,U.S. House,2,DEM,Representative Clarke Tucker,48,24,24,0,0
+Perry,3-Cherry Hill,U.S. House,2,DEM,Representative Clarke Tucker,24,6,18,0,0
+Perry,4-Fourche,U.S. House,2,DEM,Representative Clarke Tucker,179,56,120,2,1
+Perry,5-Houston,U.S. House,2,DEM,Representative Clarke Tucker,62,37,23,2,0
+Perry,6-Kenney,U.S. House,2,DEM,Representative Clarke Tucker,7,1,5,1,0
+Perry,7-Lake,U.S. House,2,DEM,Representative Clarke Tucker,43,13,29,1,0
+Perry,8-Maumelle,U.S. House,2,DEM,Representative Clarke Tucker,68,18,49,1,0
+Perry,9-New Tennessee,U.S. House,2,DEM,Representative Clarke Tucker,14,11,3,0,0
+Perry,10-Perry,U.S. House,2,DEM,Representative Clarke Tucker,91,64,23,4,0
+Perry,11-Petit Jean,U.S. House,2,DEM,Representative Clarke Tucker,30,20,10,0,0
+Perry,12-Rankin,U.S. House,2,DEM,Representative Clarke Tucker,132,38,94,0,0
+Perry,13-Rose Creek,U.S. House,2,DEM,Representative Clarke Tucker,19,15,4,0,0
+Perry,14-Tyler,U.S. House,2,DEM,Representative Clarke Tucker,25,23,2,0,0
+Perry,15-Union,U.S. House,2,DEM,Representative Clarke Tucker,110,74,31,5,0
+Perry,16-Union Valley,U.S. House,2,DEM,Representative Clarke Tucker,45,15,27,3,0
+Perry,17-Wye,U.S. House,2,DEM,Representative Clarke Tucker,121,84,33,4,0
+Perry,1-Aplin,U.S. House,2,LIB,Joe Ryne Swafford,3,1,2,0,0
+Perry,2-Casa,U.S. House,2,LIB,Joe Ryne Swafford,4,3,1,0,0
+Perry,3-Cherry Hill,U.S. House,2,LIB,Joe Ryne Swafford,4,2,2,0,0
+Perry,4-Fourche,U.S. House,2,LIB,Joe Ryne Swafford,11,5,6,0,0
+Perry,5-Houston,U.S. House,2,LIB,Joe Ryne Swafford,3,3,0,0,0
+Perry,6-Kenney,U.S. House,2,LIB,Joe Ryne Swafford,1,1,0,0,0
+Perry,7-Lake,U.S. House,2,LIB,Joe Ryne Swafford,4,0,4,0,0
+Perry,8-Maumelle,U.S. House,2,LIB,Joe Ryne Swafford,6,0,6,0,0
+Perry,9-New Tennessee,U.S. House,2,LIB,Joe Ryne Swafford,1,0,1,0,0
+Perry,10-Perry,U.S. House,2,LIB,Joe Ryne Swafford,13,9,4,0,0
+Perry,11-Petit Jean,U.S. House,2,LIB,Joe Ryne Swafford,6,2,4,0,0
+Perry,12-Rankin,U.S. House,2,LIB,Joe Ryne Swafford,12,6,6,0,0
+Perry,13-Rose Creek,U.S. House,2,LIB,Joe Ryne Swafford,2,1,1,0,0
+Perry,14-Tyler,U.S. House,2,LIB,Joe Ryne Swafford,0,0,0,0,0
+Perry,15-Union,U.S. House,2,LIB,Joe Ryne Swafford,9,5,4,0,0
+Perry,16-Union Valley,U.S. House,2,LIB,Joe Ryne Swafford,1,0,1,0,0
+Perry,17-Wye,U.S. House,2,LIB,Joe Ryne Swafford,8,8,0,0,0
+Perry,1-Aplin,U.S. House,2,REP,Congressman French Hill,88,57,31,0,0
+Perry,2-Casa,U.S. House,2,REP,Congressman French Hill,116,73,42,1,0
+Perry,3-Cherry Hill,U.S. House,2,REP,Congressman French Hill,69,21,47,1,0
+Perry,4-Fourche,U.S. House,2,REP,Congressman French Hill,386,104,280,2,0
+Perry,5-Houston,U.S. House,2,REP,Congressman French Hill,218,105,113,0,0
+Perry,6-Kenney,U.S. House,2,REP,Congressman French Hill,47,27,20,0,0
+Perry,7-Lake,U.S. House,2,REP,Congressman French Hill,143,48,95,0,0
+Perry,8-Maumelle,U.S. House,2,REP,Congressman French Hill,165,54,108,2,1
+Perry,9-New Tennessee,U.S. House,2,REP,Congressman French Hill,58,36,21,1,0
+Perry,10-Perry,U.S. House,2,REP,Congressman French Hill,238,157,78,3,0
+Perry,11-Petit Jean,U.S. House,2,REP,Congressman French Hill,99,52,47,0,0
+Perry,12-Rankin,U.S. House,2,REP,Congressman French Hill,278,95,183,0,0
+Perry,13-Rose Creek,U.S. House,2,REP,Congressman French Hill,54,28,24,2,0
+Perry,14-Tyler,U.S. House,2,REP,Congressman French Hill,60,56,4,0,0
+Perry,15-Union,U.S. House,2,REP,Congressman French Hill,226,149,77,0,0
+Perry,16-Union Valley,U.S. House,2,REP,Congressman French Hill,100,35,62,2,1
+Perry,17-Wye,U.S. House,2,REP,Congressman French Hill,223,151,70,2,0
+Perry,1-Aplin,Governor,,LIB,Mark West,3,2,1,0,0
+Perry,2-Casa,Governor,,LIB,Mark West,9,9,0,0,0
+Perry,3-Cherry Hill,Governor,,LIB,Mark West,2,0,2,0,0
+Perry,4-Fourche,Governor,,LIB,Mark West,12,3,9,0,0
+Perry,5-Houston,Governor,,LIB,Mark West,11,6,5,0,0
+Perry,6-Kenney,Governor,,LIB,Mark West,5,2,3,0,0
+Perry,7-Lake,Governor,,LIB,Mark West,6,2,4,0,0
+Perry,8-Maumelle,Governor,,LIB,Mark West,5,1,4,0,0
+Perry,9-New Tennessee,Governor,,LIB,Mark West,1,0,1,0,0
+Perry,10-Perry,Governor,,LIB,Mark West,11,6,5,0,0
+Perry,11-Petit Jean,Governor,,LIB,Mark West,10,5,5,0,0
+Perry,12-Rankin,Governor,,LIB,Mark West,20,8,12,0,0
+Perry,13-Rose Creek,Governor,,LIB,Mark West,5,0,5,0,0
+Perry,14-Tyler,Governor,,LIB,Mark West,0,0,0,0,0
+Perry,15-Union,Governor,,LIB,Mark West,13,8,5,0,0
+Perry,16-Union Valley,Governor,,LIB,Mark West,1,1,0,0,0
+Perry,17-Wye,Governor,,LIB,Mark West,18,17,1,0,0
+Perry,1-Aplin,Governor,,REP,Governor Asa Hutchinson,94,59,35,0,0
+Perry,2-Casa,Governor,,REP,Governor Asa Hutchinson,121,73,47,1,0
+Perry,3-Cherry Hill,Governor,,REP,Governor Asa Hutchinson,77,25,51,1,0
+Perry,4-Fourche,Governor,,REP,Governor Asa Hutchinson,429,116,310,2,1
+Perry,5-Houston,Governor,,REP,Governor Asa Hutchinson,225,114,110,1,0
+Perry,6-Kenney,Governor,,REP,Governor Asa Hutchinson,46,27,19,0,0
+Perry,7-Lake,Governor,,REP,Governor Asa Hutchinson,152,50,102,0,0
+Perry,8-Maumelle,Governor,,REP,Governor Asa Hutchinson,193,58,132,2,1
+Perry,9-New Tennessee,Governor,,REP,Governor Asa Hutchinson,61,39,21,1,0
+Perry,10-Perry,Governor,,REP,Governor Asa Hutchinson,259,175,81,3,0
+Perry,11-Petit Jean,Governor,,REP,Governor Asa Hutchinson,102,54,48,0,0
+Perry,12-Rankin,Governor,,REP,Governor Asa Hutchinson,292,96,196,0,0
+Perry,13-Rose Creek,Governor,,REP,Governor Asa Hutchinson,52,30,20,2,0
+Perry,14-Tyler,Governor,,REP,Governor Asa Hutchinson,65,61,4,0,0
+Perry,15-Union,Governor,,REP,Governor Asa Hutchinson,229,151,78,0,0
+Perry,16-Union Valley,Governor,,REP,Governor Asa Hutchinson,105,35,67,2,1
+Perry,17-Wye,Governor,,REP,Governor Asa Hutchinson,229,154,73,2,0
+Perry,1-Aplin,Governor,,DEM,Jared K. Henderson,21,9,11,1,0
+Perry,2-Casa,Governor,,DEM,Jared K. Henderson,37,17,20,0,0
+Perry,3-Cherry Hill,Governor,,DEM,Jared K. Henderson,18,4,14,0,0
+Perry,4-Fourche,Governor,,DEM,Jared K. Henderson,138,49,87,2,0
+Perry,5-Houston,Governor,,DEM,Jared K. Henderson,50,28,21,1,0
+Perry,6-Kenney,Governor,,DEM,Jared K. Henderson,4,0,3,1,0
+Perry,7-Lake,Governor,,DEM,Jared K. Henderson,33,9,23,1,0
+Perry,8-Maumelle,Governor,,DEM,Jared K. Henderson,40,11,28,1,0
+Perry,9-New Tennessee,Governor,,DEM,Jared K. Henderson,9,6,3,0,0
+Perry,10-Perry,Governor,,DEM,Jared K. Henderson,73,48,21,4,0
+Perry,11-Petit Jean,Governor,,DEM,Jared K. Henderson,23,15,8,0,0
+Perry,12-Rankin,Governor,,DEM,Jared K. Henderson,110,33,77,0,0
+Perry,13-Rose Creek,Governor,,DEM,Jared K. Henderson,16,12,4,0,0
+Perry,14-Tyler,Governor,,DEM,Jared K. Henderson,20,18,2,0,0
+Perry,15-Union,Governor,,DEM,Jared K. Henderson,101,68,28,5,0
+Perry,16-Union Valley,Governor,,DEM,Jared K. Henderson,40,14,23,3,0
+Perry,17-Wye,Governor,,DEM,Jared K. Henderson,105,72,29,4,0
+Perry,1-Aplin,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,93,57,36,0,0
+Perry,2-Casa,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,132,82,49,1,0
+Perry,3-Cherry Hill,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,75,22,52,1,0
+Perry,4-Fourche,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,436,116,317,2,1
+Perry,5-Houston,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,225,110,115,0,0
+Perry,6-Kenney,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,48,27,21,0,0
+Perry,7-Lake,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,152,48,104,0,0
+Perry,8-Maumelle,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,188,57,128,2,1
+Perry,9-New Tennessee,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,59,37,21,1,0
+Perry,10-Perry,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,258,174,81,3,0
+Perry,11-Petit Jean,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,107,56,51,0,0
+Perry,12-Rankin,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,301,102,199,0,0
+Perry,13-Rose Creek,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,54,29,23,2,0
+Perry,14-Tyler,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,62,58,4,0,0
+Perry,15-Union,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,234,155,79,0,0
+Perry,16-Union Valley,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,98,33,62,2,1
+Perry,17-Wye,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,232,160,70,2,0
+Perry,1-Aplin,Lieutenant Governor,,LIB,Frank Gilbert,5,4,1,0,0
+Perry,2-Casa,Lieutenant Governor,,LIB,Frank Gilbert,4,3,1,0,0
+Perry,3-Cherry Hill,Lieutenant Governor,,LIB,Frank Gilbert,2,2,0,0,0
+Perry,4-Fourche,Lieutenant Governor,,LIB,Frank Gilbert,13,4,9,0,0
+Perry,5-Houston,Lieutenant Governor,,LIB,Frank Gilbert,4,2,2,0,0
+Perry,6-Kenney,Lieutenant Governor,,LIB,Frank Gilbert,2,1,1,0,0
+Perry,7-Lake,Lieutenant Governor,,LIB,Frank Gilbert,9,3,6,0,0
+Perry,8-Maumelle,Lieutenant Governor,,LIB,Frank Gilbert,6,2,4,0,0
+Perry,9-New Tennessee,Lieutenant Governor,,LIB,Frank Gilbert,2,1,1,0,0
+Perry,10-Perry,Lieutenant Governor,,LIB,Frank Gilbert,16,10,6,0,0
+Perry,11-Petit Jean,Lieutenant Governor,,LIB,Frank Gilbert,6,4,2,0,0
+Perry,12-Rankin,Lieutenant Governor,,LIB,Frank Gilbert,13,7,6,0,0
+Perry,13-Rose Creek,Lieutenant Governor,,LIB,Frank Gilbert,2,0,2,0,0
+Perry,14-Tyler,Lieutenant Governor,,LIB,Frank Gilbert,1,0,1,0,0
+Perry,15-Union,Lieutenant Governor,,LIB,Frank Gilbert,11,8,3,0,0
+Perry,16-Union Valley,Lieutenant Governor,,LIB,Frank Gilbert,2,1,1,0,0
+Perry,17-Wye,Lieutenant Governor,,LIB,Frank Gilbert,10,10,0,0,0
+Perry,1-Aplin,Lieutenant Governor,,DEM,Anthony Bland,19,8,10,1,0
+Perry,2-Casa,Lieutenant Governor,,DEM,Anthony Bland,33,16,17,0,0
+Perry,3-Cherry Hill,Lieutenant Governor,,DEM,Anthony Bland,19,5,14,0,0
+Perry,4-Fourche,Lieutenant Governor,,DEM,Anthony Bland,129,47,80,2,0
+Perry,5-Houston,Lieutenant Governor,,DEM,Anthony Bland,54,35,18,1,0
+Perry,6-Kenney,Lieutenant Governor,,DEM,Anthony Bland,5,1,3,1,0
+Perry,7-Lake,Lieutenant Governor,,DEM,Anthony Bland,29,11,17,1,0
+Perry,8-Maumelle,Lieutenant Governor,,DEM,Anthony Bland,44,13,30,1,0
+Perry,9-New Tennessee,Lieutenant Governor,,DEM,Anthony Bland,12,9,3,0,0
+Perry,10-Perry,Lieutenant Governor,,DEM,Anthony Bland,70,47,19,4,0
+Perry,11-Petit Jean,Lieutenant Governor,,DEM,Anthony Bland,21,13,8,0,0
+Perry,12-Rankin,Lieutenant Governor,,DEM,Anthony Bland,109,29,80,0,0
+Perry,13-Rose Creek,Lieutenant Governor,,DEM,Anthony Bland,17,13,4,0,0
+Perry,14-Tyler,Lieutenant Governor,,DEM,Anthony Bland,22,21,1,0,0
+Perry,15-Union,Lieutenant Governor,,DEM,Anthony Bland,94,61,29,4,0
+Perry,16-Union Valley,Lieutenant Governor,,DEM,Anthony Bland,43,14,26,3,0
+Perry,17-Wye,Lieutenant Governor,,DEM,Anthony Bland,109,72,33,4,0
+Perry,1-Aplin,Attorney General,,REP,Attorney General Leslie Rutledge,98,62,36,0,0
+Perry,2-Casa,Attorney General,,REP,Attorney General Leslie Rutledge,124,77,46,1,0
+Perry,3-Cherry Hill,Attorney General,,REP,Attorney General Leslie Rutledge,71,21,49,1,0
+Perry,4-Fourche,Attorney General,,REP,Attorney General Leslie Rutledge,408,110,296,2,0
+Perry,5-Houston,Attorney General,,REP,Attorney General Leslie Rutledge,219,111,108,0,0
+Perry,6-Kenney,Attorney General,,REP,Attorney General Leslie Rutledge,48,26,22,0,0
+Perry,7-Lake,Attorney General,,REP,Attorney General Leslie Rutledge,145,47,98,0,0
+Perry,8-Maumelle,Attorney General,,REP,Attorney General Leslie Rutledge,179,56,120,2,1
+Perry,9-New Tennessee,Attorney General,,REP,Attorney General Leslie Rutledge,57,36,20,1,0
+Perry,10-Perry,Attorney General,,REP,Attorney General Leslie Rutledge,237,159,76,2,0
+Perry,11-Petit Jean,Attorney General,,REP,Attorney General Leslie Rutledge,96,49,47,0,0
+Perry,12-Rankin,Attorney General,,REP,Attorney General Leslie Rutledge,273,89,184,0,0
+Perry,13-Rose Creek,Attorney General,,REP,Attorney General Leslie Rutledge,50,27,21,2,0
+Perry,14-Tyler,Attorney General,,REP,Attorney General Leslie Rutledge,61,57,4,0,0
+Perry,15-Union,Attorney General,,REP,Attorney General Leslie Rutledge,218,140,78,0,0
+Perry,16-Union Valley,Attorney General,,REP,Attorney General Leslie Rutledge,104,35,67,2,0
+Perry,17-Wye,Attorney General,,REP,Attorney General Leslie Rutledge,229,156,71,2,0
+Perry,1-Aplin,Attorney General,,DEM,Mike Lee,19,7,11,1,0
+Perry,2-Casa,Attorney General,,DEM,Mike Lee,35,17,18,0,0
+Perry,3-Cherry Hill,Attorney General,,DEM,Mike Lee,25,7,18,0,0
+Perry,4-Fourche,Attorney General,,DEM,Mike Lee,158,53,102,2,1
+Perry,5-Houston,Attorney General,,DEM,Mike Lee,60,36,22,2,0
+Perry,6-Kenney,Attorney General,,DEM,Mike Lee,6,2,3,1,0
+Perry,7-Lake,Attorney General,,DEM,Mike Lee,38,12,25,1,0
+Perry,8-Maumelle,Attorney General,,DEM,Mike Lee,51,14,36,1,0
+Perry,9-New Tennessee,Attorney General,,DEM,Mike Lee,13,10,3,0,0
+Perry,10-Perry,Attorney General,,DEM,Mike Lee,86,58,23,5,0
+Perry,11-Petit Jean,Attorney General,,DEM,Mike Lee,33,21,12,0,0
+Perry,12-Rankin,Attorney General,,DEM,Mike Lee,129,40,89,0,0
+Perry,13-Rose Creek,Attorney General,,DEM,Mike Lee,20,16,4,0,0
+Perry,14-Tyler,Attorney General,,DEM,Mike Lee,22,21,1,0,0
+Perry,15-Union,Attorney General,,DEM,Mike Lee,113,77,31,5,0
+Perry,16-Union Valley,Attorney General,,DEM,Mike Lee,41,15,23,3,0
+Perry,17-Wye,Attorney General,,DEM,Mike Lee,108,72,32,4,0
+Perry,1-Aplin,Attorney General,,LIB,Kerry Hicks,2,2,0,0,0
+Perry,2-Casa,Attorney General,,LIB,Kerry Hicks,8,5,3,0,0
+Perry,3-Cherry Hill,Attorney General,,LIB,Kerry Hicks,1,1,0,0,0
+Perry,4-Fourche,Attorney General,,LIB,Kerry Hicks,11,4,7,0,0
+Perry,5-Houston,Attorney General,,LIB,Kerry Hicks,5,0,5,0,0
+Perry,6-Kenney,Attorney General,,LIB,Kerry Hicks,1,1,0,0,0
+Perry,7-Lake,Attorney General,,LIB,Kerry Hicks,8,3,5,0,0
+Perry,8-Maumelle,Attorney General,,LIB,Kerry Hicks,5,2,3,0,0
+Perry,9-New Tennessee,Attorney General,,LIB,Kerry Hicks,3,1,2,0,0
+Perry,10-Perry,Attorney General,,LIB,Kerry Hicks,20,13,7,0,0
+Perry,11-Petit Jean,Attorney General,,LIB,Kerry Hicks,7,5,2,0,0
+Perry,12-Rankin,Attorney General,,LIB,Kerry Hicks,20,9,11,0,0
+Perry,13-Rose Creek,Attorney General,,LIB,Kerry Hicks,4,0,4,0,0
+Perry,14-Tyler,Attorney General,,LIB,Kerry Hicks,2,1,1,0,0
+Perry,15-Union,Attorney General,,LIB,Kerry Hicks,11,8,3,0,0
+Perry,16-Union Valley,Attorney General,,LIB,Kerry Hicks,0,0,0,0,0
+Perry,17-Wye,Attorney General,,LIB,Kerry Hicks,13,13,0,0,0
+Perry,1-Aplin,Secretary of State,,REP,John Thurston Commissioner of State Lands,89,56,33,0,0
+Perry,2-Casa,Secretary of State,,REP,John Thurston Commissioner of State Lands,119,73,45,1,0
+Perry,3-Cherry Hill,Secretary of State,,REP,John Thurston Commissioner of State Lands,71,21,49,1,0
+Perry,4-Fourche,Secretary of State,,REP,John Thurston Commissioner of State Lands,399,105,291,2,1
+Perry,5-Houston,Secretary of State,,REP,John Thurston Commissioner of State Lands,212,106,106,0,0
+Perry,6-Kenney,Secretary of State,,REP,John Thurston Commissioner of State Lands,47,25,22,0,0
+Perry,7-Lake,Secretary of State,,REP,John Thurston Commissioner of State Lands,134,43,91,0,0
+Perry,8-Maumelle,Secretary of State,,REP,John Thurston Commissioner of State Lands,176,56,117,2,1
+Perry,9-New Tennessee,Secretary of State,,REP,John Thurston Commissioner of State Lands,58,35,22,1,0
+Perry,10-Perry,Secretary of State,,REP,John Thurston Commissioner of State Lands,234,159,73,2,0
+Perry,11-Petit Jean,Secretary of State,,REP,John Thurston Commissioner of State Lands,96,47,49,0,0
+Perry,12-Rankin,Secretary of State,,REP,John Thurston Commissioner of State Lands,273,94,179,0,0
+Perry,13-Rose Creek,Secretary of State,,REP,John Thurston Commissioner of State Lands,50,25,23,2,0
+Perry,14-Tyler,Secretary of State,,REP,John Thurston Commissioner of State Lands,59,55,4,0,0
+Perry,15-Union,Secretary of State,,REP,John Thurston Commissioner of State Lands,231,152,79,0,0
+Perry,16-Union Valley,Secretary of State,,REP,John Thurston Commissioner of State Lands,98,34,62,2,0
+Perry,17-Wye,Secretary of State,,REP,John Thurston Commissioner of State Lands,219,147,70,2,0
+Perry,1-Aplin,Secretary of State,,LIB,Christopher Olson,4,4,0,0,0
+Perry,2-Casa,Secretary of State,,LIB,Christopher Olson,6,4,2,0,0
+Perry,3-Cherry Hill,Secretary of State,,LIB,Christopher Olson,3,2,1,0,0
+Perry,4-Fourche,Secretary of State,,LIB,Christopher Olson,12,6,6,0,0
+Perry,5-Houston,Secretary of State,,LIB,Christopher Olson,3,0,3,0,0
+Perry,6-Kenney,Secretary of State,,LIB,Christopher Olson,2,2,0,0,0
+Perry,7-Lake,Secretary of State,,LIB,Christopher Olson,7,2,5,0,0
+Perry,8-Maumelle,Secretary of State,,LIB,Christopher Olson,6,3,3,0,0
+Perry,9-New Tennessee,Secretary of State,,LIB,Christopher Olson,1,1,0,0,0
+Perry,10-Perry,Secretary of State,,LIB,Christopher Olson,25,14,11,0,0
+Perry,11-Petit Jean,Secretary of State,,LIB,Christopher Olson,7,3,4,0,0
+Perry,12-Rankin,Secretary of State,,LIB,Christopher Olson,14,7,7,0,0
+Perry,13-Rose Creek,Secretary of State,,LIB,Christopher Olson,2,0,2,0,0
+Perry,14-Tyler,Secretary of State,,LIB,Christopher Olson,0,0,0,0,0
+Perry,15-Union,Secretary of State,,LIB,Christopher Olson,9,5,4,0,0
+Perry,16-Union Valley,Secretary of State,,LIB,Christopher Olson,4,2,2,0,0
+Perry,17-Wye,Secretary of State,,LIB,Christopher Olson,15,14,1,0,0
+Perry,1-Aplin,Secretary of State,,DEM,Susan Inman,25,10,14,1,0
+Perry,2-Casa,Secretary of State,,DEM,Susan Inman,42,22,20,0,0
+Perry,3-Cherry Hill,Secretary of State,,DEM,Susan Inman,23,6,17,0,0
+Perry,4-Fourche,Secretary of State,,DEM,Susan Inman,163,55,106,2,0
+Perry,5-Houston,Secretary of State,,DEM,Susan Inman,65,40,24,1,0
+Perry,6-Kenney,Secretary of State,,DEM,Susan Inman,6,2,3,1,0
+Perry,7-Lake,Secretary of State,,DEM,Susan Inman,48,16,31,1,0
+Perry,8-Maumelle,Secretary of State,,DEM,Susan Inman,57,13,43,1,0
+Perry,9-New Tennessee,Secretary of State,,DEM,Susan Inman,13,10,3,0,0
+Perry,10-Perry,Secretary of State,,DEM,Susan Inman,84,57,22,5,0
+Perry,11-Petit Jean,Secretary of State,,DEM,Susan Inman,30,22,8,0,0
+Perry,12-Rankin,Secretary of State,,DEM,Susan Inman,131,33,98,0,0
+Perry,13-Rose Creek,Secretary of State,,DEM,Susan Inman,21,17,4,0,0
+Perry,14-Tyler,Secretary of State,,DEM,Susan Inman,24,22,2,0,0
+Perry,15-Union,Secretary of State,,DEM,Susan Inman,103,69,29,5,0
+Perry,16-Union Valley,Secretary of State,,DEM,Susan Inman,42,14,25,3,0
+Perry,17-Wye,Secretary of State,,DEM,Susan Inman,116,80,32,4,0
+Perry,1-Aplin,State Treasurer,,REP,Treasurer of State Dennis Milligan,97,60,37,0,0
+Perry,2-Casa,State Treasurer,,REP,Treasurer of State Dennis Milligan,130,80,49,1,0
+Perry,3-Cherry Hill,State Treasurer,,REP,Treasurer of State Dennis Milligan,75,22,52,1,0
+Perry,4-Fourche,State Treasurer,,REP,Treasurer of State Dennis Milligan,445,121,321,2,1
+Perry,5-Houston,State Treasurer,,REP,Treasurer of State Dennis Milligan,237,121,116,0,0
+Perry,6-Kenney,State Treasurer,,REP,Treasurer of State Dennis Milligan,49,26,23,0,0
+Perry,7-Lake,State Treasurer,,REP,Treasurer of State Dennis Milligan,150,46,104,0,0
+Perry,8-Maumelle,State Treasurer,,REP,Treasurer of State Dennis Milligan,197,59,135,2,1
+Perry,9-New Tennessee,State Treasurer,,REP,Treasurer of State Dennis Milligan,59,37,22,0,0
+Perry,10-Perry,State Treasurer,,REP,Treasurer of State Dennis Milligan,261,175,83,3,0
+Perry,11-Petit Jean,State Treasurer,,REP,Treasurer of State Dennis Milligan,105,52,53,0,0
+Perry,12-Rankin,State Treasurer,,REP,Treasurer of State Dennis Milligan,300,98,202,0,0
+Perry,13-Rose Creek,State Treasurer,,REP,Treasurer of State Dennis Milligan,59,31,26,2,0
+Perry,14-Tyler,State Treasurer,,REP,Treasurer of State Dennis Milligan,69,64,5,0,0
+Perry,15-Union,State Treasurer,,REP,Treasurer of State Dennis Milligan,245,166,79,0,0
+Perry,16-Union Valley,State Treasurer,,REP,Treasurer of State Dennis Milligan,113,40,69,4,0
+Perry,17-Wye,State Treasurer,,REP,Treasurer of State Dennis Milligan,242,166,74,2,0
+Perry,1-Aplin,State Treasurer,,LIB,Ashley Ewald,20,9,10,1,0
+Perry,2-Casa,State Treasurer,,LIB,Ashley Ewald,34,18,16,0,0
+Perry,3-Cherry Hill,State Treasurer,,LIB,Ashley Ewald,20,7,13,0,0
+Perry,4-Fourche,State Treasurer,,LIB,Ashley Ewald,121,41,78,2,0
+Perry,5-Houston,State Treasurer,,LIB,Ashley Ewald,42,25,16,1,0
+Perry,6-Kenney,State Treasurer,,LIB,Ashley Ewald,6,3,2,1,0
+Perry,7-Lake,State Treasurer,,LIB,Ashley Ewald,40,16,23,1,0
+Perry,8-Maumelle,State Treasurer,,LIB,Ashley Ewald,40,12,27,1,0
+Perry,9-New Tennessee,State Treasurer,,LIB,Ashley Ewald,11,7,3,1,0
+Perry,10-Perry,State Treasurer,,LIB,Ashley Ewald,79,53,22,4,0
+Perry,11-Petit Jean,State Treasurer,,LIB,Ashley Ewald,27,20,7,0,0
+Perry,12-Rankin,State Treasurer,,LIB,Ashley Ewald,118,41,77,0,0
+Perry,13-Rose Creek,State Treasurer,,LIB,Ashley Ewald,13,10,3,0,0
+Perry,14-Tyler,State Treasurer,,LIB,Ashley Ewald,13,12,1,0,0
+Perry,15-Union,State Treasurer,,LIB,Ashley Ewald,93,57,31,5,0
+Perry,16-Union Valley,State Treasurer,,LIB,Ashley Ewald,28,9,19,0,0
+Perry,17-Wye,State Treasurer,,LIB,Ashley Ewald,106,74,28,4,0
+Perry,1-Aplin,Auditor of State,,REP,Auditor Andrea Lea,101,60,40,1,0
+Perry,2-Casa,Auditor of State,,REP,Auditor Andrea Lea,129,78,50,1,0
+Perry,3-Cherry Hill,Auditor of State,,REP,Auditor Andrea Lea,78,22,55,1,0
+Perry,4-Fourche,Auditor of State,,REP,Auditor Andrea Lea,444,123,318,2,1
+Perry,5-Houston,Auditor of State,,REP,Auditor Andrea Lea,235,120,115,0,0
+Perry,6-Kenney,Auditor of State,,REP,Auditor Andrea Lea,49,27,22,0,0
+Perry,7-Lake,Auditor of State,,REP,Auditor Andrea Lea,153,50,103,0,0
+Perry,8-Maumelle,Auditor of State,,REP,Auditor Andrea Lea,203,59,141,2,1
+Perry,9-New Tennessee,Auditor of State,,REP,Auditor Andrea Lea,62,39,22,1,0
+Perry,10-Perry,Auditor of State,,REP,Auditor Andrea Lea,272,181,88,3,0
+Perry,11-Petit Jean,Auditor of State,,REP,Auditor Andrea Lea,110,57,53,0,0
+Perry,12-Rankin,Auditor of State,,REP,Auditor Andrea Lea,308,105,203,0,0
+Perry,13-Rose Creek,Auditor of State,,REP,Auditor Andrea Lea,59,31,26,2,0
+Perry,14-Tyler,Auditor of State,,REP,Auditor Andrea Lea,73,68,5,0,0
+Perry,15-Union,Auditor of State,,REP,Auditor Andrea Lea,250,167,82,1,0
+Perry,16-Union Valley,Auditor of State,,REP,Auditor Andrea Lea,117,42,71,4,0
+Perry,17-Wye,Auditor of State,,REP,Auditor Andrea Lea,239,161,76,2,0
+Perry,1-Aplin,Auditor of State,,LIB,David E. Dinwiddie,14,7,7,0,0
+Perry,2-Casa,Auditor of State,,LIB,David E. Dinwiddie,37,21,16,0,0
+Perry,3-Cherry Hill,Auditor of State,,LIB,David E. Dinwiddie,19,7,12,0,0
+Perry,4-Fourche,Auditor of State,,LIB,David E. Dinwiddie,120,39,80,1,0
+Perry,5-Houston,Auditor of State,,LIB,David E. Dinwiddie,43,26,17,0,0
+Perry,6-Kenney,Auditor of State,,LIB,David E. Dinwiddie,6,2,3,1,0
+Perry,7-Lake,Auditor of State,,LIB,David E. Dinwiddie,37,12,24,1,0
+Perry,8-Maumelle,Auditor of State,,LIB,David E. Dinwiddie,33,11,21,1,0
+Perry,9-New Tennessee,Auditor of State,,LIB,David E. Dinwiddie,7,4,3,0,0
+Perry,10-Perry,Auditor of State,,LIB,David E. Dinwiddie,69,47,18,4,0
+Perry,11-Petit Jean,Auditor of State,,LIB,David E. Dinwiddie,23,16,7,0,0
+Perry,12-Rankin,Auditor of State,,LIB,David E. Dinwiddie,104,31,73,0,0
+Perry,13-Rose Creek,Auditor of State,,LIB,David E. Dinwiddie,14,11,3,0,0
+Perry,14-Tyler,Auditor of State,,LIB,David E. Dinwiddie,9,8,1,0,0
+Perry,15-Union,Auditor of State,,LIB,David E. Dinwiddie,92,59,29,4,0
+Perry,16-Union Valley,Auditor of State,,LIB,David E. Dinwiddie,25,7,18,0,0
+Perry,17-Wye,Auditor of State,,LIB,David E. Dinwiddie,107,80,23,4,0
+Perry,1-Aplin,Commissioner of State Lands,,DEM,Larry Williams,26,13,12,1,0
+Perry,2-Casa,Commissioner of State Lands,,DEM,Larry Williams,45,21,24,0,0
+Perry,3-Cherry Hill,Commissioner of State Lands,,DEM,Larry Williams,27,7,20,0,0
+Perry,4-Fourche,Commissioner of State Lands,,DEM,Larry Williams,191,58,130,2,1
+Perry,5-Houston,Commissioner of State Lands,,DEM,Larry Williams,82,49,32,1,0
+Perry,6-Kenney,Commissioner of State Lands,,DEM,Larry Williams,9,2,6,1,0
+Perry,7-Lake,Commissioner of State Lands,,DEM,Larry Williams,46,15,30,1,0
+Perry,8-Maumelle,Commissioner of State Lands,,DEM,Larry Williams,67,18,48,1,0
+Perry,9-New Tennessee,Commissioner of State Lands,,DEM,Larry Williams,17,12,5,0,0
+Perry,10-Perry,Commissioner of State Lands,,DEM,Larry Williams,90,62,23,5,0
+Perry,11-Petit Jean,Commissioner of State Lands,,DEM,Larry Williams,35,21,14,0,0
+Perry,12-Rankin,Commissioner of State Lands,,DEM,Larry Williams,143,42,101,0,0
+Perry,13-Rose Creek,Commissioner of State Lands,,DEM,Larry Williams,22,18,4,0,0
+Perry,14-Tyler,Commissioner of State Lands,,DEM,Larry Williams,27,25,2,0,0
+Perry,15-Union,Commissioner of State Lands,,DEM,Larry Williams,110,74,31,5,0
+Perry,16-Union Valley,Commissioner of State Lands,,DEM,Larry Williams,51,17,29,4,1
+Perry,17-Wye,Commissioner of State Lands,,DEM,Larry Williams,118,82,32,4,0
+Perry,1-Aplin,Commissioner of State Lands,,REP,Tommy Land,86,52,34,0,0
+Perry,2-Casa,Commissioner of State Lands,,REP,Tommy Land,115,72,42,1,0
+Perry,3-Cherry Hill,Commissioner of State Lands,,REP,Tommy Land,68,21,46,1,0
+Perry,4-Fourche,Commissioner of State Lands,,REP,Tommy Land,363,100,261,2,0
+Perry,5-Houston,Commissioner of State Lands,,REP,Tommy Land,194,95,99,0,0
+Perry,6-Kenney,Commissioner of State Lands,,REP,Tommy Land,42,24,18,0,0
+Perry,7-Lake,Commissioner of State Lands,,REP,Tommy Land,136,46,90,0,0
+Perry,8-Maumelle,Commissioner of State Lands,,REP,Tommy Land,164,53,108,2,1
+Perry,9-New Tennessee,Commissioner of State Lands,,REP,Tommy Land,56,35,20,1,0
+Perry,10-Perry,Commissioner of State Lands,,REP,Tommy Land,228,154,72,2,0
+Perry,11-Petit Jean,Commissioner of State Lands,,REP,Tommy Land,91,49,42,0,0
+Perry,12-Rankin,Commissioner of State Lands,,REP,Tommy Land,254,88,166,0,0
+Perry,13-Rose Creek,Commissioner of State Lands,,REP,Tommy Land,50,23,25,2,0
+Perry,14-Tyler,Commissioner of State Lands,,REP,Tommy Land,56,52,4,0,0
+Perry,15-Union,Commissioner of State Lands,,REP,Tommy Land,225,151,74,0,0
+Perry,16-Union Valley,Commissioner of State Lands,,REP,Tommy Land,90,31,58,1,0
+Perry,17-Wye,Commissioner of State Lands,,REP,Tommy Land,216,144,70,2,0
+Perry,1-Aplin,Commissioner of State Lands,,LIB,T.J. Campbell,5,4,1,0,0
+Perry,2-Casa,Commissioner of State Lands,,LIB,T.J. Campbell,8,7,1,0,0
+Perry,3-Cherry Hill,Commissioner of State Lands,,LIB,T.J. Campbell,1,1,0,0,0
+Perry,4-Fourche,Commissioner of State Lands,,LIB,T.J. Campbell,19,8,11,0,0
+Perry,5-Houston,Commissioner of State Lands,,LIB,T.J. Campbell,5,2,3,0,0
+Perry,6-Kenney,Commissioner of State Lands,,LIB,T.J. Campbell,3,2,1,0,0
+Perry,7-Lake,Commissioner of State Lands,,LIB,T.J. Campbell,7,1,6,0,0
+Perry,8-Maumelle,Commissioner of State Lands,,LIB,T.J. Campbell,6,0,6,0,0
+Perry,9-New Tennessee,Commissioner of State Lands,,LIB,T.J. Campbell,0,0,0,0,0
+Perry,10-Perry,Commissioner of State Lands,,LIB,T.J. Campbell,23,12,11,0,0
+Perry,11-Petit Jean,Commissioner of State Lands,,LIB,T.J. Campbell,9,4,5,0,0
+Perry,12-Rankin,Commissioner of State Lands,,LIB,T.J. Campbell,23,8,15,0,0
+Perry,13-Rose Creek,Commissioner of State Lands,,LIB,T.J. Campbell,0,0,0,0,0
+Perry,14-Tyler,Commissioner of State Lands,,LIB,T.J. Campbell,1,1,0,0,0
+Perry,15-Union,Commissioner of State Lands,,LIB,T.J. Campbell,6,2,4,0,0
+Perry,16-Union Valley,Commissioner of State Lands,,LIB,T.J. Campbell,4,3,1,0,0
+Perry,17-Wye,Commissioner of State Lands,,LIB,T.J. Campbell,15,15,0,0,0
+Perry,15-Union,State Senate,35,DEM,Maureen Skinner,59,38,16,5,0
+Perry,15-Union,State Senate,35,REP,Senator Jason Rapert,97,66,31,0,0
+Perry,14-Tyler,State Representative,21,DEM,Stele Wayne James,25,23,2,0,0
+Perry,14-Tyler,State Representative,21,REP,Representative Marcus E. Richmond,58,54,4,0,0
+Perry,3-Cherry Hill,State Representative,65,REP,Representative Rick Beck,0,0,0,0,0
+Perry,4-Fourche,State Representative,65,REP,Representative Rick Beck,390,104,283,2,1
+Perry,5-Houston,State Representative,65,REP,Representative Rick Beck,212,106,106,0,0
+Perry,6-Kenney,State Representative,65,REP,Representative Rick Beck,47,26,21,0,0
+Perry,7-Lake,State Representative,65,REP,Representative Rick Beck,146,47,99,0,0
+Perry,8-Maumelle,State Representative,65,REP,Representative Rick Beck,0,0,0,0,0
+Perry,10-Perry,State Representative,65,REP,Representative Rick Beck,124,82,41,1,0
+Perry,11-Petit Jean,State Representative,65,REP,Representative Rick Beck,108,56,52,0,0
+Perry,12-Rankin,State Representative,65,REP,Representative Rick Beck,273,93,180,0,0
+Perry,15-Union,State Representative,65,REP,Representative Rick Beck,181,126,55,0,0
+Perry,16-Union Valley,State Representative,65,REP,Representative Rick Beck,98,34,61,2,1
+Perry,17-Wye,State Representative,65,REP,Representative Rick Beck,234,163,69,2,0
+Perry,3-Cherry Hill,State Representative,65,DEM,Michael J. Roetzel,0,0,0,0,0
+Perry,4-Fourche,State Representative,65,DEM,Michael J. Roetzel,187,62,123,2,0
+Perry,5-Houston,State Representative,65,DEM,Michael J. Roetzel,70,42,27,1,0
+Perry,6-Kenney,State Representative,65,DEM,Michael J. Roetzel,8,3,4,1,0
+Perry,7-Lake,State Representative,65,DEM,Michael J. Roetzel,45,15,29,1,0
+Perry,8-Maumelle,State Representative,65,DEM,Michael J. Roetzel,0,0,0,0,0
+Perry,10-Perry,State Representative,65,DEM,Michael J. Roetzel,62,47,13,2,0
+Perry,11-Petit Jean,State Representative,65,DEM,Michael J. Roetzel,27,18,9,0,0
+Perry,12-Rankin,State Representative,65,DEM,Michael J. Roetzel,149,45,104,0,0
+Perry,15-Union,State Representative,65,DEM,Michael J. Roetzel,62,40,22,0,0
+Perry,16-Union Valley,State Representative,65,DEM,Michael J. Roetzel,48,17,28,3,0
+Perry,17-Wye,State Representative,65,DEM,Michael J. Roetzel,114,78,33,3,0
+Perry,10-Perry,State Representative,70,REP,Justice of the Peace Spencer Hawks,116,76,39,1,0
+Perry,15-Union,State Representative,70,REP,Justice of the Peace Spencer Hawks,49,26,23,0,0
+Perry,17-Wye,State Representative,70,REP,Justice of the Peace Spencer Hawks,0,0,0,0,0
+Perry,10-Perry,State Representative,70,DEM,Alderman Andy Hawkins,41,24,14,3,0
+Perry,15-Union,State Representative,70,DEM,Alderman Andy Hawkins,53,36,12,5,0
+Perry,17-Wye,State Representative,70,DEM,Alderman Andy Hawkins,1,0,0,1,0
+Perry,1-Aplin,State Representative,73,DEM,Dana Bonham,31,15,15,1,0
+Perry,2-Casa,State Representative,73,DEM,Dana Bonham,50,27,23,0,0
+Perry,3-Cherry Hill,State Representative,73,DEM,Dana Bonham,27,9,18,0,0
+Perry,8-Maumelle,State Representative,73,DEM,Dana Bonham,70,18,51,1,0
+Perry,9-New Tennessee,State Representative,73,DEM,Dana Bonham,21,17,4,0,0
+Perry,11-Petit Jean,State Representative,73,DEM,Dana Bonham,0,0,0,0,0
+Perry,13-Rose Creek,State Representative,73,DEM,Dana Bonham,20,15,5,0,0
+Perry,1-Aplin,State Representative,73,REP,State Representative Mary Bentley,88,56,32,0,0
+Perry,2-Casa,State Representative,73,REP,State Representative Mary Bentley,118,73,44,1,0
+Perry,3-Cherry Hill,State Representative,73,REP,State Representative Mary Bentley,70,20,49,1,0
+Perry,8-Maumelle,State Representative,73,REP,State Representative Mary Bentley,165,54,108,2,1
+Perry,9-New Tennessee,State Representative,73,REP,State Representative Mary Bentley,52,30,21,1,0
+Perry,11-Petit Jean,State Representative,73,REP,State Representative Mary Bentley,0,0,0,0,0
+Perry,13-Rose Creek,State Representative,73,REP,State Representative Mary Bentley,55,29,24,2,0
+Perry,1-Aplin,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,54,29,25,0,0
+Perry,2-Casa,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,101,53,48,0,0
+Perry,3-Cherry Hill,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,47,13,34,0,0
+Perry,4-Fourche,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,330,89,240,0,1
+Perry,5-Houston,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,167,84,82,1,0
+Perry,6-Kenney,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,24,9,15,0,0
+Perry,7-Lake,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,116,33,82,1,0
+Perry,8-Maumelle,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,108,29,77,2,0
+Perry,9-New Tennessee,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,24,14,10,0,0
+Perry,10-Perry,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,174,113,57,4,0
+Perry,11-Petit Jean,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,67,32,35,0,0
+Perry,12-Rankin,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,205,71,134,0,0
+Perry,13-Rose Creek,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,41,23,16,2,0
+Perry,14-Tyler,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,37,33,4,0,0
+Perry,15-Union,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,174,114,57,3,0
+Perry,16-Union Valley,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,79,27,50,2,0
+Perry,17-Wye,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,181,116,62,3,0
+Perry,1-Aplin,State Supreme Court Associate Justice Position 3,,NON,David Sterling,58,39,18,1,0
+Perry,2-Casa,State Supreme Court Associate Justice Position 3,,NON,David Sterling,64,45,18,1,0
+Perry,3-Cherry Hill,State Supreme Court Associate Justice Position 3,,NON,David Sterling,47,16,30,1,0
+Perry,4-Fourche,State Supreme Court Associate Justice Position 3,,NON,David Sterling,220,68,148,4,0
+Perry,5-Houston,State Supreme Court Associate Justice Position 3,,NON,David Sterling,99,56,43,0,0
+Perry,6-Kenney,State Supreme Court Associate Justice Position 3,,NON,David Sterling,30,20,9,1,0
+Perry,7-Lake,State Supreme Court Associate Justice Position 3,,NON,David Sterling,72,29,43,0,0
+Perry,8-Maumelle,State Supreme Court Associate Justice Position 3,,NON,David Sterling,117,41,75,0,1
+Perry,9-New Tennessee,State Supreme Court Associate Justice Position 3,,NON,David Sterling,42,27,14,1,0
+Perry,10-Perry,State Supreme Court Associate Justice Position 3,,NON,David Sterling,163,113,47,3,0
+Perry,11-Petit Jean,State Supreme Court Associate Justice Position 3,,NON,David Sterling,66,40,26,0,0
+Perry,12-Rankin,State Supreme Court Associate Justice Position 3,,NON,David Sterling,205,63,142,0,0
+Perry,13-Rose Creek,State Supreme Court Associate Justice Position 3,,NON,David Sterling,32,19,13,0,0
+Perry,14-Tyler,State Supreme Court Associate Justice Position 3,,NON,David Sterling,45,43,2,0,0
+Perry,15-Union,State Supreme Court Associate Justice Position 3,,NON,David Sterling,152,102,49,1,0
+Perry,16-Union Valley,State Supreme Court Associate Justice Position 3,,NON,David Sterling,58,20,35,3,0
+Perry,17-Wye,State Supreme Court Associate Justice Position 3,,NON,David Sterling,159,120,39,0,0
+Perry,1-Aplin,County Judge,,DEM,Toby L. Davis,90,46,43,1,0
+Perry,2-Casa,County Judge,,DEM,Toby L. Davis,93,47,44,2,0
+Perry,3-Cherry Hill,County Judge,,DEM,Toby L. Davis,68,16,52,0,0
+Perry,4-Fourche,County Judge,,DEM,Toby L. Davis,404,108,294,1,1
+Perry,5-Houston,County Judge,,DEM,Toby L. Davis,238,124,112,2,0
+Perry,6-Kenney,County Judge,,DEM,Toby L. Davis,27,15,11,1,0
+Perry,7-Lake,County Judge,,DEM,Toby L. Davis,124,34,89,1,0
+Perry,8-Maumelle,County Judge,,DEM,Toby L. Davis,137,36,101,0,0
+Perry,9-New Tennessee,County Judge,,DEM,Toby L. Davis,50,34,16,0,0
+Perry,10-Perry,County Judge,,DEM,Toby L. Davis,231,156,70,5,0
+Perry,11-Petit Jean,County Judge,,DEM,Toby L. Davis,86,47,39,0,0
+Perry,12-Rankin,County Judge,,DEM,Toby L. Davis,268,81,187,0,0
+Perry,13-Rose Creek,County Judge,,DEM,Toby L. Davis,56,33,21,2,0
+Perry,14-Tyler,County Judge,,DEM,Toby L. Davis,57,53,4,0,0
+Perry,15-Union,County Judge,,DEM,Toby L. Davis,208,142,61,5,0
+Perry,16-Union Valley,County Judge,,DEM,Toby L. Davis,88,27,55,5,1
+Perry,17-Wye,County Judge,,DEM,Toby L. Davis,181,130,47,4,0
+Perry,1-Aplin,County Judge,,IND,Sarah French,29,24,5,0,0
+Perry,2-Casa,County Judge,,IND,Sarah French,73,51,22,0,0
+Perry,3-Cherry Hill,County Judge,,IND,Sarah French,23,10,12,1,0
+Perry,4-Fourche,County Judge,,IND,Sarah French,166,57,106,3,0
+Perry,5-Houston,County Judge,,IND,Sarah French,50,25,25,0,0
+Perry,6-Kenney,County Judge,,IND,Sarah French,25,13,12,0,0
+Perry,7-Lake,County Judge,,IND,Sarah French,66,27,39,0,0
+Perry,8-Maumelle,County Judge,,IND,Sarah French,97,35,58,3,1
+Perry,9-New Tennessee,County Judge,,IND,Sarah French,22,12,9,1,0
+Perry,10-Perry,County Judge,,IND,Sarah French,108,71,35,2,0
+Perry,11-Petit Jean,County Judge,,IND,Sarah French,48,28,20,0,0
+Perry,12-Rankin,County Judge,,IND,Sarah French,154,58,96,0,0
+Perry,13-Rose Creek,County Judge,,IND,Sarah French,19,11,8,0,0
+Perry,14-Tyler,County Judge,,IND,Sarah French,27,26,1,0,0
+Perry,15-Union,County Judge,,IND,Sarah French,130,84,46,0,0
+Perry,16-Union Valley,County Judge,,IND,Sarah French,55,21,34,0,0
+Perry,17-Wye,County Judge,,IND,Sarah French,164,108,54,2,0
+Perry,1-Aplin,County Sheriff & Collector,,REP,Ricky Don Jones,59,36,23,0,0
+Perry,2-Casa,County Sheriff & Collector,,REP,Ricky Don Jones,80,48,31,1,0
+Perry,3-Cherry Hill,County Sheriff & Collector,,REP,Ricky Don Jones,46,19,26,1,0
+Perry,4-Fourche,County Sheriff & Collector,,REP,Ricky Don Jones,235,61,170,3,1
+Perry,5-Houston,County Sheriff & Collector,,REP,Ricky Don Jones,90,41,49,0,0
+Perry,6-Kenney,County Sheriff & Collector,,REP,Ricky Don Jones,36,19,17,0,0
+Perry,7-Lake,County Sheriff & Collector,,REP,Ricky Don Jones,92,35,57,0,0
+Perry,8-Maumelle,County Sheriff & Collector,,REP,Ricky Don Jones,102,39,63,0,0
+Perry,9-New Tennessee,County Sheriff & Collector,,REP,Ricky Don Jones,32,18,13,1,0
+Perry,10-Perry,County Sheriff & Collector,,REP,Ricky Don Jones,160,106,53,1,0
+Perry,11-Petit Jean,County Sheriff & Collector,,REP,Ricky Don Jones,76,41,35,0,0
+Perry,12-Rankin,County Sheriff & Collector,,REP,Ricky Don Jones,187,66,121,0,0
+Perry,13-Rose Creek,County Sheriff & Collector,,REP,Ricky Don Jones,34,16,17,1,0
+Perry,14-Tyler,County Sheriff & Collector,,REP,Ricky Don Jones,39,37,2,0,0
+Perry,15-Union,County Sheriff & Collector,,REP,Ricky Don Jones,118,76,42,0,0
+Perry,16-Union Valley,County Sheriff & Collector,,REP,Ricky Don Jones,69,25,42,1,1
+Perry,17-Wye,County Sheriff & Collector,,REP,Ricky Don Jones,153,99,53,1,0
+Perry,1-Aplin,County Sheriff & Collector,,DEM,Scott Montgomery,59,33,25,1,0
+Perry,2-Casa,County Sheriff & Collector,,DEM,Scott Montgomery,91,53,36,2,0
+Perry,3-Cherry Hill,County Sheriff & Collector,,DEM,Scott Montgomery,50,10,40,0,0
+Perry,4-Fourche,County Sheriff & Collector,,DEM,Scott Montgomery,345,107,237,1,0
+Perry,5-Houston,County Sheriff & Collector,,DEM,Scott Montgomery,196,107,87,2,0
+Perry,6-Kenney,County Sheriff & Collector,,DEM,Scott Montgomery,19,10,8,1,0
+Perry,7-Lake,County Sheriff & Collector,,DEM,Scott Montgomery,100,27,72,1,0
+Perry,8-Maumelle,County Sheriff & Collector,,DEM,Scott Montgomery,133,32,97,3,1
+Perry,9-New Tennessee,County Sheriff & Collector,,DEM,Scott Montgomery,41,29,12,0,0
+Perry,10-Perry,County Sheriff & Collector,,DEM,Scott Montgomery,184,125,53,6,0
+Perry,11-Petit Jean,County Sheriff & Collector,,DEM,Scott Montgomery,60,34,26,0,0
+Perry,12-Rankin,County Sheriff & Collector,,DEM,Scott Montgomery,239,74,165,0,0
+Perry,13-Rose Creek,County Sheriff & Collector,,DEM,Scott Montgomery,41,28,12,1,0
+Perry,14-Tyler,County Sheriff & Collector,,DEM,Scott Montgomery,46,42,4,0,0
+Perry,15-Union,County Sheriff & Collector,,DEM,Scott Montgomery,226,153,68,5,0
+Perry,16-Union Valley,County Sheriff & Collector,,DEM,Scott Montgomery,76,25,47,4,0
+Perry,17-Wye,County Sheriff & Collector,,DEM,Scott Montgomery,199,144,50,5,0
+Perry,1-Aplin,County/Circuit Clerk,,DEM,Persundra Hood,115,68,46,1,0
+Perry,2-Casa,County/Circuit Clerk,,DEM,Persundra Hood,152,89,62,1,0
+Perry,3-Cherry Hill,County/Circuit Clerk,,DEM,Persundra Hood,92,27,64,1,0
+Perry,4-Fourche,County/Circuit Clerk,,DEM,Persundra Hood,545,159,382,4,0
+Perry,5-Houston,County/Circuit Clerk,,DEM,Persundra Hood,269,143,125,1,0
+Perry,6-Kenney,County/Circuit Clerk,,DEM,Persundra Hood,50,27,22,1,0
+Perry,7-Lake,County/Circuit Clerk,,DEM,Persundra Hood,183,60,122,1,0
+Perry,8-Maumelle,County/Circuit Clerk,,DEM,Persundra Hood,216,65,148,3,0
+Perry,9-New Tennessee,County/Circuit Clerk,,DEM,Persundra Hood,61,41,20,0,0
+Perry,10-Perry,County/Circuit Clerk,,DEM,Persundra Hood,328,224,97,7,0
+Perry,11-Petit Jean,County/Circuit Clerk,,DEM,Persundra Hood,128,72,56,0,0
+Perry,12-Rankin,County/Circuit Clerk,,DEM,Persundra Hood,402,131,271,0,0
+Perry,13-Rose Creek,County/Circuit Clerk,,DEM,Persundra Hood,69,39,28,2,0
+Perry,14-Tyler,County/Circuit Clerk,,DEM,Persundra Hood,79,74,5,0,0
+Perry,15-Union,County/Circuit Clerk,,DEM,Persundra Hood,311,210,96,5,0
+Perry,16-Union Valley,County/Circuit Clerk,,DEM,Persundra Hood,132,44,82,5,1
+Perry,17-Wye,County/Circuit Clerk,,DEM,Persundra Hood,308,221,82,5,0
+Perry,6-Kenney,Justice of the Peace District 4 Dist 4,,REP,Larry Blackmon,12,3,9,0,0
+Perry,8-Maumelle,Justice of the Peace District 4 Dist 4,,REP,Larry Blackmon,59,18,38,2,1
+Perry,12-Rankin,Justice of the Peace District 4 Dist 4,,REP,Larry Blackmon,23,12,11,0,0
+Perry,17-Wye,Justice of the Peace District 4 Dist 4,,REP,Larry Blackmon,154,101,53,0,0
+Perry,6-Kenney,Justice of the Peace District 4 Dist 4,,DEM,"James ""Jay"" Langston",7,5,2,0,0
+Perry,8-Maumelle,Justice of the Peace District 4 Dist 4,,DEM,"James ""Jay"" Langston",48,12,36,0,0
+Perry,12-Rankin,Justice of the Peace District 4 Dist 4,,DEM,"James ""Jay"" Langston",30,12,18,0,0
+Perry,17-Wye,Justice of the Peace District 4 Dist 4,,DEM,"James ""Jay"" Langston",98,70,25,3,0
+Perry,2-Casa,Constable Casa Casa Twp,,IND,Kevin Dowell,103,58,42,3,0
+Perry,2-Casa,Constable Casa Casa Twp,,IND,Gracie R. Holland,63,38,25,0,0
+Perry,11-Petit Jean,Mayor of Adona Adona,,NON,Dean Mac McKendree,55,34,21,0,0
+Perry,10-Perry,Mayor of Bigelow Bigelow,,NON,Brad Akridge,118,87,26,5,0
+Perry,2-Casa,Mayor of Casa Casa,,NON,Betty H. Brixey,27,17,10,0,0
+Perry,2-Casa,Mayor of Casa Casa,,NON,Gary L. Rainey,39,17,19,3,0
+Perry,2-Casa,Casa Council Member Position 1 Casa,,NON,Franklin Harmon Sr.,33,14,18,1,0
+Perry,2-Casa,Casa Council Member Position 1 Casa,,NON,Calvin Clinton Brixey,33,20,11,2,0
+Perry,2-Casa,Casa Council Member, Position 2 Casa,NON,John T. Buford,32,15,16,1,0
+Perry,2-Casa,Casa Council Member, Position 2 Casa,NON,Joeletta Porter,33,19,13,1,0
+Perry,10-Perry,Mayor of Fourche Fourche,,NON,Rickey J. Egger,19,12,7,0,0
+Perry,5-Houston,Mayor of Houston Houston,,NON,David H. Starkey,64,35,28,1,0
+Perry,7-Lake,Mayor of Perry Perry,,NON,Britt Ryles,61,17,44,0,0
+Perry,7-Lake,Perry Council Member, Pos 3 Perry,NON,James R. Palmer,44,11,33,0,0
+Perry,7-Lake,Perry Council Member, Pos 3 Perry,NON,Marlene M. Gulledge,19,7,12,0,0
+Perry,4-Fourche,Mayor of Perryville Perryville,,NON,John Roland,443,133,305,4,1
+Perry,4-Fourche,Perryville Council Member Pos 2 Ward 3 Perryville,,NON,Robert Lee Brazil,261,81,175,4,1
+Perry,4-Fourche,Perryville Council Member Pos 2 Ward 3 Perryville,,NON,William E. Jones III,178,48,130,0,0
+Perry,1-Aplin,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,100,60,39,1,0
+Perry,2-Casa,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,139,88,50,1,0
+Perry,3-Cherry Hill,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,80,27,52,1,0
+Perry,4-Fourche,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,485,137,343,4,1
+Perry,5-Houston,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,233,124,108,1,0
+Perry,6-Kenney,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,49,29,20,0,0
+Perry,7-Lake,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,166,56,109,1,0
+Perry,8-Maumelle,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,196,62,131,2,1
+Perry,9-New Tennessee,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,61,38,22,1,0
+Perry,10-Perry,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,290,198,87,5,0
+Perry,11-Petit Jean,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,107,55,52,0,0
+Perry,12-Rankin,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,334,117,217,0,0
+Perry,13-Rose Creek,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,53,26,26,1,0
+Perry,14-Tyler,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,71,65,6,0,0
+Perry,15-Union,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,275,180,94,1,0
+Perry,16-Union Valley,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,112,39,69,4,0
+Perry,17-Wye,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,286,201,79,6,0
+Perry,1-Aplin,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,19,11,8,0,0
+Perry,2-Casa,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,29,13,16,0,0
+Perry,3-Cherry Hill,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,16,2,14,0,0
+Perry,4-Fourche,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,81,25,56,0,0
+Perry,5-Houston,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,50,22,27,1,0
+Perry,6-Kenney,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,6,0,5,1,0
+Perry,7-Lake,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,23,5,18,0,0
+Perry,8-Maumelle,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,35,8,26,1,0
+Perry,9-New Tennessee,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,11,8,3,0,0
+Perry,10-Perry,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,53,31,20,2,0
+Perry,11-Petit Jean,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,28,20,8,0,0
+Perry,12-Rankin,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,83,19,64,0,0
+Perry,13-Rose Creek,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,18,15,3,0,0
+Perry,14-Tyler,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,10,10,0,0,0
+Perry,15-Union,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,64,44,17,3,0
+Perry,16-Union Valley,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,30,9,20,1,0
+Perry,17-Wye,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,62,40,22,0,0
+Perry,1-Aplin,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,59,31,27,1,0
+Perry,2-Casa,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,107,66,39,2,0
+Perry,3-Cherry Hill,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,45,16,29,0,0
+Perry,4-Fourche,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,338,111,225,2,0
+Perry,5-Houston,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,156,80,74,2,0
+Perry,6-Kenney,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,35,16,18,1,0
+Perry,7-Lake,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,117,43,74,0,0
+Perry,8-Maumelle,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,114,27,85,2,0
+Perry,9-New Tennessee,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,36,21,15,0,0
+Perry,10-Perry,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,207,141,65,1,0
+Perry,11-Petit Jean,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,81,44,37,0,0
+Perry,12-Rankin,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,258,93,165,0,0
+Perry,13-Rose Creek,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,30,19,9,2,0
+Perry,14-Tyler,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,46,43,3,0,0
+Perry,15-Union,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,203,140,58,5,0
+Perry,16-Union Valley,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,59,19,38,1,1
+Perry,17-Wye,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,175,122,47,6,0
+Perry,1-Aplin,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,60,40,20,0,0
+Perry,2-Casa,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,62,35,26,1,0
+Perry,3-Cherry Hill,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,50,13,36,1,0
+Perry,4-Fourche,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,233,54,176,2,1
+Perry,5-Houston,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,124,65,59,0,0
+Perry,6-Kenney,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,20,13,7,0,0
+Perry,7-Lake,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,75,19,55,1,0
+Perry,8-Maumelle,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,118,45,71,1,1
+Perry,9-New Tennessee,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,36,26,9,1,0
+Perry,10-Perry,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,134,88,40,6,0
+Perry,11-Petit Jean,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,54,31,23,0,0
+Perry,12-Rankin,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,162,45,117,0,0
+Perry,13-Rose Creek,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,45,25,20,0,0
+Perry,14-Tyler,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,37,34,3,0,0
+Perry,15-Union,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,133,80,53,0,0
+Perry,16-Union Valley,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,86,32,50,4,0
+Perry,17-Wye,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,175,119,56,0,0
+Perry,1-Aplin,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,53,27,25,1,0
+Perry,2-Casa,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,123,70,50,3,0
+Perry,3-Cherry Hill,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,60,19,41,0,0
+Perry,4-Fourche,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,374,112,257,4,1
+Perry,5-Houston,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,169,92,77,0,0
+Perry,6-Kenney,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,31,16,14,1,0
+Perry,7-Lake,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,136,45,90,1,0
+Perry,8-Maumelle,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,142,39,99,3,1
+Perry,9-New Tennessee,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,41,29,12,0,0
+Perry,10-Perry,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,213,147,61,5,0
+Perry,11-Petit Jean,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,98,56,42,0,0
+Perry,12-Rankin,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,313,101,212,0,0
+Perry,13-Rose Creek,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,38,24,14,0,0
+Perry,14-Tyler,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,59,55,4,0,0
+Perry,15-Union,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,233,158,70,5,0
+Perry,16-Union Valley,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,96,32,62,2,0
+Perry,17-Wye,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,223,157,60,6,0
+Perry,1-Aplin,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,64,42,22,0,0
+Perry,2-Casa,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,45,31,14,0,0
+Perry,3-Cherry Hill,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,34,9,24,1,0
+Perry,4-Fourche,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,197,54,143,0,0
+Perry,5-Houston,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,113,53,58,2,0
+Perry,6-Kenney,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,24,13,11,0,0
+Perry,7-Lake,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,54,16,38,0,0
+Perry,8-Maumelle,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,93,32,61,0,0
+Perry,9-New Tennessee,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,32,18,13,1,0
+Perry,10-Perry,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,131,84,45,2,0
+Perry,11-Petit Jean,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,38,19,19,0,0
+Perry,12-Rankin,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,105,36,69,0,0
+Perry,13-Rose Creek,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,35,18,15,2,0
+Perry,14-Tyler,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,24,22,2,0,0
+Perry,15-Union,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,107,66,41,0,0
+Perry,16-Union Valley,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,49,18,28,3,0
+Perry,17-Wye,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,125,84,41,0,0

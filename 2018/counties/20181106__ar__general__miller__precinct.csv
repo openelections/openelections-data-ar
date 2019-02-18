@@ -1,0 +1,683 @@
+county,precinct,office,district,party,candidate,votes,election_day,early_voting,absentee,provisional
+Miller,Bright Star,U.S. House,4,LIB,Tom Canada,2,1,1,0,0
+Miller,Central,U.S. House,4,LIB,Tom Canada,4,1,2,1,0
+Miller,College Hill,U.S. House,4,LIB,Tom Canada,9,5,4,0,0
+Miller,Doddridge,U.S. House,4,LIB,Tom Canada,4,3,1,0,0
+Miller,Fouke,U.S. House,4,LIB,Tom Canada,21,10,10,0,1
+Miller,Garland,U.S. House,4,LIB,Tom Canada,0,0,0,0,0
+Miller,Genoa,U.S. House,4,LIB,Tom Canada,4,1,3,0,0
+Miller,Greenwich Village,U.S. House,4,LIB,Tom Canada,7,2,5,0,0
+Miller,Hickory Street,U.S. House,4,LIB,Tom Canada,8,4,4,0,0
+Miller,Hickory Street South,U.S. House,4,LIB,Tom Canada,8,3,5,0,0
+Miller,Mandeville,U.S. House,4,LIB,Tom Canada,5,2,3,0,0
+Miller,North Heights,U.S. House,4,LIB,Tom Canada,15,9,6,0,0
+Miller,Ozan,U.S. House,4,LIB,Tom Canada,3,1,2,0,0
+Miller,Rondo,U.S. House,4,LIB,Tom Canada,7,5,2,0,0
+Miller,Sandflat,U.S. House,4,LIB,Tom Canada,2,1,1,0,0
+Miller,Sugar Hill,U.S. House,4,LIB,Tom Canada,12,6,6,0,0
+Miller,Trice,U.S. House,4,LIB,Tom Canada,10,7,3,0,0
+Miller,Union,U.S. House,4,LIB,Tom Canada,5,2,2,0,1
+Miller,Washington,U.S. House,4,LIB,Tom Canada,6,4,2,0,0
+Miller,Bright Star,U.S. House,4,DEM,Hayden Catherine Shamel,26,13,12,0,1
+Miller,Central,U.S. House,4,DEM,Hayden Catherine Shamel,45,32,10,3,0
+Miller,College Hill,U.S. House,4,DEM,Hayden Catherine Shamel,281,119,153,7,2
+Miller,Doddridge,U.S. House,4,DEM,Hayden Catherine Shamel,61,48,11,2,0
+Miller,Fouke,U.S. House,4,DEM,Hayden Catherine Shamel,124,69,53,1,1
+Miller,Garland,U.S. House,4,DEM,Hayden Catherine Shamel,60,47,12,0,1
+Miller,Genoa,U.S. House,4,DEM,Hayden Catherine Shamel,55,29,26,0,0
+Miller,Greenwich Village,U.S. House,4,DEM,Hayden Catherine Shamel,103,48,55,0,0
+Miller,Hickory Street,U.S. House,4,DEM,Hayden Catherine Shamel,261,125,128,6,2
+Miller,Hickory Street South,U.S. House,4,DEM,Hayden Catherine Shamel,213,89,119,4,1
+Miller,Mandeville,U.S. House,4,DEM,Hayden Catherine Shamel,123,53,63,7,0
+Miller,North Heights,U.S. House,4,DEM,Hayden Catherine Shamel,377,166,205,4,2
+Miller,Ozan,U.S. House,4,DEM,Hayden Catherine Shamel,196,93,101,2,0
+Miller,Rondo,U.S. House,4,DEM,Hayden Catherine Shamel,44,20,23,1,0
+Miller,Sandflat,U.S. House,4,DEM,Hayden Catherine Shamel,142,65,71,2,4
+Miller,Sugar Hill,U.S. House,4,DEM,Hayden Catherine Shamel,338,122,209,6,1
+Miller,Trice,U.S. House,4,DEM,Hayden Catherine Shamel,242,99,140,3,0
+Miller,Union,U.S. House,4,DEM,Hayden Catherine Shamel,129,64,61,2,2
+Miller,Washington,U.S. House,4,DEM,Hayden Catherine Shamel,267,127,139,1,0
+Miller,Bright Star,U.S. House,4,REP,Representative Bruce Westerman,205,129,73,2,1
+Miller,Central,U.S. House,4,REP,Representative Bruce Westerman,401,258,140,1,2
+Miller,College Hill,U.S. House,4,REP,Representative Bruce Westerman,343,163,172,7,1
+Miller,Doddridge,U.S. House,4,REP,Representative Bruce Westerman,212,136,73,1,2
+Miller,Fouke,U.S. House,4,REP,Representative Bruce Westerman,912,508,384,11,9
+Miller,Garland,U.S. House,4,REP,Representative Bruce Westerman,27,25,2,0,0
+Miller,Genoa,U.S. House,4,REP,Representative Bruce Westerman,552,306,236,7,3
+Miller,Greenwich Village,U.S. House,4,REP,Representative Bruce Westerman,652,311,328,11,2
+Miller,Hickory Street,U.S. House,4,REP,Representative Bruce Westerman,439,243,191,3,2
+Miller,Hickory Street South,U.S. House,4,REP,Representative Bruce Westerman,324,155,160,6,3
+Miller,Mandeville,U.S. House,4,REP,Representative Bruce Westerman,217,118,95,2,2
+Miller,North Heights,U.S. House,4,REP,Representative Bruce Westerman,598,291,295,10,2
+Miller,Ozan,U.S. House,4,REP,Representative Bruce Westerman,197,77,119,0,1
+Miller,Rondo,U.S. House,4,REP,Representative Bruce Westerman,448,246,199,3,0
+Miller,Sandflat,U.S. House,4,REP,Representative Bruce Westerman,113,47,63,1,2
+Miller,Sugar Hill,U.S. House,4,REP,Representative Bruce Westerman,960,450,494,9,7
+Miller,Trice,U.S. House,4,REP,Representative Bruce Westerman,443,179,254,8,2
+Miller,Union,U.S. House,4,REP,Representative Bruce Westerman,1116,567,535,9,5
+Miller,Washington,U.S. House,4,REP,Representative Bruce Westerman,30,10,18,2,0
+Miller,Bright Star,U.S. House,4,NON,Write-In,0,0,0,0,0
+Miller,Central,U.S. House,4,NON,Write-In,0,0,0,0,0
+Miller,College Hill,U.S. House,4,NON,Write-In,0,0,0,0,0
+Miller,Doddridge,U.S. House,4,NON,Write-In,0,0,0,0,0
+Miller,Fouke,U.S. House,4,NON,Write-In,0,0,0,0,0
+Miller,Garland,U.S. House,4,NON,Write-In,0,0,0,0,0
+Miller,Genoa,U.S. House,4,NON,Write-In,1,0,1,0,0
+Miller,Greenwich Village,U.S. House,4,NON,Write-In,1,1,0,0,0
+Miller,Hickory Street,U.S. House,4,NON,Write-In,0,0,0,0,0
+Miller,Hickory Street South,U.S. House,4,NON,Write-In,0,0,0,0,0
+Miller,Mandeville,U.S. House,4,NON,Write-In,0,0,0,0,0
+Miller,North Heights,U.S. House,4,NON,Write-In,1,1,0,0,0
+Miller,Ozan,U.S. House,4,NON,Write-In,0,0,0,0,0
+Miller,Rondo,U.S. House,4,NON,Write-In,0,0,0,0,0
+Miller,Sandflat,U.S. House,4,NON,Write-In,0,0,0,0,0
+Miller,Sugar Hill,U.S. House,4,NON,Write-In,0,0,0,0,0
+Miller,Trice,U.S. House,4,NON,Write-In,0,0,0,0,0
+Miller,Union,U.S. House,4,NON,Write-In,0,0,0,0,0
+Miller,Washington,U.S. House,4,NON,Write-In,2,0,2,0,0
+Miller,Bright Star,Governor,,DEM,Jared K. Henderson,23,9,13,0,1
+Miller,Central,Governor,,DEM,Jared K. Henderson,37,23,10,4,0
+Miller,College Hill,Governor,,DEM,Jared K. Henderson,265,110,146,7,2
+Miller,Doddridge,Governor,,DEM,Jared K. Henderson,58,47,9,2,0
+Miller,Fouke,Governor,,DEM,Jared K. Henderson,94,53,37,2,2
+Miller,Garland,Governor,,DEM,Jared K. Henderson,53,41,11,0,1
+Miller,Genoa,Governor,,DEM,Jared K. Henderson,45,19,26,0,0
+Miller,Greenwich Village,Governor,,DEM,Jared K. Henderson,89,38,51,0,0
+Miller,Hickory Street,Governor,,DEM,Jared K. Henderson,244,116,121,5,2
+Miller,Hickory Street South,Governor,,DEM,Jared K. Henderson,206,91,109,5,1
+Miller,Mandeville,Governor,,DEM,Jared K. Henderson,123,52,63,7,1
+Miller,North Heights,Governor,,DEM,Jared K. Henderson,359,154,199,4,2
+Miller,Ozan,Governor,,DEM,Jared K. Henderson,185,90,93,2,0
+Miller,Rondo,Governor,,DEM,Jared K. Henderson,38,19,18,1,0
+Miller,Sandflat,Governor,,DEM,Jared K. Henderson,133,58,69,2,4
+Miller,Sugar Hill,Governor,,DEM,Jared K. Henderson,300,104,189,6,1
+Miller,Trice,Governor,,DEM,Jared K. Henderson,224,84,137,3,0
+Miller,Union,Governor,,DEM,Jared K. Henderson,108,51,53,2,2
+Miller,Washington,Governor,,DEM,Jared K. Henderson,257,124,132,1,0
+Miller,Bright Star,Governor,,REP,Governor Asa Hutchinson,205,131,73,0,1
+Miller,Central,Governor,,REP,Governor Asa Hutchinson,397,258,136,1,2
+Miller,College Hill,Governor,,REP,Governor Asa Hutchinson,356,176,173,7,0
+Miller,Doddridge,Governor,,REP,Governor Asa Hutchinson,215,138,74,1,2
+Miller,Fouke,Governor,,REP,Governor Asa Hutchinson,937,522,397,10,8
+Miller,Garland,Governor,,REP,Governor Asa Hutchinson,31,28,3,0,0
+Miller,Genoa,Governor,,REP,Governor Asa Hutchinson,559,313,236,7,3
+Miller,Greenwich Village,Governor,,REP,Governor Asa Hutchinson,658,319,326,11,2
+Miller,Hickory Street,Governor,,REP,Governor Asa Hutchinson,458,251,201,4,2
+Miller,Hickory Street South,Governor,,REP,Governor Asa Hutchinson,330,151,172,5,2
+Miller,Mandeville,Governor,,REP,Governor Asa Hutchinson,213,119,91,2,1
+Miller,North Heights,Governor,,REP,Governor Asa Hutchinson,619,305,302,10,2
+Miller,Ozan,Governor,,REP,Governor Asa Hutchinson,210,80,129,0,1
+Miller,Rondo,Governor,,REP,Governor Asa Hutchinson,449,243,203,3,0
+Miller,Sandflat,Governor,,REP,Governor Asa Hutchinson,121,52,66,1,2
+Miller,Sugar Hill,Governor,,REP,Governor Asa Hutchinson,1001,468,517,9,7
+Miller,Trice,Governor,,REP,Governor Asa Hutchinson,464,198,256,8,2
+Miller,Union,Governor,,REP,Governor Asa Hutchinson,1126,575,537,9,5
+Miller,Washington,Governor,,REP,Governor Asa Hutchinson,44,15,27,2,0
+Miller,Bright Star,Governor,,LIB,Mark West,6,4,0,2,0
+Miller,Central,Governor,,LIB,Mark West,14,8,6,0,0
+Miller,College Hill,Governor,,LIB,Mark West,18,5,12,0,1
+Miller,Doddridge,Governor,,LIB,Mark West,4,2,2,0,0
+Miller,Fouke,Governor,,LIB,Mark West,28,14,13,0,1
+Miller,Garland,Governor,,LIB,Mark West,5,5,0,0,0
+Miller,Genoa,Governor,,LIB,Mark West,7,2,5,0,0
+Miller,Greenwich Village,Governor,,LIB,Mark West,15,4,11,0,0
+Miller,Hickory Street,Governor,,LIB,Mark West,5,4,1,0,0
+Miller,Hickory Street South,Governor,,LIB,Mark West,10,4,5,0,1
+Miller,Mandeville,Governor,,LIB,Mark West,8,3,5,0,0
+Miller,North Heights,Governor,,LIB,Mark West,14,9,5,0,0
+Miller,Ozan,Governor,,LIB,Mark West,5,3,2,0,0
+Miller,Rondo,Governor,,LIB,Mark West,14,9,5,0,0
+Miller,Sandflat,Governor,,LIB,Mark West,4,3,1,0,0
+Miller,Sugar Hill,Governor,,LIB,Mark West,14,7,7,0,0
+Miller,Trice,Governor,,LIB,Mark West,8,4,4,0,0
+Miller,Union,Governor,,LIB,Mark West,15,7,7,0,1
+Miller,Washington,Governor,,LIB,Mark West,3,1,2,0,0
+Miller,Bright Star,Lieutenant Governor,,LIB,Frank Gilbert,6,3,1,2,0
+Miller,Central,Lieutenant Governor,,LIB,Frank Gilbert,5,4,1,0,0
+Miller,College Hill,Lieutenant Governor,,LIB,Frank Gilbert,8,5,3,0,0
+Miller,Doddridge,Lieutenant Governor,,LIB,Frank Gilbert,2,1,1,0,0
+Miller,Fouke,Lieutenant Governor,,LIB,Frank Gilbert,15,9,6,0,0
+Miller,Garland,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0,0
+Miller,Genoa,Lieutenant Governor,,LIB,Frank Gilbert,8,5,2,0,1
+Miller,Greenwich Village,Lieutenant Governor,,LIB,Frank Gilbert,12,6,6,0,0
+Miller,Hickory Street,Lieutenant Governor,,LIB,Frank Gilbert,4,2,2,0,0
+Miller,Hickory Street South,Lieutenant Governor,,LIB,Frank Gilbert,9,4,5,0,0
+Miller,Mandeville,Lieutenant Governor,,LIB,Frank Gilbert,4,2,2,0,0
+Miller,North Heights,Lieutenant Governor,,LIB,Frank Gilbert,16,11,5,0,0
+Miller,Ozan,Lieutenant Governor,,LIB,Frank Gilbert,7,4,3,0,0
+Miller,Rondo,Lieutenant Governor,,LIB,Frank Gilbert,10,8,2,0,0
+Miller,Sandflat,Lieutenant Governor,,LIB,Frank Gilbert,3,1,2,0,0
+Miller,Sugar Hill,Lieutenant Governor,,LIB,Frank Gilbert,16,11,5,0,0
+Miller,Trice,Lieutenant Governor,,LIB,Frank Gilbert,9,4,5,0,0
+Miller,Union,Lieutenant Governor,,LIB,Frank Gilbert,16,9,6,0,1
+Miller,Washington,Lieutenant Governor,,LIB,Frank Gilbert,3,2,1,0,0
+Miller,Bright Star,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,201,129,71,0,1
+Miller,Central,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,401,259,139,1,2
+Miller,College Hill,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,352,170,174,7,1
+Miller,Doddridge,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,214,138,73,1,2
+Miller,Fouke,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,941,519,401,11,10
+Miller,Garland,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,28,26,2,0,0
+Miller,Genoa,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,552,305,238,7,2
+Miller,Greenwich Village,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,655,314,328,11,2
+Miller,Hickory Street,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,445,243,196,4,2
+Miller,Hickory Street South,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,323,154,161,5,3
+Miller,Mandeville,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,213,115,94,2,2
+Miller,North Heights,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,602,299,291,10,2
+Miller,Ozan,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,199,76,122,0,1
+Miller,Rondo,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,451,246,202,3,0
+Miller,Sandflat,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,115,49,63,1,2
+Miller,Sugar Hill,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,970,451,502,10,7
+Miller,Trice,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,455,187,258,8,2
+Miller,Union,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,1111,561,536,9,5
+Miller,Washington,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,38,14,22,2,0
+Miller,Bright Star,Lieutenant Governor,,DEM,Anthony Bland,26,11,14,0,1
+Miller,Central,Lieutenant Governor,,DEM,Anthony Bland,43,27,12,4,0
+Miller,College Hill,Lieutenant Governor,,DEM,Anthony Bland,280,115,156,7,2
+Miller,Doddridge,Lieutenant Governor,,DEM,Anthony Bland,60,49,9,2,0
+Miller,Fouke,Lieutenant Governor,,DEM,Anthony Bland,99,58,39,1,1
+Miller,Garland,Lieutenant Governor,,DEM,Anthony Bland,61,48,12,0,1
+Miller,Genoa,Lieutenant Governor,,DEM,Anthony Bland,51,24,27,0,0
+Miller,Greenwich Village,Lieutenant Governor,,DEM,Anthony Bland,96,41,55,0,0
+Miller,Hickory Street,Lieutenant Governor,,DEM,Anthony Bland,257,125,126,4,2
+Miller,Hickory Street South,Lieutenant Governor,,DEM,Anthony Bland,213,91,116,5,1
+Miller,Mandeville,Lieutenant Governor,,DEM,Anthony Bland,129,56,66,7,0
+Miller,North Heights,Lieutenant Governor,,DEM,Anthony Bland,370,157,207,4,2
+Miller,Ozan,Lieutenant Governor,,DEM,Anthony Bland,194,94,98,2,0
+Miller,Rondo,Lieutenant Governor,,DEM,Anthony Bland,39,17,21,1,0
+Miller,Sandflat,Lieutenant Governor,,DEM,Anthony Bland,141,64,71,2,4
+Miller,Sugar Hill,Lieutenant Governor,,DEM,Anthony Bland,326,114,206,5,1
+Miller,Trice,Lieutenant Governor,,DEM,Anthony Bland,231,94,134,3,0
+Miller,Union,Lieutenant Governor,,DEM,Anthony Bland,120,61,55,2,2
+Miller,Washington,Lieutenant Governor,,DEM,Anthony Bland,265,126,138,1,0
+Miller,Bright Star,Attorney General,,REP,Attorney General Leslie Rutledge,199,126,72,0,1
+Miller,Central,Attorney General,,REP,Attorney General Leslie Rutledge,395,255,137,1,2
+Miller,College Hill,Attorney General,,REP,Attorney General Leslie Rutledge,345,168,171,6,0
+Miller,Doddridge,Attorney General,,REP,Attorney General Leslie Rutledge,208,131,74,1,2
+Miller,Fouke,Attorney General,,REP,Attorney General Leslie Rutledge,939,521,398,11,9
+Miller,Garland,Attorney General,,REP,Attorney General Leslie Rutledge,28,26,2,0,0
+Miller,Genoa,Attorney General,,REP,Attorney General Leslie Rutledge,548,301,237,7,3
+Miller,Greenwich Village,Attorney General,,REP,Attorney General Leslie Rutledge,644,310,321,11,2
+Miller,Hickory Street,Attorney General,,REP,Attorney General Leslie Rutledge,438,240,192,4,2
+Miller,Hickory Street South,Attorney General,,REP,Attorney General Leslie Rutledge,319,152,159,5,3
+Miller,Mandeville,Attorney General,,REP,Attorney General Leslie Rutledge,213,116,93,2,2
+Miller,North Heights,Attorney General,,REP,Attorney General Leslie Rutledge,593,292,289,10,2
+Miller,Ozan,Attorney General,,REP,Attorney General Leslie Rutledge,194,75,118,0,1
+Miller,Rondo,Attorney General,,REP,Attorney General Leslie Rutledge,448,245,200,3,0
+Miller,Sandflat,Attorney General,,REP,Attorney General Leslie Rutledge,111,47,63,1,0
+Miller,Sugar Hill,Attorney General,,REP,Attorney General Leslie Rutledge,960,446,498,9,7
+Miller,Trice,Attorney General,,REP,Attorney General Leslie Rutledge,448,182,257,7,2
+Miller,Union,Attorney General,,REP,Attorney General Leslie Rutledge,1106,559,533,9,5
+Miller,Washington,Attorney General,,REP,Attorney General Leslie Rutledge,33,11,20,2,0
+Miller,Bright Star,Attorney General,,LIB,Kerry Hicks,6,3,1,2,0
+Miller,Central,Attorney General,,LIB,Kerry Hicks,8,4,4,0,0
+Miller,College Hill,Attorney General,,LIB,Kerry Hicks,6,5,1,0,0
+Miller,Doddridge,Attorney General,,LIB,Kerry Hicks,2,1,1,0,0
+Miller,Fouke,Attorney General,,LIB,Kerry Hicks,16,10,6,0,0
+Miller,Garland,Attorney General,,LIB,Kerry Hicks,0,0,0,0,0
+Miller,Genoa,Attorney General,,LIB,Kerry Hicks,7,6,1,0,0
+Miller,Greenwich Village,Attorney General,,LIB,Kerry Hicks,15,2,13,0,0
+Miller,Hickory Street,Attorney General,,LIB,Kerry Hicks,9,5,4,0,0
+Miller,Hickory Street South,Attorney General,,LIB,Kerry Hicks,8,2,6,0,0
+Miller,Mandeville,Attorney General,,LIB,Kerry Hicks,7,3,4,0,0
+Miller,North Heights,Attorney General,,LIB,Kerry Hicks,13,9,4,0,0
+Miller,Ozan,Attorney General,,LIB,Kerry Hicks,9,3,6,0,0
+Miller,Rondo,Attorney General,,LIB,Kerry Hicks,10,8,2,0,0
+Miller,Sandflat,Attorney General,,LIB,Kerry Hicks,5,2,2,0,1
+Miller,Sugar Hill,Attorney General,,LIB,Kerry Hicks,14,10,4,0,0
+Miller,Trice,Attorney General,,LIB,Kerry Hicks,9,5,3,1,0
+Miller,Union,Attorney General,,LIB,Kerry Hicks,15,6,8,0,1
+Miller,Washington,Attorney General,,LIB,Kerry Hicks,6,3,3,0,0
+Miller,Bright Star,Attorney General,,DEM,Mike Lee,28,14,13,0,1
+Miller,Central,Attorney General,,DEM,Mike Lee,44,29,11,4,0
+Miller,College Hill,Attorney General,,DEM,Mike Lee,290,119,160,8,3
+Miller,Doddridge,Attorney General,,DEM,Mike Lee,67,55,10,2,0
+Miller,Fouke,Attorney General,,DEM,Mike Lee,103,56,44,1,2
+Miller,Garland,Attorney General,,DEM,Mike Lee,59,46,12,0,1
+Miller,Genoa,Attorney General,,DEM,Mike Lee,57,28,29,0,0
+Miller,Greenwich Village,Attorney General,,DEM,Mike Lee,105,51,54,0,0
+Miller,Hickory Street,Attorney General,,DEM,Mike Lee,260,126,127,5,2
+Miller,Hickory Street South,Attorney General,,DEM,Mike Lee,222,95,121,5,1
+Miller,Mandeville,Attorney General,,DEM,Mike Lee,123,53,63,7,0
+Miller,North Heights,Attorney General,,DEM,Mike Lee,384,167,211,4,2
+Miller,Ozan,Attorney General,,DEM,Mike Lee,196,95,99,2,0
+Miller,Rondo,Attorney General,,DEM,Mike Lee,42,18,23,1,0
+Miller,Sandflat,Attorney General,,DEM,Mike Lee,144,66,71,2,5
+Miller,Sugar Hill,Attorney General,,DEM,Mike Lee,340,122,211,6,1
+Miller,Trice,Attorney General,,DEM,Mike Lee,238,98,137,3,0
+Miller,Union,Attorney General,,DEM,Mike Lee,128,67,57,2,2
+Miller,Washington,Attorney General,,DEM,Mike Lee,267,126,140,1,0
+Miller,Bright Star,Secretary of State,,LIB,Christopher Olson,2,1,1,0,0
+Miller,Central,Secretary of State,,LIB,Christopher Olson,5,3,2,0,0
+Miller,College Hill,Secretary of State,,LIB,Christopher Olson,10,6,3,0,1
+Miller,Doddridge,Secretary of State,,LIB,Christopher Olson,5,3,2,0,0
+Miller,Fouke,Secretary of State,,LIB,Christopher Olson,19,11,7,0,1
+Miller,Garland,Secretary of State,,LIB,Christopher Olson,0,0,0,0,0
+Miller,Genoa,Secretary of State,,LIB,Christopher Olson,4,2,2,0,0
+Miller,Greenwich Village,Secretary of State,,LIB,Christopher Olson,10,5,5,0,0
+Miller,Hickory Street,Secretary of State,,LIB,Christopher Olson,9,3,6,0,0
+Miller,Hickory Street South,Secretary of State,,LIB,Christopher Olson,9,4,5,0,0
+Miller,Mandeville,Secretary of State,,LIB,Christopher Olson,3,2,1,0,0
+Miller,North Heights,Secretary of State,,LIB,Christopher Olson,17,11,6,0,0
+Miller,Ozan,Secretary of State,,LIB,Christopher Olson,5,1,4,0,0
+Miller,Rondo,Secretary of State,,LIB,Christopher Olson,7,6,1,0,0
+Miller,Sandflat,Secretary of State,,LIB,Christopher Olson,2,2,0,0,0
+Miller,Sugar Hill,Secretary of State,,LIB,Christopher Olson,11,6,5,0,0
+Miller,Trice,Secretary of State,,LIB,Christopher Olson,12,5,7,0,0
+Miller,Union,Secretary of State,,LIB,Christopher Olson,13,4,9,0,0
+Miller,Washington,Secretary of State,,LIB,Christopher Olson,7,3,4,0,0
+Miller,Bright Star,Secretary of State,,REP,John Thurston Commissioner of State Lands,204,131,70,2,1
+Miller,Central,Secretary of State,,REP,John Thurston Commissioner of State Lands,399,257,139,1,2
+Miller,College Hill,Secretary of State,,REP,John Thurston Commissioner of State Lands,335,163,166,6,0
+Miller,Doddridge,Secretary of State,,REP,John Thurston Commissioner of State Lands,209,133,73,1,2
+Miller,Fouke,Secretary of State,,REP,John Thurston Commissioner of State Lands,932,517,395,11,9
+Miller,Garland,Secretary of State,,REP,John Thurston Commissioner of State Lands,29,27,2,0,0
+Miller,Genoa,Secretary of State,,REP,John Thurston Commissioner of State Lands,551,305,236,7,3
+Miller,Greenwich Village,Secretary of State,,REP,John Thurston Commissioner of State Lands,646,308,325,11,2
+Miller,Hickory Street,Secretary of State,,REP,John Thurston Commissioner of State Lands,435,240,189,4,2
+Miller,Hickory Street South,Secretary of State,,REP,John Thurston Commissioner of State Lands,324,156,160,5,3
+Miller,Mandeville,Secretary of State,,REP,John Thurston Commissioner of State Lands,214,117,93,2,2
+Miller,North Heights,Secretary of State,,REP,John Thurston Commissioner of State Lands,587,293,282,10,2
+Miller,Ozan,Secretary of State,,REP,John Thurston Commissioner of State Lands,199,75,123,0,1
+Miller,Rondo,Secretary of State,,REP,John Thurston Commissioner of State Lands,447,244,200,3,0
+Miller,Sandflat,Secretary of State,,REP,John Thurston Commissioner of State Lands,111,47,62,1,1
+Miller,Sugar Hill,Secretary of State,,REP,John Thurston Commissioner of State Lands,955,445,494,9,7
+Miller,Trice,Secretary of State,,REP,John Thurston Commissioner of State Lands,448,189,249,8,2
+Miller,Union,Secretary of State,,REP,John Thurston Commissioner of State Lands,1112,565,532,9,6
+Miller,Washington,Secretary of State,,REP,John Thurston Commissioner of State Lands,31,10,19,2,0
+Miller,Bright Star,Secretary of State,,DEM,Susan Inman,27,11,15,0,1
+Miller,Central,Secretary of State,,DEM,Susan Inman,44,29,11,4,0
+Miller,College Hill,Secretary of State,,DEM,Susan Inman,293,120,164,7,2
+Miller,Doddridge,Secretary of State,,DEM,Susan Inman,63,51,10,2,0
+Miller,Fouke,Secretary of State,,DEM,Susan Inman,105,59,44,1,1
+Miller,Garland,Secretary of State,,DEM,Susan Inman,58,45,12,0,1
+Miller,Genoa,Secretary of State,,DEM,Susan Inman,56,28,28,0,0
+Miller,Greenwich Village,Secretary of State,,DEM,Susan Inman,108,50,58,0,0
+Miller,Hickory Street,Secretary of State,,DEM,Susan Inman,263,127,129,5,2
+Miller,Hickory Street South,Secretary of State,,DEM,Susan Inman,214,88,120,5,1
+Miller,Mandeville,Secretary of State,,DEM,Susan Inman,129,55,67,7,0
+Miller,North Heights,Secretary of State,,DEM,Susan Inman,382,162,214,4,2
+Miller,Ozan,Secretary of State,,DEM,Susan Inman,196,97,97,2,0
+Miller,Rondo,Secretary of State,,DEM,Susan Inman,46,21,24,1,0
+Miller,Sandflat,Secretary of State,,DEM,Susan Inman,145,64,74,2,5
+Miller,Sugar Hill,Secretary of State,,DEM,Susan Inman,344,127,210,6,1
+Miller,Trice,Secretary of State,,DEM,Susan Inman,232,90,139,3,0
+Miller,Union,Secretary of State,,DEM,Susan Inman,124,63,57,2,2
+Miller,Washington,Secretary of State,,DEM,Susan Inman,268,129,138,1,0
+Miller,Bright Star,State Supreme Court Associate Justice Position 3,,NON,David Sterling,107,59,46,2,0
+Miller,Central,State Supreme Court Associate Justice Position 3,,NON,David Sterling,217,132,82,2,1
+Miller,College Hill,State Supreme Court Associate Justice Position 3,,NON,David Sterling,267,111,148,5,3
+Miller,Doddridge,State Supreme Court Associate Justice Position 3,,NON,David Sterling,129,82,45,0,2
+Miller,Fouke,State Supreme Court Associate Justice Position 3,,NON,David Sterling,545,301,232,5,7
+Miller,Garland,State Supreme Court Associate Justice Position 3,,NON,David Sterling,33,28,5,0,0
+Miller,Genoa,State Supreme Court Associate Justice Position 3,,NON,David Sterling,313,174,134,4,1
+Miller,Greenwich Village,State Supreme Court Associate Justice Position 3,,NON,David Sterling,360,168,185,6,1
+Miller,Hickory Street,State Supreme Court Associate Justice Position 3,,NON,David Sterling,306,174,128,3,1
+Miller,Hickory Street South,State Supreme Court Associate Justice Position 3,,NON,David Sterling,239,111,119,6,3
+Miller,Mandeville,State Supreme Court Associate Justice Position 3,,NON,David Sterling,149,72,73,2,2
+Miller,North Heights,State Supreme Court Associate Justice Position 3,,NON,David Sterling,435,205,222,7,1
+Miller,Ozan,State Supreme Court Associate Justice Position 3,,NON,David Sterling,144,59,84,0,1
+Miller,Rondo,State Supreme Court Associate Justice Position 3,,NON,David Sterling,254,138,115,1,0
+Miller,Sandflat,State Supreme Court Associate Justice Position 3,,NON,David Sterling,112,54,54,1,3
+Miller,Sugar Hill,State Supreme Court Associate Justice Position 3,,NON,David Sterling,572,247,316,5,4
+Miller,Trice,State Supreme Court Associate Justice Position 3,,NON,David Sterling,282,116,160,5,1
+Miller,Union,State Supreme Court Associate Justice Position 3,,NON,David Sterling,576,289,277,5,5
+Miller,Washington,State Supreme Court Associate Justice Position 3,,NON,David Sterling,109,51,56,2,0
+Miller,Bright Star,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,121,80,39,0,2
+Miller,Central,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,221,149,68,3,1
+Miller,College Hill,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,344,163,173,8,0
+Miller,Doddridge,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,138,98,39,1,0
+Miller,Fouke,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,489,271,207,7,4
+Miller,Garland,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,40,31,8,0,1
+Miller,Genoa,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,274,146,123,3,2
+Miller,Greenwich Village,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,373,181,186,5,1
+Miller,Hickory Street,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,374,188,180,3,3
+Miller,Hickory Street South,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,286,131,150,4,1
+Miller,Mandeville,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,178,93,78,7,0
+Miller,North Heights,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,525,249,268,6,2
+Miller,Ozan,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,227,98,127,2,0
+Miller,Rondo,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,234,122,109,3,0
+Miller,Sandflat,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,139,58,77,1,3
+Miller,Sugar Hill,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,684,310,364,6,4
+Miller,Trice,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,379,151,221,6,1
+Miller,Union,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,623,315,300,6,2
+Miller,Washington,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,177,81,95,1,0
+Miller,Bright Star,State Treasurer,,LIB,Ashley Ewald,31,16,14,0,1
+Miller,Central,State Treasurer,,LIB,Ashley Ewald,45,29,12,4,0
+Miller,College Hill,State Treasurer,,LIB,Ashley Ewald,253,105,141,4,3
+Miller,Doddridge,State Treasurer,,LIB,Ashley Ewald,50,38,11,1,0
+Miller,Fouke,State Treasurer,,LIB,Ashley Ewald,86,46,39,1,0
+Miller,Garland,State Treasurer,,LIB,Ashley Ewald,38,28,9,0,1
+Miller,Genoa,State Treasurer,,LIB,Ashley Ewald,50,22,28,0,0
+Miller,Greenwich Village,State Treasurer,,LIB,Ashley Ewald,93,41,52,0,0
+Miller,Hickory Street,State Treasurer,,LIB,Ashley Ewald,228,118,104,4,2
+Miller,Hickory Street South,State Treasurer,,LIB,Ashley Ewald,188,81,103,3,1
+Miller,Mandeville,State Treasurer,,LIB,Ashley Ewald,116,49,60,7,0
+Miller,North Heights,State Treasurer,,LIB,Ashley Ewald,330,147,178,4,1
+Miller,Ozan,State Treasurer,,LIB,Ashley Ewald,175,84,89,2,0
+Miller,Rondo,State Treasurer,,LIB,Ashley Ewald,47,25,21,1,0
+Miller,Sandflat,State Treasurer,,LIB,Ashley Ewald,124,56,65,0,3
+Miller,Sugar Hill,State Treasurer,,LIB,Ashley Ewald,279,116,161,1,1
+Miller,Trice,State Treasurer,,LIB,Ashley Ewald,203,81,120,2,0
+Miller,Union,State Treasurer,,LIB,Ashley Ewald,118,59,54,2,3
+Miller,Washington,State Treasurer,,LIB,Ashley Ewald,232,111,120,1,0
+Miller,Bright Star,State Treasurer,,REP,Treasurer of State Dennis Milligan,203,128,72,2,1
+Miller,Central,State Treasurer,,REP,Treasurer of State Dennis Milligan,402,260,139,1,2
+Miller,College Hill,State Treasurer,,REP,Treasurer of State Dennis Milligan,372,176,188,8,0
+Miller,Doddridge,State Treasurer,,REP,Treasurer of State Dennis Milligan,222,145,74,1,2
+Miller,Fouke,State Treasurer,,REP,Treasurer of State Dennis Milligan,963,536,405,11,11
+Miller,Garland,State Treasurer,,REP,Treasurer of State Dennis Milligan,39,35,4,0,0
+Miller,Genoa,State Treasurer,,REP,Treasurer of State Dennis Milligan,558,310,238,7,3
+Miller,Greenwich Village,State Treasurer,,REP,Treasurer of State Dennis Milligan,668,322,333,11,2
+Miller,Hickory Street,State Treasurer,,REP,Treasurer of State Dennis Milligan,473,253,214,4,2
+Miller,Hickory Street South,State Treasurer,,REP,Treasurer of State Dennis Milligan,348,162,176,7,3
+Miller,Mandeville,State Treasurer,,REP,Treasurer of State Dennis Milligan,223,123,96,2,2
+Miller,North Heights,State Treasurer,,REP,Treasurer of State Dennis Milligan,644,318,314,10,2
+Miller,Ozan,State Treasurer,,REP,Treasurer of State Dennis Milligan,215,83,131,0,1
+Miller,Rondo,State Treasurer,,REP,Treasurer of State Dennis Milligan,451,245,203,3,0
+Miller,Sandflat,State Treasurer,,REP,Treasurer of State Dennis Milligan,129,56,68,2,3
+Miller,Sugar Hill,State Treasurer,,REP,Treasurer of State Dennis Milligan,1014,458,538,11,7
+Miller,Trice,State Treasurer,,REP,Treasurer of State Dennis Milligan,482,199,272,9,2
+Miller,Union,State Treasurer,,REP,Treasurer of State Dennis Milligan,1126,571,541,9,5
+Miller,Washington,State Treasurer,,REP,Treasurer of State Dennis Milligan,58,22,34,2,0
+Miller,Bright Star,Auditor of State,,LIB,David E. Dinwiddie,27,15,12,0,0
+Miller,Central,Auditor of State,,LIB,David E. Dinwiddie,42,26,12,4,0
+Miller,College Hill,Auditor of State,,LIB,David E. Dinwiddie,236,96,133,4,3
+Miller,Doddridge,Auditor of State,,LIB,David E. Dinwiddie,52,41,10,1,0
+Miller,Fouke,Auditor of State,,LIB,David E. Dinwiddie,85,46,38,1,0
+Miller,Garland,Auditor of State,,LIB,David E. Dinwiddie,36,26,9,0,1
+Miller,Genoa,Auditor of State,,LIB,David E. Dinwiddie,49,21,28,0,0
+Miller,Greenwich Village,Auditor of State,,LIB,David E. Dinwiddie,92,39,53,0,0
+Miller,Hickory Street,Auditor of State,,LIB,David E. Dinwiddie,218,112,101,4,1
+Miller,Hickory Street South,Auditor of State,,LIB,David E. Dinwiddie,186,81,101,3,1
+Miller,Mandeville,Auditor of State,,LIB,David E. Dinwiddie,113,46,60,7,0
+Miller,North Heights,Auditor of State,,LIB,David E. Dinwiddie,317,144,167,5,1
+Miller,Ozan,Auditor of State,,LIB,David E. Dinwiddie,173,84,87,2,0
+Miller,Rondo,Auditor of State,,LIB,David E. Dinwiddie,43,23,19,1,0
+Miller,Sandflat,Auditor of State,,LIB,David E. Dinwiddie,121,55,63,0,3
+Miller,Sugar Hill,Auditor of State,,LIB,David E. Dinwiddie,255,106,147,1,1
+Miller,Trice,Auditor of State,,LIB,David E. Dinwiddie,196,76,117,3,0
+Miller,Union,Auditor of State,,LIB,David E. Dinwiddie,111,56,52,1,2
+Miller,Washington,Auditor of State,,LIB,David E. Dinwiddie,231,109,121,1,0
+Miller,Bright Star,Auditor of State,,REP,Auditor Andrea Lea,205,128,73,2,2
+Miller,Central,Auditor of State,,REP,Auditor Andrea Lea,405,262,140,1,2
+Miller,College Hill,Auditor of State,,REP,Auditor Andrea Lea,389,185,196,8,0
+Miller,Doddridge,Auditor of State,,REP,Auditor Andrea Lea,219,141,75,1,2
+Miller,Fouke,Auditor of State,,REP,Auditor Andrea Lea,964,535,407,11,11
+Miller,Garland,Auditor of State,,REP,Auditor Andrea Lea,39,35,4,0,0
+Miller,Genoa,Auditor of State,,REP,Auditor Andrea Lea,558,310,238,7,3
+Miller,Greenwich Village,Auditor of State,,REP,Auditor Andrea Lea,670,323,334,11,2
+Miller,Hickory Street,Auditor of State,,REP,Auditor Andrea Lea,480,259,214,4,3
+Miller,Hickory Street South,Auditor of State,,REP,Auditor Andrea Lea,349,164,175,7,3
+Miller,Mandeville,Auditor of State,,REP,Auditor Andrea Lea,229,127,98,2,2
+Miller,North Heights,Auditor of State,,REP,Auditor Andrea Lea,648,316,321,9,2
+Miller,Ozan,Auditor of State,,REP,Auditor Andrea Lea,215,82,132,0,1
+Miller,Rondo,Auditor of State,,REP,Auditor Andrea Lea,455,247,205,3,0
+Miller,Sandflat,Auditor of State,,REP,Auditor Andrea Lea,134,57,72,2,3
+Miller,Sugar Hill,Auditor of State,,REP,Auditor Andrea Lea,1035,468,549,11,7
+Miller,Trice,Auditor of State,,REP,Auditor Andrea Lea,485,203,272,8,2
+Miller,Union,Auditor of State,,REP,Auditor Andrea Lea,1128,571,541,10,6
+Miller,Washington,Auditor of State,,REP,Auditor Andrea Lea,61,24,35,2,0
+Miller,Bright Star,Commissioner of State Lands,,LIB,T.J. Campbell,3,1,2,0,0
+Miller,Central,Commissioner of State Lands,,LIB,T.J. Campbell,7,4,3,0,0
+Miller,College Hill,Commissioner of State Lands,,LIB,T.J. Campbell,14,7,7,0,0
+Miller,Doddridge,Commissioner of State Lands,,LIB,T.J. Campbell,1,0,1,0,0
+Miller,Fouke,Commissioner of State Lands,,LIB,T.J. Campbell,17,10,7,0,0
+Miller,Garland,Commissioner of State Lands,,LIB,T.J. Campbell,4,4,0,0,0
+Miller,Genoa,Commissioner of State Lands,,LIB,T.J. Campbell,11,7,4,0,0
+Miller,Greenwich Village,Commissioner of State Lands,,LIB,T.J. Campbell,15,6,9,0,0
+Miller,Hickory Street,Commissioner of State Lands,,LIB,T.J. Campbell,16,8,7,1,0
+Miller,Hickory Street South,Commissioner of State Lands,,LIB,T.J. Campbell,10,4,6,0,0
+Miller,Mandeville,Commissioner of State Lands,,LIB,T.J. Campbell,5,3,2,0,0
+Miller,North Heights,Commissioner of State Lands,,LIB,T.J. Campbell,17,11,6,0,0
+Miller,Ozan,Commissioner of State Lands,,LIB,T.J. Campbell,5,1,4,0,0
+Miller,Rondo,Commissioner of State Lands,,LIB,T.J. Campbell,11,7,4,0,0
+Miller,Sandflat,Commissioner of State Lands,,LIB,T.J. Campbell,7,2,5,0,0
+Miller,Sugar Hill,Commissioner of State Lands,,LIB,T.J. Campbell,19,10,9,0,0
+Miller,Trice,Commissioner of State Lands,,LIB,T.J. Campbell,9,5,4,0,0
+Miller,Union,Commissioner of State Lands,,LIB,T.J. Campbell,16,11,5,0,0
+Miller,Washington,Commissioner of State Lands,,LIB,T.J. Campbell,6,4,2,0,0
+Miller,Bright Star,Commissioner of State Lands,,REP,Tommy Land,203,131,69,2,1
+Miller,Central,Commissioner of State Lands,,REP,Tommy Land,398,257,138,1,2
+Miller,College Hill,Commissioner of State Lands,,REP,Tommy Land,335,165,164,5,1
+Miller,Doddridge,Commissioner of State Lands,,REP,Tommy Land,213,136,74,1,2
+Miller,Fouke,Commissioner of State Lands,,REP,Tommy Land,929,513,396,11,9
+Miller,Garland,Commissioner of State Lands,,REP,Tommy Land,24,22,2,0,0
+Miller,Genoa,Commissioner of State Lands,,REP,Tommy Land,545,301,234,7,3
+Miller,Greenwich Village,Commissioner of State Lands,,REP,Tommy Land,640,304,325,10,1
+Miller,Hickory Street,Commissioner of State Lands,,REP,Tommy Land,424,232,186,3,3
+Miller,Hickory Street South,Commissioner of State Lands,,REP,Tommy Land,320,151,160,6,3
+Miller,Mandeville,Commissioner of State Lands,,REP,Tommy Land,213,116,93,2,2
+Miller,North Heights,Commissioner of State Lands,,REP,Tommy Land,587,288,287,10,2
+Miller,Ozan,Commissioner of State Lands,,REP,Tommy Land,195,76,118,0,1
+Miller,Rondo,Commissioner of State Lands,,REP,Tommy Land,449,245,201,3,0
+Miller,Sandflat,Commissioner of State Lands,,REP,Tommy Land,111,46,63,1,1
+Miller,Sugar Hill,Commissioner of State Lands,,REP,Tommy Land,949,441,492,9,7
+Miller,Trice,Commissioner of State Lands,,REP,Tommy Land,450,185,255,8,2
+Miller,Union,Commissioner of State Lands,,REP,Tommy Land,1103,558,530,9,6
+Miller,Washington,Commissioner of State Lands,,REP,Tommy Land,30,11,17,2,0
+Miller,Bright Star,Commissioner of State Lands,,DEM,Larry Williams,27,12,14,0,1
+Miller,Central,Commissioner of State Lands,,DEM,Larry Williams,44,29,11,4,0
+Miller,College Hill,Commissioner of State Lands,,DEM,Larry Williams,288,118,159,9,2
+Miller,Doddridge,Commissioner of State Lands,,DEM,Larry Williams,62,50,10,2,0
+Miller,Fouke,Commissioner of State Lands,,DEM,Larry Williams,111,63,45,1,2
+Miller,Garland,Commissioner of State Lands,,DEM,Larry Williams,60,47,12,0,1
+Miller,Genoa,Commissioner of State Lands,,DEM,Larry Williams,54,26,28,0,0
+Miller,Greenwich Village,Commissioner of State Lands,,DEM,Larry Williams,107,52,54,0,1
+Miller,Hickory Street,Commissioner of State Lands,,DEM,Larry Williams,266,131,129,5,1
+Miller,Hickory Street South,Commissioner of State Lands,,DEM,Larry Williams,217,92,120,4,1
+Miller,Mandeville,Commissioner of State Lands,,DEM,Larry Williams,127,54,66,7,0
+Miller,North Heights,Commissioner of State Lands,,DEM,Larry Williams,384,168,210,4,2
+Miller,Ozan,Commissioner of State Lands,,DEM,Larry Williams,197,95,100,2,0
+Miller,Rondo,Commissioner of State Lands,,DEM,Larry Williams,41,19,21,1,0
+Miller,Sandflat,Commissioner of State Lands,,DEM,Larry Williams,142,67,68,2,5
+Miller,Sugar Hill,Commissioner of State Lands,,DEM,Larry Williams,339,123,210,5,1
+Miller,Trice,Commissioner of State Lands,,DEM,Larry Williams,235,96,136,3,0
+Miller,Union,Commissioner of State Lands,,DEM,Larry Williams,129,64,61,2,2
+Miller,Washington,Commissioner of State Lands,,DEM,Larry Williams,271,127,143,1,0
+Miller,Bright Star,Miller County Circuit Clerk,,REP,Mary Pankey,227,142,81,2,2
+Miller,Central,Miller County Circuit Clerk,,REP,Mary Pankey,443,288,150,4,1
+Miller,College Hill,Miller County Circuit Clerk,,REP,Mary Pankey,573,250,307,13,3
+Miller,Doddridge,Miller County Circuit Clerk,,REP,Mary Pankey,261,176,82,1,2
+Miller,Fouke,Miller County Circuit Clerk,,REP,Mary Pankey,1036,579,436,10,11
+Miller,Garland,Miller County Circuit Clerk,,REP,Mary Pankey,71,57,13,0,1
+Miller,Genoa,Miller County Circuit Clerk,,REP,Mary Pankey,600,330,260,7,3
+Miller,Greenwich Village,Miller County Circuit Clerk,,REP,Mary Pankey,744,358,374,10,2
+Miller,Hickory Street,Miller County Circuit Clerk,,REP,Mary Pankey,661,355,296,7,3
+Miller,Hickory Street South,Miller County Circuit Clerk,,REP,Mary Pankey,507,238,256,9,4
+Miller,Mandeville,Miller County Circuit Clerk,,REP,Mary Pankey,320,162,148,8,2
+Miller,North Heights,Miller County Circuit Clerk,,REP,Mary Pankey,922,443,469,7,3
+Miller,Ozan,Miller County Circuit Clerk,,REP,Mary Pankey,351,142,206,2,1
+Miller,Rondo,Miller County Circuit Clerk,,REP,Mary Pankey,495,269,222,4,0
+Miller,Sandflat,Miller County Circuit Clerk,,REP,Mary Pankey,231,99,125,2,5
+Miller,Sugar Hill,Miller County Circuit Clerk,,REP,Mary Pankey,1250,559,670,13,8
+Miller,Trice,Miller County Circuit Clerk,,REP,Mary Pankey,647,268,366,11,2
+Miller,Union,Miller County Circuit Clerk,,REP,Mary Pankey,1222,616,590,11,5
+Miller,Washington,Miller County Circuit Clerk,,REP,Mary Pankey,250,115,132,3,0
+Miller,College Hill,Mayor City of Texarkana Texarkana,,NON,Allen L. Brown,592,268,308,13,3
+Miller,Genoa,Mayor City of Texarkana Texarkana,,NON,Allen L. Brown,24,10,14,0,0
+Miller,Greenwich Village,Mayor City of Texarkana Texarkana,,NON,Allen L. Brown,582,279,295,6,2
+Miller,Hickory Street,Mayor City of Texarkana Texarkana,,NON,Allen L. Brown,676,358,307,7,4
+Miller,Hickory Street South,Mayor City of Texarkana Texarkana,,NON,Allen L. Brown,511,237,261,9,4
+Miller,Mandeville,Mayor City of Texarkana Texarkana,,NON,Allen L. Brown,105,52,50,1,2
+Miller,North Heights,Mayor City of Texarkana Texarkana,,NON,Allen L. Brown,939,450,479,7,3
+Miller,Ozan,Mayor City of Texarkana Texarkana,,NON,Allen L. Brown,368,155,210,2,1
+Miller,Rondo,Mayor City of Texarkana Texarkana,,NON,Allen L. Brown,252,145,104,3,0
+Miller,Sandflat,Mayor City of Texarkana Texarkana,,NON,Allen L. Brown,245,107,129,3,6
+Miller,Sugar Hill,Mayor City of Texarkana Texarkana,,NON,Allen L. Brown,1250,557,672,13,8
+Miller,Trice,Mayor City of Texarkana Texarkana,,NON,Allen L. Brown,657,269,375,11,2
+Miller,Union,Mayor City of Texarkana Texarkana,,NON,Allen L. Brown,496,238,249,5,4
+Miller,Washington,Mayor City of Texarkana Texarkana,,NON,Allen L. Brown,270,128,139,3,0
+Miller,College Hill,Justice of Peace D2 D2,,DEM,Laney J. Harris,40,15,23,1,1
+Miller,Greenwich Village,Justice of Peace D2 D2,,DEM,Laney J. Harris,10,8,2,0,0
+Miller,Ozan,Justice of Peace D2 D2,,DEM,Laney J. Harris,43,13,30,0,0
+Miller,Rondo,Justice of Peace D2 D2,,DEM,Laney J. Harris,5,1,4,0,0
+Miller,Sandflat,Justice of Peace D2 D2,,DEM,Laney J. Harris,25,13,12,0,0
+Miller,Washington,Justice of Peace D2 D2,,DEM,Laney J. Harris,170,79,89,2,0
+Miller,College Hill,Justice of Peace D2 D2,,REP,Janet B. Green,8,2,5,1,0
+Miller,Greenwich Village,Justice of Peace D2 D2,,REP,Janet B. Green,42,15,27,0,0
+Miller,Ozan,Justice of Peace D2 D2,,REP,Janet B. Green,202,76,125,0,1
+Miller,Rondo,Justice of Peace D2 D2,,REP,Janet B. Green,40,28,12,0,0
+Miller,Sandflat,Justice of Peace D2 D2,,REP,Janet B. Green,29,10,18,1,0
+Miller,Washington,Justice of Peace D2 D2,,REP,Janet B. Green,37,9,27,1,0
+Miller,College Hill,City of Texarkana W3 W3,,NON,Timothy D. Johnson,1,0,1,0,0
+Miller,Greenwich Village,City of Texarkana W3 W3,,NON,Timothy D. Johnson,23,8,15,0,0
+Miller,Hickory Street South,City of Texarkana W3 W3,,NON,Timothy D. Johnson,42,21,19,0,2
+Miller,North Heights,City of Texarkana W3 W3,,NON,Timothy D. Johnson,4,4,0,0,0
+Miller,Ozan,City of Texarkana W3 W3,,NON,Timothy D. Johnson,115,44,70,0,1
+Miller,Rondo,City of Texarkana W3 W3,,NON,Timothy D. Johnson,49,25,24,0,0
+Miller,Sandflat,City of Texarkana W3 W3,,NON,Timothy D. Johnson,30,12,17,0,1
+Miller,Washington,City of Texarkana W3 W3,,NON,Timothy D. Johnson,45,16,28,1,0
+Miller,College Hill,City of Texarkana W3 W3,,NON,LaTanya Deniece Blair,1,1,0,0,0
+Miller,Greenwich Village,City of Texarkana W3 W3,,NON,LaTanya Deniece Blair,6,3,3,0,0
+Miller,Hickory Street South,City of Texarkana W3 W3,,NON,LaTanya Deniece Blair,11,9,2,0,0
+Miller,North Heights,City of Texarkana W3 W3,,NON,LaTanya Deniece Blair,3,2,1,0,0
+Miller,Ozan,City of Texarkana W3 W3,,NON,LaTanya Deniece Blair,104,47,56,1,0
+Miller,Rondo,City of Texarkana W3 W3,,NON,LaTanya Deniece Blair,12,6,6,0,0
+Miller,Sandflat,City of Texarkana W3 W3,,NON,LaTanya Deniece Blair,42,21,18,0,3
+Miller,Washington,City of Texarkana W3 W3,,NON,LaTanya Deniece Blair,145,75,69,1,0
+Miller,College Hill,City of Texarkana W3 W3,,NON,Steven Hollibush,0,0,0,0,0
+Miller,Greenwich Village,City of Texarkana W3 W3,,NON,Steven Hollibush,17,9,8,0,0
+Miller,Hickory Street South,City of Texarkana W3 W3,,NON,Steven Hollibush,26,14,12,0,0
+Miller,North Heights,City of Texarkana W3 W3,,NON,Steven Hollibush,5,4,1,0,0
+Miller,Ozan,City of Texarkana W3 W3,,NON,Steven Hollibush,168,78,89,1,0
+Miller,Rondo,City of Texarkana W3 W3,,NON,Steven Hollibush,84,54,30,0,0
+Miller,Sandflat,City of Texarkana W3 W3,,NON,Steven Hollibush,75,34,41,0,0
+Miller,Washington,City of Texarkana W3 W3,,NON,Steven Hollibush,56,25,30,1,0
+Miller,Hickory Street South,City of Texarkana W5 W5,,NON,Chris Voan,55,23,30,2,0
+Miller,North Heights,City of Texarkana W5 W5,,NON,Chris Voan,332,154,175,2,1
+Miller,Trice,City of Texarkana W5 W5,,NON,Chris Voan,74,36,36,2,0
+Miller,Hickory Street South,City of Texarkana W5 W5,,NON,Barbara S. Miner,66,29,31,6,0
+Miller,North Heights,City of Texarkana W5 W5,,NON,Barbara S. Miner,612,291,310,9,2
+Miller,Trice,City of Texarkana W5 W5,,NON,Barbara S. Miner,126,55,70,1,0
+Miller,Fouke,Mayor City of Fouke Fouke,,NON,Rob Neely,2,1,1,0,0
+Miller,Fouke,Mayor City of Fouke Fouke,,NON,Charles Lynn Cooper,8,5,3,0,0
+Miller,Fouke,Mayor City of Fouke Fouke,,NON,Lance Norman,62,39,21,0,2
+Miller,Fouke,Mayor City of Fouke Fouke,,NON,Phyllis Allison,31,12,17,0,2
+Miller,Fouke,Mayor City of Fouke Fouke,,NON,Terry Purvis,132,75,55,1,1
+Miller,Fouke,City of Fouke W1 P1 Fouke,,NON,Loretta Robertson,103,58,41,0,4
+Miller,Fouke,City of Fouke W1 P1 Fouke,,NON,Brenda Purvis,125,68,55,1,1
+Miller,Fouke,City of Fouke W2 P1 Fouke,,NON,Jack Blaylock,77,44,31,0,2
+Miller,Fouke,City of Fouke W2 P1 Fouke,,NON,Doris O. Sanders,149,81,64,1,3
+Miller,Fouke,City of Fouke W3 P1 Fouke,,NON,Shirley Austin,137,78,54,0,5
+Miller,Fouke,City of Fouke W3 P1 Fouke,,NON,Betty Ebey,89,47,41,1,0
+Miller,Fouke,City of Fouke W4 P2 Fouke,,NON,Melanie N Bottoms,68,32,34,0,2
+Miller,Fouke,City of Fouke W4 P2 Fouke,,NON,Kay McCarty,85,55,27,1,2
+Miller,Fouke,City of Fouke W4 P2 Fouke,,NON,Carl Story,72,37,34,0,1
+Miller,Garland,Mayor City of Garland Garland,,NON,Tyeshekka Antwine,47,42,5,0,0
+Miller,Garland,Mayor City of Garland Garland,,NON,Ida Dudley Minton,23,16,7,0,0
+Miller,Garland,City of Garland W3 P1 Garland,,NON,Brenda K. Coulter,27,19,8,0,0
+Miller,Garland,City of Garland W3 P1 Garland,,NON,Latonya Hughes,41,37,4,0,0
+Miller,Bright Star,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,210,128,79,2,1
+Miller,Central,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,407,263,140,3,1
+Miller,College Hill,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,534,252,273,8,1
+Miller,Doddridge,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,244,159,81,2,2
+Miller,Fouke,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,949,537,390,12,10
+Miller,Garland,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,66,54,12,0,0
+Miller,Genoa,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,567,316,244,4,3
+Miller,Greenwich Village,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,667,324,332,10,1
+Miller,Hickory Street,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,607,329,265,9,4
+Miller,Hickory Street South,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,456,214,231,8,3
+Miller,Mandeville,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,282,151,123,6,2
+Miller,North Heights,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,817,402,403,9,3
+Miller,Ozan,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,323,141,180,1,1
+Miller,Rondo,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,452,245,204,3,0
+Miller,Sandflat,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,215,102,107,2,4
+Miller,Sugar Hill,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,1138,505,615,12,6
+Miller,Trice,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,615,254,349,11,1
+Miller,Union,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,1142,578,547,10,7
+Miller,Washington,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,227,110,115,2,0
+Miller,Bright Star,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,23,15,7,0,1
+Miller,Central,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,39,25,11,2,1
+Miller,College Hill,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,104,35,61,6,2
+Miller,Doddridge,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,32,27,4,1,0
+Miller,Fouke,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,105,47,57,0,1
+Miller,Garland,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,17,15,1,0,1
+Miller,Genoa,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,44,19,22,3,0
+Miller,Greenwich Village,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,92,38,52,1,1
+Miller,Hickory Street,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,96,43,53,0,0
+Miller,Hickory Street South,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,88,32,53,2,1
+Miller,Mandeville,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,57,20,34,3,0
+Miller,North Heights,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,160,62,92,5,1
+Miller,Ozan,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,75,30,44,1,0
+Miller,Rondo,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,45,24,20,1,0
+Miller,Sandflat,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,41,12,26,1,2
+Miller,Sugar Hill,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,171,71,95,3,2
+Miller,Trice,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,73,27,45,0,1
+Miller,Union,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,100,53,45,1,1
+Miller,Washington,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,75,28,46,1,0
+Miller,Bright Star,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,104,64,40,0,0
+Miller,Central,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,226,156,65,3,2
+Miller,College Hill,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,402,188,203,10,1
+Miller,Doddridge,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,134,94,38,2,0
+Miller,Fouke,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,462,277,171,8,6
+Miller,Garland,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,63,51,11,0,1
+Miller,Genoa,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,360,211,146,1,2
+Miller,Greenwich Village,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,378,177,199,1,1
+Miller,Hickory Street,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,419,224,187,6,2
+Miller,Hickory Street South,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,311,137,168,4,2
+Miller,Mandeville,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,178,95,77,5,1
+Miller,North Heights,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,547,266,269,8,4
+Miller,Ozan,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,239,105,132,1,1
+Miller,Rondo,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,223,115,105,3,0
+Miller,Sandflat,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,164,77,79,2,6
+Miller,Sugar Hill,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,690,307,375,5,3
+Miller,Trice,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,402,161,232,8,1
+Miller,Union,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,609,331,275,1,2
+Miller,Washington,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,218,108,107,3,0
+Miller,Bright Star,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,128,78,46,2,2
+Miller,Central,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,219,133,85,1,0
+Miller,College Hill,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,232,101,127,2,2
+Miller,Doddridge,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,141,92,47,0,2
+Miller,Fouke,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,587,307,272,3,5
+Miller,Garland,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,26,24,2,0,0
+Miller,Genoa,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,246,124,115,6,1
+Miller,Greenwich Village,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,376,181,184,10,1
+Miller,Hickory Street,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,279,147,127,3,2
+Miller,Hickory Street South,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,236,110,118,6,2
+Miller,Mandeville,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,163,78,81,3,1
+Miller,North Heights,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,427,197,224,6,0
+Miller,Ozan,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,157,68,88,1,0
+Miller,Rondo,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,272,151,120,1,0
+Miller,Sandflat,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,93,38,54,1,0
+Miller,Sugar Hill,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,610,268,329,8,5
+Miller,Trice,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,288,121,163,3,1
+Miller,Union,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,614,291,310,9,4
+Miller,Washington,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,84,32,52,0,0
+Miller,Bright Star,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,144,90,52,0,2
+Miller,Central,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,260,174,80,4,2
+Miller,College Hill,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,484,225,246,11,2
+Miller,Doddridge,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,160,105,52,2,1
+Miller,Fouke,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,574,319,240,9,6
+Miller,Garland,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,69,54,14,0,1
+Miller,Genoa,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,359,188,167,2,2
+Miller,Greenwich Village,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,444,211,226,6,1
+Miller,Hickory Street,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,513,265,240,6,2
+Miller,Hickory Street South,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,388,176,202,7,3
+Miller,Mandeville,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,199,101,88,8,2
+Miller,North Heights,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,688,325,349,11,3
+Miller,Ozan,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,300,134,164,2,0
+Miller,Rondo,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,267,142,122,3,0
+Miller,Sandflat,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,203,93,101,3,6
+Miller,Sugar Hill,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,754,324,418,9,3
+Miller,Trice,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,488,202,278,7,1
+Miller,Union,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,765,394,363,5,3
+Miller,Washington,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,278,136,139,3,0
+Miller,Bright Star,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,89,53,34,2,0
+Miller,Central,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,188,116,71,1,0
+Miller,College Hill,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,157,66,87,3,1
+Miller,Doddridge,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,112,78,32,1,1
+Miller,Fouke,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,480,267,205,3,5
+Miller,Garland,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,19,19,0,0,0
+Miller,Genoa,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,249,145,98,5,1
+Miller,Greenwich Village,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,317,153,158,5,1
+Miller,Hickory Street,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,189,106,78,3,2
+Miller,Hickory Street South,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,160,71,85,3,1
+Miller,Mandeville,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,143,72,70,1,0
+Miller,North Heights,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,299,143,152,3,1
+Miller,Ozan,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,100,39,60,0,1
+Miller,Rondo,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,229,124,104,1,0
+Miller,Sandflat,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,55,22,33,0,0
+Miller,Sugar Hill,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,554,252,291,6,5
+Miller,Trice,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,204,83,117,3,1
+Miller,Union,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,474,233,230,6,5
+Miller,Washington,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,28,7,21,0,0

@@ -1,0 +1,677 @@
+county,precinct,office,district,party,candidate,votes,election_day,early_voting,election_day_paper,absentee,provisional
+Monroe,BRINKLEY WARD 1,U.S. House,1,REP,Congressman Rick Crawford,193,138,31,0,3,21
+Monroe,BRINKLEY WARD 2,U.S. House,1,REP,Congressman Rick Crawford,124,85,21,0,7,11
+Monroe,BRINKLEY WARD 3,U.S. House,1,REP,Congressman Rick Crawford,176,139,23,0,2,12
+Monroe,CLARENDON WARD 1,U.S. House,1,REP,Congressman Rick Crawford,76,31,20,0,0,25
+Monroe,CLARENDON WARD 2,U.S. House,1,REP,Congressman Rick Crawford,126,36,40,0,4,46
+Monroe,CLARENDON WARD 3,U.S. House,1,REP,Congressman Rick Crawford,97,35,30,0,2,30
+Monroe,HOLLY GROVE,U.S. House,1,REP,Congressman Rick Crawford,18,10,4,0,0,4
+Monroe,RICHLAND/GREENFIELD/FARGO,U.S. House,1,REP,Congressman Rick Crawford,67,61,3,0,0,3
+Monroe,BRINKLEY/ DIXON,U.S. House,1,REP,Congressman Rick Crawford,138,101,19,0,1,17
+Monroe,CACHE,U.S. House,1,REP,Congressman Rick Crawford,33,11,12,0,0,10
+Monroe,KEEVIL,U.S. House,1,REP,Congressman Rick Crawford,41,24,14,0,1,2
+Monroe,CYPRESS RIDGE,U.S. House,1,REP,Congressman Rick Crawford,79,32,11,29,3,4
+Monroe,HINDMAN/ RAYMOND/PINE RID,U.S. House,1,REP,Congressman Rick Crawford,49,28,7,9,0,5
+Monroe,DUNCAN,U.S. House,1,REP,Congressman Rick Crawford,41,11,14,9,1,6
+Monroe,JACKSN/CLBRNE/MONT./SMALL,U.S. House,1,REP,Congressman Rick Crawford,69,41,9,5,1,13
+Monroe,ROC,U.S. House,1,REP,Congressman Rick Crawford,81,69,5,4,2,1
+Monroe,BRINKLEY WARD 1,U.S. House,1,DEM,Chintan Desai,138,64,33,1,3,37
+Monroe,BRINKLEY WARD 2,U.S. House,1,DEM,Chintan Desai,198,127,33,0,4,34
+Monroe,BRINKLEY WARD 3,U.S. House,1,DEM,Chintan Desai,161,85,46,0,5,25
+Monroe,CLARENDON WARD 1,U.S. House,1,DEM,Chintan Desai,99,38,37,0,4,20
+Monroe,CLARENDON WARD 2,U.S. House,1,DEM,Chintan Desai,73,31,26,0,1,15
+Monroe,CLARENDON WARD 3,U.S. House,1,DEM,Chintan Desai,64,24,24,1,1,14
+Monroe,HOLLY GROVE,U.S. House,1,DEM,Chintan Desai,184,115,27,19,2,21
+Monroe,RICHLAND/GREENFIELD/FARGO,U.S. House,1,DEM,Chintan Desai,36,23,8,0,1,4
+Monroe,BRINKLEY/ DIXON,U.S. House,1,DEM,Chintan Desai,55,33,13,0,3,6
+Monroe,CACHE,U.S. House,1,DEM,Chintan Desai,10,6,1,0,0,3
+Monroe,KEEVIL,U.S. House,1,DEM,Chintan Desai,12,8,2,0,1,1
+Monroe,CYPRESS RIDGE,U.S. House,1,DEM,Chintan Desai,11,4,4,3,0,0
+Monroe,HINDMAN/ RAYMOND/PINE RID,U.S. House,1,DEM,Chintan Desai,16,9,2,3,0,2
+Monroe,DUNCAN,U.S. House,1,DEM,Chintan Desai,27,13,4,2,1,7
+Monroe,JACKSN/CLBRNE/MONT./SMALL,U.S. House,1,DEM,Chintan Desai,29,13,8,1,1,6
+Monroe,ROC,U.S. House,1,DEM,Chintan Desai,18,10,5,1,2,0
+Monroe,BRINKLEY WARD 1,U.S. House,1,LIB,Elvis Presley,4,4,0,0,0,0
+Monroe,BRINKLEY WARD 2,U.S. House,1,LIB,Elvis Presley,3,3,0,0,0,0
+Monroe,BRINKLEY WARD 3,U.S. House,1,LIB,Elvis Presley,6,5,1,0,0,0
+Monroe,CLARENDON WARD 1,U.S. House,1,LIB,Elvis Presley,5,2,1,0,0,2
+Monroe,CLARENDON WARD 2,U.S. House,1,LIB,Elvis Presley,8,4,3,0,0,1
+Monroe,CLARENDON WARD 3,U.S. House,1,LIB,Elvis Presley,6,2,2,0,0,2
+Monroe,HOLLY GROVE,U.S. House,1,LIB,Elvis Presley,3,2,1,0,0,0
+Monroe,RICHLAND/GREENFIELD/FARGO,U.S. House,1,LIB,Elvis Presley,2,2,0,0,0,0
+Monroe,BRINKLEY/ DIXON,U.S. House,1,LIB,Elvis Presley,3,2,0,0,0,1
+Monroe,CACHE,U.S. House,1,LIB,Elvis Presley,1,0,1,0,0,0
+Monroe,KEEVIL,U.S. House,1,LIB,Elvis Presley,2,1,1,0,0,0
+Monroe,CYPRESS RIDGE,U.S. House,1,LIB,Elvis Presley,0,0,0,0,0,0
+Monroe,HINDMAN/ RAYMOND/PINE RID,U.S. House,1,LIB,Elvis Presley,3,3,0,0,0,0
+Monroe,DUNCAN,U.S. House,1,LIB,Elvis Presley,1,0,1,0,0,0
+Monroe,JACKSN/CLBRNE/MONT./SMALL,U.S. House,1,LIB,Elvis Presley,0,0,0,0,0,0
+Monroe,ROC,U.S. House,1,LIB,Elvis Presley,2,1,1,0,0,0
+Monroe,BRINKLEY WARD 1,Governor,,LIB,Mark West,5,4,1,0,0,0
+Monroe,BRINKLEY WARD 2,Governor,,LIB,Mark West,6,4,0,0,0,2
+Monroe,BRINKLEY WARD 3,Governor,,LIB,Mark West,2,1,1,0,0,0
+Monroe,CLARENDON WARD 1,Governor,,LIB,Mark West,2,1,1,0,0,0
+Monroe,CLARENDON WARD 2,Governor,,LIB,Mark West,4,3,1,0,0,0
+Monroe,CLARENDON WARD 3,Governor,,LIB,Mark West,1,1,0,0,0,0
+Monroe,HOLLY GROVE,Governor,,LIB,Mark West,3,1,2,0,0,0
+Monroe,RICHLAND/GREENFIELD/FARGO,Governor,,LIB,Mark West,1,1,0,0,0,0
+Monroe,BRINKLEY/ DIXON,Governor,,LIB,Mark West,8,6,1,0,0,1
+Monroe,CACHE,Governor,,LIB,Mark West,1,0,1,0,0,0
+Monroe,KEEVIL,Governor,,LIB,Mark West,1,1,0,0,0,0
+Monroe,CYPRESS RIDGE,Governor,,LIB,Mark West,2,0,0,1,0,1
+Monroe,HINDMAN/ RAYMOND/PINE RID,Governor,,LIB,Mark West,0,0,0,0,0,0
+Monroe,DUNCAN,Governor,,LIB,Mark West,3,0,2,0,0,1
+Monroe,JACKSN/CLBRNE/MONT./SMALL,Governor,,LIB,Mark West,3,3,0,0,0,0
+Monroe,ROC,Governor,,LIB,Mark West,1,1,0,0,0,0
+Monroe,BRINKLEY WARD 1,Governor,,REP,Governor Asa Hutchinson,197,138,31,0,5,23
+Monroe,BRINKLEY WARD 2,Governor,,REP,Governor Asa Hutchinson,132,93,21,0,7,11
+Monroe,BRINKLEY WARD 3,Governor,,REP,Governor Asa Hutchinson,186,142,30,0,2,12
+Monroe,CLARENDON WARD 1,Governor,,REP,Governor Asa Hutchinson,92,35,25,0,1,31
+Monroe,CLARENDON WARD 2,Governor,,REP,Governor Asa Hutchinson,143,46,42,0,5,50
+Monroe,CLARENDON WARD 3,Governor,,REP,Governor Asa Hutchinson,106,40,31,1,2,32
+Monroe,HOLLY GROVE,Governor,,REP,Governor Asa Hutchinson,33,19,4,2,1,7
+Monroe,RICHLAND/GREENFIELD/FARGO,Governor,,REP,Governor Asa Hutchinson,71,63,5,0,0,3
+Monroe,BRINKLEY/ DIXON,Governor,,REP,Governor Asa Hutchinson,141,103,19,0,1,18
+Monroe,CACHE,Governor,,REP,Governor Asa Hutchinson,33,9,14,0,0,10
+Monroe,KEEVIL,Governor,,REP,Governor Asa Hutchinson,43,25,15,0,1,2
+Monroe,CYPRESS RIDGE,Governor,,REP,Governor Asa Hutchinson,78,34,12,26,3,3
+Monroe,HINDMAN/ RAYMOND/PINE RID,Governor,,REP,Governor Asa Hutchinson,47,30,4,9,0,4
+Monroe,DUNCAN,Governor,,REP,Governor Asa Hutchinson,40,12,11,9,1,7
+Monroe,JACKSN/CLBRNE/MONT./SMALL,Governor,,REP,Governor Asa Hutchinson,70,39,11,5,1,14
+Monroe,ROC,Governor,,REP,Governor Asa Hutchinson,81,69,6,3,2,1
+Monroe,BRINKLEY WARD 1,Governor,,DEM,Jared K. Henderson,137,65,33,1,3,35
+Monroe,BRINKLEY WARD 2,Governor,,DEM,Jared K. Henderson,194,120,35,0,4,35
+Monroe,BRINKLEY WARD 3,Governor,,DEM,Jared K. Henderson,159,87,43,0,5,24
+Monroe,CLARENDON WARD 1,Governor,,DEM,Jared K. Henderson,90,36,34,0,3,17
+Monroe,CLARENDON WARD 2,Governor,,DEM,Jared K. Henderson,70,25,28,0,1,16
+Monroe,CLARENDON WARD 3,Governor,,DEM,Jared K. Henderson,61,19,25,0,1,16
+Monroe,HOLLY GROVE,Governor,,DEM,Jared K. Henderson,172,107,29,17,1,18
+Monroe,RICHLAND/GREENFIELD/FARGO,Governor,,DEM,Jared K. Henderson,38,26,7,0,1,4
+Monroe,BRINKLEY/ DIXON,Governor,,DEM,Jared K. Henderson,54,32,14,0,3,5
+Monroe,CACHE,Governor,,DEM,Jared K. Henderson,11,7,1,0,0,3
+Monroe,KEEVIL,Governor,,DEM,Jared K. Henderson,12,8,2,0,1,1
+Monroe,CYPRESS RIDGE,Governor,,DEM,Jared K. Henderson,11,2,4,5,0,0
+Monroe,HINDMAN/ RAYMOND/PINE RID,Governor,,DEM,Jared K. Henderson,22,12,4,3,0,3
+Monroe,DUNCAN,Governor,,DEM,Jared K. Henderson,26,12,6,2,1,5
+Monroe,JACKSN/CLBRNE/MONT./SMALL,Governor,,DEM,Jared K. Henderson,27,12,7,1,1,6
+Monroe,ROC,Governor,,DEM,Jared K. Henderson,20,11,5,2,2,0
+Monroe,BRINKLEY WARD 1,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,192,135,30,0,6,21
+Monroe,BRINKLEY WARD 2,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,123,85,20,0,6,12
+Monroe,BRINKLEY WARD 3,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,172,135,23,0,0,14
+Monroe,CLARENDON WARD 1,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,79,31,23,0,1,24
+Monroe,CLARENDON WARD 2,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,137,41,45,0,3,48
+Monroe,CLARENDON WARD 3,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,99,38,30,0,1,30
+Monroe,HOLLY GROVE,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,24,14,4,2,1,3
+Monroe,RICHLAND/GREENFIELD/FARGO,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,67,60,4,0,0,3
+Monroe,BRINKLEY/ DIXON,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,144,105,20,0,1,18
+Monroe,CACHE,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,36,12,14,0,0,10
+Monroe,KEEVIL,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,42,25,14,0,1,2
+Monroe,CYPRESS RIDGE,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,81,33,14,27,3,4
+Monroe,HINDMAN/ RAYMOND/PINE RID,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,51,28,7,11,0,5
+Monroe,DUNCAN,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,41,11,13,9,1,7
+Monroe,JACKSN/CLBRNE/MONT./SMALL,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,69,41,10,4,1,13
+Monroe,ROC,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,86,74,5,4,2,1
+Monroe,BRINKLEY WARD 1,Lieutenant Governor,,DEM,Anthony Bland,140,67,35,1,2,35
+Monroe,BRINKLEY WARD 2,Lieutenant Governor,,DEM,Anthony Bland,203,129,34,0,5,35
+Monroe,BRINKLEY WARD 3,Lieutenant Governor,,DEM,Anthony Bland,169,91,49,0,7,22
+Monroe,CLARENDON WARD 1,Lieutenant Governor,,DEM,Anthony Bland,98,39,35,0,3,21
+Monroe,CLARENDON WARD 2,Lieutenant Governor,,DEM,Anthony Bland,73,29,25,0,1,18
+Monroe,CLARENDON WARD 3,Lieutenant Governor,,DEM,Anthony Bland,68,21,26,1,2,18
+Monroe,HOLLY GROVE,Lieutenant Governor,,DEM,Anthony Bland,177,109,29,16,1,22
+Monroe,RICHLAND/GREENFIELD/FARGO,Lieutenant Governor,,DEM,Anthony Bland,40,27,8,0,1,4
+Monroe,BRINKLEY/ DIXON,Lieutenant Governor,,DEM,Anthony Bland,56,34,13,0,3,6
+Monroe,CACHE,Lieutenant Governor,,DEM,Anthony Bland,9,5,1,0,0,3
+Monroe,KEEVIL,Lieutenant Governor,,DEM,Anthony Bland,10,7,1,0,1,1
+Monroe,CYPRESS RIDGE,Lieutenant Governor,,DEM,Anthony Bland,9,3,2,4,0,0
+Monroe,HINDMAN/ RAYMOND/PINE RID,Lieutenant Governor,,DEM,Anthony Bland,16,11,2,1,0,2
+Monroe,DUNCAN,Lieutenant Governor,,DEM,Anthony Bland,28,13,6,2,1,6
+Monroe,JACKSN/CLBRNE/MONT./SMALL,Lieutenant Governor,,DEM,Anthony Bland,28,12,7,2,1,6
+Monroe,ROC,Lieutenant Governor,,DEM,Anthony Bland,14,7,5,1,1,0
+Monroe,BRINKLEY WARD 1,Lieutenant Governor,,LIB,Frank Gilbert,4,2,0,0,0,2
+Monroe,BRINKLEY WARD 2,Lieutenant Governor,,LIB,Frank Gilbert,3,2,1,0,0,0
+Monroe,BRINKLEY WARD 3,Lieutenant Governor,,LIB,Frank Gilbert,4,3,1,0,0,0
+Monroe,CLARENDON WARD 1,Lieutenant Governor,,LIB,Frank Gilbert,4,1,1,0,0,2
+Monroe,CLARENDON WARD 2,Lieutenant Governor,,LIB,Frank Gilbert,5,3,1,0,0,1
+Monroe,CLARENDON WARD 3,Lieutenant Governor,,LIB,Frank Gilbert,2,1,0,0,0,1
+Monroe,HOLLY GROVE,Lieutenant Governor,,LIB,Frank Gilbert,5,3,1,0,0,1
+Monroe,RICHLAND/GREENFIELD/FARGO,Lieutenant Governor,,LIB,Frank Gilbert,2,2,0,0,0,0
+Monroe,BRINKLEY/ DIXON,Lieutenant Governor,,LIB,Frank Gilbert,2,2,0,0,0,0
+Monroe,CACHE,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0,0,0
+Monroe,KEEVIL,Lieutenant Governor,,LIB,Frank Gilbert,2,1,1,0,0,0
+Monroe,CYPRESS RIDGE,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0,0,0
+Monroe,HINDMAN/ RAYMOND/PINE RID,Lieutenant Governor,,LIB,Frank Gilbert,1,1,0,0,0,0
+Monroe,DUNCAN,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0,0,0
+Monroe,JACKSN/CLBRNE/MONT./SMALL,Lieutenant Governor,,LIB,Frank Gilbert,2,1,0,0,0,1
+Monroe,ROC,Lieutenant Governor,,LIB,Frank Gilbert,1,0,1,0,0,0
+Monroe,BRINKLEY WARD 1,Attorney General,,DEM,Mike Lee,154,79,35,1,3,36
+Monroe,BRINKLEY WARD 2,Attorney General,,DEM,Mike Lee,200,129,37,0,3,31
+Monroe,BRINKLEY WARD 3,Attorney General,,DEM,Mike Lee,177,96,51,0,5,25
+Monroe,CLARENDON WARD 1,Attorney General,,DEM,Mike Lee,95,36,36,0,3,20
+Monroe,CLARENDON WARD 2,Attorney General,,DEM,Mike Lee,83,38,27,0,1,17
+Monroe,CLARENDON WARD 3,Attorney General,,DEM,Mike Lee,73,27,25,1,1,19
+Monroe,HOLLY GROVE,Attorney General,,DEM,Mike Lee,176,110,30,17,1,18
+Monroe,RICHLAND/GREENFIELD/FARGO,Attorney General,,DEM,Mike Lee,39,27,7,0,1,4
+Monroe,BRINKLEY/ DIXON,Attorney General,,DEM,Mike Lee,61,38,13,0,3,7
+Monroe,CACHE,Attorney General,,DEM,Mike Lee,9,5,2,0,0,2
+Monroe,KEEVIL,Attorney General,,DEM,Mike Lee,12,8,2,0,1,1
+Monroe,CYPRESS RIDGE,Attorney General,,DEM,Mike Lee,15,5,6,4,0,0
+Monroe,HINDMAN/ RAYMOND/PINE RID,Attorney General,,DEM,Mike Lee,17,9,3,1,0,4
+Monroe,DUNCAN,Attorney General,,DEM,Mike Lee,31,15,7,2,1,6
+Monroe,JACKSN/CLBRNE/MONT./SMALL,Attorney General,,DEM,Mike Lee,30,14,7,2,1,6
+Monroe,ROC,Attorney General,,DEM,Mike Lee,16,9,4,1,2,0
+Monroe,BRINKLEY WARD 1,Attorney General,,LIB,Kerry Hicks,5,4,0,0,0,1
+Monroe,BRINKLEY WARD 2,Attorney General,,LIB,Kerry Hicks,11,7,0,0,1,3
+Monroe,BRINKLEY WARD 3,Attorney General,,LIB,Kerry Hicks,6,3,1,0,0,2
+Monroe,CLARENDON WARD 1,Attorney General,,LIB,Kerry Hicks,7,4,1,0,0,2
+Monroe,CLARENDON WARD 2,Attorney General,,LIB,Kerry Hicks,5,2,2,0,0,1
+Monroe,CLARENDON WARD 3,Attorney General,,LIB,Kerry Hicks,6,2,1,0,0,3
+Monroe,HOLLY GROVE,Attorney General,,LIB,Kerry Hicks,4,3,1,0,0,0
+Monroe,RICHLAND/GREENFIELD/FARGO,Attorney General,,LIB,Kerry Hicks,1,1,0,0,0,0
+Monroe,BRINKLEY/ DIXON,Attorney General,,LIB,Kerry Hicks,10,9,1,0,0,0
+Monroe,CACHE,Attorney General,,LIB,Kerry Hicks,0,0,0,0,0,0
+Monroe,KEEVIL,Attorney General,,LIB,Kerry Hicks,1,0,1,0,0,0
+Monroe,CYPRESS RIDGE,Attorney General,,LIB,Kerry Hicks,2,1,0,0,0,1
+Monroe,HINDMAN/ RAYMOND/PINE RID,Attorney General,,LIB,Kerry Hicks,1,1,0,0,0,0
+Monroe,DUNCAN,Attorney General,,LIB,Kerry Hicks,0,0,0,0,0,0
+Monroe,JACKSN/CLBRNE/MONT./SMALL,Attorney General,,LIB,Kerry Hicks,1,1,0,0,0,0
+Monroe,ROC,Attorney General,,LIB,Kerry Hicks,4,3,1,0,0,0
+Monroe,BRINKLEY WARD 1,Attorney General,,REP,Attorney General Leslie Rutledge,179,124,30,0,5,20
+Monroe,BRINKLEY WARD 2,Attorney General,,REP,Attorney General Leslie Rutledge,119,82,19,0,7,11
+Monroe,BRINKLEY WARD 3,Attorney General,,REP,Attorney General Leslie Rutledge,168,134,22,0,2,10
+Monroe,CLARENDON WARD 1,Attorney General,,REP,Attorney General Leslie Rutledge,80,32,21,0,1,26
+Monroe,CLARENDON WARD 2,Attorney General,,REP,Attorney General Leslie Rutledge,127,33,41,0,5,48
+Monroe,CLARENDON WARD 3,Attorney General,,REP,Attorney General Leslie Rutledge,91,33,29,0,2,27
+Monroe,HOLLY GROVE,Attorney General,,REP,Attorney General Leslie Rutledge,27,15,3,1,1,7
+Monroe,RICHLAND/GREENFIELD/FARGO,Attorney General,,REP,Attorney General Leslie Rutledge,69,61,5,0,0,3
+Monroe,BRINKLEY/ DIXON,Attorney General,,REP,Attorney General Leslie Rutledge,131,94,19,0,1,17
+Monroe,CACHE,Attorney General,,REP,Attorney General Leslie Rutledge,35,11,13,0,0,11
+Monroe,KEEVIL,Attorney General,,REP,Attorney General Leslie Rutledge,44,27,14,0,1,2
+Monroe,CYPRESS RIDGE,Attorney General,,REP,Attorney General Leslie Rutledge,74,30,10,28,3,3
+Monroe,HINDMAN/ RAYMOND/PINE RID,Attorney General,,REP,Attorney General Leslie Rutledge,51,31,6,11,0,3
+Monroe,DUNCAN,Attorney General,,REP,Attorney General Leslie Rutledge,39,10,12,9,1,7
+Monroe,JACKSN/CLBRNE/MONT./SMALL,Attorney General,,REP,Attorney General Leslie Rutledge,67,39,10,4,1,13
+Monroe,ROC,Attorney General,,REP,Attorney General Leslie Rutledge,82,69,6,4,2,1
+Monroe,BRINKLEY WARD 1,Secretary of State,,DEM,Susan Inman,160,82,36,1,3,38
+Monroe,BRINKLEY WARD 2,Secretary of State,,DEM,Susan Inman,192,121,33,0,5,33
+Monroe,BRINKLEY WARD 3,Secretary of State,,DEM,Susan Inman,184,100,52,0,7,25
+Monroe,CLARENDON WARD 1,Secretary of State,,DEM,Susan Inman,105,38,41,0,3,23
+Monroe,CLARENDON WARD 2,Secretary of State,,DEM,Susan Inman,91,36,31,0,2,22
+Monroe,CLARENDON WARD 3,Secretary of State,,DEM,Susan Inman,79,30,28,1,1,19
+Monroe,HOLLY GROVE,Secretary of State,,DEM,Susan Inman,178,104,31,19,2,22
+Monroe,RICHLAND/GREENFIELD/FARGO,Secretary of State,,DEM,Susan Inman,36,23,8,0,1,4
+Monroe,BRINKLEY/ DIXON,Secretary of State,,DEM,Susan Inman,65,42,14,0,3,6
+Monroe,CACHE,Secretary of State,,DEM,Susan Inman,15,7,2,0,0,6
+Monroe,KEEVIL,Secretary of State,,DEM,Susan Inman,14,10,2,0,1,1
+Monroe,CYPRESS RIDGE,Secretary of State,,DEM,Susan Inman,17,4,6,6,0,1
+Monroe,HINDMAN/ RAYMOND/PINE RID,Secretary of State,,DEM,Susan Inman,22,12,5,1,0,4
+Monroe,DUNCAN,Secretary of State,,DEM,Susan Inman,28,14,6,1,1,6
+Monroe,JACKSN/CLBRNE/MONT./SMALL,Secretary of State,,DEM,Susan Inman,35,17,8,3,1,6
+Monroe,ROC,Secretary of State,,DEM,Susan Inman,18,11,5,0,2,0
+Monroe,BRINKLEY WARD 1,Secretary of State,,REP,John Thurston Commissioner of State Lands,166,117,28,0,3,18
+Monroe,BRINKLEY WARD 2,Secretary of State,,REP,John Thurston Commissioner of State Lands,118,82,18,0,6,12
+Monroe,BRINKLEY WARD 3,Secretary of State,,REP,John Thurston Commissioner of State Lands,155,125,20,0,0,10
+Monroe,CLARENDON WARD 1,Secretary of State,,REP,John Thurston Commissioner of State Lands,69,29,16,0,1,23
+Monroe,CLARENDON WARD 2,Secretary of State,,REP,John Thurston Commissioner of State Lands,118,32,38,0,4,44
+Monroe,CLARENDON WARD 3,Secretary of State,,REP,John Thurston Commissioner of State Lands,86,29,26,0,2,29
+Monroe,HOLLY GROVE,Secretary of State,,REP,John Thurston Commissioner of State Lands,13,10,3,0,0,0
+Monroe,RICHLAND/GREENFIELD/FARGO,Secretary of State,,REP,John Thurston Commissioner of State Lands,69,63,3,0,0,3
+Monroe,BRINKLEY/ DIXON,Secretary of State,,REP,John Thurston Commissioner of State Lands,129,91,19,0,1,18
+Monroe,CACHE,Secretary of State,,REP,John Thurston Commissioner of State Lands,28,9,12,0,0,7
+Monroe,KEEVIL,Secretary of State,,REP,John Thurston Commissioner of State Lands,38,22,14,0,0,2
+Monroe,CYPRESS RIDGE,Secretary of State,,REP,John Thurston Commissioner of State Lands,71,29,10,26,3,3
+Monroe,HINDMAN/ RAYMOND/PINE RID,Secretary of State,,REP,John Thurston Commissioner of State Lands,46,28,4,11,0,3
+Monroe,DUNCAN,Secretary of State,,REP,John Thurston Commissioner of State Lands,41,11,13,10,1,6
+Monroe,JACKSN/CLBRNE/MONT./SMALL,Secretary of State,,REP,John Thurston Commissioner of State Lands,63,36,9,3,1,14
+Monroe,ROC,Secretary of State,,REP,John Thurston Commissioner of State Lands,80,67,5,5,2,1
+Monroe,BRINKLEY WARD 1,Secretary of State,,LIB,Christopher Olson,9,7,1,0,0,1
+Monroe,BRINKLEY WARD 2,Secretary of State,,LIB,Christopher Olson,19,13,4,0,0,2
+Monroe,BRINKLEY WARD 3,Secretary of State,,LIB,Christopher Olson,9,7,1,0,0,1
+Monroe,CLARENDON WARD 1,Secretary of State,,LIB,Christopher Olson,10,5,3,0,0,2
+Monroe,CLARENDON WARD 2,Secretary of State,,LIB,Christopher Olson,6,2,3,0,0,1
+Monroe,CLARENDON WARD 3,Secretary of State,,LIB,Christopher Olson,2,1,1,0,0,0
+Monroe,HOLLY GROVE,Secretary of State,,LIB,Christopher Olson,16,12,1,0,0,3
+Monroe,RICHLAND/GREENFIELD/FARGO,Secretary of State,,LIB,Christopher Olson,3,3,0,0,0,0
+Monroe,BRINKLEY/ DIXON,Secretary of State,,LIB,Christopher Olson,4,3,1,0,0,0
+Monroe,CACHE,Secretary of State,,LIB,Christopher Olson,0,0,0,0,0,0
+Monroe,KEEVIL,Secretary of State,,LIB,Christopher Olson,1,0,1,0,0,0
+Monroe,CYPRESS RIDGE,Secretary of State,,LIB,Christopher Olson,3,3,0,0,0,0
+Monroe,HINDMAN/ RAYMOND/PINE RID,Secretary of State,,LIB,Christopher Olson,0,0,0,0,0,0
+Monroe,DUNCAN,Secretary of State,,LIB,Christopher Olson,1,0,0,0,0,1
+Monroe,JACKSN/CLBRNE/MONT./SMALL,Secretary of State,,LIB,Christopher Olson,1,1,0,0,0,0
+Monroe,ROC,Secretary of State,,LIB,Christopher Olson,3,2,1,0,0,0
+Monroe,BRINKLEY WARD 1,State Treasurer,,LIB,Ashley Ewald,123,59,28,1,1,34
+Monroe,BRINKLEY WARD 2,State Treasurer,,LIB,Ashley Ewald,178,107,37,0,4,30
+Monroe,BRINKLEY WARD 3,State Treasurer,,LIB,Ashley Ewald,145,84,35,0,4,22
+Monroe,CLARENDON WARD 1,State Treasurer,,LIB,Ashley Ewald,87,34,29,0,4,20
+Monroe,CLARENDON WARD 2,State Treasurer,,LIB,Ashley Ewald,67,27,26,0,1,13
+Monroe,CLARENDON WARD 3,State Treasurer,,LIB,Ashley Ewald,55,22,24,1,1,7
+Monroe,HOLLY GROVE,State Treasurer,,LIB,Ashley Ewald,158,98,23,17,1,19
+Monroe,RICHLAND/GREENFIELD/FARGO,State Treasurer,,LIB,Ashley Ewald,31,22,4,0,1,4
+Monroe,BRINKLEY/ DIXON,State Treasurer,,LIB,Ashley Ewald,42,29,9,0,0,4
+Monroe,CACHE,State Treasurer,,LIB,Ashley Ewald,8,4,2,0,0,2
+Monroe,KEEVIL,State Treasurer,,LIB,Ashley Ewald,11,6,3,0,1,1
+Monroe,CYPRESS RIDGE,State Treasurer,,LIB,Ashley Ewald,14,5,3,4,0,2
+Monroe,HINDMAN/ RAYMOND/PINE RID,State Treasurer,,LIB,Ashley Ewald,12,7,2,1,0,2
+Monroe,DUNCAN,State Treasurer,,LIB,Ashley Ewald,21,9,3,3,1,5
+Monroe,JACKSN/CLBRNE/MONT./SMALL,State Treasurer,,LIB,Ashley Ewald,23,9,7,1,0,6
+Monroe,ROC,State Treasurer,,LIB,Ashley Ewald,17,8,6,1,2,0
+Monroe,BRINKLEY WARD 1,State Treasurer,,REP,Treasurer of State Dennis Milligan,205,143,34,0,6,22
+Monroe,BRINKLEY WARD 2,State Treasurer,,REP,Treasurer of State Dennis Milligan,139,103,17,0,7,12
+Monroe,BRINKLEY WARD 3,State Treasurer,,REP,Treasurer of State Dennis Milligan,189,138,34,0,2,15
+Monroe,CLARENDON WARD 1,State Treasurer,,REP,Treasurer of State Dennis Milligan,86,37,23,0,0,26
+Monroe,CLARENDON WARD 2,State Treasurer,,REP,Treasurer of State Dennis Milligan,138,42,44,0,3,49
+Monroe,CLARENDON WARD 3,State Treasurer,,REP,Treasurer of State Dennis Milligan,103,35,31,0,1,36
+Monroe,HOLLY GROVE,State Treasurer,,REP,Treasurer of State Dennis Milligan,37,21,7,2,1,6
+Monroe,RICHLAND/GREENFIELD/FARGO,State Treasurer,,REP,Treasurer of State Dennis Milligan,73,64,6,0,0,3
+Monroe,BRINKLEY/ DIXON,State Treasurer,,REP,Treasurer of State Dennis Milligan,145,103,21,0,2,19
+Monroe,CACHE,State Treasurer,,REP,Treasurer of State Dennis Milligan,33,11,11,0,0,11
+Monroe,KEEVIL,State Treasurer,,REP,Treasurer of State Dennis Milligan,42,25,14,0,1,2
+Monroe,CYPRESS RIDGE,State Treasurer,,REP,Treasurer of State Dennis Milligan,75,31,11,28,3,2
+Monroe,HINDMAN/ RAYMOND/PINE RID,State Treasurer,,REP,Treasurer of State Dennis Milligan,54,31,7,11,0,5
+Monroe,DUNCAN,State Treasurer,,REP,Treasurer of State Dennis Milligan,44,13,16,7,1,7
+Monroe,JACKSN/CLBRNE/MONT./SMALL,State Treasurer,,REP,Treasurer of State Dennis Milligan,74,44,10,5,2,13
+Monroe,ROC,State Treasurer,,REP,Treasurer of State Dennis Milligan,83,71,5,4,2,1
+Monroe,BRINKLEY WARD 1,Auditor of State,,REP,Auditor Andrea Lea,214,146,37,0,4,27
+Monroe,BRINKLEY WARD 2,Auditor of State,,REP,Auditor Andrea Lea,153,105,24,0,8,16
+Monroe,BRINKLEY WARD 3,Auditor of State,,REP,Auditor Andrea Lea,201,148,34,0,2,17
+Monroe,CLARENDON WARD 1,Auditor of State,,REP,Auditor Andrea Lea,93,39,25,0,0,29
+Monroe,CLARENDON WARD 2,Auditor of State,,REP,Auditor Andrea Lea,148,43,50,0,3,52
+Monroe,CLARENDON WARD 3,Auditor of State,,REP,Auditor Andrea Lea,103,41,31,0,1,30
+Monroe,HOLLY GROVE,Auditor of State,,REP,Auditor Andrea Lea,55,26,6,13,1,9
+Monroe,RICHLAND/GREENFIELD/FARGO,Auditor of State,,REP,Auditor Andrea Lea,78,69,6,0,0,3
+Monroe,BRINKLEY/ DIXON,Auditor of State,,REP,Auditor Andrea Lea,151,109,22,0,1,19
+Monroe,CACHE,Auditor of State,,REP,Auditor Andrea Lea,38,12,14,0,0,12
+Monroe,KEEVIL,Auditor of State,,REP,Auditor Andrea Lea,43,25,15,0,1,2
+Monroe,CYPRESS RIDGE,Auditor of State,,REP,Auditor Andrea Lea,79,32,11,30,3,3
+Monroe,HINDMAN/ RAYMOND/PINE RID,Auditor of State,,REP,Auditor Andrea Lea,54,29,8,11,0,6
+Monroe,DUNCAN,Auditor of State,,REP,Auditor Andrea Lea,40,10,16,7,1,6
+Monroe,JACKSN/CLBRNE/MONT./SMALL,Auditor of State,,REP,Auditor Andrea Lea,76,44,12,5,2,13
+Monroe,ROC,Auditor of State,,REP,Auditor Andrea Lea,88,73,6,5,3,1
+Monroe,BRINKLEY WARD 1,Auditor of State,,LIB,David E. Dinwiddie,111,55,25,1,1,29
+Monroe,BRINKLEY WARD 2,Auditor of State,,LIB,David E. Dinwiddie,164,104,30,0,3,27
+Monroe,BRINKLEY WARD 3,Auditor of State,,LIB,David E. Dinwiddie,131,71,36,0,4,20
+Monroe,CLARENDON WARD 1,Auditor of State,,LIB,David E. Dinwiddie,74,30,25,0,4,15
+Monroe,CLARENDON WARD 2,Auditor of State,,LIB,David E. Dinwiddie,57,26,20,0,1,10
+Monroe,CLARENDON WARD 3,Auditor of State,,LIB,David E. Dinwiddie,53,17,22,1,1,12
+Monroe,HOLLY GROVE,Auditor of State,,LIB,David E. Dinwiddie,131,89,22,3,1,16
+Monroe,RICHLAND/GREENFIELD/FARGO,Auditor of State,,LIB,David E. Dinwiddie,27,17,5,0,1,4
+Monroe,BRINKLEY/ DIXON,Auditor of State,,LIB,David E. Dinwiddie,38,25,8,0,1,4
+Monroe,CACHE,Auditor of State,,LIB,David E. Dinwiddie,7,5,0,0,0,2
+Monroe,KEEVIL,Auditor of State,,LIB,David E. Dinwiddie,9,5,2,0,1,1
+Monroe,CYPRESS RIDGE,Auditor of State,,LIB,David E. Dinwiddie,10,4,3,2,0,1
+Monroe,HINDMAN/ RAYMOND/PINE RID,Auditor of State,,LIB,David E. Dinwiddie,9,7,1,0,0,1
+Monroe,DUNCAN,Auditor of State,,LIB,David E. Dinwiddie,22,10,3,2,1,6
+Monroe,JACKSN/CLBRNE/MONT./SMALL,Auditor of State,,LIB,David E. Dinwiddie,22,9,6,1,0,6
+Monroe,ROC,Auditor of State,,LIB,David E. Dinwiddie,9,4,4,0,1,0
+Monroe,BRINKLEY WARD 1,Commissioner of State Lands,,LIB,T.J. Campbell,8,6,1,0,0,1
+Monroe,BRINKLEY WARD 2,Commissioner of State Lands,,LIB,T.J. Campbell,11,8,2,0,1,0
+Monroe,BRINKLEY WARD 3,Commissioner of State Lands,,LIB,T.J. Campbell,6,4,1,0,0,1
+Monroe,CLARENDON WARD 1,Commissioner of State Lands,,LIB,T.J. Campbell,7,2,4,0,0,1
+Monroe,CLARENDON WARD 2,Commissioner of State Lands,,LIB,T.J. Campbell,7,3,2,0,0,2
+Monroe,CLARENDON WARD 3,Commissioner of State Lands,,LIB,T.J. Campbell,3,2,0,0,0,1
+Monroe,HOLLY GROVE,Commissioner of State Lands,,LIB,T.J. Campbell,4,2,2,0,0,0
+Monroe,RICHLAND/GREENFIELD/FARGO,Commissioner of State Lands,,LIB,T.J. Campbell,0,0,0,0,0,0
+Monroe,BRINKLEY/ DIXON,Commissioner of State Lands,,LIB,T.J. Campbell,3,3,0,0,0,0
+Monroe,CACHE,Commissioner of State Lands,,LIB,T.J. Campbell,1,0,1,0,0,0
+Monroe,KEEVIL,Commissioner of State Lands,,LIB,T.J. Campbell,3,1,2,0,0,0
+Monroe,CYPRESS RIDGE,Commissioner of State Lands,,LIB,T.J. Campbell,3,2,0,0,0,1
+Monroe,HINDMAN/ RAYMOND/PINE RID,Commissioner of State Lands,,LIB,T.J. Campbell,1,1,0,0,0,0
+Monroe,DUNCAN,Commissioner of State Lands,,LIB,T.J. Campbell,1,0,1,0,0,0
+Monroe,JACKSN/CLBRNE/MONT./SMALL,Commissioner of State Lands,,LIB,T.J. Campbell,0,0,0,0,0,0
+Monroe,ROC,Commissioner of State Lands,,LIB,T.J. Campbell,4,2,2,0,0,0
+Monroe,BRINKLEY WARD 1,Commissioner of State Lands,,REP,Tommy Land,172,118,30,0,3,21
+Monroe,BRINKLEY WARD 2,Commissioner of State Lands,,REP,Tommy Land,107,75,16,0,6,10
+Monroe,BRINKLEY WARD 3,Commissioner of State Lands,,REP,Tommy Land,143,116,17,0,0,10
+Monroe,CLARENDON WARD 1,Commissioner of State Lands,,REP,Tommy Land,65,29,12,0,2,22
+Monroe,CLARENDON WARD 2,Commissioner of State Lands,,REP,Tommy Land,112,27,39,0,2,44
+Monroe,CLARENDON WARD 3,Commissioner of State Lands,,REP,Tommy Land,81,30,27,0,1,23
+Monroe,HOLLY GROVE,Commissioner of State Lands,,REP,Tommy Land,12,10,2,0,0,0
+Monroe,RICHLAND/GREENFIELD/FARGO,Commissioner of State Lands,,REP,Tommy Land,66,60,3,0,0,3
+Monroe,BRINKLEY/ DIXON,Commissioner of State Lands,,REP,Tommy Land,125,90,18,0,1,16
+Monroe,CACHE,Commissioner of State Lands,,REP,Tommy Land,30,11,12,0,0,7
+Monroe,KEEVIL,Commissioner of State Lands,,REP,Tommy Land,38,21,14,0,1,2
+Monroe,CYPRESS RIDGE,Commissioner of State Lands,,REP,Tommy Land,70,30,10,24,3,3
+Monroe,HINDMAN/ RAYMOND/PINE RID,Commissioner of State Lands,,REP,Tommy Land,47,27,4,11,0,5
+Monroe,DUNCAN,Commissioner of State Lands,,REP,Tommy Land,39,10,13,9,1,6
+Monroe,JACKSN/CLBRNE/MONT./SMALL,Commissioner of State Lands,,REP,Tommy Land,60,34,9,3,1,13
+Monroe,ROC,Commissioner of State Lands,,REP,Tommy Land,77,66,5,3,2,1
+Monroe,BRINKLEY WARD 1,Commissioner of State Lands,,DEM,Larry Williams,155,80,34,1,5,35
+Monroe,BRINKLEY WARD 2,Commissioner of State Lands,,DEM,Larry Williams,212,136,37,0,4,35
+Monroe,BRINKLEY WARD 3,Commissioner of State Lands,,DEM,Larry Williams,198,110,55,0,7,26
+Monroe,CLARENDON WARD 1,Commissioner of State Lands,,DEM,Larry Williams,109,40,42,0,2,25
+Monroe,CLARENDON WARD 2,Commissioner of State Lands,,DEM,Larry Williams,92,40,29,0,2,21
+Monroe,CLARENDON WARD 3,Commissioner of State Lands,,DEM,Larry Williams,82,28,28,1,1,24
+Monroe,HOLLY GROVE,Commissioner of State Lands,,DEM,Larry Williams,191,116,29,19,2,25
+Monroe,RICHLAND/GREENFIELD/FARGO,Commissioner of State Lands,,DEM,Larry Williams,42,29,8,0,1,4
+Monroe,BRINKLEY/ DIXON,Commissioner of State Lands,,DEM,Larry Williams,71,45,16,0,3,7
+Monroe,CACHE,Commissioner of State Lands,,DEM,Larry Williams,12,6,1,0,0,5
+Monroe,KEEVIL,Commissioner of State Lands,,DEM,Larry Williams,13,10,1,0,1,1
+Monroe,CYPRESS RIDGE,Commissioner of State Lands,,DEM,Larry Williams,17,4,6,7,0,0
+Monroe,HINDMAN/ RAYMOND/PINE RID,Commissioner of State Lands,,DEM,Larry Williams,18,10,5,1,0,2
+Monroe,DUNCAN,Commissioner of State Lands,,DEM,Larry Williams,30,15,5,2,1,7
+Monroe,JACKSN/CLBRNE/MONT./SMALL,Commissioner of State Lands,,DEM,Larry Williams,35,19,7,2,1,6
+Monroe,ROC,Commissioner of State Lands,,DEM,Larry Williams,19,11,4,2,2,0
+Monroe,BRINKLEY WARD 1,State Representative,49,REP,Representative Steve Hollowell,185,128,33,0,4,20
+Monroe,BRINKLEY WARD 2,State Representative,49,REP,Representative Steve Hollowell,119,81,20,0,6,12
+Monroe,BRINKLEY WARD 3,State Representative,49,REP,Representative Steve Hollowell,165,133,19,0,0,13
+Monroe,RICHLAND/GREENFIELD/FARGO,State Representative,49,REP,Representative Steve Hollowell,65,60,2,0,0,3
+Monroe,BRINKLEY/ DIXON,State Representative,49,REP,Representative Steve Hollowell,137,101,19,0,1,16
+Monroe,KEEVIL,State Representative,49,REP,Representative Steve Hollowell,42,24,15,0,1,2
+Monroe,CYPRESS RIDGE,State Representative,49,REP,Representative Steve Hollowell,73,30,10,26,3,4
+Monroe,BRINKLEY WARD 1,State Representative,49,DEM,"Howard (Jr.) Smith, II",149,75,32,1,4,37
+Monroe,BRINKLEY WARD 2,State Representative,49,DEM,"Howard (Jr.) Smith, II",211,136,36,0,5,34
+Monroe,BRINKLEY WARD 3,State Representative,49,DEM,"Howard (Jr.) Smith, II",184,99,54,0,7,24
+Monroe,RICHLAND/GREENFIELD/FARGO,State Representative,49,DEM,"Howard (Jr.) Smith, II",44,30,9,0,1,4
+Monroe,BRINKLEY/ DIXON,State Representative,49,DEM,"Howard (Jr.) Smith, II",65,39,15,0,3,8
+Monroe,KEEVIL,State Representative,49,DEM,"Howard (Jr.) Smith, II",12,8,2,0,1,1
+Monroe,CYPRESS RIDGE,State Representative,49,DEM,"Howard (Jr.) Smith, II",17,6,5,6,0,0
+Monroe,BRINKLEY WARD 1,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,180,111,36,0,4,29
+Monroe,BRINKLEY WARD 2,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,180,113,35,0,3,29
+Monroe,BRINKLEY WARD 3,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,191,124,41,0,2,24
+Monroe,CLARENDON WARD 1,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,89,35,25,0,3,26
+Monroe,CLARENDON WARD 2,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,128,43,40,0,4,41
+Monroe,CLARENDON WARD 3,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,87,30,24,1,1,31
+Monroe,HOLLY GROVE,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,94,59,10,10,2,13
+Monroe,RICHLAND/GREENFIELD/FARGO,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,56,45,6,0,0,5
+Monroe,BRINKLEY/ DIXON,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,111,77,15,0,2,17
+Monroe,CACHE,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,21,7,9,0,0,5
+Monroe,KEEVIL,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,22,12,7,0,1,2
+Monroe,CYPRESS RIDGE,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,52,21,5,21,3,2
+Monroe,HINDMAN/ RAYMOND/PINE RID,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,34,19,3,8,0,4
+Monroe,DUNCAN,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,44,14,13,9,1,7
+Monroe,JACKSN/CLBRNE/MONT./SMALL,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,39,22,6,3,1,7
+Monroe,ROC,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,40,32,4,3,0,1
+Monroe,BRINKLEY WARD 1,State Supreme Court Associate Justice Position 3,,NON,David Sterling,132,86,21,1,1,23
+Monroe,BRINKLEY WARD 2,State Supreme Court Associate Justice Position 3,,NON,David Sterling,119,81,18,0,7,13
+Monroe,BRINKLEY WARD 3,State Supreme Court Associate Justice Position 3,,NON,David Sterling,131,85,30,0,3,13
+Monroe,CLARENDON WARD 1,State Supreme Court Associate Justice Position 3,,NON,David Sterling,70,32,24,0,1,13
+Monroe,CLARENDON WARD 2,State Supreme Court Associate Justice Position 3,,NON,David Sterling,70,24,27,0,1,18
+Monroe,CLARENDON WARD 3,State Supreme Court Associate Justice Position 3,,NON,David Sterling,61,24,23,0,2,12
+Monroe,HOLLY GROVE,State Supreme Court Associate Justice Position 3,,NON,David Sterling,80,44,19,7,0,10
+Monroe,RICHLAND/GREENFIELD/FARGO,State Supreme Court Associate Justice Position 3,,NON,David Sterling,43,36,5,0,1,1
+Monroe,BRINKLEY/ DIXON,State Supreme Court Associate Justice Position 3,,NON,David Sterling,71,49,17,0,0,5
+Monroe,CACHE,State Supreme Court Associate Justice Position 3,,NON,David Sterling,19,7,6,0,0,6
+Monroe,KEEVIL,State Supreme Court Associate Justice Position 3,,NON,David Sterling,26,15,9,0,1,1
+Monroe,CYPRESS RIDGE,State Supreme Court Associate Justice Position 3,,NON,David Sterling,36,13,10,11,0,2
+Monroe,HINDMAN/ RAYMOND/PINE RID,State Supreme Court Associate Justice Position 3,,NON,David Sterling,26,14,6,3,0,3
+Monroe,DUNCAN,State Supreme Court Associate Justice Position 3,,NON,David Sterling,21,8,6,1,1,5
+Monroe,JACKSN/CLBRNE/MONT./SMALL,State Supreme Court Associate Justice Position 3,,NON,David Sterling,48,26,7,2,1,12
+Monroe,ROC,State Supreme Court Associate Justice Position 3,,NON,David Sterling,54,43,6,2,3,0
+Monroe,BRINKLEY WARD 1,MONROE COUNTY JUDGE,,REP,"RICHARD ""BUBBA"" SMITH",110,71,23,0,0,16
+Monroe,BRINKLEY WARD 2,MONROE COUNTY JUDGE,,REP,"RICHARD ""BUBBA"" SMITH",74,51,9,0,7,7
+Monroe,BRINKLEY WARD 3,MONROE COUNTY JUDGE,,REP,"RICHARD ""BUBBA"" SMITH",81,63,11,0,0,7
+Monroe,CLARENDON WARD 1,MONROE COUNTY JUDGE,,REP,"RICHARD ""BUBBA"" SMITH",58,27,19,0,1,11
+Monroe,CLARENDON WARD 2,MONROE COUNTY JUDGE,,REP,"RICHARD ""BUBBA"" SMITH",75,27,26,0,2,20
+Monroe,CLARENDON WARD 3,MONROE COUNTY JUDGE,,REP,"RICHARD ""BUBBA"" SMITH",46,14,15,0,2,15
+Monroe,HOLLY GROVE,MONROE COUNTY JUDGE,,REP,"RICHARD ""BUBBA"" SMITH",17,10,3,2,0,2
+Monroe,RICHLAND/GREENFIELD/FARGO,MONROE COUNTY JUDGE,,REP,"RICHARD ""BUBBA"" SMITH",38,33,4,0,0,1
+Monroe,BRINKLEY/ DIXON,MONROE COUNTY JUDGE,,REP,"RICHARD ""BUBBA"" SMITH",76,52,13,0,0,11
+Monroe,CACHE,MONROE COUNTY JUDGE,,REP,"RICHARD ""BUBBA"" SMITH",17,7,6,0,0,4
+Monroe,KEEVIL,MONROE COUNTY JUDGE,,REP,"RICHARD ""BUBBA"" SMITH",23,13,9,0,1,0
+Monroe,CYPRESS RIDGE,MONROE COUNTY JUDGE,,REP,"RICHARD ""BUBBA"" SMITH",28,10,5,11,1,1
+Monroe,HINDMAN/ RAYMOND/PINE RID,MONROE COUNTY JUDGE,,REP,"RICHARD ""BUBBA"" SMITH",22,14,3,3,0,2
+Monroe,DUNCAN,MONROE COUNTY JUDGE,,REP,"RICHARD ""BUBBA"" SMITH",15,7,2,2,1,3
+Monroe,JACKSN/CLBRNE/MONT./SMALL,MONROE COUNTY JUDGE,,REP,"RICHARD ""BUBBA"" SMITH",31,23,4,0,0,4
+Monroe,ROC,MONROE COUNTY JUDGE,,REP,"RICHARD ""BUBBA"" SMITH",54,46,3,2,2,1
+Monroe,BRINKLEY WARD 1,MONROE COUNTY JUDGE,,DEM,LARRY TAYLOR,231,137,43,1,8,42
+Monroe,BRINKLEY WARD 2,MONROE COUNTY JUDGE,,DEM,LARRY TAYLOR,259,169,46,0,4,40
+Monroe,BRINKLEY WARD 3,MONROE COUNTY JUDGE,,DEM,LARRY TAYLOR,270,168,65,0,7,30
+Monroe,CLARENDON WARD 1,MONROE COUNTY JUDGE,,DEM,LARRY TAYLOR,127,46,41,0,3,37
+Monroe,CLARENDON WARD 2,MONROE COUNTY JUDGE,,DEM,LARRY TAYLOR,143,47,46,0,4,46
+Monroe,CLARENDON WARD 3,MONROE COUNTY JUDGE,,DEM,LARRY TAYLOR,122,47,42,1,1,31
+Monroe,HOLLY GROVE,MONROE COUNTY JUDGE,,DEM,LARRY TAYLOR,193,120,31,17,2,23
+Monroe,RICHLAND/GREENFIELD/FARGO,MONROE COUNTY JUDGE,,DEM,LARRY TAYLOR,75,60,8,0,1,6
+Monroe,BRINKLEY/ DIXON,MONROE COUNTY JUDGE,,DEM,LARRY TAYLOR,125,87,21,0,4,13
+Monroe,CACHE,MONROE COUNTY JUDGE,,DEM,LARRY TAYLOR,30,10,10,0,0,10
+Monroe,KEEVIL,MONROE COUNTY JUDGE,,DEM,LARRY TAYLOR,35,22,9,0,1,3
+Monroe,CYPRESS RIDGE,MONROE COUNTY JUDGE,,DEM,LARRY TAYLOR,58,24,11,19,1,3
+Monroe,HINDMAN/ RAYMOND/PINE RID,MONROE COUNTY JUDGE,,DEM,LARRY TAYLOR,48,28,6,9,0,5
+Monroe,DUNCAN,MONROE COUNTY JUDGE,,DEM,LARRY TAYLOR,54,17,17,9,1,10
+Monroe,JACKSN/CLBRNE/MONT./SMALL,MONROE COUNTY JUDGE,,DEM,LARRY TAYLOR,68,31,14,6,2,15
+Monroe,ROC,MONROE COUNTY JUDGE,,DEM,LARRY TAYLOR,48,35,8,3,2,0
+Monroe,BRINKLEY WARD 1,MONROE COUNTY SHERIFF,,DEM,MICHAEL K. NEAL,237,161,44,1,7,24
+Monroe,BRINKLEY WARD 2,MONROE COUNTY SHERIFF,,DEM,MICHAEL K. NEAL,179,124,27,0,9,19
+Monroe,BRINKLEY WARD 3,MONROE COUNTY SHERIFF,,DEM,MICHAEL K. NEAL,215,156,44,0,2,13
+Monroe,CLARENDON WARD 1,MONROE COUNTY SHERIFF,,DEM,MICHAEL K. NEAL,81,33,21,0,1,26
+Monroe,CLARENDON WARD 2,MONROE COUNTY SHERIFF,,DEM,MICHAEL K. NEAL,115,33,35,0,3,44
+Monroe,CLARENDON WARD 3,MONROE COUNTY SHERIFF,,DEM,MICHAEL K. NEAL,100,42,30,1,0,27
+Monroe,HOLLY GROVE,MONROE COUNTY SHERIFF,,DEM,MICHAEL K. NEAL,36,24,6,1,1,4
+Monroe,RICHLAND/GREENFIELD/FARGO,MONROE COUNTY SHERIFF,,DEM,MICHAEL K. NEAL,89,77,8,0,1,3
+Monroe,BRINKLEY/ DIXON,MONROE COUNTY SHERIFF,,DEM,MICHAEL K. NEAL,166,112,30,0,3,21
+Monroe,CACHE,MONROE COUNTY SHERIFF,,DEM,MICHAEL K. NEAL,21,10,5,0,0,6
+Monroe,KEEVIL,MONROE COUNTY SHERIFF,,DEM,MICHAEL K. NEAL,50,31,16,0,0,3
+Monroe,CYPRESS RIDGE,MONROE COUNTY SHERIFF,,DEM,MICHAEL K. NEAL,69,28,12,25,3,1
+Monroe,HINDMAN/ RAYMOND/PINE RID,MONROE COUNTY SHERIFF,,DEM,MICHAEL K. NEAL,42,28,4,9,0,1
+Monroe,DUNCAN,MONROE COUNTY SHERIFF,,DEM,MICHAEL K. NEAL,27,8,7,9,0,3
+Monroe,JACKSN/CLBRNE/MONT./SMALL,MONROE COUNTY SHERIFF,,DEM,MICHAEL K. NEAL,63,33,14,3,1,12
+Monroe,ROC,MONROE COUNTY SHERIFF,,DEM,MICHAEL K. NEAL,73,55,10,4,4,0
+Monroe,BRINKLEY WARD 1,MONROE COUNTY SHERIFF,,IND,HOLLIS FOSTER JR.,104,49,21,0,1,33
+Monroe,BRINKLEY WARD 2,MONROE COUNTY SHERIFF,,IND,HOLLIS FOSTER JR.,150,92,27,0,2,29
+Monroe,BRINKLEY WARD 3,MONROE COUNTY SHERIFF,,IND,HOLLIS FOSTER JR.,131,76,29,0,3,23
+Monroe,CLARENDON WARD 1,MONROE COUNTY SHERIFF,,IND,HOLLIS FOSTER JR.,103,41,38,0,3,21
+Monroe,CLARENDON WARD 2,MONROE COUNTY SHERIFF,,IND,HOLLIS FOSTER JR.,102,39,37,0,3,23
+Monroe,CLARENDON WARD 3,MONROE COUNTY SHERIFF,,IND,HOLLIS FOSTER JR.,70,19,28,0,3,20
+Monroe,HOLLY GROVE,MONROE COUNTY SHERIFF,,IND,HOLLIS FOSTER JR.,179,107,30,18,1,23
+Monroe,RICHLAND/GREENFIELD/FARGO,MONROE COUNTY SHERIFF,,IND,HOLLIS FOSTER JR.,21,13,4,0,0,4
+Monroe,BRINKLEY/ DIXON,MONROE COUNTY SHERIFF,,IND,HOLLIS FOSTER JR.,33,28,3,0,0,2
+Monroe,CACHE,MONROE COUNTY SHERIFF,,IND,HOLLIS FOSTER JR.,21,6,8,0,0,7
+Monroe,KEEVIL,MONROE COUNTY SHERIFF,,IND,HOLLIS FOSTER JR.,8,4,2,0,2,0
+Monroe,CYPRESS RIDGE,MONROE COUNTY SHERIFF,,IND,HOLLIS FOSTER JR.,16,5,4,4,0,3
+Monroe,HINDMAN/ RAYMOND/PINE RID,MONROE COUNTY SHERIFF,,IND,HOLLIS FOSTER JR.,28,14,5,3,0,6
+Monroe,DUNCAN,MONROE COUNTY SHERIFF,,IND,HOLLIS FOSTER JR.,42,16,12,2,2,10
+Monroe,JACKSN/CLBRNE/MONT./SMALL,MONROE COUNTY SHERIFF,,IND,HOLLIS FOSTER JR.,39,21,5,4,1,8
+Monroe,ROC,MONROE COUNTY SHERIFF,,IND,HOLLIS FOSTER JR.,28,26,1,1,0,0
+Monroe,BRINKLEY WARD 1,CIRCUIT CLERK,,DEM,ALICE F. SMITH,303,182,58,1,8,54
+Monroe,BRINKLEY WARD 2,CIRCUIT CLERK,,DEM,ALICE F. SMITH,306,205,52,0,5,44
+Monroe,BRINKLEY WARD 3,CIRCUIT CLERK,,DEM,ALICE F. SMITH,322,215,66,0,6,35
+Monroe,CLARENDON WARD 1,CIRCUIT CLERK,,DEM,ALICE F. SMITH,171,65,56,0,4,46
+Monroe,CLARENDON WARD 2,CIRCUIT CLERK,,DEM,ALICE F. SMITH,204,69,70,0,5,60
+Monroe,CLARENDON WARD 3,CIRCUIT CLERK,,DEM,ALICE F. SMITH,153,54,54,1,2,42
+Monroe,HOLLY GROVE,CIRCUIT CLERK,,DEM,ALICE F. SMITH,195,116,34,19,2,24
+Monroe,RICHLAND/GREENFIELD/FARGO,CIRCUIT CLERK,,DEM,ALICE F. SMITH,99,80,12,0,1,6
+Monroe,BRINKLEY/ DIXON,CIRCUIT CLERK,,DEM,ALICE F. SMITH,176,122,30,0,3,21
+Monroe,CACHE,CIRCUIT CLERK,,DEM,ALICE F. SMITH,43,16,15,0,0,12
+Monroe,KEEVIL,CIRCUIT CLERK,,DEM,ALICE F. SMITH,50,30,15,0,2,3
+Monroe,CYPRESS RIDGE,CIRCUIT CLERK,,DEM,ALICE F. SMITH,87,35,14,32,3,3
+Monroe,HINDMAN/ RAYMOND/PINE RID,CIRCUIT CLERK,,DEM,ALICE F. SMITH,58,31,9,12,0,6
+Monroe,DUNCAN,CIRCUIT CLERK,,DEM,ALICE F. SMITH,65,24,17,11,1,12
+Monroe,JACKSN/CLBRNE/MONT./SMALL,CIRCUIT CLERK,,DEM,ALICE F. SMITH,84,46,16,6,1,15
+Monroe,ROC,CIRCUIT CLERK,,DEM,ALICE F. SMITH,93,73,11,5,4,0
+Monroe,CLARENDON WARD 1,CONSTABLE CACHE TWP,,NON,LIMON CHARLES WILLIAMS,48,17,20,0,0,11
+Monroe,CLARENDON WARD 2,CONSTABLE CACHE TWP,,NON,LIMON CHARLES WILLIAMS,69,20,23,0,1,25
+Monroe,CLARENDON WARD 3,CONSTABLE CACHE TWP,,NON,LIMON CHARLES WILLIAMS,48,20,9,0,0,19
+Monroe,CACHE,CONSTABLE CACHE TWP,,NON,LIMON CHARLES WILLIAMS,17,3,9,0,0,5
+Monroe,CLARENDON WARD 1,CONSTABLE CACHE TWP,,DEM,ROBERT B. KELLY,132,54,37,0,4,37
+Monroe,CLARENDON WARD 2,CONSTABLE CACHE TWP,,DEM,ROBERT B. KELLY,143,52,47,0,4,40
+Monroe,CLARENDON WARD 3,CONSTABLE CACHE TWP,,DEM,ROBERT B. KELLY,105,36,42,1,2,24
+Monroe,CACHE,CONSTABLE CACHE TWP,,DEM,ROBERT B. KELLY,26,11,6,0,0,9
+Monroe,BRINKLEY WARD 1,BRINKLEY MAYOR,,IND,BILLY RAY LINDERMAN,78,62,6,0,2,8
+Monroe,BRINKLEY WARD 2,BRINKLEY MAYOR,,IND,BILLY RAY LINDERMAN,41,31,5,0,0,5
+Monroe,BRINKLEY WARD 3,BRINKLEY MAYOR,,IND,BILLY RAY LINDERMAN,78,62,8,0,2,6
+Monroe,BRINKLEY WARD 1,BRINKLEY MAYOR,,IND,LARRY W. TAYLOR,48,38,8,0,2,0
+Monroe,BRINKLEY WARD 2,BRINKLEY MAYOR,,IND,LARRY W. TAYLOR,28,21,3,0,0,4
+Monroe,BRINKLEY WARD 3,BRINKLEY MAYOR,,IND,LARRY W. TAYLOR,62,39,16,0,0,7
+Monroe,BRINKLEY WARD 1,BRINKLEY MAYOR,,IND,GARY HENARD,113,72,21,0,1,19
+Monroe,BRINKLEY WARD 2,BRINKLEY MAYOR,,IND,GARY HENARD,92,66,15,0,6,5
+Monroe,BRINKLEY WARD 3,BRINKLEY MAYOR,,IND,GARY HENARD,88,73,11,0,3,1
+Monroe,BRINKLEY WARD 1,BRINKLEY MAYOR,,IND,OSCAR CONYEARS,100,35,30,1,3,31
+Monroe,BRINKLEY WARD 2,BRINKLEY MAYOR,,IND,OSCAR CONYEARS,174,103,32,0,5,34
+Monroe,BRINKLEY WARD 3,BRINKLEY MAYOR,,IND,OSCAR CONYEARS,128,62,41,0,2,23
+Monroe,BRINKLEY WARD 1,BRINKLEY WARD 1 POSITION 1,,IND,RONALD BURROW,233,163,39,0,6,25
+Monroe,BRINKLEY WARD 1,BRINKLEY WARD 1 POSITION 1,,IND,RICHARD RAY,101,41,25,1,2,32
+Monroe,BRINKLEY WARD 1,BRINKLEY WARD 1 POSITION 2,,IND,ARNOLD LEON JR.,58,38,9,1,2,8
+Monroe,BRINKLEY WARD 1,BRINKLEY WARD 1 POSITION 2,,IND,SYLVIA HALLIBURTON,120,50,30,0,3,37
+Monroe,BRINKLEY WARD 1,BRINKLEY WARD 1 POSITION 2,,IND,WALLY SHAW,156,115,25,0,3,13
+Monroe,BRINKLEY WARD 2,BRINKLEY WARD 2 POSITION 2,,IND,MICHAEL TUCKER,231,149,40,0,6,36
+Monroe,BRINKLEY WARD 2,BRINKLEY WARD 2 POSITION 2,,IND,CHAD CRAWFORD,102,70,16,0,5,11
+Monroe,BRINKLEY WARD 3,BRINKLEY WARD 3 POSITION 1,,IND,NICK QUINN,165,121,27,0,1,16
+Monroe,BRINKLEY WARD 3,BRINKLEY WARD 3 POSITION 1,,IND,LAMONT SWANIGAN,183,109,48,0,5,21
+Monroe,BRINKLEY WARD 3,BRINKLEY WARD 3 POSITION 2,,IND,"WILLIAM ""BILLY"" WAGGLE",199,114,52,0,5,28
+Monroe,BRINKLEY WARD 3,BRINKLEY WARD 3 POSITION 2,,IND,GARY PADGET,150,118,22,0,1,9
+Monroe,CLARENDON WARD 1,CLARENDON MAYOR,,IND,BILLY JO MORRIS,89,34,33,0,1,21
+Monroe,CLARENDON WARD 2,CLARENDON MAYOR,,IND,BILLY JO MORRIS,108,37,33,0,4,34
+Monroe,CLARENDON WARD 3,CLARENDON MAYOR,,IND,BILLY JO MORRIS,88,27,38,0,0,23
+Monroe,CLARENDON WARD 1,CLARENDON MAYOR,,IND,JIM STINSON,98,40,27,1,3,27
+Monroe,CLARENDON WARD 2,CLARENDON MAYOR,,IND,JIM STINSON,112,37,39,1,2,33
+Monroe,CLARENDON WARD 3,CLARENDON MAYOR,,IND,JIM STINSON,84,34,21,1,3,25
+Monroe,CLARENDON WARD 1,CLARENDON WARD 1 POSITION 2,,IND,MARCO MIDDLETON SR.,108,38,37,0,4,29
+Monroe,CLARENDON WARD 1,CLARENDON WARD 1 POSITION 2,,IND,TEDDY HAMILTON,74,34,21,0,0,19
+Monroe,CLARENDON WARD 3,CLARENDON WARD 3 POSITION 1,,IND,MIKE NEAL,115,38,40,1,2,34
+Monroe,CLARENDON WARD 3,CLARENDON WARD 3 POSITION 1,,IND,MIKE ROGERS,53,21,18,0,1,13
+Monroe,CLARENDON WARD 3,CLARENDON WARD 3 POSITION 2,,IND,TAMEKA PIGGEE,101,36,34,1,3,27
+Monroe,CLARENDON WARD 3,CLARENDON WARD 3 POSITION 2,,IND,CARLTON SELF,70,26,23,0,0,21
+Monroe,HOLLY GROVE,HOLLY GROVE MAYOR,,IND,LULA TYLER,120,73,20,8,1,18
+Monroe,HOLLY GROVE,HOLLY GROVE MAYOR,,IND,CHARLES HAYDEN,93,58,15,10,1,9
+Monroe,HOLLY GROVE,HOLLY GROVE WARD 1 POSITION 1,,IND,CAROLYN ADAMS,27,22,2,1,0,2
+Monroe,HOLLY GROVE,HOLLY GROVE WARD 1 POSITION 1,,IND,GLORIA BRYANT MURPHY,93,52,16,6,2,17
+Monroe,HOLLY GROVE,HOLLY GROVE WARD 1 POSITION 1,,IND,ZENOBA ARTIS,86,54,14,12,0,6
+Monroe,HOLLY GROVE,HOLLY GROVE WARD 1 POSITION 2,,IND,VONICE PARKS,99,59,16,6,1,17
+Monroe,HOLLY GROVE,HOLLY GROVE WARD 1 POSITION 2,,IND,SANDRA PIGGEE,109,69,18,13,1,8
+Monroe,HOLLY GROVE,HOLLY GROVE WARD 2 POSITION 1,,IND,KENNETH REED,148,96,23,10,1,18
+Monroe,HOLLY GROVE,HOLLY GROVE WARD 2 POSITION 1,,IND,CHRISTENE BEAN,65,37,10,9,1,8
+Monroe,BRINKLEY WARD 1,BSB ZONE 1 BRINKLEY ZONE 1,,IND,TANDRA D. CONYEARS,52,14,15,1,3,19
+Monroe,BRINKLEY WARD 2,BSB ZONE 1 BRINKLEY ZONE 1,,IND,TANDRA D. CONYEARS,23,7,7,0,1,8
+Monroe,BRINKLEY WARD 1,BSB ZONE 1 BRINKLEY ZONE 1,,IND,CATHY SHELTON,91,61,15,0,1,14
+Monroe,BRINKLEY WARD 2,BSB ZONE 1 BRINKLEY ZONE 1,,IND,CATHY SHELTON,43,33,2,0,2,6
+Monroe,BRINKLEY WARD 2,BSB ZONE 4 BRINKLEY ZONE 4,,IND,CAROLYN DILLARD,35,24,7,0,1,3
+Monroe,BRINKLEY WARD 3,BSB ZONE 4 BRINKLEY ZONE 4,,IND,CAROLYN DILLARD,43,23,10,0,2,8
+Monroe,BRINKLEY WARD 2,BSB ZONE 4 BRINKLEY ZONE 4,,IND,CJ WILLIAMS JR.,73,40,18,0,6,9
+Monroe,BRINKLEY WARD 3,BSB ZONE 4 BRINKLEY ZONE 4,,IND,CJ WILLIAMS JR.,76,44,22,0,2,8
+Monroe,BRINKLEY WARD 2,BSB ZONE 5 BRINKLEY ZONE 5,,IND,TONY L. HASKINS,3,2,1,0,0,0
+Monroe,BRINKLEY WARD 3,BSB ZONE 5 BRINKLEY ZONE 5,,IND,TONY L. HASKINS,44,24,10,0,0,10
+Monroe,BRINKLEY/ DIXON,BSB ZONE 5 BRINKLEY ZONE 5,,IND,TONY L. HASKINS,9,8,0,0,0,1
+Monroe,KEEVIL,BSB ZONE 5 BRINKLEY ZONE 5,,IND,TONY L. HASKINS,4,3,0,0,1,0
+Monroe,BRINKLEY WARD 2,BSB ZONE 5 BRINKLEY ZONE 5,,IND,BRANDY QUINN,1,1,0,0,0,0
+Monroe,BRINKLEY WARD 3,BSB ZONE 5 BRINKLEY ZONE 5,,IND,BRANDY QUINN,80,62,12,0,1,5
+Monroe,BRINKLEY/ DIXON,BSB ZONE 5 BRINKLEY ZONE 5,,IND,BRANDY QUINN,62,45,10,0,0,7
+Monroe,KEEVIL,BSB ZONE 5 BRINKLEY ZONE 5,,IND,BRANDY QUINN,1,0,0,0,0,1
+Monroe,ROC,CITY OF ROE MAYOR,,IND,TRAVIS HACKELTON,38,29,4,5,0,0
+Monroe,RICHLAND/GREENFIELD/FARGO,CITY OF FARGO MAYOR,,IND,LINDA COLLINS,26,19,4,0,1,2
+Monroe,BRINKLEY WARD 1,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,237,155,43,0,6,33
+Monroe,BRINKLEY WARD 2,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,219,158,35,0,5,21
+Monroe,BRINKLEY WARD 3,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,238,169,44,0,5,20
+Monroe,CLARENDON WARD 1,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,134,51,44,0,1,38
+Monroe,CLARENDON WARD 2,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,175,57,61,0,6,51
+Monroe,CLARENDON WARD 3,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,133,51,44,0,1,37
+Monroe,HOLLY GROVE,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,148,97,22,11,0,18
+Monroe,RICHLAND/GREENFIELD/FARGO,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,95,80,9,0,1,5
+Monroe,BRINKLEY/ DIXON,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,148,103,26,0,2,17
+Monroe,CACHE,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,42,14,15,0,0,13
+Monroe,KEEVIL,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,46,29,14,0,1,2
+Monroe,CYPRESS RIDGE,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,71,29,13,23,3,3
+Monroe,HINDMAN/ RAYMOND/PINE RID,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,56,32,9,10,0,5
+Monroe,DUNCAN,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,54,18,17,10,1,8
+Monroe,JACKSN/CLBRNE/MONT./SMALL,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,80,46,16,3,1,14
+Monroe,ROC,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,83,65,9,4,4,1
+Monroe,BRINKLEY WARD 1,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,97,48,22,0,2,25
+Monroe,BRINKLEY WARD 2,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,112,60,21,0,5,26
+Monroe,BRINKLEY WARD 3,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,98,52,29,0,1,16
+Monroe,CLARENDON WARD 1,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,47,22,13,0,3,9
+Monroe,CLARENDON WARD 2,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,41,15,12,0,0,14
+Monroe,CLARENDON WARD 3,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,30,9,12,0,2,7
+Monroe,HOLLY GROVE,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,61,30,14,7,2,8
+Monroe,RICHLAND/GREENFIELD/FARGO,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,15,10,3,0,0,2
+Monroe,BRINKLEY/ DIXON,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,48,34,7,0,0,7
+Monroe,CACHE,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,5,3,1,0,0,1
+Monroe,KEEVIL,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,10,5,4,0,0,1
+Monroe,CYPRESS RIDGE,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,18,7,3,7,0,1
+Monroe,HINDMAN/ RAYMOND/PINE RID,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,9,6,0,1,0,2
+Monroe,DUNCAN,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,15,7,2,0,1,5
+Monroe,JACKSN/CLBRNE/MONT./SMALL,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,20,8,3,3,0,6
+Monroe,ROC,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,16,13,2,1,0,0
+Monroe,BRINKLEY WARD 1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,207,115,42,0,4,46
+Monroe,BRINKLEY WARD 2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,208,130,37,0,4,37
+Monroe,BRINKLEY WARD 3,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,232,144,55,0,6,27
+Monroe,CLARENDON WARD 1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,126,49,41,0,3,33
+Monroe,CLARENDON WARD 2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,139,53,39,0,3,44
+Monroe,CLARENDON WARD 3,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,108,35,37,0,1,35
+Monroe,HOLLY GROVE,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,165,104,26,15,1,19
+Monroe,RICHLAND/GREENFIELD/FARGO,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,66,58,7,0,1,0
+Monroe,BRINKLEY/ DIXON,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,117,82,22,0,1,12
+Monroe,CACHE,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,31,11,9,0,0,11
+Monroe,KEEVIL,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,27,16,8,0,1,2
+Monroe,CYPRESS RIDGE,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,54,21,14,15,2,2
+Monroe,HINDMAN/ RAYMOND/PINE RID,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,30,18,5,5,0,2
+Monroe,DUNCAN,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,38,15,8,2,2,11
+Monroe,JACKSN/CLBRNE/MONT./SMALL,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,52,27,11,0,1,13
+Monroe,ROC,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,50,45,2,2,1,0
+Monroe,BRINKLEY WARD 1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,129,93,22,0,2,12
+Monroe,BRINKLEY WARD 2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,125,89,19,0,6,11
+Monroe,BRINKLEY WARD 3,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,117,87,20,0,0,10
+Monroe,CLARENDON WARD 1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,55,23,16,0,1,15
+Monroe,CLARENDON WARD 2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,80,20,34,0,3,23
+Monroe,CLARENDON WARD 3,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,56,26,17,0,2,11
+Monroe,HOLLY GROVE,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,48,27,10,3,1,7
+Monroe,RICHLAND/GREENFIELD/FARGO,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,42,30,5,0,0,7
+Monroe,BRINKLEY/ DIXON,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,78,56,10,0,0,12
+Monroe,CACHE,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,15,6,7,0,0,2
+Monroe,KEEVIL,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,27,17,9,0,0,1
+Monroe,CYPRESS RIDGE,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,35,15,2,15,1,2
+Monroe,HINDMAN/ RAYMOND/PINE RID,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,39,23,4,7,0,5
+Monroe,DUNCAN,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,32,10,11,9,0,2
+Monroe,JACKSN/CLBRNE/MONT./SMALL,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,49,27,8,6,1,7
+Monroe,ROC,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,51,35,9,3,3,1
+Monroe,BRINKLEY WARD 1,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,265,155,53,0,8,49
+Monroe,BRINKLEY WARD 2,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,277,182,50,0,4,41
+Monroe,BRINKLEY WARD 3,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,277,177,65,0,6,29
+Monroe,CLARENDON WARD 1,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,165,63,53,0,4,45
+Monroe,CLARENDON WARD 2,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,161,52,60,0,5,44
+Monroe,CLARENDON WARD 3,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,133,47,50,0,3,33
+Monroe,HOLLY GROVE,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,188,112,35,17,2,22
+Monroe,RICHLAND/GREENFIELD/FARGO,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,91,73,11,0,1,6
+Monroe,BRINKLEY/ DIXON,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,136,96,25,0,2,13
+Monroe,CACHE,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,36,13,14,0,0,9
+Monroe,KEEVIL,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,36,22,11,0,1,2
+Monroe,CYPRESS RIDGE,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,55,24,13,15,1,2
+Monroe,HINDMAN/ RAYMOND/PINE RID,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,39,24,7,5,0,3
+Monroe,DUNCAN,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,38,18,9,2,1,8
+Monroe,JACKSN/CLBRNE/MONT./SMALL,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,64,41,12,0,0,11
+Monroe,ROC,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,51,38,6,4,2,1
+Monroe,BRINKLEY WARD 1,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,74,53,12,0,0,9
+Monroe,BRINKLEY WARD 2,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,57,38,6,0,6,7
+Monroe,BRINKLEY WARD 3,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,74,55,11,0,0,8
+Monroe,CLARENDON WARD 1,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,20,10,7,0,0,3
+Monroe,CLARENDON WARD 2,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,57,21,12,0,1,23
+Monroe,CLARENDON WARD 3,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,36,15,8,0,0,13
+Monroe,HOLLY GROVE,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,24,19,1,1,0,3
+Monroe,RICHLAND/GREENFIELD/FARGO,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,20,18,1,0,0,1
+Monroe,BRINKLEY/ DIXON,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,62,42,9,0,0,11
+Monroe,CACHE,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,11,4,2,0,0,5
+Monroe,KEEVIL,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,19,11,7,0,0,1
+Monroe,CYPRESS RIDGE,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,33,12,2,15,2,2
+Monroe,HINDMAN/ RAYMOND/PINE RID,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,27,14,2,7,0,4
+Monroe,DUNCAN,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,32,7,10,9,1,5
+Monroe,JACKSN/CLBRNE/MONT./SMALL,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,36,13,7,5,2,9
+Monroe,ROC,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,49,42,5,0,2,0
+Monroe,BRINKLEY WARD 1,COUNTYWIDE SALES AND USE TAX,,NON,FOR,100,48,31,0,2,19
+Monroe,BRINKLEY WARD 2,COUNTYWIDE SALES AND USE TAX,,NON,FOR,134,80,26,0,3,25
+Monroe,BRINKLEY WARD 3,COUNTYWIDE SALES AND USE TAX,,NON,FOR,121,67,30,0,4,20
+Monroe,CLARENDON WARD 1,COUNTYWIDE SALES AND USE TAX,,NON,FOR,75,34,21,0,1,19
+Monroe,CLARENDON WARD 2,COUNTYWIDE SALES AND USE TAX,,NON,FOR,93,30,31,0,2,30
+Monroe,CLARENDON WARD 3,COUNTYWIDE SALES AND USE TAX,,NON,FOR,84,32,26,0,2,24
+Monroe,HOLLY GROVE,COUNTYWIDE SALES AND USE TAX,,NON,FOR,87,48,16,7,1,15
+Monroe,RICHLAND/GREENFIELD/FARGO,COUNTYWIDE SALES AND USE TAX,,NON,FOR,32,24,5,0,0,3
+Monroe,BRINKLEY/ DIXON,COUNTYWIDE SALES AND USE TAX,,NON,FOR,57,40,10,0,1,6
+Monroe,CACHE,COUNTYWIDE SALES AND USE TAX,,NON,FOR,20,5,8,0,0,7
+Monroe,KEEVIL,COUNTYWIDE SALES AND USE TAX,,NON,FOR,30,18,11,0,0,1
+Monroe,CYPRESS RIDGE,COUNTYWIDE SALES AND USE TAX,,NON,FOR,18,5,4,7,2,0
+Monroe,HINDMAN/ RAYMOND/PINE RID,COUNTYWIDE SALES AND USE TAX,,NON,FOR,24,9,5,8,0,2
+Monroe,DUNCAN,COUNTYWIDE SALES AND USE TAX,,NON,FOR,22,11,8,1,0,2
+Monroe,JACKSN/CLBRNE/MONT./SMALL,COUNTYWIDE SALES AND USE TAX,,NON,FOR,29,12,9,1,1,6
+Monroe,ROC,COUNTYWIDE SALES AND USE TAX,,NON,FOR,41,35,3,3,0,0
+Monroe,BRINKLEY WARD 1,COUNTYWIDE SALES AND USE TAX,,NON,AGAINST,238,159,35,0,6,38
+Monroe,BRINKLEY WARD 2,COUNTYWIDE SALES AND USE TAX,,NON,AGAINST,197,138,30,0,6,23
+Monroe,BRINKLEY WARD 3,COUNTYWIDE SALES AND USE TAX,,NON,AGAINST,225,160,45,0,3,17
+Monroe,CLARENDON WARD 1,COUNTYWIDE SALES AND USE TAX,,NON,AGAINST,107,38,37,0,3,29
+Monroe,CLARENDON WARD 2,COUNTYWIDE SALES AND USE TAX,,NON,AGAINST,125,43,42,0,4,36
+Monroe,CLARENDON WARD 3,COUNTYWIDE SALES AND USE TAX,,NON,AGAINST,86,31,30,0,1,24
+Monroe,HOLLY GROVE,COUNTYWIDE SALES AND USE TAX,,NON,AGAINST,123,81,20,10,1,11
+Monroe,RICHLAND/GREENFIELD/FARGO,COUNTYWIDE SALES AND USE TAX,,NON,AGAINST,78,67,6,0,1,4
+Monroe,BRINKLEY/ DIXON,COUNTYWIDE SALES AND USE TAX,,NON,AGAINST,142,100,24,0,1,17
+Monroe,CACHE,COUNTYWIDE SALES AND USE TAX,,NON,AGAINST,26,12,8,0,0,6
+Monroe,KEEVIL,COUNTYWIDE SALES AND USE TAX,,NON,AGAINST,26,16,7,0,1,2
+Monroe,CYPRESS RIDGE,COUNTYWIDE SALES AND USE TAX,,NON,AGAINST,73,31,12,25,1,4
+Monroe,HINDMAN/ RAYMOND/PINE RID,COUNTYWIDE SALES AND USE TAX,,NON,AGAINST,45,32,4,4,0,5
+Monroe,DUNCAN,COUNTYWIDE SALES AND USE TAX,,NON,AGAINST,48,14,11,10,2,11
+Monroe,JACKSN/CLBRNE/MONT./SMALL,COUNTYWIDE SALES AND USE TAX,,NON,AGAINST,72,42,10,6,0,14
+Monroe,ROC,COUNTYWIDE SALES AND USE TAX,,NON,AGAINST,61,46,8,2,4,1

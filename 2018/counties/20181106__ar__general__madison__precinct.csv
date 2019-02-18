@@ -1,0 +1,808 @@
+county,precinct,office,district,party,candidate,votes,election_day,election_day_paper,early_voting,absentee,early_vote_paper
+Madison,Alabam,U.S. House,4,REP,Representative Bruce Westerman,287,41,169,34,4,39
+Madison,Boston,U.S. House,4,REP,Representative Bruce Westerman,77,0,53,4,1,19
+Madison,Bowen,U.S. House,4,REP,Representative Bruce Westerman,149,14,97,13,1,24
+Madison,California,U.S. House,4,REP,Representative Bruce Westerman,335,3,248,39,3,42
+Madison,Hilburn,U.S. House,4,REP,Representative Bruce Westerman,102,2,92,1,0,7
+Madison,Japton,U.S. House,4,REP,Representative Bruce Westerman,120,10,84,9,2,15
+Madison,Kings River,U.S. House,4,REP,Representative Bruce Westerman,323,1,219,40,10,53
+Madison,Lamar,U.S. House,4,REP,Representative Bruce Westerman,314,12,245,35,2,20
+Madison,Lincoln,U.S. House,4,REP,Representative Bruce Westerman,118,18,57,15,1,27
+Madison,Marble,U.S. House,4,REP,Representative Bruce Westerman,133,26,69,17,1,20
+Madison,Mill Creek,U.S. House,4,REP,Representative Bruce Westerman,129,29,81,11,0,8
+Madison,Prairie,U.S. House,4,REP,Representative Bruce Westerman,517,1,375,68,4,69
+Madison,Richland,U.S. House,4,REP,Representative Bruce Westerman,205,86,63,36,1,19
+Madison,Valley,U.S. House,4,REP,Representative Bruce Westerman,170,1,149,6,4,10
+Madison,War Eagle,U.S. House,4,REP,Representative Bruce Westerman,569,75,229,123,5,137
+Madison,Ward 1,U.S. House,4,REP,Representative Bruce Westerman,75,7,26,8,4,30
+Madison,Ward 2,U.S. House,4,REP,Representative Bruce Westerman,42,3,14,8,2,15
+Madison,Ward 3,U.S. House,4,REP,Representative Bruce Westerman,114,21,24,26,1,42
+Madison,Ward 4,U.S. House,4,REP,Representative Bruce Westerman,99,19,39,9,2,30
+Madison,Wharton,U.S. House,4,REP,Representative Bruce Westerman,70,9,37,10,0,14
+Madison,Alabam,U.S. House,4,LIB,Tom Canada,14,1,11,2,0,0
+Madison,Boston,U.S. House,4,LIB,Tom Canada,6,0,6,0,0,0
+Madison,Bowen,U.S. House,4,LIB,Tom Canada,4,1,1,1,0,1
+Madison,California,U.S. House,4,LIB,Tom Canada,8,0,6,1,0,1
+Madison,Hilburn,U.S. House,4,LIB,Tom Canada,3,0,3,0,0,0
+Madison,Japton,U.S. House,4,LIB,Tom Canada,5,0,1,2,0,2
+Madison,Kings River,U.S. House,4,LIB,Tom Canada,5,0,4,0,0,1
+Madison,Lamar,U.S. House,4,LIB,Tom Canada,12,0,11,1,0,0
+Madison,Lincoln,U.S. House,4,LIB,Tom Canada,4,0,1,1,0,2
+Madison,Marble,U.S. House,4,LIB,Tom Canada,1,1,0,0,0,0
+Madison,Mill Creek,U.S. House,4,LIB,Tom Canada,6,1,5,0,0,0
+Madison,Prairie,U.S. House,4,LIB,Tom Canada,13,0,7,1,2,3
+Madison,Richland,U.S. House,4,LIB,Tom Canada,6,3,2,0,0,1
+Madison,Valley,U.S. House,4,LIB,Tom Canada,3,0,3,0,0,0
+Madison,War Eagle,U.S. House,4,LIB,Tom Canada,25,5,9,5,0,6
+Madison,Ward 1,U.S. House,4,LIB,Tom Canada,6,1,2,0,0,3
+Madison,Ward 2,U.S. House,4,LIB,Tom Canada,1,0,1,0,0,0
+Madison,Ward 3,U.S. House,4,LIB,Tom Canada,13,3,3,6,0,1
+Madison,Ward 4,U.S. House,4,LIB,Tom Canada,0,0,0,0,0,0
+Madison,Wharton,U.S. House,4,LIB,Tom Canada,1,0,0,1,0,0
+Madison,Alabam,U.S. House,4,DEM,Hayden Catherine Shamel,125,13,62,22,4,24
+Madison,Boston,U.S. House,4,DEM,Hayden Catherine Shamel,46,0,32,2,2,10
+Madison,Bowen,U.S. House,4,DEM,Hayden Catherine Shamel,53,5,17,14,0,17
+Madison,California,U.S. House,4,DEM,Hayden Catherine Shamel,91,1,56,17,4,13
+Madison,Hilburn,U.S. House,4,DEM,Hayden Catherine Shamel,74,2,49,4,1,18
+Madison,Japton,U.S. House,4,DEM,Hayden Catherine Shamel,11,1,6,2,0,2
+Madison,Kings River,U.S. House,4,DEM,Hayden Catherine Shamel,120,0,74,16,2,28
+Madison,Lamar,U.S. House,4,DEM,Hayden Catherine Shamel,133,3,80,18,4,28
+Madison,Lincoln,U.S. House,4,DEM,Hayden Catherine Shamel,38,7,18,5,0,8
+Madison,Marble,U.S. House,4,DEM,Hayden Catherine Shamel,31,4,21,2,0,4
+Madison,Mill Creek,U.S. House,4,DEM,Hayden Catherine Shamel,48,4,34,1,0,9
+Madison,Prairie,U.S. House,4,DEM,Hayden Catherine Shamel,159,0,100,14,5,40
+Madison,Richland,U.S. House,4,DEM,Hayden Catherine Shamel,52,21,7,5,0,19
+Madison,Valley,U.S. House,4,DEM,Hayden Catherine Shamel,77,1,72,2,2,0
+Madison,War Eagle,U.S. House,4,DEM,Hayden Catherine Shamel,168,19,43,29,5,72
+Madison,Ward 1,U.S. House,4,DEM,Hayden Catherine Shamel,50,1,24,10,1,14
+Madison,Ward 2,U.S. House,4,DEM,Hayden Catherine Shamel,22,1,3,8,1,9
+Madison,Ward 3,U.S. House,4,DEM,Hayden Catherine Shamel,35,4,5,12,0,14
+Madison,Ward 4,U.S. House,4,DEM,Hayden Catherine Shamel,61,7,13,15,2,24
+Madison,Wharton,U.S. House,4,DEM,Hayden Catherine Shamel,32,3,15,9,0,5
+Madison,Alabam,U.S. House,4,NON,Write-In,1,0,0,0,0,1
+Madison,Boston,U.S. House,4,NON,Write-In,0,0,0,0,0,0
+Madison,Bowen,U.S. House,4,NON,Write-In,0,0,0,0,0,0
+Madison,California,U.S. House,4,NON,Write-In,1,0,1,0,0,0
+Madison,Hilburn,U.S. House,4,NON,Write-In,0,0,0,0,0,0
+Madison,Japton,U.S. House,4,NON,Write-In,0,0,0,0,0,0
+Madison,Kings River,U.S. House,4,NON,Write-In,0,0,0,0,0,0
+Madison,Lamar,U.S. House,4,NON,Write-In,0,0,0,0,0,0
+Madison,Lincoln,U.S. House,4,NON,Write-In,0,0,0,0,0,0
+Madison,Marble,U.S. House,4,NON,Write-In,0,0,0,0,0,0
+Madison,Mill Creek,U.S. House,4,NON,Write-In,0,0,0,0,0,0
+Madison,Prairie,U.S. House,4,NON,Write-In,0,0,0,0,0,0
+Madison,Richland,U.S. House,4,NON,Write-In,0,0,0,0,0,0
+Madison,Valley,U.S. House,4,NON,Write-In,0,0,0,0,0,0
+Madison,War Eagle,U.S. House,4,NON,Write-In,0,0,0,0,0,0
+Madison,Ward 1,U.S. House,4,NON,Write-In,0,0,0,0,0,0
+Madison,Ward 2,U.S. House,4,NON,Write-In,0,0,0,0,0,0
+Madison,Ward 3,U.S. House,4,NON,Write-In,0,0,0,0,0,0
+Madison,Ward 4,U.S. House,4,NON,Write-In,0,0,0,0,0,0
+Madison,Wharton,U.S. House,4,NON,Write-In,0,0,0,0,0,0
+Madison,Alabam,Governor,,LIB,Mark West,5,0,5,0,0,0
+Madison,Boston,Governor,,LIB,Mark West,3,0,3,0,0,0
+Madison,Bowen,Governor,,LIB,Mark West,5,0,3,1,0,1
+Madison,California,Governor,,LIB,Mark West,12,0,9,2,0,1
+Madison,Hilburn,Governor,,LIB,Mark West,2,0,2,0,0,0
+Madison,Japton,Governor,,LIB,Mark West,9,0,3,2,0,4
+Madison,Kings River,Governor,,LIB,Mark West,9,0,7,1,1,0
+Madison,Lamar,Governor,,LIB,Mark West,16,0,14,2,0,0
+Madison,Lincoln,Governor,,LIB,Mark West,9,1,2,2,0,4
+Madison,Marble,Governor,,LIB,Mark West,3,0,3,0,0,0
+Madison,Mill Creek,Governor,,LIB,Mark West,3,1,2,0,0,0
+Madison,Prairie,Governor,,LIB,Mark West,15,0,10,2,2,1
+Madison,Richland,Governor,,LIB,Mark West,6,4,2,0,0,0
+Madison,Valley,Governor,,LIB,Mark West,7,0,7,0,0,0
+Madison,War Eagle,Governor,,LIB,Mark West,18,3,5,4,0,6
+Madison,Ward 1,Governor,,LIB,Mark West,8,1,3,2,0,2
+Madison,Ward 2,Governor,,LIB,Mark West,2,0,0,2,0,0
+Madison,Ward 3,Governor,,LIB,Mark West,7,1,2,2,0,2
+Madison,Ward 4,Governor,,LIB,Mark West,0,0,0,0,0,0
+Madison,Wharton,Governor,,LIB,Mark West,3,1,0,2,0,0
+Madison,Alabam,Governor,,REP,Governor Asa Hutchinson,320,46,188,38,4,44
+Madison,Boston,Governor,,REP,Governor Asa Hutchinson,87,0,60,4,1,22
+Madison,Bowen,Governor,,REP,Governor Asa Hutchinson,152,15,94,19,0,24
+Madison,California,Governor,,REP,Governor Asa Hutchinson,349,4,259,40,4,42
+Madison,Hilburn,Governor,,REP,Governor Asa Hutchinson,117,2,105,1,0,9
+Madison,Japton,Governor,,REP,Governor Asa Hutchinson,115,10,81,8,2,14
+Madison,Kings River,Governor,,REP,Governor Asa Hutchinson,339,1,236,38,9,55
+Madison,Lamar,Governor,,REP,Governor Asa Hutchinson,328,13,253,38,2,22
+Madison,Lincoln,Governor,,REP,Governor Asa Hutchinson,116,15,61,14,1,25
+Madison,Marble,Governor,,REP,Governor Asa Hutchinson,141,25,76,18,1,21
+Madison,Mill Creek,Governor,,REP,Governor Asa Hutchinson,140,29,91,10,0,10
+Madison,Prairie,Governor,,REP,Governor Asa Hutchinson,540,1,388,72,5,74
+Madison,Richland,Governor,,REP,Governor Asa Hutchinson,212,87,67,35,1,22
+Madison,Valley,Governor,,REP,Governor Asa Hutchinson,174,1,153,6,4,10
+Madison,War Eagle,Governor,,REP,Governor Asa Hutchinson,588,79,241,115,5,148
+Madison,Ward 1,Governor,,REP,Governor Asa Hutchinson,79,7,30,6,4,32
+Madison,Ward 2,Governor,,REP,Governor Asa Hutchinson,46,4,16,7,3,16
+Madison,Ward 3,Governor,,REP,Governor Asa Hutchinson,124,24,21,32,2,45
+Madison,Ward 4,Governor,,REP,Governor Asa Hutchinson,111,20,43,15,2,31
+Madison,Wharton,Governor,,REP,Governor Asa Hutchinson,73,9,39,10,0,15
+Madison,Alabam,Governor,,DEM,Jared K. Henderson,108,11,53,20,4,20
+Madison,Boston,Governor,,DEM,Jared K. Henderson,44,0,32,2,2,8
+Madison,Bowen,Governor,,DEM,Jared K. Henderson,55,6,21,8,2,18
+Madison,California,Governor,,DEM,Jared K. Henderson,76,0,44,15,3,14
+Madison,Hilburn,Governor,,DEM,Jared K. Henderson,61,2,38,4,1,16
+Madison,Japton,Governor,,DEM,Jared K. Henderson,11,1,6,3,0,1
+Madison,Kings River,Governor,,DEM,Jared K. Henderson,107,0,61,17,2,27
+Madison,Lamar,Governor,,DEM,Jared K. Henderson,122,2,73,14,4,29
+Madison,Lincoln,Governor,,DEM,Jared K. Henderson,37,9,15,5,0,8
+Madison,Marble,Governor,,DEM,Jared K. Henderson,24,5,15,1,0,3
+Madison,Mill Creek,Governor,,DEM,Jared K. Henderson,40,4,28,2,0,6
+Madison,Prairie,Governor,,DEM,Jared K. Henderson,141,0,86,14,4,37
+Madison,Richland,Governor,,DEM,Jared K. Henderson,48,21,4,6,0,17
+Madison,Valley,Governor,,DEM,Jared K. Henderson,70,1,65,2,2,0
+Madison,War Eagle,Governor,,DEM,Jared K. Henderson,164,18,39,38,5,64
+Madison,Ward 1,Governor,,DEM,Jared K. Henderson,43,1,19,10,1,12
+Madison,Ward 2,Governor,,DEM,Jared K. Henderson,18,0,2,7,1,8
+Madison,Ward 3,Governor,,DEM,Jared K. Henderson,34,3,10,10,0,11
+Madison,Ward 4,Governor,,DEM,Jared K. Henderson,50,6,10,9,2,23
+Madison,Wharton,Governor,,DEM,Jared K. Henderson,30,2,15,9,0,4
+Madison,Alabam,Lieutenant Governor,,DEM,Anthony Bland,127,15,58,25,4,25
+Madison,Boston,Lieutenant Governor,,DEM,Anthony Bland,42,0,30,2,1,9
+Madison,Bowen,Lieutenant Governor,,DEM,Anthony Bland,50,5,17,12,1,15
+Madison,California,Lieutenant Governor,,DEM,Anthony Bland,88,0,55,15,4,14
+Madison,Hilburn,Lieutenant Governor,,DEM,Anthony Bland,71,2,46,4,1,18
+Madison,Japton,Lieutenant Governor,,DEM,Anthony Bland,11,0,7,2,0,2
+Madison,Kings River,Lieutenant Governor,,DEM,Anthony Bland,110,0,61,18,2,29
+Madison,Lamar,Lieutenant Governor,,DEM,Anthony Bland,139,4,85,17,4,29
+Madison,Lincoln,Lieutenant Governor,,DEM,Anthony Bland,36,9,16,5,0,6
+Madison,Marble,Lieutenant Governor,,DEM,Anthony Bland,31,5,19,2,1,4
+Madison,Mill Creek,Lieutenant Governor,,DEM,Anthony Bland,48,3,35,1,0,9
+Madison,Prairie,Lieutenant Governor,,DEM,Anthony Bland,147,0,90,14,5,38
+Madison,Richland,Lieutenant Governor,,DEM,Anthony Bland,51,21,5,5,0,20
+Madison,Valley,Lieutenant Governor,,DEM,Anthony Bland,77,1,71,3,2,0
+Madison,War Eagle,Lieutenant Governor,,DEM,Anthony Bland,165,18,44,32,5,66
+Madison,Ward 1,Lieutenant Governor,,DEM,Anthony Bland,52,1,25,10,2,14
+Madison,Ward 2,Lieutenant Governor,,DEM,Anthony Bland,25,2,3,8,1,11
+Madison,Ward 3,Lieutenant Governor,,DEM,Anthony Bland,35,3,6,14,0,12
+Madison,Ward 4,Lieutenant Governor,,DEM,Anthony Bland,58,7,11,12,2,26
+Madison,Wharton,Lieutenant Governor,,DEM,Anthony Bland,33,2,15,11,0,5
+Madison,Alabam,Lieutenant Governor,,LIB,Frank Gilbert,8,0,7,0,0,1
+Madison,Boston,Lieutenant Governor,,LIB,Frank Gilbert,8,0,7,0,1,0
+Madison,Bowen,Lieutenant Governor,,LIB,Frank Gilbert,6,1,2,1,0,2
+Madison,California,Lieutenant Governor,,LIB,Frank Gilbert,12,0,8,3,0,1
+Madison,Hilburn,Lieutenant Governor,,LIB,Frank Gilbert,2,0,2,0,0,0
+Madison,Japton,Lieutenant Governor,,LIB,Frank Gilbert,7,0,3,3,0,1
+Madison,Kings River,Lieutenant Governor,,LIB,Frank Gilbert,11,0,9,1,1,0
+Madison,Lamar,Lieutenant Governor,,LIB,Frank Gilbert,15,0,10,3,0,2
+Madison,Lincoln,Lieutenant Governor,,LIB,Frank Gilbert,6,0,1,1,0,4
+Madison,Marble,Lieutenant Governor,,LIB,Frank Gilbert,2,0,2,0,0,0
+Madison,Mill Creek,Lieutenant Governor,,LIB,Frank Gilbert,8,3,3,0,0,2
+Madison,Prairie,Lieutenant Governor,,LIB,Frank Gilbert,16,0,10,1,2,3
+Madison,Richland,Lieutenant Governor,,LIB,Frank Gilbert,5,1,2,1,0,1
+Madison,Valley,Lieutenant Governor,,LIB,Frank Gilbert,8,0,7,0,0,1
+Madison,War Eagle,Lieutenant Governor,,LIB,Frank Gilbert,19,5,4,7,0,3
+Madison,Ward 1,Lieutenant Governor,,LIB,Frank Gilbert,8,2,2,1,1,2
+Madison,Ward 2,Lieutenant Governor,,LIB,Frank Gilbert,3,0,1,2,0,0
+Madison,Ward 3,Lieutenant Governor,,LIB,Frank Gilbert,12,1,4,2,0,5
+Madison,Ward 4,Lieutenant Governor,,LIB,Frank Gilbert,2,1,1,0,0,0
+Madison,Wharton,Lieutenant Governor,,LIB,Frank Gilbert,3,1,0,2,0,0
+Madison,Alabam,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,292,41,176,33,4,38
+Madison,Boston,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,78,0,54,4,1,19
+Madison,Bowen,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,149,14,95,15,1,24
+Madison,California,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,335,4,247,39,3,42
+Madison,Hilburn,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,107,2,97,1,0,7
+Madison,Japton,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,118,11,81,8,2,16
+Madison,Kings River,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,322,1,222,37,9,53
+Madison,Lamar,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,308,11,242,34,2,19
+Madison,Lincoln,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,115,14,59,15,1,26
+Madison,Marble,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,132,25,70,17,0,20
+Madison,Mill Creek,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,126,28,81,11,0,6
+Madison,Prairie,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,531,1,384,71,4,71
+Madison,Richland,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,206,89,64,34,1,18
+Madison,Valley,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,166,1,147,5,4,9
+Madison,War Eagle,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,570,75,231,116,5,143
+Madison,Ward 1,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,71,6,25,8,2,30
+Madison,Ward 2,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,38,2,14,6,2,14
+Madison,Ward 3,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,117,24,23,28,1,41
+Madison,Ward 4,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,100,18,41,12,2,27
+Madison,Wharton,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,67,9,37,7,0,14
+Madison,Alabam,Attorney General,,REP,Attorney General Leslie Rutledge,287,44,171,32,4,36
+Madison,Boston,Attorney General,,REP,Attorney General Leslie Rutledge,78,0,54,4,1,19
+Madison,Bowen,Attorney General,,REP,Attorney General Leslie Rutledge,146,15,95,13,0,23
+Madison,California,Attorney General,,REP,Attorney General Leslie Rutledge,336,3,245,40,3,45
+Madison,Hilburn,Attorney General,,REP,Attorney General Leslie Rutledge,102,2,92,1,0,7
+Madison,Japton,Attorney General,,REP,Attorney General Leslie Rutledge,118,11,83,9,2,13
+Madison,Kings River,Attorney General,,REP,Attorney General Leslie Rutledge,325,1,223,41,9,51
+Madison,Lamar,Attorney General,,REP,Attorney General Leslie Rutledge,301,13,234,34,2,18
+Madison,Lincoln,Attorney General,,REP,Attorney General Leslie Rutledge,114,14,58,15,1,26
+Madison,Marble,Attorney General,,REP,Attorney General Leslie Rutledge,130,25,69,16,0,20
+Madison,Mill Creek,Attorney General,,REP,Attorney General Leslie Rutledge,123,28,77,10,0,8
+Madison,Prairie,Attorney General,,REP,Attorney General Leslie Rutledge,517,1,370,71,4,71
+Madison,Richland,Attorney General,,REP,Attorney General Leslie Rutledge,210,87,65,36,1,21
+Madison,Valley,Attorney General,,REP,Attorney General Leslie Rutledge,171,1,154,4,4,8
+Madison,War Eagle,Attorney General,,REP,Attorney General Leslie Rutledge,558,77,227,110,5,139
+Madison,Ward 1,Attorney General,,REP,Attorney General Leslie Rutledge,78,6,28,7,3,34
+Madison,Ward 2,Attorney General,,REP,Attorney General Leslie Rutledge,41,3,13,7,3,15
+Madison,Ward 3,Attorney General,,REP,Attorney General Leslie Rutledge,113,23,21,25,2,42
+Madison,Ward 4,Attorney General,,REP,Attorney General Leslie Rutledge,100,20,41,12,2,25
+Madison,Wharton,Attorney General,,REP,Attorney General Leslie Rutledge,71,8,41,7,0,15
+Madison,Alabam,Attorney General,,DEM,Mike Lee,133,13,66,24,4,26
+Madison,Boston,Attorney General,,DEM,Mike Lee,42,0,30,2,1,9
+Madison,Bowen,Attorney General,,DEM,Mike Lee,56,7,16,13,2,18
+Madison,California,Attorney General,,DEM,Mike Lee,92,1,61,15,4,11
+Madison,Hilburn,Attorney General,,DEM,Mike Lee,74,2,49,4,1,18
+Madison,Japton,Attorney General,,DEM,Mike Lee,12,0,6,3,0,3
+Madison,Kings River,Attorney General,,DEM,Mike Lee,113,0,69,13,2,29
+Madison,Lamar,Attorney General,,DEM,Mike Lee,141,2,85,19,4,31
+Madison,Lincoln,Attorney General,,DEM,Mike Lee,40,10,18,5,0,7
+Madison,Marble,Attorney General,,DEM,Mike Lee,31,5,18,3,1,4
+Madison,Mill Creek,Attorney General,,DEM,Mike Lee,53,5,38,2,0,8
+Madison,Prairie,Attorney General,,DEM,Mike Lee,158,0,98,14,5,41
+Madison,Richland,Attorney General,,DEM,Mike Lee,49,23,5,4,0,17
+Madison,Valley,Attorney General,,DEM,Mike Lee,73,1,66,4,2,0
+Madison,War Eagle,Attorney General,,DEM,Mike Lee,182,21,46,41,5,69
+Madison,Ward 1,Attorney General,,DEM,Mike Lee,46,1,20,12,2,11
+Madison,Ward 2,Attorney General,,DEM,Mike Lee,23,1,4,7,1,10
+Madison,Ward 3,Attorney General,,DEM,Mike Lee,39,3,9,14,0,13
+Madison,Ward 4,Attorney General,,DEM,Mike Lee,59,5,11,12,2,29
+Madison,Wharton,Attorney General,,DEM,Mike Lee,28,3,12,10,0,3
+Madison,Alabam,Attorney General,,LIB,Kerry Hicks,12,0,9,1,0,2
+Madison,Boston,Attorney General,,LIB,Kerry Hicks,9,0,7,0,1,1
+Madison,Bowen,Attorney General,,LIB,Kerry Hicks,7,0,4,2,0,1
+Madison,California,Attorney General,,LIB,Kerry Hicks,7,0,4,2,0,1
+Madison,Hilburn,Attorney General,,LIB,Kerry Hicks,4,0,4,0,0,0
+Madison,Japton,Attorney General,,LIB,Kerry Hicks,6,0,2,1,0,3
+Madison,Kings River,Attorney General,,LIB,Kerry Hicks,11,0,6,2,1,2
+Madison,Lamar,Attorney General,,LIB,Kerry Hicks,17,0,16,1,0,0
+Madison,Lincoln,Attorney General,,LIB,Kerry Hicks,4,0,0,1,0,3
+Madison,Marble,Attorney General,,LIB,Kerry Hicks,6,1,5,0,0,0
+Madison,Mill Creek,Attorney General,,LIB,Kerry Hicks,7,2,5,0,0,0
+Madison,Prairie,Attorney General,,LIB,Kerry Hicks,17,0,12,2,2,1
+Madison,Richland,Attorney General,,LIB,Kerry Hicks,4,2,2,0,0,0
+Madison,Valley,Attorney General,,LIB,Kerry Hicks,7,0,5,0,0,2
+Madison,War Eagle,Attorney General,,LIB,Kerry Hicks,20,2,6,6,0,6
+Madison,Ward 1,Attorney General,,LIB,Kerry Hicks,6,2,4,0,0,0
+Madison,Ward 2,Attorney General,,LIB,Kerry Hicks,3,0,1,2,0,0
+Madison,Ward 3,Attorney General,,LIB,Kerry Hicks,12,2,3,4,0,3
+Madison,Ward 4,Attorney General,,LIB,Kerry Hicks,2,1,1,0,0,0
+Madison,Wharton,Attorney General,,LIB,Kerry Hicks,5,1,1,2,0,1
+Madison,Alabam,Secretary of State,,REP,John Thurston Commissioner of State Lands,288,44,166,35,4,39
+Madison,Boston,Secretary of State,,REP,John Thurston Commissioner of State Lands,73,0,50,4,1,18
+Madison,Bowen,Secretary of State,,REP,John Thurston Commissioner of State Lands,145,14,94,12,1,24
+Madison,California,Secretary of State,,REP,John Thurston Commissioner of State Lands,326,3,242,38,3,40
+Madison,Hilburn,Secretary of State,,REP,John Thurston Commissioner of State Lands,104,2,95,0,0,7
+Madison,Japton,Secretary of State,,REP,John Thurston Commissioner of State Lands,118,10,82,9,2,15
+Madison,Kings River,Secretary of State,,REP,John Thurston Commissioner of State Lands,316,1,215,40,9,51
+Madison,Lamar,Secretary of State,,REP,John Thurston Commissioner of State Lands,297,12,234,33,2,16
+Madison,Lincoln,Secretary of State,,REP,John Thurston Commissioner of State Lands,110,14,56,15,1,24
+Madison,Marble,Secretary of State,,REP,John Thurston Commissioner of State Lands,126,23,65,17,0,21
+Madison,Mill Creek,Secretary of State,,REP,John Thurston Commissioner of State Lands,121,26,77,10,0,8
+Madison,Prairie,Secretary of State,,REP,John Thurston Commissioner of State Lands,508,1,367,67,4,69
+Madison,Richland,Secretary of State,,REP,John Thurston Commissioner of State Lands,206,88,63,35,1,19
+Madison,Valley,Secretary of State,,REP,John Thurston Commissioner of State Lands,159,1,141,4,4,9
+Madison,War Eagle,Secretary of State,,REP,John Thurston Commissioner of State Lands,551,75,225,115,5,131
+Madison,Ward 1,Secretary of State,,REP,John Thurston Commissioner of State Lands,74,6,25,7,3,33
+Madison,Ward 2,Secretary of State,,REP,John Thurston Commissioner of State Lands,37,2,14,7,2,12
+Madison,Ward 3,Secretary of State,,REP,John Thurston Commissioner of State Lands,111,21,23,27,2,38
+Madison,Ward 4,Secretary of State,,REP,John Thurston Commissioner of State Lands,90,16,40,8,2,24
+Madison,Wharton,Secretary of State,,REP,John Thurston Commissioner of State Lands,69,8,37,9,0,15
+Madison,Alabam,Secretary of State,,LIB,Christopher Olson,11,0,9,0,0,2
+Madison,Boston,Secretary of State,,LIB,Christopher Olson,7,0,7,0,0,0
+Madison,Bowen,Secretary of State,,LIB,Christopher Olson,8,2,3,2,0,1
+Madison,California,Secretary of State,,LIB,Christopher Olson,7,0,4,3,0,0
+Madison,Hilburn,Secretary of State,,LIB,Christopher Olson,1,0,1,0,0,0
+Madison,Japton,Secretary of State,,LIB,Christopher Olson,3,1,0,1,0,1
+Madison,Kings River,Secretary of State,,LIB,Christopher Olson,12,0,7,1,1,3
+Madison,Lamar,Secretary of State,,LIB,Christopher Olson,13,0,10,3,0,0
+Madison,Lincoln,Secretary of State,,LIB,Christopher Olson,8,0,2,2,0,4
+Madison,Marble,Secretary of State,,LIB,Christopher Olson,3,1,2,0,0,0
+Madison,Mill Creek,Secretary of State,,LIB,Christopher Olson,9,1,8,0,0,0
+Madison,Prairie,Secretary of State,,LIB,Christopher Olson,16,0,10,1,2,3
+Madison,Richland,Secretary of State,,LIB,Christopher Olson,5,2,2,0,0,1
+Madison,Valley,Secretary of State,,LIB,Christopher Olson,9,0,8,1,0,0
+Madison,War Eagle,Secretary of State,,LIB,Christopher Olson,18,3,7,4,0,4
+Madison,Ward 1,Secretary of State,,LIB,Christopher Olson,10,2,3,3,0,2
+Madison,Ward 2,Secretary of State,,LIB,Christopher Olson,2,0,0,1,0,1
+Madison,Ward 3,Secretary of State,,LIB,Christopher Olson,11,2,3,3,0,3
+Madison,Ward 4,Secretary of State,,LIB,Christopher Olson,1,1,0,0,0,0
+Madison,Wharton,Secretary of State,,LIB,Christopher Olson,4,1,2,1,0,0
+Madison,Alabam,Secretary of State,,DEM,Susan Inman,130,12,69,22,4,23
+Madison,Boston,Secretary of State,,DEM,Susan Inman,46,0,33,2,2,9
+Madison,Bowen,Secretary of State,,DEM,Susan Inman,54,5,17,14,1,17
+Madison,California,Secretary of State,,DEM,Susan Inman,104,1,66,16,4,17
+Madison,Hilburn,Secretary of State,,DEM,Susan Inman,74,2,48,5,1,18
+Madison,Japton,Secretary of State,,DEM,Susan Inman,14,0,9,3,0,2
+Madison,Kings River,Secretary of State,,DEM,Susan Inman,117,0,72,15,2,28
+Madison,Lamar,Secretary of State,,DEM,Susan Inman,150,3,92,18,4,33
+Madison,Lincoln,Secretary of State,,DEM,Susan Inman,42,10,20,5,0,7
+Madison,Marble,Secretary of State,,DEM,Susan Inman,35,7,22,2,1,3
+Madison,Mill Creek,Secretary of State,,DEM,Susan Inman,54,8,35,2,0,9
+Madison,Prairie,Secretary of State,,DEM,Susan Inman,168,0,104,18,5,41
+Madison,Richland,Secretary of State,,DEM,Susan Inman,51,21,6,5,0,19
+Madison,Valley,Secretary of State,,DEM,Susan Inman,81,1,74,3,2,1
+Madison,War Eagle,Secretary of State,,DEM,Susan Inman,184,21,44,37,5,77
+Madison,Ward 1,Secretary of State,,DEM,Susan Inman,45,1,23,8,2,11
+Madison,Ward 2,Secretary of State,,DEM,Susan Inman,26,2,4,8,1,11
+Madison,Ward 3,Secretary of State,,DEM,Susan Inman,37,5,5,14,0,13
+Madison,Ward 4,Secretary of State,,DEM,Susan Inman,69,9,13,16,2,29
+Madison,Wharton,Secretary of State,,DEM,Susan Inman,32,3,15,10,0,4
+Madison,Alabam,State Treasurer,,REP,Treasurer of State Dennis Milligan,327,46,184,47,5,45
+Madison,Boston,State Treasurer,,REP,Treasurer of State Dennis Milligan,81,0,56,4,1,20
+Madison,Bowen,State Treasurer,,REP,Treasurer of State Dennis Milligan,160,19,98,16,1,26
+Madison,California,State Treasurer,,REP,Treasurer of State Dennis Milligan,366,4,265,47,3,47
+Madison,Hilburn,State Treasurer,,REP,Treasurer of State Dennis Milligan,117,2,103,3,0,9
+Madison,Japton,State Treasurer,,REP,Treasurer of State Dennis Milligan,120,10,84,9,2,15
+Madison,Kings River,State Treasurer,,REP,Treasurer of State Dennis Milligan,344,1,236,43,9,55
+Madison,Lamar,State Treasurer,,REP,Treasurer of State Dennis Milligan,337,10,261,41,3,22
+Madison,Lincoln,State Treasurer,,REP,Treasurer of State Dennis Milligan,118,17,61,16,0,24
+Madison,Marble,State Treasurer,,REP,Treasurer of State Dennis Milligan,139,29,71,17,1,21
+Madison,Mill Creek,State Treasurer,,REP,Treasurer of State Dennis Milligan,140,28,90,11,0,11
+Madison,Prairie,State Treasurer,,REP,Treasurer of State Dennis Milligan,573,1,409,76,7,80
+Madison,Richland,State Treasurer,,REP,Treasurer of State Dennis Milligan,227,95,65,37,1,29
+Madison,Valley,State Treasurer,,REP,Treasurer of State Dennis Milligan,180,1,161,6,4,8
+Madison,War Eagle,State Treasurer,,REP,Treasurer of State Dennis Milligan,625,82,252,132,7,152
+Madison,Ward 1,State Treasurer,,REP,Treasurer of State Dennis Milligan,88,7,31,10,5,35
+Madison,Ward 2,State Treasurer,,REP,Treasurer of State Dennis Milligan,41,2,16,7,3,13
+Madison,Ward 3,State Treasurer,,REP,Treasurer of State Dennis Milligan,121,25,23,32,2,39
+Madison,Ward 4,State Treasurer,,REP,Treasurer of State Dennis Milligan,115,21,42,15,2,35
+Madison,Wharton,State Treasurer,,REP,Treasurer of State Dennis Milligan,76,9,41,10,0,16
+Madison,Alabam,State Treasurer,,LIB,Ashley Ewald,87,9,51,8,2,17
+Madison,Boston,State Treasurer,,LIB,Ashley Ewald,36,0,25,2,2,7
+Madison,Bowen,State Treasurer,,LIB,Ashley Ewald,39,2,16,11,0,10
+Madison,California,State Treasurer,,LIB,Ashley Ewald,64,0,42,10,3,9
+Madison,Hilburn,State Treasurer,,LIB,Ashley Ewald,53,2,36,2,1,12
+Madison,Japton,State Treasurer,,LIB,Ashley Ewald,14,1,7,4,0,2
+Madison,Kings River,State Treasurer,,LIB,Ashley Ewald,84,0,50,12,3,19
+Madison,Lamar,State Treasurer,,LIB,Ashley Ewald,95,3,67,10,2,13
+Madison,Lincoln,State Treasurer,,LIB,Ashley Ewald,35,6,12,6,1,10
+Madison,Marble,State Treasurer,,LIB,Ashley Ewald,24,2,18,1,0,3
+Madison,Mill Creek,State Treasurer,,LIB,Ashley Ewald,39,7,27,1,0,4
+Madison,Prairie,State Treasurer,,LIB,Ashley Ewald,97,0,64,5,4,24
+Madison,Richland,State Treasurer,,LIB,Ashley Ewald,32,14,7,3,0,8
+Madison,Valley,State Treasurer,,LIB,Ashley Ewald,60,1,55,2,0,2
+Madison,War Eagle,State Treasurer,,LIB,Ashley Ewald,110,15,25,24,3,43
+Madison,Ward 1,State Treasurer,,LIB,Ashley Ewald,38,2,19,7,0,10
+Madison,Ward 2,State Treasurer,,LIB,Ashley Ewald,21,2,2,8,0,9
+Madison,Ward 3,State Treasurer,,LIB,Ashley Ewald,34,3,8,11,0,12
+Madison,Ward 4,State Treasurer,,LIB,Ashley Ewald,34,5,8,8,2,11
+Madison,Wharton,State Treasurer,,LIB,Ashley Ewald,27,3,13,8,0,3
+Madison,Alabam,Auditor of State,,LIB,David E. Dinwiddie,90,6,54,10,2,18
+Madison,Boston,Auditor of State,,LIB,David E. Dinwiddie,34,0,23,2,2,7
+Madison,Bowen,Auditor of State,,LIB,David E. Dinwiddie,37,2,14,12,1,8
+Madison,California,Auditor of State,,LIB,David E. Dinwiddie,69,0,44,11,3,11
+Madison,Hilburn,Auditor of State,,LIB,David E. Dinwiddie,53,2,38,1,1,11
+Madison,Japton,Auditor of State,,LIB,David E. Dinwiddie,12,1,6,4,0,1
+Madison,Kings River,Auditor of State,,LIB,David E. Dinwiddie,78,0,45,11,3,19
+Madison,Lamar,Auditor of State,,LIB,David E. Dinwiddie,88,1,61,11,2,13
+Madison,Lincoln,Auditor of State,,LIB,David E. Dinwiddie,34,6,13,5,0,10
+Madison,Marble,Auditor of State,,LIB,David E. Dinwiddie,25,3,18,1,0,3
+Madison,Mill Creek,Auditor of State,,LIB,David E. Dinwiddie,43,6,31,1,0,5
+Madison,Prairie,Auditor of State,,LIB,David E. Dinwiddie,100,0,68,5,5,22
+Madison,Richland,Auditor of State,,LIB,David E. Dinwiddie,34,17,9,3,0,5
+Madison,Valley,Auditor of State,,LIB,David E. Dinwiddie,61,1,56,3,0,1
+Madison,War Eagle,Auditor of State,,LIB,David E. Dinwiddie,108,15,25,29,3,36
+Madison,Ward 1,Auditor of State,,LIB,David E. Dinwiddie,37,3,17,9,1,7
+Madison,Ward 2,Auditor of State,,LIB,David E. Dinwiddie,17,1,2,7,0,7
+Madison,Ward 3,Auditor of State,,LIB,David E. Dinwiddie,37,3,9,12,0,13
+Madison,Ward 4,Auditor of State,,LIB,David E. Dinwiddie,31,5,8,7,2,9
+Madison,Wharton,Auditor of State,,LIB,David E. Dinwiddie,25,3,14,7,0,1
+Madison,Alabam,Auditor of State,,REP,Auditor Andrea Lea,323,48,182,45,5,43
+Madison,Boston,Auditor of State,,REP,Auditor Andrea Lea,81,0,56,4,1,20
+Madison,Bowen,Auditor of State,,REP,Auditor Andrea Lea,159,19,98,15,0,27
+Madison,California,Auditor of State,,REP,Auditor Andrea Lea,360,4,261,46,4,45
+Madison,Hilburn,Auditor of State,,REP,Auditor Andrea Lea,116,2,102,3,0,9
+Madison,Japton,Auditor of State,,REP,Auditor Andrea Lea,121,10,85,9,2,15
+Madison,Kings River,Auditor of State,,REP,Auditor Andrea Lea,351,1,241,45,9,55
+Madison,Lamar,Auditor of State,,REP,Auditor Andrea Lea,336,12,260,40,3,21
+Madison,Lincoln,Auditor of State,,REP,Auditor Andrea Lea,116,17,58,17,1,23
+Madison,Marble,Auditor of State,,REP,Auditor Andrea Lea,137,28,70,17,1,21
+Madison,Mill Creek,Auditor of State,,REP,Auditor Andrea Lea,137,29,86,11,0,11
+Madison,Prairie,Auditor of State,,REP,Auditor Andrea Lea,564,1,400,76,6,81
+Madison,Richland,Auditor of State,,REP,Auditor Andrea Lea,223,93,61,37,1,31
+Madison,Valley,Auditor of State,,REP,Auditor Andrea Lea,171,1,153,5,4,8
+Madison,War Eagle,Auditor of State,,REP,Auditor Andrea Lea,616,82,248,126,7,153
+Madison,Ward 1,Auditor of State,,REP,Auditor Andrea Lea,87,6,32,8,4,37
+Madison,Ward 2,Auditor of State,,REP,Auditor Andrea Lea,45,3,16,8,3,15
+Madison,Ward 3,Auditor of State,,REP,Auditor Andrea Lea,119,25,22,30,2,40
+Madison,Ward 4,Auditor of State,,REP,Auditor Andrea Lea,116,21,42,16,2,35
+Madison,Wharton,Auditor of State,,REP,Auditor Andrea Lea,77,9,40,11,0,17
+Madison,Alabam,Commissioner of State Lands,,DEM,Larry Williams,147,16,74,28,4,25
+Madison,Boston,Commissioner of State Lands,,DEM,Larry Williams,47,0,32,2,2,11
+Madison,Bowen,Commissioner of State Lands,,DEM,Larry Williams,62,7,22,14,1,18
+Madison,California,Commissioner of State Lands,,DEM,Larry Williams,121,1,81,17,4,18
+Madison,Hilburn,Commissioner of State Lands,,DEM,Larry Williams,79,2,53,5,1,18
+Madison,Japton,Commissioner of State Lands,,DEM,Larry Williams,16,2,9,3,0,2
+Madison,Kings River,Commissioner of State Lands,,DEM,Larry Williams,136,0,85,20,1,30
+Madison,Lamar,Commissioner of State Lands,,DEM,Larry Williams,156,3,98,19,4,32
+Madison,Lincoln,Commissioner of State Lands,,DEM,Larry Williams,46,11,19,6,0,10
+Madison,Marble,Commissioner of State Lands,,DEM,Larry Williams,45,7,28,3,1,6
+Madison,Mill Creek,Commissioner of State Lands,,DEM,Larry Williams,60,4,45,2,0,9
+Madison,Prairie,Commissioner of State Lands,,DEM,Larry Williams,186,0,117,20,5,44
+Madison,Richland,Commissioner of State Lands,,DEM,Larry Williams,55,24,6,7,0,18
+Madison,Valley,Commissioner of State Lands,,DEM,Larry Williams,83,1,78,2,2,0
+Madison,War Eagle,Commissioner of State Lands,,DEM,Larry Williams,229,24,71,44,5,85
+Madison,Ward 1,Commissioner of State Lands,,DEM,Larry Williams,58,1,24,12,2,19
+Madison,Ward 2,Commissioner of State Lands,,DEM,Larry Williams,28,2,6,7,2,11
+Madison,Ward 3,Commissioner of State Lands,,DEM,Larry Williams,44,7,8,14,0,15
+Madison,Ward 4,Commissioner of State Lands,,DEM,Larry Williams,74,7,16,17,2,32
+Madison,Wharton,Commissioner of State Lands,,DEM,Larry Williams,36,2,17,12,0,5
+Madison,Alabam,Commissioner of State Lands,,REP,Tommy Land,268,39,160,28,4,37
+Madison,Boston,Commissioner of State Lands,,REP,Tommy Land,70,0,51,3,1,15
+Madison,Bowen,Commissioner of State Lands,,REP,Tommy Land,137,13,91,11,1,21
+Madison,California,Commissioner of State Lands,,REP,Tommy Land,308,3,225,38,3,39
+Madison,Hilburn,Commissioner of State Lands,,REP,Tommy Land,96,2,87,0,0,7
+Madison,Japton,Commissioner of State Lands,,REP,Tommy Land,116,9,81,9,2,15
+Madison,Kings River,Commissioner of State Lands,,REP,Tommy Land,290,1,197,36,10,46
+Madison,Lamar,Commissioner of State Lands,,REP,Tommy Land,285,11,223,33,2,16
+Madison,Lincoln,Commissioner of State Lands,,REP,Tommy Land,108,13,56,15,1,23
+Madison,Marble,Commissioner of State Lands,,REP,Tommy Land,115,22,61,15,0,17
+Madison,Mill Creek,Commissioner of State Lands,,REP,Tommy Land,114,28,68,10,0,8
+Madison,Prairie,Commissioner of State Lands,,REP,Tommy Land,484,1,348,65,4,66
+Madison,Richland,Commissioner of State Lands,,REP,Tommy Land,198,83,62,32,1,20
+Madison,Valley,Commissioner of State Lands,,REP,Tommy Land,156,1,137,5,4,9
+Madison,War Eagle,Commissioner of State Lands,,REP,Tommy Land,509,72,202,108,5,122
+Madison,Ward 1,Commissioner of State Lands,,REP,Tommy Land,64,6,25,6,3,24
+Madison,Ward 2,Commissioner of State Lands,,REP,Tommy Land,32,1,11,7,2,11
+Madison,Ward 3,Commissioner of State Lands,,REP,Tommy Land,103,20,20,24,2,37
+Madison,Ward 4,Commissioner of State Lands,,REP,Tommy Land,83,18,35,7,2,21
+Madison,Wharton,Commissioner of State Lands,,REP,Tommy Land,63,8,37,4,0,14
+Madison,Alabam,Commissioner of State Lands,,LIB,T.J. Campbell,12,1,9,0,0,2
+Madison,Boston,Commissioner of State Lands,,LIB,T.J. Campbell,7,0,5,1,0,1
+Madison,Bowen,Commissioner of State Lands,,LIB,T.J. Campbell,8,0,2,3,0,3
+Madison,California,Commissioner of State Lands,,LIB,T.J. Campbell,6,0,4,2,0,0
+Madison,Hilburn,Commissioner of State Lands,,LIB,T.J. Campbell,2,0,2,0,0,0
+Madison,Japton,Commissioner of State Lands,,LIB,T.J. Campbell,4,0,1,1,0,2
+Madison,Kings River,Commissioner of State Lands,,LIB,T.J. Campbell,17,0,13,0,0,4
+Madison,Lamar,Commissioner of State Lands,,LIB,T.J. Campbell,14,0,12,1,0,1
+Madison,Lincoln,Commissioner of State Lands,,LIB,T.J. Campbell,4,0,1,1,0,2
+Madison,Marble,Commissioner of State Lands,,LIB,T.J. Campbell,5,2,2,0,0,1
+Madison,Mill Creek,Commissioner of State Lands,,LIB,T.J. Campbell,9,3,6,0,0,0
+Madison,Prairie,Commissioner of State Lands,,LIB,T.J. Campbell,19,0,13,1,2,3
+Madison,Richland,Commissioner of State Lands,,LIB,T.J. Campbell,8,3,4,0,0,1
+Madison,Valley,Commissioner of State Lands,,LIB,T.J. Campbell,8,0,6,1,0,1
+Madison,War Eagle,Commissioner of State Lands,,LIB,T.J. Campbell,19,3,7,3,0,6
+Madison,Ward 1,Commissioner of State Lands,,LIB,T.J. Campbell,7,2,2,0,0,3
+Madison,Ward 2,Commissioner of State Lands,,LIB,T.J. Campbell,4,1,1,1,0,1
+Madison,Ward 3,Commissioner of State Lands,,LIB,T.J. Campbell,15,1,4,6,0,4
+Madison,Ward 4,Commissioner of State Lands,,LIB,T.J. Campbell,3,1,1,0,0,1
+Madison,Wharton,Commissioner of State Lands,,LIB,T.J. Campbell,5,2,0,3,0,0
+Madison,Alabam,State Senate,5,DEM,Jim Wallace,143,20,70,26,3,24
+Madison,Boston,State Senate,5,DEM,Jim Wallace,46,0,33,2,2,9
+Madison,Bowen,State Senate,5,DEM,Jim Wallace,58,7,18,12,2,19
+Madison,California,State Senate,5,DEM,Jim Wallace,132,3,89,20,4,16
+Madison,Hilburn,State Senate,5,DEM,Jim Wallace,77,2,52,4,1,18
+Madison,Japton,State Senate,5,DEM,Jim Wallace,13,1,6,4,0,2
+Madison,Kings River,State Senate,5,DEM,Jim Wallace,123,0,73,16,2,32
+Madison,Lamar,State Senate,5,DEM,Jim Wallace,145,2,88,19,4,32
+Madison,Lincoln,State Senate,5,DEM,Jim Wallace,43,9,20,6,0,8
+Madison,Marble,State Senate,5,DEM,Jim Wallace,36,6,20,5,1,4
+Madison,Mill Creek,State Senate,5,DEM,Jim Wallace,51,4,37,1,0,9
+Madison,Prairie,State Senate,5,DEM,Jim Wallace,191,0,120,17,5,49
+Madison,Richland,State Senate,5,DEM,Jim Wallace,64,23,10,10,0,21
+Madison,Valley,State Senate,5,DEM,Jim Wallace,74,1,69,2,2,0
+Madison,War Eagle,State Senate,5,DEM,Jim Wallace,242,27,71,50,5,89
+Madison,Ward 1,State Senate,5,DEM,Jim Wallace,59,2,25,12,2,18
+Madison,Ward 2,State Senate,5,DEM,Jim Wallace,27,2,3,9,1,12
+Madison,Ward 3,State Senate,5,DEM,Jim Wallace,44,5,8,14,0,17
+Madison,Ward 4,State Senate,5,DEM,Jim Wallace,63,8,11,15,2,27
+Madison,Wharton,State Senate,5,DEM,Jim Wallace,33,4,14,11,0,4
+Madison,Alabam,State Senate,5,LIB,Lee Evans,11,1,7,1,0,2
+Madison,Boston,State Senate,5,LIB,Lee Evans,6,0,4,1,0,1
+Madison,Bowen,State Senate,5,LIB,Lee Evans,8,0,3,3,0,2
+Madison,California,State Senate,5,LIB,Lee Evans,24,0,22,2,0,0
+Madison,Hilburn,State Senate,5,LIB,Lee Evans,3,0,3,0,0,0
+Madison,Japton,State Senate,5,LIB,Lee Evans,7,0,2,1,0,4
+Madison,Kings River,State Senate,5,LIB,Lee Evans,16,0,11,2,0,3
+Madison,Lamar,State Senate,5,LIB,Lee Evans,14,0,11,2,0,1
+Madison,Lincoln,State Senate,5,LIB,Lee Evans,5,0,1,1,0,3
+Madison,Marble,State Senate,5,LIB,Lee Evans,5,1,3,1,0,0
+Madison,Mill Creek,State Senate,5,LIB,Lee Evans,8,3,5,0,0,0
+Madison,Prairie,State Senate,5,LIB,Lee Evans,19,0,12,4,2,1
+Madison,Richland,State Senate,5,LIB,Lee Evans,6,4,0,1,0,1
+Madison,Valley,State Senate,5,LIB,Lee Evans,9,0,8,1,0,0
+Madison,War Eagle,State Senate,5,LIB,Lee Evans,33,6,10,8,0,9
+Madison,Ward 1,State Senate,5,LIB,Lee Evans,6,2,1,1,0,2
+Madison,Ward 2,State Senate,5,LIB,Lee Evans,4,0,1,2,0,1
+Madison,Ward 3,State Senate,5,LIB,Lee Evans,15,2,5,6,0,2
+Madison,Ward 4,State Senate,5,LIB,Lee Evans,3,1,2,0,0,0
+Madison,Wharton,State Senate,5,LIB,Lee Evans,6,0,4,1,0,1
+Madison,Alabam,State Senate,5,REP,Representative Bob Ballinger,267,35,162,30,4,36
+Madison,Boston,State Senate,5,REP,Representative Bob Ballinger,72,0,51,3,1,17
+Madison,Bowen,State Senate,5,REP,Representative Bob Ballinger,143,15,93,13,0,22
+Madison,California,State Senate,5,REP,Representative Bob Ballinger,271,1,193,35,2,40
+Madison,Hilburn,State Senate,5,REP,Representative Bob Ballinger,98,2,88,1,0,7
+Madison,Japton,State Senate,5,REP,Representative Bob Ballinger,115,10,82,8,2,13
+Madison,Kings River,State Senate,5,REP,Representative Bob Ballinger,308,1,212,38,10,47
+Madison,Lamar,State Senate,5,REP,Representative Bob Ballinger,299,13,235,33,2,16
+Madison,Lincoln,State Senate,5,REP,Representative Bob Ballinger,109,15,55,15,1,23
+Madison,Marble,State Senate,5,REP,Representative Bob Ballinger,124,24,67,13,0,20
+Madison,Mill Creek,State Senate,5,REP,Representative Bob Ballinger,124,28,77,11,0,8
+Madison,Prairie,State Senate,5,REP,Representative Bob Ballinger,473,1,346,65,4,57
+Madison,Richland,State Senate,5,REP,Representative Bob Ballinger,194,83,63,30,1,17
+Madison,Valley,State Senate,5,REP,Representative Bob Ballinger,164,1,144,5,4,10
+Madison,War Eagle,State Senate,5,REP,Representative Bob Ballinger,484,67,201,99,5,112
+Madison,Ward 1,State Senate,5,REP,Representative Bob Ballinger,66,5,26,6,3,26
+Madison,Ward 2,State Senate,5,REP,Representative Bob Ballinger,33,2,14,5,3,9
+Madison,Ward 3,State Senate,5,REP,Representative Bob Ballinger,104,21,20,24,2,37
+Madison,Ward 4,State Senate,5,REP,Representative Bob Ballinger,92,17,40,9,2,24
+Madison,Wharton,State Senate,5,REP,Representative Bob Ballinger,65,8,34,9,0,14
+Madison,Alabam,State Representative,97,DEM,Gary L. Morris,163,18,88,28,4,25
+Madison,California,State Representative,97,DEM,Gary L. Morris,132,3,87,20,4,18
+Madison,Lamar,State Representative,97,DEM,Gary L. Morris,125,3,87,14,4,17
+Madison,Prairie,State Representative,97,DEM,Gary L. Morris,194,0,129,23,5,37
+Madison,Richland,State Representative,97,DEM,Gary L. Morris,4,1,1,0,0,2
+Madison,Alabam,State Representative,97,REP,Harlan Breaux,257,38,150,28,4,37
+Madison,California,State Representative,97,REP,Harlan Breaux,296,1,217,37,3,38
+Madison,Lamar,State Representative,97,REP,Harlan Breaux,229,11,179,25,1,13
+Madison,Prairie,State Representative,97,REP,Harlan Breaux,460,1,329,61,6,63
+Madison,Richland,State Representative,97,REP,Harlan Breaux,4,2,0,2,0,0
+Madison,Alabam,COUNTY JUDGE,,REP,County Judge Frank Weaver,229,31,130,27,5,36
+Madison,Boston,COUNTY JUDGE,,REP,County Judge Frank Weaver,70,0,51,3,1,15
+Madison,Bowen,COUNTY JUDGE,,REP,County Judge Frank Weaver,100,8,67,11,0,14
+Madison,California,COUNTY JUDGE,,REP,County Judge Frank Weaver,245,2,169,36,3,35
+Madison,Hilburn,COUNTY JUDGE,,REP,County Judge Frank Weaver,104,2,89,0,0,13
+Madison,Japton,COUNTY JUDGE,,REP,County Judge Frank Weaver,82,6,56,6,0,14
+Madison,Kings River,COUNTY JUDGE,,REP,County Judge Frank Weaver,315,1,215,35,10,54
+Madison,Lamar,COUNTY JUDGE,,REP,County Judge Frank Weaver,220,9,163,26,3,19
+Madison,Lincoln,COUNTY JUDGE,,REP,County Judge Frank Weaver,65,9,25,10,1,20
+Madison,Marble,COUNTY JUDGE,,REP,County Judge Frank Weaver,112,22,59,12,1,18
+Madison,Mill Creek,COUNTY JUDGE,,REP,County Judge Frank Weaver,91,21,52,8,0,10
+Madison,Prairie,COUNTY JUDGE,,REP,County Judge Frank Weaver,391,1,276,48,6,60
+Madison,Richland,COUNTY JUDGE,,REP,County Judge Frank Weaver,131,52,35,25,0,19
+Madison,Valley,COUNTY JUDGE,,REP,County Judge Frank Weaver,103,1,90,3,1,8
+Madison,War Eagle,COUNTY JUDGE,,REP,County Judge Frank Weaver,345,43,126,62,5,109
+Madison,Ward 1,COUNTY JUDGE,,REP,County Judge Frank Weaver,52,3,21,8,4,16
+Madison,Ward 2,COUNTY JUDGE,,REP,County Judge Frank Weaver,29,2,9,6,1,11
+Madison,Ward 3,COUNTY JUDGE,,REP,County Judge Frank Weaver,81,15,14,22,2,28
+Madison,Ward 4,COUNTY JUDGE,,REP,County Judge Frank Weaver,68,13,22,7,2,24
+Madison,Wharton,COUNTY JUDGE,,REP,County Judge Frank Weaver,41,6,25,1,0,9
+Madison,Alabam,COUNTY JUDGE,,DEM,Travis Dotson,200,26,113,31,3,27
+Madison,Boston,COUNTY JUDGE,,DEM,Travis Dotson,59,0,44,3,2,10
+Madison,Bowen,COUNTY JUDGE,,DEM,Travis Dotson,110,14,49,16,2,29
+Madison,California,COUNTY JUDGE,,DEM,Travis Dotson,181,2,133,21,4,21
+Madison,Hilburn,COUNTY JUDGE,,DEM,Travis Dotson,73,2,53,5,1,12
+Madison,Japton,COUNTY JUDGE,,DEM,Travis Dotson,54,5,35,7,2,5
+Madison,Kings River,COUNTY JUDGE,,DEM,Travis Dotson,134,0,85,20,1,28
+Madison,Lamar,COUNTY JUDGE,,DEM,Travis Dotson,238,6,176,26,3,27
+Madison,Lincoln,COUNTY JUDGE,,DEM,Travis Dotson,93,16,50,11,0,16
+Madison,Marble,COUNTY JUDGE,,DEM,Travis Dotson,53,9,31,7,0,6
+Madison,Mill Creek,COUNTY JUDGE,,DEM,Travis Dotson,96,14,71,4,0,7
+Madison,Prairie,COUNTY JUDGE,,DEM,Travis Dotson,297,0,203,39,5,50
+Madison,Richland,COUNTY JUDGE,,DEM,Travis Dotson,133,58,39,15,1,20
+Madison,Valley,COUNTY JUDGE,,DEM,Travis Dotson,142,1,130,5,5,1
+Madison,War Eagle,COUNTY JUDGE,,DEM,Travis Dotson,421,56,159,96,5,105
+Madison,Ward 1,COUNTY JUDGE,,DEM,Travis Dotson,78,6,31,10,1,30
+Madison,Ward 2,COUNTY JUDGE,,DEM,Travis Dotson,37,2,9,10,3,13
+Madison,Ward 3,COUNTY JUDGE,,DEM,Travis Dotson,85,14,20,21,0,30
+Madison,Ward 4,COUNTY JUDGE,,DEM,Travis Dotson,91,13,30,17,3,28
+Madison,Wharton,COUNTY JUDGE,,DEM,Travis Dotson,65,6,30,19,0,10
+Madison,Alabam,CORONER,,REP,Douglas Rabold,187,22,111,17,4,33
+Madison,Boston,CORONER,,REP,Douglas Rabold,73,0,56,2,1,14
+Madison,Bowen,CORONER,,REP,Douglas Rabold,103,7,72,11,0,13
+Madison,California,CORONER,,REP,Douglas Rabold,232,1,164,32,2,33
+Madison,Hilburn,CORONER,,REP,Douglas Rabold,103,2,90,3,0,8
+Madison,Japton,CORONER,,REP,Douglas Rabold,87,5,61,9,0,12
+Madison,Kings River,CORONER,,REP,Douglas Rabold,242,1,165,30,7,39
+Madison,Lamar,CORONER,,REP,Douglas Rabold,237,9,186,25,2,15
+Madison,Lincoln,CORONER,,REP,Douglas Rabold,89,12,44,15,1,17
+Madison,Marble,CORONER,,REP,Douglas Rabold,87,14,49,9,0,15
+Madison,Mill Creek,CORONER,,REP,Douglas Rabold,111,24,69,10,0,8
+Madison,Prairie,CORONER,,REP,Douglas Rabold,381,1,267,48,5,60
+Madison,Richland,CORONER,,REP,Douglas Rabold,154,68,41,24,0,21
+Madison,Valley,CORONER,,REP,Douglas Rabold,143,1,123,6,4,9
+Madison,War Eagle,CORONER,,REP,Douglas Rabold,355,35,144,70,3,103
+Madison,Ward 1,CORONER,,REP,Douglas Rabold,51,4,21,4,3,19
+Madison,Ward 2,CORONER,,REP,Douglas Rabold,23,2,10,4,1,6
+Madison,Ward 3,CORONER,,REP,Douglas Rabold,86,17,13,21,1,34
+Madison,Ward 4,CORONER,,REP,Douglas Rabold,70,16,32,5,1,16
+Madison,Wharton,CORONER,,REP,Douglas Rabold,47,4,28,5,0,10
+Madison,Alabam,CORONER,,DEM,Coroner Jarred Rogers,233,33,127,40,3,30
+Madison,Boston,CORONER,,DEM,Coroner Jarred Rogers,53,0,34,4,2,13
+Madison,Bowen,CORONER,,DEM,Coroner Jarred Rogers,109,15,46,17,2,29
+Madison,California,CORONER,,DEM,Coroner Jarred Rogers,194,3,140,24,4,23
+Madison,Hilburn,CORONER,,DEM,Coroner Jarred Rogers,76,2,54,2,1,17
+Madison,Japton,CORONER,,DEM,Coroner Jarred Rogers,45,6,28,3,2,6
+Madison,Kings River,CORONER,,DEM,Coroner Jarred Rogers,209,0,138,26,5,40
+Madison,Lamar,CORONER,,DEM,Coroner Jarred Rogers,217,6,146,29,3,33
+Madison,Lincoln,CORONER,,DEM,Coroner Jarred Rogers,72,13,33,6,0,20
+Madison,Marble,CORONER,,DEM,Coroner Jarred Rogers,77,16,41,10,1,9
+Madison,Mill Creek,CORONER,,DEM,Coroner Jarred Rogers,75,11,54,2,0,8
+Madison,Prairie,CORONER,,DEM,Coroner Jarred Rogers,302,0,208,39,5,50
+Madison,Richland,CORONER,,DEM,Coroner Jarred Rogers,111,43,32,17,1,18
+Madison,Valley,CORONER,,DEM,Coroner Jarred Rogers,102,1,96,2,2,1
+Madison,War Eagle,CORONER,,DEM,Coroner Jarred Rogers,413,66,141,88,7,111
+Madison,Ward 1,CORONER,,DEM,Coroner Jarred Rogers,76,5,30,14,2,25
+Madison,Ward 2,CORONER,,DEM,Coroner Jarred Rogers,42,2,8,12,3,17
+Madison,Ward 3,CORONER,,DEM,Coroner Jarred Rogers,78,12,19,22,1,24
+Madison,Ward 4,CORONER,,DEM,Coroner Jarred Rogers,91,10,22,19,4,36
+Madison,Wharton,CORONER,,DEM,Coroner Jarred Rogers,57,8,26,15,0,8
+Madison,Alabam,CIRCUIT CLERK,,DEM,Phyllis Villines,351,51,197,48,6,49
+Madison,Boston,CIRCUIT CLERK,,DEM,Phyllis Villines,91,0,65,6,3,17
+Madison,Bowen,CIRCUIT CLERK,,DEM,Phyllis Villines,163,19,78,27,2,37
+Madison,California,CIRCUIT CLERK,,DEM,Phyllis Villines,336,3,240,43,5,45
+Madison,Hilburn,CIRCUIT CLERK,,DEM,Phyllis Villines,139,3,110,5,1,20
+Madison,Japton,CIRCUIT CLERK,,DEM,Phyllis Villines,93,11,59,10,2,11
+Madison,Kings River,CIRCUIT CLERK,,DEM,Phyllis Villines,379,1,253,51,7,67
+Madison,Lamar,CIRCUIT CLERK,,DEM,Phyllis Villines,344,8,245,45,6,40
+Madison,Lincoln,CIRCUIT CLERK,,DEM,Phyllis Villines,123,23,56,16,0,28
+Madison,Marble,CIRCUIT CLERK,,DEM,Phyllis Villines,139,28,75,15,1,20
+Madison,Mill Creek,CIRCUIT CLERK,,DEM,Phyllis Villines,140,28,88,11,0,13
+Madison,Prairie,CIRCUIT CLERK,,DEM,Phyllis Villines,522,1,361,75,8,77
+Madison,Richland,CIRCUIT CLERK,,DEM,Phyllis Villines,208,91,50,36,1,30
+Madison,Valley,CIRCUIT CLERK,,DEM,Phyllis Villines,176,1,162,6,5,2
+Madison,War Eagle,CIRCUIT CLERK,,DEM,Phyllis Villines,636,89,222,142,6,177
+Madison,Ward 1,CIRCUIT CLERK,,DEM,Phyllis Villines,115,9,44,18,4,40
+Madison,Ward 2,CIRCUIT CLERK,,DEM,Phyllis Villines,52,4,11,16,3,18
+Madison,Ward 3,CIRCUIT CLERK,,DEM,Phyllis Villines,137,24,25,38,1,49
+Madison,Ward 4,CIRCUIT CLERK,,DEM,Phyllis Villines,127,24,33,22,4,44
+Madison,Wharton,CIRCUIT CLERK,,DEM,Phyllis Villines,76,8,34,19,0,15
+Madison,Ward 1,CITY OF HUNTSVILLE MAYOR,,IND,Darrell Trahan,66,4,33,5,4,20
+Madison,Ward 2,CITY OF HUNTSVILLE MAYOR,,IND,Darrell Trahan,23,2,8,5,3,5
+Madison,Ward 3,CITY OF HUNTSVILLE MAYOR,,IND,Darrell Trahan,91,20,17,25,1,28
+Madison,Ward 4,CITY OF HUNTSVILLE MAYOR,,IND,Darrell Trahan,88,16,31,11,1,29
+Madison,Ward 1,CITY OF HUNTSVILLE MAYOR,,IND,Pamela R. Montoya,59,5,18,12,1,23
+Madison,Ward 2,CITY OF HUNTSVILLE MAYOR,,IND,Pamela R. Montoya,40,2,10,11,0,17
+Madison,Ward 3,CITY OF HUNTSVILLE MAYOR,,IND,Pamela R. Montoya,72,9,14,19,1,29
+Madison,Ward 4,CITY OF HUNTSVILLE MAYOR,,IND,Pamela R. Montoya,69,9,22,13,4,21
+Madison,Hilburn,CITY OF ST. PAUL MAYOR,,IND,Nina Selz,34,0,26,4,0,4
+Madison,Hilburn,CITY OF ST. PAUL MAYOR,,IND,Stephen Pearce,13,0,11,0,0,2
+Madison,Prairie,CITY OF HINDSVILLE MAYOR,,IND,Stephanie Casey,12,0,9,0,1,2
+Madison,Ward 3,ALDERMAN, WARD 3,IND,Lyndsay McNeer,92,18,15,27,2,30
+Madison,Ward 3,ALDERMAN, WARD 3,IND,Rion E. Mosley,48,8,14,12,0,14
+Madison,Ward 4,ALDERMAN, WARD 4,IND,Pat Grubbs,83,15,28,9,1,30
+Madison,Ward 4,ALDERMAN, WARD 4,IND,Shawn Ellis,68,9,22,15,4,18
+Madison,Hilburn,ST. PAUL ALDERMAN, POSITION 4,IND,Janelle Riddle,23,0,20,0,0,3
+Madison,Hilburn,ST. PAUL ALDERMAN, POSITION 4,IND,Linda S. Lewis,25,0,17,4,0,4
+Madison,Alabam,State Supreme Court Associate Justice Position 3,,NON,David Sterling,177,20,111,17,1,28
+Madison,Boston,State Supreme Court Associate Justice Position 3,,NON,David Sterling,55,0,40,3,1,11
+Madison,Bowen,State Supreme Court Associate Justice Position 3,,NON,David Sterling,87,10,57,7,1,12
+Madison,California,State Supreme Court Associate Justice Position 3,,NON,David Sterling,207,0,165,18,0,24
+Madison,Hilburn,State Supreme Court Associate Justice Position 3,,NON,David Sterling,88,2,77,1,0,8
+Madison,Japton,State Supreme Court Associate Justice Position 3,,NON,David Sterling,54,3,39,2,2,8
+Madison,Kings River,State Supreme Court Associate Justice Position 3,,NON,David Sterling,193,1,126,25,4,37
+Madison,Lamar,State Supreme Court Associate Justice Position 3,,NON,David Sterling,204,5,164,16,1,18
+Madison,Lincoln,State Supreme Court Associate Justice Position 3,,NON,David Sterling,75,12,37,6,1,19
+Madison,Marble,State Supreme Court Associate Justice Position 3,,NON,David Sterling,68,8,42,6,1,11
+Madison,Mill Creek,State Supreme Court Associate Justice Position 3,,NON,David Sterling,87,22,52,6,0,7
+Madison,Prairie,State Supreme Court Associate Justice Position 3,,NON,David Sterling,304,0,231,33,3,37
+Madison,Richland,State Supreme Court Associate Justice Position 3,,NON,David Sterling,123,61,36,13,0,13
+Madison,Valley,State Supreme Court Associate Justice Position 3,,NON,David Sterling,135,2,119,4,3,7
+Madison,War Eagle,State Supreme Court Associate Justice Position 3,,NON,David Sterling,297,39,128,54,4,72
+Madison,Ward 1,State Supreme Court Associate Justice Position 3,,NON,David Sterling,53,7,25,5,2,14
+Madison,Ward 2,State Supreme Court Associate Justice Position 3,,NON,David Sterling,24,2,8,5,0,9
+Madison,Ward 3,State Supreme Court Associate Justice Position 3,,NON,David Sterling,67,10,13,19,0,25
+Madison,Ward 4,State Supreme Court Associate Justice Position 3,,NON,David Sterling,68,9,29,11,1,18
+Madison,Wharton,State Supreme Court Associate Justice Position 3,,NON,David Sterling,50,4,29,6,0,11
+Madison,Alabam,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,218,36,110,36,4,32
+Madison,Boston,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,57,0,40,2,2,13
+Madison,Bowen,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,104,11,48,20,0,25
+Madison,California,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,185,4,118,32,3,28
+Madison,Hilburn,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,80,2,57,4,1,16
+Madison,Japton,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,61,8,37,9,0,7
+Madison,Kings River,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,219,0,148,29,6,36
+Madison,Lamar,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,207,6,143,34,4,20
+Madison,Lincoln,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,72,12,30,15,0,15
+Madison,Marble,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,89,22,42,12,0,13
+Madison,Mill Creek,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,84,13,58,6,0,7
+Madison,Prairie,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,330,1,224,44,5,56
+Madison,Richland,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,119,40,31,25,0,23
+Madison,Valley,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,93,0,85,4,2,2
+Madison,War Eagle,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,392,55,130,95,4,108
+Madison,Ward 1,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,66,2,21,13,2,28
+Madison,Ward 2,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,34,2,7,9,2,14
+Madison,Ward 3,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,75,17,15,20,2,21
+Madison,Ward 4,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,78,15,19,13,1,30
+Madison,Wharton,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,48,7,21,13,0,7
+Madison,Alabam,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,357,51,206,40,7,53
+Madison,Boston,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,79,0,62,3,0,14
+Madison,Bowen,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,159,17,96,19,2,25
+Madison,California,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,377,4,271,49,5,48
+Madison,Hilburn,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,119,3,106,2,0,8
+Madison,Japton,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,120,10,77,13,2,18
+Madison,Kings River,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,361,1,244,48,10,58
+Madison,Lamar,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,366,12,285,40,2,27
+Madison,Lincoln,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,132,20,66,17,1,28
+Madison,Marble,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,144,29,79,16,1,19
+Madison,Mill Creek,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,143,32,90,10,0,11
+Madison,Prairie,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,576,1,408,77,9,81
+Madison,Richland,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,227,92,69,35,1,30
+Madison,Valley,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,186,1,166,7,3,9
+Madison,War Eagle,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,616,90,242,135,7,142
+Madison,Ward 1,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,107,8,43,16,2,38
+Madison,Ward 2,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,54,3,16,13,2,20
+Madison,Ward 3,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,136,26,29,34,2,45
+Madison,Ward 4,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,123,22,46,18,3,34
+Madison,Wharton,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,89,10,47,16,0,16
+Madison,Alabam,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,64,5,35,16,0,8
+Madison,Boston,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,40,0,23,3,3,11
+Madison,Bowen,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,48,5,19,9,0,15
+Madison,California,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,46,0,31,8,1,6
+Madison,Hilburn,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,57,1,35,3,1,17
+Madison,Japton,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,7,1,6,0,0,0
+Madison,Kings River,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,83,0,52,8,2,21
+Madison,Lamar,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,90,2,50,14,4,20
+Madison,Lincoln,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,27,4,11,5,0,7
+Madison,Marble,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,18,2,9,3,0,4
+Madison,Mill Creek,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,37,2,27,2,0,6
+Madison,Prairie,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,104,0,67,11,2,24
+Madison,Richland,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,33,18,2,6,0,7
+Madison,Valley,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,52,1,49,1,1,0
+Madison,War Eagle,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,123,10,31,21,3,58
+Madison,Ward 1,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,23,1,9,3,2,8
+Madison,Ward 2,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,12,1,2,3,2,4
+Madison,Ward 3,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,23,2,2,8,0,11
+Madison,Ward 4,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,36,4,5,6,1,20
+Madison,Wharton,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,16,2,6,5,0,3
+Madison,Alabam,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,226,31,130,31,3,31
+Madison,Boston,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,60,0,40,5,0,15
+Madison,Bowen,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,109,13,58,18,1,19
+Madison,California,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,256,3,183,34,5,31
+Madison,Hilburn,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,82,2,67,4,0,9
+Madison,Japton,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,49,5,26,9,2,7
+Madison,Kings River,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,212,1,143,24,7,37
+Madison,Lamar,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,219,5,164,33,2,15
+Madison,Lincoln,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,80,16,34,10,0,20
+Madison,Marble,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,80,11,45,12,0,12
+Madison,Mill Creek,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,90,16,61,6,0,7
+Madison,Prairie,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,338,1,248,38,4,47
+Madison,Richland,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,126,52,29,22,1,22
+Madison,Valley,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,117,2,104,6,1,4
+Madison,War Eagle,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,363,57,121,86,5,94
+Madison,Ward 1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,82,5,30,14,3,30
+Madison,Ward 2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,32,4,8,10,1,9
+Madison,Ward 3,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,92,18,19,29,1,25
+Madison,Ward 4,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,91,16,27,15,5,28
+Madison,Wharton,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,60,11,26,14,0,9
+Madison,Alabam,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,196,25,111,26,4,30
+Madison,Boston,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,61,0,47,1,3,10
+Madison,Bowen,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,95,9,52,10,1,23
+Madison,California,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,165,1,120,20,1,23
+Madison,Hilburn,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,95,2,75,1,1,16
+Madison,Japton,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,81,6,62,4,0,9
+Madison,Kings River,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,238,0,158,31,5,44
+Madison,Lamar,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,232,9,167,20,4,32
+Madison,Lincoln,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,80,8,44,12,1,15
+Madison,Marble,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,80,19,42,6,1,12
+Madison,Mill Creek,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,89,19,57,6,0,7
+Madison,Prairie,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,341,0,225,50,7,59
+Madison,Richland,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,134,58,43,19,0,14
+Madison,Valley,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,122,0,111,2,3,6
+Madison,War Eagle,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,378,41,153,70,2,112
+Madison,Ward 1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,45,4,20,4,2,15
+Madison,Ward 2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,31,0,9,6,2,14
+Madison,Ward 3,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,64,9,14,13,1,27
+Madison,Ward 4,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,67,10,23,9,0,25
+Madison,Wharton,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,43,0,27,6,0,10
+Madison,Alabam,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,273,42,149,37,3,42
+Madison,Boston,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,88,0,61,4,2,21
+Madison,Bowen,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,123,15,59,22,2,25
+Madison,California,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,294,3,207,40,6,38
+Madison,Hilburn,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,123,2,95,4,1,21
+Madison,Japton,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,71,4,40,10,2,15
+Madison,Kings River,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,309,0,203,43,6,57
+Madison,Lamar,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,297,5,218,36,3,35
+Madison,Lincoln,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,119,19,57,17,1,25
+Madison,Marble,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,113,19,66,14,0,14
+Madison,Mill Creek,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,120,23,73,9,0,15
+Madison,Prairie,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,432,0,298,55,6,73
+Madison,Richland,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,168,74,38,29,1,26
+Madison,Valley,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,154,1,142,3,3,5
+Madison,War Eagle,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,492,68,179,105,5,135
+Madison,Ward 1,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,102,7,41,17,3,34
+Madison,Ward 2,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,54,4,13,15,3,19
+Madison,Ward 3,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,105,18,26,25,2,34
+Madison,Ward 4,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,115,16,36,16,5,42
+Madison,Wharton,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,64,6,36,15,0,7
+Madison,Alabam,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,151,15,92,20,4,20
+Madison,Boston,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,37,0,28,2,1,6
+Madison,Bowen,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,85,7,56,6,0,16
+Madison,California,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,141,1,106,17,1,16
+Madison,Hilburn,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,55,2,48,1,0,4
+Madison,Japton,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,57,7,45,2,0,3
+Madison,Kings River,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,143,1,100,12,6,24
+Madison,Lamar,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,155,7,115,18,3,12
+Madison,Lincoln,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,39,5,21,4,0,9
+Madison,Marble,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,53,12,25,5,1,10
+Madison,Mill Creek,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,61,11,45,3,0,2
+Madison,Prairie,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,256,1,185,33,5,32
+Madison,Richland,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,94,37,34,12,0,11
+Madison,Valley,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,85,1,74,5,1,4
+Madison,War Eagle,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,264,33,99,54,5,73
+Madison,Ward 1,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,28,2,10,2,1,13
+Madison,Ward 2,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,12,0,5,1,0,6
+Madison,Ward 3,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,57,11,8,18,0,20
+Madison,Ward 4,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,45,10,15,8,0,12
+Madison,Wharton,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,41,6,17,6,0,12

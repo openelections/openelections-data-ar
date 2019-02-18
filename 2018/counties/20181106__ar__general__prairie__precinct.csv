@@ -1,0 +1,902 @@
+county,precinct,office,district,party,candidate,votes,election_day,early_voting,absentee,provisional
+Prairie,Belcher/Tyler,U.S. House,1,Dem,Chintan Desai,11,9,2,0,0
+Prairie,Bullard,U.S. House,1,Dem,Chintan Desai,9,7,2,0,0
+Prairie,Calhoun,U.S. House,1,Dem,Chintan Desai,13,10,3,0,0
+Prairie,Center,U.S. House,1,Dem,Chintan Desai,7,7,0,0,0
+Prairie,Des Arc,U.S. House,1,Dem,Chintan Desai,11,6,5,0,0
+Prairie,Hazen Ward 1,U.S. House,1,Dem,Chintan Desai,30,19,11,0,0
+Prairie,Hazen Ward 2,U.S. House,1,Dem,Chintan Desai,39,22,15,1,1
+Prairie,Hazen Ward 3,U.S. House,1,Dem,Chintan Desai,63,48,10,5,0
+Prairie,Hazen Country,U.S. House,1,Dem,Chintan Desai,25,15,10,0,0
+Prairie,Hickory Plains,U.S. House,1,Dem,Chintan Desai,26,17,7,2,0
+Prairie,Lower Hill City,U.S. House,1,Dem,Chintan Desai,43,37,6,0,0
+Prairie,Lower Hill Country,U.S. House,1,Dem,Chintan Desai,14,6,8,0,0
+Prairie,Roc Roe City,U.S. House,1,Dem,Chintan Desai,9,7,1,0,1
+Prairie,Roc Roe Country,U.S. House,1,Dem,Chintan Desai,6,2,4,0,0
+Prairie,Union,U.S. House,1,Dem,Chintan Desai,5,3,2,0,0
+Prairie,Upper Hill,U.S. House,1,Dem,Chintan Desai,6,3,3,0,0
+Prairie,Wattensaw City Ward 1,U.S. House,1,Dem,Chintan Desai,26,16,10,0,0
+Prairie,Wattensaw City Ward 2,U.S. House,1,Dem,Chintan Desai,27,12,15,0,0
+Prairie,Wattensaw City Ward 3,U.S. House,1,Dem,Chintan Desai,32,7,22,3,0
+Prairie,Wattensaw Country,U.S. House,1,Dem,Chintan Desai,32,19,11,2,0
+Prairie,White River City Ward 1,U.S. House,1,Dem,Chintan Desai,51,24,27,0,0
+Prairie,White River City Ward 2,U.S. House,1,Dem,Chintan Desai,44,17,24,3,0
+Prairie,White River City Ward 3,U.S. House,1,Dem,Chintan Desai,54,13,37,3,1
+Prairie,White River Country,U.S. House,1,Dem,Chintan Desai,45,23,20,2,0
+Prairie,Belcher/Tyler,U.S. House,1,Rep,Congressman Rick Crawford,95,86,6,1,2
+Prairie,Bullard,U.S. House,1,Rep,Congressman Rick Crawford,42,28,12,1,1
+Prairie,Calhoun,U.S. House,1,Rep,Congressman Rick Crawford,83,62,21,0,0
+Prairie,Center,U.S. House,1,Rep,Congressman Rick Crawford,128,99,29,0,0
+Prairie,Des Arc,U.S. House,1,Rep,Congressman Rick Crawford,66,53,12,1,0
+Prairie,Hazen Ward 1,U.S. House,1,Rep,Congressman Rick Crawford,122,80,41,1,0
+Prairie,Hazen Ward 2,U.S. House,1,Rep,Congressman Rick Crawford,114,78,36,0,0
+Prairie,Hazen Ward 3,U.S. House,1,Rep,Congressman Rick Crawford,90,54,34,0,2
+Prairie,Hazen Country,U.S. House,1,Rep,Congressman Rick Crawford,99,65,33,0,1
+Prairie,Hickory Plains,U.S. House,1,Rep,Congressman Rick Crawford,181,147,33,1,0
+Prairie,Lower Hill City,U.S. House,1,Rep,Congressman Rick Crawford,76,44,31,0,1
+Prairie,Lower Hill Country,U.S. House,1,Rep,Congressman Rick Crawford,64,41,23,0,0
+Prairie,Roc Roe City,U.S. House,1,Rep,Congressman Rick Crawford,48,44,3,1,0
+Prairie,Roc Roe Country,U.S. House,1,Rep,Congressman Rick Crawford,73,45,28,0,0
+Prairie,Union,U.S. House,1,Rep,Congressman Rick Crawford,24,17,7,0,0
+Prairie,Upper Hill,U.S. House,1,Rep,Congressman Rick Crawford,10,6,4,0,0
+Prairie,Wattensaw City Ward 1,U.S. House,1,Rep,Congressman Rick Crawford,29,7,22,0,0
+Prairie,Wattensaw City Ward 2,U.S. House,1,Rep,Congressman Rick Crawford,46,22,24,0,0
+Prairie,Wattensaw City Ward 3,U.S. House,1,Rep,Congressman Rick Crawford,16,6,10,0,0
+Prairie,Wattensaw Country,U.S. House,1,Rep,Congressman Rick Crawford,172,84,86,0,2
+Prairie,White River City Ward 1,U.S. House,1,Rep,Congressman Rick Crawford,89,43,46,0,0
+Prairie,White River City Ward 2,U.S. House,1,Rep,Congressman Rick Crawford,163,66,94,3,0
+Prairie,White River City Ward 3,U.S. House,1,Rep,Congressman Rick Crawford,160,77,81,2,0
+Prairie,White River Country,U.S. House,1,Rep,Congressman Rick Crawford,154,73,80,1,0
+Prairie,Belcher/Tyler,U.S. House,1,Lib,Elvis Presley,0,0,0,0,0
+Prairie,Bullard,U.S. House,1,Lib,Elvis Presley,1,1,0,0,0
+Prairie,Calhoun,U.S. House,1,Lib,Elvis Presley,1,1,0,0,0
+Prairie,Center,U.S. House,1,Lib,Elvis Presley,3,2,1,0,0
+Prairie,Des Arc,U.S. House,1,Lib,Elvis Presley,1,1,0,0,0
+Prairie,Hazen Ward 1,U.S. House,1,Lib,Elvis Presley,6,5,1,0,0
+Prairie,Hazen Ward 2,U.S. House,1,Lib,Elvis Presley,2,2,0,0,0
+Prairie,Hazen Ward 3,U.S. House,1,Lib,Elvis Presley,5,3,2,0,0
+Prairie,Hazen Country,U.S. House,1,Lib,Elvis Presley,2,2,0,0,0
+Prairie,Hickory Plains,U.S. House,1,Lib,Elvis Presley,1,1,0,0,0
+Prairie,Lower Hill City,U.S. House,1,Lib,Elvis Presley,1,1,0,0,0
+Prairie,Lower Hill Country,U.S. House,1,Lib,Elvis Presley,3,2,1,0,0
+Prairie,Roc Roe City,U.S. House,1,Lib,Elvis Presley,2,2,0,0,0
+Prairie,Roc Roe Country,U.S. House,1,Lib,Elvis Presley,1,1,0,0,0
+Prairie,Union,U.S. House,1,Lib,Elvis Presley,1,1,0,0,0
+Prairie,Upper Hill,U.S. House,1,Lib,Elvis Presley,0,0,0,0,0
+Prairie,Wattensaw City Ward 1,U.S. House,1,Lib,Elvis Presley,2,0,2,0,0
+Prairie,Wattensaw City Ward 2,U.S. House,1,Lib,Elvis Presley,2,0,2,0,0
+Prairie,Wattensaw City Ward 3,U.S. House,1,Lib,Elvis Presley,1,0,1,0,0
+Prairie,Wattensaw Country,U.S. House,1,Lib,Elvis Presley,3,1,2,0,0
+Prairie,White River City Ward 1,U.S. House,1,Lib,Elvis Presley,4,1,3,0,0
+Prairie,White River City Ward 2,U.S. House,1,Lib,Elvis Presley,1,0,1,0,0
+Prairie,White River City Ward 3,U.S. House,1,Lib,Elvis Presley,6,3,2,1,0
+Prairie,White River Country,U.S. House,1,Lib,Elvis Presley,6,5,1,0,0
+Prairie,Belcher/Tyler,Governor,,Lib,Mark West,1,1,0,0,0
+Prairie,Bullard,Governor,,Lib,Mark West,1,1,0,0,0
+Prairie,Calhoun,Governor,,Lib,Mark West,0,0,0,0,0
+Prairie,Center,Governor,,Lib,Mark West,1,1,0,0,0
+Prairie,Des Arc,Governor,,Lib,Mark West,1,0,1,0,0
+Prairie,Hazen Ward 1,Governor,,Lib,Mark West,4,4,0,0,0
+Prairie,Hazen Ward 2,Governor,,Lib,Mark West,4,2,1,0,1
+Prairie,Hazen Ward 3,Governor,,Lib,Mark West,1,0,1,0,0
+Prairie,Hazen Country,Governor,,Lib,Mark West,0,0,0,0,0
+Prairie,Hickory Plains,Governor,,Lib,Mark West,3,2,1,0,0
+Prairie,Lower Hill City,Governor,,Lib,Mark West,1,1,0,0,0
+Prairie,Lower Hill Country,Governor,,Lib,Mark West,3,3,0,0,0
+Prairie,Roc Roe City,Governor,,Lib,Mark West,2,2,0,0,0
+Prairie,Roc Roe Country,Governor,,Lib,Mark West,0,0,0,0,0
+Prairie,Union,Governor,,Lib,Mark West,0,0,0,0,0
+Prairie,Upper Hill,Governor,,Lib,Mark West,0,0,0,0,0
+Prairie,Wattensaw City Ward 1,Governor,,Lib,Mark West,1,0,1,0,0
+Prairie,Wattensaw City Ward 2,Governor,,Lib,Mark West,3,1,2,0,0
+Prairie,Wattensaw City Ward 3,Governor,,Lib,Mark West,0,0,0,0,0
+Prairie,Wattensaw Country,Governor,,Lib,Mark West,2,1,1,0,0
+Prairie,White River City Ward 1,Governor,,Lib,Mark West,3,2,1,0,0
+Prairie,White River City Ward 2,Governor,,Lib,Mark West,2,0,2,0,0
+Prairie,White River City Ward 3,Governor,,Lib,Mark West,7,4,3,0,0
+Prairie,White River Country,Governor,,Lib,Mark West,4,1,3,0,0
+Prairie,Belcher/Tyler,Governor,,Dem,Jared K. Henderson,10,8,2,0,0
+Prairie,Bullard,Governor,,Dem,Jared K. Henderson,11,9,2,0,0
+Prairie,Calhoun,Governor,,Dem,Jared K. Henderson,8,7,1,0,0
+Prairie,Center,Governor,,Dem,Jared K. Henderson,7,7,0,0,0
+Prairie,Des Arc,Governor,,Dem,Jared K. Henderson,10,7,3,0,0
+Prairie,Hazen Ward 1,Governor,,Dem,Jared K. Henderson,26,15,11,0,0
+Prairie,Hazen Ward 2,Governor,,Dem,Jared K. Henderson,37,21,16,0,0
+Prairie,Hazen Ward 3,Governor,,Dem,Jared K. Henderson,54,44,5,5,0
+Prairie,Hazen Country,Governor,,Dem,Jared K. Henderson,20,11,9,0,0
+Prairie,Hickory Plains,Governor,,Dem,Jared K. Henderson,26,19,5,2,0
+Prairie,Lower Hill City,Governor,,Dem,Jared K. Henderson,39,32,7,0,0
+Prairie,Lower Hill Country,Governor,,Dem,Jared K. Henderson,15,7,8,0,0
+Prairie,Roc Roe City,Governor,,Dem,Jared K. Henderson,9,7,1,0,1
+Prairie,Roc Roe Country,Governor,,Dem,Jared K. Henderson,6,2,4,0,0
+Prairie,Union,Governor,,Dem,Jared K. Henderson,6,4,2,0,0
+Prairie,Upper Hill,Governor,,Dem,Jared K. Henderson,7,5,2,0,0
+Prairie,Wattensaw City Ward 1,Governor,,Dem,Jared K. Henderson,23,12,11,0,0
+Prairie,Wattensaw City Ward 2,Governor,,Dem,Jared K. Henderson,22,10,12,0,0
+Prairie,Wattensaw City Ward 3,Governor,,Dem,Jared K. Henderson,30,6,21,3,0
+Prairie,Wattensaw Country,Governor,,Dem,Jared K. Henderson,24,15,8,1,0
+Prairie,White River City Ward 1,Governor,,Dem,Jared K. Henderson,54,25,29,0,0
+Prairie,White River City Ward 2,Governor,,Dem,Jared K. Henderson,40,14,23,3,0
+Prairie,White River City Ward 3,Governor,,Dem,Jared K. Henderson,45,11,33,0,1
+Prairie,White River Country,Governor,,Dem,Jared K. Henderson,31,17,12,2,0
+Prairie,Belcher/Tyler,Governor,,Rep,Governor Asa Hutchinson,95,86,6,1,2
+Prairie,Bullard,Governor,,Rep,Governor Asa Hutchinson,40,26,12,1,1
+Prairie,Calhoun,Governor,,Rep,Governor Asa Hutchinson,90,66,24,0,0
+Prairie,Center,Governor,,Rep,Governor Asa Hutchinson,129,99,30,0,0
+Prairie,Des Arc,Governor,,Rep,Governor Asa Hutchinson,70,55,14,1,0
+Prairie,Hazen Ward 1,Governor,,Rep,Governor Asa Hutchinson,130,87,42,1,0
+Prairie,Hazen Ward 2,Governor,,Rep,Governor Asa Hutchinson,119,81,37,1,0
+Prairie,Hazen Ward 3,Governor,,Rep,Governor Asa Hutchinson,105,63,40,0,2
+Prairie,Hazen Country,Governor,,Rep,Governor Asa Hutchinson,105,71,33,0,1
+Prairie,Hickory Plains,Governor,,Rep,Governor Asa Hutchinson,181,145,35,1,0
+Prairie,Lower Hill City,Governor,,Rep,Governor Asa Hutchinson,79,48,30,0,1
+Prairie,Lower Hill Country,Governor,,Rep,Governor Asa Hutchinson,66,42,24,0,0
+Prairie,Roc Roe City,Governor,,Rep,Governor Asa Hutchinson,50,46,3,1,0
+Prairie,Roc Roe Country,Governor,,Rep,Governor Asa Hutchinson,74,46,28,0,0
+Prairie,Union,Governor,,Rep,Governor Asa Hutchinson,25,17,8,0,0
+Prairie,Upper Hill,Governor,,Rep,Governor Asa Hutchinson,10,5,5,0,0
+Prairie,Wattensaw City Ward 1,Governor,,Rep,Governor Asa Hutchinson,36,11,25,0,0
+Prairie,Wattensaw City Ward 2,Governor,,Rep,Governor Asa Hutchinson,49,22,27,0,0
+Prairie,Wattensaw City Ward 3,Governor,,Rep,Governor Asa Hutchinson,20,7,13,0,0
+Prairie,Wattensaw Country,Governor,,Rep,Governor Asa Hutchinson,185,88,93,2,2
+Prairie,White River City Ward 1,Governor,,Rep,Governor Asa Hutchinson,88,42,46,0,0
+Prairie,White River City Ward 2,Governor,,Rep,Governor Asa Hutchinson,170,70,97,3,0
+Prairie,White River City Ward 3,Governor,,Rep,Governor Asa Hutchinson,169,77,87,5,0
+Prairie,White River Country,Governor,,Rep,Governor Asa Hutchinson,171,83,87,1,0
+Prairie,Belcher/Tyler,Lieutenant Governor,,Dem,Anthony Bland,11,9,2,0,0
+Prairie,Bullard,Lieutenant Governor,,Dem,Anthony Bland,7,5,2,0,0
+Prairie,Calhoun,Lieutenant Governor,,Dem,Anthony Bland,12,7,5,0,0
+Prairie,Center,Lieutenant Governor,,Dem,Anthony Bland,5,5,0,0,0
+Prairie,Des Arc,Lieutenant Governor,,Dem,Anthony Bland,13,10,3,0,0
+Prairie,Hazen Ward 1,Lieutenant Governor,,Dem,Anthony Bland,33,22,11,0,0
+Prairie,Hazen Ward 2,Lieutenant Governor,,Dem,Anthony Bland,35,20,15,0,0
+Prairie,Hazen Ward 3,Lieutenant Governor,,Dem,Anthony Bland,61,47,9,5,0
+Prairie,Hazen Country,Lieutenant Governor,,Dem,Anthony Bland,19,12,7,0,0
+Prairie,Hickory Plains,Lieutenant Governor,,Dem,Anthony Bland,24,15,7,2,0
+Prairie,Lower Hill City,Lieutenant Governor,,Dem,Anthony Bland,36,30,6,0,0
+Prairie,Lower Hill Country,Lieutenant Governor,,Dem,Anthony Bland,15,8,7,0,0
+Prairie,Roc Roe City,Lieutenant Governor,,Dem,Anthony Bland,9,7,1,0,1
+Prairie,Roc Roe Country,Lieutenant Governor,,Dem,Anthony Bland,7,1,6,0,0
+Prairie,Union,Lieutenant Governor,,Dem,Anthony Bland,4,2,2,0,0
+Prairie,Upper Hill,Lieutenant Governor,,Dem,Anthony Bland,5,3,2,0,0
+Prairie,Wattensaw City Ward 1,Lieutenant Governor,,Dem,Anthony Bland,23,13,10,0,0
+Prairie,Wattensaw City Ward 2,Lieutenant Governor,,Dem,Anthony Bland,24,12,12,0,0
+Prairie,Wattensaw City Ward 3,Lieutenant Governor,,Dem,Anthony Bland,32,6,23,3,0
+Prairie,Wattensaw Country,Lieutenant Governor,,Dem,Anthony Bland,28,18,9,1,0
+Prairie,White River City Ward 1,Lieutenant Governor,,Dem,Anthony Bland,54,24,30,0,0
+Prairie,White River City Ward 2,Lieutenant Governor,,Dem,Anthony Bland,37,15,18,4,0
+Prairie,White River City Ward 3,Lieutenant Governor,,Dem,Anthony Bland,49,8,38,2,1
+Prairie,White River Country,Lieutenant Governor,,Dem,Anthony Bland,36,19,15,2,0
+Prairie,Belcher/Tyler,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,96,87,6,1,2
+Prairie,Bullard,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,42,28,12,1,1
+Prairie,Calhoun,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,83,64,19,0,0
+Prairie,Center,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,131,102,29,0,0
+Prairie,Des Arc,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,67,52,14,1,0
+Prairie,Hazen Ward 1,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,124,81,42,1,0
+Prairie,Hazen Ward 2,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,121,81,38,1,1
+Prairie,Hazen Ward 3,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,93,55,36,0,2
+Prairie,Hazen Country,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,106,70,35,0,1
+Prairie,Hickory Plains,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,182,148,33,1,0
+Prairie,Lower Hill City,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,79,47,31,0,1
+Prairie,Lower Hill Country,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,67,42,25,0,0
+Prairie,Roc Roe City,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,48,44,3,1,0
+Prairie,Roc Roe Country,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,71,45,26,0,0
+Prairie,Union,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,26,19,7,0,0
+Prairie,Upper Hill,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,12,7,5,0,0
+Prairie,Wattensaw City Ward 1,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,35,10,25,0,0
+Prairie,Wattensaw City Ward 2,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,47,22,25,0,0
+Prairie,Wattensaw City Ward 3,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,18,7,11,0,0
+Prairie,Wattensaw Country,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,179,85,91,1,2
+Prairie,White River City Ward 1,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,88,43,45,0,0
+Prairie,White River City Ward 2,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,174,69,103,2,0
+Prairie,White River City Ward 3,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,168,83,81,4,0
+Prairie,White River Country,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,166,80,85,1,0
+Prairie,Belcher/Tyler,Lieutenant Governor,,Lib,Frank Gilbert,0,0,0,0,0
+Prairie,Bullard,Lieutenant Governor,,Lib,Frank Gilbert,3,3,0,0,0
+Prairie,Calhoun,Lieutenant Governor,,Lib,Frank Gilbert,2,2,0,0,0
+Prairie,Center,Lieutenant Governor,,Lib,Frank Gilbert,1,1,0,0,0
+Prairie,Des Arc,Lieutenant Governor,,Lib,Frank Gilbert,0,0,0,0,0
+Prairie,Hazen Ward 1,Lieutenant Governor,,Lib,Frank Gilbert,3,3,0,0,0
+Prairie,Hazen Ward 2,Lieutenant Governor,,Lib,Frank Gilbert,4,3,1,0,0
+Prairie,Hazen Ward 3,Lieutenant Governor,,Lib,Frank Gilbert,4,3,1,0,0
+Prairie,Hazen Country,Lieutenant Governor,,Lib,Frank Gilbert,0,0,0,0,0
+Prairie,Hickory Plains,Lieutenant Governor,,Lib,Frank Gilbert,3,2,1,0,0
+Prairie,Lower Hill City,Lieutenant Governor,,Lib,Frank Gilbert,5,5,0,0,0
+Prairie,Lower Hill Country,Lieutenant Governor,,Lib,Frank Gilbert,2,2,0,0,0
+Prairie,Roc Roe City,Lieutenant Governor,,Lib,Frank Gilbert,3,3,0,0,0
+Prairie,Roc Roe Country,Lieutenant Governor,,Lib,Frank Gilbert,1,1,0,0,0
+Prairie,Union,Lieutenant Governor,,Lib,Frank Gilbert,0,0,0,0,0
+Prairie,Upper Hill,Lieutenant Governor,,Lib,Frank Gilbert,0,0,0,0,0
+Prairie,Wattensaw City Ward 1,Lieutenant Governor,,Lib,Frank Gilbert,1,0,1,0,0
+Prairie,Wattensaw City Ward 2,Lieutenant Governor,,Lib,Frank Gilbert,4,1,3,0,0
+Prairie,Wattensaw City Ward 3,Lieutenant Governor,,Lib,Frank Gilbert,0,0,0,0,0
+Prairie,Wattensaw Country,Lieutenant Governor,,Lib,Frank Gilbert,2,1,1,0,0
+Prairie,White River City Ward 1,Lieutenant Governor,,Lib,Frank Gilbert,1,1,0,0,0
+Prairie,White River City Ward 2,Lieutenant Governor,,Lib,Frank Gilbert,1,0,1,0,0
+Prairie,White River City Ward 3,Lieutenant Governor,,Lib,Frank Gilbert,5,2,3,0,0
+Prairie,White River Country,Lieutenant Governor,,Lib,Frank Gilbert,5,3,2,0,0
+Prairie,Belcher/Tyler,Attorney General,,Rep,Attorney General Leslie Rutledge,93,84,6,1,2
+Prairie,Bullard,Attorney General,,Rep,Attorney General Leslie Rutledge,41,27,12,1,1
+Prairie,Calhoun,Attorney General,,Rep,Attorney General Leslie Rutledge,83,62,21,0,0
+Prairie,Center,Attorney General,,Rep,Attorney General Leslie Rutledge,124,96,28,0,0
+Prairie,Des Arc,Attorney General,,Rep,Attorney General Leslie Rutledge,65,53,12,0,0
+Prairie,Hazen Ward 1,Attorney General,,Rep,Attorney General Leslie Rutledge,125,82,42,1,0
+Prairie,Hazen Ward 2,Attorney General,,Rep,Attorney General Leslie Rutledge,111,73,38,0,0
+Prairie,Hazen Ward 3,Attorney General,,Rep,Attorney General Leslie Rutledge,93,53,38,0,2
+Prairie,Hazen Country,Attorney General,,Rep,Attorney General Leslie Rutledge,98,64,33,0,1
+Prairie,Hickory Plains,Attorney General,,Rep,Attorney General Leslie Rutledge,177,142,34,1,0
+Prairie,Lower Hill City,Attorney General,,Rep,Attorney General Leslie Rutledge,75,45,29,0,1
+Prairie,Lower Hill Country,Attorney General,,Rep,Attorney General Leslie Rutledge,68,43,25,0,0
+Prairie,Roc Roe City,Attorney General,,Rep,Attorney General Leslie Rutledge,46,43,2,1,0
+Prairie,Roc Roe Country,Attorney General,,Rep,Attorney General Leslie Rutledge,74,47,27,0,0
+Prairie,Union,Attorney General,,Rep,Attorney General Leslie Rutledge,26,19,7,0,0
+Prairie,Upper Hill,Attorney General,,Rep,Attorney General Leslie Rutledge,11,6,5,0,0
+Prairie,Wattensaw City Ward 1,Attorney General,,Rep,Attorney General Leslie Rutledge,32,8,24,0,0
+Prairie,Wattensaw City Ward 2,Attorney General,,Rep,Attorney General Leslie Rutledge,44,19,25,0,0
+Prairie,Wattensaw City Ward 3,Attorney General,,Rep,Attorney General Leslie Rutledge,19,8,11,0,0
+Prairie,Wattensaw Country,Attorney General,,Rep,Attorney General Leslie Rutledge,173,80,90,1,2
+Prairie,White River City Ward 1,Attorney General,,Rep,Attorney General Leslie Rutledge,83,39,44,0,0
+Prairie,White River City Ward 2,Attorney General,,Rep,Attorney General Leslie Rutledge,157,61,94,2,0
+Prairie,White River City Ward 3,Attorney General,,Rep,Attorney General Leslie Rutledge,158,73,82,3,0
+Prairie,White River Country,Attorney General,,Rep,Attorney General Leslie Rutledge,163,75,87,1,0
+Prairie,Belcher/Tyler,Attorney General,,Dem,Mike Lee,12,10,2,0,0
+Prairie,Bullard,Attorney General,,Dem,Mike Lee,11,9,2,0,0
+Prairie,Calhoun,Attorney General,,Dem,Mike Lee,12,9,3,0,0
+Prairie,Center,Attorney General,,Dem,Mike Lee,11,9,2,0,0
+Prairie,Des Arc,Attorney General,,Dem,Mike Lee,13,7,5,1,0
+Prairie,Hazen Ward 1,Attorney General,,Dem,Mike Lee,34,23,11,0,0
+Prairie,Hazen Ward 2,Attorney General,,Dem,Mike Lee,46,29,15,1,1
+Prairie,Hazen Ward 3,Attorney General,,Dem,Mike Lee,62,50,7,5,0
+Prairie,Hazen Country,Attorney General,,Dem,Mike Lee,27,18,9,0,0
+Prairie,Hickory Plains,Attorney General,,Dem,Mike Lee,30,21,7,2,0
+Prairie,Lower Hill City,Attorney General,,Dem,Mike Lee,42,34,8,0,0
+Prairie,Lower Hill Country,Attorney General,,Dem,Mike Lee,16,8,8,0,0
+Prairie,Roc Roe City,Attorney General,,Dem,Mike Lee,12,9,2,0,1
+Prairie,Roc Roe Country,Attorney General,,Dem,Mike Lee,5,0,5,0,0
+Prairie,Union,Attorney General,,Dem,Mike Lee,5,2,3,0,0
+Prairie,Upper Hill,Attorney General,,Dem,Mike Lee,5,3,2,0,0
+Prairie,Wattensaw City Ward 1,Attorney General,,Dem,Mike Lee,26,14,12,0,0
+Prairie,Wattensaw City Ward 2,Attorney General,,Dem,Mike Lee,28,15,13,0,0
+Prairie,Wattensaw City Ward 3,Attorney General,,Dem,Mike Lee,31,5,23,3,0
+Prairie,Wattensaw Country,Attorney General,,Dem,Mike Lee,33,21,11,1,0
+Prairie,White River City Ward 1,Attorney General,,Dem,Mike Lee,59,27,32,0,0
+Prairie,White River City Ward 2,Attorney General,,Dem,Mike Lee,52,22,26,4,0
+Prairie,White River City Ward 3,Attorney General,,Dem,Mike Lee,55,17,35,2,1
+Prairie,White River Country,Attorney General,,Dem,Mike Lee,41,23,16,2,0
+Prairie,Belcher/Tyler,Attorney General,,Lib,Kerry Hicks,2,2,0,0,0
+Prairie,Bullard,Attorney General,,Lib,Kerry Hicks,0,0,0,0,0
+Prairie,Calhoun,Attorney General,,Lib,Kerry Hicks,2,2,0,0,0
+Prairie,Center,Attorney General,,Lib,Kerry Hicks,3,3,0,0,0
+Prairie,Des Arc,Attorney General,,Lib,Kerry Hicks,0,0,0,0,0
+Prairie,Hazen Ward 1,Attorney General,,Lib,Kerry Hicks,1,1,0,0,0
+Prairie,Hazen Ward 2,Attorney General,,Lib,Kerry Hicks,2,2,0,0,0
+Prairie,Hazen Ward 3,Attorney General,,Lib,Kerry Hicks,3,2,1,0,0
+Prairie,Hazen Country,Attorney General,,Lib,Kerry Hicks,0,0,0,0,0
+Prairie,Hickory Plains,Attorney General,,Lib,Kerry Hicks,2,2,0,0,0
+Prairie,Lower Hill City,Attorney General,,Lib,Kerry Hicks,2,2,0,0,0
+Prairie,Lower Hill Country,Attorney General,,Lib,Kerry Hicks,0,0,0,0,0
+Prairie,Roc Roe City,Attorney General,,Lib,Kerry Hicks,3,3,0,0,0
+Prairie,Roc Roe Country,Attorney General,,Lib,Kerry Hicks,0,0,0,0,0
+Prairie,Union,Attorney General,,Lib,Kerry Hicks,0,0,0,0,0
+Prairie,Upper Hill,Attorney General,,Lib,Kerry Hicks,0,0,0,0,0
+Prairie,Wattensaw City Ward 1,Attorney General,,Lib,Kerry Hicks,2,1,1,0,0
+Prairie,Wattensaw City Ward 2,Attorney General,,Lib,Kerry Hicks,3,1,2,0,0
+Prairie,Wattensaw City Ward 3,Attorney General,,Lib,Kerry Hicks,0,0,0,0,0
+Prairie,Wattensaw Country,Attorney General,,Lib,Kerry Hicks,4,3,1,0,0
+Prairie,White River City Ward 1,Attorney General,,Lib,Kerry Hicks,2,2,0,0,0
+Prairie,White River City Ward 2,Attorney General,,Lib,Kerry Hicks,4,1,3,0,0
+Prairie,White River City Ward 3,Attorney General,,Lib,Kerry Hicks,8,3,4,1,0
+Prairie,White River Country,Attorney General,,Lib,Kerry Hicks,3,3,0,0,0
+Prairie,Belcher/Tyler,Secretary of State,,Dem,Susan Inman,17,15,2,0,0
+Prairie,Bullard,Secretary of State,,Dem,Susan Inman,10,8,2,0,0
+Prairie,Calhoun,Secretary of State,,Dem,Susan Inman,15,11,4,0,0
+Prairie,Center,Secretary of State,,Dem,Susan Inman,14,13,1,0,0
+Prairie,Des Arc,Secretary of State,,Dem,Susan Inman,19,12,6,1,0
+Prairie,Hazen Ward 1,Secretary of State,,Dem,Susan Inman,40,26,14,0,0
+Prairie,Hazen Ward 2,Secretary of State,,Dem,Susan Inman,51,31,20,0,0
+Prairie,Hazen Ward 3,Secretary of State,,Dem,Susan Inman,71,53,13,5,0
+Prairie,Hazen Country,Secretary of State,,Dem,Susan Inman,25,16,9,0,0
+Prairie,Hickory Plains,Secretary of State,,Dem,Susan Inman,26,17,7,2,0
+Prairie,Lower Hill City,Secretary of State,,Dem,Susan Inman,42,34,8,0,0
+Prairie,Lower Hill Country,Secretary of State,,Dem,Susan Inman,17,8,9,0,0
+Prairie,Roc Roe City,Secretary of State,,Dem,Susan Inman,11,9,1,0,1
+Prairie,Roc Roe Country,Secretary of State,,Dem,Susan Inman,12,6,6,0,0
+Prairie,Union,Secretary of State,,Dem,Susan Inman,8,6,2,0,0
+Prairie,Upper Hill,Secretary of State,,Dem,Susan Inman,7,5,2,0,0
+Prairie,Wattensaw City Ward 1,Secretary of State,,Dem,Susan Inman,29,15,14,0,0
+Prairie,Wattensaw City Ward 2,Secretary of State,,Dem,Susan Inman,33,14,19,0,0
+Prairie,Wattensaw City Ward 3,Secretary of State,,Dem,Susan Inman,33,7,23,3,0
+Prairie,Wattensaw Country,Secretary of State,,Dem,Susan Inman,36,22,13,1,0
+Prairie,White River City Ward 1,Secretary of State,,Dem,Susan Inman,63,30,33,0,0
+Prairie,White River City Ward 2,Secretary of State,,Dem,Susan Inman,56,20,31,5,0
+Prairie,White River City Ward 3,Secretary of State,,Dem,Susan Inman,58,16,36,5,1
+Prairie,White River Country,Secretary of State,,Dem,Susan Inman,52,30,20,2,0
+Prairie,Belcher/Tyler,Secretary of State,,Rep,John Thurston Commissioner of State Lands,89,80,6,1,2
+Prairie,Bullard,Secretary of State,,Rep,John Thurston Commissioner of State Lands,42,28,12,1,1
+Prairie,Calhoun,Secretary of State,,Rep,John Thurston Commissioner of State Lands,81,60,21,0,0
+Prairie,Center,Secretary of State,,Rep,John Thurston Commissioner of State Lands,124,95,29,0,0
+Prairie,Des Arc,Secretary of State,,Rep,John Thurston Commissioner of State Lands,61,49,12,0,0
+Prairie,Hazen Ward 1,Secretary of State,,Rep,John Thurston Commissioner of State Lands,116,76,39,1,0
+Prairie,Hazen Ward 2,Secretary of State,,Rep,John Thurston Commissioner of State Lands,105,71,33,0,1
+Prairie,Hazen Ward 3,Secretary of State,,Rep,John Thurston Commissioner of State Lands,87,52,33,0,2
+Prairie,Hazen Country,Secretary of State,,Rep,John Thurston Commissioner of State Lands,98,63,34,0,1
+Prairie,Hickory Plains,Secretary of State,,Rep,John Thurston Commissioner of State Lands,181,147,33,1,0
+Prairie,Lower Hill City,Secretary of State,,Rep,John Thurston Commissioner of State Lands,74,44,29,0,1
+Prairie,Lower Hill Country,Secretary of State,,Rep,John Thurston Commissioner of State Lands,66,42,24,0,0
+Prairie,Roc Roe City,Secretary of State,,Rep,John Thurston Commissioner of State Lands,48,44,3,1,0
+Prairie,Roc Roe Country,Secretary of State,,Rep,John Thurston Commissioner of State Lands,67,41,26,0,0
+Prairie,Union,Secretary of State,,Rep,John Thurston Commissioner of State Lands,22,15,7,0,0
+Prairie,Upper Hill,Secretary of State,,Rep,John Thurston Commissioner of State Lands,10,5,5,0,0
+Prairie,Wattensaw City Ward 1,Secretary of State,,Rep,John Thurston Commissioner of State Lands,26,5,21,0,0
+Prairie,Wattensaw City Ward 2,Secretary of State,,Rep,John Thurston Commissioner of State Lands,39,20,19,0,0
+Prairie,Wattensaw City Ward 3,Secretary of State,,Rep,John Thurston Commissioner of State Lands,17,6,11,0,0
+Prairie,Wattensaw Country,Secretary of State,,Rep,John Thurston Commissioner of State Lands,166,77,86,1,2
+Prairie,White River City Ward 1,Secretary of State,,Rep,John Thurston Commissioner of State Lands,76,34,42,0,0
+Prairie,White River City Ward 2,Secretary of State,,Rep,John Thurston Commissioner of State Lands,157,64,92,1,0
+Prairie,White River City Ward 3,Secretary of State,,Rep,John Thurston Commissioner of State Lands,157,74,83,0,0
+Prairie,White River Country,Secretary of State,,Rep,John Thurston Commissioner of State Lands,154,70,83,1,0
+Prairie,Belcher/Tyler,Secretary of State,,Lib,Christopher Olson,0,0,0,0,0
+Prairie,Bullard,Secretary of State,,Lib,Christopher Olson,0,0,0,0,0
+Prairie,Calhoun,Secretary of State,,Lib,Christopher Olson,1,1,0,0,0
+Prairie,Center,Secretary of State,,Lib,Christopher Olson,0,0,0,0,0
+Prairie,Des Arc,Secretary of State,,Lib,Christopher Olson,0,0,0,0,0
+Prairie,Hazen Ward 1,Secretary of State,,Lib,Christopher Olson,3,3,0,0,0
+Prairie,Hazen Ward 2,Secretary of State,,Lib,Christopher Olson,3,2,0,1,0
+Prairie,Hazen Ward 3,Secretary of State,,Lib,Christopher Olson,1,0,1,0,0
+Prairie,Hazen Country,Secretary of State,,Lib,Christopher Olson,2,2,0,0,0
+Prairie,Hickory Plains,Secretary of State,,Lib,Christopher Olson,3,2,1,0,0
+Prairie,Lower Hill City,Secretary of State,,Lib,Christopher Olson,3,3,0,0,0
+Prairie,Lower Hill Country,Secretary of State,,Lib,Christopher Olson,0,0,0,0,0
+Prairie,Roc Roe City,Secretary of State,,Lib,Christopher Olson,1,1,0,0,0
+Prairie,Roc Roe Country,Secretary of State,,Lib,Christopher Olson,0,0,0,0,0
+Prairie,Union,Secretary of State,,Lib,Christopher Olson,1,0,1,0,0
+Prairie,Upper Hill,Secretary of State,,Lib,Christopher Olson,0,0,0,0,0
+Prairie,Wattensaw City Ward 1,Secretary of State,,Lib,Christopher Olson,4,3,1,0,0
+Prairie,Wattensaw City Ward 2,Secretary of State,,Lib,Christopher Olson,2,0,2,0,0
+Prairie,Wattensaw City Ward 3,Secretary of State,,Lib,Christopher Olson,0,0,0,0,0
+Prairie,Wattensaw Country,Secretary of State,,Lib,Christopher Olson,7,5,2,0,0
+Prairie,White River City Ward 1,Secretary of State,,Lib,Christopher Olson,4,3,1,0,0
+Prairie,White River City Ward 2,Secretary of State,,Lib,Christopher Olson,0,0,0,0,0
+Prairie,White River City Ward 3,Secretary of State,,Lib,Christopher Olson,6,3,2,1,0
+Prairie,White River Country,Secretary of State,,Lib,Christopher Olson,1,1,0,0,0
+Prairie,Belcher/Tyler,State Treasurer,,Lib,Ashley Ewald,12,9,3,0,0
+Prairie,Bullard,State Treasurer,,Lib,Ashley Ewald,9,8,1,0,0
+Prairie,Calhoun,State Treasurer,,Lib,Ashley Ewald,7,6,1,0,0
+Prairie,Center,State Treasurer,,Lib,Ashley Ewald,13,13,0,0,0
+Prairie,Des Arc,State Treasurer,,Lib,Ashley Ewald,12,9,2,1,0
+Prairie,Hazen Ward 1,State Treasurer,,Lib,Ashley Ewald,24,15,9,0,0
+Prairie,Hazen Ward 2,State Treasurer,,Lib,Ashley Ewald,28,18,9,0,1
+Prairie,Hazen Ward 3,State Treasurer,,Lib,Ashley Ewald,49,37,7,5,0
+Prairie,Hazen Country,State Treasurer,,Lib,Ashley Ewald,15,13,2,0,0
+Prairie,Hickory Plains,State Treasurer,,Lib,Ashley Ewald,21,15,5,1,0
+Prairie,Lower Hill City,State Treasurer,,Lib,Ashley Ewald,26,22,4,0,0
+Prairie,Lower Hill Country,State Treasurer,,Lib,Ashley Ewald,14,8,6,0,0
+Prairie,Roc Roe City,State Treasurer,,Lib,Ashley Ewald,6,4,1,0,1
+Prairie,Roc Roe Country,State Treasurer,,Lib,Ashley Ewald,6,1,5,0,0
+Prairie,Union,State Treasurer,,Lib,Ashley Ewald,7,4,3,0,0
+Prairie,Upper Hill,State Treasurer,,Lib,Ashley Ewald,4,2,2,0,0
+Prairie,Wattensaw City Ward 1,State Treasurer,,Lib,Ashley Ewald,26,16,10,0,0
+Prairie,Wattensaw City Ward 2,State Treasurer,,Lib,Ashley Ewald,23,13,10,0,0
+Prairie,Wattensaw City Ward 3,State Treasurer,,Lib,Ashley Ewald,22,5,14,3,0
+Prairie,Wattensaw Country,State Treasurer,,Lib,Ashley Ewald,30,16,13,1,0
+Prairie,White River City Ward 1,State Treasurer,,Lib,Ashley Ewald,46,23,23,0,0
+Prairie,White River City Ward 2,State Treasurer,,Lib,Ashley Ewald,38,16,19,3,0
+Prairie,White River City Ward 3,State Treasurer,,Lib,Ashley Ewald,36,10,24,1,1
+Prairie,White River Country,State Treasurer,,Lib,Ashley Ewald,29,19,8,2,0
+Prairie,Belcher/Tyler,State Treasurer,,Rep,Treasurer of State Dennis Milligan,93,86,5,0,2
+Prairie,Bullard,State Treasurer,,Rep,Treasurer of State Dennis Milligan,43,28,13,1,1
+Prairie,Calhoun,State Treasurer,,Rep,Treasurer of State Dennis Milligan,86,64,22,0,0
+Prairie,Center,State Treasurer,,Rep,Treasurer of State Dennis Milligan,125,95,30,0,0
+Prairie,Des Arc,State Treasurer,,Rep,Treasurer of State Dennis Milligan,67,52,15,0,0
+Prairie,Hazen Ward 1,State Treasurer,,Rep,Treasurer of State Dennis Milligan,134,89,44,1,0
+Prairie,Hazen Ward 2,State Treasurer,,Rep,Treasurer of State Dennis Milligan,126,82,43,1,0
+Prairie,Hazen Ward 3,State Treasurer,,Rep,Treasurer of State Dennis Milligan,103,62,39,0,2
+Prairie,Hazen Country,State Treasurer,,Rep,Treasurer of State Dennis Milligan,109,68,40,0,1
+Prairie,Hickory Plains,State Treasurer,,Rep,Treasurer of State Dennis Milligan,188,150,36,2,0
+Prairie,Lower Hill City,State Treasurer,,Rep,Treasurer of State Dennis Milligan,81,49,31,0,1
+Prairie,Lower Hill Country,State Treasurer,,Rep,Treasurer of State Dennis Milligan,67,42,25,0,0
+Prairie,Roc Roe City,State Treasurer,,Rep,Treasurer of State Dennis Milligan,53,49,3,1,0
+Prairie,Roc Roe Country,State Treasurer,,Rep,Treasurer of State Dennis Milligan,72,45,27,0,0
+Prairie,Union,State Treasurer,,Rep,Treasurer of State Dennis Milligan,24,17,7,0,0
+Prairie,Upper Hill,State Treasurer,,Rep,Treasurer of State Dennis Milligan,11,6,5,0,0
+Prairie,Wattensaw City Ward 1,State Treasurer,,Rep,Treasurer of State Dennis Milligan,32,7,25,0,0
+Prairie,Wattensaw City Ward 2,State Treasurer,,Rep,Treasurer of State Dennis Milligan,49,22,27,0,0
+Prairie,Wattensaw City Ward 3,State Treasurer,,Rep,Treasurer of State Dennis Milligan,23,8,15,0,0
+Prairie,Wattensaw Country,State Treasurer,,Rep,Treasurer of State Dennis Milligan,176,84,89,1,2
+Prairie,White River City Ward 1,State Treasurer,,Rep,Treasurer of State Dennis Milligan,89,42,47,0,0
+Prairie,White River City Ward 2,State Treasurer,,Rep,Treasurer of State Dennis Milligan,172,68,101,3,0
+Prairie,White River City Ward 3,State Treasurer,,Rep,Treasurer of State Dennis Milligan,180,83,92,5,0
+Prairie,White River Country,State Treasurer,,Rep,Treasurer of State Dennis Milligan,179,83,95,1,0
+Prairie,Belcher/Tyler,Auditor of State,,Lib,David E. Dinwiddie,10,9,1,0,0
+Prairie,Bullard,Auditor of State,,Lib,David E. Dinwiddie,10,7,3,0,0
+Prairie,Calhoun,Auditor of State,,Lib,David E. Dinwiddie,7,6,1,0,0
+Prairie,Center,Auditor of State,,Lib,David E. Dinwiddie,8,8,0,0,0
+Prairie,Des Arc,Auditor of State,,Lib,David E. Dinwiddie,9,6,3,0,0
+Prairie,Hazen Ward 1,Auditor of State,,Lib,David E. Dinwiddie,24,16,8,0,0
+Prairie,Hazen Ward 2,Auditor of State,,Lib,David E. Dinwiddie,25,17,7,0,1
+Prairie,Hazen Ward 3,Auditor of State,,Lib,David E. Dinwiddie,46,35,7,4,0
+Prairie,Hazen Country,Auditor of State,,Lib,David E. Dinwiddie,12,10,2,0,0
+Prairie,Hickory Plains,Auditor of State,,Lib,David E. Dinwiddie,13,7,5,1,0
+Prairie,Lower Hill City,Auditor of State,,Lib,David E. Dinwiddie,29,24,5,0,0
+Prairie,Lower Hill Country,Auditor of State,,Lib,David E. Dinwiddie,17,10,7,0,0
+Prairie,Roc Roe City,Auditor of State,,Lib,David E. Dinwiddie,5,3,1,0,1
+Prairie,Roc Roe Country,Auditor of State,,Lib,David E. Dinwiddie,4,0,4,0,0
+Prairie,Union,Auditor of State,,Lib,David E. Dinwiddie,6,4,2,0,0
+Prairie,Upper Hill,Auditor of State,,Lib,David E. Dinwiddie,4,2,2,0,0
+Prairie,Wattensaw City Ward 1,Auditor of State,,Lib,David E. Dinwiddie,22,14,8,0,0
+Prairie,Wattensaw City Ward 2,Auditor of State,,Lib,David E. Dinwiddie,18,10,8,0,0
+Prairie,Wattensaw City Ward 3,Auditor of State,,Lib,David E. Dinwiddie,24,5,16,3,0
+Prairie,Wattensaw Country,Auditor of State,,Lib,David E. Dinwiddie,25,14,10,1,0
+Prairie,White River City Ward 1,Auditor of State,,Lib,David E. Dinwiddie,45,19,26,0,0
+Prairie,White River City Ward 2,Auditor of State,,Lib,David E. Dinwiddie,24,11,12,1,0
+Prairie,White River City Ward 3,Auditor of State,,Lib,David E. Dinwiddie,35,9,22,3,1
+Prairie,White River Country,Auditor of State,,Lib,David E. Dinwiddie,27,16,9,2,0
+Prairie,Belcher/Tyler,Auditor of State,,Rep,Auditor Andrea Lea,96,86,7,1,2
+Prairie,Bullard,Auditor of State,,Rep,Auditor Andrea Lea,41,28,11,1,1
+Prairie,Calhoun,Auditor of State,,Rep,Auditor Andrea Lea,88,66,22,0,0
+Prairie,Center,Auditor of State,,Rep,Auditor Andrea Lea,129,100,29,0,0
+Prairie,Des Arc,Auditor of State,,Rep,Auditor Andrea Lea,69,55,14,0,0
+Prairie,Hazen Ward 1,Auditor of State,,Rep,Auditor Andrea Lea,134,88,45,1,0
+Prairie,Hazen Ward 2,Auditor of State,,Rep,Auditor Andrea Lea,128,82,45,1,0
+Prairie,Hazen Ward 3,Auditor of State,,Rep,Auditor Andrea Lea,104,64,38,0,2
+Prairie,Hazen Country,Auditor of State,,Rep,Auditor Andrea Lea,112,71,40,0,1
+Prairie,Hickory Plains,Auditor of State,,Rep,Auditor Andrea Lea,196,158,36,2,0
+Prairie,Lower Hill City,Auditor of State,,Rep,Auditor Andrea Lea,81,49,31,0,1
+Prairie,Lower Hill Country,Auditor of State,,Rep,Auditor Andrea Lea,65,39,26,0,0
+Prairie,Roc Roe City,Auditor of State,,Rep,Auditor Andrea Lea,54,50,3,1,0
+Prairie,Roc Roe Country,Auditor of State,,Rep,Auditor Andrea Lea,74,46,28,0,0
+Prairie,Union,Auditor of State,,Rep,Auditor Andrea Lea,24,16,8,0,0
+Prairie,Upper Hill,Auditor of State,,Rep,Auditor Andrea Lea,11,6,5,0,0
+Prairie,Wattensaw City Ward 1,Auditor of State,,Rep,Auditor Andrea Lea,36,9,27,0,0
+Prairie,Wattensaw City Ward 2,Auditor of State,,Rep,Auditor Andrea Lea,53,25,28,0,0
+Prairie,Wattensaw City Ward 3,Auditor of State,,Rep,Auditor Andrea Lea,20,8,12,0,0
+Prairie,Wattensaw Country,Auditor of State,,Rep,Auditor Andrea Lea,182,88,91,1,2
+Prairie,White River City Ward 1,Auditor of State,,Rep,Auditor Andrea Lea,89,43,46,0,0
+Prairie,White River City Ward 2,Auditor of State,,Rep,Auditor Andrea Lea,183,71,107,5,0
+Prairie,White River City Ward 3,Auditor of State,,Rep,Auditor Andrea Lea,181,84,94,3,0
+Prairie,White River Country,Auditor of State,,Rep,Auditor Andrea Lea,178,84,93,1,0
+Prairie,Belcher/Tyler,Commissioner of State Lands,,Lib,T.J. Campbell,1,1,0,0,0
+Prairie,Bullard,Commissioner of State Lands,,Lib,T.J. Campbell,3,1,2,0,0
+Prairie,Calhoun,Commissioner of State Lands,,Lib,T.J. Campbell,2,2,0,0,0
+Prairie,Center,Commissioner of State Lands,,Lib,T.J. Campbell,1,1,0,0,0
+Prairie,Des Arc,Commissioner of State Lands,,Lib,T.J. Campbell,0,0,0,0,0
+Prairie,Hazen Ward 1,Commissioner of State Lands,,Lib,T.J. Campbell,0,0,0,0,0
+Prairie,Hazen Ward 2,Commissioner of State Lands,,Lib,T.J. Campbell,2,1,1,0,0
+Prairie,Hazen Ward 3,Commissioner of State Lands,,Lib,T.J. Campbell,5,4,1,0,0
+Prairie,Hazen Country,Commissioner of State Lands,,Lib,T.J. Campbell,0,0,0,0,0
+Prairie,Hickory Plains,Commissioner of State Lands,,Lib,T.J. Campbell,3,3,0,0,0
+Prairie,Lower Hill City,Commissioner of State Lands,,Lib,T.J. Campbell,2,2,0,0,0
+Prairie,Lower Hill Country,Commissioner of State Lands,,Lib,T.J. Campbell,4,4,0,0,0
+Prairie,Roc Roe City,Commissioner of State Lands,,Lib,T.J. Campbell,5,4,0,1,0
+Prairie,Roc Roe Country,Commissioner of State Lands,,Lib,T.J. Campbell,2,2,0,0,0
+Prairie,Union,Commissioner of State Lands,,Lib,T.J. Campbell,0,0,0,0,0
+Prairie,Upper Hill,Commissioner of State Lands,,Lib,T.J. Campbell,0,0,0,0,0
+Prairie,Wattensaw City Ward 1,Commissioner of State Lands,,Lib,T.J. Campbell,4,2,2,0,0
+Prairie,Wattensaw City Ward 2,Commissioner of State Lands,,Lib,T.J. Campbell,3,2,1,0,0
+Prairie,Wattensaw City Ward 3,Commissioner of State Lands,,Lib,T.J. Campbell,2,0,0,2,0
+Prairie,Wattensaw Country,Commissioner of State Lands,,Lib,T.J. Campbell,8,3,5,0,0
+Prairie,White River City Ward 1,Commissioner of State Lands,,Lib,T.J. Campbell,3,3,0,0,0
+Prairie,White River City Ward 2,Commissioner of State Lands,,Lib,T.J. Campbell,2,0,2,0,0
+Prairie,White River City Ward 3,Commissioner of State Lands,,Lib,T.J. Campbell,3,2,1,0,0
+Prairie,White River Country,Commissioner of State Lands,,Lib,T.J. Campbell,4,3,1,0,0
+Prairie,Belcher/Tyler,Commissioner of State Lands,,Dem,Larry Williams,15,13,2,0,0
+Prairie,Bullard,Commissioner of State Lands,,Dem,Larry Williams,11,9,1,0,1
+Prairie,Calhoun,Commissioner of State Lands,,Dem,Larry Williams,18,13,5,0,0
+Prairie,Center,Commissioner of State Lands,,Dem,Larry Williams,12,11,1,0,0
+Prairie,Des Arc,Commissioner of State Lands,,Dem,Larry Williams,22,16,5,1,0
+Prairie,Hazen Ward 1,Commissioner of State Lands,,Dem,Larry Williams,40,28,12,0,0
+Prairie,Hazen Ward 2,Commissioner of State Lands,,Dem,Larry Williams,50,29,19,1,1
+Prairie,Hazen Ward 3,Commissioner of State Lands,,Dem,Larry Williams,67,48,12,5,2
+Prairie,Hazen Country,Commissioner of State Lands,,Dem,Larry Williams,27,17,10,0,0
+Prairie,Hickory Plains,Commissioner of State Lands,,Dem,Larry Williams,32,21,9,2,0
+Prairie,Lower Hill City,Commissioner of State Lands,,Dem,Larry Williams,48,40,8,0,0
+Prairie,Lower Hill Country,Commissioner of State Lands,,Dem,Larry Williams,17,8,9,0,0
+Prairie,Roc Roe City,Commissioner of State Lands,,Dem,Larry Williams,14,12,1,0,1
+Prairie,Roc Roe Country,Commissioner of State Lands,,Dem,Larry Williams,9,3,6,0,0
+Prairie,Union,Commissioner of State Lands,,Dem,Larry Williams,9,6,3,0,0
+Prairie,Upper Hill,Commissioner of State Lands,,Dem,Larry Williams,10,6,4,0,0
+Prairie,Wattensaw City Ward 1,Commissioner of State Lands,,Dem,Larry Williams,26,12,14,0,0
+Prairie,Wattensaw City Ward 2,Commissioner of State Lands,,Dem,Larry Williams,31,15,16,0,0
+Prairie,Wattensaw City Ward 3,Commissioner of State Lands,,Dem,Larry Williams,31,7,23,1,0
+Prairie,Wattensaw Country,Commissioner of State Lands,,Dem,Larry Williams,36,22,13,1,0
+Prairie,White River City Ward 1,Commissioner of State Lands,,Dem,Larry Williams,63,31,32,0,0
+Prairie,White River City Ward 2,Commissioner of State Lands,,Dem,Larry Williams,58,22,31,5,0
+Prairie,White River City Ward 3,Commissioner of State Lands,,Dem,Larry Williams,73,23,46,3,1
+Prairie,White River Country,Commissioner of State Lands,,Dem,Larry Williams,52,32,18,2,0
+Prairie,Belcher/Tyler,Commissioner of State Lands,,Rep,Tommy Land,90,81,6,1,2
+Prairie,Bullard,Commissioner of State Lands,,Rep,Tommy Land,37,25,11,1,0
+Prairie,Calhoun,Commissioner of State Lands,,Rep,Tommy Land,76,57,19,0,0
+Prairie,Center,Commissioner of State Lands,,Rep,Tommy Land,124,95,29,0,0
+Prairie,Des Arc,Commissioner of State Lands,,Rep,Tommy Land,58,46,12,0,0
+Prairie,Hazen Ward 1,Commissioner of State Lands,,Rep,Tommy Land,117,75,41,1,0
+Prairie,Hazen Ward 2,Commissioner of State Lands,,Rep,Tommy Land,105,71,34,0,0
+Prairie,Hazen Ward 3,Commissioner of State Lands,,Rep,Tommy Land,86,53,33,0,0
+Prairie,Hazen Country,Commissioner of State Lands,,Rep,Tommy Land,97,64,32,0,1
+Prairie,Hickory Plains,Commissioner of State Lands,,Rep,Tommy Land,172,139,32,1,0
+Prairie,Lower Hill City,Commissioner of State Lands,,Rep,Tommy Land,70,40,29,0,1
+Prairie,Lower Hill Country,Commissioner of State Lands,,Rep,Tommy Land,62,39,23,0,0
+Prairie,Roc Roe City,Commissioner of State Lands,,Rep,Tommy Land,40,37,3,0,0
+Prairie,Roc Roe Country,Commissioner of State Lands,,Rep,Tommy Land,68,43,25,0,0
+Prairie,Union,Commissioner of State Lands,,Rep,Tommy Land,22,15,7,0,0
+Prairie,Upper Hill,Commissioner of State Lands,,Rep,Tommy Land,7,4,3,0,0
+Prairie,Wattensaw City Ward 1,Commissioner of State Lands,,Rep,Tommy Land,29,9,20,0,0
+Prairie,Wattensaw City Ward 2,Commissioner of State Lands,,Rep,Tommy Land,40,17,23,0,0
+Prairie,Wattensaw City Ward 3,Commissioner of State Lands,,Rep,Tommy Land,17,6,11,0,0
+Prairie,Wattensaw Country,Commissioner of State Lands,,Rep,Tommy Land,164,78,83,1,2
+Prairie,White River City Ward 1,Commissioner of State Lands,,Rep,Tommy Land,75,33,42,0,0
+Prairie,White River City Ward 2,Commissioner of State Lands,,Rep,Tommy Land,152,61,90,1,0
+Prairie,White River City Ward 3,Commissioner of State Lands,,Rep,Tommy Land,146,68,75,3,0
+Prairie,White River Country,Commissioner of State Lands,,Rep,Tommy Land,151,66,84,1,0
+Prairie,Belcher/Tyler,State Supreme Court Associate Justice Position 3,,NON,David Sterling,52,45,4,1,2
+Prairie,Bullard,State Supreme Court Associate Justice Position 3,,NON,David Sterling,15,12,3,0,0
+Prairie,Calhoun,State Supreme Court Associate Justice Position 3,,NON,David Sterling,54,43,11,0,0
+Prairie,Center,State Supreme Court Associate Justice Position 3,,NON,David Sterling,67,54,13,0,0
+Prairie,Des Arc,State Supreme Court Associate Justice Position 3,,NON,David Sterling,37,29,7,1,0
+Prairie,Hazen Ward 1,State Supreme Court Associate Justice Position 3,,NON,David Sterling,71,44,27,0,0
+Prairie,Hazen Ward 2,State Supreme Court Associate Justice Position 3,,NON,David Sterling,77,52,24,0,1
+Prairie,Hazen Ward 3,State Supreme Court Associate Justice Position 3,,NON,David Sterling,66,44,18,2,2
+Prairie,Hazen Country,State Supreme Court Associate Justice Position 3,,NON,David Sterling,63,43,20,0,0
+Prairie,Hickory Plains,State Supreme Court Associate Justice Position 3,,NON,David Sterling,111,89,22,0,0
+Prairie,Lower Hill City,State Supreme Court Associate Justice Position 3,,NON,David Sterling,54,39,15,0,0
+Prairie,Lower Hill Country,State Supreme Court Associate Justice Position 3,,NON,David Sterling,32,20,12,0,0
+Prairie,Roc Roe City,State Supreme Court Associate Justice Position 3,,NON,David Sterling,25,21,3,0,1
+Prairie,Roc Roe Country,State Supreme Court Associate Justice Position 3,,NON,David Sterling,32,22,10,0,0
+Prairie,Union,State Supreme Court Associate Justice Position 3,,NON,David Sterling,14,12,2,0,0
+Prairie,Upper Hill,State Supreme Court Associate Justice Position 3,,NON,David Sterling,9,5,4,0,0
+Prairie,Wattensaw City Ward 1,State Supreme Court Associate Justice Position 3,,NON,David Sterling,27,13,14,0,0
+Prairie,Wattensaw City Ward 2,State Supreme Court Associate Justice Position 3,,NON,David Sterling,35,21,14,0,0
+Prairie,Wattensaw City Ward 3,State Supreme Court Associate Justice Position 3,,NON,David Sterling,16,3,11,2,0
+Prairie,Wattensaw Country,State Supreme Court Associate Justice Position 3,,NON,David Sterling,99,55,44,0,0
+Prairie,White River City Ward 1,State Supreme Court Associate Justice Position 3,,NON,David Sterling,63,33,30,0,0
+Prairie,White River City Ward 2,State Supreme Court Associate Justice Position 3,,NON,David Sterling,90,36,54,0,0
+Prairie,White River City Ward 3,State Supreme Court Associate Justice Position 3,,NON,David Sterling,92,44,44,3,1
+Prairie,White River Country,State Supreme Court Associate Justice Position 3,,NON,David Sterling,91,47,42,2,0
+Prairie,Belcher/Tyler,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,55,51,4,0,0
+Prairie,Bullard,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,34,22,10,1,1
+Prairie,Calhoun,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,43,29,14,0,0
+Prairie,Center,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,70,53,17,0,0
+Prairie,Des Arc,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,41,31,10,0,0
+Prairie,Hazen Ward 1,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,78,53,24,1,0
+Prairie,Hazen Ward 2,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,79,50,28,1,0
+Prairie,Hazen Ward 3,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,86,54,29,3,0
+Prairie,Hazen Country,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,58,35,22,0,1
+Prairie,Hickory Plains,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,93,73,17,3,0
+Prairie,Lower Hill City,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,62,39,22,0,1
+Prairie,Lower Hill Country,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,49,30,19,0,0
+Prairie,Roc Roe City,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,32,30,1,1,0
+Prairie,Roc Roe Country,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,45,24,21,0,0
+Prairie,Union,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,17,9,8,0,0
+Prairie,Upper Hill,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,6,3,3,0,0
+Prairie,Wattensaw City Ward 1,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,32,10,22,0,0
+Prairie,Wattensaw City Ward 2,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,36,14,22,0,0
+Prairie,Wattensaw City Ward 3,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,29,10,19,0,0
+Prairie,Wattensaw Country,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,104,47,53,2,2
+Prairie,White River City Ward 1,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,74,34,40,0,0
+Prairie,White River City Ward 2,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,120,47,68,5,0
+Prairie,White River City Ward 3,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,124,48,73,3,0
+Prairie,White River Country,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,113,51,61,1,0
+Prairie,Belcher/Tyler,County & Circuit Clerk,,Dem,Gaylon Hale,105,94,8,1,2
+Prairie,Bullard,County & Circuit Clerk,,Dem,Gaylon Hale,47,31,14,1,1
+Prairie,Calhoun,County & Circuit Clerk,,Dem,Gaylon Hale,83,61,22,0,0
+Prairie,Center,County & Circuit Clerk,,Dem,Gaylon Hale,129,104,25,0,0
+Prairie,Des Arc,County & Circuit Clerk,,Dem,Gaylon Hale,70,51,18,1,0
+Prairie,Hazen Ward 1,County & Circuit Clerk,,Dem,Gaylon Hale,154,100,53,1,0
+Prairie,Hazen Ward 2,County & Circuit Clerk,,Dem,Gaylon Hale,148,95,51,1,1
+Prairie,Hazen Ward 3,County & Circuit Clerk,,Dem,Gaylon Hale,156,106,45,5,0
+Prairie,Hazen Country,County & Circuit Clerk,,Dem,Gaylon Hale,114,74,39,0,1
+Prairie,Hickory Plains,County & Circuit Clerk,,Dem,Gaylon Hale,171,133,35,3,0
+Prairie,Lower Hill City,County & Circuit Clerk,,Dem,Gaylon Hale,117,81,36,0,0
+Prairie,Lower Hill Country,County & Circuit Clerk,,Dem,Gaylon Hale,78,48,30,0,0
+Prairie,Roc Roe City,County & Circuit Clerk,,Dem,Gaylon Hale,57,52,3,1,1
+Prairie,Roc Roe Country,County & Circuit Clerk,,Dem,Gaylon Hale,75,45,30,0,0
+Prairie,Union,County & Circuit Clerk,,Dem,Gaylon Hale,31,21,10,0,0
+Prairie,Upper Hill,County & Circuit Clerk,,Dem,Gaylon Hale,14,9,5,0,0
+Prairie,Wattensaw City Ward 1,County & Circuit Clerk,,Dem,Gaylon Hale,57,23,34,0,0
+Prairie,Wattensaw City Ward 2,County & Circuit Clerk,,Dem,Gaylon Hale,73,34,39,0,0
+Prairie,Wattensaw City Ward 3,County & Circuit Clerk,,Dem,Gaylon Hale,50,13,34,3,0
+Prairie,Wattensaw Country,County & Circuit Clerk,,Dem,Gaylon Hale,200,101,94,3,2
+Prairie,White River City Ward 1,County & Circuit Clerk,,Dem,Gaylon Hale,137,67,70,0,0
+Prairie,White River City Ward 2,County & Circuit Clerk,,Dem,Gaylon Hale,202,80,116,6,0
+Prairie,White River City Ward 3,County & Circuit Clerk,,Dem,Gaylon Hale,214,86,121,6,1
+Prairie,White River Country,County & Circuit Clerk,,Dem,Gaylon Hale,192,96,94,2,0
+Prairie,Belcher/Tyler,County Sheriff & Collector,,Rep,Jerrell Smith,25,23,0,0,2
+Prairie,Bullard,County Sheriff & Collector,,Rep,Jerrell Smith,16,9,7,0,0
+Prairie,Calhoun,County Sheriff & Collector,,Rep,Jerrell Smith,21,16,5,0,0
+Prairie,Center,County Sheriff & Collector,,Rep,Jerrell Smith,29,22,7,0,0
+Prairie,Des Arc,County Sheriff & Collector,,Rep,Jerrell Smith,18,12,6,0,0
+Prairie,Hazen Ward 1,County Sheriff & Collector,,Rep,Jerrell Smith,21,17,4,0,0
+Prairie,Hazen Ward 2,County Sheriff & Collector,,Rep,Jerrell Smith,30,17,13,0,0
+Prairie,Hazen Ward 3,County Sheriff & Collector,,Rep,Jerrell Smith,25,18,5,0,2
+Prairie,Hazen Country,County Sheriff & Collector,,Rep,Jerrell Smith,21,14,7,0,0
+Prairie,Hickory Plains,County Sheriff & Collector,,Rep,Jerrell Smith,103,76,25,2,0
+Prairie,Lower Hill City,County Sheriff & Collector,,Rep,Jerrell Smith,36,22,14,0,0
+Prairie,Lower Hill Country,County Sheriff & Collector,,Rep,Jerrell Smith,42,32,10,0,0
+Prairie,Roc Roe City,County Sheriff & Collector,,Rep,Jerrell Smith,17,14,3,0,0
+Prairie,Roc Roe Country,County Sheriff & Collector,,Rep,Jerrell Smith,28,16,12,0,0
+Prairie,Union,County Sheriff & Collector,,Rep,Jerrell Smith,1,1,0,0,0
+Prairie,Upper Hill,County Sheriff & Collector,,Rep,Jerrell Smith,1,1,0,0,0
+Prairie,Wattensaw City Ward 1,County Sheriff & Collector,,Rep,Jerrell Smith,14,7,7,0,0
+Prairie,Wattensaw City Ward 2,County Sheriff & Collector,,Rep,Jerrell Smith,19,9,10,0,0
+Prairie,Wattensaw City Ward 3,County Sheriff & Collector,,Rep,Jerrell Smith,10,3,7,0,0
+Prairie,Wattensaw Country,County Sheriff & Collector,,Rep,Jerrell Smith,65,29,36,0,0
+Prairie,White River City Ward 1,County Sheriff & Collector,,Rep,Jerrell Smith,41,20,21,0,0
+Prairie,White River City Ward 2,County Sheriff & Collector,,Rep,Jerrell Smith,58,22,36,0,0
+Prairie,White River City Ward 3,County Sheriff & Collector,,Rep,Jerrell Smith,54,30,23,1,0
+Prairie,White River Country,County Sheriff & Collector,,Rep,Jerrell Smith,45,19,26,0,0
+Prairie,Belcher/Tyler,County Sheriff & Collector,,Dem,Rick Hickman,83,73,9,1,0
+Prairie,Bullard,County Sheriff & Collector,,Dem,Rick Hickman,36,27,7,1,1
+Prairie,Calhoun,County Sheriff & Collector,,Dem,Rick Hickman,77,57,20,0,0
+Prairie,Center,County Sheriff & Collector,,Dem,Rick Hickman,109,86,23,0,0
+Prairie,Des Arc,County Sheriff & Collector,,Dem,Rick Hickman,63,50,12,1,0
+Prairie,Hazen Ward 1,County Sheriff & Collector,,Dem,Rick Hickman,138,89,49,0,0
+Prairie,Hazen Ward 2,County Sheriff & Collector,,Dem,Rick Hickman,127,85,40,1,1
+Prairie,Hazen Ward 3,County Sheriff & Collector,,Dem,Rick Hickman,137,90,42,5,0
+Prairie,Hazen Country,County Sheriff & Collector,,Dem,Rick Hickman,104,67,36,0,1
+Prairie,Hickory Plains,County Sheriff & Collector,,Dem,Rick Hickman,105,88,16,1,0
+Prairie,Lower Hill City,County Sheriff & Collector,,Dem,Rick Hickman,85,59,25,0,1
+Prairie,Lower Hill Country,County Sheriff & Collector,,Dem,Rick Hickman,42,20,22,0,0
+Prairie,Roc Roe City,County Sheriff & Collector,,Dem,Rick Hickman,45,42,1,1,1
+Prairie,Roc Roe Country,County Sheriff & Collector,,Dem,Rick Hickman,51,31,20,0,0
+Prairie,Union,County Sheriff & Collector,,Dem,Rick Hickman,30,20,10,0,0
+Prairie,Upper Hill,County Sheriff & Collector,,Dem,Rick Hickman,16,9,7,0,0
+Prairie,Wattensaw City Ward 1,County Sheriff & Collector,,Dem,Rick Hickman,47,16,31,0,0
+Prairie,Wattensaw City Ward 2,County Sheriff & Collector,,Dem,Rick Hickman,57,26,31,0,0
+Prairie,Wattensaw City Ward 3,County Sheriff & Collector,,Dem,Rick Hickman,38,10,27,1,0
+Prairie,Wattensaw Country,County Sheriff & Collector,,Dem,Rick Hickman,145,75,66,2,2
+Prairie,White River City Ward 1,County Sheriff & Collector,,Dem,Rick Hickman,105,47,58,0,0
+Prairie,White River City Ward 2,County Sheriff & Collector,,Dem,Rick Hickman,154,61,87,6,0
+Prairie,White River City Ward 3,County Sheriff & Collector,,Dem,Rick Hickman,170,63,101,5,1
+Prairie,White River Country,County Sheriff & Collector,,Dem,Rick Hickman,160,80,77,3,0
+Prairie,Bullard,Justice of the Peace Dist. # 1 JOP #1,,Dem,Ronnie C. Eans,10,8,0,1,1
+Prairie,Calhoun,Justice of the Peace Dist. # 1 JOP #1,,Dem,Ronnie C. Eans,3,2,1,0,0
+Prairie,Des Arc,Justice of the Peace Dist. # 1 JOP #1,,Dem,Ronnie C. Eans,61,46,14,1,0
+Prairie,Hickory Plains,Justice of the Peace Dist. # 1 JOP #1,,Dem,Ronnie C. Eans,22,19,3,0,0
+Prairie,White River Country,Justice of the Peace Dist. # 1 JOP #1,,Dem,Ronnie C. Eans,92,63,27,2,0
+Prairie,Bullard,Justice of the Peace Dist. # 1 JOP #1,,Rep,Lynn Hatcher,7,6,1,0,0
+Prairie,Calhoun,Justice of the Peace Dist. # 1 JOP #1,,Rep,Lynn Hatcher,4,3,1,0,0
+Prairie,Des Arc,Justice of the Peace Dist. # 1 JOP #1,,Rep,Lynn Hatcher,20,16,4,0,0
+Prairie,Hickory Plains,Justice of the Peace Dist. # 1 JOP #1,,Rep,Lynn Hatcher,62,47,15,0,0
+Prairie,White River Country,Justice of the Peace Dist. # 1 JOP #1,,Rep,Lynn Hatcher,84,37,47,0,0
+Prairie,White River City Ward 1,Justice of the Peace Dist. #3 JOP #3,,Dem,Judy Hinson,100,46,54,0,0
+Prairie,White River City Ward 2,Justice of the Peace Dist. #3 JOP #3,,Dem,Judy Hinson,101,45,53,3,0
+Prairie,White River City Ward 1,Justice of the Peace Dist. #3 JOP #3,,Rep,DeWayne Mayher,46,21,25,0,0
+Prairie,White River City Ward 2,Justice of the Peace Dist. #3 JOP #3,,Rep,DeWayne Mayher,86,26,60,0,0
+Prairie,Center,Justice of the Peace Dist. #6 JOP #6,,Rep,Rick Stallings,34,25,9,0,0
+Prairie,Hazen Ward 2,Justice of the Peace Dist. #6 JOP #6,,Rep,Rick Stallings,115,79,35,1,0
+Prairie,Hazen Country,Justice of the Peace Dist. #6 JOP #6,,Rep,Rick Stallings,88,61,26,0,1
+Prairie,Wattensaw Country,Justice of the Peace Dist. #6 JOP #6,,Rep,Rick Stallings,16,10,6,0,0
+Prairie,Center,Justice of the Peace Dist. #6 JOP #6,,Dem,"Billy ""Buddy"" Sims",3,3,0,0,0
+Prairie,Hazen Ward 2,Justice of the Peace Dist. #6 JOP #6,,Dem,"Billy ""Buddy"" Sims",38,22,15,0,1
+Prairie,Hazen Country,Justice of the Peace Dist. #6 JOP #6,,Dem,"Billy ""Buddy"" Sims",25,11,14,0,0
+Prairie,Wattensaw Country,Justice of the Peace Dist. #6 JOP #6,,Dem,"Billy ""Buddy"" Sims",10,6,1,2,1
+Prairie,Wattensaw City Ward 1,Justice of the Peace Dist. #7 JOP #7,,Dem,Chief Charles Atkins,30,13,17,0,0
+Prairie,Wattensaw City Ward 2,Justice of the Peace Dist. #7 JOP #7,,Dem,Chief Charles Atkins,27,15,12,0,0
+Prairie,Wattensaw City Ward 3,Justice of the Peace Dist. #7 JOP #7,,Dem,Chief Charles Atkins,28,6,19,3,0
+Prairie,Wattensaw Country,Justice of the Peace Dist. #7 JOP #7,,Dem,Chief Charles Atkins,12,3,8,0,1
+Prairie,Wattensaw City Ward 1,Justice of the Peace Dist. #7 JOP #7,,Rep,Levi Childress,31,10,21,0,0
+Prairie,Wattensaw City Ward 2,Justice of the Peace Dist. #7 JOP #7,,Rep,Levi Childress,47,20,27,0,0
+Prairie,Wattensaw City Ward 3,Justice of the Peace Dist. #7 JOP #7,,Rep,Levi Childress,22,7,15,0,0
+Prairie,Wattensaw Country,Justice of the Peace Dist. #7 JOP #7,,Rep,Levi Childress,82,34,48,0,0
+Prairie,Lower Hill City,Biscoe,,Ind,Kent Smith,117,79,37,0,1
+Prairie,White River City Ward 1,Des Arc,,Ind,Jim Garth,71,41,30,0,0
+Prairie,White River City Ward 2,Des Arc,,Ind,Jim Garth,120,54,62,4,0
+Prairie,White River City Ward 3,Des Arc,,Ind,Jim Garth,130,59,68,3,0
+Prairie,White River City Ward 1,Des Arc,,Ind,Roger Scott,75,28,47,0,0
+Prairie,White River City Ward 2,Des Arc,,Ind,Roger Scott,93,30,61,2,0
+Prairie,White River City Ward 3,Des Arc,,Ind,Roger Scott,93,33,56,3,1
+Prairie,White River City Ward 1,Des Arc Alderman Ward 1 Pos. 2 Des Arc,,Ind,Welton Robinson,89,38,51,0,0
+Prairie,White River City Ward 2,Des Arc Alderman Ward 1 Pos. 2 Des Arc,,Ind,Welton Robinson,98,39,57,2,0
+Prairie,White River City Ward 3,Des Arc Alderman Ward 1 Pos. 2 Des Arc,,Ind,Welton Robinson,122,49,72,1,0
+Prairie,White River City Ward 1,Des Arc Alderman Ward 1 Pos. 2 Des Arc,,Ind,Mitchell Weaver,35,21,14,0,0
+Prairie,White River City Ward 2,Des Arc Alderman Ward 1 Pos. 2 Des Arc,,Ind,Mitchell Weaver,80,29,51,0,0
+Prairie,White River City Ward 3,Des Arc Alderman Ward 1 Pos. 2 Des Arc,,Ind,Mitchell Weaver,60,27,33,0,0
+Prairie,White River City Ward 1,Des Arc Alderman Ward 1 Pos. 2 Des Arc,,Ind,"Micki ""Michelle"" Barlow",15,7,8,0,0
+Prairie,White River City Ward 2,Des Arc Alderman Ward 1 Pos. 2 Des Arc,,Ind,"Micki ""Michelle"" Barlow",32,14,14,4,0
+Prairie,White River City Ward 3,Des Arc Alderman Ward 1 Pos. 2 Des Arc,,Ind,"Micki ""Michelle"" Barlow",42,17,19,5,1
+Prairie,White River City Ward 1,Des Arc Alderman Ward 2 Pos. 1 Des Arc,,Ind,Stephen Bryan,43,20,23,0,0
+Prairie,White River City Ward 2,Des Arc Alderman Ward 2 Pos. 1 Des Arc,,Ind,Stephen Bryan,78,28,49,1,0
+Prairie,White River City Ward 3,Des Arc Alderman Ward 2 Pos. 1 Des Arc,,Ind,Stephen Bryan,92,33,56,2,1
+Prairie,White River City Ward 1,Des Arc Alderman Ward 2 Pos. 1 Des Arc,,Ind,Gail King,96,46,50,0,0
+Prairie,White River City Ward 2,Des Arc Alderman Ward 2 Pos. 1 Des Arc,,Ind,Gail King,133,55,73,5,0
+Prairie,White River City Ward 3,Des Arc Alderman Ward 2 Pos. 1 Des Arc,,Ind,Gail King,129,59,66,4,0
+Prairie,White River City Ward 1,Des Arc Alderman Ward 2 Pos 2 Des Arc,,Ind,Rodney Adams,95,46,49,0,0
+Prairie,White River City Ward 2,Des Arc Alderman Ward 2 Pos 2 Des Arc,,Ind,Rodney Adams,145,53,88,4,0
+Prairie,White River City Ward 3,Des Arc Alderman Ward 2 Pos 2 Des Arc,,Ind,Rodney Adams,137,56,79,2,0
+Prairie,White River City Ward 1,Des Arc Alderman Ward 2 Pos 2 Des Arc,,Ind,Jodie Mayher,46,20,26,0,0
+Prairie,White River City Ward 2,Des Arc Alderman Ward 2 Pos 2 Des Arc,,Ind,Jodie Mayher,65,29,34,2,0
+Prairie,White River City Ward 3,Des Arc Alderman Ward 2 Pos 2 Des Arc,,Ind,Jodie Mayher,85,35,45,4,1
+Prairie,White River City Ward 1,Des Arc Alderman Ward 3 Pos 1 Des Arc,,Ind,Janice Huffstickler,50,30,20,0,0
+Prairie,White River City Ward 2,Des Arc Alderman Ward 3 Pos 1 Des Arc,,Ind,Janice Huffstickler,103,48,54,1,0
+Prairie,White River City Ward 3,Des Arc Alderman Ward 3 Pos 1 Des Arc,,Ind,Janice Huffstickler,97,38,57,2,0
+Prairie,White River City Ward 1,Des Arc Alderman Ward 3 Pos 1 Des Arc,,Ind,Gary Burnett,60,26,34,0,0
+Prairie,White River City Ward 2,Des Arc Alderman Ward 3 Pos 1 Des Arc,,Ind,Gary Burnett,73,24,45,4,0
+Prairie,White River City Ward 3,Des Arc Alderman Ward 3 Pos 1 Des Arc,,Ind,Gary Burnett,78,40,35,2,1
+Prairie,White River City Ward 1,Des Arc Alderman Ward 3 Pos 1 Des Arc,,Ind,Ronald Eans,33,11,22,0,0
+Prairie,White River City Ward 2,Des Arc Alderman Ward 3 Pos 1 Des Arc,,Ind,Ronald Eans,37,12,24,1,0
+Prairie,White River City Ward 3,Des Arc Alderman Ward 3 Pos 1 Des Arc,,Ind,Ronald Eans,48,14,32,2,0
+Prairie,Wattensaw City Ward 1,DeValls Bluff,,Ind,Thelma Gray,31,9,22,0,0
+Prairie,Wattensaw City Ward 2,DeValls Bluff,,Ind,Thelma Gray,28,11,17,0,0
+Prairie,Wattensaw City Ward 3,DeValls Bluff,,Ind,Thelma Gray,19,1,15,3,0
+Prairie,Wattensaw City Ward 1,DeValls Bluff,,Ind,"John ""J.W."" Thompson, Sr.",10,4,6,0,0
+Prairie,Wattensaw City Ward 2,DeValls Bluff,,Ind,"John ""J.W."" Thompson, Sr.",22,10,12,0,0
+Prairie,Wattensaw City Ward 3,DeValls Bluff,,Ind,"John ""J.W."" Thompson, Sr.",15,7,8,0,0
+Prairie,Wattensaw City Ward 1,DeValls Bluff,,Ind,Brooks Castleberry,20,10,10,0,0
+Prairie,Wattensaw City Ward 2,DeValls Bluff,,Ind,Brooks Castleberry,24,14,10,0,0
+Prairie,Wattensaw City Ward 3,DeValls Bluff,,Ind,Brooks Castleberry,15,5,10,0,0
+Prairie,Wattensaw City Ward 1,DeValls Bluff Alderman Ward 1 Pos. 1 DeValls Bluf,,Ind,Jackie Adcock,27,8,19,0,0
+Prairie,Wattensaw City Ward 2,DeValls Bluff Alderman Ward 1 Pos. 1 DeValls Bluf,,Ind,Jackie Adcock,36,21,15,0,0
+Prairie,Wattensaw City Ward 3,DeValls Bluff Alderman Ward 1 Pos. 1 DeValls Bluf,,Ind,Jackie Adcock,22,7,15,0,0
+Prairie,Wattensaw City Ward 1,DeValls Bluff Alderman Ward 1 Pos. 1 DeValls Bluf,,Ind,Raymond Watson,33,15,18,0,0
+Prairie,Wattensaw City Ward 2,DeValls Bluff Alderman Ward 1 Pos. 1 DeValls Bluf,,Ind,Raymond Watson,38,14,24,0,0
+Prairie,Wattensaw City Ward 3,DeValls Bluff Alderman Ward 1 Pos. 1 DeValls Bluf,,Ind,Raymond Watson,27,6,18,3,0
+Prairie,Wattensaw City Ward 1,DeValls Bluff Alderman Ward 2 Pos. 1 DeValls Bluf,,Ind,Carol Griffin,42,17,25,0,0
+Prairie,Wattensaw City Ward 2,DeValls Bluff Alderman Ward 2 Pos. 1 DeValls Bluf,,Ind,Carol Griffin,43,23,20,0,0
+Prairie,Wattensaw City Ward 3,DeValls Bluff Alderman Ward 2 Pos. 1 DeValls Bluf,,Ind,Carol Griffin,28,7,18,3,0
+Prairie,Wattensaw City Ward 1,DeValls Bluff Alderman Ward 2 Pos. 1 DeValls Bluf,,Ind,Alexandria Prince,16,6,10,0,0
+Prairie,Wattensaw City Ward 2,DeValls Bluff Alderman Ward 2 Pos. 1 DeValls Bluf,,Ind,Alexandria Prince,31,12,19,0,0
+Prairie,Wattensaw City Ward 3,DeValls Bluff Alderman Ward 2 Pos. 1 DeValls Bluf,,Ind,Alexandria Prince,18,6,12,0,0
+Prairie,Wattensaw City Ward 1,DeValls Bluff Alderman Ward 2 Pos. 2 DeValls Bluf,,Ind,Ellen F. Swink,28,10,18,0,0
+Prairie,Wattensaw City Ward 2,DeValls Bluff Alderman Ward 2 Pos. 2 DeValls Bluf,,Ind,Ellen F. Swink,38,17,21,0,0
+Prairie,Wattensaw City Ward 3,DeValls Bluff Alderman Ward 2 Pos. 2 DeValls Bluf,,Ind,Ellen F. Swink,13,4,9,0,0
+Prairie,Wattensaw City Ward 1,DeValls Bluff Alderman Ward 2 Pos. 2 DeValls Bluf,,Ind,Alice Metcalf,32,13,19,0,0
+Prairie,Wattensaw City Ward 2,DeValls Bluff Alderman Ward 2 Pos. 2 DeValls Bluf,,Ind,Alice Metcalf,37,18,19,0,0
+Prairie,Wattensaw City Ward 3,DeValls Bluff Alderman Ward 2 Pos. 2 DeValls Bluf,,Ind,Alice Metcalf,30,8,19,3,0
+Prairie,Hazen Ward 1,Hazen,,Ind,David Duch,154,103,50,1,0
+Prairie,Hazen Ward 2,Hazen,,Ind,David Duch,147,95,50,1,1
+Prairie,Hazen Ward 3,Hazen,,Ind,David Duch,147,98,42,5,2
+Prairie,Hazen Ward 1,Hazen Alderman Ward 3 Pos. 2 Hazen,,Ind,Clevella Mosby,109,68,40,1,0
+Prairie,Hazen Ward 2,Hazen Alderman Ward 3 Pos. 2 Hazen,,Ind,Clevella Mosby,95,59,34,1,1
+Prairie,Hazen Ward 3,Hazen Alderman Ward 3 Pos. 2 Hazen,,Ind,Clevella Mosby,80,51,24,3,2
+Prairie,Hazen Ward 1,Hazen Alderman Ward 3 Pos. 2 Hazen,,Ind,Gireta Smith,38,28,10,0,0
+Prairie,Hazen Ward 2,Hazen Alderman Ward 3 Pos. 2 Hazen,,Ind,Gireta Smith,52,37,15,0,0
+Prairie,Hazen Ward 3,Hazen Alderman Ward 3 Pos. 2 Hazen,,Ind,Gireta Smith,79,55,22,2,0
+Prairie,Roc Roe City,Ulm,,Ind,Charles R. Holmes,16,14,2,0,0
+Prairie,Roc Roe City,Ulm,,Ind,Dennis Doepel,46,42,2,1,1
+Prairie,Roc Roe City,Ulm Alderman Pos. 2 Ulm,,Ind,Harold M Clawitter,25,24,1,0,0
+Prairie,Roc Roe City,Ulm Alderman Pos. 2 Ulm,,Ind,Aron W. Allen,38,33,3,1,1
+Prairie,Roc Roe City,Ulm Recorder/Treasurer Ulm,,Ind,Maribeth Floyd,31,29,1,1,0
+Prairie,Roc Roe City,Ulm Recorder/Treasurer Ulm,,Ind,Amy Holmes,32,28,3,0,1
+Prairie,Belcher/Tyler,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,For,94,84,7,1,2
+Prairie,Bullard,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,For,48,33,13,1,1
+Prairie,Calhoun,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,For,79,55,24,0,0
+Prairie,Center,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,For,114,85,29,0,0
+Prairie,Des Arc,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,For,69,51,17,1,0
+Prairie,Hazen Ward 1,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,For,134,87,46,1,0
+Prairie,Hazen Ward 2,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,For,135,91,43,0,1
+Prairie,Hazen Ward 3,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,For,128,89,37,2,0
+Prairie,Hazen Country,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,For,99,66,32,0,1
+Prairie,Hickory Plains,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,For,192,149,40,3,0
+Prairie,Lower Hill City,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,For,90,59,30,0,1
+Prairie,Lower Hill Country,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,For,72,44,28,0,0
+Prairie,Roc Roe City,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,For,57,51,4,1,1
+Prairie,Roc Roe Country,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,For,76,45,31,0,0
+Prairie,Union,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,For,28,18,10,0,0
+Prairie,Upper Hill,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,For,11,5,6,0,0
+Prairie,Wattensaw City Ward 1,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,For,48,20,28,0,0
+Prairie,Wattensaw City Ward 2,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,For,53,24,29,0,0
+Prairie,Wattensaw City Ward 3,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,For,35,11,21,3,0
+Prairie,Wattensaw Country,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,For,174,87,84,2,1
+Prairie,White River City Ward 1,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,For,126,58,68,0,0
+Prairie,White River City Ward 2,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,For,179,70,105,4,0
+Prairie,White River City Ward 3,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,For,196,83,108,5,0
+Prairie,White River Country,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,For,179,86,92,1,0
+Prairie,Belcher/Tyler,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,Against,14,12,2,0,0
+Prairie,Bullard,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,Against,4,3,1,0,0
+Prairie,Calhoun,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,Against,17,16,1,0,0
+Prairie,Center,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,Against,24,23,1,0,0
+Prairie,Des Arc,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,Against,12,11,1,0,0
+Prairie,Hazen Ward 1,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,Against,21,16,5,0,0
+Prairie,Hazen Ward 2,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,Against,23,11,10,1,1
+Prairie,Hazen Ward 3,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,Against,33,19,9,3,2
+Prairie,Hazen Country,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,Against,26,15,11,0,0
+Prairie,Hickory Plains,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,Against,17,16,1,0,0
+Prairie,Lower Hill City,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,Against,27,21,6,0,0
+Prairie,Lower Hill Country,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,Against,13,8,5,0,0
+Prairie,Roc Roe City,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,Against,3,3,0,0,0
+Prairie,Roc Roe Country,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,Against,3,2,1,0,0
+Prairie,Union,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,Against,3,3,0,0,0
+Prairie,Upper Hill,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,Against,5,4,1,0,0
+Prairie,Wattensaw City Ward 1,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,Against,11,3,8,0,0
+Prairie,Wattensaw City Ward 2,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,Against,20,11,9,0,0
+Prairie,Wattensaw City Ward 3,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,Against,14,2,12,0,0
+Prairie,Wattensaw Country,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,Against,36,17,17,1,1
+Prairie,White River City Ward 1,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,Against,19,10,9,0,0
+Prairie,White River City Ward 2,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,Against,33,13,18,2,0
+Prairie,White River City Ward 3,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,Against,24,9,14,0,1
+Prairie,White River Country,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,Against,29,16,11,2,0
+Prairie,Belcher/Tyler,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,For,59,52,5,0,2
+Prairie,Bullard,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,For,32,22,8,1,1
+Prairie,Calhoun,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,For,47,32,15,0,0
+Prairie,Center,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,For,64,47,17,0,0
+Prairie,Des Arc,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,For,47,37,9,1,0
+Prairie,Hazen Ward 1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,For,79,53,26,0,0
+Prairie,Hazen Ward 2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,For,89,55,32,1,1
+Prairie,Hazen Ward 3,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,For,97,68,23,4,2
+Prairie,Hazen Country,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,For,49,32,17,0,0
+Prairie,Hickory Plains,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,For,85,69,16,0,0
+Prairie,Lower Hill City,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,For,62,45,16,0,1
+Prairie,Lower Hill Country,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,For,30,10,20,0,0
+Prairie,Roc Roe City,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,For,43,38,4,1,0
+Prairie,Roc Roe Country,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,For,45,26,19,0,0
+Prairie,Union,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,For,12,7,5,0,0
+Prairie,Upper Hill,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,For,7,4,3,0,0
+Prairie,Wattensaw City Ward 1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,For,44,20,24,0,0
+Prairie,Wattensaw City Ward 2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,For,55,27,28,0,0
+Prairie,Wattensaw City Ward 3,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,For,30,12,17,1,0
+Prairie,Wattensaw Country,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,For,118,57,58,1,2
+Prairie,White River City Ward 1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,For,83,39,44,0,0
+Prairie,White River City Ward 2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,For,107,43,62,2,0
+Prairie,White River City Ward 3,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,For,116,50,61,4,1
+Prairie,White River Country,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,For,99,46,50,3,0
+Prairie,Belcher/Tyler,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,Against,48,43,4,1,0
+Prairie,Bullard,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,Against,18,13,5,0,0
+Prairie,Calhoun,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,Against,50,40,10,0,0
+Prairie,Center,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,Against,73,61,12,0,0
+Prairie,Des Arc,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,Against,33,25,8,0,0
+Prairie,Hazen Ward 1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,Against,80,52,27,1,0
+Prairie,Hazen Ward 2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,Against,69,47,22,0,0
+Prairie,Hazen Ward 3,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,Against,60,36,24,0,0
+Prairie,Hazen Country,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,Against,75,49,26,0,0
+Prairie,Hickory Plains,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,Against,124,96,25,3,0
+Prairie,Lower Hill City,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,Against,58,37,21,0,0
+Prairie,Lower Hill Country,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,Against,54,41,13,0,0
+Prairie,Roc Roe City,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,Against,20,19,0,0,1
+Prairie,Roc Roe Country,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,Against,34,22,12,0,0
+Prairie,Union,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,Against,19,14,5,0,0
+Prairie,Upper Hill,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,Against,10,6,4,0,0
+Prairie,Wattensaw City Ward 1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,Against,15,3,12,0,0
+Prairie,Wattensaw City Ward 2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,Against,20,8,12,0,0
+Prairie,Wattensaw City Ward 3,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,Against,18,1,17,0,0
+Prairie,Wattensaw Country,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,Against,87,45,40,2,0
+Prairie,White River City Ward 1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,Against,64,30,34,0,0
+Prairie,White River City Ward 2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,Against,104,40,61,3,0
+Prairie,White River City Ward 3,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,Against,107,43,63,1,0
+Prairie,White River Country,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,Against,107,54,53,0,0
+Prairie,Belcher/Tyler,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,For,57,50,5,0,2
+Prairie,Bullard,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,For,31,21,8,1,1
+Prairie,Calhoun,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,For,61,43,18,0,0
+Prairie,Center,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,For,82,59,23,0,0
+Prairie,Des Arc,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,For,56,41,14,1,0
+Prairie,Hazen Ward 1,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,For,113,73,40,0,0
+Prairie,Hazen Ward 2,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,For,108,73,33,1,1
+Prairie,Hazen Ward 3,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,For,129,89,35,5,0
+Prairie,Hazen Country,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,For,69,44,25,0,0
+Prairie,Hickory Plains,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,For,117,88,26,3,0
+Prairie,Lower Hill City,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,For,88,64,23,0,1
+Prairie,Lower Hill Country,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,For,47,24,23,0,0
+Prairie,Roc Roe City,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,For,46,40,4,1,1
+Prairie,Roc Roe Country,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,For,47,26,21,0,0
+Prairie,Union,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,For,28,19,9,0,0
+Prairie,Upper Hill,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,For,12,6,6,0,0
+Prairie,Wattensaw City Ward 1,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,For,49,20,29,0,0
+Prairie,Wattensaw City Ward 2,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,For,61,28,33,0,0
+Prairie,Wattensaw City Ward 3,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,For,40,10,27,3,0
+Prairie,Wattensaw Country,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,For,132,67,61,2,2
+Prairie,White River City Ward 1,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,For,115,51,64,0,0
+Prairie,White River City Ward 2,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,For,137,51,80,6,0
+Prairie,White River City Ward 3,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,For,154,58,90,5,1
+Prairie,White River Country,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,For,133,59,71,3,0
+Prairie,Belcher/Tyler,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,Against,51,46,4,1,0
+Prairie,Bullard,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,Against,20,14,6,0,0
+Prairie,Calhoun,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,Against,36,29,7,0,0
+Prairie,Center,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,Against,56,49,7,0,0
+Prairie,Des Arc,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,Against,25,21,4,0,0
+Prairie,Hazen Ward 1,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,Against,45,32,12,1,0
+Prairie,Hazen Ward 2,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,Against,48,28,20,0,0
+Prairie,Hazen Ward 3,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,Against,33,19,12,0,2
+Prairie,Hazen Country,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,Against,55,37,18,0,0
+Prairie,Hickory Plains,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,Against,92,77,15,0,0
+Prairie,Lower Hill City,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,Against,32,18,14,0,0
+Prairie,Lower Hill Country,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,Against,37,27,10,0,0
+Prairie,Roc Roe City,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,Against,17,17,0,0,0
+Prairie,Roc Roe Country,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,Against,33,22,11,0,0
+Prairie,Union,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,Against,3,2,1,0,0
+Prairie,Upper Hill,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,Against,5,4,1,0,0
+Prairie,Wattensaw City Ward 1,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,Against,11,3,8,0,0
+Prairie,Wattensaw City Ward 2,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,Against,14,7,7,0,0
+Prairie,Wattensaw City Ward 3,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,Against,9,3,6,0,0
+Prairie,Wattensaw Country,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,Against,77,36,40,1,0
+Prairie,White River City Ward 1,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,Against,32,18,14,0,0
+Prairie,White River City Ward 2,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,Against,75,32,43,0,0
+Prairie,White River City Ward 3,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,Against,70,35,35,0,0
+Prairie,White River Country,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,Against,74,42,32,0,0

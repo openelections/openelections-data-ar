@@ -1,0 +1,300 @@
+county,precinct,office,district,party,candidate,votes,absentee,provisional,early_voting,election_day
+Dallas,District 1,U.S. House,4,Rep,Representative Bruce Westerman,20,12,0,0,8
+Dallas,District 2,U.S. House,4,Rep,Representative Bruce Westerman,66,37,0,3,26
+Dallas,District 3,U.S. House,4,Rep,Representative Bruce Westerman,34,27,0,0,7
+Dallas,District 4,U.S. House,4,Rep,Representative Bruce Westerman,162,106,1,4,51
+Dallas,District 5,U.S. House,4,Rep,Representative Bruce Westerman,210,137,0,5,68
+Dallas,District 6,U.S. House,4,Rep,Representative Bruce Westerman,103,41,0,2,60
+Dallas,District 7,U.S. House,4,Rep,Representative Bruce Westerman,140,12,2,0,126
+Dallas,District 8,U.S. House,4,Rep,Representative Bruce Westerman,254,15,4,1,234
+Dallas,District 9,U.S. House,4,Rep,Representative Bruce Westerman,290,151,1,0,138
+Dallas,District 1,U.S. House,4,Lib,Tom Canada,1,1,0,0,0
+Dallas,District 2,U.S. House,4,Lib,Tom Canada,3,0,0,0,3
+Dallas,District 3,U.S. House,4,Lib,Tom Canada,3,3,0,0,0
+Dallas,District 4,U.S. House,4,Lib,Tom Canada,2,2,0,0,0
+Dallas,District 5,U.S. House,4,Lib,Tom Canada,2,1,0,0,1
+Dallas,District 6,U.S. House,4,Lib,Tom Canada,3,0,0,0,3
+Dallas,District 7,U.S. House,4,Lib,Tom Canada,4,0,0,0,4
+Dallas,District 8,U.S. House,4,Lib,Tom Canada,4,1,0,0,3
+Dallas,District 9,U.S. House,4,Lib,Tom Canada,3,0,0,0,3
+Dallas,District 1,U.S. House,4,Dem,Hayden Catherine Shamel,128,92,1,1,34
+Dallas,District 2,U.S. House,4,Dem,Hayden Catherine Shamel,144,68,0,2,74
+Dallas,District 3,U.S. House,4,Dem,Hayden Catherine Shamel,89,59,0,2,28
+Dallas,District 4,U.S. House,4,Dem,Hayden Catherine Shamel,62,39,0,1,22
+Dallas,District 5,U.S. House,4,Dem,Hayden Catherine Shamel,64,43,0,0,21
+Dallas,District 6,U.S. House,4,Dem,Hayden Catherine Shamel,141,19,0,2,120
+Dallas,District 7,U.S. House,4,Dem,Hayden Catherine Shamel,98,9,6,1,82
+Dallas,District 8,U.S. House,4,Dem,Hayden Catherine Shamel,51,16,2,0,33
+Dallas,District 9,U.S. House,4,Dem,Hayden Catherine Shamel,30,15,0,0,15
+Dallas,District 1,U.S. House,4,Non,Write-In,0,0,0,0,0
+Dallas,District 2,U.S. House,4,Non,Write-In,0,0,0,0,0
+Dallas,District 3,U.S. House,4,Non,Write-In,0,0,0,0,0
+Dallas,District 4,U.S. House,4,Non,Write-In,0,0,0,0,0
+Dallas,District 5,U.S. House,4,Non,Write-In,0,0,0,0,0
+Dallas,District 6,U.S. House,4,Non,Write-In,0,0,0,0,0
+Dallas,District 7,U.S. House,4,Non,Write-In,1,0,0,0,1
+Dallas,District 8,U.S. House,4,Non,Write-In,0,0,0,0,0
+Dallas,District 9,U.S. House,4,Non,Write-In,0,0,0,0,0
+Dallas,District 1,Governor,,Dem,Jared K. Henderson,125,90,1,1,33
+Dallas,District 2,Governor,,Dem,Jared K. Henderson,145,67,0,2,76
+Dallas,District 3,Governor,,Dem,Jared K. Henderson,79,51,0,2,26
+Dallas,District 4,Governor,,Dem,Jared K. Henderson,58,35,0,1,22
+Dallas,District 5,Governor,,Dem,Jared K. Henderson,65,47,0,0,18
+Dallas,District 6,Governor,,Dem,Jared K. Henderson,133,19,0,1,113
+Dallas,District 7,Governor,,Dem,Jared K. Henderson,92,9,6,1,76
+Dallas,District 8,Governor,,Dem,Jared K. Henderson,46,16,2,0,28
+Dallas,District 9,Governor,,Dem,Jared K. Henderson,30,19,0,0,11
+Dallas,District 1,Governor,,Rep,Governor Asa Hutchinson,24,15,0,0,9
+Dallas,District 2,Governor,,Rep,Governor Asa Hutchinson,65,35,0,3,27
+Dallas,District 3,Governor,,Rep,Governor Asa Hutchinson,47,38,0,0,9
+Dallas,District 4,Governor,,Rep,Governor Asa Hutchinson,166,111,1,4,50
+Dallas,District 5,Governor,,Rep,Governor Asa Hutchinson,208,132,0,5,71
+Dallas,District 6,Governor,,Rep,Governor Asa Hutchinson,110,41,0,3,66
+Dallas,District 7,Governor,,Rep,Governor Asa Hutchinson,146,12,2,0,132
+Dallas,District 8,Governor,,Rep,Governor Asa Hutchinson,259,15,4,1,239
+Dallas,District 9,Governor,,Rep,Governor Asa Hutchinson,291,145,1,0,145
+Dallas,District 1,Governor,,Lib,Mark West,0,0,0,0,0
+Dallas,District 2,Governor,,Lib,Mark West,3,3,0,0,0
+Dallas,District 3,Governor,,Lib,Mark West,1,1,0,0,0
+Dallas,District 4,Governor,,Lib,Mark West,3,2,0,0,1
+Dallas,District 5,Governor,,Lib,Mark West,4,3,0,0,1
+Dallas,District 6,Governor,,Lib,Mark West,4,0,0,0,4
+Dallas,District 7,Governor,,Lib,Mark West,5,0,0,0,5
+Dallas,District 8,Governor,,Lib,Mark West,5,1,0,0,4
+Dallas,District 9,Governor,,Lib,Mark West,1,1,0,0,0
+Dallas,District 1,Lieutenant Governor,,Dem,Anthony Bland,127,92,1,1,33
+Dallas,District 2,Lieutenant Governor,,Dem,Anthony Bland,145,67,0,2,76
+Dallas,District 3,Lieutenant Governor,,Dem,Anthony Bland,86,57,0,2,27
+Dallas,District 4,Lieutenant Governor,,Dem,Anthony Bland,62,40,0,1,21
+Dallas,District 5,Lieutenant Governor,,Dem,Anthony Bland,65,45,0,0,20
+Dallas,District 6,Lieutenant Governor,,Dem,Anthony Bland,145,19,0,2,124
+Dallas,District 7,Lieutenant Governor,,Dem,Anthony Bland,100,9,6,1,84
+Dallas,District 8,Lieutenant Governor,,Dem,Anthony Bland,50,16,2,0,32
+Dallas,District 9,Lieutenant Governor,,Dem,Anthony Bland,33,18,0,0,15
+Dallas,District 1,Lieutenant Governor,,Lib,Frank Gilbert,1,0,0,0,1
+Dallas,District 2,Lieutenant Governor,,Lib,Frank Gilbert,4,1,0,0,3
+Dallas,District 3,Lieutenant Governor,,Lib,Frank Gilbert,3,3,0,0,0
+Dallas,District 4,Lieutenant Governor,,Lib,Frank Gilbert,2,1,0,0,1
+Dallas,District 5,Lieutenant Governor,,Lib,Frank Gilbert,3,2,0,0,1
+Dallas,District 6,Lieutenant Governor,,Lib,Frank Gilbert,2,1,0,0,1
+Dallas,District 7,Lieutenant Governor,,Lib,Frank Gilbert,3,0,0,0,3
+Dallas,District 8,Lieutenant Governor,,Lib,Frank Gilbert,4,0,0,0,4
+Dallas,District 9,Lieutenant Governor,,Lib,Frank Gilbert,2,1,0,0,1
+Dallas,District 1,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,21,13,0,0,8
+Dallas,District 2,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,64,37,0,3,24
+Dallas,District 3,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,37,29,0,0,8
+Dallas,District 4,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,162,105,1,4,52
+Dallas,District 5,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,209,135,0,5,69
+Dallas,District 6,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,99,39,0,2,58
+Dallas,District 7,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,143,12,2,0,129
+Dallas,District 8,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,255,16,4,1,234
+Dallas,District 9,Lieutenant Governor,,Rep,Lt. Governor Tim Griffin,288,147,1,0,140
+Dallas,District 1,Attorney General,,Lib,Kerry Hicks,1,0,0,0,1
+Dallas,District 2,Attorney General,,Lib,Kerry Hicks,4,2,0,0,2
+Dallas,District 3,Attorney General,,Lib,Kerry Hicks,3,3,0,0,0
+Dallas,District 4,Attorney General,,Lib,Kerry Hicks,2,1,0,0,1
+Dallas,District 5,Attorney General,,Lib,Kerry Hicks,5,3,0,0,2
+Dallas,District 6,Attorney General,,Lib,Kerry Hicks,2,0,0,0,2
+Dallas,District 7,Attorney General,,Lib,Kerry Hicks,5,0,0,0,5
+Dallas,District 8,Attorney General,,Lib,Kerry Hicks,9,0,0,0,9
+Dallas,District 9,Attorney General,,Lib,Kerry Hicks,3,0,0,0,3
+Dallas,District 1,Attorney General,,Rep,Attorney General Leslie Rutledge,19,12,0,0,7
+Dallas,District 2,Attorney General,,Rep,Attorney General Leslie Rutledge,63,35,0,3,25
+Dallas,District 3,Attorney General,,Rep,Attorney General Leslie Rutledge,34,27,0,0,7
+Dallas,District 4,Attorney General,,Rep,Attorney General Leslie Rutledge,161,104,1,4,52
+Dallas,District 5,Attorney General,,Rep,Attorney General Leslie Rutledge,200,130,0,5,65
+Dallas,District 6,Attorney General,,Rep,Attorney General Leslie Rutledge,104,42,0,2,60
+Dallas,District 7,Attorney General,,Rep,Attorney General Leslie Rutledge,139,12,2,0,125
+Dallas,District 8,Attorney General,,Rep,Attorney General Leslie Rutledge,248,16,4,1,227
+Dallas,District 9,Attorney General,,Rep,Attorney General Leslie Rutledge,283,148,1,0,134
+Dallas,District 1,Attorney General,,Dem,Mike Lee,129,93,1,1,34
+Dallas,District 2,Attorney General,,Dem,Mike Lee,147,69,0,2,76
+Dallas,District 3,Attorney General,,Dem,Mike Lee,88,58,0,2,28
+Dallas,District 4,Attorney General,,Dem,Mike Lee,64,42,0,1,21
+Dallas,District 5,Attorney General,,Dem,Mike Lee,71,49,0,0,22
+Dallas,District 6,Attorney General,,Dem,Mike Lee,138,17,0,2,119
+Dallas,District 7,Attorney General,,Dem,Mike Lee,104,9,6,1,88
+Dallas,District 8,Attorney General,,Dem,Mike Lee,50,16,2,0,32
+Dallas,District 9,Attorney General,,Dem,Mike Lee,36,18,0,0,18
+Dallas,District 1,Secretary of State,,Lib,Christopher Olson,0,0,0,0,0
+Dallas,District 2,Secretary of State,,Lib,Christopher Olson,1,0,0,0,1
+Dallas,District 3,Secretary of State,,Lib,Christopher Olson,4,3,0,0,1
+Dallas,District 4,Secretary of State,,Lib,Christopher Olson,3,2,0,0,1
+Dallas,District 5,Secretary of State,,Lib,Christopher Olson,7,4,0,0,3
+Dallas,District 6,Secretary of State,,Lib,Christopher Olson,4,0,0,0,4
+Dallas,District 7,Secretary of State,,Lib,Christopher Olson,4,0,0,0,4
+Dallas,District 8,Secretary of State,,Lib,Christopher Olson,4,0,0,0,4
+Dallas,District 9,Secretary of State,,Lib,Christopher Olson,4,1,0,0,3
+Dallas,District 1,Secretary of State,,Rep,John Thurston Commissioner of State Lands,19,13,0,0,6
+Dallas,District 2,Secretary of State,,Rep,John Thurston Commissioner of State Lands,57,31,0,3,23
+Dallas,District 3,Secretary of State,,Rep,John Thurston Commissioner of State Lands,38,30,0,0,8
+Dallas,District 4,Secretary of State,,Rep,John Thurston Commissioner of State Lands,150,98,1,4,47
+Dallas,District 5,Secretary of State,,Rep,John Thurston Commissioner of State Lands,193,125,0,5,63
+Dallas,District 6,Secretary of State,,Rep,John Thurston Commissioner of State Lands,92,38,0,2,52
+Dallas,District 7,Secretary of State,,Rep,John Thurston Commissioner of State Lands,138,12,1,0,125
+Dallas,District 8,Secretary of State,,Rep,John Thurston Commissioner of State Lands,246,15,4,1,226
+Dallas,District 9,Secretary of State,,Rep,John Thurston Commissioner of State Lands,281,145,1,0,135
+Dallas,District 1,Secretary of State,,Dem,Susan Inman,131,93,1,1,36
+Dallas,District 2,Secretary of State,,Dem,Susan Inman,155,74,0,2,79
+Dallas,District 3,Secretary of State,,Dem,Susan Inman,85,57,0,2,26
+Dallas,District 4,Secretary of State,,Dem,Susan Inman,74,47,0,1,26
+Dallas,District 5,Secretary of State,,Dem,Susan Inman,76,53,0,0,23
+Dallas,District 6,Secretary of State,,Dem,Susan Inman,152,22,0,2,128
+Dallas,District 7,Secretary of State,,Dem,Susan Inman,105,9,7,1,88
+Dallas,District 8,Secretary of State,,Dem,Susan Inman,58,17,2,0,39
+Dallas,District 9,Secretary of State,,Dem,Susan Inman,38,19,0,0,19
+Dallas,District 1,State Treasurer,,Rep,Treasurer of State Dennis Milligan,43,31,0,0,12
+Dallas,District 2,State Treasurer,,Rep,Treasurer of State Dennis Milligan,78,41,0,3,34
+Dallas,District 3,State Treasurer,,Rep,Treasurer of State Dennis Milligan,55,43,0,1,11
+Dallas,District 4,State Treasurer,,Rep,Treasurer of State Dennis Milligan,175,113,1,4,57
+Dallas,District 5,State Treasurer,,Rep,Treasurer of State Dennis Milligan,218,143,0,5,70
+Dallas,District 6,State Treasurer,,Rep,Treasurer of State Dennis Milligan,124,39,0,3,82
+Dallas,District 7,State Treasurer,,Rep,Treasurer of State Dennis Milligan,157,12,2,0,143
+Dallas,District 8,State Treasurer,,Rep,Treasurer of State Dennis Milligan,259,18,4,1,236
+Dallas,District 9,State Treasurer,,Rep,Treasurer of State Dennis Milligan,294,147,1,0,146
+Dallas,District 1,State Treasurer,,Lib,Ashley Ewald,95,66,1,1,27
+Dallas,District 2,State Treasurer,,Lib,Ashley Ewald,133,64,0,2,67
+Dallas,District 3,State Treasurer,,Lib,Ashley Ewald,63,38,0,1,24
+Dallas,District 4,State Treasurer,,Lib,Ashley Ewald,42,26,0,0,16
+Dallas,District 5,State Treasurer,,Lib,Ashley Ewald,56,36,0,0,20
+Dallas,District 6,State Treasurer,,Lib,Ashley Ewald,103,19,0,1,83
+Dallas,District 7,State Treasurer,,Lib,Ashley Ewald,85,8,6,1,70
+Dallas,District 8,State Treasurer,,Lib,Ashley Ewald,46,13,2,0,31
+Dallas,District 9,State Treasurer,,Lib,Ashley Ewald,30,19,0,0,11
+Dallas,District 1,Auditor of State,,Rep,Auditor Andrea Lea,50,35,0,0,15
+Dallas,District 2,Auditor of State,,Rep,Auditor Andrea Lea,84,44,0,3,37
+Dallas,District 3,Auditor of State,,Rep,Auditor Andrea Lea,55,41,0,1,13
+Dallas,District 4,Auditor of State,,Rep,Auditor Andrea Lea,174,113,1,4,56
+Dallas,District 5,Auditor of State,,Rep,Auditor Andrea Lea,218,141,0,5,72
+Dallas,District 6,Auditor of State,,Rep,Auditor Andrea Lea,118,40,0,3,75
+Dallas,District 7,Auditor of State,,Rep,Auditor Andrea Lea,156,14,2,0,140
+Dallas,District 8,Auditor of State,,Rep,Auditor Andrea Lea,257,19,4,1,233
+Dallas,District 9,Auditor of State,,Rep,Auditor Andrea Lea,298,149,2,0,147
+Dallas,District 1,Auditor of State,,Lib,David E. Dinwiddie,89,60,1,1,27
+Dallas,District 2,Auditor of State,,Lib,David E. Dinwiddie,119,54,0,2,63
+Dallas,District 3,Auditor of State,,Lib,David E. Dinwiddie,64,41,0,1,22
+Dallas,District 4,Auditor of State,,Lib,David E. Dinwiddie,44,27,0,0,17
+Dallas,District 5,Auditor of State,,Lib,David E. Dinwiddie,53,35,0,0,18
+Dallas,District 6,Auditor of State,,Lib,David E. Dinwiddie,108,17,0,1,90
+Dallas,District 7,Auditor of State,,Lib,David E. Dinwiddie,84,7,5,1,71
+Dallas,District 8,Auditor of State,,Lib,David E. Dinwiddie,48,12,2,0,34
+Dallas,District 9,Auditor of State,,Lib,David E. Dinwiddie,25,16,0,0,9
+Dallas,District 1,Commissioner of State Lands,,Rep,Tommy Land,14,9,0,0,5
+Dallas,District 2,Commissioner of State Lands,,Rep,Tommy Land,50,28,0,3,19
+Dallas,District 3,Commissioner of State Lands,,Rep,Tommy Land,30,23,0,0,7
+Dallas,District 4,Commissioner of State Lands,,Rep,Tommy Land,145,95,1,4,45
+Dallas,District 5,Commissioner of State Lands,,Rep,Tommy Land,191,126,0,5,60
+Dallas,District 6,Commissioner of State Lands,,Rep,Tommy Land,87,39,0,2,46
+Dallas,District 7,Commissioner of State Lands,,Rep,Tommy Land,134,12,1,0,121
+Dallas,District 8,Commissioner of State Lands,,Rep,Tommy Land,248,15,4,1,228
+Dallas,District 9,Commissioner of State Lands,,Rep,Tommy Land,271,142,1,0,128
+Dallas,District 1,Commissioner of State Lands,,Lib,T.J. Campbell,2,1,0,0,1
+Dallas,District 2,Commissioner of State Lands,,Lib,T.J. Campbell,4,1,0,0,3
+Dallas,District 3,Commissioner of State Lands,,Lib,T.J. Campbell,1,1,0,0,0
+Dallas,District 4,Commissioner of State Lands,,Lib,T.J. Campbell,1,1,0,0,0
+Dallas,District 5,Commissioner of State Lands,,Lib,T.J. Campbell,6,4,0,0,2
+Dallas,District 6,Commissioner of State Lands,,Lib,T.J. Campbell,5,0,0,0,5
+Dallas,District 7,Commissioner of State Lands,,Lib,T.J. Campbell,2,0,0,0,2
+Dallas,District 8,Commissioner of State Lands,,Lib,T.J. Campbell,8,0,0,0,8
+Dallas,District 9,Commissioner of State Lands,,Lib,T.J. Campbell,4,1,0,0,3
+Dallas,District 1,Commissioner of State Lands,,Dem,Larry Williams,133,95,1,1,36
+Dallas,District 2,Commissioner of State Lands,,Dem,Larry Williams,157,75,0,2,80
+Dallas,District 3,Commissioner of State Lands,,Dem,Larry Williams,93,63,0,2,28
+Dallas,District 4,Commissioner of State Lands,,Dem,Larry Williams,81,51,0,1,29
+Dallas,District 5,Commissioner of State Lands,,Dem,Larry Williams,80,52,0,0,28
+Dallas,District 6,Commissioner of State Lands,,Dem,Larry Williams,156,21,0,2,133
+Dallas,District 7,Commissioner of State Lands,,Dem,Larry Williams,108,9,7,1,91
+Dallas,District 8,Commissioner of State Lands,,Dem,Larry Williams,54,17,2,0,35
+Dallas,District 9,Commissioner of State Lands,,Dem,Larry Williams,48,23,0,0,25
+Dallas,District 1,State Supreme Court Associate Justice Position 3,,Non,State Supreme Court Justice Courtney Goodson,75,52,0,1,22
+Dallas,District 2,State Supreme Court Associate Justice Position 3,,Non,State Supreme Court Justice Courtney Goodson,118,55,0,4,59
+Dallas,District 3,State Supreme Court Associate Justice Position 3,,Non,State Supreme Court Justice Courtney Goodson,71,48,0,2,21
+Dallas,District 4,State Supreme Court Associate Justice Position 3,,Non,State Supreme Court Justice Courtney Goodson,123,81,0,3,39
+Dallas,District 5,State Supreme Court Associate Justice Position 3,,Non,State Supreme Court Justice Courtney Goodson,165,110,0,5,50
+Dallas,District 6,State Supreme Court Associate Justice Position 3,,Non,State Supreme Court Justice Courtney Goodson,119,34,0,3,82
+Dallas,District 7,State Supreme Court Associate Justice Position 3,,Non,State Supreme Court Justice Courtney Goodson,119,11,1,1,106
+Dallas,District 8,State Supreme Court Associate Justice Position 3,,Non,State Supreme Court Justice Courtney Goodson,129,18,2,0,109
+Dallas,District 9,State Supreme Court Associate Justice Position 3,,Non,State Supreme Court Justice Courtney Goodson,157,79,1,0,77
+Dallas,District 1,State Supreme Court Associate Justice Position 3,,Non,David Sterling,56,38,1,0,17
+Dallas,District 2,State Supreme Court Associate Justice Position 3,,Non,David Sterling,85,45,0,0,40
+Dallas,District 3,State Supreme Court Associate Justice Position 3,,Non,David Sterling,44,31,0,0,13
+Dallas,District 4,State Supreme Court Associate Justice Position 3,,Non,David Sterling,89,56,1,1,31
+Dallas,District 5,State Supreme Court Associate Justice Position 3,,Non,David Sterling,100,66,0,0,34
+Dallas,District 6,State Supreme Court Associate Justice Position 3,,Non,David Sterling,106,22,0,1,83
+Dallas,District 7,State Supreme Court Associate Justice Position 3,,Non,David Sterling,121,9,7,0,105
+Dallas,District 8,State Supreme Court Associate Justice Position 3,,Non,David Sterling,172,14,4,1,153
+Dallas,District 9,State Supreme Court Associate Justice Position 3,,Non,David Sterling,157,82,0,0,75
+Dallas,District 1,Fordyce City Alderman Ward 2 Position 2,,Dem,Larry Stacy,4,2,1,0,1
+Dallas,District 3,Fordyce City Alderman Ward 2 Position 2,,Dem,Larry Stacy,28,18,0,0,10
+Dallas,District 4,Fordyce City Alderman Ward 2 Position 2,,Dem,Larry Stacy,110,72,1,2,35
+Dallas,District 5,Fordyce City Alderman Ward 2 Position 2,,Dem,Larry Stacy,7,3,0,0,4
+Dallas,District 9,Fordyce City Alderman Ward 2 Position 2,,Dem,Larry Stacy,7,5,0,0,2
+Dallas,District 1,Fordyce City Alderman Ward 2 Position 2,,Rep,Roderick Rogers,2,1,0,0,1
+Dallas,District 3,Fordyce City Alderman Ward 2 Position 2,,Rep,Roderick Rogers,32,24,0,0,8
+Dallas,District 4,Fordyce City Alderman Ward 2 Position 2,,Rep,Roderick Rogers,115,75,0,2,38
+Dallas,District 5,Fordyce City Alderman Ward 2 Position 2,,Rep,Roderick Rogers,4,2,0,0,2
+Dallas,District 9,Fordyce City Alderman Ward 2 Position 2,,Rep,Roderick Rogers,15,9,0,0,6
+Dallas,District 7,Sparkman City Mayor,,Dem,Ricky L. Craig,49,3,6,1,39
+Dallas,District 7,Sparkman City Mayor,,Ind,Ophia Maria Blevins,21,5,1,0,15
+Dallas,District 7,Sparkman City Mayor,,Ind,Phillip Freeman,37,5,0,0,32
+Dallas,District 7,Sparkman City Mayor,,Ind,Cecily Ann Mann,31,1,0,0,30
+Dallas,District 7,Sparkman City Alderman Ward 1 Position 2,,Ind,Jeff Ford,37,5,2,0,30
+Dallas,District 7,Sparkman City Alderman Ward 1 Position 2,,Dem,Robert Mann,13,1,5,0,7
+Dallas,District 6,Carthage City Mayor,,Ind,Shawn Randall,60,3,0,2,55
+Dallas,District 6,Carthage City Mayor,,Dem,Jeffery Toney,46,4,0,1,41
+Dallas,District 6,Carthage City Alderman Ward 2 Position 2,,Dem,Helen Jacobs,14,3,0,0,11
+Dallas,District 6,Carthage City Alderman Ward 2 Position 2,,Ind,"Frank Phillips, Jr.",21,1,0,0,20
+Dallas,District 1,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,FOR,110,73,1,1,35
+Dallas,District 2,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,FOR,169,85,0,4,80
+Dallas,District 3,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,FOR,95,66,0,2,27
+Dallas,District 4,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,FOR,188,118,1,5,64
+Dallas,District 5,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,FOR,229,150,0,5,74
+Dallas,District 6,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,FOR,174,43,0,4,127
+Dallas,District 7,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,FOR,195,15,6,0,174
+Dallas,District 8,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,FOR,261,27,6,1,227
+Dallas,District 9,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,FOR,281,147,1,0,133
+Dallas,District 1,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,AGAINST,39,32,0,0,7
+Dallas,District 2,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,AGAINST,44,20,0,1,23
+Dallas,District 3,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,AGAINST,31,23,0,0,8
+Dallas,District 4,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,AGAINST,38,28,0,0,10
+Dallas,District 5,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,AGAINST,47,31,0,0,16
+Dallas,District 6,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,AGAINST,70,17,0,0,53
+Dallas,District 7,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,AGAINST,53,6,2,1,44
+Dallas,District 8,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,AGAINST,46,5,0,0,41
+Dallas,District 9,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,AGAINST,39,18,0,0,21
+Dallas,District 1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,100,73,1,1,25
+Dallas,District 2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,142,68,0,4,70
+Dallas,District 3,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,85,55,0,1,29
+Dallas,District 4,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,110,66,0,2,42
+Dallas,District 5,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,124,80,0,4,40
+Dallas,District 6,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,147,36,0,1,110
+Dallas,District 7,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,136,12,8,1,115
+Dallas,District 8,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,130,19,4,1,106
+Dallas,District 9,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,132,71,1,0,60
+Dallas,District 1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,45,28,0,0,17
+Dallas,District 2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,70,36,0,1,33
+Dallas,District 3,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,43,36,0,1,6
+Dallas,District 4,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,115,80,1,3,31
+Dallas,District 5,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,149,98,0,1,50
+Dallas,District 6,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,99,23,0,3,73
+Dallas,District 7,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,114,9,0,0,105
+Dallas,District 8,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,180,13,2,0,165
+Dallas,District 9,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,190,93,0,0,97
+Dallas,District 1,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,FOR,137,94,1,1,41
+Dallas,District 2,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,FOR,171,80,0,3,88
+Dallas,District 3,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,FOR,111,78,0,2,31
+Dallas,District 4,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,FOR,156,99,1,3,53
+Dallas,District 5,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,FOR,174,117,0,1,56
+Dallas,District 6,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,FOR,191,37,0,3,151
+Dallas,District 7,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,FOR,185,18,7,1,159
+Dallas,District 8,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,FOR,182,24,6,1,151
+Dallas,District 9,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,FOR,185,94,1,0,90
+Dallas,District 1,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,AGAINST,12,11,0,0,1
+Dallas,District 2,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,AGAINST,42,25,0,2,15
+Dallas,District 3,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,AGAINST,16,12,0,0,4
+Dallas,District 4,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,AGAINST,71,48,0,2,21
+Dallas,District 5,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,AGAINST,103,65,0,4,34
+Dallas,District 6,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,AGAINST,57,23,0,1,33
+Dallas,District 7,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,AGAINST,64,3,1,0,60
+Dallas,District 8,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,AGAINST,124,8,0,0,116
+Dallas,District 9,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,AGAINST,137,70,0,0,67

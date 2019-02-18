@@ -1,0 +1,1445 @@
+county,precinct,office,district,party,candidate,votes,election_day,early_voting,absentee,provisional
+Howard,Umpire,U.S. House,4,REP,Representative Bruce Westerman,66,54,10,2,0
+Howard,Burg,U.S. House,4,REP,Representative Bruce Westerman,19,17,2,0,0
+Howard,Mountain,U.S. House,4,REP,Representative Bruce Westerman,56,51,5,0,0
+Howard,Clay,U.S. House,4,REP,Representative Bruce Westerman,34,26,8,0,0
+Howard,Blue Ridge,U.S. House,4,REP,Representative Bruce Westerman,41,28,13,0,0
+Howard,Madison,U.S. House,4,REP,Representative Bruce Westerman,117,90,27,0,0
+Howard,Holly Creek,U.S. House,4,REP,Representative Bruce Westerman,70,38,32,0,0
+Howard,Muddy Fork,U.S. House,4,REP,Representative Bruce Westerman,42,15,27,0,0
+Howard,Brewer,U.S. House,4,REP,Representative Bruce Westerman,106,40,65,0,1
+Howard,Center Point 1,U.S. House,4,REP,Representative Bruce Westerman,75,39,31,5,0
+Howard,Center Point 2,U.S. House,4,REP,Representative Bruce Westerman,50,22,27,1,0
+Howard,Saline,U.S. House,4,REP,Representative Bruce Westerman,38,17,21,0,0
+Howard,Blue Bayou,U.S. House,4,REP,Representative Bruce Westerman,28,15,13,0,0
+Howard,County Line,U.S. House,4,REP,Representative Bruce Westerman,159,72,82,5,0
+Howard,Dillard,U.S. House,4,REP,Representative Bruce Westerman,72,39,33,0,0
+Howard,Nashville Ward 1,U.S. House,4,REP,Representative Bruce Westerman,181,47,130,4,0
+Howard,Nashville Ward 2,U.S. House,4,REP,Representative Bruce Westerman,51,9,39,3,0
+Howard,Nashville Ward 3,U.S. House,4,REP,Representative Bruce Westerman,30,10,18,2,0
+Howard,Nashville ward 4,U.S. House,4,REP,Representative Bruce Westerman,56,19,33,4,0
+Howard,Nashville Ward 5,U.S. House,4,REP,Representative Bruce Westerman,137,34,102,0,1
+Howard,Nashville Ward 6,U.S. House,4,REP,Representative Bruce Westerman,139,31,103,5,0
+Howard,Nashville TWP II,U.S. House,4,REP,Representative Bruce Westerman,119,34,85,0,0
+Howard,Nashville Twp 1,U.S. House,4,REP,Representative Bruce Westerman,312,100,206,6,0
+Howard,Mineral Springs TWP,U.S. House,4,REP,Representative Bruce Westerman,16,5,11,0,0
+Howard,Mineral Springs 1,U.S. House,4,REP,Representative Bruce Westerman,11,8,3,0,0
+Howard,Mineral Springs 2,U.S. House,4,REP,Representative Bruce Westerman,61,32,26,3,0
+Howard,Buck Range,U.S. House,4,REP,Representative Bruce Westerman,46,23,23,0,0
+Howard,Blackland,U.S. House,4,REP,Representative Bruce Westerman,26,9,16,0,1
+Howard,Saratoga,U.S. House,4,REP,Representative Bruce Westerman,22,13,8,1,0
+Howard,Franklin,U.S. House,4,REP,Representative Bruce Westerman,18,8,8,2,0
+Howard,Dierks Ward 1,U.S. House,4,REP,Representative Bruce Westerman,53,46,6,1,0
+Howard,Dierks Ward 2,U.S. House,4,REP,Representative Bruce Westerman,39,32,6,1,0
+Howard,Dierks Ward 3,U.S. House,4,REP,Representative Bruce Westerman,109,91,17,1,0
+Howard,Tollette,U.S. House,4,REP,Representative Bruce Westerman,1,1,0,0,0
+Howard,Duckett,U.S. House,4,REP,Representative Bruce Westerman,20,17,0,3,0
+Howard,Mineral Spring 3,U.S. House,4,REP,Representative Bruce Westerman,33,16,17,0,0
+Howard,Umpire,U.S. House,4,LIB,Tom Canada,2,2,0,0,0
+Howard,Burg,U.S. House,4,LIB,Tom Canada,0,0,0,0,0
+Howard,Mountain,U.S. House,4,LIB,Tom Canada,1,1,0,0,0
+Howard,Clay,U.S. House,4,LIB,Tom Canada,1,0,1,0,0
+Howard,Blue Ridge,U.S. House,4,LIB,Tom Canada,0,0,0,0,0
+Howard,Madison,U.S. House,4,LIB,Tom Canada,0,0,0,0,0
+Howard,Holly Creek,U.S. House,4,LIB,Tom Canada,0,0,0,0,0
+Howard,Muddy Fork,U.S. House,4,LIB,Tom Canada,1,0,1,0,0
+Howard,Brewer,U.S. House,4,LIB,Tom Canada,3,1,2,0,0
+Howard,Center Point 1,U.S. House,4,LIB,Tom Canada,1,0,1,0,0
+Howard,Center Point 2,U.S. House,4,LIB,Tom Canada,0,0,0,0,0
+Howard,Saline,U.S. House,4,LIB,Tom Canada,1,1,0,0,0
+Howard,Blue Bayou,U.S. House,4,LIB,Tom Canada,2,1,1,0,0
+Howard,County Line,U.S. House,4,LIB,Tom Canada,0,0,0,0,0
+Howard,Dillard,U.S. House,4,LIB,Tom Canada,3,3,0,0,0
+Howard,Nashville Ward 1,U.S. House,4,LIB,Tom Canada,2,0,2,0,0
+Howard,Nashville Ward 2,U.S. House,4,LIB,Tom Canada,2,1,1,0,0
+Howard,Nashville Ward 3,U.S. House,4,LIB,Tom Canada,3,0,3,0,0
+Howard,Nashville ward 4,U.S. House,4,LIB,Tom Canada,1,0,1,0,0
+Howard,Nashville Ward 5,U.S. House,4,LIB,Tom Canada,2,2,0,0,0
+Howard,Nashville Ward 6,U.S. House,4,LIB,Tom Canada,4,3,1,0,0
+Howard,Nashville TWP II,U.S. House,4,LIB,Tom Canada,0,0,0,0,0
+Howard,Nashville Twp 1,U.S. House,4,LIB,Tom Canada,3,2,1,0,0
+Howard,Mineral Springs TWP,U.S. House,4,LIB,Tom Canada,0,0,0,0,0
+Howard,Mineral Springs 1,U.S. House,4,LIB,Tom Canada,4,3,1,0,0
+Howard,Mineral Springs 2,U.S. House,4,LIB,Tom Canada,3,2,0,1,0
+Howard,Buck Range,U.S. House,4,LIB,Tom Canada,0,0,0,0,0
+Howard,Blackland,U.S. House,4,LIB,Tom Canada,0,0,0,0,0
+Howard,Saratoga,U.S. House,4,LIB,Tom Canada,0,0,0,0,0
+Howard,Franklin,U.S. House,4,LIB,Tom Canada,1,1,0,0,0
+Howard,Dierks Ward 1,U.S. House,4,LIB,Tom Canada,0,0,0,0,0
+Howard,Dierks Ward 2,U.S. House,4,LIB,Tom Canada,0,0,0,0,0
+Howard,Dierks Ward 3,U.S. House,4,LIB,Tom Canada,2,2,0,0,0
+Howard,Tollette,U.S. House,4,LIB,Tom Canada,1,1,0,0,0
+Howard,Duckett,U.S. House,4,LIB,Tom Canada,0,0,0,0,0
+Howard,Mineral Spring 3,U.S. House,4,LIB,Tom Canada,3,3,0,0,0
+Howard,Umpire,U.S. House,4,DEM,Hayden Catherine Shamel,4,2,2,0,0
+Howard,Burg,U.S. House,4,DEM,Hayden Catherine Shamel,2,2,0,0,0
+Howard,Mountain,U.S. House,4,DEM,Hayden Catherine Shamel,2,2,0,0,0
+Howard,Clay,U.S. House,4,DEM,Hayden Catherine Shamel,4,2,1,1,0
+Howard,Blue Ridge,U.S. House,4,DEM,Hayden Catherine Shamel,11,8,3,0,0
+Howard,Madison,U.S. House,4,DEM,Hayden Catherine Shamel,7,6,1,0,0
+Howard,Holly Creek,U.S. House,4,DEM,Hayden Catherine Shamel,7,7,0,0,0
+Howard,Muddy Fork,U.S. House,4,DEM,Hayden Catherine Shamel,1,1,0,0,0
+Howard,Brewer,U.S. House,4,DEM,Hayden Catherine Shamel,20,8,11,1,0
+Howard,Center Point 1,U.S. House,4,DEM,Hayden Catherine Shamel,26,10,16,0,0
+Howard,Center Point 2,U.S. House,4,DEM,Hayden Catherine Shamel,8,1,7,0,0
+Howard,Saline,U.S. House,4,DEM,Hayden Catherine Shamel,15,6,9,0,0
+Howard,Blue Bayou,U.S. House,4,DEM,Hayden Catherine Shamel,6,1,5,0,0
+Howard,County Line,U.S. House,4,DEM,Hayden Catherine Shamel,20,9,11,0,0
+Howard,Dillard,U.S. House,4,DEM,Hayden Catherine Shamel,4,2,2,0,0
+Howard,Nashville Ward 1,U.S. House,4,DEM,Hayden Catherine Shamel,48,8,34,6,0
+Howard,Nashville Ward 2,U.S. House,4,DEM,Hayden Catherine Shamel,48,22,25,1,0
+Howard,Nashville Ward 3,U.S. House,4,DEM,Hayden Catherine Shamel,110,41,67,2,0
+Howard,Nashville ward 4,U.S. House,4,DEM,Hayden Catherine Shamel,46,12,34,0,0
+Howard,Nashville Ward 5,U.S. House,4,DEM,Hayden Catherine Shamel,69,21,48,0,0
+Howard,Nashville Ward 6,U.S. House,4,DEM,Hayden Catherine Shamel,73,21,49,3,0
+Howard,Nashville TWP II,U.S. House,4,DEM,Hayden Catherine Shamel,26,10,16,0,0
+Howard,Nashville Twp 1,U.S. House,4,DEM,Hayden Catherine Shamel,55,11,38,6,0
+Howard,Mineral Springs TWP,U.S. House,4,DEM,Hayden Catherine Shamel,9,4,5,0,0
+Howard,Mineral Springs 1,U.S. House,4,DEM,Hayden Catherine Shamel,54,42,12,0,0
+Howard,Mineral Springs 2,U.S. House,4,DEM,Hayden Catherine Shamel,47,31,16,0,0
+Howard,Buck Range,U.S. House,4,DEM,Hayden Catherine Shamel,40,17,23,0,0
+Howard,Blackland,U.S. House,4,DEM,Hayden Catherine Shamel,13,13,0,0,0
+Howard,Saratoga,U.S. House,4,DEM,Hayden Catherine Shamel,38,29,9,0,0
+Howard,Franklin,U.S. House,4,DEM,Hayden Catherine Shamel,26,19,7,0,0
+Howard,Dierks Ward 1,U.S. House,4,DEM,Hayden Catherine Shamel,12,9,3,0,0
+Howard,Dierks Ward 2,U.S. House,4,DEM,Hayden Catherine Shamel,4,4,0,0,0
+Howard,Dierks Ward 3,U.S. House,4,DEM,Hayden Catherine Shamel,7,5,2,0,0
+Howard,Tollette,U.S. House,4,DEM,Hayden Catherine Shamel,90,64,25,1,0
+Howard,Duckett,U.S. House,4,DEM,Hayden Catherine Shamel,3,3,0,0,0
+Howard,Mineral Spring 3,U.S. House,4,DEM,Hayden Catherine Shamel,53,34,19,0,0
+Howard,Umpire,U.S. House,4,NON,Write-In,0,0,0,0,0
+Howard,Burg,U.S. House,4,NON,Write-In,0,0,0,0,0
+Howard,Mountain,U.S. House,4,NON,Write-In,0,0,0,0,0
+Howard,Clay,U.S. House,4,NON,Write-In,0,0,0,0,0
+Howard,Blue Ridge,U.S. House,4,NON,Write-In,0,0,0,0,0
+Howard,Madison,U.S. House,4,NON,Write-In,0,0,0,0,0
+Howard,Holly Creek,U.S. House,4,NON,Write-In,0,0,0,0,0
+Howard,Muddy Fork,U.S. House,4,NON,Write-In,0,0,0,0,0
+Howard,Brewer,U.S. House,4,NON,Write-In,0,0,0,0,0
+Howard,Center Point 1,U.S. House,4,NON,Write-In,2,1,1,0,0
+Howard,Center Point 2,U.S. House,4,NON,Write-In,0,0,0,0,0
+Howard,Saline,U.S. House,4,NON,Write-In,0,0,0,0,0
+Howard,Blue Bayou,U.S. House,4,NON,Write-In,0,0,0,0,0
+Howard,County Line,U.S. House,4,NON,Write-In,0,0,0,0,0
+Howard,Dillard,U.S. House,4,NON,Write-In,0,0,0,0,0
+Howard,Nashville Ward 1,U.S. House,4,NON,Write-In,0,0,0,0,0
+Howard,Nashville Ward 2,U.S. House,4,NON,Write-In,1,0,1,0,0
+Howard,Nashville Ward 3,U.S. House,4,NON,Write-In,0,0,0,0,0
+Howard,Nashville ward 4,U.S. House,4,NON,Write-In,0,0,0,0,0
+Howard,Nashville Ward 5,U.S. House,4,NON,Write-In,0,0,0,0,0
+Howard,Nashville Ward 6,U.S. House,4,NON,Write-In,0,0,0,0,0
+Howard,Nashville TWP II,U.S. House,4,NON,Write-In,0,0,0,0,0
+Howard,Nashville Twp 1,U.S. House,4,NON,Write-In,0,0,0,0,0
+Howard,Mineral Springs TWP,U.S. House,4,NON,Write-In,0,0,0,0,0
+Howard,Mineral Springs 1,U.S. House,4,NON,Write-In,0,0,0,0,0
+Howard,Mineral Springs 2,U.S. House,4,NON,Write-In,0,0,0,0,0
+Howard,Buck Range,U.S. House,4,NON,Write-In,1,0,1,0,0
+Howard,Blackland,U.S. House,4,NON,Write-In,0,0,0,0,0
+Howard,Saratoga,U.S. House,4,NON,Write-In,0,0,0,0,0
+Howard,Franklin,U.S. House,4,NON,Write-In,0,0,0,0,0
+Howard,Dierks Ward 1,U.S. House,4,NON,Write-In,0,0,0,0,0
+Howard,Dierks Ward 2,U.S. House,4,NON,Write-In,0,0,0,0,0
+Howard,Dierks Ward 3,U.S. House,4,NON,Write-In,0,0,0,0,0
+Howard,Tollette,U.S. House,4,NON,Write-In,0,0,0,0,0
+Howard,Duckett,U.S. House,4,NON,Write-In,0,0,0,0,0
+Howard,Mineral Spring 3,U.S. House,4,NON,Write-In,3,2,1,0,0
+Howard,Umpire,Governor,,LIB,Mark West,1,1,0,0,0
+Howard,Burg,Governor,,LIB,Mark West,0,0,0,0,0
+Howard,Mountain,Governor,,LIB,Mark West,3,3,0,0,0
+Howard,Clay,Governor,,LIB,Mark West,1,0,1,0,0
+Howard,Blue Ridge,Governor,,LIB,Mark West,0,0,0,0,0
+Howard,Madison,Governor,,LIB,Mark West,1,1,0,0,0
+Howard,Holly Creek,Governor,,LIB,Mark West,0,0,0,0,0
+Howard,Muddy Fork,Governor,,LIB,Mark West,0,0,0,0,0
+Howard,Brewer,Governor,,LIB,Mark West,3,2,1,0,0
+Howard,Center Point 1,Governor,,LIB,Mark West,0,0,0,0,0
+Howard,Center Point 2,Governor,,LIB,Mark West,0,0,0,0,0
+Howard,Saline,Governor,,LIB,Mark West,1,0,1,0,0
+Howard,Blue Bayou,Governor,,LIB,Mark West,1,0,1,0,0
+Howard,County Line,Governor,,LIB,Mark West,6,3,3,0,0
+Howard,Dillard,Governor,,LIB,Mark West,3,3,0,0,0
+Howard,Nashville Ward 1,Governor,,LIB,Mark West,5,2,3,0,0
+Howard,Nashville Ward 2,Governor,,LIB,Mark West,1,1,0,0,0
+Howard,Nashville Ward 3,Governor,,LIB,Mark West,4,2,2,0,0
+Howard,Nashville ward 4,Governor,,LIB,Mark West,0,0,0,0,0
+Howard,Nashville Ward 5,Governor,,LIB,Mark West,2,1,1,0,0
+Howard,Nashville Ward 6,Governor,,LIB,Mark West,3,2,1,0,0
+Howard,Nashville TWP II,Governor,,LIB,Mark West,4,2,2,0,0
+Howard,Nashville Twp 1,Governor,,LIB,Mark West,6,1,5,0,0
+Howard,Mineral Springs TWP,Governor,,LIB,Mark West,0,0,0,0,0
+Howard,Mineral Springs 1,Governor,,LIB,Mark West,3,2,1,0,0
+Howard,Mineral Springs 2,Governor,,LIB,Mark West,0,0,0,0,0
+Howard,Buck Range,Governor,,LIB,Mark West,1,0,1,0,0
+Howard,Blackland,Governor,,LIB,Mark West,0,0,0,0,0
+Howard,Saratoga,Governor,,LIB,Mark West,1,1,0,0,0
+Howard,Franklin,Governor,,LIB,Mark West,0,0,0,0,0
+Howard,Dierks Ward 1,Governor,,LIB,Mark West,1,1,0,0,0
+Howard,Dierks Ward 2,Governor,,LIB,Mark West,0,0,0,0,0
+Howard,Dierks Ward 3,Governor,,LIB,Mark West,0,0,0,0,0
+Howard,Tollette,Governor,,LIB,Mark West,2,0,2,0,0
+Howard,Duckett,Governor,,LIB,Mark West,1,1,0,0,0
+Howard,Mineral Spring 3,Governor,,LIB,Mark West,2,2,0,0,0
+Howard,Umpire,Governor,,REP,Governor Asa Hutchinson,68,55,11,2,0
+Howard,Burg,Governor,,REP,Governor Asa Hutchinson,19,17,2,0,0
+Howard,Mountain,Governor,,REP,Governor Asa Hutchinson,52,49,3,0,0
+Howard,Clay,Governor,,REP,Governor Asa Hutchinson,33,25,8,0,0
+Howard,Blue Ridge,Governor,,REP,Governor Asa Hutchinson,43,29,14,0,0
+Howard,Madison,Governor,,REP,Governor Asa Hutchinson,117,90,27,0,0
+Howard,Holly Creek,Governor,,REP,Governor Asa Hutchinson,72,41,31,0,0
+Howard,Muddy Fork,Governor,,REP,Governor Asa Hutchinson,41,15,26,0,0
+Howard,Brewer,Governor,,REP,Governor Asa Hutchinson,108,39,68,0,1
+Howard,Center Point 1,Governor,,REP,Governor Asa Hutchinson,78,41,32,5,0
+Howard,Center Point 2,Governor,,REP,Governor Asa Hutchinson,53,23,29,1,0
+Howard,Saline,Governor,,REP,Governor Asa Hutchinson,37,17,20,0,0
+Howard,Blue Bayou,Governor,,REP,Governor Asa Hutchinson,30,17,13,0,0
+Howard,County Line,Governor,,REP,Governor Asa Hutchinson,154,69,80,5,0
+Howard,Dillard,Governor,,REP,Governor Asa Hutchinson,71,39,32,0,0
+Howard,Nashville Ward 1,Governor,,REP,Governor Asa Hutchinson,176,43,127,6,0
+Howard,Nashville Ward 2,Governor,,REP,Governor Asa Hutchinson,54,10,41,3,0
+Howard,Nashville Ward 3,Governor,,REP,Governor Asa Hutchinson,36,9,25,2,0
+Howard,Nashville ward 4,Governor,,REP,Governor Asa Hutchinson,58,19,35,4,0
+Howard,Nashville Ward 5,Governor,,REP,Governor Asa Hutchinson,140,34,105,0,1
+Howard,Nashville Ward 6,Governor,,REP,Governor Asa Hutchinson,144,34,106,4,0
+Howard,Nashville TWP II,Governor,,REP,Governor Asa Hutchinson,115,33,82,0,0
+Howard,Nashville Twp 1,Governor,,REP,Governor Asa Hutchinson,312,96,209,7,0
+Howard,Mineral Springs TWP,Governor,,REP,Governor Asa Hutchinson,16,5,11,0,0
+Howard,Mineral Springs 1,Governor,,REP,Governor Asa Hutchinson,14,10,4,0,0
+Howard,Mineral Springs 2,Governor,,REP,Governor Asa Hutchinson,70,40,26,4,0
+Howard,Buck Range,Governor,,REP,Governor Asa Hutchinson,47,23,24,0,0
+Howard,Blackland,Governor,,REP,Governor Asa Hutchinson,28,12,15,0,1
+Howard,Saratoga,Governor,,REP,Governor Asa Hutchinson,22,13,8,1,0
+Howard,Franklin,Governor,,REP,Governor Asa Hutchinson,19,9,8,2,0
+Howard,Dierks Ward 1,Governor,,REP,Governor Asa Hutchinson,52,45,6,1,0
+Howard,Dierks Ward 2,Governor,,REP,Governor Asa Hutchinson,40,33,6,1,0
+Howard,Dierks Ward 3,Governor,,REP,Governor Asa Hutchinson,112,92,19,1,0
+Howard,Tollette,Governor,,REP,Governor Asa Hutchinson,3,3,0,0,0
+Howard,Duckett,Governor,,REP,Governor Asa Hutchinson,19,16,0,3,0
+Howard,Mineral Spring 3,Governor,,REP,Governor Asa Hutchinson,36,17,19,0,0
+Howard,Umpire,Governor,,DEM,Jared K. Henderson,3,2,1,0,0
+Howard,Burg,Governor,,DEM,Jared K. Henderson,2,2,0,0,0
+Howard,Mountain,Governor,,DEM,Jared K. Henderson,4,2,2,0,0
+Howard,Clay,Governor,,DEM,Jared K. Henderson,5,3,1,1,0
+Howard,Blue Ridge,Governor,,DEM,Jared K. Henderson,7,5,2,0,0
+Howard,Madison,Governor,,DEM,Jared K. Henderson,6,5,1,0,0
+Howard,Holly Creek,Governor,,DEM,Jared K. Henderson,6,5,1,0,0
+Howard,Muddy Fork,Governor,,DEM,Jared K. Henderson,3,1,2,0,0
+Howard,Brewer,Governor,,DEM,Jared K. Henderson,18,8,9,1,0
+Howard,Center Point 1,Governor,,DEM,Jared K. Henderson,26,9,17,0,0
+Howard,Center Point 2,Governor,,DEM,Jared K. Henderson,5,0,5,0,0
+Howard,Saline,Governor,,DEM,Jared K. Henderson,16,7,9,0,0
+Howard,Blue Bayou,Governor,,DEM,Jared K. Henderson,5,0,5,0,0
+Howard,County Line,Governor,,DEM,Jared K. Henderson,19,9,10,0,0
+Howard,Dillard,Governor,,DEM,Jared K. Henderson,5,2,3,0,0
+Howard,Nashville Ward 1,Governor,,DEM,Jared K. Henderson,49,10,35,4,0
+Howard,Nashville Ward 2,Governor,,DEM,Jared K. Henderson,50,21,28,1,0
+Howard,Nashville Ward 3,Governor,,DEM,Jared K. Henderson,103,39,62,2,0
+Howard,Nashville ward 4,Governor,,DEM,Jared K. Henderson,46,12,34,0,0
+Howard,Nashville Ward 5,Governor,,DEM,Jared K. Henderson,64,22,42,0,0
+Howard,Nashville Ward 6,Governor,,DEM,Jared K. Henderson,70,19,47,4,0
+Howard,Nashville TWP II,Governor,,DEM,Jared K. Henderson,26,9,17,0,0
+Howard,Nashville Twp 1,Governor,,DEM,Jared K. Henderson,53,16,32,5,0
+Howard,Mineral Springs TWP,Governor,,DEM,Jared K. Henderson,9,4,5,0,0
+Howard,Mineral Springs 1,Governor,,DEM,Jared K. Henderson,52,41,11,0,0
+Howard,Mineral Springs 2,Governor,,DEM,Jared K. Henderson,42,26,16,0,0
+Howard,Buck Range,Governor,,DEM,Jared K. Henderson,40,17,23,0,0
+Howard,Blackland,Governor,,DEM,Jared K. Henderson,11,10,1,0,0
+Howard,Saratoga,Governor,,DEM,Jared K. Henderson,36,27,9,0,0
+Howard,Franklin,Governor,,DEM,Jared K. Henderson,28,20,8,0,0
+Howard,Dierks Ward 1,Governor,,DEM,Jared K. Henderson,12,9,3,0,0
+Howard,Dierks Ward 2,Governor,,DEM,Jared K. Henderson,3,3,0,0,0
+Howard,Dierks Ward 3,Governor,,DEM,Jared K. Henderson,7,7,0,0,0
+Howard,Tollette,Governor,,DEM,Jared K. Henderson,86,61,24,1,0
+Howard,Duckett,Governor,,DEM,Jared K. Henderson,3,3,0,0,0
+Howard,Mineral Spring 3,Governor,,DEM,Jared K. Henderson,54,36,18,0,0
+Howard,Umpire,Lieutenant Governor,,DEM,Anthony Bland,5,3,2,0,0
+Howard,Burg,Lieutenant Governor,,DEM,Anthony Bland,1,1,0,0,0
+Howard,Mountain,Lieutenant Governor,,DEM,Anthony Bland,3,2,1,0,0
+Howard,Clay,Lieutenant Governor,,DEM,Anthony Bland,4,2,1,1,0
+Howard,Blue Ridge,Lieutenant Governor,,DEM,Anthony Bland,11,8,3,0,0
+Howard,Madison,Lieutenant Governor,,DEM,Anthony Bland,7,6,1,0,0
+Howard,Holly Creek,Lieutenant Governor,,DEM,Anthony Bland,7,7,0,0,0
+Howard,Muddy Fork,Lieutenant Governor,,DEM,Anthony Bland,1,1,0,0,0
+Howard,Brewer,Lieutenant Governor,,DEM,Anthony Bland,19,8,10,1,0
+Howard,Center Point 1,Lieutenant Governor,,DEM,Anthony Bland,27,11,16,0,0
+Howard,Center Point 2,Lieutenant Governor,,DEM,Anthony Bland,8,0,8,0,0
+Howard,Saline,Lieutenant Governor,,DEM,Anthony Bland,14,6,8,0,0
+Howard,Blue Bayou,Lieutenant Governor,,DEM,Anthony Bland,5,0,5,0,0
+Howard,County Line,Lieutenant Governor,,DEM,Anthony Bland,22,9,13,0,0
+Howard,Dillard,Lieutenant Governor,,DEM,Anthony Bland,6,4,2,0,0
+Howard,Nashville Ward 1,Lieutenant Governor,,DEM,Anthony Bland,52,8,39,5,0
+Howard,Nashville Ward 2,Lieutenant Governor,,DEM,Anthony Bland,54,23,30,1,0
+Howard,Nashville Ward 3,Lieutenant Governor,,DEM,Anthony Bland,104,38,64,2,0
+Howard,Nashville ward 4,Lieutenant Governor,,DEM,Anthony Bland,47,11,36,0,0
+Howard,Nashville Ward 5,Lieutenant Governor,,DEM,Anthony Bland,69,22,47,0,0
+Howard,Nashville Ward 6,Lieutenant Governor,,DEM,Anthony Bland,68,21,45,2,0
+Howard,Nashville TWP II,Lieutenant Governor,,DEM,Anthony Bland,25,9,16,0,0
+Howard,Nashville Twp 1,Lieutenant Governor,,DEM,Anthony Bland,53,13,36,4,0
+Howard,Mineral Springs TWP,Lieutenant Governor,,DEM,Anthony Bland,8,3,5,0,0
+Howard,Mineral Springs 1,Lieutenant Governor,,DEM,Anthony Bland,55,41,14,0,0
+Howard,Mineral Springs 2,Lieutenant Governor,,DEM,Anthony Bland,43,28,15,0,0
+Howard,Buck Range,Lieutenant Governor,,DEM,Anthony Bland,39,18,21,0,0
+Howard,Blackland,Lieutenant Governor,,DEM,Anthony Bland,14,14,0,0,0
+Howard,Saratoga,Lieutenant Governor,,DEM,Anthony Bland,38,29,9,0,0
+Howard,Franklin,Lieutenant Governor,,DEM,Anthony Bland,26,19,7,0,0
+Howard,Dierks Ward 1,Lieutenant Governor,,DEM,Anthony Bland,13,10,3,0,0
+Howard,Dierks Ward 2,Lieutenant Governor,,DEM,Anthony Bland,3,3,0,0,0
+Howard,Dierks Ward 3,Lieutenant Governor,,DEM,Anthony Bland,11,10,1,0,0
+Howard,Tollette,Lieutenant Governor,,DEM,Anthony Bland,91,65,25,1,0
+Howard,Duckett,Lieutenant Governor,,DEM,Anthony Bland,4,4,0,0,0
+Howard,Mineral Spring 3,Lieutenant Governor,,DEM,Anthony Bland,53,36,17,0,0
+Howard,Umpire,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,66,54,10,2,0
+Howard,Burg,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,19,17,2,0,0
+Howard,Mountain,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,56,52,4,0,0
+Howard,Clay,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,32,24,8,0,0
+Howard,Blue Ridge,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,40,27,13,0,0
+Howard,Madison,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,117,90,27,0,0
+Howard,Holly Creek,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,69,37,32,0,0
+Howard,Muddy Fork,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,42,15,27,0,0
+Howard,Brewer,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,108,41,66,0,1
+Howard,Center Point 1,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,76,39,32,5,0
+Howard,Center Point 2,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,49,23,25,1,0
+Howard,Saline,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,39,17,22,0,0
+Howard,Blue Bayou,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,31,17,14,0,0
+Howard,County Line,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,154,69,80,5,0
+Howard,Dillard,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,72,39,33,0,0
+Howard,Nashville Ward 1,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,172,45,122,5,0
+Howard,Nashville Ward 2,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,50,9,38,3,0
+Howard,Nashville Ward 3,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,32,10,20,2,0
+Howard,Nashville ward 4,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,56,19,33,4,0
+Howard,Nashville Ward 5,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,134,32,101,0,1
+Howard,Nashville Ward 6,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,143,31,106,6,0
+Howard,Nashville TWP II,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,119,35,84,0,0
+Howard,Nashville Twp 1,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,313,99,206,8,0
+Howard,Mineral Springs TWP,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,17,6,11,0,0
+Howard,Mineral Springs 1,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,9,8,1,0,0
+Howard,Mineral Springs 2,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,67,37,26,4,0
+Howard,Buck Range,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,48,22,26,0,0
+Howard,Blackland,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,26,9,16,0,1
+Howard,Saratoga,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,21,12,8,1,0
+Howard,Franklin,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,19,8,9,2,0
+Howard,Dierks Ward 1,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,52,45,6,1,0
+Howard,Dierks Ward 2,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,40,33,6,1,0
+Howard,Dierks Ward 3,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,105,86,18,1,0
+Howard,Tollette,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,1,1,0,0,0
+Howard,Duckett,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,19,16,0,3,0
+Howard,Mineral Spring 3,Lieutenant Governor,,REP,Lt. Governor Tim Griffin,37,18,19,0,0
+Howard,Umpire,Lieutenant Governor,,LIB,Frank Gilbert,1,1,0,0,0
+Howard,Burg,Lieutenant Governor,,LIB,Frank Gilbert,1,1,0,0,0
+Howard,Mountain,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0,0
+Howard,Clay,Lieutenant Governor,,LIB,Frank Gilbert,2,1,1,0,0
+Howard,Blue Ridge,Lieutenant Governor,,LIB,Frank Gilbert,1,1,0,0,0
+Howard,Madison,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0,0
+Howard,Holly Creek,Lieutenant Governor,,LIB,Frank Gilbert,1,1,0,0,0
+Howard,Muddy Fork,Lieutenant Governor,,LIB,Frank Gilbert,1,0,1,0,0
+Howard,Brewer,Lieutenant Governor,,LIB,Frank Gilbert,1,0,1,0,0
+Howard,Center Point 1,Lieutenant Governor,,LIB,Frank Gilbert,1,0,1,0,0
+Howard,Center Point 2,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0,0
+Howard,Saline,Lieutenant Governor,,LIB,Frank Gilbert,1,1,0,0,0
+Howard,Blue Bayou,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0,0
+Howard,County Line,Lieutenant Governor,,LIB,Frank Gilbert,2,2,0,0,0
+Howard,Dillard,Lieutenant Governor,,LIB,Frank Gilbert,1,1,0,0,0
+Howard,Nashville Ward 1,Lieutenant Governor,,LIB,Frank Gilbert,5,2,3,0,0
+Howard,Nashville Ward 2,Lieutenant Governor,,LIB,Frank Gilbert,1,0,1,0,0
+Howard,Nashville Ward 3,Lieutenant Governor,,LIB,Frank Gilbert,6,2,4,0,0
+Howard,Nashville ward 4,Lieutenant Governor,,LIB,Frank Gilbert,1,1,0,0,0
+Howard,Nashville Ward 5,Lieutenant Governor,,LIB,Frank Gilbert,4,3,1,0,0
+Howard,Nashville Ward 6,Lieutenant Governor,,LIB,Frank Gilbert,4,2,2,0,0
+Howard,Nashville TWP II,Lieutenant Governor,,LIB,Frank Gilbert,1,0,1,0,0
+Howard,Nashville Twp 1,Lieutenant Governor,,LIB,Frank Gilbert,3,1,2,0,0
+Howard,Mineral Springs TWP,Lieutenant Governor,,LIB,Frank Gilbert,1,1,0,0,0
+Howard,Mineral Springs 1,Lieutenant Governor,,LIB,Frank Gilbert,4,3,1,0,0
+Howard,Mineral Springs 2,Lieutenant Governor,,LIB,Frank Gilbert,2,1,1,0,0
+Howard,Buck Range,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0,0
+Howard,Blackland,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0,0
+Howard,Saratoga,Lieutenant Governor,,LIB,Frank Gilbert,1,1,0,0,0
+Howard,Franklin,Lieutenant Governor,,LIB,Frank Gilbert,1,1,0,0,0
+Howard,Dierks Ward 1,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0,0
+Howard,Dierks Ward 2,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0,0
+Howard,Dierks Ward 3,Lieutenant Governor,,LIB,Frank Gilbert,1,1,0,0,0
+Howard,Tollette,Lieutenant Governor,,LIB,Frank Gilbert,1,0,1,0,0
+Howard,Duckett,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0,0
+Howard,Mineral Spring 3,Lieutenant Governor,,LIB,Frank Gilbert,2,1,1,0,0
+Howard,Umpire,Attorney General,,DEM,Mike Lee,6,4,2,0,0
+Howard,Burg,Attorney General,,DEM,Mike Lee,3,3,0,0,0
+Howard,Mountain,Attorney General,,DEM,Mike Lee,2,1,1,0,0
+Howard,Clay,Attorney General,,DEM,Mike Lee,5,3,1,1,0
+Howard,Blue Ridge,Attorney General,,DEM,Mike Lee,10,8,2,0,0
+Howard,Madison,Attorney General,,DEM,Mike Lee,7,6,1,0,0
+Howard,Holly Creek,Attorney General,,DEM,Mike Lee,6,6,0,0,0
+Howard,Muddy Fork,Attorney General,,DEM,Mike Lee,3,2,1,0,0
+Howard,Brewer,Attorney General,,DEM,Mike Lee,24,10,13,1,0
+Howard,Center Point 1,Attorney General,,DEM,Mike Lee,25,11,14,0,0
+Howard,Center Point 2,Attorney General,,DEM,Mike Lee,8,0,8,0,0
+Howard,Saline,Attorney General,,DEM,Mike Lee,14,6,8,0,0
+Howard,Blue Bayou,Attorney General,,DEM,Mike Lee,6,1,5,0,0
+Howard,County Line,Attorney General,,DEM,Mike Lee,22,8,14,0,0
+Howard,Dillard,Attorney General,,DEM,Mike Lee,6,2,4,0,0
+Howard,Nashville Ward 1,Attorney General,,DEM,Mike Lee,70,12,52,6,0
+Howard,Nashville Ward 2,Attorney General,,DEM,Mike Lee,51,21,29,1,0
+Howard,Nashville Ward 3,Attorney General,,DEM,Mike Lee,113,41,70,2,0
+Howard,Nashville ward 4,Attorney General,,DEM,Mike Lee,47,9,38,0,0
+Howard,Nashville Ward 5,Attorney General,,DEM,Mike Lee,74,26,48,0,0
+Howard,Nashville Ward 6,Attorney General,,DEM,Mike Lee,79,22,55,2,0
+Howard,Nashville TWP II,Attorney General,,DEM,Mike Lee,28,9,19,0,0
+Howard,Nashville Twp 1,Attorney General,,DEM,Mike Lee,64,12,47,5,0
+Howard,Mineral Springs TWP,Attorney General,,DEM,Mike Lee,9,4,5,0,0
+Howard,Mineral Springs 1,Attorney General,,DEM,Mike Lee,50,35,15,0,0
+Howard,Mineral Springs 2,Attorney General,,DEM,Mike Lee,52,34,18,0,0
+Howard,Buck Range,Attorney General,,DEM,Mike Lee,43,18,25,0,0
+Howard,Blackland,Attorney General,,DEM,Mike Lee,12,12,0,0,0
+Howard,Saratoga,Attorney General,,DEM,Mike Lee,39,30,9,0,0
+Howard,Franklin,Attorney General,,DEM,Mike Lee,29,21,8,0,0
+Howard,Dierks Ward 1,Attorney General,,DEM,Mike Lee,16,13,3,0,0
+Howard,Dierks Ward 2,Attorney General,,DEM,Mike Lee,5,5,0,0,0
+Howard,Dierks Ward 3,Attorney General,,DEM,Mike Lee,12,11,1,0,0
+Howard,Tollette,Attorney General,,DEM,Mike Lee,88,64,23,1,0
+Howard,Duckett,Attorney General,,DEM,Mike Lee,4,4,0,0,0
+Howard,Mineral Spring 3,Attorney General,,DEM,Mike Lee,53,34,19,0,0
+Howard,Umpire,Attorney General,,REP,Attorney General Leslie Rutledge,65,53,10,2,0
+Howard,Burg,Attorney General,,REP,Attorney General Leslie Rutledge,18,16,2,0,0
+Howard,Mountain,Attorney General,,REP,Attorney General Leslie Rutledge,56,52,4,0,0
+Howard,Clay,Attorney General,,REP,Attorney General Leslie Rutledge,33,24,9,0,0
+Howard,Blue Ridge,Attorney General,,REP,Attorney General Leslie Rutledge,41,28,13,0,0
+Howard,Madison,Attorney General,,REP,Attorney General Leslie Rutledge,117,90,27,0,0
+Howard,Holly Creek,Attorney General,,REP,Attorney General Leslie Rutledge,71,39,32,0,0
+Howard,Muddy Fork,Attorney General,,REP,Attorney General Leslie Rutledge,41,14,27,0,0
+Howard,Brewer,Attorney General,,REP,Attorney General Leslie Rutledge,102,38,63,0,1
+Howard,Center Point 1,Attorney General,,REP,Attorney General Leslie Rutledge,75,39,31,5,0
+Howard,Center Point 2,Attorney General,,REP,Attorney General Leslie Rutledge,50,23,26,1,0
+Howard,Saline,Attorney General,,REP,Attorney General Leslie Rutledge,40,18,22,0,0
+Howard,Blue Bayou,Attorney General,,REP,Attorney General Leslie Rutledge,29,15,14,0,0
+Howard,County Line,Attorney General,,REP,Attorney General Leslie Rutledge,155,73,77,5,0
+Howard,Dillard,Attorney General,,REP,Attorney General Leslie Rutledge,71,40,31,0,0
+Howard,Nashville Ward 1,Attorney General,,REP,Attorney General Leslie Rutledge,161,44,113,4,0
+Howard,Nashville Ward 2,Attorney General,,REP,Attorney General Leslie Rutledge,50,8,39,3,0
+Howard,Nashville Ward 3,Attorney General,,REP,Attorney General Leslie Rutledge,27,8,17,2,0
+Howard,Nashville ward 4,Attorney General,,REP,Attorney General Leslie Rutledge,54,19,31,4,0
+Howard,Nashville Ward 5,Attorney General,,REP,Attorney General Leslie Rutledge,129,30,98,0,1
+Howard,Nashville Ward 6,Attorney General,,REP,Attorney General Leslie Rutledge,133,31,97,5,0
+Howard,Nashville TWP II,Attorney General,,REP,Attorney General Leslie Rutledge,115,34,81,0,0
+Howard,Nashville Twp 1,Attorney General,,REP,Attorney General Leslie Rutledge,303,101,195,7,0
+Howard,Mineral Springs TWP,Attorney General,,REP,Attorney General Leslie Rutledge,16,5,11,0,0
+Howard,Mineral Springs 1,Attorney General,,REP,Attorney General Leslie Rutledge,11,10,1,0,0
+Howard,Mineral Springs 2,Attorney General,,REP,Attorney General Leslie Rutledge,60,32,24,4,0
+Howard,Buck Range,Attorney General,,REP,Attorney General Leslie Rutledge,45,21,24,0,0
+Howard,Blackland,Attorney General,,REP,Attorney General Leslie Rutledge,26,9,16,0,1
+Howard,Saratoga,Attorney General,,REP,Attorney General Leslie Rutledge,20,12,8,0,0
+Howard,Franklin,Attorney General,,REP,Attorney General Leslie Rutledge,16,6,8,2,0
+Howard,Dierks Ward 1,Attorney General,,REP,Attorney General Leslie Rutledge,49,42,6,1,0
+Howard,Dierks Ward 2,Attorney General,,REP,Attorney General Leslie Rutledge,38,31,6,1,0
+Howard,Dierks Ward 3,Attorney General,,REP,Attorney General Leslie Rutledge,103,84,18,1,0
+Howard,Tollette,Attorney General,,REP,Attorney General Leslie Rutledge,1,1,0,0,0
+Howard,Duckett,Attorney General,,REP,Attorney General Leslie Rutledge,19,16,0,3,0
+Howard,Mineral Spring 3,Attorney General,,REP,Attorney General Leslie Rutledge,37,19,18,0,0
+Howard,Umpire,Attorney General,,LIB,Kerry Hicks,1,1,0,0,0
+Howard,Burg,Attorney General,,LIB,Kerry Hicks,0,0,0,0,0
+Howard,Mountain,Attorney General,,LIB,Kerry Hicks,1,1,0,0,0
+Howard,Clay,Attorney General,,LIB,Kerry Hicks,1,1,0,0,0
+Howard,Blue Ridge,Attorney General,,LIB,Kerry Hicks,1,0,1,0,0
+Howard,Madison,Attorney General,,LIB,Kerry Hicks,0,0,0,0,0
+Howard,Holly Creek,Attorney General,,LIB,Kerry Hicks,0,0,0,0,0
+Howard,Muddy Fork,Attorney General,,LIB,Kerry Hicks,0,0,0,0,0
+Howard,Brewer,Attorney General,,LIB,Kerry Hicks,3,1,2,0,0
+Howard,Center Point 1,Attorney General,,LIB,Kerry Hicks,3,0,3,0,0
+Howard,Center Point 2,Attorney General,,LIB,Kerry Hicks,0,0,0,0,0
+Howard,Saline,Attorney General,,LIB,Kerry Hicks,0,0,0,0,0
+Howard,Blue Bayou,Attorney General,,LIB,Kerry Hicks,0,0,0,0,0
+Howard,County Line,Attorney General,,LIB,Kerry Hicks,2,0,2,0,0
+Howard,Dillard,Attorney General,,LIB,Kerry Hicks,2,2,0,0,0
+Howard,Nashville Ward 1,Attorney General,,LIB,Kerry Hicks,0,0,0,0,0
+Howard,Nashville Ward 2,Attorney General,,LIB,Kerry Hicks,3,3,0,0,0
+Howard,Nashville Ward 3,Attorney General,,LIB,Kerry Hicks,2,1,1,0,0
+Howard,Nashville ward 4,Attorney General,,LIB,Kerry Hicks,3,3,0,0,0
+Howard,Nashville Ward 5,Attorney General,,LIB,Kerry Hicks,5,1,4,0,0
+Howard,Nashville Ward 6,Attorney General,,LIB,Kerry Hicks,5,2,2,1,0
+Howard,Nashville TWP II,Attorney General,,LIB,Kerry Hicks,2,1,1,0,0
+Howard,Nashville Twp 1,Attorney General,,LIB,Kerry Hicks,3,0,3,0,0
+Howard,Mineral Springs TWP,Attorney General,,LIB,Kerry Hicks,1,1,0,0,0
+Howard,Mineral Springs 1,Attorney General,,LIB,Kerry Hicks,6,6,0,0,0
+Howard,Mineral Springs 2,Attorney General,,LIB,Kerry Hicks,0,0,0,0,0
+Howard,Buck Range,Attorney General,,LIB,Kerry Hicks,1,1,0,0,0
+Howard,Blackland,Attorney General,,LIB,Kerry Hicks,2,2,0,0,0
+Howard,Saratoga,Attorney General,,LIB,Kerry Hicks,0,0,0,0,0
+Howard,Franklin,Attorney General,,LIB,Kerry Hicks,2,2,0,0,0
+Howard,Dierks Ward 1,Attorney General,,LIB,Kerry Hicks,0,0,0,0,0
+Howard,Dierks Ward 2,Attorney General,,LIB,Kerry Hicks,0,0,0,0,0
+Howard,Dierks Ward 3,Attorney General,,LIB,Kerry Hicks,1,1,0,0,0
+Howard,Tollette,Attorney General,,LIB,Kerry Hicks,2,1,1,0,0
+Howard,Duckett,Attorney General,,LIB,Kerry Hicks,0,0,0,0,0
+Howard,Mineral Spring 3,Attorney General,,LIB,Kerry Hicks,2,2,0,0,0
+Howard,Umpire,Secretary of State,,LIB,Christopher Olson,1,1,0,0,0
+Howard,Burg,Secretary of State,,LIB,Christopher Olson,0,0,0,0,0
+Howard,Mountain,Secretary of State,,LIB,Christopher Olson,0,0,0,0,0
+Howard,Clay,Secretary of State,,LIB,Christopher Olson,2,0,2,0,0
+Howard,Blue Ridge,Secretary of State,,LIB,Christopher Olson,0,0,0,0,0
+Howard,Madison,Secretary of State,,LIB,Christopher Olson,0,0,0,0,0
+Howard,Holly Creek,Secretary of State,,LIB,Christopher Olson,0,0,0,0,0
+Howard,Muddy Fork,Secretary of State,,LIB,Christopher Olson,0,0,0,0,0
+Howard,Brewer,Secretary of State,,LIB,Christopher Olson,2,0,2,0,0
+Howard,Center Point 1,Secretary of State,,LIB,Christopher Olson,0,0,0,0,0
+Howard,Center Point 2,Secretary of State,,LIB,Christopher Olson,1,0,1,0,0
+Howard,Saline,Secretary of State,,LIB,Christopher Olson,1,1,0,0,0
+Howard,Blue Bayou,Secretary of State,,LIB,Christopher Olson,0,0,0,0,0
+Howard,County Line,Secretary of State,,LIB,Christopher Olson,2,0,2,0,0
+Howard,Dillard,Secretary of State,,LIB,Christopher Olson,1,1,0,0,0
+Howard,Nashville Ward 1,Secretary of State,,LIB,Christopher Olson,5,1,4,0,0
+Howard,Nashville Ward 2,Secretary of State,,LIB,Christopher Olson,2,1,1,0,0
+Howard,Nashville Ward 3,Secretary of State,,LIB,Christopher Olson,0,0,0,0,0
+Howard,Nashville ward 4,Secretary of State,,LIB,Christopher Olson,2,1,1,0,0
+Howard,Nashville Ward 5,Secretary of State,,LIB,Christopher Olson,5,2,3,0,0
+Howard,Nashville Ward 6,Secretary of State,,LIB,Christopher Olson,5,2,2,1,0
+Howard,Nashville TWP II,Secretary of State,,LIB,Christopher Olson,5,3,2,0,0
+Howard,Nashville Twp 1,Secretary of State,,LIB,Christopher Olson,3,1,2,0,0
+Howard,Mineral Springs TWP,Secretary of State,,LIB,Christopher Olson,1,1,0,0,0
+Howard,Mineral Springs 1,Secretary of State,,LIB,Christopher Olson,2,2,0,0,0
+Howard,Mineral Springs 2,Secretary of State,,LIB,Christopher Olson,2,1,0,1,0
+Howard,Buck Range,Secretary of State,,LIB,Christopher Olson,1,1,0,0,0
+Howard,Blackland,Secretary of State,,LIB,Christopher Olson,0,0,0,0,0
+Howard,Saratoga,Secretary of State,,LIB,Christopher Olson,1,1,0,0,0
+Howard,Franklin,Secretary of State,,LIB,Christopher Olson,0,0,0,0,0
+Howard,Dierks Ward 1,Secretary of State,,LIB,Christopher Olson,0,0,0,0,0
+Howard,Dierks Ward 2,Secretary of State,,LIB,Christopher Olson,1,1,0,0,0
+Howard,Dierks Ward 3,Secretary of State,,LIB,Christopher Olson,0,0,0,0,0
+Howard,Tollette,Secretary of State,,LIB,Christopher Olson,1,1,0,0,0
+Howard,Duckett,Secretary of State,,LIB,Christopher Olson,0,0,0,0,0
+Howard,Mineral Spring 3,Secretary of State,,LIB,Christopher Olson,4,2,2,0,0
+Howard,Umpire,Secretary of State,,REP,John Thurston Commissioner of State Lands,64,52,10,2,0
+Howard,Burg,Secretary of State,,REP,John Thurston Commissioner of State Lands,18,16,2,0,0
+Howard,Mountain,Secretary of State,,REP,John Thurston Commissioner of State Lands,56,51,5,0,0
+Howard,Clay,Secretary of State,,REP,John Thurston Commissioner of State Lands,30,23,7,0,0
+Howard,Blue Ridge,Secretary of State,,REP,John Thurston Commissioner of State Lands,40,28,12,0,0
+Howard,Madison,Secretary of State,,REP,John Thurston Commissioner of State Lands,117,90,27,0,0
+Howard,Holly Creek,Secretary of State,,REP,John Thurston Commissioner of State Lands,70,39,31,0,0
+Howard,Muddy Fork,Secretary of State,,REP,John Thurston Commissioner of State Lands,40,14,26,0,0
+Howard,Brewer,Secretary of State,,REP,John Thurston Commissioner of State Lands,108,40,67,0,1
+Howard,Center Point 1,Secretary of State,,REP,John Thurston Commissioner of State Lands,74,38,32,4,0
+Howard,Center Point 2,Secretary of State,,REP,John Thurston Commissioner of State Lands,46,22,23,1,0
+Howard,Saline,Secretary of State,,REP,John Thurston Commissioner of State Lands,39,17,22,0,0
+Howard,Blue Bayou,Secretary of State,,REP,John Thurston Commissioner of State Lands,30,16,14,0,0
+Howard,County Line,Secretary of State,,REP,John Thurston Commissioner of State Lands,151,69,77,5,0
+Howard,Dillard,Secretary of State,,REP,John Thurston Commissioner of State Lands,70,39,31,0,0
+Howard,Nashville Ward 1,Secretary of State,,REP,John Thurston Commissioner of State Lands,159,44,112,3,0
+Howard,Nashville Ward 2,Secretary of State,,REP,John Thurston Commissioner of State Lands,49,9,37,3,0
+Howard,Nashville Ward 3,Secretary of State,,REP,John Thurston Commissioner of State Lands,30,9,19,2,0
+Howard,Nashville ward 4,Secretary of State,,REP,John Thurston Commissioner of State Lands,52,17,31,4,0
+Howard,Nashville Ward 5,Secretary of State,,REP,John Thurston Commissioner of State Lands,133,32,100,0,1
+Howard,Nashville Ward 6,Secretary of State,,REP,John Thurston Commissioner of State Lands,135,31,99,5,0
+Howard,Nashville TWP II,Secretary of State,,REP,John Thurston Commissioner of State Lands,114,33,81,0,0
+Howard,Nashville Twp 1,Secretary of State,,REP,John Thurston Commissioner of State Lands,299,95,198,6,0
+Howard,Mineral Springs TWP,Secretary of State,,REP,John Thurston Commissioner of State Lands,17,6,11,0,0
+Howard,Mineral Springs 1,Secretary of State,,REP,John Thurston Commissioner of State Lands,10,9,1,0,0
+Howard,Mineral Springs 2,Secretary of State,,REP,John Thurston Commissioner of State Lands,59,33,23,3,0
+Howard,Buck Range,Secretary of State,,REP,John Thurston Commissioner of State Lands,47,22,25,0,0
+Howard,Blackland,Secretary of State,,REP,John Thurston Commissioner of State Lands,25,9,15,0,1
+Howard,Saratoga,Secretary of State,,REP,John Thurston Commissioner of State Lands,21,12,8,1,0
+Howard,Franklin,Secretary of State,,REP,John Thurston Commissioner of State Lands,16,7,7,2,0
+Howard,Dierks Ward 1,Secretary of State,,REP,John Thurston Commissioner of State Lands,49,42,6,1,0
+Howard,Dierks Ward 2,Secretary of State,,REP,John Thurston Commissioner of State Lands,39,32,6,1,0
+Howard,Dierks Ward 3,Secretary of State,,REP,John Thurston Commissioner of State Lands,100,82,17,1,0
+Howard,Tollette,Secretary of State,,REP,John Thurston Commissioner of State Lands,2,2,0,0,0
+Howard,Duckett,Secretary of State,,REP,John Thurston Commissioner of State Lands,20,17,0,3,0
+Howard,Mineral Spring 3,Secretary of State,,REP,John Thurston Commissioner of State Lands,33,18,15,0,0
+Howard,Umpire,Secretary of State,,DEM,Susan Inman,7,5,2,0,0
+Howard,Burg,Secretary of State,,DEM,Susan Inman,3,3,0,0,0
+Howard,Mountain,Secretary of State,,DEM,Susan Inman,3,3,0,0,0
+Howard,Clay,Secretary of State,,DEM,Susan Inman,7,5,1,1,0
+Howard,Blue Ridge,Secretary of State,,DEM,Susan Inman,12,8,4,0,0
+Howard,Madison,Secretary of State,,DEM,Susan Inman,7,6,1,0,0
+Howard,Holly Creek,Secretary of State,,DEM,Susan Inman,7,6,1,0,0
+Howard,Muddy Fork,Secretary of State,,DEM,Susan Inman,4,2,2,0,0
+Howard,Brewer,Secretary of State,,DEM,Susan Inman,19,9,9,1,0
+Howard,Center Point 1,Secretary of State,,DEM,Susan Inman,30,12,17,1,0
+Howard,Center Point 2,Secretary of State,,DEM,Susan Inman,10,1,9,0,0
+Howard,Saline,Secretary of State,,DEM,Susan Inman,14,6,8,0,0
+Howard,Blue Bayou,Secretary of State,,DEM,Susan Inman,6,1,5,0,0
+Howard,County Line,Secretary of State,,DEM,Susan Inman,24,10,14,0,0
+Howard,Dillard,Secretary of State,,DEM,Susan Inman,8,4,4,0,0
+Howard,Nashville Ward 1,Secretary of State,,DEM,Susan Inman,65,11,47,7,0
+Howard,Nashville Ward 2,Secretary of State,,DEM,Susan Inman,53,22,30,1,0
+Howard,Nashville Ward 3,Secretary of State,,DEM,Susan Inman,112,42,68,2,0
+Howard,Nashville ward 4,Secretary of State,,DEM,Susan Inman,50,13,37,0,0
+Howard,Nashville Ward 5,Secretary of State,,DEM,Susan Inman,68,23,45,0,0
+Howard,Nashville Ward 6,Secretary of State,,DEM,Susan Inman,76,22,52,2,0
+Howard,Nashville TWP II,Secretary of State,,DEM,Susan Inman,27,8,19,0,0
+Howard,Nashville Twp 1,Secretary of State,,DEM,Susan Inman,67,16,45,6,0
+Howard,Mineral Springs TWP,Secretary of State,,DEM,Susan Inman,8,3,5,0,0
+Howard,Mineral Springs 1,Secretary of State,,DEM,Susan Inman,56,41,15,0,0
+Howard,Mineral Springs 2,Secretary of State,,DEM,Susan Inman,51,32,19,0,0
+Howard,Buck Range,Secretary of State,,DEM,Susan Inman,41,17,24,0,0
+Howard,Blackland,Secretary of State,,DEM,Susan Inman,14,13,1,0,0
+Howard,Saratoga,Secretary of State,,DEM,Susan Inman,38,29,9,0,0
+Howard,Franklin,Secretary of State,,DEM,Susan Inman,31,22,9,0,0
+Howard,Dierks Ward 1,Secretary of State,,DEM,Susan Inman,16,13,3,0,0
+Howard,Dierks Ward 2,Secretary of State,,DEM,Susan Inman,3,3,0,0,0
+Howard,Dierks Ward 3,Secretary of State,,DEM,Susan Inman,16,14,2,0,0
+Howard,Tollette,Secretary of State,,DEM,Susan Inman,91,64,26,1,0
+Howard,Duckett,Secretary of State,,DEM,Susan Inman,3,3,0,0,0
+Howard,Mineral Spring 3,Secretary of State,,DEM,Susan Inman,54,35,19,0,0
+Howard,Umpire,State Treasurer,,REP,Treasurer of State Dennis Milligan,65,53,10,2,0
+Howard,Burg,State Treasurer,,REP,Treasurer of State Dennis Milligan,19,17,2,0,0
+Howard,Mountain,State Treasurer,,REP,Treasurer of State Dennis Milligan,58,53,5,0,0
+Howard,Clay,State Treasurer,,REP,Treasurer of State Dennis Milligan,33,25,8,0,0
+Howard,Blue Ridge,State Treasurer,,REP,Treasurer of State Dennis Milligan,46,31,15,0,0
+Howard,Madison,State Treasurer,,REP,Treasurer of State Dennis Milligan,119,92,27,0,0
+Howard,Holly Creek,State Treasurer,,REP,Treasurer of State Dennis Milligan,71,40,31,0,0
+Howard,Muddy Fork,State Treasurer,,REP,Treasurer of State Dennis Milligan,41,16,25,0,0
+Howard,Brewer,State Treasurer,,REP,Treasurer of State Dennis Milligan,113,43,69,0,1
+Howard,Center Point 1,State Treasurer,,REP,Treasurer of State Dennis Milligan,80,41,34,5,0
+Howard,Center Point 2,State Treasurer,,REP,Treasurer of State Dennis Milligan,52,23,28,1,0
+Howard,Saline,State Treasurer,,REP,Treasurer of State Dennis Milligan,40,17,23,0,0
+Howard,Blue Bayou,State Treasurer,,REP,Treasurer of State Dennis Milligan,32,17,15,0,0
+Howard,County Line,State Treasurer,,REP,Treasurer of State Dennis Milligan,158,71,82,5,0
+Howard,Dillard,State Treasurer,,REP,Treasurer of State Dennis Milligan,73,41,32,0,0
+Howard,Nashville Ward 1,State Treasurer,,REP,Treasurer of State Dennis Milligan,184,47,132,5,0
+Howard,Nashville Ward 2,State Treasurer,,REP,Treasurer of State Dennis Milligan,58,11,44,3,0
+Howard,Nashville Ward 3,State Treasurer,,REP,Treasurer of State Dennis Milligan,47,12,32,3,0
+Howard,Nashville ward 4,State Treasurer,,REP,Treasurer of State Dennis Milligan,62,19,39,4,0
+Howard,Nashville Ward 5,State Treasurer,,REP,Treasurer of State Dennis Milligan,150,39,110,0,1
+Howard,Nashville Ward 6,State Treasurer,,REP,Treasurer of State Dennis Milligan,154,33,115,6,0
+Howard,Nashville TWP II,State Treasurer,,REP,Treasurer of State Dennis Milligan,127,36,91,0,0
+Howard,Nashville Twp 1,State Treasurer,,REP,Treasurer of State Dennis Milligan,335,102,225,8,0
+Howard,Mineral Springs TWP,State Treasurer,,REP,Treasurer of State Dennis Milligan,17,6,11,0,0
+Howard,Mineral Springs 1,State Treasurer,,REP,Treasurer of State Dennis Milligan,14,10,4,0,0
+Howard,Mineral Springs 2,State Treasurer,,REP,Treasurer of State Dennis Milligan,69,40,25,4,0
+Howard,Buck Range,State Treasurer,,REP,Treasurer of State Dennis Milligan,53,24,29,0,0
+Howard,Blackland,State Treasurer,,REP,Treasurer of State Dennis Milligan,26,9,16,0,1
+Howard,Saratoga,State Treasurer,,REP,Treasurer of State Dennis Milligan,25,16,8,1,0
+Howard,Franklin,State Treasurer,,REP,Treasurer of State Dennis Milligan,23,10,11,2,0
+Howard,Dierks Ward 1,State Treasurer,,REP,Treasurer of State Dennis Milligan,53,46,6,1,0
+Howard,Dierks Ward 2,State Treasurer,,REP,Treasurer of State Dennis Milligan,39,32,6,1,0
+Howard,Dierks Ward 3,State Treasurer,,REP,Treasurer of State Dennis Milligan,109,89,19,1,0
+Howard,Tollette,State Treasurer,,REP,Treasurer of State Dennis Milligan,11,7,4,0,0
+Howard,Duckett,State Treasurer,,REP,Treasurer of State Dennis Milligan,20,17,0,3,0
+Howard,Mineral Spring 3,State Treasurer,,REP,Treasurer of State Dennis Milligan,48,26,22,0,0
+Howard,Umpire,State Treasurer,,LIB,Ashley Ewald,7,5,2,0,0
+Howard,Burg,State Treasurer,,LIB,Ashley Ewald,2,2,0,0,0
+Howard,Mountain,State Treasurer,,LIB,Ashley Ewald,1,1,0,0,0
+Howard,Clay,State Treasurer,,LIB,Ashley Ewald,5,2,2,1,0
+Howard,Blue Ridge,State Treasurer,,LIB,Ashley Ewald,6,5,1,0,0
+Howard,Madison,State Treasurer,,LIB,Ashley Ewald,5,4,1,0,0
+Howard,Holly Creek,State Treasurer,,LIB,Ashley Ewald,6,5,1,0,0
+Howard,Muddy Fork,State Treasurer,,LIB,Ashley Ewald,2,0,2,0,0
+Howard,Brewer,State Treasurer,,LIB,Ashley Ewald,15,6,9,0,0
+Howard,Center Point 1,State Treasurer,,LIB,Ashley Ewald,24,9,15,0,0
+Howard,Center Point 2,State Treasurer,,LIB,Ashley Ewald,4,0,4,0,0
+Howard,Saline,State Treasurer,,LIB,Ashley Ewald,12,7,5,0,0
+Howard,Blue Bayou,State Treasurer,,LIB,Ashley Ewald,3,0,3,0,0
+Howard,County Line,State Treasurer,,LIB,Ashley Ewald,19,8,11,0,0
+Howard,Dillard,State Treasurer,,LIB,Ashley Ewald,5,2,3,0,0
+Howard,Nashville Ward 1,State Treasurer,,LIB,Ashley Ewald,43,9,32,2,0
+Howard,Nashville Ward 2,State Treasurer,,LIB,Ashley Ewald,44,21,22,1,0
+Howard,Nashville Ward 3,State Treasurer,,LIB,Ashley Ewald,90,35,55,0,0
+Howard,Nashville ward 4,State Treasurer,,LIB,Ashley Ewald,38,11,27,0,0
+Howard,Nashville Ward 5,State Treasurer,,LIB,Ashley Ewald,48,15,33,0,0
+Howard,Nashville Ward 6,State Treasurer,,LIB,Ashley Ewald,55,18,35,2,0
+Howard,Nashville TWP II,State Treasurer,,LIB,Ashley Ewald,18,8,10,0,0
+Howard,Nashville Twp 1,State Treasurer,,LIB,Ashley Ewald,32,9,19,4,0
+Howard,Mineral Springs TWP,State Treasurer,,LIB,Ashley Ewald,9,4,5,0,0
+Howard,Mineral Springs 1,State Treasurer,,LIB,Ashley Ewald,54,43,11,0,0
+Howard,Mineral Springs 2,State Treasurer,,LIB,Ashley Ewald,41,25,16,0,0
+Howard,Buck Range,State Treasurer,,LIB,Ashley Ewald,34,15,19,0,0
+Howard,Blackland,State Treasurer,,LIB,Ashley Ewald,14,14,0,0,0
+Howard,Saratoga,State Treasurer,,LIB,Ashley Ewald,32,23,9,0,0
+Howard,Franklin,State Treasurer,,LIB,Ashley Ewald,21,16,5,0,0
+Howard,Dierks Ward 1,State Treasurer,,LIB,Ashley Ewald,10,7,3,0,0
+Howard,Dierks Ward 2,State Treasurer,,LIB,Ashley Ewald,4,4,0,0,0
+Howard,Dierks Ward 3,State Treasurer,,LIB,Ashley Ewald,7,7,0,0,0
+Howard,Tollette,State Treasurer,,LIB,Ashley Ewald,67,50,16,1,0
+Howard,Duckett,State Treasurer,,LIB,Ashley Ewald,3,3,0,0,0
+Howard,Mineral Spring 3,State Treasurer,,LIB,Ashley Ewald,42,28,14,0,0
+Howard,Umpire,Auditor of State,,REP,Auditor Andrea Lea,65,53,10,2,0
+Howard,Burg,Auditor of State,,REP,Auditor Andrea Lea,19,17,2,0,0
+Howard,Mountain,Auditor of State,,REP,Auditor Andrea Lea,58,54,4,0,0
+Howard,Clay,Auditor of State,,REP,Auditor Andrea Lea,33,26,7,0,0
+Howard,Blue Ridge,Auditor of State,,REP,Auditor Andrea Lea,44,29,15,0,0
+Howard,Madison,Auditor of State,,REP,Auditor Andrea Lea,119,92,27,0,0
+Howard,Holly Creek,Auditor of State,,REP,Auditor Andrea Lea,70,39,31,0,0
+Howard,Muddy Fork,Auditor of State,,REP,Auditor Andrea Lea,43,16,27,0,0
+Howard,Brewer,Auditor of State,,REP,Auditor Andrea Lea,111,42,68,0,1
+Howard,Center Point 1,Auditor of State,,REP,Auditor Andrea Lea,84,43,36,5,0
+Howard,Center Point 2,Auditor of State,,REP,Auditor Andrea Lea,52,23,28,1,0
+Howard,Saline,Auditor of State,,REP,Auditor Andrea Lea,42,18,24,0,0
+Howard,Blue Bayou,Auditor of State,,REP,Auditor Andrea Lea,31,16,15,0,0
+Howard,County Line,Auditor of State,,REP,Auditor Andrea Lea,162,73,84,5,0
+Howard,Dillard,Auditor of State,,REP,Auditor Andrea Lea,73,39,34,0,0
+Howard,Nashville Ward 1,Auditor of State,,REP,Auditor Andrea Lea,188,46,136,6,0
+Howard,Nashville Ward 2,Auditor of State,,REP,Auditor Andrea Lea,60,11,46,3,0
+Howard,Nashville Ward 3,Auditor of State,,REP,Auditor Andrea Lea,46,12,32,2,0
+Howard,Nashville ward 4,Auditor of State,,REP,Auditor Andrea Lea,67,22,41,4,0
+Howard,Nashville Ward 5,Auditor of State,,REP,Auditor Andrea Lea,156,40,115,0,1
+Howard,Nashville Ward 6,Auditor of State,,REP,Auditor Andrea Lea,149,33,111,5,0
+Howard,Nashville TWP II,Auditor of State,,REP,Auditor Andrea Lea,124,35,89,0,0
+Howard,Nashville Twp 1,Auditor of State,,REP,Auditor Andrea Lea,340,105,225,10,0
+Howard,Mineral Springs TWP,Auditor of State,,REP,Auditor Andrea Lea,17,5,12,0,0
+Howard,Mineral Springs 1,Auditor of State,,REP,Auditor Andrea Lea,19,15,4,0,0
+Howard,Mineral Springs 2,Auditor of State,,REP,Auditor Andrea Lea,71,42,25,4,0
+Howard,Buck Range,Auditor of State,,REP,Auditor Andrea Lea,58,26,32,0,0
+Howard,Blackland,Auditor of State,,REP,Auditor Andrea Lea,28,11,16,0,1
+Howard,Saratoga,Auditor of State,,REP,Auditor Andrea Lea,25,16,8,1,0
+Howard,Franklin,Auditor of State,,REP,Auditor Andrea Lea,22,10,10,2,0
+Howard,Dierks Ward 1,Auditor of State,,REP,Auditor Andrea Lea,55,48,6,1,0
+Howard,Dierks Ward 2,Auditor of State,,REP,Auditor Andrea Lea,40,33,6,1,0
+Howard,Dierks Ward 3,Auditor of State,,REP,Auditor Andrea Lea,111,91,19,1,0
+Howard,Tollette,Auditor of State,,REP,Auditor Andrea Lea,14,8,6,0,0
+Howard,Duckett,Auditor of State,,REP,Auditor Andrea Lea,20,17,0,3,0
+Howard,Mineral Spring 3,Auditor of State,,REP,Auditor Andrea Lea,45,26,19,0,0
+Howard,Umpire,Auditor of State,,LIB,David E. Dinwiddie,7,5,2,0,0
+Howard,Burg,Auditor of State,,LIB,David E. Dinwiddie,2,2,0,0,0
+Howard,Mountain,Auditor of State,,LIB,David E. Dinwiddie,1,0,1,0,0
+Howard,Clay,Auditor of State,,LIB,David E. Dinwiddie,4,1,3,0,0
+Howard,Blue Ridge,Auditor of State,,LIB,David E. Dinwiddie,8,7,1,0,0
+Howard,Madison,Auditor of State,,LIB,David E. Dinwiddie,5,4,1,0,0
+Howard,Holly Creek,Auditor of State,,LIB,David E. Dinwiddie,5,5,0,0,0
+Howard,Muddy Fork,Auditor of State,,LIB,David E. Dinwiddie,1,0,1,0,0
+Howard,Brewer,Auditor of State,,LIB,David E. Dinwiddie,15,6,9,0,0
+Howard,Center Point 1,Auditor of State,,LIB,David E. Dinwiddie,20,7,13,0,0
+Howard,Center Point 2,Auditor of State,,LIB,David E. Dinwiddie,4,0,4,0,0
+Howard,Saline,Auditor of State,,LIB,David E. Dinwiddie,10,6,4,0,0
+Howard,Blue Bayou,Auditor of State,,LIB,David E. Dinwiddie,3,0,3,0,0
+Howard,County Line,Auditor of State,,LIB,David E. Dinwiddie,17,8,9,0,0
+Howard,Dillard,Auditor of State,,LIB,David E. Dinwiddie,6,5,1,0,0
+Howard,Nashville Ward 1,Auditor of State,,LIB,David E. Dinwiddie,38,10,27,1,0
+Howard,Nashville Ward 2,Auditor of State,,LIB,David E. Dinwiddie,41,21,19,1,0
+Howard,Nashville Ward 3,Auditor of State,,LIB,David E. Dinwiddie,88,36,52,0,0
+Howard,Nashville ward 4,Auditor of State,,LIB,David E. Dinwiddie,34,9,25,0,0
+Howard,Nashville Ward 5,Auditor of State,,LIB,David E. Dinwiddie,41,14,27,0,0
+Howard,Nashville Ward 6,Auditor of State,,LIB,David E. Dinwiddie,62,19,40,3,0
+Howard,Nashville TWP II,Auditor of State,,LIB,David E. Dinwiddie,21,9,12,0,0
+Howard,Nashville Twp 1,Auditor of State,,LIB,David E. Dinwiddie,29,7,20,2,0
+Howard,Mineral Springs TWP,Auditor of State,,LIB,David E. Dinwiddie,9,5,4,0,0
+Howard,Mineral Springs 1,Auditor of State,,LIB,David E. Dinwiddie,47,37,10,0,0
+Howard,Mineral Springs 2,Auditor of State,,LIB,David E. Dinwiddie,39,24,15,0,0
+Howard,Buck Range,Auditor of State,,LIB,David E. Dinwiddie,28,13,15,0,0
+Howard,Blackland,Auditor of State,,LIB,David E. Dinwiddie,12,12,0,0,0
+Howard,Saratoga,Auditor of State,,LIB,David E. Dinwiddie,32,23,9,0,0
+Howard,Franklin,Auditor of State,,LIB,David E. Dinwiddie,22,16,6,0,0
+Howard,Dierks Ward 1,Auditor of State,,LIB,David E. Dinwiddie,9,6,3,0,0
+Howard,Dierks Ward 2,Auditor of State,,LIB,David E. Dinwiddie,3,3,0,0,0
+Howard,Dierks Ward 3,Auditor of State,,LIB,David E. Dinwiddie,6,6,0,0,0
+Howard,Tollette,Auditor of State,,LIB,David E. Dinwiddie,65,48,16,1,0
+Howard,Duckett,Auditor of State,,LIB,David E. Dinwiddie,3,3,0,0,0
+Howard,Mineral Spring 3,Auditor of State,,LIB,David E. Dinwiddie,44,28,16,0,0
+Howard,Umpire,Commissioner of State Lands,,LIB,T.J. Campbell,1,1,0,0,0
+Howard,Burg,Commissioner of State Lands,,LIB,T.J. Campbell,0,0,0,0,0
+Howard,Mountain,Commissioner of State Lands,,LIB,T.J. Campbell,0,0,0,0,0
+Howard,Clay,Commissioner of State Lands,,LIB,T.J. Campbell,1,0,1,0,0
+Howard,Blue Ridge,Commissioner of State Lands,,LIB,T.J. Campbell,0,0,0,0,0
+Howard,Madison,Commissioner of State Lands,,LIB,T.J. Campbell,0,0,0,0,0
+Howard,Holly Creek,Commissioner of State Lands,,LIB,T.J. Campbell,2,1,1,0,0
+Howard,Muddy Fork,Commissioner of State Lands,,LIB,T.J. Campbell,1,0,1,0,0
+Howard,Brewer,Commissioner of State Lands,,LIB,T.J. Campbell,5,2,3,0,0
+Howard,Center Point 1,Commissioner of State Lands,,LIB,T.J. Campbell,0,0,0,0,0
+Howard,Center Point 2,Commissioner of State Lands,,LIB,T.J. Campbell,0,0,0,0,0
+Howard,Saline,Commissioner of State Lands,,LIB,T.J. Campbell,1,1,0,0,0
+Howard,Blue Bayou,Commissioner of State Lands,,LIB,T.J. Campbell,0,0,0,0,0
+Howard,County Line,Commissioner of State Lands,,LIB,T.J. Campbell,2,1,1,0,0
+Howard,Dillard,Commissioner of State Lands,,LIB,T.J. Campbell,2,2,0,0,0
+Howard,Nashville Ward 1,Commissioner of State Lands,,LIB,T.J. Campbell,8,3,5,0,0
+Howard,Nashville Ward 2,Commissioner of State Lands,,LIB,T.J. Campbell,2,0,2,0,0
+Howard,Nashville Ward 3,Commissioner of State Lands,,LIB,T.J. Campbell,5,2,3,0,0
+Howard,Nashville ward 4,Commissioner of State Lands,,LIB,T.J. Campbell,5,2,3,0,0
+Howard,Nashville Ward 5,Commissioner of State Lands,,LIB,T.J. Campbell,4,3,1,0,0
+Howard,Nashville Ward 6,Commissioner of State Lands,,LIB,T.J. Campbell,4,2,2,0,0
+Howard,Nashville TWP II,Commissioner of State Lands,,LIB,T.J. Campbell,0,0,0,0,0
+Howard,Nashville Twp 1,Commissioner of State Lands,,LIB,T.J. Campbell,2,0,2,0,0
+Howard,Mineral Springs TWP,Commissioner of State Lands,,LIB,T.J. Campbell,2,2,0,0,0
+Howard,Mineral Springs 1,Commissioner of State Lands,,LIB,T.J. Campbell,3,3,0,0,0
+Howard,Mineral Springs 2,Commissioner of State Lands,,LIB,T.J. Campbell,4,1,2,1,0
+Howard,Buck Range,Commissioner of State Lands,,LIB,T.J. Campbell,0,0,0,0,0
+Howard,Blackland,Commissioner of State Lands,,LIB,T.J. Campbell,1,1,0,0,0
+Howard,Saratoga,Commissioner of State Lands,,LIB,T.J. Campbell,1,1,0,0,0
+Howard,Franklin,Commissioner of State Lands,,LIB,T.J. Campbell,0,0,0,0,0
+Howard,Dierks Ward 1,Commissioner of State Lands,,LIB,T.J. Campbell,0,0,0,0,0
+Howard,Dierks Ward 2,Commissioner of State Lands,,LIB,T.J. Campbell,1,1,0,0,0
+Howard,Dierks Ward 3,Commissioner of State Lands,,LIB,T.J. Campbell,2,2,0,0,0
+Howard,Tollette,Commissioner of State Lands,,LIB,T.J. Campbell,0,0,0,0,0
+Howard,Duckett,Commissioner of State Lands,,LIB,T.J. Campbell,0,0,0,0,0
+Howard,Mineral Spring 3,Commissioner of State Lands,,LIB,T.J. Campbell,4,3,1,0,0
+Howard,Umpire,Commissioner of State Lands,,REP,Tommy Land,64,53,9,2,0
+Howard,Burg,Commissioner of State Lands,,REP,Tommy Land,17,15,2,0,0
+Howard,Mountain,Commissioner of State Lands,,REP,Tommy Land,54,51,3,0,0
+Howard,Clay,Commissioner of State Lands,,REP,Tommy Land,30,23,7,0,0
+Howard,Blue Ridge,Commissioner of State Lands,,REP,Tommy Land,39,27,12,0,0
+Howard,Madison,Commissioner of State Lands,,REP,Tommy Land,117,90,27,0,0
+Howard,Holly Creek,Commissioner of State Lands,,REP,Tommy Land,68,38,30,0,0
+Howard,Muddy Fork,Commissioner of State Lands,,REP,Tommy Land,40,14,26,0,0
+Howard,Brewer,Commissioner of State Lands,,REP,Tommy Land,103,37,65,0,1
+Howard,Center Point 1,Commissioner of State Lands,,REP,Tommy Land,74,38,31,5,0
+Howard,Center Point 2,Commissioner of State Lands,,REP,Tommy Land,49,23,25,1,0
+Howard,Saline,Commissioner of State Lands,,REP,Tommy Land,37,16,21,0,0
+Howard,Blue Bayou,Commissioner of State Lands,,REP,Tommy Land,29,16,13,0,0
+Howard,County Line,Commissioner of State Lands,,REP,Tommy Land,154,69,80,5,0
+Howard,Dillard,Commissioner of State Lands,,REP,Tommy Land,69,37,32,0,0
+Howard,Nashville Ward 1,Commissioner of State Lands,,REP,Tommy Land,153,41,109,3,0
+Howard,Nashville Ward 2,Commissioner of State Lands,,REP,Tommy Land,47,8,36,3,0
+Howard,Nashville Ward 3,Commissioner of State Lands,,REP,Tommy Land,27,7,18,2,0
+Howard,Nashville ward 4,Commissioner of State Lands,,REP,Tommy Land,51,18,29,4,0
+Howard,Nashville Ward 5,Commissioner of State Lands,,REP,Tommy Land,124,29,94,0,1
+Howard,Nashville Ward 6,Commissioner of State Lands,,REP,Tommy Land,130,31,95,4,0
+Howard,Nashville TWP II,Commissioner of State Lands,,REP,Tommy Land,113,34,79,0,0
+Howard,Nashville Twp 1,Commissioner of State Lands,,REP,Tommy Land,301,96,198,7,0
+Howard,Mineral Springs TWP,Commissioner of State Lands,,REP,Tommy Land,14,3,11,0,0
+Howard,Mineral Springs 1,Commissioner of State Lands,,REP,Tommy Land,9,8,1,0,0
+Howard,Mineral Springs 2,Commissioner of State Lands,,REP,Tommy Land,54,30,21,3,0
+Howard,Buck Range,Commissioner of State Lands,,REP,Tommy Land,45,22,23,0,0
+Howard,Blackland,Commissioner of State Lands,,REP,Tommy Land,24,8,15,0,1
+Howard,Saratoga,Commissioner of State Lands,,REP,Tommy Land,21,12,8,1,0
+Howard,Franklin,Commissioner of State Lands,,REP,Tommy Land,17,8,7,2,0
+Howard,Dierks Ward 1,Commissioner of State Lands,,REP,Tommy Land,46,39,6,1,0
+Howard,Dierks Ward 2,Commissioner of State Lands,,REP,Tommy Land,39,32,6,1,0
+Howard,Dierks Ward 3,Commissioner of State Lands,,REP,Tommy Land,104,86,17,1,0
+Howard,Tollette,Commissioner of State Lands,,REP,Tommy Land,2,2,0,0,0
+Howard,Duckett,Commissioner of State Lands,,REP,Tommy Land,20,17,0,3,0
+Howard,Mineral Spring 3,Commissioner of State Lands,,REP,Tommy Land,33,16,17,0,0
+Howard,Umpire,Commissioner of State Lands,,DEM,Larry Williams,6,4,2,0,0
+Howard,Burg,Commissioner of State Lands,,DEM,Larry Williams,4,4,0,0,0
+Howard,Mountain,Commissioner of State Lands,,DEM,Larry Williams,5,3,2,0,0
+Howard,Clay,Commissioner of State Lands,,DEM,Larry Williams,7,5,1,1,0
+Howard,Blue Ridge,Commissioner of State Lands,,DEM,Larry Williams,13,9,4,0,0
+Howard,Madison,Commissioner of State Lands,,DEM,Larry Williams,7,6,1,0,0
+Howard,Holly Creek,Commissioner of State Lands,,DEM,Larry Williams,7,6,1,0,0
+Howard,Muddy Fork,Commissioner of State Lands,,DEM,Larry Williams,3,2,1,0,0
+Howard,Brewer,Commissioner of State Lands,,DEM,Larry Williams,20,10,9,1,0
+Howard,Center Point 1,Commissioner of State Lands,,DEM,Larry Williams,30,12,18,0,0
+Howard,Center Point 2,Commissioner of State Lands,,DEM,Larry Williams,8,0,8,0,0
+Howard,Saline,Commissioner of State Lands,,DEM,Larry Williams,16,7,9,0,0
+Howard,Blue Bayou,Commissioner of State Lands,,DEM,Larry Williams,7,1,6,0,0
+Howard,County Line,Commissioner of State Lands,,DEM,Larry Williams,22,10,12,0,0
+Howard,Dillard,Commissioner of State Lands,,DEM,Larry Williams,8,5,3,0,0
+Howard,Nashville Ward 1,Commissioner of State Lands,,DEM,Larry Williams,68,12,49,7,0
+Howard,Nashville Ward 2,Commissioner of State Lands,,DEM,Larry Williams,56,24,31,1,0
+Howard,Nashville Ward 3,Commissioner of State Lands,,DEM,Larry Williams,111,42,67,2,0
+Howard,Nashville ward 4,Commissioner of State Lands,,DEM,Larry Williams,48,11,37,0,0
+Howard,Nashville Ward 5,Commissioner of State Lands,,DEM,Larry Williams,78,25,53,0,0
+Howard,Nashville Ward 6,Commissioner of State Lands,,DEM,Larry Williams,81,20,57,4,0
+Howard,Nashville TWP II,Commissioner of State Lands,,DEM,Larry Williams,32,10,22,0,0
+Howard,Nashville Twp 1,Commissioner of State Lands,,DEM,Larry Williams,65,16,44,5,0
+Howard,Mineral Springs TWP,Commissioner of State Lands,,DEM,Larry Williams,10,5,5,0,0
+Howard,Mineral Springs 1,Commissioner of State Lands,,DEM,Larry Williams,57,42,15,0,0
+Howard,Mineral Springs 2,Commissioner of State Lands,,DEM,Larry Williams,54,35,19,0,0
+Howard,Buck Range,Commissioner of State Lands,,DEM,Larry Williams,43,17,26,0,0
+Howard,Blackland,Commissioner of State Lands,,DEM,Larry Williams,16,15,1,0,0
+Howard,Saratoga,Commissioner of State Lands,,DEM,Larry Williams,37,28,9,0,0
+Howard,Franklin,Commissioner of State Lands,,DEM,Larry Williams,30,21,9,0,0
+Howard,Dierks Ward 1,Commissioner of State Lands,,DEM,Larry Williams,19,16,3,0,0
+Howard,Dierks Ward 2,Commissioner of State Lands,,DEM,Larry Williams,3,3,0,0,0
+Howard,Dierks Ward 3,Commissioner of State Lands,,DEM,Larry Williams,12,10,2,0,0
+Howard,Tollette,Commissioner of State Lands,,DEM,Larry Williams,92,65,26,1,0
+Howard,Duckett,Commissioner of State Lands,,DEM,Larry Williams,3,3,0,0,0
+Howard,Mineral Spring 3,Commissioner of State Lands,,DEM,Larry Williams,55,36,19,0,0
+Howard,Umpire,State Senate,10,LIB,Bobbi Hicks,25,22,3,0,0
+Howard,Burg,State Senate,10,LIB,Bobbi Hicks,10,10,0,0,0
+Howard,Mountain,State Senate,10,LIB,Bobbi Hicks,22,19,3,0,0
+Howard,Clay,State Senate,10,LIB,Bobbi Hicks,17,12,5,0,0
+Howard,Blue Ridge,State Senate,10,LIB,Bobbi Hicks,10,7,3,0,0
+Howard,Madison,State Senate,10,LIB,Bobbi Hicks,41,37,4,0,0
+Howard,Holly Creek,State Senate,10,LIB,Bobbi Hicks,22,15,7,0,0
+Howard,Muddy Fork,State Senate,10,LIB,Bobbi Hicks,12,3,9,0,0
+Howard,Brewer,State Senate,10,LIB,Bobbi Hicks,21,6,14,0,1
+Howard,Center Point 1,State Senate,10,LIB,Bobbi Hicks,9,6,3,0,0
+Howard,Center Point 2,State Senate,10,LIB,Bobbi Hicks,19,10,9,0,0
+Howard,Saline,State Senate,10,LIB,Bobbi Hicks,11,6,5,0,0
+Howard,Blue Bayou,State Senate,10,LIB,Bobbi Hicks,8,3,5,0,0
+Howard,County Line,State Senate,10,LIB,Bobbi Hicks,51,25,24,2,0
+Howard,Dillard,State Senate,10,LIB,Bobbi Hicks,23,13,10,0,0
+Howard,Nashville Ward 1,State Senate,10,LIB,Bobbi Hicks,26,7,19,0,0
+Howard,Nashville Ward 2,State Senate,10,LIB,Bobbi Hicks,15,6,9,0,0
+Howard,Nashville Ward 3,State Senate,10,LIB,Bobbi Hicks,15,7,8,0,0
+Howard,Nashville ward 4,State Senate,10,LIB,Bobbi Hicks,18,9,9,0,0
+Howard,Nashville Ward 5,State Senate,10,LIB,Bobbi Hicks,30,6,24,0,0
+Howard,Nashville Ward 6,State Senate,10,LIB,Bobbi Hicks,33,10,23,0,0
+Howard,Nashville TWP II,State Senate,10,LIB,Bobbi Hicks,26,9,17,0,0
+Howard,Nashville Twp 1,State Senate,10,LIB,Bobbi Hicks,55,16,38,1,0
+Howard,Mineral Springs TWP,State Senate,10,LIB,Bobbi Hicks,5,3,2,0,0
+Howard,Mineral Springs 1,State Senate,10,LIB,Bobbi Hicks,9,9,0,0,0
+Howard,Mineral Springs 2,State Senate,10,LIB,Bobbi Hicks,22,15,6,1,0
+Howard,Buck Range,State Senate,10,LIB,Bobbi Hicks,17,9,8,0,0
+Howard,Blackland,State Senate,10,LIB,Bobbi Hicks,8,3,4,0,1
+Howard,Saratoga,State Senate,10,LIB,Bobbi Hicks,9,6,2,1,0
+Howard,Franklin,State Senate,10,LIB,Bobbi Hicks,6,4,2,0,0
+Howard,Dierks Ward 1,State Senate,10,LIB,Bobbi Hicks,22,21,1,0,0
+Howard,Dierks Ward 2,State Senate,10,LIB,Bobbi Hicks,13,10,3,0,0
+Howard,Dierks Ward 3,State Senate,10,LIB,Bobbi Hicks,37,29,8,0,0
+Howard,Tollette,State Senate,10,LIB,Bobbi Hicks,3,1,2,0,0
+Howard,Duckett,State Senate,10,LIB,Bobbi Hicks,13,10,0,3,0
+Howard,Mineral Spring 3,State Senate,10,LIB,Bobbi Hicks,12,6,6,0,0
+Howard,Umpire,State Senate,10,DEM,Senator Larry Teague,46,35,9,2,0
+Howard,Burg,State Senate,10,DEM,Senator Larry Teague,11,9,2,0,0
+Howard,Mountain,State Senate,10,DEM,Senator Larry Teague,32,30,2,0,0
+Howard,Clay,State Senate,10,DEM,Senator Larry Teague,20,14,5,1,0
+Howard,Blue Ridge,State Senate,10,DEM,Senator Larry Teague,39,29,10,0,0
+Howard,Madison,State Senate,10,DEM,Senator Larry Teague,72,52,20,0,0
+Howard,Holly Creek,State Senate,10,DEM,Senator Larry Teague,50,28,22,0,0
+Howard,Muddy Fork,State Senate,10,DEM,Senator Larry Teague,32,13,19,0,0
+Howard,Brewer,State Senate,10,DEM,Senator Larry Teague,103,42,60,1,0
+Howard,Center Point 1,State Senate,10,DEM,Senator Larry Teague,93,43,45,5,0
+Howard,Center Point 2,State Senate,10,DEM,Senator Larry Teague,35,13,21,1,0
+Howard,Saline,State Senate,10,DEM,Senator Larry Teague,43,18,25,0,0
+Howard,Blue Bayou,State Senate,10,DEM,Senator Larry Teague,27,13,14,0,0
+Howard,County Line,State Senate,10,DEM,Senator Larry Teague,125,54,68,3,0
+Howard,Dillard,State Senate,10,DEM,Senator Larry Teague,55,31,24,0,0
+Howard,Nashville Ward 1,State Senate,10,DEM,Senator Larry Teague,205,48,147,10,0
+Howard,Nashville Ward 2,State Senate,10,DEM,Senator Larry Teague,86,26,56,4,0
+Howard,Nashville Ward 3,State Senate,10,DEM,Senator Larry Teague,128,44,81,3,0
+Howard,Nashville ward 4,State Senate,10,DEM,Senator Larry Teague,85,22,59,4,0
+Howard,Nashville Ward 5,State Senate,10,DEM,Senator Larry Teague,169,48,120,0,1
+Howard,Nashville Ward 6,State Senate,10,DEM,Senator Larry Teague,183,45,130,8,0
+Howard,Nashville TWP II,State Senate,10,DEM,Senator Larry Teague,117,35,82,0,0
+Howard,Nashville Twp 1,State Senate,10,DEM,Senator Larry Teague,306,94,201,11,0
+Howard,Mineral Springs TWP,State Senate,10,DEM,Senator Larry Teague,21,7,14,0,0
+Howard,Mineral Springs 1,State Senate,10,DEM,Senator Larry Teague,57,42,15,0,0
+Howard,Mineral Springs 2,State Senate,10,DEM,Senator Larry Teague,87,50,34,3,0
+Howard,Buck Range,State Senate,10,DEM,Senator Larry Teague,70,30,40,0,0
+Howard,Blackland,State Senate,10,DEM,Senator Larry Teague,32,21,11,0,0
+Howard,Saratoga,State Senate,10,DEM,Senator Larry Teague,51,36,15,0,0
+Howard,Franklin,State Senate,10,DEM,Senator Larry Teague,41,25,14,2,0
+Howard,Dierks Ward 1,State Senate,10,DEM,Senator Larry Teague,40,32,7,1,0
+Howard,Dierks Ward 2,State Senate,10,DEM,Senator Larry Teague,28,24,3,1,0
+Howard,Dierks Ward 3,State Senate,10,DEM,Senator Larry Teague,77,65,11,1,0
+Howard,Tollette,State Senate,10,DEM,Senator Larry Teague,90,65,24,1,0
+Howard,Duckett,State Senate,10,DEM,Senator Larry Teague,8,8,0,0,0
+Howard,Mineral Spring 3,State Senate,10,DEM,Senator Larry Teague,75,49,26,0,0
+Howard,Umpire,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,31,25,6,0,0
+Howard,Burg,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,12,11,1,0,0
+Howard,Mountain,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,38,36,2,0,0
+Howard,Clay,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,13,10,3,0,0
+Howard,Blue Ridge,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,37,25,12,0,0
+Howard,Madison,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,54,45,9,0,0
+Howard,Holly Creek,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,54,29,25,0,0
+Howard,Muddy Fork,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,23,10,13,0,0
+Howard,Brewer,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,79,33,45,0,1
+Howard,Center Point 1,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,65,29,32,4,0
+Howard,Center Point 2,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,33,18,15,0,0
+Howard,Saline,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,39,18,21,0,0
+Howard,Blue Bayou,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,27,15,12,0,0
+Howard,County Line,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,102,48,51,3,0
+Howard,Dillard,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,42,23,19,0,0
+Howard,Nashville Ward 1,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,138,33,100,5,0
+Howard,Nashville Ward 2,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,64,20,42,2,0
+Howard,Nashville Ward 3,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,78,28,50,0,0
+Howard,Nashville ward 4,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,60,20,37,3,0
+Howard,Nashville Ward 5,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,138,37,100,0,1
+Howard,Nashville Ward 6,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,122,33,86,3,0
+Howard,Nashville TWP II,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,89,31,58,0,0
+Howard,Nashville Twp 1,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,226,72,143,11,0
+Howard,Mineral Springs TWP,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,14,7,7,0,0
+Howard,Mineral Springs 1,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,35,26,9,0,0
+Howard,Mineral Springs 2,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,60,38,20,2,0
+Howard,Buck Range,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,58,27,31,0,0
+Howard,Blackland,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,20,12,7,0,1
+Howard,Saratoga,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,32,21,11,0,0
+Howard,Franklin,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,25,14,9,2,0
+Howard,Dierks Ward 1,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,37,33,4,0,0
+Howard,Dierks Ward 2,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,27,23,3,1,0
+Howard,Dierks Ward 3,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,68,51,16,1,0
+Howard,Tollette,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,50,35,14,1,0
+Howard,Duckett,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,13,12,0,1,0
+Howard,Mineral Spring 3,State Supreme Court Associate Justice Position 3,,NON,State Supreme Court Justice Courtney Goodson,42,23,19,0,0
+Howard,Umpire,State Supreme Court Associate Justice Position 3,,NON,David Sterling,37,30,5,2,0
+Howard,Burg,State Supreme Court Associate Justice Position 3,,NON,David Sterling,9,8,1,0,0
+Howard,Mountain,State Supreme Court Associate Justice Position 3,,NON,David Sterling,18,15,3,0,0
+Howard,Clay,State Supreme Court Associate Justice Position 3,,NON,David Sterling,22,15,7,0,0
+Howard,Blue Ridge,State Supreme Court Associate Justice Position 3,,NON,David Sterling,14,11,3,0,0
+Howard,Madison,State Supreme Court Associate Justice Position 3,,NON,David Sterling,63,45,18,0,0
+Howard,Holly Creek,State Supreme Court Associate Justice Position 3,,NON,David Sterling,21,15,6,0,0
+Howard,Muddy Fork,State Supreme Court Associate Justice Position 3,,NON,David Sterling,21,6,15,0,0
+Howard,Brewer,State Supreme Court Associate Justice Position 3,,NON,David Sterling,45,16,29,0,0
+Howard,Center Point 1,State Supreme Court Associate Justice Position 3,,NON,David Sterling,38,21,16,1,0
+Howard,Center Point 2,State Supreme Court Associate Justice Position 3,,NON,David Sterling,21,4,16,1,0
+Howard,Saline,State Supreme Court Associate Justice Position 3,,NON,David Sterling,13,5,8,0,0
+Howard,Blue Bayou,State Supreme Court Associate Justice Position 3,,NON,David Sterling,8,1,7,0,0
+Howard,County Line,State Supreme Court Associate Justice Position 3,,NON,David Sterling,73,30,41,2,0
+Howard,Dillard,State Supreme Court Associate Justice Position 3,,NON,David Sterling,34,20,14,0,0
+Howard,Nashville Ward 1,State Supreme Court Associate Justice Position 3,,NON,David Sterling,86,22,62,2,0
+Howard,Nashville Ward 2,State Supreme Court Associate Justice Position 3,,NON,David Sterling,35,11,23,1,0
+Howard,Nashville Ward 3,State Supreme Court Associate Justice Position 3,,NON,David Sterling,56,19,35,2,0
+Howard,Nashville ward 4,State Supreme Court Associate Justice Position 3,,NON,David Sterling,37,9,27,1,0
+Howard,Nashville Ward 5,State Supreme Court Associate Justice Position 3,,NON,David Sterling,57,14,43,0,0
+Howard,Nashville Ward 6,State Supreme Court Associate Justice Position 3,,NON,David Sterling,80,17,59,4,0
+Howard,Nashville TWP II,State Supreme Court Associate Justice Position 3,,NON,David Sterling,51,12,39,0,0
+Howard,Nashville Twp 1,State Supreme Court Associate Justice Position 3,,NON,David Sterling,141,40,100,1,0
+Howard,Mineral Springs TWP,State Supreme Court Associate Justice Position 3,,NON,David Sterling,11,3,8,0,0
+Howard,Mineral Springs 1,State Supreme Court Associate Justice Position 3,,NON,David Sterling,29,23,6,0,0
+Howard,Mineral Springs 2,State Supreme Court Associate Justice Position 3,,NON,David Sterling,44,26,18,0,0
+Howard,Buck Range,State Supreme Court Associate Justice Position 3,,NON,David Sterling,24,9,15,0,0
+Howard,Blackland,State Supreme Court Associate Justice Position 3,,NON,David Sterling,19,10,9,0,0
+Howard,Saratoga,State Supreme Court Associate Justice Position 3,,NON,David Sterling,24,17,6,1,0
+Howard,Franklin,State Supreme Court Associate Justice Position 3,,NON,David Sterling,19,12,7,0,0
+Howard,Dierks Ward 1,State Supreme Court Associate Justice Position 3,,NON,David Sterling,24,20,3,1,0
+Howard,Dierks Ward 2,State Supreme Court Associate Justice Position 3,,NON,David Sterling,14,11,3,0,0
+Howard,Dierks Ward 3,State Supreme Court Associate Justice Position 3,,NON,David Sterling,46,43,3,0,0
+Howard,Tollette,State Supreme Court Associate Justice Position 3,,NON,David Sterling,29,18,11,0,0
+Howard,Duckett,State Supreme Court Associate Justice Position 3,,NON,David Sterling,8,6,0,2,0
+Howard,Mineral Spring 3,State Supreme Court Associate Justice Position 3,,NON,David Sterling,47,32,15,0,0
+Howard,Umpire,State Representative,19,REP,Representative Justin Gonzales,67,55,10,2,0
+Howard,Burg,State Representative,19,REP,Representative Justin Gonzales,15,13,2,0,0
+Howard,Mountain,State Representative,19,REP,Representative Justin Gonzales,55,51,4,0,0
+Howard,Clay,State Representative,19,REP,Representative Justin Gonzales,29,22,7,0,0
+Howard,Blue Ridge,State Representative,19,REP,Representative Justin Gonzales,37,26,11,0,0
+Howard,Holly Creek,State Representative,19,REP,Representative Justin Gonzales,67,37,30,0,0
+Howard,Muddy Fork,State Representative,19,REP,Representative Justin Gonzales,38,14,24,0,0
+Howard,Brewer,State Representative,19,REP,Representative Justin Gonzales,103,39,63,0,1
+Howard,Center Point 1,State Representative,19,REP,Representative Justin Gonzales,72,37,30,5,0
+Howard,Center Point 2,State Representative,19,REP,Representative Justin Gonzales,50,22,27,1,0
+Howard,Saline,State Representative,19,REP,Representative Justin Gonzales,38,17,21,0,0
+Howard,Blue Bayou,State Representative,19,REP,Representative Justin Gonzales,30,16,14,0,0
+Howard,County Line,State Representative,19,REP,Representative Justin Gonzales,147,68,74,5,0
+Howard,Dillard,State Representative,19,REP,Representative Justin Gonzales,71,39,32,0,0
+Howard,Nashville Ward 1,State Representative,19,REP,Representative Justin Gonzales,154,46,106,2,0
+Howard,Nashville Ward 2,State Representative,19,REP,Representative Justin Gonzales,47,9,36,2,0
+Howard,Nashville Ward 3,State Representative,19,REP,Representative Justin Gonzales,32,7,24,1,0
+Howard,Nashville ward 4,State Representative,19,REP,Representative Justin Gonzales,54,19,31,4,0
+Howard,Nashville Ward 5,State Representative,19,REP,Representative Justin Gonzales,125,31,93,0,1
+Howard,Nashville Ward 6,State Representative,19,REP,Representative Justin Gonzales,119,27,89,3,0
+Howard,Nashville TWP II,State Representative,19,REP,Representative Justin Gonzales,110,32,78,0,0
+Howard,Nashville Twp 1,State Representative,19,REP,Representative Justin Gonzales,289,96,187,6,0
+Howard,Mineral Springs TWP,State Representative,19,REP,Representative Justin Gonzales,15,4,11,0,0
+Howard,Mineral Springs 1,State Representative,19,REP,Representative Justin Gonzales,11,10,1,0,0
+Howard,Mineral Springs 2,State Representative,19,REP,Representative Justin Gonzales,60,37,21,2,0
+Howard,Buck Range,State Representative,19,REP,Representative Justin Gonzales,44,21,23,0,0
+Howard,Blackland,State Representative,19,REP,Representative Justin Gonzales,25,9,15,0,1
+Howard,Saratoga,State Representative,19,REP,Representative Justin Gonzales,21,12,8,1,0
+Howard,Franklin,State Representative,19,REP,Representative Justin Gonzales,15,7,7,1,0
+Howard,Tollette,State Representative,19,REP,Representative Justin Gonzales,2,2,0,0,0
+Howard,Duckett,State Representative,19,REP,Representative Justin Gonzales,21,18,0,3,0
+Howard,Mineral Spring 3,State Representative,19,REP,Representative Justin Gonzales,30,12,18,0,0
+Howard,Umpire,State Representative,19,DEM,Jeremy Ross,5,3,2,0,0
+Howard,Burg,State Representative,19,DEM,Jeremy Ross,6,6,0,0,0
+Howard,Mountain,State Representative,19,DEM,Jeremy Ross,4,3,1,0,0
+Howard,Clay,State Representative,19,DEM,Jeremy Ross,9,6,3,0,0
+Howard,Blue Ridge,State Representative,19,DEM,Jeremy Ross,14,9,5,0,0
+Howard,Holly Creek,State Representative,19,DEM,Jeremy Ross,10,8,2,0,0
+Howard,Muddy Fork,State Representative,19,DEM,Jeremy Ross,6,2,4,0,0
+Howard,Brewer,State Representative,19,DEM,Jeremy Ross,26,10,15,1,0
+Howard,Center Point 1,State Representative,19,DEM,Jeremy Ross,32,13,19,0,0
+Howard,Center Point 2,State Representative,19,DEM,Jeremy Ross,7,1,6,0,0
+Howard,Saline,State Representative,19,DEM,Jeremy Ross,16,7,9,0,0
+Howard,Blue Bayou,State Representative,19,DEM,Jeremy Ross,6,1,5,0,0
+Howard,County Line,State Representative,19,DEM,Jeremy Ross,32,13,19,0,0
+Howard,Dillard,State Representative,19,DEM,Jeremy Ross,8,5,3,0,0
+Howard,Nashville Ward 1,State Representative,19,DEM,Jeremy Ross,75,10,57,8,0
+Howard,Nashville Ward 2,State Representative,19,DEM,Jeremy Ross,57,22,33,2,0
+Howard,Nashville Ward 3,State Representative,19,DEM,Jeremy Ross,112,44,65,3,0
+Howard,Nashville ward 4,State Representative,19,DEM,Jeremy Ross,50,12,38,0,0
+Howard,Nashville Ward 5,State Representative,19,DEM,Jeremy Ross,83,26,57,0,0
+Howard,Nashville Ward 6,State Representative,19,DEM,Jeremy Ross,94,27,63,4,0
+Howard,Nashville TWP II,State Representative,19,DEM,Jeremy Ross,35,12,23,0,0
+Howard,Nashville Twp 1,State Representative,19,DEM,Jeremy Ross,82,17,59,6,0
+Howard,Mineral Springs TWP,State Representative,19,DEM,Jeremy Ross,11,6,5,0,0
+Howard,Mineral Springs 1,State Representative,19,DEM,Jeremy Ross,56,42,14,0,0
+Howard,Mineral Springs 2,State Representative,19,DEM,Jeremy Ross,51,29,21,1,0
+Howard,Buck Range,State Representative,19,DEM,Jeremy Ross,45,19,26,0,0
+Howard,Blackland,State Representative,19,DEM,Jeremy Ross,16,15,1,0,0
+Howard,Saratoga,State Representative,19,DEM,Jeremy Ross,39,30,9,0,0
+Howard,Franklin,State Representative,19,DEM,Jeremy Ross,32,22,9,1,0
+Howard,Tollette,State Representative,19,DEM,Jeremy Ross,93,66,26,1,0
+Howard,Duckett,State Representative,19,DEM,Jeremy Ross,2,2,0,0,0
+Howard,Mineral Spring 3,State Representative,19,DEM,Jeremy Ross,62,43,19,0,0
+Howard,Umpire,Circuit Clerk,,DEM,Angie Lewis,65,51,12,2,0
+Howard,Burg,Circuit Clerk,,DEM,Angie Lewis,19,17,2,0,0
+Howard,Mountain,Circuit Clerk,,DEM,Angie Lewis,48,45,3,0,0
+Howard,Clay,Circuit Clerk,,DEM,Angie Lewis,32,25,7,0,0
+Howard,Blue Ridge,Circuit Clerk,,DEM,Angie Lewis,46,34,12,0,0
+Howard,Madison,Circuit Clerk,,DEM,Angie Lewis,109,85,24,0,0
+Howard,Holly Creek,Circuit Clerk,,DEM,Angie Lewis,71,43,28,0,0
+Howard,Muddy Fork,Circuit Clerk,,DEM,Angie Lewis,44,16,28,0,0
+Howard,Brewer,Circuit Clerk,,DEM,Angie Lewis,121,49,70,1,1
+Howard,Center Point 1,Circuit Clerk,,DEM,Angie Lewis,94,46,43,5,0
+Howard,Center Point 2,Circuit Clerk,,DEM,Angie Lewis,49,21,27,1,0
+Howard,Saline,Circuit Clerk,,DEM,Angie Lewis,51,23,28,0,0
+Howard,Blue Bayou,Circuit Clerk,,DEM,Angie Lewis,33,15,18,0,0
+Howard,County Line,Circuit Clerk,,DEM,Angie Lewis,161,70,87,4,0
+Howard,Dillard,Circuit Clerk,,DEM,Angie Lewis,73,43,30,0,0
+Howard,Nashville Ward 1,Circuit Clerk,,DEM,Angie Lewis,218,53,155,10,0
+Howard,Nashville Ward 2,Circuit Clerk,,DEM,Angie Lewis,97,30,65,2,0
+Howard,Nashville Ward 3,Circuit Clerk,,DEM,Angie Lewis,138,50,84,4,0
+Howard,Nashville ward 4,Circuit Clerk,,DEM,Angie Lewis,100,30,66,4,0
+Howard,Nashville Ward 5,Circuit Clerk,,DEM,Angie Lewis,191,53,137,0,1
+Howard,Nashville Ward 6,Circuit Clerk,,DEM,Angie Lewis,203,49,147,7,0
+Howard,Nashville TWP II,Circuit Clerk,,DEM,Angie Lewis,139,43,96,0,0
+Howard,Nashville Twp 1,Circuit Clerk,,DEM,Angie Lewis,353,109,233,11,0
+Howard,Mineral Springs TWP,Circuit Clerk,,DEM,Angie Lewis,26,10,16,0,0
+Howard,Mineral Springs 1,Circuit Clerk,,DEM,Angie Lewis,66,50,16,0,0
+Howard,Mineral Springs 2,Circuit Clerk,,DEM,Angie Lewis,100,60,37,3,0
+Howard,Buck Range,Circuit Clerk,,DEM,Angie Lewis,84,38,46,0,0
+Howard,Blackland,Circuit Clerk,,DEM,Angie Lewis,38,23,14,0,1
+Howard,Saratoga,Circuit Clerk,,DEM,Angie Lewis,58,41,16,1,0
+Howard,Franklin,Circuit Clerk,,DEM,Angie Lewis,45,28,15,2,0
+Howard,Dierks Ward 1,Circuit Clerk,,DEM,Angie Lewis,60,53,7,0,0
+Howard,Dierks Ward 2,Circuit Clerk,,DEM,Angie Lewis,40,34,5,1,0
+Howard,Dierks Ward 3,Circuit Clerk,,DEM,Angie Lewis,107,88,18,1,0
+Howard,Tollette,Circuit Clerk,,DEM,Angie Lewis,94,67,26,1,0
+Howard,Duckett,Circuit Clerk,,DEM,Angie Lewis,16,16,0,0,0
+Howard,Mineral Spring 3,Circuit Clerk,,DEM,Angie Lewis,84,55,29,0,0
+Howard,Madison,Just of Peace 2 002,,REP,Andy Hogg,2,2,0,0,0
+Howard,Holly Creek,Just of Peace 2 002,,REP,Andy Hogg,67,41,26,0,0
+Howard,Muddy Fork,Just of Peace 2 002,,REP,Andy Hogg,30,13,17,0,0
+Howard,Dierks Ward 1,Just of Peace 2 002,,REP,Andy Hogg,47,40,6,1,0
+Howard,Dierks Ward 2,Just of Peace 2 002,,REP,Andy Hogg,41,34,6,1,0
+Howard,Dierks Ward 3,Just of Peace 2 002,,REP,Andy Hogg,103,85,17,1,0
+Howard,Madison,Just of Peace 2 002,,DEM,Scotty Floyd,0,0,0,0,0
+Howard,Holly Creek,Just of Peace 2 002,,DEM,Scotty Floyd,11,5,6,0,0
+Howard,Muddy Fork,Just of Peace 2 002,,DEM,Scotty Floyd,14,3,11,0,0
+Howard,Dierks Ward 1,Just of Peace 2 002,,DEM,Scotty Floyd,18,15,3,0,0
+Howard,Dierks Ward 2,Just of Peace 2 002,,DEM,Scotty Floyd,2,2,0,0,0
+Howard,Dierks Ward 3,Just of Peace 2 002,,DEM,Scotty Floyd,14,12,2,0,0
+Howard,Nashville TWP II,Just of Peace 4 004,,IND,Janice Huffman,115,35,80,0,0
+Howard,Nashville Twp 1,Just of Peace 4 004,,IND,Janice Huffman,307,88,212,7,0
+Howard,Nashville TWP II,Just of Peace 4 004,,DEM,Shirley White Souder,27,9,18,0,0
+Howard,Nashville Twp 1,Just of Peace 4 004,,DEM,Shirley White Souder,62,25,32,5,0
+Howard,Nashville Ward 1,Just of Peace 5 005,,REP,Jerry Harwell,176,45,125,6,0
+Howard,Nashville Ward 2,Just of Peace 5 005,,REP,Jerry Harwell,49,9,38,2,0
+Howard,Nashville Ward 1,Just of Peace 5 005,,DEM,Julie Tuck,55,11,40,4,0
+Howard,Nashville Ward 2,Just of Peace 5 005,,DEM,Julie Tuck,56,23,31,2,0
+Howard,Dillard,Just of Peace 8 008,,DEM,Don W. Marks,15,10,5,0,0
+Howard,Mineral Springs 1,Just of Peace 8 008,,DEM,Don W. Marks,59,44,15,0,0
+Howard,Mineral Springs 2,Just of Peace 8 008,,DEM,Don W. Marks,61,39,21,1,0
+Howard,Mineral Spring 3,Just of Peace 8 008,,DEM,Don W. Marks,62,42,20,0,0
+Howard,Dillard,Just of Peace 8 008,,REP,David Mauk,64,34,30,0,0
+Howard,Mineral Springs 1,Just of Peace 8 008,,REP,David Mauk,10,9,1,0,0
+Howard,Mineral Springs 2,Just of Peace 8 008,,REP,David Mauk,50,27,21,2,0
+Howard,Mineral Spring 3,Just of Peace 8 008,,REP,David Mauk,30,13,17,0,0
+Howard,Nashville Ward 1,Mayor Cty of Nashville Nashville,,DEM,Billy Ray Jones,161,35,119,7,0
+Howard,Nashville Ward 2,Mayor Cty of Nashville Nashville,,DEM,Billy Ray Jones,64,21,42,1,0
+Howard,Nashville Ward 3,Mayor Cty of Nashville Nashville,,DEM,Billy Ray Jones,77,35,41,1,0
+Howard,Nashville ward 4,Mayor Cty of Nashville Nashville,,DEM,Billy Ray Jones,55,17,36,2,0
+Howard,Nashville Ward 5,Mayor Cty of Nashville Nashville,,DEM,Billy Ray Jones,128,37,90,0,1
+Howard,Nashville Ward 6,Mayor Cty of Nashville Nashville,,DEM,Billy Ray Jones,145,33,108,4,0
+Howard,Nashville Ward 1,Mayor Cty of Nashville Nashville,,REP,Matt Smith,69,21,46,2,0
+Howard,Nashville Ward 2,Mayor Cty of Nashville Nashville,,REP,Matt Smith,39,10,26,3,0
+Howard,Nashville Ward 3,Mayor Cty of Nashville Nashville,,REP,Matt Smith,64,16,45,3,0
+Howard,Nashville ward 4,Mayor Cty of Nashville Nashville,,REP,Matt Smith,50,15,33,2,0
+Howard,Nashville Ward 5,Mayor Cty of Nashville Nashville,,REP,Matt Smith,77,18,59,0,0
+Howard,Nashville Ward 6,Mayor Cty of Nashville Nashville,,REP,Matt Smith,71,22,46,3,0
+Howard,Dierks Ward 1,Mayor of Dierks Dierks,,IND,Robert Krantz,30,26,4,0,0
+Howard,Dierks Ward 2,Mayor of Dierks Dierks,,IND,Robert Krantz,24,17,6,1,0
+Howard,Dierks Ward 3,Mayor of Dierks Dierks,,IND,Robert Krantz,55,45,10,0,0
+Howard,Dierks Ward 1,Mayor of Dierks Dierks,,IND,Ronnie Loy Cogburn,34,28,5,1,0
+Howard,Dierks Ward 2,Mayor of Dierks Dierks,,IND,Ronnie Loy Cogburn,19,19,0,0,0
+Howard,Dierks Ward 3,Mayor of Dierks Dierks,,IND,Ronnie Loy Cogburn,62,52,9,1,0
+Howard,Nashville Ward 1,Nash. Alderman Wd 1 Pos 1 Ward 1,,REP,Mike Harris,85,25,57,3,0
+Howard,Nashville Ward 1,Nash. Alderman Wd 1 Pos 1 Ward 1,,DEM,Freddie Horne,146,31,108,7,0
+Howard,Tollette,Tol. Cty Treas. Tollette,,IND,Edna Marts,54,38,15,1,0
+Howard,Tollette,Tol. Cty Treas. Tollette,,IND,Pamela Miller,35,25,10,0,0
+Howard,Umpire,Const. Twp 1 Township 1,,REP,Travis Turner,68,55,11,2,0
+Howard,Burg,Const. Twp 1 Township 1,,REP,Travis Turner,17,15,2,0,0
+Howard,Mountain,Const. Twp 1 Township 1,,REP,Travis Turner,55,51,4,0,0
+Howard,Clay,Const. Twp 1 Township 1,,REP,Travis Turner,34,26,8,0,0
+Howard,Blue Ridge,Const. Twp 1 Township 1,,REP,Travis Turner,43,30,13,0,0
+Howard,Madison,Const. Twp 1 Township 1,,REP,Travis Turner,115,89,26,0,0
+Howard,Holly Creek,Const. Twp 1 Township 1,,REP,Travis Turner,69,39,30,0,0
+Howard,Muddy Fork,Const. Twp 1 Township 1,,REP,Travis Turner,39,14,25,0,0
+Howard,Brewer,Const. Twp 1 Township 1,,REP,Travis Turner,112,43,68,0,1
+Howard,Center Point 1,Const. Twp 1 Township 1,,REP,Travis Turner,77,41,32,4,0
+Howard,Center Point 2,Const. Twp 1 Township 1,,REP,Travis Turner,49,23,25,1,0
+Howard,County Line,Const. Twp 1 Township 1,,REP,Travis Turner,162,73,84,5,0
+Howard,Dierks Ward 1,Const. Twp 1 Township 1,,REP,Travis Turner,51,44,6,1,0
+Howard,Dierks Ward 2,Const. Twp 1 Township 1,,REP,Travis Turner,40,33,6,1,0
+Howard,Dierks Ward 3,Const. Twp 1 Township 1,,REP,Travis Turner,108,89,18,1,0
+Howard,Duckett,Const. Twp 1 Township 1,,REP,Travis Turner,21,18,0,3,0
+Howard,Umpire,Const. Twp 1 Township 1,,DEM,Van Dwain Wildbur,4,3,1,0,0
+Howard,Burg,Const. Twp 1 Township 1,,DEM,Van Dwain Wildbur,3,3,0,0,0
+Howard,Mountain,Const. Twp 1 Township 1,,DEM,Van Dwain Wildbur,4,3,1,0,0
+Howard,Clay,Const. Twp 1 Township 1,,DEM,Van Dwain Wildbur,4,2,2,0,0
+Howard,Blue Ridge,Const. Twp 1 Township 1,,DEM,Van Dwain Wildbur,9,6,3,0,0
+Howard,Madison,Const. Twp 1 Township 1,,DEM,Van Dwain Wildbur,7,6,1,0,0
+Howard,Holly Creek,Const. Twp 1 Township 1,,DEM,Van Dwain Wildbur,6,5,1,0,0
+Howard,Muddy Fork,Const. Twp 1 Township 1,,DEM,Van Dwain Wildbur,5,2,3,0,0
+Howard,Brewer,Const. Twp 1 Township 1,,DEM,Van Dwain Wildbur,16,6,9,1,0
+Howard,Center Point 1,Const. Twp 1 Township 1,,DEM,Van Dwain Wildbur,27,9,17,1,0
+Howard,Center Point 2,Const. Twp 1 Township 1,,DEM,Van Dwain Wildbur,8,0,8,0,0
+Howard,County Line,Const. Twp 1 Township 1,,DEM,Van Dwain Wildbur,16,8,8,0,0
+Howard,Dierks Ward 1,Const. Twp 1 Township 1,,DEM,Van Dwain Wildbur,14,11,3,0,0
+Howard,Dierks Ward 2,Const. Twp 1 Township 1,,DEM,Van Dwain Wildbur,3,3,0,0,0
+Howard,Dierks Ward 3,Const. Twp 1 Township 1,,DEM,Van Dwain Wildbur,10,9,1,0,0
+Howard,Duckett,Const. Twp 1 Township 1,,DEM,Van Dwain Wildbur,2,2,0,0,0
+Howard,Tollette,Tollette Alderman Pos 4 Tollette,,IND,Martha Forte,53,39,13,1,0
+Howard,Tollette,Tollette Alderman Pos 4 Tollette,,IND,Jeffery Barber,38,25,13,0,0
+Howard,Umpire,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,62,50,10,2,0
+Howard,Burg,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,16,14,2,0,0
+Howard,Mountain,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,55,51,4,0,0
+Howard,Clay,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,36,26,10,0,0
+Howard,Blue Ridge,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,47,33,14,0,0
+Howard,Madison,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,115,88,27,0,0
+Howard,Holly Creek,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,68,41,27,0,0
+Howard,Muddy Fork,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,40,14,26,0,0
+Howard,Brewer,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,117,46,70,0,1
+Howard,Center Point 1,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,89,50,38,1,0
+Howard,Center Point 2,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,51,21,29,1,0
+Howard,Saline,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,44,20,24,0,0
+Howard,Blue Bayou,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,34,17,17,0,0
+Howard,County Line,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,168,76,87,5,0
+Howard,Dillard,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,71,40,31,0,0
+Howard,Nashville Ward 1,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,205,51,144,10,0
+Howard,Nashville Ward 2,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,83,26,54,3,0
+Howard,Nashville Ward 3,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,112,41,70,1,0
+Howard,Nashville ward 4,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,90,27,59,4,0
+Howard,Nashville Ward 5,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,180,52,127,0,1
+Howard,Nashville Ward 6,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,175,51,119,5,0
+Howard,Nashville TWP II,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,130,40,90,0,0
+Howard,Nashville Twp 1,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,335,108,221,6,0
+Howard,Mineral Springs TWP,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,19,7,12,0,0
+Howard,Mineral Springs 1,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,57,45,12,0,0
+Howard,Mineral Springs 2,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,95,57,35,3,0
+Howard,Buck Range,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,72,34,38,0,0
+Howard,Blackland,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,31,18,12,0,1
+Howard,Saratoga,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,54,39,14,1,0
+Howard,Franklin,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,39,22,15,2,0
+Howard,Dierks Ward 1,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,53,47,5,1,0
+Howard,Dierks Ward 2,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,40,33,6,1,0
+Howard,Dierks Ward 3,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,111,91,19,1,0
+Howard,Tollette,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,62,44,17,1,0
+Howard,Duckett,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,19,16,0,3,0
+Howard,Mineral Spring 3,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,81,46,35,0,0
+Howard,Umpire,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,10,8,2,0,0
+Howard,Burg,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,4,4,0,0,0
+Howard,Mountain,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,3,2,1,0,0
+Howard,Clay,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,2,1,0,1,0
+Howard,Blue Ridge,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,4,2,2,0,0
+Howard,Madison,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,8,7,1,0,0
+Howard,Holly Creek,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,9,4,5,0,0
+Howard,Muddy Fork,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,4,2,2,0,0
+Howard,Brewer,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,11,3,7,1,0
+Howard,Center Point 1,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,15,0,11,4,0
+Howard,Center Point 2,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,6,1,5,0,0
+Howard,Saline,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,9,4,5,0,0
+Howard,Blue Bayou,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,2,0,2,0,0
+Howard,County Line,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,11,5,6,0,0
+Howard,Dillard,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,8,4,4,0,0
+Howard,Nashville Ward 1,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,25,5,20,0,0
+Howard,Nashville Ward 2,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,21,6,15,0,0
+Howard,Nashville Ward 3,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,28,9,18,1,0
+Howard,Nashville ward 4,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,14,5,9,0,0
+Howard,Nashville Ward 5,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,27,5,22,0,0
+Howard,Nashville Ward 6,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,36,3,33,0,0
+Howard,Nashville TWP II,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,14,3,11,0,0
+Howard,Nashville Twp 1,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,33,4,24,5,0
+Howard,Mineral Springs TWP,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,6,3,3,0,0
+Howard,Mineral Springs 1,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,12,8,4,0,0
+Howard,Mineral Springs 2,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,16,9,6,1,0
+Howard,Buck Range,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,14,5,9,0,0
+Howard,Blackland,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,9,5,4,0,0
+Howard,Saratoga,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,6,3,3,0,0
+Howard,Franklin,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,8,7,1,0,0
+Howard,Dierks Ward 1,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,10,7,3,0,0
+Howard,Dierks Ward 2,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,3,3,0,0,0
+Howard,Dierks Ward 3,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,6,6,0,0,0
+Howard,Tollette,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,27,18,9,0,0
+Howard,Duckett,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,3,3,0,0,0
+Howard,Mineral Spring 3,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,11,9,2,0,0
+Howard,Umpire,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,24,19,3,2,0
+Howard,Burg,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,13,12,1,0,0
+Howard,Mountain,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,22,19,3,0,0
+Howard,Clay,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,16,11,4,1,0
+Howard,Blue Ridge,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,27,18,9,0,0
+Howard,Madison,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,49,39,10,0,0
+Howard,Holly Creek,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,40,25,15,0,0
+Howard,Muddy Fork,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,21,9,12,0,0
+Howard,Brewer,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,57,24,32,0,1
+Howard,Center Point 1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,55,29,25,1,0
+Howard,Center Point 2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,21,8,13,0,0
+Howard,Saline,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,29,13,16,0,0
+Howard,Blue Bayou,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,17,6,11,0,0
+Howard,County Line,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,81,40,38,3,0
+Howard,Dillard,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,36,20,16,0,0
+Howard,Nashville Ward 1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,106,28,76,2,0
+Howard,Nashville Ward 2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,60,21,37,2,0
+Howard,Nashville Ward 3,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,112,39,72,1,0
+Howard,Nashville ward 4,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,65,24,40,1,0
+Howard,Nashville Ward 5,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,117,31,85,0,1
+Howard,Nashville Ward 6,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,108,33,72,3,0
+Howard,Nashville TWP II,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,85,30,55,0,0
+Howard,Nashville Twp 1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,156,56,96,4,0
+Howard,Mineral Springs TWP,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,12,6,6,0,0
+Howard,Mineral Springs 1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,46,35,11,0,0
+Howard,Mineral Springs 2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,66,45,19,2,0
+Howard,Buck Range,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,47,25,22,0,0
+Howard,Blackland,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,22,18,3,0,1
+Howard,Saratoga,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,40,32,8,0,0
+Howard,Franklin,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,30,18,10,2,0
+Howard,Dierks Ward 1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,36,35,1,0,0
+Howard,Dierks Ward 2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,31,28,3,0,0
+Howard,Dierks Ward 3,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,55,46,9,0,0
+Howard,Tollette,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,65,50,15,0,0
+Howard,Duckett,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,9,6,0,3,0
+Howard,Mineral Spring 3,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,48,29,19,0,0
+Howard,Umpire,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,48,39,9,0,0
+Howard,Burg,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,8,7,1,0,0
+Howard,Mountain,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,35,33,2,0,0
+Howard,Clay,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,22,16,6,0,0
+Howard,Blue Ridge,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,24,17,7,0,0
+Howard,Madison,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,74,56,18,0,0
+Howard,Holly Creek,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,38,21,17,0,0
+Howard,Muddy Fork,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,22,7,15,0,0
+Howard,Brewer,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,72,25,46,1,0
+Howard,Center Point 1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,48,20,24,4,0
+Howard,Center Point 2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,36,14,21,1,0
+Howard,Saline,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,23,11,12,0,0
+Howard,Blue Bayou,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,19,11,8,0,0
+Howard,County Line,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,97,41,54,2,0
+Howard,Dillard,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,43,24,19,0,0
+Howard,Nashville Ward 1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,122,28,89,5,0
+Howard,Nashville Ward 2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,43,11,30,2,0
+Howard,Nashville Ward 3,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,31,11,17,3,0
+Howard,Nashville ward 4,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,38,7,29,2,0
+Howard,Nashville Ward 5,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,89,25,64,0,0
+Howard,Nashville Ward 6,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,103,22,78,3,0
+Howard,Nashville TWP II,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,59,14,45,0,0
+Howard,Nashville Twp 1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,212,56,149,7,0
+Howard,Mineral Springs TWP,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,13,4,9,0,0
+Howard,Mineral Springs 1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,22,17,5,0,0
+Howard,Mineral Springs 2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,46,21,23,2,0
+Howard,Buck Range,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,40,15,25,0,0
+Howard,Blackland,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,19,6,13,0,0
+Howard,Saratoga,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,20,10,9,1,0
+Howard,Franklin,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,17,11,6,0,0
+Howard,Dierks Ward 1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,28,19,8,1,0
+Howard,Dierks Ward 2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,12,8,3,1,0
+Howard,Dierks Ward 3,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,61,50,10,1,0
+Howard,Tollette,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,25,14,10,1,0
+Howard,Duckett,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,13,13,0,0,0
+Howard,Mineral Spring 3,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,44,26,18,0,0
+Howard,Umpire,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,53,42,9,2,0
+Howard,Burg,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,13,13,0,0,0
+Howard,Mountain,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,33,28,5,0,0
+Howard,Clay,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,19,12,7,0,0
+Howard,Blue Ridge,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,40,28,12,0,0
+Howard,Madison,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,63,49,14,0,0
+Howard,Holly Creek,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,42,29,13,0,0
+Howard,Muddy Fork,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,24,7,17,0,0
+Howard,Brewer,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,85,33,50,1,1
+Howard,Center Point 1,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,68,31,36,1,0
+Howard,Center Point 2,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,29,13,16,0,0
+Howard,Saline,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,39,18,21,0,0
+Howard,Blue Bayou,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,24,12,12,0,0
+Howard,County Line,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,95,40,53,2,0
+Howard,Dillard,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,47,27,20,0,0
+Howard,Nashville Ward 1,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,142,32,102,8,0
+Howard,Nashville Ward 2,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,84,28,52,4,0
+Howard,Nashville Ward 3,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,124,48,74,2,0
+Howard,Nashville ward 4,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,81,23,55,3,0
+Howard,Nashville Ward 5,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,151,43,107,0,1
+Howard,Nashville Ward 6,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,149,40,105,4,0
+Howard,Nashville TWP II,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,86,20,66,0,0
+Howard,Nashville Twp 1,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,190,54,127,9,0
+Howard,Mineral Springs TWP,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,17,6,11,0,0
+Howard,Mineral Springs 1,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,62,47,15,0,0
+Howard,Mineral Springs 2,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,86,50,33,3,0
+Howard,Buck Range,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,62,29,33,0,0
+Howard,Blackland,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,25,17,7,0,1
+Howard,Saratoga,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,47,34,13,0,0
+Howard,Franklin,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,38,24,12,2,0
+Howard,Dierks Ward 1,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,53,45,8,0,0
+Howard,Dierks Ward 2,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,31,24,6,1,0
+Howard,Dierks Ward 3,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,86,70,15,1,0
+Howard,Tollette,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,85,59,25,1,0
+Howard,Duckett,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,14,11,0,3,0
+Howard,Mineral Spring 3,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,69,45,24,0,0
+Howard,Umpire,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,19,16,3,0,0
+Howard,Burg,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,8,6,2,0,0
+Howard,Mountain,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,25,25,0,0,0
+Howard,Clay,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,18,15,3,0,0
+Howard,Blue Ridge,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,11,7,4,0,0
+Howard,Madison,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,60,46,14,0,0
+Howard,Holly Creek,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,36,17,19,0,0
+Howard,Muddy Fork,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,18,9,9,0,0
+Howard,Brewer,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,44,16,28,0,0
+Howard,Center Point 1,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,36,19,13,4,0
+Howard,Center Point 2,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,27,9,17,1,0
+Howard,Saline,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,15,6,9,0,0
+Howard,Blue Bayou,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,12,5,7,0,0
+Howard,County Line,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,84,41,40,3,0
+Howard,Dillard,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,32,17,15,0,0
+Howard,Nashville Ward 1,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,89,24,63,2,0
+Howard,Nashville Ward 2,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,20,4,16,0,0
+Howard,Nashville Ward 3,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,15,3,12,0,0
+Howard,Nashville ward 4,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,23,9,13,1,0
+Howard,Nashville Ward 5,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,54,13,41,0,0
+Howard,Nashville Ward 6,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,65,15,48,2,0
+Howard,Nashville TWP II,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,59,24,35,0,0
+Howard,Nashville Twp 1,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,178,59,117,2,0
+Howard,Mineral Springs TWP,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,8,4,4,0,0
+Howard,Mineral Springs 1,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,7,6,1,0,0
+Howard,Mineral Springs 2,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,26,16,9,1,0
+Howard,Buck Range,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,25,11,14,0,0
+Howard,Blackland,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,15,6,9,0,0
+Howard,Saratoga,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,13,8,4,1,0
+Howard,Franklin,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,9,5,4,0,0
+Howard,Dierks Ward 1,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,11,9,1,1,0
+Howard,Dierks Ward 2,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,12,12,0,0,0
+Howard,Dierks Ward 3,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,32,28,4,0,0
+Howard,Tollette,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,5,5,0,0,0
+Howard,Duckett,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,8,8,0,0,0
+Howard,Mineral Spring 3,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,AGAINST,22,10,12,0,0
+Howard,Umpire,Proposed Ordinance,,NON,FOR,37,28,7,2,0
+Howard,Burg,Proposed Ordinance,,NON,FOR,7,7,0,0,0
+Howard,Mountain,Proposed Ordinance,,NON,FOR,42,38,4,0,0
+Howard,Clay,Proposed Ordinance,,NON,FOR,20,14,6,0,0
+Howard,Blue Ridge,Proposed Ordinance,,NON,FOR,25,18,7,0,0
+Howard,Madison,Proposed Ordinance,,NON,FOR,75,58,17,0,0
+Howard,Holly Creek,Proposed Ordinance,,NON,FOR,42,23,19,0,0
+Howard,Muddy Fork,Proposed Ordinance,,NON,FOR,18,5,13,0,0
+Howard,Brewer,Proposed Ordinance,,NON,FOR,73,28,45,0,0
+Howard,Center Point 1,Proposed Ordinance,,NON,FOR,58,31,23,4,0
+Howard,Center Point 2,Proposed Ordinance,,NON,FOR,33,13,19,1,0
+Howard,Saline,Proposed Ordinance,,NON,FOR,30,13,17,0,0
+Howard,Blue Bayou,Proposed Ordinance,,NON,FOR,19,11,8,0,0
+Howard,County Line,Proposed Ordinance,,NON,FOR,76,32,43,1,0
+Howard,Dillard,Proposed Ordinance,,NON,FOR,46,28,18,0,0
+Howard,Nashville Ward 1,Proposed Ordinance,,NON,FOR,104,27,72,5,0
+Howard,Nashville Ward 2,Proposed Ordinance,,NON,FOR,54,15,38,1,0
+Howard,Nashville Ward 3,Proposed Ordinance,,NON,FOR,83,36,45,2,0
+Howard,Nashville ward 4,Proposed Ordinance,,NON,FOR,56,16,37,3,0
+Howard,Nashville Ward 5,Proposed Ordinance,,NON,FOR,103,25,78,0,0
+Howard,Nashville Ward 6,Proposed Ordinance,,NON,FOR,105,30,73,2,0
+Howard,Nashville TWP II,Proposed Ordinance,,NON,FOR,74,22,52,0,0
+Howard,Nashville Twp 1,Proposed Ordinance,,NON,FOR,198,56,138,4,0
+Howard,Mineral Springs TWP,Proposed Ordinance,,NON,FOR,11,4,7,0,0
+Howard,Mineral Springs 1,Proposed Ordinance,,NON,FOR,42,33,9,0,0
+Howard,Mineral Springs 2,Proposed Ordinance,,NON,FOR,64,38,24,2,0
+Howard,Buck Range,Proposed Ordinance,,NON,FOR,42,21,21,0,0
+Howard,Blackland,Proposed Ordinance,,NON,FOR,19,8,10,0,1
+Howard,Saratoga,Proposed Ordinance,,NON,FOR,28,18,10,0,0
+Howard,Franklin,Proposed Ordinance,,NON,FOR,20,12,7,1,0
+Howard,Dierks Ward 1,Proposed Ordinance,,NON,FOR,29,25,3,1,0
+Howard,Dierks Ward 2,Proposed Ordinance,,NON,FOR,19,17,2,0,0
+Howard,Dierks Ward 3,Proposed Ordinance,,NON,FOR,53,48,4,1,0
+Howard,Tollette,Proposed Ordinance,,NON,FOR,40,28,11,1,0
+Howard,Duckett,Proposed Ordinance,,NON,FOR,11,9,0,2,0
+Howard,Mineral Spring 3,Proposed Ordinance,,NON,FOR,52,32,20,0,0
+Howard,Umpire,Proposed Ordinance,,NON,AGAINST,35,30,5,0,0
+Howard,Burg,Proposed Ordinance,,NON,AGAINST,14,12,2,0,0
+Howard,Mountain,Proposed Ordinance,,NON,AGAINST,16,15,1,0,0
+Howard,Clay,Proposed Ordinance,,NON,AGAINST,18,14,4,0,0
+Howard,Blue Ridge,Proposed Ordinance,,NON,AGAINST,25,16,9,0,0
+Howard,Madison,Proposed Ordinance,,NON,AGAINST,48,37,11,0,0
+Howard,Holly Creek,Proposed Ordinance,,NON,AGAINST,34,22,12,0,0
+Howard,Muddy Fork,Proposed Ordinance,,NON,AGAINST,25,10,15,0,0
+Howard,Brewer,Proposed Ordinance,,NON,AGAINST,56,21,33,1,1
+Howard,Center Point 1,Proposed Ordinance,,NON,AGAINST,46,19,26,1,0
+Howard,Center Point 2,Proposed Ordinance,,NON,AGAINST,23,9,14,0,0
+Howard,Saline,Proposed Ordinance,,NON,AGAINST,23,11,12,0,0
+Howard,Blue Bayou,Proposed Ordinance,,NON,AGAINST,17,6,11,0,0
+Howard,County Line,Proposed Ordinance,,NON,AGAINST,101,49,48,4,0
+Howard,Dillard,Proposed Ordinance,,NON,AGAINST,32,16,16,0,0
+Howard,Nashville Ward 1,Proposed Ordinance,,NON,AGAINST,125,28,93,4,0
+Howard,Nashville Ward 2,Proposed Ordinance,,NON,AGAINST,48,17,29,2,0
+Howard,Nashville Ward 3,Proposed Ordinance,,NON,AGAINST,57,14,43,0,0
+Howard,Nashville ward 4,Proposed Ordinance,,NON,AGAINST,49,16,32,1,0
+Howard,Nashville Ward 5,Proposed Ordinance,,NON,AGAINST,102,32,69,0,1
+Howard,Nashville Ward 6,Proposed Ordinance,,NON,AGAINST,107,24,80,3,0
+Howard,Nashville TWP II,Proposed Ordinance,,NON,AGAINST,70,22,48,0,0
+Howard,Nashville Twp 1,Proposed Ordinance,,NON,AGAINST,170,56,107,7,0
+Howard,Mineral Springs TWP,Proposed Ordinance,,NON,AGAINST,14,6,8,0,0
+Howard,Mineral Springs 1,Proposed Ordinance,,NON,AGAINST,24,17,7,0,0
+Howard,Mineral Springs 2,Proposed Ordinance,,NON,AGAINST,47,28,17,2,0
+Howard,Buck Range,Proposed Ordinance,,NON,AGAINST,44,19,25,0,0
+Howard,Blackland,Proposed Ordinance,,NON,AGAINST,21,15,6,0,0
+Howard,Saratoga,Proposed Ordinance,,NON,AGAINST,31,23,7,1,0
+Howard,Franklin,Proposed Ordinance,,NON,AGAINST,27,17,9,1,0
+Howard,Dierks Ward 1,Proposed Ordinance,,NON,AGAINST,34,28,6,0,0
+Howard,Dierks Ward 2,Proposed Ordinance,,NON,AGAINST,24,19,4,1,0
+Howard,Dierks Ward 3,Proposed Ordinance,,NON,AGAINST,64,49,15,0,0
+Howard,Tollette,Proposed Ordinance,,NON,AGAINST,51,36,15,0,0
+Howard,Duckett,Proposed Ordinance,,NON,AGAINST,11,10,0,1,0
+Howard,Mineral Spring 3,Proposed Ordinance,,NON,AGAINST,40,23,17,0,0
