@@ -1,0 +1,396 @@
+county,precinct,office,district,party,candidate,votes,election_day_paper_ballot,early_vote_ivo_machine,election_day_ivo_machine,early_vote_paper_ballot,absentee
+Pike,Antoine,U.S. President,,DEM,Barack Obama,54,32,2,20,0,0
+Pike,Daisy,U.S. President,,DEM,Barack Obama,28,10,4,11,0,3
+Pike,Delight,U.S. President,,DEM,Barack Obama,57,21,8,23,4,1
+Pike,Glenwood North,U.S. President,,DEM,Barack Obama,42,7,13,22,0,0
+Pike,Glenwood South,U.S. President,,DEM,Barack Obama,73,41,22,9,1,0
+Pike,Kirby,U.S. President,,DEM,Barack Obama,57,28,8,15,1,5
+Pike,Langley/Lodi,U.S. President,,DEM,Barack Obama,11,4,0,6,1,0
+Pike,Murfreesboro East,U.S. President,,DEM,Barack Obama,97,14,46,20,11,6
+Pike,Murfreesboro West,U.S. President,,DEM,Barack Obama,102,24,42,16,10,10
+Pike,Newhope,U.S. President,,DEM,Barack Obama,10,6,0,2,2,0
+Pike,Pisgah,U.S. President,,DEM,Barack Obama,29,8,4,14,3,0
+Pike,Antoine,U.S. President,,DEM,John Wolfe,23,9,4,9,0,1
+Pike,Daisy,U.S. President,,DEM,John Wolfe,84,39,4,39,1,1
+Pike,Delight,U.S. President,,DEM,John Wolfe,176,53,43,68,9,3
+Pike,Glenwood North,U.S. President,,DEM,John Wolfe,90,32,10,44,1,3
+Pike,Glenwood South,U.S. President,,DEM,John Wolfe,176,98,29,39,2,8
+Pike,Kirby,U.S. President,,DEM,John Wolfe,176,90,21,63,1,1
+Pike,Langley/Lodi,U.S. President,,DEM,John Wolfe,72,26,3,39,1,3
+Pike,Murfreesboro East,U.S. President,,DEM,John Wolfe,220,45,92,52,22,9
+Pike,Murfreesboro West,U.S. President,,DEM,John Wolfe,276,68,109,62,28,9
+Pike,Newhope,U.S. President,,DEM,John Wolfe,47,31,0,14,0,2
+Pike,Pisgah,U.S. President,,DEM,John Wolfe,107,41,10,56,0,0
+Pike,Antoine,U.S. Congress District 4,,DEM,DC Morrison,12,7,1,4,0,0
+Pike,Daisy,U.S. Congress District 4,,DEM,DC Morrison,26,12,0,12,0,2
+Pike,Delight,U.S. Congress District 4,,DEM,DC Morrison,55,13,11,25,5,1
+Pike,Glenwood North,U.S. Congress District 4,,DEM,DC Morrison,34,10,5,18,0,1
+Pike,Glenwood South,U.S. Congress District 4,,DEM,DC Morrison,57,40,6,10,1,0
+Pike,Kirby,U.S. Congress District 4,,DEM,DC Morrison,53,28,3,19,0,3
+Pike,Langley/Lodi,U.S. Congress District 4,,DEM,DC Morrison,20,5,0,15,0,0
+Pike,Murfreesboro East,U.S. Congress District 4,,DEM,DC Morrison,76,20,20,19,13,4
+Pike,Murfreesboro West,U.S. Congress District 4,,DEM,DC Morrison,68,24,20,16,4,4
+Pike,Newhope,U.S. Congress District 4,,DEM,DC Morrison,17,10,0,6,1,0
+Pike,Pisgah,U.S. Congress District 4,,DEM,DC Morrison,23,8,1,13,1,0
+Pike,Antoine,U.S. Congress District 4,,DEM,Senator Gene Jeffress,32,15,0,16,0,1
+Pike,Daisy,U.S. Congress District 4,,DEM,Senator Gene Jeffress,48,18,5,23,1,1
+Pike,Delight,U.S. Congress District 4,,DEM,Senator Gene Jeffress,68,13,19,30,5,1
+Pike,Glenwood North,U.S. Congress District 4,,DEM,Senator Gene Jeffress,34,7,9,16,0,2
+Pike,Glenwood South,U.S. Congress District 4,,DEM,Senator Gene Jeffress,74,35,25,10,0,4
+Pike,Kirby,U.S. Congress District 4,,DEM,Senator Gene Jeffress,67,26,8,30,0,3
+Pike,Langley/Lodi,U.S. Congress District 4,,DEM,Senator Gene Jeffress,25,8,1,14,0,2
+Pike,Murfreesboro East,U.S. Congress District 4,,DEM,Senator Gene Jeffress,110,13,62,20,12,3
+Pike,Murfreesboro West,U.S. Congress District 4,,DEM,Senator Gene Jeffress,132,23,61,30,10,8
+Pike,Newhope,U.S. Congress District 4,,DEM,Senator Gene Jeffress,13,9,0,4,0,0
+Pike,Pisgah,U.S. Congress District 4,,DEM,Senator Gene Jeffress,40,12,3,23,2,0
+Pike,Antoine,U.S. Congress District 4,,DEM,Q. Byrum Hurst,34,20,3,11,0,0
+Pike,Daisy,U.S. Congress District 4,,DEM,Q. Byrum Hurst,45,24,5,15,1,0
+Pike,Delight,U.S. Congress District 4,,DEM,Q. Byrum Hurst,99,42,21,31,4,1
+Pike,Glenwood North,U.S. Congress District 4,,DEM,Q. Byrum Hurst,71,23,11,36,1,0
+Pike,Glenwood South,U.S. Congress District 4,,DEM,Q. Byrum Hurst,140,74,31,30,1,4
+Pike,Kirby,U.S. Congress District 4,,DEM,Q. Byrum Hurst,111,56,19,33,2,1
+Pike,Langley/Lodi,U.S. Congress District 4,,DEM,Q. Byrum Hurst,44,18,3,20,2,1
+Pike,Murfreesboro East,U.S. Congress District 4,,DEM,Q. Byrum Hurst,133,25,58,35,7,8
+Pike,Murfreesboro West,U.S. Congress District 4,,DEM,Q. Byrum Hurst,180,44,75,33,22,6
+Pike,Newhope,U.S. Congress District 4,,DEM,Q. Byrum Hurst,29,15,1,11,0,2
+Pike,Pisgah,U.S. Congress District 4,,DEM,Q. Byrum Hurst,63,26,10,27,0,0
+Pike,Antoine,County Judge,,DEM,Don Baker,49,23,1,24,0,1
+Pike,Daisy,County Judge,,DEM,Don Baker,92,39,8,41,1,3
+Pike,Delight,County Judge,,DEM,Don Baker,109,29,25,45,8,2
+Pike,Glenwood North,County Judge,,DEM,Don Baker,121,40,22,57,0,2
+Pike,Glenwood South,County Judge,,DEM,Don Baker,255,138,59,47,3,8
+Pike,Kirby,County Judge,,DEM,Don Baker,195,103,22,62,1,7
+Pike,Langley/Lodi,County Judge,,DEM,Don Baker,74,29,1,44,0,0
+Pike,Murfreesboro East,County Judge,,DEM,Don Baker,112,15,43,33,16,5
+Pike,Murfreesboro West,County Judge,,DEM,Don Baker,114,26,51,18,13,6
+Pike,Newhope,County Judge,,DEM,Don Baker,33,20,0,13,0,0
+Pike,Pisgah,County Judge,,DEM,Don Baker,61,26,7,25,3,0
+Pike,Antoine,County Judge,,DEM,Keith Couch,36,19,6,11,0,0
+Pike,Daisy,County Judge,,DEM,Keith Couch,39,18,2,17,1,1
+Pike,Delight,County Judge,,DEM,Keith Couch,147,50,35,54,6,2
+Pike,Glenwood North,County Judge,,DEM,Keith Couch,31,4,4,21,1,1
+Pike,Glenwood South,County Judge,,DEM,Keith Couch,31,16,8,7,0,0
+Pike,Kirby,County Judge,,DEM,Keith Couch,86,38,13,31,2,2
+Pike,Langley/Lodi,County Judge,,DEM,Keith Couch,28,8,3,12,2,3
+Pike,Murfreesboro East,County Judge,,DEM,Keith Couch,259,51,123,53,22,10
+Pike,Murfreesboro West,County Judge,,DEM,Keith Couch,321,77,129,72,30,13
+Pike,Newhope,County Judge,,DEM,Keith Couch,41,26,1,10,2,2
+Pike,Pisgah,County Judge,,DEM,Keith Couch,86,28,9,48,1,0
+Pike,Antoine,County Treasurer,,DEM,Sara Stewart McKinney,34,21,2,11,0,0
+Pike,Daisy,County Treasurer,,DEM,Sara Stewart McKinney,59,27,2,30,0,0
+Pike,Delight,County Treasurer,,DEM,Sara Stewart McKinney,77,33,15,24,4,1
+Pike,Glenwood North,County Treasurer,,DEM,Sara Stewart McKinney,66,15,9,39,0,3
+Pike,Glenwood South,County Treasurer,,DEM,Sara Stewart McKinney,98,52,28,16,1,1
+Pike,Kirby,County Treasurer,,DEM,Sara Stewart McKinney,149,69,11,59,1,9
+Pike,Langley/Lodi,County Treasurer,,DEM,Sara Stewart McKinney,53,17,1,35,0,0
+Pike,Murfreesboro East,County Treasurer,,DEM,Sara Stewart McKinney,117,21,53,20,16,7
+Pike,Murfreesboro West,County Treasurer,,DEM,Sara Stewart McKinney,130,31,53,31,9,6
+Pike,Newhope,County Treasurer,,DEM,Sara Stewart McKinney,34,22,0,12,0,0
+Pike,Pisgah,County Treasurer,,DEM,Sara Stewart McKinney,32,13,2,16,1,0
+Pike,Antoine,County Treasurer,,DEM,Danny Dougan,14,6,1,7,0,0
+Pike,Daisy,County Treasurer,,DEM,Danny Dougan,32,13,4,12,0,3
+Pike,Delight,County Treasurer,,DEM,Danny Dougan,34,8,10,11,4,1
+Pike,Glenwood North,County Treasurer,,DEM,Danny Dougan,69,25,12,32,0,0
+Pike,Glenwood South,County Treasurer,,DEM,Danny Dougan,137,80,23,31,0,3
+Pike,Kirby,County Treasurer,,DEM,Danny Dougan,54,27,11,16,0,0
+Pike,Langley/Lodi,County Treasurer,,DEM,Danny Dougan,21,11,0,8,0,2
+Pike,Murfreesboro East,County Treasurer,,DEM,Danny Dougan,52,10,19,15,6,2
+Pike,Murfreesboro West,County Treasurer,,DEM,Danny Dougan,83,25,37,8,11,2
+Pike,Newhope,County Treasurer,,DEM,Danny Dougan,10,8,0,0,2,0
+Pike,Pisgah,County Treasurer,,DEM,Danny Dougan,30,12,4,14,0,0
+Pike,Antoine,County Treasurer,,DEM,Loletia Pate Rather,38,16,3,18,0,1
+Pike,Daisy,County Treasurer,,DEM,Loletia Pate Rather,39,17,3,16,2,1
+Pike,Delight,County Treasurer,,DEM,Loletia Pate Rather,142,36,34,64,6,2
+Pike,Glenwood North,County Treasurer,,DEM,Loletia Pate Rather,19,4,5,9,1,0
+Pike,Glenwood South,County Treasurer,,DEM,Loletia Pate Rather,46,22,12,7,1,4
+Pike,Kirby,County Treasurer,,DEM,Loletia Pate Rather,81,48,13,18,2,0
+Pike,Langley/Lodi,County Treasurer,,DEM,Loletia Pate Rather,27,8,3,13,2,1
+Pike,Murfreesboro East,County Treasurer,,DEM,Loletia Pate Rather,201,36,92,51,16,6
+Pike,Murfreesboro West,County Treasurer,,DEM,Loletia Pate Rather,218,46,89,49,22,12
+Pike,Newhope,County Treasurer,,DEM,Loletia Pate Rather,27,14,1,10,0,2
+Pike,Pisgah,County Treasurer,,DEM,Loletia Pate Rather,87,29,10,45,3,0
+Pike,Antoine,Sheriff/Collector,,DEM,Charlie Caldwell,27,11,6,9,0,1
+Pike,Daisy,Sheriff/Collector,,DEM,Charlie Caldwell,80,36,4,37,2,1
+Pike,Delight,Sheriff/Collector,,DEM,Charlie Caldwell,93,21,29,35,7,1
+Pike,Glenwood North,Sheriff/Collector,,DEM,Charlie Caldwell,105,28,17,56,1,3
+Pike,Glenwood South,Sheriff/Collector,,DEM,Charlie Caldwell,207,116,45,37,2,7
+Pike,Kirby,Sheriff/Collector,,DEM,Charlie Caldwell,168,93,12,58,2,3
+Pike,Langley/Lodi,Sheriff/Collector,,DEM,Charlie Caldwell,64,20,1,41,1,1
+Pike,Murfreesboro East,Sheriff/Collector,,DEM,Charlie Caldwell,145,28,60,33,15,9
+Pike,Murfreesboro West,Sheriff/Collector,,DEM,Charlie Caldwell,221,52,101,40,20,8
+Pike,Newhope,Sheriff/Collector,,DEM,Charlie Caldwell,48,27,0,17,2,2
+Pike,Pisgah,Sheriff/Collector,,DEM,Charlie Caldwell,48,18,2,27,1,0
+Pike,Antoine,Sheriff/Collector,,DEM,Preston Pep Glenn,59,32,1,26,0,0
+Pike,Daisy,Sheriff/Collector,,DEM,Preston Pep Glenn,50,21,5,21,0,3
+Pike,Delight,Sheriff/Collector,,DEM,Preston Pep Glenn,163,59,30,64,7,3
+Pike,Glenwood North,Sheriff/Collector,,DEM,Preston Pep Glenn,48,15,9,24,0,0
+Pike,Glenwood South,Sheriff/Collector,,DEM,Preston Pep Glenn,77,38,21,17,0,1
+Pike,Kirby,Sheriff/Collector,,DEM,Preston Pep Glenn,112,50,21,34,1,6
+Pike,Langley/Lodi,Sheriff/Collector,,DEM,Preston Pep Glenn,38,17,3,15,1,2
+Pike,Murfreesboro East,Sheriff/Collector,,DEM,Preston Pep Glenn,226,40,104,53,23,6
+Pike,Murfreesboro West,Sheriff/Collector,,DEM,Preston Pep Glenn,218,51,84,50,22,11
+Pike,Newhope,Sheriff/Collector,,DEM,Preston Pep Glenn,25,19,0,6,0,0
+Pike,Pisgah,Sheriff/Collector,,DEM,Preston Pep Glenn,102,36,14,49,3,0
+Pike,Antoine,Mo. Constable,,DEM,Terry Jackson,32,18,0,14,0,0
+Pike,Delight,Mo. Constable,,DEM,Terry Jackson,104,30,26,40,7,1
+Pike,Murfreesboro East,Mo. Constable,,DEM,Terry Jackson,175,37,78,34,20,6
+Pike,Murfreesboro West,Mo. Constable,,DEM,Terry Jackson,195,44,80,44,21,6
+Pike,Pisgah,Mo. Constable,,DEM,Terry Jackson,67,22,7,37,1,0
+Pike,Antoine,Mo. Constable,,DEM,Ricky Branch,31,15,5,10,0,1
+Pike,Delight,Mo. Constable,,DEM,Ricky Branch,99,29,24,38,7,1
+Pike,Murfreesboro East,Mo. Constable,,DEM,Ricky Branch,183,27,80,50,17,9
+Pike,Murfreesboro West,Mo. Constable,,DEM,Ricky Branch,224,50,99,42,20,13
+Pike,Pisgah,Mo. Constable,,DEM,Ricky Branch,54,21,8,23,2,0
+Pike,Antoine,Conv Del,,DEM,"Wanda Y. O'Neal,(Obama)",38,18,3,16,0,1
+Pike,Daisy,Conv Del,,DEM,"Wanda Y. O'Neal,(Obama)",64,26,6,28,1,3
+Pike,Delight,Conv Del,,DEM,"Wanda Y. O'Neal,(Obama)",109,30,32,41,4,2
+Pike,Glenwood North,Conv Del,,DEM,"Wanda Y. O'Neal,(Obama)",54,15,10,27,1,1
+Pike,Glenwood South,Conv Del,,DEM,"Wanda Y. O'Neal,(Obama)",107,51,25,25,1,5
+Pike,Kirby,Conv Del,,DEM,"Wanda Y. O'Neal,(Obama)",103,40,13,44,0,6
+Pike,Langley/Lodi,Conv Del,,DEM,"Wanda Y. O'Neal,(Obama)",32,11,2,17,1,1
+Pike,Murfreesboro East,Conv Del,,DEM,"Wanda Y. O'Neal,(Obama)",227,39,101,52,21,14
+Pike,Murfreesboro West,Conv Del,,DEM,"Wanda Y. O'Neal,(Obama)",255,59,106,58,20,12
+Pike,Newhope,Conv Del,,DEM,"Wanda Y. O'Neal,(Obama)",19,12,0,5,2,0
+Pike,Pisgah,Conv Del,,DEM,"Wanda Y. O'Neal,(Obama)",66,26,7,33,0,0
+Pike,Antoine,Conv Del,,DEM,"Ed Jones,(Obama)",54,29,4,21,0,0
+Pike,Daisy,Conv Del,,DEM,"Ed Jones,(Obama)",44,17,4,20,1,2
+Pike,Delight,Conv Del,,DEM,"Ed Jones,(Obama)",132,36,31,57,6,2
+Pike,Glenwood North,Conv Del,,DEM,"Ed Jones,(Obama)",46,8,13,24,0,1
+Pike,Glenwood South,Conv Del,,DEM,"Ed Jones,(Obama)",104,46,27,26,0,5
+Pike,Kirby,Conv Del,,DEM,"Ed Jones,(Obama)",94,36,14,38,0,6
+Pike,Langley/Lodi,Conv Del,,DEM,"Ed Jones,(Obama)",29,5,3,19,2,0
+Pike,Murfreesboro East,Conv Del,,DEM,"Ed Jones,(Obama)",190,35,89,38,17,11
+Pike,Murfreesboro West,Conv Del,,DEM,"Ed Jones,(Obama)",198,41,86,41,18,12
+Pike,Newhope,Conv Del,,DEM,"Ed Jones,(Obama)",13,8,0,3,2,0
+Pike,Pisgah,Conv Del,,DEM,"Ed Jones,(Obama)",85,29,10,44,2,0
+Pike,Antoine,Conv Del,,DEM,"Cleta Cooper,(Obama)",35,14,5,16,0,0
+Pike,Daisy,Conv Del,,DEM,"Cleta Cooper,(Obama)",64,25,4,32,1,2
+Pike,Delight,Conv Del,,DEM,"Cleta Cooper,(Obama)",110,35,27,42,5,1
+Pike,Glenwood North,Conv Del,,DEM,"Cleta Cooper,(Obama)",57,13,17,25,1,1
+Pike,Glenwood South,Conv Del,,DEM,"Cleta Cooper,(Obama)",106,58,17,25,1,5
+Pike,Kirby,Conv Del,,DEM,"Cleta Cooper,(Obama)",78,36,10,28,1,3
+Pike,Langley/Lodi,Conv Del,,DEM,"Cleta Cooper,(Obama)",31,8,3,17,2,1
+Pike,Murfreesboro East,Conv Del,,DEM,"Cleta Cooper,(Obama)",192,36,84,48,18,6
+Pike,Murfreesboro West,Conv Del,,DEM,"Cleta Cooper,(Obama)",228,48,95,54,21,10
+Pike,Newhope,Conv Del,,DEM,"Cleta Cooper,(Obama)",18,10,0,6,2,0
+Pike,Pisgah,Conv Del,,DEM,"Cleta Cooper,(Obama)",68,31,8,29,0,0
+Pike,Antoine,Conv Del,,DEM,"Debbie Kay Shukers,(Obama)",20,7,2,10,0,1
+Pike,Daisy,Conv Del,,DEM,"Debbie Kay Shukers,(Obama)",36,13,5,15,0,3
+Pike,Delight,Conv Del,,DEM,"Debbie Kay Shukers,(Obama)",58,14,20,21,2,1
+Pike,Glenwood North,Conv Del,,DEM,"Debbie Kay Shukers,(Obama)",35,9,8,16,1,1
+Pike,Glenwood South,Conv Del,,DEM,"Debbie Kay Shukers,(Obama)",65,33,15,12,0,5
+Pike,Kirby,Conv Del,,DEM,"Debbie Kay Shukers,(Obama)",50,21,4,24,0,1
+Pike,Langley/Lodi,Conv Del,,DEM,"Debbie Kay Shukers,(Obama)",18,5,1,11,0,1
+Pike,Murfreesboro East,Conv Del,,DEM,"Debbie Kay Shukers,(Obama)",153,28,67,36,11,11
+Pike,Murfreesboro West,Conv Del,,DEM,"Debbie Kay Shukers,(Obama)",193,36,88,42,17,10
+Pike,Newhope,Conv Del,,DEM,"Debbie Kay Shukers,(Obama)",8,6,0,1,1,0
+Pike,Pisgah,Conv Del,,DEM,"Debbie Kay Shukers,(Obama)",38,11,3,24,0,0
+Pike,Antoine,Conv Del,,DEM,"Betty Louise Smith,(Obama)",32,13,3,15,0,1
+Pike,Daisy,Conv Del,,DEM,"Betty Louise Smith,(Obama)",46,18,3,23,0,2
+Pike,Delight,Conv Del,,DEM,"Betty Louise Smith,(Obama)",62,19,13,25,5,0
+Pike,Glenwood North,Conv Del,,DEM,"Betty Louise Smith,(Obama)",57,8,17,30,1,1
+Pike,Glenwood South,Conv Del,,DEM,"Betty Louise Smith,(Obama)",114,58,30,23,1,2
+Pike,Kirby,Conv Del,,DEM,"Betty Louise Smith,(Obama)",94,36,12,42,0,4
+Pike,Langley/Lodi,Conv Del,,DEM,"Betty Louise Smith,(Obama)",33,8,2,20,2,1
+Pike,Murfreesboro East,Conv Del,,DEM,"Betty Louise Smith,(Obama)",137,23,63,31,10,10
+Pike,Murfreesboro West,Conv Del,,DEM,"Betty Louise Smith,(Obama)",161,36,68,30,14,13
+Pike,Newhope,Conv Del,,DEM,"Betty Louise Smith,(Obama)",17,8,0,7,2,0
+Pike,Pisgah,Conv Del,,DEM,"Betty Louise Smith,(Obama)",54,20,5,29,0,0
+Pike,Antoine,Conv Del,,DEM,"Danny H. Maxey,(Obama)",16,7,2,6,0,1
+Pike,Daisy,Conv Del,,DEM,"Danny H. Maxey,(Obama)",37,17,2,15,1,2
+Pike,Delight,Conv Del,,DEM,"Danny H. Maxey,(Obama)",81,19,27,27,6,2
+Pike,Glenwood North,Conv Del,,DEM,"Danny H. Maxey,(Obama)",60,18,15,26,1,0
+Pike,Glenwood South,Conv Del,,DEM,"Danny H. Maxey,(Obama)",132,64,38,25,1,4
+Pike,Kirby,Conv Del,,DEM,"Danny H. Maxey,(Obama)",81,33,10,32,1,5
+Pike,Langley/Lodi,Conv Del,,DEM,"Danny H. Maxey,(Obama)",35,9,3,20,2,1
+Pike,Murfreesboro East,Conv Del,,DEM,"Danny H. Maxey,(Obama)",146,20,68,31,15,12
+Pike,Murfreesboro West,Conv Del,,DEM,"Danny H. Maxey,(Obama)",182,32,80,39,19,12
+Pike,Newhope,Conv Del,,DEM,"Danny H. Maxey,(Obama)",15,9,0,5,1,0
+Pike,Pisgah,Conv Del,,DEM,"Danny H. Maxey,(Obama)",43,12,7,23,1,0
+Pike,Antoine,Conv Del,,DEM,"Jesse Abercrombie,(Obama)",24,9,2,12,0,1
+Pike,Daisy,Conv Del,,DEM,"Jesse Abercrombie,(Obama)",35,14,3,15,1,2
+Pike,Delight,Conv Del,,DEM,"Jesse Abercrombie,(Obama)",89,29,19,35,3,3
+Pike,Glenwood North,Conv Del,,DEM,"Jesse Abercrombie,(Obama)",34,8,4,21,0,1
+Pike,Glenwood South,Conv Del,,DEM,"Jesse Abercrombie,(Obama)",70,32,21,12,1,4
+Pike,Kirby,Conv Del,,DEM,"Jesse Abercrombie,(Obama)",48,16,4,23,0,5
+Pike,Langley/Lodi,Conv Del,,DEM,"Jesse Abercrombie,(Obama)",23,4,1,17,1,0
+Pike,Murfreesboro East,Conv Del,,DEM,"Jesse Abercrombie,(Obama)",109,22,53,14,13,7
+Pike,Murfreesboro West,Conv Del,,DEM,"Jesse Abercrombie,(Obama)",99,19,43,22,12,3
+Pike,Newhope,Conv Del,,DEM,"Jesse Abercrombie,(Obama)",13,6,0,6,0,1
+Pike,Pisgah,Conv Del,,DEM,"Jesse Abercrombie,(Obama)",60,24,5,31,0,0
+Pike,Antoine,Unop Dem,,DEM,FOR,64,35,3,25,0,1
+Pike,Daisy,Unop Dem,,DEM,FOR,87,42,5,36,1,3
+Pike,Delight,Unop Dem,,DEM,FOR,157,50,40,51,13,3
+Pike,Glenwood North,Unop Dem,,DEM,FOR,109,32,19,55,1,2
+Pike,Glenwood South,Unop Dem,,DEM,FOR,208,117,46,36,1,8
+Pike,Kirby,Unop Dem,,DEM,FOR,178,92,18,60,1,7
+Pike,Langley/Lodi,Unop Dem,,DEM,FOR,65,24,3,33,2,3
+Pike,Murfreesboro East,Unop Dem,,DEM,FOR,265,61,105,56,28,15
+Pike,Murfreesboro West,Unop Dem,,DEM,FOR,315,79,124,61,33,18
+Pike,Newhope,Unop Dem,,DEM,FOR,38,21,0,13,2,2
+Pike,Pisgah,Unop Dem,,DEM,FOR,97,37,8,49,3,0
+Pike,Antoine,U.S. President,,REP,Newt Gingrich,0,0,0,0,0,0
+Pike,Daisy,U.S. President,,REP,Newt Gingrich,0,0,0,0,0,0
+Pike,Delight,U.S. President,,REP,Newt Gingrich,0,0,0,0,0,0
+Pike,Glenwood North,U.S. President,,REP,Newt Gingrich,2,1,0,1,0,0
+Pike,Glenwood South,U.S. President,,REP,Newt Gingrich,2,0,0,2,0,0
+Pike,Kirby,U.S. President,,REP,Newt Gingrich,2,1,1,0,0,0
+Pike,Langley/Lodi,U.S. President,,REP,Newt Gingrich,0,0,0,0,0,0
+Pike,Murfreesboro East,U.S. President,,REP,Newt Gingrich,0,0,0,0,0,0
+Pike,Murfreesboro West,U.S. President,,REP,Newt Gingrich,2,0,2,0,0,0
+Pike,Newhope,U.S. President,,REP,Newt Gingrich,2,1,0,0,1,0
+Pike,Pisgah,U.S. President,,REP,Newt Gingrich,0,0,0,0,0,0
+Pike,Antoine,U.S. President,,REP,Mitt Romney,6,0,0,6,0,0
+Pike,Daisy,U.S. President,,REP,Mitt Romney,9,5,0,4,0,0
+Pike,Delight,U.S. President,,REP,Mitt Romney,16,4,1,10,1,0
+Pike,Glenwood North,U.S. President,,REP,Mitt Romney,20,10,1,8,0,1
+Pike,Glenwood South,U.S. President,,REP,Mitt Romney,32,11,6,15,0,0
+Pike,Kirby,U.S. President,,REP,Mitt Romney,7,3,3,0,1,0
+Pike,Langley/Lodi,U.S. President,,REP,Mitt Romney,8,5,1,2,0,0
+Pike,Murfreesboro East,U.S. President,,REP,Mitt Romney,10,3,4,0,3,0
+Pike,Murfreesboro West,U.S. President,,REP,Mitt Romney,6,0,4,2,0,0
+Pike,Newhope,U.S. President,,REP,Mitt Romney,17,13,0,3,1,0
+Pike,Pisgah,U.S. President,,REP,Mitt Romney,3,3,0,0,0,0
+Pike,Antoine,U.S. President,,REP,Rick Santorum,1,0,0,1,0,0
+Pike,Daisy,U.S. President,,REP,Rick Santorum,0,0,0,0,0,0
+Pike,Delight,U.S. President,,REP,Rick Santorum,1,0,0,1,0,0
+Pike,Glenwood North,U.S. President,,REP,Rick Santorum,3,2,0,1,0,0
+Pike,Glenwood South,U.S. President,,REP,Rick Santorum,6,2,1,3,0,0
+Pike,Kirby,U.S. President,,REP,Rick Santorum,0,0,0,0,0,0
+Pike,Langley/Lodi,U.S. President,,REP,Rick Santorum,6,4,0,1,0,1
+Pike,Murfreesboro East,U.S. President,,REP,Rick Santorum,5,2,2,1,0,0
+Pike,Murfreesboro West,U.S. President,,REP,Rick Santorum,3,2,1,0,0,0
+Pike,Newhope,U.S. President,,REP,Rick Santorum,4,2,0,2,0,0
+Pike,Pisgah,U.S. President,,REP,Rick Santorum,1,0,1,0,0,0
+Pike,Antoine,U.S. President,,REP,Ron Paul,0,0,0,0,0,0
+Pike,Daisy,U.S. President,,REP,Ron Paul,3,0,0,3,0,0
+Pike,Delight,U.S. President,,REP,Ron Paul,6,1,0,1,4,0
+Pike,Glenwood North,U.S. President,,REP,Ron Paul,4,3,0,1,0,0
+Pike,Glenwood South,U.S. President,,REP,Ron Paul,11,4,0,7,0,0
+Pike,Kirby,U.S. President,,REP,Ron Paul,0,0,0,0,0,0
+Pike,Langley/Lodi,U.S. President,,REP,Ron Paul,2,1,0,1,0,0
+Pike,Murfreesboro East,U.S. President,,REP,Ron Paul,0,0,0,0,0,0
+Pike,Murfreesboro West,U.S. President,,REP,Ron Paul,1,1,0,0,0,0
+Pike,Newhope,U.S. President,,REP,Ron Paul,3,2,0,1,0,0
+Pike,Pisgah,U.S. President,,REP,Ron Paul,2,0,0,0,2,0
+Pike,Antoine,U.S. Congress District 4,,REP,Tom Cotton,5,0,0,5,0,0
+Pike,Daisy,U.S. Congress District 4,,REP,Tom Cotton,3,2,0,1,0,0
+Pike,Delight,U.S. Congress District 4,,REP,Tom Cotton,15,4,0,10,1,0
+Pike,Glenwood North,U.S. Congress District 4,,REP,Tom Cotton,17,12,0,5,0,0
+Pike,Glenwood South,U.S. Congress District 4,,REP,Tom Cotton,27,13,1,13,0,0
+Pike,Kirby,U.S. Congress District 4,,REP,Tom Cotton,8,3,4,0,1,0
+Pike,Langley/Lodi,U.S. Congress District 4,,REP,Tom Cotton,12,8,0,4,0,0
+Pike,Murfreesboro East,U.S. Congress District 4,,REP,Tom Cotton,4,1,1,1,1,0
+Pike,Murfreesboro West,U.S. Congress District 4,,REP,Tom Cotton,4,1,3,0,0,0
+Pike,Newhope,U.S. Congress District 4,,REP,Tom Cotton,11,7,0,2,2,0
+Pike,Pisgah,U.S. Congress District 4,,REP,Tom Cotton,2,0,0,0,2,0
+Pike,Antoine,U.S. Congress District 4,,REP,Beth Anne Rankin,2,0,0,2,0,0
+Pike,Daisy,U.S. Congress District 4,,REP,Beth Anne Rankin,6,2,0,4,0,0
+Pike,Delight,U.S. Congress District 4,,REP,Beth Anne Rankin,8,1,1,2,4,0
+Pike,Glenwood North,U.S. Congress District 4,,REP,Beth Anne Rankin,11,4,1,5,0,1
+Pike,Glenwood South,U.S. Congress District 4,,REP,Beth Anne Rankin,20,3,6,11,0,0
+Pike,Kirby,U.S. Congress District 4,,REP,Beth Anne Rankin,2,1,0,0,1,0
+Pike,Langley/Lodi,U.S. Congress District 4,,REP,Beth Anne Rankin,3,1,1,0,0,1
+Pike,Murfreesboro East,U.S. Congress District 4,,REP,Beth Anne Rankin,10,3,5,0,2,0
+Pike,Murfreesboro West,U.S. Congress District 4,,REP,Beth Anne Rankin,7,1,4,2,0,0
+Pike,Newhope,U.S. Congress District 4,,REP,Beth Anne Rankin,15,11,0,4,0,0
+Pike,Pisgah,U.S. Congress District 4,,REP,Beth Anne Rankin,4,3,1,0,0,0
+Pike,Antoine,U.S. Congress District 4,,REP,John Cowart,0,0,0,0,0,0
+Pike,Daisy,U.S. Congress District 4,,REP,John Cowart,3,1,0,2,0,0
+Pike,Delight,U.S. Congress District 4,,REP,John Cowart,0,0,0,0,0,0
+Pike,Glenwood North,U.S. Congress District 4,,REP,John Cowart,1,0,0,1,0,0
+Pike,Glenwood South,U.S. Congress District 4,,REP,John Cowart,5,2,0,3,0,0
+Pike,Kirby,U.S. Congress District 4,,REP,John Cowart,0,0,0,0,0,0
+Pike,Langley/Lodi,U.S. Congress District 4,,REP,John Cowart,1,1,0,0,0,0
+Pike,Murfreesboro East,U.S. Congress District 4,,REP,John Cowart,0,0,0,0,0,0
+Pike,Murfreesboro West,U.S. Congress District 4,,REP,John Cowart,1,1,0,0,0,0
+Pike,Newhope,U.S. Congress District 4,,REP,John Cowart,0,0,0,0,0,0
+Pike,Pisgah,U.S. Congress District 4,,REP,John Cowart,0,0,0,0,0,0
+Pike,Antoine,Unop Rep,,REP,FOR,5,0,0,5,0,0
+Pike,Daisy,Unop Rep,,REP,FOR,11,5,0,6,0,0
+Pike,Delight,Unop Rep,,REP,FOR,19,3,1,10,5,0
+Pike,Glenwood North,Unop Rep,,REP,FOR,24,15,0,8,0,1
+Pike,Glenwood South,Unop Rep,,REP,FOR,40,16,5,19,0,0
+Pike,Kirby,Unop Rep,,REP,FOR,5,3,1,0,1,0
+Pike,Langley/Lodi,Unop Rep,,REP,FOR,15,9,1,4,0,1
+Pike,Murfreesboro East,Unop Rep,,REP,FOR,11,4,3,1,3,0
+Pike,Murfreesboro West,Unop Rep,,REP,FOR,5,1,3,1,0,0
+Pike,Newhope,Unop Rep,,REP,FOR,18,13,0,3,2,0
+Pike,Pisgah,Unop Rep,,REP,FOR,6,3,1,0,2,0
+Pike,Antoine,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,53,22,3,28,0,0
+Pike,Daisy,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,81,32,6,39,1,3
+Pike,Delight,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,154,46,29,65,11,3
+Pike,Glenwood North,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,122,45,14,60,1,2
+Pike,Glenwood South,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,180,93,36,45,1,5
+Pike,Kirby,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,152,76,21,50,2,3
+Pike,Langley/Lodi,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,59,24,3,28,1,3
+Pike,Murfreesboro East,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,216,33,107,47,20,9
+Pike,Murfreesboro West,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,265,63,110,53,26,13
+Pike,Newhope,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,49,29,0,19,1,0
+Pike,Pisgah,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,80,22,14,39,5,0
+Pike,Antoine,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,25,14,2,9,0,0
+Pike,Daisy,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,47,26,4,15,1,1
+Pike,Delight,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,73,23,19,24,7,0
+Pike,Glenwood North,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,42,9,10,21,0,2
+Pike,Glenwood South,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,112,61,25,22,1,3
+Pike,Kirby,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,75,37,6,25,2,5
+Pike,Langley/Lodi,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,34,12,1,19,1,1
+Pike,Murfreesboro East,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,118,27,40,28,17,6
+Pike,Murfreesboro West,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,123,27,52,29,9,6
+Pike,Newhope,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,28,19,0,4,3,2
+Pike,Pisgah,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,47,23,1,23,0,0
+Pike,Antoine,Court of Appeals Associate Judge District 4, Position 1,,Brandon Harrison,48,25,2,21,0,0
+Pike,Daisy,Court of Appeals Associate Judge District 4, Position 1,,Brandon Harrison,59,28,3,27,0,1
+Pike,Delight,Court of Appeals Associate Judge District 4, Position 1,,Brandon Harrison,117,30,25,48,11,3
+Pike,Glenwood North,Court of Appeals Associate Judge District 4, Position 1,,Brandon Harrison,82,30,8,42,0,2
+Pike,Glenwood South,Court of Appeals Associate Judge District 4, Position 1,,Brandon Harrison,120,71,15,28,2,4
+Pike,Kirby,Court of Appeals Associate Judge District 4, Position 1,,Brandon Harrison,101,54,10,32,3,2
+Pike,Langley/Lodi,Court of Appeals Associate Judge District 4, Position 1,,Brandon Harrison,45,16,1,26,2,0
+Pike,Murfreesboro East,Court of Appeals Associate Judge District 4, Position 1,,Brandon Harrison,159,37,55,40,20,7
+Pike,Murfreesboro West,Court of Appeals Associate Judge District 4, Position 1,,Brandon Harrison,179,53,67,40,11,8
+Pike,Newhope,Court of Appeals Associate Judge District 4, Position 1,,Brandon Harrison,38,25,0,11,2,0
+Pike,Pisgah,Court of Appeals Associate Judge District 4, Position 1,,Brandon Harrison,70,26,6,37,1,0
+Pike,Antoine,Court of Appeals Associate Judge District 4, Position 1,,Circuit Judge Jake Looney,22,10,2,10,0,0
+Pike,Daisy,Court of Appeals Associate Judge District 4, Position 1,,Circuit Judge Jake Looney,63,30,7,22,1,3
+Pike,Delight,Court of Appeals Associate Judge District 4, Position 1,,Circuit Judge Jake Looney,104,37,22,38,7,0
+Pike,Glenwood North,Court of Appeals Associate Judge District 4, Position 1,,Circuit Judge Jake Looney,82,23,16,41,0,2
+Pike,Glenwood South,Court of Appeals Associate Judge District 4, Position 1,,Circuit Judge Jake Looney,165,79,44,38,0,4
+Pike,Kirby,Court of Appeals Associate Judge District 4, Position 1,,Circuit Judge Jake Looney,126,60,16,45,0,5
+Pike,Langley/Lodi,Court of Appeals Associate Judge District 4, Position 1,,Circuit Judge Jake Looney,51,21,3,23,0,4
+Pike,Murfreesboro East,Court of Appeals Associate Judge District 4, Position 1,,Circuit Judge Jake Looney,163,22,89,32,13,7
+Pike,Murfreesboro West,Court of Appeals Associate Judge District 4, Position 1,,Circuit Judge Jake Looney,202,35,97,40,20,10
+Pike,Newhope,Court of Appeals Associate Judge District 4, Position 1,,Circuit Judge Jake Looney,35,19,0,12,2,2
+Pike,Pisgah,Court of Appeals Associate Judge District 4, Position 1,,Circuit Judge Jake Looney,52,18,6,24,4,0
+Pike,Antoine,Dist. Judge,,,Judge Dana Stone,65,29,6,29,0,1
+Pike,Daisy,Dist. Judge,,,Judge Dana Stone,31,10,3,15,0,3
+Pike,Delight,Dist. Judge,,,Judge Dana Stone,203,63,46,79,13,2
+Pike,Glenwood North,Dist. Judge,,,Judge Dana Stone,43,13,4,23,1,2
+Pike,Glenwood South,Dist. Judge,,,Judge Dana Stone,78,35,19,21,1,2
+Pike,Kirby,Dist. Judge,,,Judge Dana Stone,70,35,12,20,0,3
+Pike,Langley/Lodi,Dist. Judge,,,Judge Dana Stone,32,9,4,15,2,2
+Pike,Murfreesboro East,Dist. Judge,,,Judge Dana Stone,220,37,95,58,24,6
+Pike,Murfreesboro West,Dist. Judge,,,Judge Dana Stone,303,65,138,61,25,14
+Pike,Newhope,Dist. Judge,,,Judge Dana Stone,32,22,0,6,2,2
+Pike,Pisgah,Dist. Judge,,,Judge Dana Stone,114,42,16,52,4,0
+Pike,Antoine,Dist. Judge,,,LeAnne Daniel,26,13,0,13,0,0
+Pike,Daisy,Dist. Judge,,,LeAnne Daniel,108,51,6,48,2,1
+Pike,Delight,Dist. Judge,,,LeAnne Daniel,71,20,12,31,6,2
+Pike,Glenwood North,Dist. Judge,,,LeAnne Daniel,140,48,22,68,0,2
+Pike,Glenwood South,Dist. Judge,,,LeAnne Daniel,252,135,54,56,1,6
+Pike,Kirby,Dist. Judge,,,LeAnne Daniel,216,111,25,69,5,6
+Pike,Langley/Lodi,Dist. Judge,,,LeAnne Daniel,84,37,1,44,0,2
+Pike,Murfreesboro East,Dist. Judge,,,LeAnne Daniel,157,31,73,28,16,9
+Pike,Murfreesboro West,Dist. Judge,,,LeAnne Daniel,136,37,50,29,15,5
+Pike,Newhope,Dist. Judge,,,LeAnne Daniel,60,36,0,22,2,0
+Pike,Pisgah,Dist. Judge,,,LeAnne Daniel,34,12,0,20,2,0
+Pike,Antoine,Unop NP,,,FOR,58,28,3,26,0,1
+Pike,Daisy,Unop NP,,,FOR,93,44,4,42,0,3
+Pike,Delight,Unop NP,,,FOR,176,52,34,69,18,3
+Pike,Glenwood North,Unop NP,,,FOR,135,45,21,64,1,4
+Pike,Glenwood South,Unop NP,,,FOR,239,123,50,57,1,8
+Pike,Kirby,Unop NP,,,FOR,171,81,19,62,3,6
+Pike,Langley/Lodi,Unop NP,,,FOR,81,30,4,41,2,4
+Pike,Murfreesboro East,Unop NP,,,FOR,268,54,117,56,26,15
+Pike,Murfreesboro West,Unop NP,,,FOR,321,70,131,75,28,17
+Pike,Newhope,Unop NP,,,FOR,52,32,0,14,4,2
+Pike,Pisgah,Unop NP,,,FOR,100,31,11,53,5,0

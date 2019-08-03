@@ -1,0 +1,647 @@
+county,precinct,office,district,party,candidate,votes,election_day
+Calhoun,Thornton Rural,U.S. President,,REP,Ron Paul,1,1
+Calhoun,Thornton City,U.S. President,,REP,Ron Paul,0,0
+Calhoun,Chambersville,U.S. President,,REP,Ron Paul,2,2
+Calhoun,Chambersville West,U.S. President,,REP,Ron Paul,1,1
+Calhoun,Tinsman Rural,U.S. President,,REP,Ron Paul,0,0
+Calhoun,Tinsman West,U.S. President,,REP,Ron Paul,0,0
+Calhoun,Tinsman City,U.S. President,,REP,Ron Paul,1,1
+Calhoun,Watson Addition,U.S. President,,REP,Ron Paul,0,0
+Calhoun,Harrell Rural 8,U.S. President,,REP,Ron Paul,0,0
+Calhoun,Harrell Rural 7,U.S. President,,REP,Ron Paul,0,0
+Calhoun,Harrell City,U.S. President,,REP,Ron Paul,0,0
+Calhoun,Champagnolle,U.S. President,,REP,Ron Paul,2,2
+Calhoun,Locust,U.S. President,,REP,Ron Paul,2,2
+Calhoun,Woodberry,U.S. President,,REP,Ron Paul,0,0
+Calhoun,Locust North,U.S. President,,REP,Ron Paul,0,0
+Calhoun,Dr. Rhine Park,U.S. President,,REP,Ron Paul,2,2
+Calhoun,Hampton Rural,U.S. President,,REP,Ron Paul,0,0
+Calhoun,Hampton City,U.S. President,,REP,Ron Paul,0,0
+Calhoun,Hampton South Rural,U.S. President,,REP,Ron Paul,0,0
+Calhoun,Hampton South City,U.S. President,,REP,Ron Paul,3,3
+Calhoun,Absentee,U.S. President,,REP,Ron Paul,0,0
+Calhoun,Thornton Rural,U.S. President,,REP,Newt Gingrich,1,1
+Calhoun,Thornton City,U.S. President,,REP,Newt Gingrich,0,0
+Calhoun,Chambersville,U.S. President,,REP,Newt Gingrich,0,0
+Calhoun,Chambersville West,U.S. President,,REP,Newt Gingrich,0,0
+Calhoun,Tinsman Rural,U.S. President,,REP,Newt Gingrich,0,0
+Calhoun,Tinsman West,U.S. President,,REP,Newt Gingrich,0,0
+Calhoun,Tinsman City,U.S. President,,REP,Newt Gingrich,0,0
+Calhoun,Watson Addition,U.S. President,,REP,Newt Gingrich,1,1
+Calhoun,Harrell Rural 8,U.S. President,,REP,Newt Gingrich,0,0
+Calhoun,Harrell Rural 7,U.S. President,,REP,Newt Gingrich,0,0
+Calhoun,Harrell City,U.S. President,,REP,Newt Gingrich,0,0
+Calhoun,Champagnolle,U.S. President,,REP,Newt Gingrich,0,0
+Calhoun,Locust,U.S. President,,REP,Newt Gingrich,0,0
+Calhoun,Woodberry,U.S. President,,REP,Newt Gingrich,0,0
+Calhoun,Locust North,U.S. President,,REP,Newt Gingrich,0,0
+Calhoun,Dr. Rhine Park,U.S. President,,REP,Newt Gingrich,0,0
+Calhoun,Hampton Rural,U.S. President,,REP,Newt Gingrich,0,0
+Calhoun,Hampton City,U.S. President,,REP,Newt Gingrich,2,2
+Calhoun,Hampton South Rural,U.S. President,,REP,Newt Gingrich,0,0
+Calhoun,Hampton South City,U.S. President,,REP,Newt Gingrich,0,0
+Calhoun,Absentee,U.S. President,,REP,Newt Gingrich,0,0
+Calhoun,Thornton Rural,U.S. President,,REP,Mitt Romney,11,11
+Calhoun,Thornton City,U.S. President,,REP,Mitt Romney,4,4
+Calhoun,Chambersville,U.S. President,,REP,Mitt Romney,11,11
+Calhoun,Chambersville West,U.S. President,,REP,Mitt Romney,2,2
+Calhoun,Tinsman Rural,U.S. President,,REP,Mitt Romney,0,0
+Calhoun,Tinsman West,U.S. President,,REP,Mitt Romney,1,1
+Calhoun,Tinsman City,U.S. President,,REP,Mitt Romney,0,0
+Calhoun,Watson Addition,U.S. President,,REP,Mitt Romney,0,0
+Calhoun,Harrell Rural 8,U.S. President,,REP,Mitt Romney,0,0
+Calhoun,Harrell Rural 7,U.S. President,,REP,Mitt Romney,0,0
+Calhoun,Harrell City,U.S. President,,REP,Mitt Romney,0,0
+Calhoun,Champagnolle,U.S. President,,REP,Mitt Romney,2,2
+Calhoun,Locust,U.S. President,,REP,Mitt Romney,12,12
+Calhoun,Woodberry,U.S. President,,REP,Mitt Romney,1,1
+Calhoun,Locust North,U.S. President,,REP,Mitt Romney,1,1
+Calhoun,Dr. Rhine Park,U.S. President,,REP,Mitt Romney,1,1
+Calhoun,Hampton Rural,U.S. President,,REP,Mitt Romney,0,0
+Calhoun,Hampton City,U.S. President,,REP,Mitt Romney,8,8
+Calhoun,Hampton South Rural,U.S. President,,REP,Mitt Romney,2,2
+Calhoun,Hampton South City,U.S. President,,REP,Mitt Romney,7,7
+Calhoun,Absentee,U.S. President,,REP,Mitt Romney,2,2
+Calhoun,Thornton Rural,U.S. President,,REP,Rick Santorum,0,0
+Calhoun,Thornton City,U.S. President,,REP,Rick Santorum,3,3
+Calhoun,Chambersville,U.S. President,,REP,Rick Santorum,4,4
+Calhoun,Chambersville West,U.S. President,,REP,Rick Santorum,2,2
+Calhoun,Tinsman Rural,U.S. President,,REP,Rick Santorum,1,1
+Calhoun,Tinsman West,U.S. President,,REP,Rick Santorum,1,1
+Calhoun,Tinsman City,U.S. President,,REP,Rick Santorum,0,0
+Calhoun,Watson Addition,U.S. President,,REP,Rick Santorum,0,0
+Calhoun,Harrell Rural 8,U.S. President,,REP,Rick Santorum,0,0
+Calhoun,Harrell Rural 7,U.S. President,,REP,Rick Santorum,0,0
+Calhoun,Harrell City,U.S. President,,REP,Rick Santorum,0,0
+Calhoun,Champagnolle,U.S. President,,REP,Rick Santorum,2,2
+Calhoun,Locust,U.S. President,,REP,Rick Santorum,4,4
+Calhoun,Woodberry,U.S. President,,REP,Rick Santorum,2,2
+Calhoun,Locust North,U.S. President,,REP,Rick Santorum,0,0
+Calhoun,Dr. Rhine Park,U.S. President,,REP,Rick Santorum,0,0
+Calhoun,Hampton Rural,U.S. President,,REP,Rick Santorum,0,0
+Calhoun,Hampton City,U.S. President,,REP,Rick Santorum,0,0
+Calhoun,Hampton South Rural,U.S. President,,REP,Rick Santorum,1,1
+Calhoun,Hampton South City,U.S. President,,REP,Rick Santorum,0,0
+Calhoun,Absentee,U.S. President,,REP,Rick Santorum,0,0
+Calhoun,Thornton Rural,U.S. Congress District 4,,REP,Tom Cotton,2,2
+Calhoun,Thornton City,U.S. Congress District 4,,REP,Tom Cotton,5,5
+Calhoun,Chambersville,U.S. Congress District 4,,REP,Tom Cotton,3,3
+Calhoun,Chambersville West,U.S. Congress District 4,,REP,Tom Cotton,4,4
+Calhoun,Tinsman Rural,U.S. Congress District 4,,REP,Tom Cotton,1,1
+Calhoun,Tinsman West,U.S. Congress District 4,,REP,Tom Cotton,1,1
+Calhoun,Tinsman City,U.S. Congress District 4,,REP,Tom Cotton,0,0
+Calhoun,Watson Addition,U.S. Congress District 4,,REP,Tom Cotton,1,1
+Calhoun,Harrell Rural 8,U.S. Congress District 4,,REP,Tom Cotton,0,0
+Calhoun,Harrell Rural 7,U.S. Congress District 4,,REP,Tom Cotton,0,0
+Calhoun,Harrell City,U.S. Congress District 4,,REP,Tom Cotton,0,0
+Calhoun,Champagnolle,U.S. Congress District 4,,REP,Tom Cotton,2,2
+Calhoun,Locust,U.S. Congress District 4,,REP,Tom Cotton,12,12
+Calhoun,Woodberry,U.S. Congress District 4,,REP,Tom Cotton,0,0
+Calhoun,Locust North,U.S. Congress District 4,,REP,Tom Cotton,1,1
+Calhoun,Dr. Rhine Park,U.S. Congress District 4,,REP,Tom Cotton,2,2
+Calhoun,Hampton Rural,U.S. Congress District 4,,REP,Tom Cotton,0,0
+Calhoun,Hampton City,U.S. Congress District 4,,REP,Tom Cotton,5,5
+Calhoun,Hampton South Rural,U.S. Congress District 4,,REP,Tom Cotton,0,0
+Calhoun,Hampton South City,U.S. Congress District 4,,REP,Tom Cotton,4,4
+Calhoun,Absentee,U.S. Congress District 4,,REP,Tom Cotton,0,0
+Calhoun,Thornton Rural,U.S. Congress District 4,,REP,John Cowart,0,0
+Calhoun,Thornton City,U.S. Congress District 4,,REP,John Cowart,0,0
+Calhoun,Chambersville,U.S. Congress District 4,,REP,John Cowart,0,0
+Calhoun,Chambersville West,U.S. Congress District 4,,REP,John Cowart,0,0
+Calhoun,Tinsman Rural,U.S. Congress District 4,,REP,John Cowart,0,0
+Calhoun,Tinsman West,U.S. Congress District 4,,REP,John Cowart,0,0
+Calhoun,Tinsman City,U.S. Congress District 4,,REP,John Cowart,0,0
+Calhoun,Watson Addition,U.S. Congress District 4,,REP,John Cowart,0,0
+Calhoun,Harrell Rural 8,U.S. Congress District 4,,REP,John Cowart,0,0
+Calhoun,Harrell Rural 7,U.S. Congress District 4,,REP,John Cowart,0,0
+Calhoun,Harrell City,U.S. Congress District 4,,REP,John Cowart,0,0
+Calhoun,Champagnolle,U.S. Congress District 4,,REP,John Cowart,0,0
+Calhoun,Locust,U.S. Congress District 4,,REP,John Cowart,1,1
+Calhoun,Woodberry,U.S. Congress District 4,,REP,John Cowart,0,0
+Calhoun,Locust North,U.S. Congress District 4,,REP,John Cowart,0,0
+Calhoun,Dr. Rhine Park,U.S. Congress District 4,,REP,John Cowart,0,0
+Calhoun,Hampton Rural,U.S. Congress District 4,,REP,John Cowart,0,0
+Calhoun,Hampton City,U.S. Congress District 4,,REP,John Cowart,1,1
+Calhoun,Hampton South Rural,U.S. Congress District 4,,REP,John Cowart,0,0
+Calhoun,Hampton South City,U.S. Congress District 4,,REP,John Cowart,2,2
+Calhoun,Absentee,U.S. Congress District 4,,REP,John Cowart,0,0
+Calhoun,Thornton Rural,U.S. Congress District 4,,REP,Beth Anne Rankin,11,11
+Calhoun,Thornton City,U.S. Congress District 4,,REP,Beth Anne Rankin,2,2
+Calhoun,Chambersville,U.S. Congress District 4,,REP,Beth Anne Rankin,14,14
+Calhoun,Chambersville West,U.S. Congress District 4,,REP,Beth Anne Rankin,1,1
+Calhoun,Tinsman Rural,U.S. Congress District 4,,REP,Beth Anne Rankin,0,0
+Calhoun,Tinsman West,U.S. Congress District 4,,REP,Beth Anne Rankin,1,1
+Calhoun,Tinsman City,U.S. Congress District 4,,REP,Beth Anne Rankin,1,1
+Calhoun,Watson Addition,U.S. Congress District 4,,REP,Beth Anne Rankin,0,0
+Calhoun,Harrell Rural 8,U.S. Congress District 4,,REP,Beth Anne Rankin,0,0
+Calhoun,Harrell Rural 7,U.S. Congress District 4,,REP,Beth Anne Rankin,0,0
+Calhoun,Harrell City,U.S. Congress District 4,,REP,Beth Anne Rankin,0,0
+Calhoun,Champagnolle,U.S. Congress District 4,,REP,Beth Anne Rankin,4,4
+Calhoun,Locust,U.S. Congress District 4,,REP,Beth Anne Rankin,5,5
+Calhoun,Woodberry,U.S. Congress District 4,,REP,Beth Anne Rankin,3,3
+Calhoun,Locust North,U.S. Congress District 4,,REP,Beth Anne Rankin,0,0
+Calhoun,Dr. Rhine Park,U.S. Congress District 4,,REP,Beth Anne Rankin,1,1
+Calhoun,Hampton Rural,U.S. Congress District 4,,REP,Beth Anne Rankin,0,0
+Calhoun,Hampton City,U.S. Congress District 4,,REP,Beth Anne Rankin,5,5
+Calhoun,Hampton South Rural,U.S. Congress District 4,,REP,Beth Anne Rankin,3,3
+Calhoun,Hampton South City,U.S. Congress District 4,,REP,Beth Anne Rankin,4,4
+Calhoun,Absentee,U.S. Congress District 4,,REP,Beth Anne Rankin,2,2
+Calhoun,Thornton Rural,Unopposed Republican Candidates,,REP,For,10,10
+Calhoun,Thornton City,Unopposed Republican Candidates,,REP,For,5,5
+Calhoun,Chambersville,Unopposed Republican Candidates,,REP,For,15,15
+Calhoun,Chambersville West,Unopposed Republican Candidates,,REP,For,3,3
+Calhoun,Tinsman Rural,Unopposed Republican Candidates,,REP,For,0,0
+Calhoun,Tinsman West,Unopposed Republican Candidates,,REP,For,2,2
+Calhoun,Tinsman City,Unopposed Republican Candidates,,REP,For,0,0
+Calhoun,Watson Addition,Unopposed Republican Candidates,,REP,For,1,1
+Calhoun,Harrell Rural 8,Unopposed Republican Candidates,,REP,For,0,0
+Calhoun,Harrell Rural 7,Unopposed Republican Candidates,,REP,For,0,0
+Calhoun,Harrell City,Unopposed Republican Candidates,,REP,For,0,0
+Calhoun,Champagnolle,Unopposed Republican Candidates,,REP,For,4,4
+Calhoun,Locust,Unopposed Republican Candidates,,REP,For,13,13
+Calhoun,Woodberry,Unopposed Republican Candidates,,REP,For,2,2
+Calhoun,Locust North,Unopposed Republican Candidates,,REP,For,0,0
+Calhoun,Dr. Rhine Park,Unopposed Republican Candidates,,REP,For,1,1
+Calhoun,Hampton Rural,Unopposed Republican Candidates,,REP,For,0,0
+Calhoun,Hampton City,Unopposed Republican Candidates,,REP,For,9,9
+Calhoun,Hampton South Rural,Unopposed Republican Candidates,,REP,For,1,1
+Calhoun,Hampton South City,Unopposed Republican Candidates,,REP,For,7,7
+Calhoun,Absentee,Unopposed Republican Candidates,,REP,For,0,0
+Calhoun,Thornton Rural,U.S. President,,DEM,Barack Obama,3,3
+Calhoun,Thornton City,U.S. President,,DEM,Barack Obama,39,39
+Calhoun,Chambersville,U.S. President,,DEM,Barack Obama,20,20
+Calhoun,Chambersville West,U.S. President,,DEM,Barack Obama,4,4
+Calhoun,Tinsman Rural,U.S. President,,DEM,Barack Obama,6,6
+Calhoun,Tinsman West,U.S. President,,DEM,Barack Obama,8,8
+Calhoun,Tinsman City,U.S. President,,DEM,Barack Obama,2,2
+Calhoun,Watson Addition,U.S. President,,DEM,Barack Obama,15,15
+Calhoun,Harrell Rural 8,U.S. President,,DEM,Barack Obama,30,30
+Calhoun,Harrell Rural 7,U.S. President,,DEM,Barack Obama,3,3
+Calhoun,Harrell City,U.S. President,,DEM,Barack Obama,26,26
+Calhoun,Champagnolle,U.S. President,,DEM,Barack Obama,35,35
+Calhoun,Locust,U.S. President,,DEM,Barack Obama,24,24
+Calhoun,Woodberry,U.S. President,,DEM,Barack Obama,12,12
+Calhoun,Locust North,U.S. President,,DEM,Barack Obama,3,3
+Calhoun,Dr. Rhine Park,U.S. President,,DEM,Barack Obama,0,0
+Calhoun,Hampton Rural,U.S. President,,DEM,Barack Obama,1,1
+Calhoun,Hampton City,U.S. President,,DEM,Barack Obama,59,59
+Calhoun,Hampton South Rural,U.S. President,,DEM,Barack Obama,1,1
+Calhoun,Hampton South City,U.S. President,,DEM,Barack Obama,86,86
+Calhoun,Absentee,U.S. President,,DEM,Barack Obama,19,19
+Calhoun,Thornton Rural,U.S. President,,DEM,John Wolfe,17,17
+Calhoun,Thornton City,U.S. President,,DEM,John Wolfe,29,29
+Calhoun,Chambersville,U.S. President,,DEM,John Wolfe,44,44
+Calhoun,Chambersville West,U.S. President,,DEM,John Wolfe,6,6
+Calhoun,Tinsman Rural,U.S. President,,DEM,John Wolfe,43,43
+Calhoun,Tinsman West,U.S. President,,DEM,John Wolfe,48,48
+Calhoun,Tinsman City,U.S. President,,DEM,John Wolfe,9,9
+Calhoun,Watson Addition,U.S. President,,DEM,John Wolfe,25,25
+Calhoun,Harrell Rural 8,U.S. President,,DEM,John Wolfe,42,42
+Calhoun,Harrell Rural 7,U.S. President,,DEM,John Wolfe,5,5
+Calhoun,Harrell City,U.S. President,,DEM,John Wolfe,40,40
+Calhoun,Champagnolle,U.S. President,,DEM,John Wolfe,116,116
+Calhoun,Locust,U.S. President,,DEM,John Wolfe,78,78
+Calhoun,Woodberry,U.S. President,,DEM,John Wolfe,71,71
+Calhoun,Locust North,U.S. President,,DEM,John Wolfe,11,11
+Calhoun,Dr. Rhine Park,U.S. President,,DEM,John Wolfe,4,4
+Calhoun,Hampton Rural,U.S. President,,DEM,John Wolfe,0,0
+Calhoun,Hampton City,U.S. President,,DEM,John Wolfe,114,114
+Calhoun,Hampton South Rural,U.S. President,,DEM,John Wolfe,8,8
+Calhoun,Hampton South City,U.S. President,,DEM,John Wolfe,51,51
+Calhoun,Absentee,U.S. President,,DEM,John Wolfe,30,30
+Calhoun,Thornton Rural,U.S. Congress District 4,,DEM,Senator Gene Jeffress,15,15
+Calhoun,Thornton City,U.S. Congress District 4,,DEM,Senator Gene Jeffress,37,37
+Calhoun,Chambersville,U.S. Congress District 4,,DEM,Senator Gene Jeffress,38,38
+Calhoun,Chambersville West,U.S. Congress District 4,,DEM,Senator Gene Jeffress,5,5
+Calhoun,Tinsman Rural,U.S. Congress District 4,,DEM,Senator Gene Jeffress,41,41
+Calhoun,Tinsman West,U.S. Congress District 4,,DEM,Senator Gene Jeffress,49,49
+Calhoun,Tinsman City,U.S. Congress District 4,,DEM,Senator Gene Jeffress,9,9
+Calhoun,Watson Addition,U.S. Congress District 4,,DEM,Senator Gene Jeffress,33,33
+Calhoun,Harrell Rural 8,U.S. Congress District 4,,DEM,Senator Gene Jeffress,52,52
+Calhoun,Harrell Rural 7,U.S. Congress District 4,,DEM,Senator Gene Jeffress,7,7
+Calhoun,Harrell City,U.S. Congress District 4,,DEM,Senator Gene Jeffress,53,53
+Calhoun,Champagnolle,U.S. Congress District 4,,DEM,Senator Gene Jeffress,118,118
+Calhoun,Locust,U.S. Congress District 4,,DEM,Senator Gene Jeffress,82,82
+Calhoun,Woodberry,U.S. Congress District 4,,DEM,Senator Gene Jeffress,62,62
+Calhoun,Locust North,U.S. Congress District 4,,DEM,Senator Gene Jeffress,9,9
+Calhoun,Dr. Rhine Park,U.S. Congress District 4,,DEM,Senator Gene Jeffress,2,2
+Calhoun,Hampton Rural,U.S. Congress District 4,,DEM,Senator Gene Jeffress,1,1
+Calhoun,Hampton City,U.S. Congress District 4,,DEM,Senator Gene Jeffress,140,140
+Calhoun,Hampton South Rural,U.S. Congress District 4,,DEM,Senator Gene Jeffress,9,9
+Calhoun,Hampton South City,U.S. Congress District 4,,DEM,Senator Gene Jeffress,111,111
+Calhoun,Absentee,U.S. Congress District 4,,DEM,Senator Gene Jeffress,36,36
+Calhoun,Thornton Rural,U.S. Congress District 4,,DEM,Q. Byrum Hurst,4,4
+Calhoun,Thornton City,U.S. Congress District 4,,DEM,Q. Byrum Hurst,23,23
+Calhoun,Chambersville,U.S. Congress District 4,,DEM,Q. Byrum Hurst,25,25
+Calhoun,Chambersville West,U.S. Congress District 4,,DEM,Q. Byrum Hurst,2,2
+Calhoun,Tinsman Rural,U.S. Congress District 4,,DEM,Q. Byrum Hurst,4,4
+Calhoun,Tinsman West,U.S. Congress District 4,,DEM,Q. Byrum Hurst,7,7
+Calhoun,Tinsman City,U.S. Congress District 4,,DEM,Q. Byrum Hurst,1,1
+Calhoun,Watson Addition,U.S. Congress District 4,,DEM,Q. Byrum Hurst,4,4
+Calhoun,Harrell Rural 8,U.S. Congress District 4,,DEM,Q. Byrum Hurst,12,12
+Calhoun,Harrell Rural 7,U.S. Congress District 4,,DEM,Q. Byrum Hurst,0,0
+Calhoun,Harrell City,U.S. Congress District 4,,DEM,Q. Byrum Hurst,9,9
+Calhoun,Champagnolle,U.S. Congress District 4,,DEM,Q. Byrum Hurst,22,22
+Calhoun,Locust,U.S. Congress District 4,,DEM,Q. Byrum Hurst,13,13
+Calhoun,Woodberry,U.S. Congress District 4,,DEM,Q. Byrum Hurst,7,7
+Calhoun,Locust North,U.S. Congress District 4,,DEM,Q. Byrum Hurst,2,2
+Calhoun,Dr. Rhine Park,U.S. Congress District 4,,DEM,Q. Byrum Hurst,0,0
+Calhoun,Hampton Rural,U.S. Congress District 4,,DEM,Q. Byrum Hurst,0,0
+Calhoun,Hampton City,U.S. Congress District 4,,DEM,Q. Byrum Hurst,23,23
+Calhoun,Hampton South Rural,U.S. Congress District 4,,DEM,Q. Byrum Hurst,1,1
+Calhoun,Hampton South City,U.S. Congress District 4,,DEM,Q. Byrum Hurst,23,23
+Calhoun,Absentee,U.S. Congress District 4,,DEM,Q. Byrum Hurst,6,6
+Calhoun,Thornton Rural,U.S. Congress District 4,,DEM,DC Morrison,1,1
+Calhoun,Thornton City,U.S. Congress District 4,,DEM,DC Morrison,11,11
+Calhoun,Chambersville,U.S. Congress District 4,,DEM,DC Morrison,7,7
+Calhoun,Chambersville West,U.S. Congress District 4,,DEM,DC Morrison,3,3
+Calhoun,Tinsman Rural,U.S. Congress District 4,,DEM,DC Morrison,7,7
+Calhoun,Tinsman West,U.S. Congress District 4,,DEM,DC Morrison,1,1
+Calhoun,Tinsman City,U.S. Congress District 4,,DEM,DC Morrison,1,1
+Calhoun,Watson Addition,U.S. Congress District 4,,DEM,DC Morrison,5,5
+Calhoun,Harrell Rural 8,U.S. Congress District 4,,DEM,DC Morrison,10,10
+Calhoun,Harrell Rural 7,U.S. Congress District 4,,DEM,DC Morrison,1,1
+Calhoun,Harrell City,U.S. Congress District 4,,DEM,DC Morrison,5,5
+Calhoun,Champagnolle,U.S. Congress District 4,,DEM,DC Morrison,16,16
+Calhoun,Locust,U.S. Congress District 4,,DEM,DC Morrison,11,11
+Calhoun,Woodberry,U.S. Congress District 4,,DEM,DC Morrison,17,17
+Calhoun,Locust North,U.S. Congress District 4,,DEM,DC Morrison,3,3
+Calhoun,Dr. Rhine Park,U.S. Congress District 4,,DEM,DC Morrison,2,2
+Calhoun,Hampton Rural,U.S. Congress District 4,,DEM,DC Morrison,0,0
+Calhoun,Hampton City,U.S. Congress District 4,,DEM,DC Morrison,18,18
+Calhoun,Hampton South Rural,U.S. Congress District 4,,DEM,DC Morrison,2,2
+Calhoun,Hampton South City,U.S. Congress District 4,,DEM,DC Morrison,7,7
+Calhoun,Absentee,U.S. Congress District 4,,DEM,DC Morrison,5,5
+Calhoun,Thornton Rural,State Senate District 27,,DEM,Rep. Bobby J. Pierce,5,5
+Calhoun,Thornton City,State Senate District 27,,DEM,Rep. Bobby J. Pierce,47,47
+Calhoun,Chambersville,State Senate District 27,,DEM,Rep. Bobby J. Pierce,43,43
+Calhoun,Chambersville West,State Senate District 27,,DEM,Rep. Bobby J. Pierce,6,6
+Calhoun,Tinsman Rural,State Senate District 27,,DEM,Rep. Bobby J. Pierce,29,29
+Calhoun,Tinsman West,State Senate District 27,,DEM,Rep. Bobby J. Pierce,31,31
+Calhoun,Tinsman City,State Senate District 27,,DEM,Rep. Bobby J. Pierce,5,5
+Calhoun,Watson Addition,State Senate District 27,,DEM,Rep. Bobby J. Pierce,16,16
+Calhoun,Harrell Rural 8,State Senate District 27,,DEM,Rep. Bobby J. Pierce,37,37
+Calhoun,Harrell Rural 7,State Senate District 27,,DEM,Rep. Bobby J. Pierce,2,2
+Calhoun,Harrell City,State Senate District 27,,DEM,Rep. Bobby J. Pierce,36,36
+Calhoun,Champagnolle,State Senate District 27,,DEM,Rep. Bobby J. Pierce,58,58
+Calhoun,Locust,State Senate District 27,,DEM,Rep. Bobby J. Pierce,30,30
+Calhoun,Woodberry,State Senate District 27,,DEM,Rep. Bobby J. Pierce,35,35
+Calhoun,Locust North,State Senate District 27,,DEM,Rep. Bobby J. Pierce,5,5
+Calhoun,Dr. Rhine Park,State Senate District 27,,DEM,Rep. Bobby J. Pierce,0,0
+Calhoun,Hampton Rural,State Senate District 27,,DEM,Rep. Bobby J. Pierce,1,1
+Calhoun,Hampton City,State Senate District 27,,DEM,Rep. Bobby J. Pierce,109,109
+Calhoun,Hampton South Rural,State Senate District 27,,DEM,Rep. Bobby J. Pierce,6,6
+Calhoun,Hampton South City,State Senate District 27,,DEM,Rep. Bobby J. Pierce,81,81
+Calhoun,Absentee,State Senate District 27,,DEM,Rep. Bobby J. Pierce,20,20
+Calhoun,Thornton Rural,State Senate District 27,,DEM,Rep. Garry L. Smith,15,15
+Calhoun,Thornton City,State Senate District 27,,DEM,Rep. Garry L. Smith,19,19
+Calhoun,Chambersville,State Senate District 27,,DEM,Rep. Garry L. Smith,28,28
+Calhoun,Chambersville West,State Senate District 27,,DEM,Rep. Garry L. Smith,3,3
+Calhoun,Tinsman Rural,State Senate District 27,,DEM,Rep. Garry L. Smith,22,22
+Calhoun,Tinsman West,State Senate District 27,,DEM,Rep. Garry L. Smith,27,27
+Calhoun,Tinsman City,State Senate District 27,,DEM,Rep. Garry L. Smith,6,6
+Calhoun,Watson Addition,State Senate District 27,,DEM,Rep. Garry L. Smith,24,24
+Calhoun,Harrell Rural 8,State Senate District 27,,DEM,Rep. Garry L. Smith,33,33
+Calhoun,Harrell Rural 7,State Senate District 27,,DEM,Rep. Garry L. Smith,6,6
+Calhoun,Harrell City,State Senate District 27,,DEM,Rep. Garry L. Smith,27,27
+Calhoun,Champagnolle,State Senate District 27,,DEM,Rep. Garry L. Smith,94,94
+Calhoun,Locust,State Senate District 27,,DEM,Rep. Garry L. Smith,78,78
+Calhoun,Woodberry,State Senate District 27,,DEM,Rep. Garry L. Smith,49,49
+Calhoun,Locust North,State Senate District 27,,DEM,Rep. Garry L. Smith,9,9
+Calhoun,Dr. Rhine Park,State Senate District 27,,DEM,Rep. Garry L. Smith,4,4
+Calhoun,Hampton Rural,State Senate District 27,,DEM,Rep. Garry L. Smith,0,0
+Calhoun,Hampton City,State Senate District 27,,DEM,Rep. Garry L. Smith,70,70
+Calhoun,Hampton South Rural,State Senate District 27,,DEM,Rep. Garry L. Smith,6,6
+Calhoun,Hampton South City,State Senate District 27,,DEM,Rep. Garry L. Smith,53,53
+Calhoun,Absentee,State Senate District 27,,DEM,Rep. Garry L. Smith,25,25
+Calhoun,Harrell Rural 7,State Representative District 7,,DEM,Albert Glenn Glover,1,1
+Calhoun,Champagnolle,State Representative District 7,,DEM,Albert Glenn Glover,35,35
+Calhoun,Locust,State Representative District 7,,DEM,Albert Glenn Glover,16,16
+Calhoun,Locust North,State Representative District 7,,DEM,Albert Glenn Glover,2,2
+Calhoun,Hampton Rural,State Representative District 7,,DEM,Albert Glenn Glover,0,0
+Calhoun,Hampton South Rural,State Representative District 7,,DEM,Albert Glenn Glover,0,0
+Calhoun,Absentee,State Representative District 7,,DEM,Albert Glenn Glover,5,5
+Calhoun,Harrell Rural 7,State Representative District 7,,DEM,Justice of the Peace John Baine,4,4
+Calhoun,Champagnolle,State Representative District 7,,DEM,Justice of the Peace John Baine,73,73
+Calhoun,Locust,State Representative District 7,,DEM,Justice of the Peace John Baine,57,57
+Calhoun,Locust North,State Representative District 7,,DEM,Justice of the Peace John Baine,7,7
+Calhoun,Hampton Rural,State Representative District 7,,DEM,Justice of the Peace John Baine,1,1
+Calhoun,Hampton South Rural,State Representative District 7,,DEM,Justice of the Peace John Baine,6,6
+Calhoun,Absentee,State Representative District 7,,DEM,Justice of the Peace John Baine,12,12
+Calhoun,Harrell Rural 7,State Representative District 7,,DEM,James McMenis,3,3
+Calhoun,Champagnolle,State Representative District 7,,DEM,James McMenis,43,43
+Calhoun,Locust,State Representative District 7,,DEM,James McMenis,31,31
+Calhoun,Locust North,State Representative District 7,,DEM,James McMenis,4,4
+Calhoun,Hampton Rural,State Representative District 7,,DEM,James McMenis,0,0
+Calhoun,Hampton South Rural,State Representative District 7,,DEM,James McMenis,6,6
+Calhoun,Absentee,State Representative District 7,,DEM,James McMenis,6,6
+Calhoun,Thornton Rural,Clerk,,DEM,Sonya Harrell,4,4
+Calhoun,Thornton City,Clerk,,DEM,Sonya Harrell,14,14
+Calhoun,Chambersville,Clerk,,DEM,Sonya Harrell,21,21
+Calhoun,Chambersville West,Clerk,,DEM,Sonya Harrell,4,4
+Calhoun,Tinsman Rural,Clerk,,DEM,Sonya Harrell,24,24
+Calhoun,Tinsman West,Clerk,,DEM,Sonya Harrell,26,26
+Calhoun,Tinsman City,Clerk,,DEM,Sonya Harrell,5,5
+Calhoun,Watson Addition,Clerk,,DEM,Sonya Harrell,21,21
+Calhoun,Harrell Rural 8,Clerk,,DEM,Sonya Harrell,43,43
+Calhoun,Harrell Rural 7,Clerk,,DEM,Sonya Harrell,0,0
+Calhoun,Harrell City,Clerk,,DEM,Sonya Harrell,42,42
+Calhoun,Champagnolle,Clerk,,DEM,Sonya Harrell,74,74
+Calhoun,Locust,Clerk,,DEM,Sonya Harrell,50,50
+Calhoun,Woodberry,Clerk,,DEM,Sonya Harrell,49,49
+Calhoun,Locust North,Clerk,,DEM,Sonya Harrell,8,8
+Calhoun,Dr. Rhine Park,Clerk,,DEM,Sonya Harrell,0,0
+Calhoun,Hampton Rural,Clerk,,DEM,Sonya Harrell,0,0
+Calhoun,Hampton City,Clerk,,DEM,Sonya Harrell,88,88
+Calhoun,Hampton South Rural,Clerk,,DEM,Sonya Harrell,6,6
+Calhoun,Hampton South City,Clerk,,DEM,Sonya Harrell,57,57
+Calhoun,Absentee,Clerk,,DEM,Sonya Harrell,21,21
+Calhoun,Thornton Rural,Clerk,,DEM,Alma Davis,17,17
+Calhoun,Thornton City,Clerk,,DEM,Alma Davis,57,57
+Calhoun,Chambersville,Clerk,,DEM,Alma Davis,54,54
+Calhoun,Chambersville West,Clerk,,DEM,Alma Davis,6,6
+Calhoun,Tinsman Rural,Clerk,,DEM,Alma Davis,28,28
+Calhoun,Tinsman West,Clerk,,DEM,Alma Davis,33,33
+Calhoun,Tinsman City,Clerk,,DEM,Alma Davis,6,6
+Calhoun,Watson Addition,Clerk,,DEM,Alma Davis,23,23
+Calhoun,Harrell Rural 8,Clerk,,DEM,Alma Davis,34,34
+Calhoun,Harrell Rural 7,Clerk,,DEM,Alma Davis,8,8
+Calhoun,Harrell City,Clerk,,DEM,Alma Davis,32,32
+Calhoun,Champagnolle,Clerk,,DEM,Alma Davis,84,84
+Calhoun,Locust,Clerk,,DEM,Alma Davis,61,61
+Calhoun,Woodberry,Clerk,,DEM,Alma Davis,37,37
+Calhoun,Locust North,Clerk,,DEM,Alma Davis,6,6
+Calhoun,Dr. Rhine Park,Clerk,,DEM,Alma Davis,4,4
+Calhoun,Hampton Rural,Clerk,,DEM,Alma Davis,1,1
+Calhoun,Hampton City,Clerk,,DEM,Alma Davis,100,100
+Calhoun,Hampton South Rural,Clerk,,DEM,Alma Davis,6,6
+Calhoun,Hampton South City,Clerk,,DEM,Alma Davis,89,89
+Calhoun,Absentee,Clerk,,DEM,Alma Davis,30,30
+Calhoun,Thornton Rural,Assessor,,DEM,Teresa Ables,17,17
+Calhoun,Thornton City,Assessor,,DEM,Teresa Ables,59,59
+Calhoun,Chambersville,Assessor,,DEM,Teresa Ables,68,68
+Calhoun,Chambersville West,Assessor,,DEM,Teresa Ables,4,4
+Calhoun,Tinsman Rural,Assessor,,DEM,Teresa Ables,45,45
+Calhoun,Tinsman West,Assessor,,DEM,Teresa Ables,46,46
+Calhoun,Tinsman City,Assessor,,DEM,Teresa Ables,8,8
+Calhoun,Watson Addition,Assessor,,DEM,Teresa Ables,39,39
+Calhoun,Harrell Rural 8,Assessor,,DEM,Teresa Ables,51,51
+Calhoun,Harrell Rural 7,Assessor,,DEM,Teresa Ables,5,5
+Calhoun,Harrell City,Assessor,,DEM,Teresa Ables,55,55
+Calhoun,Champagnolle,Assessor,,DEM,Teresa Ables,119,119
+Calhoun,Locust,Assessor,,DEM,Teresa Ables,81,81
+Calhoun,Woodberry,Assessor,,DEM,Teresa Ables,69,69
+Calhoun,Locust North,Assessor,,DEM,Teresa Ables,12,12
+Calhoun,Dr. Rhine Park,Assessor,,DEM,Teresa Ables,4,4
+Calhoun,Hampton Rural,Assessor,,DEM,Teresa Ables,1,1
+Calhoun,Hampton City,Assessor,,DEM,Teresa Ables,146,146
+Calhoun,Hampton South Rural,Assessor,,DEM,Teresa Ables,10,10
+Calhoun,Hampton South City,Assessor,,DEM,Teresa Ables,87,87
+Calhoun,Absentee,Assessor,,DEM,Teresa Ables,33,33
+Calhoun,Thornton Rural,Assessor,,DEM,Mary Frances Woods,4,4
+Calhoun,Thornton City,Assessor,,DEM,Mary Frances Woods,12,12
+Calhoun,Chambersville,Assessor,,DEM,Mary Frances Woods,7,7
+Calhoun,Chambersville West,Assessor,,DEM,Mary Frances Woods,6,6
+Calhoun,Tinsman Rural,Assessor,,DEM,Mary Frances Woods,7,7
+Calhoun,Tinsman West,Assessor,,DEM,Mary Frances Woods,13,13
+Calhoun,Tinsman City,Assessor,,DEM,Mary Frances Woods,3,3
+Calhoun,Watson Addition,Assessor,,DEM,Mary Frances Woods,5,5
+Calhoun,Harrell Rural 8,Assessor,,DEM,Mary Frances Woods,26,26
+Calhoun,Harrell Rural 7,Assessor,,DEM,Mary Frances Woods,3,3
+Calhoun,Harrell City,Assessor,,DEM,Mary Frances Woods,21,21
+Calhoun,Champagnolle,Assessor,,DEM,Mary Frances Woods,41,41
+Calhoun,Locust,Assessor,,DEM,Mary Frances Woods,31,31
+Calhoun,Woodberry,Assessor,,DEM,Mary Frances Woods,17,17
+Calhoun,Locust North,Assessor,,DEM,Mary Frances Woods,2,2
+Calhoun,Dr. Rhine Park,Assessor,,DEM,Mary Frances Woods,0,0
+Calhoun,Hampton Rural,Assessor,,DEM,Mary Frances Woods,0,0
+Calhoun,Hampton City,Assessor,,DEM,Mary Frances Woods,42,42
+Calhoun,Hampton South Rural,Assessor,,DEM,Mary Frances Woods,2,2
+Calhoun,Hampton South City,Assessor,,DEM,Mary Frances Woods,61,61
+Calhoun,Absentee,Assessor,,DEM,Mary Frances Woods,16,16
+Calhoun,Thornton Rural,Treasurer,,DEM,Brooke Duncan Bradshaw,9,9
+Calhoun,Thornton City,Treasurer,,DEM,Brooke Duncan Bradshaw,39,39
+Calhoun,Chambersville,Treasurer,,DEM,Brooke Duncan Bradshaw,41,41
+Calhoun,Chambersville West,Treasurer,,DEM,Brooke Duncan Bradshaw,8,8
+Calhoun,Tinsman Rural,Treasurer,,DEM,Brooke Duncan Bradshaw,22,22
+Calhoun,Tinsman West,Treasurer,,DEM,Brooke Duncan Bradshaw,21,21
+Calhoun,Tinsman City,Treasurer,,DEM,Brooke Duncan Bradshaw,5,5
+Calhoun,Watson Addition,Treasurer,,DEM,Brooke Duncan Bradshaw,16,16
+Calhoun,Harrell Rural 8,Treasurer,,DEM,Brooke Duncan Bradshaw,37,37
+Calhoun,Harrell Rural 7,Treasurer,,DEM,Brooke Duncan Bradshaw,3,3
+Calhoun,Harrell City,Treasurer,,DEM,Brooke Duncan Bradshaw,29,29
+Calhoun,Champagnolle,Treasurer,,DEM,Brooke Duncan Bradshaw,63,63
+Calhoun,Locust,Treasurer,,DEM,Brooke Duncan Bradshaw,48,48
+Calhoun,Woodberry,Treasurer,,DEM,Brooke Duncan Bradshaw,39,39
+Calhoun,Locust North,Treasurer,,DEM,Brooke Duncan Bradshaw,3,3
+Calhoun,Dr. Rhine Park,Treasurer,,DEM,Brooke Duncan Bradshaw,1,1
+Calhoun,Hampton Rural,Treasurer,,DEM,Brooke Duncan Bradshaw,1,1
+Calhoun,Hampton City,Treasurer,,DEM,Brooke Duncan Bradshaw,69,69
+Calhoun,Hampton South Rural,Treasurer,,DEM,Brooke Duncan Bradshaw,4,4
+Calhoun,Hampton South City,Treasurer,,DEM,Brooke Duncan Bradshaw,46,46
+Calhoun,Absentee,Treasurer,,DEM,Brooke Duncan Bradshaw,37,37
+Calhoun,Thornton Rural,Treasurer,,DEM,Jennifer Beene,12,12
+Calhoun,Thornton City,Treasurer,,DEM,Jennifer Beene,32,32
+Calhoun,Chambersville,Treasurer,,DEM,Jennifer Beene,35,35
+Calhoun,Chambersville West,Treasurer,,DEM,Jennifer Beene,2,2
+Calhoun,Tinsman Rural,Treasurer,,DEM,Jennifer Beene,30,30
+Calhoun,Tinsman West,Treasurer,,DEM,Jennifer Beene,38,38
+Calhoun,Tinsman City,Treasurer,,DEM,Jennifer Beene,6,6
+Calhoun,Watson Addition,Treasurer,,DEM,Jennifer Beene,29,29
+Calhoun,Harrell Rural 8,Treasurer,,DEM,Jennifer Beene,40,40
+Calhoun,Harrell Rural 7,Treasurer,,DEM,Jennifer Beene,5,5
+Calhoun,Harrell City,Treasurer,,DEM,Jennifer Beene,44,44
+Calhoun,Champagnolle,Treasurer,,DEM,Jennifer Beene,96,96
+Calhoun,Locust,Treasurer,,DEM,Jennifer Beene,63,63
+Calhoun,Woodberry,Treasurer,,DEM,Jennifer Beene,47,47
+Calhoun,Locust North,Treasurer,,DEM,Jennifer Beene,11,11
+Calhoun,Dr. Rhine Park,Treasurer,,DEM,Jennifer Beene,3,3
+Calhoun,Hampton Rural,Treasurer,,DEM,Jennifer Beene,0,0
+Calhoun,Hampton City,Treasurer,,DEM,Jennifer Beene,119,119
+Calhoun,Hampton South Rural,Treasurer,,DEM,Jennifer Beene,8,8
+Calhoun,Hampton South City,Treasurer,,DEM,Jennifer Beene,98,98
+Calhoun,Absentee,Treasurer,,DEM,Jennifer Beene,11,11
+Calhoun,Thornton Rural,Coroner,,DEM,Tony Rinehart,15,15
+Calhoun,Thornton City,Coroner,,DEM,Tony Rinehart,50,50
+Calhoun,Chambersville,Coroner,,DEM,Tony Rinehart,48,48
+Calhoun,Chambersville West,Coroner,,DEM,Tony Rinehart,8,8
+Calhoun,Tinsman Rural,Coroner,,DEM,Tony Rinehart,30,30
+Calhoun,Tinsman West,Coroner,,DEM,Tony Rinehart,39,39
+Calhoun,Tinsman City,Coroner,,DEM,Tony Rinehart,5,5
+Calhoun,Watson Addition,Coroner,,DEM,Tony Rinehart,20,20
+Calhoun,Harrell Rural 8,Coroner,,DEM,Tony Rinehart,52,52
+Calhoun,Harrell Rural 7,Coroner,,DEM,Tony Rinehart,4,4
+Calhoun,Harrell City,Coroner,,DEM,Tony Rinehart,39,39
+Calhoun,Champagnolle,Coroner,,DEM,Tony Rinehart,120,120
+Calhoun,Locust,Coroner,,DEM,Tony Rinehart,76,76
+Calhoun,Woodberry,Coroner,,DEM,Tony Rinehart,47,47
+Calhoun,Locust North,Coroner,,DEM,Tony Rinehart,12,12
+Calhoun,Dr. Rhine Park,Coroner,,DEM,Tony Rinehart,2,2
+Calhoun,Hampton Rural,Coroner,,DEM,Tony Rinehart,1,1
+Calhoun,Hampton City,Coroner,,DEM,Tony Rinehart,121,121
+Calhoun,Hampton South Rural,Coroner,,DEM,Tony Rinehart,8,8
+Calhoun,Hampton South City,Coroner,,DEM,Tony Rinehart,87,87
+Calhoun,Absentee,Coroner,,DEM,Tony Rinehart,34,34
+Calhoun,Thornton Rural,Coroner,,DEM,Roger Adams,6,6
+Calhoun,Thornton City,Coroner,,DEM,Roger Adams,21,21
+Calhoun,Chambersville,Coroner,,DEM,Roger Adams,26,26
+Calhoun,Chambersville West,Coroner,,DEM,Roger Adams,2,2
+Calhoun,Tinsman Rural,Coroner,,DEM,Roger Adams,22,22
+Calhoun,Tinsman West,Coroner,,DEM,Roger Adams,20,20
+Calhoun,Tinsman City,Coroner,,DEM,Roger Adams,6,6
+Calhoun,Watson Addition,Coroner,,DEM,Roger Adams,25,25
+Calhoun,Harrell Rural 8,Coroner,,DEM,Roger Adams,24,24
+Calhoun,Harrell Rural 7,Coroner,,DEM,Roger Adams,4,4
+Calhoun,Harrell City,Coroner,,DEM,Roger Adams,36,36
+Calhoun,Champagnolle,Coroner,,DEM,Roger Adams,39,39
+Calhoun,Locust,Coroner,,DEM,Roger Adams,36,36
+Calhoun,Woodberry,Coroner,,DEM,Roger Adams,39,39
+Calhoun,Locust North,Coroner,,DEM,Roger Adams,2,2
+Calhoun,Dr. Rhine Park,Coroner,,DEM,Roger Adams,2,2
+Calhoun,Hampton Rural,Coroner,,DEM,Roger Adams,0,0
+Calhoun,Hampton City,Coroner,,DEM,Roger Adams,67,67
+Calhoun,Hampton South Rural,Coroner,,DEM,Roger Adams,4,4
+Calhoun,Hampton South City,Coroner,,DEM,Roger Adams,57,57
+Calhoun,Absentee,Coroner,,DEM,Roger Adams,16,16
+Calhoun,Watson Addition,Alderman W2 P2,,DEM,Bill Ingram,17,17
+Calhoun,Hampton City,Alderman W2 P2,,DEM,Bill Ingram,65,65
+Calhoun,Hampton South City,Alderman W2 P2,,DEM,Bill Ingram,56,56
+Calhoun,Absentee,Alderman W2 P2,,DEM,Bill Ingram,6,6
+Calhoun,Watson Addition,Alderman W2 P2,,DEM,Floyd Wesley Gresham,27,27
+Calhoun,Hampton City,Alderman W2 P2,,DEM,Floyd Wesley Gresham,118,118
+Calhoun,Hampton South City,Alderman W2 P2,,DEM,Floyd Wesley Gresham,77,77
+Calhoun,Absentee,Alderman W2 P2,,DEM,Floyd Wesley Gresham,5,5
+Calhoun,Watson Addition,Alderman W3 P1,,DEM,Linda J. Jones,5,5
+Calhoun,Hampton City,Alderman W3 P1,,DEM,Linda J. Jones,58,58
+Calhoun,Hampton South City,Alderman W3 P1,,DEM,Linda J. Jones,41,41
+Calhoun,Absentee,Alderman W3 P1,,DEM,Linda J. Jones,6,6
+Calhoun,Watson Addition,Alderman W3 P1,,DEM,John Henry Thompson,40,40
+Calhoun,Hampton City,Alderman W3 P1,,DEM,John Henry Thompson,124,124
+Calhoun,Hampton South City,Alderman W3 P1,,DEM,John Henry Thompson,100,100
+Calhoun,Absentee,Alderman W3 P1,,DEM,John Henry Thompson,7,7
+Calhoun,Thornton Rural,Unopposed Democrat Candidates,,DEM,For,13,13
+Calhoun,Thornton City,Unopposed Democrat Candidates,,DEM,For,44,44
+Calhoun,Chambersville,Unopposed Democrat Candidates,,DEM,For,30,30
+Calhoun,Chambersville West,Unopposed Democrat Candidates,,DEM,For,7,7
+Calhoun,Tinsman Rural,Unopposed Democrat Candidates,,DEM,For,35,35
+Calhoun,Tinsman West,Unopposed Democrat Candidates,,DEM,For,42,42
+Calhoun,Tinsman City,Unopposed Democrat Candidates,,DEM,For,6,6
+Calhoun,Watson Addition,Unopposed Democrat Candidates,,DEM,For,26,26
+Calhoun,Harrell Rural 8,Unopposed Democrat Candidates,,DEM,For,41,41
+Calhoun,Harrell Rural 7,Unopposed Democrat Candidates,,DEM,For,7,7
+Calhoun,Harrell City,Unopposed Democrat Candidates,,DEM,For,42,42
+Calhoun,Champagnolle,Unopposed Democrat Candidates,,DEM,For,103,103
+Calhoun,Locust,Unopposed Democrat Candidates,,DEM,For,58,58
+Calhoun,Woodberry,Unopposed Democrat Candidates,,DEM,For,54,54
+Calhoun,Locust North,Unopposed Democrat Candidates,,DEM,For,5,5
+Calhoun,Dr. Rhine Park,Unopposed Democrat Candidates,,DEM,For,2,2
+Calhoun,Hampton Rural,Unopposed Democrat Candidates,,DEM,For,1,1
+Calhoun,Hampton City,Unopposed Democrat Candidates,,DEM,For,108,108
+Calhoun,Hampton South Rural,Unopposed Democrat Candidates,,DEM,For,7,7
+Calhoun,Hampton South City,Unopposed Democrat Candidates,,DEM,For,78,78
+Calhoun,Absentee,Unopposed Democrat Candidates,,DEM,For,27,27
+Calhoun,Thornton Rural,District Judge,34,,Tom Wynne,10,10
+Calhoun,Thornton City,District Judge,34,,Tom Wynne,32,32
+Calhoun,Chambersville,District Judge,34,,Tom Wynne,29,29
+Calhoun,Chambersville West,District Judge,34,,Tom Wynne,6,6
+Calhoun,Tinsman Rural,District Judge,34,,Tom Wynne,10,10
+Calhoun,Tinsman West,District Judge,34,,Tom Wynne,14,14
+Calhoun,Tinsman City,District Judge,34,,Tom Wynne,4,4
+Calhoun,Watson Addition,District Judge,34,,Tom Wynne,14,14
+Calhoun,Harrell Rural 8,District Judge,34,,Tom Wynne,37,37
+Calhoun,Harrell Rural 7,District Judge,34,,Tom Wynne,1,1
+Calhoun,Harrell City,District Judge,34,,Tom Wynne,24,24
+Calhoun,Champagnolle,District Judge,34,,Tom Wynne,47,47
+Calhoun,Locust,District Judge,34,,Tom Wynne,41,41
+Calhoun,Woodberry,District Judge,34,,Tom Wynne,29,29
+Calhoun,Locust North,District Judge,34,,Tom Wynne,7,7
+Calhoun,Dr. Rhine Park,District Judge,34,,Tom Wynne,3,3
+Calhoun,Hampton Rural,District Judge,34,,Tom Wynne,0,0
+Calhoun,Hampton City,District Judge,34,,Tom Wynne,61,61
+Calhoun,Hampton South Rural,District Judge,34,,Tom Wynne,1,1
+Calhoun,Hampton South City,District Judge,34,,Tom Wynne,60,60
+Calhoun,Absentee,District Judge,34,,Tom Wynne,11,11
+Calhoun,Thornton Rural,District Judge,34,,Judge Ronnie A. Phillips,24,24
+Calhoun,Thornton City,District Judge,34,,Judge Ronnie A. Phillips,47,47
+Calhoun,Chambersville,District Judge,34,,Judge Ronnie A. Phillips,64,64
+Calhoun,Chambersville West,District Judge,34,,Judge Ronnie A. Phillips,9,9
+Calhoun,Tinsman Rural,District Judge,34,,Judge Ronnie A. Phillips,41,41
+Calhoun,Tinsman West,District Judge,34,,Judge Ronnie A. Phillips,46,46
+Calhoun,Tinsman City,District Judge,34,,Judge Ronnie A. Phillips,8,8
+Calhoun,Watson Addition,District Judge,34,,Judge Ronnie A. Phillips,30,30
+Calhoun,Harrell Rural 8,District Judge,34,,Judge Ronnie A. Phillips,32,32
+Calhoun,Harrell Rural 7,District Judge,34,,Judge Ronnie A. Phillips,7,7
+Calhoun,Harrell City,District Judge,34,,Judge Ronnie A. Phillips,44,44
+Calhoun,Champagnolle,District Judge,34,,Judge Ronnie A. Phillips,117,117
+Calhoun,Locust,District Judge,34,,Judge Ronnie A. Phillips,84,84
+Calhoun,Woodberry,District Judge,34,,Judge Ronnie A. Phillips,59,59
+Calhoun,Locust North,District Judge,34,,Judge Ronnie A. Phillips,8,8
+Calhoun,Dr. Rhine Park,District Judge,34,,Judge Ronnie A. Phillips,4,4
+Calhoun,Hampton Rural,District Judge,34,,Judge Ronnie A. Phillips,1,1
+Calhoun,Hampton City,District Judge,34,,Judge Ronnie A. Phillips,130,130
+Calhoun,Hampton South Rural,District Judge,34,,Judge Ronnie A. Phillips,14,14
+Calhoun,Hampton South City,District Judge,34,,Judge Ronnie A. Phillips,90,90
+Calhoun,Absentee,District Judge,34,,Judge Ronnie A. Phillips,40,40
+Calhoun,Thornton Rural,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,27,27
+Calhoun,Thornton City,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,52,52
+Calhoun,Chambersville,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,54,54
+Calhoun,Chambersville West,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,7,7
+Calhoun,Tinsman Rural,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,33,33
+Calhoun,Tinsman West,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,45,45
+Calhoun,Tinsman City,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,9,9
+Calhoun,Watson Addition,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,30,30
+Calhoun,Harrell Rural 8,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,48,48
+Calhoun,Harrell Rural 7,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,6,6
+Calhoun,Harrell City,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,50,50
+Calhoun,Champagnolle,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,113,113
+Calhoun,Locust,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,81,81
+Calhoun,Woodberry,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,67,67
+Calhoun,Locust North,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,8,8
+Calhoun,Dr. Rhine Park,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,5,5
+Calhoun,Hampton Rural,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,1,1
+Calhoun,Hampton City,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,126,126
+Calhoun,Hampton South Rural,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,10,10
+Calhoun,Hampton South City,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,98,98
+Calhoun,Absentee,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,37,37
+Calhoun,Thornton Rural,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,6,6
+Calhoun,Thornton City,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,21,21
+Calhoun,Chambersville,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,30,30
+Calhoun,Chambersville West,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,7,7
+Calhoun,Tinsman Rural,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,15,15
+Calhoun,Tinsman West,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,10,10
+Calhoun,Tinsman City,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,3,3
+Calhoun,Watson Addition,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,13,13
+Calhoun,Harrell Rural 8,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,12,12
+Calhoun,Harrell Rural 7,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,1,1
+Calhoun,Harrell City,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,13,13
+Calhoun,Champagnolle,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,43,43
+Calhoun,Locust,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,35,35
+Calhoun,Woodberry,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,20,20
+Calhoun,Locust North,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,5,5
+Calhoun,Dr. Rhine Park,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,2,2
+Calhoun,Hampton Rural,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,0,0
+Calhoun,Hampton City,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,55,55
+Calhoun,Hampton South Rural,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,3,3
+Calhoun,Hampton South City,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,43,43
+Calhoun,Absentee,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,5,5
+Calhoun,Thornton Rural,Unopposed Non Partisan,,,For,25,25
+Calhoun,Thornton City,Unopposed Non Partisan,,,For,60,60
+Calhoun,Chambersville,Unopposed Non Partisan,,,For,60,60
+Calhoun,Chambersville West,Unopposed Non Partisan,,,For,12,12
+Calhoun,Tinsman Rural,Unopposed Non Partisan,,,For,36,36
+Calhoun,Tinsman West,Unopposed Non Partisan,,,For,49,49
+Calhoun,Tinsman City,Unopposed Non Partisan,,,For,10,10
+Calhoun,Watson Addition,Unopposed Non Partisan,,,For,32,32
+Calhoun,Harrell Rural 8,Unopposed Non Partisan,,,For,55,55
+Calhoun,Harrell Rural 7,Unopposed Non Partisan,,,For,7,7
+Calhoun,Harrell City,Unopposed Non Partisan,,,For,49,49
+Calhoun,Champagnolle,Unopposed Non Partisan,,,For,125,125
+Calhoun,Locust,Unopposed Non Partisan,,,For,86,86
+Calhoun,Woodberry,Unopposed Non Partisan,,,For,67,67
+Calhoun,Locust North,Unopposed Non Partisan,,,For,8,8
+Calhoun,Dr. Rhine Park,Unopposed Non Partisan,,,For,3,3
+Calhoun,Hampton Rural,Unopposed Non Partisan,,,For,1,1
+Calhoun,Hampton City,Unopposed Non Partisan,,,For,149,149
+Calhoun,Hampton South Rural,Unopposed Non Partisan,,,For,11,11
+Calhoun,Hampton South City,Unopposed Non Partisan,,,For,105,105
+Calhoun,Absentee,Unopposed Non Partisan,,,For,28,28

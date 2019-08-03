@@ -1,0 +1,400 @@
+county,precinct,office,district,party,candidate,votes,absentee,election_day,early_vote
+Grant,Calvert,U.S. President,,DEM,John Wolfe,139,0,95,44
+Grant,Darysaw,U.S. President,,DEM,John Wolfe,42,0,28,14
+Grant,Davis,U.S. President,,DEM,John Wolfe,43,0,34,9
+Grant,Dekalb 1,U.S. President,,DEM,John Wolfe,18,0,15,3
+Grant,Dekalb 2,U.S. President,,DEM,John Wolfe,10,0,10,0
+Grant,Fenter,U.S. President,,DEM,John Wolfe,54,0,47,7
+Grant,Franklin,U.S. President,,DEM,John Wolfe,35,0,33,2
+Grant,Madison,U.S. President,,DEM,John Wolfe,56,0,50,6
+Grant,Merry Green 1,U.S. President,,DEM,John Wolfe,162,0,95,67
+Grant,Merry Green 2,U.S. President,,DEM,John Wolfe,110,0,80,30
+Grant,River,U.S. President,,DEM,John Wolfe,93,0,76,17
+Grant,Simpson 1,U.S. President,,DEM,John Wolfe,57,0,48,9
+Grant,Simpson 2,U.S. President,,DEM,John Wolfe,54,0,42,12
+Grant,Tennessee,U.S. President,,DEM,John Wolfe,72,0,69,3
+Grant,Ward 1,U.S. President,,DEM,John Wolfe,121,0,88,33
+Grant,Ward 2,U.S. President,,DEM,John Wolfe,105,0,64,41
+Grant,Ward 3,U.S. President,,DEM,John Wolfe,109,0,68,41
+Grant,Washington,U.S. President,,DEM,John Wolfe,121,0,93,28
+Grant,Absentee,U.S. President,,DEM,John Wolfe,4,4,0,0
+Grant,Calvert,U.S. President,,DEM,Barack Obama,43,0,26,17
+Grant,Darysaw,U.S. President,,DEM,Barack Obama,49,0,41,8
+Grant,Davis,U.S. President,,DEM,Barack Obama,10,0,10,0
+Grant,Dekalb 1,U.S. President,,DEM,Barack Obama,11,0,10,1
+Grant,Dekalb 2,U.S. President,,DEM,Barack Obama,31,0,30,1
+Grant,Fenter,U.S. President,,DEM,Barack Obama,25,0,21,4
+Grant,Franklin,U.S. President,,DEM,Barack Obama,18,0,15,3
+Grant,Madison,U.S. President,,DEM,Barack Obama,12,0,11,1
+Grant,Merry Green 1,U.S. President,,DEM,Barack Obama,57,0,25,32
+Grant,Merry Green 2,U.S. President,,DEM,Barack Obama,47,0,26,21
+Grant,River,U.S. President,,DEM,Barack Obama,41,0,34,7
+Grant,Simpson 1,U.S. President,,DEM,Barack Obama,24,0,18,6
+Grant,Simpson 2,U.S. President,,DEM,Barack Obama,14,0,13,1
+Grant,Tennessee,U.S. President,,DEM,Barack Obama,17,0,16,1
+Grant,Ward 1,U.S. President,,DEM,Barack Obama,57,0,26,31
+Grant,Ward 2,U.S. President,,DEM,Barack Obama,79,0,48,31
+Grant,Ward 3,U.S. President,,DEM,Barack Obama,53,0,37,16
+Grant,Washington,U.S. President,,DEM,Barack Obama,53,0,40,13
+Grant,Absentee,U.S. President,,DEM,Barack Obama,3,3,0,0
+Grant,Calvert,U.S. Congress District 4,,DEM,DC Morrison,78,0,55,23
+Grant,Darysaw,U.S. Congress District 4,,DEM,DC Morrison,34,0,23,11
+Grant,Davis,U.S. Congress District 4,,DEM,DC Morrison,20,0,14,6
+Grant,Dekalb 1,U.S. Congress District 4,,DEM,DC Morrison,10,0,7,3
+Grant,Dekalb 2,U.S. Congress District 4,,DEM,DC Morrison,13,0,13,0
+Grant,Fenter,U.S. Congress District 4,,DEM,DC Morrison,24,0,21,3
+Grant,Franklin,U.S. Congress District 4,,DEM,DC Morrison,17,0,16,1
+Grant,Madison,U.S. Congress District 4,,DEM,DC Morrison,24,0,21,3
+Grant,Merry Green 1,U.S. Congress District 4,,DEM,DC Morrison,91,0,51,40
+Grant,Merry Green 2,U.S. Congress District 4,,DEM,DC Morrison,59,0,33,26
+Grant,River,U.S. Congress District 4,,DEM,DC Morrison,41,0,36,5
+Grant,Simpson 1,U.S. Congress District 4,,DEM,DC Morrison,33,0,28,5
+Grant,Simpson 2,U.S. Congress District 4,,DEM,DC Morrison,30,0,24,6
+Grant,Tennessee,U.S. Congress District 4,,DEM,DC Morrison,25,0,23,2
+Grant,Ward 1,U.S. Congress District 4,,DEM,DC Morrison,50,0,32,18
+Grant,Ward 2,U.S. Congress District 4,,DEM,DC Morrison,59,0,36,23
+Grant,Ward 3,U.S. Congress District 4,,DEM,DC Morrison,56,0,38,18
+Grant,Washington,U.S. Congress District 4,,DEM,DC Morrison,58,0,47,11
+Grant,Absentee,U.S. Congress District 4,,DEM,DC Morrison,3,3,0,0
+Grant,Calvert,U.S. Congress District 4,,DEM,Q. Byrum Hurst,51,0,33,18
+Grant,Darysaw,U.S. Congress District 4,,DEM,Q. Byrum Hurst,29,0,22,7
+Grant,Davis,U.S. Congress District 4,,DEM,Q. Byrum Hurst,22,0,19,3
+Grant,Dekalb 1,U.S. Congress District 4,,DEM,Q. Byrum Hurst,9,0,9,0
+Grant,Dekalb 2,U.S. Congress District 4,,DEM,Q. Byrum Hurst,18,0,18,0
+Grant,Fenter,U.S. Congress District 4,,DEM,Q. Byrum Hurst,34,0,29,5
+Grant,Franklin,U.S. Congress District 4,,DEM,Q. Byrum Hurst,23,0,20,3
+Grant,Madison,U.S. Congress District 4,,DEM,Q. Byrum Hurst,25,0,23,2
+Grant,Merry Green 1,U.S. Congress District 4,,DEM,Q. Byrum Hurst,69,0,40,29
+Grant,Merry Green 2,U.S. Congress District 4,,DEM,Q. Byrum Hurst,50,0,38,12
+Grant,River,U.S. Congress District 4,,DEM,Q. Byrum Hurst,46,0,41,5
+Grant,Simpson 1,U.S. Congress District 4,,DEM,Q. Byrum Hurst,24,0,19,5
+Grant,Simpson 2,U.S. Congress District 4,,DEM,Q. Byrum Hurst,25,0,21,4
+Grant,Tennessee,U.S. Congress District 4,,DEM,Q. Byrum Hurst,27,0,27,0
+Grant,Ward 1,U.S. Congress District 4,,DEM,Q. Byrum Hurst,53,0,32,21
+Grant,Ward 2,U.S. Congress District 4,,DEM,Q. Byrum Hurst,62,0,35,27
+Grant,Ward 3,U.S. Congress District 4,,DEM,Q. Byrum Hurst,57,0,39,18
+Grant,Washington,U.S. Congress District 4,,DEM,Q. Byrum Hurst,58,0,45,13
+Grant,Absentee,U.S. Congress District 4,,DEM,Q. Byrum Hurst,1,1,0,0
+Grant,Calvert,U.S. Congress District 4,,DEM,Senator Gene Jeffress,51,0,32,19
+Grant,Darysaw,U.S. Congress District 4,,DEM,Senator Gene Jeffress,24,0,18,6
+Grant,Davis,U.S. Congress District 4,,DEM,Senator Gene Jeffress,11,0,8,3
+Grant,Dekalb 1,U.S. Congress District 4,,DEM,Senator Gene Jeffress,9,0,8,1
+Grant,Dekalb 2,U.S. Congress District 4,,DEM,Senator Gene Jeffress,12,0,11,1
+Grant,Fenter,U.S. Congress District 4,,DEM,Senator Gene Jeffress,24,0,20,4
+Grant,Franklin,U.S. Congress District 4,,DEM,Senator Gene Jeffress,15,0,14,1
+Grant,Madison,U.S. Congress District 4,,DEM,Senator Gene Jeffress,19,0,16,3
+Grant,Merry Green 1,U.S. Congress District 4,,DEM,Senator Gene Jeffress,64,0,30,34
+Grant,Merry Green 2,U.S. Congress District 4,,DEM,Senator Gene Jeffress,53,0,37,16
+Grant,River,U.S. Congress District 4,,DEM,Senator Gene Jeffress,44,0,33,11
+Grant,Simpson 1,U.S. Congress District 4,,DEM,Senator Gene Jeffress,22,0,19,3
+Grant,Simpson 2,U.S. Congress District 4,,DEM,Senator Gene Jeffress,11,0,8,3
+Grant,Tennessee,U.S. Congress District 4,,DEM,Senator Gene Jeffress,32,0,31,1
+Grant,Ward 1,U.S. Congress District 4,,DEM,Senator Gene Jeffress,73,0,49,24
+Grant,Ward 2,U.S. Congress District 4,,DEM,Senator Gene Jeffress,65,0,44,21
+Grant,Ward 3,U.S. Congress District 4,,DEM,Senator Gene Jeffress,52,0,31,21
+Grant,Washington,U.S. Congress District 4,,DEM,Senator Gene Jeffress,54,0,39,15
+Grant,Absentee,U.S. Congress District 4,,DEM,Senator Gene Jeffress,3,3,0,0
+Grant,Darysaw,State Senate District 27,,DEM,Rep. Bobby J. Pierce,77,0,54,23
+Grant,Madison,State Senate District 27,,DEM,Rep. Bobby J. Pierce,51,0,44,7
+Grant,Washington,State Senate District 27,,DEM,Rep. Bobby J. Pierce,159,0,127,32
+Grant,Absentee,State Senate District 27,,DEM,Rep. Bobby J. Pierce,2,2,0,0
+Grant,Darysaw,State Senate District 27,,DEM,Rep. Garry L. Smith,15,0,12,3
+Grant,Madison,State Senate District 27,,DEM,Rep. Garry L. Smith,18,0,17,1
+Grant,Washington,State Senate District 27,,DEM,Rep. Garry L. Smith,23,0,14,9
+Grant,Absentee,State Senate District 27,,DEM,Rep. Garry L. Smith,0,0,0,0
+Grant,Calvert,State Representative District 10,,DEM,Judge Mike Holcomb,54,0,36,18
+Grant,Darysaw,State Representative District 10,,DEM,Judge Mike Holcomb,29,0,22,7
+Grant,Madison,State Representative District 10,,DEM,Judge Mike Holcomb,33,0,30,3
+Grant,Absentee,State Representative District 10,,DEM,Judge Mike Holcomb,1,1,0,0
+Grant,Calvert,State Representative District 10,,DEM,Mayor Gene Yarbrough,15,0,12,3
+Grant,Darysaw,State Representative District 10,,DEM,Mayor Gene Yarbrough,3,0,3,0
+Grant,Madison,State Representative District 10,,DEM,Mayor Gene Yarbrough,8,0,8,0
+Grant,Absentee,State Representative District 10,,DEM,Mayor Gene Yarbrough,0,0,0,0
+Grant,Calvert,State Representative District 10,,DEM,Dorothy A. Hall,116,0,75,41
+Grant,Darysaw,State Representative District 10,,DEM,Dorothy A. Hall,63,0,44,19
+Grant,Madison,State Representative District 10,,DEM,Dorothy A. Hall,30,0,26,4
+Grant,Absentee,State Representative District 10,,DEM,Dorothy A. Hall,2,2,0,0
+Grant,Calvert,Sheriff/Collector,,DEM,Ray Vance,145,0,95,50
+Grant,Darysaw,Sheriff/Collector,,DEM,Ray Vance,81,0,57,24
+Grant,Davis,Sheriff/Collector,,DEM,Ray Vance,43,0,32,11
+Grant,Dekalb 1,Sheriff/Collector,,DEM,Ray Vance,25,0,21,4
+Grant,Dekalb 2,Sheriff/Collector,,DEM,Ray Vance,34,0,33,1
+Grant,Fenter,Sheriff/Collector,,DEM,Ray Vance,74,0,62,12
+Grant,Franklin,Sheriff/Collector,,DEM,Ray Vance,39,0,35,4
+Grant,Madison,Sheriff/Collector,,DEM,Ray Vance,53,0,46,7
+Grant,Merry Green 1,Sheriff/Collector,,DEM,Ray Vance,207,0,111,96
+Grant,Merry Green 2,Sheriff/Collector,,DEM,Ray Vance,149,0,95,54
+Grant,River,Sheriff/Collector,,DEM,Ray Vance,128,0,102,26
+Grant,Simpson 1,Sheriff/Collector,,DEM,Ray Vance,62,0,48,14
+Grant,Simpson 2,Sheriff/Collector,,DEM,Ray Vance,48,0,39,9
+Grant,Tennessee,Sheriff/Collector,,DEM,Ray Vance,73,0,70,3
+Grant,Ward 1,Sheriff/Collector,,DEM,Ray Vance,162,0,98,64
+Grant,Ward 2,Sheriff/Collector,,DEM,Ray Vance,165,0,101,64
+Grant,Ward 3,Sheriff/Collector,,DEM,Ray Vance,142,0,95,47
+Grant,Washington,Sheriff/Collector,,DEM,Ray Vance,132,0,103,29
+Grant,Absentee,Sheriff/Collector,,DEM,Ray Vance,5,5,0,0
+Grant,Calvert,Sheriff/Collector,,DEM,Tim Green,40,0,27,13
+Grant,Darysaw,Sheriff/Collector,,DEM,Tim Green,18,0,15,3
+Grant,Davis,Sheriff/Collector,,DEM,Tim Green,14,0,11,3
+Grant,Dekalb 1,Sheriff/Collector,,DEM,Tim Green,3,0,3,0
+Grant,Dekalb 2,Sheriff/Collector,,DEM,Tim Green,9,0,9,0
+Grant,Fenter,Sheriff/Collector,,DEM,Tim Green,11,0,11,0
+Grant,Franklin,Sheriff/Collector,,DEM,Tim Green,19,0,18,1
+Grant,Madison,Sheriff/Collector,,DEM,Tim Green,18,0,17,1
+Grant,Merry Green 1,Sheriff/Collector,,DEM,Tim Green,30,0,18,12
+Grant,Merry Green 2,Sheriff/Collector,,DEM,Tim Green,23,0,18,5
+Grant,River,Sheriff/Collector,,DEM,Tim Green,18,0,16,2
+Grant,Simpson 1,Sheriff/Collector,,DEM,Tim Green,29,0,26,3
+Grant,Simpson 2,Sheriff/Collector,,DEM,Tim Green,21,0,17,4
+Grant,Tennessee,Sheriff/Collector,,DEM,Tim Green,14,0,13,1
+Grant,Ward 1,Sheriff/Collector,,DEM,Tim Green,30,0,21,9
+Grant,Ward 2,Sheriff/Collector,,DEM,Tim Green,29,0,16,13
+Grant,Ward 3,Sheriff/Collector,,DEM,Tim Green,36,0,20,16
+Grant,Washington,Sheriff/Collector,,DEM,Tim Green,52,0,39,13
+Grant,Absentee,Sheriff/Collector,,DEM,Tim Green,2,2,0,0
+Grant,Calvert,Constable,,DEM,Max Polk,53,0,40,13
+Grant,Absentee,Constable,,DEM,Max Polk,0,0,0,0
+Grant,Calvert,Constable,,DEM,"John ""Dub"" Allen",131,0,81,50
+Grant,Absentee,Constable,,DEM,"John ""Dub"" Allen",1,1,0,0
+Grant,Fenter,Constable,,DEM,Brad Austin,64,0,55,9
+Grant,Absentee,Constable,,DEM,Brad Austin,0,0,0,0
+Grant,Fenter,Constable,,DEM,Mike Sims,21,0,18,3
+Grant,Absentee,Constable,,DEM,Mike Sims,1,1,0,0
+Grant,Franklin,Constable,,DEM,Kurt Huffman,35,0,33,2
+Grant,Absentee,Constable,,DEM,Kurt Huffman,0,0,0,0
+Grant,Franklin,Constable,,DEM,Scott Wells,20,0,17,3
+Grant,Absentee,Constable,,DEM,Scott Wells,0,0,0,0
+Grant,Simpson 1,Constable,,DEM,Gary Keeth,27,0,21,6
+Grant,Simpson 2,Constable,,DEM,Gary Keeth,31,0,27,4
+Grant,Absentee,Constable,,DEM,Gary Keeth,0,0,0,0
+Grant,Simpson 1,Constable,,DEM,Louise Lavelle,60,0,51,9
+Grant,Simpson 2,Constable,,DEM,Louise Lavelle,37,0,28,9
+Grant,Absentee,Constable,,DEM,Louise Lavelle,1,1,0,0
+Grant,Calvert,All Unopposed Democratic Candidates,,DEM,FOR,136,0,95,41
+Grant,Darysaw,All Unopposed Democratic Candidates,,DEM,FOR,62,0,42,20
+Grant,Davis,All Unopposed Democratic Candidates,,DEM,FOR,43,0,32,11
+Grant,Dekalb 1,All Unopposed Democratic Candidates,,DEM,FOR,27,0,22,5
+Grant,Dekalb 2,All Unopposed Democratic Candidates,,DEM,FOR,33,0,32,1
+Grant,Fenter,All Unopposed Democratic Candidates,,DEM,FOR,65,0,56,9
+Grant,Franklin,All Unopposed Democratic Candidates,,DEM,FOR,51,0,47,4
+Grant,Madison,All Unopposed Democratic Candidates,,DEM,FOR,55,0,48,7
+Grant,Merry Green 1,All Unopposed Democratic Candidates,,DEM,FOR,183,0,100,83
+Grant,Merry Green 2,All Unopposed Democratic Candidates,,DEM,FOR,133,0,96,37
+Grant,River,All Unopposed Democratic Candidates,,DEM,FOR,110,0,91,19
+Grant,Simpson 1,All Unopposed Democratic Candidates,,DEM,FOR,57,0,47,10
+Grant,Simpson 2,All Unopposed Democratic Candidates,,DEM,FOR,48,0,37,11
+Grant,Tennessee,All Unopposed Democratic Candidates,,DEM,FOR,69,0,67,2
+Grant,Ward 1,All Unopposed Democratic Candidates,,DEM,FOR,145,0,97,48
+Grant,Ward 2,All Unopposed Democratic Candidates,,DEM,FOR,162,0,102,60
+Grant,Ward 3,All Unopposed Democratic Candidates,,DEM,FOR,136,0,92,44
+Grant,Washington,All Unopposed Democratic Candidates,,DEM,FOR,132,0,102,30
+Grant,Absentee,All Unopposed Democratic Candidates,,DEM,FOR,6,6,0,0
+Grant,Calvert,U.S. President,,REP,Ron Paul,9,0,8,1
+Grant,Darysaw,U.S. President,,REP,Ron Paul,0,0,0,0
+Grant,Davis,U.S. President,,REP,Ron Paul,2,0,2,0
+Grant,Dekalb 1,U.S. President,,REP,Ron Paul,2,0,2,0
+Grant,Dekalb 2,U.S. President,,REP,Ron Paul,5,0,4,1
+Grant,Fenter,U.S. President,,REP,Ron Paul,4,0,4,0
+Grant,Franklin,U.S. President,,REP,Ron Paul,4,0,3,1
+Grant,Madison,U.S. President,,REP,Ron Paul,7,0,6,1
+Grant,Merry Green 1,U.S. President,,REP,Ron Paul,4,0,2,2
+Grant,Merry Green 2,U.S. President,,REP,Ron Paul,7,0,7,0
+Grant,River,U.S. President,,REP,Ron Paul,2,0,2,0
+Grant,Simpson 1,U.S. President,,REP,Ron Paul,4,0,4,0
+Grant,Simpson 2,U.S. President,,REP,Ron Paul,2,0,2,0
+Grant,Tennessee,U.S. President,,REP,Ron Paul,5,0,5,0
+Grant,Ward 1,U.S. President,,REP,Ron Paul,10,0,7,3
+Grant,Ward 2,U.S. President,,REP,Ron Paul,13,0,9,4
+Grant,Ward 3,U.S. President,,REP,Ron Paul,4,0,3,1
+Grant,Washington,U.S. President,,REP,Ron Paul,7,0,5,2
+Grant,Absentee,U.S. President,,REP,Ron Paul,1,1,0,0
+Grant,Calvert,U.S. President,,REP,Rick Santorum,8,0,4,4
+Grant,Darysaw,U.S. President,,REP,Rick Santorum,2,0,1,1
+Grant,Davis,U.S. President,,REP,Rick Santorum,4,0,4,0
+Grant,Dekalb 1,U.S. President,,REP,Rick Santorum,3,0,3,0
+Grant,Dekalb 2,U.S. President,,REP,Rick Santorum,5,0,5,0
+Grant,Fenter,U.S. President,,REP,Rick Santorum,4,0,4,0
+Grant,Franklin,U.S. President,,REP,Rick Santorum,0,0,0,0
+Grant,Madison,U.S. President,,REP,Rick Santorum,5,0,5,0
+Grant,Merry Green 1,U.S. President,,REP,Rick Santorum,2,0,2,0
+Grant,Merry Green 2,U.S. President,,REP,Rick Santorum,8,0,5,3
+Grant,River,U.S. President,,REP,Rick Santorum,8,0,7,1
+Grant,Simpson 1,U.S. President,,REP,Rick Santorum,4,0,4,0
+Grant,Simpson 2,U.S. President,,REP,Rick Santorum,8,0,8,0
+Grant,Tennessee,U.S. President,,REP,Rick Santorum,2,0,2,0
+Grant,Ward 1,U.S. President,,REP,Rick Santorum,5,0,4,1
+Grant,Ward 2,U.S. President,,REP,Rick Santorum,9,0,7,2
+Grant,Ward 3,U.S. President,,REP,Rick Santorum,5,0,5,0
+Grant,Washington,U.S. President,,REP,Rick Santorum,9,0,9,0
+Grant,Absentee,U.S. President,,REP,Rick Santorum,0,0,0,0
+Grant,Calvert,U.S. President,,REP,Newt Gingrich,2,0,1,1
+Grant,Darysaw,U.S. President,,REP,Newt Gingrich,3,0,0,3
+Grant,Davis,U.S. President,,REP,Newt Gingrich,0,0,0,0
+Grant,Dekalb 1,U.S. President,,REP,Newt Gingrich,1,0,1,0
+Grant,Dekalb 2,U.S. President,,REP,Newt Gingrich,0,0,0,0
+Grant,Fenter,U.S. President,,REP,Newt Gingrich,1,0,1,0
+Grant,Franklin,U.S. President,,REP,Newt Gingrich,0,0,0,0
+Grant,Madison,U.S. President,,REP,Newt Gingrich,2,0,2,0
+Grant,Merry Green 1,U.S. President,,REP,Newt Gingrich,3,0,2,1
+Grant,Merry Green 2,U.S. President,,REP,Newt Gingrich,4,0,3,1
+Grant,River,U.S. President,,REP,Newt Gingrich,1,0,1,0
+Grant,Simpson 1,U.S. President,,REP,Newt Gingrich,5,0,5,0
+Grant,Simpson 2,U.S. President,,REP,Newt Gingrich,4,0,3,1
+Grant,Tennessee,U.S. President,,REP,Newt Gingrich,2,0,2,0
+Grant,Ward 1,U.S. President,,REP,Newt Gingrich,3,0,3,0
+Grant,Ward 2,U.S. President,,REP,Newt Gingrich,1,0,1,0
+Grant,Ward 3,U.S. President,,REP,Newt Gingrich,3,0,2,1
+Grant,Washington,U.S. President,,REP,Newt Gingrich,1,0,0,1
+Grant,Absentee,U.S. President,,REP,Newt Gingrich,0,0,0,0
+Grant,Calvert,U.S. President,,REP,Mitt Romney,28,0,16,12
+Grant,Darysaw,U.S. President,,REP,Mitt Romney,13,0,5,8
+Grant,Davis,U.S. President,,REP,Mitt Romney,13,0,11,2
+Grant,Dekalb 1,U.S. President,,REP,Mitt Romney,14,0,14,0
+Grant,Dekalb 2,U.S. President,,REP,Mitt Romney,21,0,20,1
+Grant,Fenter,U.S. President,,REP,Mitt Romney,12,0,11,1
+Grant,Franklin,U.S. President,,REP,Mitt Romney,5,0,5,0
+Grant,Madison,U.S. President,,REP,Mitt Romney,20,0,18,2
+Grant,Merry Green 1,U.S. President,,REP,Mitt Romney,43,0,32,11
+Grant,Merry Green 2,U.S. President,,REP,Mitt Romney,35,0,28,7
+Grant,River,U.S. President,,REP,Mitt Romney,34,0,26,8
+Grant,Simpson 1,U.S. President,,REP,Mitt Romney,45,0,42,3
+Grant,Simpson 2,U.S. President,,REP,Mitt Romney,27,0,23,4
+Grant,Tennessee,U.S. President,,REP,Mitt Romney,13,0,12,1
+Grant,Ward 1,U.S. President,,REP,Mitt Romney,36,0,24,12
+Grant,Ward 2,U.S. President,,REP,Mitt Romney,36,0,25,11
+Grant,Ward 3,U.S. President,,REP,Mitt Romney,36,0,20,16
+Grant,Washington,U.S. President,,REP,Mitt Romney,54,0,43,11
+Grant,Absentee,U.S. President,,REP,Mitt Romney,8,8,0,0
+Grant,Calvert,U.S. Congress District 4,,REP,John Cowart,2,0,1,1
+Grant,Darysaw,U.S. Congress District 4,,REP,John Cowart,0,0,0,0
+Grant,Davis,U.S. Congress District 4,,REP,John Cowart,1,0,0,1
+Grant,Dekalb 1,U.S. Congress District 4,,REP,John Cowart,0,0,0,0
+Grant,Dekalb 2,U.S. Congress District 4,,REP,John Cowart,1,0,1,0
+Grant,Fenter,U.S. Congress District 4,,REP,John Cowart,1,0,1,0
+Grant,Franklin,U.S. Congress District 4,,REP,John Cowart,0,0,0,0
+Grant,Madison,U.S. Congress District 4,,REP,John Cowart,1,0,0,1
+Grant,Merry Green 1,U.S. Congress District 4,,REP,John Cowart,0,0,0,0
+Grant,Merry Green 2,U.S. Congress District 4,,REP,John Cowart,3,0,3,0
+Grant,River,U.S. Congress District 4,,REP,John Cowart,1,0,1,0
+Grant,Simpson 1,U.S. Congress District 4,,REP,John Cowart,0,0,0,0
+Grant,Simpson 2,U.S. Congress District 4,,REP,John Cowart,3,0,3,0
+Grant,Tennessee,U.S. Congress District 4,,REP,John Cowart,0,0,0,0
+Grant,Ward 1,U.S. Congress District 4,,REP,John Cowart,2,0,2,0
+Grant,Ward 2,U.S. Congress District 4,,REP,John Cowart,5,0,5,0
+Grant,Ward 3,U.S. Congress District 4,,REP,John Cowart,1,0,0,1
+Grant,Washington,U.S. Congress District 4,,REP,John Cowart,3,0,1,2
+Grant,Absentee,U.S. Congress District 4,,REP,John Cowart,0,0,0,0
+Grant,Calvert,U.S. Congress District 4,,REP,Beth Anne Rankin,9,0,6,3
+Grant,Darysaw,U.S. Congress District 4,,REP,Beth Anne Rankin,1,0,1,0
+Grant,Davis,U.S. Congress District 4,,REP,Beth Anne Rankin,6,0,5,1
+Grant,Dekalb 1,U.S. Congress District 4,,REP,Beth Anne Rankin,7,0,7,0
+Grant,Dekalb 2,U.S. Congress District 4,,REP,Beth Anne Rankin,16,0,16,0
+Grant,Fenter,U.S. Congress District 4,,REP,Beth Anne Rankin,5,0,4,1
+Grant,Franklin,U.S. Congress District 4,,REP,Beth Anne Rankin,1,0,1,0
+Grant,Madison,U.S. Congress District 4,,REP,Beth Anne Rankin,8,0,7,1
+Grant,Merry Green 1,U.S. Congress District 4,,REP,Beth Anne Rankin,16,0,14,2
+Grant,Merry Green 2,U.S. Congress District 4,,REP,Beth Anne Rankin,15,0,11,4
+Grant,River,U.S. Congress District 4,,REP,Beth Anne Rankin,22,0,17,5
+Grant,Simpson 1,U.S. Congress District 4,,REP,Beth Anne Rankin,16,0,16,0
+Grant,Simpson 2,U.S. Congress District 4,,REP,Beth Anne Rankin,9,0,9,0
+Grant,Tennessee,U.S. Congress District 4,,REP,Beth Anne Rankin,5,0,5,0
+Grant,Ward 1,U.S. Congress District 4,,REP,Beth Anne Rankin,14,0,9,5
+Grant,Ward 2,U.S. Congress District 4,,REP,Beth Anne Rankin,24,0,17,7
+Grant,Ward 3,U.S. Congress District 4,,REP,Beth Anne Rankin,18,0,13,5
+Grant,Washington,U.S. Congress District 4,,REP,Beth Anne Rankin,22,0,21,1
+Grant,Absentee,U.S. Congress District 4,,REP,Beth Anne Rankin,1,1,0,0
+Grant,Calvert,U.S. Congress District 4,,REP,Tom Cotton,36,0,23,13
+Grant,Darysaw,U.S. Congress District 4,,REP,Tom Cotton,16,0,5,11
+Grant,Davis,U.S. Congress District 4,,REP,Tom Cotton,12,0,12,0
+Grant,Dekalb 1,U.S. Congress District 4,,REP,Tom Cotton,13,0,13,0
+Grant,Dekalb 2,U.S. Congress District 4,,REP,Tom Cotton,14,0,12,2
+Grant,Fenter,U.S. Congress District 4,,REP,Tom Cotton,15,0,15,0
+Grant,Franklin,U.S. Congress District 4,,REP,Tom Cotton,7,0,6,1
+Grant,Madison,U.S. Congress District 4,,REP,Tom Cotton,25,0,24,1
+Grant,Merry Green 1,U.S. Congress District 4,,REP,Tom Cotton,36,0,24,12
+Grant,Merry Green 2,U.S. Congress District 4,,REP,Tom Cotton,36,0,29,7
+Grant,River,U.S. Congress District 4,,REP,Tom Cotton,22,0,18,4
+Grant,Simpson 1,U.S. Congress District 4,,REP,Tom Cotton,42,0,39,3
+Grant,Simpson 2,U.S. Congress District 4,,REP,Tom Cotton,29,0,24,5
+Grant,Tennessee,U.S. Congress District 4,,REP,Tom Cotton,17,0,16,1
+Grant,Ward 1,U.S. Congress District 4,,REP,Tom Cotton,39,0,28,11
+Grant,Ward 2,U.S. Congress District 4,,REP,Tom Cotton,29,0,19,10
+Grant,Ward 3,U.S. Congress District 4,,REP,Tom Cotton,29,0,17,12
+Grant,Washington,U.S. Congress District 4,,REP,Tom Cotton,43,0,33,10
+Grant,Absentee,U.S. Congress District 4,,REP,Tom Cotton,7,7,0,0
+Grant,Calvert,All Unopposed Republican Candidates,,REP,FOR,41,0,24,17
+Grant,Darysaw,All Unopposed Republican Candidates,,REP,FOR,16,0,6,10
+Grant,Davis,All Unopposed Republican Candidates,,REP,FOR,18,0,16,2
+Grant,Dekalb 1,All Unopposed Republican Candidates,,REP,FOR,18,0,18,0
+Grant,Dekalb 2,All Unopposed Republican Candidates,,REP,FOR,28,0,27,1
+Grant,Fenter,All Unopposed Republican Candidates,,REP,FOR,18,0,17,1
+Grant,Franklin,All Unopposed Republican Candidates,,REP,FOR,5,0,4,1
+Grant,Madison,All Unopposed Republican Candidates,,REP,FOR,30,0,27,3
+Grant,Merry Green 1,All Unopposed Republican Candidates,,REP,FOR,46,0,33,13
+Grant,Merry Green 2,All Unopposed Republican Candidates,,REP,FOR,44,0,35,9
+Grant,River,All Unopposed Republican Candidates,,REP,FOR,40,0,35,5
+Grant,Simpson 1,All Unopposed Republican Candidates,,REP,FOR,46,0,45,1
+Grant,Simpson 2,All Unopposed Republican Candidates,,REP,FOR,35,0,31,4
+Grant,Tennessee,All Unopposed Republican Candidates,,REP,FOR,16,0,16,0
+Grant,Ward 1,All Unopposed Republican Candidates,,REP,FOR,49,0,34,15
+Grant,Ward 2,All Unopposed Republican Candidates,,REP,FOR,51,0,37,14
+Grant,Ward 3,All Unopposed Republican Candidates,,REP,FOR,41,0,24,17
+Grant,Washington,All Unopposed Republican Candidates,,REP,FOR,48,0,38,10
+Grant,Absentee,All Unopposed Republican Candidates,,REP,FOR,7,7,0,0
+Grant,Calvert,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,144,0,94,50
+Grant,Darysaw,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,71,0,53,18
+Grant,Davis,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,45,0,37,8
+Grant,Dekalb 1,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,35,0,33,2
+Grant,Dekalb 2,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,49,0,49,0
+Grant,Fenter,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,84,0,72,12
+Grant,Franklin,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,41,0,39,2
+Grant,Madison,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,64,0,58,6
+Grant,Merry Green 1,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,159,0,89,70
+Grant,Merry Green 2,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,128,0,89,39
+Grant,River,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,120,0,105,15
+Grant,Simpson 1,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,89,0,76,13
+Grant,Simpson 2,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,64,0,54,10
+Grant,Tennessee,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,70,0,68,2
+Grant,Ward 1,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,122,0,82,40
+Grant,Ward 2,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,137,0,90,47
+Grant,Ward 3,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,132,0,82,50
+Grant,Washington,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,171,0,139,32
+Grant,Absentee,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,11,11,0,0
+Grant,Calvert,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,72,0,46,26
+Grant,Darysaw,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,30,0,17,13
+Grant,Davis,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,29,0,22,7
+Grant,Dekalb 1,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,13,0,10,3
+Grant,Dekalb 2,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,20,0,18,2
+Grant,Fenter,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,23,0,23,0
+Grant,Franklin,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,21,0,17,4
+Grant,Madison,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,37,0,35,2
+Grant,Merry Green 1,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,102,0,62,40
+Grant,Merry Green 2,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,76,0,55,21
+Grant,River,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,48,0,36,12
+Grant,Simpson 1,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,47,0,42,5
+Grant,Simpson 2,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,41,0,33,8
+Grant,Tennessee,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,34,0,31,3
+Grant,Ward 1,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,106,0,69,37
+Grant,Ward 2,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,97,0,58,39
+Grant,Ward 3,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,78,0,54,24
+Grant,Washington,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,65,0,47,18
+Grant,Absentee,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,3,3,0,0
+Grant,Calvert,All Unopposed Nonpartisan Candidates,,,FOR,197,0,127,70
+Grant,Darysaw,All Unopposed Nonpartisan Candidates,,,FOR,96,0,68,28
+Grant,Davis,All Unopposed Nonpartisan Candidates,,,FOR,66,0,54,12
+Grant,Dekalb 1,All Unopposed Nonpartisan Candidates,,,FOR,44,0,39,5
+Grant,Dekalb 2,All Unopposed Nonpartisan Candidates,,,FOR,66,0,65,1
+Grant,Fenter,All Unopposed Nonpartisan Candidates,,,FOR,92,0,81,11
+Grant,Franklin,All Unopposed Nonpartisan Candidates,,,FOR,61,0,55,6
+Grant,Madison,All Unopposed Nonpartisan Candidates,,,FOR,93,0,83,10
+Grant,Merry Green 1,All Unopposed Nonpartisan Candidates,,,FOR,235,0,135,100
+Grant,Merry Green 2,All Unopposed Nonpartisan Candidates,,,FOR,190,0,139,51
+Grant,River,All Unopposed Nonpartisan Candidates,,,FOR,159,0,135,24
+Grant,Simpson 1,All Unopposed Nonpartisan Candidates,,,FOR,113,0,98,15
+Grant,Simpson 2,All Unopposed Nonpartisan Candidates,,,FOR,95,0,81,14
+Grant,Tennessee,All Unopposed Nonpartisan Candidates,,,FOR,96,0,92,4
+Grant,Ward 1,All Unopposed Nonpartisan Candidates,,,FOR,213,0,140,73
+Grant,Ward 2,All Unopposed Nonpartisan Candidates,,,FOR,221,0,146,75
+Grant,Ward 3,All Unopposed Nonpartisan Candidates,,,FOR,196,0,126,70
+Grant,Washington,All Unopposed Nonpartisan Candidates,,,FOR,199,0,155,44
+Grant,Absentee,All Unopposed Nonpartisan Candidates,,,FOR,13,13,0,0

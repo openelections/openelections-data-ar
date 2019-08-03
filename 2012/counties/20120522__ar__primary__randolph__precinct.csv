@@ -1,0 +1,571 @@
+county,precinct,office,district,party,candidate,votes,absentee,election_day,provisional,early_vote
+Randolph,BAKER,U.S. President,,DEM,John Wolfe,6,0,4,0,2
+Randolph,BRISTOW,U.S. President,,DEM,John Wolfe,4,0,2,0,2
+Randolph,BUTLER,U.S. President,,DEM,John Wolfe,1,0,0,0,1
+Randolph,COLUMBIA,U.S. President,,DEM,John Wolfe,59,1,45,0,13
+Randolph,CURRENT RIVER,U.S. President,,DEM,John Wolfe,27,0,26,0,1
+Randolph,DALTON,U.S. President,,DEM,John Wolfe,24,1,17,0,6
+Randolph,ELEVEN POINT,U.S. President,,DEM,John Wolfe,30,0,21,0,9
+Randolph,FOSTER,U.S. President,,DEM,John Wolfe,47,3,24,0,20
+Randolph,INGRAM,U.S. President,,DEM,John Wolfe,7,0,4,0,3
+Randolph,JACKSON,U.S. President,,DEM,John Wolfe,13,0,11,0,2
+Randolph,JANES CREEK,U.S. President,,DEM,John Wolfe,16,0,13,0,3
+Randolph,LITTLE BLACK,U.S. President,,DEM,John Wolfe,21,0,14,0,7
+Randolph,OKEAN,U.S. President,,DEM,John Wolfe,3,0,3,0,0
+Randolph,REYNO,U.S. President,,DEM,John Wolfe,14,1,13,0,0
+Randolph,RICHARDSON,U.S. President,,DEM,John Wolfe,64,1,43,0,20
+Randolph,EAST ROANOKE,U.S. President,,DEM,John Wolfe,29,2,19,0,8
+Randolph,WEST ROANOKE,U.S. President,,DEM,John Wolfe,43,0,32,0,11
+Randolph,RUNNING LAKE,U.S. President,,DEM,John Wolfe,15,1,10,0,4
+Randolph,SHILOH,U.S. President,,DEM,John Wolfe,67,0,26,0,41
+Randolph,SILOAM,U.S. President,,DEM,John Wolfe,24,1,19,0,4
+Randolph,SPRING RIVER,U.S. President,,DEM,John Wolfe,20,1,14,0,5
+Randolph,UNION,U.S. President,,DEM,John Wolfe,1,0,1,0,0
+Randolph,WARM SPRINGS,U.S. President,,DEM,John Wolfe,13,0,13,0,0
+Randolph,WATER VALLEY,U.S. President,,DEM,John Wolfe,19,0,17,0,2
+Randolph,WILEY,U.S. President,,DEM,John Wolfe,2,0,0,0,2
+Randolph,WARD 1,U.S. President,,DEM,John Wolfe,78,3,33,0,42
+Randolph,WARD 2,U.S. President,,DEM,John Wolfe,67,1,24,0,42
+Randolph,WARD 3,U.S. President,,DEM,John Wolfe,131,3,42,0,86
+Randolph,DEMUN RURAL,U.S. President,,DEM,John Wolfe,110,6,40,0,64
+Randolph,BAKER,U.S. President,,DEM,Barack Obama,1,0,1,0,0
+Randolph,BRISTOW,U.S. President,,DEM,Barack Obama,6,0,2,0,4
+Randolph,BUTLER,U.S. President,,DEM,Barack Obama,0,0,0,0,0
+Randolph,COLUMBIA,U.S. President,,DEM,Barack Obama,21,0,12,0,9
+Randolph,CURRENT RIVER,U.S. President,,DEM,Barack Obama,15,1,12,0,2
+Randolph,DALTON,U.S. President,,DEM,Barack Obama,22,2,15,0,5
+Randolph,ELEVEN POINT,U.S. President,,DEM,Barack Obama,13,1,8,0,4
+Randolph,FOSTER,U.S. President,,DEM,Barack Obama,29,3,16,0,10
+Randolph,INGRAM,U.S. President,,DEM,Barack Obama,9,0,6,0,3
+Randolph,JACKSON,U.S. President,,DEM,Barack Obama,10,0,9,0,1
+Randolph,JANES CREEK,U.S. President,,DEM,Barack Obama,19,0,17,0,2
+Randolph,LITTLE BLACK,U.S. President,,DEM,Barack Obama,18,1,8,0,9
+Randolph,OKEAN,U.S. President,,DEM,Barack Obama,16,0,16,0,0
+Randolph,REYNO,U.S. President,,DEM,Barack Obama,25,1,20,0,4
+Randolph,RICHARDSON,U.S. President,,DEM,Barack Obama,39,3,24,0,12
+Randolph,EAST ROANOKE,U.S. President,,DEM,Barack Obama,6,0,3,0,3
+Randolph,WEST ROANOKE,U.S. President,,DEM,Barack Obama,34,1,18,0,15
+Randolph,RUNNING LAKE,U.S. President,,DEM,Barack Obama,13,0,10,0,3
+Randolph,SHILOH,U.S. President,,DEM,Barack Obama,61,3,15,0,43
+Randolph,SILOAM,U.S. President,,DEM,Barack Obama,5,1,2,0,2
+Randolph,SPRING RIVER,U.S. President,,DEM,Barack Obama,5,0,4,0,1
+Randolph,UNION,U.S. President,,DEM,Barack Obama,1,0,1,0,0
+Randolph,WARM SPRINGS,U.S. President,,DEM,Barack Obama,10,2,4,0,4
+Randolph,WATER VALLEY,U.S. President,,DEM,Barack Obama,11,0,5,0,6
+Randolph,WILEY,U.S. President,,DEM,Barack Obama,4,0,1,0,3
+Randolph,WARD 1,U.S. President,,DEM,Barack Obama,101,12,25,0,64
+Randolph,WARD 2,U.S. President,,DEM,Barack Obama,79,7,22,0,50
+Randolph,WARD 3,U.S. President,,DEM,Barack Obama,151,9,33,0,109
+Randolph,DEMUN RURAL,U.S. President,,DEM,Barack Obama,78,4,32,0,42
+Randolph,BAKER,U.S. Congress District 1,,DEM,Prosecuting Attorney Scott Ellington,5,0,3,0,2
+Randolph,BRISTOW,U.S. Congress District 1,,DEM,Prosecuting Attorney Scott Ellington,7,0,2,0,5
+Randolph,BUTLER,U.S. Congress District 1,,DEM,Prosecuting Attorney Scott Ellington,0,0,0,0,0
+Randolph,COLUMBIA,U.S. Congress District 1,,DEM,Prosecuting Attorney Scott Ellington,35,1,22,0,12
+Randolph,CURRENT RIVER,U.S. Congress District 1,,DEM,Prosecuting Attorney Scott Ellington,23,1,21,0,1
+Randolph,DALTON,U.S. Congress District 1,,DEM,Prosecuting Attorney Scott Ellington,23,3,14,0,6
+Randolph,ELEVEN POINT,U.S. Congress District 1,,DEM,Prosecuting Attorney Scott Ellington,11,1,6,0,4
+Randolph,FOSTER,U.S. Congress District 1,,DEM,Prosecuting Attorney Scott Ellington,32,0,17,0,15
+Randolph,INGRAM,U.S. Congress District 1,,DEM,Prosecuting Attorney Scott Ellington,12,0,8,0,4
+Randolph,JACKSON,U.S. Congress District 1,,DEM,Prosecuting Attorney Scott Ellington,13,0,11,0,2
+Randolph,JANES CREEK,U.S. Congress District 1,,DEM,Prosecuting Attorney Scott Ellington,20,0,16,0,4
+Randolph,LITTLE BLACK,U.S. Congress District 1,,DEM,Prosecuting Attorney Scott Ellington,23,1,13,0,9
+Randolph,OKEAN,U.S. Congress District 1,,DEM,Prosecuting Attorney Scott Ellington,11,0,11,0,0
+Randolph,REYNO,U.S. Congress District 1,,DEM,Prosecuting Attorney Scott Ellington,14,0,12,0,2
+Randolph,RICHARDSON,U.S. Congress District 1,,DEM,Prosecuting Attorney Scott Ellington,58,1,39,0,18
+Randolph,EAST ROANOKE,U.S. Congress District 1,,DEM,Prosecuting Attorney Scott Ellington,16,0,9,0,7
+Randolph,WEST ROANOKE,U.S. Congress District 1,,DEM,Prosecuting Attorney Scott Ellington,47,0,34,0,13
+Randolph,RUNNING LAKE,U.S. Congress District 1,,DEM,Prosecuting Attorney Scott Ellington,12,1,8,0,3
+Randolph,SHILOH,U.S. Congress District 1,,DEM,Prosecuting Attorney Scott Ellington,78,0,23,0,55
+Randolph,SILOAM,U.S. Congress District 1,,DEM,Prosecuting Attorney Scott Ellington,15,0,12,0,3
+Randolph,SPRING RIVER,U.S. Congress District 1,,DEM,Prosecuting Attorney Scott Ellington,14,0,9,0,5
+Randolph,UNION,U.S. Congress District 1,,DEM,Prosecuting Attorney Scott Ellington,0,0,0,0,0
+Randolph,WARM SPRINGS,U.S. Congress District 1,,DEM,Prosecuting Attorney Scott Ellington,12,0,9,0,3
+Randolph,WATER VALLEY,U.S. Congress District 1,,DEM,Prosecuting Attorney Scott Ellington,9,0,5,0,4
+Randolph,WILEY,U.S. Congress District 1,,DEM,Prosecuting Attorney Scott Ellington,5,0,0,0,5
+Randolph,WARD 1,U.S. Congress District 1,,DEM,Prosecuting Attorney Scott Ellington,95,9,30,0,56
+Randolph,WARD 2,U.S. Congress District 1,,DEM,Prosecuting Attorney Scott Ellington,93,3,27,0,63
+Randolph,WARD 3,U.S. Congress District 1,,DEM,Prosecuting Attorney Scott Ellington,170,9,42,0,119
+Randolph,DEMUN RURAL,U.S. Congress District 1,,DEM,Prosecuting Attorney Scott Ellington,112,9,40,0,63
+Randolph,BAKER,U.S. Congress District 1,,DEM,Clark M. Hall,1,0,1,0,0
+Randolph,BRISTOW,U.S. Congress District 1,,DEM,Clark M. Hall,3,0,2,0,1
+Randolph,BUTLER,U.S. Congress District 1,,DEM,Clark M. Hall,1,0,0,0,1
+Randolph,COLUMBIA,U.S. Congress District 1,,DEM,Clark M. Hall,31,0,24,0,7
+Randolph,CURRENT RIVER,U.S. Congress District 1,,DEM,Clark M. Hall,11,0,10,0,1
+Randolph,DALTON,U.S. Congress District 1,,DEM,Clark M. Hall,15,1,11,0,3
+Randolph,ELEVEN POINT,U.S. Congress District 1,,DEM,Clark M. Hall,21,0,13,0,8
+Randolph,FOSTER,U.S. Congress District 1,,DEM,Clark M. Hall,32,5,14,0,13
+Randolph,INGRAM,U.S. Congress District 1,,DEM,Clark M. Hall,1,0,0,0,1
+Randolph,JACKSON,U.S. Congress District 1,,DEM,Clark M. Hall,2,0,1,0,1
+Randolph,JANES CREEK,U.S. Congress District 1,,DEM,Clark M. Hall,6,0,6,0,0
+Randolph,LITTLE BLACK,U.S. Congress District 1,,DEM,Clark M. Hall,8,0,4,0,4
+Randolph,OKEAN,U.S. Congress District 1,,DEM,Clark M. Hall,8,0,8,0,0
+Randolph,REYNO,U.S. Congress District 1,,DEM,Clark M. Hall,17,2,15,0,0
+Randolph,RICHARDSON,U.S. Congress District 1,,DEM,Clark M. Hall,30,1,20,0,9
+Randolph,EAST ROANOKE,U.S. Congress District 1,,DEM,Clark M. Hall,12,0,8,0,4
+Randolph,WEST ROANOKE,U.S. Congress District 1,,DEM,Clark M. Hall,21,1,12,0,8
+Randolph,RUNNING LAKE,U.S. Congress District 1,,DEM,Clark M. Hall,8,0,8,0,0
+Randolph,SHILOH,U.S. Congress District 1,,DEM,Clark M. Hall,28,3,9,0,16
+Randolph,SILOAM,U.S. Congress District 1,,DEM,Clark M. Hall,9,2,5,0,2
+Randolph,SPRING RIVER,U.S. Congress District 1,,DEM,Clark M. Hall,7,1,6,0,0
+Randolph,UNION,U.S. Congress District 1,,DEM,Clark M. Hall,1,0,1,0,0
+Randolph,WARM SPRINGS,U.S. Congress District 1,,DEM,Clark M. Hall,7,0,7,0,0
+Randolph,WATER VALLEY,U.S. Congress District 1,,DEM,Clark M. Hall,16,0,12,0,4
+Randolph,WILEY,U.S. Congress District 1,,DEM,Clark M. Hall,0,0,0,0,0
+Randolph,WARD 1,U.S. Congress District 1,,DEM,Clark M. Hall,61,4,21,0,36
+Randolph,WARD 2,U.S. Congress District 1,,DEM,Clark M. Hall,29,2,12,0,15
+Randolph,WARD 3,U.S. Congress District 1,,DEM,Clark M. Hall,68,2,24,0,42
+Randolph,DEMUN RURAL,U.S. Congress District 1,,DEM,Clark M. Hall,54,2,19,0,33
+Randolph,BAKER,U.S. Congress District 1,,DEM,Gary Latanich,1,0,1,0,0
+Randolph,BRISTOW,U.S. Congress District 1,,DEM,Gary Latanich,0,0,0,0,0
+Randolph,BUTLER,U.S. Congress District 1,,DEM,Gary Latanich,0,0,0,0,0
+Randolph,COLUMBIA,U.S. Congress District 1,,DEM,Gary Latanich,13,1,9,0,3
+Randolph,CURRENT RIVER,U.S. Congress District 1,,DEM,Gary Latanich,9,0,8,0,1
+Randolph,DALTON,U.S. Congress District 1,,DEM,Gary Latanich,6,0,4,0,2
+Randolph,ELEVEN POINT,U.S. Congress District 1,,DEM,Gary Latanich,6,0,6,0,0
+Randolph,FOSTER,U.S. Congress District 1,,DEM,Gary Latanich,10,0,9,0,1
+Randolph,INGRAM,U.S. Congress District 1,,DEM,Gary Latanich,5,0,4,0,1
+Randolph,JACKSON,U.S. Congress District 1,,DEM,Gary Latanich,5,0,5,0,0
+Randolph,JANES CREEK,U.S. Congress District 1,,DEM,Gary Latanich,9,0,8,0,1
+Randolph,LITTLE BLACK,U.S. Congress District 1,,DEM,Gary Latanich,6,0,3,0,3
+Randolph,OKEAN,U.S. Congress District 1,,DEM,Gary Latanich,0,0,0,0,0
+Randolph,REYNO,U.S. Congress District 1,,DEM,Gary Latanich,10,0,9,0,1
+Randolph,RICHARDSON,U.S. Congress District 1,,DEM,Gary Latanich,19,0,15,0,4
+Randolph,EAST ROANOKE,U.S. Congress District 1,,DEM,Gary Latanich,6,0,4,0,2
+Randolph,WEST ROANOKE,U.S. Congress District 1,,DEM,Gary Latanich,13,0,7,0,6
+Randolph,RUNNING LAKE,U.S. Congress District 1,,DEM,Gary Latanich,7,0,3,0,4
+Randolph,SHILOH,U.S. Congress District 1,,DEM,Gary Latanich,19,0,7,0,12
+Randolph,SILOAM,U.S. Congress District 1,,DEM,Gary Latanich,5,1,4,0,0
+Randolph,SPRING RIVER,U.S. Congress District 1,,DEM,Gary Latanich,3,0,2,0,1
+Randolph,UNION,U.S. Congress District 1,,DEM,Gary Latanich,2,0,2,0,0
+Randolph,WARM SPRINGS,U.S. Congress District 1,,DEM,Gary Latanich,2,0,1,0,1
+Randolph,WATER VALLEY,U.S. Congress District 1,,DEM,Gary Latanich,5,0,5,0,0
+Randolph,WILEY,U.S. Congress District 1,,DEM,Gary Latanich,1,0,0,0,1
+Randolph,WARD 1,U.S. Congress District 1,,DEM,Gary Latanich,24,2,6,0,16
+Randolph,WARD 2,U.S. Congress District 1,,DEM,Gary Latanich,17,2,3,0,12
+Randolph,WARD 3,U.S. Congress District 1,,DEM,Gary Latanich,39,0,8,0,31
+Randolph,DEMUN RURAL,U.S. Congress District 1,,DEM,Gary Latanich,30,0,10,0,20
+Randolph,BAKER,COUNTY CLERK,,DEM,Bobbie Lane,7,0,5,0,2
+Randolph,BRISTOW,COUNTY CLERK,,DEM,Bobbie Lane,7,0,3,0,4
+Randolph,BUTLER,COUNTY CLERK,,DEM,Bobbie Lane,1,0,0,0,1
+Randolph,COLUMBIA,COUNTY CLERK,,DEM,Bobbie Lane,55,2,40,0,13
+Randolph,CURRENT RIVER,COUNTY CLERK,,DEM,Bobbie Lane,26,0,24,0,2
+Randolph,DALTON,COUNTY CLERK,,DEM,Bobbie Lane,39,4,22,0,13
+Randolph,ELEVEN POINT,COUNTY CLERK,,DEM,Bobbie Lane,33,1,21,0,11
+Randolph,FOSTER,COUNTY CLERK,,DEM,Bobbie Lane,54,2,29,0,23
+Randolph,INGRAM,COUNTY CLERK,,DEM,Bobbie Lane,14,0,10,0,4
+Randolph,JACKSON,COUNTY CLERK,,DEM,Bobbie Lane,13,0,10,0,3
+Randolph,JANES CREEK,COUNTY CLERK,,DEM,Bobbie Lane,31,0,26,0,5
+Randolph,LITTLE BLACK,COUNTY CLERK,,DEM,Bobbie Lane,20,1,6,0,13
+Randolph,OKEAN,COUNTY CLERK,,DEM,Bobbie Lane,14,0,14,0,0
+Randolph,REYNO,COUNTY CLERK,,DEM,Bobbie Lane,23,2,20,0,1
+Randolph,RICHARDSON,COUNTY CLERK,,DEM,Bobbie Lane,47,3,23,0,21
+Randolph,EAST ROANOKE,COUNTY CLERK,,DEM,Bobbie Lane,26,0,13,0,13
+Randolph,WEST ROANOKE,COUNTY CLERK,,DEM,Bobbie Lane,57,0,32,0,25
+Randolph,RUNNING LAKE,COUNTY CLERK,,DEM,Bobbie Lane,21,1,15,0,5
+Randolph,SHILOH,COUNTY CLERK,,DEM,Bobbie Lane,92,4,28,0,60
+Randolph,SILOAM,COUNTY CLERK,,DEM,Bobbie Lane,7,0,7,0,0
+Randolph,SPRING RIVER,COUNTY CLERK,,DEM,Bobbie Lane,15,1,11,0,3
+Randolph,UNION,COUNTY CLERK,,DEM,Bobbie Lane,1,0,1,0,0
+Randolph,WARM SPRINGS,COUNTY CLERK,,DEM,Bobbie Lane,10,0,6,0,4
+Randolph,WATER VALLEY,COUNTY CLERK,,DEM,Bobbie Lane,20,0,11,0,9
+Randolph,WILEY,COUNTY CLERK,,DEM,Bobbie Lane,7,0,1,0,6
+Randolph,WARD 1,COUNTY CLERK,,DEM,Bobbie Lane,150,9,51,0,90
+Randolph,WARD 2,COUNTY CLERK,,DEM,Bobbie Lane,111,6,32,0,73
+Randolph,WARD 3,COUNTY CLERK,,DEM,Bobbie Lane,212,10,47,0,155
+Randolph,DEMUN RURAL,COUNTY CLERK,,DEM,Bobbie Lane,143,5,49,0,89
+Randolph,BAKER,COUNTY CLERK,,DEM,Cord Rapert,0,0,0,0,0
+Randolph,BRISTOW,COUNTY CLERK,,DEM,Cord Rapert,5,0,2,0,3
+Randolph,BUTLER,COUNTY CLERK,,DEM,Cord Rapert,0,0,0,0,0
+Randolph,COLUMBIA,COUNTY CLERK,,DEM,Cord Rapert,36,0,25,0,11
+Randolph,CURRENT RIVER,COUNTY CLERK,,DEM,Cord Rapert,19,1,17,0,1
+Randolph,DALTON,COUNTY CLERK,,DEM,Cord Rapert,16,0,15,0,1
+Randolph,ELEVEN POINT,COUNTY CLERK,,DEM,Cord Rapert,11,0,8,0,3
+Randolph,FOSTER,COUNTY CLERK,,DEM,Cord Rapert,29,4,13,0,12
+Randolph,INGRAM,COUNTY CLERK,,DEM,Cord Rapert,6,0,3,0,3
+Randolph,JACKSON,COUNTY CLERK,,DEM,Cord Rapert,12,0,10,0,2
+Randolph,JANES CREEK,COUNTY CLERK,,DEM,Cord Rapert,6,0,6,0,0
+Randolph,LITTLE BLACK,COUNTY CLERK,,DEM,Cord Rapert,22,0,17,0,5
+Randolph,OKEAN,COUNTY CLERK,,DEM,Cord Rapert,8,0,8,0,0
+Randolph,REYNO,COUNTY CLERK,,DEM,Cord Rapert,22,0,20,0,2
+Randolph,RICHARDSON,COUNTY CLERK,,DEM,Cord Rapert,73,1,59,0,13
+Randolph,EAST ROANOKE,COUNTY CLERK,,DEM,Cord Rapert,16,2,11,0,3
+Randolph,WEST ROANOKE,COUNTY CLERK,,DEM,Cord Rapert,26,1,22,0,3
+Randolph,RUNNING LAKE,COUNTY CLERK,,DEM,Cord Rapert,9,0,7,0,2
+Randolph,SHILOH,COUNTY CLERK,,DEM,Cord Rapert,47,1,18,0,28
+Randolph,SILOAM,COUNTY CLERK,,DEM,Cord Rapert,24,3,14,0,7
+Randolph,SPRING RIVER,COUNTY CLERK,,DEM,Cord Rapert,10,0,7,0,3
+Randolph,UNION,COUNTY CLERK,,DEM,Cord Rapert,2,0,2,0,0
+Randolph,WARM SPRINGS,COUNTY CLERK,,DEM,Cord Rapert,16,2,13,0,1
+Randolph,WATER VALLEY,COUNTY CLERK,,DEM,Cord Rapert,12,0,12,0,0
+Randolph,WILEY,COUNTY CLERK,,DEM,Cord Rapert,0,0,0,0,0
+Randolph,WARD 1,COUNTY CLERK,,DEM,Cord Rapert,45,6,12,0,27
+Randolph,WARD 2,COUNTY CLERK,,DEM,Cord Rapert,43,2,14,0,27
+Randolph,WARD 3,COUNTY CLERK,,DEM,Cord Rapert,100,4,37,0,59
+Randolph,DEMUN RURAL,COUNTY CLERK,,DEM,Cord Rapert,67,6,26,0,35
+Randolph,WARD 1,JP 1,,DEM,Sherley Johnson,111,11,37,0,63
+Randolph,WARD 1,JP 1,,DEM,Rick Broadway,68,2,19,0,47
+Randolph,SHILOH,JP 3,,DEM,James Ashcraft,15,0,4,0,11
+Randolph,WARD 1,JP 3,,DEM,James Ashcraft,3,1,0,0,2
+Randolph,WARD 2,JP 3,,DEM,James Ashcraft,2,0,1,0,1
+Randolph,WARD 3,JP 3,,DEM,James Ashcraft,18,1,6,0,11
+Randolph,DEMUN RURAL,JP 3,,DEM,James Ashcraft,70,7,27,0,36
+Randolph,SHILOH,JP 3,,DEM,Susan Johnson,18,0,6,0,12
+Randolph,WARD 1,JP 3,,DEM,Susan Johnson,8,0,4,0,4
+Randolph,WARD 2,JP 3,,DEM,Susan Johnson,0,0,0,0,0
+Randolph,WARD 3,JP 3,,DEM,Susan Johnson,5,0,0,0,5
+Randolph,DEMUN RURAL,JP 3,,DEM,Susan Johnson,36,3,9,0,24
+Randolph,SHILOH,JP 3,,DEM,Bill Harper,36,0,10,0,26
+Randolph,WARD 1,JP 3,,DEM,Bill Harper,7,1,3,0,3
+Randolph,WARD 2,JP 3,,DEM,Bill Harper,2,0,0,0,2
+Randolph,WARD 3,JP 3,,DEM,Bill Harper,17,0,7,0,10
+Randolph,DEMUN RURAL,JP 3,,DEM,Bill Harper,52,1,20,0,31
+Randolph,COLUMBIA,JP 5,,DEM,Wayne Gearhart,28,0,16,0,12
+Randolph,ELEVEN POINT,JP 5,,DEM,Wayne Gearhart,27,0,18,0,9
+Randolph,FOSTER,JP 5,,DEM,Wayne Gearhart,39,1,20,0,18
+Randolph,INGRAM,JP 5,,DEM,Wayne Gearhart,6,0,5,0,1
+Randolph,RUNNING LAKE,JP 5,,DEM,Wayne Gearhart,0,0,0,0,0
+Randolph,SHILOH,JP 5,,DEM,Wayne Gearhart,34,3,14,0,17
+Randolph,COLUMBIA,JP 5,,DEM,Don McGuirt,39,2,30,0,7
+Randolph,ELEVEN POINT,JP 5,,DEM,Don McGuirt,16,1,11,0,4
+Randolph,FOSTER,JP 5,,DEM,Don McGuirt,42,5,22,0,15
+Randolph,INGRAM,JP 5,,DEM,Don McGuirt,14,0,8,0,6
+Randolph,RUNNING LAKE,JP 5,,DEM,Don McGuirt,1,0,0,0,1
+Randolph,SHILOH,JP 5,,DEM,Don McGuirt,19,0,5,0,14
+Randolph,BRISTOW,JP 7,,DEM,Dale Morris,7,0,2,0,5
+Randolph,COLUMBIA,JP 7,,DEM,Dale Morris,14,0,10,0,4
+Randolph,CURRENT RIVER,JP 7,,DEM,Dale Morris,10,1,8,0,1
+Randolph,OKEAN,JP 7,,DEM,Dale Morris,20,0,20,0,0
+Randolph,REYNO,JP 7,,DEM,Dale Morris,29,2,24,0,3
+Randolph,RICHARDSON,JP 7,,DEM,Dale Morris,2,0,2,0,0
+Randolph,RUNNING LAKE,JP 7,,DEM,Dale Morris,13,0,10,0,3
+Randolph,WILEY,JP 7,,DEM,Dale Morris,7,0,1,0,6
+Randolph,BRISTOW,JP 7,,DEM,Jesse Worsham,2,0,1,0,1
+Randolph,COLUMBIA,JP 7,,DEM,Jesse Worsham,7,0,6,0,1
+Randolph,CURRENT RIVER,JP 7,,DEM,Jesse Worsham,35,0,33,0,2
+Randolph,OKEAN,JP 7,,DEM,Jesse Worsham,2,0,2,0,0
+Randolph,REYNO,JP 7,,DEM,Jesse Worsham,13,0,13,0,0
+Randolph,RICHARDSON,JP 7,,DEM,Jesse Worsham,5,0,5,0,0
+Randolph,RUNNING LAKE,JP 7,,DEM,Jesse Worsham,15,1,11,0,3
+Randolph,WILEY,JP 7,,DEM,Jesse Worsham,0,0,0,0,0
+Randolph,WARD 2,CONSTABLE WARD 2,,DEM,Christopher B. Winebaugh,84,4,21,0,59
+Randolph,WARD 2,CONSTABLE WARD 2,,DEM,Justin Masiongale,21,0,9,0,12
+Randolph,WARD 2,CONSTABLE WARD 2,,DEM,William David Cagle Sr.,45,4,16,0,25
+Randolph,BAKER,UNOPPOSED DEMOCRATIC CANDIDATES,,DEM,FOR,7,0,5,0,2
+Randolph,BRISTOW,UNOPPOSED DEMOCRATIC CANDIDATES,,DEM,FOR,12,0,5,0,7
+Randolph,BUTLER,UNOPPOSED DEMOCRATIC CANDIDATES,,DEM,FOR,1,0,0,0,1
+Randolph,COLUMBIA,UNOPPOSED DEMOCRATIC CANDIDATES,,DEM,FOR,74,2,52,0,20
+Randolph,CURRENT RIVER,UNOPPOSED DEMOCRATIC CANDIDATES,,DEM,FOR,39,1,35,0,3
+Randolph,DALTON,UNOPPOSED DEMOCRATIC CANDIDATES,,DEM,FOR,42,4,25,0,13
+Randolph,ELEVEN POINT,UNOPPOSED DEMOCRATIC CANDIDATES,,DEM,FOR,35,1,25,0,9
+Randolph,FOSTER,UNOPPOSED DEMOCRATIC CANDIDATES,,DEM,FOR,67,6,34,0,27
+Randolph,INGRAM,UNOPPOSED DEMOCRATIC CANDIDATES,,DEM,FOR,16,0,12,0,4
+Randolph,JACKSON,UNOPPOSED DEMOCRATIC CANDIDATES,,DEM,FOR,18,0,15,0,3
+Randolph,JANES CREEK,UNOPPOSED DEMOCRATIC CANDIDATES,,DEM,FOR,32,0,28,0,4
+Randolph,LITTLE BLACK,UNOPPOSED DEMOCRATIC CANDIDATES,,DEM,FOR,32,1,18,0,13
+Randolph,OKEAN,UNOPPOSED DEMOCRATIC CANDIDATES,,DEM,FOR,21,0,21,0,0
+Randolph,REYNO,UNOPPOSED DEMOCRATIC CANDIDATES,,DEM,FOR,35,2,30,0,3
+Randolph,RICHARDSON,UNOPPOSED DEMOCRATIC CANDIDATES,,DEM,FOR,99,4,65,0,30
+Randolph,EAST ROANOKE,UNOPPOSED DEMOCRATIC CANDIDATES,,DEM,FOR,34,2,18,0,14
+Randolph,WEST ROANOKE,UNOPPOSED DEMOCRATIC CANDIDATES,,DEM,FOR,68,1,44,0,23
+Randolph,RUNNING LAKE,UNOPPOSED DEMOCRATIC CANDIDATES,,DEM,FOR,24,1,18,0,5
+Randolph,SHILOH,UNOPPOSED DEMOCRATIC CANDIDATES,,DEM,FOR,105,2,33,0,70
+Randolph,SILOAM,UNOPPOSED DEMOCRATIC CANDIDATES,,DEM,FOR,24,3,16,0,5
+Randolph,SPRING RIVER,UNOPPOSED DEMOCRATIC CANDIDATES,,DEM,FOR,22,1,16,0,5
+Randolph,UNION,UNOPPOSED DEMOCRATIC CANDIDATES,,DEM,FOR,2,0,2,0,0
+Randolph,WARM SPRINGS,UNOPPOSED DEMOCRATIC CANDIDATES,,DEM,FOR,21,2,16,0,3
+Randolph,WATER VALLEY,UNOPPOSED DEMOCRATIC CANDIDATES,,DEM,FOR,26,0,21,0,5
+Randolph,WILEY,UNOPPOSED DEMOCRATIC CANDIDATES,,DEM,FOR,7,0,1,0,6
+Randolph,WARD 1,UNOPPOSED DEMOCRATIC CANDIDATES,,DEM,FOR,162,13,57,0,92
+Randolph,WARD 2,UNOPPOSED DEMOCRATIC CANDIDATES,,DEM,FOR,131,6,41,0,84
+Randolph,WARD 3,UNOPPOSED DEMOCRATIC CANDIDATES,,DEM,FOR,272,12,74,0,186
+Randolph,DEMUN RURAL,UNOPPOSED DEMOCRATIC CANDIDATES,,DEM,FOR,187,11,67,0,109
+Randolph,BAKER,U.S. President,,REP,Mitt Romney,0,0,0,0,0
+Randolph,BRISTOW,U.S. President,,REP,Mitt Romney,1,0,0,0,1
+Randolph,BUTLER,U.S. President,,REP,Mitt Romney,2,0,2,0,0
+Randolph,COLUMBIA,U.S. President,,REP,Mitt Romney,3,0,3,0,0
+Randolph,CURRENT RIVER,U.S. President,,REP,Mitt Romney,2,0,2,0,0
+Randolph,DALTON,U.S. President,,REP,Mitt Romney,5,0,5,0,0
+Randolph,ELEVEN POINT,U.S. President,,REP,Mitt Romney,2,0,2,0,0
+Randolph,FOSTER,U.S. President,,REP,Mitt Romney,9,0,5,0,4
+Randolph,INGRAM,U.S. President,,REP,Mitt Romney,2,0,2,0,0
+Randolph,JACKSON,U.S. President,,REP,Mitt Romney,0,0,0,0,0
+Randolph,JANES CREEK,U.S. President,,REP,Mitt Romney,6,0,2,0,4
+Randolph,LITTLE BLACK,U.S. President,,REP,Mitt Romney,6,2,3,0,1
+Randolph,OKEAN,U.S. President,,REP,Mitt Romney,6,0,6,0,0
+Randolph,REYNO,U.S. President,,REP,Mitt Romney,7,0,7,0,0
+Randolph,RICHARDSON,U.S. President,,REP,Mitt Romney,9,0,6,0,3
+Randolph,EAST ROANOKE,U.S. President,,REP,Mitt Romney,4,0,3,0,1
+Randolph,WEST ROANOKE,U.S. President,,REP,Mitt Romney,8,0,8,0,0
+Randolph,RUNNING LAKE,U.S. President,,REP,Mitt Romney,0,0,0,0,0
+Randolph,SHILOH,U.S. President,,REP,Mitt Romney,13,4,4,0,5
+Randolph,SILOAM,U.S. President,,REP,Mitt Romney,4,0,0,0,4
+Randolph,SPRING RIVER,U.S. President,,REP,Mitt Romney,10,0,8,0,2
+Randolph,UNION,U.S. President,,REP,Mitt Romney,2,0,0,0,2
+Randolph,WARM SPRINGS,U.S. President,,REP,Mitt Romney,2,1,1,0,0
+Randolph,WATER VALLEY,U.S. President,,REP,Mitt Romney,4,2,2,0,0
+Randolph,WILEY,U.S. President,,REP,Mitt Romney,2,2,0,0,0
+Randolph,WARD 1,U.S. President,,REP,Mitt Romney,23,1,8,0,14
+Randolph,WARD 2,U.S. President,,REP,Mitt Romney,14,3,4,0,7
+Randolph,WARD 3,U.S. President,,REP,Mitt Romney,29,3,4,0,22
+Randolph,DEMUN RURAL,U.S. President,,REP,Mitt Romney,22,4,6,0,12
+Randolph,BAKER,U.S. President,,REP,Ron Paul,0,0,0,0,0
+Randolph,BRISTOW,U.S. President,,REP,Ron Paul,0,0,0,0,0
+Randolph,BUTLER,U.S. President,,REP,Ron Paul,0,0,0,0,0
+Randolph,COLUMBIA,U.S. President,,REP,Ron Paul,0,0,0,0,0
+Randolph,CURRENT RIVER,U.S. President,,REP,Ron Paul,2,0,2,0,0
+Randolph,DALTON,U.S. President,,REP,Ron Paul,1,0,1,0,0
+Randolph,ELEVEN POINT,U.S. President,,REP,Ron Paul,1,0,1,0,0
+Randolph,FOSTER,U.S. President,,REP,Ron Paul,1,0,0,0,1
+Randolph,INGRAM,U.S. President,,REP,Ron Paul,2,0,1,0,1
+Randolph,JACKSON,U.S. President,,REP,Ron Paul,0,0,0,0,0
+Randolph,JANES CREEK,U.S. President,,REP,Ron Paul,4,0,3,0,1
+Randolph,LITTLE BLACK,U.S. President,,REP,Ron Paul,3,2,1,0,0
+Randolph,OKEAN,U.S. President,,REP,Ron Paul,0,0,0,0,0
+Randolph,REYNO,U.S. President,,REP,Ron Paul,1,0,1,0,0
+Randolph,RICHARDSON,U.S. President,,REP,Ron Paul,1,0,0,0,1
+Randolph,EAST ROANOKE,U.S. President,,REP,Ron Paul,0,0,0,0,0
+Randolph,WEST ROANOKE,U.S. President,,REP,Ron Paul,0,0,0,0,0
+Randolph,RUNNING LAKE,U.S. President,,REP,Ron Paul,2,0,0,0,2
+Randolph,SHILOH,U.S. President,,REP,Ron Paul,1,0,0,0,1
+Randolph,SILOAM,U.S. President,,REP,Ron Paul,0,0,0,0,0
+Randolph,SPRING RIVER,U.S. President,,REP,Ron Paul,2,0,1,0,1
+Randolph,UNION,U.S. President,,REP,Ron Paul,0,0,0,0,0
+Randolph,WARM SPRINGS,U.S. President,,REP,Ron Paul,3,0,2,0,1
+Randolph,WATER VALLEY,U.S. President,,REP,Ron Paul,1,0,1,0,0
+Randolph,WILEY,U.S. President,,REP,Ron Paul,0,0,0,0,0
+Randolph,WARD 1,U.S. President,,REP,Ron Paul,1,0,1,0,0
+Randolph,WARD 2,U.S. President,,REP,Ron Paul,3,0,1,0,2
+Randolph,WARD 3,U.S. President,,REP,Ron Paul,4,0,1,0,3
+Randolph,DEMUN RURAL,U.S. President,,REP,Ron Paul,4,0,3,0,1
+Randolph,BAKER,U.S. President,,REP,Newt Gingrich,0,0,0,0,0
+Randolph,BRISTOW,U.S. President,,REP,Newt Gingrich,0,0,0,0,0
+Randolph,BUTLER,U.S. President,,REP,Newt Gingrich,0,0,0,0,0
+Randolph,COLUMBIA,U.S. President,,REP,Newt Gingrich,1,0,1,0,0
+Randolph,CURRENT RIVER,U.S. President,,REP,Newt Gingrich,0,0,0,0,0
+Randolph,DALTON,U.S. President,,REP,Newt Gingrich,1,0,1,0,0
+Randolph,ELEVEN POINT,U.S. President,,REP,Newt Gingrich,0,0,0,0,0
+Randolph,FOSTER,U.S. President,,REP,Newt Gingrich,0,0,0,0,0
+Randolph,INGRAM,U.S. President,,REP,Newt Gingrich,0,0,0,0,0
+Randolph,JACKSON,U.S. President,,REP,Newt Gingrich,0,0,0,0,0
+Randolph,JANES CREEK,U.S. President,,REP,Newt Gingrich,1,0,1,0,0
+Randolph,LITTLE BLACK,U.S. President,,REP,Newt Gingrich,1,0,1,0,0
+Randolph,OKEAN,U.S. President,,REP,Newt Gingrich,0,0,0,0,0
+Randolph,REYNO,U.S. President,,REP,Newt Gingrich,1,0,1,0,0
+Randolph,RICHARDSON,U.S. President,,REP,Newt Gingrich,0,0,0,0,0
+Randolph,EAST ROANOKE,U.S. President,,REP,Newt Gingrich,0,0,0,0,0
+Randolph,WEST ROANOKE,U.S. President,,REP,Newt Gingrich,0,0,0,0,0
+Randolph,RUNNING LAKE,U.S. President,,REP,Newt Gingrich,0,0,0,0,0
+Randolph,SHILOH,U.S. President,,REP,Newt Gingrich,1,0,0,0,1
+Randolph,SILOAM,U.S. President,,REP,Newt Gingrich,0,0,0,0,0
+Randolph,SPRING RIVER,U.S. President,,REP,Newt Gingrich,0,0,0,0,0
+Randolph,UNION,U.S. President,,REP,Newt Gingrich,0,0,0,0,0
+Randolph,WARM SPRINGS,U.S. President,,REP,Newt Gingrich,0,0,0,0,0
+Randolph,WATER VALLEY,U.S. President,,REP,Newt Gingrich,0,0,0,0,0
+Randolph,WILEY,U.S. President,,REP,Newt Gingrich,0,0,0,0,0
+Randolph,WARD 1,U.S. President,,REP,Newt Gingrich,6,1,2,0,3
+Randolph,WARD 2,U.S. President,,REP,Newt Gingrich,2,0,1,0,1
+Randolph,WARD 3,U.S. President,,REP,Newt Gingrich,0,0,0,0,0
+Randolph,DEMUN RURAL,U.S. President,,REP,Newt Gingrich,1,0,1,0,0
+Randolph,BAKER,U.S. President,,REP,Rick Santorum,0,0,0,0,0
+Randolph,BRISTOW,U.S. President,,REP,Rick Santorum,0,0,0,0,0
+Randolph,BUTLER,U.S. President,,REP,Rick Santorum,0,0,0,0,0
+Randolph,COLUMBIA,U.S. President,,REP,Rick Santorum,1,0,1,0,0
+Randolph,CURRENT RIVER,U.S. President,,REP,Rick Santorum,1,0,1,0,0
+Randolph,DALTON,U.S. President,,REP,Rick Santorum,0,0,0,0,0
+Randolph,ELEVEN POINT,U.S. President,,REP,Rick Santorum,0,0,0,0,0
+Randolph,FOSTER,U.S. President,,REP,Rick Santorum,5,0,4,0,1
+Randolph,INGRAM,U.S. President,,REP,Rick Santorum,0,0,0,0,0
+Randolph,JACKSON,U.S. President,,REP,Rick Santorum,0,0,0,0,0
+Randolph,JANES CREEK,U.S. President,,REP,Rick Santorum,1,0,1,0,0
+Randolph,LITTLE BLACK,U.S. President,,REP,Rick Santorum,0,0,0,0,0
+Randolph,OKEAN,U.S. President,,REP,Rick Santorum,0,0,0,0,0
+Randolph,REYNO,U.S. President,,REP,Rick Santorum,5,0,5,0,0
+Randolph,RICHARDSON,U.S. President,,REP,Rick Santorum,1,0,1,0,0
+Randolph,EAST ROANOKE,U.S. President,,REP,Rick Santorum,0,0,0,0,0
+Randolph,WEST ROANOKE,U.S. President,,REP,Rick Santorum,0,0,0,0,0
+Randolph,RUNNING LAKE,U.S. President,,REP,Rick Santorum,1,0,0,0,1
+Randolph,SHILOH,U.S. President,,REP,Rick Santorum,1,0,0,0,1
+Randolph,SILOAM,U.S. President,,REP,Rick Santorum,0,0,0,0,0
+Randolph,SPRING RIVER,U.S. President,,REP,Rick Santorum,1,0,0,0,1
+Randolph,UNION,U.S. President,,REP,Rick Santorum,1,1,0,0,0
+Randolph,WARM SPRINGS,U.S. President,,REP,Rick Santorum,2,0,2,0,0
+Randolph,WATER VALLEY,U.S. President,,REP,Rick Santorum,3,0,3,0,0
+Randolph,WILEY,U.S. President,,REP,Rick Santorum,0,0,0,0,0
+Randolph,WARD 1,U.S. President,,REP,Rick Santorum,5,0,0,0,5
+Randolph,WARD 2,U.S. President,,REP,Rick Santorum,4,0,1,0,3
+Randolph,WARD 3,U.S. President,,REP,Rick Santorum,7,0,4,0,3
+Randolph,DEMUN RURAL,U.S. President,,REP,Rick Santorum,6,0,0,0,6
+Randolph,BAKER,UNOPPOSED REPUBLICAN CANDIDATES,,REP,FOR,0,0,0,0,0
+Randolph,BRISTOW,UNOPPOSED REPUBLICAN CANDIDATES,,REP,FOR,1,0,0,0,1
+Randolph,BUTLER,UNOPPOSED REPUBLICAN CANDIDATES,,REP,FOR,1,0,1,0,0
+Randolph,COLUMBIA,UNOPPOSED REPUBLICAN CANDIDATES,,REP,FOR,5,0,5,0,0
+Randolph,CURRENT RIVER,UNOPPOSED REPUBLICAN CANDIDATES,,REP,FOR,4,0,4,0,0
+Randolph,DALTON,UNOPPOSED REPUBLICAN CANDIDATES,,REP,FOR,6,0,6,0,0
+Randolph,ELEVEN POINT,UNOPPOSED REPUBLICAN CANDIDATES,,REP,FOR,1,0,1,0,0
+Randolph,FOSTER,UNOPPOSED REPUBLICAN CANDIDATES,,REP,FOR,14,0,9,0,5
+Randolph,INGRAM,UNOPPOSED REPUBLICAN CANDIDATES,,REP,FOR,2,0,1,0,1
+Randolph,JACKSON,UNOPPOSED REPUBLICAN CANDIDATES,,REP,FOR,0,0,0,0,0
+Randolph,JANES CREEK,UNOPPOSED REPUBLICAN CANDIDATES,,REP,FOR,7,0,2,0,5
+Randolph,LITTLE BLACK,UNOPPOSED REPUBLICAN CANDIDATES,,REP,FOR,7,4,3,0,0
+Randolph,OKEAN,UNOPPOSED REPUBLICAN CANDIDATES,,REP,FOR,6,0,6,0,0
+Randolph,REYNO,UNOPPOSED REPUBLICAN CANDIDATES,,REP,FOR,9,0,9,0,0
+Randolph,RICHARDSON,UNOPPOSED REPUBLICAN CANDIDATES,,REP,FOR,9,0,5,0,4
+Randolph,EAST ROANOKE,UNOPPOSED REPUBLICAN CANDIDATES,,REP,FOR,2,0,2,0,0
+Randolph,WEST ROANOKE,UNOPPOSED REPUBLICAN CANDIDATES,,REP,FOR,3,0,3,0,0
+Randolph,RUNNING LAKE,UNOPPOSED REPUBLICAN CANDIDATES,,REP,FOR,4,0,1,0,3
+Randolph,SHILOH,UNOPPOSED REPUBLICAN CANDIDATES,,REP,FOR,15,4,4,0,7
+Randolph,SILOAM,UNOPPOSED REPUBLICAN CANDIDATES,,REP,FOR,3,0,0,0,3
+Randolph,SPRING RIVER,UNOPPOSED REPUBLICAN CANDIDATES,,REP,FOR,11,0,8,0,3
+Randolph,UNION,UNOPPOSED REPUBLICAN CANDIDATES,,REP,FOR,3,1,0,0,2
+Randolph,WARM SPRINGS,UNOPPOSED REPUBLICAN CANDIDATES,,REP,FOR,7,1,5,0,1
+Randolph,WATER VALLEY,UNOPPOSED REPUBLICAN CANDIDATES,,REP,FOR,7,2,5,0,0
+Randolph,WILEY,UNOPPOSED REPUBLICAN CANDIDATES,,REP,FOR,2,2,0,0,0
+Randolph,WARD 1,UNOPPOSED REPUBLICAN CANDIDATES,,REP,FOR,31,2,9,0,20
+Randolph,WARD 2,UNOPPOSED REPUBLICAN CANDIDATES,,REP,FOR,19,2,5,0,12
+Randolph,WARD 3,UNOPPOSED REPUBLICAN CANDIDATES,,REP,FOR,34,3,7,0,24
+Randolph,DEMUN RURAL,UNOPPOSED REPUBLICAN CANDIDATES,,REP,FOR,25,3,8,0,14
+Randolph,BAKER,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,2,0,1,0,1
+Randolph,BRISTOW,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,2,0,1,0,1
+Randolph,BUTLER,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,2,0,2,0,0
+Randolph,COLUMBIA,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,27,1,22,0,4
+Randolph,CURRENT RIVER,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,13,0,11,0,2
+Randolph,DALTON,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,18,1,14,0,3
+Randolph,ELEVEN POINT,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,17,0,10,0,7
+Randolph,FOSTER,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,19,1,12,0,6
+Randolph,INGRAM,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,5,0,3,0,2
+Randolph,JACKSON,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,7,0,5,0,2
+Randolph,JANES CREEK,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,16,0,16,0,0
+Randolph,LITTLE BLACK,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,5,2,2,0,1
+Randolph,OKEAN,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,6,0,6,0,0
+Randolph,REYNO,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,12,0,10,0,2
+Randolph,RICHARDSON,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,24,0,16,0,8
+Randolph,EAST ROANOKE,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,12,2,6,0,4
+Randolph,WEST ROANOKE,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,26,1,16,0,9
+Randolph,RUNNING LAKE,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,5,1,3,0,1
+Randolph,SHILOH,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,29,1,14,0,14
+Randolph,SILOAM,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,5,0,3,0,2
+Randolph,SPRING RIVER,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,12,0,9,0,3
+Randolph,UNION,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,1,0,0,0,1
+Randolph,WARM SPRINGS,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,10,2,6,0,2
+Randolph,WATER VALLEY,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,12,3,9,0,0
+Randolph,WILEY,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,3,2,0,0,1
+Randolph,WARD 1,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,54,1,16,0,37
+Randolph,WARD 2,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,31,1,16,0,14
+Randolph,WARD 3,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,70,3,16,0,51
+Randolph,DEMUN RURAL,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,49,1,14,0,34
+Randolph,BAKER,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,5,0,4,0,1
+Randolph,BRISTOW,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,9,0,3,0,6
+Randolph,BUTLER,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,1,0,0,0,1
+Randolph,COLUMBIA,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,60,1,41,0,18
+Randolph,CURRENT RIVER,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,32,1,30,0,1
+Randolph,DALTON,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,38,3,26,0,9
+Randolph,ELEVEN POINT,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,25,1,20,0,4
+Randolph,FOSTER,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,70,5,35,0,30
+Randolph,INGRAM,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,16,0,11,0,5
+Randolph,JACKSON,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,13,1,11,0,1
+Randolph,JANES CREEK,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,26,0,17,0,9
+Randolph,LITTLE BLACK,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,40,1,23,0,16
+Randolph,OKEAN,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,19,0,19,0,0
+Randolph,REYNO,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,51,2,48,0,1
+Randolph,RICHARDSON,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,96,3,66,0,27
+Randolph,EAST ROANOKE,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,29,0,18,0,11
+Randolph,WEST ROANOKE,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,58,0,44,0,14
+Randolph,RUNNING LAKE,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,23,0,16,0,7
+Randolph,SHILOH,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,109,6,28,0,75
+Randolph,SILOAM,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,23,3,15,0,5
+Randolph,SPRING RIVER,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,25,1,18,0,6
+Randolph,UNION,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,2,0,1,0,1
+Randolph,WARM SPRINGS,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,18,1,14,0,3
+Randolph,WATER VALLEY,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,26,0,19,0,7
+Randolph,WILEY,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,6,0,1,0,5
+Randolph,WARD 1,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,157,15,53,0,89
+Randolph,WARD 2,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,135,9,36,0,90
+Randolph,WARD 3,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,249,12,66,0,171
+Randolph,DEMUN RURAL,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,179,14,71,0,94
+Randolph,BAKER,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,2,0,1,0,1
+Randolph,BRISTOW,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,5,0,2,0,3
+Randolph,BUTLER,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,0,0,0,0,0
+Randolph,COLUMBIA,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,49,0,32,0,17
+Randolph,CURRENT RIVER,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,27,0,24,0,3
+Randolph,DALTON,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,25,2,19,0,4
+Randolph,ELEVEN POINT,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,25,0,16,0,9
+Randolph,FOSTER,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,50,3,19,0,28
+Randolph,INGRAM,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,12,0,7,0,5
+Randolph,JACKSON,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,10,1,9,0,0
+Randolph,JANES CREEK,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,18,0,14,0,4
+Randolph,LITTLE BLACK,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,11,0,7,0,4
+Randolph,OKEAN,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,11,0,11,0,0
+Randolph,REYNO,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,38,2,35,0,1
+Randolph,RICHARDSON,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,72,2,48,0,22
+Randolph,EAST ROANOKE,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,22,2,13,0,7
+Randolph,WEST ROANOKE,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,50,0,34,0,16
+Randolph,RUNNING LAKE,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,14,0,10,0,4
+Randolph,SHILOH,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,74,0,26,0,48
+Randolph,SILOAM,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,11,2,7,0,2
+Randolph,SPRING RIVER,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,18,1,12,0,5
+Randolph,UNION,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,1,0,0,0,1
+Randolph,WARM SPRINGS,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,13,2,9,0,2
+Randolph,WATER VALLEY,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,25,3,18,0,4
+Randolph,WILEY,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,4,0,1,0,3
+Randolph,WARD 1,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,113,6,35,0,72
+Randolph,WARD 2,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,89,3,22,0,64
+Randolph,WARD 3,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,156,5,40,0,111
+Randolph,DEMUN RURAL,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,120,2,49,0,69
+Randolph,BAKER,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,5,0,4,0,1
+Randolph,BRISTOW,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,5,0,1,0,4
+Randolph,BUTLER,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,3,0,2,0,1
+Randolph,COLUMBIA,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,38,2,31,0,5
+Randolph,CURRENT RIVER,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,18,1,17,0,0
+Randolph,DALTON,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,29,2,19,0,8
+Randolph,ELEVEN POINT,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,15,1,11,0,3
+Randolph,FOSTER,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,43,3,30,0,10
+Randolph,INGRAM,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,9,0,7,0,2
+Randolph,JACKSON,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,11,0,9,0,2
+Randolph,JANES CREEK,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,24,0,19,0,5
+Randolph,LITTLE BLACK,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,35,5,18,0,12
+Randolph,OKEAN,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,14,0,14,0,0
+Randolph,REYNO,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,22,0,20,0,2
+Randolph,RICHARDSON,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,43,0,33,0,10
+Randolph,EAST ROANOKE,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,18,0,12,0,6
+Randolph,WEST ROANOKE,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,36,1,26,0,9
+Randolph,RUNNING LAKE,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,14,1,9,0,4
+Randolph,SHILOH,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,65,7,18,0,40
+Randolph,SILOAM,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,18,1,11,0,6
+Randolph,SPRING RIVER,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,18,0,14,0,4
+Randolph,UNION,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,2,0,1,0,1
+Randolph,WARM SPRINGS,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,15,1,11,0,3
+Randolph,WATER VALLEY,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,14,0,10,0,4
+Randolph,WILEY,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,5,2,0,0,3
+Randolph,WARD 1,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,99,10,36,0,53
+Randolph,WARD 2,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,75,7,29,0,39
+Randolph,WARD 3,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,154,7,41,0,106
+Randolph,DEMUN RURAL,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,106,12,35,0,59
+Randolph,BAKER,UNOPPOSED NONPARTISAN CANDIDATES,,,FOR,7,0,5,0,2
+Randolph,BRISTOW,UNOPPOSED NONPARTISAN CANDIDATES,,,FOR,12,0,4,0,8
+Randolph,BUTLER,UNOPPOSED NONPARTISAN CANDIDATES,,,FOR,2,0,2,0,0
+Randolph,COLUMBIA,UNOPPOSED NONPARTISAN CANDIDATES,,,FOR,70,2,51,0,17
+Randolph,CURRENT RIVER,UNOPPOSED NONPARTISAN CANDIDATES,,,FOR,43,1,39,0,3
+Randolph,DALTON,UNOPPOSED NONPARTISAN CANDIDATES,,,FOR,40,3,26,0,11
+Randolph,ELEVEN POINT,UNOPPOSED NONPARTISAN CANDIDATES,,,FOR,38,1,27,0,10
+Randolph,FOSTER,UNOPPOSED NONPARTISAN CANDIDATES,,,FOR,71,5,38,0,28
+Randolph,INGRAM,UNOPPOSED NONPARTISAN CANDIDATES,,,FOR,19,0,13,0,6
+Randolph,JACKSON,UNOPPOSED NONPARTISAN CANDIDATES,,,FOR,15,1,11,0,3
+Randolph,JANES CREEK,UNOPPOSED NONPARTISAN CANDIDATES,,,FOR,37,0,28,0,9
+Randolph,LITTLE BLACK,UNOPPOSED NONPARTISAN CANDIDATES,,,FOR,39,5,20,0,14
+Randolph,OKEAN,UNOPPOSED NONPARTISAN CANDIDATES,,,FOR,21,0,21,0,0
+Randolph,REYNO,UNOPPOSED NONPARTISAN CANDIDATES,,,FOR,50,2,46,0,2
+Randolph,RICHARDSON,UNOPPOSED NONPARTISAN CANDIDATES,,,FOR,99,2,65,0,32
+Randolph,EAST ROANOKE,UNOPPOSED NONPARTISAN CANDIDATES,,,FOR,29,2,18,0,9
+Randolph,WEST ROANOKE,UNOPPOSED NONPARTISAN CANDIDATES,,,FOR,66,1,44,0,21
+Randolph,RUNNING LAKE,UNOPPOSED NONPARTISAN CANDIDATES,,,FOR,27,1,18,0,8
+Randolph,SHILOH,UNOPPOSED NONPARTISAN CANDIDATES,,,FOR,114,6,34,0,74
+Randolph,SILOAM,UNOPPOSED NONPARTISAN CANDIDATES,,,FOR,24,3,16,0,5
+Randolph,SPRING RIVER,UNOPPOSED NONPARTISAN CANDIDATES,,,FOR,32,0,23,0,9
+Randolph,UNION,UNOPPOSED NONPARTISAN CANDIDATES,,,FOR,3,0,1,0,2
+Randolph,WARM SPRINGS,UNOPPOSED NONPARTISAN CANDIDATES,,,FOR,22,2,15,0,5
+Randolph,WATER VALLEY,UNOPPOSED NONPARTISAN CANDIDATES,,,FOR,33,3,25,0,5
+Randolph,WILEY,UNOPPOSED NONPARTISAN CANDIDATES,,,FOR,9,2,1,0,6
+Randolph,WARD 1,UNOPPOSED NONPARTISAN CANDIDATES,,,FOR,180,15,58,0,107
+Randolph,WARD 2,UNOPPOSED NONPARTISAN CANDIDATES,,,FOR,139,10,41,0,88
+Randolph,WARD 3,UNOPPOSED NONPARTISAN CANDIDATES,,,FOR,289,15,77,0,197
+Randolph,DEMUN RURAL,UNOPPOSED NONPARTISAN CANDIDATES,,,FOR,200,13,77,0,110

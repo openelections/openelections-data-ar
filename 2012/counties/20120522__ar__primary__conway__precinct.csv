@@ -1,0 +1,551 @@
+county,precinct,office,district,party,candidate,votes,election_day
+Conway,AUSTIN,U.S. President,,DEM,Barack Obama,10,10
+Conway,BENTLEY CITY,U.S. President,,DEM,Barack Obama,14,14
+Conway,WELBOURNE WEST,U.S. President,,DEM,Barack Obama,25,25
+Conway,ST. VINCENT,U.S. President,,DEM,Barack Obama,26,26
+Conway,STEELE,U.S. President,,DEM,Barack Obama,5,5
+Conway,MENIFEE CITY,U.S. President,,DEM,Barack Obama,49,49
+Conway,HOWARD CITY,U.S. President,,DEM,Barack Obama,66,66
+Conway,HIGGINS,U.S. President,,DEM,Barack Obama,2,2
+Conway,CEDAR FALLS,U.S. President,,DEM,Barack Obama,11,11
+Conway,GREGORY,U.S. President,,DEM,Barack Obama,20,20
+Conway,GRIFFIN,U.S. President,,DEM,Barack Obama,29,29
+Conway,LICK MTN.,U.S. President,,DEM,Barack Obama,17,17
+Conway,WASHINGTON EAST,U.S. President,,DEM,Barack Obama,44,44
+Conway,MCCLAREN,U.S. President,,DEM,Barack Obama,3,3
+Conway,HOWARD RURAL,U.S. President,,DEM,Barack Obama,20,20
+Conway,WHITE EAGLE,U.S. President,,DEM,Barack Obama,1,1
+Conway,WARD 3,U.S. President,,DEM,Barack Obama,93,93
+Conway,WARD 4,U.S. President,,DEM,Barack Obama,75,75
+Conway,MARTIN,U.S. President,,DEM,Barack Obama,2,2
+Conway,WARD 2,U.S. President,,DEM,Barack Obama,50,50
+Conway,UNION,U.S. President,,DEM,Barack Obama,35,35
+Conway,BENTLEY RURAL,U.S. President,,DEM,Barack Obama,11,11
+Conway,WASHINGTON WEST,U.S. President,,DEM,Barack Obama,21,21
+Conway,BIRD,U.S. President,,DEM,Barack Obama,18,18
+Conway,CATHOLIC POINT,U.S. President,,DEM,Barack Obama,20,20
+Conway,PETIT JEAN,U.S. President,,DEM,Barack Obama,2,2
+Conway,NICHOLS,U.S. President,,DEM,Barack Obama,21,21
+Conway,OLD HICKORY,U.S. President,,DEM,Barack Obama,16,16
+Conway,WARD 1,U.S. President,,DEM,Barack Obama,70,70
+Conway,WELBOURNE EAST,U.S. President,,DEM,Barack Obama,81,81
+Conway,MENIFEE RURAL,U.S. President,,DEM,Barack Obama,3,3
+Conway,ABSENTEE,U.S. President,,DEM,Barack Obama,94,94
+Conway,AUSTIN,U.S. President,,DEM,John Wolfe,8,8
+Conway,BENTLEY CITY,U.S. President,,DEM,John Wolfe,25,25
+Conway,WELBOURNE WEST,U.S. President,,DEM,John Wolfe,31,31
+Conway,ST. VINCENT,U.S. President,,DEM,John Wolfe,34,34
+Conway,STEELE,U.S. President,,DEM,John Wolfe,20,20
+Conway,MENIFEE CITY,U.S. President,,DEM,John Wolfe,1,1
+Conway,HOWARD CITY,U.S. President,,DEM,John Wolfe,59,59
+Conway,HIGGINS,U.S. President,,DEM,John Wolfe,1,1
+Conway,CEDAR FALLS,U.S. President,,DEM,John Wolfe,4,4
+Conway,GREGORY,U.S. President,,DEM,John Wolfe,21,21
+Conway,GRIFFIN,U.S. President,,DEM,John Wolfe,36,36
+Conway,LICK MTN.,U.S. President,,DEM,John Wolfe,20,20
+Conway,WASHINGTON EAST,U.S. President,,DEM,John Wolfe,39,39
+Conway,MCCLAREN,U.S. President,,DEM,John Wolfe,7,7
+Conway,HOWARD RURAL,U.S. President,,DEM,John Wolfe,19,19
+Conway,WHITE EAGLE,U.S. President,,DEM,John Wolfe,1,1
+Conway,WARD 3,U.S. President,,DEM,John Wolfe,37,37
+Conway,WARD 4,U.S. President,,DEM,John Wolfe,82,82
+Conway,MARTIN,U.S. President,,DEM,John Wolfe,1,1
+Conway,WARD 2,U.S. President,,DEM,John Wolfe,28,28
+Conway,UNION,U.S. President,,DEM,John Wolfe,38,38
+Conway,BENTLEY RURAL,U.S. President,,DEM,John Wolfe,19,19
+Conway,WASHINGTON WEST,U.S. President,,DEM,John Wolfe,15,15
+Conway,BIRD,U.S. President,,DEM,John Wolfe,21,21
+Conway,CATHOLIC POINT,U.S. President,,DEM,John Wolfe,28,28
+Conway,PETIT JEAN,U.S. President,,DEM,John Wolfe,2,2
+Conway,NICHOLS,U.S. President,,DEM,John Wolfe,45,45
+Conway,OLD HICKORY,U.S. President,,DEM,John Wolfe,11,11
+Conway,WARD 1,U.S. President,,DEM,John Wolfe,67,67
+Conway,WELBOURNE EAST,U.S. President,,DEM,John Wolfe,67,67
+Conway,MENIFEE RURAL,U.S. President,,DEM,John Wolfe,0,0
+Conway,ABSENTEE,U.S. President,,DEM,John Wolfe,9,9
+Conway,HOWARD CITY,JP DIST. 6,,DEM,TYRONE HAMMOND,43,43
+Conway,HOWARD RURAL,JP DIST. 6,,DEM,TYRONE HAMMOND,7,7
+Conway,WELBOURNE EAST,JP DIST. 6,,DEM,TYRONE HAMMOND,44,44
+Conway,ABSENTEE,JP DIST. 6,,DEM,TYRONE HAMMOND,37,37
+Conway,HOWARD CITY,JP DIST. 6,,DEM,BILLY F. DEAVER,94,94
+Conway,HOWARD RURAL,JP DIST. 6,,DEM,BILLY F. DEAVER,2,2
+Conway,WELBOURNE EAST,JP DIST. 6,,DEM,BILLY F. DEAVER,69,69
+Conway,ABSENTEE,JP DIST. 6,,DEM,BILLY F. DEAVER,1,1
+Conway,ST. VINCENT,JP DIST. 3,,DEM,LARRY NICHOLSON,6,6
+Conway,GRIFFIN,JP DIST. 3,,DEM,LARRY NICHOLSON,51,51
+Conway,LICK MTN.,JP DIST. 3,,DEM,LARRY NICHOLSON,0,0
+Conway,MCCLAREN,JP DIST. 3,,DEM,LARRY NICHOLSON,4,4
+Conway,BIRD,JP DIST. 3,,DEM,LARRY NICHOLSON,1,1
+Conway,NICHOLS,JP DIST. 3,,DEM,LARRY NICHOLSON,16,16
+Conway,OLD HICKORY,JP DIST. 3,,DEM,LARRY NICHOLSON,9,9
+Conway,ABSENTEE,JP DIST. 3,,DEM,LARRY NICHOLSON,3,3
+Conway,ST. VINCENT,JP DIST. 3,,DEM,RONNY CAMPBELL,3,3
+Conway,GRIFFIN,JP DIST. 3,,DEM,RONNY CAMPBELL,20,20
+Conway,LICK MTN.,JP DIST. 3,,DEM,RONNY CAMPBELL,0,0
+Conway,MCCLAREN,JP DIST. 3,,DEM,RONNY CAMPBELL,6,6
+Conway,BIRD,JP DIST. 3,,DEM,RONNY CAMPBELL,0,0
+Conway,NICHOLS,JP DIST. 3,,DEM,RONNY CAMPBELL,57,57
+Conway,OLD HICKORY,JP DIST. 3,,DEM,RONNY CAMPBELL,20,20
+Conway,ABSENTEE,JP DIST. 3,,DEM,RONNY CAMPBELL,3,3
+Conway,WELBOURNE WEST,WELBOURNE CONSTABLE,,DEM,ROBERT L. STOBAUGH,53,53
+Conway,WARD 3,WELBOURNE CONSTABLE,,DEM,ROBERT L. STOBAUGH,101,101
+Conway,WARD 4,WELBOURNE CONSTABLE,,DEM,ROBERT L. STOBAUGH,124,124
+Conway,WARD 2,WELBOURNE CONSTABLE,,DEM,ROBERT L. STOBAUGH,62,62
+Conway,WARD 1,WELBOURNE CONSTABLE,,DEM,ROBERT L. STOBAUGH,108,108
+Conway,WELBOURNE EAST,WELBOURNE CONSTABLE,,DEM,ROBERT L. STOBAUGH,103,103
+Conway,ABSENTEE,WELBOURNE CONSTABLE,,DEM,ROBERT L. STOBAUGH,26,26
+Conway,WELBOURNE WEST,WELBOURNE CONSTABLE,,DEM,MIKE HOWELL,9,9
+Conway,WARD 3,WELBOURNE CONSTABLE,,DEM,MIKE HOWELL,22,22
+Conway,WARD 4,WELBOURNE CONSTABLE,,DEM,MIKE HOWELL,47,47
+Conway,WARD 2,WELBOURNE CONSTABLE,,DEM,MIKE HOWELL,16,16
+Conway,WARD 1,WELBOURNE CONSTABLE,,DEM,MIKE HOWELL,31,31
+Conway,WELBOURNE EAST,WELBOURNE CONSTABLE,,DEM,MIKE HOWELL,47,47
+Conway,ABSENTEE,WELBOURNE CONSTABLE,,DEM,MIKE HOWELL,7,7
+Conway,AUSTIN,DEMOCRAT UNOPPOSED CANDIDATES,,DEM,FOR,11,11
+Conway,BENTLEY CITY,DEMOCRAT UNOPPOSED CANDIDATES,,DEM,FOR,35,35
+Conway,WELBOURNE WEST,DEMOCRAT UNOPPOSED CANDIDATES,,DEM,FOR,48,48
+Conway,ST. VINCENT,DEMOCRAT UNOPPOSED CANDIDATES,,DEM,FOR,50,50
+Conway,STEELE,DEMOCRAT UNOPPOSED CANDIDATES,,DEM,FOR,19,19
+Conway,MENIFEE CITY,DEMOCRAT UNOPPOSED CANDIDATES,,DEM,FOR,31,31
+Conway,HOWARD CITY,DEMOCRAT UNOPPOSED CANDIDATES,,DEM,FOR,85,85
+Conway,HIGGINS,DEMOCRAT UNOPPOSED CANDIDATES,,DEM,FOR,2,2
+Conway,CEDAR FALLS,DEMOCRAT UNOPPOSED CANDIDATES,,DEM,FOR,13,13
+Conway,GREGORY,DEMOCRAT UNOPPOSED CANDIDATES,,DEM,FOR,25,25
+Conway,GRIFFIN,DEMOCRAT UNOPPOSED CANDIDATES,,DEM,FOR,44,44
+Conway,LICK MTN.,DEMOCRAT UNOPPOSED CANDIDATES,,DEM,FOR,30,30
+Conway,WASHINGTON EAST,DEMOCRAT UNOPPOSED CANDIDATES,,DEM,FOR,58,58
+Conway,MCCLAREN,DEMOCRAT UNOPPOSED CANDIDATES,,DEM,FOR,7,7
+Conway,HOWARD RURAL,DEMOCRAT UNOPPOSED CANDIDATES,,DEM,FOR,32,32
+Conway,WHITE EAGLE,DEMOCRAT UNOPPOSED CANDIDATES,,DEM,FOR,1,1
+Conway,WARD 3,DEMOCRAT UNOPPOSED CANDIDATES,,DEM,FOR,90,90
+Conway,WARD 4,DEMOCRAT UNOPPOSED CANDIDATES,,DEM,FOR,122,122
+Conway,MARTIN,DEMOCRAT UNOPPOSED CANDIDATES,,DEM,FOR,3,3
+Conway,WARD 2,DEMOCRAT UNOPPOSED CANDIDATES,,DEM,FOR,58,58
+Conway,UNION,DEMOCRAT UNOPPOSED CANDIDATES,,DEM,FOR,61,61
+Conway,BENTLEY RURAL,DEMOCRAT UNOPPOSED CANDIDATES,,DEM,FOR,22,22
+Conway,WASHINGTON WEST,DEMOCRAT UNOPPOSED CANDIDATES,,DEM,FOR,23,23
+Conway,BIRD,DEMOCRAT UNOPPOSED CANDIDATES,,DEM,FOR,26,26
+Conway,CATHOLIC POINT,DEMOCRAT UNOPPOSED CANDIDATES,,DEM,FOR,43,43
+Conway,PETIT JEAN,DEMOCRAT UNOPPOSED CANDIDATES,,DEM,FOR,4,4
+Conway,NICHOLS,DEMOCRAT UNOPPOSED CANDIDATES,,DEM,FOR,41,41
+Conway,OLD HICKORY,DEMOCRAT UNOPPOSED CANDIDATES,,DEM,FOR,20,20
+Conway,WARD 1,DEMOCRAT UNOPPOSED CANDIDATES,,DEM,FOR,88,88
+Conway,WELBOURNE EAST,DEMOCRAT UNOPPOSED CANDIDATES,,DEM,FOR,107,107
+Conway,MENIFEE RURAL,DEMOCRAT UNOPPOSED CANDIDATES,,DEM,FOR,1,1
+Conway,ABSENTEE,DEMOCRAT UNOPPOSED CANDIDATES,,DEM,FOR,101,101
+Conway,AUSTIN,U.S. President,,REP,Rick Santorum,0,0
+Conway,BENTLEY CITY,U.S. President,,REP,Rick Santorum,10,10
+Conway,WELBOURNE WEST,U.S. President,,REP,Rick Santorum,6,6
+Conway,ST. VINCENT,U.S. President,,REP,Rick Santorum,7,7
+Conway,STEELE,U.S. President,,REP,Rick Santorum,7,7
+Conway,MENIFEE CITY,U.S. President,,REP,Rick Santorum,0,0
+Conway,HOWARD CITY,U.S. President,,REP,Rick Santorum,3,3
+Conway,HIGGINS,U.S. President,,REP,Rick Santorum,0,0
+Conway,CEDAR FALLS,U.S. President,,REP,Rick Santorum,6,6
+Conway,GREGORY,U.S. President,,REP,Rick Santorum,3,3
+Conway,GRIFFIN,U.S. President,,REP,Rick Santorum,5,5
+Conway,LICK MTN.,U.S. President,,REP,Rick Santorum,2,2
+Conway,WASHINGTON EAST,U.S. President,,REP,Rick Santorum,7,7
+Conway,MCCLAREN,U.S. President,,REP,Rick Santorum,0,0
+Conway,HOWARD RURAL,U.S. President,,REP,Rick Santorum,6,6
+Conway,WHITE EAGLE,U.S. President,,REP,Rick Santorum,0,0
+Conway,WARD 3,U.S. President,,REP,Rick Santorum,7,7
+Conway,WARD 4,U.S. President,,REP,Rick Santorum,14,14
+Conway,MARTIN,U.S. President,,REP,Rick Santorum,5,5
+Conway,WARD 2,U.S. President,,REP,Rick Santorum,7,7
+Conway,UNION,U.S. President,,REP,Rick Santorum,3,3
+Conway,BENTLEY RURAL,U.S. President,,REP,Rick Santorum,2,2
+Conway,WASHINGTON WEST,U.S. President,,REP,Rick Santorum,1,1
+Conway,BIRD,U.S. President,,REP,Rick Santorum,9,9
+Conway,CATHOLIC POINT,U.S. President,,REP,Rick Santorum,2,2
+Conway,PETIT JEAN,U.S. President,,REP,Rick Santorum,3,3
+Conway,NICHOLS,U.S. President,,REP,Rick Santorum,6,6
+Conway,OLD HICKORY,U.S. President,,REP,Rick Santorum,1,1
+Conway,WARD 1,U.S. President,,REP,Rick Santorum,2,2
+Conway,WELBOURNE EAST,U.S. President,,REP,Rick Santorum,11,11
+Conway,MENIFEE RURAL,U.S. President,,REP,Rick Santorum,1,1
+Conway,ABSENTEE,U.S. President,,REP,Rick Santorum,3,3
+Conway,AUSTIN,U.S. President,,REP,Newt Gingrich,0,0
+Conway,BENTLEY CITY,U.S. President,,REP,Newt Gingrich,4,4
+Conway,WELBOURNE WEST,U.S. President,,REP,Newt Gingrich,0,0
+Conway,ST. VINCENT,U.S. President,,REP,Newt Gingrich,2,2
+Conway,STEELE,U.S. President,,REP,Newt Gingrich,1,1
+Conway,MENIFEE CITY,U.S. President,,REP,Newt Gingrich,0,0
+Conway,HOWARD CITY,U.S. President,,REP,Newt Gingrich,1,1
+Conway,HIGGINS,U.S. President,,REP,Newt Gingrich,0,0
+Conway,CEDAR FALLS,U.S. President,,REP,Newt Gingrich,4,4
+Conway,GREGORY,U.S. President,,REP,Newt Gingrich,0,0
+Conway,GRIFFIN,U.S. President,,REP,Newt Gingrich,2,2
+Conway,LICK MTN.,U.S. President,,REP,Newt Gingrich,0,0
+Conway,WASHINGTON EAST,U.S. President,,REP,Newt Gingrich,3,3
+Conway,MCCLAREN,U.S. President,,REP,Newt Gingrich,0,0
+Conway,HOWARD RURAL,U.S. President,,REP,Newt Gingrich,1,1
+Conway,WHITE EAGLE,U.S. President,,REP,Newt Gingrich,0,0
+Conway,WARD 3,U.S. President,,REP,Newt Gingrich,1,1
+Conway,WARD 4,U.S. President,,REP,Newt Gingrich,2,2
+Conway,MARTIN,U.S. President,,REP,Newt Gingrich,0,0
+Conway,WARD 2,U.S. President,,REP,Newt Gingrich,0,0
+Conway,UNION,U.S. President,,REP,Newt Gingrich,1,1
+Conway,BENTLEY RURAL,U.S. President,,REP,Newt Gingrich,0,0
+Conway,WASHINGTON WEST,U.S. President,,REP,Newt Gingrich,0,0
+Conway,BIRD,U.S. President,,REP,Newt Gingrich,1,1
+Conway,CATHOLIC POINT,U.S. President,,REP,Newt Gingrich,0,0
+Conway,PETIT JEAN,U.S. President,,REP,Newt Gingrich,0,0
+Conway,NICHOLS,U.S. President,,REP,Newt Gingrich,3,3
+Conway,OLD HICKORY,U.S. President,,REP,Newt Gingrich,0,0
+Conway,WARD 1,U.S. President,,REP,Newt Gingrich,2,2
+Conway,WELBOURNE EAST,U.S. President,,REP,Newt Gingrich,4,4
+Conway,MENIFEE RURAL,U.S. President,,REP,Newt Gingrich,0,0
+Conway,ABSENTEE,U.S. President,,REP,Newt Gingrich,2,2
+Conway,AUSTIN,U.S. President,,REP,Mitt Romney,5,5
+Conway,BENTLEY CITY,U.S. President,,REP,Mitt Romney,18,18
+Conway,WELBOURNE WEST,U.S. President,,REP,Mitt Romney,20,20
+Conway,ST. VINCENT,U.S. President,,REP,Mitt Romney,19,19
+Conway,STEELE,U.S. President,,REP,Mitt Romney,24,24
+Conway,MENIFEE CITY,U.S. President,,REP,Mitt Romney,0,0
+Conway,HOWARD CITY,U.S. President,,REP,Mitt Romney,6,6
+Conway,HIGGINS,U.S. President,,REP,Mitt Romney,0,0
+Conway,CEDAR FALLS,U.S. President,,REP,Mitt Romney,24,24
+Conway,GREGORY,U.S. President,,REP,Mitt Romney,13,13
+Conway,GRIFFIN,U.S. President,,REP,Mitt Romney,14,14
+Conway,LICK MTN.,U.S. President,,REP,Mitt Romney,20,20
+Conway,WASHINGTON EAST,U.S. President,,REP,Mitt Romney,29,29
+Conway,MCCLAREN,U.S. President,,REP,Mitt Romney,5,5
+Conway,HOWARD RURAL,U.S. President,,REP,Mitt Romney,6,6
+Conway,WHITE EAGLE,U.S. President,,REP,Mitt Romney,3,3
+Conway,WARD 3,U.S. President,,REP,Mitt Romney,13,13
+Conway,WARD 4,U.S. President,,REP,Mitt Romney,53,53
+Conway,MARTIN,U.S. President,,REP,Mitt Romney,5,5
+Conway,WARD 2,U.S. President,,REP,Mitt Romney,19,19
+Conway,UNION,U.S. President,,REP,Mitt Romney,11,11
+Conway,BENTLEY RURAL,U.S. President,,REP,Mitt Romney,11,11
+Conway,WASHINGTON WEST,U.S. President,,REP,Mitt Romney,10,10
+Conway,BIRD,U.S. President,,REP,Mitt Romney,16,16
+Conway,CATHOLIC POINT,U.S. President,,REP,Mitt Romney,4,4
+Conway,PETIT JEAN,U.S. President,,REP,Mitt Romney,9,9
+Conway,NICHOLS,U.S. President,,REP,Mitt Romney,20,20
+Conway,OLD HICKORY,U.S. President,,REP,Mitt Romney,4,4
+Conway,WARD 1,U.S. President,,REP,Mitt Romney,27,27
+Conway,WELBOURNE EAST,U.S. President,,REP,Mitt Romney,23,23
+Conway,MENIFEE RURAL,U.S. President,,REP,Mitt Romney,1,1
+Conway,ABSENTEE,U.S. President,,REP,Mitt Romney,10,10
+Conway,AUSTIN,U.S. President,,REP,Ron Paul,0,0
+Conway,BENTLEY CITY,U.S. President,,REP,Ron Paul,5,5
+Conway,WELBOURNE WEST,U.S. President,,REP,Ron Paul,4,4
+Conway,ST. VINCENT,U.S. President,,REP,Ron Paul,3,3
+Conway,STEELE,U.S. President,,REP,Ron Paul,2,2
+Conway,MENIFEE CITY,U.S. President,,REP,Ron Paul,0,0
+Conway,HOWARD CITY,U.S. President,,REP,Ron Paul,4,4
+Conway,HIGGINS,U.S. President,,REP,Ron Paul,0,0
+Conway,CEDAR FALLS,U.S. President,,REP,Ron Paul,3,3
+Conway,GREGORY,U.S. President,,REP,Ron Paul,4,4
+Conway,GRIFFIN,U.S. President,,REP,Ron Paul,0,0
+Conway,LICK MTN.,U.S. President,,REP,Ron Paul,8,8
+Conway,WASHINGTON EAST,U.S. President,,REP,Ron Paul,6,6
+Conway,MCCLAREN,U.S. President,,REP,Ron Paul,1,1
+Conway,HOWARD RURAL,U.S. President,,REP,Ron Paul,3,3
+Conway,WHITE EAGLE,U.S. President,,REP,Ron Paul,1,1
+Conway,WARD 3,U.S. President,,REP,Ron Paul,3,3
+Conway,WARD 4,U.S. President,,REP,Ron Paul,14,14
+Conway,MARTIN,U.S. President,,REP,Ron Paul,0,0
+Conway,WARD 2,U.S. President,,REP,Ron Paul,1,1
+Conway,UNION,U.S. President,,REP,Ron Paul,1,1
+Conway,BENTLEY RURAL,U.S. President,,REP,Ron Paul,1,1
+Conway,WASHINGTON WEST,U.S. President,,REP,Ron Paul,8,8
+Conway,BIRD,U.S. President,,REP,Ron Paul,2,2
+Conway,CATHOLIC POINT,U.S. President,,REP,Ron Paul,0,0
+Conway,PETIT JEAN,U.S. President,,REP,Ron Paul,2,2
+Conway,NICHOLS,U.S. President,,REP,Ron Paul,8,8
+Conway,OLD HICKORY,U.S. President,,REP,Ron Paul,0,0
+Conway,WARD 1,U.S. President,,REP,Ron Paul,10,10
+Conway,WELBOURNE EAST,U.S. President,,REP,Ron Paul,4,4
+Conway,MENIFEE RURAL,U.S. President,,REP,Ron Paul,0,0
+Conway,ABSENTEE,U.S. President,,REP,Ron Paul,1,1
+Conway,AUSTIN,State Senate District 15,,REP,Representative Ed Garner,4,4
+Conway,BENTLEY CITY,State Senate District 15,,REP,Representative Ed Garner,9,9
+Conway,WELBOURNE WEST,State Senate District 15,,REP,Representative Ed Garner,13,13
+Conway,ST. VINCENT,State Senate District 15,,REP,Representative Ed Garner,11,11
+Conway,STEELE,State Senate District 15,,REP,Representative Ed Garner,12,12
+Conway,MENIFEE CITY,State Senate District 15,,REP,Representative Ed Garner,0,0
+Conway,HOWARD CITY,State Senate District 15,,REP,Representative Ed Garner,4,4
+Conway,HIGGINS,State Senate District 15,,REP,Representative Ed Garner,0,0
+Conway,CEDAR FALLS,State Senate District 15,,REP,Representative Ed Garner,23,23
+Conway,GREGORY,State Senate District 15,,REP,Representative Ed Garner,12,12
+Conway,GRIFFIN,State Senate District 15,,REP,Representative Ed Garner,8,8
+Conway,LICK MTN.,State Senate District 15,,REP,Representative Ed Garner,16,16
+Conway,WASHINGTON EAST,State Senate District 15,,REP,Representative Ed Garner,14,14
+Conway,MCCLAREN,State Senate District 15,,REP,Representative Ed Garner,3,3
+Conway,HOWARD RURAL,State Senate District 15,,REP,Representative Ed Garner,10,10
+Conway,WHITE EAGLE,State Senate District 15,,REP,Representative Ed Garner,2,2
+Conway,WARD 3,State Senate District 15,,REP,Representative Ed Garner,7,7
+Conway,WARD 4,State Senate District 15,,REP,Representative Ed Garner,34,34
+Conway,MARTIN,State Senate District 15,,REP,Representative Ed Garner,2,2
+Conway,WARD 2,State Senate District 15,,REP,Representative Ed Garner,10,10
+Conway,UNION,State Senate District 15,,REP,Representative Ed Garner,8,8
+Conway,BENTLEY RURAL,State Senate District 15,,REP,Representative Ed Garner,7,7
+Conway,WASHINGTON WEST,State Senate District 15,,REP,Representative Ed Garner,7,7
+Conway,BIRD,State Senate District 15,,REP,Representative Ed Garner,11,11
+Conway,CATHOLIC POINT,State Senate District 15,,REP,Representative Ed Garner,1,1
+Conway,PETIT JEAN,State Senate District 15,,REP,Representative Ed Garner,4,4
+Conway,NICHOLS,State Senate District 15,,REP,Representative Ed Garner,11,11
+Conway,OLD HICKORY,State Senate District 15,,REP,Representative Ed Garner,3,3
+Conway,WARD 1,State Senate District 15,,REP,Representative Ed Garner,19,19
+Conway,WELBOURNE EAST,State Senate District 15,,REP,Representative Ed Garner,17,17
+Conway,MENIFEE RURAL,State Senate District 15,,REP,Representative Ed Garner,1,1
+Conway,ABSENTEE,State Senate District 15,,REP,Representative Ed Garner,6,6
+Conway,AUSTIN,State Senate District 15,,REP,Representative David J. Sanders,0,0
+Conway,BENTLEY CITY,State Senate District 15,,REP,Representative David J. Sanders,24,24
+Conway,WELBOURNE WEST,State Senate District 15,,REP,Representative David J. Sanders,16,16
+Conway,ST. VINCENT,State Senate District 15,,REP,Representative David J. Sanders,19,19
+Conway,STEELE,State Senate District 15,,REP,Representative David J. Sanders,16,16
+Conway,MENIFEE CITY,State Senate District 15,,REP,Representative David J. Sanders,0,0
+Conway,HOWARD CITY,State Senate District 15,,REP,Representative David J. Sanders,10,10
+Conway,HIGGINS,State Senate District 15,,REP,Representative David J. Sanders,1,1
+Conway,CEDAR FALLS,State Senate District 15,,REP,Representative David J. Sanders,12,12
+Conway,GREGORY,State Senate District 15,,REP,Representative David J. Sanders,7,7
+Conway,GRIFFIN,State Senate District 15,,REP,Representative David J. Sanders,12,12
+Conway,LICK MTN.,State Senate District 15,,REP,Representative David J. Sanders,12,12
+Conway,WASHINGTON EAST,State Senate District 15,,REP,Representative David J. Sanders,30,30
+Conway,MCCLAREN,State Senate District 15,,REP,Representative David J. Sanders,2,2
+Conway,HOWARD RURAL,State Senate District 15,,REP,Representative David J. Sanders,4,4
+Conway,WHITE EAGLE,State Senate District 15,,REP,Representative David J. Sanders,2,2
+Conway,WARD 3,State Senate District 15,,REP,Representative David J. Sanders,17,17
+Conway,WARD 4,State Senate District 15,,REP,Representative David J. Sanders,41,41
+Conway,MARTIN,State Senate District 15,,REP,Representative David J. Sanders,7,7
+Conway,WARD 2,State Senate District 15,,REP,Representative David J. Sanders,14,14
+Conway,UNION,State Senate District 15,,REP,Representative David J. Sanders,7,7
+Conway,BENTLEY RURAL,State Senate District 15,,REP,Representative David J. Sanders,7,7
+Conway,WASHINGTON WEST,State Senate District 15,,REP,Representative David J. Sanders,11,11
+Conway,BIRD,State Senate District 15,,REP,Representative David J. Sanders,17,17
+Conway,CATHOLIC POINT,State Senate District 15,,REP,Representative David J. Sanders,4,4
+Conway,PETIT JEAN,State Senate District 15,,REP,Representative David J. Sanders,10,10
+Conway,NICHOLS,State Senate District 15,,REP,Representative David J. Sanders,24,24
+Conway,OLD HICKORY,State Senate District 15,,REP,Representative David J. Sanders,2,2
+Conway,WARD 1,State Senate District 15,,REP,Representative David J. Sanders,21,21
+Conway,WELBOURNE EAST,State Senate District 15,,REP,Representative David J. Sanders,25,25
+Conway,MENIFEE RURAL,State Senate District 15,,REP,Representative David J. Sanders,1,1
+Conway,ABSENTEE,State Senate District 15,,REP,Representative David J. Sanders,7,7
+Conway,AUSTIN,REPUBLICAN UNOPPOSED CANDIDATES,,REP,FOR,4,4
+Conway,BENTLEY CITY,REPUBLICAN UNOPPOSED CANDIDATES,,REP,FOR,29,29
+Conway,WELBOURNE WEST,REPUBLICAN UNOPPOSED CANDIDATES,,REP,FOR,22,22
+Conway,ST. VINCENT,REPUBLICAN UNOPPOSED CANDIDATES,,REP,FOR,24,24
+Conway,STEELE,REPUBLICAN UNOPPOSED CANDIDATES,,REP,FOR,21,21
+Conway,MENIFEE CITY,REPUBLICAN UNOPPOSED CANDIDATES,,REP,FOR,0,0
+Conway,HOWARD CITY,REPUBLICAN UNOPPOSED CANDIDATES,,REP,FOR,11,11
+Conway,HIGGINS,REPUBLICAN UNOPPOSED CANDIDATES,,REP,FOR,0,0
+Conway,CEDAR FALLS,REPUBLICAN UNOPPOSED CANDIDATES,,REP,FOR,27,27
+Conway,GREGORY,REPUBLICAN UNOPPOSED CANDIDATES,,REP,FOR,15,15
+Conway,GRIFFIN,REPUBLICAN UNOPPOSED CANDIDATES,,REP,FOR,13,13
+Conway,LICK MTN.,REPUBLICAN UNOPPOSED CANDIDATES,,REP,FOR,21,21
+Conway,WASHINGTON EAST,REPUBLICAN UNOPPOSED CANDIDATES,,REP,FOR,30,30
+Conway,MCCLAREN,REPUBLICAN UNOPPOSED CANDIDATES,,REP,FOR,5,5
+Conway,HOWARD RURAL,REPUBLICAN UNOPPOSED CANDIDATES,,REP,FOR,12,12
+Conway,WHITE EAGLE,REPUBLICAN UNOPPOSED CANDIDATES,,REP,FOR,3,3
+Conway,WARD 3,REPUBLICAN UNOPPOSED CANDIDATES,,REP,FOR,18,18
+Conway,WARD 4,REPUBLICAN UNOPPOSED CANDIDATES,,REP,FOR,55,55
+Conway,MARTIN,REPUBLICAN UNOPPOSED CANDIDATES,,REP,FOR,7,7
+Conway,WARD 2,REPUBLICAN UNOPPOSED CANDIDATES,,REP,FOR,20,20
+Conway,UNION,REPUBLICAN UNOPPOSED CANDIDATES,,REP,FOR,13,13
+Conway,BENTLEY RURAL,REPUBLICAN UNOPPOSED CANDIDATES,,REP,FOR,11,11
+Conway,WASHINGTON WEST,REPUBLICAN UNOPPOSED CANDIDATES,,REP,FOR,12,12
+Conway,BIRD,REPUBLICAN UNOPPOSED CANDIDATES,,REP,FOR,20,20
+Conway,CATHOLIC POINT,REPUBLICAN UNOPPOSED CANDIDATES,,REP,FOR,6,6
+Conway,PETIT JEAN,REPUBLICAN UNOPPOSED CANDIDATES,,REP,FOR,11,11
+Conway,NICHOLS,REPUBLICAN UNOPPOSED CANDIDATES,,REP,FOR,24,24
+Conway,OLD HICKORY,REPUBLICAN UNOPPOSED CANDIDATES,,REP,FOR,2,2
+Conway,WARD 1,REPUBLICAN UNOPPOSED CANDIDATES,,REP,FOR,31,31
+Conway,WELBOURNE EAST,REPUBLICAN UNOPPOSED CANDIDATES,,REP,FOR,35,35
+Conway,MENIFEE RURAL,REPUBLICAN UNOPPOSED CANDIDATES,,REP,FOR,2,2
+Conway,ABSENTEE,REPUBLICAN UNOPPOSED CANDIDATES,,REP,FOR,14,14
+Conway,AUSTIN,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,18,18
+Conway,BENTLEY CITY,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,57,57
+Conway,WELBOURNE WEST,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,69,69
+Conway,ST. VINCENT,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,69,69
+Conway,STEELE,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,47,47
+Conway,MENIFEE CITY,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,42,42
+Conway,HOWARD CITY,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,116,116
+Conway,HIGGINS,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,3,3
+Conway,CEDAR FALLS,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,42,42
+Conway,GREGORY,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,48,48
+Conway,GRIFFIN,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,69,69
+Conway,LICK MTN.,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,60,60
+Conway,WASHINGTON EAST,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,104,104
+Conway,MCCLAREN,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,12,12
+Conway,HOWARD RURAL,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,45,45
+Conway,WHITE EAGLE,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,2,2
+Conway,WARD 3,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,124,124
+Conway,WARD 4,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,206,206
+Conway,MARTIN,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,9,9
+Conway,WARD 2,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,83,83
+Conway,UNION,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,72,72
+Conway,BENTLEY RURAL,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,33,33
+Conway,WASHINGTON WEST,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,52,52
+Conway,BIRD,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,57,57
+Conway,CATHOLIC POINT,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,63,63
+Conway,PETIT JEAN,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,11,11
+Conway,NICHOLS,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,82,82
+Conway,OLD HICKORY,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,27,27
+Conway,WARD 1,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,161,161
+Conway,WELBOURNE EAST,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,152,152
+Conway,MENIFEE RURAL,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,3,3
+Conway,ABSENTEE,State Supreme Court Associate Justice Position 4,,,Court of Appeals Judge Jo Hart,97,97
+Conway,AUSTIN,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,6,6
+Conway,BENTLEY CITY,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,21,21
+Conway,WELBOURNE WEST,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,14,14
+Conway,ST. VINCENT,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,25,25
+Conway,STEELE,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,13,13
+Conway,MENIFEE CITY,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,8,8
+Conway,HOWARD CITY,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,26,26
+Conway,HIGGINS,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,1,1
+Conway,CEDAR FALLS,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,12,12
+Conway,GREGORY,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,14,14
+Conway,GRIFFIN,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,22,22
+Conway,LICK MTN.,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,10,10
+Conway,WASHINGTON EAST,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,43,43
+Conway,MCCLAREN,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,4,4
+Conway,HOWARD RURAL,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,7,7
+Conway,WHITE EAGLE,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,2,2
+Conway,WARD 3,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,38,38
+Conway,WARD 4,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,51,51
+Conway,MARTIN,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,1,1
+Conway,WARD 2,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,26,26
+Conway,UNION,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,15,15
+Conway,BENTLEY RURAL,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,18,18
+Conway,WASHINGTON WEST,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,15,15
+Conway,BIRD,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,11,11
+Conway,CATHOLIC POINT,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,4,4
+Conway,PETIT JEAN,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,7,7
+Conway,NICHOLS,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,25,25
+Conway,OLD HICKORY,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,6,6
+Conway,WARD 1,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,29,29
+Conway,WELBOURNE EAST,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,41,41
+Conway,MENIFEE RURAL,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,1,1
+Conway,ABSENTEE,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,20,20
+Conway,AUSTIN,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,13,13
+Conway,BENTLEY CITY,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,32,32
+Conway,WELBOURNE WEST,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,42,42
+Conway,ST. VINCENT,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,39,39
+Conway,STEELE,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,27,27
+Conway,MENIFEE CITY,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,14,14
+Conway,HOWARD CITY,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,43,43
+Conway,HIGGINS,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,1,1
+Conway,CEDAR FALLS,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,16,16
+Conway,GREGORY,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,24,24
+Conway,GRIFFIN,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,27,27
+Conway,LICK MTN.,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,24,24
+Conway,WASHINGTON EAST,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,49,49
+Conway,MCCLAREN,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,5,5
+Conway,HOWARD RURAL,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,12,12
+Conway,WHITE EAGLE,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,0,0
+Conway,WARD 3,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,66,66
+Conway,WARD 4,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,92,92
+Conway,MARTIN,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,3,3
+Conway,WARD 2,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,36,36
+Conway,UNION,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,29,29
+Conway,BENTLEY RURAL,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,17,17
+Conway,WASHINGTON WEST,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,20,20
+Conway,BIRD,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,27,27
+Conway,CATHOLIC POINT,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,35,35
+Conway,PETIT JEAN,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,9,9
+Conway,NICHOLS,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,35,35
+Conway,OLD HICKORY,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,11,11
+Conway,WARD 1,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,68,68
+Conway,WELBOURNE EAST,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,68,68
+Conway,MENIFEE RURAL,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,1,1
+Conway,ABSENTEE,Court of Appeals Associate Judge District 2, Position 2,,District Judge Mitch Cash,30,30
+Conway,AUSTIN,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,12,12
+Conway,BENTLEY CITY,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,47,47
+Conway,WELBOURNE WEST,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,41,41
+Conway,ST. VINCENT,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,53,53
+Conway,STEELE,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,36,36
+Conway,MENIFEE CITY,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,35,35
+Conway,HOWARD CITY,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,95,95
+Conway,HIGGINS,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,3,3
+Conway,CEDAR FALLS,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,35,35
+Conway,GREGORY,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,40,40
+Conway,GRIFFIN,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,62,62
+Conway,LICK MTN.,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,46,46
+Conway,WASHINGTON EAST,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,97,97
+Conway,MCCLAREN,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,12,12
+Conway,HOWARD RURAL,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,38,38
+Conway,WHITE EAGLE,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,4,4
+Conway,WARD 3,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,94,94
+Conway,WARD 4,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,158,158
+Conway,MARTIN,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,6,6
+Conway,WARD 2,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,70,70
+Conway,UNION,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,54,54
+Conway,BENTLEY RURAL,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,31,31
+Conway,WASHINGTON WEST,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,41,41
+Conway,BIRD,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,40,40
+Conway,CATHOLIC POINT,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,32,32
+Conway,PETIT JEAN,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,8,8
+Conway,NICHOLS,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,69,69
+Conway,OLD HICKORY,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,21,21
+Conway,WARD 1,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,119,119
+Conway,WELBOURNE EAST,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,127,127
+Conway,MENIFEE RURAL,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,3,3
+Conway,ABSENTEE,Court of Appeals Associate Judge District 2, Position 2,,Judge Rhonda Wood,85,85
+Conway,AUSTIN,DISTRICT JUDGE,,,BART F. VIRDEN,6,6
+Conway,BENTLEY CITY,DISTRICT JUDGE,,,BART F. VIRDEN,39,39
+Conway,WELBOURNE WEST,DISTRICT JUDGE,,,BART F. VIRDEN,45,45
+Conway,ST. VINCENT,DISTRICT JUDGE,,,BART F. VIRDEN,38,38
+Conway,STEELE,DISTRICT JUDGE,,,BART F. VIRDEN,47,47
+Conway,MENIFEE CITY,DISTRICT JUDGE,,,BART F. VIRDEN,15,15
+Conway,HOWARD CITY,DISTRICT JUDGE,,,BART F. VIRDEN,80,80
+Conway,HIGGINS,DISTRICT JUDGE,,,BART F. VIRDEN,1,1
+Conway,CEDAR FALLS,DISTRICT JUDGE,,,BART F. VIRDEN,27,27
+Conway,GREGORY,DISTRICT JUDGE,,,BART F. VIRDEN,32,32
+Conway,GRIFFIN,DISTRICT JUDGE,,,BART F. VIRDEN,47,47
+Conway,LICK MTN.,DISTRICT JUDGE,,,BART F. VIRDEN,27,27
+Conway,WASHINGTON EAST,DISTRICT JUDGE,,,BART F. VIRDEN,70,70
+Conway,MCCLAREN,DISTRICT JUDGE,,,BART F. VIRDEN,6,6
+Conway,HOWARD RURAL,DISTRICT JUDGE,,,BART F. VIRDEN,28,28
+Conway,WHITE EAGLE,DISTRICT JUDGE,,,BART F. VIRDEN,1,1
+Conway,WARD 3,DISTRICT JUDGE,,,BART F. VIRDEN,89,89
+Conway,WARD 4,DISTRICT JUDGE,,,BART F. VIRDEN,172,172
+Conway,MARTIN,DISTRICT JUDGE,,,BART F. VIRDEN,7,7
+Conway,WARD 2,DISTRICT JUDGE,,,BART F. VIRDEN,66,66
+Conway,UNION,DISTRICT JUDGE,,,BART F. VIRDEN,46,46
+Conway,BENTLEY RURAL,DISTRICT JUDGE,,,BART F. VIRDEN,27,27
+Conway,WASHINGTON WEST,DISTRICT JUDGE,,,BART F. VIRDEN,28,28
+Conway,BIRD,DISTRICT JUDGE,,,BART F. VIRDEN,31,31
+Conway,CATHOLIC POINT,DISTRICT JUDGE,,,BART F. VIRDEN,42,42
+Conway,PETIT JEAN,DISTRICT JUDGE,,,BART F. VIRDEN,10,10
+Conway,NICHOLS,DISTRICT JUDGE,,,BART F. VIRDEN,68,68
+Conway,OLD HICKORY,DISTRICT JUDGE,,,BART F. VIRDEN,17,17
+Conway,WARD 1,DISTRICT JUDGE,,,BART F. VIRDEN,121,121
+Conway,WELBOURNE EAST,DISTRICT JUDGE,,,BART F. VIRDEN,109,109
+Conway,MENIFEE RURAL,DISTRICT JUDGE,,,BART F. VIRDEN,2,2
+Conway,ABSENTEE,DISTRICT JUDGE,,,BART F. VIRDEN,77,77
+Conway,AUSTIN,DISTRICT JUDGE,,,DALE LIPSMEYER,19,19
+Conway,BENTLEY CITY,DISTRICT JUDGE,,,DALE LIPSMEYER,41,41
+Conway,WELBOURNE WEST,DISTRICT JUDGE,,,DALE LIPSMEYER,45,45
+Conway,ST. VINCENT,DISTRICT JUDGE,,,DALE LIPSMEYER,63,63
+Conway,STEELE,DISTRICT JUDGE,,,DALE LIPSMEYER,24,24
+Conway,MENIFEE CITY,DISTRICT JUDGE,,,DALE LIPSMEYER,37,37
+Conway,HOWARD CITY,DISTRICT JUDGE,,,DALE LIPSMEYER,72,72
+Conway,HIGGINS,DISTRICT JUDGE,,,DALE LIPSMEYER,3,3
+Conway,CEDAR FALLS,DISTRICT JUDGE,,,DALE LIPSMEYER,27,27
+Conway,GREGORY,DISTRICT JUDGE,,,DALE LIPSMEYER,36,36
+Conway,GRIFFIN,DISTRICT JUDGE,,,DALE LIPSMEYER,45,45
+Conway,LICK MTN.,DISTRICT JUDGE,,,DALE LIPSMEYER,44,44
+Conway,WASHINGTON EAST,DISTRICT JUDGE,,,DALE LIPSMEYER,82,82
+Conway,MCCLAREN,DISTRICT JUDGE,,,DALE LIPSMEYER,13,13
+Conway,HOWARD RURAL,DISTRICT JUDGE,,,DALE LIPSMEYER,29,29
+Conway,WHITE EAGLE,DISTRICT JUDGE,,,DALE LIPSMEYER,3,3
+Conway,WARD 3,DISTRICT JUDGE,,,DALE LIPSMEYER,83,83
+Conway,WARD 4,DISTRICT JUDGE,,,DALE LIPSMEYER,102,102
+Conway,MARTIN,DISTRICT JUDGE,,,DALE LIPSMEYER,6,6
+Conway,WARD 2,DISTRICT JUDGE,,,DALE LIPSMEYER,53,53
+Conway,UNION,DISTRICT JUDGE,,,DALE LIPSMEYER,50,50
+Conway,BENTLEY RURAL,DISTRICT JUDGE,,,DALE LIPSMEYER,25,25
+Conway,WASHINGTON WEST,DISTRICT JUDGE,,,DALE LIPSMEYER,43,43
+Conway,BIRD,DISTRICT JUDGE,,,DALE LIPSMEYER,38,38
+Conway,CATHOLIC POINT,DISTRICT JUDGE,,,DALE LIPSMEYER,26,26
+Conway,PETIT JEAN,DISTRICT JUDGE,,,DALE LIPSMEYER,6,6
+Conway,NICHOLS,DISTRICT JUDGE,,,DALE LIPSMEYER,45,45
+Conway,OLD HICKORY,DISTRICT JUDGE,,,DALE LIPSMEYER,18,18
+Conway,WARD 1,DISTRICT JUDGE,,,DALE LIPSMEYER,75,75
+Conway,WELBOURNE EAST,DISTRICT JUDGE,,,DALE LIPSMEYER,102,102
+Conway,MENIFEE RURAL,DISTRICT JUDGE,,,DALE LIPSMEYER,3,3
+Conway,ABSENTEE,DISTRICT JUDGE,,,DALE LIPSMEYER,44,44
