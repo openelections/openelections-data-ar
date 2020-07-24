@@ -1,0 +1,829 @@
+county,precinct,office,district,party,candidate,votes,absentee,election_day,provisional,early
+Lawrence,Annieville,U.S. President,,Dem,Tom Steyer,1,0,0,0,1
+Lawrence,Ashland,U.S. President,,Dem,Tom Steyer,1,0,0,0,1
+Lawrence,Black River,U.S. President,,Dem,Tom Steyer,0,0,0,0,0
+Lawrence,Black Rock,U.S. President,,Dem,Tom Steyer,3,0,2,0,1
+Lawrence,Boas 1,U.S. President,,Dem,Tom Steyer,1,0,0,0,1
+Lawrence,Boas 2,U.S. President,,Dem,Tom Steyer,4,0,2,0,2
+Lawrence,Boas 3,U.S. President,,Dem,Tom Steyer,1,0,0,0,1
+Lawrence,Cache,U.S. President,,Dem,Tom Steyer,1,0,1,0,0
+Lawrence,Campbell 1,U.S. President,,Dem,Tom Steyer,3,0,0,0,3
+Lawrence,Campbell 2,U.S. President,,Dem,Tom Steyer,5,0,2,0,3
+Lawrence,Campbell 3,U.S. President,,Dem,Tom Steyer,3,1,0,0,2
+Lawrence,Campbell 4,U.S. President,,Dem,Tom Steyer,1,0,1,0,0
+Lawrence,Dent,U.S. President,,Dem,Tom Steyer,1,0,0,0,1
+Lawrence,Dowell,U.S. President,,Dem,Tom Steyer,0,0,0,0,0
+Lawrence,Duty,U.S. President,,Dem,Tom Steyer,0,0,0,0,0
+Lawrence,Eaton,U.S. President,,Dem,Tom Steyer,1,0,1,0,0
+Lawrence,Flat Creek,U.S. President,,Dem,Tom Steyer,0,0,0,0,0
+Lawrence,Jesup,U.S. President,,Dem,Tom Steyer,0,0,0,0,0
+Lawrence,Lawrence,U.S. President,,Dem,Tom Steyer,0,0,0,0,0
+Lawrence,Marion,U.S. President,,Dem,Tom Steyer,2,0,1,0,1
+Lawrence,Morgan,U.S. President,,Dem,Tom Steyer,1,0,1,0,0
+Lawrence,Promised Land,U.S. President,,Dem,Tom Steyer,1,0,0,0,1
+Lawrence,Reed's Creek Saffell,U.S. President,,Dem,Tom Steyer,0,0,0,0,0
+Lawrence,Reed's Creek Strawberry,U.S. President,,Dem,Tom Steyer,0,0,0,0,0
+Lawrence,Richwoods,U.S. President,,Dem,Tom Steyer,0,0,0,0,0
+Lawrence,Spring River,U.S. President,,Dem,Tom Steyer,0,0,0,0,0
+Lawrence,Strawberry,U.S. President,,Dem,Tom Steyer,2,0,2,0,0
+Lawrence,Thacker,U.S. President,,Dem,Tom Steyer,0,0,0,0,0
+Lawrence,Annieville,U.S. President,,Dem,Joe Sestak,1,0,0,0,1
+Lawrence,Ashland,U.S. President,,Dem,Joe Sestak,0,0,0,0,0
+Lawrence,Black River,U.S. President,,Dem,Joe Sestak,2,0,1,0,1
+Lawrence,Black Rock,U.S. President,,Dem,Joe Sestak,1,0,1,0,0
+Lawrence,Boas 1,U.S. President,,Dem,Joe Sestak,0,0,0,0,0
+Lawrence,Boas 2,U.S. President,,Dem,Joe Sestak,0,0,0,0,0
+Lawrence,Boas 3,U.S. President,,Dem,Joe Sestak,0,0,0,0,0
+Lawrence,Cache,U.S. President,,Dem,Joe Sestak,0,0,0,0,0
+Lawrence,Campbell 1,U.S. President,,Dem,Joe Sestak,2,0,1,0,1
+Lawrence,Campbell 2,U.S. President,,Dem,Joe Sestak,0,0,0,0,0
+Lawrence,Campbell 3,U.S. President,,Dem,Joe Sestak,1,0,0,0,1
+Lawrence,Campbell 4,U.S. President,,Dem,Joe Sestak,0,0,0,0,0
+Lawrence,Dent,U.S. President,,Dem,Joe Sestak,0,0,0,0,0
+Lawrence,Dowell,U.S. President,,Dem,Joe Sestak,0,0,0,0,0
+Lawrence,Duty,U.S. President,,Dem,Joe Sestak,0,0,0,0,0
+Lawrence,Eaton,U.S. President,,Dem,Joe Sestak,0,0,0,0,0
+Lawrence,Flat Creek,U.S. President,,Dem,Joe Sestak,0,0,0,0,0
+Lawrence,Jesup,U.S. President,,Dem,Joe Sestak,0,0,0,0,0
+Lawrence,Lawrence,U.S. President,,Dem,Joe Sestak,0,0,0,0,0
+Lawrence,Marion,U.S. President,,Dem,Joe Sestak,0,0,0,0,0
+Lawrence,Morgan,U.S. President,,Dem,Joe Sestak,0,0,0,0,0
+Lawrence,Promised Land,U.S. President,,Dem,Joe Sestak,0,0,0,0,0
+Lawrence,Reed's Creek Saffell,U.S. President,,Dem,Joe Sestak,0,0,0,0,0
+Lawrence,Reed's Creek Strawberry,U.S. President,,Dem,Joe Sestak,0,0,0,0,0
+Lawrence,Richwoods,U.S. President,,Dem,Joe Sestak,0,0,0,0,0
+Lawrence,Spring River,U.S. President,,Dem,Joe Sestak,0,0,0,0,0
+Lawrence,Strawberry,U.S. President,,Dem,Joe Sestak,0,0,0,0,0
+Lawrence,Thacker,U.S. President,,Dem,Joe Sestak,0,0,0,0,0
+Lawrence,Annieville,U.S. President,,Dem,Bernie Sanders,2,0,2,0,0
+Lawrence,Ashland,U.S. President,,Dem,Bernie Sanders,1,0,1,0,0
+Lawrence,Black River,U.S. President,,Dem,Bernie Sanders,8,0,5,0,3
+Lawrence,Black Rock,U.S. President,,Dem,Bernie Sanders,17,0,10,0,7
+Lawrence,Boas 1,U.S. President,,Dem,Bernie Sanders,15,0,10,0,5
+Lawrence,Boas 2,U.S. President,,Dem,Bernie Sanders,10,0,3,0,7
+Lawrence,Boas 3,U.S. President,,Dem,Bernie Sanders,9,0,5,0,4
+Lawrence,Cache,U.S. President,,Dem,Bernie Sanders,1,0,0,0,1
+Lawrence,Campbell 1,U.S. President,,Dem,Bernie Sanders,20,1,6,0,13
+Lawrence,Campbell 2,U.S. President,,Dem,Bernie Sanders,18,1,10,0,7
+Lawrence,Campbell 3,U.S. President,,Dem,Bernie Sanders,17,0,6,0,11
+Lawrence,Campbell 4,U.S. President,,Dem,Bernie Sanders,10,1,3,0,6
+Lawrence,Dent,U.S. President,,Dem,Bernie Sanders,13,0,10,0,3
+Lawrence,Dowell,U.S. President,,Dem,Bernie Sanders,3,0,1,0,2
+Lawrence,Duty,U.S. President,,Dem,Bernie Sanders,4,0,3,0,1
+Lawrence,Eaton,U.S. President,,Dem,Bernie Sanders,2,0,1,0,1
+Lawrence,Flat Creek,U.S. President,,Dem,Bernie Sanders,2,0,2,0,0
+Lawrence,Jesup,U.S. President,,Dem,Bernie Sanders,0,0,0,0,0
+Lawrence,Lawrence,U.S. President,,Dem,Bernie Sanders,1,0,0,0,1
+Lawrence,Marion,U.S. President,,Dem,Bernie Sanders,0,0,0,0,0
+Lawrence,Morgan,U.S. President,,Dem,Bernie Sanders,8,0,8,0,0
+Lawrence,Promised Land,U.S. President,,Dem,Bernie Sanders,3,1,0,0,2
+Lawrence,Reed's Creek Saffell,U.S. President,,Dem,Bernie Sanders,1,0,1,0,0
+Lawrence,Reed's Creek Strawberry,U.S. President,,Dem,Bernie Sanders,5,0,5,0,0
+Lawrence,Richwoods,U.S. President,,Dem,Bernie Sanders,4,0,2,0,2
+Lawrence,Spring River,U.S. President,,Dem,Bernie Sanders,4,0,4,0,0
+Lawrence,Strawberry,U.S. President,,Dem,Bernie Sanders,6,0,4,0,2
+Lawrence,Thacker,U.S. President,,Dem,Bernie Sanders,3,0,3,0,0
+Lawrence,Annieville,U.S. President,,Dem,Pete Buttigieg,1,0,1,0,0
+Lawrence,Ashland,U.S. President,,Dem,Pete Buttigieg,2,0,1,0,1
+Lawrence,Black River,U.S. President,,Dem,Pete Buttigieg,6,1,0,0,5
+Lawrence,Black Rock,U.S. President,,Dem,Pete Buttigieg,1,0,0,0,1
+Lawrence,Boas 1,U.S. President,,Dem,Pete Buttigieg,2,0,0,0,2
+Lawrence,Boas 2,U.S. President,,Dem,Pete Buttigieg,2,0,1,0,1
+Lawrence,Boas 3,U.S. President,,Dem,Pete Buttigieg,2,0,1,0,1
+Lawrence,Cache,U.S. President,,Dem,Pete Buttigieg,0,0,0,0,0
+Lawrence,Campbell 1,U.S. President,,Dem,Pete Buttigieg,7,0,1,0,6
+Lawrence,Campbell 2,U.S. President,,Dem,Pete Buttigieg,1,0,0,0,1
+Lawrence,Campbell 3,U.S. President,,Dem,Pete Buttigieg,1,0,0,0,1
+Lawrence,Campbell 4,U.S. President,,Dem,Pete Buttigieg,6,0,0,0,6
+Lawrence,Dent,U.S. President,,Dem,Pete Buttigieg,0,0,0,0,0
+Lawrence,Dowell,U.S. President,,Dem,Pete Buttigieg,0,0,0,0,0
+Lawrence,Duty,U.S. President,,Dem,Pete Buttigieg,1,0,0,0,1
+Lawrence,Eaton,U.S. President,,Dem,Pete Buttigieg,2,0,1,0,1
+Lawrence,Flat Creek,U.S. President,,Dem,Pete Buttigieg,0,0,0,0,0
+Lawrence,Jesup,U.S. President,,Dem,Pete Buttigieg,0,0,0,0,0
+Lawrence,Lawrence,U.S. President,,Dem,Pete Buttigieg,0,0,0,0,0
+Lawrence,Marion,U.S. President,,Dem,Pete Buttigieg,0,0,0,0,0
+Lawrence,Morgan,U.S. President,,Dem,Pete Buttigieg,0,0,0,0,0
+Lawrence,Promised Land,U.S. President,,Dem,Pete Buttigieg,0,0,0,0,0
+Lawrence,Reed's Creek Saffell,U.S. President,,Dem,Pete Buttigieg,0,0,0,0,0
+Lawrence,Reed's Creek Strawberry,U.S. President,,Dem,Pete Buttigieg,0,0,0,0,0
+Lawrence,Richwoods,U.S. President,,Dem,Pete Buttigieg,0,0,0,0,0
+Lawrence,Spring River,U.S. President,,Dem,Pete Buttigieg,1,1,0,0,0
+Lawrence,Strawberry,U.S. President,,Dem,Pete Buttigieg,1,0,0,0,1
+Lawrence,Thacker,U.S. President,,Dem,Pete Buttigieg,1,0,1,0,0
+Lawrence,Annieville,U.S. President,,Dem,Joseph R. Biden,5,0,4,0,1
+Lawrence,Ashland,U.S. President,,Dem,Joseph R. Biden,12,0,8,0,4
+Lawrence,Black River,U.S. President,,Dem,Joseph R. Biden,9,0,6,0,3
+Lawrence,Black Rock,U.S. President,,Dem,Joseph R. Biden,18,0,12,0,6
+Lawrence,Boas 1,U.S. President,,Dem,Joseph R. Biden,21,1,11,0,9
+Lawrence,Boas 2,U.S. President,,Dem,Joseph R. Biden,23,0,14,0,9
+Lawrence,Boas 3,U.S. President,,Dem,Joseph R. Biden,9,0,7,0,2
+Lawrence,Cache,U.S. President,,Dem,Joseph R. Biden,0,0,0,0,0
+Lawrence,Campbell 1,U.S. President,,Dem,Joseph R. Biden,48,1,20,0,27
+Lawrence,Campbell 2,U.S. President,,Dem,Joseph R. Biden,36,0,13,0,23
+Lawrence,Campbell 3,U.S. President,,Dem,Joseph R. Biden,25,0,17,0,8
+Lawrence,Campbell 4,U.S. President,,Dem,Joseph R. Biden,40,1,19,0,20
+Lawrence,Dent,U.S. President,,Dem,Joseph R. Biden,26,0,21,0,5
+Lawrence,Dowell,U.S. President,,Dem,Joseph R. Biden,5,0,3,0,2
+Lawrence,Duty,U.S. President,,Dem,Joseph R. Biden,16,0,15,0,1
+Lawrence,Eaton,U.S. President,,Dem,Joseph R. Biden,6,0,4,0,2
+Lawrence,Flat Creek,U.S. President,,Dem,Joseph R. Biden,3,0,3,0,0
+Lawrence,Jesup,U.S. President,,Dem,Joseph R. Biden,3,0,3,0,0
+Lawrence,Lawrence,U.S. President,,Dem,Joseph R. Biden,6,0,5,0,1
+Lawrence,Marion,U.S. President,,Dem,Joseph R. Biden,6,0,6,0,0
+Lawrence,Morgan,U.S. President,,Dem,Joseph R. Biden,14,0,11,0,3
+Lawrence,Promised Land,U.S. President,,Dem,Joseph R. Biden,3,0,0,0,3
+Lawrence,Reed's Creek Saffell,U.S. President,,Dem,Joseph R. Biden,5,0,5,0,0
+Lawrence,Reed's Creek Strawberry,U.S. President,,Dem,Joseph R. Biden,16,0,15,0,1
+Lawrence,Richwoods,U.S. President,,Dem,Joseph R. Biden,1,0,1,0,0
+Lawrence,Spring River,U.S. President,,Dem,Joseph R. Biden,13,0,12,0,1
+Lawrence,Strawberry,U.S. President,,Dem,Joseph R. Biden,11,0,11,0,0
+Lawrence,Thacker,U.S. President,,Dem,Joseph R. Biden,11,0,11,0,0
+Lawrence,Annieville,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0,0
+Lawrence,Ashland,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0,0
+Lawrence,Black River,U.S. President,,Dem,Tulsi Gabbard,1,0,1,0,0
+Lawrence,Black Rock,U.S. President,,Dem,Tulsi Gabbard,1,0,0,0,1
+Lawrence,Boas 1,U.S. President,,Dem,Tulsi Gabbard,2,0,0,0,2
+Lawrence,Boas 2,U.S. President,,Dem,Tulsi Gabbard,1,0,1,0,0
+Lawrence,Boas 3,U.S. President,,Dem,Tulsi Gabbard,1,0,1,0,0
+Lawrence,Cache,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0,0
+Lawrence,Campbell 1,U.S. President,,Dem,Tulsi Gabbard,4,0,2,0,2
+Lawrence,Campbell 2,U.S. President,,Dem,Tulsi Gabbard,7,0,2,0,5
+Lawrence,Campbell 3,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0,0
+Lawrence,Campbell 4,U.S. President,,Dem,Tulsi Gabbard,6,0,2,0,4
+Lawrence,Dent,U.S. President,,Dem,Tulsi Gabbard,5,0,2,0,3
+Lawrence,Dowell,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0,0
+Lawrence,Duty,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0,0
+Lawrence,Eaton,U.S. President,,Dem,Tulsi Gabbard,4,0,4,0,0
+Lawrence,Flat Creek,U.S. President,,Dem,Tulsi Gabbard,2,0,0,0,2
+Lawrence,Jesup,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0,0
+Lawrence,Lawrence,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0,0
+Lawrence,Marion,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0,0
+Lawrence,Morgan,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0,0
+Lawrence,Promised Land,U.S. President,,Dem,Tulsi Gabbard,1,0,0,0,1
+Lawrence,Reed's Creek Saffell,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0,0
+Lawrence,Reed's Creek Strawberry,U.S. President,,Dem,Tulsi Gabbard,1,0,0,0,1
+Lawrence,Richwoods,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0,0
+Lawrence,Spring River,U.S. President,,Dem,Tulsi Gabbard,1,0,1,0,0
+Lawrence,Strawberry,U.S. President,,Dem,Tulsi Gabbard,1,0,1,0,0
+Lawrence,Thacker,U.S. President,,Dem,Tulsi Gabbard,1,0,1,0,0
+Lawrence,Annieville,U.S. President,,Dem,Steve Bullock,0,0,0,0,0
+Lawrence,Ashland,U.S. President,,Dem,Steve Bullock,0,0,0,0,0
+Lawrence,Black River,U.S. President,,Dem,Steve Bullock,0,0,0,0,0
+Lawrence,Black Rock,U.S. President,,Dem,Steve Bullock,0,0,0,0,0
+Lawrence,Boas 1,U.S. President,,Dem,Steve Bullock,0,0,0,0,0
+Lawrence,Boas 2,U.S. President,,Dem,Steve Bullock,0,0,0,0,0
+Lawrence,Boas 3,U.S. President,,Dem,Steve Bullock,0,0,0,0,0
+Lawrence,Cache,U.S. President,,Dem,Steve Bullock,0,0,0,0,0
+Lawrence,Campbell 1,U.S. President,,Dem,Steve Bullock,2,0,0,0,2
+Lawrence,Campbell 2,U.S. President,,Dem,Steve Bullock,0,0,0,0,0
+Lawrence,Campbell 3,U.S. President,,Dem,Steve Bullock,1,0,0,0,1
+Lawrence,Campbell 4,U.S. President,,Dem,Steve Bullock,0,0,0,0,0
+Lawrence,Dent,U.S. President,,Dem,Steve Bullock,0,0,0,0,0
+Lawrence,Dowell,U.S. President,,Dem,Steve Bullock,0,0,0,0,0
+Lawrence,Duty,U.S. President,,Dem,Steve Bullock,0,0,0,0,0
+Lawrence,Eaton,U.S. President,,Dem,Steve Bullock,0,0,0,0,0
+Lawrence,Flat Creek,U.S. President,,Dem,Steve Bullock,0,0,0,0,0
+Lawrence,Jesup,U.S. President,,Dem,Steve Bullock,0,0,0,0,0
+Lawrence,Lawrence,U.S. President,,Dem,Steve Bullock,0,0,0,0,0
+Lawrence,Marion,U.S. President,,Dem,Steve Bullock,0,0,0,0,0
+Lawrence,Morgan,U.S. President,,Dem,Steve Bullock,0,0,0,0,0
+Lawrence,Promised Land,U.S. President,,Dem,Steve Bullock,0,0,0,0,0
+Lawrence,Reed's Creek Saffell,U.S. President,,Dem,Steve Bullock,0,0,0,0,0
+Lawrence,Reed's Creek Strawberry,U.S. President,,Dem,Steve Bullock,0,0,0,0,0
+Lawrence,Richwoods,U.S. President,,Dem,Steve Bullock,0,0,0,0,0
+Lawrence,Spring River,U.S. President,,Dem,Steve Bullock,0,0,0,0,0
+Lawrence,Strawberry,U.S. President,,Dem,Steve Bullock,0,0,0,0,0
+Lawrence,Thacker,U.S. President,,Dem,Steve Bullock,0,0,0,0,0
+Lawrence,Annieville,U.S. President,,Dem,Elizabeth Warren,1,0,0,0,1
+Lawrence,Ashland,U.S. President,,Dem,Elizabeth Warren,1,0,0,0,1
+Lawrence,Black River,U.S. President,,Dem,Elizabeth Warren,6,0,1,0,5
+Lawrence,Black Rock,U.S. President,,Dem,Elizabeth Warren,6,0,3,0,3
+Lawrence,Boas 1,U.S. President,,Dem,Elizabeth Warren,6,0,3,0,3
+Lawrence,Boas 2,U.S. President,,Dem,Elizabeth Warren,4,0,2,0,2
+Lawrence,Boas 3,U.S. President,,Dem,Elizabeth Warren,2,0,0,0,2
+Lawrence,Cache,U.S. President,,Dem,Elizabeth Warren,0,0,0,0,0
+Lawrence,Campbell 1,U.S. President,,Dem,Elizabeth Warren,10,0,6,0,4
+Lawrence,Campbell 2,U.S. President,,Dem,Elizabeth Warren,7,1,2,0,4
+Lawrence,Campbell 3,U.S. President,,Dem,Elizabeth Warren,5,1,2,0,2
+Lawrence,Campbell 4,U.S. President,,Dem,Elizabeth Warren,8,1,2,0,5
+Lawrence,Dent,U.S. President,,Dem,Elizabeth Warren,2,0,0,0,2
+Lawrence,Dowell,U.S. President,,Dem,Elizabeth Warren,1,0,1,0,0
+Lawrence,Duty,U.S. President,,Dem,Elizabeth Warren,3,0,2,0,1
+Lawrence,Eaton,U.S. President,,Dem,Elizabeth Warren,1,0,1,0,0
+Lawrence,Flat Creek,U.S. President,,Dem,Elizabeth Warren,0,0,0,0,0
+Lawrence,Jesup,U.S. President,,Dem,Elizabeth Warren,0,0,0,0,0
+Lawrence,Lawrence,U.S. President,,Dem,Elizabeth Warren,1,0,0,0,1
+Lawrence,Marion,U.S. President,,Dem,Elizabeth Warren,1,1,0,0,0
+Lawrence,Morgan,U.S. President,,Dem,Elizabeth Warren,0,0,0,0,0
+Lawrence,Promised Land,U.S. President,,Dem,Elizabeth Warren,3,0,1,0,2
+Lawrence,Reed's Creek Saffell,U.S. President,,Dem,Elizabeth Warren,3,0,3,0,0
+Lawrence,Reed's Creek Strawberry,U.S. President,,Dem,Elizabeth Warren,1,0,1,0,0
+Lawrence,Richwoods,U.S. President,,Dem,Elizabeth Warren,1,0,1,0,0
+Lawrence,Spring River,U.S. President,,Dem,Elizabeth Warren,1,0,1,0,0
+Lawrence,Strawberry,U.S. President,,Dem,Elizabeth Warren,2,0,2,0,0
+Lawrence,Thacker,U.S. President,,Dem,Elizabeth Warren,2,0,1,0,1
+Lawrence,Annieville,U.S. President,,Dem,Amy Klobuchar,0,0,0,0,0
+Lawrence,Ashland,U.S. President,,Dem,Amy Klobuchar,1,0,0,0,1
+Lawrence,Black River,U.S. President,,Dem,Amy Klobuchar,0,0,0,0,0
+Lawrence,Black Rock,U.S. President,,Dem,Amy Klobuchar,4,2,1,0,1
+Lawrence,Boas 1,U.S. President,,Dem,Amy Klobuchar,2,0,0,0,2
+Lawrence,Boas 2,U.S. President,,Dem,Amy Klobuchar,3,0,1,0,2
+Lawrence,Boas 3,U.S. President,,Dem,Amy Klobuchar,4,0,2,0,2
+Lawrence,Cache,U.S. President,,Dem,Amy Klobuchar,0,0,0,0,0
+Lawrence,Campbell 1,U.S. President,,Dem,Amy Klobuchar,12,0,0,0,12
+Lawrence,Campbell 2,U.S. President,,Dem,Amy Klobuchar,6,0,0,0,6
+Lawrence,Campbell 3,U.S. President,,Dem,Amy Klobuchar,3,0,0,0,3
+Lawrence,Campbell 4,U.S. President,,Dem,Amy Klobuchar,3,0,0,0,3
+Lawrence,Dent,U.S. President,,Dem,Amy Klobuchar,1,0,1,0,0
+Lawrence,Dowell,U.S. President,,Dem,Amy Klobuchar,0,0,0,0,0
+Lawrence,Duty,U.S. President,,Dem,Amy Klobuchar,0,0,0,0,0
+Lawrence,Eaton,U.S. President,,Dem,Amy Klobuchar,0,0,0,0,0
+Lawrence,Flat Creek,U.S. President,,Dem,Amy Klobuchar,0,0,0,0,0
+Lawrence,Jesup,U.S. President,,Dem,Amy Klobuchar,0,0,0,0,0
+Lawrence,Lawrence,U.S. President,,Dem,Amy Klobuchar,0,0,0,0,0
+Lawrence,Marion,U.S. President,,Dem,Amy Klobuchar,0,0,0,0,0
+Lawrence,Morgan,U.S. President,,Dem,Amy Klobuchar,1,0,1,0,0
+Lawrence,Promised Land,U.S. President,,Dem,Amy Klobuchar,2,0,0,0,2
+Lawrence,Reed's Creek Saffell,U.S. President,,Dem,Amy Klobuchar,0,0,0,0,0
+Lawrence,Reed's Creek Strawberry,U.S. President,,Dem,Amy Klobuchar,0,0,0,0,0
+Lawrence,Richwoods,U.S. President,,Dem,Amy Klobuchar,0,0,0,0,0
+Lawrence,Spring River,U.S. President,,Dem,Amy Klobuchar,3,1,1,0,1
+Lawrence,Strawberry,U.S. President,,Dem,Amy Klobuchar,1,0,1,0,0
+Lawrence,Thacker,U.S. President,,Dem,Amy Klobuchar,1,0,1,0,0
+Lawrence,Annieville,U.S. President,,Dem,Mosie Boyd,0,0,0,0,0
+Lawrence,Ashland,U.S. President,,Dem,Mosie Boyd,0,0,0,0,0
+Lawrence,Black River,U.S. President,,Dem,Mosie Boyd,1,0,0,0,1
+Lawrence,Black Rock,U.S. President,,Dem,Mosie Boyd,0,0,0,0,0
+Lawrence,Boas 1,U.S. President,,Dem,Mosie Boyd,1,0,0,0,1
+Lawrence,Boas 2,U.S. President,,Dem,Mosie Boyd,1,0,1,0,0
+Lawrence,Boas 3,U.S. President,,Dem,Mosie Boyd,0,0,0,0,0
+Lawrence,Cache,U.S. President,,Dem,Mosie Boyd,0,0,0,0,0
+Lawrence,Campbell 1,U.S. President,,Dem,Mosie Boyd,0,0,0,0,0
+Lawrence,Campbell 2,U.S. President,,Dem,Mosie Boyd,0,0,0,0,0
+Lawrence,Campbell 3,U.S. President,,Dem,Mosie Boyd,0,0,0,0,0
+Lawrence,Campbell 4,U.S. President,,Dem,Mosie Boyd,0,0,0,0,0
+Lawrence,Dent,U.S. President,,Dem,Mosie Boyd,0,0,0,0,0
+Lawrence,Dowell,U.S. President,,Dem,Mosie Boyd,0,0,0,0,0
+Lawrence,Duty,U.S. President,,Dem,Mosie Boyd,0,0,0,0,0
+Lawrence,Eaton,U.S. President,,Dem,Mosie Boyd,0,0,0,0,0
+Lawrence,Flat Creek,U.S. President,,Dem,Mosie Boyd,0,0,0,0,0
+Lawrence,Jesup,U.S. President,,Dem,Mosie Boyd,0,0,0,0,0
+Lawrence,Lawrence,U.S. President,,Dem,Mosie Boyd,0,0,0,0,0
+Lawrence,Marion,U.S. President,,Dem,Mosie Boyd,0,0,0,0,0
+Lawrence,Morgan,U.S. President,,Dem,Mosie Boyd,0,0,0,0,0
+Lawrence,Promised Land,U.S. President,,Dem,Mosie Boyd,0,0,0,0,0
+Lawrence,Reed's Creek Saffell,U.S. President,,Dem,Mosie Boyd,0,0,0,0,0
+Lawrence,Reed's Creek Strawberry,U.S. President,,Dem,Mosie Boyd,0,0,0,0,0
+Lawrence,Richwoods,U.S. President,,Dem,Mosie Boyd,0,0,0,0,0
+Lawrence,Spring River,U.S. President,,Dem,Mosie Boyd,0,0,0,0,0
+Lawrence,Strawberry,U.S. President,,Dem,Mosie Boyd,0,0,0,0,0
+Lawrence,Thacker,U.S. President,,Dem,Mosie Boyd,0,0,0,0,0
+Lawrence,Annieville,U.S. President,,Dem,Cory Booker,0,0,0,0,0
+Lawrence,Ashland,U.S. President,,Dem,Cory Booker,0,0,0,0,0
+Lawrence,Black River,U.S. President,,Dem,Cory Booker,0,0,0,0,0
+Lawrence,Black Rock,U.S. President,,Dem,Cory Booker,0,0,0,0,0
+Lawrence,Boas 1,U.S. President,,Dem,Cory Booker,1,0,0,0,1
+Lawrence,Boas 2,U.S. President,,Dem,Cory Booker,0,0,0,0,0
+Lawrence,Boas 3,U.S. President,,Dem,Cory Booker,0,0,0,0,0
+Lawrence,Cache,U.S. President,,Dem,Cory Booker,0,0,0,0,0
+Lawrence,Campbell 1,U.S. President,,Dem,Cory Booker,0,0,0,0,0
+Lawrence,Campbell 2,U.S. President,,Dem,Cory Booker,0,0,0,0,0
+Lawrence,Campbell 3,U.S. President,,Dem,Cory Booker,0,0,0,0,0
+Lawrence,Campbell 4,U.S. President,,Dem,Cory Booker,0,0,0,0,0
+Lawrence,Dent,U.S. President,,Dem,Cory Booker,0,0,0,0,0
+Lawrence,Dowell,U.S. President,,Dem,Cory Booker,0,0,0,0,0
+Lawrence,Duty,U.S. President,,Dem,Cory Booker,0,0,0,0,0
+Lawrence,Eaton,U.S. President,,Dem,Cory Booker,0,0,0,0,0
+Lawrence,Flat Creek,U.S. President,,Dem,Cory Booker,0,0,0,0,0
+Lawrence,Jesup,U.S. President,,Dem,Cory Booker,0,0,0,0,0
+Lawrence,Lawrence,U.S. President,,Dem,Cory Booker,0,0,0,0,0
+Lawrence,Marion,U.S. President,,Dem,Cory Booker,0,0,0,0,0
+Lawrence,Morgan,U.S. President,,Dem,Cory Booker,0,0,0,0,0
+Lawrence,Promised Land,U.S. President,,Dem,Cory Booker,0,0,0,0,0
+Lawrence,Reed's Creek Saffell,U.S. President,,Dem,Cory Booker,0,0,0,0,0
+Lawrence,Reed's Creek Strawberry,U.S. President,,Dem,Cory Booker,0,0,0,0,0
+Lawrence,Richwoods,U.S. President,,Dem,Cory Booker,0,0,0,0,0
+Lawrence,Spring River,U.S. President,,Dem,Cory Booker,0,0,0,0,0
+Lawrence,Strawberry,U.S. President,,Dem,Cory Booker,0,0,0,0,0
+Lawrence,Thacker,U.S. President,,Dem,Cory Booker,0,0,0,0,0
+Lawrence,Annieville,U.S. President,,Dem,John K. Delaney,0,0,0,0,0
+Lawrence,Ashland,U.S. President,,Dem,John K. Delaney,0,0,0,0,0
+Lawrence,Black River,U.S. President,,Dem,John K. Delaney,0,0,0,0,0
+Lawrence,Black Rock,U.S. President,,Dem,John K. Delaney,0,0,0,0,0
+Lawrence,Boas 1,U.S. President,,Dem,John K. Delaney,0,0,0,0,0
+Lawrence,Boas 2,U.S. President,,Dem,John K. Delaney,1,0,0,0,1
+Lawrence,Boas 3,U.S. President,,Dem,John K. Delaney,0,0,0,0,0
+Lawrence,Cache,U.S. President,,Dem,John K. Delaney,1,0,0,0,1
+Lawrence,Campbell 1,U.S. President,,Dem,John K. Delaney,1,0,0,0,1
+Lawrence,Campbell 2,U.S. President,,Dem,John K. Delaney,1,0,0,0,1
+Lawrence,Campbell 3,U.S. President,,Dem,John K. Delaney,0,0,0,0,0
+Lawrence,Campbell 4,U.S. President,,Dem,John K. Delaney,0,0,0,0,0
+Lawrence,Dent,U.S. President,,Dem,John K. Delaney,2,0,1,0,1
+Lawrence,Dowell,U.S. President,,Dem,John K. Delaney,0,0,0,0,0
+Lawrence,Duty,U.S. President,,Dem,John K. Delaney,1,0,1,0,0
+Lawrence,Eaton,U.S. President,,Dem,John K. Delaney,0,0,0,0,0
+Lawrence,Flat Creek,U.S. President,,Dem,John K. Delaney,0,0,0,0,0
+Lawrence,Jesup,U.S. President,,Dem,John K. Delaney,1,0,1,0,0
+Lawrence,Lawrence,U.S. President,,Dem,John K. Delaney,0,0,0,0,0
+Lawrence,Marion,U.S. President,,Dem,John K. Delaney,0,0,0,0,0
+Lawrence,Morgan,U.S. President,,Dem,John K. Delaney,0,0,0,0,0
+Lawrence,Promised Land,U.S. President,,Dem,John K. Delaney,1,0,0,0,1
+Lawrence,Reed's Creek Saffell,U.S. President,,Dem,John K. Delaney,2,0,2,0,0
+Lawrence,Reed's Creek Strawberry,U.S. President,,Dem,John K. Delaney,1,0,1,0,0
+Lawrence,Richwoods,U.S. President,,Dem,John K. Delaney,0,0,0,0,0
+Lawrence,Spring River,U.S. President,,Dem,John K. Delaney,0,0,0,0,0
+Lawrence,Strawberry,U.S. President,,Dem,John K. Delaney,1,0,0,0,1
+Lawrence,Thacker,U.S. President,,Dem,John K. Delaney,0,0,0,0,0
+Lawrence,Annieville,U.S. President,,Dem,Marianne Williamson,0,0,0,0,0
+Lawrence,Ashland,U.S. President,,Dem,Marianne Williamson,0,0,0,0,0
+Lawrence,Black River,U.S. President,,Dem,Marianne Williamson,0,0,0,0,0
+Lawrence,Black Rock,U.S. President,,Dem,Marianne Williamson,0,0,0,0,0
+Lawrence,Boas 1,U.S. President,,Dem,Marianne Williamson,0,0,0,0,0
+Lawrence,Boas 2,U.S. President,,Dem,Marianne Williamson,0,0,0,0,0
+Lawrence,Boas 3,U.S. President,,Dem,Marianne Williamson,0,0,0,0,0
+Lawrence,Cache,U.S. President,,Dem,Marianne Williamson,0,0,0,0,0
+Lawrence,Campbell 1,U.S. President,,Dem,Marianne Williamson,0,0,0,0,0
+Lawrence,Campbell 2,U.S. President,,Dem,Marianne Williamson,2,0,0,0,2
+Lawrence,Campbell 3,U.S. President,,Dem,Marianne Williamson,0,0,0,0,0
+Lawrence,Campbell 4,U.S. President,,Dem,Marianne Williamson,1,0,0,0,1
+Lawrence,Dent,U.S. President,,Dem,Marianne Williamson,0,0,0,0,0
+Lawrence,Dowell,U.S. President,,Dem,Marianne Williamson,0,0,0,0,0
+Lawrence,Duty,U.S. President,,Dem,Marianne Williamson,0,0,0,0,0
+Lawrence,Eaton,U.S. President,,Dem,Marianne Williamson,0,0,0,0,0
+Lawrence,Flat Creek,U.S. President,,Dem,Marianne Williamson,0,0,0,0,0
+Lawrence,Jesup,U.S. President,,Dem,Marianne Williamson,0,0,0,0,0
+Lawrence,Lawrence,U.S. President,,Dem,Marianne Williamson,0,0,0,0,0
+Lawrence,Marion,U.S. President,,Dem,Marianne Williamson,0,0,0,0,0
+Lawrence,Morgan,U.S. President,,Dem,Marianne Williamson,0,0,0,0,0
+Lawrence,Promised Land,U.S. President,,Dem,Marianne Williamson,0,0,0,0,0
+Lawrence,Reed's Creek Saffell,U.S. President,,Dem,Marianne Williamson,0,0,0,0,0
+Lawrence,Reed's Creek Strawberry,U.S. President,,Dem,Marianne Williamson,0,0,0,0,0
+Lawrence,Richwoods,U.S. President,,Dem,Marianne Williamson,0,0,0,0,0
+Lawrence,Spring River,U.S. President,,Dem,Marianne Williamson,0,0,0,0,0
+Lawrence,Strawberry,U.S. President,,Dem,Marianne Williamson,0,0,0,0,0
+Lawrence,Thacker,U.S. President,,Dem,Marianne Williamson,0,0,0,0,0
+Lawrence,Annieville,U.S. President,,Dem,Andrew Yang,0,0,0,0,0
+Lawrence,Ashland,U.S. President,,Dem,Andrew Yang,0,0,0,0,0
+Lawrence,Black River,U.S. President,,Dem,Andrew Yang,1,0,0,0,1
+Lawrence,Black Rock,U.S. President,,Dem,Andrew Yang,0,0,0,0,0
+Lawrence,Boas 1,U.S. President,,Dem,Andrew Yang,2,0,0,0,2
+Lawrence,Boas 2,U.S. President,,Dem,Andrew Yang,1,0,0,0,1
+Lawrence,Boas 3,U.S. President,,Dem,Andrew Yang,0,0,0,0,0
+Lawrence,Cache,U.S. President,,Dem,Andrew Yang,0,0,0,0,0
+Lawrence,Campbell 1,U.S. President,,Dem,Andrew Yang,0,0,0,0,0
+Lawrence,Campbell 2,U.S. President,,Dem,Andrew Yang,0,0,0,0,0
+Lawrence,Campbell 3,U.S. President,,Dem,Andrew Yang,2,0,1,0,1
+Lawrence,Campbell 4,U.S. President,,Dem,Andrew Yang,1,0,0,0,1
+Lawrence,Dent,U.S. President,,Dem,Andrew Yang,0,0,0,0,0
+Lawrence,Dowell,U.S. President,,Dem,Andrew Yang,0,0,0,0,0
+Lawrence,Duty,U.S. President,,Dem,Andrew Yang,0,0,0,0,0
+Lawrence,Eaton,U.S. President,,Dem,Andrew Yang,0,0,0,0,0
+Lawrence,Flat Creek,U.S. President,,Dem,Andrew Yang,0,0,0,0,0
+Lawrence,Jesup,U.S. President,,Dem,Andrew Yang,0,0,0,0,0
+Lawrence,Lawrence,U.S. President,,Dem,Andrew Yang,0,0,0,0,0
+Lawrence,Marion,U.S. President,,Dem,Andrew Yang,0,0,0,0,0
+Lawrence,Morgan,U.S. President,,Dem,Andrew Yang,0,0,0,0,0
+Lawrence,Promised Land,U.S. President,,Dem,Andrew Yang,0,0,0,0,0
+Lawrence,Reed's Creek Saffell,U.S. President,,Dem,Andrew Yang,0,0,0,0,0
+Lawrence,Reed's Creek Strawberry,U.S. President,,Dem,Andrew Yang,0,0,0,0,0
+Lawrence,Richwoods,U.S. President,,Dem,Andrew Yang,0,0,0,0,0
+Lawrence,Spring River,U.S. President,,Dem,Andrew Yang,0,0,0,0,0
+Lawrence,Strawberry,U.S. President,,Dem,Andrew Yang,0,0,0,0,0
+Lawrence,Thacker,U.S. President,,Dem,Andrew Yang,1,0,1,0,0
+Lawrence,Annieville,U.S. President,,Dem,Michael Bennet,0,0,0,0,0
+Lawrence,Ashland,U.S. President,,Dem,Michael Bennet,0,0,0,0,0
+Lawrence,Black River,U.S. President,,Dem,Michael Bennet,0,0,0,0,0
+Lawrence,Black Rock,U.S. President,,Dem,Michael Bennet,1,0,1,0,0
+Lawrence,Boas 1,U.S. President,,Dem,Michael Bennet,1,0,1,0,0
+Lawrence,Boas 2,U.S. President,,Dem,Michael Bennet,0,0,0,0,0
+Lawrence,Boas 3,U.S. President,,Dem,Michael Bennet,1,0,1,0,0
+Lawrence,Cache,U.S. President,,Dem,Michael Bennet,0,0,0,0,0
+Lawrence,Campbell 1,U.S. President,,Dem,Michael Bennet,0,0,0,0,0
+Lawrence,Campbell 2,U.S. President,,Dem,Michael Bennet,0,0,0,0,0
+Lawrence,Campbell 3,U.S. President,,Dem,Michael Bennet,1,0,0,0,1
+Lawrence,Campbell 4,U.S. President,,Dem,Michael Bennet,0,0,0,0,0
+Lawrence,Dent,U.S. President,,Dem,Michael Bennet,0,0,0,0,0
+Lawrence,Dowell,U.S. President,,Dem,Michael Bennet,0,0,0,0,0
+Lawrence,Duty,U.S. President,,Dem,Michael Bennet,0,0,0,0,0
+Lawrence,Eaton,U.S. President,,Dem,Michael Bennet,0,0,0,0,0
+Lawrence,Flat Creek,U.S. President,,Dem,Michael Bennet,0,0,0,0,0
+Lawrence,Jesup,U.S. President,,Dem,Michael Bennet,0,0,0,0,0
+Lawrence,Lawrence,U.S. President,,Dem,Michael Bennet,0,0,0,0,0
+Lawrence,Marion,U.S. President,,Dem,Michael Bennet,0,0,0,0,0
+Lawrence,Morgan,U.S. President,,Dem,Michael Bennet,0,0,0,0,0
+Lawrence,Promised Land,U.S. President,,Dem,Michael Bennet,0,0,0,0,0
+Lawrence,Reed's Creek Saffell,U.S. President,,Dem,Michael Bennet,0,0,0,0,0
+Lawrence,Reed's Creek Strawberry,U.S. President,,Dem,Michael Bennet,0,0,0,0,0
+Lawrence,Richwoods,U.S. President,,Dem,Michael Bennet,0,0,0,0,0
+Lawrence,Spring River,U.S. President,,Dem,Michael Bennet,0,0,0,0,0
+Lawrence,Strawberry,U.S. President,,Dem,Michael Bennet,0,0,0,0,0
+Lawrence,Thacker,U.S. President,,Dem,Michael Bennet,0,0,0,0,0
+Lawrence,Annieville,U.S. President,,Dem,Michael R. Bloomberg,1,0,0,0,1
+Lawrence,Ashland,U.S. President,,Dem,Michael R. Bloomberg,3,0,3,0,0
+Lawrence,Black River,U.S. President,,Dem,Michael R. Bloomberg,11,0,4,0,7
+Lawrence,Black Rock,U.S. President,,Dem,Michael R. Bloomberg,12,0,6,0,6
+Lawrence,Boas 1,U.S. President,,Dem,Michael R. Bloomberg,12,0,8,0,4
+Lawrence,Boas 2,U.S. President,,Dem,Michael R. Bloomberg,6,0,4,0,2
+Lawrence,Boas 3,U.S. President,,Dem,Michael R. Bloomberg,7,0,5,0,2
+Lawrence,Cache,U.S. President,,Dem,Michael R. Bloomberg,3,0,2,0,1
+Lawrence,Campbell 1,U.S. President,,Dem,Michael R. Bloomberg,22,0,11,0,11
+Lawrence,Campbell 2,U.S. President,,Dem,Michael R. Bloomberg,24,1,2,0,21
+Lawrence,Campbell 3,U.S. President,,Dem,Michael R. Bloomberg,25,0,6,0,19
+Lawrence,Campbell 4,U.S. President,,Dem,Michael R. Bloomberg,26,0,9,0,17
+Lawrence,Dent,U.S. President,,Dem,Michael R. Bloomberg,10,0,8,0,2
+Lawrence,Dowell,U.S. President,,Dem,Michael R. Bloomberg,2,0,1,0,1
+Lawrence,Duty,U.S. President,,Dem,Michael R. Bloomberg,13,0,9,2,2
+Lawrence,Eaton,U.S. President,,Dem,Michael R. Bloomberg,2,0,1,0,1
+Lawrence,Flat Creek,U.S. President,,Dem,Michael R. Bloomberg,2,0,2,0,0
+Lawrence,Jesup,U.S. President,,Dem,Michael R. Bloomberg,1,0,1,0,0
+Lawrence,Lawrence,U.S. President,,Dem,Michael R. Bloomberg,3,0,1,0,2
+Lawrence,Marion,U.S. President,,Dem,Michael R. Bloomberg,3,0,1,0,2
+Lawrence,Morgan,U.S. President,,Dem,Michael R. Bloomberg,4,0,4,0,0
+Lawrence,Promised Land,U.S. President,,Dem,Michael R. Bloomberg,3,0,1,0,2
+Lawrence,Reed's Creek Saffell,U.S. President,,Dem,Michael R. Bloomberg,1,0,1,0,0
+Lawrence,Reed's Creek Strawberry,U.S. President,,Dem,Michael R. Bloomberg,6,0,5,0,1
+Lawrence,Richwoods,U.S. President,,Dem,Michael R. Bloomberg,1,0,0,0,1
+Lawrence,Spring River,U.S. President,,Dem,Michael R. Bloomberg,0,0,0,0,0
+Lawrence,Strawberry,U.S. President,,Dem,Michael R. Bloomberg,4,0,4,0,0
+Lawrence,Thacker,U.S. President,,Dem,Michael R. Bloomberg,4,0,3,0,1
+Lawrence,Annieville,U.S. President,,Dem,Kamala Harris,0,0,0,0,0
+Lawrence,Ashland,U.S. President,,Dem,Kamala Harris,0,0,0,0,0
+Lawrence,Black River,U.S. President,,Dem,Kamala Harris,1,0,0,0,1
+Lawrence,Black Rock,U.S. President,,Dem,Kamala Harris,1,0,1,0,0
+Lawrence,Boas 1,U.S. President,,Dem,Kamala Harris,1,0,0,0,1
+Lawrence,Boas 2,U.S. President,,Dem,Kamala Harris,1,0,1,0,0
+Lawrence,Boas 3,U.S. President,,Dem,Kamala Harris,1,0,0,0,1
+Lawrence,Cache,U.S. President,,Dem,Kamala Harris,0,0,0,0,0
+Lawrence,Campbell 1,U.S. President,,Dem,Kamala Harris,0,0,0,0,0
+Lawrence,Campbell 2,U.S. President,,Dem,Kamala Harris,1,0,0,0,1
+Lawrence,Campbell 3,U.S. President,,Dem,Kamala Harris,0,0,0,0,0
+Lawrence,Campbell 4,U.S. President,,Dem,Kamala Harris,1,0,0,0,1
+Lawrence,Dent,U.S. President,,Dem,Kamala Harris,0,0,0,0,0
+Lawrence,Dowell,U.S. President,,Dem,Kamala Harris,0,0,0,0,0
+Lawrence,Duty,U.S. President,,Dem,Kamala Harris,0,0,0,0,0
+Lawrence,Eaton,U.S. President,,Dem,Kamala Harris,0,0,0,0,0
+Lawrence,Flat Creek,U.S. President,,Dem,Kamala Harris,0,0,0,0,0
+Lawrence,Jesup,U.S. President,,Dem,Kamala Harris,0,0,0,0,0
+Lawrence,Lawrence,U.S. President,,Dem,Kamala Harris,0,0,0,0,0
+Lawrence,Marion,U.S. President,,Dem,Kamala Harris,0,0,0,0,0
+Lawrence,Morgan,U.S. President,,Dem,Kamala Harris,0,0,0,0,0
+Lawrence,Promised Land,U.S. President,,Dem,Kamala Harris,0,0,0,0,0
+Lawrence,Reed's Creek Saffell,U.S. President,,Dem,Kamala Harris,0,0,0,0,0
+Lawrence,Reed's Creek Strawberry,U.S. President,,Dem,Kamala Harris,0,0,0,0,0
+Lawrence,Richwoods,U.S. President,,Dem,Kamala Harris,0,0,0,0,0
+Lawrence,Spring River,U.S. President,,Dem,Kamala Harris,0,0,0,0,0
+Lawrence,Strawberry,U.S. President,,Dem,Kamala Harris,1,0,1,0,0
+Lawrence,Thacker,U.S. President,,Dem,Kamala Harris,0,0,0,0,0
+Lawrence,Annieville,U.S. President,,Dem,Julian Castro,0,0,0,0,0
+Lawrence,Ashland,U.S. President,,Dem,Julian Castro,0,0,0,0,0
+Lawrence,Black River,U.S. President,,Dem,Julian Castro,0,0,0,0,0
+Lawrence,Black Rock,U.S. President,,Dem,Julian Castro,0,0,0,0,0
+Lawrence,Boas 1,U.S. President,,Dem,Julian Castro,0,0,0,0,0
+Lawrence,Boas 2,U.S. President,,Dem,Julian Castro,0,0,0,0,0
+Lawrence,Boas 3,U.S. President,,Dem,Julian Castro,0,0,0,0,0
+Lawrence,Cache,U.S. President,,Dem,Julian Castro,1,0,1,0,0
+Lawrence,Campbell 1,U.S. President,,Dem,Julian Castro,0,0,0,0,0
+Lawrence,Campbell 2,U.S. President,,Dem,Julian Castro,0,0,0,0,0
+Lawrence,Campbell 3,U.S. President,,Dem,Julian Castro,0,0,0,0,0
+Lawrence,Campbell 4,U.S. President,,Dem,Julian Castro,0,0,0,0,0
+Lawrence,Dent,U.S. President,,Dem,Julian Castro,1,0,1,0,0
+Lawrence,Dowell,U.S. President,,Dem,Julian Castro,0,0,0,0,0
+Lawrence,Duty,U.S. President,,Dem,Julian Castro,1,0,0,0,1
+Lawrence,Eaton,U.S. President,,Dem,Julian Castro,0,0,0,0,0
+Lawrence,Flat Creek,U.S. President,,Dem,Julian Castro,0,0,0,0,0
+Lawrence,Jesup,U.S. President,,Dem,Julian Castro,0,0,0,0,0
+Lawrence,Lawrence,U.S. President,,Dem,Julian Castro,0,0,0,0,0
+Lawrence,Marion,U.S. President,,Dem,Julian Castro,0,0,0,0,0
+Lawrence,Morgan,U.S. President,,Dem,Julian Castro,0,0,0,0,0
+Lawrence,Promised Land,U.S. President,,Dem,Julian Castro,0,0,0,0,0
+Lawrence,Reed's Creek Saffell,U.S. President,,Dem,Julian Castro,0,0,0,0,0
+Lawrence,Reed's Creek Strawberry,U.S. President,,Dem,Julian Castro,0,0,0,0,0
+Lawrence,Richwoods,U.S. President,,Dem,Julian Castro,0,0,0,0,0
+Lawrence,Spring River,U.S. President,,Dem,Julian Castro,0,0,0,0,0
+Lawrence,Strawberry,U.S. President,,Dem,Julian Castro,0,0,0,0,0
+Lawrence,Thacker,U.S. President,,Dem,Julian Castro,0,0,0,0,0
+Lawrence,Ashland,Justice Of The Peace DISTRICT 9,,Dem,Hunter Davis,1,0,1,0,0
+Lawrence,Black River,Justice Of The Peace DISTRICT 9,,Dem,Hunter Davis,11,1,7,0,3
+Lawrence,Campbell 4,Justice Of The Peace DISTRICT 9,,Dem,Hunter Davis,0,0,0,0,0
+Lawrence,Duty,Justice Of The Peace DISTRICT 9,,Dem,Hunter Davis,10,0,7,1,2
+Lawrence,Lawrence,Justice Of The Peace DISTRICT 9,,Dem,Hunter Davis,5,0,2,0,3
+Lawrence,Marion,Justice Of The Peace DISTRICT 9,,Dem,Hunter Davis,3,1,2,0,0
+Lawrence,Morgan,Justice Of The Peace DISTRICT 9,,Dem,Hunter Davis,1,0,0,0,1
+Lawrence,Richwoods,Justice Of The Peace DISTRICT 9,,Dem,Hunter Davis,6,0,2,0,4
+Lawrence,Ashland,Justice Of The Peace DISTRICT 9,,Dem,Alex A. Latham,5,0,3,0,2
+Lawrence,Black River,Justice Of The Peace DISTRICT 9,,Dem,Alex A. Latham,24,0,8,0,16
+Lawrence,Campbell 4,Justice Of The Peace DISTRICT 9,,Dem,Alex A. Latham,1,0,0,0,1
+Lawrence,Duty,Justice Of The Peace DISTRICT 9,,Dem,Alex A. Latham,32,0,26,1,5
+Lawrence,Lawrence,Justice Of The Peace DISTRICT 9,,Dem,Alex A. Latham,6,0,4,0,2
+Lawrence,Marion,Justice Of The Peace DISTRICT 9,,Dem,Alex A. Latham,4,0,3,0,1
+Lawrence,Morgan,Justice Of The Peace DISTRICT 9,,Dem,Alex A. Latham,0,0,0,0,0
+Lawrence,Richwoods,Justice Of The Peace DISTRICT 9,,Dem,Alex A. Latham,2,0,1,0,1
+Lawrence,Annieville,U.S. President,,Rep,Bill Weld,0,0,0,0,0
+Lawrence,Ashland,U.S. President,,Rep,Bill Weld,1,0,0,0,1
+Lawrence,Black River,U.S. President,,Rep,Bill Weld,0,0,0,0,0
+Lawrence,Black Rock,U.S. President,,Rep,Bill Weld,1,0,1,0,0
+Lawrence,Boas 1,U.S. President,,Rep,Bill Weld,0,0,0,0,0
+Lawrence,Boas 2,U.S. President,,Rep,Bill Weld,0,0,0,0,0
+Lawrence,Boas 3,U.S. President,,Rep,Bill Weld,0,0,0,0,0
+Lawrence,Cache,U.S. President,,Rep,Bill Weld,0,0,0,0,0
+Lawrence,Campbell 1,U.S. President,,Rep,Bill Weld,1,0,0,0,1
+Lawrence,Campbell 2,U.S. President,,Rep,Bill Weld,1,0,1,0,0
+Lawrence,Campbell 3,U.S. President,,Rep,Bill Weld,2,0,1,0,1
+Lawrence,Campbell 4,U.S. President,,Rep,Bill Weld,1,0,0,0,1
+Lawrence,Dent,U.S. President,,Rep,Bill Weld,2,0,2,0,0
+Lawrence,Dowell,U.S. President,,Rep,Bill Weld,0,0,0,0,0
+Lawrence,Duty,U.S. President,,Rep,Bill Weld,0,0,0,0,0
+Lawrence,Eaton,U.S. President,,Rep,Bill Weld,0,0,0,0,0
+Lawrence,Flat Creek,U.S. President,,Rep,Bill Weld,1,0,1,0,0
+Lawrence,Jesup,U.S. President,,Rep,Bill Weld,0,0,0,0,0
+Lawrence,Lawrence,U.S. President,,Rep,Bill Weld,0,0,0,0,0
+Lawrence,Marion,U.S. President,,Rep,Bill Weld,0,0,0,0,0
+Lawrence,Morgan,U.S. President,,Rep,Bill Weld,1,0,1,0,0
+Lawrence,Promised Land,U.S. President,,Rep,Bill Weld,2,1,0,0,1
+Lawrence,Reed's Creek Saffell,U.S. President,,Rep,Bill Weld,0,0,0,0,0
+Lawrence,Reed's Creek Strawberry,U.S. President,,Rep,Bill Weld,0,0,0,0,0
+Lawrence,Richwoods,U.S. President,,Rep,Bill Weld,0,0,0,0,0
+Lawrence,Spring River,U.S. President,,Rep,Bill Weld,0,0,0,0,0
+Lawrence,Strawberry,U.S. President,,Rep,Bill Weld,0,0,0,0,0
+Lawrence,Thacker,U.S. President,,Rep,Bill Weld,0,0,0,0,0
+Lawrence,Annieville,U.S. President,,Rep,Donald J. Trump,27,0,19,0,8
+Lawrence,Ashland,U.S. President,,Rep,Donald J. Trump,21,0,15,0,6
+Lawrence,Black River,U.S. President,,Rep,Donald J. Trump,66,0,38,0,28
+Lawrence,Black Rock,U.S. President,,Rep,Donald J. Trump,139,0,97,0,42
+Lawrence,Boas 1,U.S. President,,Rep,Donald J. Trump,82,0,42,0,40
+Lawrence,Boas 2,U.S. President,,Rep,Donald J. Trump,68,0,41,1,26
+Lawrence,Boas 3,U.S. President,,Rep,Donald J. Trump,70,0,31,0,39
+Lawrence,Cache,U.S. President,,Rep,Donald J. Trump,22,0,8,0,14
+Lawrence,Campbell 1,U.S. President,,Rep,Donald J. Trump,138,0,54,0,84
+Lawrence,Campbell 2,U.S. President,,Rep,Donald J. Trump,166,2,57,0,107
+Lawrence,Campbell 3,U.S. President,,Rep,Donald J. Trump,83,0,36,0,47
+Lawrence,Campbell 4,U.S. President,,Rep,Donald J. Trump,170,0,74,0,96
+Lawrence,Dent,U.S. President,,Rep,Donald J. Trump,118,1,80,0,37
+Lawrence,Dowell,U.S. President,,Rep,Donald J. Trump,10,0,4,0,6
+Lawrence,Duty,U.S. President,,Rep,Donald J. Trump,43,0,34,0,9
+Lawrence,Eaton,U.S. President,,Rep,Donald J. Trump,27,0,20,0,7
+Lawrence,Flat Creek,U.S. President,,Rep,Donald J. Trump,12,0,9,0,3
+Lawrence,Jesup,U.S. President,,Rep,Donald J. Trump,10,0,6,0,4
+Lawrence,Lawrence,U.S. President,,Rep,Donald J. Trump,20,0,14,0,6
+Lawrence,Marion,U.S. President,,Rep,Donald J. Trump,17,0,10,0,7
+Lawrence,Morgan,U.S. President,,Rep,Donald J. Trump,66,0,53,0,13
+Lawrence,Promised Land,U.S. President,,Rep,Donald J. Trump,52,0,7,0,45
+Lawrence,Reed's Creek Saffell,U.S. President,,Rep,Donald J. Trump,44,3,39,0,2
+Lawrence,Reed's Creek Strawberry,U.S. President,,Rep,Donald J. Trump,45,1,40,0,4
+Lawrence,Richwoods,U.S. President,,Rep,Donald J. Trump,13,0,7,0,6
+Lawrence,Spring River,U.S. President,,Rep,Donald J. Trump,41,0,33,0,8
+Lawrence,Strawberry,U.S. President,,Rep,Donald J. Trump,40,0,36,0,4
+Lawrence,Thacker,U.S. President,,Rep,Donald J. Trump,54,0,48,0,6
+Lawrence,Annieville,U.S. President,,Rep,"Roque ""Rocky"" De La Fuente",0,0,0,0,0
+Lawrence,Ashland,U.S. President,,Rep,"Roque ""Rocky"" De La Fuente",0,0,0,0,0
+Lawrence,Black River,U.S. President,,Rep,"Roque ""Rocky"" De La Fuente",0,0,0,0,0
+Lawrence,Black Rock,U.S. President,,Rep,"Roque ""Rocky"" De La Fuente",0,0,0,0,0
+Lawrence,Boas 1,U.S. President,,Rep,"Roque ""Rocky"" De La Fuente",0,0,0,0,0
+Lawrence,Boas 2,U.S. President,,Rep,"Roque ""Rocky"" De La Fuente",0,0,0,0,0
+Lawrence,Boas 3,U.S. President,,Rep,"Roque ""Rocky"" De La Fuente",0,0,0,0,0
+Lawrence,Cache,U.S. President,,Rep,"Roque ""Rocky"" De La Fuente",0,0,0,0,0
+Lawrence,Campbell 1,U.S. President,,Rep,"Roque ""Rocky"" De La Fuente",2,0,1,0,1
+Lawrence,Campbell 2,U.S. President,,Rep,"Roque ""Rocky"" De La Fuente",1,0,0,0,1
+Lawrence,Campbell 3,U.S. President,,Rep,"Roque ""Rocky"" De La Fuente",0,0,0,0,0
+Lawrence,Campbell 4,U.S. President,,Rep,"Roque ""Rocky"" De La Fuente",3,0,1,0,2
+Lawrence,Dent,U.S. President,,Rep,"Roque ""Rocky"" De La Fuente",0,0,0,0,0
+Lawrence,Dowell,U.S. President,,Rep,"Roque ""Rocky"" De La Fuente",0,0,0,0,0
+Lawrence,Duty,U.S. President,,Rep,"Roque ""Rocky"" De La Fuente",0,0,0,0,0
+Lawrence,Eaton,U.S. President,,Rep,"Roque ""Rocky"" De La Fuente",0,0,0,0,0
+Lawrence,Flat Creek,U.S. President,,Rep,"Roque ""Rocky"" De La Fuente",0,0,0,0,0
+Lawrence,Jesup,U.S. President,,Rep,"Roque ""Rocky"" De La Fuente",0,0,0,0,0
+Lawrence,Lawrence,U.S. President,,Rep,"Roque ""Rocky"" De La Fuente",0,0,0,0,0
+Lawrence,Marion,U.S. President,,Rep,"Roque ""Rocky"" De La Fuente",0,0,0,0,0
+Lawrence,Morgan,U.S. President,,Rep,"Roque ""Rocky"" De La Fuente",0,0,0,0,0
+Lawrence,Promised Land,U.S. President,,Rep,"Roque ""Rocky"" De La Fuente",0,0,0,0,0
+Lawrence,Reed's Creek Saffell,U.S. President,,Rep,"Roque ""Rocky"" De La Fuente",0,0,0,0,0
+Lawrence,Reed's Creek Strawberry,U.S. President,,Rep,"Roque ""Rocky"" De La Fuente",0,0,0,0,0
+Lawrence,Richwoods,U.S. President,,Rep,"Roque ""Rocky"" De La Fuente",0,0,0,0,0
+Lawrence,Spring River,U.S. President,,Rep,"Roque ""Rocky"" De La Fuente",0,0,0,0,0
+Lawrence,Strawberry,U.S. President,,Rep,"Roque ""Rocky"" De La Fuente",0,0,0,0,0
+Lawrence,Thacker,U.S. President,,Rep,"Roque ""Rocky"" De La Fuente",0,0,0,0,0
+Lawrence,Annieville,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,25,0,16,0,9
+Lawrence,Ashland,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,34,0,26,0,8
+Lawrence,Black River,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,59,1,31,0,27
+Lawrence,Black Rock,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,110,2,70,0,38
+Lawrence,Boas 1,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,84,1,48,0,35
+Lawrence,Boas 2,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,71,0,39,1,31
+Lawrence,Boas 3,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,68,0,33,0,35
+Lawrence,Cache,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,22,0,8,0,14
+Lawrence,Campbell 1,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,154,2,55,0,97
+Lawrence,Campbell 2,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,171,2,62,0,107
+Lawrence,Campbell 3,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,109,0,45,0,64
+Lawrence,Campbell 4,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,161,0,57,0,104
+Lawrence,Dent,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,97,0,74,0,23
+Lawrence,Dowell,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,11,0,7,0,4
+Lawrence,Duty,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,49,0,42,0,7
+Lawrence,Eaton,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,30,0,21,0,9
+Lawrence,Flat Creek,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,12,0,8,0,4
+Lawrence,Jesup,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,10,0,6,0,4
+Lawrence,Lawrence,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,18,0,12,0,6
+Lawrence,Marion,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,18,1,9,0,8
+Lawrence,Morgan,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,63,0,54,0,9
+Lawrence,Promised Land,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,45,0,4,0,41
+Lawrence,Reed's Creek Saffell,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,38,0,35,0,3
+Lawrence,Reed's Creek Strawberry,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,49,0,45,0,4
+Lawrence,Richwoods,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,18,0,8,0,10
+Lawrence,Spring River,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,35,0,29,0,6
+Lawrence,Strawberry,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,42,0,35,2,5
+Lawrence,Thacker,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,43,0,37,0,6
+Lawrence,Annieville,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,15,0,11,0,4
+Lawrence,Ashland,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,14,0,7,0,7
+Lawrence,Black River,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,42,0,21,0,21
+Lawrence,Black Rock,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,90,0,63,0,27
+Lawrence,Boas 1,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,69,0,29,0,40
+Lawrence,Boas 2,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,56,1,32,0,23
+Lawrence,Boas 3,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,39,0,20,0,19
+Lawrence,Cache,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,7,0,4,0,3
+Lawrence,Campbell 1,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,123,0,49,0,74
+Lawrence,Campbell 2,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,108,3,25,0,80
+Lawrence,Campbell 3,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,62,2,26,0,34
+Lawrence,Campbell 4,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,114,3,48,0,63
+Lawrence,Dent,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,79,1,49,0,29
+Lawrence,Dowell,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,10,0,3,0,7
+Lawrence,Duty,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,35,0,26,2,7
+Lawrence,Eaton,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,16,0,11,0,5
+Lawrence,Flat Creek,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,11,0,9,0,2
+Lawrence,Jesup,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,5,0,5,0,0
+Lawrence,Lawrence,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,15,0,10,0,5
+Lawrence,Marion,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,13,0,9,0,4
+Lawrence,Morgan,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,30,0,23,0,7
+Lawrence,Promised Land,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,28,2,4,0,22
+Lawrence,Reed's Creek Saffell,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,19,3,15,0,1
+Lawrence,Reed's Creek Strawberry,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,28,1,23,0,4
+Lawrence,Richwoods,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,5,0,3,0,2
+Lawrence,Spring River,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,27,2,21,0,4
+Lawrence,Strawberry,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,33,0,30,0,3
+Lawrence,Thacker,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,32,0,29,0,3
+Lawrence,Annieville,State District Court,"11, Division 1",Non,Chris Jester,10,0,6,0,4
+Lawrence,Ashland,State District Court,"11, Division 1",Non,Chris Jester,20,0,16,0,4
+Lawrence,Black River,State District Court,"11, Division 1",Non,Chris Jester,48,0,28,0,20
+Lawrence,Black Rock,State District Court,"11, Division 1",Non,Chris Jester,91,0,60,0,31
+Lawrence,Boas 1,State District Court,"11, Division 1",Non,Chris Jester,67,0,35,0,32
+Lawrence,Boas 2,State District Court,"11, Division 1",Non,Chris Jester,54,0,33,0,21
+Lawrence,Boas 3,State District Court,"11, Division 1",Non,Chris Jester,38,0,18,0,20
+Lawrence,Cache,State District Court,"11, Division 1",Non,Chris Jester,18,0,6,0,12
+Lawrence,Campbell 1,State District Court,"11, Division 1",Non,Chris Jester,115,1,51,0,63
+Lawrence,Campbell 2,State District Court,"11, Division 1",Non,Chris Jester,111,1,41,0,69
+Lawrence,Campbell 3,State District Court,"11, Division 1",Non,Chris Jester,64,0,28,0,36
+Lawrence,Campbell 4,State District Court,"11, Division 1",Non,Chris Jester,137,1,49,0,87
+Lawrence,Dent,State District Court,"11, Division 1",Non,Chris Jester,98,0,67,0,31
+Lawrence,Dowell,State District Court,"11, Division 1",Non,Chris Jester,7,0,4,0,3
+Lawrence,Duty,State District Court,"11, Division 1",Non,Chris Jester,46,0,35,0,11
+Lawrence,Eaton,State District Court,"11, Division 1",Non,Chris Jester,15,0,10,0,5
+Lawrence,Flat Creek,State District Court,"11, Division 1",Non,Chris Jester,15,0,9,0,6
+Lawrence,Jesup,State District Court,"11, Division 1",Non,Chris Jester,2,0,1,0,1
+Lawrence,Lawrence,State District Court,"11, Division 1",Non,Chris Jester,18,0,12,0,6
+Lawrence,Marion,State District Court,"11, Division 1",Non,Chris Jester,11,0,4,0,7
+Lawrence,Morgan,State District Court,"11, Division 1",Non,Chris Jester,32,0,28,0,4
+Lawrence,Promised Land,State District Court,"11, Division 1",Non,Chris Jester,24,0,5,0,19
+Lawrence,Reed's Creek Saffell,State District Court,"11, Division 1",Non,Chris Jester,11,0,11,0,0
+Lawrence,Reed's Creek Strawberry,State District Court,"11, Division 1",Non,Chris Jester,25,1,20,0,4
+Lawrence,Richwoods,State District Court,"11, Division 1",Non,Chris Jester,3,0,3,0,0
+Lawrence,Spring River,State District Court,"11, Division 1",Non,Chris Jester,13,0,9,0,4
+Lawrence,Strawberry,State District Court,"11, Division 1",Non,Chris Jester,29,0,26,0,3
+Lawrence,Thacker,State District Court,"11, Division 1",Non,Chris Jester,41,0,36,0,5
+Lawrence,Annieville,State District Court,"11, Division 1",Non,Judge Mark R. Johnson,30,0,21,0,9
+Lawrence,Ashland,State District Court,"11, Division 1",Non,Judge Mark R. Johnson,28,0,17,0,11
+Lawrence,Black River,State District Court,"11, Division 1",Non,Judge Mark R. Johnson,55,1,23,0,31
+Lawrence,Black Rock,State District Court,"11, Division 1",Non,Judge Mark R. Johnson,109,2,70,0,37
+Lawrence,Boas 1,State District Court,"11, Division 1",Non,Judge Mark R. Johnson,91,1,44,0,46
+Lawrence,Boas 2,State District Court,"11, Division 1",Non,Judge Mark R. Johnson,76,1,43,1,31
+Lawrence,Boas 3,State District Court,"11, Division 1",Non,Judge Mark R. Johnson,69,0,36,0,33
+Lawrence,Cache,State District Court,"11, Division 1",Non,Judge Mark R. Johnson,11,0,6,0,5
+Lawrence,Campbell 1,State District Court,"11, Division 1",Non,Judge Mark R. Johnson,164,1,54,0,109
+Lawrence,Campbell 2,State District Court,"11, Division 1",Non,Judge Mark R. Johnson,173,4,49,0,120
+Lawrence,Campbell 3,State District Court,"11, Division 1",Non,Judge Mark R. Johnson,105,2,41,0,62
+Lawrence,Campbell 4,State District Court,"11, Division 1",Non,Judge Mark R. Johnson,139,1,58,0,80
+Lawrence,Dent,State District Court,"11, Division 1",Non,Judge Mark R. Johnson,85,1,62,0,22
+Lawrence,Dowell,State District Court,"11, Division 1",Non,Judge Mark R. Johnson,14,0,6,0,8
+Lawrence,Duty,State District Court,"11, Division 1",Non,Judge Mark R. Johnson,39,0,32,2,5
+Lawrence,Eaton,State District Court,"11, Division 1",Non,Judge Mark R. Johnson,34,0,25,0,9
+Lawrence,Flat Creek,State District Court,"11, Division 1",Non,Judge Mark R. Johnson,8,0,8,0,0
+Lawrence,Jesup,State District Court,"11, Division 1",Non,Judge Mark R. Johnson,13,0,10,0,3
+Lawrence,Lawrence,State District Court,"11, Division 1",Non,Judge Mark R. Johnson,15,0,10,0,5
+Lawrence,Marion,State District Court,"11, Division 1",Non,Judge Mark R. Johnson,21,1,15,0,5
+Lawrence,Morgan,State District Court,"11, Division 1",Non,Judge Mark R. Johnson,65,0,52,0,13
+Lawrence,Promised Land,State District Court,"11, Division 1",Non,Judge Mark R. Johnson,49,1,4,0,44
+Lawrence,Reed's Creek Saffell,State District Court,"11, Division 1",Non,Judge Mark R. Johnson,44,0,40,0,4
+Lawrence,Reed's Creek Strawberry,State District Court,"11, Division 1",Non,Judge Mark R. Johnson,54,0,50,0,4
+Lawrence,Richwoods,State District Court,"11, Division 1",Non,Judge Mark R. Johnson,19,0,8,0,11
+Lawrence,Spring River,State District Court,"11, Division 1",Non,Judge Mark R. Johnson,51,2,43,0,6
+Lawrence,Strawberry,State District Court,"11, Division 1",Non,Judge Mark R. Johnson,44,0,37,2,5
+Lawrence,Thacker,State District Court,"11, Division 1",Non,Judge Mark R. Johnson,40,0,36,0,4
+Lawrence,Annieville,Circuit Judge,"3, Division 3",Non,Judge Adam Weeks,25,0,16,0,9
+Lawrence,Ashland,Circuit Judge,"3, Division 3",Non,Judge Adam Weeks,41,0,31,0,10
+Lawrence,Black River,Circuit Judge,"3, Division 3",Non,Judge Adam Weeks,85,1,35,0,49
+Lawrence,Black Rock,Circuit Judge,"3, Division 3",Non,Judge Adam Weeks,172,2,108,0,62
+Lawrence,Boas 1,Circuit Judge,"3, Division 3",Non,Judge Adam Weeks,130,1,69,0,60
+Lawrence,Boas 2,Circuit Judge,"3, Division 3",Non,Judge Adam Weeks,100,1,62,1,36
+Lawrence,Boas 3,Circuit Judge,"3, Division 3",Non,Judge Adam Weeks,82,0,41,0,41
+Lawrence,Cache,Circuit Judge,"3, Division 3",Non,Judge Adam Weeks,27,0,11,0,16
+Lawrence,Campbell 1,Circuit Judge,"3, Division 3",Non,Judge Adam Weeks,232,1,94,0,137
+Lawrence,Campbell 2,Circuit Judge,"3, Division 3",Non,Judge Adam Weeks,238,4,81,0,153
+Lawrence,Campbell 3,Circuit Judge,"3, Division 3",Non,Judge Adam Weeks,146,2,57,0,87
+Lawrence,Campbell 4,Circuit Judge,"3, Division 3",Non,Judge Adam Weeks,227,2,88,0,137
+Lawrence,Dent,Circuit Judge,"3, Division 3",Non,Judge Adam Weeks,109,1,68,0,40
+Lawrence,Dowell,Circuit Judge,"3, Division 3",Non,Judge Adam Weeks,12,0,4,0,8
+Lawrence,Duty,Circuit Judge,"3, Division 3",Non,Judge Adam Weeks,66,0,54,0,12
+Lawrence,Eaton,Circuit Judge,"3, Division 3",Non,Judge Adam Weeks,43,0,28,0,15
+Lawrence,Flat Creek,Circuit Judge,"3, Division 3",Non,Judge Adam Weeks,21,0,15,0,6
+Lawrence,Jesup,Circuit Judge,"3, Division 3",Non,Judge Adam Weeks,12,0,9,0,3
+Lawrence,Lawrence,Circuit Judge,"3, Division 3",Non,Judge Adam Weeks,26,0,17,0,9
+Lawrence,Marion,Circuit Judge,"3, Division 3",Non,Judge Adam Weeks,27,0,17,0,10
+Lawrence,Morgan,Circuit Judge,"3, Division 3",Non,Judge Adam Weeks,81,0,71,0,10
+Lawrence,Promised Land,Circuit Judge,"3, Division 3",Non,Judge Adam Weeks,60,2,6,0,52
+Lawrence,Reed's Creek Saffell,Circuit Judge,"3, Division 3",Non,Judge Adam Weeks,43,0,39,0,4
+Lawrence,Reed's Creek Strawberry,Circuit Judge,"3, Division 3",Non,Judge Adam Weeks,64,0,57,0,7
+Lawrence,Richwoods,Circuit Judge,"3, Division 3",Non,Judge Adam Weeks,18,0,8,0,10
+Lawrence,Spring River,Circuit Judge,"3, Division 3",Non,Judge Adam Weeks,38,1,30,0,7
+Lawrence,Strawberry,Circuit Judge,"3, Division 3",Non,Judge Adam Weeks,58,0,49,2,7
+Lawrence,Thacker,Circuit Judge,"3, Division 3",Non,Judge Adam Weeks,40,0,34,0,6
+Lawrence,Annieville,Circuit Judge,"3, Division 3",Non,Hollie Wilson,2,0,1,0,1
+Lawrence,Ashland,Circuit Judge,"3, Division 3",Non,Hollie Wilson,3,0,0,0,3
+Lawrence,Black River,Circuit Judge,"3, Division 3",Non,Hollie Wilson,8,0,6,0,2
+Lawrence,Black Rock,Circuit Judge,"3, Division 3",Non,Hollie Wilson,11,0,9,0,2
+Lawrence,Boas 1,Circuit Judge,"3, Division 3",Non,Hollie Wilson,9,0,3,0,6
+Lawrence,Boas 2,Circuit Judge,"3, Division 3",Non,Hollie Wilson,7,0,3,0,4
+Lawrence,Boas 3,Circuit Judge,"3, Division 3",Non,Hollie Wilson,12,0,7,0,5
+Lawrence,Cache,Circuit Judge,"3, Division 3",Non,Hollie Wilson,2,0,1,0,1
+Lawrence,Campbell 1,Circuit Judge,"3, Division 3",Non,Hollie Wilson,12,0,5,0,7
+Lawrence,Campbell 2,Circuit Judge,"3, Division 3",Non,Hollie Wilson,9,1,1,0,7
+Lawrence,Campbell 3,Circuit Judge,"3, Division 3",Non,Hollie Wilson,13,0,5,0,8
+Lawrence,Campbell 4,Circuit Judge,"3, Division 3",Non,Hollie Wilson,10,0,6,0,4
+Lawrence,Dent,Circuit Judge,"3, Division 3",Non,Hollie Wilson,17,0,15,0,2
+Lawrence,Dowell,Circuit Judge,"3, Division 3",Non,Hollie Wilson,6,0,4,0,2
+Lawrence,Duty,Circuit Judge,"3, Division 3",Non,Hollie Wilson,9,0,7,2,0
+Lawrence,Eaton,Circuit Judge,"3, Division 3",Non,Hollie Wilson,5,0,4,0,1
+Lawrence,Flat Creek,Circuit Judge,"3, Division 3",Non,Hollie Wilson,0,0,0,0,0
+Lawrence,Jesup,Circuit Judge,"3, Division 3",Non,Hollie Wilson,0,0,0,0,0
+Lawrence,Lawrence,Circuit Judge,"3, Division 3",Non,Hollie Wilson,1,0,1,0,0
+Lawrence,Marion,Circuit Judge,"3, Division 3",Non,Hollie Wilson,4,1,1,0,2
+Lawrence,Morgan,Circuit Judge,"3, Division 3",Non,Hollie Wilson,6,0,2,0,4
+Lawrence,Promised Land,Circuit Judge,"3, Division 3",Non,Hollie Wilson,5,0,1,0,4
+Lawrence,Reed's Creek Saffell,Circuit Judge,"3, Division 3",Non,Hollie Wilson,5,0,5,0,0
+Lawrence,Reed's Creek Strawberry,Circuit Judge,"3, Division 3",Non,Hollie Wilson,3,0,3,0,0
+Lawrence,Richwoods,Circuit Judge,"3, Division 3",Non,Hollie Wilson,3,0,1,0,2
+Lawrence,Spring River,Circuit Judge,"3, Division 3",Non,Hollie Wilson,11,1,10,0,0
+Lawrence,Strawberry,Circuit Judge,"3, Division 3",Non,Hollie Wilson,4,0,3,0,1
+Lawrence,Thacker,Circuit Judge,"3, Division 3",Non,Hollie Wilson,14,0,13,0,1
+Lawrence,Annieville,Circuit Judge,"3, Division 3",Non,Joe Grider,10,0,9,0,1
+Lawrence,Ashland,Circuit Judge,"3, Division 3",Non,Joe Grider,3,0,1,0,2
+Lawrence,Black River,Circuit Judge,"3, Division 3",Non,Joe Grider,17,0,13,0,4
+Lawrence,Black Rock,Circuit Judge,"3, Division 3",Non,Joe Grider,20,0,18,0,2
+Lawrence,Boas 1,Circuit Judge,"3, Division 3",Non,Joe Grider,16,0,6,0,10
+Lawrence,Boas 2,Circuit Judge,"3, Division 3",Non,Joe Grider,18,0,8,0,10
+Lawrence,Boas 3,Circuit Judge,"3, Division 3",Non,Joe Grider,11,0,5,0,6
+Lawrence,Cache,Circuit Judge,"3, Division 3",Non,Joe Grider,0,0,0,0,0
+Lawrence,Campbell 1,Circuit Judge,"3, Division 3",Non,Joe Grider,33,1,3,0,29
+Lawrence,Campbell 2,Circuit Judge,"3, Division 3",Non,Joe Grider,37,0,7,0,30
+Lawrence,Campbell 3,Circuit Judge,"3, Division 3",Non,Joe Grider,15,0,8,0,7
+Lawrence,Campbell 4,Circuit Judge,"3, Division 3",Non,Joe Grider,34,0,10,0,24
+Lawrence,Dent,Circuit Judge,"3, Division 3",Non,Joe Grider,56,0,45,0,11
+Lawrence,Dowell,Circuit Judge,"3, Division 3",Non,Joe Grider,3,0,2,0,1
+Lawrence,Duty,Circuit Judge,"3, Division 3",Non,Joe Grider,10,0,7,0,3
+Lawrence,Eaton,Circuit Judge,"3, Division 3",Non,Joe Grider,3,0,3,0,0
+Lawrence,Flat Creek,Circuit Judge,"3, Division 3",Non,Joe Grider,1,0,1,0,0
+Lawrence,Jesup,Circuit Judge,"3, Division 3",Non,Joe Grider,3,0,3,0,0
+Lawrence,Lawrence,Circuit Judge,"3, Division 3",Non,Joe Grider,6,0,4,0,2
+Lawrence,Marion,Circuit Judge,"3, Division 3",Non,Joe Grider,0,0,0,0,0
+Lawrence,Morgan,Circuit Judge,"3, Division 3",Non,Joe Grider,11,0,10,0,1
+Lawrence,Promised Land,Circuit Judge,"3, Division 3",Non,Joe Grider,8,0,2,0,6
+Lawrence,Reed's Creek Saffell,Circuit Judge,"3, Division 3",Non,Joe Grider,3,0,3,0,0
+Lawrence,Reed's Creek Strawberry,Circuit Judge,"3, Division 3",Non,Joe Grider,4,0,4,0,0
+Lawrence,Richwoods,Circuit Judge,"3, Division 3",Non,Joe Grider,2,0,2,0,0
+Lawrence,Spring River,Circuit Judge,"3, Division 3",Non,Joe Grider,13,0,10,0,3
+Lawrence,Strawberry,Circuit Judge,"3, Division 3",Non,Joe Grider,13,0,13,0,0
+Lawrence,Thacker,Circuit Judge,"3, Division 3",Non,Joe Grider,20,0,19,0,1
+Lawrence,Annieville,Circuit Judge,"3, Division 3",Non,"Timothy F. Watson, Sr.",3,0,1,0,2
+Lawrence,Ashland,Circuit Judge,"3, Division 3",Non,"Timothy F. Watson, Sr.",1,0,1,0,0
+Lawrence,Black River,Circuit Judge,"3, Division 3",Non,"Timothy F. Watson, Sr.",1,0,1,0,0
+Lawrence,Black Rock,Circuit Judge,"3, Division 3",Non,"Timothy F. Watson, Sr.",6,0,3,0,3
+Lawrence,Boas 1,Circuit Judge,"3, Division 3",Non,"Timothy F. Watson, Sr.",4,0,1,0,3
+Lawrence,Boas 2,Circuit Judge,"3, Division 3",Non,"Timothy F. Watson, Sr.",6,0,3,0,3
+Lawrence,Boas 3,Circuit Judge,"3, Division 3",Non,"Timothy F. Watson, Sr.",5,0,2,0,3
+Lawrence,Cache,Circuit Judge,"3, Division 3",Non,"Timothy F. Watson, Sr.",0,0,0,0,0
+Lawrence,Campbell 1,Circuit Judge,"3, Division 3",Non,"Timothy F. Watson, Sr.",9,0,4,0,5
+Lawrence,Campbell 2,Circuit Judge,"3, Division 3",Non,"Timothy F. Watson, Sr.",6,0,3,0,3
+Lawrence,Campbell 3,Circuit Judge,"3, Division 3",Non,"Timothy F. Watson, Sr.",3,0,2,0,1
+Lawrence,Campbell 4,Circuit Judge,"3, Division 3",Non,"Timothy F. Watson, Sr.",12,1,6,0,5
+Lawrence,Dent,Circuit Judge,"3, Division 3",Non,"Timothy F. Watson, Sr.",3,0,2,0,1
+Lawrence,Dowell,Circuit Judge,"3, Division 3",Non,"Timothy F. Watson, Sr.",0,0,0,0,0
+Lawrence,Duty,Circuit Judge,"3, Division 3",Non,"Timothy F. Watson, Sr.",1,0,0,0,1
+Lawrence,Eaton,Circuit Judge,"3, Division 3",Non,"Timothy F. Watson, Sr.",0,0,0,0,0
+Lawrence,Flat Creek,Circuit Judge,"3, Division 3",Non,"Timothy F. Watson, Sr.",2,0,2,0,0
+Lawrence,Jesup,Circuit Judge,"3, Division 3",Non,"Timothy F. Watson, Sr.",1,0,0,0,1
+Lawrence,Lawrence,Circuit Judge,"3, Division 3",Non,"Timothy F. Watson, Sr.",0,0,0,0,0
+Lawrence,Marion,Circuit Judge,"3, Division 3",Non,"Timothy F. Watson, Sr.",1,0,1,0,0
+Lawrence,Morgan,Circuit Judge,"3, Division 3",Non,"Timothy F. Watson, Sr.",3,0,1,0,2
+Lawrence,Promised Land,Circuit Judge,"3, Division 3",Non,"Timothy F. Watson, Sr.",3,0,0,0,3
+Lawrence,Reed's Creek Saffell,Circuit Judge,"3, Division 3",Non,"Timothy F. Watson, Sr.",5,0,5,0,0
+Lawrence,Reed's Creek Strawberry,Circuit Judge,"3, Division 3",Non,"Timothy F. Watson, Sr.",8,1,7,0,0
+Lawrence,Richwoods,Circuit Judge,"3, Division 3",Non,"Timothy F. Watson, Sr.",0,0,0,0,0
+Lawrence,Spring River,Circuit Judge,"3, Division 3",Non,"Timothy F. Watson, Sr.",2,0,2,0,0
+Lawrence,Strawberry,Circuit Judge,"3, Division 3",Non,"Timothy F. Watson, Sr.",0,0,0,0,0
+Lawrence,Thacker,Circuit Judge,"3, Division 3",Non,"Timothy F. Watson, Sr.",5,0,4,0,1

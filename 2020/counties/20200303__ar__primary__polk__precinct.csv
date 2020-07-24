@@ -1,0 +1,464 @@
+county,precinct,office,district,party,candidate,votes,absentee,election_day,early_vote,provisional
+Polk,Precinct 1,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Polk,Precinct 2,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Polk,Precinct 3,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Polk,Acorn,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Polk,Ink,U.S. President,,DEM,Michael Bennet,1,0,1,0,0
+Polk,Board Camp,U.S. President,,DEM,Michael Bennet,3,0,0,3,0
+Polk,Cherry Hill,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Polk,Big Fork,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Polk,Dallas Valley,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Polk,Shady Grove,U.S. President,,DEM,Michael Bennet,1,0,0,1,0
+Polk,Rocky,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Polk,Potter,U.S. President,,DEM,Michael Bennet,1,0,1,0,0
+Polk,Hatfield,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Polk,Cove,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Polk,Vandervoort,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Polk,Wickes,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Polk,Grannis,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Polk,Precinct 1,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Polk,Precinct 2,U.S. President,,DEM,Julian Castro,1,0,0,1,0
+Polk,Precinct 3,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Polk,Acorn,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Polk,Ink,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Polk,Board Camp,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Polk,Cherry Hill,U.S. President,,DEM,Julian Castro,1,0,0,1,0
+Polk,Big Fork,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Polk,Dallas Valley,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Polk,Shady Grove,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Polk,Rocky,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Polk,Potter,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Polk,Hatfield,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Polk,Cove,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Polk,Vandervoort,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Polk,Wickes,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Polk,Grannis,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Polk,Precinct 1,U.S. President,,DEM,Joe Sestak,1,0,0,1,0
+Polk,Precinct 2,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Polk,Precinct 3,U.S. President,,DEM,Joe Sestak,1,0,0,1,0
+Polk,Acorn,U.S. President,,DEM,Joe Sestak,1,0,1,0,0
+Polk,Ink,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Polk,Board Camp,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Polk,Cherry Hill,U.S. President,,DEM,Joe Sestak,1,0,0,1,0
+Polk,Big Fork,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Polk,Dallas Valley,U.S. President,,DEM,Joe Sestak,1,0,0,1,0
+Polk,Shady Grove,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Polk,Rocky,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Polk,Potter,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Polk,Hatfield,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Polk,Cove,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Polk,Vandervoort,U.S. President,,DEM,Joe Sestak,1,0,1,0,0
+Polk,Wickes,U.S. President,,DEM,Joe Sestak,1,0,0,1,0
+Polk,Grannis,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Polk,Precinct 1,U.S. President,,DEM,Tom Steyer,1,1,0,0,0
+Polk,Precinct 2,U.S. President,,DEM,Tom Steyer,4,0,2,2,0
+Polk,Precinct 3,U.S. President,,DEM,Tom Steyer,1,0,0,1,0
+Polk,Acorn,U.S. President,,DEM,Tom Steyer,1,0,1,0,0
+Polk,Ink,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Polk,Board Camp,U.S. President,,DEM,Tom Steyer,1,0,0,1,0
+Polk,Cherry Hill,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Polk,Big Fork,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Polk,Dallas Valley,U.S. President,,DEM,Tom Steyer,2,1,1,0,0
+Polk,Shady Grove,U.S. President,,DEM,Tom Steyer,1,0,0,1,0
+Polk,Rocky,U.S. President,,DEM,Tom Steyer,1,0,0,1,0
+Polk,Potter,U.S. President,,DEM,Tom Steyer,3,0,0,3,0
+Polk,Hatfield,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Polk,Cove,U.S. President,,DEM,Tom Steyer,1,0,1,0,0
+Polk,Vandervoort,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Polk,Wickes,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Polk,Grannis,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Polk,Precinct 1,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Polk,Precinct 2,U.S. President,,DEM,Tulsi Gabbard,2,0,1,1,0
+Polk,Precinct 3,U.S. President,,DEM,Tulsi Gabbard,3,0,2,1,0
+Polk,Acorn,U.S. President,,DEM,Tulsi Gabbard,1,0,0,1,0
+Polk,Ink,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Polk,Board Camp,U.S. President,,DEM,Tulsi Gabbard,1,0,0,1,0
+Polk,Cherry Hill,U.S. President,,DEM,Tulsi Gabbard,1,0,1,0,0
+Polk,Big Fork,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Polk,Dallas Valley,U.S. President,,DEM,Tulsi Gabbard,1,0,0,1,0
+Polk,Shady Grove,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Polk,Rocky,U.S. President,,DEM,Tulsi Gabbard,1,0,0,1,0
+Polk,Potter,U.S. President,,DEM,Tulsi Gabbard,1,0,1,0,0
+Polk,Hatfield,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Polk,Cove,U.S. President,,DEM,Tulsi Gabbard,1,0,1,0,0
+Polk,Vandervoort,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Polk,Wickes,U.S. President,,DEM,Tulsi Gabbard,1,0,1,0,0
+Polk,Grannis,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Polk,Precinct 1,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Polk,Precinct 2,U.S. President,,DEM,John K. Delaney,1,0,0,1,0
+Polk,Precinct 3,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Polk,Acorn,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Polk,Ink,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Polk,Board Camp,U.S. President,,DEM,John K. Delaney,1,0,1,0,0
+Polk,Cherry Hill,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Polk,Big Fork,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Polk,Dallas Valley,U.S. President,,DEM,John K. Delaney,1,0,1,0,0
+Polk,Shady Grove,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Polk,Rocky,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Polk,Potter,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Polk,Hatfield,U.S. President,,DEM,John K. Delaney,1,0,1,0,0
+Polk,Cove,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Polk,Vandervoort,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Polk,Wickes,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Polk,Grannis,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Polk,Precinct 1,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Polk,Precinct 2,U.S. President,,DEM,Cory Booker,1,0,0,1,0
+Polk,Precinct 3,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Polk,Acorn,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Polk,Ink,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Polk,Board Camp,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Polk,Cherry Hill,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Polk,Big Fork,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Polk,Dallas Valley,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Polk,Shady Grove,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Polk,Rocky,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Polk,Potter,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Polk,Hatfield,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Polk,Cove,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Polk,Vandervoort,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Polk,Wickes,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Polk,Grannis,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Polk,Precinct 1,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Polk,Precinct 2,U.S. President,,DEM,Kamala Harris,1,0,0,1,0
+Polk,Precinct 3,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Polk,Acorn,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Polk,Ink,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Polk,Board Camp,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Polk,Cherry Hill,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Polk,Big Fork,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Polk,Dallas Valley,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Polk,Shady Grove,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Polk,Rocky,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Polk,Potter,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Polk,Hatfield,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Polk,Cove,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Polk,Vandervoort,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Polk,Wickes,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Polk,Grannis,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Polk,Precinct 1,U.S. President,,DEM,Joseph R. Biden,18,0,8,8,2
+Polk,Precinct 2,U.S. President,,DEM,Joseph R. Biden,33,2,20,11,0
+Polk,Precinct 3,U.S. President,,DEM,Joseph R. Biden,35,0,23,12,0
+Polk,Acorn,U.S. President,,DEM,Joseph R. Biden,16,1,15,0,0
+Polk,Ink,U.S. President,,DEM,Joseph R. Biden,9,0,7,2,0
+Polk,Board Camp,U.S. President,,DEM,Joseph R. Biden,11,0,8,3,0
+Polk,Cherry Hill,U.S. President,,DEM,Joseph R. Biden,16,0,10,6,0
+Polk,Big Fork,U.S. President,,DEM,Joseph R. Biden,1,0,1,0,0
+Polk,Dallas Valley,U.S. President,,DEM,Joseph R. Biden,27,1,8,18,0
+Polk,Shady Grove,U.S. President,,DEM,Joseph R. Biden,17,0,11,6,0
+Polk,Rocky,U.S. President,,DEM,Joseph R. Biden,4,0,2,2,0
+Polk,Potter,U.S. President,,DEM,Joseph R. Biden,25,1,12,12,0
+Polk,Hatfield,U.S. President,,DEM,Joseph R. Biden,25,3,16,6,0
+Polk,Cove,U.S. President,,DEM,Joseph R. Biden,11,1,6,4,0
+Polk,Vandervoort,U.S. President,,DEM,Joseph R. Biden,8,1,5,2,0
+Polk,Wickes,U.S. President,,DEM,Joseph R. Biden,9,0,9,0,0
+Polk,Grannis,U.S. President,,DEM,Joseph R. Biden,7,0,6,1,0
+Polk,Precinct 1,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Polk,Precinct 2,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Polk,Precinct 3,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Polk,Acorn,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Polk,Ink,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Polk,Board Camp,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Polk,Cherry Hill,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Polk,Big Fork,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Polk,Dallas Valley,U.S. President,,DEM,Steve Bullock,1,0,0,1,0
+Polk,Shady Grove,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Polk,Rocky,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Polk,Potter,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Polk,Hatfield,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Polk,Cove,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Polk,Vandervoort,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Polk,Wickes,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Polk,Grannis,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Polk,Precinct 1,U.S. President,,DEM,Elizabeth Warren,8,1,1,6,0
+Polk,Precinct 2,U.S. President,,DEM,Elizabeth Warren,5,0,3,2,0
+Polk,Precinct 3,U.S. President,,DEM,Elizabeth Warren,7,0,2,5,0
+Polk,Acorn,U.S. President,,DEM,Elizabeth Warren,8,1,1,6,0
+Polk,Ink,U.S. President,,DEM,Elizabeth Warren,2,0,1,1,0
+Polk,Board Camp,U.S. President,,DEM,Elizabeth Warren,3,0,2,1,0
+Polk,Cherry Hill,U.S. President,,DEM,Elizabeth Warren,5,0,2,3,0
+Polk,Big Fork,U.S. President,,DEM,Elizabeth Warren,1,0,1,0,0
+Polk,Dallas Valley,U.S. President,,DEM,Elizabeth Warren,14,2,7,5,0
+Polk,Shady Grove,U.S. President,,DEM,Elizabeth Warren,3,1,1,1,0
+Polk,Rocky,U.S. President,,DEM,Elizabeth Warren,1,0,0,1,0
+Polk,Potter,U.S. President,,DEM,Elizabeth Warren,9,0,2,7,0
+Polk,Hatfield,U.S. President,,DEM,Elizabeth Warren,0,0,0,0,0
+Polk,Cove,U.S. President,,DEM,Elizabeth Warren,3,0,2,1,0
+Polk,Vandervoort,U.S. President,,DEM,Elizabeth Warren,2,0,2,0,0
+Polk,Wickes,U.S. President,,DEM,Elizabeth Warren,1,0,1,0,0
+Polk,Grannis,U.S. President,,DEM,Elizabeth Warren,2,0,1,1,0
+Polk,Precinct 1,U.S. President,,DEM,Michael R. Bloomberg,19,2,4,13,0
+Polk,Precinct 2,U.S. President,,DEM,Michael R. Bloomberg,21,2,3,16,0
+Polk,Precinct 3,U.S. President,,DEM,Michael R. Bloomberg,21,2,3,16,0
+Polk,Acorn,U.S. President,,DEM,Michael R. Bloomberg,4,0,1,3,0
+Polk,Ink,U.S. President,,DEM,Michael R. Bloomberg,3,0,3,0,0
+Polk,Board Camp,U.S. President,,DEM,Michael R. Bloomberg,9,0,5,4,0
+Polk,Cherry Hill,U.S. President,,DEM,Michael R. Bloomberg,7,0,6,1,0
+Polk,Big Fork,U.S. President,,DEM,Michael R. Bloomberg,3,0,3,0,0
+Polk,Dallas Valley,U.S. President,,DEM,Michael R. Bloomberg,17,0,2,15,0
+Polk,Shady Grove,U.S. President,,DEM,Michael R. Bloomberg,10,0,3,7,0
+Polk,Rocky,U.S. President,,DEM,Michael R. Bloomberg,3,1,2,0,0
+Polk,Potter,U.S. President,,DEM,Michael R. Bloomberg,16,1,5,10,0
+Polk,Hatfield,U.S. President,,DEM,Michael R. Bloomberg,6,0,0,6,0
+Polk,Cove,U.S. President,,DEM,Michael R. Bloomberg,12,0,10,2,0
+Polk,Vandervoort,U.S. President,,DEM,Michael R. Bloomberg,0,0,0,0,0
+Polk,Wickes,U.S. President,,DEM,Michael R. Bloomberg,4,0,4,0,0
+Polk,Grannis,U.S. President,,DEM,Michael R. Bloomberg,2,0,2,0,0
+Polk,Precinct 1,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Polk,Precinct 2,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Polk,Precinct 3,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Polk,Acorn,U.S. President,,DEM,Mosie Boyd,1,0,1,0,0
+Polk,Ink,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Polk,Board Camp,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Polk,Cherry Hill,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Polk,Big Fork,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Polk,Dallas Valley,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Polk,Shady Grove,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Polk,Rocky,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Polk,Potter,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Polk,Hatfield,U.S. President,,DEM,Mosie Boyd,1,0,1,0,0
+Polk,Cove,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Polk,Vandervoort,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Polk,Wickes,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Polk,Grannis,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Polk,Precinct 1,U.S. President,,DEM,Pete Buttigieg,4,0,0,4,0
+Polk,Precinct 2,U.S. President,,DEM,Pete Buttigieg,7,0,1,6,0
+Polk,Precinct 3,U.S. President,,DEM,Pete Buttigieg,11,0,2,9,0
+Polk,Acorn,U.S. President,,DEM,Pete Buttigieg,2,0,0,2,0
+Polk,Ink,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Polk,Board Camp,U.S. President,,DEM,Pete Buttigieg,1,0,1,0,0
+Polk,Cherry Hill,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Polk,Big Fork,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Polk,Dallas Valley,U.S. President,,DEM,Pete Buttigieg,7,0,0,7,0
+Polk,Shady Grove,U.S. President,,DEM,Pete Buttigieg,3,0,1,2,0
+Polk,Rocky,U.S. President,,DEM,Pete Buttigieg,2,0,0,2,0
+Polk,Potter,U.S. President,,DEM,Pete Buttigieg,1,0,1,0,0
+Polk,Hatfield,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Polk,Cove,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Polk,Vandervoort,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Polk,Wickes,U.S. President,,DEM,Pete Buttigieg,2,0,1,1,0
+Polk,Grannis,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Polk,Precinct 1,U.S. President,,DEM,Amy Klobuchar,7,1,1,4,1
+Polk,Precinct 2,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0
+Polk,Precinct 3,U.S. President,,DEM,Amy Klobuchar,10,1,0,9,0
+Polk,Acorn,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0
+Polk,Ink,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0
+Polk,Board Camp,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0
+Polk,Cherry Hill,U.S. President,,DEM,Amy Klobuchar,1,0,1,0,0
+Polk,Big Fork,U.S. President,,DEM,Amy Klobuchar,1,0,0,1,0
+Polk,Dallas Valley,U.S. President,,DEM,Amy Klobuchar,14,0,1,13,0
+Polk,Shady Grove,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0
+Polk,Rocky,U.S. President,,DEM,Amy Klobuchar,3,0,1,2,0
+Polk,Potter,U.S. President,,DEM,Amy Klobuchar,1,0,1,0,0
+Polk,Hatfield,U.S. President,,DEM,Amy Klobuchar,1,0,1,0,0
+Polk,Cove,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0
+Polk,Vandervoort,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0
+Polk,Wickes,U.S. President,,DEM,Amy Klobuchar,1,0,0,1,0
+Polk,Grannis,U.S. President,,DEM,Amy Klobuchar,1,0,0,1,0
+Polk,Precinct 1,U.S. President,,DEM,Marianne Williamson,1,0,1,0,0
+Polk,Precinct 2,U.S. President,,DEM,Marianne Williamson,1,0,1,0,0
+Polk,Precinct 3,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Polk,Acorn,U.S. President,,DEM,Marianne Williamson,1,0,1,0,0
+Polk,Ink,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Polk,Board Camp,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Polk,Cherry Hill,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Polk,Big Fork,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Polk,Dallas Valley,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Polk,Shady Grove,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Polk,Rocky,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Polk,Potter,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Polk,Hatfield,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Polk,Cove,U.S. President,,DEM,Marianne Williamson,1,0,1,0,0
+Polk,Vandervoort,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Polk,Wickes,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Polk,Grannis,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Polk,Precinct 1,U.S. President,,DEM,Bernie Sanders,22,0,7,13,2
+Polk,Precinct 2,U.S. President,,DEM,Bernie Sanders,32,1,14,17,0
+Polk,Precinct 3,U.S. President,,DEM,Bernie Sanders,27,0,11,16,0
+Polk,Acorn,U.S. President,,DEM,Bernie Sanders,15,1,7,7,0
+Polk,Ink,U.S. President,,DEM,Bernie Sanders,4,0,1,3,0
+Polk,Board Camp,U.S. President,,DEM,Bernie Sanders,13,0,5,8,0
+Polk,Cherry Hill,U.S. President,,DEM,Bernie Sanders,11,0,6,5,0
+Polk,Big Fork,U.S. President,,DEM,Bernie Sanders,1,0,1,0,0
+Polk,Dallas Valley,U.S. President,,DEM,Bernie Sanders,19,1,5,13,0
+Polk,Shady Grove,U.S. President,,DEM,Bernie Sanders,8,0,2,6,0
+Polk,Rocky,U.S. President,,DEM,Bernie Sanders,0,0,0,0,0
+Polk,Potter,U.S. President,,DEM,Bernie Sanders,21,1,7,13,0
+Polk,Hatfield,U.S. President,,DEM,Bernie Sanders,8,1,4,3,0
+Polk,Cove,U.S. President,,DEM,Bernie Sanders,11,0,6,5,0
+Polk,Vandervoort,U.S. President,,DEM,Bernie Sanders,5,0,3,2,0
+Polk,Wickes,U.S. President,,DEM,Bernie Sanders,10,0,7,3,0
+Polk,Grannis,U.S. President,,DEM,Bernie Sanders,1,0,1,0,0
+Polk,Precinct 1,U.S. President,,DEM,Andrew Yang,1,0,0,1,0
+Polk,Precinct 2,U.S. President,,DEM,Andrew Yang,2,0,1,1,0
+Polk,Precinct 3,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Polk,Acorn,U.S. President,,DEM,Andrew Yang,2,0,1,1,0
+Polk,Ink,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Polk,Board Camp,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Polk,Cherry Hill,U.S. President,,DEM,Andrew Yang,1,0,0,1,0
+Polk,Big Fork,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Polk,Dallas Valley,U.S. President,,DEM,Andrew Yang,1,0,0,1,0
+Polk,Shady Grove,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Polk,Rocky,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Polk,Potter,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Polk,Hatfield,U.S. President,,DEM,Andrew Yang,1,0,1,0,0
+Polk,Cove,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Polk,Vandervoort,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Polk,Wickes,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Polk,Grannis,U.S. President,,DEM,Andrew Yang,1,0,1,0,0
+Polk,Precinct 1,U.S. President,,REP,Bill Weld,8,2,1,5,0
+Polk,Precinct 2,U.S. President,,REP,Bill Weld,4,0,0,4,0
+Polk,Precinct 3,U.S. President,,REP,Bill Weld,1,0,1,0,0
+Polk,Acorn,U.S. President,,REP,Bill Weld,6,0,2,4,0
+Polk,Ink,U.S. President,,REP,Bill Weld,2,0,2,0,0
+Polk,Board Camp,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Polk,Cherry Hill,U.S. President,,REP,Bill Weld,1,0,1,0,0
+Polk,Big Fork,U.S. President,,REP,Bill Weld,2,0,1,1,0
+Polk,Dallas Valley,U.S. President,,REP,Bill Weld,5,0,4,1,0
+Polk,Shady Grove,U.S. President,,REP,Bill Weld,3,1,1,1,0
+Polk,Rocky,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Polk,Potter,U.S. President,,REP,Bill Weld,4,0,1,3,0
+Polk,Hatfield,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Polk,Cove,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Polk,Vandervoort,U.S. President,,REP,Bill Weld,1,0,1,0,0
+Polk,Wickes,U.S. President,,REP,Bill Weld,2,0,1,1,0
+Polk,Grannis,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Polk,Precinct 1,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Polk,Precinct 2,U.S. President,,REP,Roque 'Rocky' De La Fuente,1,0,0,1,0
+Polk,Precinct 3,U.S. President,,REP,Roque 'Rocky' De La Fuente,4,0,1,3,0
+Polk,Acorn,U.S. President,,REP,Roque 'Rocky' De La Fuente,1,0,0,1,0
+Polk,Ink,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Polk,Board Camp,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Polk,Cherry Hill,U.S. President,,REP,Roque 'Rocky' De La Fuente,1,0,0,1,0
+Polk,Big Fork,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Polk,Dallas Valley,U.S. President,,REP,Roque 'Rocky' De La Fuente,1,0,0,1,0
+Polk,Shady Grove,U.S. President,,REP,Roque 'Rocky' De La Fuente,1,0,0,1,0
+Polk,Rocky,U.S. President,,REP,Roque 'Rocky' De La Fuente,2,0,0,2,0
+Polk,Potter,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Polk,Hatfield,U.S. President,,REP,Roque 'Rocky' De La Fuente,1,0,1,0,0
+Polk,Cove,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Polk,Vandervoort,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Polk,Wickes,U.S. President,,REP,Roque 'Rocky' De La Fuente,1,0,1,0,0
+Polk,Grannis,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Polk,Precinct 1,U.S. President,,REP,Donald J. Trump,257,12,98,143,4
+Polk,Precinct 2,U.S. President,,REP,Donald J. Trump,297,11,90,196,0
+Polk,Precinct 3,U.S. President,,REP,Donald J. Trump,288,8,116,164,0
+Polk,Acorn,U.S. President,,REP,Donald J. Trump,355,9,179,167,0
+Polk,Ink,U.S. President,,REP,Donald J. Trump,57,2,31,24,0
+Polk,Board Camp,U.S. President,,REP,Donald J. Trump,166,2,84,80,0
+Polk,Cherry Hill,U.S. President,,REP,Donald J. Trump,137,2,84,51,0
+Polk,Big Fork,U.S. President,,REP,Donald J. Trump,37,3,14,20,0
+Polk,Dallas Valley,U.S. President,,REP,Donald J. Trump,390,9,148,233,0
+Polk,Shady Grove,U.S. President,,REP,Donald J. Trump,187,4,73,110,0
+Polk,Rocky,U.S. President,,REP,Donald J. Trump,78,0,20,58,0
+Polk,Potter,U.S. President,,REP,Donald J. Trump,266,6,100,160,0
+Polk,Hatfield,U.S. President,,REP,Donald J. Trump,202,6,136,60,0
+Polk,Cove,U.S. President,,REP,Donald J. Trump,176,9,129,38,0
+Polk,Vandervoort,U.S. President,,REP,Donald J. Trump,104,0,65,39,0
+Polk,Wickes,U.S. President,,REP,Donald J. Trump,147,1,94,52,0
+Polk,Grannis,U.S. President,,REP,Donald J. Trump,103,1,96,6,0
+Polk,Acorn,State House District 21,,REP,Representative Marcus Richmond,184,5,84,95,0
+Polk,Cherry Hill,State House District 21,,REP,Representative Marcus Richmond,73,2,39,32,0
+Polk,Acorn,State House District 21,,REP,Jim Reynolds,121,4,60,57,0
+Polk,Cherry Hill,State House District 21,,REP,Jim Reynolds,58,0,41,17,0
+Polk,Precinct 1,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,187,10,85,88,4
+Polk,Precinct 2,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,217,10,67,140,0
+Polk,Precinct 3,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,213,9,79,125,0
+Polk,Acorn,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,202,9,102,91,0
+Polk,Ink,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,41,2,24,15,0
+Polk,Board Camp,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,101,0,49,52,0
+Polk,Cherry Hill,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,92,0,54,38,0
+Polk,Big Fork,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,28,3,8,17,0
+Polk,Dallas Valley,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,231,8,88,135,0
+Polk,Shady Grove,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,128,3,54,71,0
+Polk,Rocky,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,44,0,10,34,0
+Polk,Potter,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,169,6,61,102,0
+Polk,Hatfield,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,117,4,81,32,0
+Polk,Cove,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,111,4,78,29,0
+Polk,Vandervoort,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,68,0,50,18,0
+Polk,Wickes,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,109,1,67,41,0
+Polk,Grannis,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,67,1,61,5,0
+Polk,Precinct 1,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,184,8,55,117,4
+Polk,Precinct 2,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,218,9,80,129,0
+Polk,Precinct 3,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,225,4,84,137,0
+Polk,Acorn,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,208,3,110,95,0
+Polk,Ink,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,39,0,24,15,0
+Polk,Board Camp,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,96,2,46,48,0
+Polk,Cherry Hill,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,96,2,62,32,0
+Polk,Big Fork,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,21,0,12,9,0
+Polk,Dallas Valley,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,279,4,95,180,0
+Polk,Shady Grove,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,107,3,35,69,0
+Polk,Rocky,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,53,1,15,37,0
+Polk,Potter,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,190,2,76,112,0
+Polk,Hatfield,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,132,5,82,45,0
+Polk,Cove,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,101,4,77,20,0
+Polk,Vandervoort,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,58,1,29,28,0
+Polk,Wickes,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,78,0,57,21,0
+Polk,Grannis,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,52,0,48,4,0
+Polk,Precinct 1,Court of Appeals Associate Judge,"4, Position 2",,Emily White,150,4,58,86,2
+Polk,Precinct 2,Court of Appeals Associate Judge,"4, Position 2",,Emily White,188,8,71,109,0
+Polk,Precinct 3,Court of Appeals Associate Judge,"4, Position 2",,Emily White,186,4,79,103,0
+Polk,Acorn,Court of Appeals Associate Judge,"4, Position 2",,Emily White,199,4,93,102,0
+Polk,Ink,Court of Appeals Associate Judge,"4, Position 2",,Emily White,42,2,26,14,0
+Polk,Board Camp,Court of Appeals Associate Judge,"4, Position 2",,Emily White,102,2,53,47,0
+Polk,Cherry Hill,Court of Appeals Associate Judge,"4, Position 2",,Emily White,107,2,71,34,0
+Polk,Big Fork,Court of Appeals Associate Judge,"4, Position 2",,Emily White,23,1,11,11,0
+Polk,Dallas Valley,Court of Appeals Associate Judge,"4, Position 2",,Emily White,265,9,94,162,0
+Polk,Shady Grove,Court of Appeals Associate Judge,"4, Position 2",,Emily White,112,2,45,65,0
+Polk,Rocky,Court of Appeals Associate Judge,"4, Position 2",,Emily White,46,1,14,31,0
+Polk,Potter,Court of Appeals Associate Judge,"4, Position 2",,Emily White,189,5,75,109,0
+Polk,Hatfield,Court of Appeals Associate Judge,"4, Position 2",,Emily White,129,5,87,37,0
+Polk,Cove,Court of Appeals Associate Judge,"4, Position 2",,Emily White,99,1,79,19,0
+Polk,Vandervoort,Court of Appeals Associate Judge,"4, Position 2",,Emily White,56,0,41,15,0
+Polk,Wickes,Court of Appeals Associate Judge,"4, Position 2",,Emily White,75,0,48,27,0
+Polk,Grannis,Court of Appeals Associate Judge,"4, Position 2",,Emily White,47,1,44,2,0
+Polk,Precinct 1,Court of Appeals Associate Judge,"4, Position 2",,Prosecuting Attorney Stephanie Potter Barrett,221,14,82,119,6
+Polk,Precinct 2,Court of Appeals Associate Judge,"4, Position 2",,Prosecuting Attorney Stephanie Potter Barrett,249,9,71,169,0
+Polk,Precinct 3,Court of Appeals Associate Judge,"4, Position 2",,Prosecuting Attorney Stephanie Potter Barrett,246,10,82,154,0
+Polk,Acorn,Court of Appeals Associate Judge,"4, Position 2",,Prosecuting Attorney Stephanie Potter Barrett,215,8,119,88,0
+Polk,Ink,Court of Appeals Associate Judge,"4, Position 2",,Prosecuting Attorney Stephanie Potter Barrett,31,0,18,13,0
+Polk,Board Camp,Court of Appeals Associate Judge,"4, Position 2",,Prosecuting Attorney Stephanie Potter Barrett,103,0,47,56,0
+Polk,Cherry Hill,Court of Appeals Associate Judge,"4, Position 2",,Prosecuting Attorney Stephanie Potter Barrett,75,0,40,35,0
+Polk,Big Fork,Court of Appeals Associate Judge,"4, Position 2",,Prosecuting Attorney Stephanie Potter Barrett,26,2,9,15,0
+Polk,Dallas Valley,Court of Appeals Associate Judge,"4, Position 2",,Prosecuting Attorney Stephanie Potter Barrett,242,3,84,155,0
+Polk,Shady Grove,Court of Appeals Associate Judge,"4, Position 2",,Prosecuting Attorney Stephanie Potter Barrett,118,4,40,74,0
+Polk,Rocky,Court of Appeals Associate Judge,"4, Position 2",,Prosecuting Attorney Stephanie Potter Barrett,52,0,12,40,0
+Polk,Potter,Court of Appeals Associate Judge,"4, Position 2",,Prosecuting Attorney Stephanie Potter Barrett,174,3,64,107,0
+Polk,Hatfield,Court of Appeals Associate Judge,"4, Position 2",,Prosecuting Attorney Stephanie Potter Barrett,120,5,73,42,0
+Polk,Cove,Court of Appeals Associate Judge,"4, Position 2",,Prosecuting Attorney Stephanie Potter Barrett,113,7,76,30,0
+Polk,Vandervoort,Court of Appeals Associate Judge,"4, Position 2",,Prosecuting Attorney Stephanie Potter Barrett,71,1,39,31,0
+Polk,Wickes,Court of Appeals Associate Judge,"4, Position 2",,Prosecuting Attorney Stephanie Potter Barrett,109,1,73,35,0
+Polk,Grannis,Court of Appeals Associate Judge,"4, Position 2",,Prosecuting Attorney Stephanie Potter Barrett,69,0,62,7,0
+Polk,Precinct 1,Circuit Judge,"18-West, Division 1",,Patrick McDaniel,196,10,66,112,8
+Polk,Precinct 2,Circuit Judge,"18-West, Division 1",,Patrick McDaniel,233,12,83,138,0
+Polk,Precinct 3,Circuit Judge,"18-West, Division 1",,Patrick McDaniel,235,8,99,128,0
+Polk,Acorn,Circuit Judge,"18-West, Division 1",,Patrick McDaniel,227,5,115,107,0
+Polk,Ink,Circuit Judge,"18-West, Division 1",,Patrick McDaniel,42,0,26,16,0
+Polk,Board Camp,Circuit Judge,"18-West, Division 1",,Patrick McDaniel,96,0,43,53,0
+Polk,Cherry Hill,Circuit Judge,"18-West, Division 1",,Patrick McDaniel,78,2,48,28,0
+Polk,Big Fork,Circuit Judge,"18-West, Division 1",,Patrick McDaniel,31,1,15,15,0
+Polk,Dallas Valley,Circuit Judge,"18-West, Division 1",,Patrick McDaniel,229,9,79,141,0
+Polk,Shady Grove,Circuit Judge,"18-West, Division 1",,Patrick McDaniel,111,4,41,66,0
+Polk,Rocky,Circuit Judge,"18-West, Division 1",,Patrick McDaniel,48,0,15,33,0
+Polk,Potter,Circuit Judge,"18-West, Division 1",,Patrick McDaniel,182,3,76,103,0
+Polk,Hatfield,Circuit Judge,"18-West, Division 1",,Patrick McDaniel,83,5,49,29,0
+Polk,Cove,Circuit Judge,"18-West, Division 1",,Patrick McDaniel,116,3,79,34,0
+Polk,Vandervoort,Circuit Judge,"18-West, Division 1",,Patrick McDaniel,65,0,45,20,0
+Polk,Wickes,Circuit Judge,"18-West, Division 1",,Patrick McDaniel,85,0,57,28,0
+Polk,Grannis,Circuit Judge,"18-West, Division 1",,Patrick McDaniel,24,1,22,1,0
+Polk,Precinct 1,Circuit Judge,"18-West, Division 1",,Prosecuting Attorney Andy Riner,193,9,78,104,2
+Polk,Precinct 2,Circuit Judge,"18-West, Division 1",,Prosecuting Attorney Andy Riner,231,10,67,154,0
+Polk,Precinct 3,Circuit Judge,"18-West, Division 1",,Prosecuting Attorney Andy Riner,216,5,71,140,0
+Polk,Acorn,Circuit Judge,"18-West, Division 1",,Prosecuting Attorney Andy Riner,206,7,107,92,0
+Polk,Ink,Circuit Judge,"18-West, Division 1",,Prosecuting Attorney Andy Riner,45,2,25,18,0
+Polk,Board Camp,Circuit Judge,"18-West, Division 1",,Prosecuting Attorney Andy Riner,120,2,63,55,0
+Polk,Cherry Hill,Circuit Judge,"18-West, Division 1",,Prosecuting Attorney Andy Riner,117,0,69,48,0
+Polk,Big Fork,Circuit Judge,"18-West, Division 1",,Prosecuting Attorney Andy Riner,19,2,6,11,0
+Polk,Dallas Valley,Circuit Judge,"18-West, Division 1",,Prosecuting Attorney Andy Riner,319,6,116,197,0
+Polk,Shady Grove,Circuit Judge,"18-West, Division 1",,Prosecuting Attorney Andy Riner,136,2,54,80,0
+Polk,Rocky,Circuit Judge,"18-West, Division 1",,Prosecuting Attorney Andy Riner,56,1,11,44,0
+Polk,Potter,Circuit Judge,"18-West, Division 1",,Prosecuting Attorney Andy Riner,203,6,67,130,0
+Polk,Hatfield,Circuit Judge,"18-West, Division 1",,Prosecuting Attorney Andy Riner,187,5,129,53,0
+Polk,Cove,Circuit Judge,"18-West, Division 1",,Prosecuting Attorney Andy Riner,111,7,84,20,0
+Polk,Vandervoort,Circuit Judge,"18-West, Division 1",,Prosecuting Attorney Andy Riner,63,1,35,27,0
+Polk,Wickes,Circuit Judge,"18-West, Division 1",,Prosecuting Attorney Andy Riner,113,1,75,37,0
+Polk,Grannis,Circuit Judge,"18-West, Division 1",,Prosecuting Attorney Andy Riner,98,0,89,9,0

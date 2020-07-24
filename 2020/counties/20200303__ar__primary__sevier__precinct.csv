@@ -1,0 +1,426 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_vote,election_day
+Sevier,Bear Creek West,U.S. President,,Dem,Marianne Williamson,1,0,0,1
+Sevier,Bear Creek East,U.S. President,,Dem,Marianne Williamson,0,0,0,0
+Sevier,DeQueen North Central,U.S. President,,Dem,Marianne Williamson,0,0,0,0
+Sevier,DeQueen Northwest,U.S. President,,Dem,Marianne Williamson,2,0,1,1
+Sevier,DeQueen Southwest,U.S. President,,Dem,Marianne Williamson,1,0,1,0
+Sevier,DeQueen East,U.S. President,,Dem,Marianne Williamson,0,0,0,0
+Sevier,Ben Lomond,U.S. President,,Dem,Marianne Williamson,0,0,0,0
+Sevier,Clear Creek 2,U.S. President,,Dem,Marianne Williamson,1,0,0,1
+Sevier,Clear Creek 1,U.S. President,,Dem,Marianne Williamson,0,0,0,0
+Sevier,Jefferson,U.S. President,,Dem,Marianne Williamson,0,0,0,0
+Sevier,Mineral,U.S. President,,Dem,Marianne Williamson,0,0,0,0
+Sevier,Monroe,U.S. President,,Dem,Marianne Williamson,1,0,1,0
+Sevier,Paraclifta,U.S. President,,Dem,Marianne Williamson,0,0,0,0
+Sevier,Red Colony,U.S. President,,Dem,Marianne Williamson,0,0,0,0
+Sevier,Saline West,U.S. President,,Dem,Marianne Williamson,0,0,0,0
+Sevier,Saline East,U.S. President,,Dem,Marianne Williamson,0,0,0,0
+Sevier,Washington,U.S. President,,Dem,Marianne Williamson,0,0,0,0
+Sevier,Bear Creek West,U.S. President,,Dem,Bernie Sanders,9,0,2,7
+Sevier,Bear Creek East,U.S. President,,Dem,Bernie Sanders,1,0,0,1
+Sevier,DeQueen North Central,U.S. President,,Dem,Bernie Sanders,5,0,3,2
+Sevier,DeQueen Northwest,U.S. President,,Dem,Bernie Sanders,17,0,6,11
+Sevier,DeQueen Southwest,U.S. President,,Dem,Bernie Sanders,16,0,3,13
+Sevier,DeQueen East,U.S. President,,Dem,Bernie Sanders,10,0,0,10
+Sevier,Ben Lomond,U.S. President,,Dem,Bernie Sanders,1,0,0,1
+Sevier,Clear Creek 2,U.S. President,,Dem,Bernie Sanders,11,0,4,7
+Sevier,Clear Creek 1,U.S. President,,Dem,Bernie Sanders,3,0,0,3
+Sevier,Jefferson,U.S. President,,Dem,Bernie Sanders,0,0,0,0
+Sevier,Mineral,U.S. President,,Dem,Bernie Sanders,11,1,1,9
+Sevier,Monroe,U.S. President,,Dem,Bernie Sanders,4,0,1,3
+Sevier,Paraclifta,U.S. President,,Dem,Bernie Sanders,4,0,1,3
+Sevier,Red Colony,U.S. President,,Dem,Bernie Sanders,8,0,1,7
+Sevier,Saline West,U.S. President,,Dem,Bernie Sanders,0,0,0,0
+Sevier,Saline East,U.S. President,,Dem,Bernie Sanders,0,0,0,0
+Sevier,Washington,U.S. President,,Dem,Bernie Sanders,5,0,0,5
+Sevier,Bear Creek West,U.S. President,,Dem,Steve Bullock,0,0,0,0
+Sevier,Bear Creek East,U.S. President,,Dem,Steve Bullock,1,0,0,1
+Sevier,DeQueen North Central,U.S. President,,Dem,Steve Bullock,0,0,0,0
+Sevier,DeQueen Northwest,U.S. President,,Dem,Steve Bullock,0,0,0,0
+Sevier,DeQueen Southwest,U.S. President,,Dem,Steve Bullock,0,0,0,0
+Sevier,DeQueen East,U.S. President,,Dem,Steve Bullock,0,0,0,0
+Sevier,Ben Lomond,U.S. President,,Dem,Steve Bullock,0,0,0,0
+Sevier,Clear Creek 2,U.S. President,,Dem,Steve Bullock,0,0,0,0
+Sevier,Clear Creek 1,U.S. President,,Dem,Steve Bullock,0,0,0,0
+Sevier,Jefferson,U.S. President,,Dem,Steve Bullock,0,0,0,0
+Sevier,Mineral,U.S. President,,Dem,Steve Bullock,0,0,0,0
+Sevier,Monroe,U.S. President,,Dem,Steve Bullock,0,0,0,0
+Sevier,Paraclifta,U.S. President,,Dem,Steve Bullock,0,0,0,0
+Sevier,Red Colony,U.S. President,,Dem,Steve Bullock,0,0,0,0
+Sevier,Saline West,U.S. President,,Dem,Steve Bullock,0,0,0,0
+Sevier,Saline East,U.S. President,,Dem,Steve Bullock,0,0,0,0
+Sevier,Washington,U.S. President,,Dem,Steve Bullock,0,0,0,0
+Sevier,Bear Creek West,U.S. President,,Dem,John K. Delaney,0,0,0,0
+Sevier,Bear Creek East,U.S. President,,Dem,John K. Delaney,0,0,0,0
+Sevier,DeQueen North Central,U.S. President,,Dem,John K. Delaney,0,0,0,0
+Sevier,DeQueen Northwest,U.S. President,,Dem,John K. Delaney,0,0,0,0
+Sevier,DeQueen Southwest,U.S. President,,Dem,John K. Delaney,0,0,0,0
+Sevier,DeQueen East,U.S. President,,Dem,John K. Delaney,1,0,0,1
+Sevier,Ben Lomond,U.S. President,,Dem,John K. Delaney,0,0,0,0
+Sevier,Clear Creek 2,U.S. President,,Dem,John K. Delaney,0,0,0,0
+Sevier,Clear Creek 1,U.S. President,,Dem,John K. Delaney,0,0,0,0
+Sevier,Jefferson,U.S. President,,Dem,John K. Delaney,0,0,0,0
+Sevier,Mineral,U.S. President,,Dem,John K. Delaney,0,0,0,0
+Sevier,Monroe,U.S. President,,Dem,John K. Delaney,0,0,0,0
+Sevier,Paraclifta,U.S. President,,Dem,John K. Delaney,0,0,0,0
+Sevier,Red Colony,U.S. President,,Dem,John K. Delaney,0,0,0,0
+Sevier,Saline West,U.S. President,,Dem,John K. Delaney,0,0,0,0
+Sevier,Saline East,U.S. President,,Dem,John K. Delaney,0,0,0,0
+Sevier,Washington,U.S. President,,Dem,John K. Delaney,0,0,0,0
+Sevier,Bear Creek West,U.S. President,,Dem,Tom Steyer,2,0,0,2
+Sevier,Bear Creek East,U.S. President,,Dem,Tom Steyer,0,0,0,0
+Sevier,DeQueen North Central,U.S. President,,Dem,Tom Steyer,0,0,0,0
+Sevier,DeQueen Northwest,U.S. President,,Dem,Tom Steyer,1,0,0,1
+Sevier,DeQueen Southwest,U.S. President,,Dem,Tom Steyer,1,0,0,1
+Sevier,DeQueen East,U.S. President,,Dem,Tom Steyer,1,0,1,0
+Sevier,Ben Lomond,U.S. President,,Dem,Tom Steyer,0,0,0,0
+Sevier,Clear Creek 2,U.S. President,,Dem,Tom Steyer,0,0,0,0
+Sevier,Clear Creek 1,U.S. President,,Dem,Tom Steyer,0,0,0,0
+Sevier,Jefferson,U.S. President,,Dem,Tom Steyer,0,0,0,0
+Sevier,Mineral,U.S. President,,Dem,Tom Steyer,0,0,0,0
+Sevier,Monroe,U.S. President,,Dem,Tom Steyer,1,0,0,1
+Sevier,Paraclifta,U.S. President,,Dem,Tom Steyer,0,0,0,0
+Sevier,Red Colony,U.S. President,,Dem,Tom Steyer,0,0,0,0
+Sevier,Saline West,U.S. President,,Dem,Tom Steyer,0,0,0,0
+Sevier,Saline East,U.S. President,,Dem,Tom Steyer,0,0,0,0
+Sevier,Washington,U.S. President,,Dem,Tom Steyer,0,0,0,0
+Sevier,Bear Creek West,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+Sevier,Bear Creek East,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+Sevier,DeQueen North Central,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+Sevier,DeQueen Northwest,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+Sevier,DeQueen Southwest,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+Sevier,DeQueen East,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+Sevier,Ben Lomond,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+Sevier,Clear Creek 2,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+Sevier,Clear Creek 1,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+Sevier,Jefferson,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+Sevier,Mineral,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+Sevier,Monroe,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+Sevier,Paraclifta,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+Sevier,Red Colony,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+Sevier,Saline West,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+Sevier,Saline East,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+Sevier,Washington,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+Sevier,Bear Creek West,U.S. President,,Dem,Joseph R. Biden,30,2,6,22
+Sevier,Bear Creek East,U.S. President,,Dem,Joseph R. Biden,12,0,5,7
+Sevier,DeQueen North Central,U.S. President,,Dem,Joseph R. Biden,13,0,2,11
+Sevier,DeQueen Northwest,U.S. President,,Dem,Joseph R. Biden,25,0,3,22
+Sevier,DeQueen Southwest,U.S. President,,Dem,Joseph R. Biden,15,1,2,12
+Sevier,DeQueen East,U.S. President,,Dem,Joseph R. Biden,15,1,3,11
+Sevier,Ben Lomond,U.S. President,,Dem,Joseph R. Biden,6,0,2,4
+Sevier,Clear Creek 2,U.S. President,,Dem,Joseph R. Biden,29,0,4,25
+Sevier,Clear Creek 1,U.S. President,,Dem,Joseph R. Biden,6,0,1,5
+Sevier,Jefferson,U.S. President,,Dem,Joseph R. Biden,4,1,0,3
+Sevier,Mineral,U.S. President,,Dem,Joseph R. Biden,16,0,5,11
+Sevier,Monroe,U.S. President,,Dem,Joseph R. Biden,24,0,9,15
+Sevier,Paraclifta,U.S. President,,Dem,Joseph R. Biden,12,0,3,9
+Sevier,Red Colony,U.S. President,,Dem,Joseph R. Biden,23,0,1,22
+Sevier,Saline West,U.S. President,,Dem,Joseph R. Biden,1,0,1,0
+Sevier,Saline East,U.S. President,,Dem,Joseph R. Biden,2,0,0,2
+Sevier,Washington,U.S. President,,Dem,Joseph R. Biden,22,1,0,21
+Sevier,Bear Creek West,U.S. President,,Dem,Cory Booker,0,0,0,0
+Sevier,Bear Creek East,U.S. President,,Dem,Cory Booker,0,0,0,0
+Sevier,DeQueen North Central,U.S. President,,Dem,Cory Booker,0,0,0,0
+Sevier,DeQueen Northwest,U.S. President,,Dem,Cory Booker,0,0,0,0
+Sevier,DeQueen Southwest,U.S. President,,Dem,Cory Booker,0,0,0,0
+Sevier,DeQueen East,U.S. President,,Dem,Cory Booker,0,0,0,0
+Sevier,Ben Lomond,U.S. President,,Dem,Cory Booker,0,0,0,0
+Sevier,Clear Creek 2,U.S. President,,Dem,Cory Booker,0,0,0,0
+Sevier,Clear Creek 1,U.S. President,,Dem,Cory Booker,0,0,0,0
+Sevier,Jefferson,U.S. President,,Dem,Cory Booker,0,0,0,0
+Sevier,Mineral,U.S. President,,Dem,Cory Booker,0,0,0,0
+Sevier,Monroe,U.S. President,,Dem,Cory Booker,0,0,0,0
+Sevier,Paraclifta,U.S. President,,Dem,Cory Booker,0,0,0,0
+Sevier,Red Colony,U.S. President,,Dem,Cory Booker,0,0,0,0
+Sevier,Saline West,U.S. President,,Dem,Cory Booker,0,0,0,0
+Sevier,Saline East,U.S. President,,Dem,Cory Booker,0,0,0,0
+Sevier,Washington,U.S. President,,Dem,Cory Booker,0,0,0,0
+Sevier,Bear Creek West,U.S. President,,Dem,Amy Klobuchar,3,1,2,0
+Sevier,Bear Creek East,U.S. President,,Dem,Amy Klobuchar,0,0,0,0
+Sevier,DeQueen North Central,U.S. President,,Dem,Amy Klobuchar,0,0,0,0
+Sevier,DeQueen Northwest,U.S. President,,Dem,Amy Klobuchar,1,0,1,0
+Sevier,DeQueen Southwest,U.S. President,,Dem,Amy Klobuchar,0,0,0,0
+Sevier,DeQueen East,U.S. President,,Dem,Amy Klobuchar,1,0,0,1
+Sevier,Ben Lomond,U.S. President,,Dem,Amy Klobuchar,0,0,0,0
+Sevier,Clear Creek 2,U.S. President,,Dem,Amy Klobuchar,1,0,0,1
+Sevier,Clear Creek 1,U.S. President,,Dem,Amy Klobuchar,0,0,0,0
+Sevier,Jefferson,U.S. President,,Dem,Amy Klobuchar,0,0,0,0
+Sevier,Mineral,U.S. President,,Dem,Amy Klobuchar,1,0,1,0
+Sevier,Monroe,U.S. President,,Dem,Amy Klobuchar,0,0,0,0
+Sevier,Paraclifta,U.S. President,,Dem,Amy Klobuchar,0,0,0,0
+Sevier,Red Colony,U.S. President,,Dem,Amy Klobuchar,2,0,1,1
+Sevier,Saline West,U.S. President,,Dem,Amy Klobuchar,0,0,0,0
+Sevier,Saline East,U.S. President,,Dem,Amy Klobuchar,0,0,0,0
+Sevier,Washington,U.S. President,,Dem,Amy Klobuchar,0,0,0,0
+Sevier,Bear Creek West,U.S. President,,Dem,Elizabeth Warren,5,0,3,2
+Sevier,Bear Creek East,U.S. President,,Dem,Elizabeth Warren,0,0,0,0
+Sevier,DeQueen North Central,U.S. President,,Dem,Elizabeth Warren,0,0,0,0
+Sevier,DeQueen Northwest,U.S. President,,Dem,Elizabeth Warren,1,0,0,1
+Sevier,DeQueen Southwest,U.S. President,,Dem,Elizabeth Warren,5,0,0,5
+Sevier,DeQueen East,U.S. President,,Dem,Elizabeth Warren,1,1,0,0
+Sevier,Ben Lomond,U.S. President,,Dem,Elizabeth Warren,1,0,0,1
+Sevier,Clear Creek 2,U.S. President,,Dem,Elizabeth Warren,5,0,0,5
+Sevier,Clear Creek 1,U.S. President,,Dem,Elizabeth Warren,0,0,0,0
+Sevier,Jefferson,U.S. President,,Dem,Elizabeth Warren,0,0,0,0
+Sevier,Mineral,U.S. President,,Dem,Elizabeth Warren,4,2,0,2
+Sevier,Monroe,U.S. President,,Dem,Elizabeth Warren,4,0,1,3
+Sevier,Paraclifta,U.S. President,,Dem,Elizabeth Warren,0,0,0,0
+Sevier,Red Colony,U.S. President,,Dem,Elizabeth Warren,4,0,0,4
+Sevier,Saline West,U.S. President,,Dem,Elizabeth Warren,1,0,0,1
+Sevier,Saline East,U.S. President,,Dem,Elizabeth Warren,0,0,0,0
+Sevier,Washington,U.S. President,,Dem,Elizabeth Warren,1,0,0,1
+Sevier,Bear Creek West,U.S. President,,Dem,Pete Buttigieg,2,0,2,0
+Sevier,Bear Creek East,U.S. President,,Dem,Pete Buttigieg,1,0,1,0
+Sevier,DeQueen North Central,U.S. President,,Dem,Pete Buttigieg,0,0,0,0
+Sevier,DeQueen Northwest,U.S. President,,Dem,Pete Buttigieg,1,0,1,0
+Sevier,DeQueen Southwest,U.S. President,,Dem,Pete Buttigieg,0,0,0,0
+Sevier,DeQueen East,U.S. President,,Dem,Pete Buttigieg,2,1,1,0
+Sevier,Ben Lomond,U.S. President,,Dem,Pete Buttigieg,1,0,1,0
+Sevier,Clear Creek 2,U.S. President,,Dem,Pete Buttigieg,0,0,0,0
+Sevier,Clear Creek 1,U.S. President,,Dem,Pete Buttigieg,0,0,0,0
+Sevier,Jefferson,U.S. President,,Dem,Pete Buttigieg,1,0,1,0
+Sevier,Mineral,U.S. President,,Dem,Pete Buttigieg,0,0,0,0
+Sevier,Monroe,U.S. President,,Dem,Pete Buttigieg,0,0,0,0
+Sevier,Paraclifta,U.S. President,,Dem,Pete Buttigieg,0,0,0,0
+Sevier,Red Colony,U.S. President,,Dem,Pete Buttigieg,3,0,1,2
+Sevier,Saline West,U.S. President,,Dem,Pete Buttigieg,0,0,0,0
+Sevier,Saline East,U.S. President,,Dem,Pete Buttigieg,0,0,0,0
+Sevier,Washington,U.S. President,,Dem,Pete Buttigieg,0,0,0,0
+Sevier,Bear Creek West,U.S. President,,Dem,Andrew Yang,1,0,0,1
+Sevier,Bear Creek East,U.S. President,,Dem,Andrew Yang,0,0,0,0
+Sevier,DeQueen North Central,U.S. President,,Dem,Andrew Yang,0,0,0,0
+Sevier,DeQueen Northwest,U.S. President,,Dem,Andrew Yang,0,0,0,0
+Sevier,DeQueen Southwest,U.S. President,,Dem,Andrew Yang,1,0,0,1
+Sevier,DeQueen East,U.S. President,,Dem,Andrew Yang,0,0,0,0
+Sevier,Ben Lomond,U.S. President,,Dem,Andrew Yang,0,0,0,0
+Sevier,Clear Creek 2,U.S. President,,Dem,Andrew Yang,2,0,0,2
+Sevier,Clear Creek 1,U.S. President,,Dem,Andrew Yang,0,0,0,0
+Sevier,Jefferson,U.S. President,,Dem,Andrew Yang,0,0,0,0
+Sevier,Mineral,U.S. President,,Dem,Andrew Yang,0,0,0,0
+Sevier,Monroe,U.S. President,,Dem,Andrew Yang,0,0,0,0
+Sevier,Paraclifta,U.S. President,,Dem,Andrew Yang,0,0,0,0
+Sevier,Red Colony,U.S. President,,Dem,Andrew Yang,1,0,0,1
+Sevier,Saline West,U.S. President,,Dem,Andrew Yang,0,0,0,0
+Sevier,Saline East,U.S. President,,Dem,Andrew Yang,0,0,0,0
+Sevier,Washington,U.S. President,,Dem,Andrew Yang,0,0,0,0
+Sevier,Bear Creek West,U.S. President,,Dem,Kamala Harris,0,0,0,0
+Sevier,Bear Creek East,U.S. President,,Dem,Kamala Harris,0,0,0,0
+Sevier,DeQueen North Central,U.S. President,,Dem,Kamala Harris,0,0,0,0
+Sevier,DeQueen Northwest,U.S. President,,Dem,Kamala Harris,1,0,0,1
+Sevier,DeQueen Southwest,U.S. President,,Dem,Kamala Harris,0,0,0,0
+Sevier,DeQueen East,U.S. President,,Dem,Kamala Harris,0,0,0,0
+Sevier,Ben Lomond,U.S. President,,Dem,Kamala Harris,0,0,0,0
+Sevier,Clear Creek 2,U.S. President,,Dem,Kamala Harris,0,0,0,0
+Sevier,Clear Creek 1,U.S. President,,Dem,Kamala Harris,0,0,0,0
+Sevier,Jefferson,U.S. President,,Dem,Kamala Harris,0,0,0,0
+Sevier,Mineral,U.S. President,,Dem,Kamala Harris,0,0,0,0
+Sevier,Monroe,U.S. President,,Dem,Kamala Harris,0,0,0,0
+Sevier,Paraclifta,U.S. President,,Dem,Kamala Harris,1,0,0,1
+Sevier,Red Colony,U.S. President,,Dem,Kamala Harris,1,0,0,1
+Sevier,Saline West,U.S. President,,Dem,Kamala Harris,0,0,0,0
+Sevier,Saline East,U.S. President,,Dem,Kamala Harris,0,0,0,0
+Sevier,Washington,U.S. President,,Dem,Kamala Harris,0,0,0,0
+Sevier,Bear Creek West,U.S. President,,Dem,Joe Sestak,0,0,0,0
+Sevier,Bear Creek East,U.S. President,,Dem,Joe Sestak,0,0,0,0
+Sevier,DeQueen North Central,U.S. President,,Dem,Joe Sestak,0,0,0,0
+Sevier,DeQueen Northwest,U.S. President,,Dem,Joe Sestak,0,0,0,0
+Sevier,DeQueen Southwest,U.S. President,,Dem,Joe Sestak,0,0,0,0
+Sevier,DeQueen East,U.S. President,,Dem,Joe Sestak,0,0,0,0
+Sevier,Ben Lomond,U.S. President,,Dem,Joe Sestak,0,0,0,0
+Sevier,Clear Creek 2,U.S. President,,Dem,Joe Sestak,0,0,0,0
+Sevier,Clear Creek 1,U.S. President,,Dem,Joe Sestak,0,0,0,0
+Sevier,Jefferson,U.S. President,,Dem,Joe Sestak,0,0,0,0
+Sevier,Mineral,U.S. President,,Dem,Joe Sestak,0,0,0,0
+Sevier,Monroe,U.S. President,,Dem,Joe Sestak,0,0,0,0
+Sevier,Paraclifta,U.S. President,,Dem,Joe Sestak,0,0,0,0
+Sevier,Red Colony,U.S. President,,Dem,Joe Sestak,0,0,0,0
+Sevier,Saline West,U.S. President,,Dem,Joe Sestak,0,0,0,0
+Sevier,Saline East,U.S. President,,Dem,Joe Sestak,0,0,0,0
+Sevier,Washington,U.S. President,,Dem,Joe Sestak,0,0,0,0
+Sevier,Bear Creek West,U.S. President,,Dem,Michael Bennet,1,0,1,0
+Sevier,Bear Creek East,U.S. President,,Dem,Michael Bennet,0,0,0,0
+Sevier,DeQueen North Central,U.S. President,,Dem,Michael Bennet,0,0,0,0
+Sevier,DeQueen Northwest,U.S. President,,Dem,Michael Bennet,0,0,0,0
+Sevier,DeQueen Southwest,U.S. President,,Dem,Michael Bennet,0,0,0,0
+Sevier,DeQueen East,U.S. President,,Dem,Michael Bennet,0,0,0,0
+Sevier,Ben Lomond,U.S. President,,Dem,Michael Bennet,0,0,0,0
+Sevier,Clear Creek 2,U.S. President,,Dem,Michael Bennet,0,0,0,0
+Sevier,Clear Creek 1,U.S. President,,Dem,Michael Bennet,0,0,0,0
+Sevier,Jefferson,U.S. President,,Dem,Michael Bennet,0,0,0,0
+Sevier,Mineral,U.S. President,,Dem,Michael Bennet,0,0,0,0
+Sevier,Monroe,U.S. President,,Dem,Michael Bennet,1,0,1,0
+Sevier,Paraclifta,U.S. President,,Dem,Michael Bennet,0,0,0,0
+Sevier,Red Colony,U.S. President,,Dem,Michael Bennet,0,0,0,0
+Sevier,Saline West,U.S. President,,Dem,Michael Bennet,0,0,0,0
+Sevier,Saline East,U.S. President,,Dem,Michael Bennet,0,0,0,0
+Sevier,Washington,U.S. President,,Dem,Michael Bennet,0,0,0,0
+Sevier,Bear Creek West,U.S. President,,Dem,Julian Castro,0,0,0,0
+Sevier,Bear Creek East,U.S. President,,Dem,Julian Castro,0,0,0,0
+Sevier,DeQueen North Central,U.S. President,,Dem,Julian Castro,0,0,0,0
+Sevier,DeQueen Northwest,U.S. President,,Dem,Julian Castro,0,0,0,0
+Sevier,DeQueen Southwest,U.S. President,,Dem,Julian Castro,0,0,0,0
+Sevier,DeQueen East,U.S. President,,Dem,Julian Castro,2,0,0,2
+Sevier,Ben Lomond,U.S. President,,Dem,Julian Castro,0,0,0,0
+Sevier,Clear Creek 2,U.S. President,,Dem,Julian Castro,2,0,1,1
+Sevier,Clear Creek 1,U.S. President,,Dem,Julian Castro,0,0,0,0
+Sevier,Jefferson,U.S. President,,Dem,Julian Castro,0,0,0,0
+Sevier,Mineral,U.S. President,,Dem,Julian Castro,0,0,0,0
+Sevier,Monroe,U.S. President,,Dem,Julian Castro,0,0,0,0
+Sevier,Paraclifta,U.S. President,,Dem,Julian Castro,0,0,0,0
+Sevier,Red Colony,U.S. President,,Dem,Julian Castro,1,0,1,0
+Sevier,Saline West,U.S. President,,Dem,Julian Castro,0,0,0,0
+Sevier,Saline East,U.S. President,,Dem,Julian Castro,0,0,0,0
+Sevier,Washington,U.S. President,,Dem,Julian Castro,0,0,0,0
+Sevier,Bear Creek West,U.S. President,,Dem,Tulsi Gabbard,2,0,0,2
+Sevier,Bear Creek East,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0
+Sevier,DeQueen North Central,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0
+Sevier,DeQueen Northwest,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0
+Sevier,DeQueen Southwest,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0
+Sevier,DeQueen East,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0
+Sevier,Ben Lomond,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0
+Sevier,Clear Creek 2,U.S. President,,Dem,Tulsi Gabbard,1,0,1,0
+Sevier,Clear Creek 1,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0
+Sevier,Jefferson,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0
+Sevier,Mineral,U.S. President,,Dem,Tulsi Gabbard,1,0,1,0
+Sevier,Monroe,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0
+Sevier,Paraclifta,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0
+Sevier,Red Colony,U.S. President,,Dem,Tulsi Gabbard,1,0,0,1
+Sevier,Saline West,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0
+Sevier,Saline East,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0
+Sevier,Washington,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0
+Sevier,Bear Creek West,U.S. President,,Dem,Michael R. Bloomberg,10,0,2,8
+Sevier,Bear Creek East,U.S. President,,Dem,Michael R. Bloomberg,4,0,2,2
+Sevier,DeQueen North Central,U.S. President,,Dem,Michael R. Bloomberg,5,1,1,3
+Sevier,DeQueen Northwest,U.S. President,,Dem,Michael R. Bloomberg,13,1,5,7
+Sevier,DeQueen Southwest,U.S. President,,Dem,Michael R. Bloomberg,17,0,2,15
+Sevier,DeQueen East,U.S. President,,Dem,Michael R. Bloomberg,3,0,0,3
+Sevier,Ben Lomond,U.S. President,,Dem,Michael R. Bloomberg,1,0,0,1
+Sevier,Clear Creek 2,U.S. President,,Dem,Michael R. Bloomberg,14,0,4,10
+Sevier,Clear Creek 1,U.S. President,,Dem,Michael R. Bloomberg,4,0,1,3
+Sevier,Jefferson,U.S. President,,Dem,Michael R. Bloomberg,1,0,1,0
+Sevier,Mineral,U.S. President,,Dem,Michael R. Bloomberg,2,0,0,2
+Sevier,Monroe,U.S. President,,Dem,Michael R. Bloomberg,6,0,2,4
+Sevier,Paraclifta,U.S. President,,Dem,Michael R. Bloomberg,2,0,0,2
+Sevier,Red Colony,U.S. President,,Dem,Michael R. Bloomberg,5,0,0,5
+Sevier,Saline West,U.S. President,,Dem,Michael R. Bloomberg,3,0,0,3
+Sevier,Saline East,U.S. President,,Dem,Michael R. Bloomberg,1,0,1,0
+Sevier,Washington,U.S. President,,Dem,Michael R. Bloomberg,3,0,1,2
+Sevier,Bear Creek West,U.S. President,,Rep,Bill Weld,1,0,0,1
+Sevier,Bear Creek East,U.S. President,,Rep,Bill Weld,0,0,0,0
+Sevier,DeQueen North Central,U.S. President,,Rep,Bill Weld,2,1,0,1
+Sevier,DeQueen Northwest,U.S. President,,Rep,Bill Weld,0,0,0,0
+Sevier,DeQueen Southwest,U.S. President,,Rep,Bill Weld,0,0,0,0
+Sevier,DeQueen East,U.S. President,,Rep,Bill Weld,0,0,0,0
+Sevier,Ben Lomond,U.S. President,,Rep,Bill Weld,1,0,0,1
+Sevier,Clear Creek 2,U.S. President,,Rep,Bill Weld,2,0,0,2
+Sevier,Clear Creek 1,U.S. President,,Rep,Bill Weld,2,0,0,2
+Sevier,Jefferson,U.S. President,,Rep,Bill Weld,0,0,0,0
+Sevier,Mineral,U.S. President,,Rep,Bill Weld,0,0,0,0
+Sevier,Monroe,U.S. President,,Rep,Bill Weld,0,0,0,0
+Sevier,Paraclifta,U.S. President,,Rep,Bill Weld,0,0,0,0
+Sevier,Red Colony,U.S. President,,Rep,Bill Weld,0,0,0,0
+Sevier,Saline West,U.S. President,,Rep,Bill Weld,0,0,0,0
+Sevier,Saline East,U.S. President,,Rep,Bill Weld,0,0,0,0
+Sevier,Washington,U.S. President,,Rep,Bill Weld,0,0,0,0
+Sevier,Bear Creek West,U.S. President,,Rep,Donald J. Trump,123,1,33,89
+Sevier,Bear Creek East,U.S. President,,Rep,Donald J. Trump,50,0,5,45
+Sevier,DeQueen North Central,U.S. President,,Rep,Donald J. Trump,37,3,5,29
+Sevier,DeQueen Northwest,U.S. President,,Rep,Donald J. Trump,49,1,16,32
+Sevier,DeQueen Southwest,U.S. President,,Rep,Donald J. Trump,33,1,17,15
+Sevier,DeQueen East,U.S. President,,Rep,Donald J. Trump,30,0,6,24
+Sevier,Ben Lomond,U.S. President,,Rep,Donald J. Trump,25,0,1,24
+Sevier,Clear Creek 2,U.S. President,,Rep,Donald J. Trump,140,2,21,117
+Sevier,Clear Creek 1,U.S. President,,Rep,Donald J. Trump,44,2,7,35
+Sevier,Jefferson,U.S. President,,Rep,Donald J. Trump,14,2,3,9
+Sevier,Mineral,U.S. President,,Rep,Donald J. Trump,63,0,13,50
+Sevier,Monroe,U.S. President,,Rep,Donald J. Trump,65,2,20,43
+Sevier,Paraclifta,U.S. President,,Rep,Donald J. Trump,50,4,4,42
+Sevier,Red Colony,U.S. President,,Rep,Donald J. Trump,112,1,11,100
+Sevier,Saline West,U.S. President,,Rep,Donald J. Trump,17,0,6,11
+Sevier,Saline East,U.S. President,,Rep,Donald J. Trump,19,0,2,17
+Sevier,Washington,U.S. President,,Rep,Donald J. Trump,23,0,0,23
+Sevier,Bear Creek West,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0
+Sevier,Bear Creek East,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0
+Sevier,DeQueen North Central,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0
+Sevier,DeQueen Northwest,U.S. President,,Rep,Roque 'Rocky' De La Fuente,1,0,0,1
+Sevier,DeQueen Southwest,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0
+Sevier,DeQueen East,U.S. President,,Rep,Roque 'Rocky' De La Fuente,1,0,0,1
+Sevier,Ben Lomond,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0
+Sevier,Clear Creek 2,U.S. President,,Rep,Roque 'Rocky' De La Fuente,1,0,0,1
+Sevier,Clear Creek 1,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0
+Sevier,Jefferson,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0
+Sevier,Mineral,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0
+Sevier,Monroe,U.S. President,,Rep,Roque 'Rocky' De La Fuente,1,0,1,0
+Sevier,Paraclifta,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0
+Sevier,Red Colony,U.S. President,,Rep,Roque 'Rocky' De La Fuente,1,0,0,1
+Sevier,Saline West,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0
+Sevier,Saline East,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0
+Sevier,Washington,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0
+Sevier,Bear Creek West,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,100,1,30,69
+Sevier,Bear Creek East,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,35,0,8,27
+Sevier,DeQueen North Central,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,30,1,5,24
+Sevier,DeQueen Northwest,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,62,1,16,45
+Sevier,DeQueen Southwest,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,55,1,14,40
+Sevier,DeQueen East,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,43,2,5,36
+Sevier,Ben Lomond,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,21,0,4,17
+Sevier,Clear Creek 2,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,113,2,25,86
+Sevier,Clear Creek 1,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,28,1,1,26
+Sevier,Jefferson,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,13,2,2,9
+Sevier,Mineral,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,48,0,14,34
+Sevier,Monroe,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,57,2,17,38
+Sevier,Paraclifta,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,38,0,2,36
+Sevier,Red Colony,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,85,0,9,76
+Sevier,Saline West,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,11,0,5,6
+Sevier,Saline East,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,7,0,1,6
+Sevier,Washington,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,36,0,1,35
+Sevier,Bear Creek West,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,89,2,17,70
+Sevier,Bear Creek East,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,31,0,5,26
+Sevier,DeQueen North Central,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,31,3,6,22
+Sevier,DeQueen Northwest,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,48,1,17,30
+Sevier,DeQueen Southwest,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,34,1,10,23
+Sevier,DeQueen East,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,22,0,6,16
+Sevier,Ben Lomond,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,12,0,0,12
+Sevier,Clear Creek 2,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,87,0,12,75
+Sevier,Clear Creek 1,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,25,1,6,18
+Sevier,Jefferson,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,5,0,3,2
+Sevier,Mineral,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,44,3,8,33
+Sevier,Monroe,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,42,0,17,25
+Sevier,Paraclifta,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,31,4,6,21
+Sevier,Red Colony,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,69,1,6,62
+Sevier,Saline West,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,10,0,1,9
+Sevier,Saline East,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,15,0,1,14
+Sevier,Washington,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,15,1,0,14
+Sevier,Bear Creek West,Court of Appeals Associate Judge,"4, Position 2",Non,Emily White,86,2,15,69
+Sevier,Bear Creek East,Court of Appeals Associate Judge,"4, Position 2",Non,Emily White,31,0,9,22
+Sevier,DeQueen North Central,Court of Appeals Associate Judge,"4, Position 2",Non,Emily White,22,0,4,18
+Sevier,DeQueen Northwest,Court of Appeals Associate Judge,"4, Position 2",Non,Emily White,42,2,10,30
+Sevier,DeQueen Southwest,Court of Appeals Associate Judge,"4, Position 2",Non,Emily White,47,0,12,35
+Sevier,DeQueen East,Court of Appeals Associate Judge,"4, Position 2",Non,Emily White,27,1,5,21
+Sevier,Ben Lomond,Court of Appeals Associate Judge,"4, Position 2",Non,Emily White,14,0,4,10
+Sevier,Clear Creek 2,Court of Appeals Associate Judge,"4, Position 2",Non,Emily White,102,0,16,86
+Sevier,Clear Creek 1,Court of Appeals Associate Judge,"4, Position 2",Non,Emily White,31,2,5,24
+Sevier,Jefferson,Court of Appeals Associate Judge,"4, Position 2",Non,Emily White,11,1,2,8
+Sevier,Mineral,Court of Appeals Associate Judge,"4, Position 2",Non,Emily White,49,1,12,36
+Sevier,Monroe,Court of Appeals Associate Judge,"4, Position 2",Non,Emily White,44,0,14,30
+Sevier,Paraclifta,Court of Appeals Associate Judge,"4, Position 2",Non,Emily White,29,0,3,26
+Sevier,Red Colony,Court of Appeals Associate Judge,"4, Position 2",Non,Emily White,54,0,7,47
+Sevier,Saline West,Court of Appeals Associate Judge,"4, Position 2",Non,Emily White,7,0,4,3
+Sevier,Saline East,Court of Appeals Associate Judge,"4, Position 2",Non,Emily White,12,0,1,11
+Sevier,Washington,Court of Appeals Associate Judge,"4, Position 2",Non,Emily White,16,0,0,16
+Sevier,Bear Creek West,Court of Appeals Associate Judge,"4, Position 2",Non,Prosecuting Attorney Stephanie Potter Barrett,105,1,33,71
+Sevier,Bear Creek East,Court of Appeals Associate Judge,"4, Position 2",Non,Prosecuting Attorney Stephanie Potter Barrett,36,0,5,31
+Sevier,DeQueen North Central,Court of Appeals Associate Judge,"4, Position 2",Non,Prosecuting Attorney Stephanie Potter Barrett,41,5,6,30
+Sevier,DeQueen Northwest,Court of Appeals Associate Judge,"4, Position 2",Non,Prosecuting Attorney Stephanie Potter Barrett,73,0,25,48
+Sevier,DeQueen Southwest,Court of Appeals Associate Judge,"4, Position 2",Non,Prosecuting Attorney Stephanie Potter Barrett,43,2,12,29
+Sevier,DeQueen East,Court of Appeals Associate Judge,"4, Position 2",Non,Prosecuting Attorney Stephanie Potter Barrett,34,0,6,28
+Sevier,Ben Lomond,Court of Appeals Associate Judge,"4, Position 2",Non,Prosecuting Attorney Stephanie Potter Barrett,21,0,0,21
+Sevier,Clear Creek 2,Court of Appeals Associate Judge,"4, Position 2",Non,Prosecuting Attorney Stephanie Potter Barrett,107,2,22,83
+Sevier,Clear Creek 1,Court of Appeals Associate Judge,"4, Position 2",Non,Prosecuting Attorney Stephanie Potter Barrett,25,0,4,21
+Sevier,Jefferson,Court of Appeals Associate Judge,"4, Position 2",Non,Prosecuting Attorney Stephanie Potter Barrett,6,1,2,3
+Sevier,Mineral,Court of Appeals Associate Judge,"4, Position 2",Non,Prosecuting Attorney Stephanie Potter Barrett,48,2,11,35
+Sevier,Monroe,Court of Appeals Associate Judge,"4, Position 2",Non,Prosecuting Attorney Stephanie Potter Barrett,56,2,20,34
+Sevier,Paraclifta,Court of Appeals Associate Judge,"4, Position 2",Non,Prosecuting Attorney Stephanie Potter Barrett,38,4,5,29
+Sevier,Red Colony,Court of Appeals Associate Judge,"4, Position 2",Non,Prosecuting Attorney Stephanie Potter Barrett,100,1,9,90
+Sevier,Saline West,Court of Appeals Associate Judge,"4, Position 2",Non,Prosecuting Attorney Stephanie Potter Barrett,15,0,3,12
+Sevier,Saline East,Court of Appeals Associate Judge,"4, Position 2",Non,Prosecuting Attorney Stephanie Potter Barrett,11,0,2,9
+Sevier,Washington,Court of Appeals Associate Judge,"4, Position 2",Non,Prosecuting Attorney Stephanie Potter Barrett,34,1,1,32

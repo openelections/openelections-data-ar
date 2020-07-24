@@ -1,0 +1,723 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_vote_north,election_day,early_vote_south,provisional
+Arkansas,MCFALL,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0,0
+Arkansas,CROCKETT,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0,0
+Arkansas,KEATON,U.S. President,,DEM,Mosie Boyd,2,0,1,1,0,0
+Arkansas,MILL BAYOU,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0,0
+Arkansas,ALMYRA,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0,0
+Arkansas,PRAIRIE,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0,0
+Arkansas,LAGRUE,U.S. President,,DEM,Mosie Boyd,1,0,0,1,0,0
+Arkansas,ST. CHARLES,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0,0
+Arkansas,CHESTER,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0,0
+Arkansas,ARKANSAS,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0,0
+Arkansas,STANLEY,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0,0
+Arkansas,GILLETT WARD 1,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0,0
+Arkansas,GILLETT WARD 2,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0,0
+Arkansas,GILLETT WARD 3,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0,0
+Arkansas,PT DELUCE,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0,0
+Arkansas,BAYOU METO,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0,0
+Arkansas,MORRIS,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0,0
+Arkansas,GUM POND,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0,0
+Arkansas,BARTON,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0,0
+Arkansas,HENTON,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0,0
+Arkansas,BREWER,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0,0
+Arkansas,GARLAND,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0,0
+Arkansas,HUMPHREY WARD 1,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0,0
+Arkansas,HUMPHREY WARD 3,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0,0
+Arkansas,DEWITT WARD 1,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0,0
+Arkansas,DEWITT WARD 2,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0,0
+Arkansas,DEWITT WARD 3,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0,0
+Arkansas,STUTTGART WARD 1,U.S. President,,DEM,Mosie Boyd,1,0,0,1,0,0
+Arkansas,STUTTGART WARD 2,U.S. President,,DEM,Mosie Boyd,1,0,0,1,0,0
+Arkansas,STUTTGART WARD 3,U.S. President,,DEM,Mosie Boyd,1,0,1,0,0,0
+Arkansas,MCFALL,U.S. President,,DEM,Joseph R. Biden,1,0,0,1,0,0
+Arkansas,CROCKETT,U.S. President,,DEM,Joseph R. Biden,4,0,0,1,3,0
+Arkansas,KEATON,U.S. President,,DEM,Joseph R. Biden,21,0,5,12,4,0
+Arkansas,MILL BAYOU,U.S. President,,DEM,Joseph R. Biden,6,0,0,6,0,0
+Arkansas,ALMYRA,U.S. President,,DEM,Joseph R. Biden,2,0,0,2,0,0
+Arkansas,PRAIRIE,U.S. President,,DEM,Joseph R. Biden,11,0,0,8,3,0
+Arkansas,LAGRUE,U.S. President,,DEM,Joseph R. Biden,19,0,0,16,3,0
+Arkansas,ST. CHARLES,U.S. President,,DEM,Joseph R. Biden,3,0,0,3,0,0
+Arkansas,CHESTER,U.S. President,,DEM,Joseph R. Biden,0,0,0,0,0,0
+Arkansas,ARKANSAS,U.S. President,,DEM,Joseph R. Biden,4,1,0,3,0,0
+Arkansas,STANLEY,U.S. President,,DEM,Joseph R. Biden,2,0,0,2,0,0
+Arkansas,GILLETT WARD 1,U.S. President,,DEM,Joseph R. Biden,6,1,0,5,0,0
+Arkansas,GILLETT WARD 2,U.S. President,,DEM,Joseph R. Biden,9,0,0,6,3,0
+Arkansas,GILLETT WARD 3,U.S. President,,DEM,Joseph R. Biden,14,0,0,12,2,0
+Arkansas,PT DELUCE,U.S. President,,DEM,Joseph R. Biden,6,2,0,2,2,0
+Arkansas,BAYOU METO,U.S. President,,DEM,Joseph R. Biden,2,0,2,0,0,0
+Arkansas,MORRIS,U.S. President,,DEM,Joseph R. Biden,6,0,2,4,0,0
+Arkansas,GUM POND,U.S. President,,DEM,Joseph R. Biden,4,0,4,0,0,0
+Arkansas,BARTON,U.S. President,,DEM,Joseph R. Biden,1,0,1,0,0,0
+Arkansas,HENTON,U.S. President,,DEM,Joseph R. Biden,7,0,0,6,1,0
+Arkansas,BREWER,U.S. President,,DEM,Joseph R. Biden,2,0,0,2,0,0
+Arkansas,GARLAND,U.S. President,,DEM,Joseph R. Biden,1,0,0,0,1,0
+Arkansas,HUMPHREY WARD 1,U.S. President,,DEM,Joseph R. Biden,10,0,0,10,0,0
+Arkansas,HUMPHREY WARD 3,U.S. President,,DEM,Joseph R. Biden,1,0,0,1,0,0
+Arkansas,DEWITT WARD 1,U.S. President,,DEM,Joseph R. Biden,27,0,0,19,8,0
+Arkansas,DEWITT WARD 2,U.S. President,,DEM,Joseph R. Biden,17,0,0,10,7,0
+Arkansas,DEWITT WARD 3,U.S. President,,DEM,Joseph R. Biden,14,0,0,12,2,0
+Arkansas,STUTTGART WARD 1,U.S. President,,DEM,Joseph R. Biden,94,1,37,56,0,0
+Arkansas,STUTTGART WARD 2,U.S. President,,DEM,Joseph R. Biden,78,0,25,53,0,0
+Arkansas,STUTTGART WARD 3,U.S. President,,DEM,Joseph R. Biden,78,0,36,42,0,0
+Arkansas,MCFALL,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0,0
+Arkansas,CROCKETT,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0,0
+Arkansas,KEATON,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0,0
+Arkansas,MILL BAYOU,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0,0
+Arkansas,ALMYRA,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0,0
+Arkansas,PRAIRIE,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0,0
+Arkansas,LAGRUE,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0,0
+Arkansas,ST. CHARLES,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0,0
+Arkansas,CHESTER,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0,0
+Arkansas,ARKANSAS,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0,0
+Arkansas,STANLEY,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0,0
+Arkansas,GILLETT WARD 1,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0,0
+Arkansas,GILLETT WARD 2,U.S. President,,DEM,Marianne Williamson,1,0,0,1,0,0
+Arkansas,GILLETT WARD 3,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0,0
+Arkansas,PT DELUCE,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0,0
+Arkansas,BAYOU METO,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0,0
+Arkansas,MORRIS,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0,0
+Arkansas,GUM POND,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0,0
+Arkansas,BARTON,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0,0
+Arkansas,HENTON,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0,0
+Arkansas,BREWER,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0,0
+Arkansas,GARLAND,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0,0
+Arkansas,HUMPHREY WARD 1,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0,0
+Arkansas,HUMPHREY WARD 3,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0,0
+Arkansas,DEWITT WARD 1,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0,0
+Arkansas,DEWITT WARD 2,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0,0
+Arkansas,DEWITT WARD 3,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0,0
+Arkansas,STUTTGART WARD 1,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0,0
+Arkansas,STUTTGART WARD 2,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0,0
+Arkansas,STUTTGART WARD 3,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0,0
+Arkansas,MCFALL,U.S. President,,DEM,John K. Delaney,0,0,0,0,0,0
+Arkansas,CROCKETT,U.S. President,,DEM,John K. Delaney,0,0,0,0,0,0
+Arkansas,KEATON,U.S. President,,DEM,John K. Delaney,0,0,0,0,0,0
+Arkansas,MILL BAYOU,U.S. President,,DEM,John K. Delaney,0,0,0,0,0,0
+Arkansas,ALMYRA,U.S. President,,DEM,John K. Delaney,0,0,0,0,0,0
+Arkansas,PRAIRIE,U.S. President,,DEM,John K. Delaney,0,0,0,0,0,0
+Arkansas,LAGRUE,U.S. President,,DEM,John K. Delaney,1,0,0,1,0,0
+Arkansas,ST. CHARLES,U.S. President,,DEM,John K. Delaney,0,0,0,0,0,0
+Arkansas,CHESTER,U.S. President,,DEM,John K. Delaney,0,0,0,0,0,0
+Arkansas,ARKANSAS,U.S. President,,DEM,John K. Delaney,0,0,0,0,0,0
+Arkansas,STANLEY,U.S. President,,DEM,John K. Delaney,0,0,0,0,0,0
+Arkansas,GILLETT WARD 1,U.S. President,,DEM,John K. Delaney,1,0,0,1,0,0
+Arkansas,GILLETT WARD 2,U.S. President,,DEM,John K. Delaney,0,0,0,0,0,0
+Arkansas,GILLETT WARD 3,U.S. President,,DEM,John K. Delaney,0,0,0,0,0,0
+Arkansas,PT DELUCE,U.S. President,,DEM,John K. Delaney,0,0,0,0,0,0
+Arkansas,BAYOU METO,U.S. President,,DEM,John K. Delaney,0,0,0,0,0,0
+Arkansas,MORRIS,U.S. President,,DEM,John K. Delaney,0,0,0,0,0,0
+Arkansas,GUM POND,U.S. President,,DEM,John K. Delaney,0,0,0,0,0,0
+Arkansas,BARTON,U.S. President,,DEM,John K. Delaney,0,0,0,0,0,0
+Arkansas,HENTON,U.S. President,,DEM,John K. Delaney,1,0,0,1,0,0
+Arkansas,BREWER,U.S. President,,DEM,John K. Delaney,0,0,0,0,0,0
+Arkansas,GARLAND,U.S. President,,DEM,John K. Delaney,0,0,0,0,0,0
+Arkansas,HUMPHREY WARD 1,U.S. President,,DEM,John K. Delaney,0,0,0,0,0,0
+Arkansas,HUMPHREY WARD 3,U.S. President,,DEM,John K. Delaney,0,0,0,0,0,0
+Arkansas,DEWITT WARD 1,U.S. President,,DEM,John K. Delaney,0,0,0,0,0,0
+Arkansas,DEWITT WARD 2,U.S. President,,DEM,John K. Delaney,0,0,0,0,0,0
+Arkansas,DEWITT WARD 3,U.S. President,,DEM,John K. Delaney,0,0,0,0,0,0
+Arkansas,STUTTGART WARD 1,U.S. President,,DEM,John K. Delaney,1,0,0,1,0,0
+Arkansas,STUTTGART WARD 2,U.S. President,,DEM,John K. Delaney,0,0,0,0,0,0
+Arkansas,STUTTGART WARD 3,U.S. President,,DEM,John K. Delaney,0,0,0,0,0,0
+Arkansas,MCFALL,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0,0
+Arkansas,CROCKETT,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0,0
+Arkansas,KEATON,U.S. President,,DEM,Pete Buttigieg,3,0,3,0,0,0
+Arkansas,MILL BAYOU,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0,0
+Arkansas,ALMYRA,U.S. President,,DEM,Pete Buttigieg,1,0,1,0,0,0
+Arkansas,PRAIRIE,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0,0
+Arkansas,LAGRUE,U.S. President,,DEM,Pete Buttigieg,1,0,0,0,1,0
+Arkansas,ST. CHARLES,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0,0
+Arkansas,CHESTER,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0,0
+Arkansas,ARKANSAS,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0,0
+Arkansas,STANLEY,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0,0
+Arkansas,GILLETT WARD 1,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0,0
+Arkansas,GILLETT WARD 2,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0,0
+Arkansas,GILLETT WARD 3,U.S. President,,DEM,Pete Buttigieg,1,0,0,0,1,0
+Arkansas,PT DELUCE,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0,0
+Arkansas,BAYOU METO,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0,0
+Arkansas,MORRIS,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0,0
+Arkansas,GUM POND,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0,0
+Arkansas,BARTON,U.S. President,,DEM,Pete Buttigieg,1,0,1,0,0,0
+Arkansas,HENTON,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0,0
+Arkansas,BREWER,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0,0
+Arkansas,GARLAND,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0,0
+Arkansas,HUMPHREY WARD 1,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0,0
+Arkansas,HUMPHREY WARD 3,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0,0
+Arkansas,DEWITT WARD 1,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0,0
+Arkansas,DEWITT WARD 2,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0,0
+Arkansas,DEWITT WARD 3,U.S. President,,DEM,Pete Buttigieg,1,0,0,0,1,0
+Arkansas,STUTTGART WARD 1,U.S. President,,DEM,Pete Buttigieg,4,0,4,0,0,0
+Arkansas,STUTTGART WARD 2,U.S. President,,DEM,Pete Buttigieg,5,0,3,1,1,0
+Arkansas,STUTTGART WARD 3,U.S. President,,DEM,Pete Buttigieg,4,1,3,0,0,0
+Arkansas,MCFALL,U.S. President,,DEM,Tom Steyer,0,0,0,0,0,0
+Arkansas,CROCKETT,U.S. President,,DEM,Tom Steyer,0,0,0,0,0,0
+Arkansas,KEATON,U.S. President,,DEM,Tom Steyer,2,0,1,1,0,0
+Arkansas,MILL BAYOU,U.S. President,,DEM,Tom Steyer,0,0,0,0,0,0
+Arkansas,ALMYRA,U.S. President,,DEM,Tom Steyer,0,0,0,0,0,0
+Arkansas,PRAIRIE,U.S. President,,DEM,Tom Steyer,0,0,0,0,0,0
+Arkansas,LAGRUE,U.S. President,,DEM,Tom Steyer,0,0,0,0,0,0
+Arkansas,ST. CHARLES,U.S. President,,DEM,Tom Steyer,0,0,0,0,0,0
+Arkansas,CHESTER,U.S. President,,DEM,Tom Steyer,0,0,0,0,0,0
+Arkansas,ARKANSAS,U.S. President,,DEM,Tom Steyer,0,0,0,0,0,0
+Arkansas,STANLEY,U.S. President,,DEM,Tom Steyer,0,0,0,0,0,0
+Arkansas,GILLETT WARD 1,U.S. President,,DEM,Tom Steyer,0,0,0,0,0,0
+Arkansas,GILLETT WARD 2,U.S. President,,DEM,Tom Steyer,1,0,0,0,1,0
+Arkansas,GILLETT WARD 3,U.S. President,,DEM,Tom Steyer,0,0,0,0,0,0
+Arkansas,PT DELUCE,U.S. President,,DEM,Tom Steyer,0,0,0,0,0,0
+Arkansas,BAYOU METO,U.S. President,,DEM,Tom Steyer,0,0,0,0,0,0
+Arkansas,MORRIS,U.S. President,,DEM,Tom Steyer,0,0,0,0,0,0
+Arkansas,GUM POND,U.S. President,,DEM,Tom Steyer,0,0,0,0,0,0
+Arkansas,BARTON,U.S. President,,DEM,Tom Steyer,0,0,0,0,0,0
+Arkansas,HENTON,U.S. President,,DEM,Tom Steyer,0,0,0,0,0,0
+Arkansas,BREWER,U.S. President,,DEM,Tom Steyer,0,0,0,0,0,0
+Arkansas,GARLAND,U.S. President,,DEM,Tom Steyer,0,0,0,0,0,0
+Arkansas,HUMPHREY WARD 1,U.S. President,,DEM,Tom Steyer,0,0,0,0,0,0
+Arkansas,HUMPHREY WARD 3,U.S. President,,DEM,Tom Steyer,0,0,0,0,0,0
+Arkansas,DEWITT WARD 1,U.S. President,,DEM,Tom Steyer,0,0,0,0,0,0
+Arkansas,DEWITT WARD 2,U.S. President,,DEM,Tom Steyer,2,0,0,0,2,0
+Arkansas,DEWITT WARD 3,U.S. President,,DEM,Tom Steyer,0,0,0,0,0,0
+Arkansas,STUTTGART WARD 1,U.S. President,,DEM,Tom Steyer,5,0,5,0,0,0
+Arkansas,STUTTGART WARD 2,U.S. President,,DEM,Tom Steyer,3,0,2,1,0,0
+Arkansas,STUTTGART WARD 3,U.S. President,,DEM,Tom Steyer,3,0,3,0,0,0
+Arkansas,MCFALL,U.S. President,,DEM,Michael R. Bloomberg,2,0,2,0,0,0
+Arkansas,CROCKETT,U.S. President,,DEM,Michael R. Bloomberg,1,0,0,1,0,0
+Arkansas,KEATON,U.S. President,,DEM,Michael R. Bloomberg,4,0,2,2,0,0
+Arkansas,MILL BAYOU,U.S. President,,DEM,Michael R. Bloomberg,1,0,0,1,0,0
+Arkansas,ALMYRA,U.S. President,,DEM,Michael R. Bloomberg,0,0,0,0,0,0
+Arkansas,PRAIRIE,U.S. President,,DEM,Michael R. Bloomberg,3,0,0,2,1,0
+Arkansas,LAGRUE,U.S. President,,DEM,Michael R. Bloomberg,6,0,0,4,2,0
+Arkansas,ST. CHARLES,U.S. President,,DEM,Michael R. Bloomberg,1,1,0,0,0,0
+Arkansas,CHESTER,U.S. President,,DEM,Michael R. Bloomberg,1,0,0,1,0,0
+Arkansas,ARKANSAS,U.S. President,,DEM,Michael R. Bloomberg,4,0,0,0,4,0
+Arkansas,STANLEY,U.S. President,,DEM,Michael R. Bloomberg,2,0,0,2,0,0
+Arkansas,GILLETT WARD 1,U.S. President,,DEM,Michael R. Bloomberg,2,0,0,2,0,0
+Arkansas,GILLETT WARD 2,U.S. President,,DEM,Michael R. Bloomberg,4,1,0,0,3,0
+Arkansas,GILLETT WARD 3,U.S. President,,DEM,Michael R. Bloomberg,4,0,0,3,1,0
+Arkansas,PT DELUCE,U.S. President,,DEM,Michael R. Bloomberg,0,0,0,0,0,0
+Arkansas,BAYOU METO,U.S. President,,DEM,Michael R. Bloomberg,3,0,0,2,1,0
+Arkansas,MORRIS,U.S. President,,DEM,Michael R. Bloomberg,0,0,0,0,0,0
+Arkansas,GUM POND,U.S. President,,DEM,Michael R. Bloomberg,2,0,2,0,0,0
+Arkansas,BARTON,U.S. President,,DEM,Michael R. Bloomberg,0,0,0,0,0,0
+Arkansas,HENTON,U.S. President,,DEM,Michael R. Bloomberg,3,0,2,1,0,0
+Arkansas,BREWER,U.S. President,,DEM,Michael R. Bloomberg,0,0,0,0,0,0
+Arkansas,GARLAND,U.S. President,,DEM,Michael R. Bloomberg,0,0,0,0,0,0
+Arkansas,HUMPHREY WARD 1,U.S. President,,DEM,Michael R. Bloomberg,1,0,0,1,0,0
+Arkansas,HUMPHREY WARD 3,U.S. President,,DEM,Michael R. Bloomberg,1,0,0,1,0,0
+Arkansas,DEWITT WARD 1,U.S. President,,DEM,Michael R. Bloomberg,10,0,0,7,3,0
+Arkansas,DEWITT WARD 2,U.S. President,,DEM,Michael R. Bloomberg,7,0,0,6,1,0
+Arkansas,DEWITT WARD 3,U.S. President,,DEM,Michael R. Bloomberg,12,0,1,8,3,0
+Arkansas,STUTTGART WARD 1,U.S. President,,DEM,Michael R. Bloomberg,28,0,18,10,0,0
+Arkansas,STUTTGART WARD 2,U.S. President,,DEM,Michael R. Bloomberg,28,0,22,6,0,0
+Arkansas,STUTTGART WARD 3,U.S. President,,DEM,Michael R. Bloomberg,28,0,18,10,0,0
+Arkansas,MCFALL,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0,0
+Arkansas,CROCKETT,U.S. President,,DEM,Amy Klobuchar,1,0,0,1,0,0
+Arkansas,KEATON,U.S. President,,DEM,Amy Klobuchar,5,0,5,0,0,0
+Arkansas,MILL BAYOU,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0,0
+Arkansas,ALMYRA,U.S. President,,DEM,Amy Klobuchar,1,0,0,1,0,0
+Arkansas,PRAIRIE,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0,0
+Arkansas,LAGRUE,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0,0
+Arkansas,ST. CHARLES,U.S. President,,DEM,Amy Klobuchar,1,0,0,0,1,0
+Arkansas,CHESTER,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0,0
+Arkansas,ARKANSAS,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0,0
+Arkansas,STANLEY,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0,0
+Arkansas,GILLETT WARD 1,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0,0
+Arkansas,GILLETT WARD 2,U.S. President,,DEM,Amy Klobuchar,1,0,0,0,1,0
+Arkansas,GILLETT WARD 3,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0,0
+Arkansas,PT DELUCE,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0,0
+Arkansas,BAYOU METO,U.S. President,,DEM,Amy Klobuchar,1,0,0,0,1,0
+Arkansas,MORRIS,U.S. President,,DEM,Amy Klobuchar,1,0,1,0,0,0
+Arkansas,GUM POND,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0,0
+Arkansas,BARTON,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0,0
+Arkansas,HENTON,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0,0
+Arkansas,BREWER,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0,0
+Arkansas,GARLAND,U.S. President,,DEM,Amy Klobuchar,1,0,0,0,1,0
+Arkansas,HUMPHREY WARD 1,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0,0
+Arkansas,HUMPHREY WARD 3,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0,0
+Arkansas,DEWITT WARD 1,U.S. President,,DEM,Amy Klobuchar,1,0,0,0,1,0
+Arkansas,DEWITT WARD 2,U.S. President,,DEM,Amy Klobuchar,1,0,0,0,1,0
+Arkansas,DEWITT WARD 3,U.S. President,,DEM,Amy Klobuchar,3,0,0,0,3,0
+Arkansas,STUTTGART WARD 1,U.S. President,,DEM,Amy Klobuchar,3,0,3,0,0,0
+Arkansas,STUTTGART WARD 2,U.S. President,,DEM,Amy Klobuchar,5,0,5,0,0,0
+Arkansas,STUTTGART WARD 3,U.S. President,,DEM,Amy Klobuchar,10,0,9,1,0,0
+Arkansas,MCFALL,U.S. President,,DEM,Andrew Yang,0,0,0,0,0,0
+Arkansas,CROCKETT,U.S. President,,DEM,Andrew Yang,0,0,0,0,0,0
+Arkansas,KEATON,U.S. President,,DEM,Andrew Yang,0,0,0,0,0,0
+Arkansas,MILL BAYOU,U.S. President,,DEM,Andrew Yang,0,0,0,0,0,0
+Arkansas,ALMYRA,U.S. President,,DEM,Andrew Yang,0,0,0,0,0,0
+Arkansas,PRAIRIE,U.S. President,,DEM,Andrew Yang,0,0,0,0,0,0
+Arkansas,LAGRUE,U.S. President,,DEM,Andrew Yang,0,0,0,0,0,0
+Arkansas,ST. CHARLES,U.S. President,,DEM,Andrew Yang,0,0,0,0,0,0
+Arkansas,CHESTER,U.S. President,,DEM,Andrew Yang,0,0,0,0,0,0
+Arkansas,ARKANSAS,U.S. President,,DEM,Andrew Yang,0,0,0,0,0,0
+Arkansas,STANLEY,U.S. President,,DEM,Andrew Yang,0,0,0,0,0,0
+Arkansas,GILLETT WARD 1,U.S. President,,DEM,Andrew Yang,0,0,0,0,0,0
+Arkansas,GILLETT WARD 2,U.S. President,,DEM,Andrew Yang,0,0,0,0,0,0
+Arkansas,GILLETT WARD 3,U.S. President,,DEM,Andrew Yang,0,0,0,0,0,0
+Arkansas,PT DELUCE,U.S. President,,DEM,Andrew Yang,0,0,0,0,0,0
+Arkansas,BAYOU METO,U.S. President,,DEM,Andrew Yang,0,0,0,0,0,0
+Arkansas,MORRIS,U.S. President,,DEM,Andrew Yang,0,0,0,0,0,0
+Arkansas,GUM POND,U.S. President,,DEM,Andrew Yang,0,0,0,0,0,0
+Arkansas,BARTON,U.S. President,,DEM,Andrew Yang,0,0,0,0,0,0
+Arkansas,HENTON,U.S. President,,DEM,Andrew Yang,0,0,0,0,0,0
+Arkansas,BREWER,U.S. President,,DEM,Andrew Yang,0,0,0,0,0,0
+Arkansas,GARLAND,U.S. President,,DEM,Andrew Yang,0,0,0,0,0,0
+Arkansas,HUMPHREY WARD 1,U.S. President,,DEM,Andrew Yang,0,0,0,0,0,0
+Arkansas,HUMPHREY WARD 3,U.S. President,,DEM,Andrew Yang,0,0,0,0,0,0
+Arkansas,DEWITT WARD 1,U.S. President,,DEM,Andrew Yang,0,0,0,0,0,0
+Arkansas,DEWITT WARD 2,U.S. President,,DEM,Andrew Yang,0,0,0,0,0,0
+Arkansas,DEWITT WARD 3,U.S. President,,DEM,Andrew Yang,0,0,0,0,0,0
+Arkansas,STUTTGART WARD 1,U.S. President,,DEM,Andrew Yang,0,0,0,0,0,0
+Arkansas,STUTTGART WARD 2,U.S. President,,DEM,Andrew Yang,0,0,0,0,0,0
+Arkansas,STUTTGART WARD 3,U.S. President,,DEM,Andrew Yang,0,0,0,0,0,0
+Arkansas,MCFALL,U.S. President,,DEM,Elizabeth Warren,0,0,0,0,0,0
+Arkansas,CROCKETT,U.S. President,,DEM,Elizabeth Warren,1,0,0,0,1,0
+Arkansas,KEATON,U.S. President,,DEM,Elizabeth Warren,1,0,0,0,1,0
+Arkansas,MILL BAYOU,U.S. President,,DEM,Elizabeth Warren,1,0,0,1,0,0
+Arkansas,ALMYRA,U.S. President,,DEM,Elizabeth Warren,3,0,0,3,0,0
+Arkansas,PRAIRIE,U.S. President,,DEM,Elizabeth Warren,0,0,0,0,0,0
+Arkansas,LAGRUE,U.S. President,,DEM,Elizabeth Warren,4,0,0,2,2,0
+Arkansas,ST. CHARLES,U.S. President,,DEM,Elizabeth Warren,1,0,0,1,0,0
+Arkansas,CHESTER,U.S. President,,DEM,Elizabeth Warren,1,0,0,0,1,0
+Arkansas,ARKANSAS,U.S. President,,DEM,Elizabeth Warren,1,0,0,1,0,0
+Arkansas,STANLEY,U.S. President,,DEM,Elizabeth Warren,1,0,0,1,0,0
+Arkansas,GILLETT WARD 1,U.S. President,,DEM,Elizabeth Warren,0,0,0,0,0,0
+Arkansas,GILLETT WARD 2,U.S. President,,DEM,Elizabeth Warren,4,0,0,4,0,0
+Arkansas,GILLETT WARD 3,U.S. President,,DEM,Elizabeth Warren,1,0,0,0,1,0
+Arkansas,PT DELUCE,U.S. President,,DEM,Elizabeth Warren,0,0,0,0,0,0
+Arkansas,BAYOU METO,U.S. President,,DEM,Elizabeth Warren,0,0,0,0,0,0
+Arkansas,MORRIS,U.S. President,,DEM,Elizabeth Warren,0,0,0,0,0,0
+Arkansas,GUM POND,U.S. President,,DEM,Elizabeth Warren,2,0,2,0,0,0
+Arkansas,BARTON,U.S. President,,DEM,Elizabeth Warren,2,0,0,2,0,0
+Arkansas,HENTON,U.S. President,,DEM,Elizabeth Warren,1,0,0,1,0,0
+Arkansas,BREWER,U.S. President,,DEM,Elizabeth Warren,0,0,0,0,0,0
+Arkansas,GARLAND,U.S. President,,DEM,Elizabeth Warren,2,0,0,0,2,0
+Arkansas,HUMPHREY WARD 1,U.S. President,,DEM,Elizabeth Warren,2,0,0,2,0,0
+Arkansas,HUMPHREY WARD 3,U.S. President,,DEM,Elizabeth Warren,1,0,0,1,0,0
+Arkansas,DEWITT WARD 1,U.S. President,,DEM,Elizabeth Warren,4,0,0,2,2,0
+Arkansas,DEWITT WARD 2,U.S. President,,DEM,Elizabeth Warren,2,0,0,2,0,0
+Arkansas,DEWITT WARD 3,U.S. President,,DEM,Elizabeth Warren,5,0,0,2,3,0
+Arkansas,STUTTGART WARD 1,U.S. President,,DEM,Elizabeth Warren,5,0,3,2,0,0
+Arkansas,STUTTGART WARD 2,U.S. President,,DEM,Elizabeth Warren,15,0,8,7,0,0
+Arkansas,STUTTGART WARD 3,U.S. President,,DEM,Elizabeth Warren,21,0,9,12,0,0
+Arkansas,MCFALL,U.S. President,,DEM,Joe Sestak,0,0,0,0,0,0
+Arkansas,CROCKETT,U.S. President,,DEM,Joe Sestak,0,0,0,0,0,0
+Arkansas,KEATON,U.S. President,,DEM,Joe Sestak,0,0,0,0,0,0
+Arkansas,MILL BAYOU,U.S. President,,DEM,Joe Sestak,0,0,0,0,0,0
+Arkansas,ALMYRA,U.S. President,,DEM,Joe Sestak,0,0,0,0,0,0
+Arkansas,PRAIRIE,U.S. President,,DEM,Joe Sestak,0,0,0,0,0,0
+Arkansas,LAGRUE,U.S. President,,DEM,Joe Sestak,0,0,0,0,0,0
+Arkansas,ST. CHARLES,U.S. President,,DEM,Joe Sestak,0,0,0,0,0,0
+Arkansas,CHESTER,U.S. President,,DEM,Joe Sestak,0,0,0,0,0,0
+Arkansas,ARKANSAS,U.S. President,,DEM,Joe Sestak,0,0,0,0,0,0
+Arkansas,STANLEY,U.S. President,,DEM,Joe Sestak,0,0,0,0,0,0
+Arkansas,GILLETT WARD 1,U.S. President,,DEM,Joe Sestak,0,0,0,0,0,0
+Arkansas,GILLETT WARD 2,U.S. President,,DEM,Joe Sestak,0,0,0,0,0,0
+Arkansas,GILLETT WARD 3,U.S. President,,DEM,Joe Sestak,0,0,0,0,0,0
+Arkansas,PT DELUCE,U.S. President,,DEM,Joe Sestak,0,0,0,0,0,0
+Arkansas,BAYOU METO,U.S. President,,DEM,Joe Sestak,0,0,0,0,0,0
+Arkansas,MORRIS,U.S. President,,DEM,Joe Sestak,0,0,0,0,0,0
+Arkansas,GUM POND,U.S. President,,DEM,Joe Sestak,0,0,0,0,0,0
+Arkansas,BARTON,U.S. President,,DEM,Joe Sestak,0,0,0,0,0,0
+Arkansas,HENTON,U.S. President,,DEM,Joe Sestak,0,0,0,0,0,0
+Arkansas,BREWER,U.S. President,,DEM,Joe Sestak,0,0,0,0,0,0
+Arkansas,GARLAND,U.S. President,,DEM,Joe Sestak,0,0,0,0,0,0
+Arkansas,HUMPHREY WARD 1,U.S. President,,DEM,Joe Sestak,0,0,0,0,0,0
+Arkansas,HUMPHREY WARD 3,U.S. President,,DEM,Joe Sestak,0,0,0,0,0,0
+Arkansas,DEWITT WARD 1,U.S. President,,DEM,Joe Sestak,0,0,0,0,0,0
+Arkansas,DEWITT WARD 2,U.S. President,,DEM,Joe Sestak,0,0,0,0,0,0
+Arkansas,DEWITT WARD 3,U.S. President,,DEM,Joe Sestak,0,0,0,0,0,0
+Arkansas,STUTTGART WARD 1,U.S. President,,DEM,Joe Sestak,0,0,0,0,0,0
+Arkansas,STUTTGART WARD 2,U.S. President,,DEM,Joe Sestak,0,0,0,0,0,0
+Arkansas,STUTTGART WARD 3,U.S. President,,DEM,Joe Sestak,0,0,0,0,0,0
+Arkansas,MCFALL,U.S. President,,DEM,Julian Castro,0,0,0,0,0,0
+Arkansas,CROCKETT,U.S. President,,DEM,Julian Castro,0,0,0,0,0,0
+Arkansas,KEATON,U.S. President,,DEM,Julian Castro,0,0,0,0,0,0
+Arkansas,MILL BAYOU,U.S. President,,DEM,Julian Castro,0,0,0,0,0,0
+Arkansas,ALMYRA,U.S. President,,DEM,Julian Castro,0,0,0,0,0,0
+Arkansas,PRAIRIE,U.S. President,,DEM,Julian Castro,0,0,0,0,0,0
+Arkansas,LAGRUE,U.S. President,,DEM,Julian Castro,0,0,0,0,0,0
+Arkansas,ST. CHARLES,U.S. President,,DEM,Julian Castro,0,0,0,0,0,0
+Arkansas,CHESTER,U.S. President,,DEM,Julian Castro,0,0,0,0,0,0
+Arkansas,ARKANSAS,U.S. President,,DEM,Julian Castro,0,0,0,0,0,0
+Arkansas,STANLEY,U.S. President,,DEM,Julian Castro,0,0,0,0,0,0
+Arkansas,GILLETT WARD 1,U.S. President,,DEM,Julian Castro,0,0,0,0,0,0
+Arkansas,GILLETT WARD 2,U.S. President,,DEM,Julian Castro,0,0,0,0,0,0
+Arkansas,GILLETT WARD 3,U.S. President,,DEM,Julian Castro,0,0,0,0,0,0
+Arkansas,PT DELUCE,U.S. President,,DEM,Julian Castro,0,0,0,0,0,0
+Arkansas,BAYOU METO,U.S. President,,DEM,Julian Castro,0,0,0,0,0,0
+Arkansas,MORRIS,U.S. President,,DEM,Julian Castro,0,0,0,0,0,0
+Arkansas,GUM POND,U.S. President,,DEM,Julian Castro,0,0,0,0,0,0
+Arkansas,BARTON,U.S. President,,DEM,Julian Castro,0,0,0,0,0,0
+Arkansas,HENTON,U.S. President,,DEM,Julian Castro,0,0,0,0,0,0
+Arkansas,BREWER,U.S. President,,DEM,Julian Castro,0,0,0,0,0,0
+Arkansas,GARLAND,U.S. President,,DEM,Julian Castro,0,0,0,0,0,0
+Arkansas,HUMPHREY WARD 1,U.S. President,,DEM,Julian Castro,0,0,0,0,0,0
+Arkansas,HUMPHREY WARD 3,U.S. President,,DEM,Julian Castro,0,0,0,0,0,0
+Arkansas,DEWITT WARD 1,U.S. President,,DEM,Julian Castro,0,0,0,0,0,0
+Arkansas,DEWITT WARD 2,U.S. President,,DEM,Julian Castro,0,0,0,0,0,0
+Arkansas,DEWITT WARD 3,U.S. President,,DEM,Julian Castro,1,0,0,0,1,0
+Arkansas,STUTTGART WARD 1,U.S. President,,DEM,Julian Castro,1,0,1,0,0,0
+Arkansas,STUTTGART WARD 2,U.S. President,,DEM,Julian Castro,0,0,0,0,0,0
+Arkansas,STUTTGART WARD 3,U.S. President,,DEM,Julian Castro,0,0,0,0,0,0
+Arkansas,MCFALL,U.S. President,,DEM,Kamala Harris,0,0,0,0,0,0
+Arkansas,CROCKETT,U.S. President,,DEM,Kamala Harris,0,0,0,0,0,0
+Arkansas,KEATON,U.S. President,,DEM,Kamala Harris,0,0,0,0,0,0
+Arkansas,MILL BAYOU,U.S. President,,DEM,Kamala Harris,0,0,0,0,0,0
+Arkansas,ALMYRA,U.S. President,,DEM,Kamala Harris,0,0,0,0,0,0
+Arkansas,PRAIRIE,U.S. President,,DEM,Kamala Harris,0,0,0,0,0,0
+Arkansas,LAGRUE,U.S. President,,DEM,Kamala Harris,0,0,0,0,0,0
+Arkansas,ST. CHARLES,U.S. President,,DEM,Kamala Harris,0,0,0,0,0,0
+Arkansas,CHESTER,U.S. President,,DEM,Kamala Harris,0,0,0,0,0,0
+Arkansas,ARKANSAS,U.S. President,,DEM,Kamala Harris,0,0,0,0,0,0
+Arkansas,STANLEY,U.S. President,,DEM,Kamala Harris,0,0,0,0,0,0
+Arkansas,GILLETT WARD 1,U.S. President,,DEM,Kamala Harris,0,0,0,0,0,0
+Arkansas,GILLETT WARD 2,U.S. President,,DEM,Kamala Harris,0,0,0,0,0,0
+Arkansas,GILLETT WARD 3,U.S. President,,DEM,Kamala Harris,0,0,0,0,0,0
+Arkansas,PT DELUCE,U.S. President,,DEM,Kamala Harris,0,0,0,0,0,0
+Arkansas,BAYOU METO,U.S. President,,DEM,Kamala Harris,0,0,0,0,0,0
+Arkansas,MORRIS,U.S. President,,DEM,Kamala Harris,0,0,0,0,0,0
+Arkansas,GUM POND,U.S. President,,DEM,Kamala Harris,0,0,0,0,0,0
+Arkansas,BARTON,U.S. President,,DEM,Kamala Harris,0,0,0,0,0,0
+Arkansas,HENTON,U.S. President,,DEM,Kamala Harris,0,0,0,0,0,0
+Arkansas,BREWER,U.S. President,,DEM,Kamala Harris,0,0,0,0,0,0
+Arkansas,GARLAND,U.S. President,,DEM,Kamala Harris,0,0,0,0,0,0
+Arkansas,HUMPHREY WARD 1,U.S. President,,DEM,Kamala Harris,0,0,0,0,0,0
+Arkansas,HUMPHREY WARD 3,U.S. President,,DEM,Kamala Harris,0,0,0,0,0,0
+Arkansas,DEWITT WARD 1,U.S. President,,DEM,Kamala Harris,0,0,0,0,0,0
+Arkansas,DEWITT WARD 2,U.S. President,,DEM,Kamala Harris,0,0,0,0,0,0
+Arkansas,DEWITT WARD 3,U.S. President,,DEM,Kamala Harris,0,0,0,0,0,0
+Arkansas,STUTTGART WARD 1,U.S. President,,DEM,Kamala Harris,1,0,0,1,0,0
+Arkansas,STUTTGART WARD 2,U.S. President,,DEM,Kamala Harris,0,0,0,0,0,0
+Arkansas,STUTTGART WARD 3,U.S. President,,DEM,Kamala Harris,0,0,0,0,0,0
+Arkansas,MCFALL,U.S. President,,DEM,Steve Bullock,0,0,0,0,0,0
+Arkansas,CROCKETT,U.S. President,,DEM,Steve Bullock,0,0,0,0,0,0
+Arkansas,KEATON,U.S. President,,DEM,Steve Bullock,1,0,0,0,1,0
+Arkansas,MILL BAYOU,U.S. President,,DEM,Steve Bullock,0,0,0,0,0,0
+Arkansas,ALMYRA,U.S. President,,DEM,Steve Bullock,0,0,0,0,0,0
+Arkansas,PRAIRIE,U.S. President,,DEM,Steve Bullock,0,0,0,0,0,0
+Arkansas,LAGRUE,U.S. President,,DEM,Steve Bullock,0,0,0,0,0,0
+Arkansas,ST. CHARLES,U.S. President,,DEM,Steve Bullock,0,0,0,0,0,0
+Arkansas,CHESTER,U.S. President,,DEM,Steve Bullock,0,0,0,0,0,0
+Arkansas,ARKANSAS,U.S. President,,DEM,Steve Bullock,0,0,0,0,0,0
+Arkansas,STANLEY,U.S. President,,DEM,Steve Bullock,0,0,0,0,0,0
+Arkansas,GILLETT WARD 1,U.S. President,,DEM,Steve Bullock,0,0,0,0,0,0
+Arkansas,GILLETT WARD 2,U.S. President,,DEM,Steve Bullock,0,0,0,0,0,0
+Arkansas,GILLETT WARD 3,U.S. President,,DEM,Steve Bullock,0,0,0,0,0,0
+Arkansas,PT DELUCE,U.S. President,,DEM,Steve Bullock,0,0,0,0,0,0
+Arkansas,BAYOU METO,U.S. President,,DEM,Steve Bullock,0,0,0,0,0,0
+Arkansas,MORRIS,U.S. President,,DEM,Steve Bullock,0,0,0,0,0,0
+Arkansas,GUM POND,U.S. President,,DEM,Steve Bullock,0,0,0,0,0,0
+Arkansas,BARTON,U.S. President,,DEM,Steve Bullock,0,0,0,0,0,0
+Arkansas,HENTON,U.S. President,,DEM,Steve Bullock,0,0,0,0,0,0
+Arkansas,BREWER,U.S. President,,DEM,Steve Bullock,0,0,0,0,0,0
+Arkansas,GARLAND,U.S. President,,DEM,Steve Bullock,0,0,0,0,0,0
+Arkansas,HUMPHREY WARD 1,U.S. President,,DEM,Steve Bullock,0,0,0,0,0,0
+Arkansas,HUMPHREY WARD 3,U.S. President,,DEM,Steve Bullock,0,0,0,0,0,0
+Arkansas,DEWITT WARD 1,U.S. President,,DEM,Steve Bullock,0,0,0,0,0,0
+Arkansas,DEWITT WARD 2,U.S. President,,DEM,Steve Bullock,1,0,0,0,1,0
+Arkansas,DEWITT WARD 3,U.S. President,,DEM,Steve Bullock,1,0,0,0,1,0
+Arkansas,STUTTGART WARD 1,U.S. President,,DEM,Steve Bullock,0,0,0,0,0,0
+Arkansas,STUTTGART WARD 2,U.S. President,,DEM,Steve Bullock,0,0,0,0,0,0
+Arkansas,STUTTGART WARD 3,U.S. President,,DEM,Steve Bullock,0,0,0,0,0,0
+Arkansas,MCFALL,U.S. President,,DEM,Michael Bennet,0,0,0,0,0,0
+Arkansas,CROCKETT,U.S. President,,DEM,Michael Bennet,0,0,0,0,0,0
+Arkansas,KEATON,U.S. President,,DEM,Michael Bennet,0,0,0,0,0,0
+Arkansas,MILL BAYOU,U.S. President,,DEM,Michael Bennet,0,0,0,0,0,0
+Arkansas,ALMYRA,U.S. President,,DEM,Michael Bennet,0,0,0,0,0,0
+Arkansas,PRAIRIE,U.S. President,,DEM,Michael Bennet,0,0,0,0,0,0
+Arkansas,LAGRUE,U.S. President,,DEM,Michael Bennet,0,0,0,0,0,0
+Arkansas,ST. CHARLES,U.S. President,,DEM,Michael Bennet,0,0,0,0,0,0
+Arkansas,CHESTER,U.S. President,,DEM,Michael Bennet,0,0,0,0,0,0
+Arkansas,ARKANSAS,U.S. President,,DEM,Michael Bennet,0,0,0,0,0,0
+Arkansas,STANLEY,U.S. President,,DEM,Michael Bennet,0,0,0,0,0,0
+Arkansas,GILLETT WARD 1,U.S. President,,DEM,Michael Bennet,0,0,0,0,0,0
+Arkansas,GILLETT WARD 2,U.S. President,,DEM,Michael Bennet,0,0,0,0,0,0
+Arkansas,GILLETT WARD 3,U.S. President,,DEM,Michael Bennet,0,0,0,0,0,0
+Arkansas,PT DELUCE,U.S. President,,DEM,Michael Bennet,0,0,0,0,0,0
+Arkansas,BAYOU METO,U.S. President,,DEM,Michael Bennet,0,0,0,0,0,0
+Arkansas,MORRIS,U.S. President,,DEM,Michael Bennet,0,0,0,0,0,0
+Arkansas,GUM POND,U.S. President,,DEM,Michael Bennet,0,0,0,0,0,0
+Arkansas,BARTON,U.S. President,,DEM,Michael Bennet,0,0,0,0,0,0
+Arkansas,HENTON,U.S. President,,DEM,Michael Bennet,0,0,0,0,0,0
+Arkansas,BREWER,U.S. President,,DEM,Michael Bennet,0,0,0,0,0,0
+Arkansas,GARLAND,U.S. President,,DEM,Michael Bennet,0,0,0,0,0,0
+Arkansas,HUMPHREY WARD 1,U.S. President,,DEM,Michael Bennet,1,0,0,1,0,0
+Arkansas,HUMPHREY WARD 3,U.S. President,,DEM,Michael Bennet,0,0,0,0,0,0
+Arkansas,DEWITT WARD 1,U.S. President,,DEM,Michael Bennet,0,0,0,0,0,0
+Arkansas,DEWITT WARD 2,U.S. President,,DEM,Michael Bennet,0,0,0,0,0,0
+Arkansas,DEWITT WARD 3,U.S. President,,DEM,Michael Bennet,0,0,0,0,0,0
+Arkansas,STUTTGART WARD 1,U.S. President,,DEM,Michael Bennet,0,0,0,0,0,0
+Arkansas,STUTTGART WARD 2,U.S. President,,DEM,Michael Bennet,0,0,0,0,0,0
+Arkansas,STUTTGART WARD 3,U.S. President,,DEM,Michael Bennet,0,0,0,0,0,0
+Arkansas,MCFALL,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0,0
+Arkansas,CROCKETT,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0,0
+Arkansas,KEATON,U.S. President,,DEM,Tulsi Gabbard,1,0,1,0,0,0
+Arkansas,MILL BAYOU,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0,0
+Arkansas,ALMYRA,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0,0
+Arkansas,PRAIRIE,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0,0
+Arkansas,LAGRUE,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0,0
+Arkansas,ST. CHARLES,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0,0
+Arkansas,CHESTER,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0,0
+Arkansas,ARKANSAS,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0,0
+Arkansas,STANLEY,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0,0
+Arkansas,GILLETT WARD 1,U.S. President,,DEM,Tulsi Gabbard,1,0,0,1,0,0
+Arkansas,GILLETT WARD 2,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0,0
+Arkansas,GILLETT WARD 3,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0,0
+Arkansas,PT DELUCE,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0,0
+Arkansas,BAYOU METO,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0,0
+Arkansas,MORRIS,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0,0
+Arkansas,GUM POND,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0,0
+Arkansas,BARTON,U.S. President,,DEM,Tulsi Gabbard,1,0,1,0,0,0
+Arkansas,HENTON,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0,0
+Arkansas,BREWER,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0,0
+Arkansas,GARLAND,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0,0
+Arkansas,HUMPHREY WARD 1,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0,0
+Arkansas,HUMPHREY WARD 3,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0,0
+Arkansas,DEWITT WARD 1,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0,0
+Arkansas,DEWITT WARD 2,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0,0
+Arkansas,DEWITT WARD 3,U.S. President,,DEM,Tulsi Gabbard,1,0,0,1,0,0
+Arkansas,STUTTGART WARD 1,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0,0
+Arkansas,STUTTGART WARD 2,U.S. President,,DEM,Tulsi Gabbard,2,0,0,2,0,0
+Arkansas,STUTTGART WARD 3,U.S. President,,DEM,Tulsi Gabbard,4,0,3,1,0,0
+Arkansas,MCFALL,U.S. President,,DEM,Bernie Sanders,0,0,0,0,0,0
+Arkansas,CROCKETT,U.S. President,,DEM,Bernie Sanders,0,0,0,0,0,0
+Arkansas,KEATON,U.S. President,,DEM,Bernie Sanders,6,0,3,2,1,0
+Arkansas,MILL BAYOU,U.S. President,,DEM,Bernie Sanders,0,0,0,0,0,0
+Arkansas,ALMYRA,U.S. President,,DEM,Bernie Sanders,0,0,0,0,0,0
+Arkansas,PRAIRIE,U.S. President,,DEM,Bernie Sanders,0,0,0,0,0,0
+Arkansas,LAGRUE,U.S. President,,DEM,Bernie Sanders,8,0,0,3,5,0
+Arkansas,ST. CHARLES,U.S. President,,DEM,Bernie Sanders,1,0,0,1,0,0
+Arkansas,CHESTER,U.S. President,,DEM,Bernie Sanders,1,0,0,0,1,0
+Arkansas,ARKANSAS,U.S. President,,DEM,Bernie Sanders,0,0,0,0,0,0
+Arkansas,STANLEY,U.S. President,,DEM,Bernie Sanders,0,0,0,0,0,0
+Arkansas,GILLETT WARD 1,U.S. President,,DEM,Bernie Sanders,7,0,0,7,0,0
+Arkansas,GILLETT WARD 2,U.S. President,,DEM,Bernie Sanders,1,0,0,1,0,0
+Arkansas,GILLETT WARD 3,U.S. President,,DEM,Bernie Sanders,1,0,0,1,0,0
+Arkansas,PT DELUCE,U.S. President,,DEM,Bernie Sanders,0,0,0,0,0,0
+Arkansas,BAYOU METO,U.S. President,,DEM,Bernie Sanders,1,0,0,0,1,0
+Arkansas,MORRIS,U.S. President,,DEM,Bernie Sanders,3,0,1,2,0,0
+Arkansas,GUM POND,U.S. President,,DEM,Bernie Sanders,0,0,0,0,0,0
+Arkansas,BARTON,U.S. President,,DEM,Bernie Sanders,4,0,3,1,0,0
+Arkansas,HENTON,U.S. President,,DEM,Bernie Sanders,1,0,0,1,0,0
+Arkansas,BREWER,U.S. President,,DEM,Bernie Sanders,0,0,0,0,0,0
+Arkansas,GARLAND,U.S. President,,DEM,Bernie Sanders,0,0,0,0,0,0
+Arkansas,HUMPHREY WARD 1,U.S. President,,DEM,Bernie Sanders,1,0,0,1,0,0
+Arkansas,HUMPHREY WARD 3,U.S. President,,DEM,Bernie Sanders,1,0,0,1,0,0
+Arkansas,DEWITT WARD 1,U.S. President,,DEM,Bernie Sanders,5,0,0,4,1,0
+Arkansas,DEWITT WARD 2,U.S. President,,DEM,Bernie Sanders,5,0,0,5,0,0
+Arkansas,DEWITT WARD 3,U.S. President,,DEM,Bernie Sanders,5,0,0,2,3,0
+Arkansas,STUTTGART WARD 1,U.S. President,,DEM,Bernie Sanders,23,0,14,9,0,0
+Arkansas,STUTTGART WARD 2,U.S. President,,DEM,Bernie Sanders,16,0,5,11,0,0
+Arkansas,STUTTGART WARD 3,U.S. President,,DEM,Bernie Sanders,35,0,12,23,0,0
+Arkansas,MCFALL,U.S. President,,DEM,Cory Booker,0,0,0,0,0,0
+Arkansas,CROCKETT,U.S. President,,DEM,Cory Booker,0,0,0,0,0,0
+Arkansas,KEATON,U.S. President,,DEM,Cory Booker,0,0,0,0,0,0
+Arkansas,MILL BAYOU,U.S. President,,DEM,Cory Booker,0,0,0,0,0,0
+Arkansas,ALMYRA,U.S. President,,DEM,Cory Booker,0,0,0,0,0,0
+Arkansas,PRAIRIE,U.S. President,,DEM,Cory Booker,0,0,0,0,0,0
+Arkansas,LAGRUE,U.S. President,,DEM,Cory Booker,0,0,0,0,0,0
+Arkansas,ST. CHARLES,U.S. President,,DEM,Cory Booker,0,0,0,0,0,0
+Arkansas,CHESTER,U.S. President,,DEM,Cory Booker,0,0,0,0,0,0
+Arkansas,ARKANSAS,U.S. President,,DEM,Cory Booker,0,0,0,0,0,0
+Arkansas,STANLEY,U.S. President,,DEM,Cory Booker,0,0,0,0,0,0
+Arkansas,GILLETT WARD 1,U.S. President,,DEM,Cory Booker,0,0,0,0,0,0
+Arkansas,GILLETT WARD 2,U.S. President,,DEM,Cory Booker,0,0,0,0,0,0
+Arkansas,GILLETT WARD 3,U.S. President,,DEM,Cory Booker,0,0,0,0,0,0
+Arkansas,PT DELUCE,U.S. President,,DEM,Cory Booker,0,0,0,0,0,0
+Arkansas,BAYOU METO,U.S. President,,DEM,Cory Booker,0,0,0,0,0,0
+Arkansas,MORRIS,U.S. President,,DEM,Cory Booker,0,0,0,0,0,0
+Arkansas,GUM POND,U.S. President,,DEM,Cory Booker,0,0,0,0,0,0
+Arkansas,BARTON,U.S. President,,DEM,Cory Booker,0,0,0,0,0,0
+Arkansas,HENTON,U.S. President,,DEM,Cory Booker,0,0,0,0,0,0
+Arkansas,BREWER,U.S. President,,DEM,Cory Booker,0,0,0,0,0,0
+Arkansas,GARLAND,U.S. President,,DEM,Cory Booker,0,0,0,0,0,0
+Arkansas,HUMPHREY WARD 1,U.S. President,,DEM,Cory Booker,0,0,0,0,0,0
+Arkansas,HUMPHREY WARD 3,U.S. President,,DEM,Cory Booker,0,0,0,0,0,0
+Arkansas,DEWITT WARD 1,U.S. President,,DEM,Cory Booker,0,0,0,0,0,0
+Arkansas,DEWITT WARD 2,U.S. President,,DEM,Cory Booker,0,0,0,0,0,0
+Arkansas,DEWITT WARD 3,U.S. President,,DEM,Cory Booker,0,0,0,0,0,0
+Arkansas,STUTTGART WARD 1,U.S. President,,DEM,Cory Booker,0,0,0,0,0,0
+Arkansas,STUTTGART WARD 2,U.S. President,,DEM,Cory Booker,0,0,0,0,0,0
+Arkansas,STUTTGART WARD 3,U.S. President,,DEM,Cory Booker,0,0,0,0,0,0
+Arkansas,LAGRUE,State Senate District 25,,DEM,Senator Stephanie Flowers,2,0,0,1,1,0
+Arkansas,CHESTER,State Senate District 25,,DEM,Senator Stephanie Flowers,3,0,0,1,2,0
+Arkansas,ARKANSAS,State Senate District 25,,DEM,Senator Stephanie Flowers,9,1,0,4,4,0
+Arkansas,STANLEY,State Senate District 25,,DEM,Senator Stephanie Flowers,4,0,0,4,0,0
+Arkansas,GILLETT WARD 1,State Senate District 25,,DEM,Senator Stephanie Flowers,14,1,0,13,0,0
+Arkansas,GILLETT WARD 2,State Senate District 25,,DEM,Senator Stephanie Flowers,18,1,0,11,6,0
+Arkansas,GILLETT WARD 3,State Senate District 25,,DEM,Senator Stephanie Flowers,16,0,0,14,2,0
+Arkansas,PT DELUCE,State Senate District 25,,DEM,Senator Stephanie Flowers,6,2,0,2,2,0
+Arkansas,BAYOU METO,State Senate District 25,,DEM,Senator Stephanie Flowers,5,0,2,2,1,0
+Arkansas,BARTON,State Senate District 25,,DEM,Senator Stephanie Flowers,3,0,1,2,0,0
+Arkansas,HENTON,State Senate District 25,,DEM,Senator Stephanie Flowers,10,0,2,7,1,0
+Arkansas,BREWER,State Senate District 25,,DEM,Senator Stephanie Flowers,1,0,0,1,0,0
+Arkansas,HUMPHREY WARD 1,State Senate District 25,,DEM,Senator Stephanie Flowers,13,0,0,13,0,0
+Arkansas,HUMPHREY WARD 3,State Senate District 25,,DEM,Senator Stephanie Flowers,4,0,0,4,0,0
+Arkansas,LAGRUE,State Senate District 25,,DEM,Efrem Elliott,0,0,0,0,0,0
+Arkansas,CHESTER,State Senate District 25,,DEM,Efrem Elliott,0,0,0,0,0,0
+Arkansas,ARKANSAS,State Senate District 25,,DEM,Efrem Elliott,0,0,0,0,0,0
+Arkansas,STANLEY,State Senate District 25,,DEM,Efrem Elliott,1,0,0,1,0,0
+Arkansas,GILLETT WARD 1,State Senate District 25,,DEM,Efrem Elliott,3,0,0,3,0,0
+Arkansas,GILLETT WARD 2,State Senate District 25,,DEM,Efrem Elliott,3,0,0,1,2,0
+Arkansas,GILLETT WARD 3,State Senate District 25,,DEM,Efrem Elliott,4,0,0,2,2,0
+Arkansas,PT DELUCE,State Senate District 25,,DEM,Efrem Elliott,0,0,0,0,0,0
+Arkansas,BAYOU METO,State Senate District 25,,DEM,Efrem Elliott,0,0,0,0,0,0
+Arkansas,BARTON,State Senate District 25,,DEM,Efrem Elliott,6,0,5,1,0,0
+Arkansas,HENTON,State Senate District 25,,DEM,Efrem Elliott,2,0,0,2,0,0
+Arkansas,BREWER,State Senate District 25,,DEM,Efrem Elliott,0,0,0,0,0,0
+Arkansas,HUMPHREY WARD 1,State Senate District 25,,DEM,Efrem Elliott,1,0,0,1,0,0
+Arkansas,HUMPHREY WARD 3,State Senate District 25,,DEM,Efrem Elliott,0,0,0,0,0,0
+Arkansas,MCFALL,U.S. President,,REP,Donald J. Trump,8,0,4,3,1,0
+Arkansas,CROCKETT,U.S. President,,REP,Donald J. Trump,8,0,0,5,3,0
+Arkansas,KEATON,U.S. President,,REP,Donald J. Trump,49,0,11,22,16,0
+Arkansas,MILL BAYOU,U.S. President,,REP,Donald J. Trump,17,0,2,14,1,0
+Arkansas,ALMYRA,U.S. President,,REP,Donald J. Trump,25,0,2,23,0,0
+Arkansas,PRAIRIE,U.S. President,,REP,Donald J. Trump,51,0,0,26,25,0
+Arkansas,LAGRUE,U.S. President,,REP,Donald J. Trump,131,0,1,71,59,0
+Arkansas,ST. CHARLES,U.S. President,,REP,Donald J. Trump,34,0,0,31,3,0
+Arkansas,CHESTER,U.S. President,,REP,Donald J. Trump,23,0,0,14,9,0
+Arkansas,ARKANSAS,U.S. President,,REP,Donald J. Trump,10,0,0,6,4,0
+Arkansas,STANLEY,U.S. President,,REP,Donald J. Trump,2,0,0,2,0,0
+Arkansas,GILLETT WARD 1,U.S. President,,REP,Donald J. Trump,16,0,0,14,2,0
+Arkansas,GILLETT WARD 2,U.S. President,,REP,Donald J. Trump,33,0,0,29,4,0
+Arkansas,GILLETT WARD 3,U.S. President,,REP,Donald J. Trump,11,0,0,11,0,0
+Arkansas,PT DELUCE,U.S. President,,REP,Donald J. Trump,25,0,0,11,14,0
+Arkansas,BAYOU METO,U.S. President,,REP,Donald J. Trump,16,0,0,10,6,0
+Arkansas,MORRIS,U.S. President,,REP,Donald J. Trump,23,0,5,18,0,0
+Arkansas,GUM POND,U.S. President,,REP,Donald J. Trump,24,0,10,14,0,0
+Arkansas,BARTON,U.S. President,,REP,Donald J. Trump,13,0,2,10,1,0
+Arkansas,HENTON,U.S. President,,REP,Donald J. Trump,14,0,4,10,0,0
+Arkansas,BREWER,U.S. President,,REP,Donald J. Trump,3,0,0,3,0,0
+Arkansas,GARLAND,U.S. President,,REP,Donald J. Trump,21,1,5,12,3,0
+Arkansas,HUMPHREY WARD 1,U.S. President,,REP,Donald J. Trump,2,0,0,1,1,0
+Arkansas,HUMPHREY WARD 3,U.S. President,,REP,Donald J. Trump,3,0,1,2,0,0
+Arkansas,DEWITT WARD 1,U.S. President,,REP,Donald J. Trump,14,0,0,6,8,0
+Arkansas,DEWITT WARD 2,U.S. President,,REP,Donald J. Trump,61,1,4,23,32,1
+Arkansas,DEWITT WARD 3,U.S. President,,REP,Donald J. Trump,110,0,0,58,52,0
+Arkansas,STUTTGART WARD 1,U.S. President,,REP,Donald J. Trump,46,0,25,21,0,0
+Arkansas,STUTTGART WARD 2,U.S. President,,REP,Donald J. Trump,155,2,56,95,2,0
+Arkansas,STUTTGART WARD 3,U.S. President,,REP,Donald J. Trump,164,0,67,97,0,0
+Arkansas,MCFALL,U.S. President,,REP,Bill Weld,0,0,0,0,0,0
+Arkansas,CROCKETT,U.S. President,,REP,Bill Weld,1,0,0,0,1,0
+Arkansas,KEATON,U.S. President,,REP,Bill Weld,0,0,0,0,0,0
+Arkansas,MILL BAYOU,U.S. President,,REP,Bill Weld,1,0,0,1,0,0
+Arkansas,ALMYRA,U.S. President,,REP,Bill Weld,1,0,0,1,0,0
+Arkansas,PRAIRIE,U.S. President,,REP,Bill Weld,0,0,0,0,0,0
+Arkansas,LAGRUE,U.S. President,,REP,Bill Weld,0,0,0,0,0,0
+Arkansas,ST. CHARLES,U.S. President,,REP,Bill Weld,0,0,0,0,0,0
+Arkansas,CHESTER,U.S. President,,REP,Bill Weld,0,0,0,0,0,0
+Arkansas,ARKANSAS,U.S. President,,REP,Bill Weld,0,0,0,0,0,0
+Arkansas,STANLEY,U.S. President,,REP,Bill Weld,0,0,0,0,0,0
+Arkansas,GILLETT WARD 1,U.S. President,,REP,Bill Weld,0,0,0,0,0,0
+Arkansas,GILLETT WARD 2,U.S. President,,REP,Bill Weld,0,0,0,0,0,0
+Arkansas,GILLETT WARD 3,U.S. President,,REP,Bill Weld,0,0,0,0,0,0
+Arkansas,PT DELUCE,U.S. President,,REP,Bill Weld,0,0,0,0,0,0
+Arkansas,BAYOU METO,U.S. President,,REP,Bill Weld,0,0,0,0,0,0
+Arkansas,MORRIS,U.S. President,,REP,Bill Weld,1,0,0,1,0,0
+Arkansas,GUM POND,U.S. President,,REP,Bill Weld,0,0,0,0,0,0
+Arkansas,BARTON,U.S. President,,REP,Bill Weld,0,0,0,0,0,0
+Arkansas,HENTON,U.S. President,,REP,Bill Weld,0,0,0,0,0,0
+Arkansas,BREWER,U.S. President,,REP,Bill Weld,0,0,0,0,0,0
+Arkansas,GARLAND,U.S. President,,REP,Bill Weld,0,0,0,0,0,0
+Arkansas,HUMPHREY WARD 1,U.S. President,,REP,Bill Weld,0,0,0,0,0,0
+Arkansas,HUMPHREY WARD 3,U.S. President,,REP,Bill Weld,1,0,0,1,0,0
+Arkansas,DEWITT WARD 1,U.S. President,,REP,Bill Weld,0,0,0,0,0,0
+Arkansas,DEWITT WARD 2,U.S. President,,REP,Bill Weld,0,0,0,0,0,0
+Arkansas,DEWITT WARD 3,U.S. President,,REP,Bill Weld,0,0,0,0,0,0
+Arkansas,STUTTGART WARD 1,U.S. President,,REP,Bill Weld,0,0,0,0,0,0
+Arkansas,STUTTGART WARD 2,U.S. President,,REP,Bill Weld,1,0,1,0,0,0
+Arkansas,STUTTGART WARD 3,U.S. President,,REP,Bill Weld,1,0,0,1,0,0
+Arkansas,MCFALL,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0,0
+Arkansas,CROCKETT,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0,0
+Arkansas,KEATON,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0,0
+Arkansas,MILL BAYOU,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0,0
+Arkansas,ALMYRA,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0,0
+Arkansas,PRAIRIE,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0,0
+Arkansas,LAGRUE,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0,0
+Arkansas,ST. CHARLES,U.S. President,,REP,Roque 'Rocky' De La Fuente,1,0,0,1,0,0
+Arkansas,CHESTER,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0,0
+Arkansas,ARKANSAS,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0,0
+Arkansas,STANLEY,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0,0
+Arkansas,GILLETT WARD 1,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0,0
+Arkansas,GILLETT WARD 2,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0,0
+Arkansas,GILLETT WARD 3,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0,0
+Arkansas,PT DELUCE,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0,0
+Arkansas,BAYOU METO,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0,0
+Arkansas,MORRIS,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0,0
+Arkansas,GUM POND,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0,0
+Arkansas,BARTON,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0,0
+Arkansas,HENTON,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0,0
+Arkansas,BREWER,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0,0
+Arkansas,GARLAND,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0,0
+Arkansas,HUMPHREY WARD 1,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0,0
+Arkansas,HUMPHREY WARD 3,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0,0
+Arkansas,DEWITT WARD 1,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0,0
+Arkansas,DEWITT WARD 2,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0,0
+Arkansas,DEWITT WARD 3,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0,0
+Arkansas,STUTTGART WARD 1,U.S. President,,REP,Roque 'Rocky' De La Fuente,2,0,2,0,0,0
+Arkansas,STUTTGART WARD 2,U.S. President,,REP,Roque 'Rocky' De La Fuente,2,0,0,2,0,0
+Arkansas,STUTTGART WARD 3,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0,0
+Arkansas,STUTTGART WARD 2,Justice of the Peace Dst 8,,REP,Brandee Weaver,22,0,6,16,0,0
+Arkansas,STUTTGART WARD 3,Justice of the Peace Dst 8,,REP,Brandee Weaver,35,0,12,23,0,0
+Arkansas,STUTTGART WARD 2,Justice of the Peace Dst 8,,REP,Cody Keaton,23,1,13,9,0,0
+Arkansas,STUTTGART WARD 3,Justice of the Peace Dst 8,,REP,Cody Keaton,24,0,9,15,0,0
+Arkansas,MCFALL,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,7,0,3,3,1,0
+Arkansas,CROCKETT,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,5,0,0,2,3,0
+Arkansas,KEATON,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,53,0,19,22,12,0
+Arkansas,MILL BAYOU,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,16,0,2,14,0,0
+Arkansas,ALMYRA,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,20,0,1,19,0,0
+Arkansas,PRAIRIE,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,34,0,0,22,12,0
+Arkansas,LAGRUE,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,91,0,0,57,34,0
+Arkansas,ST. CHARLES,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,23,0,0,22,1,0
+Arkansas,CHESTER,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,17,0,0,9,8,0
+Arkansas,ARKANSAS,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,13,0,0,8,5,0
+Arkansas,STANLEY,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,4,0,0,4,0,0
+Arkansas,GILLETT WARD 1,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,22,1,0,20,1,0
+Arkansas,GILLETT WARD 2,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,38,0,0,30,8,0
+Arkansas,GILLETT WARD 3,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,19,0,0,18,1,0
+Arkansas,PT DELUCE,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,19,2,0,9,8,0
+Arkansas,BAYOU METO,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,16,0,0,8,8,0
+Arkansas,MORRIS,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,16,0,4,12,0,0
+Arkansas,GUM POND,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,17,0,11,6,0,0
+Arkansas,BARTON,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,10,0,4,6,0,0
+Arkansas,HENTON,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,14,0,2,11,1,0
+Arkansas,BREWER,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,0,0,0,0,0,0
+Arkansas,GARLAND,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,13,1,3,6,3,0
+Arkansas,HUMPHREY WARD 1,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,9,0,0,9,0,0
+Arkansas,HUMPHREY WARD 3,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,5,0,0,5,0,0
+Arkansas,DEWITT WARD 1,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,38,0,0,22,16,0
+Arkansas,DEWITT WARD 2,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,44,1,1,18,23,1
+Arkansas,DEWITT WARD 3,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,82,0,0,46,36,0
+Arkansas,STUTTGART WARD 1,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,140,1,79,60,0,0
+Arkansas,STUTTGART WARD 2,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,161,1,67,91,2,0
+Arkansas,STUTTGART WARD 3,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,173,1,77,95,0,0
+Arkansas,MCFALL,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,1,0,1,0,0,0
+Arkansas,CROCKETT,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,9,0,0,5,4,0
+Arkansas,KEATON,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,37,0,12,15,10,0
+Arkansas,MILL BAYOU,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,10,0,0,10,0,0
+Arkansas,ALMYRA,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,10,0,1,9,0,0
+Arkansas,PRAIRIE,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,32,0,0,16,16,0
+Arkansas,LAGRUE,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,66,0,0,35,31,0
+Arkansas,ST. CHARLES,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,16,1,0,14,1,0
+Arkansas,CHESTER,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,7,0,0,6,1,0
+Arkansas,ARKANSAS,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,6,1,0,2,3,0
+Arkansas,STANLEY,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,3,0,0,3,0,0
+Arkansas,GILLETT WARD 1,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,11,0,0,10,1,0
+Arkansas,GILLETT WARD 2,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,16,1,0,11,4,0
+Arkansas,GILLETT WARD 3,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,12,0,0,8,4,0
+Arkansas,PT DELUCE,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,11,0,0,4,7,0
+Arkansas,BAYOU METO,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,7,0,2,4,1,0
+Arkansas,MORRIS,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,16,0,4,12,0,0
+Arkansas,GUM POND,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,16,0,8,8,0,0
+Arkansas,BARTON,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,11,0,3,7,1,0
+Arkansas,HENTON,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,11,0,4,7,0,0
+Arkansas,BREWER,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,4,0,0,4,0,0
+Arkansas,GARLAND,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,12,0,2,6,4,0
+Arkansas,HUMPHREY WARD 1,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,8,0,0,7,1,0
+Arkansas,HUMPHREY WARD 3,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,3,0,1,2,0,0
+Arkansas,DEWITT WARD 1,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,18,0,0,11,7,0
+Arkansas,DEWITT WARD 2,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,43,0,3,24,16,0
+Arkansas,DEWITT WARD 3,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,59,0,1,30,28,0
+Arkansas,STUTTGART WARD 1,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,49,0,18,31,0,0
+Arkansas,STUTTGART WARD 2,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,133,1,51,80,1,0
+Arkansas,STUTTGART WARD 3,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,157,0,70,87,0,0

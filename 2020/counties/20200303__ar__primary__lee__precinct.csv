@@ -1,0 +1,244 @@
+county,precinct,office,district,party,candidate,votes,absentee,election_day,early_vote,provisionals
+Lee,JP01,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Lee,JP02,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Lee,JP03,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Lee,JP04,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Lee,JP05,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Lee,JP06,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Lee,JP07,U.S. President,,DEM,Kamala Harris,1,0,0,1,0
+Lee,JP08,U.S. President,,DEM,Kamala Harris,1,0,0,1,0
+Lee,JP09,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Lee,JP01,U.S. President,,DEM,Tom Steyer,2,0,1,1,0
+Lee,JP02,U.S. President,,DEM,Tom Steyer,2,0,1,1,0
+Lee,JP03,U.S. President,,DEM,Tom Steyer,2,0,0,2,0
+Lee,JP04,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Lee,JP05,U.S. President,,DEM,Tom Steyer,2,0,0,2,0
+Lee,JP06,U.S. President,,DEM,Tom Steyer,2,0,2,0,0
+Lee,JP07,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Lee,JP08,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Lee,JP09,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Lee,JP01,U.S. President,,DEM,Joseph R. Biden,36,0,31,5,0
+Lee,JP02,U.S. President,,DEM,Joseph R. Biden,83,11,57,15,0
+Lee,JP03,U.S. President,,DEM,Joseph R. Biden,60,5,28,27,0
+Lee,JP04,U.S. President,,DEM,Joseph R. Biden,33,0,32,1,0
+Lee,JP05,U.S. President,,DEM,Joseph R. Biden,17,0,14,3,0
+Lee,JP06,U.S. President,,DEM,Joseph R. Biden,61,0,38,23,0
+Lee,JP07,U.S. President,,DEM,Joseph R. Biden,71,1,44,26,0
+Lee,JP08,U.S. President,,DEM,Joseph R. Biden,32,0,18,14,0
+Lee,JP09,U.S. President,,DEM,Joseph R. Biden,27,0,17,10,0
+Lee,JP01,U.S. President,,DEM,Marianne Williamson,1,0,1,0,0
+Lee,JP02,U.S. President,,DEM,Marianne Williamson,1,0,1,0,0
+Lee,JP03,U.S. President,,DEM,Marianne Williamson,1,0,0,1,0
+Lee,JP04,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Lee,JP05,U.S. President,,DEM,Marianne Williamson,1,0,1,0,0
+Lee,JP06,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Lee,JP07,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Lee,JP08,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Lee,JP09,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Lee,JP01,U.S. President,,DEM,Bernie Sanders,10,0,9,1,0
+Lee,JP02,U.S. President,,DEM,Bernie Sanders,36,0,27,9,0
+Lee,JP03,U.S. President,,DEM,Bernie Sanders,14,0,5,9,0
+Lee,JP04,U.S. President,,DEM,Bernie Sanders,4,0,3,1,0
+Lee,JP05,U.S. President,,DEM,Bernie Sanders,7,0,3,4,0
+Lee,JP06,U.S. President,,DEM,Bernie Sanders,13,1,9,3,0
+Lee,JP07,U.S. President,,DEM,Bernie Sanders,11,0,4,7,0
+Lee,JP08,U.S. President,,DEM,Bernie Sanders,9,0,3,6,0
+Lee,JP09,U.S. President,,DEM,Bernie Sanders,8,1,4,3,0
+Lee,JP01,U.S. President,,DEM,Tulsi Gabbard,1,0,1,0,0
+Lee,JP02,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Lee,JP03,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Lee,JP04,U.S. President,,DEM,Tulsi Gabbard,4,0,1,3,0
+Lee,JP05,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Lee,JP06,U.S. President,,DEM,Tulsi Gabbard,2,1,0,1,0
+Lee,JP07,U.S. President,,DEM,Tulsi Gabbard,1,0,0,1,0
+Lee,JP08,U.S. President,,DEM,Tulsi Gabbard,1,0,1,0,0
+Lee,JP09,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Lee,JP01,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Lee,JP02,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Lee,JP03,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Lee,JP04,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Lee,JP05,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Lee,JP06,U.S. President,,DEM,Julian Castro,1,0,1,0,0
+Lee,JP07,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Lee,JP08,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Lee,JP09,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Lee,JP01,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Lee,JP02,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Lee,JP03,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Lee,JP04,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Lee,JP05,U.S. President,,DEM,Cory Booker,1,0,0,1,0
+Lee,JP06,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Lee,JP07,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Lee,JP08,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Lee,JP09,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Lee,JP01,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Lee,JP02,U.S. President,,DEM,John K. Delaney,1,0,1,0,0
+Lee,JP03,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Lee,JP04,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Lee,JP05,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Lee,JP06,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Lee,JP07,U.S. President,,DEM,John K. Delaney,1,0,0,1,0
+Lee,JP08,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Lee,JP09,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Lee,JP01,U.S. President,,DEM,Elizabeth Warren,0,0,0,0,0
+Lee,JP02,U.S. President,,DEM,Elizabeth Warren,2,0,1,1,0
+Lee,JP03,U.S. President,,DEM,Elizabeth Warren,0,0,0,0,0
+Lee,JP04,U.S. President,,DEM,Elizabeth Warren,2,0,2,0,0
+Lee,JP05,U.S. President,,DEM,Elizabeth Warren,0,0,0,0,0
+Lee,JP06,U.S. President,,DEM,Elizabeth Warren,3,0,2,1,0
+Lee,JP07,U.S. President,,DEM,Elizabeth Warren,2,0,1,1,0
+Lee,JP08,U.S. President,,DEM,Elizabeth Warren,1,0,0,1,0
+Lee,JP09,U.S. President,,DEM,Elizabeth Warren,2,0,1,1,0
+Lee,JP01,U.S. President,,DEM,Mosie Boyd,1,0,1,0,0
+Lee,JP02,U.S. President,,DEM,Mosie Boyd,1,0,0,1,0
+Lee,JP03,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Lee,JP04,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Lee,JP05,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Lee,JP06,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Lee,JP07,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Lee,JP08,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Lee,JP09,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Lee,JP01,U.S. President,,DEM,Michael Bennet,2,0,2,0,0
+Lee,JP02,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Lee,JP03,U.S. President,,DEM,Michael Bennet,3,0,1,2,0
+Lee,JP04,U.S. President,,DEM,Michael Bennet,4,0,2,2,0
+Lee,JP05,U.S. President,,DEM,Michael Bennet,5,0,3,2,0
+Lee,JP06,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Lee,JP07,U.S. President,,DEM,Michael Bennet,5,0,0,5,0
+Lee,JP08,U.S. President,,DEM,Michael Bennet,2,0,0,2,0
+Lee,JP09,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Lee,JP01,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Lee,JP02,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Lee,JP03,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Lee,JP04,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Lee,JP05,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Lee,JP06,U.S. President,,DEM,Andrew Yang,2,0,0,2,0
+Lee,JP07,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Lee,JP08,U.S. President,,DEM,Andrew Yang,2,0,2,0,0
+Lee,JP09,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Lee,JP01,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Lee,JP02,U.S. President,,DEM,Pete Buttigieg,3,0,1,2,0
+Lee,JP03,U.S. President,,DEM,Pete Buttigieg,1,0,0,1,0
+Lee,JP04,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Lee,JP05,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Lee,JP06,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Lee,JP07,U.S. President,,DEM,Pete Buttigieg,1,0,0,1,0
+Lee,JP08,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Lee,JP09,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Lee,JP01,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Lee,JP02,U.S. President,,DEM,Joe Sestak,1,0,1,0,0
+Lee,JP03,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Lee,JP04,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Lee,JP05,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Lee,JP06,U.S. President,,DEM,Joe Sestak,1,0,1,0,0
+Lee,JP07,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Lee,JP08,U.S. President,,DEM,Joe Sestak,1,0,1,0,0
+Lee,JP09,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Lee,JP01,U.S. President,,DEM,Michael R. Bloomberg,24,0,21,3,0
+Lee,JP02,U.S. President,,DEM,Michael R. Bloomberg,15,2,9,4,0
+Lee,JP03,U.S. President,,DEM,Michael R. Bloomberg,19,0,7,12,0
+Lee,JP04,U.S. President,,DEM,Michael R. Bloomberg,3,0,3,0,0
+Lee,JP05,U.S. President,,DEM,Michael R. Bloomberg,6,0,2,4,0
+Lee,JP06,U.S. President,,DEM,Michael R. Bloomberg,18,0,6,12,0
+Lee,JP07,U.S. President,,DEM,Michael R. Bloomberg,29,1,7,21,0
+Lee,JP08,U.S. President,,DEM,Michael R. Bloomberg,15,0,2,13,0
+Lee,JP09,U.S. President,,DEM,Michael R. Bloomberg,13,0,2,11,0
+Lee,JP01,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Lee,JP02,U.S. President,,DEM,Steve Bullock,2,1,1,0,0
+Lee,JP03,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Lee,JP04,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Lee,JP05,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Lee,JP06,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Lee,JP07,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Lee,JP08,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Lee,JP09,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Lee,JP01,U.S. President,,DEM,Amy Klobuchar,2,0,2,0,0
+Lee,JP02,U.S. President,,DEM,Amy Klobuchar,4,0,3,1,0
+Lee,JP03,U.S. President,,DEM,Amy Klobuchar,8,0,3,5,0
+Lee,JP04,U.S. President,,DEM,Amy Klobuchar,1,0,0,1,0
+Lee,JP05,U.S. President,,DEM,Amy Klobuchar,3,0,1,2,0
+Lee,JP06,U.S. President,,DEM,Amy Klobuchar,2,0,0,2,0
+Lee,JP07,U.S. President,,DEM,Amy Klobuchar,2,0,1,1,0
+Lee,JP08,U.S. President,,DEM,Amy Klobuchar,3,0,0,3,0
+Lee,JP09,U.S. President,,DEM,Amy Klobuchar,1,0,1,0,0
+Lee,JP02,JOP,2,DEM,Matthew Oxner,78,1,56,21,0
+Lee,JP02,JOP,2,DEM,Victoria Perry,82,13,51,18,0
+Lee,JP03,Lee Co Constable, Dist Three DISTRICT THREE,DEM,Dustin Herron,36,2,16,18,0
+Lee,JP03,Lee Co Constable, Dist Three DISTRICT THREE,DEM,Stanley Barnes,16,0,14,2,0
+Lee,JP03,Lee Co Constable, Dist Three DISTRICT THREE,DEM,Evelyn Shackleford,62,5,16,41,0
+Lee,JP01,U.S. President,,REP,Bill Weld,1,1,0,0,0
+Lee,JP02,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Lee,JP03,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Lee,JP04,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Lee,JP05,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Lee,JP06,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Lee,JP07,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Lee,JP08,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Lee,JP09,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Lee,JP01,U.S. President,,REP,Donald J. Trump,65,2,59,4,0
+Lee,JP02,U.S. President,,REP,Donald J. Trump,28,0,19,9,0
+Lee,JP03,U.S. President,,REP,Donald J. Trump,20,2,11,7,0
+Lee,JP04,U.S. President,,REP,Donald J. Trump,40,0,18,22,0
+Lee,JP05,U.S. President,,REP,Donald J. Trump,50,1,16,33,0
+Lee,JP06,U.S. President,,REP,Donald J. Trump,29,1,16,12,0
+Lee,JP07,U.S. President,,REP,Donald J. Trump,29,2,8,19,0
+Lee,JP08,U.S. President,,REP,Donald J. Trump,27,0,11,16,0
+Lee,JP09,U.S. President,,REP,Donald J. Trump,1,0,0,1,0
+Lee,JP01,U.S. President,,REP,Roque 'Rocky' De La Fuente,1,0,0,1,0
+Lee,JP02,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Lee,JP03,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Lee,JP04,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Lee,JP05,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Lee,JP06,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Lee,JP07,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Lee,JP08,U.S. President,,REP,Roque 'Rocky' De La Fuente,1,0,0,1,0
+Lee,JP09,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Lee,JP01,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,92,1,79,12,0
+Lee,JP02,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,101,9,64,28,0
+Lee,JP03,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,81,7,29,45,0
+Lee,JP04,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,55,0,36,19,0
+Lee,JP05,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,55,1,22,32,0
+Lee,JP06,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,81,2,45,34,0
+Lee,JP07,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,87,3,46,38,0
+Lee,JP08,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,64,0,25,39,0
+Lee,JP09,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,41,1,20,20,0
+Lee,JP01,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,53,3,47,3,0
+Lee,JP02,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,75,2,57,16,0
+Lee,JP03,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,48,2,24,22,0
+Lee,JP04,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,38,0,24,14,0
+Lee,JP05,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,34,0,16,18,0
+Lee,JP06,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,47,1,28,18,0
+Lee,JP07,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,64,2,19,43,0
+Lee,JP08,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,29,0,12,17,0
+Lee,JP09,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,2,0,2,0,0
+Lee,JP01,Circuit Judge,"1, Division 3, Subdistrict 1.2",,Gary J. Mitchusson,21,0,19,2,0
+Lee,JP02,Circuit Judge,"1, Division 3, Subdistrict 1.2",,Gary J. Mitchusson,62,10,41,11,0
+Lee,JP01,Circuit Judge,"1, Division 3, Subdistrict 1.2",,Judge Christopher Morledge,25,0,23,2,0
+Lee,JP02,Circuit Judge,"1, Division 3, Subdistrict 1.2",,Judge Christopher Morledge,85,1,58,26,0
+Lee,JP01,Circuit Judge,"1, Division 5, At Large",,Kathie Hess,38,0,35,3,0
+Lee,JP02,Circuit Judge,"1, Division 5, At Large",,Kathie Hess,40,1,31,8,0
+Lee,JP03,Circuit Judge,"1, Division 5, At Large",,Kathie Hess,44,2,23,19,0
+Lee,JP04,Circuit Judge,"1, Division 5, At Large",,Kathie Hess,33,0,21,12,0
+Lee,JP05,Circuit Judge,"1, Division 5, At Large",,Kathie Hess,29,0,10,19,0
+Lee,JP06,Circuit Judge,"1, Division 5, At Large",,Kathie Hess,36,0,21,15,0
+Lee,JP07,Circuit Judge,"1, Division 5, At Large",,Kathie Hess,50,3,26,21,0
+Lee,JP08,Circuit Judge,"1, Division 5, At Large",,Kathie Hess,31,0,14,17,0
+Lee,JP09,Circuit Judge,"1, Division 5, At Large",,Kathie Hess,13,0,6,7,0
+Lee,JP01,Circuit Judge,"1, Division 5, At Large",,Judge David Carruth,83,4,73,6,0
+Lee,JP02,Circuit Judge,"1, Division 5, At Large",,Judge David Carruth,93,12,57,24,0
+Lee,JP03,Circuit Judge,"1, Division 5, At Large",,Judge David Carruth,43,2,18,23,0
+Lee,JP04,Circuit Judge,"1, Division 5, At Large",,Judge David Carruth,40,0,19,21,0
+Lee,JP05,Circuit Judge,"1, Division 5, At Large",,Judge David Carruth,51,1,24,26,0
+Lee,JP06,Circuit Judge,"1, Division 5, At Large",,Judge David Carruth,47,2,25,20,0
+Lee,JP07,Circuit Judge,"1, Division 5, At Large",,Judge David Carruth,52,2,17,33,0
+Lee,JP08,Circuit Judge,"1, Division 5, At Large",,Judge David Carruth,30,0,13,17,0
+Lee,JP09,Circuit Judge,"1, Division 5, At Large",,Judge David Carruth,7,0,4,3,0
+Lee,JP01,Circuit Judge,"1, Division 5, At Large",,Andrew Coleman,30,0,24,6,0
+Lee,JP02,Circuit Judge,"1, Division 5, At Large",,Andrew Coleman,52,1,36,15,0
+Lee,JP03,Circuit Judge,"1, Division 5, At Large",,Andrew Coleman,47,5,16,26,0
+Lee,JP04,Circuit Judge,"1, Division 5, At Large",,Andrew Coleman,22,0,21,1,0
+Lee,JP05,Circuit Judge,"1, Division 5, At Large",,Andrew Coleman,12,0,6,6,0
+Lee,JP06,Circuit Judge,"1, Division 5, At Large",,Andrew Coleman,54,1,30,23,0
+Lee,JP07,Circuit Judge,"1, Division 5, At Large",,Andrew Coleman,56,0,26,30,0
+Lee,JP08,Circuit Judge,"1, Division 5, At Large",,Andrew Coleman,30,0,10,20,0
+Lee,JP09,Circuit Judge,"1, Division 5, At Large",,Andrew Coleman,30,1,14,15,0

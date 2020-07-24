@@ -1,0 +1,415 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_vote,election_day
+St Francis,Hughes,U.S. President,,Dem,Steve Bullock,1,0,1,0
+St Francis,Heth/Blackfish,U.S. President,,Dem,Steve Bullock,0,0,0,0
+St Francis,Widener,U.S. President,,Dem,Steve Bullock,1,0,1,0
+St Francis,Madison,U.S. President,,Dem,Steve Bullock,2,1,1,0
+St Francis,Bonair,U.S. President,,Dem,Steve Bullock,0,0,0,0
+St Francis,Newcastle/Parrott,U.S. President,,Dem,Steve Bullock,3,1,2,0
+St Francis,Colt,U.S. President,,Dem,Steve Bullock,1,0,1,0
+St Francis,Caldwell,U.S. President,,Dem,Steve Bullock,0,0,0,0
+St Francis,Forrest City Country West,U.S. President,,Dem,Steve Bullock,0,0,0,0
+St Francis,Palestine,U.S. President,,Dem,Steve Bullock,1,0,1,0
+St Francis,Wheatley,U.S. President,,Dem,Steve Bullock,1,0,1,0
+St Francis,FC Ward 1,U.S. President,,Dem,Steve Bullock,0,0,0,0
+St Francis,FC Ward 2,U.S. President,,Dem,Steve Bullock,5,0,4,1
+St Francis,FC Ward 3,U.S. President,,Dem,Steve Bullock,4,1,3,0
+St Francis,FC Ward 4,U.S. President,,Dem,Steve Bullock,1,1,0,0
+St Francis,Hughes,U.S. President,,Dem,John K. Delaney,5,0,5,0
+St Francis,Heth/Blackfish,U.S. President,,Dem,John K. Delaney,0,0,0,0
+St Francis,Widener,U.S. President,,Dem,John K. Delaney,2,0,2,0
+St Francis,Madison,U.S. President,,Dem,John K. Delaney,0,0,0,0
+St Francis,Bonair,U.S. President,,Dem,John K. Delaney,1,1,0,0
+St Francis,Newcastle/Parrott,U.S. President,,Dem,John K. Delaney,3,2,1,0
+St Francis,Colt,U.S. President,,Dem,John K. Delaney,1,0,1,0
+St Francis,Caldwell,U.S. President,,Dem,John K. Delaney,0,0,0,0
+St Francis,Forrest City Country West,U.S. President,,Dem,John K. Delaney,0,0,0,0
+St Francis,Palestine,U.S. President,,Dem,John K. Delaney,2,0,2,0
+St Francis,Wheatley,U.S. President,,Dem,John K. Delaney,0,0,0,0
+St Francis,FC Ward 1,U.S. President,,Dem,John K. Delaney,2,0,2,0
+St Francis,FC Ward 2,U.S. President,,Dem,John K. Delaney,2,2,0,0
+St Francis,FC Ward 3,U.S. President,,Dem,John K. Delaney,0,0,0,0
+St Francis,FC Ward 4,U.S. President,,Dem,John K. Delaney,1,0,1,0
+St Francis,Hughes,U.S. President,,Dem,Joseph R. Biden,46,5,40,1
+St Francis,Heth/Blackfish,U.S. President,,Dem,Joseph R. Biden,21,2,19,0
+St Francis,Widener,U.S. President,,Dem,Joseph R. Biden,27,3,24,0
+St Francis,Madison,U.S. President,,Dem,Joseph R. Biden,89,19,67,3
+St Francis,Bonair,U.S. President,,Dem,Joseph R. Biden,36,15,21,0
+St Francis,Newcastle/Parrott,U.S. President,,Dem,Joseph R. Biden,62,28,34,0
+St Francis,Colt,U.S. President,,Dem,Joseph R. Biden,60,10,49,1
+St Francis,Caldwell,U.S. President,,Dem,Joseph R. Biden,24,5,19,0
+St Francis,Forrest City Country West,U.S. President,,Dem,Joseph R. Biden,23,11,8,4
+St Francis,Palestine,U.S. President,,Dem,Joseph R. Biden,65,14,48,3
+St Francis,Wheatley,U.S. President,,Dem,Joseph R. Biden,16,2,14,0
+St Francis,FC Ward 1,U.S. President,,Dem,Joseph R. Biden,180,73,93,14
+St Francis,FC Ward 2,U.S. President,,Dem,Joseph R. Biden,211,68,117,26
+St Francis,FC Ward 3,U.S. President,,Dem,Joseph R. Biden,192,62,116,14
+St Francis,FC Ward 4,U.S. President,,Dem,Joseph R. Biden,130,44,76,10
+St Francis,Hughes,U.S. President,,Dem,Michael R. Bloomberg,10,3,7,0
+St Francis,Heth/Blackfish,U.S. President,,Dem,Michael R. Bloomberg,9,2,7,0
+St Francis,Widener,U.S. President,,Dem,Michael R. Bloomberg,12,1,11,0
+St Francis,Madison,U.S. President,,Dem,Michael R. Bloomberg,12,4,8,0
+St Francis,Bonair,U.S. President,,Dem,Michael R. Bloomberg,18,5,11,2
+St Francis,Newcastle/Parrott,U.S. President,,Dem,Michael R. Bloomberg,32,18,13,1
+St Francis,Colt,U.S. President,,Dem,Michael R. Bloomberg,9,6,3,0
+St Francis,Caldwell,U.S. President,,Dem,Michael R. Bloomberg,9,2,7,0
+St Francis,Forrest City Country West,U.S. President,,Dem,Michael R. Bloomberg,7,4,3,0
+St Francis,Palestine,U.S. President,,Dem,Michael R. Bloomberg,21,11,9,1
+St Francis,Wheatley,U.S. President,,Dem,Michael R. Bloomberg,6,3,3,0
+St Francis,FC Ward 1,U.S. President,,Dem,Michael R. Bloomberg,53,36,10,7
+St Francis,FC Ward 2,U.S. President,,Dem,Michael R. Bloomberg,65,44,15,6
+St Francis,FC Ward 3,U.S. President,,Dem,Michael R. Bloomberg,54,36,17,1
+St Francis,FC Ward 4,U.S. President,,Dem,Michael R. Bloomberg,51,35,15,1
+St Francis,Hughes,U.S. President,,Dem,Elizabeth Warren,2,0,2,0
+St Francis,Heth/Blackfish,U.S. President,,Dem,Elizabeth Warren,1,0,1,0
+St Francis,Widener,U.S. President,,Dem,Elizabeth Warren,0,0,0,0
+St Francis,Madison,U.S. President,,Dem,Elizabeth Warren,7,0,7,0
+St Francis,Bonair,U.S. President,,Dem,Elizabeth Warren,5,1,4,0
+St Francis,Newcastle/Parrott,U.S. President,,Dem,Elizabeth Warren,10,3,7,0
+St Francis,Colt,U.S. President,,Dem,Elizabeth Warren,2,1,1,0
+St Francis,Caldwell,U.S. President,,Dem,Elizabeth Warren,2,0,2,0
+St Francis,Forrest City Country West,U.S. President,,Dem,Elizabeth Warren,2,1,1,0
+St Francis,Palestine,U.S. President,,Dem,Elizabeth Warren,4,0,4,0
+St Francis,Wheatley,U.S. President,,Dem,Elizabeth Warren,3,0,3,0
+St Francis,FC Ward 1,U.S. President,,Dem,Elizabeth Warren,7,7,0,0
+St Francis,FC Ward 2,U.S. President,,Dem,Elizabeth Warren,16,10,5,1
+St Francis,FC Ward 3,U.S. President,,Dem,Elizabeth Warren,13,2,11,0
+St Francis,FC Ward 4,U.S. President,,Dem,Elizabeth Warren,10,4,6,0
+St Francis,Hughes,U.S. President,,Dem,Julian Castro,0,0,0,0
+St Francis,Heth/Blackfish,U.S. President,,Dem,Julian Castro,0,0,0,0
+St Francis,Widener,U.S. President,,Dem,Julian Castro,0,0,0,0
+St Francis,Madison,U.S. President,,Dem,Julian Castro,0,0,0,0
+St Francis,Bonair,U.S. President,,Dem,Julian Castro,0,0,0,0
+St Francis,Newcastle/Parrott,U.S. President,,Dem,Julian Castro,0,0,0,0
+St Francis,Colt,U.S. President,,Dem,Julian Castro,0,0,0,0
+St Francis,Caldwell,U.S. President,,Dem,Julian Castro,0,0,0,0
+St Francis,Forrest City Country West,U.S. President,,Dem,Julian Castro,0,0,0,0
+St Francis,Palestine,U.S. President,,Dem,Julian Castro,1,0,1,0
+St Francis,Wheatley,U.S. President,,Dem,Julian Castro,0,0,0,0
+St Francis,FC Ward 1,U.S. President,,Dem,Julian Castro,0,0,0,0
+St Francis,FC Ward 2,U.S. President,,Dem,Julian Castro,1,1,0,0
+St Francis,FC Ward 3,U.S. President,,Dem,Julian Castro,1,0,1,0
+St Francis,FC Ward 4,U.S. President,,Dem,Julian Castro,0,0,0,0
+St Francis,Hughes,U.S. President,,Dem,Tulsi Gabbard,1,0,1,0
+St Francis,Heth/Blackfish,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0
+St Francis,Widener,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0
+St Francis,Madison,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0
+St Francis,Bonair,U.S. President,,Dem,Tulsi Gabbard,2,2,0,0
+St Francis,Newcastle/Parrott,U.S. President,,Dem,Tulsi Gabbard,2,0,2,0
+St Francis,Colt,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0
+St Francis,Caldwell,U.S. President,,Dem,Tulsi Gabbard,2,0,2,0
+St Francis,Forrest City Country West,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0
+St Francis,Palestine,U.S. President,,Dem,Tulsi Gabbard,3,1,2,0
+St Francis,Wheatley,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0
+St Francis,FC Ward 1,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0
+St Francis,FC Ward 2,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0
+St Francis,FC Ward 3,U.S. President,,Dem,Tulsi Gabbard,1,1,0,0
+St Francis,FC Ward 4,U.S. President,,Dem,Tulsi Gabbard,4,2,2,0
+St Francis,Hughes,U.S. President,,Dem,Joe Sestak,0,0,0,0
+St Francis,Heth/Blackfish,U.S. President,,Dem,Joe Sestak,0,0,0,0
+St Francis,Widener,U.S. President,,Dem,Joe Sestak,0,0,0,0
+St Francis,Madison,U.S. President,,Dem,Joe Sestak,0,0,0,0
+St Francis,Bonair,U.S. President,,Dem,Joe Sestak,0,0,0,0
+St Francis,Newcastle/Parrott,U.S. President,,Dem,Joe Sestak,0,0,0,0
+St Francis,Colt,U.S. President,,Dem,Joe Sestak,0,0,0,0
+St Francis,Caldwell,U.S. President,,Dem,Joe Sestak,0,0,0,0
+St Francis,Forrest City Country West,U.S. President,,Dem,Joe Sestak,0,0,0,0
+St Francis,Palestine,U.S. President,,Dem,Joe Sestak,0,0,0,0
+St Francis,Wheatley,U.S. President,,Dem,Joe Sestak,1,0,1,0
+St Francis,FC Ward 1,U.S. President,,Dem,Joe Sestak,2,1,1,0
+St Francis,FC Ward 2,U.S. President,,Dem,Joe Sestak,2,1,1,0
+St Francis,FC Ward 3,U.S. President,,Dem,Joe Sestak,0,0,0,0
+St Francis,FC Ward 4,U.S. President,,Dem,Joe Sestak,0,0,0,0
+St Francis,Hughes,U.S. President,,Dem,Andrew Yang,1,0,1,0
+St Francis,Heth/Blackfish,U.S. President,,Dem,Andrew Yang,0,0,0,0
+St Francis,Widener,U.S. President,,Dem,Andrew Yang,1,0,1,0
+St Francis,Madison,U.S. President,,Dem,Andrew Yang,0,0,0,0
+St Francis,Bonair,U.S. President,,Dem,Andrew Yang,2,1,1,0
+St Francis,Newcastle/Parrott,U.S. President,,Dem,Andrew Yang,1,0,1,0
+St Francis,Colt,U.S. President,,Dem,Andrew Yang,0,0,0,0
+St Francis,Caldwell,U.S. President,,Dem,Andrew Yang,0,0,0,0
+St Francis,Forrest City Country West,U.S. President,,Dem,Andrew Yang,0,0,0,0
+St Francis,Palestine,U.S. President,,Dem,Andrew Yang,0,0,0,0
+St Francis,Wheatley,U.S. President,,Dem,Andrew Yang,0,0,0,0
+St Francis,FC Ward 1,U.S. President,,Dem,Andrew Yang,1,0,1,0
+St Francis,FC Ward 2,U.S. President,,Dem,Andrew Yang,2,1,0,1
+St Francis,FC Ward 3,U.S. President,,Dem,Andrew Yang,1,1,0,0
+St Francis,FC Ward 4,U.S. President,,Dem,Andrew Yang,1,1,0,0
+St Francis,Hughes,U.S. President,,Dem,Amy Klobuchar,4,0,4,0
+St Francis,Heth/Blackfish,U.S. President,,Dem,Amy Klobuchar,1,0,1,0
+St Francis,Widener,U.S. President,,Dem,Amy Klobuchar,0,0,0,0
+St Francis,Madison,U.S. President,,Dem,Amy Klobuchar,0,0,0,0
+St Francis,Bonair,U.S. President,,Dem,Amy Klobuchar,2,1,1,0
+St Francis,Newcastle/Parrott,U.S. President,,Dem,Amy Klobuchar,6,4,2,0
+St Francis,Colt,U.S. President,,Dem,Amy Klobuchar,1,0,1,0
+St Francis,Caldwell,U.S. President,,Dem,Amy Klobuchar,0,0,0,0
+St Francis,Forrest City Country West,U.S. President,,Dem,Amy Klobuchar,1,1,0,0
+St Francis,Palestine,U.S. President,,Dem,Amy Klobuchar,2,0,2,0
+St Francis,Wheatley,U.S. President,,Dem,Amy Klobuchar,0,0,0,0
+St Francis,FC Ward 1,U.S. President,,Dem,Amy Klobuchar,0,0,0,0
+St Francis,FC Ward 2,U.S. President,,Dem,Amy Klobuchar,2,2,0,0
+St Francis,FC Ward 3,U.S. President,,Dem,Amy Klobuchar,9,8,1,0
+St Francis,FC Ward 4,U.S. President,,Dem,Amy Klobuchar,6,5,1,0
+St Francis,Hughes,U.S. President,,Dem,Michael Bennet,0,0,0,0
+St Francis,Heth/Blackfish,U.S. President,,Dem,Michael Bennet,0,0,0,0
+St Francis,Widener,U.S. President,,Dem,Michael Bennet,0,0,0,0
+St Francis,Madison,U.S. President,,Dem,Michael Bennet,2,0,2,0
+St Francis,Bonair,U.S. President,,Dem,Michael Bennet,1,1,0,0
+St Francis,Newcastle/Parrott,U.S. President,,Dem,Michael Bennet,3,3,0,0
+St Francis,Colt,U.S. President,,Dem,Michael Bennet,1,1,0,0
+St Francis,Caldwell,U.S. President,,Dem,Michael Bennet,0,0,0,0
+St Francis,Forrest City Country West,U.S. President,,Dem,Michael Bennet,0,0,0,0
+St Francis,Palestine,U.S. President,,Dem,Michael Bennet,0,0,0,0
+St Francis,Wheatley,U.S. President,,Dem,Michael Bennet,2,0,2,0
+St Francis,FC Ward 1,U.S. President,,Dem,Michael Bennet,2,1,1,0
+St Francis,FC Ward 2,U.S. President,,Dem,Michael Bennet,1,0,1,0
+St Francis,FC Ward 3,U.S. President,,Dem,Michael Bennet,0,0,0,0
+St Francis,FC Ward 4,U.S. President,,Dem,Michael Bennet,2,2,0,0
+St Francis,Hughes,U.S. President,,Dem,Tom Steyer,1,0,1,0
+St Francis,Heth/Blackfish,U.S. President,,Dem,Tom Steyer,0,0,0,0
+St Francis,Widener,U.S. President,,Dem,Tom Steyer,0,0,0,0
+St Francis,Madison,U.S. President,,Dem,Tom Steyer,0,0,0,0
+St Francis,Bonair,U.S. President,,Dem,Tom Steyer,0,0,0,0
+St Francis,Newcastle/Parrott,U.S. President,,Dem,Tom Steyer,1,1,0,0
+St Francis,Colt,U.S. President,,Dem,Tom Steyer,3,2,0,1
+St Francis,Caldwell,U.S. President,,Dem,Tom Steyer,0,0,0,0
+St Francis,Forrest City Country West,U.S. President,,Dem,Tom Steyer,0,0,0,0
+St Francis,Palestine,U.S. President,,Dem,Tom Steyer,0,0,0,0
+St Francis,Wheatley,U.S. President,,Dem,Tom Steyer,0,0,0,0
+St Francis,FC Ward 1,U.S. President,,Dem,Tom Steyer,1,1,0,0
+St Francis,FC Ward 2,U.S. President,,Dem,Tom Steyer,1,0,1,0
+St Francis,FC Ward 3,U.S. President,,Dem,Tom Steyer,0,0,0,0
+St Francis,FC Ward 4,U.S. President,,Dem,Tom Steyer,3,3,0,0
+St Francis,Hughes,U.S. President,,Dem,Cory Booker,0,0,0,0
+St Francis,Heth/Blackfish,U.S. President,,Dem,Cory Booker,1,0,1,0
+St Francis,Widener,U.S. President,,Dem,Cory Booker,0,0,0,0
+St Francis,Madison,U.S. President,,Dem,Cory Booker,1,1,0,0
+St Francis,Bonair,U.S. President,,Dem,Cory Booker,0,0,0,0
+St Francis,Newcastle/Parrott,U.S. President,,Dem,Cory Booker,4,0,4,0
+St Francis,Colt,U.S. President,,Dem,Cory Booker,1,1,0,0
+St Francis,Caldwell,U.S. President,,Dem,Cory Booker,0,0,0,0
+St Francis,Forrest City Country West,U.S. President,,Dem,Cory Booker,2,2,0,0
+St Francis,Palestine,U.S. President,,Dem,Cory Booker,0,0,0,0
+St Francis,Wheatley,U.S. President,,Dem,Cory Booker,0,0,0,0
+St Francis,FC Ward 1,U.S. President,,Dem,Cory Booker,1,0,1,0
+St Francis,FC Ward 2,U.S. President,,Dem,Cory Booker,1,0,1,0
+St Francis,FC Ward 3,U.S. President,,Dem,Cory Booker,0,0,0,0
+St Francis,FC Ward 4,U.S. President,,Dem,Cory Booker,0,0,0,0
+St Francis,Hughes,U.S. President,,Dem,Bernie Sanders,16,2,13,1
+St Francis,Heth/Blackfish,U.S. President,,Dem,Bernie Sanders,9,0,9,0
+St Francis,Widener,U.S. President,,Dem,Bernie Sanders,8,1,7,0
+St Francis,Madison,U.S. President,,Dem,Bernie Sanders,16,2,14,0
+St Francis,Bonair,U.S. President,,Dem,Bernie Sanders,11,2,9,0
+St Francis,Newcastle/Parrott,U.S. President,,Dem,Bernie Sanders,20,13,7,0
+St Francis,Colt,U.S. President,,Dem,Bernie Sanders,31,8,23,0
+St Francis,Caldwell,U.S. President,,Dem,Bernie Sanders,6,3,3,0
+St Francis,Forrest City Country West,U.S. President,,Dem,Bernie Sanders,8,7,1,0
+St Francis,Palestine,U.S. President,,Dem,Bernie Sanders,11,5,5,1
+St Francis,Wheatley,U.S. President,,Dem,Bernie Sanders,3,1,2,0
+St Francis,FC Ward 1,U.S. President,,Dem,Bernie Sanders,41,21,20,0
+St Francis,FC Ward 2,U.S. President,,Dem,Bernie Sanders,53,31,18,4
+St Francis,FC Ward 3,U.S. President,,Dem,Bernie Sanders,35,14,21,0
+St Francis,FC Ward 4,U.S. President,,Dem,Bernie Sanders,29,14,15,0
+St Francis,Hughes,U.S. President,,Dem,Kamala Harris,1,0,1,0
+St Francis,Heth/Blackfish,U.S. President,,Dem,Kamala Harris,1,0,1,0
+St Francis,Widener,U.S. President,,Dem,Kamala Harris,0,0,0,0
+St Francis,Madison,U.S. President,,Dem,Kamala Harris,1,1,0,0
+St Francis,Bonair,U.S. President,,Dem,Kamala Harris,1,0,1,0
+St Francis,Newcastle/Parrott,U.S. President,,Dem,Kamala Harris,0,0,0,0
+St Francis,Colt,U.S. President,,Dem,Kamala Harris,1,0,1,0
+St Francis,Caldwell,U.S. President,,Dem,Kamala Harris,0,0,0,0
+St Francis,Forrest City Country West,U.S. President,,Dem,Kamala Harris,3,2,1,0
+St Francis,Palestine,U.S. President,,Dem,Kamala Harris,1,0,1,0
+St Francis,Wheatley,U.S. President,,Dem,Kamala Harris,0,0,0,0
+St Francis,FC Ward 1,U.S. President,,Dem,Kamala Harris,2,1,1,0
+St Francis,FC Ward 2,U.S. President,,Dem,Kamala Harris,5,4,1,0
+St Francis,FC Ward 3,U.S. President,,Dem,Kamala Harris,1,1,0,0
+St Francis,FC Ward 4,U.S. President,,Dem,Kamala Harris,3,0,3,0
+St Francis,Hughes,U.S. President,,Dem,Marianne Williamson,0,0,0,0
+St Francis,Heth/Blackfish,U.S. President,,Dem,Marianne Williamson,0,0,0,0
+St Francis,Widener,U.S. President,,Dem,Marianne Williamson,0,0,0,0
+St Francis,Madison,U.S. President,,Dem,Marianne Williamson,0,0,0,0
+St Francis,Bonair,U.S. President,,Dem,Marianne Williamson,2,1,1,0
+St Francis,Newcastle/Parrott,U.S. President,,Dem,Marianne Williamson,0,0,0,0
+St Francis,Colt,U.S. President,,Dem,Marianne Williamson,2,0,2,0
+St Francis,Caldwell,U.S. President,,Dem,Marianne Williamson,0,0,0,0
+St Francis,Forrest City Country West,U.S. President,,Dem,Marianne Williamson,0,0,0,0
+St Francis,Palestine,U.S. President,,Dem,Marianne Williamson,1,1,0,0
+St Francis,Wheatley,U.S. President,,Dem,Marianne Williamson,0,0,0,0
+St Francis,FC Ward 1,U.S. President,,Dem,Marianne Williamson,7,3,4,0
+St Francis,FC Ward 2,U.S. President,,Dem,Marianne Williamson,1,1,0,0
+St Francis,FC Ward 3,U.S. President,,Dem,Marianne Williamson,2,1,1,0
+St Francis,FC Ward 4,U.S. President,,Dem,Marianne Williamson,1,0,1,0
+St Francis,Hughes,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+St Francis,Heth/Blackfish,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+St Francis,Widener,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+St Francis,Madison,U.S. President,,Dem,Mosie Boyd,1,0,1,0
+St Francis,Bonair,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+St Francis,Newcastle/Parrott,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+St Francis,Colt,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+St Francis,Caldwell,U.S. President,,Dem,Mosie Boyd,1,0,1,0
+St Francis,Forrest City Country West,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+St Francis,Palestine,U.S. President,,Dem,Mosie Boyd,1,0,1,0
+St Francis,Wheatley,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+St Francis,FC Ward 1,U.S. President,,Dem,Mosie Boyd,4,0,4,0
+St Francis,FC Ward 2,U.S. President,,Dem,Mosie Boyd,2,1,1,0
+St Francis,FC Ward 3,U.S. President,,Dem,Mosie Boyd,2,2,0,0
+St Francis,FC Ward 4,U.S. President,,Dem,Mosie Boyd,2,1,1,0
+St Francis,Hughes,U.S. President,,Dem,Pete Buttigieg,0,0,0,0
+St Francis,Heth/Blackfish,U.S. President,,Dem,Pete Buttigieg,1,0,1,0
+St Francis,Widener,U.S. President,,Dem,Pete Buttigieg,1,0,1,0
+St Francis,Madison,U.S. President,,Dem,Pete Buttigieg,2,1,1,0
+St Francis,Bonair,U.S. President,,Dem,Pete Buttigieg,1,0,1,0
+St Francis,Newcastle/Parrott,U.S. President,,Dem,Pete Buttigieg,0,0,0,0
+St Francis,Colt,U.S. President,,Dem,Pete Buttigieg,2,0,2,0
+St Francis,Caldwell,U.S. President,,Dem,Pete Buttigieg,2,1,0,1
+St Francis,Forrest City Country West,U.S. President,,Dem,Pete Buttigieg,0,0,0,0
+St Francis,Palestine,U.S. President,,Dem,Pete Buttigieg,1,0,1,0
+St Francis,Wheatley,U.S. President,,Dem,Pete Buttigieg,0,0,0,0
+St Francis,FC Ward 1,U.S. President,,Dem,Pete Buttigieg,2,1,0,1
+St Francis,FC Ward 2,U.S. President,,Dem,Pete Buttigieg,2,1,0,1
+St Francis,FC Ward 3,U.S. President,,Dem,Pete Buttigieg,6,6,0,0
+St Francis,FC Ward 4,U.S. President,,Dem,Pete Buttigieg,7,6,1,0
+St Francis,Heth/Blackfish,JUSTICE OF THE PEACE DIST 3 JOP3,,Dem,ROY WINFREY,26,3,23,0
+St Francis,Widener,JUSTICE OF THE PEACE DIST 3 JOP3,,Dem,ROY WINFREY,31,1,30,0
+St Francis,Madison,JUSTICE OF THE PEACE DIST 3 JOP3,,Dem,ROY WINFREY,98,23,72,3
+St Francis,Newcastle/Parrott,JUSTICE OF THE PEACE DIST 3 JOP3,,Dem,ROY WINFREY,23,18,5,0
+St Francis,Heth/Blackfish,JUSTICE OF THE PEACE DIST 3 JOP3,,Dem,BILLY GENE RAY,7,1,6,0
+St Francis,Widener,JUSTICE OF THE PEACE DIST 3 JOP3,,Dem,BILLY GENE RAY,17,4,13,0
+St Francis,Madison,JUSTICE OF THE PEACE DIST 3 JOP3,,Dem,BILLY GENE RAY,34,6,28,0
+St Francis,Newcastle/Parrott,JUSTICE OF THE PEACE DIST 3 JOP3,,Dem,BILLY GENE RAY,17,14,3,0
+St Francis,Hughes,U.S. President,,Rep,Donald J. Trump,28,4,24,0
+St Francis,Heth/Blackfish,U.S. President,,Rep,Donald J. Trump,40,6,34,0
+St Francis,Widener,U.S. President,,Rep,Donald J. Trump,29,5,24,0
+St Francis,Madison,U.S. President,,Rep,Donald J. Trump,3,2,1,0
+St Francis,Bonair,U.S. President,,Rep,Donald J. Trump,71,25,46,0
+St Francis,Newcastle/Parrott,U.S. President,,Rep,Donald J. Trump,289,90,199,0
+St Francis,Colt,U.S. President,,Rep,Donald J. Trump,100,17,83,0
+St Francis,Caldwell,U.S. President,,Rep,Donald J. Trump,80,23,57,0
+St Francis,Forrest City Country West,U.S. President,,Rep,Donald J. Trump,17,6,11,0
+St Francis,Palestine,U.S. President,,Rep,Donald J. Trump,123,14,107,2
+St Francis,Wheatley,U.S. President,,Rep,Donald J. Trump,38,3,35,0
+St Francis,FC Ward 1,U.S. President,,Rep,Donald J. Trump,7,4,3,0
+St Francis,FC Ward 2,U.S. President,,Rep,Donald J. Trump,9,8,1,0
+St Francis,FC Ward 3,U.S. President,,Rep,Donald J. Trump,101,50,49,2
+St Francis,FC Ward 4,U.S. President,,Rep,Donald J. Trump,109,64,45,0
+St Francis,Hughes,U.S. President,,Rep,Bill Weld,0,0,0,0
+St Francis,Heth/Blackfish,U.S. President,,Rep,Bill Weld,1,0,1,0
+St Francis,Widener,U.S. President,,Rep,Bill Weld,1,0,1,0
+St Francis,Madison,U.S. President,,Rep,Bill Weld,0,0,0,0
+St Francis,Bonair,U.S. President,,Rep,Bill Weld,1,0,1,0
+St Francis,Newcastle/Parrott,U.S. President,,Rep,Bill Weld,1,0,1,0
+St Francis,Colt,U.S. President,,Rep,Bill Weld,1,0,1,0
+St Francis,Caldwell,U.S. President,,Rep,Bill Weld,0,0,0,0
+St Francis,Forrest City Country West,U.S. President,,Rep,Bill Weld,0,0,0,0
+St Francis,Palestine,U.S. President,,Rep,Bill Weld,0,0,0,0
+St Francis,Wheatley,U.S. President,,Rep,Bill Weld,0,0,0,0
+St Francis,FC Ward 1,U.S. President,,Rep,Bill Weld,0,0,0,0
+St Francis,FC Ward 2,U.S. President,,Rep,Bill Weld,0,0,0,0
+St Francis,FC Ward 3,U.S. President,,Rep,Bill Weld,5,5,0,0
+St Francis,FC Ward 4,U.S. President,,Rep,Bill Weld,0,0,0,0
+St Francis,Hughes,U.S. President,,Rep,Roque 'Rocky' De La Fuente,1,0,1,0
+St Francis,Heth/Blackfish,U.S. President,,Rep,Roque 'Rocky' De La Fuente,1,0,1,0
+St Francis,Widener,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0
+St Francis,Madison,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0
+St Francis,Bonair,U.S. President,,Rep,Roque 'Rocky' De La Fuente,2,2,0,0
+St Francis,Newcastle/Parrott,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0
+St Francis,Colt,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0
+St Francis,Caldwell,U.S. President,,Rep,Roque 'Rocky' De La Fuente,1,0,1,0
+St Francis,Forrest City Country West,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0
+St Francis,Palestine,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0
+St Francis,Wheatley,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0
+St Francis,FC Ward 1,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0
+St Francis,FC Ward 2,U.S. President,,Rep,Roque 'Rocky' De La Fuente,1,1,0,0
+St Francis,FC Ward 3,U.S. President,,Rep,Roque 'Rocky' De La Fuente,1,1,0,0
+St Francis,FC Ward 4,U.S. President,,Rep,Roque 'Rocky' De La Fuente,1,1,0,0
+St Francis,Hughes,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,72,7,64,1
+St Francis,Heth/Blackfish,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,55,7,48,0
+St Francis,Widener,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,47,8,39,0
+St Francis,Madison,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,87,15,72,0
+St Francis,Bonair,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,84,28,54,2
+St Francis,Newcastle/Parrott,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,213,86,127,0
+St Francis,Colt,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,144,37,105,2
+St Francis,Caldwell,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,63,15,48,0
+St Francis,Forrest City Country West,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,34,19,14,1
+St Francis,Palestine,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,133,23,104,6
+St Francis,Wheatley,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,36,4,32,0
+St Francis,FC Ward 1,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,219,108,96,15
+St Francis,FC Ward 2,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,248,104,116,28
+St Francis,FC Ward 3,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,254,107,136,11
+St Francis,FC Ward 4,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,206,103,95,8
+St Francis,Hughes,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,42,6,36,0
+St Francis,Heth/Blackfish,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,30,3,27,0
+St Francis,Widener,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,28,2,26,0
+St Francis,Madison,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,45,14,28,3
+St Francis,Bonair,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,68,25,43,0
+St Francis,Newcastle/Parrott,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,227,74,153,0
+St Francis,Colt,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,70,10,60,0
+St Francis,Caldwell,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,59,17,41,1
+St Francis,Forrest City Country West,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,27,12,12,3
+St Francis,Palestine,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,96,21,75,0
+St Francis,Wheatley,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,37,4,33,0
+St Francis,FC Ward 1,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,70,28,35,7
+St Francis,FC Ward 2,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,114,68,37,9
+St Francis,FC Ward 3,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,175,83,86,6
+St Francis,FC Ward 4,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,159,83,73,3
+St Francis,Newcastle/Parrott,Circuit Judge,"1, Division 3, Subdistrict 1.2",,Gary J. Mitchusson,216,70,146,0
+St Francis,Colt,Circuit Judge,"1, Division 3, Subdistrict 1.2",,Gary J. Mitchusson,117,17,100,0
+St Francis,Caldwell,Circuit Judge,"1, Division 3, Subdistrict 1.2",,Gary J. Mitchusson,53,13,40,0
+St Francis,Palestine,Circuit Judge,"1, Division 3, Subdistrict 1.2",,Gary J. Mitchusson,98,14,83,1
+St Francis,Wheatley,Circuit Judge,"1, Division 3, Subdistrict 1.2",,Gary J. Mitchusson,48,6,42,0
+St Francis,FC Ward 2,Circuit Judge,"1, Division 3, Subdistrict 1.2",,Gary J. Mitchusson,111,54,57,0
+St Francis,FC Ward 3,Circuit Judge,"1, Division 3, Subdistrict 1.2",,Gary J. Mitchusson,188,74,112,2
+St Francis,FC Ward 4,Circuit Judge,"1, Division 3, Subdistrict 1.2",,Gary J. Mitchusson,121,48,73,0
+St Francis,Newcastle/Parrott,Circuit Judge,"1, Division 3, Subdistrict 1.2",,Judge Christopher Morledge,201,74,126,1
+St Francis,Colt,Circuit Judge,"1, Division 3, Subdistrict 1.2",,Judge Christopher Morledge,102,34,66,2
+St Francis,Caldwell,Circuit Judge,"1, Division 3, Subdistrict 1.2",,Judge Christopher Morledge,71,18,52,1
+St Francis,Palestine,Circuit Judge,"1, Division 3, Subdistrict 1.2",,Judge Christopher Morledge,133,30,97,6
+St Francis,Wheatley,Circuit Judge,"1, Division 3, Subdistrict 1.2",,Judge Christopher Morledge,26,3,23,0
+St Francis,FC Ward 2,Circuit Judge,"1, Division 3, Subdistrict 1.2",,Judge Christopher Morledge,108,57,39,12
+St Francis,FC Ward 3,Circuit Judge,"1, Division 3, Subdistrict 1.2",,Judge Christopher Morledge,252,127,110,15
+St Francis,FC Ward 4,Circuit Judge,"1, Division 3, Subdistrict 1.2",,Judge Christopher Morledge,161,93,60,8
+St Francis,Hughes,Circuit Judge,"1, Division 5, At Large",,Andrew Coleman,32,4,27,1
+St Francis,Heth/Blackfish,Circuit Judge,"1, Division 5, At Large",,Andrew Coleman,19,1,18,0
+St Francis,Widener,Circuit Judge,"1, Division 5, At Large",,Andrew Coleman,20,2,18,0
+St Francis,Madison,Circuit Judge,"1, Division 5, At Large",,Andrew Coleman,79,15,61,3
+St Francis,Bonair,Circuit Judge,"1, Division 5, At Large",,Andrew Coleman,18,10,8,0
+St Francis,Newcastle/Parrott,Circuit Judge,"1, Division 5, At Large",,Andrew Coleman,33,18,15,0
+St Francis,Colt,Circuit Judge,"1, Division 5, At Large",,Andrew Coleman,46,13,33,0
+St Francis,Caldwell,Circuit Judge,"1, Division 5, At Large",,Andrew Coleman,15,2,13,0
+St Francis,Forrest City Country West,Circuit Judge,"1, Division 5, At Large",,Andrew Coleman,29,15,10,4
+St Francis,Palestine,Circuit Judge,"1, Division 5, At Large",,Andrew Coleman,54,10,43,1
+St Francis,Wheatley,Circuit Judge,"1, Division 5, At Large",,Andrew Coleman,20,3,17,0
+St Francis,FC Ward 1,Circuit Judge,"1, Division 5, At Large",,Andrew Coleman,169,88,76,5
+St Francis,FC Ward 2,Circuit Judge,"1, Division 5, At Large",,Andrew Coleman,166,81,79,6
+St Francis,FC Ward 3,Circuit Judge,"1, Division 5, At Large",,Andrew Coleman,112,55,56,1
+St Francis,FC Ward 4,Circuit Judge,"1, Division 5, At Large",,Andrew Coleman,87,31,56,0
+St Francis,Hughes,Circuit Judge,"1, Division 5, At Large",,Judge David Carruth,47,6,41,0
+St Francis,Heth/Blackfish,Circuit Judge,"1, Division 5, At Large",,Judge David Carruth,24,2,22,0
+St Francis,Widener,Circuit Judge,"1, Division 5, At Large",,Judge David Carruth,12,1,11,0
+St Francis,Madison,Circuit Judge,"1, Division 5, At Large",,Judge David Carruth,13,3,10,0
+St Francis,Bonair,Circuit Judge,"1, Division 5, At Large",,Judge David Carruth,18,5,11,2
+St Francis,Newcastle/Parrott,Circuit Judge,"1, Division 5, At Large",,Judge David Carruth,68,24,43,1
+St Francis,Colt,Circuit Judge,"1, Division 5, At Large",,Judge David Carruth,29,3,26,0
+St Francis,Caldwell,Circuit Judge,"1, Division 5, At Large",,Judge David Carruth,21,6,14,1
+St Francis,Forrest City Country West,Circuit Judge,"1, Division 5, At Large",,Judge David Carruth,9,3,6,0
+St Francis,Palestine,Circuit Judge,"1, Division 5, At Large",,Judge David Carruth,38,5,31,2
+St Francis,Wheatley,Circuit Judge,"1, Division 5, At Large",,Judge David Carruth,19,1,18,0
+St Francis,FC Ward 1,Circuit Judge,"1, Division 5, At Large",,Judge David Carruth,29,9,20,0
+St Francis,FC Ward 2,Circuit Judge,"1, Division 5, At Large",,Judge David Carruth,38,20,17,1
+St Francis,FC Ward 3,Circuit Judge,"1, Division 5, At Large",,Judge David Carruth,53,21,31,1
+St Francis,FC Ward 4,Circuit Judge,"1, Division 5, At Large",,Judge David Carruth,48,27,21,0
+St Francis,Hughes,Circuit Judge,"1, Division 5, At Large",,Kathie Hess,38,4,34,0
+St Francis,Heth/Blackfish,Circuit Judge,"1, Division 5, At Large",,Kathie Hess,36,6,30,0
+St Francis,Widener,Circuit Judge,"1, Division 5, At Large",,Kathie Hess,46,6,40,0
+St Francis,Madison,Circuit Judge,"1, Division 5, At Large",,Kathie Hess,43,10,33,0
+St Francis,Bonair,Circuit Judge,"1, Division 5, At Large",,Kathie Hess,127,43,84,0
+St Francis,Newcastle/Parrott,Circuit Judge,"1, Division 5, At Large",,Kathie Hess,359,127,232,0
+St Francis,Colt,Circuit Judge,"1, Division 5, At Large",,Kathie Hess,156,36,118,2
+St Francis,Caldwell,Circuit Judge,"1, Division 5, At Large",,Kathie Hess,92,25,67,0
+St Francis,Forrest City Country West,Circuit Judge,"1, Division 5, At Large",,Kathie Hess,24,14,10,0
+St Francis,Palestine,Circuit Judge,"1, Division 5, At Large",,Kathie Hess,147,32,111,4
+St Francis,Wheatley,Circuit Judge,"1, Division 5, At Large",,Kathie Hess,36,5,31,0
+St Francis,FC Ward 1,Circuit Judge,"1, Division 5, At Large",,Kathie Hess,106,49,40,17
+St Francis,FC Ward 2,Circuit Judge,"1, Division 5, At Large",,Kathie Hess,171,75,65,31
+St Francis,FC Ward 3,Circuit Judge,"1, Division 5, At Large",,Kathie Hess,277,128,134,15
+St Francis,FC Ward 4,Circuit Judge,"1, Division 5, At Large",,Kathie Hess,239,134,94,11

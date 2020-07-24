@@ -1,0 +1,118 @@
+county,precinct,office,district,party,candidate,votes,early_vote_west,absentee,election_day,provisional,early_vote_east
+Carroll,Precinct 1 ESD,U.S. President,,DEM,Andrew Yang,4,1,0,1,0,2
+Carroll,Precinct 2 BSD,U.S. President,,DEM,Andrew Yang,1,0,0,1,0,0
+Carroll,Precinct 3 GFSD,U.S. President,,DEM,Andrew Yang,3,0,0,2,0,1
+Carroll,Precinct 4 ASD,U.S. President,,DEM,Andrew Yang,0,0,0,0,0,0
+Carroll,Precinct 5 JSD,U.S. President,,DEM,Andrew Yang,0,0,0,0,0,0
+Carroll,Precinct 1 ESD,U.S. President,,DEM,Michael Bennet,0,0,0,0,0,0
+Carroll,Precinct 2 BSD,U.S. President,,DEM,Michael Bennet,1,0,0,1,0,0
+Carroll,Precinct 3 GFSD,U.S. President,,DEM,Michael Bennet,1,0,0,1,0,0
+Carroll,Precinct 4 ASD,U.S. President,,DEM,Michael Bennet,0,0,0,0,0,0
+Carroll,Precinct 5 JSD,U.S. President,,DEM,Michael Bennet,0,0,0,0,0,0
+Carroll,Precinct 1 ESD,U.S. President,,DEM,Tom Steyer,7,6,0,0,1,0
+Carroll,Precinct 2 BSD,U.S. President,,DEM,Tom Steyer,2,0,0,0,0,2
+Carroll,Precinct 3 GFSD,U.S. President,,DEM,Tom Steyer,3,0,0,1,0,2
+Carroll,Precinct 4 ASD,U.S. President,,DEM,Tom Steyer,0,0,0,0,0,0
+Carroll,Precinct 5 JSD,U.S. President,,DEM,Tom Steyer,0,0,0,0,0,0
+Carroll,Precinct 1 ESD,U.S. President,,DEM,Joe Sestak,0,0,0,0,0,0
+Carroll,Precinct 2 BSD,U.S. President,,DEM,Joe Sestak,0,0,0,0,0,0
+Carroll,Precinct 3 GFSD,U.S. President,,DEM,Joe Sestak,0,0,0,0,0,0
+Carroll,Precinct 4 ASD,U.S. President,,DEM,Joe Sestak,0,0,0,0,0,0
+Carroll,Precinct 5 JSD,U.S. President,,DEM,Joe Sestak,0,0,0,0,0,0
+Carroll,Precinct 1 ESD,U.S. President,,DEM,John K. Delaney,0,0,0,0,0,0
+Carroll,Precinct 2 BSD,U.S. President,,DEM,John K. Delaney,1,0,0,1,0,0
+Carroll,Precinct 3 GFSD,U.S. President,,DEM,John K. Delaney,0,0,0,0,0,0
+Carroll,Precinct 4 ASD,U.S. President,,DEM,John K. Delaney,0,0,0,0,0,0
+Carroll,Precinct 5 JSD,U.S. President,,DEM,John K. Delaney,0,0,0,0,0,0
+Carroll,Precinct 1 ESD,U.S. President,,DEM,Michael R. Bloomberg,178,104,3,62,0,9
+Carroll,Precinct 2 BSD,U.S. President,,DEM,Michael R. Bloomberg,64,0,4,27,3,30
+Carroll,Precinct 3 GFSD,U.S. President,,DEM,Michael R. Bloomberg,43,0,1,31,0,11
+Carroll,Precinct 4 ASD,U.S. President,,DEM,Michael R. Bloomberg,8,0,0,4,0,4
+Carroll,Precinct 5 JSD,U.S. President,,DEM,Michael R. Bloomberg,0,0,0,0,0,0
+Carroll,Precinct 1 ESD,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0,0
+Carroll,Precinct 2 BSD,U.S. President,,DEM,Mosie Boyd,1,0,0,0,0,1
+Carroll,Precinct 3 GFSD,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0,0
+Carroll,Precinct 4 ASD,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0,0
+Carroll,Precinct 5 JSD,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0,0
+Carroll,Precinct 1 ESD,U.S. President,,DEM,Pete Buttigieg,89,81,2,1,0,5
+Carroll,Precinct 2 BSD,U.S. President,,DEM,Pete Buttigieg,23,3,1,2,0,17
+Carroll,Precinct 3 GFSD,U.S. President,,DEM,Pete Buttigieg,4,0,0,0,0,4
+Carroll,Precinct 4 ASD,U.S. President,,DEM,Pete Buttigieg,4,0,0,1,0,3
+Carroll,Precinct 5 JSD,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0,0
+Carroll,Precinct 1 ESD,U.S. President,,DEM,Tulsi Gabbard,12,7,0,5,0,0
+Carroll,Precinct 2 BSD,U.S. President,,DEM,Tulsi Gabbard,7,0,0,5,0,2
+Carroll,Precinct 3 GFSD,U.S. President,,DEM,Tulsi Gabbard,8,0,0,7,0,1
+Carroll,Precinct 4 ASD,U.S. President,,DEM,Tulsi Gabbard,1,0,0,1,0,0
+Carroll,Precinct 5 JSD,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0,0
+Carroll,Precinct 1 ESD,U.S. President,,DEM,Kamala Harris,1,0,0,0,0,1
+Carroll,Precinct 2 BSD,U.S. President,,DEM,Kamala Harris,2,0,0,0,0,2
+Carroll,Precinct 3 GFSD,U.S. President,,DEM,Kamala Harris,1,0,0,1,0,0
+Carroll,Precinct 4 ASD,U.S. President,,DEM,Kamala Harris,0,0,0,0,0,0
+Carroll,Precinct 5 JSD,U.S. President,,DEM,Kamala Harris,0,0,0,0,0,0
+Carroll,Precinct 1 ESD,U.S. President,,DEM,Marianne Williamson,2,1,0,1,0,0
+Carroll,Precinct 2 BSD,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0,0
+Carroll,Precinct 3 GFSD,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0,0
+Carroll,Precinct 4 ASD,U.S. President,,DEM,Marianne Williamson,2,0,0,2,0,0
+Carroll,Precinct 5 JSD,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0,0
+Carroll,Precinct 1 ESD,U.S. President,,DEM,Bernie Sanders,536,230,6,275,5,20
+Carroll,Precinct 2 BSD,U.S. President,,DEM,Bernie Sanders,139,4,3,84,0,48
+Carroll,Precinct 3 GFSD,U.S. President,,DEM,Bernie Sanders,38,0,0,30,2,6
+Carroll,Precinct 4 ASD,U.S. President,,DEM,Bernie Sanders,12,0,0,8,0,4
+Carroll,Precinct 5 JSD,U.S. President,,DEM,Bernie Sanders,3,0,0,2,0,1
+Carroll,Precinct 1 ESD,U.S. President,,DEM,Steve Bullock,1,0,0,0,0,1
+Carroll,Precinct 2 BSD,U.S. President,,DEM,Steve Bullock,1,0,0,1,0,0
+Carroll,Precinct 3 GFSD,U.S. President,,DEM,Steve Bullock,1,0,0,0,0,1
+Carroll,Precinct 4 ASD,U.S. President,,DEM,Steve Bullock,0,0,0,0,0,0
+Carroll,Precinct 5 JSD,U.S. President,,DEM,Steve Bullock,0,0,0,0,0,0
+Carroll,Precinct 1 ESD,U.S. President,,DEM,Julian Castro,0,0,0,0,0,0
+Carroll,Precinct 2 BSD,U.S. President,,DEM,Julian Castro,0,0,0,0,0,0
+Carroll,Precinct 3 GFSD,U.S. President,,DEM,Julian Castro,2,0,0,2,0,0
+Carroll,Precinct 4 ASD,U.S. President,,DEM,Julian Castro,0,0,0,0,0,0
+Carroll,Precinct 5 JSD,U.S. President,,DEM,Julian Castro,0,0,0,0,0,0
+Carroll,Precinct 1 ESD,U.S. President,,DEM,Cory Booker,0,0,0,0,0,0
+Carroll,Precinct 2 BSD,U.S. President,,DEM,Cory Booker,1,0,0,1,0,0
+Carroll,Precinct 3 GFSD,U.S. President,,DEM,Cory Booker,0,0,0,0,0,0
+Carroll,Precinct 4 ASD,U.S. President,,DEM,Cory Booker,0,0,0,0,0,0
+Carroll,Precinct 5 JSD,U.S. President,,DEM,Cory Booker,0,0,0,0,0,0
+Carroll,Precinct 1 ESD,U.S. President,,DEM,Joseph R. Biden,488,168,2,302,7,9
+Carroll,Precinct 2 BSD,U.S. President,,DEM,Joseph R. Biden,156,0,1,95,1,59
+Carroll,Precinct 3 GFSD,U.S. President,,DEM,Joseph R. Biden,79,1,0,56,0,22
+Carroll,Precinct 4 ASD,U.S. President,,DEM,Joseph R. Biden,16,0,0,14,0,2
+Carroll,Precinct 5 JSD,U.S. President,,DEM,Joseph R. Biden,3,0,0,3,0,0
+Carroll,Precinct 1 ESD,U.S. President,,DEM,Elizabeth Warren,250,130,0,108,2,10
+Carroll,Precinct 2 BSD,U.S. President,,DEM,Elizabeth Warren,40,2,0,16,0,22
+Carroll,Precinct 3 GFSD,U.S. President,,DEM,Elizabeth Warren,13,0,0,11,0,2
+Carroll,Precinct 4 ASD,U.S. President,,DEM,Elizabeth Warren,3,0,0,2,0,1
+Carroll,Precinct 5 JSD,U.S. President,,DEM,Elizabeth Warren,2,0,0,2,0,0
+Carroll,Precinct 1 ESD,U.S. President,,DEM,Amy Klobuchar,51,45,2,1,0,3
+Carroll,Precinct 2 BSD,U.S. President,,DEM,Amy Klobuchar,35,2,0,4,0,29
+Carroll,Precinct 3 GFSD,U.S. President,,DEM,Amy Klobuchar,5,0,0,1,0,4
+Carroll,Precinct 4 ASD,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0,0
+Carroll,Precinct 5 JSD,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0,0
+Carroll,Precinct 1 ESD,U.S. President,,REP,Roque 'Rocky' De La Fuente,7,3,1,3,0,0
+Carroll,Precinct 2 BSD,U.S. President,,REP,Roque 'Rocky' De La Fuente,5,0,0,4,0,1
+Carroll,Precinct 3 GFSD,U.S. President,,REP,Roque 'Rocky' De La Fuente,1,0,0,1,0,0
+Carroll,Precinct 4 ASD,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0,0
+Carroll,Precinct 5 JSD,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0,0
+Carroll,Precinct 1 ESD,U.S. President,,REP,Bill Weld,13,2,0,11,0,0
+Carroll,Precinct 2 BSD,U.S. President,,REP,Bill Weld,17,1,0,9,0,7
+Carroll,Precinct 3 GFSD,U.S. President,,REP,Bill Weld,8,0,0,7,0,1
+Carroll,Precinct 4 ASD,U.S. President,,REP,Bill Weld,0,0,0,0,0,0
+Carroll,Precinct 5 JSD,U.S. President,,REP,Bill Weld,0,0,0,0,0,0
+Carroll,Precinct 1 ESD,U.S. President,,REP,Donald J. Trump,583,174,12,359,7,31
+Carroll,Precinct 2 BSD,U.S. President,,REP,Donald J. Trump,622,8,6,386,6,216
+Carroll,Precinct 3 GFSD,U.S. President,,REP,Donald J. Trump,540,3,1,428,5,103
+Carroll,Precinct 4 ASD,U.S. President,,REP,Donald J. Trump,119,7,1,86,0,25
+Carroll,Precinct 5 JSD,U.S. President,,REP,Donald J. Trump,9,0,2,3,0,4
+Carroll,Precinct 2 BSD,Constable Polo,,REP,Randy Langhover,74,0,0,49,2,23
+Carroll,Precinct 2 BSD,Constable Polo,,REP,Jeffery B. Usrey,51,0,1,41,0,9
+Carroll,Precinct 1 ESD,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,929,435,15,437,10,32
+Carroll,Precinct 2 BSD,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,437,6,8,242,3,178
+Carroll,Precinct 3 GFSD,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,285,2,1,218,2,62
+Carroll,Precinct 4 ASD,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,72,1,0,57,0,14
+Carroll,Precinct 5 JSD,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,5,0,2,3,0,0
+Carroll,Precinct 1 ESD,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,1174,458,9,645,11,51
+Carroll,Precinct 2 BSD,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,645,14,6,382,6,237
+Carroll,Precinct 3 GFSD,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,475,1,1,373,6,94
+Carroll,Precinct 4 ASD,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,94,6,1,63,0,24
+Carroll,Precinct 5 JSD,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,11,0,0,7,0,4

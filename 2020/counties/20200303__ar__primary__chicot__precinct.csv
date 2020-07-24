@@ -1,0 +1,300 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_voting,election_day
+Chicot,Carlton 1 & 2,U.S. President,,DEM,Pete Buttigieg,1,0,1,0
+Chicot,Carlton 3,U.S. President,,DEM,Pete Buttigieg,2,0,2,0
+Chicot,Carlton Rural,U.S. President,,DEM,Pete Buttigieg,4,1,3,0
+Chicot,Planters 1 & 2,U.S. President,,DEM,Pete Buttigieg,3,1,1,1
+Chicot,Planters 3 & 4,U.S. President,,DEM,Pete Buttigieg,4,0,0,4
+Chicot,Planters Rural,U.S. President,,DEM,Pete Buttigieg,0,0,0,0
+Chicot,Bowie 1,U.S. President,,DEM,Pete Buttigieg,0,0,0,0
+Chicot,Bowie 2,U.S. President,,DEM,Pete Buttigieg,0,0,0,0
+Chicot,Bowie 3,U.S. President,,DEM,Pete Buttigieg,0,0,0,0
+Chicot,Bowie Rural,U.S. President,,DEM,Pete Buttigieg,0,0,0,0
+Chicot,Carlton 1 & 2,U.S. President,,DEM,Amy Klobuchar,3,0,2,1
+Chicot,Carlton 3,U.S. President,,DEM,Amy Klobuchar,0,0,0,0
+Chicot,Carlton Rural,U.S. President,,DEM,Amy Klobuchar,5,0,5,0
+Chicot,Planters 1 & 2,U.S. President,,DEM,Amy Klobuchar,1,0,0,1
+Chicot,Planters 3 & 4,U.S. President,,DEM,Amy Klobuchar,2,0,0,2
+Chicot,Planters Rural,U.S. President,,DEM,Amy Klobuchar,1,0,1,0
+Chicot,Bowie 1,U.S. President,,DEM,Amy Klobuchar,1,0,0,1
+Chicot,Bowie 2,U.S. President,,DEM,Amy Klobuchar,3,0,2,1
+Chicot,Bowie 3,U.S. President,,DEM,Amy Klobuchar,0,0,0,0
+Chicot,Bowie Rural,U.S. President,,DEM,Amy Klobuchar,2,0,1,1
+Chicot,Carlton 1 & 2,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0
+Chicot,Carlton 3,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0
+Chicot,Carlton Rural,U.S. President,,DEM,Tulsi Gabbard,2,0,0,2
+Chicot,Planters 1 & 2,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0
+Chicot,Planters 3 & 4,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0
+Chicot,Planters Rural,U.S. President,,DEM,Tulsi Gabbard,1,0,0,1
+Chicot,Bowie 1,U.S. President,,DEM,Tulsi Gabbard,1,0,0,1
+Chicot,Bowie 2,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0
+Chicot,Bowie 3,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0
+Chicot,Bowie Rural,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0
+Chicot,Carlton 1 & 2,U.S. President,,DEM,Julian Castro,0,0,0,0
+Chicot,Carlton 3,U.S. President,,DEM,Julian Castro,0,0,0,0
+Chicot,Carlton Rural,U.S. President,,DEM,Julian Castro,0,0,0,0
+Chicot,Planters 1 & 2,U.S. President,,DEM,Julian Castro,1,0,0,1
+Chicot,Planters 3 & 4,U.S. President,,DEM,Julian Castro,2,0,1,1
+Chicot,Planters Rural,U.S. President,,DEM,Julian Castro,0,0,0,0
+Chicot,Bowie 1,U.S. President,,DEM,Julian Castro,0,0,0,0
+Chicot,Bowie 2,U.S. President,,DEM,Julian Castro,0,0,0,0
+Chicot,Bowie 3,U.S. President,,DEM,Julian Castro,0,0,0,0
+Chicot,Bowie Rural,U.S. President,,DEM,Julian Castro,0,0,0,0
+Chicot,Carlton 1 & 2,U.S. President,,DEM,Tom Steyer,2,0,1,1
+Chicot,Carlton 3,U.S. President,,DEM,Tom Steyer,0,0,0,0
+Chicot,Carlton Rural,U.S. President,,DEM,Tom Steyer,1,0,1,0
+Chicot,Planters 1 & 2,U.S. President,,DEM,Tom Steyer,0,0,0,0
+Chicot,Planters 3 & 4,U.S. President,,DEM,Tom Steyer,2,0,0,2
+Chicot,Planters Rural,U.S. President,,DEM,Tom Steyer,0,0,0,0
+Chicot,Bowie 1,U.S. President,,DEM,Tom Steyer,0,0,0,0
+Chicot,Bowie 2,U.S. President,,DEM,Tom Steyer,2,0,2,0
+Chicot,Bowie 3,U.S. President,,DEM,Tom Steyer,3,0,2,1
+Chicot,Bowie Rural,U.S. President,,DEM,Tom Steyer,0,0,0,0
+Chicot,Carlton 1 & 2,U.S. President,,DEM,Michael R. Bloomberg,44,2,15,27
+Chicot,Carlton 3,U.S. President,,DEM,Michael R. Bloomberg,31,9,8,14
+Chicot,Carlton Rural,U.S. President,,DEM,Michael R. Bloomberg,25,4,12,9
+Chicot,Planters 1 & 2,U.S. President,,DEM,Michael R. Bloomberg,43,1,20,22
+Chicot,Planters 3 & 4,U.S. President,,DEM,Michael R. Bloomberg,56,4,14,38
+Chicot,Planters Rural,U.S. President,,DEM,Michael R. Bloomberg,16,2,4,10
+Chicot,Bowie 1,U.S. President,,DEM,Michael R. Bloomberg,14,0,1,13
+Chicot,Bowie 2,U.S. President,,DEM,Michael R. Bloomberg,24,2,5,17
+Chicot,Bowie 3,U.S. President,,DEM,Michael R. Bloomberg,12,0,1,11
+Chicot,Bowie Rural,U.S. President,,DEM,Michael R. Bloomberg,1,0,0,1
+Chicot,Carlton 1 & 2,U.S. President,,DEM,Steve Bullock,2,0,2,0
+Chicot,Carlton 3,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Chicot,Carlton Rural,U.S. President,,DEM,Steve Bullock,1,0,0,1
+Chicot,Planters 1 & 2,U.S. President,,DEM,Steve Bullock,1,1,0,0
+Chicot,Planters 3 & 4,U.S. President,,DEM,Steve Bullock,2,0,0,2
+Chicot,Planters Rural,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Chicot,Bowie 1,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Chicot,Bowie 2,U.S. President,,DEM,Steve Bullock,1,0,0,1
+Chicot,Bowie 3,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Chicot,Bowie Rural,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Chicot,Carlton 1 & 2,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Chicot,Carlton 3,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Chicot,Carlton Rural,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Chicot,Planters 1 & 2,U.S. President,,DEM,John K. Delaney,1,0,0,1
+Chicot,Planters 3 & 4,U.S. President,,DEM,John K. Delaney,4,0,0,4
+Chicot,Planters Rural,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Chicot,Bowie 1,U.S. President,,DEM,John K. Delaney,1,0,0,1
+Chicot,Bowie 2,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Chicot,Bowie 3,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Chicot,Bowie Rural,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Chicot,Carlton 1 & 2,U.S. President,,DEM,Joseph R. Biden,142,8,36,98
+Chicot,Carlton 3,U.S. President,,DEM,Joseph R. Biden,48,3,9,36
+Chicot,Carlton Rural,U.S. President,,DEM,Joseph R. Biden,59,1,18,40
+Chicot,Planters 1 & 2,U.S. President,,DEM,Joseph R. Biden,113,4,21,88
+Chicot,Planters 3 & 4,U.S. President,,DEM,Joseph R. Biden,118,7,23,88
+Chicot,Planters Rural,U.S. President,,DEM,Joseph R. Biden,39,2,13,24
+Chicot,Bowie 1,U.S. President,,DEM,Joseph R. Biden,55,3,2,50
+Chicot,Bowie 2,U.S. President,,DEM,Joseph R. Biden,66,1,4,61
+Chicot,Bowie 3,U.S. President,,DEM,Joseph R. Biden,63,1,2,60
+Chicot,Bowie Rural,U.S. President,,DEM,Joseph R. Biden,8,0,1,7
+Chicot,Carlton 1 & 2,U.S. President,,DEM,Marianne Williamson,0,0,0,0
+Chicot,Carlton 3,U.S. President,,DEM,Marianne Williamson,1,1,0,0
+Chicot,Carlton Rural,U.S. President,,DEM,Marianne Williamson,0,0,0,0
+Chicot,Planters 1 & 2,U.S. President,,DEM,Marianne Williamson,0,0,0,0
+Chicot,Planters 3 & 4,U.S. President,,DEM,Marianne Williamson,0,0,0,0
+Chicot,Planters Rural,U.S. President,,DEM,Marianne Williamson,0,0,0,0
+Chicot,Bowie 1,U.S. President,,DEM,Marianne Williamson,0,0,0,0
+Chicot,Bowie 2,U.S. President,,DEM,Marianne Williamson,0,0,0,0
+Chicot,Bowie 3,U.S. President,,DEM,Marianne Williamson,0,0,0,0
+Chicot,Bowie Rural,U.S. President,,DEM,Marianne Williamson,0,0,0,0
+Chicot,Carlton 1 & 2,U.S. President,,DEM,Elizabeth Warren,8,0,4,4
+Chicot,Carlton 3,U.S. President,,DEM,Elizabeth Warren,6,0,5,1
+Chicot,Carlton Rural,U.S. President,,DEM,Elizabeth Warren,6,0,2,4
+Chicot,Planters 1 & 2,U.S. President,,DEM,Elizabeth Warren,2,0,0,2
+Chicot,Planters 3 & 4,U.S. President,,DEM,Elizabeth Warren,9,0,1,8
+Chicot,Planters Rural,U.S. President,,DEM,Elizabeth Warren,4,0,0,4
+Chicot,Bowie 1,U.S. President,,DEM,Elizabeth Warren,5,0,0,5
+Chicot,Bowie 2,U.S. President,,DEM,Elizabeth Warren,5,0,0,5
+Chicot,Bowie 3,U.S. President,,DEM,Elizabeth Warren,0,0,0,0
+Chicot,Bowie Rural,U.S. President,,DEM,Elizabeth Warren,0,0,0,0
+Chicot,Carlton 1 & 2,U.S. President,,DEM,Andrew Yang,1,0,0,1
+Chicot,Carlton 3,U.S. President,,DEM,Andrew Yang,1,0,1,0
+Chicot,Carlton Rural,U.S. President,,DEM,Andrew Yang,1,0,1,0
+Chicot,Planters 1 & 2,U.S. President,,DEM,Andrew Yang,1,0,0,1
+Chicot,Planters 3 & 4,U.S. President,,DEM,Andrew Yang,0,0,0,0
+Chicot,Planters Rural,U.S. President,,DEM,Andrew Yang,0,0,0,0
+Chicot,Bowie 1,U.S. President,,DEM,Andrew Yang,0,0,0,0
+Chicot,Bowie 2,U.S. President,,DEM,Andrew Yang,0,0,0,0
+Chicot,Bowie 3,U.S. President,,DEM,Andrew Yang,0,0,0,0
+Chicot,Bowie Rural,U.S. President,,DEM,Andrew Yang,0,0,0,0
+Chicot,Carlton 1 & 2,U.S. President,,DEM,Joe Sestak,1,0,1,0
+Chicot,Carlton 3,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Chicot,Carlton Rural,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Chicot,Planters 1 & 2,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Chicot,Planters 3 & 4,U.S. President,,DEM,Joe Sestak,1,0,0,1
+Chicot,Planters Rural,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Chicot,Bowie 1,U.S. President,,DEM,Joe Sestak,1,0,0,1
+Chicot,Bowie 2,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Chicot,Bowie 3,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Chicot,Bowie Rural,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Chicot,Carlton 1 & 2,U.S. President,,DEM,Michael Bennet,2,0,1,1
+Chicot,Carlton 3,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Chicot,Carlton Rural,U.S. President,,DEM,Michael Bennet,2,0,0,2
+Chicot,Planters 1 & 2,U.S. President,,DEM,Michael Bennet,3,0,0,3
+Chicot,Planters 3 & 4,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Chicot,Planters Rural,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Chicot,Bowie 1,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Chicot,Bowie 2,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Chicot,Bowie 3,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Chicot,Bowie Rural,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Chicot,Carlton 1 & 2,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Chicot,Carlton 3,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Chicot,Carlton Rural,U.S. President,,DEM,Mosie Boyd,1,0,1,0
+Chicot,Planters 1 & 2,U.S. President,,DEM,Mosie Boyd,1,0,0,1
+Chicot,Planters 3 & 4,U.S. President,,DEM,Mosie Boyd,3,0,0,3
+Chicot,Planters Rural,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Chicot,Bowie 1,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Chicot,Bowie 2,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Chicot,Bowie 3,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Chicot,Bowie Rural,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Chicot,Carlton 1 & 2,U.S. President,,DEM,Bernie Sanders,37,1,14,22
+Chicot,Carlton 3,U.S. President,,DEM,Bernie Sanders,24,2,4,18
+Chicot,Carlton Rural,U.S. President,,DEM,Bernie Sanders,23,0,5,18
+Chicot,Planters 1 & 2,U.S. President,,DEM,Bernie Sanders,28,1,7,20
+Chicot,Planters 3 & 4,U.S. President,,DEM,Bernie Sanders,36,0,11,25
+Chicot,Planters Rural,U.S. President,,DEM,Bernie Sanders,9,0,3,6
+Chicot,Bowie 1,U.S. President,,DEM,Bernie Sanders,12,0,1,11
+Chicot,Bowie 2,U.S. President,,DEM,Bernie Sanders,16,0,3,13
+Chicot,Bowie 3,U.S. President,,DEM,Bernie Sanders,9,0,2,7
+Chicot,Bowie Rural,U.S. President,,DEM,Bernie Sanders,3,0,0,3
+Chicot,Carlton 1 & 2,U.S. President,,DEM,Kamala Harris,1,0,1,0
+Chicot,Carlton 3,U.S. President,,DEM,Kamala Harris,0,0,0,0
+Chicot,Carlton Rural,U.S. President,,DEM,Kamala Harris,2,0,0,2
+Chicot,Planters 1 & 2,U.S. President,,DEM,Kamala Harris,2,0,0,2
+Chicot,Planters 3 & 4,U.S. President,,DEM,Kamala Harris,1,0,0,1
+Chicot,Planters Rural,U.S. President,,DEM,Kamala Harris,0,0,0,0
+Chicot,Bowie 1,U.S. President,,DEM,Kamala Harris,0,0,0,0
+Chicot,Bowie 2,U.S. President,,DEM,Kamala Harris,1,0,0,1
+Chicot,Bowie 3,U.S. President,,DEM,Kamala Harris,1,0,0,1
+Chicot,Bowie Rural,U.S. President,,DEM,Kamala Harris,0,0,0,0
+Chicot,Carlton 1 & 2,U.S. President,,DEM,Cory Booker,0,0,0,0
+Chicot,Carlton 3,U.S. President,,DEM,Cory Booker,0,0,0,0
+Chicot,Carlton Rural,U.S. President,,DEM,Cory Booker,0,0,0,0
+Chicot,Planters 1 & 2,U.S. President,,DEM,Cory Booker,0,0,0,0
+Chicot,Planters 3 & 4,U.S. President,,DEM,Cory Booker,1,0,0,1
+Chicot,Planters Rural,U.S. President,,DEM,Cory Booker,0,0,0,0
+Chicot,Bowie 1,U.S. President,,DEM,Cory Booker,0,0,0,0
+Chicot,Bowie 2,U.S. President,,DEM,Cory Booker,0,0,0,0
+Chicot,Bowie 3,U.S. President,,DEM,Cory Booker,0,0,0,0
+Chicot,Bowie Rural,U.S. President,,DEM,Cory Booker,0,0,0,0
+Chicot,Carlton 1 & 2,U.S. President,,REP,Roque 'Rocky' De La Fuente,1,0,1,0
+Chicot,Carlton 3,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0
+Chicot,Carlton Rural,U.S. President,,REP,Roque 'Rocky' De La Fuente,1,0,1,0
+Chicot,Planters 1 & 2,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0
+Chicot,Planters 3 & 4,U.S. President,,REP,Roque 'Rocky' De La Fuente,1,0,0,1
+Chicot,Planters Rural,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0
+Chicot,Bowie 1,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0
+Chicot,Bowie 2,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0
+Chicot,Bowie 3,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0
+Chicot,Bowie Rural,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0
+Chicot,Carlton 1 & 2,U.S. President,,REP,Donald J. Trump,64,2,41,21
+Chicot,Carlton 3,U.S. President,,REP,Donald J. Trump,83,6,36,41
+Chicot,Carlton Rural,U.S. President,,REP,Donald J. Trump,348,12,193,143
+Chicot,Planters 1 & 2,U.S. President,,REP,Donald J. Trump,23,3,14,6
+Chicot,Planters 3 & 4,U.S. President,,REP,Donald J. Trump,3,0,3,0
+Chicot,Planters Rural,U.S. President,,REP,Donald J. Trump,109,4,41,64
+Chicot,Bowie 1,U.S. President,,REP,Donald J. Trump,5,1,2,2
+Chicot,Bowie 2,U.S. President,,REP,Donald J. Trump,23,2,2,19
+Chicot,Bowie 3,U.S. President,,REP,Donald J. Trump,27,5,2,20
+Chicot,Bowie Rural,U.S. President,,REP,Donald J. Trump,19,0,5,14
+Chicot,Carlton 1 & 2,U.S. President,,REP,Bill Weld,1,0,0,1
+Chicot,Carlton 3,U.S. President,,REP,Bill Weld,0,0,0,0
+Chicot,Carlton Rural,U.S. President,,REP,Bill Weld,3,0,1,2
+Chicot,Planters 1 & 2,U.S. President,,REP,Bill Weld,0,0,0,0
+Chicot,Planters 3 & 4,U.S. President,,REP,Bill Weld,1,0,1,0
+Chicot,Planters Rural,U.S. President,,REP,Bill Weld,0,0,0,0
+Chicot,Bowie 1,U.S. President,,REP,Bill Weld,0,0,0,0
+Chicot,Bowie 2,U.S. President,,REP,Bill Weld,0,0,0,0
+Chicot,Bowie 3,U.S. President,,REP,Bill Weld,0,0,0,0
+Chicot,Bowie Rural,U.S. President,,REP,Bill Weld,0,0,0,0
+Chicot,Carlton 1 & 2,State Senate District 26,,REP,Bill Dunklin,39,1,23,15
+Chicot,Carlton 3,State Senate District 26,,REP,Bill Dunklin,49,1,24,24
+Chicot,Carlton Rural,State Senate District 26,,REP,Bill Dunklin,227,7,123,97
+Chicot,Planters 1 & 2,State Senate District 26,,REP,Bill Dunklin,12,2,7,3
+Chicot,Planters 3 & 4,State Senate District 26,,REP,Bill Dunklin,3,0,2,1
+Chicot,Planters Rural,State Senate District 26,,REP,Bill Dunklin,63,0,22,41
+Chicot,Bowie 1,State Senate District 26,,REP,Bill Dunklin,4,1,2,1
+Chicot,Bowie 2,State Senate District 26,,REP,Bill Dunklin,14,2,3,9
+Chicot,Bowie 3,State Senate District 26,,REP,Bill Dunklin,19,3,1,15
+Chicot,Bowie Rural,State Senate District 26,,REP,Bill Dunklin,14,0,3,11
+Chicot,Carlton 1 & 2,State Senate District 26,,REP,Ben Gilmore,21,0,16,5
+Chicot,Carlton 3,State Senate District 26,,REP,Ben Gilmore,32,5,11,16
+Chicot,Carlton Rural,State Senate District 26,,REP,Ben Gilmore,117,4,68,45
+Chicot,Planters 1 & 2,State Senate District 26,,REP,Ben Gilmore,10,1,6,3
+Chicot,Planters 3 & 4,State Senate District 26,,REP,Ben Gilmore,2,0,2,0
+Chicot,Planters Rural,State Senate District 26,,REP,Ben Gilmore,43,4,18,21
+Chicot,Bowie 1,State Senate District 26,,REP,Ben Gilmore,1,0,0,1
+Chicot,Bowie 2,State Senate District 26,,REP,Ben Gilmore,10,0,0,10
+Chicot,Bowie 3,State Senate District 26,,REP,Ben Gilmore,9,2,1,6
+Chicot,Bowie Rural,State Senate District 26,,REP,Ben Gilmore,5,0,2,3
+Chicot,Planters 1 & 2,Mayor Eudora,,,Johnathan Raphael Patrick,93,10,29,54
+Chicot,Planters 3 & 4,Mayor Eudora,,,Johnathan Raphael Patrick,78,4,18,56
+Chicot,Planters 1 & 2,Mayor Eudora,,,Tomeka Butler,145,3,36,106
+Chicot,Planters 3 & 4,Mayor Eudora,,,Tomeka Butler,179,7,37,135
+Chicot,Carlton 1 & 2,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,112,4,46,62
+Chicot,Carlton 3,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,88,8,37,43
+Chicot,Carlton Rural,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,304,6,170,128
+Chicot,Planters 1 & 2,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,88,6,20,62
+Chicot,Planters 3 & 4,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,87,2,25,60
+Chicot,Planters Rural,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,82,5,33,44
+Chicot,Bowie 1,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,27,3,3,21
+Chicot,Bowie 2,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,65,2,7,56
+Chicot,Bowie 3,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,41,5,5,31
+Chicot,Bowie Rural,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,26,0,6,20
+Chicot,Carlton 1 & 2,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,195,9,82,104
+Chicot,Carlton 3,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,117,14,37,66
+Chicot,Carlton Rural,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,228,11,116,101
+Chicot,Planters 1 & 2,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,133,7,40,86
+Chicot,Planters 3 & 4,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,148,9,30,109
+Chicot,Planters Rural,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,106,4,31,71
+Chicot,Bowie 1,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,64,2,3,59
+Chicot,Bowie 2,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,81,3,12,66
+Chicot,Bowie 3,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,74,1,4,69
+Chicot,Bowie Rural,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,10,0,3,7
+Chicot,Carlton 1 & 2,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Crews Puryear,5,0,0,5
+Chicot,Carlton 3,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Crews Puryear,93,6,39,48
+Chicot,Carlton Rural,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Crews Puryear,196,7,131,58
+Chicot,Planters Rural,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Crews Puryear,67,3,27,37
+Chicot,Bowie Rural,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Crews Puryear,24,0,7,17
+Chicot,Carlton 1 & 2,Circuit Judge,"10, Division 1, Subdistrict 10.2",,City Attorney James A. Hamilton,5,0,4,1
+Chicot,Carlton 3,Circuit Judge,"10, Division 1, Subdistrict 10.2",,City Attorney James A. Hamilton,75,10,25,40
+Chicot,Carlton Rural,Circuit Judge,"10, Division 1, Subdistrict 10.2",,City Attorney James A. Hamilton,66,4,40,22
+Chicot,Planters Rural,Circuit Judge,"10, Division 1, Subdistrict 10.2",,City Attorney James A. Hamilton,66,3,17,46
+Chicot,Bowie Rural,Circuit Judge,"10, Division 1, Subdistrict 10.2",,City Attorney James A. Hamilton,8,0,2,6
+Chicot,Carlton 1 & 2,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Tim Leonard,2,0,1,1
+Chicot,Carlton 3,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Tim Leonard,42,6,12,24
+Chicot,Carlton Rural,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Tim Leonard,34,0,23,11
+Chicot,Planters Rural,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Tim Leonard,19,2,7,10
+Chicot,Bowie Rural,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Tim Leonard,4,0,0,4
+Chicot,Carlton 1 & 2,Circuit Judge,"10, Division 2, At Large",,Frank Spain,32,1,14,17
+Chicot,Carlton 3,Circuit Judge,"10, Division 2, At Large",,Frank Spain,33,0,10,23
+Chicot,Carlton Rural,Circuit Judge,"10, Division 2, At Large",,Frank Spain,72,4,28,40
+Chicot,Planters 1 & 2,Circuit Judge,"10, Division 2, At Large",,Frank Spain,25,3,9,13
+Chicot,Planters 3 & 4,Circuit Judge,"10, Division 2, At Large",,Frank Spain,30,1,7,22
+Chicot,Planters Rural,Circuit Judge,"10, Division 2, At Large",,Frank Spain,45,3,14,28
+Chicot,Bowie 1,Circuit Judge,"10, Division 2, At Large",,Frank Spain,14,2,2,10
+Chicot,Bowie 2,Circuit Judge,"10, Division 2, At Large",,Frank Spain,24,1,0,23
+Chicot,Bowie 3,Circuit Judge,"10, Division 2, At Large",,Frank Spain,30,4,2,24
+Chicot,Bowie Rural,Circuit Judge,"10, Division 2, At Large",,Frank Spain,12,0,3,9
+Chicot,Carlton 1 & 2,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,273,13,119,141
+Chicot,Carlton 3,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,162,17,63,82
+Chicot,Carlton Rural,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,427,14,237,176
+Chicot,Planters 1 & 2,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,183,10,47,126
+Chicot,Planters 3 & 4,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,193,8,40,145
+Chicot,Planters Rural,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,141,6,52,83
+Chicot,Bowie 1,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,57,3,5,49
+Chicot,Bowie 2,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,108,3,15,90
+Chicot,Bowie 3,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,63,2,8,53
+Chicot,Bowie Rural,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,22,0,5,17
+Chicot,Carlton 1 & 2,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,28,1,8,19
+Chicot,Carlton 3,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,23,5,8,10
+Chicot,Carlton Rural,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,47,1,27,19
+Chicot,Planters 1 & 2,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,26,0,9,17
+Chicot,Planters 3 & 4,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,32,2,8,22
+Chicot,Planters Rural,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,11,0,2,9
+Chicot,Bowie 1,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,26,0,0,26
+Chicot,Bowie 2,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,20,1,4,15
+Chicot,Bowie 3,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,26,0,1,25
+Chicot,Bowie Rural,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,3,0,1,2

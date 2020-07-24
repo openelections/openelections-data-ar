@@ -1,0 +1,797 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_vote,election_day
+Independence,Ruddell Rural,U.S. President,,Dem,Amy Klobuchar,1,0,0,1
+Independence,Ashley,U.S. President,,Dem,Amy Klobuchar,3,0,2,1
+Independence,Barren,U.S. President,,Dem,Amy Klobuchar,2,0,1,1
+Independence,Big Bottom Wycough Logan,U.S. President,,Dem,Amy Klobuchar,0,0,0,0
+Independence,Cushman Union,U.S. President,,Dem,Amy Klobuchar,3,0,2,1
+Independence,Departee,U.S. President,,Dem,Amy Klobuchar,0,0,0,0
+Independence,Dota,U.S. President,,Dem,Amy Klobuchar,5,0,2,3
+Independence,Fairview,U.S. President,,Dem,Amy Klobuchar,1,0,0,1
+Independence,Gainsboro,U.S. President,,Dem,Amy Klobuchar,4,0,0,4
+Independence,Greenbrier-Jamestown,U.S. President,,Dem,Amy Klobuchar,4,0,2,2
+Independence,Greenbrier-Locust Grove,U.S. President,,Dem,Amy Klobuchar,0,0,0,0
+Independence,Greenbrier-Desha,U.S. President,,Dem,Amy Klobuchar,0,0,0,0
+Independence,Hill,U.S. President,,Dem,Amy Klobuchar,0,0,0,0
+Independence,Huff,U.S. President,,Dem,Amy Klobuchar,1,0,0,1
+Independence,Jefferson,U.S. President,,Dem,Amy Klobuchar,0,0,0,0
+Independence,Liberty,U.S. President,,Dem,Amy Klobuchar,0,0,0,0
+Independence,Magness,U.S. President,,Dem,Amy Klobuchar,0,0,0,0
+Independence,Black River-Marshall,U.S. President,,Dem,Amy Klobuchar,0,0,0,0
+Independence,Oil Trough,U.S. President,,Dem,Amy Klobuchar,0,0,0,0
+Independence,Relief,U.S. President,,Dem,Amy Klobuchar,0,0,0,0
+Independence,Rosie,U.S. President,,Dem,Amy Klobuchar,3,0,0,3
+Independence,Salado,U.S. President,,Dem,Amy Klobuchar,0,0,0,0
+Independence,Washington,U.S. President,,Dem,Amy Klobuchar,5,0,1,4
+Independence,White River,U.S. President,,Dem,Amy Klobuchar,3,0,1,2
+Independence,"Big Bottom Wards 1,2,3",U.S. President,,Dem,Amy Klobuchar,3,0,2,1
+Independence,McHue,U.S. President,,Dem,Amy Klobuchar,3,0,0,3
+Independence,McHue 3,U.S. President,,Dem,Amy Klobuchar,2,0,0,2
+Independence,Moorefield,U.S. President,,Dem,Amy Klobuchar,2,0,1,1
+Independence,Ruddell Ward 1,U.S. President,,Dem,Amy Klobuchar,9,0,1,8
+Independence,Moorefield Ward 1,U.S. President,,Dem,Amy Klobuchar,6,0,0,6
+Independence,Ruddell Ward 2,U.S. President,,Dem,Amy Klobuchar,12,0,2,10
+Independence,Ruddell Ward 3,U.S. President,,Dem,Amy Klobuchar,1,0,0,1
+Independence,Ruddell Ward 4,U.S. President,,Dem,Amy Klobuchar,5,0,0,5
+Independence,Moorefield Ward 4,U.S. President,,Dem,Amy Klobuchar,1,0,0,1
+Independence,Ruddell Rural,U.S. President,,Dem,Michael Bennet,1,0,0,1
+Independence,Ashley,U.S. President,,Dem,Michael Bennet,0,0,0,0
+Independence,Barren,U.S. President,,Dem,Michael Bennet,0,0,0,0
+Independence,Big Bottom Wycough Logan,U.S. President,,Dem,Michael Bennet,0,0,0,0
+Independence,Cushman Union,U.S. President,,Dem,Michael Bennet,0,0,0,0
+Independence,Departee,U.S. President,,Dem,Michael Bennet,0,0,0,0
+Independence,Dota,U.S. President,,Dem,Michael Bennet,0,0,0,0
+Independence,Fairview,U.S. President,,Dem,Michael Bennet,0,0,0,0
+Independence,Gainsboro,U.S. President,,Dem,Michael Bennet,0,0,0,0
+Independence,Greenbrier-Jamestown,U.S. President,,Dem,Michael Bennet,0,0,0,0
+Independence,Greenbrier-Locust Grove,U.S. President,,Dem,Michael Bennet,0,0,0,0
+Independence,Greenbrier-Desha,U.S. President,,Dem,Michael Bennet,0,0,0,0
+Independence,Hill,U.S. President,,Dem,Michael Bennet,0,0,0,0
+Independence,Huff,U.S. President,,Dem,Michael Bennet,0,0,0,0
+Independence,Jefferson,U.S. President,,Dem,Michael Bennet,0,0,0,0
+Independence,Liberty,U.S. President,,Dem,Michael Bennet,0,0,0,0
+Independence,Magness,U.S. President,,Dem,Michael Bennet,0,0,0,0
+Independence,Black River-Marshall,U.S. President,,Dem,Michael Bennet,0,0,0,0
+Independence,Oil Trough,U.S. President,,Dem,Michael Bennet,0,0,0,0
+Independence,Relief,U.S. President,,Dem,Michael Bennet,0,0,0,0
+Independence,Rosie,U.S. President,,Dem,Michael Bennet,0,0,0,0
+Independence,Salado,U.S. President,,Dem,Michael Bennet,0,0,0,0
+Independence,Washington,U.S. President,,Dem,Michael Bennet,1,0,0,1
+Independence,White River,U.S. President,,Dem,Michael Bennet,0,0,0,0
+Independence,"Big Bottom Wards 1,2,3",U.S. President,,Dem,Michael Bennet,0,0,0,0
+Independence,McHue,U.S. President,,Dem,Michael Bennet,1,0,1,0
+Independence,McHue 3,U.S. President,,Dem,Michael Bennet,0,0,0,0
+Independence,Moorefield,U.S. President,,Dem,Michael Bennet,0,0,0,0
+Independence,Ruddell Ward 1,U.S. President,,Dem,Michael Bennet,0,0,0,0
+Independence,Moorefield Ward 1,U.S. President,,Dem,Michael Bennet,0,0,0,0
+Independence,Ruddell Ward 2,U.S. President,,Dem,Michael Bennet,1,0,0,1
+Independence,Ruddell Ward 3,U.S. President,,Dem,Michael Bennet,0,0,0,0
+Independence,Ruddell Ward 4,U.S. President,,Dem,Michael Bennet,0,0,0,0
+Independence,Moorefield Ward 4,U.S. President,,Dem,Michael Bennet,0,0,0,0
+Independence,Ruddell Rural,U.S. President,,Dem,Joseph R. Biden,31,0,20,11
+Independence,Ashley,U.S. President,,Dem,Joseph R. Biden,11,0,7,4
+Independence,Barren,U.S. President,,Dem,Joseph R. Biden,38,0,18,20
+Independence,Big Bottom Wycough Logan,U.S. President,,Dem,Joseph R. Biden,11,0,10,1
+Independence,Cushman Union,U.S. President,,Dem,Joseph R. Biden,29,0,26,3
+Independence,Departee,U.S. President,,Dem,Joseph R. Biden,5,0,5,0
+Independence,Dota,U.S. President,,Dem,Joseph R. Biden,26,0,21,5
+Independence,Fairview,U.S. President,,Dem,Joseph R. Biden,14,0,13,1
+Independence,Gainsboro,U.S. President,,Dem,Joseph R. Biden,16,0,11,5
+Independence,Greenbrier-Jamestown,U.S. President,,Dem,Joseph R. Biden,6,0,5,1
+Independence,Greenbrier-Locust Grove,U.S. President,,Dem,Joseph R. Biden,5,0,4,1
+Independence,Greenbrier-Desha,U.S. President,,Dem,Joseph R. Biden,27,0,20,7
+Independence,Hill,U.S. President,,Dem,Joseph R. Biden,2,0,2,0
+Independence,Huff,U.S. President,,Dem,Joseph R. Biden,10,0,3,7
+Independence,Jefferson,U.S. President,,Dem,Joseph R. Biden,9,0,9,0
+Independence,Liberty,U.S. President,,Dem,Joseph R. Biden,12,0,5,7
+Independence,Magness,U.S. President,,Dem,Joseph R. Biden,7,0,6,1
+Independence,Black River-Marshall,U.S. President,,Dem,Joseph R. Biden,6,0,5,1
+Independence,Oil Trough,U.S. President,,Dem,Joseph R. Biden,22,0,22,0
+Independence,Relief,U.S. President,,Dem,Joseph R. Biden,2,0,1,1
+Independence,Rosie,U.S. President,,Dem,Joseph R. Biden,11,1,5,5
+Independence,Salado,U.S. President,,Dem,Joseph R. Biden,16,0,5,11
+Independence,Washington,U.S. President,,Dem,Joseph R. Biden,18,0,12,6
+Independence,White River,U.S. President,,Dem,Joseph R. Biden,34,0,29,5
+Independence,"Big Bottom Wards 1,2,3",U.S. President,,Dem,Joseph R. Biden,14,0,13,1
+Independence,McHue,U.S. President,,Dem,Joseph R. Biden,56,0,25,31
+Independence,McHue 3,U.S. President,,Dem,Joseph R. Biden,12,0,6,6
+Independence,Moorefield,U.S. President,,Dem,Joseph R. Biden,39,0,29,10
+Independence,Ruddell Ward 1,U.S. President,,Dem,Joseph R. Biden,43,0,28,15
+Independence,Moorefield Ward 1,U.S. President,,Dem,Joseph R. Biden,64,1,36,27
+Independence,Ruddell Ward 2,U.S. President,,Dem,Joseph R. Biden,80,2,43,35
+Independence,Ruddell Ward 3,U.S. President,,Dem,Joseph R. Biden,48,0,34,14
+Independence,Ruddell Ward 4,U.S. President,,Dem,Joseph R. Biden,47,0,26,21
+Independence,Moorefield Ward 4,U.S. President,,Dem,Joseph R. Biden,25,0,18,7
+Independence,Ruddell Rural,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+Independence,Ashley,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+Independence,Barren,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+Independence,Big Bottom Wycough Logan,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+Independence,Cushman Union,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+Independence,Departee,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+Independence,Dota,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+Independence,Fairview,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+Independence,Gainsboro,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+Independence,Greenbrier-Jamestown,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+Independence,Greenbrier-Locust Grove,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+Independence,Greenbrier-Desha,U.S. President,,Dem,Mosie Boyd,1,0,0,1
+Independence,Hill,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+Independence,Huff,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+Independence,Jefferson,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+Independence,Liberty,U.S. President,,Dem,Mosie Boyd,1,0,1,0
+Independence,Magness,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+Independence,Black River-Marshall,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+Independence,Oil Trough,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+Independence,Relief,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+Independence,Rosie,U.S. President,,Dem,Mosie Boyd,1,0,0,1
+Independence,Salado,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+Independence,Washington,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+Independence,White River,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+Independence,"Big Bottom Wards 1,2,3",U.S. President,,Dem,Mosie Boyd,0,0,0,0
+Independence,McHue,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+Independence,McHue 3,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+Independence,Moorefield,U.S. President,,Dem,Mosie Boyd,1,0,1,0
+Independence,Ruddell Ward 1,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+Independence,Moorefield Ward 1,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+Independence,Ruddell Ward 2,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+Independence,Ruddell Ward 3,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+Independence,Ruddell Ward 4,U.S. President,,Dem,Mosie Boyd,1,0,0,1
+Independence,Moorefield Ward 4,U.S. President,,Dem,Mosie Boyd,0,0,0,0
+Independence,Ruddell Rural,U.S. President,,Dem,Pete Buttigieg,2,0,0,2
+Independence,Ashley,U.S. President,,Dem,Pete Buttigieg,1,0,1,0
+Independence,Barren,U.S. President,,Dem,Pete Buttigieg,0,0,0,0
+Independence,Big Bottom Wycough Logan,U.S. President,,Dem,Pete Buttigieg,0,0,0,0
+Independence,Cushman Union,U.S. President,,Dem,Pete Buttigieg,0,0,0,0
+Independence,Departee,U.S. President,,Dem,Pete Buttigieg,0,0,0,0
+Independence,Dota,U.S. President,,Dem,Pete Buttigieg,3,0,0,3
+Independence,Fairview,U.S. President,,Dem,Pete Buttigieg,0,0,0,0
+Independence,Gainsboro,U.S. President,,Dem,Pete Buttigieg,2,0,1,1
+Independence,Greenbrier-Jamestown,U.S. President,,Dem,Pete Buttigieg,0,0,0,0
+Independence,Greenbrier-Locust Grove,U.S. President,,Dem,Pete Buttigieg,0,0,0,0
+Independence,Greenbrier-Desha,U.S. President,,Dem,Pete Buttigieg,0,0,0,0
+Independence,Hill,U.S. President,,Dem,Pete Buttigieg,0,0,0,0
+Independence,Huff,U.S. President,,Dem,Pete Buttigieg,3,0,0,3
+Independence,Jefferson,U.S. President,,Dem,Pete Buttigieg,0,0,0,0
+Independence,Liberty,U.S. President,,Dem,Pete Buttigieg,0,0,0,0
+Independence,Magness,U.S. President,,Dem,Pete Buttigieg,0,0,0,0
+Independence,Black River-Marshall,U.S. President,,Dem,Pete Buttigieg,1,0,0,1
+Independence,Oil Trough,U.S. President,,Dem,Pete Buttigieg,0,0,0,0
+Independence,Relief,U.S. President,,Dem,Pete Buttigieg,1,0,0,1
+Independence,Rosie,U.S. President,,Dem,Pete Buttigieg,0,0,0,0
+Independence,Salado,U.S. President,,Dem,Pete Buttigieg,1,0,0,1
+Independence,Washington,U.S. President,,Dem,Pete Buttigieg,0,0,0,0
+Independence,White River,U.S. President,,Dem,Pete Buttigieg,1,0,0,1
+Independence,"Big Bottom Wards 1,2,3",U.S. President,,Dem,Pete Buttigieg,2,0,0,2
+Independence,McHue,U.S. President,,Dem,Pete Buttigieg,5,0,0,5
+Independence,McHue 3,U.S. President,,Dem,Pete Buttigieg,1,0,0,1
+Independence,Moorefield,U.S. President,,Dem,Pete Buttigieg,4,0,1,3
+Independence,Ruddell Ward 1,U.S. President,,Dem,Pete Buttigieg,6,0,1,5
+Independence,Moorefield Ward 1,U.S. President,,Dem,Pete Buttigieg,9,1,0,8
+Independence,Ruddell Ward 2,U.S. President,,Dem,Pete Buttigieg,9,0,0,9
+Independence,Ruddell Ward 3,U.S. President,,Dem,Pete Buttigieg,4,0,0,4
+Independence,Ruddell Ward 4,U.S. President,,Dem,Pete Buttigieg,4,0,0,4
+Independence,Moorefield Ward 4,U.S. President,,Dem,Pete Buttigieg,2,0,0,2
+Independence,Ruddell Rural,U.S. President,,Dem,Kamala Harris,0,0,0,0
+Independence,Ashley,U.S. President,,Dem,Kamala Harris,0,0,0,0
+Independence,Barren,U.S. President,,Dem,Kamala Harris,0,0,0,0
+Independence,Big Bottom Wycough Logan,U.S. President,,Dem,Kamala Harris,0,0,0,0
+Independence,Cushman Union,U.S. President,,Dem,Kamala Harris,0,0,0,0
+Independence,Departee,U.S. President,,Dem,Kamala Harris,0,0,0,0
+Independence,Dota,U.S. President,,Dem,Kamala Harris,0,0,0,0
+Independence,Fairview,U.S. President,,Dem,Kamala Harris,2,0,2,0
+Independence,Gainsboro,U.S. President,,Dem,Kamala Harris,0,0,0,0
+Independence,Greenbrier-Jamestown,U.S. President,,Dem,Kamala Harris,0,0,0,0
+Independence,Greenbrier-Locust Grove,U.S. President,,Dem,Kamala Harris,0,0,0,0
+Independence,Greenbrier-Desha,U.S. President,,Dem,Kamala Harris,0,0,0,0
+Independence,Hill,U.S. President,,Dem,Kamala Harris,0,0,0,0
+Independence,Huff,U.S. President,,Dem,Kamala Harris,0,0,0,0
+Independence,Jefferson,U.S. President,,Dem,Kamala Harris,0,0,0,0
+Independence,Liberty,U.S. President,,Dem,Kamala Harris,0,0,0,0
+Independence,Magness,U.S. President,,Dem,Kamala Harris,0,0,0,0
+Independence,Black River-Marshall,U.S. President,,Dem,Kamala Harris,0,0,0,0
+Independence,Oil Trough,U.S. President,,Dem,Kamala Harris,0,0,0,0
+Independence,Relief,U.S. President,,Dem,Kamala Harris,0,0,0,0
+Independence,Rosie,U.S. President,,Dem,Kamala Harris,0,0,0,0
+Independence,Salado,U.S. President,,Dem,Kamala Harris,0,0,0,0
+Independence,Washington,U.S. President,,Dem,Kamala Harris,1,0,0,1
+Independence,White River,U.S. President,,Dem,Kamala Harris,0,0,0,0
+Independence,"Big Bottom Wards 1,2,3",U.S. President,,Dem,Kamala Harris,0,0,0,0
+Independence,McHue,U.S. President,,Dem,Kamala Harris,0,0,0,0
+Independence,McHue 3,U.S. President,,Dem,Kamala Harris,1,0,1,0
+Independence,Moorefield,U.S. President,,Dem,Kamala Harris,0,0,0,0
+Independence,Ruddell Ward 1,U.S. President,,Dem,Kamala Harris,1,0,0,1
+Independence,Moorefield Ward 1,U.S. President,,Dem,Kamala Harris,0,0,0,0
+Independence,Ruddell Ward 2,U.S. President,,Dem,Kamala Harris,1,0,1,0
+Independence,Ruddell Ward 3,U.S. President,,Dem,Kamala Harris,0,0,0,0
+Independence,Ruddell Ward 4,U.S. President,,Dem,Kamala Harris,1,0,0,1
+Independence,Moorefield Ward 4,U.S. President,,Dem,Kamala Harris,0,0,0,0
+Independence,Ruddell Rural,U.S. President,,Dem,Andrew Yang,0,0,0,0
+Independence,Ashley,U.S. President,,Dem,Andrew Yang,0,0,0,0
+Independence,Barren,U.S. President,,Dem,Andrew Yang,0,0,0,0
+Independence,Big Bottom Wycough Logan,U.S. President,,Dem,Andrew Yang,0,0,0,0
+Independence,Cushman Union,U.S. President,,Dem,Andrew Yang,1,0,1,0
+Independence,Departee,U.S. President,,Dem,Andrew Yang,0,0,0,0
+Independence,Dota,U.S. President,,Dem,Andrew Yang,0,0,0,0
+Independence,Fairview,U.S. President,,Dem,Andrew Yang,0,0,0,0
+Independence,Gainsboro,U.S. President,,Dem,Andrew Yang,0,0,0,0
+Independence,Greenbrier-Jamestown,U.S. President,,Dem,Andrew Yang,0,0,0,0
+Independence,Greenbrier-Locust Grove,U.S. President,,Dem,Andrew Yang,0,0,0,0
+Independence,Greenbrier-Desha,U.S. President,,Dem,Andrew Yang,1,0,1,0
+Independence,Hill,U.S. President,,Dem,Andrew Yang,0,0,0,0
+Independence,Huff,U.S. President,,Dem,Andrew Yang,1,0,0,1
+Independence,Jefferson,U.S. President,,Dem,Andrew Yang,0,0,0,0
+Independence,Liberty,U.S. President,,Dem,Andrew Yang,0,0,0,0
+Independence,Magness,U.S. President,,Dem,Andrew Yang,1,0,1,0
+Independence,Black River-Marshall,U.S. President,,Dem,Andrew Yang,0,0,0,0
+Independence,Oil Trough,U.S. President,,Dem,Andrew Yang,0,0,0,0
+Independence,Relief,U.S. President,,Dem,Andrew Yang,0,0,0,0
+Independence,Rosie,U.S. President,,Dem,Andrew Yang,0,0,0,0
+Independence,Salado,U.S. President,,Dem,Andrew Yang,0,0,0,0
+Independence,Washington,U.S. President,,Dem,Andrew Yang,0,0,0,0
+Independence,White River,U.S. President,,Dem,Andrew Yang,0,0,0,0
+Independence,"Big Bottom Wards 1,2,3",U.S. President,,Dem,Andrew Yang,0,0,0,0
+Independence,McHue,U.S. President,,Dem,Andrew Yang,1,0,0,1
+Independence,McHue 3,U.S. President,,Dem,Andrew Yang,0,0,0,0
+Independence,Moorefield,U.S. President,,Dem,Andrew Yang,0,0,0,0
+Independence,Ruddell Ward 1,U.S. President,,Dem,Andrew Yang,0,0,0,0
+Independence,Moorefield Ward 1,U.S. President,,Dem,Andrew Yang,0,0,0,0
+Independence,Ruddell Ward 2,U.S. President,,Dem,Andrew Yang,1,0,0,1
+Independence,Ruddell Ward 3,U.S. President,,Dem,Andrew Yang,0,0,0,0
+Independence,Ruddell Ward 4,U.S. President,,Dem,Andrew Yang,0,0,0,0
+Independence,Moorefield Ward 4,U.S. President,,Dem,Andrew Yang,1,0,0,1
+Independence,Ruddell Rural,U.S. President,,Dem,Tulsi Gabbard,1,0,1,0
+Independence,Ashley,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0
+Independence,Barren,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0
+Independence,Big Bottom Wycough Logan,U.S. President,,Dem,Tulsi Gabbard,1,0,1,0
+Independence,Cushman Union,U.S. President,,Dem,Tulsi Gabbard,1,0,1,0
+Independence,Departee,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0
+Independence,Dota,U.S. President,,Dem,Tulsi Gabbard,1,0,1,0
+Independence,Fairview,U.S. President,,Dem,Tulsi Gabbard,1,0,1,0
+Independence,Gainsboro,U.S. President,,Dem,Tulsi Gabbard,1,0,1,0
+Independence,Greenbrier-Jamestown,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0
+Independence,Greenbrier-Locust Grove,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0
+Independence,Greenbrier-Desha,U.S. President,,Dem,Tulsi Gabbard,2,0,0,2
+Independence,Hill,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0
+Independence,Huff,U.S. President,,Dem,Tulsi Gabbard,1,0,0,1
+Independence,Jefferson,U.S. President,,Dem,Tulsi Gabbard,3,0,1,2
+Independence,Liberty,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0
+Independence,Magness,U.S. President,,Dem,Tulsi Gabbard,1,0,1,0
+Independence,Black River-Marshall,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0
+Independence,Oil Trough,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0
+Independence,Relief,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0
+Independence,Rosie,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0
+Independence,Salado,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0
+Independence,Washington,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0
+Independence,White River,U.S. President,,Dem,Tulsi Gabbard,2,0,2,0
+Independence,"Big Bottom Wards 1,2,3",U.S. President,,Dem,Tulsi Gabbard,0,0,0,0
+Independence,McHue,U.S. President,,Dem,Tulsi Gabbard,3,0,1,2
+Independence,McHue 3,U.S. President,,Dem,Tulsi Gabbard,1,0,0,1
+Independence,Moorefield,U.S. President,,Dem,Tulsi Gabbard,2,0,1,1
+Independence,Ruddell Ward 1,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0
+Independence,Moorefield Ward 1,U.S. President,,Dem,Tulsi Gabbard,1,0,1,0
+Independence,Ruddell Ward 2,U.S. President,,Dem,Tulsi Gabbard,1,0,1,0
+Independence,Ruddell Ward 3,U.S. President,,Dem,Tulsi Gabbard,1,0,1,0
+Independence,Ruddell Ward 4,U.S. President,,Dem,Tulsi Gabbard,2,0,1,1
+Independence,Moorefield Ward 4,U.S. President,,Dem,Tulsi Gabbard,2,0,1,1
+Independence,Ruddell Rural,U.S. President,,Dem,Steve Bullock,1,0,0,1
+Independence,Ashley,U.S. President,,Dem,Steve Bullock,0,0,0,0
+Independence,Barren,U.S. President,,Dem,Steve Bullock,0,0,0,0
+Independence,Big Bottom Wycough Logan,U.S. President,,Dem,Steve Bullock,0,0,0,0
+Independence,Cushman Union,U.S. President,,Dem,Steve Bullock,0,0,0,0
+Independence,Departee,U.S. President,,Dem,Steve Bullock,0,0,0,0
+Independence,Dota,U.S. President,,Dem,Steve Bullock,0,0,0,0
+Independence,Fairview,U.S. President,,Dem,Steve Bullock,0,0,0,0
+Independence,Gainsboro,U.S. President,,Dem,Steve Bullock,0,0,0,0
+Independence,Greenbrier-Jamestown,U.S. President,,Dem,Steve Bullock,0,0,0,0
+Independence,Greenbrier-Locust Grove,U.S. President,,Dem,Steve Bullock,0,0,0,0
+Independence,Greenbrier-Desha,U.S. President,,Dem,Steve Bullock,0,0,0,0
+Independence,Hill,U.S. President,,Dem,Steve Bullock,0,0,0,0
+Independence,Huff,U.S. President,,Dem,Steve Bullock,0,0,0,0
+Independence,Jefferson,U.S. President,,Dem,Steve Bullock,0,0,0,0
+Independence,Liberty,U.S. President,,Dem,Steve Bullock,1,0,1,0
+Independence,Magness,U.S. President,,Dem,Steve Bullock,0,0,0,0
+Independence,Black River-Marshall,U.S. President,,Dem,Steve Bullock,0,0,0,0
+Independence,Oil Trough,U.S. President,,Dem,Steve Bullock,0,0,0,0
+Independence,Relief,U.S. President,,Dem,Steve Bullock,0,0,0,0
+Independence,Rosie,U.S. President,,Dem,Steve Bullock,0,0,0,0
+Independence,Salado,U.S. President,,Dem,Steve Bullock,0,0,0,0
+Independence,Washington,U.S. President,,Dem,Steve Bullock,0,0,0,0
+Independence,White River,U.S. President,,Dem,Steve Bullock,0,0,0,0
+Independence,"Big Bottom Wards 1,2,3",U.S. President,,Dem,Steve Bullock,1,0,1,0
+Independence,McHue,U.S. President,,Dem,Steve Bullock,1,0,1,0
+Independence,McHue 3,U.S. President,,Dem,Steve Bullock,0,0,0,0
+Independence,Moorefield,U.S. President,,Dem,Steve Bullock,0,0,0,0
+Independence,Ruddell Ward 1,U.S. President,,Dem,Steve Bullock,0,0,0,0
+Independence,Moorefield Ward 1,U.S. President,,Dem,Steve Bullock,0,0,0,0
+Independence,Ruddell Ward 2,U.S. President,,Dem,Steve Bullock,1,0,0,1
+Independence,Ruddell Ward 3,U.S. President,,Dem,Steve Bullock,0,0,0,0
+Independence,Ruddell Ward 4,U.S. President,,Dem,Steve Bullock,0,0,0,0
+Independence,Moorefield Ward 4,U.S. President,,Dem,Steve Bullock,0,0,0,0
+Independence,Ruddell Rural,U.S. President,,Dem,Tom Steyer,1,0,0,1
+Independence,Ashley,U.S. President,,Dem,Tom Steyer,0,0,0,0
+Independence,Barren,U.S. President,,Dem,Tom Steyer,2,0,0,2
+Independence,Big Bottom Wycough Logan,U.S. President,,Dem,Tom Steyer,0,0,0,0
+Independence,Cushman Union,U.S. President,,Dem,Tom Steyer,0,0,0,0
+Independence,Departee,U.S. President,,Dem,Tom Steyer,0,0,0,0
+Independence,Dota,U.S. President,,Dem,Tom Steyer,1,0,0,1
+Independence,Fairview,U.S. President,,Dem,Tom Steyer,0,0,0,0
+Independence,Gainsboro,U.S. President,,Dem,Tom Steyer,1,0,1,0
+Independence,Greenbrier-Jamestown,U.S. President,,Dem,Tom Steyer,0,0,0,0
+Independence,Greenbrier-Locust Grove,U.S. President,,Dem,Tom Steyer,0,0,0,0
+Independence,Greenbrier-Desha,U.S. President,,Dem,Tom Steyer,0,0,0,0
+Independence,Hill,U.S. President,,Dem,Tom Steyer,0,0,0,0
+Independence,Huff,U.S. President,,Dem,Tom Steyer,0,0,0,0
+Independence,Jefferson,U.S. President,,Dem,Tom Steyer,0,0,0,0
+Independence,Liberty,U.S. President,,Dem,Tom Steyer,0,0,0,0
+Independence,Magness,U.S. President,,Dem,Tom Steyer,1,0,1,0
+Independence,Black River-Marshall,U.S. President,,Dem,Tom Steyer,0,0,0,0
+Independence,Oil Trough,U.S. President,,Dem,Tom Steyer,0,0,0,0
+Independence,Relief,U.S. President,,Dem,Tom Steyer,0,0,0,0
+Independence,Rosie,U.S. President,,Dem,Tom Steyer,0,0,0,0
+Independence,Salado,U.S. President,,Dem,Tom Steyer,0,0,0,0
+Independence,Washington,U.S. President,,Dem,Tom Steyer,1,0,0,1
+Independence,White River,U.S. President,,Dem,Tom Steyer,1,0,1,0
+Independence,"Big Bottom Wards 1,2,3",U.S. President,,Dem,Tom Steyer,0,0,0,0
+Independence,McHue,U.S. President,,Dem,Tom Steyer,4,0,1,3
+Independence,McHue 3,U.S. President,,Dem,Tom Steyer,1,0,0,1
+Independence,Moorefield,U.S. President,,Dem,Tom Steyer,2,0,1,1
+Independence,Ruddell Ward 1,U.S. President,,Dem,Tom Steyer,1,0,0,1
+Independence,Moorefield Ward 1,U.S. President,,Dem,Tom Steyer,2,0,0,2
+Independence,Ruddell Ward 2,U.S. President,,Dem,Tom Steyer,0,0,0,0
+Independence,Ruddell Ward 3,U.S. President,,Dem,Tom Steyer,3,0,1,2
+Independence,Ruddell Ward 4,U.S. President,,Dem,Tom Steyer,2,0,0,2
+Independence,Moorefield Ward 4,U.S. President,,Dem,Tom Steyer,1,1,0,0
+Independence,Ruddell Rural,U.S. President,,Dem,John K. Delaney,0,0,0,0
+Independence,Ashley,U.S. President,,Dem,John K. Delaney,0,0,0,0
+Independence,Barren,U.S. President,,Dem,John K. Delaney,0,0,0,0
+Independence,Big Bottom Wycough Logan,U.S. President,,Dem,John K. Delaney,0,0,0,0
+Independence,Cushman Union,U.S. President,,Dem,John K. Delaney,0,0,0,0
+Independence,Departee,U.S. President,,Dem,John K. Delaney,0,0,0,0
+Independence,Dota,U.S. President,,Dem,John K. Delaney,0,0,0,0
+Independence,Fairview,U.S. President,,Dem,John K. Delaney,0,0,0,0
+Independence,Gainsboro,U.S. President,,Dem,John K. Delaney,0,0,0,0
+Independence,Greenbrier-Jamestown,U.S. President,,Dem,John K. Delaney,0,0,0,0
+Independence,Greenbrier-Locust Grove,U.S. President,,Dem,John K. Delaney,0,0,0,0
+Independence,Greenbrier-Desha,U.S. President,,Dem,John K. Delaney,0,0,0,0
+Independence,Hill,U.S. President,,Dem,John K. Delaney,0,0,0,0
+Independence,Huff,U.S. President,,Dem,John K. Delaney,0,0,0,0
+Independence,Jefferson,U.S. President,,Dem,John K. Delaney,0,0,0,0
+Independence,Liberty,U.S. President,,Dem,John K. Delaney,0,0,0,0
+Independence,Magness,U.S. President,,Dem,John K. Delaney,0,0,0,0
+Independence,Black River-Marshall,U.S. President,,Dem,John K. Delaney,0,0,0,0
+Independence,Oil Trough,U.S. President,,Dem,John K. Delaney,0,0,0,0
+Independence,Relief,U.S. President,,Dem,John K. Delaney,1,0,0,1
+Independence,Rosie,U.S. President,,Dem,John K. Delaney,0,0,0,0
+Independence,Salado,U.S. President,,Dem,John K. Delaney,0,0,0,0
+Independence,Washington,U.S. President,,Dem,John K. Delaney,0,0,0,0
+Independence,White River,U.S. President,,Dem,John K. Delaney,0,0,0,0
+Independence,"Big Bottom Wards 1,2,3",U.S. President,,Dem,John K. Delaney,1,0,1,0
+Independence,McHue,U.S. President,,Dem,John K. Delaney,0,0,0,0
+Independence,McHue 3,U.S. President,,Dem,John K. Delaney,0,0,0,0
+Independence,Moorefield,U.S. President,,Dem,John K. Delaney,0,0,0,0
+Independence,Ruddell Ward 1,U.S. President,,Dem,John K. Delaney,0,0,0,0
+Independence,Moorefield Ward 1,U.S. President,,Dem,John K. Delaney,0,0,0,0
+Independence,Ruddell Ward 2,U.S. President,,Dem,John K. Delaney,0,0,0,0
+Independence,Ruddell Ward 3,U.S. President,,Dem,John K. Delaney,0,0,0,0
+Independence,Ruddell Ward 4,U.S. President,,Dem,John K. Delaney,0,0,0,0
+Independence,Moorefield Ward 4,U.S. President,,Dem,John K. Delaney,0,0,0,0
+Independence,Ruddell Rural,U.S. President,,Dem,Bernie Sanders,10,0,6,4
+Independence,Ashley,U.S. President,,Dem,Bernie Sanders,11,0,8,3
+Independence,Barren,U.S. President,,Dem,Bernie Sanders,14,0,9,5
+Independence,Big Bottom Wycough Logan,U.S. President,,Dem,Bernie Sanders,2,0,1,1
+Independence,Cushman Union,U.S. President,,Dem,Bernie Sanders,11,0,8,3
+Independence,Departee,U.S. President,,Dem,Bernie Sanders,2,0,2,0
+Independence,Dota,U.S. President,,Dem,Bernie Sanders,10,0,10,0
+Independence,Fairview,U.S. President,,Dem,Bernie Sanders,7,0,3,4
+Independence,Gainsboro,U.S. President,,Dem,Bernie Sanders,10,0,5,5
+Independence,Greenbrier-Jamestown,U.S. President,,Dem,Bernie Sanders,2,0,2,0
+Independence,Greenbrier-Locust Grove,U.S. President,,Dem,Bernie Sanders,6,0,5,1
+Independence,Greenbrier-Desha,U.S. President,,Dem,Bernie Sanders,4,0,3,1
+Independence,Hill,U.S. President,,Dem,Bernie Sanders,3,0,3,0
+Independence,Huff,U.S. President,,Dem,Bernie Sanders,4,0,2,2
+Independence,Jefferson,U.S. President,,Dem,Bernie Sanders,1,0,1,0
+Independence,Liberty,U.S. President,,Dem,Bernie Sanders,6,0,3,3
+Independence,Magness,U.S. President,,Dem,Bernie Sanders,1,0,0,1
+Independence,Black River-Marshall,U.S. President,,Dem,Bernie Sanders,0,0,0,0
+Independence,Oil Trough,U.S. President,,Dem,Bernie Sanders,6,0,6,0
+Independence,Relief,U.S. President,,Dem,Bernie Sanders,4,0,1,3
+Independence,Rosie,U.S. President,,Dem,Bernie Sanders,4,0,2,2
+Independence,Salado,U.S. President,,Dem,Bernie Sanders,16,0,9,7
+Independence,Washington,U.S. President,,Dem,Bernie Sanders,10,0,7,3
+Independence,White River,U.S. President,,Dem,Bernie Sanders,12,0,9,3
+Independence,"Big Bottom Wards 1,2,3",U.S. President,,Dem,Bernie Sanders,10,0,9,1
+Independence,McHue,U.S. President,,Dem,Bernie Sanders,31,0,15,16
+Independence,McHue 3,U.S. President,,Dem,Bernie Sanders,8,0,4,4
+Independence,Moorefield,U.S. President,,Dem,Bernie Sanders,14,0,5,9
+Independence,Ruddell Ward 1,U.S. President,,Dem,Bernie Sanders,16,0,10,6
+Independence,Moorefield Ward 1,U.S. President,,Dem,Bernie Sanders,17,0,10,7
+Independence,Ruddell Ward 2,U.S. President,,Dem,Bernie Sanders,35,0,18,17
+Independence,Ruddell Ward 3,U.S. President,,Dem,Bernie Sanders,24,0,19,5
+Independence,Ruddell Ward 4,U.S. President,,Dem,Bernie Sanders,22,0,13,9
+Independence,Moorefield Ward 4,U.S. President,,Dem,Bernie Sanders,21,0,10,11
+Independence,Ruddell Rural,U.S. President,,Dem,Marianne Williamson,0,0,0,0
+Independence,Ashley,U.S. President,,Dem,Marianne Williamson,0,0,0,0
+Independence,Barren,U.S. President,,Dem,Marianne Williamson,0,0,0,0
+Independence,Big Bottom Wycough Logan,U.S. President,,Dem,Marianne Williamson,0,0,0,0
+Independence,Cushman Union,U.S. President,,Dem,Marianne Williamson,1,0,0,1
+Independence,Departee,U.S. President,,Dem,Marianne Williamson,0,0,0,0
+Independence,Dota,U.S. President,,Dem,Marianne Williamson,0,0,0,0
+Independence,Fairview,U.S. President,,Dem,Marianne Williamson,0,0,0,0
+Independence,Gainsboro,U.S. President,,Dem,Marianne Williamson,0,0,0,0
+Independence,Greenbrier-Jamestown,U.S. President,,Dem,Marianne Williamson,0,0,0,0
+Independence,Greenbrier-Locust Grove,U.S. President,,Dem,Marianne Williamson,0,0,0,0
+Independence,Greenbrier-Desha,U.S. President,,Dem,Marianne Williamson,0,0,0,0
+Independence,Hill,U.S. President,,Dem,Marianne Williamson,0,0,0,0
+Independence,Huff,U.S. President,,Dem,Marianne Williamson,1,0,0,1
+Independence,Jefferson,U.S. President,,Dem,Marianne Williamson,0,0,0,0
+Independence,Liberty,U.S. President,,Dem,Marianne Williamson,1,0,1,0
+Independence,Magness,U.S. President,,Dem,Marianne Williamson,0,0,0,0
+Independence,Black River-Marshall,U.S. President,,Dem,Marianne Williamson,0,0,0,0
+Independence,Oil Trough,U.S. President,,Dem,Marianne Williamson,1,0,1,0
+Independence,Relief,U.S. President,,Dem,Marianne Williamson,0,0,0,0
+Independence,Rosie,U.S. President,,Dem,Marianne Williamson,0,0,0,0
+Independence,Salado,U.S. President,,Dem,Marianne Williamson,0,0,0,0
+Independence,Washington,U.S. President,,Dem,Marianne Williamson,1,0,0,1
+Independence,White River,U.S. President,,Dem,Marianne Williamson,0,0,0,0
+Independence,"Big Bottom Wards 1,2,3",U.S. President,,Dem,Marianne Williamson,0,0,0,0
+Independence,McHue,U.S. President,,Dem,Marianne Williamson,1,0,1,0
+Independence,McHue 3,U.S. President,,Dem,Marianne Williamson,0,0,0,0
+Independence,Moorefield,U.S. President,,Dem,Marianne Williamson,0,0,0,0
+Independence,Ruddell Ward 1,U.S. President,,Dem,Marianne Williamson,0,0,0,0
+Independence,Moorefield Ward 1,U.S. President,,Dem,Marianne Williamson,0,0,0,0
+Independence,Ruddell Ward 2,U.S. President,,Dem,Marianne Williamson,2,0,0,2
+Independence,Ruddell Ward 3,U.S. President,,Dem,Marianne Williamson,0,0,0,0
+Independence,Ruddell Ward 4,U.S. President,,Dem,Marianne Williamson,1,0,0,1
+Independence,Moorefield Ward 4,U.S. President,,Dem,Marianne Williamson,0,0,0,0
+Independence,Ruddell Rural,U.S. President,,Dem,Elizabeth Warren,10,0,5,5
+Independence,Ashley,U.S. President,,Dem,Elizabeth Warren,4,0,4,0
+Independence,Barren,U.S. President,,Dem,Elizabeth Warren,4,2,2,0
+Independence,Big Bottom Wycough Logan,U.S. President,,Dem,Elizabeth Warren,2,0,2,0
+Independence,Cushman Union,U.S. President,,Dem,Elizabeth Warren,9,0,5,4
+Independence,Departee,U.S. President,,Dem,Elizabeth Warren,1,0,1,0
+Independence,Dota,U.S. President,,Dem,Elizabeth Warren,6,0,6,0
+Independence,Fairview,U.S. President,,Dem,Elizabeth Warren,3,0,2,1
+Independence,Gainsboro,U.S. President,,Dem,Elizabeth Warren,1,0,1,0
+Independence,Greenbrier-Jamestown,U.S. President,,Dem,Elizabeth Warren,7,0,5,2
+Independence,Greenbrier-Locust Grove,U.S. President,,Dem,Elizabeth Warren,2,0,0,2
+Independence,Greenbrier-Desha,U.S. President,,Dem,Elizabeth Warren,8,0,7,1
+Independence,Hill,U.S. President,,Dem,Elizabeth Warren,3,0,3,0
+Independence,Huff,U.S. President,,Dem,Elizabeth Warren,3,0,1,2
+Independence,Jefferson,U.S. President,,Dem,Elizabeth Warren,2,0,2,0
+Independence,Liberty,U.S. President,,Dem,Elizabeth Warren,1,0,0,1
+Independence,Magness,U.S. President,,Dem,Elizabeth Warren,1,0,0,1
+Independence,Black River-Marshall,U.S. President,,Dem,Elizabeth Warren,0,0,0,0
+Independence,Oil Trough,U.S. President,,Dem,Elizabeth Warren,6,0,6,0
+Independence,Relief,U.S. President,,Dem,Elizabeth Warren,0,0,0,0
+Independence,Rosie,U.S. President,,Dem,Elizabeth Warren,2,0,0,2
+Independence,Salado,U.S. President,,Dem,Elizabeth Warren,2,0,1,1
+Independence,Washington,U.S. President,,Dem,Elizabeth Warren,1,0,0,1
+Independence,White River,U.S. President,,Dem,Elizabeth Warren,10,0,6,4
+Independence,"Big Bottom Wards 1,2,3",U.S. President,,Dem,Elizabeth Warren,11,0,6,5
+Independence,McHue,U.S. President,,Dem,Elizabeth Warren,6,0,3,3
+Independence,McHue 3,U.S. President,,Dem,Elizabeth Warren,12,0,8,4
+Independence,Moorefield,U.S. President,,Dem,Elizabeth Warren,15,1,10,4
+Independence,Ruddell Ward 1,U.S. President,,Dem,Elizabeth Warren,9,0,5,4
+Independence,Moorefield Ward 1,U.S. President,,Dem,Elizabeth Warren,9,1,2,6
+Independence,Ruddell Ward 2,U.S. President,,Dem,Elizabeth Warren,23,0,12,11
+Independence,Ruddell Ward 3,U.S. President,,Dem,Elizabeth Warren,6,0,4,2
+Independence,Ruddell Ward 4,U.S. President,,Dem,Elizabeth Warren,12,0,7,5
+Independence,Moorefield Ward 4,U.S. President,,Dem,Elizabeth Warren,9,1,6,2
+Independence,Ruddell Rural,U.S. President,,Dem,Michael R. Bloomberg,20,0,11,9
+Independence,Ashley,U.S. President,,Dem,Michael R. Bloomberg,8,0,8,0
+Independence,Barren,U.S. President,,Dem,Michael R. Bloomberg,5,0,2,3
+Independence,Big Bottom Wycough Logan,U.S. President,,Dem,Michael R. Bloomberg,1,0,0,1
+Independence,Cushman Union,U.S. President,,Dem,Michael R. Bloomberg,4,1,2,1
+Independence,Departee,U.S. President,,Dem,Michael R. Bloomberg,0,0,0,0
+Independence,Dota,U.S. President,,Dem,Michael R. Bloomberg,6,0,6,0
+Independence,Fairview,U.S. President,,Dem,Michael R. Bloomberg,5,0,4,1
+Independence,Gainsboro,U.S. President,,Dem,Michael R. Bloomberg,8,0,3,5
+Independence,Greenbrier-Jamestown,U.S. President,,Dem,Michael R. Bloomberg,0,0,0,0
+Independence,Greenbrier-Locust Grove,U.S. President,,Dem,Michael R. Bloomberg,2,0,2,0
+Independence,Greenbrier-Desha,U.S. President,,Dem,Michael R. Bloomberg,9,0,3,6
+Independence,Hill,U.S. President,,Dem,Michael R. Bloomberg,2,0,2,0
+Independence,Huff,U.S. President,,Dem,Michael R. Bloomberg,3,0,0,3
+Independence,Jefferson,U.S. President,,Dem,Michael R. Bloomberg,4,0,0,4
+Independence,Liberty,U.S. President,,Dem,Michael R. Bloomberg,8,0,4,4
+Independence,Magness,U.S. President,,Dem,Michael R. Bloomberg,4,0,2,2
+Independence,Black River-Marshall,U.S. President,,Dem,Michael R. Bloomberg,2,0,2,0
+Independence,Oil Trough,U.S. President,,Dem,Michael R. Bloomberg,5,0,5,0
+Independence,Relief,U.S. President,,Dem,Michael R. Bloomberg,9,0,4,5
+Independence,Rosie,U.S. President,,Dem,Michael R. Bloomberg,5,0,1,4
+Independence,Salado,U.S. President,,Dem,Michael R. Bloomberg,12,0,7,5
+Independence,Washington,U.S. President,,Dem,Michael R. Bloomberg,11,0,1,10
+Independence,White River,U.S. President,,Dem,Michael R. Bloomberg,17,0,12,5
+Independence,"Big Bottom Wards 1,2,3",U.S. President,,Dem,Michael R. Bloomberg,6,0,6,0
+Independence,McHue,U.S. President,,Dem,Michael R. Bloomberg,30,1,13,16
+Independence,McHue 3,U.S. President,,Dem,Michael R. Bloomberg,7,0,2,5
+Independence,Moorefield,U.S. President,,Dem,Michael R. Bloomberg,11,0,5,6
+Independence,Ruddell Ward 1,U.S. President,,Dem,Michael R. Bloomberg,18,0,6,12
+Independence,Moorefield Ward 1,U.S. President,,Dem,Michael R. Bloomberg,38,0,10,28
+Independence,Ruddell Ward 2,U.S. President,,Dem,Michael R. Bloomberg,35,0,18,17
+Independence,Ruddell Ward 3,U.S. President,,Dem,Michael R. Bloomberg,19,0,12,7
+Independence,Ruddell Ward 4,U.S. President,,Dem,Michael R. Bloomberg,12,0,5,7
+Independence,Moorefield Ward 4,U.S. President,,Dem,Michael R. Bloomberg,12,0,2,10
+Independence,Ruddell Rural,U.S. President,,Dem,Joe Sestak,0,0,0,0
+Independence,Ashley,U.S. President,,Dem,Joe Sestak,0,0,0,0
+Independence,Barren,U.S. President,,Dem,Joe Sestak,0,0,0,0
+Independence,Big Bottom Wycough Logan,U.S. President,,Dem,Joe Sestak,0,0,0,0
+Independence,Cushman Union,U.S. President,,Dem,Joe Sestak,0,0,0,0
+Independence,Departee,U.S. President,,Dem,Joe Sestak,0,0,0,0
+Independence,Dota,U.S. President,,Dem,Joe Sestak,0,0,0,0
+Independence,Fairview,U.S. President,,Dem,Joe Sestak,0,0,0,0
+Independence,Gainsboro,U.S. President,,Dem,Joe Sestak,1,0,1,0
+Independence,Greenbrier-Jamestown,U.S. President,,Dem,Joe Sestak,0,0,0,0
+Independence,Greenbrier-Locust Grove,U.S. President,,Dem,Joe Sestak,0,0,0,0
+Independence,Greenbrier-Desha,U.S. President,,Dem,Joe Sestak,0,0,0,0
+Independence,Hill,U.S. President,,Dem,Joe Sestak,0,0,0,0
+Independence,Huff,U.S. President,,Dem,Joe Sestak,0,0,0,0
+Independence,Jefferson,U.S. President,,Dem,Joe Sestak,0,0,0,0
+Independence,Liberty,U.S. President,,Dem,Joe Sestak,0,0,0,0
+Independence,Magness,U.S. President,,Dem,Joe Sestak,0,0,0,0
+Independence,Black River-Marshall,U.S. President,,Dem,Joe Sestak,0,0,0,0
+Independence,Oil Trough,U.S. President,,Dem,Joe Sestak,0,0,0,0
+Independence,Relief,U.S. President,,Dem,Joe Sestak,0,0,0,0
+Independence,Rosie,U.S. President,,Dem,Joe Sestak,0,0,0,0
+Independence,Salado,U.S. President,,Dem,Joe Sestak,0,0,0,0
+Independence,Washington,U.S. President,,Dem,Joe Sestak,1,0,0,1
+Independence,White River,U.S. President,,Dem,Joe Sestak,0,0,0,0
+Independence,"Big Bottom Wards 1,2,3",U.S. President,,Dem,Joe Sestak,0,0,0,0
+Independence,McHue,U.S. President,,Dem,Joe Sestak,0,0,0,0
+Independence,McHue 3,U.S. President,,Dem,Joe Sestak,0,0,0,0
+Independence,Moorefield,U.S. President,,Dem,Joe Sestak,0,0,0,0
+Independence,Ruddell Ward 1,U.S. President,,Dem,Joe Sestak,0,0,0,0
+Independence,Moorefield Ward 1,U.S. President,,Dem,Joe Sestak,0,0,0,0
+Independence,Ruddell Ward 2,U.S. President,,Dem,Joe Sestak,0,0,0,0
+Independence,Ruddell Ward 3,U.S. President,,Dem,Joe Sestak,0,0,0,0
+Independence,Ruddell Ward 4,U.S. President,,Dem,Joe Sestak,0,0,0,0
+Independence,Moorefield Ward 4,U.S. President,,Dem,Joe Sestak,0,0,0,0
+Independence,Ruddell Rural,U.S. President,,Dem,Cory Booker,0,0,0,0
+Independence,Ashley,U.S. President,,Dem,Cory Booker,0,0,0,0
+Independence,Barren,U.S. President,,Dem,Cory Booker,0,0,0,0
+Independence,Big Bottom Wycough Logan,U.S. President,,Dem,Cory Booker,1,0,0,1
+Independence,Cushman Union,U.S. President,,Dem,Cory Booker,0,0,0,0
+Independence,Departee,U.S. President,,Dem,Cory Booker,0,0,0,0
+Independence,Dota,U.S. President,,Dem,Cory Booker,2,0,1,1
+Independence,Fairview,U.S. President,,Dem,Cory Booker,0,0,0,0
+Independence,Gainsboro,U.S. President,,Dem,Cory Booker,0,0,0,0
+Independence,Greenbrier-Jamestown,U.S. President,,Dem,Cory Booker,0,0,0,0
+Independence,Greenbrier-Locust Grove,U.S. President,,Dem,Cory Booker,0,0,0,0
+Independence,Greenbrier-Desha,U.S. President,,Dem,Cory Booker,0,0,0,0
+Independence,Hill,U.S. President,,Dem,Cory Booker,0,0,0,0
+Independence,Huff,U.S. President,,Dem,Cory Booker,0,0,0,0
+Independence,Jefferson,U.S. President,,Dem,Cory Booker,0,0,0,0
+Independence,Liberty,U.S. President,,Dem,Cory Booker,0,0,0,0
+Independence,Magness,U.S. President,,Dem,Cory Booker,0,0,0,0
+Independence,Black River-Marshall,U.S. President,,Dem,Cory Booker,0,0,0,0
+Independence,Oil Trough,U.S. President,,Dem,Cory Booker,0,0,0,0
+Independence,Relief,U.S. President,,Dem,Cory Booker,0,0,0,0
+Independence,Rosie,U.S. President,,Dem,Cory Booker,0,0,0,0
+Independence,Salado,U.S. President,,Dem,Cory Booker,1,0,1,0
+Independence,Washington,U.S. President,,Dem,Cory Booker,0,0,0,0
+Independence,White River,U.S. President,,Dem,Cory Booker,0,0,0,0
+Independence,"Big Bottom Wards 1,2,3",U.S. President,,Dem,Cory Booker,0,0,0,0
+Independence,McHue,U.S. President,,Dem,Cory Booker,0,0,0,0
+Independence,McHue 3,U.S. President,,Dem,Cory Booker,0,0,0,0
+Independence,Moorefield,U.S. President,,Dem,Cory Booker,0,0,0,0
+Independence,Ruddell Ward 1,U.S. President,,Dem,Cory Booker,0,0,0,0
+Independence,Moorefield Ward 1,U.S. President,,Dem,Cory Booker,1,0,1,0
+Independence,Ruddell Ward 2,U.S. President,,Dem,Cory Booker,1,0,1,0
+Independence,Ruddell Ward 3,U.S. President,,Dem,Cory Booker,2,0,1,1
+Independence,Ruddell Ward 4,U.S. President,,Dem,Cory Booker,0,0,0,0
+Independence,Moorefield Ward 4,U.S. President,,Dem,Cory Booker,0,0,0,0
+Independence,Ruddell Rural,U.S. President,,Dem,Julian Castro,0,0,0,0
+Independence,Ashley,U.S. President,,Dem,Julian Castro,0,0,0,0
+Independence,Barren,U.S. President,,Dem,Julian Castro,1,0,1,0
+Independence,Big Bottom Wycough Logan,U.S. President,,Dem,Julian Castro,0,0,0,0
+Independence,Cushman Union,U.S. President,,Dem,Julian Castro,0,0,0,0
+Independence,Departee,U.S. President,,Dem,Julian Castro,0,0,0,0
+Independence,Dota,U.S. President,,Dem,Julian Castro,0,0,0,0
+Independence,Fairview,U.S. President,,Dem,Julian Castro,0,0,0,0
+Independence,Gainsboro,U.S. President,,Dem,Julian Castro,0,0,0,0
+Independence,Greenbrier-Jamestown,U.S. President,,Dem,Julian Castro,0,0,0,0
+Independence,Greenbrier-Locust Grove,U.S. President,,Dem,Julian Castro,0,0,0,0
+Independence,Greenbrier-Desha,U.S. President,,Dem,Julian Castro,0,0,0,0
+Independence,Hill,U.S. President,,Dem,Julian Castro,0,0,0,0
+Independence,Huff,U.S. President,,Dem,Julian Castro,0,0,0,0
+Independence,Jefferson,U.S. President,,Dem,Julian Castro,0,0,0,0
+Independence,Liberty,U.S. President,,Dem,Julian Castro,0,0,0,0
+Independence,Magness,U.S. President,,Dem,Julian Castro,0,0,0,0
+Independence,Black River-Marshall,U.S. President,,Dem,Julian Castro,0,0,0,0
+Independence,Oil Trough,U.S. President,,Dem,Julian Castro,0,0,0,0
+Independence,Relief,U.S. President,,Dem,Julian Castro,0,0,0,0
+Independence,Rosie,U.S. President,,Dem,Julian Castro,0,0,0,0
+Independence,Salado,U.S. President,,Dem,Julian Castro,0,0,0,0
+Independence,Washington,U.S. President,,Dem,Julian Castro,0,0,0,0
+Independence,White River,U.S. President,,Dem,Julian Castro,1,0,1,0
+Independence,"Big Bottom Wards 1,2,3",U.S. President,,Dem,Julian Castro,0,0,0,0
+Independence,McHue,U.S. President,,Dem,Julian Castro,0,0,0,0
+Independence,McHue 3,U.S. President,,Dem,Julian Castro,0,0,0,0
+Independence,Moorefield,U.S. President,,Dem,Julian Castro,0,0,0,0
+Independence,Ruddell Ward 1,U.S. President,,Dem,Julian Castro,0,0,0,0
+Independence,Moorefield Ward 1,U.S. President,,Dem,Julian Castro,0,0,0,0
+Independence,Ruddell Ward 2,U.S. President,,Dem,Julian Castro,0,0,0,0
+Independence,Ruddell Ward 3,U.S. President,,Dem,Julian Castro,0,0,0,0
+Independence,Ruddell Ward 4,U.S. President,,Dem,Julian Castro,0,0,0,0
+Independence,Moorefield Ward 4,U.S. President,,Dem,Julian Castro,0,0,0,0
+Independence,Ruddell Rural,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0
+Independence,Ashley,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0
+Independence,Barren,U.S. President,,Rep,Roque 'Rocky' De La Fuente,1,0,1,0
+Independence,Big Bottom Wycough Logan,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0
+Independence,Cushman Union,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0
+Independence,Departee,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0
+Independence,Dota,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0
+Independence,Fairview,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0
+Independence,Gainsboro,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0
+Independence,Greenbrier-Jamestown,U.S. President,,Rep,Roque 'Rocky' De La Fuente,1,0,1,0
+Independence,Greenbrier-Locust Grove,U.S. President,,Rep,Roque 'Rocky' De La Fuente,1,0,1,0
+Independence,Greenbrier-Desha,U.S. President,,Rep,Roque 'Rocky' De La Fuente,1,0,0,1
+Independence,Hill,U.S. President,,Rep,Roque 'Rocky' De La Fuente,1,0,1,0
+Independence,Huff,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0
+Independence,Jefferson,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0
+Independence,Liberty,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0
+Independence,Magness,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0
+Independence,Black River-Marshall,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0
+Independence,Oil Trough,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0
+Independence,Relief,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0
+Independence,Rosie,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0
+Independence,Salado,U.S. President,,Rep,Roque 'Rocky' De La Fuente,1,0,0,1
+Independence,Washington,U.S. President,,Rep,Roque 'Rocky' De La Fuente,2,0,1,1
+Independence,White River,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0
+Independence,"Big Bottom Wards 1,2,3",U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0
+Independence,McHue,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0
+Independence,McHue 3,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0
+Independence,Moorefield,U.S. President,,Rep,Roque 'Rocky' De La Fuente,1,0,1,0
+Independence,Ruddell Ward 1,U.S. President,,Rep,Roque 'Rocky' De La Fuente,2,0,1,1
+Independence,Moorefield Ward 1,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0
+Independence,Ruddell Ward 2,U.S. President,,Rep,Roque 'Rocky' De La Fuente,1,0,1,0
+Independence,Ruddell Ward 3,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0
+Independence,Ruddell Ward 4,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0
+Independence,Moorefield Ward 4,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0
+Independence,Ruddell Rural,U.S. President,,Rep,Donald J. Trump,147,1,93,53
+Independence,Ashley,U.S. President,,Rep,Donald J. Trump,124,0,95,29
+Independence,Barren,U.S. President,,Rep,Donald J. Trump,173,0,103,70
+Independence,Big Bottom Wycough Logan,U.S. President,,Rep,Donald J. Trump,85,0,71,14
+Independence,Cushman Union,U.S. President,,Rep,Donald J. Trump,130,0,106,24
+Independence,Departee,U.S. President,,Rep,Donald J. Trump,4,0,4,0
+Independence,Dota,U.S. President,,Rep,Donald J. Trump,68,0,60,8
+Independence,Fairview,U.S. President,,Rep,Donald J. Trump,109,0,72,37
+Independence,Gainsboro,U.S. President,,Rep,Donald J. Trump,84,0,57,27
+Independence,Greenbrier-Jamestown,U.S. President,,Rep,Donald J. Trump,31,0,22,9
+Independence,Greenbrier-Locust Grove,U.S. President,,Rep,Donald J. Trump,64,0,54,10
+Independence,Greenbrier-Desha,U.S. President,,Rep,Donald J. Trump,97,0,70,27
+Independence,Hill,U.S. President,,Rep,Donald J. Trump,20,0,16,4
+Independence,Huff,U.S. President,,Rep,Donald J. Trump,70,0,28,42
+Independence,Jefferson,U.S. President,,Rep,Donald J. Trump,16,0,13,3
+Independence,Liberty,U.S. President,,Rep,Donald J. Trump,113,0,83,30
+Independence,Magness,U.S. President,,Rep,Donald J. Trump,68,0,60,8
+Independence,Black River-Marshall,U.S. President,,Rep,Donald J. Trump,20,0,20,0
+Independence,Oil Trough,U.S. President,,Rep,Donald J. Trump,57,0,46,11
+Independence,Relief,U.S. President,,Rep,Donald J. Trump,42,0,19,23
+Independence,Rosie,U.S. President,,Rep,Donald J. Trump,34,0,21,13
+Independence,Salado,U.S. President,,Rep,Donald J. Trump,73,0,42,31
+Independence,Washington,U.S. President,,Rep,Donald J. Trump,110,0,60,50
+Independence,White River,U.S. President,,Rep,Donald J. Trump,189,0,129,60
+Independence,"Big Bottom Wards 1,2,3",U.S. President,,Rep,Donald J. Trump,97,0,83,14
+Independence,McHue,U.S. President,,Rep,Donald J. Trump,326,2,141,183
+Independence,McHue 3,U.S. President,,Rep,Donald J. Trump,71,0,35,36
+Independence,Moorefield,U.S. President,,Rep,Donald J. Trump,153,0,95,58
+Independence,Ruddell Ward 1,U.S. President,,Rep,Donald J. Trump,123,0,43,80
+Independence,Moorefield Ward 1,U.S. President,,Rep,Donald J. Trump,149,3,73,73
+Independence,Ruddell Ward 2,U.S. President,,Rep,Donald J. Trump,154,0,77,77
+Independence,Ruddell Ward 3,U.S. President,,Rep,Donald J. Trump,126,2,85,39
+Independence,Ruddell Ward 4,U.S. President,,Rep,Donald J. Trump,112,2,54,56
+Independence,Moorefield Ward 4,U.S. President,,Rep,Donald J. Trump,56,0,28,28
+Independence,Ruddell Rural,U.S. President,,Rep,Bill Weld,1,0,0,1
+Independence,Ashley,U.S. President,,Rep,Bill Weld,0,0,0,0
+Independence,Barren,U.S. President,,Rep,Bill Weld,1,0,1,0
+Independence,Big Bottom Wycough Logan,U.S. President,,Rep,Bill Weld,1,0,0,1
+Independence,Cushman Union,U.S. President,,Rep,Bill Weld,2,0,1,1
+Independence,Departee,U.S. President,,Rep,Bill Weld,0,0,0,0
+Independence,Dota,U.S. President,,Rep,Bill Weld,0,0,0,0
+Independence,Fairview,U.S. President,,Rep,Bill Weld,0,0,0,0
+Independence,Gainsboro,U.S. President,,Rep,Bill Weld,2,0,1,1
+Independence,Greenbrier-Jamestown,U.S. President,,Rep,Bill Weld,0,0,0,0
+Independence,Greenbrier-Locust Grove,U.S. President,,Rep,Bill Weld,0,0,0,0
+Independence,Greenbrier-Desha,U.S. President,,Rep,Bill Weld,2,0,1,1
+Independence,Hill,U.S. President,,Rep,Bill Weld,0,0,0,0
+Independence,Huff,U.S. President,,Rep,Bill Weld,0,0,0,0
+Independence,Jefferson,U.S. President,,Rep,Bill Weld,0,0,0,0
+Independence,Liberty,U.S. President,,Rep,Bill Weld,0,0,0,0
+Independence,Magness,U.S. President,,Rep,Bill Weld,0,0,0,0
+Independence,Black River-Marshall,U.S. President,,Rep,Bill Weld,1,0,1,0
+Independence,Oil Trough,U.S. President,,Rep,Bill Weld,0,0,0,0
+Independence,Relief,U.S. President,,Rep,Bill Weld,0,0,0,0
+Independence,Rosie,U.S. President,,Rep,Bill Weld,0,0,0,0
+Independence,Salado,U.S. President,,Rep,Bill Weld,0,0,0,0
+Independence,Washington,U.S. President,,Rep,Bill Weld,0,0,0,0
+Independence,White River,U.S. President,,Rep,Bill Weld,2,0,1,1
+Independence,"Big Bottom Wards 1,2,3",U.S. President,,Rep,Bill Weld,0,0,0,0
+Independence,McHue,U.S. President,,Rep,Bill Weld,3,0,2,1
+Independence,McHue 3,U.S. President,,Rep,Bill Weld,1,0,0,1
+Independence,Moorefield,U.S. President,,Rep,Bill Weld,4,0,3,1
+Independence,Ruddell Ward 1,U.S. President,,Rep,Bill Weld,1,0,1,0
+Independence,Moorefield Ward 1,U.S. President,,Rep,Bill Weld,5,0,3,2
+Independence,Ruddell Ward 2,U.S. President,,Rep,Bill Weld,5,0,4,1
+Independence,Ruddell Ward 3,U.S. President,,Rep,Bill Weld,1,0,0,1
+Independence,Ruddell Ward 4,U.S. President,,Rep,Bill Weld,1,0,1,0
+Independence,Moorefield Ward 4,U.S. President,,Rep,Bill Weld,0,0,0,0
+Independence,Ruddell Rural,Justice of the Peace Dist. 9 DISTRICT 9,,Rep,Gregory Johnson,33,0,20,13
+Independence,Ruddell Ward 2,Justice of the Peace Dist. 9 DISTRICT 9,,Rep,Gregory Johnson,18,0,6,12
+Independence,Ruddell Ward 3,Justice of the Peace Dist. 9 DISTRICT 9,,Rep,Gregory Johnson,41,0,29,12
+Independence,Ruddell Rural,Justice of the Peace Dist. 9 DISTRICT 9,,Rep,Johnathan Abbott,11,0,7,4
+Independence,Ruddell Ward 2,Justice of the Peace Dist. 9 DISTRICT 9,,Rep,Johnathan Abbott,8,0,4,4
+Independence,Ruddell Ward 3,Justice of the Peace Dist. 9 DISTRICT 9,,Rep,Johnathan Abbott,80,2,51,27
+Independence,Greenbrier-Jamestown,Greenbrier Constable GREENBRIER,,Rep,Brian Phillips,14,0,8,6
+Independence,Greenbrier-Locust Grove,Greenbrier Constable GREENBRIER,,Rep,Brian Phillips,26,0,24,2
+Independence,Greenbrier-Desha,Greenbrier Constable GREENBRIER,,Rep,Brian Phillips,40,0,27,13
+Independence,Greenbrier-Jamestown,Greenbrier Constable GREENBRIER,,Rep,Andrew Bullard,16,0,15,1
+Independence,Greenbrier-Locust Grove,Greenbrier Constable GREENBRIER,,Rep,Andrew Bullard,35,0,28,7
+Independence,Greenbrier-Desha,Greenbrier Constable GREENBRIER,,Rep,Andrew Bullard,60,0,46,14
+Independence,Washington,Washington Constable WASHINGTON,,Rep,Steve Davis,66,0,37,29
+Independence,Washington,Washington Constable WASHINGTON,,Rep,Marlin McSpadden,42,0,20,22
+Independence,Ruddell Rural,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,129,1,85,43
+Independence,Ashley,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,86,0,59,27
+Independence,Barren,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,130,0,79,51
+Independence,Big Bottom Wycough Logan,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,52,0,42,10
+Independence,Cushman Union,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,99,0,78,21
+Independence,Departee,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,4,0,4,0
+Independence,Dota,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,59,0,49,10
+Independence,Fairview,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,80,0,55,25
+Independence,Gainsboro,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,68,0,45,23
+Independence,Greenbrier-Jamestown,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,26,0,23,3
+Independence,Greenbrier-Locust Grove,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,44,0,36,8
+Independence,Greenbrier-Desha,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,75,0,55,20
+Independence,Hill,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,17,0,15,2
+Independence,Huff,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,51,0,16,35
+Independence,Jefferson,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,16,0,11,5
+Independence,Liberty,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,83,0,63,20
+Independence,Magness,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,43,0,35,8
+Independence,Black River-Marshall,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,19,0,17,2
+Independence,Oil Trough,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,57,0,49,8
+Independence,Relief,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,27,0,9,18
+Independence,Rosie,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,37,0,19,18
+Independence,Salado,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,65,0,39,26
+Independence,Washington,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,92,0,45,47
+Independence,White River,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,156,0,113,43
+Independence,"Big Bottom Wards 1,2,3",State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,78,0,66,12
+Independence,McHue,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,266,2,110,154
+Independence,McHue 3,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,63,0,30,33
+Independence,Moorefield,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,134,1,84,49
+Independence,Ruddell Ward 1,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,119,0,56,63
+Independence,Moorefield Ward 1,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,149,0,72,77
+Independence,Ruddell Ward 2,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,191,0,95,96
+Independence,Ruddell Ward 3,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,134,0,89,45
+Independence,Ruddell Ward 4,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,131,1,56,74
+Independence,Moorefield Ward 4,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,72,0,37,35
+Independence,Ruddell Rural,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,88,0,47,41
+Independence,Ashley,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,67,1,56,10
+Independence,Barren,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,110,2,59,49
+Independence,Big Bottom Wycough Logan,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,50,0,42,8
+Independence,Cushman Union,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,85,1,68,16
+Independence,Departee,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,8,0,8,0
+Independence,Dota,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,65,0,54,11
+Independence,Fairview,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,57,0,38,19
+Independence,Gainsboro,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,61,0,37,24
+Independence,Greenbrier-Jamestown,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,22,0,14,8
+Independence,Greenbrier-Locust Grove,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,37,0,32,5
+Independence,Greenbrier-Desha,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,77,0,48,29
+Independence,Hill,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,14,0,12,2
+Independence,Huff,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,43,0,17,26
+Independence,Jefferson,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,18,0,14,4
+Independence,Liberty,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,62,0,37,25
+Independence,Magness,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,41,0,36,5
+Independence,Black River-Marshall,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,10,0,10,0
+Independence,Oil Trough,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,35,0,32,3
+Independence,Relief,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,29,0,14,15
+Independence,Rosie,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,23,1,10,12
+Independence,Salado,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,54,0,26,28
+Independence,Washington,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,66,0,33,33
+Independence,White River,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,109,0,74,35
+Independence,"Big Bottom Wards 1,2,3",State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,65,0,53,12
+Independence,McHue,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,205,1,96,108
+Independence,McHue 3,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,52,0,24,28
+Independence,Moorefield,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,108,0,67,41
+Independence,Ruddell Ward 1,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,106,0,40,66
+Independence,Moorefield Ward 1,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,133,3,58,72
+Independence,Ruddell Ward 2,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,156,2,75,79
+Independence,Ruddell Ward 3,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,92,2,63,27
+Independence,Ruddell Ward 4,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,90,1,49,40
+Independence,Moorefield Ward 4,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,51,0,26,25

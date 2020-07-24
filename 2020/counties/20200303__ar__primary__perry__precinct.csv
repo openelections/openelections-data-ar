@@ -1,0 +1,615 @@
+county,precinct,office,district,party,candidate,votes,absentee,election_day,early_vote,provisional
+Perry,1 Aplin,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Perry,2 Casa,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Perry,3 Cherry Hill,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Perry,4 Fourche,U.S. President,,DEM,Kamala Harris,3,0,2,1,0
+Perry,5 Houston,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Perry,6 Kenney,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Perry,7 Lake,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Perry,8 Maumelle,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Perry,9 New Tennessee,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Perry,10 Perry,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Perry,11 Petit Jean,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Perry,12 Rankin,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Perry,13 Rose Creek,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Perry,14 Tyler,U.S. President,,DEM,Kamala Harris,1,0,1,0,0
+Perry,15 Union,U.S. President,,DEM,Kamala Harris,2,0,2,0,0
+Perry,16 Union Valley,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Perry,17 Wye,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Perry,1 Aplin,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Perry,2 Casa,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Perry,3 Cherry Hill,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Perry,4 Fourche,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Perry,5 Houston,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Perry,6 Kenney,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Perry,7 Lake,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Perry,8 Maumelle,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Perry,9 New Tennessee,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Perry,10 Perry,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Perry,11 Petit Jean,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Perry,12 Rankin,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Perry,13 Rose Creek,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Perry,14 Tyler,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Perry,15 Union,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Perry,16 Union Valley,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Perry,17 Wye,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Perry,1 Aplin,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Perry,2 Casa,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Perry,3 Cherry Hill,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Perry,4 Fourche,U.S. President,,DEM,Michael Bennet,1,0,1,0,0
+Perry,5 Houston,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Perry,6 Kenney,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Perry,7 Lake,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Perry,8 Maumelle,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Perry,9 New Tennessee,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Perry,10 Perry,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Perry,11 Petit Jean,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Perry,12 Rankin,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Perry,13 Rose Creek,U.S. President,,DEM,Michael Bennet,1,0,1,0,0
+Perry,14 Tyler,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Perry,15 Union,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Perry,16 Union Valley,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Perry,17 Wye,U.S. President,,DEM,Michael Bennet,1,0,1,0,0
+Perry,1 Aplin,U.S. President,,DEM,Andrew Yang,1,0,1,0,0
+Perry,2 Casa,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Perry,3 Cherry Hill,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Perry,4 Fourche,U.S. President,,DEM,Andrew Yang,1,0,1,0,0
+Perry,5 Houston,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Perry,6 Kenney,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Perry,7 Lake,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Perry,8 Maumelle,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Perry,9 New Tennessee,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Perry,10 Perry,U.S. President,,DEM,Andrew Yang,1,0,1,0,0
+Perry,11 Petit Jean,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Perry,12 Rankin,U.S. President,,DEM,Andrew Yang,1,0,0,1,0
+Perry,13 Rose Creek,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Perry,14 Tyler,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Perry,15 Union,U.S. President,,DEM,Andrew Yang,1,0,1,0,0
+Perry,16 Union Valley,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Perry,17 Wye,U.S. President,,DEM,Andrew Yang,1,0,1,0,0
+Perry,1 Aplin,U.S. President,,DEM,Tulsi Gabbard,1,0,1,0,0
+Perry,2 Casa,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Perry,3 Cherry Hill,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Perry,4 Fourche,U.S. President,,DEM,Tulsi Gabbard,1,0,1,0,0
+Perry,5 Houston,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Perry,6 Kenney,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Perry,7 Lake,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Perry,8 Maumelle,U.S. President,,DEM,Tulsi Gabbard,1,0,0,1,0
+Perry,9 New Tennessee,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Perry,10 Perry,U.S. President,,DEM,Tulsi Gabbard,1,0,0,1,0
+Perry,11 Petit Jean,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Perry,12 Rankin,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Perry,13 Rose Creek,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Perry,14 Tyler,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Perry,15 Union,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Perry,16 Union Valley,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Perry,17 Wye,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Perry,1 Aplin,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Perry,2 Casa,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Perry,3 Cherry Hill,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Perry,4 Fourche,U.S. President,,DEM,Cory Booker,2,0,1,1,0
+Perry,5 Houston,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Perry,6 Kenney,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Perry,7 Lake,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Perry,8 Maumelle,U.S. President,,DEM,Cory Booker,1,0,1,0,0
+Perry,9 New Tennessee,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Perry,10 Perry,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Perry,11 Petit Jean,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Perry,12 Rankin,U.S. President,,DEM,Cory Booker,1,0,0,1,0
+Perry,13 Rose Creek,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Perry,14 Tyler,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Perry,15 Union,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Perry,16 Union Valley,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Perry,17 Wye,U.S. President,,DEM,Cory Booker,1,0,1,0,0
+Perry,1 Aplin,U.S. President,,DEM,Joseph R. Biden,10,0,7,3,0
+Perry,2 Casa,U.S. President,,DEM,Joseph R. Biden,8,0,5,3,0
+Perry,3 Cherry Hill,U.S. President,,DEM,Joseph R. Biden,7,0,5,2,0
+Perry,4 Fourche,U.S. President,,DEM,Joseph R. Biden,40,1,25,14,0
+Perry,5 Houston,U.S. President,,DEM,Joseph R. Biden,15,0,15,0,0
+Perry,6 Kenney,U.S. President,,DEM,Joseph R. Biden,2,0,0,2,0
+Perry,7 Lake,U.S. President,,DEM,Joseph R. Biden,13,0,6,7,0
+Perry,8 Maumelle,U.S. President,,DEM,Joseph R. Biden,14,1,5,8,0
+Perry,9 New Tennessee,U.S. President,,DEM,Joseph R. Biden,2,0,2,0,0
+Perry,10 Perry,U.S. President,,DEM,Joseph R. Biden,20,2,14,4,0
+Perry,11 Petit Jean,U.S. President,,DEM,Joseph R. Biden,9,0,9,0,0
+Perry,12 Rankin,U.S. President,,DEM,Joseph R. Biden,32,0,19,13,0
+Perry,13 Rose Creek,U.S. President,,DEM,Joseph R. Biden,3,0,3,0,0
+Perry,14 Tyler,U.S. President,,DEM,Joseph R. Biden,14,0,14,0,0
+Perry,15 Union,U.S. President,,DEM,Joseph R. Biden,46,2,37,7,0
+Perry,16 Union Valley,U.S. President,,DEM,Joseph R. Biden,6,0,3,3,0
+Perry,17 Wye,U.S. President,,DEM,Joseph R. Biden,28,0,25,3,0
+Perry,1 Aplin,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Perry,2 Casa,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Perry,3 Cherry Hill,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Perry,4 Fourche,U.S. President,,DEM,John K. Delaney,2,0,1,1,0
+Perry,5 Houston,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Perry,6 Kenney,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Perry,7 Lake,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Perry,8 Maumelle,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Perry,9 New Tennessee,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Perry,10 Perry,U.S. President,,DEM,John K. Delaney,1,0,1,0,0
+Perry,11 Petit Jean,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Perry,12 Rankin,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Perry,13 Rose Creek,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Perry,14 Tyler,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Perry,15 Union,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Perry,16 Union Valley,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Perry,17 Wye,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Perry,1 Aplin,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Perry,2 Casa,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Perry,3 Cherry Hill,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Perry,4 Fourche,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Perry,5 Houston,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Perry,6 Kenney,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Perry,7 Lake,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Perry,8 Maumelle,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Perry,9 New Tennessee,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Perry,10 Perry,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Perry,11 Petit Jean,U.S. President,,DEM,Joe Sestak,1,0,1,0,0
+Perry,12 Rankin,U.S. President,,DEM,Joe Sestak,1,0,1,0,0
+Perry,13 Rose Creek,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Perry,14 Tyler,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Perry,15 Union,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Perry,16 Union Valley,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Perry,17 Wye,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Perry,1 Aplin,U.S. President,,DEM,Bernie Sanders,6,0,6,0,0
+Perry,2 Casa,U.S. President,,DEM,Bernie Sanders,6,0,4,2,0
+Perry,3 Cherry Hill,U.S. President,,DEM,Bernie Sanders,0,0,0,0,0
+Perry,4 Fourche,U.S. President,,DEM,Bernie Sanders,20,0,5,15,0
+Perry,5 Houston,U.S. President,,DEM,Bernie Sanders,4,0,3,1,0
+Perry,6 Kenney,U.S. President,,DEM,Bernie Sanders,0,0,0,0,0
+Perry,7 Lake,U.S. President,,DEM,Bernie Sanders,7,1,3,3,0
+Perry,8 Maumelle,U.S. President,,DEM,Bernie Sanders,9,0,4,5,0
+Perry,9 New Tennessee,U.S. President,,DEM,Bernie Sanders,7,0,3,4,0
+Perry,10 Perry,U.S. President,,DEM,Bernie Sanders,24,0,16,8,0
+Perry,11 Petit Jean,U.S. President,,DEM,Bernie Sanders,4,0,4,0,0
+Perry,12 Rankin,U.S. President,,DEM,Bernie Sanders,16,0,7,9,0
+Perry,13 Rose Creek,U.S. President,,DEM,Bernie Sanders,1,0,1,0,0
+Perry,14 Tyler,U.S. President,,DEM,Bernie Sanders,1,0,1,0,0
+Perry,15 Union,U.S. President,,DEM,Bernie Sanders,19,0,15,4,0
+Perry,16 Union Valley,U.S. President,,DEM,Bernie Sanders,11,1,4,6,0
+Perry,17 Wye,U.S. President,,DEM,Bernie Sanders,29,0,23,6,0
+Perry,1 Aplin,U.S. President,,DEM,Tom Steyer,1,0,1,0,0
+Perry,2 Casa,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Perry,3 Cherry Hill,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Perry,4 Fourche,U.S. President,,DEM,Tom Steyer,6,0,1,5,0
+Perry,5 Houston,U.S. President,,DEM,Tom Steyer,1,0,1,0,0
+Perry,6 Kenney,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Perry,7 Lake,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Perry,8 Maumelle,U.S. President,,DEM,Tom Steyer,1,0,0,1,0
+Perry,9 New Tennessee,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Perry,10 Perry,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Perry,11 Petit Jean,U.S. President,,DEM,Tom Steyer,2,0,0,2,0
+Perry,12 Rankin,U.S. President,,DEM,Tom Steyer,1,0,0,1,0
+Perry,13 Rose Creek,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Perry,14 Tyler,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Perry,15 Union,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Perry,16 Union Valley,U.S. President,,DEM,Tom Steyer,1,0,0,1,0
+Perry,17 Wye,U.S. President,,DEM,Tom Steyer,1,0,0,1,0
+Perry,1 Aplin,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Perry,2 Casa,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Perry,3 Cherry Hill,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Perry,4 Fourche,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Perry,5 Houston,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Perry,6 Kenney,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Perry,7 Lake,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Perry,8 Maumelle,U.S. President,,DEM,Mosie Boyd,1,0,0,1,0
+Perry,9 New Tennessee,U.S. President,,DEM,Mosie Boyd,1,0,1,0,0
+Perry,10 Perry,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Perry,11 Petit Jean,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Perry,12 Rankin,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Perry,13 Rose Creek,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Perry,14 Tyler,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Perry,15 Union,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Perry,16 Union Valley,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Perry,17 Wye,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Perry,1 Aplin,U.S. President,,DEM,Michael R. Bloomberg,12,0,7,5,0
+Perry,2 Casa,U.S. President,,DEM,Michael R. Bloomberg,8,0,3,5,0
+Perry,3 Cherry Hill,U.S. President,,DEM,Michael R. Bloomberg,3,0,2,1,0
+Perry,4 Fourche,U.S. President,,DEM,Michael R. Bloomberg,25,0,9,16,0
+Perry,5 Houston,U.S. President,,DEM,Michael R. Bloomberg,8,0,3,5,0
+Perry,6 Kenney,U.S. President,,DEM,Michael R. Bloomberg,0,0,0,0,0
+Perry,7 Lake,U.S. President,,DEM,Michael R. Bloomberg,6,0,1,5,0
+Perry,8 Maumelle,U.S. President,,DEM,Michael R. Bloomberg,16,0,6,10,0
+Perry,9 New Tennessee,U.S. President,,DEM,Michael R. Bloomberg,5,0,2,3,0
+Perry,10 Perry,U.S. President,,DEM,Michael R. Bloomberg,14,0,7,7,0
+Perry,11 Petit Jean,U.S. President,,DEM,Michael R. Bloomberg,3,0,3,0,0
+Perry,12 Rankin,U.S. President,,DEM,Michael R. Bloomberg,26,0,6,20,0
+Perry,13 Rose Creek,U.S. President,,DEM,Michael R. Bloomberg,3,0,3,0,0
+Perry,14 Tyler,U.S. President,,DEM,Michael R. Bloomberg,5,0,5,0,0
+Perry,15 Union,U.S. President,,DEM,Michael R. Bloomberg,15,0,10,5,0
+Perry,16 Union Valley,U.S. President,,DEM,Michael R. Bloomberg,15,0,8,7,0
+Perry,17 Wye,U.S. President,,DEM,Michael R. Bloomberg,17,0,10,7,0
+Perry,1 Aplin,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Perry,2 Casa,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Perry,3 Cherry Hill,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Perry,4 Fourche,U.S. President,,DEM,Steve Bullock,1,0,0,1,0
+Perry,5 Houston,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Perry,6 Kenney,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Perry,7 Lake,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Perry,8 Maumelle,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Perry,9 New Tennessee,U.S. President,,DEM,Steve Bullock,1,0,1,0,0
+Perry,10 Perry,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Perry,11 Petit Jean,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Perry,12 Rankin,U.S. President,,DEM,Steve Bullock,1,0,1,0,0
+Perry,13 Rose Creek,U.S. President,,DEM,Steve Bullock,1,0,1,0,0
+Perry,14 Tyler,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Perry,15 Union,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Perry,16 Union Valley,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Perry,17 Wye,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Perry,1 Aplin,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Perry,2 Casa,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Perry,3 Cherry Hill,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Perry,4 Fourche,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Perry,5 Houston,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Perry,6 Kenney,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Perry,7 Lake,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Perry,8 Maumelle,U.S. President,,DEM,Marianne Williamson,1,0,0,1,0
+Perry,9 New Tennessee,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Perry,10 Perry,U.S. President,,DEM,Marianne Williamson,1,0,0,1,0
+Perry,11 Petit Jean,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Perry,12 Rankin,U.S. President,,DEM,Marianne Williamson,1,0,1,0,0
+Perry,13 Rose Creek,U.S. President,,DEM,Marianne Williamson,1,0,1,0,0
+Perry,14 Tyler,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Perry,15 Union,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Perry,16 Union Valley,U.S. President,,DEM,Marianne Williamson,1,0,0,1,0
+Perry,17 Wye,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Perry,1 Aplin,U.S. President,,DEM,Amy Klobuchar,2,0,0,2,0
+Perry,2 Casa,U.S. President,,DEM,Amy Klobuchar,1,0,0,1,0
+Perry,3 Cherry Hill,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0
+Perry,4 Fourche,U.S. President,,DEM,Amy Klobuchar,10,0,1,9,0
+Perry,5 Houston,U.S. President,,DEM,Amy Klobuchar,4,0,1,3,0
+Perry,6 Kenney,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0
+Perry,7 Lake,U.S. President,,DEM,Amy Klobuchar,1,0,0,1,0
+Perry,8 Maumelle,U.S. President,,DEM,Amy Klobuchar,4,0,0,4,0
+Perry,9 New Tennessee,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0
+Perry,10 Perry,U.S. President,,DEM,Amy Klobuchar,2,0,1,1,0
+Perry,11 Petit Jean,U.S. President,,DEM,Amy Klobuchar,1,0,0,1,0
+Perry,12 Rankin,U.S. President,,DEM,Amy Klobuchar,8,0,0,8,0
+Perry,13 Rose Creek,U.S. President,,DEM,Amy Klobuchar,1,0,0,1,0
+Perry,14 Tyler,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0
+Perry,15 Union,U.S. President,,DEM,Amy Klobuchar,1,0,0,1,0
+Perry,16 Union Valley,U.S. President,,DEM,Amy Klobuchar,4,0,1,3,0
+Perry,17 Wye,U.S. President,,DEM,Amy Klobuchar,4,0,1,3,0
+Perry,1 Aplin,U.S. President,,DEM,Elizabeth Warren,2,0,2,0,0
+Perry,2 Casa,U.S. President,,DEM,Elizabeth Warren,4,0,1,3,0
+Perry,3 Cherry Hill,U.S. President,,DEM,Elizabeth Warren,1,0,1,0,0
+Perry,4 Fourche,U.S. President,,DEM,Elizabeth Warren,8,0,2,6,0
+Perry,5 Houston,U.S. President,,DEM,Elizabeth Warren,5,0,5,0,0
+Perry,6 Kenney,U.S. President,,DEM,Elizabeth Warren,0,0,0,0,0
+Perry,7 Lake,U.S. President,,DEM,Elizabeth Warren,1,0,0,1,0
+Perry,8 Maumelle,U.S. President,,DEM,Elizabeth Warren,7,0,3,4,0
+Perry,9 New Tennessee,U.S. President,,DEM,Elizabeth Warren,1,0,0,1,0
+Perry,10 Perry,U.S. President,,DEM,Elizabeth Warren,9,1,7,1,0
+Perry,11 Petit Jean,U.S. President,,DEM,Elizabeth Warren,5,0,5,0,0
+Perry,12 Rankin,U.S. President,,DEM,Elizabeth Warren,6,0,4,2,0
+Perry,13 Rose Creek,U.S. President,,DEM,Elizabeth Warren,1,0,1,0,0
+Perry,14 Tyler,U.S. President,,DEM,Elizabeth Warren,0,0,0,0,0
+Perry,15 Union,U.S. President,,DEM,Elizabeth Warren,5,0,5,0,0
+Perry,16 Union Valley,U.S. President,,DEM,Elizabeth Warren,4,0,2,2,0
+Perry,17 Wye,U.S. President,,DEM,Elizabeth Warren,12,0,9,3,0
+Perry,1 Aplin,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Perry,2 Casa,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Perry,3 Cherry Hill,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Perry,4 Fourche,U.S. President,,DEM,Pete Buttigieg,9,0,0,9,0
+Perry,5 Houston,U.S. President,,DEM,Pete Buttigieg,1,0,0,1,0
+Perry,6 Kenney,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Perry,7 Lake,U.S. President,,DEM,Pete Buttigieg,5,0,1,4,0
+Perry,8 Maumelle,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Perry,9 New Tennessee,U.S. President,,DEM,Pete Buttigieg,2,0,0,2,0
+Perry,10 Perry,U.S. President,,DEM,Pete Buttigieg,1,0,1,0,0
+Perry,11 Petit Jean,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Perry,12 Rankin,U.S. President,,DEM,Pete Buttigieg,5,0,0,5,0
+Perry,13 Rose Creek,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Perry,14 Tyler,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Perry,15 Union,U.S. President,,DEM,Pete Buttigieg,2,0,0,2,0
+Perry,16 Union Valley,U.S. President,,DEM,Pete Buttigieg,1,0,1,0,0
+Perry,17 Wye,U.S. President,,DEM,Pete Buttigieg,3,0,0,3,0
+Perry,1 Aplin,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Perry,2 Casa,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Perry,3 Cherry Hill,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Perry,4 Fourche,U.S. President,,REP,Roque 'Rocky' De La Fuente,1,0,0,1,0
+Perry,5 Houston,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Perry,6 Kenney,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Perry,7 Lake,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Perry,8 Maumelle,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Perry,9 New Tennessee,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Perry,10 Perry,U.S. President,,REP,Roque 'Rocky' De La Fuente,1,0,1,0,0
+Perry,11 Petit Jean,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Perry,12 Rankin,U.S. President,,REP,Roque 'Rocky' De La Fuente,1,0,1,0,0
+Perry,13 Rose Creek,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Perry,14 Tyler,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Perry,15 Union,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Perry,16 Union Valley,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Perry,17 Wye,U.S. President,,REP,Roque 'Rocky' De La Fuente,1,0,0,1,0
+Perry,1 Aplin,U.S. President,,REP,Bill Weld,2,0,2,0,0
+Perry,2 Casa,U.S. President,,REP,Bill Weld,1,0,1,0,0
+Perry,3 Cherry Hill,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Perry,4 Fourche,U.S. President,,REP,Bill Weld,2,0,0,2,0
+Perry,5 Houston,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Perry,6 Kenney,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Perry,7 Lake,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Perry,8 Maumelle,U.S. President,,REP,Bill Weld,1,0,0,1,0
+Perry,9 New Tennessee,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Perry,10 Perry,U.S. President,,REP,Bill Weld,3,0,3,0,0
+Perry,11 Petit Jean,U.S. President,,REP,Bill Weld,1,0,1,0,0
+Perry,12 Rankin,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Perry,13 Rose Creek,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Perry,14 Tyler,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Perry,15 Union,U.S. President,,REP,Bill Weld,1,0,1,0,0
+Perry,16 Union Valley,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Perry,17 Wye,U.S. President,,REP,Bill Weld,1,0,1,0,0
+Perry,1 Aplin,U.S. President,,REP,Donald J. Trump,39,0,24,15,0
+Perry,2 Casa,U.S. President,,REP,Donald J. Trump,43,0,28,15,0
+Perry,3 Cherry Hill,U.S. President,,REP,Donald J. Trump,34,0,13,21,0
+Perry,4 Fourche,U.S. President,,REP,Donald J. Trump,186,1,75,110,0
+Perry,5 Houston,U.S. President,,REP,Donald J. Trump,79,0,63,16,0
+Perry,6 Kenney,U.S. President,,REP,Donald J. Trump,17,0,14,3,0
+Perry,7 Lake,U.S. President,,REP,Donald J. Trump,50,0,25,25,0
+Perry,8 Maumelle,U.S. President,,REP,Donald J. Trump,74,0,36,38,0
+Perry,9 New Tennessee,U.S. President,,REP,Donald J. Trump,28,0,20,8,0
+Perry,10 Perry,U.S. President,,REP,Donald J. Trump,100,0,87,13,0
+Perry,11 Petit Jean,U.S. President,,REP,Donald J. Trump,44,0,26,18,0
+Perry,12 Rankin,U.S. President,,REP,Donald J. Trump,116,0,52,64,0
+Perry,13 Rose Creek,U.S. President,,REP,Donald J. Trump,24,2,15,6,1
+Perry,14 Tyler,U.S. President,,REP,Donald J. Trump,35,2,32,1,0
+Perry,15 Union,U.S. President,,REP,Donald J. Trump,64,0,49,15,0
+Perry,16 Union Valley,U.S. President,,REP,Donald J. Trump,41,0,23,18,0
+Perry,17 Wye,U.S. President,,REP,Donald J. Trump,96,0,86,10,0
+Perry,14 Tyler,State House District 21,,REP,Representative Marcus Richmond,10,0,10,0,0
+Perry,14 Tyler,State House District 21,,REP,Jim Reynolds,22,0,21,1,0
+Perry,1 Aplin,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,35,0,27,8,0
+Perry,2 Casa,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,41,0,29,12,0
+Perry,3 Cherry Hill,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,23,0,10,13,0
+Perry,4 Fourche,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,150,1,59,90,0
+Perry,5 Houston,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,57,0,43,14,0
+Perry,6 Kenney,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,12,0,11,1,0
+Perry,7 Lake,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,42,1,20,21,0
+Perry,8 Maumelle,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,80,0,41,39,0
+Perry,9 New Tennessee,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,21,0,14,7,0
+Perry,10 Perry,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,96,0,78,18,0
+Perry,11 Petit Jean,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,37,0,27,10,0
+Perry,12 Rankin,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,109,0,47,62,0
+Perry,13 Rose Creek,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,16,2,8,5,1
+Perry,14 Tyler,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,29,0,28,1,0
+Perry,15 Union,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,78,0,63,15,0
+Perry,16 Union Valley,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,41,0,23,18,0
+Perry,17 Wye,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,101,0,79,22,0
+Perry,1 Aplin,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,30,0,18,12,0
+Perry,2 Casa,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,27,0,11,16,0
+Perry,3 Cherry Hill,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,27,0,12,15,0
+Perry,4 Fourche,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,156,1,63,92,0
+Perry,5 Houston,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,60,0,51,9,0
+Perry,6 Kenney,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,6,0,4,2,0
+Perry,7 Lake,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,32,0,12,20,0
+Perry,8 Maumelle,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,49,0,18,31,0
+Perry,9 New Tennessee,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,25,0,15,10,0
+Perry,10 Perry,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,99,3,77,19,0
+Perry,11 Petit Jean,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,26,0,17,9,0
+Perry,12 Rankin,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,97,0,40,57,0
+Perry,13 Rose Creek,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,17,0,15,2,0
+Perry,14 Tyler,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,23,0,23,0,0
+Perry,15 Union,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,71,2,51,18,0
+Perry,16 Union Valley,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,37,1,18,18,0
+Perry,17 Wye,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,90,0,76,14,0
+Perry,1 Aplin,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Scott Richardson,28,0,22,6,0
+Perry,2 Casa,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Scott Richardson,27,0,18,9,0
+Perry,3 Cherry Hill,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Scott Richardson,20,0,8,12,0
+Perry,4 Fourche,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Scott Richardson,119,0,48,71,0
+Perry,5 Houston,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Scott Richardson,48,0,38,10,0
+Perry,6 Kenney,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Scott Richardson,9,0,7,2,0
+Perry,7 Lake,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Scott Richardson,32,0,14,18,0
+Perry,8 Maumelle,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Scott Richardson,40,0,14,26,0
+Perry,9 New Tennessee,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Scott Richardson,23,0,14,9,0
+Perry,10 Perry,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Scott Richardson,84,1,63,20,0
+Perry,11 Petit Jean,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Scott Richardson,26,0,17,9,0
+Perry,12 Rankin,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Scott Richardson,85,0,39,46,0
+Perry,13 Rose Creek,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Scott Richardson,13,0,10,3,0
+Perry,14 Tyler,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Scott Richardson,27,0,26,1,0
+Perry,15 Union,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Scott Richardson,59,1,50,8,0
+Perry,16 Union Valley,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Scott Richardson,28,0,16,12,0
+Perry,17 Wye,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Scott Richardson,69,0,52,17,0
+Perry,1 Aplin,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Hugh Finkelstein,16,0,10,6,0
+Perry,2 Casa,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Hugh Finkelstein,13,0,6,7,0
+Perry,3 Cherry Hill,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Hugh Finkelstein,17,0,7,10,0
+Perry,4 Fourche,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Hugh Finkelstein,95,2,31,62,0
+Perry,5 Houston,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Hugh Finkelstein,32,0,24,8,0
+Perry,6 Kenney,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Hugh Finkelstein,2,0,2,0,0
+Perry,7 Lake,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Hugh Finkelstein,16,1,7,8,0
+Perry,8 Maumelle,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Hugh Finkelstein,40,0,17,23,0
+Perry,9 New Tennessee,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Hugh Finkelstein,14,0,7,7,0
+Perry,10 Perry,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Hugh Finkelstein,49,0,41,8,0
+Perry,11 Petit Jean,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Hugh Finkelstein,10,0,9,1,0
+Perry,12 Rankin,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Hugh Finkelstein,56,0,25,31,0
+Perry,13 Rose Creek,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Hugh Finkelstein,4,0,4,0,0
+Perry,14 Tyler,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Hugh Finkelstein,5,0,5,0,0
+Perry,15 Union,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Hugh Finkelstein,26,0,18,8,0
+Perry,16 Union Valley,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Hugh Finkelstein,27,1,18,8,0
+Perry,17 Wye,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Hugh Finkelstein,57,0,47,10,0
+Perry,1 Aplin,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Casey Tucker,20,0,11,9,0
+Perry,2 Casa,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Casey Tucker,25,0,15,10,0
+Perry,3 Cherry Hill,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Casey Tucker,10,0,5,5,0
+Perry,4 Fourche,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Casey Tucker,77,0,36,41,0
+Perry,5 Houston,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Casey Tucker,33,0,28,5,0
+Perry,6 Kenney,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Casey Tucker,7,0,6,1,0
+Perry,7 Lake,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Casey Tucker,23,0,10,13,0
+Perry,8 Maumelle,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Casey Tucker,41,0,24,17,0
+Perry,9 New Tennessee,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Casey Tucker,7,0,6,1,0
+Perry,10 Perry,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Casey Tucker,57,2,46,9,0
+Perry,11 Petit Jean,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Casey Tucker,27,0,18,9,0
+Perry,12 Rankin,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Casey Tucker,64,0,25,39,0
+Perry,13 Rose Creek,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Casey Tucker,13,2,6,4,1
+Perry,14 Tyler,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Casey Tucker,17,0,17,0,0
+Perry,15 Union,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Casey Tucker,55,1,39,15,0
+Perry,16 Union Valley,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Casey Tucker,18,0,8,10,0
+Perry,17 Wye,Circuit Judge,"6, Division 2, Subdistrict 6.2",,Casey Tucker,59,0,52,7,0
+Perry,1 Aplin,Circuit Judge,"6, Division 9, At Large",,Judge Andy Gill,71,0,46,25,0
+Perry,2 Casa,Circuit Judge,"6, Division 9, At Large",,Judge Andy Gill,63,0,34,29,0
+Perry,3 Cherry Hill,Circuit Judge,"6, Division 9, At Large",,Judge Andy Gill,49,0,22,27,0
+Perry,4 Fourche,Circuit Judge,"6, Division 9, At Large",,Judge Andy Gill,295,1,112,182,0
+Perry,5 Houston,Circuit Judge,"6, Division 9, At Large",,Judge Andy Gill,105,0,80,25,0
+Perry,6 Kenney,Circuit Judge,"6, Division 9, At Large",,Judge Andy Gill,18,0,14,4,0
+Perry,7 Lake,Circuit Judge,"6, Division 9, At Large",,Judge Andy Gill,65,1,25,39,0
+Perry,8 Maumelle,Circuit Judge,"6, Division 9, At Large",,Judge Andy Gill,125,1,51,73,0
+Perry,9 New Tennessee,Circuit Judge,"6, Division 9, At Large",,Judge Andy Gill,43,0,29,14,0
+Perry,10 Perry,Circuit Judge,"6, Division 9, At Large",,Judge Andy Gill,159,3,125,31,0
+Perry,11 Petit Jean,Circuit Judge,"6, Division 9, At Large",,Judge Andy Gill,61,0,41,20,0
+Perry,12 Rankin,Circuit Judge,"6, Division 9, At Large",,Judge Andy Gill,195,0,81,114,0
+Perry,13 Rose Creek,Circuit Judge,"6, Division 9, At Large",,Judge Andy Gill,29,2,22,4,1
+Perry,14 Tyler,Circuit Judge,"6, Division 9, At Large",,Judge Andy Gill,54,0,53,1,0
+Perry,15 Union,Circuit Judge,"6, Division 9, At Large",,Judge Andy Gill,123,2,95,26,0
+Perry,16 Union Valley,Circuit Judge,"6, Division 9, At Large",,Judge Andy Gill,82,1,40,41,0
+Perry,17 Wye,Circuit Judge,"6, Division 9, At Large",,Judge Andy Gill,150,0,124,26,0
+Perry,1 Aplin,Circuit Judge,"6, Division 9, At Large",,LaTonya Laird Austin,8,0,6,2,0
+Perry,2 Casa,Circuit Judge,"6, Division 9, At Large",,LaTonya Laird Austin,7,0,6,1,0
+Perry,3 Cherry Hill,Circuit Judge,"6, Division 9, At Large",,LaTonya Laird Austin,4,0,1,3,0
+Perry,4 Fourche,Circuit Judge,"6, Division 9, At Large",,LaTonya Laird Austin,34,1,13,20,0
+Perry,5 Houston,Circuit Judge,"6, Division 9, At Large",,LaTonya Laird Austin,13,0,13,0,0
+Perry,6 Kenney,Circuit Judge,"6, Division 9, At Large",,LaTonya Laird Austin,1,0,1,0,0
+Perry,7 Lake,Circuit Judge,"6, Division 9, At Large",,LaTonya Laird Austin,15,0,10,5,0
+Perry,8 Maumelle,Circuit Judge,"6, Division 9, At Large",,LaTonya Laird Austin,11,0,7,4,0
+Perry,9 New Tennessee,Circuit Judge,"6, Division 9, At Large",,LaTonya Laird Austin,3,0,0,3,0
+Perry,10 Perry,Circuit Judge,"6, Division 9, At Large",,LaTonya Laird Austin,41,0,35,6,0
+Perry,11 Petit Jean,Circuit Judge,"6, Division 9, At Large",,LaTonya Laird Austin,10,0,9,1,0
+Perry,12 Rankin,Circuit Judge,"6, Division 9, At Large",,LaTonya Laird Austin,20,0,12,8,0
+Perry,13 Rose Creek,Circuit Judge,"6, Division 9, At Large",,LaTonya Laird Austin,6,0,3,3,0
+Perry,14 Tyler,Circuit Judge,"6, Division 9, At Large",,LaTonya Laird Austin,4,0,4,0,0
+Perry,15 Union,Circuit Judge,"6, Division 9, At Large",,LaTonya Laird Austin,28,0,21,7,0
+Perry,16 Union Valley,Circuit Judge,"6, Division 9, At Large",,LaTonya Laird Austin,7,0,3,4,0
+Perry,17 Wye,Circuit Judge,"6, Division 9, At Large",,LaTonya Laird Austin,40,0,30,10,0
+Perry,1 Aplin,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Shawn Johnson,45,0,28,17,0
+Perry,2 Casa,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Shawn Johnson,18,0,12,6,0
+Perry,3 Cherry Hill,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Shawn Johnson,19,0,8,11,0
+Perry,4 Fourche,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Shawn Johnson,141,1,55,85,0
+Perry,5 Houston,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Shawn Johnson,52,0,41,11,0
+Perry,6 Kenney,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Shawn Johnson,6,0,6,0,0
+Perry,7 Lake,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Shawn Johnson,37,1,19,17,0
+Perry,8 Maumelle,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Shawn Johnson,48,0,20,28,0
+Perry,9 New Tennessee,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Shawn Johnson,26,0,15,11,0
+Perry,10 Perry,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Shawn Johnson,83,0,65,18,0
+Perry,11 Petit Jean,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Shawn Johnson,27,0,15,12,0
+Perry,12 Rankin,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Shawn Johnson,87,0,35,52,0
+Perry,13 Rose Creek,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Shawn Johnson,12,2,6,4,0
+Perry,14 Tyler,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Shawn Johnson,18,0,17,1,0
+Perry,15 Union,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Shawn Johnson,74,1,62,11,0
+Perry,16 Union Valley,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Shawn Johnson,31,0,13,18,0
+Perry,17 Wye,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Shawn Johnson,89,0,76,13,0
+Perry,1 Aplin,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Andrew 'Andy' Ballard,10,0,8,2,0
+Perry,2 Casa,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Andrew 'Andy' Ballard,33,0,17,16,0
+Perry,3 Cherry Hill,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Andrew 'Andy' Ballard,22,0,12,10,0
+Perry,4 Fourche,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Andrew 'Andy' Ballard,103,0,42,61,0
+Perry,5 Houston,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Andrew 'Andy' Ballard,38,0,31,7,0
+Perry,6 Kenney,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Andrew 'Andy' Ballard,10,0,7,3,0
+Perry,7 Lake,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Andrew 'Andy' Ballard,28,0,9,19,0
+Perry,8 Maumelle,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Andrew 'Andy' Ballard,52,0,21,31,0
+Perry,9 New Tennessee,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Andrew 'Andy' Ballard,10,0,6,4,0
+Perry,10 Perry,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Andrew 'Andy' Ballard,76,1,61,14,0
+Perry,11 Petit Jean,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Andrew 'Andy' Ballard,25,0,20,5,0
+Perry,12 Rankin,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Andrew 'Andy' Ballard,82,0,38,44,0
+Perry,13 Rose Creek,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Andrew 'Andy' Ballard,14,0,11,2,1
+Perry,14 Tyler,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Andrew 'Andy' Ballard,19,0,19,0,0
+Perry,15 Union,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Andrew 'Andy' Ballard,47,1,32,14,0
+Perry,16 Union Valley,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Andrew 'Andy' Ballard,33,1,20,12,0
+Perry,17 Wye,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Andrew 'Andy' Ballard,67,0,51,16,0
+Perry,1 Aplin,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Tom Barron,8,0,7,1,0
+Perry,2 Casa,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Tom Barron,12,0,8,4,0
+Perry,3 Cherry Hill,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Tom Barron,8,0,2,6,0
+Perry,4 Fourche,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Tom Barron,47,0,17,30,0
+Perry,5 Houston,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Tom Barron,23,0,17,6,0
+Perry,6 Kenney,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Tom Barron,2,0,2,0,0
+Perry,7 Lake,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Tom Barron,9,0,4,5,0
+Perry,8 Maumelle,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Tom Barron,20,0,13,7,0
+Perry,9 New Tennessee,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Tom Barron,5,0,4,1,0
+Perry,10 Perry,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Tom Barron,33,2,26,5,0
+Perry,11 Petit Jean,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Tom Barron,11,0,9,2,0
+Perry,12 Rankin,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Tom Barron,34,0,16,18,0
+Perry,13 Rose Creek,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Tom Barron,4,0,4,0,0
+Perry,14 Tyler,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Tom Barron,11,0,11,0,0
+Perry,15 Union,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Tom Barron,18,0,12,6,0
+Perry,16 Union Valley,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Tom Barron,12,0,8,4,0
+Perry,17 Wye,Circuit Judge,"6, Division 14, Subdistrict 6.2",,Tom Barron,28,0,23,5,0
+Perry,1 Aplin,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Amy Dunn Johnson,31,0,23,8,0
+Perry,2 Casa,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Amy Dunn Johnson,31,0,22,9,0
+Perry,3 Cherry Hill,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Amy Dunn Johnson,21,0,9,12,0
+Perry,4 Fourche,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Amy Dunn Johnson,123,1,51,71,0
+Perry,5 Houston,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Amy Dunn Johnson,64,0,50,14,0
+Perry,6 Kenney,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Amy Dunn Johnson,8,0,7,1,0
+Perry,7 Lake,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Amy Dunn Johnson,32,1,14,17,0
+Perry,8 Maumelle,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Amy Dunn Johnson,64,0,24,40,0
+Perry,9 New Tennessee,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Amy Dunn Johnson,19,0,9,10,0
+Perry,10 Perry,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Amy Dunn Johnson,134,1,105,28,0
+Perry,11 Petit Jean,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Amy Dunn Johnson,28,0,17,11,0
+Perry,12 Rankin,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Amy Dunn Johnson,100,0,45,55,0
+Perry,13 Rose Creek,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Amy Dunn Johnson,15,0,12,2,1
+Perry,14 Tyler,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Amy Dunn Johnson,22,0,21,1,0
+Perry,15 Union,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Amy Dunn Johnson,86,0,70,16,0
+Perry,16 Union Valley,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Amy Dunn Johnson,35,0,17,18,0
+Perry,17 Wye,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Amy Dunn Johnson,101,0,83,18,0
+Perry,1 Aplin,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Jay Shue,21,0,13,8,0
+Perry,2 Casa,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Jay Shue,9,0,2,7,0
+Perry,3 Cherry Hill,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Jay Shue,11,0,6,5,0
+Perry,4 Fourche,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Jay Shue,80,0,32,48,0
+Perry,5 Houston,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Jay Shue,16,0,11,5,0
+Perry,6 Kenney,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Jay Shue,3,0,2,1,0
+Perry,7 Lake,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Jay Shue,16,0,9,7,0
+Perry,8 Maumelle,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Jay Shue,38,0,18,20,0
+Perry,9 New Tennessee,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Jay Shue,12,0,9,3,0
+Perry,10 Perry,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Jay Shue,23,0,21,2,0
+Perry,11 Petit Jean,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Jay Shue,14,0,12,2,0
+Perry,12 Rankin,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Jay Shue,48,0,20,28,0
+Perry,13 Rose Creek,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Jay Shue,2,0,2,0,0
+Perry,14 Tyler,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Jay Shue,15,0,15,0,0
+Perry,15 Union,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Jay Shue,27,2,20,5,0
+Perry,16 Union Valley,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Jay Shue,22,0,13,9,0
+Perry,17 Wye,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Jay Shue,37,0,31,6,0
+Perry,1 Aplin,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Gary Rogers,16,0,10,6,0
+Perry,2 Casa,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Gary Rogers,21,0,12,9,0
+Perry,3 Cherry Hill,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Gary Rogers,15,0,6,9,0
+Perry,4 Fourche,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Gary Rogers,85,0,31,54,0
+Perry,5 Houston,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Gary Rogers,32,0,28,4,0
+Perry,6 Kenney,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Gary Rogers,7,0,6,1,0
+Perry,7 Lake,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Gary Rogers,24,0,8,16,0
+Perry,8 Maumelle,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Gary Rogers,21,0,12,9,0
+Perry,9 New Tennessee,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Gary Rogers,10,0,7,3,0
+Perry,10 Perry,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Gary Rogers,35,2,26,7,0
+Perry,11 Petit Jean,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Gary Rogers,21,0,15,6,0
+Perry,12 Rankin,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Gary Rogers,57,0,26,31,0
+Perry,13 Rose Creek,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Gary Rogers,16,2,9,5,0
+Perry,14 Tyler,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Gary Rogers,15,0,15,0,0
+Perry,15 Union,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Gary Rogers,30,0,21,9,0
+Perry,16 Union Valley,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Gary Rogers,17,1,9,7,0
+Perry,17 Wye,Circuit Judge,"6, Division 15, Subdistrict 6.2",,Gary Rogers,49,0,38,11,0
+Perry,1 Aplin,State District Court,"31, Little Rock 2",,Judge Vic Fleming,43,0,31,12,0
+Perry,2 Casa,State District Court,"31, Little Rock 2",,Judge Vic Fleming,33,0,20,13,0
+Perry,3 Cherry Hill,State District Court,"31, Little Rock 2",,Judge Vic Fleming,35,0,18,17,0
+Perry,4 Fourche,State District Court,"31, Little Rock 2",,Judge Vic Fleming,195,2,75,118,0
+Perry,5 Houston,State District Court,"31, Little Rock 2",,Judge Vic Fleming,84,0,71,13,0
+Perry,6 Kenney,State District Court,"31, Little Rock 2",,Judge Vic Fleming,15,0,13,2,0
+Perry,7 Lake,State District Court,"31, Little Rock 2",,Judge Vic Fleming,50,0,22,28,0
+Perry,8 Maumelle,State District Court,"31, Little Rock 2",,Judge Vic Fleming,79,0,37,42,0
+Perry,9 New Tennessee,State District Court,"31, Little Rock 2",,Judge Vic Fleming,31,0,20,11,0
+Perry,10 Perry,State District Court,"31, Little Rock 2",,Judge Vic Fleming,113,3,88,22,0
+Perry,11 Petit Jean,State District Court,"31, Little Rock 2",,Judge Vic Fleming,42,0,28,14,0
+Perry,12 Rankin,State District Court,"31, Little Rock 2",,Judge Vic Fleming,126,0,51,75,0
+Perry,13 Rose Creek,State District Court,"31, Little Rock 2",,Judge Vic Fleming,22,2,14,5,1
+Perry,14 Tyler,State District Court,"31, Little Rock 2",,Judge Vic Fleming,36,0,36,0,0
+Perry,15 Union,State District Court,"31, Little Rock 2",,Judge Vic Fleming,87,2,69,16,0
+Perry,16 Union Valley,State District Court,"31, Little Rock 2",,Judge Vic Fleming,52,1,24,27,0
+Perry,17 Wye,State District Court,"31, Little Rock 2",,Judge Vic Fleming,106,0,89,17,0
+Perry,1 Aplin,State District Court,"31, Little Rock 2",,Peggy (Margaret) Egan,20,0,13,7,0
+Perry,2 Casa,State District Court,"31, Little Rock 2",,Peggy (Margaret) Egan,30,0,18,12,0
+Perry,3 Cherry Hill,State District Court,"31, Little Rock 2",,Peggy (Margaret) Egan,13,0,4,9,0
+Perry,4 Fourche,State District Court,"31, Little Rock 2",,Peggy (Margaret) Egan,99,0,43,56,0
+Perry,5 Houston,State District Court,"31, Little Rock 2",,Peggy (Margaret) Egan,26,0,17,9,0
+Perry,6 Kenney,State District Court,"31, Little Rock 2",,Peggy (Margaret) Egan,3,0,2,1,0
+Perry,7 Lake,State District Court,"31, Little Rock 2",,Peggy (Margaret) Egan,23,1,9,13,0
+Perry,8 Maumelle,State District Court,"31, Little Rock 2",,Peggy (Margaret) Egan,42,0,16,26,0
+Perry,9 New Tennessee,State District Court,"31, Little Rock 2",,Peggy (Margaret) Egan,13,0,7,6,0
+Perry,10 Perry,State District Court,"31, Little Rock 2",,Peggy (Margaret) Egan,80,0,65,15,0
+Perry,11 Petit Jean,State District Court,"31, Little Rock 2",,Peggy (Margaret) Egan,24,0,18,6,0
+Perry,12 Rankin,State District Court,"31, Little Rock 2",,Peggy (Margaret) Egan,82,0,40,42,0
+Perry,13 Rose Creek,State District Court,"31, Little Rock 2",,Peggy (Margaret) Egan,8,0,7,1,0
+Perry,14 Tyler,State District Court,"31, Little Rock 2",,Peggy (Margaret) Egan,12,0,11,1,0
+Perry,15 Union,State District Court,"31, Little Rock 2",,Peggy (Margaret) Egan,53,0,39,14,0
+Perry,16 Union Valley,State District Court,"31, Little Rock 2",,Peggy (Margaret) Egan,26,0,17,9,0
+Perry,17 Wye,State District Court,"31, Little Rock 2",,Peggy (Margaret) Egan,77,0,60,17,0

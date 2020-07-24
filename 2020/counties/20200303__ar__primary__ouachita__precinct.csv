@@ -1,0 +1,503 @@
+county,precinct,office,district,party,candidate,votes,absentee,election_day,early_vote,provisional
+Ouachita,001-Camden,U.S. President,,DEM,Marianne Williamson,1,0,0,1,0
+Ouachita,002-Camden,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Ouachita,003-Camden,U.S. President,,DEM,Marianne Williamson,2,0,0,2,0
+Ouachita,004-Camden,U.S. President,,DEM,Marianne Williamson,1,0,0,1,0
+Ouachita,005-Bearden,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Ouachita,006-Chidester,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Ouachita,007-East Camden,U.S. President,,DEM,Marianne Williamson,1,0,0,1,0
+Ouachita,008-Louann,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Ouachita,009-Stephens,U.S. President,,DEM,Marianne Williamson,1,0,1,0,0
+Ouachita,010-County 001,U.S. President,,DEM,Marianne Williamson,1,0,0,1,0
+Ouachita,011-County 002,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Ouachita,012-County 003,U.S. President,,DEM,Marianne Williamson,2,0,2,0,0
+Ouachita,013-County 004,U.S. President,,DEM,Marianne Williamson,1,0,1,0,0
+Ouachita,014-County 005,U.S. President,,DEM,Marianne Williamson,1,0,0,1,0
+Ouachita,015-County 007,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Ouachita,016-County 008,U.S. President,,DEM,Marianne Williamson,1,0,1,0,0
+Ouachita,017-County 010,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Ouachita,018-County 011,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Ouachita,001-Camden,U.S. President,,DEM,Michael Bennet,1,0,1,0,0
+Ouachita,002-Camden,U.S. President,,DEM,Michael Bennet,3,0,3,0,0
+Ouachita,003-Camden,U.S. President,,DEM,Michael Bennet,1,0,0,1,0
+Ouachita,004-Camden,U.S. President,,DEM,Michael Bennet,2,0,2,0,0
+Ouachita,005-Bearden,U.S. President,,DEM,Michael Bennet,1,0,1,0,0
+Ouachita,006-Chidester,U.S. President,,DEM,Michael Bennet,1,0,1,0,0
+Ouachita,007-East Camden,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Ouachita,008-Louann,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Ouachita,009-Stephens,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Ouachita,010-County 001,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Ouachita,011-County 002,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Ouachita,012-County 003,U.S. President,,DEM,Michael Bennet,1,0,1,0,0
+Ouachita,013-County 004,U.S. President,,DEM,Michael Bennet,2,0,1,1,0
+Ouachita,014-County 005,U.S. President,,DEM,Michael Bennet,1,0,1,0,0
+Ouachita,015-County 007,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Ouachita,016-County 008,U.S. President,,DEM,Michael Bennet,1,0,1,0,0
+Ouachita,017-County 010,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Ouachita,018-County 011,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Ouachita,001-Camden,U.S. President,,DEM,Andrew Yang,1,0,1,0,0
+Ouachita,002-Camden,U.S. President,,DEM,Andrew Yang,2,0,1,1,0
+Ouachita,003-Camden,U.S. President,,DEM,Andrew Yang,1,0,0,1,0
+Ouachita,004-Camden,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Ouachita,005-Bearden,U.S. President,,DEM,Andrew Yang,1,0,0,1,0
+Ouachita,006-Chidester,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Ouachita,007-East Camden,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Ouachita,008-Louann,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Ouachita,009-Stephens,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Ouachita,010-County 001,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Ouachita,011-County 002,U.S. President,,DEM,Andrew Yang,1,0,0,1,0
+Ouachita,012-County 003,U.S. President,,DEM,Andrew Yang,2,0,1,1,0
+Ouachita,013-County 004,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Ouachita,014-County 005,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Ouachita,015-County 007,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Ouachita,016-County 008,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Ouachita,017-County 010,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Ouachita,018-County 011,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Ouachita,001-Camden,U.S. President,,DEM,Julian Castro,2,0,0,2,0
+Ouachita,002-Camden,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Ouachita,003-Camden,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Ouachita,004-Camden,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Ouachita,005-Bearden,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Ouachita,006-Chidester,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Ouachita,007-East Camden,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Ouachita,008-Louann,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Ouachita,009-Stephens,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Ouachita,010-County 001,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Ouachita,011-County 002,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Ouachita,012-County 003,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Ouachita,013-County 004,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Ouachita,014-County 005,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Ouachita,015-County 007,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Ouachita,016-County 008,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Ouachita,017-County 010,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Ouachita,018-County 011,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Ouachita,001-Camden,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Ouachita,002-Camden,U.S. President,,DEM,Kamala Harris,4,0,1,3,0
+Ouachita,003-Camden,U.S. President,,DEM,Kamala Harris,1,0,0,1,0
+Ouachita,004-Camden,U.S. President,,DEM,Kamala Harris,1,0,0,1,0
+Ouachita,005-Bearden,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Ouachita,006-Chidester,U.S. President,,DEM,Kamala Harris,2,0,1,1,0
+Ouachita,007-East Camden,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Ouachita,008-Louann,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Ouachita,009-Stephens,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Ouachita,010-County 001,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Ouachita,011-County 002,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Ouachita,012-County 003,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Ouachita,013-County 004,U.S. President,,DEM,Kamala Harris,1,0,1,0,0
+Ouachita,014-County 005,U.S. President,,DEM,Kamala Harris,2,0,1,1,0
+Ouachita,015-County 007,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Ouachita,016-County 008,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Ouachita,017-County 010,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Ouachita,018-County 011,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Ouachita,001-Camden,U.S. President,,DEM,Mosie Boyd,2,0,1,1,0
+Ouachita,002-Camden,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Ouachita,003-Camden,U.S. President,,DEM,Mosie Boyd,1,0,1,0,0
+Ouachita,004-Camden,U.S. President,,DEM,Mosie Boyd,1,0,0,1,0
+Ouachita,005-Bearden,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Ouachita,006-Chidester,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Ouachita,007-East Camden,U.S. President,,DEM,Mosie Boyd,2,0,2,0,0
+Ouachita,008-Louann,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Ouachita,009-Stephens,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Ouachita,010-County 001,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Ouachita,011-County 002,U.S. President,,DEM,Mosie Boyd,1,0,1,0,0
+Ouachita,012-County 003,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Ouachita,013-County 004,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Ouachita,014-County 005,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Ouachita,015-County 007,U.S. President,,DEM,Mosie Boyd,1,0,1,0,0
+Ouachita,016-County 008,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Ouachita,017-County 010,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Ouachita,018-County 011,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Ouachita,001-Camden,U.S. President,,DEM,Amy Klobuchar,5,1,1,3,0
+Ouachita,002-Camden,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0
+Ouachita,003-Camden,U.S. President,,DEM,Amy Klobuchar,1,0,1,0,0
+Ouachita,004-Camden,U.S. President,,DEM,Amy Klobuchar,6,0,1,5,0
+Ouachita,005-Bearden,U.S. President,,DEM,Amy Klobuchar,2,0,2,0,0
+Ouachita,006-Chidester,U.S. President,,DEM,Amy Klobuchar,1,0,0,1,0
+Ouachita,007-East Camden,U.S. President,,DEM,Amy Klobuchar,1,0,0,1,0
+Ouachita,008-Louann,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0
+Ouachita,009-Stephens,U.S. President,,DEM,Amy Klobuchar,1,0,1,0,0
+Ouachita,010-County 001,U.S. President,,DEM,Amy Klobuchar,2,0,1,1,0
+Ouachita,011-County 002,U.S. President,,DEM,Amy Klobuchar,3,0,1,2,0
+Ouachita,012-County 003,U.S. President,,DEM,Amy Klobuchar,2,0,1,1,0
+Ouachita,013-County 004,U.S. President,,DEM,Amy Klobuchar,7,0,2,5,0
+Ouachita,014-County 005,U.S. President,,DEM,Amy Klobuchar,2,0,2,0,0
+Ouachita,015-County 007,U.S. President,,DEM,Amy Klobuchar,2,0,1,1,0
+Ouachita,016-County 008,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0
+Ouachita,017-County 010,U.S. President,,DEM,Amy Klobuchar,1,0,0,1,0
+Ouachita,018-County 011,U.S. President,,DEM,Amy Klobuchar,3,0,0,3,0
+Ouachita,001-Camden,U.S. President,,DEM,Cory Booker,1,0,1,0,0
+Ouachita,002-Camden,U.S. President,,DEM,Cory Booker,1,0,1,0,0
+Ouachita,003-Camden,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Ouachita,004-Camden,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Ouachita,005-Bearden,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Ouachita,006-Chidester,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Ouachita,007-East Camden,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Ouachita,008-Louann,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Ouachita,009-Stephens,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Ouachita,010-County 001,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Ouachita,011-County 002,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Ouachita,012-County 003,U.S. President,,DEM,Cory Booker,1,0,0,1,0
+Ouachita,013-County 004,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Ouachita,014-County 005,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Ouachita,015-County 007,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Ouachita,016-County 008,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Ouachita,017-County 010,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Ouachita,018-County 011,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Ouachita,001-Camden,U.S. President,,DEM,Tom Steyer,2,0,0,2,0
+Ouachita,002-Camden,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Ouachita,003-Camden,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Ouachita,004-Camden,U.S. President,,DEM,Tom Steyer,1,0,0,1,0
+Ouachita,005-Bearden,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Ouachita,006-Chidester,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Ouachita,007-East Camden,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Ouachita,008-Louann,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Ouachita,009-Stephens,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Ouachita,010-County 001,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Ouachita,011-County 002,U.S. President,,DEM,Tom Steyer,2,0,1,1,0
+Ouachita,012-County 003,U.S. President,,DEM,Tom Steyer,1,0,0,1,0
+Ouachita,013-County 004,U.S. President,,DEM,Tom Steyer,3,0,0,3,0
+Ouachita,014-County 005,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Ouachita,015-County 007,U.S. President,,DEM,Tom Steyer,2,1,0,1,0
+Ouachita,016-County 008,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Ouachita,017-County 010,U.S. President,,DEM,Tom Steyer,1,0,0,1,0
+Ouachita,018-County 011,U.S. President,,DEM,Tom Steyer,1,0,0,1,0
+Ouachita,001-Camden,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Ouachita,002-Camden,U.S. President,,DEM,John K. Delaney,1,0,0,1,0
+Ouachita,003-Camden,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Ouachita,004-Camden,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Ouachita,005-Bearden,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Ouachita,006-Chidester,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Ouachita,007-East Camden,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Ouachita,008-Louann,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Ouachita,009-Stephens,U.S. President,,DEM,John K. Delaney,1,0,1,0,0
+Ouachita,010-County 001,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Ouachita,011-County 002,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Ouachita,012-County 003,U.S. President,,DEM,John K. Delaney,1,0,1,0,0
+Ouachita,013-County 004,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Ouachita,014-County 005,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Ouachita,015-County 007,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Ouachita,016-County 008,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Ouachita,017-County 010,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Ouachita,018-County 011,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Ouachita,001-Camden,U.S. President,,DEM,Elizabeth Warren,5,1,2,2,0
+Ouachita,002-Camden,U.S. President,,DEM,Elizabeth Warren,7,0,1,6,0
+Ouachita,003-Camden,U.S. President,,DEM,Elizabeth Warren,2,0,1,1,0
+Ouachita,004-Camden,U.S. President,,DEM,Elizabeth Warren,9,0,4,5,0
+Ouachita,005-Bearden,U.S. President,,DEM,Elizabeth Warren,4,0,4,0,0
+Ouachita,006-Chidester,U.S. President,,DEM,Elizabeth Warren,1,0,1,0,0
+Ouachita,007-East Camden,U.S. President,,DEM,Elizabeth Warren,1,0,0,1,0
+Ouachita,008-Louann,U.S. President,,DEM,Elizabeth Warren,0,0,0,0,0
+Ouachita,009-Stephens,U.S. President,,DEM,Elizabeth Warren,3,0,3,0,0
+Ouachita,010-County 001,U.S. President,,DEM,Elizabeth Warren,6,0,5,1,0
+Ouachita,011-County 002,U.S. President,,DEM,Elizabeth Warren,4,0,3,1,0
+Ouachita,012-County 003,U.S. President,,DEM,Elizabeth Warren,4,0,4,0,0
+Ouachita,013-County 004,U.S. President,,DEM,Elizabeth Warren,6,0,2,4,0
+Ouachita,014-County 005,U.S. President,,DEM,Elizabeth Warren,3,0,2,1,0
+Ouachita,015-County 007,U.S. President,,DEM,Elizabeth Warren,5,0,3,2,0
+Ouachita,016-County 008,U.S. President,,DEM,Elizabeth Warren,0,0,0,0,0
+Ouachita,017-County 010,U.S. President,,DEM,Elizabeth Warren,0,0,0,0,0
+Ouachita,018-County 011,U.S. President,,DEM,Elizabeth Warren,7,0,4,3,0
+Ouachita,001-Camden,U.S. President,,DEM,Michael R. Bloomberg,53,0,10,43,0
+Ouachita,002-Camden,U.S. President,,DEM,Michael R. Bloomberg,55,1,14,40,0
+Ouachita,003-Camden,U.S. President,,DEM,Michael R. Bloomberg,50,0,10,40,0
+Ouachita,004-Camden,U.S. President,,DEM,Michael R. Bloomberg,42,0,12,30,0
+Ouachita,005-Bearden,U.S. President,,DEM,Michael R. Bloomberg,11,0,5,6,0
+Ouachita,006-Chidester,U.S. President,,DEM,Michael R. Bloomberg,6,0,5,1,0
+Ouachita,007-East Camden,U.S. President,,DEM,Michael R. Bloomberg,8,0,2,6,0
+Ouachita,008-Louann,U.S. President,,DEM,Michael R. Bloomberg,1,0,0,1,0
+Ouachita,009-Stephens,U.S. President,,DEM,Michael R. Bloomberg,9,0,6,3,0
+Ouachita,010-County 001,U.S. President,,DEM,Michael R. Bloomberg,11,0,6,5,0
+Ouachita,011-County 002,U.S. President,,DEM,Michael R. Bloomberg,7,0,4,3,0
+Ouachita,012-County 003,U.S. President,,DEM,Michael R. Bloomberg,24,1,6,17,0
+Ouachita,013-County 004,U.S. President,,DEM,Michael R. Bloomberg,8,0,4,4,0
+Ouachita,014-County 005,U.S. President,,DEM,Michael R. Bloomberg,27,0,8,19,0
+Ouachita,015-County 007,U.S. President,,DEM,Michael R. Bloomberg,12,0,2,10,0
+Ouachita,016-County 008,U.S. President,,DEM,Michael R. Bloomberg,8,0,0,8,0
+Ouachita,017-County 010,U.S. President,,DEM,Michael R. Bloomberg,0,0,0,0,0
+Ouachita,018-County 011,U.S. President,,DEM,Michael R. Bloomberg,16,0,0,16,0
+Ouachita,001-Camden,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Ouachita,002-Camden,U.S. President,,DEM,Joe Sestak,1,0,0,1,0
+Ouachita,003-Camden,U.S. President,,DEM,Joe Sestak,1,1,0,0,0
+Ouachita,004-Camden,U.S. President,,DEM,Joe Sestak,1,0,0,1,0
+Ouachita,005-Bearden,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Ouachita,006-Chidester,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Ouachita,007-East Camden,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Ouachita,008-Louann,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Ouachita,009-Stephens,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Ouachita,010-County 001,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Ouachita,011-County 002,U.S. President,,DEM,Joe Sestak,1,0,1,0,0
+Ouachita,012-County 003,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Ouachita,013-County 004,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Ouachita,014-County 005,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Ouachita,015-County 007,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Ouachita,016-County 008,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Ouachita,017-County 010,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Ouachita,018-County 011,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Ouachita,001-Camden,U.S. President,,DEM,Bernie Sanders,31,0,14,17,0
+Ouachita,002-Camden,U.S. President,,DEM,Bernie Sanders,34,0,14,20,0
+Ouachita,003-Camden,U.S. President,,DEM,Bernie Sanders,61,5,26,30,0
+Ouachita,004-Camden,U.S. President,,DEM,Bernie Sanders,31,0,17,14,0
+Ouachita,005-Bearden,U.S. President,,DEM,Bernie Sanders,14,0,8,6,0
+Ouachita,006-Chidester,U.S. President,,DEM,Bernie Sanders,4,0,3,1,0
+Ouachita,007-East Camden,U.S. President,,DEM,Bernie Sanders,5,0,3,2,0
+Ouachita,008-Louann,U.S. President,,DEM,Bernie Sanders,4,0,4,0,0
+Ouachita,009-Stephens,U.S. President,,DEM,Bernie Sanders,14,0,13,1,0
+Ouachita,010-County 001,U.S. President,,DEM,Bernie Sanders,16,0,7,9,0
+Ouachita,011-County 002,U.S. President,,DEM,Bernie Sanders,11,0,7,4,0
+Ouachita,012-County 003,U.S. President,,DEM,Bernie Sanders,13,0,7,6,0
+Ouachita,013-County 004,U.S. President,,DEM,Bernie Sanders,14,0,5,9,0
+Ouachita,014-County 005,U.S. President,,DEM,Bernie Sanders,19,0,13,6,0
+Ouachita,015-County 007,U.S. President,,DEM,Bernie Sanders,11,0,3,8,0
+Ouachita,016-County 008,U.S. President,,DEM,Bernie Sanders,3,0,0,3,0
+Ouachita,017-County 010,U.S. President,,DEM,Bernie Sanders,0,0,0,0,0
+Ouachita,018-County 011,U.S. President,,DEM,Bernie Sanders,10,0,1,9,0
+Ouachita,001-Camden,U.S. President,,DEM,Tulsi Gabbard,3,0,1,2,0
+Ouachita,002-Camden,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Ouachita,003-Camden,U.S. President,,DEM,Tulsi Gabbard,1,0,1,0,0
+Ouachita,004-Camden,U.S. President,,DEM,Tulsi Gabbard,2,0,1,1,0
+Ouachita,005-Bearden,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Ouachita,006-Chidester,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Ouachita,007-East Camden,U.S. President,,DEM,Tulsi Gabbard,1,0,1,0,0
+Ouachita,008-Louann,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Ouachita,009-Stephens,U.S. President,,DEM,Tulsi Gabbard,2,0,1,1,0
+Ouachita,010-County 001,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Ouachita,011-County 002,U.S. President,,DEM,Tulsi Gabbard,3,2,0,1,0
+Ouachita,012-County 003,U.S. President,,DEM,Tulsi Gabbard,2,0,0,2,0
+Ouachita,013-County 004,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Ouachita,014-County 005,U.S. President,,DEM,Tulsi Gabbard,2,0,2,0,0
+Ouachita,015-County 007,U.S. President,,DEM,Tulsi Gabbard,1,0,1,0,0
+Ouachita,016-County 008,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Ouachita,017-County 010,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Ouachita,018-County 011,U.S. President,,DEM,Tulsi Gabbard,2,0,1,1,0
+Ouachita,001-Camden,U.S. President,,DEM,Joseph R. Biden,188,0,92,96,0
+Ouachita,002-Camden,U.S. President,,DEM,Joseph R. Biden,156,2,78,76,0
+Ouachita,003-Camden,U.S. President,,DEM,Joseph R. Biden,186,2,99,85,0
+Ouachita,004-Camden,U.S. President,,DEM,Joseph R. Biden,124,2,62,60,0
+Ouachita,005-Bearden,U.S. President,,DEM,Joseph R. Biden,42,0,32,9,1
+Ouachita,006-Chidester,U.S. President,,DEM,Joseph R. Biden,27,0,23,4,0
+Ouachita,007-East Camden,U.S. President,,DEM,Joseph R. Biden,23,0,13,10,0
+Ouachita,008-Louann,U.S. President,,DEM,Joseph R. Biden,8,0,8,0,0
+Ouachita,009-Stephens,U.S. President,,DEM,Joseph R. Biden,64,0,50,14,0
+Ouachita,010-County 001,U.S. President,,DEM,Joseph R. Biden,60,1,43,16,0
+Ouachita,011-County 002,U.S. President,,DEM,Joseph R. Biden,32,0,17,15,0
+Ouachita,012-County 003,U.S. President,,DEM,Joseph R. Biden,64,2,35,27,0
+Ouachita,013-County 004,U.S. President,,DEM,Joseph R. Biden,72,0,45,27,0
+Ouachita,014-County 005,U.S. President,,DEM,Joseph R. Biden,86,2,63,21,0
+Ouachita,015-County 007,U.S. President,,DEM,Joseph R. Biden,39,1,16,22,0
+Ouachita,016-County 008,U.S. President,,DEM,Joseph R. Biden,15,0,10,5,0
+Ouachita,017-County 010,U.S. President,,DEM,Joseph R. Biden,0,0,0,0,0
+Ouachita,018-County 011,U.S. President,,DEM,Joseph R. Biden,32,0,15,17,0
+Ouachita,001-Camden,U.S. President,,DEM,Pete Buttigieg,18,0,1,17,0
+Ouachita,002-Camden,U.S. President,,DEM,Pete Buttigieg,5,0,1,4,0
+Ouachita,003-Camden,U.S. President,,DEM,Pete Buttigieg,3,1,1,1,0
+Ouachita,004-Camden,U.S. President,,DEM,Pete Buttigieg,2,0,1,1,0
+Ouachita,005-Bearden,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Ouachita,006-Chidester,U.S. President,,DEM,Pete Buttigieg,1,0,0,1,0
+Ouachita,007-East Camden,U.S. President,,DEM,Pete Buttigieg,2,0,0,2,0
+Ouachita,008-Louann,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Ouachita,009-Stephens,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Ouachita,010-County 001,U.S. President,,DEM,Pete Buttigieg,2,0,1,1,0
+Ouachita,011-County 002,U.S. President,,DEM,Pete Buttigieg,2,0,1,1,0
+Ouachita,012-County 003,U.S. President,,DEM,Pete Buttigieg,3,0,0,3,0
+Ouachita,013-County 004,U.S. President,,DEM,Pete Buttigieg,5,0,0,5,0
+Ouachita,014-County 005,U.S. President,,DEM,Pete Buttigieg,2,0,0,2,0
+Ouachita,015-County 007,U.S. President,,DEM,Pete Buttigieg,1,0,1,0,0
+Ouachita,016-County 008,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Ouachita,017-County 010,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Ouachita,018-County 011,U.S. President,,DEM,Pete Buttigieg,3,0,0,3,0
+Ouachita,001-Camden,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Ouachita,002-Camden,U.S. President,,DEM,Steve Bullock,3,0,1,2,0
+Ouachita,003-Camden,U.S. President,,DEM,Steve Bullock,1,0,0,1,0
+Ouachita,004-Camden,U.S. President,,DEM,Steve Bullock,1,0,1,0,0
+Ouachita,005-Bearden,U.S. President,,DEM,Steve Bullock,1,0,1,0,0
+Ouachita,006-Chidester,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Ouachita,007-East Camden,U.S. President,,DEM,Steve Bullock,1,0,1,0,0
+Ouachita,008-Louann,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Ouachita,009-Stephens,U.S. President,,DEM,Steve Bullock,1,0,1,0,0
+Ouachita,010-County 001,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Ouachita,011-County 002,U.S. President,,DEM,Steve Bullock,2,0,2,0,0
+Ouachita,012-County 003,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Ouachita,013-County 004,U.S. President,,DEM,Steve Bullock,1,0,1,0,0
+Ouachita,014-County 005,U.S. President,,DEM,Steve Bullock,1,0,0,1,0
+Ouachita,015-County 007,U.S. President,,DEM,Steve Bullock,1,0,1,0,0
+Ouachita,016-County 008,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Ouachita,017-County 010,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Ouachita,018-County 011,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Ouachita,001-Camden,State Senate District 27,,DEM,Keidra Burrell,79,1,31,47,0
+Ouachita,002-Camden,State Senate District 27,,DEM,Keidra Burrell,176,0,73,103,0
+Ouachita,003-Camden,State Senate District 27,,DEM,Keidra Burrell,112,6,49,57,0
+Ouachita,005-Bearden,State Senate District 27,,DEM,Keidra Burrell,34,0,26,8,0
+Ouachita,007-East Camden,State Senate District 27,,DEM,Keidra Burrell,22,0,10,12,0
+Ouachita,010-County 001,State Senate District 27,,DEM,Keidra Burrell,40,0,28,12,0
+Ouachita,011-County 002,State Senate District 27,,DEM,Keidra Burrell,26,0,16,10,0
+Ouachita,014-County 005,State Senate District 27,,DEM,Keidra Burrell,25,0,16,9,0
+Ouachita,001-Camden,State Senate District 27,,DEM,Garry L. Smith,42,0,18,24,0
+Ouachita,002-Camden,State Senate District 27,,DEM,Garry L. Smith,85,3,38,44,0
+Ouachita,003-Camden,State Senate District 27,,DEM,Garry L. Smith,61,1,26,34,0
+Ouachita,005-Bearden,State Senate District 27,,DEM,Garry L. Smith,41,0,27,13,1
+Ouachita,007-East Camden,State Senate District 27,,DEM,Garry L. Smith,25,0,14,11,0
+Ouachita,010-County 001,State Senate District 27,,DEM,Garry L. Smith,65,1,40,24,0
+Ouachita,011-County 002,State Senate District 27,,DEM,Garry L. Smith,42,2,22,18,0
+Ouachita,014-County 005,State Senate District 27,,DEM,Garry L. Smith,29,1,13,15,0
+Ouachita,001-Camden,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Ouachita,002-Camden,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Ouachita,003-Camden,U.S. President,,REP,Roque 'Rocky' De La Fuente,1,0,1,0,0
+Ouachita,004-Camden,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Ouachita,005-Bearden,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Ouachita,006-Chidester,U.S. President,,REP,Roque 'Rocky' De La Fuente,1,0,1,0,0
+Ouachita,007-East Camden,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Ouachita,008-Louann,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Ouachita,009-Stephens,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Ouachita,010-County 001,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Ouachita,011-County 002,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Ouachita,012-County 003,U.S. President,,REP,Roque 'Rocky' De La Fuente,1,0,0,1,0
+Ouachita,013-County 004,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Ouachita,014-County 005,U.S. President,,REP,Roque 'Rocky' De La Fuente,1,0,0,1,0
+Ouachita,015-County 007,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Ouachita,016-County 008,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Ouachita,017-County 010,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Ouachita,018-County 011,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Ouachita,001-Camden,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Ouachita,002-Camden,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Ouachita,003-Camden,U.S. President,,REP,Bill Weld,3,0,2,1,0
+Ouachita,004-Camden,U.S. President,,REP,Bill Weld,3,0,2,1,0
+Ouachita,005-Bearden,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Ouachita,006-Chidester,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Ouachita,007-East Camden,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Ouachita,008-Louann,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Ouachita,009-Stephens,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Ouachita,010-County 001,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Ouachita,011-County 002,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Ouachita,012-County 003,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Ouachita,013-County 004,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Ouachita,014-County 005,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Ouachita,015-County 007,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Ouachita,016-County 008,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Ouachita,017-County 010,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Ouachita,018-County 011,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Ouachita,001-Camden,U.S. President,,REP,Donald J. Trump,154,2,62,90,0
+Ouachita,002-Camden,U.S. President,,REP,Donald J. Trump,39,0,23,16,0
+Ouachita,003-Camden,U.S. President,,REP,Donald J. Trump,21,0,14,7,0
+Ouachita,004-Camden,U.S. President,,REP,Donald J. Trump,190,1,84,105,0
+Ouachita,005-Bearden,U.S. President,,REP,Donald J. Trump,33,0,29,4,0
+Ouachita,006-Chidester,U.S. President,,REP,Donald J. Trump,17,0,14,3,0
+Ouachita,007-East Camden,U.S. President,,REP,Donald J. Trump,43,0,26,17,0
+Ouachita,008-Louann,U.S. President,,REP,Donald J. Trump,4,0,3,1,0
+Ouachita,009-Stephens,U.S. President,,REP,Donald J. Trump,37,0,25,12,0
+Ouachita,010-County 001,U.S. President,,REP,Donald J. Trump,62,3,34,25,0
+Ouachita,011-County 002,U.S. President,,REP,Donald J. Trump,118,0,78,40,0
+Ouachita,012-County 003,U.S. President,,REP,Donald J. Trump,147,0,90,57,0
+Ouachita,013-County 004,U.S. President,,REP,Donald J. Trump,103,3,56,44,0
+Ouachita,014-County 005,U.S. President,,REP,Donald J. Trump,115,3,80,32,0
+Ouachita,015-County 007,U.S. President,,REP,Donald J. Trump,123,0,55,68,0
+Ouachita,016-County 008,U.S. President,,REP,Donald J. Trump,5,0,4,1,0
+Ouachita,017-County 010,U.S. President,,REP,Donald J. Trump,8,0,5,3,0
+Ouachita,018-County 011,U.S. President,,REP,Donald J. Trump,63,0,20,43,0
+Ouachita,001-Camden,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,228,1,83,144,0
+Ouachita,002-Camden,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,116,0,58,58,0
+Ouachita,003-Camden,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,112,1,64,47,0
+Ouachita,004-Camden,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,172,1,79,92,0
+Ouachita,005-Bearden,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,61,0,51,10,0
+Ouachita,006-Chidester,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,24,0,19,5,0
+Ouachita,007-East Camden,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,42,0,25,17,0
+Ouachita,008-Louann,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,9,0,6,3,0
+Ouachita,009-Stephens,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,65,0,51,14,0
+Ouachita,010-County 001,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,77,2,50,25,0
+Ouachita,011-County 002,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,94,2,56,36,0
+Ouachita,012-County 003,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,134,1,74,58,1
+Ouachita,013-County 004,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,122,1,67,54,0
+Ouachita,014-County 005,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,113,1,78,34,0
+Ouachita,015-County 007,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,114,0,45,69,0
+Ouachita,016-County 008,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,7,0,5,2,0
+Ouachita,017-County 010,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,5,0,2,3,0
+Ouachita,018-County 011,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,74,0,25,49,0
+Ouachita,001-Camden,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,239,3,102,134,0
+Ouachita,002-Camden,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,173,3,77,93,0
+Ouachita,003-Camden,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,216,7,89,120,0
+Ouachita,004-Camden,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,222,1,99,122,0
+Ouachita,005-Bearden,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,51,0,35,15,1
+Ouachita,006-Chidester,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,35,0,31,4,0
+Ouachita,007-East Camden,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,43,0,23,20,0
+Ouachita,008-Louann,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,8,0,8,0,0
+Ouachita,009-Stephens,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,69,0,53,16,0
+Ouachita,010-County 001,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,82,2,46,34,0
+Ouachita,011-County 002,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,92,0,57,35,0
+Ouachita,012-County 003,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,135,3,72,60,0
+Ouachita,013-County 004,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,96,2,46,48,0
+Ouachita,014-County 005,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,142,3,93,46,0
+Ouachita,015-County 007,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,88,2,39,47,0
+Ouachita,016-County 008,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,22,0,7,15,0
+Ouachita,017-County 010,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,5,0,3,2,0
+Ouachita,018-County 011,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,61,0,19,42,0
+Ouachita,001-Camden,Court of Appeals Associate Judge,5,,James McMenis,105,2,50,53,0
+Ouachita,002-Camden,Court of Appeals Associate Judge,5,,James McMenis,87,1,47,39,0
+Ouachita,003-Camden,Court of Appeals Associate Judge,5,,James McMenis,126,2,72,52,0
+Ouachita,004-Camden,Court of Appeals Associate Judge,5,,James McMenis,93,1,52,40,0
+Ouachita,005-Bearden,Court of Appeals Associate Judge,5,,James McMenis,20,0,16,4,0
+Ouachita,006-Chidester,Court of Appeals Associate Judge,5,,James McMenis,11,0,9,2,0
+Ouachita,007-East Camden,Court of Appeals Associate Judge,5,,James McMenis,26,0,18,8,0
+Ouachita,008-Louann,Court of Appeals Associate Judge,5,,James McMenis,12,0,10,2,0
+Ouachita,009-Stephens,Court of Appeals Associate Judge,5,,James McMenis,42,0,38,4,0
+Ouachita,010-County 001,Court of Appeals Associate Judge,5,,James McMenis,43,1,23,19,0
+Ouachita,011-County 002,Court of Appeals Associate Judge,5,,James McMenis,50,0,34,16,0
+Ouachita,012-County 003,Court of Appeals Associate Judge,5,,James McMenis,79,4,47,27,1
+Ouachita,013-County 004,Court of Appeals Associate Judge,5,,James McMenis,67,0,40,27,0
+Ouachita,014-County 005,Court of Appeals Associate Judge,5,,James McMenis,72,0,57,15,0
+Ouachita,015-County 007,Court of Appeals Associate Judge,5,,James McMenis,44,0,25,19,0
+Ouachita,016-County 008,Court of Appeals Associate Judge,5,,James McMenis,11,0,5,6,0
+Ouachita,017-County 010,Court of Appeals Associate Judge,5,,James McMenis,1,0,0,1,0
+Ouachita,018-County 011,Court of Appeals Associate Judge,5,,James McMenis,15,0,3,12,0
+Ouachita,001-Camden,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,365,2,136,227,0
+Ouachita,002-Camden,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,211,2,90,119,0
+Ouachita,003-Camden,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,198,5,80,113,0
+Ouachita,004-Camden,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,310,2,130,178,0
+Ouachita,005-Bearden,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,92,0,70,21,1
+Ouachita,006-Chidester,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,37,0,30,7,0
+Ouachita,007-East Camden,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,65,0,31,34,0
+Ouachita,008-Louann,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,5,0,4,1,0
+Ouachita,009-Stephens,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,84,0,59,25,0
+Ouachita,010-County 001,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,119,3,74,42,0
+Ouachita,011-County 002,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,137,2,81,54,0
+Ouachita,012-County 003,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,192,0,100,92,0
+Ouachita,013-County 004,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,155,3,76,76,0
+Ouachita,014-County 005,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,174,4,106,64,0
+Ouachita,015-County 007,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,158,2,57,99,0
+Ouachita,016-County 008,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,16,0,7,9,0
+Ouachita,017-County 010,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,9,0,5,4,0
+Ouachita,018-County 011,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,120,0,41,79,0
+Ouachita,001-Camden,State District Court,39,,Ebony Gulley,228,1,96,131,0
+Ouachita,002-Camden,State District Court,39,,Ebony Gulley,253,2,110,141,0
+Ouachita,003-Camden,State District Court,39,,Ebony Gulley,296,8,128,160,0
+Ouachita,004-Camden,State District Court,39,,Ebony Gulley,183,2,75,106,0
+Ouachita,005-Bearden,State District Court,39,,Ebony Gulley,49,0,32,16,1
+Ouachita,006-Chidester,State District Court,39,,Ebony Gulley,39,0,32,7,0
+Ouachita,007-East Camden,State District Court,39,,Ebony Gulley,35,0,15,20,0
+Ouachita,008-Louann,State District Court,39,,Ebony Gulley,9,0,7,2,0
+Ouachita,009-Stephens,State District Court,39,,Ebony Gulley,76,0,61,15,0
+Ouachita,010-County 001,State District Court,39,,Ebony Gulley,72,1,45,26,0
+Ouachita,011-County 002,State District Court,39,,Ebony Gulley,45,0,24,21,0
+Ouachita,012-County 003,State District Court,39,,Ebony Gulley,62,2,33,27,0
+Ouachita,013-County 004,State District Court,39,,Ebony Gulley,89,0,46,43,0
+Ouachita,014-County 005,State District Court,39,,Ebony Gulley,104,2,62,40,0
+Ouachita,015-County 007,State District Court,39,,Ebony Gulley,42,0,20,22,0
+Ouachita,016-County 008,State District Court,39,,Ebony Gulley,30,0,14,16,0
+Ouachita,017-County 010,State District Court,39,,Ebony Gulley,0,0,0,0,0
+Ouachita,018-County 011,State District Court,39,,Ebony Gulley,38,0,11,27,0
+Ouachita,001-Camden,State District Court,39,,Judge David Graham,254,3,92,159,0
+Ouachita,002-Camden,State District Court,39,,Judge David Graham,70,1,34,35,0
+Ouachita,003-Camden,State District Court,39,,Judge David Graham,56,1,34,21,0
+Ouachita,004-Camden,State District Court,39,,Judge David Graham,236,1,115,120,0
+Ouachita,005-Bearden,State District Court,39,,Judge David Graham,68,0,57,11,0
+Ouachita,006-Chidester,State District Court,39,,Judge David Graham,23,0,19,4,0
+Ouachita,007-East Camden,State District Court,39,,Judge David Graham,54,0,34,20,0
+Ouachita,008-Louann,State District Court,39,,Judge David Graham,6,0,5,1,0
+Ouachita,009-Stephens,State District Court,39,,Judge David Graham,65,0,46,19,0
+Ouachita,010-County 001,State District Court,39,,Judge David Graham,97,3,57,37,0
+Ouachita,011-County 002,State District Court,39,,Judge David Graham,149,2,94,53,0
+Ouachita,012-County 003,State District Court,39,,Judge David Graham,215,1,119,94,1
+Ouachita,013-County 004,State District Court,39,,Judge David Graham,137,3,73,61,0
+Ouachita,014-County 005,State District Court,39,,Judge David Graham,161,2,114,45,0
+Ouachita,015-County 007,State District Court,39,,Judge David Graham,164,2,64,98,0
+Ouachita,016-County 008,State District Court,39,,Judge David Graham,3,0,2,1,0
+Ouachita,017-County 010,State District Court,39,,Judge David Graham,10,0,5,5,0
+Ouachita,018-County 011,State District Court,39,,Judge David Graham,101,0,34,67,0

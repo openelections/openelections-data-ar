@@ -1,0 +1,556 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_vote,election_day
+Drew,WARD 1,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Drew,WARD 2,U.S. President,,DEM,Joe Sestak,2,0,2,0
+Drew,WARD 3,U.S. President,,DEM,Joe Sestak,4,0,1,3
+Drew,WARD 4,U.S. President,,DEM,Joe Sestak,2,0,1,1
+Drew,COLLINS,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Drew,ENON,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Drew,JEROME,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Drew,LACEY,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Drew,MARION N BOX 1,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Drew,MARION N BOX 2,U.S. President,,DEM,Joe Sestak,1,0,0,1
+Drew,MARION SOUTH,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Drew,OZMENT,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Drew,PLANTERSVILLE,U.S. President,,DEM,Joe Sestak,1,0,1,0
+Drew,SELMA,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Drew,TILLAR,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Drew,WILMAR,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Drew,WINCHESTER,U.S. President,,DEM,Joe Sestak,1,0,0,1
+Drew,WARD 1,U.S. President,,DEM,Cory Booker,1,0,0,1
+Drew,WARD 2,U.S. President,,DEM,Cory Booker,1,0,1,0
+Drew,WARD 3,U.S. President,,DEM,Cory Booker,0,0,0,0
+Drew,WARD 4,U.S. President,,DEM,Cory Booker,0,0,0,0
+Drew,COLLINS,U.S. President,,DEM,Cory Booker,0,0,0,0
+Drew,ENON,U.S. President,,DEM,Cory Booker,0,0,0,0
+Drew,JEROME,U.S. President,,DEM,Cory Booker,0,0,0,0
+Drew,LACEY,U.S. President,,DEM,Cory Booker,1,0,1,0
+Drew,MARION N BOX 1,U.S. President,,DEM,Cory Booker,2,0,0,2
+Drew,MARION N BOX 2,U.S. President,,DEM,Cory Booker,0,0,0,0
+Drew,MARION SOUTH,U.S. President,,DEM,Cory Booker,0,0,0,0
+Drew,OZMENT,U.S. President,,DEM,Cory Booker,0,0,0,0
+Drew,PLANTERSVILLE,U.S. President,,DEM,Cory Booker,0,0,0,0
+Drew,SELMA,U.S. President,,DEM,Cory Booker,1,0,1,0
+Drew,TILLAR,U.S. President,,DEM,Cory Booker,0,0,0,0
+Drew,WILMAR,U.S. President,,DEM,Cory Booker,1,0,0,1
+Drew,WINCHESTER,U.S. President,,DEM,Cory Booker,0,0,0,0
+Drew,WARD 1,U.S. President,,DEM,Pete Buttigieg,1,0,0,1
+Drew,WARD 2,U.S. President,,DEM,Pete Buttigieg,3,0,2,1
+Drew,WARD 3,U.S. President,,DEM,Pete Buttigieg,4,0,4,0
+Drew,WARD 4,U.S. President,,DEM,Pete Buttigieg,5,1,3,1
+Drew,COLLINS,U.S. President,,DEM,Pete Buttigieg,0,0,0,0
+Drew,ENON,U.S. President,,DEM,Pete Buttigieg,0,0,0,0
+Drew,JEROME,U.S. President,,DEM,Pete Buttigieg,0,0,0,0
+Drew,LACEY,U.S. President,,DEM,Pete Buttigieg,0,0,0,0
+Drew,MARION N BOX 1,U.S. President,,DEM,Pete Buttigieg,1,0,1,0
+Drew,MARION N BOX 2,U.S. President,,DEM,Pete Buttigieg,0,0,0,0
+Drew,MARION SOUTH,U.S. President,,DEM,Pete Buttigieg,0,0,0,0
+Drew,OZMENT,U.S. President,,DEM,Pete Buttigieg,0,0,0,0
+Drew,PLANTERSVILLE,U.S. President,,DEM,Pete Buttigieg,1,0,1,0
+Drew,SELMA,U.S. President,,DEM,Pete Buttigieg,4,0,4,0
+Drew,TILLAR,U.S. President,,DEM,Pete Buttigieg,0,0,0,0
+Drew,WILMAR,U.S. President,,DEM,Pete Buttigieg,3,2,1,0
+Drew,WINCHESTER,U.S. President,,DEM,Pete Buttigieg,1,0,0,1
+Drew,WARD 1,U.S. President,,DEM,Marianne Williamson,1,0,0,1
+Drew,WARD 2,U.S. President,,DEM,Marianne Williamson,1,0,0,1
+Drew,WARD 3,U.S. President,,DEM,Marianne Williamson,1,0,0,1
+Drew,WARD 4,U.S. President,,DEM,Marianne Williamson,1,0,1,0
+Drew,COLLINS,U.S. President,,DEM,Marianne Williamson,0,0,0,0
+Drew,ENON,U.S. President,,DEM,Marianne Williamson,0,0,0,0
+Drew,JEROME,U.S. President,,DEM,Marianne Williamson,0,0,0,0
+Drew,LACEY,U.S. President,,DEM,Marianne Williamson,0,0,0,0
+Drew,MARION N BOX 1,U.S. President,,DEM,Marianne Williamson,2,0,1,1
+Drew,MARION N BOX 2,U.S. President,,DEM,Marianne Williamson,0,0,0,0
+Drew,MARION SOUTH,U.S. President,,DEM,Marianne Williamson,0,0,0,0
+Drew,OZMENT,U.S. President,,DEM,Marianne Williamson,0,0,0,0
+Drew,PLANTERSVILLE,U.S. President,,DEM,Marianne Williamson,0,0,0,0
+Drew,SELMA,U.S. President,,DEM,Marianne Williamson,0,0,0,0
+Drew,TILLAR,U.S. President,,DEM,Marianne Williamson,0,0,0,0
+Drew,WILMAR,U.S. President,,DEM,Marianne Williamson,1,0,0,1
+Drew,WINCHESTER,U.S. President,,DEM,Marianne Williamson,0,0,0,0
+Drew,WARD 1,U.S. President,,DEM,Steve Bullock,4,0,3,1
+Drew,WARD 2,U.S. President,,DEM,Steve Bullock,3,0,3,0
+Drew,WARD 3,U.S. President,,DEM,Steve Bullock,3,0,0,3
+Drew,WARD 4,U.S. President,,DEM,Steve Bullock,2,0,2,0
+Drew,COLLINS,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Drew,ENON,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Drew,JEROME,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Drew,LACEY,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Drew,MARION N BOX 1,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Drew,MARION N BOX 2,U.S. President,,DEM,Steve Bullock,1,0,0,1
+Drew,MARION SOUTH,U.S. President,,DEM,Steve Bullock,1,0,0,1
+Drew,OZMENT,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Drew,PLANTERSVILLE,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Drew,SELMA,U.S. President,,DEM,Steve Bullock,1,0,0,1
+Drew,TILLAR,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Drew,WILMAR,U.S. President,,DEM,Steve Bullock,2,0,1,1
+Drew,WINCHESTER,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Drew,WARD 1,U.S. President,,DEM,Amy Klobuchar,6,0,5,1
+Drew,WARD 2,U.S. President,,DEM,Amy Klobuchar,10,0,5,5
+Drew,WARD 3,U.S. President,,DEM,Amy Klobuchar,5,0,4,1
+Drew,WARD 4,U.S. President,,DEM,Amy Klobuchar,15,0,13,2
+Drew,COLLINS,U.S. President,,DEM,Amy Klobuchar,2,0,2,0
+Drew,ENON,U.S. President,,DEM,Amy Klobuchar,3,0,3,0
+Drew,JEROME,U.S. President,,DEM,Amy Klobuchar,0,0,0,0
+Drew,LACEY,U.S. President,,DEM,Amy Klobuchar,1,0,1,0
+Drew,MARION N BOX 1,U.S. President,,DEM,Amy Klobuchar,6,0,3,3
+Drew,MARION N BOX 2,U.S. President,,DEM,Amy Klobuchar,6,0,3,3
+Drew,MARION SOUTH,U.S. President,,DEM,Amy Klobuchar,5,0,4,1
+Drew,OZMENT,U.S. President,,DEM,Amy Klobuchar,1,0,1,0
+Drew,PLANTERSVILLE,U.S. President,,DEM,Amy Klobuchar,0,0,0,0
+Drew,SELMA,U.S. President,,DEM,Amy Klobuchar,7,0,4,3
+Drew,TILLAR,U.S. President,,DEM,Amy Klobuchar,0,0,0,0
+Drew,WILMAR,U.S. President,,DEM,Amy Klobuchar,4,0,3,1
+Drew,WINCHESTER,U.S. President,,DEM,Amy Klobuchar,0,0,0,0
+Drew,WARD 1,U.S. President,,DEM,Bernie Sanders,22,0,11,11
+Drew,WARD 2,U.S. President,,DEM,Bernie Sanders,34,1,13,20
+Drew,WARD 3,U.S. President,,DEM,Bernie Sanders,30,1,11,18
+Drew,WARD 4,U.S. President,,DEM,Bernie Sanders,26,0,17,9
+Drew,COLLINS,U.S. President,,DEM,Bernie Sanders,3,0,0,3
+Drew,ENON,U.S. President,,DEM,Bernie Sanders,1,0,1,0
+Drew,JEROME,U.S. President,,DEM,Bernie Sanders,0,0,0,0
+Drew,LACEY,U.S. President,,DEM,Bernie Sanders,5,0,3,2
+Drew,MARION N BOX 1,U.S. President,,DEM,Bernie Sanders,23,0,6,17
+Drew,MARION N BOX 2,U.S. President,,DEM,Bernie Sanders,11,0,4,7
+Drew,MARION SOUTH,U.S. President,,DEM,Bernie Sanders,19,0,8,11
+Drew,OZMENT,U.S. President,,DEM,Bernie Sanders,10,0,3,7
+Drew,PLANTERSVILLE,U.S. President,,DEM,Bernie Sanders,6,0,4,2
+Drew,SELMA,U.S. President,,DEM,Bernie Sanders,6,0,1,5
+Drew,TILLAR,U.S. President,,DEM,Bernie Sanders,0,0,0,0
+Drew,WILMAR,U.S. President,,DEM,Bernie Sanders,18,0,1,17
+Drew,WINCHESTER,U.S. President,,DEM,Bernie Sanders,11,0,1,10
+Drew,WARD 1,U.S. President,,DEM,Kamala Harris,0,0,0,0
+Drew,WARD 2,U.S. President,,DEM,Kamala Harris,0,0,0,0
+Drew,WARD 3,U.S. President,,DEM,Kamala Harris,2,0,0,2
+Drew,WARD 4,U.S. President,,DEM,Kamala Harris,1,0,0,1
+Drew,COLLINS,U.S. President,,DEM,Kamala Harris,0,0,0,0
+Drew,ENON,U.S. President,,DEM,Kamala Harris,0,0,0,0
+Drew,JEROME,U.S. President,,DEM,Kamala Harris,0,0,0,0
+Drew,LACEY,U.S. President,,DEM,Kamala Harris,0,0,0,0
+Drew,MARION N BOX 1,U.S. President,,DEM,Kamala Harris,1,0,0,1
+Drew,MARION N BOX 2,U.S. President,,DEM,Kamala Harris,0,0,0,0
+Drew,MARION SOUTH,U.S. President,,DEM,Kamala Harris,0,0,0,0
+Drew,OZMENT,U.S. President,,DEM,Kamala Harris,0,0,0,0
+Drew,PLANTERSVILLE,U.S. President,,DEM,Kamala Harris,0,0,0,0
+Drew,SELMA,U.S. President,,DEM,Kamala Harris,0,0,0,0
+Drew,TILLAR,U.S. President,,DEM,Kamala Harris,0,0,0,0
+Drew,WILMAR,U.S. President,,DEM,Kamala Harris,1,0,0,1
+Drew,WINCHESTER,U.S. President,,DEM,Kamala Harris,0,0,0,0
+Drew,WARD 1,U.S. President,,DEM,Mosie Boyd,1,0,0,1
+Drew,WARD 2,U.S. President,,DEM,Mosie Boyd,1,0,1,0
+Drew,WARD 3,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Drew,WARD 4,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Drew,COLLINS,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Drew,ENON,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Drew,JEROME,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Drew,LACEY,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Drew,MARION N BOX 1,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Drew,MARION N BOX 2,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Drew,MARION SOUTH,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Drew,OZMENT,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Drew,PLANTERSVILLE,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Drew,SELMA,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Drew,TILLAR,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Drew,WILMAR,U.S. President,,DEM,Mosie Boyd,1,0,0,1
+Drew,WINCHESTER,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Drew,WARD 1,U.S. President,,DEM,John K. Delaney,1,0,0,1
+Drew,WARD 2,U.S. President,,DEM,John K. Delaney,1,0,0,1
+Drew,WARD 3,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Drew,WARD 4,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Drew,COLLINS,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Drew,ENON,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Drew,JEROME,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Drew,LACEY,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Drew,MARION N BOX 1,U.S. President,,DEM,John K. Delaney,1,0,0,1
+Drew,MARION N BOX 2,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Drew,MARION SOUTH,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Drew,OZMENT,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Drew,PLANTERSVILLE,U.S. President,,DEM,John K. Delaney,1,0,0,1
+Drew,SELMA,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Drew,TILLAR,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Drew,WILMAR,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Drew,WINCHESTER,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Drew,WARD 1,U.S. President,,DEM,Julian Castro,0,0,0,0
+Drew,WARD 2,U.S. President,,DEM,Julian Castro,0,0,0,0
+Drew,WARD 3,U.S. President,,DEM,Julian Castro,1,0,1,0
+Drew,WARD 4,U.S. President,,DEM,Julian Castro,0,0,0,0
+Drew,COLLINS,U.S. President,,DEM,Julian Castro,0,0,0,0
+Drew,ENON,U.S. President,,DEM,Julian Castro,0,0,0,0
+Drew,JEROME,U.S. President,,DEM,Julian Castro,0,0,0,0
+Drew,LACEY,U.S. President,,DEM,Julian Castro,0,0,0,0
+Drew,MARION N BOX 1,U.S. President,,DEM,Julian Castro,0,0,0,0
+Drew,MARION N BOX 2,U.S. President,,DEM,Julian Castro,0,0,0,0
+Drew,MARION SOUTH,U.S. President,,DEM,Julian Castro,0,0,0,0
+Drew,OZMENT,U.S. President,,DEM,Julian Castro,0,0,0,0
+Drew,PLANTERSVILLE,U.S. President,,DEM,Julian Castro,0,0,0,0
+Drew,SELMA,U.S. President,,DEM,Julian Castro,0,0,0,0
+Drew,TILLAR,U.S. President,,DEM,Julian Castro,0,0,0,0
+Drew,WILMAR,U.S. President,,DEM,Julian Castro,0,0,0,0
+Drew,WINCHESTER,U.S. President,,DEM,Julian Castro,0,0,0,0
+Drew,WARD 1,U.S. President,,DEM,Tom Steyer,3,0,2,1
+Drew,WARD 2,U.S. President,,DEM,Tom Steyer,1,0,1,0
+Drew,WARD 3,U.S. President,,DEM,Tom Steyer,1,0,1,0
+Drew,WARD 4,U.S. President,,DEM,Tom Steyer,1,0,1,0
+Drew,COLLINS,U.S. President,,DEM,Tom Steyer,1,0,1,0
+Drew,ENON,U.S. President,,DEM,Tom Steyer,0,0,0,0
+Drew,JEROME,U.S. President,,DEM,Tom Steyer,0,0,0,0
+Drew,LACEY,U.S. President,,DEM,Tom Steyer,1,0,1,0
+Drew,MARION N BOX 1,U.S. President,,DEM,Tom Steyer,1,0,1,0
+Drew,MARION N BOX 2,U.S. President,,DEM,Tom Steyer,0,0,0,0
+Drew,MARION SOUTH,U.S. President,,DEM,Tom Steyer,3,0,3,0
+Drew,OZMENT,U.S. President,,DEM,Tom Steyer,1,0,1,0
+Drew,PLANTERSVILLE,U.S. President,,DEM,Tom Steyer,1,0,1,0
+Drew,SELMA,U.S. President,,DEM,Tom Steyer,0,0,0,0
+Drew,TILLAR,U.S. President,,DEM,Tom Steyer,0,0,0,0
+Drew,WILMAR,U.S. President,,DEM,Tom Steyer,0,0,0,0
+Drew,WINCHESTER,U.S. President,,DEM,Tom Steyer,0,0,0,0
+Drew,WARD 1,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Drew,WARD 2,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Drew,WARD 3,U.S. President,,DEM,Michael Bennet,2,0,1,1
+Drew,WARD 4,U.S. President,,DEM,Michael Bennet,1,0,1,0
+Drew,COLLINS,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Drew,ENON,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Drew,JEROME,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Drew,LACEY,U.S. President,,DEM,Michael Bennet,1,0,0,1
+Drew,MARION N BOX 1,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Drew,MARION N BOX 2,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Drew,MARION SOUTH,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Drew,OZMENT,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Drew,PLANTERSVILLE,U.S. President,,DEM,Michael Bennet,2,0,1,1
+Drew,SELMA,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Drew,TILLAR,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Drew,WILMAR,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Drew,WINCHESTER,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Drew,WARD 1,U.S. President,,DEM,Elizabeth Warren,12,0,5,7
+Drew,WARD 2,U.S. President,,DEM,Elizabeth Warren,23,1,12,10
+Drew,WARD 3,U.S. President,,DEM,Elizabeth Warren,6,0,1,5
+Drew,WARD 4,U.S. President,,DEM,Elizabeth Warren,13,0,9,4
+Drew,COLLINS,U.S. President,,DEM,Elizabeth Warren,1,0,0,1
+Drew,ENON,U.S. President,,DEM,Elizabeth Warren,1,0,1,0
+Drew,JEROME,U.S. President,,DEM,Elizabeth Warren,0,0,0,0
+Drew,LACEY,U.S. President,,DEM,Elizabeth Warren,2,0,0,2
+Drew,MARION N BOX 1,U.S. President,,DEM,Elizabeth Warren,3,0,1,2
+Drew,MARION N BOX 2,U.S. President,,DEM,Elizabeth Warren,3,0,3,0
+Drew,MARION SOUTH,U.S. President,,DEM,Elizabeth Warren,2,0,1,1
+Drew,OZMENT,U.S. President,,DEM,Elizabeth Warren,2,0,0,2
+Drew,PLANTERSVILLE,U.S. President,,DEM,Elizabeth Warren,3,0,1,2
+Drew,SELMA,U.S. President,,DEM,Elizabeth Warren,2,0,0,2
+Drew,TILLAR,U.S. President,,DEM,Elizabeth Warren,2,0,0,2
+Drew,WILMAR,U.S. President,,DEM,Elizabeth Warren,6,0,1,5
+Drew,WINCHESTER,U.S. President,,DEM,Elizabeth Warren,0,0,0,0
+Drew,WARD 1,U.S. President,,DEM,Andrew Yang,2,0,0,2
+Drew,WARD 2,U.S. President,,DEM,Andrew Yang,1,0,1,0
+Drew,WARD 3,U.S. President,,DEM,Andrew Yang,1,0,0,1
+Drew,WARD 4,U.S. President,,DEM,Andrew Yang,0,0,0,0
+Drew,COLLINS,U.S. President,,DEM,Andrew Yang,0,0,0,0
+Drew,ENON,U.S. President,,DEM,Andrew Yang,0,0,0,0
+Drew,JEROME,U.S. President,,DEM,Andrew Yang,0,0,0,0
+Drew,LACEY,U.S. President,,DEM,Andrew Yang,0,0,0,0
+Drew,MARION N BOX 1,U.S. President,,DEM,Andrew Yang,1,0,1,0
+Drew,MARION N BOX 2,U.S. President,,DEM,Andrew Yang,0,0,0,0
+Drew,MARION SOUTH,U.S. President,,DEM,Andrew Yang,0,0,0,0
+Drew,OZMENT,U.S. President,,DEM,Andrew Yang,0,0,0,0
+Drew,PLANTERSVILLE,U.S. President,,DEM,Andrew Yang,0,0,0,0
+Drew,SELMA,U.S. President,,DEM,Andrew Yang,0,0,0,0
+Drew,TILLAR,U.S. President,,DEM,Andrew Yang,0,0,0,0
+Drew,WILMAR,U.S. President,,DEM,Andrew Yang,0,0,0,0
+Drew,WINCHESTER,U.S. President,,DEM,Andrew Yang,0,0,0,0
+Drew,WARD 1,U.S. President,,DEM,Tulsi Gabbard,1,0,1,0
+Drew,WARD 2,U.S. President,,DEM,Tulsi Gabbard,1,0,0,1
+Drew,WARD 3,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0
+Drew,WARD 4,U.S. President,,DEM,Tulsi Gabbard,1,0,0,1
+Drew,COLLINS,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0
+Drew,ENON,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0
+Drew,JEROME,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0
+Drew,LACEY,U.S. President,,DEM,Tulsi Gabbard,1,0,0,1
+Drew,MARION N BOX 1,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0
+Drew,MARION N BOX 2,U.S. President,,DEM,Tulsi Gabbard,2,0,1,1
+Drew,MARION SOUTH,U.S. President,,DEM,Tulsi Gabbard,2,0,2,0
+Drew,OZMENT,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0
+Drew,PLANTERSVILLE,U.S. President,,DEM,Tulsi Gabbard,1,0,1,0
+Drew,SELMA,U.S. President,,DEM,Tulsi Gabbard,1,0,0,1
+Drew,TILLAR,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0
+Drew,WILMAR,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0
+Drew,WINCHESTER,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0
+Drew,WARD 1,U.S. President,,DEM,Michael R. Bloomberg,43,0,24,19
+Drew,WARD 2,U.S. President,,DEM,Michael R. Bloomberg,39,0,20,19
+Drew,WARD 3,U.S. President,,DEM,Michael R. Bloomberg,36,0,21,15
+Drew,WARD 4,U.S. President,,DEM,Michael R. Bloomberg,23,1,17,5
+Drew,COLLINS,U.S. President,,DEM,Michael R. Bloomberg,4,2,1,1
+Drew,ENON,U.S. President,,DEM,Michael R. Bloomberg,2,0,1,1
+Drew,JEROME,U.S. President,,DEM,Michael R. Bloomberg,0,0,0,0
+Drew,LACEY,U.S. President,,DEM,Michael R. Bloomberg,2,0,1,1
+Drew,MARION N BOX 1,U.S. President,,DEM,Michael R. Bloomberg,40,1,28,11
+Drew,MARION N BOX 2,U.S. President,,DEM,Michael R. Bloomberg,16,0,13,3
+Drew,MARION SOUTH,U.S. President,,DEM,Michael R. Bloomberg,12,0,7,5
+Drew,OZMENT,U.S. President,,DEM,Michael R. Bloomberg,0,0,0,0
+Drew,PLANTERSVILLE,U.S. President,,DEM,Michael R. Bloomberg,2,0,1,1
+Drew,SELMA,U.S. President,,DEM,Michael R. Bloomberg,9,0,2,7
+Drew,TILLAR,U.S. President,,DEM,Michael R. Bloomberg,8,0,0,8
+Drew,WILMAR,U.S. President,,DEM,Michael R. Bloomberg,24,2,5,17
+Drew,WINCHESTER,U.S. President,,DEM,Michael R. Bloomberg,4,0,0,4
+Drew,WARD 1,U.S. President,,DEM,Joseph R. Biden,123,0,38,85
+Drew,WARD 2,U.S. President,,DEM,Joseph R. Biden,92,1,34,57
+Drew,WARD 3,U.S. President,,DEM,Joseph R. Biden,67,1,25,41
+Drew,WARD 4,U.S. President,,DEM,Joseph R. Biden,71,0,26,45
+Drew,COLLINS,U.S. President,,DEM,Joseph R. Biden,8,3,1,4
+Drew,ENON,U.S. President,,DEM,Joseph R. Biden,2,0,1,1
+Drew,JEROME,U.S. President,,DEM,Joseph R. Biden,0,0,0,0
+Drew,LACEY,U.S. President,,DEM,Joseph R. Biden,12,0,4,8
+Drew,MARION N BOX 1,U.S. President,,DEM,Joseph R. Biden,77,0,26,51
+Drew,MARION N BOX 2,U.S. President,,DEM,Joseph R. Biden,32,2,16,14
+Drew,MARION SOUTH,U.S. President,,DEM,Joseph R. Biden,33,0,6,27
+Drew,OZMENT,U.S. President,,DEM,Joseph R. Biden,1,0,0,1
+Drew,PLANTERSVILLE,U.S. President,,DEM,Joseph R. Biden,13,0,4,9
+Drew,SELMA,U.S. President,,DEM,Joseph R. Biden,33,0,14,19
+Drew,TILLAR,U.S. President,,DEM,Joseph R. Biden,9,0,0,9
+Drew,WILMAR,U.S. President,,DEM,Joseph R. Biden,62,2,6,54
+Drew,WINCHESTER,U.S. President,,DEM,Joseph R. Biden,20,0,1,19
+Drew,WARD 1,U.S. President,,REP,Roque 'Rocky' De La Fuente,1,0,0,1
+Drew,WARD 2,U.S. President,,REP,Roque 'Rocky' De La Fuente,1,0,1,0
+Drew,WARD 3,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0
+Drew,WARD 4,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0
+Drew,COLLINS,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0
+Drew,ENON,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0
+Drew,JEROME,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0
+Drew,LACEY,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0
+Drew,MARION N BOX 1,U.S. President,,REP,Roque 'Rocky' De La Fuente,1,0,0,1
+Drew,MARION N BOX 2,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0
+Drew,MARION SOUTH,U.S. President,,REP,Roque 'Rocky' De La Fuente,1,0,0,1
+Drew,OZMENT,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0
+Drew,PLANTERSVILLE,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0
+Drew,SELMA,U.S. President,,REP,Roque 'Rocky' De La Fuente,1,0,0,1
+Drew,TILLAR,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0
+Drew,WILMAR,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0
+Drew,WINCHESTER,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0
+Drew,WARD 1,U.S. President,,REP,Donald J. Trump,82,1,35,46
+Drew,WARD 2,U.S. President,,REP,Donald J. Trump,270,1,130,139
+Drew,WARD 3,U.S. President,,REP,Donald J. Trump,91,1,30,60
+Drew,WARD 4,U.S. President,,REP,Donald J. Trump,132,3,63,66
+Drew,COLLINS,U.S. President,,REP,Donald J. Trump,20,1,9,10
+Drew,ENON,U.S. President,,REP,Donald J. Trump,56,3,22,31
+Drew,JEROME,U.S. President,,REP,Donald J. Trump,6,0,2,4
+Drew,LACEY,U.S. President,,REP,Donald J. Trump,69,0,36,33
+Drew,MARION N BOX 1,U.S. President,,REP,Donald J. Trump,222,2,98,122
+Drew,MARION N BOX 2,U.S. President,,REP,Donald J. Trump,153,0,54,99
+Drew,MARION SOUTH,U.S. President,,REP,Donald J. Trump,200,0,79,121
+Drew,OZMENT,U.S. President,,REP,Donald J. Trump,35,0,12,23
+Drew,PLANTERSVILLE,U.S. President,,REP,Donald J. Trump,71,2,23,46
+Drew,SELMA,U.S. President,,REP,Donald J. Trump,64,0,23,41
+Drew,TILLAR,U.S. President,,REP,Donald J. Trump,21,0,0,21
+Drew,WILMAR,U.S. President,,REP,Donald J. Trump,112,1,38,73
+Drew,WINCHESTER,U.S. President,,REP,Donald J. Trump,5,0,2,3
+Drew,WARD 1,U.S. President,,REP,Bill Weld,2,0,1,1
+Drew,WARD 2,U.S. President,,REP,Bill Weld,3,0,1,2
+Drew,WARD 3,U.S. President,,REP,Bill Weld,2,0,0,2
+Drew,WARD 4,U.S. President,,REP,Bill Weld,2,0,0,2
+Drew,COLLINS,U.S. President,,REP,Bill Weld,0,0,0,0
+Drew,ENON,U.S. President,,REP,Bill Weld,0,0,0,0
+Drew,JEROME,U.S. President,,REP,Bill Weld,0,0,0,0
+Drew,LACEY,U.S. President,,REP,Bill Weld,1,0,1,0
+Drew,MARION N BOX 1,U.S. President,,REP,Bill Weld,0,0,0,0
+Drew,MARION N BOX 2,U.S. President,,REP,Bill Weld,0,0,0,0
+Drew,MARION SOUTH,U.S. President,,REP,Bill Weld,2,0,0,2
+Drew,OZMENT,U.S. President,,REP,Bill Weld,0,0,0,0
+Drew,PLANTERSVILLE,U.S. President,,REP,Bill Weld,0,0,0,0
+Drew,SELMA,U.S. President,,REP,Bill Weld,1,0,0,1
+Drew,TILLAR,U.S. President,,REP,Bill Weld,0,0,0,0
+Drew,WILMAR,U.S. President,,REP,Bill Weld,0,0,0,0
+Drew,WINCHESTER,U.S. President,,REP,Bill Weld,0,0,0,0
+Drew,WARD 1,State Senate District 26,,REP,Bill Dunklin,46,1,20,25
+Drew,WARD 2,State Senate District 26,,REP,Bill Dunklin,142,1,62,79
+Drew,WARD 3,State Senate District 26,,REP,Bill Dunklin,57,1,16,40
+Drew,WARD 4,State Senate District 26,,REP,Bill Dunklin,62,0,25,37
+Drew,COLLINS,State Senate District 26,,REP,Bill Dunklin,12,1,5,6
+Drew,ENON,State Senate District 26,,REP,Bill Dunklin,31,2,10,19
+Drew,JEROME,State Senate District 26,,REP,Bill Dunklin,3,0,0,3
+Drew,LACEY,State Senate District 26,,REP,Bill Dunklin,28,0,12,16
+Drew,MARION N BOX 1,State Senate District 26,,REP,Bill Dunklin,111,0,51,60
+Drew,MARION N BOX 2,State Senate District 26,,REP,Bill Dunklin,87,0,32,55
+Drew,MARION SOUTH,State Senate District 26,,REP,Bill Dunklin,102,0,29,73
+Drew,OZMENT,State Senate District 26,,REP,Bill Dunklin,16,0,4,12
+Drew,PLANTERSVILLE,State Senate District 26,,REP,Bill Dunklin,34,1,9,24
+Drew,SELMA,State Senate District 26,,REP,Bill Dunklin,40,0,13,27
+Drew,TILLAR,State Senate District 26,,REP,Bill Dunklin,14,0,0,14
+Drew,WILMAR,State Senate District 26,,REP,Bill Dunklin,53,0,16,37
+Drew,WINCHESTER,State Senate District 26,,REP,Bill Dunklin,1,0,0,1
+Drew,WARD 1,State Senate District 26,,REP,Ben Gilmore,40,0,17,23
+Drew,WARD 2,State Senate District 26,,REP,Ben Gilmore,130,0,67,63
+Drew,WARD 3,State Senate District 26,,REP,Ben Gilmore,36,0,14,22
+Drew,WARD 4,State Senate District 26,,REP,Ben Gilmore,68,3,36,29
+Drew,COLLINS,State Senate District 26,,REP,Ben Gilmore,8,0,4,4
+Drew,ENON,State Senate District 26,,REP,Ben Gilmore,25,1,12,12
+Drew,JEROME,State Senate District 26,,REP,Ben Gilmore,3,0,2,1
+Drew,LACEY,State Senate District 26,,REP,Ben Gilmore,39,0,23,16
+Drew,MARION N BOX 1,State Senate District 26,,REP,Ben Gilmore,101,1,43,57
+Drew,MARION N BOX 2,State Senate District 26,,REP,Ben Gilmore,62,0,20,42
+Drew,MARION SOUTH,State Senate District 26,,REP,Ben Gilmore,100,0,50,50
+Drew,OZMENT,State Senate District 26,,REP,Ben Gilmore,19,0,8,11
+Drew,PLANTERSVILLE,State Senate District 26,,REP,Ben Gilmore,37,1,14,22
+Drew,SELMA,State Senate District 26,,REP,Ben Gilmore,26,0,10,16
+Drew,TILLAR,State Senate District 26,,REP,Ben Gilmore,6,0,0,6
+Drew,WILMAR,State Senate District 26,,REP,Ben Gilmore,59,1,22,36
+Drew,WINCHESTER,State Senate District 26,,REP,Ben Gilmore,4,0,2,2
+Drew,WARD 1,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,187,0,74,113
+Drew,WARD 2,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,230,3,111,116
+Drew,WARD 3,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,146,1,58,87
+Drew,WARD 4,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,146,2,69,75
+Drew,COLLINS,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,17,3,8,6
+Drew,ENON,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,34,3,13,18
+Drew,JEROME,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,3,0,1,2
+Drew,LACEY,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,44,0,23,21
+Drew,MARION N BOX 1,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,225,0,113,112
+Drew,MARION N BOX 2,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,109,1,48,60
+Drew,MARION SOUTH,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,149,0,57,92
+Drew,OZMENT,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,23,0,6,17
+Drew,PLANTERSVILLE,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,56,2,26,28
+Drew,SELMA,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,76,0,26,50
+Drew,TILLAR,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,25,0,0,25
+Drew,WILMAR,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,119,5,23,91
+Drew,WINCHESTER,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,24,0,1,23
+Drew,WARD 1,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,109,1,38,70
+Drew,WARD 2,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,244,0,115,129
+Drew,WARD 3,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,95,2,33,60
+Drew,WARD 4,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,134,3,73,58
+Drew,COLLINS,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,20,3,5,12
+Drew,ENON,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,27,0,14,13
+Drew,JEROME,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,3,0,1,2
+Drew,LACEY,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,49,0,21,28
+Drew,MARION N BOX 1,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,146,1,49,96
+Drew,MARION N BOX 2,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,104,1,42,61
+Drew,MARION SOUTH,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,128,0,47,81
+Drew,OZMENT,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,28,0,10,18
+Drew,PLANTERSVILLE,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,42,0,9,33
+Drew,SELMA,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,49,0,20,29
+Drew,TILLAR,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,17,0,0,17
+Drew,WILMAR,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,102,1,29,72
+Drew,WINCHESTER,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,11,0,1,10
+Drew,WARD 1,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,183,1,69,113
+Drew,WARD 2,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,375,2,179,194
+Drew,WARD 3,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,168,2,67,99
+Drew,WARD 4,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,202,5,99,98
+Drew,COLLINS,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,30,4,12,14
+Drew,ENON,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,45,0,21,24
+Drew,JEROME,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,4,0,2,2
+Drew,LACEY,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,74,0,34,40
+Drew,MARION N BOX 1,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,268,1,117,150
+Drew,MARION N BOX 2,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,158,1,71,86
+Drew,MARION SOUTH,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,217,0,85,132
+Drew,OZMENT,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,45,0,11,34
+Drew,PLANTERSVILLE,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,69,2,24,43
+Drew,SELMA,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,80,0,30,50
+Drew,TILLAR,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,27,0,0,27
+Drew,WILMAR,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,163,4,40,119
+Drew,WINCHESTER,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,19,0,2,17
+Drew,WARD 1,Court of Appeals Associate Judge,5,,James McMenis,104,0,40,64
+Drew,WARD 2,Court of Appeals Associate Judge,5,,James McMenis,93,1,45,47
+Drew,WARD 3,Court of Appeals Associate Judge,5,,James McMenis,74,1,25,48
+Drew,WARD 4,Court of Appeals Associate Judge,5,,James McMenis,69,0,37,32
+Drew,COLLINS,Court of Appeals Associate Judge,5,,James McMenis,8,2,2,4
+Drew,ENON,Court of Appeals Associate Judge,5,,James McMenis,18,3,8,7
+Drew,JEROME,Court of Appeals Associate Judge,5,,James McMenis,2,0,0,2
+Drew,LACEY,Court of Appeals Associate Judge,5,,James McMenis,19,0,12,7
+Drew,MARION N BOX 1,Court of Appeals Associate Judge,5,,James McMenis,92,0,39,53
+Drew,MARION N BOX 2,Court of Appeals Associate Judge,5,,James McMenis,55,1,21,33
+Drew,MARION SOUTH,Court of Appeals Associate Judge,5,,James McMenis,56,0,19,37
+Drew,OZMENT,Court of Appeals Associate Judge,5,,James McMenis,7,0,5,2
+Drew,PLANTERSVILLE,Court of Appeals Associate Judge,5,,James McMenis,29,0,12,17
+Drew,SELMA,Court of Appeals Associate Judge,5,,James McMenis,41,0,14,27
+Drew,TILLAR,Court of Appeals Associate Judge,5,,James McMenis,16,0,0,16
+Drew,WILMAR,Court of Appeals Associate Judge,5,,James McMenis,61,3,13,45
+Drew,WINCHESTER,Court of Appeals Associate Judge,5,,James McMenis,13,0,0,13
+Drew,WARD 1,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Crews Puryear,56,0,24,32
+Drew,WARD 2,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Crews Puryear,280,2,139,139
+Drew,WARD 3,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Crews Puryear,89,2,30,57
+Drew,WARD 4,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Crews Puryear,119,1,66,52
+Drew,COLLINS,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Crews Puryear,16,1,5,10
+Drew,ENON,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Crews Puryear,39,0,17,22
+Drew,LACEY,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Crews Puryear,43,0,22,21
+Drew,MARION N BOX 1,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Crews Puryear,159,1,72,86
+Drew,MARION N BOX 2,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Crews Puryear,126,2,48,76
+Drew,MARION SOUTH,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Crews Puryear,39,0,9,30
+Drew,OZMENT,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Crews Puryear,20,0,8,12
+Drew,PLANTERSVILLE,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Crews Puryear,59,1,23,35
+Drew,SELMA,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Crews Puryear,37,0,12,25
+Drew,WILMAR,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Crews Puryear,52,1,22,29
+Drew,WINCHESTER,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Crews Puryear,7,0,3,4
+Drew,WARD 1,Circuit Judge,"10, Division 1, Subdistrict 10.2",,City Attorney James A. Hamilton,39,0,15,24
+Drew,WARD 2,Circuit Judge,"10, Division 1, Subdistrict 10.2",,City Attorney James A. Hamilton,124,1,54,69
+Drew,WARD 3,Circuit Judge,"10, Division 1, Subdistrict 10.2",,City Attorney James A. Hamilton,92,0,37,55
+Drew,WARD 4,Circuit Judge,"10, Division 1, Subdistrict 10.2",,City Attorney James A. Hamilton,84,1,34,49
+Drew,COLLINS,Circuit Judge,"10, Division 1, Subdistrict 10.2",,City Attorney James A. Hamilton,11,0,5,6
+Drew,ENON,Circuit Judge,"10, Division 1, Subdistrict 10.2",,City Attorney James A. Hamilton,21,2,11,8
+Drew,LACEY,Circuit Judge,"10, Division 1, Subdistrict 10.2",,City Attorney James A. Hamilton,37,0,15,22
+Drew,MARION N BOX 1,Circuit Judge,"10, Division 1, Subdistrict 10.2",,City Attorney James A. Hamilton,70,0,23,47
+Drew,MARION N BOX 2,Circuit Judge,"10, Division 1, Subdistrict 10.2",,City Attorney James A. Hamilton,52,0,27,25
+Drew,MARION SOUTH,Circuit Judge,"10, Division 1, Subdistrict 10.2",,City Attorney James A. Hamilton,17,0,7,10
+Drew,OZMENT,Circuit Judge,"10, Division 1, Subdistrict 10.2",,City Attorney James A. Hamilton,25,0,8,17
+Drew,PLANTERSVILLE,Circuit Judge,"10, Division 1, Subdistrict 10.2",,City Attorney James A. Hamilton,18,1,4,13
+Drew,SELMA,Circuit Judge,"10, Division 1, Subdistrict 10.2",,City Attorney James A. Hamilton,11,0,4,7
+Drew,WILMAR,Circuit Judge,"10, Division 1, Subdistrict 10.2",,City Attorney James A. Hamilton,27,0,8,19
+Drew,WINCHESTER,Circuit Judge,"10, Division 1, Subdistrict 10.2",,City Attorney James A. Hamilton,2,0,0,2
+Drew,WARD 1,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Tim Leonard,32,0,13,19
+Drew,WARD 2,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Tim Leonard,84,0,37,47
+Drew,WARD 3,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Tim Leonard,54,1,21,32
+Drew,WARD 4,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Tim Leonard,58,0,33,25
+Drew,COLLINS,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Tim Leonard,4,0,2,2
+Drew,ENON,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Tim Leonard,5,1,2,2
+Drew,LACEY,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Tim Leonard,13,0,9,4
+Drew,MARION N BOX 1,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Tim Leonard,52,0,22,30
+Drew,MARION N BOX 2,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Tim Leonard,35,0,15,20
+Drew,MARION SOUTH,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Tim Leonard,20,0,7,13
+Drew,OZMENT,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Tim Leonard,7,0,0,7
+Drew,PLANTERSVILLE,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Tim Leonard,20,0,9,11
+Drew,SELMA,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Tim Leonard,4,0,1,3
+Drew,WILMAR,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Tim Leonard,21,2,8,11
+Drew,WINCHESTER,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Tim Leonard,2,0,0,2
+Drew,WARD 1,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,66,0,25,41
+Drew,WARD 2,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,32,1,9,22
+Drew,WARD 3,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,52,0,22,30
+Drew,WARD 4,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,41,2,16,23
+Drew,COLLINS,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,6,3,2,1
+Drew,ENON,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,11,0,5,6
+Drew,JEROME,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,1,0,1,0
+Drew,LACEY,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,17,0,6,11
+Drew,MARION N BOX 1,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,50,0,19,31
+Drew,MARION N BOX 2,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,26,0,9,17
+Drew,MARION SOUTH,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,36,0,9,27
+Drew,OZMENT,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,9,0,1,8
+Drew,PLANTERSVILLE,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,15,0,5,10
+Drew,SELMA,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,15,0,2,13
+Drew,TILLAR,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,7,0,0,7
+Drew,WILMAR,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,41,1,3,37
+Drew,WINCHESTER,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,27,0,1,26
+Drew,WARD 1,Circuit Judge,"10, Division 2, At Large",,Frank Spain,89,1,34,54
+Drew,WARD 2,Circuit Judge,"10, Division 2, At Large",,Frank Spain,237,1,109,127
+Drew,WARD 3,Circuit Judge,"10, Division 2, At Large",,Frank Spain,98,1,37,60
+Drew,WARD 4,Circuit Judge,"10, Division 2, At Large",,Frank Spain,105,1,53,51
+Drew,COLLINS,Circuit Judge,"10, Division 2, At Large",,Frank Spain,14,1,7,6
+Drew,ENON,Circuit Judge,"10, Division 2, At Large",,Frank Spain,23,2,11,10
+Drew,JEROME,Circuit Judge,"10, Division 2, At Large",,Frank Spain,0,0,0,0
+Drew,LACEY,Circuit Judge,"10, Division 2, At Large",,Frank Spain,36,0,21,15
+Drew,MARION N BOX 1,Circuit Judge,"10, Division 2, At Large",,Frank Spain,160,1,71,88
+Drew,MARION N BOX 2,Circuit Judge,"10, Division 2, At Large",,Frank Spain,88,0,34,54
+Drew,MARION SOUTH,Circuit Judge,"10, Division 2, At Large",,Frank Spain,129,0,52,77
+Drew,OZMENT,Circuit Judge,"10, Division 2, At Large",,Frank Spain,23,0,7,16
+Drew,PLANTERSVILLE,Circuit Judge,"10, Division 2, At Large",,Frank Spain,36,0,16,20
+Drew,SELMA,Circuit Judge,"10, Division 2, At Large",,Frank Spain,58,0,24,34
+Drew,TILLAR,Circuit Judge,"10, Division 2, At Large",,Frank Spain,13,0,0,13
+Drew,WILMAR,Circuit Judge,"10, Division 2, At Large",,Frank Spain,104,5,25,74
+Drew,WINCHESTER,Circuit Judge,"10, Division 2, At Large",,Frank Spain,8,0,2,6
+Drew,WARD 1,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,153,0,60,93
+Drew,WARD 2,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,220,0,111,109
+Drew,WARD 3,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,101,2,40,59
+Drew,WARD 4,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,144,1,80,63
+Drew,COLLINS,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,19,2,5,12
+Drew,ENON,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,31,1,14,16
+Drew,JEROME,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,5,0,1,4
+Drew,LACEY,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,43,0,20,23
+Drew,MARION N BOX 1,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,174,0,74,100
+Drew,MARION N BOX 2,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,117,2,54,61
+Drew,MARION SOUTH,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,121,0,49,72
+Drew,OZMENT,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,20,0,8,12
+Drew,PLANTERSVILLE,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,50,2,16,32
+Drew,SELMA,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,58,0,23,35
+Drew,TILLAR,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,24,0,0,24
+Drew,WILMAR,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,88,1,28,59
+Drew,WINCHESTER,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,7,0,1,6

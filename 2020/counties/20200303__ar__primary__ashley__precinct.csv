@@ -1,0 +1,968 @@
+county,precinct,office,district,party,candidate,votes,absentee,election_day,provisional,early
+Ashley,CW1,U.S. President,,DEM,Bernie Sanders,35,21,12,1,1
+Ashley,CW2,U.S. President,,DEM,Bernie Sanders,26,10,16,0,0
+Ashley,CW3,U.S. President,,DEM,Bernie Sanders,19,8,11,0,0
+Ashley,NCE,U.S. President,,DEM,Bernie Sanders,13,10,3,0,0
+Ashley,NCW,U.S. President,,DEM,Bernie Sanders,11,2,9,0,0
+Ashley,WCR,U.S. President,,DEM,Bernie Sanders,7,4,3,0,0
+Ashley,VOTECH,U.S. President,,DEM,Bernie Sanders,8,4,4,0,0
+Ashley,COOTER,U.S. President,,DEM,Bernie Sanders,3,1,2,0,0
+Ashley,HICKORY GROVE,U.S. President,,DEM,Bernie Sanders,1,1,0,0,0
+Ashley,CROSSROADS,U.S. President,,DEM,Bernie Sanders,7,0,7,0,0
+Ashley,HW3,U.S. President,,DEM,Bernie Sanders,18,8,7,0,3
+Ashley,HW2,U.S. President,,DEM,Bernie Sanders,8,3,5,0,0
+Ashley,HW1,U.S. President,,DEM,Bernie Sanders,20,6,14,0,0
+Ashley,HBG RURAL,U.S. President,,DEM,Bernie Sanders,14,5,9,0,0
+Ashley,MT ZION,U.S. President,,DEM,Bernie Sanders,4,4,0,0,0
+Ashley,MILO,U.S. President,,DEM,Bernie Sanders,10,6,4,0,0
+Ashley,BEECH CREEK,U.S. President,,DEM,Bernie Sanders,1,1,0,0,0
+Ashley,MIST,U.S. President,,DEM,Bernie Sanders,2,1,1,0,0
+Ashley,FH CITY,U.S. President,,DEM,Bernie Sanders,4,0,4,0,0
+Ashley,FH RURAL,U.S. President,,DEM,Bernie Sanders,4,1,3,0,0
+Ashley,PORTLAND CITY,U.S. President,,DEM,Bernie Sanders,7,0,7,0,0
+Ashley,PORTLAND RURAL,U.S. President,,DEM,Bernie Sanders,1,0,1,0,0
+Ashley,BOYDELL,U.S. President,,DEM,Bernie Sanders,1,0,1,0,0
+Ashley,SNY/TRA,U.S. President,,DEM,Bernie Sanders,1,0,1,0,0
+Ashley,MONTROSE CITY,U.S. President,,DEM,Bernie Sanders,15,1,13,0,1
+Ashley,MONTROSE RURAL,U.S. President,,DEM,Bernie Sanders,0,0,0,0,0
+Ashley,PARKDALE CITY,U.S. President,,DEM,Bernie Sanders,5,0,5,0,0
+Ashley,PARKDALE RURAL,U.S. President,,DEM,Bernie Sanders,0,0,0,0,0
+Ashley,WILMOT CITY,U.S. President,,DEM,Bernie Sanders,7,3,4,0,0
+Ashley,WILMOT RURAL,U.S. President,,DEM,Bernie Sanders,1,0,1,0,0
+Ashley,CW1,U.S. President,,DEM,Amy Klobuchar,1,0,1,0,0
+Ashley,CW2,U.S. President,,DEM,Amy Klobuchar,3,2,1,0,0
+Ashley,CW3,U.S. President,,DEM,Amy Klobuchar,5,5,0,0,0
+Ashley,NCE,U.S. President,,DEM,Amy Klobuchar,1,0,1,0,0
+Ashley,NCW,U.S. President,,DEM,Amy Klobuchar,2,1,1,0,0
+Ashley,WCR,U.S. President,,DEM,Amy Klobuchar,3,3,0,0,0
+Ashley,VOTECH,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0
+Ashley,COOTER,U.S. President,,DEM,Amy Klobuchar,1,1,0,0,0
+Ashley,HICKORY GROVE,U.S. President,,DEM,Amy Klobuchar,2,2,0,0,0
+Ashley,CROSSROADS,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0
+Ashley,HW3,U.S. President,,DEM,Amy Klobuchar,3,3,0,0,0
+Ashley,HW2,U.S. President,,DEM,Amy Klobuchar,2,2,0,0,0
+Ashley,HW1,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0
+Ashley,HBG RURAL,U.S. President,,DEM,Amy Klobuchar,1,1,0,0,0
+Ashley,MT ZION,U.S. President,,DEM,Amy Klobuchar,1,1,0,0,0
+Ashley,MILO,U.S. President,,DEM,Amy Klobuchar,2,2,0,0,0
+Ashley,BEECH CREEK,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0
+Ashley,MIST,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0
+Ashley,FH CITY,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0
+Ashley,FH RURAL,U.S. President,,DEM,Amy Klobuchar,1,1,0,0,0
+Ashley,PORTLAND CITY,U.S. President,,DEM,Amy Klobuchar,1,0,1,0,0
+Ashley,PORTLAND RURAL,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0
+Ashley,BOYDELL,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0
+Ashley,SNY/TRA,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0
+Ashley,MONTROSE CITY,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0
+Ashley,MONTROSE RURAL,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0
+Ashley,PARKDALE CITY,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0
+Ashley,PARKDALE RURAL,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0
+Ashley,WILMOT CITY,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0
+Ashley,WILMOT RURAL,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0
+Ashley,CW1,U.S. President,,DEM,Julian Castro,1,0,1,0,0
+Ashley,CW2,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Ashley,CW3,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Ashley,NCE,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Ashley,NCW,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Ashley,WCR,U.S. President,,DEM,Julian Castro,1,1,0,0,0
+Ashley,VOTECH,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Ashley,COOTER,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Ashley,HICKORY GROVE,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Ashley,CROSSROADS,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Ashley,HW3,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Ashley,HW2,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Ashley,HW1,U.S. President,,DEM,Julian Castro,1,0,1,0,0
+Ashley,HBG RURAL,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Ashley,MT ZION,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Ashley,MILO,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Ashley,BEECH CREEK,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Ashley,MIST,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Ashley,FH CITY,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Ashley,FH RURAL,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Ashley,PORTLAND CITY,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Ashley,PORTLAND RURAL,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Ashley,BOYDELL,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Ashley,SNY/TRA,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Ashley,MONTROSE CITY,U.S. President,,DEM,Julian Castro,1,0,1,0,0
+Ashley,MONTROSE RURAL,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Ashley,PARKDALE CITY,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Ashley,PARKDALE RURAL,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Ashley,WILMOT CITY,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Ashley,WILMOT RURAL,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Ashley,CW1,U.S. President,,DEM,Steve Bullock,1,1,0,0,0
+Ashley,CW2,U.S. President,,DEM,Steve Bullock,1,0,1,0,0
+Ashley,CW3,U.S. President,,DEM,Steve Bullock,1,0,1,0,0
+Ashley,NCE,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Ashley,NCW,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Ashley,WCR,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Ashley,VOTECH,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Ashley,COOTER,U.S. President,,DEM,Steve Bullock,1,0,1,0,0
+Ashley,HICKORY GROVE,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Ashley,CROSSROADS,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Ashley,HW3,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Ashley,HW2,U.S. President,,DEM,Steve Bullock,2,1,1,0,0
+Ashley,HW1,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Ashley,HBG RURAL,U.S. President,,DEM,Steve Bullock,2,2,0,0,0
+Ashley,MT ZION,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Ashley,MILO,U.S. President,,DEM,Steve Bullock,1,1,0,0,0
+Ashley,BEECH CREEK,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Ashley,MIST,U.S. President,,DEM,Steve Bullock,1,1,0,0,0
+Ashley,FH CITY,U.S. President,,DEM,Steve Bullock,1,1,0,0,0
+Ashley,FH RURAL,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Ashley,PORTLAND CITY,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Ashley,PORTLAND RURAL,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Ashley,BOYDELL,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Ashley,SNY/TRA,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Ashley,MONTROSE CITY,U.S. President,,DEM,Steve Bullock,1,0,1,0,0
+Ashley,MONTROSE RURAL,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Ashley,PARKDALE CITY,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Ashley,PARKDALE RURAL,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Ashley,WILMOT CITY,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Ashley,WILMOT RURAL,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Ashley,CW1,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Ashley,CW2,U.S. President,,DEM,Mosie Boyd,1,1,0,0,0
+Ashley,CW3,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Ashley,NCE,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Ashley,NCW,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Ashley,WCR,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Ashley,VOTECH,U.S. President,,DEM,Mosie Boyd,1,0,1,0,0
+Ashley,COOTER,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Ashley,HICKORY GROVE,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Ashley,CROSSROADS,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Ashley,HW3,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Ashley,HW2,U.S. President,,DEM,Mosie Boyd,1,1,0,0,0
+Ashley,HW1,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Ashley,HBG RURAL,U.S. President,,DEM,Mosie Boyd,1,0,1,0,0
+Ashley,MT ZION,U.S. President,,DEM,Mosie Boyd,1,0,1,0,0
+Ashley,MILO,U.S. President,,DEM,Mosie Boyd,1,1,0,0,0
+Ashley,BEECH CREEK,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Ashley,MIST,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Ashley,FH CITY,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Ashley,FH RURAL,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Ashley,PORTLAND CITY,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Ashley,PORTLAND RURAL,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Ashley,BOYDELL,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Ashley,SNY/TRA,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Ashley,MONTROSE CITY,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Ashley,MONTROSE RURAL,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Ashley,PARKDALE CITY,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Ashley,PARKDALE RURAL,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Ashley,WILMOT CITY,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Ashley,WILMOT RURAL,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Ashley,CW1,U.S. President,,DEM,Pete Buttigieg,3,3,0,0,0
+Ashley,CW2,U.S. President,,DEM,Pete Buttigieg,3,3,0,0,0
+Ashley,CW3,U.S. President,,DEM,Pete Buttigieg,1,1,0,0,0
+Ashley,NCE,U.S. President,,DEM,Pete Buttigieg,1,1,0,0,0
+Ashley,NCW,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Ashley,WCR,U.S. President,,DEM,Pete Buttigieg,4,4,0,0,0
+Ashley,VOTECH,U.S. President,,DEM,Pete Buttigieg,1,0,1,0,0
+Ashley,COOTER,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Ashley,HICKORY GROVE,U.S. President,,DEM,Pete Buttigieg,2,0,2,0,0
+Ashley,CROSSROADS,U.S. President,,DEM,Pete Buttigieg,1,1,0,0,0
+Ashley,HW3,U.S. President,,DEM,Pete Buttigieg,5,3,1,0,1
+Ashley,HW2,U.S. President,,DEM,Pete Buttigieg,3,3,0,0,0
+Ashley,HW1,U.S. President,,DEM,Pete Buttigieg,1,1,0,0,0
+Ashley,HBG RURAL,U.S. President,,DEM,Pete Buttigieg,1,1,0,0,0
+Ashley,MT ZION,U.S. President,,DEM,Pete Buttigieg,1,1,0,0,0
+Ashley,MILO,U.S. President,,DEM,Pete Buttigieg,1,0,0,0,1
+Ashley,BEECH CREEK,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Ashley,MIST,U.S. President,,DEM,Pete Buttigieg,1,0,1,0,0
+Ashley,FH CITY,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Ashley,FH RURAL,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Ashley,PORTLAND CITY,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Ashley,PORTLAND RURAL,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Ashley,BOYDELL,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Ashley,SNY/TRA,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Ashley,MONTROSE CITY,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Ashley,MONTROSE RURAL,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Ashley,PARKDALE CITY,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Ashley,PARKDALE RURAL,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Ashley,WILMOT CITY,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Ashley,WILMOT RURAL,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Ashley,CW1,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Ashley,CW2,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Ashley,CW3,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Ashley,NCE,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Ashley,NCW,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Ashley,WCR,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Ashley,VOTECH,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Ashley,COOTER,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Ashley,HICKORY GROVE,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Ashley,CROSSROADS,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Ashley,HW3,U.S. President,,DEM,Kamala Harris,1,0,1,0,0
+Ashley,HW2,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Ashley,HW1,U.S. President,,DEM,Kamala Harris,1,0,1,0,0
+Ashley,HBG RURAL,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Ashley,MT ZION,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Ashley,MILO,U.S. President,,DEM,Kamala Harris,1,1,0,0,0
+Ashley,BEECH CREEK,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Ashley,MIST,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Ashley,FH CITY,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Ashley,FH RURAL,U.S. President,,DEM,Kamala Harris,1,0,1,0,0
+Ashley,PORTLAND CITY,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Ashley,PORTLAND RURAL,U.S. President,,DEM,Kamala Harris,1,0,1,0,0
+Ashley,BOYDELL,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Ashley,SNY/TRA,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Ashley,MONTROSE CITY,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Ashley,MONTROSE RURAL,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Ashley,PARKDALE CITY,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Ashley,PARKDALE RURAL,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Ashley,WILMOT CITY,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Ashley,WILMOT RURAL,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Ashley,CW1,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Ashley,CW2,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Ashley,CW3,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Ashley,NCE,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Ashley,NCW,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Ashley,WCR,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Ashley,VOTECH,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Ashley,COOTER,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Ashley,HICKORY GROVE,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Ashley,CROSSROADS,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Ashley,HW3,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Ashley,HW2,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Ashley,HW1,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Ashley,HBG RURAL,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Ashley,MT ZION,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Ashley,MILO,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Ashley,BEECH CREEK,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Ashley,MIST,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Ashley,FH CITY,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Ashley,FH RURAL,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Ashley,PORTLAND CITY,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Ashley,PORTLAND RURAL,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Ashley,BOYDELL,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Ashley,SNY/TRA,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Ashley,MONTROSE CITY,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Ashley,MONTROSE RURAL,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Ashley,PARKDALE CITY,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Ashley,PARKDALE RURAL,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Ashley,WILMOT CITY,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Ashley,WILMOT RURAL,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Ashley,CW1,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Ashley,CW2,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Ashley,CW3,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Ashley,NCE,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Ashley,NCW,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Ashley,WCR,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Ashley,VOTECH,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Ashley,COOTER,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Ashley,HICKORY GROVE,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Ashley,CROSSROADS,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Ashley,HW3,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Ashley,HW2,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Ashley,HW1,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Ashley,HBG RURAL,U.S. President,,DEM,John K. Delaney,1,1,0,0,0
+Ashley,MT ZION,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Ashley,MILO,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Ashley,BEECH CREEK,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Ashley,MIST,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Ashley,FH CITY,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Ashley,FH RURAL,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Ashley,PORTLAND CITY,U.S. President,,DEM,John K. Delaney,1,0,1,0,0
+Ashley,PORTLAND RURAL,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Ashley,BOYDELL,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Ashley,SNY/TRA,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Ashley,MONTROSE CITY,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Ashley,MONTROSE RURAL,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Ashley,PARKDALE CITY,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Ashley,PARKDALE RURAL,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Ashley,WILMOT CITY,U.S. President,,DEM,John K. Delaney,1,0,1,0,0
+Ashley,WILMOT RURAL,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Ashley,CW1,U.S. President,,DEM,Cory Booker,1,1,0,0,0
+Ashley,CW2,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Ashley,CW3,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Ashley,NCE,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Ashley,NCW,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Ashley,WCR,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Ashley,VOTECH,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Ashley,COOTER,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Ashley,HICKORY GROVE,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Ashley,CROSSROADS,U.S. President,,DEM,Cory Booker,1,1,0,0,0
+Ashley,HW3,U.S. President,,DEM,Cory Booker,1,1,0,0,0
+Ashley,HW2,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Ashley,HW1,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Ashley,HBG RURAL,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Ashley,MT ZION,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Ashley,MILO,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Ashley,BEECH CREEK,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Ashley,MIST,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Ashley,FH CITY,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Ashley,FH RURAL,U.S. President,,DEM,Cory Booker,2,2,0,0,0
+Ashley,PORTLAND CITY,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Ashley,PORTLAND RURAL,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Ashley,BOYDELL,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Ashley,SNY/TRA,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Ashley,MONTROSE CITY,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Ashley,MONTROSE RURAL,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Ashley,PARKDALE CITY,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Ashley,PARKDALE RURAL,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Ashley,WILMOT CITY,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Ashley,WILMOT RURAL,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Ashley,CW1,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Ashley,CW2,U.S. President,,DEM,Tom Steyer,2,1,1,0,0
+Ashley,CW3,U.S. President,,DEM,Tom Steyer,1,1,0,0,0
+Ashley,NCE,U.S. President,,DEM,Tom Steyer,2,0,2,0,0
+Ashley,NCW,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Ashley,WCR,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Ashley,VOTECH,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Ashley,COOTER,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Ashley,HICKORY GROVE,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Ashley,CROSSROADS,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Ashley,HW3,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Ashley,HW2,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Ashley,HW1,U.S. President,,DEM,Tom Steyer,1,0,1,0,0
+Ashley,HBG RURAL,U.S. President,,DEM,Tom Steyer,1,1,0,0,0
+Ashley,MT ZION,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Ashley,MILO,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Ashley,BEECH CREEK,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Ashley,MIST,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Ashley,FH CITY,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Ashley,FH RURAL,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Ashley,PORTLAND CITY,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Ashley,PORTLAND RURAL,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Ashley,BOYDELL,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Ashley,SNY/TRA,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Ashley,MONTROSE CITY,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Ashley,MONTROSE RURAL,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Ashley,PARKDALE CITY,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Ashley,PARKDALE RURAL,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Ashley,WILMOT CITY,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Ashley,WILMOT RURAL,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Ashley,CW1,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Ashley,CW2,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Ashley,CW3,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Ashley,NCE,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Ashley,NCW,U.S. President,,DEM,Andrew Yang,1,0,1,0,0
+Ashley,WCR,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Ashley,VOTECH,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Ashley,COOTER,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Ashley,HICKORY GROVE,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Ashley,CROSSROADS,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Ashley,HW3,U.S. President,,DEM,Andrew Yang,2,2,0,0,0
+Ashley,HW2,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Ashley,HW1,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Ashley,HBG RURAL,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Ashley,MT ZION,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Ashley,MILO,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Ashley,BEECH CREEK,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Ashley,MIST,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Ashley,FH CITY,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Ashley,FH RURAL,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Ashley,PORTLAND CITY,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Ashley,PORTLAND RURAL,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Ashley,BOYDELL,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Ashley,SNY/TRA,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Ashley,MONTROSE CITY,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Ashley,MONTROSE RURAL,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Ashley,PARKDALE CITY,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Ashley,PARKDALE RURAL,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Ashley,WILMOT CITY,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Ashley,WILMOT RURAL,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Ashley,CW1,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Ashley,CW2,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Ashley,CW3,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Ashley,NCE,U.S. President,,DEM,Tulsi Gabbard,2,1,1,0,0
+Ashley,NCW,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Ashley,WCR,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Ashley,VOTECH,U.S. President,,DEM,Tulsi Gabbard,2,2,0,0,0
+Ashley,COOTER,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Ashley,HICKORY GROVE,U.S. President,,DEM,Tulsi Gabbard,1,1,0,0,0
+Ashley,CROSSROADS,U.S. President,,DEM,Tulsi Gabbard,1,1,0,0,0
+Ashley,HW3,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Ashley,HW2,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Ashley,HW1,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Ashley,HBG RURAL,U.S. President,,DEM,Tulsi Gabbard,1,1,0,0,0
+Ashley,MT ZION,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Ashley,MILO,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Ashley,BEECH CREEK,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Ashley,MIST,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Ashley,FH CITY,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Ashley,FH RURAL,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Ashley,PORTLAND CITY,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Ashley,PORTLAND RURAL,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Ashley,BOYDELL,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Ashley,SNY/TRA,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Ashley,MONTROSE CITY,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Ashley,MONTROSE RURAL,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Ashley,PARKDALE CITY,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Ashley,PARKDALE RURAL,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Ashley,WILMOT CITY,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Ashley,WILMOT RURAL,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Ashley,CW1,U.S. President,,DEM,Elizabeth Warren,11,4,6,0,1
+Ashley,CW2,U.S. President,,DEM,Elizabeth Warren,5,5,0,0,0
+Ashley,CW3,U.S. President,,DEM,Elizabeth Warren,11,3,8,0,0
+Ashley,NCE,U.S. President,,DEM,Elizabeth Warren,5,3,2,0,0
+Ashley,NCW,U.S. President,,DEM,Elizabeth Warren,1,0,1,0,0
+Ashley,WCR,U.S. President,,DEM,Elizabeth Warren,2,1,1,0,0
+Ashley,VOTECH,U.S. President,,DEM,Elizabeth Warren,1,0,1,0,0
+Ashley,COOTER,U.S. President,,DEM,Elizabeth Warren,1,1,0,0,0
+Ashley,HICKORY GROVE,U.S. President,,DEM,Elizabeth Warren,0,0,0,0,0
+Ashley,CROSSROADS,U.S. President,,DEM,Elizabeth Warren,2,2,0,0,0
+Ashley,HW3,U.S. President,,DEM,Elizabeth Warren,1,1,0,0,0
+Ashley,HW2,U.S. President,,DEM,Elizabeth Warren,3,3,0,0,0
+Ashley,HW1,U.S. President,,DEM,Elizabeth Warren,8,7,1,0,0
+Ashley,HBG RURAL,U.S. President,,DEM,Elizabeth Warren,4,2,2,0,0
+Ashley,MT ZION,U.S. President,,DEM,Elizabeth Warren,0,0,0,0,0
+Ashley,MILO,U.S. President,,DEM,Elizabeth Warren,0,0,0,0,0
+Ashley,BEECH CREEK,U.S. President,,DEM,Elizabeth Warren,0,0,0,0,0
+Ashley,MIST,U.S. President,,DEM,Elizabeth Warren,0,0,0,0,0
+Ashley,FH CITY,U.S. President,,DEM,Elizabeth Warren,0,0,0,0,0
+Ashley,FH RURAL,U.S. President,,DEM,Elizabeth Warren,1,0,1,0,0
+Ashley,PORTLAND CITY,U.S. President,,DEM,Elizabeth Warren,0,0,0,0,0
+Ashley,PORTLAND RURAL,U.S. President,,DEM,Elizabeth Warren,0,0,0,0,0
+Ashley,BOYDELL,U.S. President,,DEM,Elizabeth Warren,0,0,0,0,0
+Ashley,SNY/TRA,U.S. President,,DEM,Elizabeth Warren,0,0,0,0,0
+Ashley,MONTROSE CITY,U.S. President,,DEM,Elizabeth Warren,1,0,1,0,0
+Ashley,MONTROSE RURAL,U.S. President,,DEM,Elizabeth Warren,0,0,0,0,0
+Ashley,PARKDALE CITY,U.S. President,,DEM,Elizabeth Warren,2,0,2,0,0
+Ashley,PARKDALE RURAL,U.S. President,,DEM,Elizabeth Warren,0,0,0,0,0
+Ashley,WILMOT CITY,U.S. President,,DEM,Elizabeth Warren,3,1,2,0,0
+Ashley,WILMOT RURAL,U.S. President,,DEM,Elizabeth Warren,0,0,0,0,0
+Ashley,CW1,U.S. President,,DEM,Michael Bennet,1,0,1,0,0
+Ashley,CW2,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Ashley,CW3,U.S. President,,DEM,Michael Bennet,1,1,0,0,0
+Ashley,NCE,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Ashley,NCW,U.S. President,,DEM,Michael Bennet,1,0,1,0,0
+Ashley,WCR,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Ashley,VOTECH,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Ashley,COOTER,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Ashley,HICKORY GROVE,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Ashley,CROSSROADS,U.S. President,,DEM,Michael Bennet,1,0,1,0,0
+Ashley,HW3,U.S. President,,DEM,Michael Bennet,1,0,1,0,0
+Ashley,HW2,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Ashley,HW1,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Ashley,HBG RURAL,U.S. President,,DEM,Michael Bennet,1,1,0,0,0
+Ashley,MT ZION,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Ashley,MILO,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Ashley,BEECH CREEK,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Ashley,MIST,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Ashley,FH CITY,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Ashley,FH RURAL,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Ashley,PORTLAND CITY,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Ashley,PORTLAND RURAL,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Ashley,BOYDELL,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Ashley,SNY/TRA,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Ashley,MONTROSE CITY,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Ashley,MONTROSE RURAL,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Ashley,PARKDALE CITY,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Ashley,PARKDALE RURAL,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Ashley,WILMOT CITY,U.S. President,,DEM,Michael Bennet,1,0,1,0,0
+Ashley,WILMOT RURAL,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Ashley,CW1,U.S. President,,DEM,Michael R. Bloomberg,12,9,3,0,0
+Ashley,CW2,U.S. President,,DEM,Michael R. Bloomberg,17,13,3,0,1
+Ashley,CW3,U.S. President,,DEM,Michael R. Bloomberg,19,11,7,0,1
+Ashley,NCE,U.S. President,,DEM,Michael R. Bloomberg,8,5,3,0,0
+Ashley,NCW,U.S. President,,DEM,Michael R. Bloomberg,2,2,0,0,0
+Ashley,WCR,U.S. President,,DEM,Michael R. Bloomberg,5,2,2,0,1
+Ashley,VOTECH,U.S. President,,DEM,Michael R. Bloomberg,6,2,4,0,0
+Ashley,COOTER,U.S. President,,DEM,Michael R. Bloomberg,1,0,1,0,0
+Ashley,HICKORY GROVE,U.S. President,,DEM,Michael R. Bloomberg,1,1,0,0,0
+Ashley,CROSSROADS,U.S. President,,DEM,Michael R. Bloomberg,1,0,1,0,0
+Ashley,HW3,U.S. President,,DEM,Michael R. Bloomberg,6,4,2,0,0
+Ashley,HW2,U.S. President,,DEM,Michael R. Bloomberg,4,3,1,0,0
+Ashley,HW1,U.S. President,,DEM,Michael R. Bloomberg,9,2,7,0,0
+Ashley,HBG RURAL,U.S. President,,DEM,Michael R. Bloomberg,8,5,3,0,0
+Ashley,MT ZION,U.S. President,,DEM,Michael R. Bloomberg,1,1,0,0,0
+Ashley,MILO,U.S. President,,DEM,Michael R. Bloomberg,4,0,4,0,0
+Ashley,BEECH CREEK,U.S. President,,DEM,Michael R. Bloomberg,0,0,0,0,0
+Ashley,MIST,U.S. President,,DEM,Michael R. Bloomberg,1,1,0,0,0
+Ashley,FH CITY,U.S. President,,DEM,Michael R. Bloomberg,1,0,1,0,0
+Ashley,FH RURAL,U.S. President,,DEM,Michael R. Bloomberg,3,1,2,0,0
+Ashley,PORTLAND CITY,U.S. President,,DEM,Michael R. Bloomberg,5,0,5,0,0
+Ashley,PORTLAND RURAL,U.S. President,,DEM,Michael R. Bloomberg,0,0,0,0,0
+Ashley,BOYDELL,U.S. President,,DEM,Michael R. Bloomberg,0,0,0,0,0
+Ashley,SNY/TRA,U.S. President,,DEM,Michael R. Bloomberg,0,0,0,0,0
+Ashley,MONTROSE CITY,U.S. President,,DEM,Michael R. Bloomberg,4,0,4,0,0
+Ashley,MONTROSE RURAL,U.S. President,,DEM,Michael R. Bloomberg,0,0,0,0,0
+Ashley,PARKDALE CITY,U.S. President,,DEM,Michael R. Bloomberg,7,0,7,0,0
+Ashley,PARKDALE RURAL,U.S. President,,DEM,Michael R. Bloomberg,1,0,1,0,0
+Ashley,WILMOT CITY,U.S. President,,DEM,Michael R. Bloomberg,4,0,4,0,0
+Ashley,WILMOT RURAL,U.S. President,,DEM,Michael R. Bloomberg,3,2,1,0,0
+Ashley,CW1,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Ashley,CW2,U.S. President,,DEM,Marianne Williamson,2,1,1,0,0
+Ashley,CW3,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Ashley,NCE,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Ashley,NCW,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Ashley,WCR,U.S. President,,DEM,Marianne Williamson,1,1,0,0,0
+Ashley,VOTECH,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Ashley,COOTER,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Ashley,HICKORY GROVE,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Ashley,CROSSROADS,U.S. President,,DEM,Marianne Williamson,1,0,1,0,0
+Ashley,HW3,U.S. President,,DEM,Marianne Williamson,1,1,0,0,0
+Ashley,HW2,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Ashley,HW1,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Ashley,HBG RURAL,U.S. President,,DEM,Marianne Williamson,1,1,0,0,0
+Ashley,MT ZION,U.S. President,,DEM,Marianne Williamson,1,1,0,0,0
+Ashley,MILO,U.S. President,,DEM,Marianne Williamson,2,2,0,0,0
+Ashley,BEECH CREEK,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Ashley,MIST,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Ashley,FH CITY,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Ashley,FH RURAL,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Ashley,PORTLAND CITY,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Ashley,PORTLAND RURAL,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Ashley,BOYDELL,U.S. President,,DEM,Marianne Williamson,1,0,1,0,0
+Ashley,SNY/TRA,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Ashley,MONTROSE CITY,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Ashley,MONTROSE RURAL,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Ashley,PARKDALE CITY,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Ashley,PARKDALE RURAL,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Ashley,WILMOT CITY,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Ashley,WILMOT RURAL,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Ashley,CW1,U.S. President,,DEM,Joseph R. Biden,82,34,47,0,1
+Ashley,CW2,U.S. President,,DEM,Joseph R. Biden,86,44,42,0,0
+Ashley,CW3,U.S. President,,DEM,Joseph R. Biden,57,24,33,0,0
+Ashley,NCE,U.S. President,,DEM,Joseph R. Biden,17,10,7,0,0
+Ashley,NCW,U.S. President,,DEM,Joseph R. Biden,3,1,2,0,0
+Ashley,WCR,U.S. President,,DEM,Joseph R. Biden,54,25,29,0,0
+Ashley,VOTECH,U.S. President,,DEM,Joseph R. Biden,18,4,13,0,1
+Ashley,COOTER,U.S. President,,DEM,Joseph R. Biden,13,4,9,0,0
+Ashley,HICKORY GROVE,U.S. President,,DEM,Joseph R. Biden,17,11,6,0,0
+Ashley,CROSSROADS,U.S. President,,DEM,Joseph R. Biden,12,2,10,0,0
+Ashley,HW3,U.S. President,,DEM,Joseph R. Biden,27,13,12,0,2
+Ashley,HW2,U.S. President,,DEM,Joseph R. Biden,16,6,10,0,0
+Ashley,HW1,U.S. President,,DEM,Joseph R. Biden,43,8,31,0,4
+Ashley,HBG RURAL,U.S. President,,DEM,Joseph R. Biden,33,21,11,0,1
+Ashley,MT ZION,U.S. President,,DEM,Joseph R. Biden,5,4,1,0,0
+Ashley,MILO,U.S. President,,DEM,Joseph R. Biden,17,3,13,0,1
+Ashley,BEECH CREEK,U.S. President,,DEM,Joseph R. Biden,2,2,0,0,0
+Ashley,MIST,U.S. President,,DEM,Joseph R. Biden,3,2,1,0,0
+Ashley,FH CITY,U.S. President,,DEM,Joseph R. Biden,10,2,8,0,0
+Ashley,FH RURAL,U.S. President,,DEM,Joseph R. Biden,11,0,11,0,0
+Ashley,PORTLAND CITY,U.S. President,,DEM,Joseph R. Biden,33,0,32,0,1
+Ashley,PORTLAND RURAL,U.S. President,,DEM,Joseph R. Biden,5,2,3,0,0
+Ashley,BOYDELL,U.S. President,,DEM,Joseph R. Biden,1,0,1,0,0
+Ashley,SNY/TRA,U.S. President,,DEM,Joseph R. Biden,0,0,0,0,0
+Ashley,MONTROSE CITY,U.S. President,,DEM,Joseph R. Biden,20,0,20,0,0
+Ashley,MONTROSE RURAL,U.S. President,,DEM,Joseph R. Biden,1,0,1,0,0
+Ashley,PARKDALE CITY,U.S. President,,DEM,Joseph R. Biden,15,0,15,0,0
+Ashley,PARKDALE RURAL,U.S. President,,DEM,Joseph R. Biden,1,0,1,0,0
+Ashley,WILMOT CITY,U.S. President,,DEM,Joseph R. Biden,26,1,25,0,0
+Ashley,WILMOT RURAL,U.S. President,,DEM,Joseph R. Biden,5,1,4,0,0
+Ashley,CW1,U.S. President,,REP,Roque 'Rocky' De La Fuente,3,2,1,0,0
+Ashley,CW2,U.S. President,,REP,Roque 'Rocky' De La Fuente,3,2,1,0,0
+Ashley,CW3,U.S. President,,REP,Roque 'Rocky' De La Fuente,1,0,1,0,0
+Ashley,NCE,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Ashley,NCW,U.S. President,,REP,Roque 'Rocky' De La Fuente,1,1,0,0,0
+Ashley,WCR,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Ashley,VOTECH,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Ashley,COOTER,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Ashley,HICKORY GROVE,U.S. President,,REP,Roque 'Rocky' De La Fuente,1,0,1,0,0
+Ashley,CROSSROADS,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Ashley,HW3,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Ashley,HW2,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Ashley,HW1,U.S. President,,REP,Roque 'Rocky' De La Fuente,1,0,1,0,0
+Ashley,HBG RURAL,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Ashley,MT ZION,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Ashley,MILO,U.S. President,,REP,Roque 'Rocky' De La Fuente,1,1,0,0,0
+Ashley,BEECH CREEK,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Ashley,MIST,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Ashley,FH CITY,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Ashley,FH RURAL,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Ashley,PORTLAND CITY,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Ashley,PORTLAND RURAL,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Ashley,BOYDELL,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Ashley,SNY/TRA,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Ashley,MONTROSE CITY,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Ashley,MONTROSE RURAL,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Ashley,PARKDALE CITY,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Ashley,PARKDALE RURAL,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Ashley,WILMOT CITY,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Ashley,WILMOT RURAL,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Ashley,CW1,U.S. President,,REP,Donald J. Trump,71,41,28,0,2
+Ashley,CW2,U.S. President,,REP,Donald J. Trump,127,81,45,0,1
+Ashley,CW3,U.S. President,,REP,Donald J. Trump,339,179,159,0,1
+Ashley,NCE,U.S. President,,REP,Donald J. Trump,158,73,81,1,3
+Ashley,NCW,U.S. President,,REP,Donald J. Trump,79,24,52,3,0
+Ashley,WCR,U.S. President,,REP,Donald J. Trump,154,62,92,0,0
+Ashley,VOTECH,U.S. President,,REP,Donald J. Trump,105,49,56,0,0
+Ashley,COOTER,U.S. President,,REP,Donald J. Trump,78,18,60,0,0
+Ashley,HICKORY GROVE,U.S. President,,REP,Donald J. Trump,172,77,92,1,2
+Ashley,CROSSROADS,U.S. President,,REP,Donald J. Trump,159,67,89,0,3
+Ashley,HW3,U.S. President,,REP,Donald J. Trump,163,96,66,0,1
+Ashley,HW2,U.S. President,,REP,Donald J. Trump,99,57,40,0,2
+Ashley,HW1,U.S. President,,REP,Donald J. Trump,28,13,15,0,0
+Ashley,HBG RURAL,U.S. President,,REP,Donald J. Trump,259,165,92,0,2
+Ashley,MT ZION,U.S. President,,REP,Donald J. Trump,68,37,26,0,5
+Ashley,MILO,U.S. President,,REP,Donald J. Trump,152,71,79,0,2
+Ashley,BEECH CREEK,U.S. President,,REP,Donald J. Trump,14,8,6,0,0
+Ashley,MIST,U.S. President,,REP,Donald J. Trump,26,14,12,0,0
+Ashley,FH CITY,U.S. President,,REP,Donald J. Trump,14,2,12,0,0
+Ashley,FH RURAL,U.S. President,,REP,Donald J. Trump,76,26,49,0,1
+Ashley,PORTLAND CITY,U.S. President,,REP,Donald J. Trump,35,3,30,0,2
+Ashley,PORTLAND RURAL,U.S. President,,REP,Donald J. Trump,11,1,10,0,0
+Ashley,BOYDELL,U.S. President,,REP,Donald J. Trump,0,0,0,0,0
+Ashley,SNY/TRA,U.S. President,,REP,Donald J. Trump,8,5,3,0,0
+Ashley,MONTROSE CITY,U.S. President,,REP,Donald J. Trump,10,4,5,0,1
+Ashley,MONTROSE RURAL,U.S. President,,REP,Donald J. Trump,1,0,1,0,0
+Ashley,PARKDALE CITY,U.S. President,,REP,Donald J. Trump,15,2,11,0,2
+Ashley,PARKDALE RURAL,U.S. President,,REP,Donald J. Trump,0,0,0,0,0
+Ashley,WILMOT CITY,U.S. President,,REP,Donald J. Trump,15,5,10,0,0
+Ashley,WILMOT RURAL,U.S. President,,REP,Donald J. Trump,18,3,13,0,2
+Ashley,CW1,U.S. President,,REP,Bill Weld,1,0,1,0,0
+Ashley,CW2,U.S. President,,REP,Bill Weld,5,2,3,0,0
+Ashley,CW3,U.S. President,,REP,Bill Weld,1,1,0,0,0
+Ashley,NCE,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Ashley,NCW,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Ashley,WCR,U.S. President,,REP,Bill Weld,1,1,0,0,0
+Ashley,VOTECH,U.S. President,,REP,Bill Weld,1,0,1,0,0
+Ashley,COOTER,U.S. President,,REP,Bill Weld,4,0,4,0,0
+Ashley,HICKORY GROVE,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Ashley,CROSSROADS,U.S. President,,REP,Bill Weld,1,1,0,0,0
+Ashley,HW3,U.S. President,,REP,Bill Weld,1,0,1,0,0
+Ashley,HW2,U.S. President,,REP,Bill Weld,2,1,1,0,0
+Ashley,HW1,U.S. President,,REP,Bill Weld,1,1,0,0,0
+Ashley,HBG RURAL,U.S. President,,REP,Bill Weld,1,1,0,0,0
+Ashley,MT ZION,U.S. President,,REP,Bill Weld,2,2,0,0,0
+Ashley,MILO,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Ashley,BEECH CREEK,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Ashley,MIST,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Ashley,FH CITY,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Ashley,FH RURAL,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Ashley,PORTLAND CITY,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Ashley,PORTLAND RURAL,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Ashley,BOYDELL,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Ashley,SNY/TRA,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Ashley,MONTROSE CITY,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Ashley,MONTROSE RURAL,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Ashley,PARKDALE CITY,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Ashley,PARKDALE RURAL,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Ashley,WILMOT CITY,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Ashley,WILMOT RURAL,U.S. President,,REP,Bill Weld,1,0,1,0,0
+Ashley,CW1,State Senate District 26,,REP,Bill Dunklin,14,11,3,0,0
+Ashley,CW2,State Senate District 26,,REP,Bill Dunklin,27,19,7,0,1
+Ashley,CW3,State Senate District 26,,REP,Bill Dunklin,50,31,19,0,0
+Ashley,NCE,State Senate District 26,,REP,Bill Dunklin,45,19,26,0,0
+Ashley,NCW,State Senate District 26,,REP,Bill Dunklin,15,3,12,0,0
+Ashley,WCR,State Senate District 26,,REP,Bill Dunklin,53,17,36,0,0
+Ashley,VOTECH,State Senate District 26,,REP,Bill Dunklin,31,13,18,0,0
+Ashley,COOTER,State Senate District 26,,REP,Bill Dunklin,24,4,20,0,0
+Ashley,HICKORY GROVE,State Senate District 26,,REP,Bill Dunklin,41,20,20,1,0
+Ashley,CROSSROADS,State Senate District 26,,REP,Bill Dunklin,52,21,30,0,1
+Ashley,HW3,State Senate District 26,,REP,Bill Dunklin,65,41,24,0,0
+Ashley,HW2,State Senate District 26,,REP,Bill Dunklin,26,17,9,0,0
+Ashley,HW1,State Senate District 26,,REP,Bill Dunklin,4,2,2,0,0
+Ashley,HBG RURAL,State Senate District 26,,REP,Bill Dunklin,103,61,40,0,2
+Ashley,MT ZION,State Senate District 26,,REP,Bill Dunklin,24,14,7,0,3
+Ashley,MILO,State Senate District 26,,REP,Bill Dunklin,49,26,23,0,0
+Ashley,BEECH CREEK,State Senate District 26,,REP,Bill Dunklin,5,4,1,0,0
+Ashley,MIST,State Senate District 26,,REP,Bill Dunklin,17,9,8,0,0
+Ashley,FH CITY,State Senate District 26,,REP,Bill Dunklin,6,0,6,0,0
+Ashley,FH RURAL,State Senate District 26,,REP,Bill Dunklin,34,9,25,0,0
+Ashley,PORTLAND CITY,State Senate District 26,,REP,Bill Dunklin,20,2,18,0,0
+Ashley,PORTLAND RURAL,State Senate District 26,,REP,Bill Dunklin,5,0,5,0,0
+Ashley,BOYDELL,State Senate District 26,,REP,Bill Dunklin,0,0,0,0,0
+Ashley,SNY/TRA,State Senate District 26,,REP,Bill Dunklin,5,2,3,0,0
+Ashley,MONTROSE CITY,State Senate District 26,,REP,Bill Dunklin,5,2,3,0,0
+Ashley,MONTROSE RURAL,State Senate District 26,,REP,Bill Dunklin,0,0,0,0,0
+Ashley,PARKDALE CITY,State Senate District 26,,REP,Bill Dunklin,3,0,3,0,0
+Ashley,PARKDALE RURAL,State Senate District 26,,REP,Bill Dunklin,0,0,0,0,0
+Ashley,WILMOT CITY,State Senate District 26,,REP,Bill Dunklin,8,4,4,0,0
+Ashley,WILMOT RURAL,State Senate District 26,,REP,Bill Dunklin,7,1,5,0,1
+Ashley,CW1,State Senate District 26,,REP,Ben Gilmore,61,32,27,0,2
+Ashley,CW2,State Senate District 26,,REP,Ben Gilmore,109,67,42,0,0
+Ashley,CW3,State Senate District 26,,REP,Ben Gilmore,288,145,142,0,1
+Ashley,NCE,State Senate District 26,,REP,Ben Gilmore,112,54,54,1,3
+Ashley,NCW,State Senate District 26,,REP,Ben Gilmore,65,22,40,3,0
+Ashley,WCR,State Senate District 26,,REP,Ben Gilmore,103,47,56,0,0
+Ashley,VOTECH,State Senate District 26,,REP,Ben Gilmore,73,34,39,0,0
+Ashley,COOTER,State Senate District 26,,REP,Ben Gilmore,57,14,43,0,0
+Ashley,HICKORY GROVE,State Senate District 26,,REP,Ben Gilmore,131,57,72,0,2
+Ashley,CROSSROADS,State Senate District 26,,REP,Ben Gilmore,106,47,57,0,2
+Ashley,HW3,State Senate District 26,,REP,Ben Gilmore,97,55,41,0,1
+Ashley,HW2,State Senate District 26,,REP,Ben Gilmore,75,41,32,0,2
+Ashley,HW1,State Senate District 26,,REP,Ben Gilmore,26,12,14,0,0
+Ashley,HBG RURAL,State Senate District 26,,REP,Ben Gilmore,153,105,48,0,0
+Ashley,MT ZION,State Senate District 26,,REP,Ben Gilmore,44,24,18,0,2
+Ashley,MILO,State Senate District 26,,REP,Ben Gilmore,103,46,55,0,2
+Ashley,BEECH CREEK,State Senate District 26,,REP,Ben Gilmore,9,4,5,0,0
+Ashley,MIST,State Senate District 26,,REP,Ben Gilmore,9,5,4,0,0
+Ashley,FH CITY,State Senate District 26,,REP,Ben Gilmore,8,2,6,0,0
+Ashley,FH RURAL,State Senate District 26,,REP,Ben Gilmore,41,17,23,0,1
+Ashley,PORTLAND CITY,State Senate District 26,,REP,Ben Gilmore,15,1,12,0,2
+Ashley,PORTLAND RURAL,State Senate District 26,,REP,Ben Gilmore,6,1,5,0,0
+Ashley,BOYDELL,State Senate District 26,,REP,Ben Gilmore,0,0,0,0,0
+Ashley,SNY/TRA,State Senate District 26,,REP,Ben Gilmore,3,3,0,0,0
+Ashley,MONTROSE CITY,State Senate District 26,,REP,Ben Gilmore,5,2,2,0,1
+Ashley,MONTROSE RURAL,State Senate District 26,,REP,Ben Gilmore,1,0,1,0,0
+Ashley,PARKDALE CITY,State Senate District 26,,REP,Ben Gilmore,10,2,8,0,0
+Ashley,PARKDALE RURAL,State Senate District 26,,REP,Ben Gilmore,0,0,0,0,0
+Ashley,WILMOT CITY,State Senate District 26,,REP,Ben Gilmore,7,1,6,0,0
+Ashley,WILMOT RURAL,State Senate District 26,,REP,Ben Gilmore,12,2,9,0,1
+Ashley,COOTER,JUSTICE OF THE PEACE 3,,REP,Rickey Nelms,1,1,0,0,0
+Ashley,CROSSROADS,JUSTICE OF THE PEACE 3,,REP,Rickey Nelms,49,22,25,0,2
+Ashley,MILO,JUSTICE OF THE PEACE 3,,REP,Rickey Nelms,109,49,58,0,2
+Ashley,FH CITY,JUSTICE OF THE PEACE 3,,REP,Rickey Nelms,8,1,7,0,0
+Ashley,FH RURAL,JUSTICE OF THE PEACE 3,,REP,Rickey Nelms,12,4,8,0,0
+Ashley,COOTER,JUSTICE OF THE PEACE 3,,REP,Sherri Nowlin Breshears,1,1,0,0,0
+Ashley,CROSSROADS,JUSTICE OF THE PEACE 3,,REP,Sherri Nowlin Breshears,93,39,53,0,1
+Ashley,MILO,JUSTICE OF THE PEACE 3,,REP,Sherri Nowlin Breshears,44,23,21,0,0
+Ashley,FH CITY,JUSTICE OF THE PEACE 3,,REP,Sherri Nowlin Breshears,2,1,1,0,0
+Ashley,FH RURAL,JUSTICE OF THE PEACE 3,,REP,Sherri Nowlin Breshears,4,1,3,0,0
+Ashley,CW1,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,127,66,57,1,3
+Ashley,CW2,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,163,100,62,0,1
+Ashley,CW3,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,236,132,103,0,1
+Ashley,NCE,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,92,44,47,1,0
+Ashley,NCW,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,64,16,45,3,0
+Ashley,WCR,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,113,51,61,0,1
+Ashley,VOTECH,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,73,28,44,0,1
+Ashley,COOTER,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,43,8,35,0,0
+Ashley,HICKORY GROVE,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,81,39,41,0,1
+Ashley,CROSSROADS,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,85,37,47,0,1
+Ashley,HW3,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,103,65,36,0,2
+Ashley,HW2,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,61,34,25,0,2
+Ashley,HW1,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,66,21,42,0,3
+Ashley,HBG RURAL,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,136,84,51,0,1
+Ashley,MT ZION,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,29,17,12,0,0
+Ashley,MILO,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,91,41,49,0,1
+Ashley,BEECH CREEK,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,6,5,1,0,0
+Ashley,MIST,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,12,6,6,0,0
+Ashley,FH CITY,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,18,3,15,0,0
+Ashley,FH RURAL,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,53,14,39,0,0
+Ashley,PORTLAND CITY,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,53,1,49,0,3
+Ashley,PORTLAND RURAL,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,9,2,7,0,0
+Ashley,BOYDELL,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,2,0,2,0,0
+Ashley,SNY/TRA,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,3,1,2,0,0
+Ashley,MONTROSE CITY,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,36,4,31,0,1
+Ashley,MONTROSE RURAL,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,2,0,2,0,0
+Ashley,PARKDALE CITY,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,30,1,29,0,0
+Ashley,PARKDALE RURAL,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,2,0,2,0,0
+Ashley,WILMOT CITY,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,42,9,33,0,0
+Ashley,WILMOT RURAL,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,11,2,8,0,1
+Ashley,CW1,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,100,53,45,0,2
+Ashley,CW2,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,120,66,53,0,1
+Ashley,CW3,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,219,107,111,0,1
+Ashley,NCE,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,110,56,51,0,3
+Ashley,NCW,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,35,14,21,0,0
+Ashley,WCR,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,124,62,62,0,0
+Ashley,VOTECH,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,68,30,38,0,0
+Ashley,COOTER,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,54,16,38,0,0
+Ashley,HICKORY GROVE,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,111,52,59,0,0
+Ashley,CROSSROADS,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,96,38,56,0,2
+Ashley,HW3,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,129,71,54,0,4
+Ashley,HW2,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,77,46,31,0,0
+Ashley,HW1,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,45,15,30,0,0
+Ashley,HBG RURAL,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,185,119,64,0,2
+Ashley,MT ZION,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,54,33,16,0,5
+Ashley,MILO,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,94,45,47,0,2
+Ashley,BEECH CREEK,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,11,6,5,0,0
+Ashley,MIST,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,22,13,9,0,0
+Ashley,FH CITY,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,11,2,9,0,0
+Ashley,FH RURAL,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,42,16,25,0,1
+Ashley,PORTLAND CITY,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,31,1,30,0,0
+Ashley,PORTLAND RURAL,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,12,1,11,0,0
+Ashley,BOYDELL,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,1,0,1,0,0
+Ashley,SNY/TRA,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,6,4,2,0,0
+Ashley,MONTROSE CITY,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,14,1,12,0,1
+Ashley,MONTROSE RURAL,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,0,0,0,0,0
+Ashley,PARKDALE CITY,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,8,0,6,0,2
+Ashley,PARKDALE RURAL,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,0,0,0,0,0
+Ashley,WILMOT CITY,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,13,1,12,0,0
+Ashley,WILMOT RURAL,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,14,3,10,0,1
+Ashley,CW1,Court of Appeals Associate Judge,5,,James McMenis,96,50,43,1,2
+Ashley,CW2,Court of Appeals Associate Judge,5,,James McMenis,116,69,47,0,0
+Ashley,CW3,Court of Appeals Associate Judge,5,,James McMenis,160,75,85,0,0
+Ashley,NCE,Court of Appeals Associate Judge,5,,James McMenis,93,39,54,0,0
+Ashley,NCW,Court of Appeals Associate Judge,5,,James McMenis,49,12,34,3,0
+Ashley,WCR,Court of Appeals Associate Judge,5,,James McMenis,109,46,62,0,1
+Ashley,VOTECH,Court of Appeals Associate Judge,5,,James McMenis,61,26,35,0,0
+Ashley,COOTER,Court of Appeals Associate Judge,5,,James McMenis,49,12,37,0,0
+Ashley,HICKORY GROVE,Court of Appeals Associate Judge,5,,James McMenis,84,39,44,0,1
+Ashley,CROSSROADS,Court of Appeals Associate Judge,5,,James McMenis,79,36,40,0,3
+Ashley,HW3,Court of Appeals Associate Judge,5,,James McMenis,97,57,37,0,3
+Ashley,HW2,Court of Appeals Associate Judge,5,,James McMenis,52,28,23,0,1
+Ashley,HW1,Court of Appeals Associate Judge,5,,James McMenis,54,19,32,0,3
+Ashley,HBG RURAL,Court of Appeals Associate Judge,5,,James McMenis,157,93,62,0,2
+Ashley,MT ZION,Court of Appeals Associate Judge,5,,James McMenis,40,25,11,0,4
+Ashley,MILO,Court of Appeals Associate Judge,5,,James McMenis,84,39,44,0,1
+Ashley,BEECH CREEK,Court of Appeals Associate Judge,5,,James McMenis,5,2,3,0,0
+Ashley,MIST,Court of Appeals Associate Judge,5,,James McMenis,18,10,8,0,0
+Ashley,FH CITY,Court of Appeals Associate Judge,5,,James McMenis,18,3,15,0,0
+Ashley,FH RURAL,Court of Appeals Associate Judge,5,,James McMenis,50,18,31,0,1
+Ashley,PORTLAND CITY,Court of Appeals Associate Judge,5,,James McMenis,40,0,37,0,3
+Ashley,PORTLAND RURAL,Court of Appeals Associate Judge,5,,James McMenis,10,1,9,0,0
+Ashley,BOYDELL,Court of Appeals Associate Judge,5,,James McMenis,2,0,2,0,0
+Ashley,SNY/TRA,Court of Appeals Associate Judge,5,,James McMenis,6,4,2,0,0
+Ashley,MONTROSE CITY,Court of Appeals Associate Judge,5,,James McMenis,31,3,27,0,1
+Ashley,MONTROSE RURAL,Court of Appeals Associate Judge,5,,James McMenis,1,0,1,0,0
+Ashley,PARKDALE CITY,Court of Appeals Associate Judge,5,,James McMenis,22,0,22,0,0
+Ashley,PARKDALE RURAL,Court of Appeals Associate Judge,5,,James McMenis,2,0,2,0,0
+Ashley,WILMOT CITY,Court of Appeals Associate Judge,5,,James McMenis,28,7,21,0,0
+Ashley,WILMOT RURAL,Court of Appeals Associate Judge,5,,James McMenis,9,0,9,0,0
+Ashley,CW1,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,131,70,59,0,2
+Ashley,CW2,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,165,96,67,0,2
+Ashley,CW3,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,289,158,129,0,2
+Ashley,NCE,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,104,56,44,1,3
+Ashley,NCW,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,48,19,29,0,0
+Ashley,WCR,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,129,67,62,0,0
+Ashley,VOTECH,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,77,29,47,0,1
+Ashley,COOTER,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,47,11,36,0,0
+Ashley,HICKORY GROVE,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,110,55,54,0,1
+Ashley,CROSSROADS,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,104,40,64,0,0
+Ashley,HW3,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,138,82,52,0,4
+Ashley,HW2,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,84,52,31,0,1
+Ashley,HW1,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,54,19,35,0,0
+Ashley,HBG RURAL,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,165,112,53,0,0
+Ashley,MT ZION,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,42,25,17,0,0
+Ashley,MILO,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,95,42,51,0,2
+Ashley,BEECH CREEK,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,11,8,3,0,0
+Ashley,MIST,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,16,9,7,0,0
+Ashley,FH CITY,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,10,1,9,0,0
+Ashley,FH RURAL,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,46,13,33,0,0
+Ashley,PORTLAND CITY,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,40,2,38,0,0
+Ashley,PORTLAND RURAL,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,11,2,9,0,0
+Ashley,BOYDELL,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,1,0,1,0,0
+Ashley,SNY/TRA,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,3,1,2,0,0
+Ashley,MONTROSE CITY,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,18,0,17,0,1
+Ashley,MONTROSE RURAL,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,1,0,1,0,0
+Ashley,PARKDALE CITY,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,18,1,15,0,2
+Ashley,PARKDALE RURAL,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,0,0,0,0,0
+Ashley,WILMOT CITY,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,26,2,24,0,0
+Ashley,WILMOT RURAL,Court of Appeals Associate Judge,5,,Court of Appeals Judge Mark Klappenbach,17,6,9,0,2
+Ashley,CW1,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Crews Puryear,33,18,14,1,0
+Ashley,CW2,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Crews Puryear,68,37,31,0,0
+Ashley,CW3,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Crews Puryear,120,68,52,0,0
+Ashley,NCE,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Crews Puryear,50,26,24,0,0
+Ashley,NCW,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Crews Puryear,31,13,16,2,0
+Ashley,WCR,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Crews Puryear,64,29,35,0,0
+Ashley,VOTECH,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Crews Puryear,58,24,34,0,0
+Ashley,COOTER,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Crews Puryear,27,7,20,0,0
+Ashley,HICKORY GROVE,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Crews Puryear,21,13,8,0,0
+Ashley,CROSSROADS,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Crews Puryear,59,28,30,0,1
+Ashley,HW3,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Crews Puryear,41,28,13,0,0
+Ashley,HW2,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Crews Puryear,34,22,12,0,0
+Ashley,HW1,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Crews Puryear,4,2,2,0,0
+Ashley,HBG RURAL,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Crews Puryear,63,35,28,0,0
+Ashley,MT ZION,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Crews Puryear,2,2,0,0,0
+Ashley,MILO,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Crews Puryear,59,27,32,0,0
+Ashley,MIST,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Crews Puryear,9,5,4,0,0
+Ashley,FH CITY,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Crews Puryear,9,2,7,0,0
+Ashley,FH RURAL,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Crews Puryear,20,4,16,0,0
+Ashley,CW1,Circuit Judge,"10, Division 1, Subdistrict 10.2",,City Attorney James A. Hamilton,75,35,36,0,4
+Ashley,CW2,Circuit Judge,"10, Division 1, Subdistrict 10.2",,City Attorney James A. Hamilton,122,79,41,0,2
+Ashley,CW3,Circuit Judge,"10, Division 1, Subdistrict 10.2",,City Attorney James A. Hamilton,174,93,79,0,2
+Ashley,NCE,Circuit Judge,"10, Division 1, Subdistrict 10.2",,City Attorney James A. Hamilton,79,36,42,0,1
+Ashley,NCW,Circuit Judge,"10, Division 1, Subdistrict 10.2",,City Attorney James A. Hamilton,45,15,30,0,0
+Ashley,WCR,Circuit Judge,"10, Division 1, Subdistrict 10.2",,City Attorney James A. Hamilton,85,40,45,0,0
+Ashley,VOTECH,Circuit Judge,"10, Division 1, Subdistrict 10.2",,City Attorney James A. Hamilton,50,26,23,0,1
+Ashley,COOTER,Circuit Judge,"10, Division 1, Subdistrict 10.2",,City Attorney James A. Hamilton,42,9,33,0,0
+Ashley,HICKORY GROVE,Circuit Judge,"10, Division 1, Subdistrict 10.2",,City Attorney James A. Hamilton,37,18,17,0,2
+Ashley,CROSSROADS,Circuit Judge,"10, Division 1, Subdistrict 10.2",,City Attorney James A. Hamilton,75,28,45,0,2
+Ashley,HW3,Circuit Judge,"10, Division 1, Subdistrict 10.2",,City Attorney James A. Hamilton,68,40,23,0,5
+Ashley,HW2,Circuit Judge,"10, Division 1, Subdistrict 10.2",,City Attorney James A. Hamilton,45,27,17,0,1
+Ashley,HW1,Circuit Judge,"10, Division 1, Subdistrict 10.2",,City Attorney James A. Hamilton,11,4,6,0,1
+Ashley,HBG RURAL,Circuit Judge,"10, Division 1, Subdistrict 10.2",,City Attorney James A. Hamilton,102,71,31,0,0
+Ashley,MT ZION,Circuit Judge,"10, Division 1, Subdistrict 10.2",,City Attorney James A. Hamilton,8,6,0,0,2
+Ashley,MILO,Circuit Judge,"10, Division 1, Subdistrict 10.2",,City Attorney James A. Hamilton,80,37,41,0,2
+Ashley,MIST,Circuit Judge,"10, Division 1, Subdistrict 10.2",,City Attorney James A. Hamilton,11,6,5,0,0
+Ashley,FH CITY,Circuit Judge,"10, Division 1, Subdistrict 10.2",,City Attorney James A. Hamilton,13,2,11,0,0
+Ashley,FH RURAL,Circuit Judge,"10, Division 1, Subdistrict 10.2",,City Attorney James A. Hamilton,38,11,27,0,0
+Ashley,CW1,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Tim Leonard,35,19,16,0,0
+Ashley,CW2,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Tim Leonard,79,45,34,0,0
+Ashley,CW3,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Tim Leonard,135,70,65,0,0
+Ashley,NCE,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Tim Leonard,39,17,22,0,0
+Ashley,NCW,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Tim Leonard,24,3,20,1,0
+Ashley,WCR,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Tim Leonard,43,19,23,0,1
+Ashley,VOTECH,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Tim Leonard,31,7,24,0,0
+Ashley,COOTER,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Tim Leonard,32,9,23,0,0
+Ashley,HICKORY GROVE,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Tim Leonard,22,14,8,0,0
+Ashley,CROSSROADS,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Tim Leonard,48,20,28,0,0
+Ashley,HW3,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Tim Leonard,106,63,41,0,2
+Ashley,HW2,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Tim Leonard,61,34,26,0,1
+Ashley,HW1,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Tim Leonard,18,5,12,0,1
+Ashley,HBG RURAL,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Tim Leonard,113,67,43,0,3
+Ashley,MT ZION,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Tim Leonard,2,0,2,0,0
+Ashley,MILO,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Tim Leonard,50,24,25,0,1
+Ashley,MIST,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Tim Leonard,15,9,6,0,0
+Ashley,FH CITY,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Tim Leonard,6,1,5,0,0
+Ashley,FH RURAL,Circuit Judge,"10, Division 1, Subdistrict 10.2",,Tim Leonard,42,17,24,0,1
+Ashley,CW1,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,124,65,53,1,5
+Ashley,CW2,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,169,107,61,0,1
+Ashley,CW3,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,224,120,104,0,0
+Ashley,NCE,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,120,62,56,1,1
+Ashley,NCW,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,53,15,37,1,0
+Ashley,WCR,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,126,56,70,0,0
+Ashley,VOTECH,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,76,26,50,0,0
+Ashley,COOTER,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,56,13,43,0,0
+Ashley,HICKORY GROVE,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,104,56,46,0,2
+Ashley,CROSSROADS,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,82,37,45,0,0
+Ashley,HW3,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,118,72,44,0,2
+Ashley,HW2,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,64,37,27,0,0
+Ashley,HW1,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,41,12,27,0,2
+Ashley,HBG RURAL,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,174,107,66,0,1
+Ashley,MT ZION,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,27,14,10,0,3
+Ashley,MILO,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,102,47,53,0,2
+Ashley,BEECH CREEK,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,10,4,6,0,0
+Ashley,MIST,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,22,10,12,0,0
+Ashley,FH CITY,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,13,1,12,0,0
+Ashley,FH RURAL,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,65,22,42,0,1
+Ashley,PORTLAND CITY,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,68,2,64,0,2
+Ashley,PORTLAND RURAL,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,16,2,14,0,0
+Ashley,BOYDELL,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,2,0,2,0,0
+Ashley,SNY/TRA,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,5,3,2,0,0
+Ashley,MONTROSE CITY,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,42,4,37,0,1
+Ashley,MONTROSE RURAL,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,1,0,1,0,0
+Ashley,PARKDALE CITY,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,27,1,24,0,2
+Ashley,PARKDALE RURAL,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,1,0,1,0,0
+Ashley,WILMOT CITY,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,46,8,38,0,0
+Ashley,WILMOT RURAL,Circuit Judge,"10, Division 2, At Large",,Laurie Bridewell,18,3,14,0,1
+Ashley,CW1,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,48,27,21,0,0
+Ashley,CW2,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,43,21,22,0,0
+Ashley,CW3,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,51,22,29,0,0
+Ashley,NCE,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,19,9,10,0,0
+Ashley,NCW,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,14,6,8,0,0
+Ashley,WCR,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,28,16,12,0,0
+Ashley,VOTECH,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,16,8,7,0,1
+Ashley,COOTER,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,4,1,3,0,0
+Ashley,HICKORY GROVE,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,25,10,15,0,0
+Ashley,CROSSROADS,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,14,7,7,0,0
+Ashley,HW3,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,35,15,17,0,3
+Ashley,HW2,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,23,9,13,0,1
+Ashley,HW1,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,50,18,31,0,1
+Ashley,HBG RURAL,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,36,13,22,0,1
+Ashley,MT ZION,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,4,2,2,0,0
+Ashley,MILO,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,23,9,13,0,1
+Ashley,BEECH CREEK,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,3,3,0,0,0
+Ashley,MIST,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,2,2,0,0,0
+Ashley,FH CITY,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,4,0,4,0,0
+Ashley,FH RURAL,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,14,4,10,0,0
+Ashley,PORTLAND CITY,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,8,0,7,0,1
+Ashley,PORTLAND RURAL,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,4,1,3,0,0
+Ashley,BOYDELL,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,0,0,0,0,0
+Ashley,SNY/TRA,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,1,1,0,0,0
+Ashley,MONTROSE CITY,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,5,0,4,0,1
+Ashley,MONTROSE RURAL,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,1,0,1,0,0
+Ashley,PARKDALE CITY,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,5,0,5,0,0
+Ashley,PARKDALE RURAL,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,1,0,1,0,0
+Ashley,WILMOT CITY,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,6,0,6,0,0
+Ashley,WILMOT RURAL,Circuit Judge,"10, Division 2, At Large",,Priscilla Copelin-Abernathy,4,0,4,0,0
+Ashley,CW1,Circuit Judge,"10, Division 2, At Large",,Frank Spain,57,29,28,0,0
+Ashley,CW2,Circuit Judge,"10, Division 2, At Large",,Frank Spain,75,42,32,0,1
+Ashley,CW3,Circuit Judge,"10, Division 2, At Large",,Frank Spain,187,103,82,0,2
+Ashley,NCE,Circuit Judge,"10, Division 2, At Large",,Frank Spain,65,30,34,0,1
+Ashley,NCW,Circuit Judge,"10, Division 2, At Large",,Frank Spain,31,10,19,2,0
+Ashley,WCR,Circuit Judge,"10, Division 2, At Large",,Frank Spain,86,41,44,0,1
+Ashley,VOTECH,Circuit Judge,"10, Division 2, At Large",,Frank Spain,48,23,25,0,0
+Ashley,COOTER,Circuit Judge,"10, Division 2, At Large",,Frank Spain,39,10,29,0,0
+Ashley,HICKORY GROVE,Circuit Judge,"10, Division 2, At Large",,Frank Spain,71,31,40,0,0
+Ashley,CROSSROADS,Circuit Judge,"10, Division 2, At Large",,Frank Spain,87,32,52,0,3
+Ashley,HW3,Circuit Judge,"10, Division 2, At Large",,Frank Spain,85,54,29,0,2
+Ashley,HW2,Circuit Judge,"10, Division 2, At Large",,Frank Spain,54,37,16,0,1
+Ashley,HW1,Circuit Judge,"10, Division 2, At Large",,Frank Spain,22,8,13,0,1
+Ashley,HBG RURAL,Circuit Judge,"10, Division 2, At Large",,Frank Spain,120,89,30,0,1
+Ashley,MT ZION,Circuit Judge,"10, Division 2, At Large",,Frank Spain,55,36,17,0,2
+Ashley,MILO,Circuit Judge,"10, Division 2, At Large",,Frank Spain,62,28,34,0,0
+Ashley,BEECH CREEK,Circuit Judge,"10, Division 2, At Large",,Frank Spain,4,4,0,0,0
+Ashley,MIST,Circuit Judge,"10, Division 2, At Large",,Frank Spain,12,8,4,0,0
+Ashley,FH CITY,Circuit Judge,"10, Division 2, At Large",,Frank Spain,12,4,8,0,0
+Ashley,FH RURAL,Circuit Judge,"10, Division 2, At Large",,Frank Spain,21,6,15,0,0
+Ashley,PORTLAND CITY,Circuit Judge,"10, Division 2, At Large",,Frank Spain,12,1,11,0,0
+Ashley,PORTLAND RURAL,Circuit Judge,"10, Division 2, At Large",,Frank Spain,1,0,1,0,0
+Ashley,BOYDELL,Circuit Judge,"10, Division 2, At Large",,Frank Spain,1,0,1,0,0
+Ashley,SNY/TRA,Circuit Judge,"10, Division 2, At Large",,Frank Spain,3,1,2,0,0
+Ashley,MONTROSE CITY,Circuit Judge,"10, Division 2, At Large",,Frank Spain,6,1,5,0,0
+Ashley,MONTROSE RURAL,Circuit Judge,"10, Division 2, At Large",,Frank Spain,0,0,0,0,0
+Ashley,PARKDALE CITY,Circuit Judge,"10, Division 2, At Large",,Frank Spain,11,1,10,0,0
+Ashley,PARKDALE RURAL,Circuit Judge,"10, Division 2, At Large",,Frank Spain,0,0,0,0,0
+Ashley,WILMOT CITY,Circuit Judge,"10, Division 2, At Large",,Frank Spain,7,2,5,0,0
+Ashley,WILMOT RURAL,Circuit Judge,"10, Division 2, At Large",,Frank Spain,5,3,1,0,1

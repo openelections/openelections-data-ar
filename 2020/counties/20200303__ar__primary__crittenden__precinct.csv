@@ -1,0 +1,753 @@
+county,precinct,office,district,party,candidate,votes,absentee,election_day,early_vote,provisional
+Crittenden,WM HIGH SCHOOL,U.S. President,,DEM,Andrew Yang,2,0,1,1,0
+Crittenden,CIVIC CENTER,U.S. President,,DEM,Andrew Yang,3,2,0,1,0
+Crittenden,MT. OLIVE BAPTIST CHURCH,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Crittenden,CALVARY BAPTIST CHURCH,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Crittenden,7TH STREET CHURCH OF CHRIST,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Crittenden,PILGRIM REST CHURCH,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Crittenden,WONDER BOYS CLUB,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Crittenden,HEAFER,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Crittenden,EDMONDSON,U.S. President,,DEM,Andrew Yang,1,0,0,1,0
+Crittenden,GILMORE,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Crittenden,WR GOLDEN,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Crittenden,EARLE CITY HALL,U.S. President,,DEM,Andrew Yang,2,0,2,0,0
+Crittenden,ST LUKE CHURCH,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Crittenden,CRAWFORDSVILLE,U.S. President,,DEM,Andrew Yang,2,0,2,0,0
+Crittenden,MT PISGAH CHURCH,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Crittenden,MARION CHURCH OF GOD,U.S. President,,DEM,Andrew Yang,1,0,1,0,0
+Crittenden,COUNTY OFFICE BLDG.,U.S. President,,DEM,Andrew Yang,3,0,0,3,0
+Crittenden,IMMANUEL BAPTIST CHURCH,U.S. President,,DEM,Andrew Yang,2,0,0,2,0
+Crittenden,BONDS MARINE,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Crittenden,HORSESHOE LAKE CITY HALL,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Crittenden,JERICHO CITY HALL,U.S. President,,DEM,Andrew Yang,3,0,3,0,0
+Crittenden,ANTHONYVILLE CITY HALL,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Crittenden,JENNETTE CITY HALL,U.S. President,,DEM,Andrew Yang,0,0,0,0,0
+Crittenden,WEST MPH 1ST BAPT CHURCH,U.S. President,,DEM,Andrew Yang,1,0,1,0,0
+Crittenden,WM HIGH SCHOOL,U.S. President,,DEM,Kamala Harris,1,0,1,0,0
+Crittenden,CIVIC CENTER,U.S. President,,DEM,Kamala Harris,2,1,0,1,0
+Crittenden,MT. OLIVE BAPTIST CHURCH,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Crittenden,CALVARY BAPTIST CHURCH,U.S. President,,DEM,Kamala Harris,1,0,0,1,0
+Crittenden,7TH STREET CHURCH OF CHRIST,U.S. President,,DEM,Kamala Harris,1,0,0,1,0
+Crittenden,PILGRIM REST CHURCH,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Crittenden,WONDER BOYS CLUB,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Crittenden,HEAFER,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Crittenden,EDMONDSON,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Crittenden,GILMORE,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Crittenden,WR GOLDEN,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Crittenden,EARLE CITY HALL,U.S. President,,DEM,Kamala Harris,1,0,1,0,0
+Crittenden,ST LUKE CHURCH,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Crittenden,CRAWFORDSVILLE,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Crittenden,MT PISGAH CHURCH,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Crittenden,MARION CHURCH OF GOD,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Crittenden,COUNTY OFFICE BLDG.,U.S. President,,DEM,Kamala Harris,3,0,1,2,0
+Crittenden,IMMANUEL BAPTIST CHURCH,U.S. President,,DEM,Kamala Harris,1,0,1,0,0
+Crittenden,BONDS MARINE,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Crittenden,HORSESHOE LAKE CITY HALL,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Crittenden,JERICHO CITY HALL,U.S. President,,DEM,Kamala Harris,1,0,1,0,0
+Crittenden,ANTHONYVILLE CITY HALL,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Crittenden,JENNETTE CITY HALL,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Crittenden,WEST MPH 1ST BAPT CHURCH,U.S. President,,DEM,Kamala Harris,0,0,0,0,0
+Crittenden,WM HIGH SCHOOL,U.S. President,,DEM,Elizabeth Warren,23,0,11,12,0
+Crittenden,CIVIC CENTER,U.S. President,,DEM,Elizabeth Warren,5,1,3,1,0
+Crittenden,MT. OLIVE BAPTIST CHURCH,U.S. President,,DEM,Elizabeth Warren,6,0,3,3,0
+Crittenden,CALVARY BAPTIST CHURCH,U.S. President,,DEM,Elizabeth Warren,5,0,4,1,0
+Crittenden,7TH STREET CHURCH OF CHRIST,U.S. President,,DEM,Elizabeth Warren,7,0,5,2,0
+Crittenden,PILGRIM REST CHURCH,U.S. President,,DEM,Elizabeth Warren,1,0,1,0,0
+Crittenden,WONDER BOYS CLUB,U.S. President,,DEM,Elizabeth Warren,6,0,2,4,0
+Crittenden,HEAFER,U.S. President,,DEM,Elizabeth Warren,0,0,0,0,0
+Crittenden,EDMONDSON,U.S. President,,DEM,Elizabeth Warren,0,0,0,0,0
+Crittenden,GILMORE,U.S. President,,DEM,Elizabeth Warren,2,0,2,0,0
+Crittenden,WR GOLDEN,U.S. President,,DEM,Elizabeth Warren,4,0,4,0,0
+Crittenden,EARLE CITY HALL,U.S. President,,DEM,Elizabeth Warren,5,0,5,0,0
+Crittenden,ST LUKE CHURCH,U.S. President,,DEM,Elizabeth Warren,1,0,1,0,0
+Crittenden,CRAWFORDSVILLE,U.S. President,,DEM,Elizabeth Warren,6,0,6,0,0
+Crittenden,MT PISGAH CHURCH,U.S. President,,DEM,Elizabeth Warren,0,0,0,0,0
+Crittenden,MARION CHURCH OF GOD,U.S. President,,DEM,Elizabeth Warren,20,0,9,11,0
+Crittenden,COUNTY OFFICE BLDG.,U.S. President,,DEM,Elizabeth Warren,22,0,9,13,0
+Crittenden,IMMANUEL BAPTIST CHURCH,U.S. President,,DEM,Elizabeth Warren,14,0,9,5,0
+Crittenden,BONDS MARINE,U.S. President,,DEM,Elizabeth Warren,2,0,2,0,0
+Crittenden,HORSESHOE LAKE CITY HALL,U.S. President,,DEM,Elizabeth Warren,1,0,1,0,0
+Crittenden,JERICHO CITY HALL,U.S. President,,DEM,Elizabeth Warren,2,0,1,1,0
+Crittenden,ANTHONYVILLE CITY HALL,U.S. President,,DEM,Elizabeth Warren,0,0,0,0,0
+Crittenden,JENNETTE CITY HALL,U.S. President,,DEM,Elizabeth Warren,0,0,0,0,0
+Crittenden,WEST MPH 1ST BAPT CHURCH,U.S. President,,DEM,Elizabeth Warren,12,0,10,2,0
+Crittenden,WM HIGH SCHOOL,U.S. President,,DEM,Tom Steyer,5,0,1,4,0
+Crittenden,CIVIC CENTER,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Crittenden,MT. OLIVE BAPTIST CHURCH,U.S. President,,DEM,Tom Steyer,1,0,0,1,0
+Crittenden,CALVARY BAPTIST CHURCH,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Crittenden,7TH STREET CHURCH OF CHRIST,U.S. President,,DEM,Tom Steyer,2,0,2,0,0
+Crittenden,PILGRIM REST CHURCH,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Crittenden,WONDER BOYS CLUB,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Crittenden,HEAFER,U.S. President,,DEM,Tom Steyer,1,0,1,0,0
+Crittenden,EDMONDSON,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Crittenden,GILMORE,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Crittenden,WR GOLDEN,U.S. President,,DEM,Tom Steyer,1,0,1,0,0
+Crittenden,EARLE CITY HALL,U.S. President,,DEM,Tom Steyer,1,0,1,0,0
+Crittenden,ST LUKE CHURCH,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Crittenden,CRAWFORDSVILLE,U.S. President,,DEM,Tom Steyer,2,0,0,2,0
+Crittenden,MT PISGAH CHURCH,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Crittenden,MARION CHURCH OF GOD,U.S. President,,DEM,Tom Steyer,1,0,0,1,0
+Crittenden,COUNTY OFFICE BLDG.,U.S. President,,DEM,Tom Steyer,3,0,1,2,0
+Crittenden,IMMANUEL BAPTIST CHURCH,U.S. President,,DEM,Tom Steyer,2,0,0,2,0
+Crittenden,BONDS MARINE,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Crittenden,HORSESHOE LAKE CITY HALL,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Crittenden,JERICHO CITY HALL,U.S. President,,DEM,Tom Steyer,1,0,1,0,0
+Crittenden,ANTHONYVILLE CITY HALL,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Crittenden,JENNETTE CITY HALL,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Crittenden,WEST MPH 1ST BAPT CHURCH,U.S. President,,DEM,Tom Steyer,0,0,0,0,0
+Crittenden,WM HIGH SCHOOL,U.S. President,,DEM,Tulsi Gabbard,3,0,0,3,0
+Crittenden,CIVIC CENTER,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Crittenden,MT. OLIVE BAPTIST CHURCH,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Crittenden,CALVARY BAPTIST CHURCH,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Crittenden,7TH STREET CHURCH OF CHRIST,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Crittenden,PILGRIM REST CHURCH,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Crittenden,WONDER BOYS CLUB,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Crittenden,HEAFER,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Crittenden,EDMONDSON,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Crittenden,GILMORE,U.S. President,,DEM,Tulsi Gabbard,1,0,0,1,0
+Crittenden,WR GOLDEN,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Crittenden,EARLE CITY HALL,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Crittenden,ST LUKE CHURCH,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Crittenden,CRAWFORDSVILLE,U.S. President,,DEM,Tulsi Gabbard,1,0,1,0,0
+Crittenden,MT PISGAH CHURCH,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Crittenden,MARION CHURCH OF GOD,U.S. President,,DEM,Tulsi Gabbard,5,0,0,5,0
+Crittenden,COUNTY OFFICE BLDG.,U.S. President,,DEM,Tulsi Gabbard,7,0,2,5,0
+Crittenden,IMMANUEL BAPTIST CHURCH,U.S. President,,DEM,Tulsi Gabbard,1,0,1,0,0
+Crittenden,BONDS MARINE,U.S. President,,DEM,Tulsi Gabbard,1,0,0,1,0
+Crittenden,HORSESHOE LAKE CITY HALL,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Crittenden,JERICHO CITY HALL,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Crittenden,ANTHONYVILLE CITY HALL,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Crittenden,JENNETTE CITY HALL,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0,0
+Crittenden,WEST MPH 1ST BAPT CHURCH,U.S. President,,DEM,Tulsi Gabbard,2,0,2,0,0
+Crittenden,WM HIGH SCHOOL,U.S. President,,DEM,Julian Castro,2,0,0,2,0
+Crittenden,CIVIC CENTER,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Crittenden,MT. OLIVE BAPTIST CHURCH,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Crittenden,CALVARY BAPTIST CHURCH,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Crittenden,7TH STREET CHURCH OF CHRIST,U.S. President,,DEM,Julian Castro,1,0,1,0,0
+Crittenden,PILGRIM REST CHURCH,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Crittenden,WONDER BOYS CLUB,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Crittenden,HEAFER,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Crittenden,EDMONDSON,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Crittenden,GILMORE,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Crittenden,WR GOLDEN,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Crittenden,EARLE CITY HALL,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Crittenden,ST LUKE CHURCH,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Crittenden,CRAWFORDSVILLE,U.S. President,,DEM,Julian Castro,2,0,1,1,0
+Crittenden,MT PISGAH CHURCH,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Crittenden,MARION CHURCH OF GOD,U.S. President,,DEM,Julian Castro,1,0,0,1,0
+Crittenden,COUNTY OFFICE BLDG.,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Crittenden,IMMANUEL BAPTIST CHURCH,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Crittenden,BONDS MARINE,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Crittenden,HORSESHOE LAKE CITY HALL,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Crittenden,JERICHO CITY HALL,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Crittenden,ANTHONYVILLE CITY HALL,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Crittenden,JENNETTE CITY HALL,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Crittenden,WEST MPH 1ST BAPT CHURCH,U.S. President,,DEM,Julian Castro,0,0,0,0,0
+Crittenden,WM HIGH SCHOOL,U.S. President,,DEM,Steve Bullock,1,0,1,0,0
+Crittenden,CIVIC CENTER,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Crittenden,MT. OLIVE BAPTIST CHURCH,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Crittenden,CALVARY BAPTIST CHURCH,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Crittenden,7TH STREET CHURCH OF CHRIST,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Crittenden,PILGRIM REST CHURCH,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Crittenden,WONDER BOYS CLUB,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Crittenden,HEAFER,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Crittenden,EDMONDSON,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Crittenden,GILMORE,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Crittenden,WR GOLDEN,U.S. President,,DEM,Steve Bullock,1,0,1,0,0
+Crittenden,EARLE CITY HALL,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Crittenden,ST LUKE CHURCH,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Crittenden,CRAWFORDSVILLE,U.S. President,,DEM,Steve Bullock,3,0,2,1,0
+Crittenden,MT PISGAH CHURCH,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Crittenden,MARION CHURCH OF GOD,U.S. President,,DEM,Steve Bullock,1,0,0,1,0
+Crittenden,COUNTY OFFICE BLDG.,U.S. President,,DEM,Steve Bullock,1,0,0,1,0
+Crittenden,IMMANUEL BAPTIST CHURCH,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Crittenden,BONDS MARINE,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Crittenden,HORSESHOE LAKE CITY HALL,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Crittenden,JERICHO CITY HALL,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Crittenden,ANTHONYVILLE CITY HALL,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Crittenden,JENNETTE CITY HALL,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Crittenden,WEST MPH 1ST BAPT CHURCH,U.S. President,,DEM,Steve Bullock,0,0,0,0,0
+Crittenden,WM HIGH SCHOOL,U.S. President,,DEM,Joseph R. Biden,179,3,107,68,1
+Crittenden,CIVIC CENTER,U.S. President,,DEM,Joseph R. Biden,238,5,183,50,0
+Crittenden,MT. OLIVE BAPTIST CHURCH,U.S. President,,DEM,Joseph R. Biden,114,0,97,17,0
+Crittenden,CALVARY BAPTIST CHURCH,U.S. President,,DEM,Joseph R. Biden,34,0,29,5,0
+Crittenden,7TH STREET CHURCH OF CHRIST,U.S. President,,DEM,Joseph R. Biden,147,3,124,20,0
+Crittenden,PILGRIM REST CHURCH,U.S. President,,DEM,Joseph R. Biden,74,2,64,8,0
+Crittenden,WONDER BOYS CLUB,U.S. President,,DEM,Joseph R. Biden,48,0,39,9,0
+Crittenden,HEAFER,U.S. President,,DEM,Joseph R. Biden,2,0,1,1,0
+Crittenden,EDMONDSON,U.S. President,,DEM,Joseph R. Biden,30,0,26,4,0
+Crittenden,GILMORE,U.S. President,,DEM,Joseph R. Biden,20,0,20,0,0
+Crittenden,WR GOLDEN,U.S. President,,DEM,Joseph R. Biden,60,0,54,6,0
+Crittenden,EARLE CITY HALL,U.S. President,,DEM,Joseph R. Biden,65,1,61,3,0
+Crittenden,ST LUKE CHURCH,U.S. President,,DEM,Joseph R. Biden,27,0,26,1,0
+Crittenden,CRAWFORDSVILLE,U.S. President,,DEM,Joseph R. Biden,56,0,49,7,0
+Crittenden,MT PISGAH CHURCH,U.S. President,,DEM,Joseph R. Biden,0,0,0,0,0
+Crittenden,MARION CHURCH OF GOD,U.S. President,,DEM,Joseph R. Biden,85,0,51,34,0
+Crittenden,COUNTY OFFICE BLDG.,U.S. President,,DEM,Joseph R. Biden,210,0,142,68,0
+Crittenden,IMMANUEL BAPTIST CHURCH,U.S. President,,DEM,Joseph R. Biden,136,0,107,29,0
+Crittenden,BONDS MARINE,U.S. President,,DEM,Joseph R. Biden,8,0,8,0,0
+Crittenden,HORSESHOE LAKE CITY HALL,U.S. President,,DEM,Joseph R. Biden,6,0,6,0,0
+Crittenden,JERICHO CITY HALL,U.S. President,,DEM,Joseph R. Biden,11,1,9,1,0
+Crittenden,ANTHONYVILLE CITY HALL,U.S. President,,DEM,Joseph R. Biden,26,0,25,1,0
+Crittenden,JENNETTE CITY HALL,U.S. President,,DEM,Joseph R. Biden,0,0,0,0,0
+Crittenden,WEST MPH 1ST BAPT CHURCH,U.S. President,,DEM,Joseph R. Biden,76,2,47,26,1
+Crittenden,WM HIGH SCHOOL,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Crittenden,CIVIC CENTER,U.S. President,,DEM,Michael Bennet,2,1,0,1,0
+Crittenden,MT. OLIVE BAPTIST CHURCH,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Crittenden,CALVARY BAPTIST CHURCH,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Crittenden,7TH STREET CHURCH OF CHRIST,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Crittenden,PILGRIM REST CHURCH,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Crittenden,WONDER BOYS CLUB,U.S. President,,DEM,Michael Bennet,1,0,0,1,0
+Crittenden,HEAFER,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Crittenden,EDMONDSON,U.S. President,,DEM,Michael Bennet,1,0,1,0,0
+Crittenden,GILMORE,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Crittenden,WR GOLDEN,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Crittenden,EARLE CITY HALL,U.S. President,,DEM,Michael Bennet,1,0,1,0,0
+Crittenden,ST LUKE CHURCH,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Crittenden,CRAWFORDSVILLE,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Crittenden,MT PISGAH CHURCH,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Crittenden,MARION CHURCH OF GOD,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Crittenden,COUNTY OFFICE BLDG.,U.S. President,,DEM,Michael Bennet,2,0,2,0,0
+Crittenden,IMMANUEL BAPTIST CHURCH,U.S. President,,DEM,Michael Bennet,1,0,1,0,0
+Crittenden,BONDS MARINE,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Crittenden,HORSESHOE LAKE CITY HALL,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Crittenden,JERICHO CITY HALL,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Crittenden,ANTHONYVILLE CITY HALL,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Crittenden,JENNETTE CITY HALL,U.S. President,,DEM,Michael Bennet,0,0,0,0,0
+Crittenden,WEST MPH 1ST BAPT CHURCH,U.S. President,,DEM,Michael Bennet,2,0,0,2,0
+Crittenden,WM HIGH SCHOOL,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Crittenden,CIVIC CENTER,U.S. President,,DEM,Mosie Boyd,1,0,1,0,0
+Crittenden,MT. OLIVE BAPTIST CHURCH,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Crittenden,CALVARY BAPTIST CHURCH,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Crittenden,7TH STREET CHURCH OF CHRIST,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Crittenden,PILGRIM REST CHURCH,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Crittenden,WONDER BOYS CLUB,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Crittenden,HEAFER,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Crittenden,EDMONDSON,U.S. President,,DEM,Mosie Boyd,1,0,1,0,0
+Crittenden,GILMORE,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Crittenden,WR GOLDEN,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Crittenden,EARLE CITY HALL,U.S. President,,DEM,Mosie Boyd,1,0,1,0,0
+Crittenden,ST LUKE CHURCH,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Crittenden,CRAWFORDSVILLE,U.S. President,,DEM,Mosie Boyd,1,0,1,0,0
+Crittenden,MT PISGAH CHURCH,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Crittenden,MARION CHURCH OF GOD,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Crittenden,COUNTY OFFICE BLDG.,U.S. President,,DEM,Mosie Boyd,1,0,0,1,0
+Crittenden,IMMANUEL BAPTIST CHURCH,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Crittenden,BONDS MARINE,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Crittenden,HORSESHOE LAKE CITY HALL,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Crittenden,JERICHO CITY HALL,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Crittenden,ANTHONYVILLE CITY HALL,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Crittenden,JENNETTE CITY HALL,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Crittenden,WEST MPH 1ST BAPT CHURCH,U.S. President,,DEM,Mosie Boyd,0,0,0,0,0
+Crittenden,WM HIGH SCHOOL,U.S. President,,DEM,Michael R. Bloomberg,64,0,24,40,0
+Crittenden,CIVIC CENTER,U.S. President,,DEM,Michael R. Bloomberg,102,4,67,31,0
+Crittenden,MT. OLIVE BAPTIST CHURCH,U.S. President,,DEM,Michael R. Bloomberg,28,0,21,7,0
+Crittenden,CALVARY BAPTIST CHURCH,U.S. President,,DEM,Michael R. Bloomberg,13,0,6,7,0
+Crittenden,7TH STREET CHURCH OF CHRIST,U.S. President,,DEM,Michael R. Bloomberg,44,0,34,10,0
+Crittenden,PILGRIM REST CHURCH,U.S. President,,DEM,Michael R. Bloomberg,24,0,19,5,0
+Crittenden,WONDER BOYS CLUB,U.S. President,,DEM,Michael R. Bloomberg,17,0,8,9,0
+Crittenden,HEAFER,U.S. President,,DEM,Michael R. Bloomberg,4,0,3,1,0
+Crittenden,EDMONDSON,U.S. President,,DEM,Michael R. Bloomberg,7,0,7,0,0
+Crittenden,GILMORE,U.S. President,,DEM,Michael R. Bloomberg,5,0,5,0,0
+Crittenden,WR GOLDEN,U.S. President,,DEM,Michael R. Bloomberg,7,0,6,1,0
+Crittenden,EARLE CITY HALL,U.S. President,,DEM,Michael R. Bloomberg,19,0,15,4,0
+Crittenden,ST LUKE CHURCH,U.S. President,,DEM,Michael R. Bloomberg,10,0,10,0,0
+Crittenden,CRAWFORDSVILLE,U.S. President,,DEM,Michael R. Bloomberg,12,0,11,1,0
+Crittenden,MT PISGAH CHURCH,U.S. President,,DEM,Michael R. Bloomberg,0,0,0,0,0
+Crittenden,MARION CHURCH OF GOD,U.S. President,,DEM,Michael R. Bloomberg,40,1,12,27,0
+Crittenden,COUNTY OFFICE BLDG.,U.S. President,,DEM,Michael R. Bloomberg,70,0,30,40,0
+Crittenden,IMMANUEL BAPTIST CHURCH,U.S. President,,DEM,Michael R. Bloomberg,50,0,21,29,0
+Crittenden,BONDS MARINE,U.S. President,,DEM,Michael R. Bloomberg,1,0,1,0,0
+Crittenden,HORSESHOE LAKE CITY HALL,U.S. President,,DEM,Michael R. Bloomberg,4,0,4,0,0
+Crittenden,JERICHO CITY HALL,U.S. President,,DEM,Michael R. Bloomberg,8,0,4,4,0
+Crittenden,ANTHONYVILLE CITY HALL,U.S. President,,DEM,Michael R. Bloomberg,3,0,2,1,0
+Crittenden,JENNETTE CITY HALL,U.S. President,,DEM,Michael R. Bloomberg,0,0,0,0,0
+Crittenden,WEST MPH 1ST BAPT CHURCH,U.S. President,,DEM,Michael R. Bloomberg,36,0,19,17,0
+Crittenden,WM HIGH SCHOOL,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Crittenden,CIVIC CENTER,U.S. President,,DEM,Cory Booker,2,1,1,0,0
+Crittenden,MT. OLIVE BAPTIST CHURCH,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Crittenden,CALVARY BAPTIST CHURCH,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Crittenden,7TH STREET CHURCH OF CHRIST,U.S. President,,DEM,Cory Booker,1,0,1,0,0
+Crittenden,PILGRIM REST CHURCH,U.S. President,,DEM,Cory Booker,1,0,0,1,0
+Crittenden,WONDER BOYS CLUB,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Crittenden,HEAFER,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Crittenden,EDMONDSON,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Crittenden,GILMORE,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Crittenden,WR GOLDEN,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Crittenden,EARLE CITY HALL,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Crittenden,ST LUKE CHURCH,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Crittenden,CRAWFORDSVILLE,U.S. President,,DEM,Cory Booker,2,0,2,0,0
+Crittenden,MT PISGAH CHURCH,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Crittenden,MARION CHURCH OF GOD,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Crittenden,COUNTY OFFICE BLDG.,U.S. President,,DEM,Cory Booker,1,0,0,1,0
+Crittenden,IMMANUEL BAPTIST CHURCH,U.S. President,,DEM,Cory Booker,1,0,1,0,0
+Crittenden,BONDS MARINE,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Crittenden,HORSESHOE LAKE CITY HALL,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Crittenden,JERICHO CITY HALL,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Crittenden,ANTHONYVILLE CITY HALL,U.S. President,,DEM,Cory Booker,1,0,1,0,0
+Crittenden,JENNETTE CITY HALL,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Crittenden,WEST MPH 1ST BAPT CHURCH,U.S. President,,DEM,Cory Booker,0,0,0,0,0
+Crittenden,WM HIGH SCHOOL,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Crittenden,CIVIC CENTER,U.S. President,,DEM,Marianne Williamson,2,0,2,0,0
+Crittenden,MT. OLIVE BAPTIST CHURCH,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Crittenden,CALVARY BAPTIST CHURCH,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Crittenden,7TH STREET CHURCH OF CHRIST,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Crittenden,PILGRIM REST CHURCH,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Crittenden,WONDER BOYS CLUB,U.S. President,,DEM,Marianne Williamson,1,0,0,1,0
+Crittenden,HEAFER,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Crittenden,EDMONDSON,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Crittenden,GILMORE,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Crittenden,WR GOLDEN,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Crittenden,EARLE CITY HALL,U.S. President,,DEM,Marianne Williamson,1,0,1,0,0
+Crittenden,ST LUKE CHURCH,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Crittenden,CRAWFORDSVILLE,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Crittenden,MT PISGAH CHURCH,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Crittenden,MARION CHURCH OF GOD,U.S. President,,DEM,Marianne Williamson,3,0,0,3,0
+Crittenden,COUNTY OFFICE BLDG.,U.S. President,,DEM,Marianne Williamson,4,0,1,3,0
+Crittenden,IMMANUEL BAPTIST CHURCH,U.S. President,,DEM,Marianne Williamson,1,0,1,0,0
+Crittenden,BONDS MARINE,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Crittenden,HORSESHOE LAKE CITY HALL,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Crittenden,JERICHO CITY HALL,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Crittenden,ANTHONYVILLE CITY HALL,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Crittenden,JENNETTE CITY HALL,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Crittenden,WEST MPH 1ST BAPT CHURCH,U.S. President,,DEM,Marianne Williamson,0,0,0,0,0
+Crittenden,WM HIGH SCHOOL,U.S. President,,DEM,Joe Sestak,2,0,0,2,0
+Crittenden,CIVIC CENTER,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Crittenden,MT. OLIVE BAPTIST CHURCH,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Crittenden,CALVARY BAPTIST CHURCH,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Crittenden,7TH STREET CHURCH OF CHRIST,U.S. President,,DEM,Joe Sestak,1,0,1,0,0
+Crittenden,PILGRIM REST CHURCH,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Crittenden,WONDER BOYS CLUB,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Crittenden,HEAFER,U.S. President,,DEM,Joe Sestak,1,0,0,1,0
+Crittenden,EDMONDSON,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Crittenden,GILMORE,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Crittenden,WR GOLDEN,U.S. President,,DEM,Joe Sestak,1,0,1,0,0
+Crittenden,EARLE CITY HALL,U.S. President,,DEM,Joe Sestak,1,0,1,0,0
+Crittenden,ST LUKE CHURCH,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Crittenden,CRAWFORDSVILLE,U.S. President,,DEM,Joe Sestak,2,0,2,0,0
+Crittenden,MT PISGAH CHURCH,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Crittenden,MARION CHURCH OF GOD,U.S. President,,DEM,Joe Sestak,1,0,1,0,0
+Crittenden,COUNTY OFFICE BLDG.,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Crittenden,IMMANUEL BAPTIST CHURCH,U.S. President,,DEM,Joe Sestak,2,0,0,2,0
+Crittenden,BONDS MARINE,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Crittenden,HORSESHOE LAKE CITY HALL,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Crittenden,JERICHO CITY HALL,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Crittenden,ANTHONYVILLE CITY HALL,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Crittenden,JENNETTE CITY HALL,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Crittenden,WEST MPH 1ST BAPT CHURCH,U.S. President,,DEM,Joe Sestak,0,0,0,0,0
+Crittenden,WM HIGH SCHOOL,U.S. President,,DEM,Pete Buttigieg,9,0,1,8,0
+Crittenden,CIVIC CENTER,U.S. President,,DEM,Pete Buttigieg,2,1,1,0,0
+Crittenden,MT. OLIVE BAPTIST CHURCH,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Crittenden,CALVARY BAPTIST CHURCH,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Crittenden,7TH STREET CHURCH OF CHRIST,U.S. President,,DEM,Pete Buttigieg,2,0,2,0,0
+Crittenden,PILGRIM REST CHURCH,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Crittenden,WONDER BOYS CLUB,U.S. President,,DEM,Pete Buttigieg,1,0,1,0,0
+Crittenden,HEAFER,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Crittenden,EDMONDSON,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Crittenden,GILMORE,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Crittenden,WR GOLDEN,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Crittenden,EARLE CITY HALL,U.S. President,,DEM,Pete Buttigieg,2,0,2,0,0
+Crittenden,ST LUKE CHURCH,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Crittenden,CRAWFORDSVILLE,U.S. President,,DEM,Pete Buttigieg,1,0,1,0,0
+Crittenden,MT PISGAH CHURCH,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Crittenden,MARION CHURCH OF GOD,U.S. President,,DEM,Pete Buttigieg,11,0,3,8,0
+Crittenden,COUNTY OFFICE BLDG.,U.S. President,,DEM,Pete Buttigieg,7,0,1,6,0
+Crittenden,IMMANUEL BAPTIST CHURCH,U.S. President,,DEM,Pete Buttigieg,3,0,1,2,0
+Crittenden,BONDS MARINE,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Crittenden,HORSESHOE LAKE CITY HALL,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Crittenden,JERICHO CITY HALL,U.S. President,,DEM,Pete Buttigieg,1,0,0,1,0
+Crittenden,ANTHONYVILLE CITY HALL,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Crittenden,JENNETTE CITY HALL,U.S. President,,DEM,Pete Buttigieg,0,0,0,0,0
+Crittenden,WEST MPH 1ST BAPT CHURCH,U.S. President,,DEM,Pete Buttigieg,4,0,0,4,0
+Crittenden,WM HIGH SCHOOL,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Crittenden,CIVIC CENTER,U.S. President,,DEM,John K. Delaney,1,0,0,1,0
+Crittenden,MT. OLIVE BAPTIST CHURCH,U.S. President,,DEM,John K. Delaney,1,0,0,1,0
+Crittenden,CALVARY BAPTIST CHURCH,U.S. President,,DEM,John K. Delaney,1,0,0,1,0
+Crittenden,7TH STREET CHURCH OF CHRIST,U.S. President,,DEM,John K. Delaney,1,0,1,0,0
+Crittenden,PILGRIM REST CHURCH,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Crittenden,WONDER BOYS CLUB,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Crittenden,HEAFER,U.S. President,,DEM,John K. Delaney,1,0,1,0,0
+Crittenden,EDMONDSON,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Crittenden,GILMORE,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Crittenden,WR GOLDEN,U.S. President,,DEM,John K. Delaney,1,0,1,0,0
+Crittenden,EARLE CITY HALL,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Crittenden,ST LUKE CHURCH,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Crittenden,CRAWFORDSVILLE,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Crittenden,MT PISGAH CHURCH,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Crittenden,MARION CHURCH OF GOD,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Crittenden,COUNTY OFFICE BLDG.,U.S. President,,DEM,John K. Delaney,1,0,0,1,0
+Crittenden,IMMANUEL BAPTIST CHURCH,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Crittenden,BONDS MARINE,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Crittenden,HORSESHOE LAKE CITY HALL,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Crittenden,JERICHO CITY HALL,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Crittenden,ANTHONYVILLE CITY HALL,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Crittenden,JENNETTE CITY HALL,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Crittenden,WEST MPH 1ST BAPT CHURCH,U.S. President,,DEM,John K. Delaney,0,0,0,0,0
+Crittenden,WM HIGH SCHOOL,U.S. President,,DEM,Bernie Sanders,68,0,39,29,0
+Crittenden,CIVIC CENTER,U.S. President,,DEM,Bernie Sanders,42,2,29,11,0
+Crittenden,MT. OLIVE BAPTIST CHURCH,U.S. President,,DEM,Bernie Sanders,12,1,11,0,0
+Crittenden,CALVARY BAPTIST CHURCH,U.S. President,,DEM,Bernie Sanders,16,0,15,1,0
+Crittenden,7TH STREET CHURCH OF CHRIST,U.S. President,,DEM,Bernie Sanders,38,1,27,10,0
+Crittenden,PILGRIM REST CHURCH,U.S. President,,DEM,Bernie Sanders,9,0,8,1,0
+Crittenden,WONDER BOYS CLUB,U.S. President,,DEM,Bernie Sanders,18,0,15,3,0
+Crittenden,HEAFER,U.S. President,,DEM,Bernie Sanders,7,0,6,1,0
+Crittenden,EDMONDSON,U.S. President,,DEM,Bernie Sanders,8,0,7,1,0
+Crittenden,GILMORE,U.S. President,,DEM,Bernie Sanders,2,0,2,0,0
+Crittenden,WR GOLDEN,U.S. President,,DEM,Bernie Sanders,9,0,7,2,0
+Crittenden,EARLE CITY HALL,U.S. President,,DEM,Bernie Sanders,18,0,17,1,0
+Crittenden,ST LUKE CHURCH,U.S. President,,DEM,Bernie Sanders,8,0,7,1,0
+Crittenden,CRAWFORDSVILLE,U.S. President,,DEM,Bernie Sanders,15,0,12,3,0
+Crittenden,MT PISGAH CHURCH,U.S. President,,DEM,Bernie Sanders,0,0,0,0,0
+Crittenden,MARION CHURCH OF GOD,U.S. President,,DEM,Bernie Sanders,47,0,31,16,0
+Crittenden,COUNTY OFFICE BLDG.,U.S. President,,DEM,Bernie Sanders,68,0,28,40,0
+Crittenden,IMMANUEL BAPTIST CHURCH,U.S. President,,DEM,Bernie Sanders,66,0,37,28,1
+Crittenden,BONDS MARINE,U.S. President,,DEM,Bernie Sanders,3,0,3,0,0
+Crittenden,HORSESHOE LAKE CITY HALL,U.S. President,,DEM,Bernie Sanders,4,0,4,0,0
+Crittenden,JERICHO CITY HALL,U.S. President,,DEM,Bernie Sanders,3,0,2,1,0
+Crittenden,ANTHONYVILLE CITY HALL,U.S. President,,DEM,Bernie Sanders,1,0,1,0,0
+Crittenden,JENNETTE CITY HALL,U.S. President,,DEM,Bernie Sanders,0,0,0,0,0
+Crittenden,WEST MPH 1ST BAPT CHURCH,U.S. President,,DEM,Bernie Sanders,29,1,10,18,0
+Crittenden,WM HIGH SCHOOL,U.S. President,,DEM,Amy Klobuchar,12,0,5,7,0
+Crittenden,CIVIC CENTER,U.S. President,,DEM,Amy Klobuchar,4,0,2,2,0
+Crittenden,MT. OLIVE BAPTIST CHURCH,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0
+Crittenden,CALVARY BAPTIST CHURCH,U.S. President,,DEM,Amy Klobuchar,2,0,0,2,0
+Crittenden,7TH STREET CHURCH OF CHRIST,U.S. President,,DEM,Amy Klobuchar,1,0,1,0,0
+Crittenden,PILGRIM REST CHURCH,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0
+Crittenden,WONDER BOYS CLUB,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0
+Crittenden,HEAFER,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0
+Crittenden,EDMONDSON,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0
+Crittenden,GILMORE,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0
+Crittenden,WR GOLDEN,U.S. President,,DEM,Amy Klobuchar,1,0,1,0,0
+Crittenden,EARLE CITY HALL,U.S. President,,DEM,Amy Klobuchar,3,0,3,0,0
+Crittenden,ST LUKE CHURCH,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0
+Crittenden,CRAWFORDSVILLE,U.S. President,,DEM,Amy Klobuchar,3,0,3,0,0
+Crittenden,MT PISGAH CHURCH,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0
+Crittenden,MARION CHURCH OF GOD,U.S. President,,DEM,Amy Klobuchar,7,0,1,6,0
+Crittenden,COUNTY OFFICE BLDG.,U.S. President,,DEM,Amy Klobuchar,24,0,3,21,0
+Crittenden,IMMANUEL BAPTIST CHURCH,U.S. President,,DEM,Amy Klobuchar,3,0,0,3,0
+Crittenden,BONDS MARINE,U.S. President,,DEM,Amy Klobuchar,2,0,1,1,0
+Crittenden,HORSESHOE LAKE CITY HALL,U.S. President,,DEM,Amy Klobuchar,1,0,1,0,0
+Crittenden,JERICHO CITY HALL,U.S. President,,DEM,Amy Klobuchar,3,0,0,3,0
+Crittenden,ANTHONYVILLE CITY HALL,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0
+Crittenden,JENNETTE CITY HALL,U.S. President,,DEM,Amy Klobuchar,0,0,0,0,0
+Crittenden,WEST MPH 1ST BAPT CHURCH,U.S. President,,DEM,Amy Klobuchar,2,0,0,2,0
+Crittenden,CRAWFORDSVILLE,Justice of the Peace Dst 8,,DEM,Venessa Basemore,20,0,16,4,0
+Crittenden,MARION CHURCH OF GOD,Justice of the Peace Dst 8,,DEM,Venessa Basemore,17,0,10,7,0
+Crittenden,IMMANUEL BAPTIST CHURCH,Justice of the Peace Dst 8,,DEM,Venessa Basemore,129,0,90,38,1
+Crittenden,CRAWFORDSVILLE,Justice of the Peace Dst 8,,DEM,Joe Morotti,43,0,38,5,0
+Crittenden,MARION CHURCH OF GOD,Justice of the Peace Dst 8,,DEM,Joe Morotti,9,1,5,3,0
+Crittenden,IMMANUEL BAPTIST CHURCH,Justice of the Peace Dst 8,,DEM,Joe Morotti,42,0,26,16,0
+Crittenden,HEAFER,Justice of the Peace Dst 10,,DEM,Leonard Terrell Swift,3,0,3,0,0
+Crittenden,GILMORE,Justice of the Peace Dst 10,,DEM,Leonard Terrell Swift,12,0,12,0,0
+Crittenden,WR GOLDEN,Justice of the Peace Dst 10,,DEM,Leonard Terrell Swift,11,0,9,2,0
+Crittenden,CRAWFORDSVILLE,Justice of the Peace Dst 10,,DEM,Leonard Terrell Swift,0,0,0,0,0
+Crittenden,MT PISGAH CHURCH,Justice of the Peace Dst 10,,DEM,Leonard Terrell Swift,0,0,0,0,0
+Crittenden,MARION CHURCH OF GOD,Justice of the Peace Dst 10,,DEM,Leonard Terrell Swift,25,0,13,12,0
+Crittenden,COUNTY OFFICE BLDG.,Justice of the Peace Dst 10,,DEM,Leonard Terrell Swift,35,0,18,17,0
+Crittenden,JERICHO CITY HALL,Justice of the Peace Dst 10,,DEM,Leonard Terrell Swift,12,0,10,2,0
+Crittenden,JENNETTE CITY HALL,Justice of the Peace Dst 10,,DEM,Leonard Terrell Swift,0,0,0,0,0
+Crittenden,HEAFER,Justice of the Peace Dst 10,,DEM,James D. Fraley,20,0,15,5,0
+Crittenden,GILMORE,Justice of the Peace Dst 10,,DEM,James D. Fraley,23,0,22,1,0
+Crittenden,WR GOLDEN,Justice of the Peace Dst 10,,DEM,James D. Fraley,78,0,72,6,0
+Crittenden,CRAWFORDSVILLE,Justice of the Peace Dst 10,,DEM,James D. Fraley,6,0,6,0,0
+Crittenden,MT PISGAH CHURCH,Justice of the Peace Dst 10,,DEM,James D. Fraley,0,0,0,0,0
+Crittenden,MARION CHURCH OF GOD,Justice of the Peace Dst 10,,DEM,James D. Fraley,24,0,9,15,0
+Crittenden,COUNTY OFFICE BLDG.,Justice of the Peace Dst 10,,DEM,James D. Fraley,31,0,10,21,0
+Crittenden,JERICHO CITY HALL,Justice of the Peace Dst 10,,DEM,James D. Fraley,19,1,12,6,0
+Crittenden,JENNETTE CITY HALL,Justice of the Peace Dst 10,,DEM,James D. Fraley,0,0,0,0,0
+Crittenden,WM HIGH SCHOOL,Justice of the Peace Dst 13,,DEM,Gwendolyn Brown,0,0,0,0,0
+Crittenden,CIVIC CENTER,Justice of the Peace Dst 13,,DEM,Gwendolyn Brown,81,5,62,14,0
+Crittenden,WM HIGH SCHOOL,Justice of the Peace Dst 13,,DEM,Tamara A. Hood,1,0,0,0,1
+Crittenden,CIVIC CENTER,Justice of the Peace Dst 13,,DEM,Tamara A. Hood,201,10,126,65,0
+Crittenden,WM HIGH SCHOOL,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Crittenden,CIVIC CENTER,U.S. President,,REP,Roque 'Rocky' De La Fuente,1,0,1,0,0
+Crittenden,MT. OLIVE BAPTIST CHURCH,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Crittenden,CALVARY BAPTIST CHURCH,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Crittenden,7TH STREET CHURCH OF CHRIST,U.S. President,,REP,Roque 'Rocky' De La Fuente,1,0,1,0,0
+Crittenden,PILGRIM REST CHURCH,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Crittenden,WONDER BOYS CLUB,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Crittenden,HEAFER,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Crittenden,EDMONDSON,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Crittenden,GILMORE,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Crittenden,WR GOLDEN,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Crittenden,EARLE CITY HALL,U.S. President,,REP,Roque 'Rocky' De La Fuente,2,0,2,0,0
+Crittenden,ST LUKE CHURCH,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Crittenden,CRAWFORDSVILLE,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Crittenden,MT PISGAH CHURCH,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Crittenden,MARION CHURCH OF GOD,U.S. President,,REP,Roque 'Rocky' De La Fuente,1,0,0,1,0
+Crittenden,COUNTY OFFICE BLDG.,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Crittenden,IMMANUEL BAPTIST CHURCH,U.S. President,,REP,Roque 'Rocky' De La Fuente,1,0,1,0,0
+Crittenden,BONDS MARINE,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Crittenden,HORSESHOE LAKE CITY HALL,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Crittenden,JERICHO CITY HALL,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Crittenden,ANTHONYVILLE CITY HALL,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Crittenden,JENNETTE CITY HALL,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Crittenden,WEST MPH 1ST BAPT CHURCH,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Crittenden,WM HIGH SCHOOL,U.S. President,,REP,Bill Weld,1,0,1,0,0
+Crittenden,CIVIC CENTER,U.S. President,,REP,Bill Weld,1,1,0,0,0
+Crittenden,MT. OLIVE BAPTIST CHURCH,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Crittenden,CALVARY BAPTIST CHURCH,U.S. President,,REP,Bill Weld,1,0,1,0,0
+Crittenden,7TH STREET CHURCH OF CHRIST,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Crittenden,PILGRIM REST CHURCH,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Crittenden,WONDER BOYS CLUB,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Crittenden,HEAFER,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Crittenden,EDMONDSON,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Crittenden,GILMORE,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Crittenden,WR GOLDEN,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Crittenden,EARLE CITY HALL,U.S. President,,REP,Bill Weld,1,0,1,0,0
+Crittenden,ST LUKE CHURCH,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Crittenden,CRAWFORDSVILLE,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Crittenden,MT PISGAH CHURCH,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Crittenden,MARION CHURCH OF GOD,U.S. President,,REP,Bill Weld,5,0,1,4,0
+Crittenden,COUNTY OFFICE BLDG.,U.S. President,,REP,Bill Weld,4,0,1,3,0
+Crittenden,IMMANUEL BAPTIST CHURCH,U.S. President,,REP,Bill Weld,5,0,2,3,0
+Crittenden,BONDS MARINE,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Crittenden,HORSESHOE LAKE CITY HALL,U.S. President,,REP,Bill Weld,1,0,1,0,0
+Crittenden,JERICHO CITY HALL,U.S. President,,REP,Bill Weld,1,0,0,1,0
+Crittenden,ANTHONYVILLE CITY HALL,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Crittenden,JENNETTE CITY HALL,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Crittenden,WEST MPH 1ST BAPT CHURCH,U.S. President,,REP,Bill Weld,0,0,0,0,0
+Crittenden,WM HIGH SCHOOL,U.S. President,,REP,Donald J. Trump,283,4,99,180,0
+Crittenden,CIVIC CENTER,U.S. President,,REP,Donald J. Trump,61,7,21,33,0
+Crittenden,MT. OLIVE BAPTIST CHURCH,U.S. President,,REP,Donald J. Trump,0,0,0,0,0
+Crittenden,CALVARY BAPTIST CHURCH,U.S. President,,REP,Donald J. Trump,49,0,27,22,0
+Crittenden,7TH STREET CHURCH OF CHRIST,U.S. President,,REP,Donald J. Trump,3,0,0,3,0
+Crittenden,PILGRIM REST CHURCH,U.S. President,,REP,Donald J. Trump,0,0,0,0,0
+Crittenden,WONDER BOYS CLUB,U.S. President,,REP,Donald J. Trump,17,0,3,14,0
+Crittenden,HEAFER,U.S. President,,REP,Donald J. Trump,16,0,11,5,0
+Crittenden,EDMONDSON,U.S. President,,REP,Donald J. Trump,27,2,15,10,0
+Crittenden,GILMORE,U.S. President,,REP,Donald J. Trump,4,0,4,0,0
+Crittenden,WR GOLDEN,U.S. President,,REP,Donald J. Trump,1,0,1,0,0
+Crittenden,EARLE CITY HALL,U.S. President,,REP,Donald J. Trump,27,2,18,7,0
+Crittenden,ST LUKE CHURCH,U.S. President,,REP,Donald J. Trump,2,0,2,0,0
+Crittenden,CRAWFORDSVILLE,U.S. President,,REP,Donald J. Trump,76,0,56,20,0
+Crittenden,MT PISGAH CHURCH,U.S. President,,REP,Donald J. Trump,0,0,0,0,0
+Crittenden,MARION CHURCH OF GOD,U.S. President,,REP,Donald J. Trump,240,2,84,154,0
+Crittenden,COUNTY OFFICE BLDG.,U.S. President,,REP,Donald J. Trump,382,1,157,224,0
+Crittenden,IMMANUEL BAPTIST CHURCH,U.S. President,,REP,Donald J. Trump,133,0,56,77,0
+Crittenden,BONDS MARINE,U.S. President,,REP,Donald J. Trump,28,0,24,4,0
+Crittenden,HORSESHOE LAKE CITY HALL,U.S. President,,REP,Donald J. Trump,36,0,29,7,0
+Crittenden,JERICHO CITY HALL,U.S. President,,REP,Donald J. Trump,42,0,15,27,0
+Crittenden,ANTHONYVILLE CITY HALL,U.S. President,,REP,Donald J. Trump,0,0,0,0,0
+Crittenden,JENNETTE CITY HALL,U.S. President,,REP,Donald J. Trump,0,0,0,0,0
+Crittenden,WEST MPH 1ST BAPT CHURCH,U.S. President,,REP,Donald J. Trump,180,0,87,93,0
+Crittenden,WM HIGH SCHOOL,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,361,5,154,202,0
+Crittenden,CIVIC CENTER,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,157,10,98,49,0
+Crittenden,MT. OLIVE BAPTIST CHURCH,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,38,0,28,10,0
+Crittenden,CALVARY BAPTIST CHURCH,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,56,0,35,21,0
+Crittenden,7TH STREET CHURCH OF CHRIST,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,76,0,59,17,0
+Crittenden,PILGRIM REST CHURCH,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,28,0,24,4,0
+Crittenden,WONDER BOYS CLUB,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,34,0,13,21,0
+Crittenden,HEAFER,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,24,0,20,4,0
+Crittenden,EDMONDSON,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,31,0,23,8,0
+Crittenden,GILMORE,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,16,0,15,1,0
+Crittenden,WR GOLDEN,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,39,0,39,0,0
+Crittenden,EARLE CITY HALL,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,57,0,49,8,0
+Crittenden,ST LUKE CHURCH,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,19,0,18,1,0
+Crittenden,CRAWFORDSVILLE,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,97,0,79,18,0
+Crittenden,MT PISGAH CHURCH,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,0,0,0,0,0
+Crittenden,MARION CHURCH OF GOD,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,253,1,104,148,0
+Crittenden,COUNTY OFFICE BLDG.,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,426,0,195,231,0
+Crittenden,IMMANUEL BAPTIST CHURCH,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,172,0,94,77,1
+Crittenden,BONDS MARINE,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,27,0,21,6,0
+Crittenden,HORSESHOE LAKE CITY HALL,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,35,0,28,7,0
+Crittenden,JERICHO CITY HALL,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,55,0,27,28,0
+Crittenden,ANTHONYVILLE CITY HALL,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,10,0,10,0,0
+Crittenden,JENNETTE CITY HALL,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,0,0,0,0,0
+Crittenden,WEST MPH 1ST BAPT CHURCH,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,192,2,92,97,1
+Crittenden,WM HIGH SCHOOL,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,270,2,133,134,1
+Crittenden,CIVIC CENTER,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,233,9,157,67,0
+Crittenden,MT. OLIVE BAPTIST CHURCH,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,69,1,55,13,0
+Crittenden,CALVARY BAPTIST CHURCH,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,58,0,41,17,0
+Crittenden,7TH STREET CHURCH OF CHRIST,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,120,4,98,18,0
+Crittenden,PILGRIM REST CHURCH,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,61,0,55,6,0
+Crittenden,WONDER BOYS CLUB,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,49,0,35,14,0
+Crittenden,HEAFER,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,14,0,10,4,0
+Crittenden,EDMONDSON,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,35,0,30,5,0
+Crittenden,GILMORE,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,16,0,16,0,0
+Crittenden,WR GOLDEN,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,46,0,40,6,0
+Crittenden,EARLE CITY HALL,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,57,3,49,5,0
+Crittenden,ST LUKE CHURCH,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,31,0,30,1,0
+Crittenden,CRAWFORDSVILLE,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,70,0,58,12,0
+Crittenden,MT PISGAH CHURCH,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,0,0,0,0,0
+Crittenden,MARION CHURCH OF GOD,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,207,2,91,114,0
+Crittenden,COUNTY OFFICE BLDG.,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,346,1,161,184,0
+Crittenden,IMMANUEL BAPTIST CHURCH,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,234,0,134,100,0
+Crittenden,BONDS MARINE,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,20,0,20,0,0
+Crittenden,HORSESHOE LAKE CITY HALL,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,17,0,16,1,0
+Crittenden,JERICHO CITY HALL,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,19,1,9,9,0
+Crittenden,ANTHONYVILLE CITY HALL,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,19,0,18,1,0
+Crittenden,JENNETTE CITY HALL,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,0,0,0,0,0
+Crittenden,WEST MPH 1ST BAPT CHURCH,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,145,1,81,63,0
+Crittenden,WM HIGH SCHOOL,Circuit Judge,"2, Division 5, At Large",,Tom Young,497,6,220,270,1
+Crittenden,CIVIC CENTER,Circuit Judge,"2, Division 5, At Large",,Tom Young,267,15,174,78,0
+Crittenden,MT. OLIVE BAPTIST CHURCH,Circuit Judge,"2, Division 5, At Large",,Tom Young,56,1,45,10,0
+Crittenden,CALVARY BAPTIST CHURCH,Circuit Judge,"2, Division 5, At Large",,Tom Young,93,0,61,32,0
+Crittenden,7TH STREET CHURCH OF CHRIST,Circuit Judge,"2, Division 5, At Large",,Tom Young,138,1,111,26,0
+Crittenden,PILGRIM REST CHURCH,Circuit Judge,"2, Division 5, At Large",,Tom Young,44,1,35,8,0
+Crittenden,WONDER BOYS CLUB,Circuit Judge,"2, Division 5, At Large",,Tom Young,45,0,21,24,0
+Crittenden,HEAFER,Circuit Judge,"2, Division 5, At Large",,Tom Young,31,0,25,6,0
+Crittenden,EDMONDSON,Circuit Judge,"2, Division 5, At Large",,Tom Young,40,2,29,9,0
+Crittenden,GILMORE,Circuit Judge,"2, Division 5, At Large",,Tom Young,20,0,19,1,0
+Crittenden,WR GOLDEN,Circuit Judge,"2, Division 5, At Large",,Tom Young,72,0,68,4,0
+Crittenden,EARLE CITY HALL,Circuit Judge,"2, Division 5, At Large",,Tom Young,66,2,53,11,0
+Crittenden,ST LUKE CHURCH,Circuit Judge,"2, Division 5, At Large",,Tom Young,35,0,33,2,0
+Crittenden,CRAWFORDSVILLE,Circuit Judge,"2, Division 5, At Large",,Tom Young,126,0,105,21,0
+Crittenden,MT PISGAH CHURCH,Circuit Judge,"2, Division 5, At Large",,Tom Young,0,0,0,0,0
+Crittenden,MARION CHURCH OF GOD,Circuit Judge,"2, Division 5, At Large",,Tom Young,358,2,154,202,0
+Crittenden,COUNTY OFFICE BLDG.,Circuit Judge,"2, Division 5, At Large",,Tom Young,604,1,265,338,0
+Crittenden,IMMANUEL BAPTIST CHURCH,Circuit Judge,"2, Division 5, At Large",,Tom Young,289,0,154,134,1
+Crittenden,BONDS MARINE,Circuit Judge,"2, Division 5, At Large",,Tom Young,38,0,33,5,0
+Crittenden,HORSESHOE LAKE CITY HALL,Circuit Judge,"2, Division 5, At Large",,Tom Young,39,0,34,5,0
+Crittenden,JERICHO CITY HALL,Circuit Judge,"2, Division 5, At Large",,Tom Young,54,0,25,29,0
+Crittenden,ANTHONYVILLE CITY HALL,Circuit Judge,"2, Division 5, At Large",,Tom Young,18,0,17,1,0
+Crittenden,JENNETTE CITY HALL,Circuit Judge,"2, Division 5, At Large",,Tom Young,0,0,0,0,0
+Crittenden,WEST MPH 1ST BAPT CHURCH,Circuit Judge,"2, Division 5, At Large",,Tom Young,266,3,135,127,1
+Crittenden,WM HIGH SCHOOL,Circuit Judge,"2, Division 5, At Large",,Skip Mooney Jr.,156,1,78,77,0
+Crittenden,CIVIC CENTER,Circuit Judge,"2, Division 5, At Large",,Skip Mooney Jr.,142,7,89,46,0
+Crittenden,MT. OLIVE BAPTIST CHURCH,Circuit Judge,"2, Division 5, At Large",,Skip Mooney Jr.,48,0,34,14,0
+Crittenden,CALVARY BAPTIST CHURCH,Circuit Judge,"2, Division 5, At Large",,Skip Mooney Jr.,24,0,18,6,0
+Crittenden,7TH STREET CHURCH OF CHRIST,Circuit Judge,"2, Division 5, At Large",,Skip Mooney Jr.,61,3,49,9,0
+Crittenden,PILGRIM REST CHURCH,Circuit Judge,"2, Division 5, At Large",,Skip Mooney Jr.,51,0,47,4,0
+Crittenden,WONDER BOYS CLUB,Circuit Judge,"2, Division 5, At Large",,Skip Mooney Jr.,37,0,22,15,0
+Crittenden,HEAFER,Circuit Judge,"2, Division 5, At Large",,Skip Mooney Jr.,9,0,6,3,0
+Crittenden,EDMONDSON,Circuit Judge,"2, Division 5, At Large",,Skip Mooney Jr.,26,0,21,5,0
+Crittenden,GILMORE,Circuit Judge,"2, Division 5, At Large",,Skip Mooney Jr.,10,0,10,0,0
+Crittenden,WR GOLDEN,Circuit Judge,"2, Division 5, At Large",,Skip Mooney Jr.,11,0,10,1,0
+Crittenden,EARLE CITY HALL,Circuit Judge,"2, Division 5, At Large",,Skip Mooney Jr.,46,1,42,3,0
+Crittenden,ST LUKE CHURCH,Circuit Judge,"2, Division 5, At Large",,Skip Mooney Jr.,11,0,11,0,0
+Crittenden,CRAWFORDSVILLE,Circuit Judge,"2, Division 5, At Large",,Skip Mooney Jr.,43,0,33,10,0
+Crittenden,MT PISGAH CHURCH,Circuit Judge,"2, Division 5, At Large",,Skip Mooney Jr.,0,0,0,0,0
+Crittenden,MARION CHURCH OF GOD,Circuit Judge,"2, Division 5, At Large",,Skip Mooney Jr.,108,1,41,66,0
+Crittenden,COUNTY OFFICE BLDG.,Circuit Judge,"2, Division 5, At Large",,Skip Mooney Jr.,200,0,104,96,0
+Crittenden,IMMANUEL BAPTIST CHURCH,Circuit Judge,"2, Division 5, At Large",,Skip Mooney Jr.,116,0,70,46,0
+Crittenden,BONDS MARINE,Circuit Judge,"2, Division 5, At Large",,Skip Mooney Jr.,10,0,9,1,0
+Crittenden,HORSESHOE LAKE CITY HALL,Circuit Judge,"2, Division 5, At Large",,Skip Mooney Jr.,13,0,10,3,0
+Crittenden,JERICHO CITY HALL,Circuit Judge,"2, Division 5, At Large",,Skip Mooney Jr.,18,0,10,8,0
+Crittenden,ANTHONYVILLE CITY HALL,Circuit Judge,"2, Division 5, At Large",,Skip Mooney Jr.,9,0,9,0,0
+Crittenden,JENNETTE CITY HALL,Circuit Judge,"2, Division 5, At Large",,Skip Mooney Jr.,0,0,0,0,0
+Crittenden,WEST MPH 1ST BAPT CHURCH,Circuit Judge,"2, Division 5, At Large",,Skip Mooney Jr.,89,0,48,41,0
+Crittenden,WM HIGH SCHOOL,Circuit Judge,"2, Division 7, At Large",,R. Scott Troutt,324,4,153,166,1
+Crittenden,CIVIC CENTER,Circuit Judge,"2, Division 7, At Large",,R. Scott Troutt,134,12,74,48,0
+Crittenden,MT. OLIVE BAPTIST CHURCH,Circuit Judge,"2, Division 7, At Large",,R. Scott Troutt,33,0,25,8,0
+Crittenden,CALVARY BAPTIST CHURCH,Circuit Judge,"2, Division 7, At Large",,R. Scott Troutt,66,0,44,22,0
+Crittenden,7TH STREET CHURCH OF CHRIST,Circuit Judge,"2, Division 7, At Large",,R. Scott Troutt,62,2,47,13,0
+Crittenden,PILGRIM REST CHURCH,Circuit Judge,"2, Division 7, At Large",,R. Scott Troutt,23,0,20,3,0
+Crittenden,WONDER BOYS CLUB,Circuit Judge,"2, Division 7, At Large",,R. Scott Troutt,30,0,13,17,0
+Crittenden,HEAFER,Circuit Judge,"2, Division 7, At Large",,R. Scott Troutt,31,0,24,7,0
+Crittenden,EDMONDSON,Circuit Judge,"2, Division 7, At Large",,R. Scott Troutt,36,1,28,7,0
+Crittenden,GILMORE,Circuit Judge,"2, Division 7, At Large",,R. Scott Troutt,16,0,15,1,0
+Crittenden,WR GOLDEN,Circuit Judge,"2, Division 7, At Large",,R. Scott Troutt,48,0,45,3,0
+Crittenden,EARLE CITY HALL,Circuit Judge,"2, Division 7, At Large",,R. Scott Troutt,63,3,53,7,0
+Crittenden,ST LUKE CHURCH,Circuit Judge,"2, Division 7, At Large",,R. Scott Troutt,14,0,14,0,0
+Crittenden,CRAWFORDSVILLE,Circuit Judge,"2, Division 7, At Large",,R. Scott Troutt,100,0,77,23,0
+Crittenden,MT PISGAH CHURCH,Circuit Judge,"2, Division 7, At Large",,R. Scott Troutt,0,0,0,0,0
+Crittenden,MARION CHURCH OF GOD,Circuit Judge,"2, Division 7, At Large",,R. Scott Troutt,220,0,98,122,0
+Crittenden,COUNTY OFFICE BLDG.,Circuit Judge,"2, Division 7, At Large",,R. Scott Troutt,383,0,195,188,0
+Crittenden,IMMANUEL BAPTIST CHURCH,Circuit Judge,"2, Division 7, At Large",,R. Scott Troutt,176,0,88,87,1
+Crittenden,BONDS MARINE,Circuit Judge,"2, Division 7, At Large",,R. Scott Troutt,25,0,20,5,0
+Crittenden,HORSESHOE LAKE CITY HALL,Circuit Judge,"2, Division 7, At Large",,R. Scott Troutt,28,0,24,4,0
+Crittenden,JERICHO CITY HALL,Circuit Judge,"2, Division 7, At Large",,R. Scott Troutt,44,0,18,26,0
+Crittenden,ANTHONYVILLE CITY HALL,Circuit Judge,"2, Division 7, At Large",,R. Scott Troutt,11,0,11,0,0
+Crittenden,JENNETTE CITY HALL,Circuit Judge,"2, Division 7, At Large",,R. Scott Troutt,0,0,0,0,0
+Crittenden,WEST MPH 1ST BAPT CHURCH,Circuit Judge,"2, Division 7, At Large",,R. Scott Troutt,180,0,89,90,1
+Crittenden,WM HIGH SCHOOL,Circuit Judge,"2, Division 7, At Large",,Mary Lile Broadaway,309,3,131,175,0
+Crittenden,CIVIC CENTER,Circuit Judge,"2, Division 7, At Large",,Mary Lile Broadaway,262,6,183,73,0
+Crittenden,MT. OLIVE BAPTIST CHURCH,Circuit Judge,"2, Division 7, At Large",,Mary Lile Broadaway,68,1,53,14,0
+Crittenden,CALVARY BAPTIST CHURCH,Circuit Judge,"2, Division 7, At Large",,Mary Lile Broadaway,48,0,32,16,0
+Crittenden,7TH STREET CHURCH OF CHRIST,Circuit Judge,"2, Division 7, At Large",,Mary Lile Broadaway,134,2,107,25,0
+Crittenden,PILGRIM REST CHURCH,Circuit Judge,"2, Division 7, At Large",,Mary Lile Broadaway,67,0,59,8,0
+Crittenden,WONDER BOYS CLUB,Circuit Judge,"2, Division 7, At Large",,Mary Lile Broadaway,51,0,30,21,0
+Crittenden,HEAFER,Circuit Judge,"2, Division 7, At Large",,Mary Lile Broadaway,6,0,5,1,0
+Crittenden,EDMONDSON,Circuit Judge,"2, Division 7, At Large",,Mary Lile Broadaway,28,0,22,6,0
+Crittenden,GILMORE,Circuit Judge,"2, Division 7, At Large",,Mary Lile Broadaway,12,0,12,0,0
+Crittenden,WR GOLDEN,Circuit Judge,"2, Division 7, At Large",,Mary Lile Broadaway,37,0,32,5,0
+Crittenden,EARLE CITY HALL,Circuit Judge,"2, Division 7, At Large",,Mary Lile Broadaway,47,0,42,5,0
+Crittenden,ST LUKE CHURCH,Circuit Judge,"2, Division 7, At Large",,Mary Lile Broadaway,30,0,28,2,0
+Crittenden,CRAWFORDSVILLE,Circuit Judge,"2, Division 7, At Large",,Mary Lile Broadaway,60,0,52,8,0
+Crittenden,MT PISGAH CHURCH,Circuit Judge,"2, Division 7, At Large",,Mary Lile Broadaway,0,0,0,0,0
+Crittenden,MARION CHURCH OF GOD,Circuit Judge,"2, Division 7, At Large",,Mary Lile Broadaway,231,3,91,137,0
+Crittenden,COUNTY OFFICE BLDG.,Circuit Judge,"2, Division 7, At Large",,Mary Lile Broadaway,386,0,156,230,0
+Crittenden,IMMANUEL BAPTIST CHURCH,Circuit Judge,"2, Division 7, At Large",,Mary Lile Broadaway,228,0,136,92,0
+Crittenden,BONDS MARINE,Circuit Judge,"2, Division 7, At Large",,Mary Lile Broadaway,20,0,19,1,0
+Crittenden,HORSESHOE LAKE CITY HALL,Circuit Judge,"2, Division 7, At Large",,Mary Lile Broadaway,26,0,22,4,0
+Crittenden,JERICHO CITY HALL,Circuit Judge,"2, Division 7, At Large",,Mary Lile Broadaway,24,0,15,9,0
+Crittenden,ANTHONYVILLE CITY HALL,Circuit Judge,"2, Division 7, At Large",,Mary Lile Broadaway,18,0,17,1,0
+Crittenden,JENNETTE CITY HALL,Circuit Judge,"2, Division 7, At Large",,Mary Lile Broadaway,0,0,0,0,0
+Crittenden,WEST MPH 1ST BAPT CHURCH,Circuit Judge,"2, Division 7, At Large",,Mary Lile Broadaway,156,3,84,69,0
+Crittenden,WM HIGH SCHOOL,Circuit Judge,"2, Division 8, Subdistrict 2.2",,Matthew Coe,413,5,177,230,1
+Crittenden,CIVIC CENTER,Circuit Judge,"2, Division 8, Subdistrict 2.2",,Matthew Coe,180,12,109,59,0
+Crittenden,CALVARY BAPTIST CHURCH,Circuit Judge,"2, Division 8, Subdistrict 2.2",,Matthew Coe,77,0,46,31,0
+Crittenden,7TH STREET CHURCH OF CHRIST,Circuit Judge,"2, Division 8, Subdistrict 2.2",,Matthew Coe,90,3,59,28,0
+Crittenden,HEAFER,Circuit Judge,"2, Division 8, Subdistrict 2.2",,Matthew Coe,29,0,22,7,0
+Crittenden,EARLE CITY HALL,Circuit Judge,"2, Division 8, Subdistrict 2.2",,Matthew Coe,75,2,62,11,0
+Crittenden,ST LUKE CHURCH,Circuit Judge,"2, Division 8, Subdistrict 2.2",,Matthew Coe,27,0,27,0,0
+Crittenden,CRAWFORDSVILLE,Circuit Judge,"2, Division 8, Subdistrict 2.2",,Matthew Coe,126,0,101,25,0
+Crittenden,MT PISGAH CHURCH,Circuit Judge,"2, Division 8, Subdistrict 2.2",,Matthew Coe,0,0,0,0,0
+Crittenden,MARION CHURCH OF GOD,Circuit Judge,"2, Division 8, Subdistrict 2.2",,Matthew Coe,358,1,140,217,0
+Crittenden,COUNTY OFFICE BLDG.,Circuit Judge,"2, Division 8, Subdistrict 2.2",,Matthew Coe,300,0,113,187,0
+Crittenden,IMMANUEL BAPTIST CHURCH,Circuit Judge,"2, Division 8, Subdistrict 2.2",,Matthew Coe,244,0,117,127,0
+Crittenden,JENNETTE CITY HALL,Circuit Judge,"2, Division 8, Subdistrict 2.2",,Matthew Coe,0,0,0,0,0
+Crittenden,WEST MPH 1ST BAPT CHURCH,Circuit Judge,"2, Division 8, Subdistrict 2.2",,Matthew Coe,294,4,142,148,0
+Crittenden,WM HIGH SCHOOL,Circuit Judge,"2, Division 8, Subdistrict 2.2",,Kimberly Boling Bibb,124,0,64,60,0
+Crittenden,CIVIC CENTER,Circuit Judge,"2, Division 8, Subdistrict 2.2",,Kimberly Boling Bibb,112,8,77,27,0
+Crittenden,CALVARY BAPTIST CHURCH,Circuit Judge,"2, Division 8, Subdistrict 2.2",,Kimberly Boling Bibb,41,0,33,8,0
+Crittenden,7TH STREET CHURCH OF CHRIST,Circuit Judge,"2, Division 8, Subdistrict 2.2",,Kimberly Boling Bibb,81,1,70,10,0
+Crittenden,HEAFER,Circuit Judge,"2, Division 8, Subdistrict 2.2",,Kimberly Boling Bibb,10,0,8,2,0
+Crittenden,EARLE CITY HALL,Circuit Judge,"2, Division 8, Subdistrict 2.2",,Kimberly Boling Bibb,39,1,35,3,0
+Crittenden,ST LUKE CHURCH,Circuit Judge,"2, Division 8, Subdistrict 2.2",,Kimberly Boling Bibb,23,0,21,2,0
+Crittenden,CRAWFORDSVILLE,Circuit Judge,"2, Division 8, Subdistrict 2.2",,Kimberly Boling Bibb,40,0,33,7,0
+Crittenden,MT PISGAH CHURCH,Circuit Judge,"2, Division 8, Subdistrict 2.2",,Kimberly Boling Bibb,0,0,0,0,0
+Crittenden,MARION CHURCH OF GOD,Circuit Judge,"2, Division 8, Subdistrict 2.2",,Kimberly Boling Bibb,109,2,57,50,0
+Crittenden,COUNTY OFFICE BLDG.,Circuit Judge,"2, Division 8, Subdistrict 2.2",,Kimberly Boling Bibb,73,0,45,28,0
+Crittenden,IMMANUEL BAPTIST CHURCH,Circuit Judge,"2, Division 8, Subdistrict 2.2",,Kimberly Boling Bibb,161,0,106,54,1
+Crittenden,JENNETTE CITY HALL,Circuit Judge,"2, Division 8, Subdistrict 2.2",,Kimberly Boling Bibb,0,0,0,0,0
+Crittenden,WEST MPH 1ST BAPT CHURCH,Circuit Judge,"2, Division 8, Subdistrict 2.2",,Kimberly Boling Bibb,67,0,42,24,1
+Crittenden,WM HIGH SCHOOL,Circuit Judge,"2, Division 12",,Scott Willhite,295,3,143,148,1
+Crittenden,CIVIC CENTER,Circuit Judge,"2, Division 12",,Scott Willhite,159,12,107,40,0
+Crittenden,MT. OLIVE BAPTIST CHURCH,Circuit Judge,"2, Division 12",,Scott Willhite,41,1,29,11,0
+Crittenden,CALVARY BAPTIST CHURCH,Circuit Judge,"2, Division 12",,Scott Willhite,49,0,38,11,0
+Crittenden,7TH STREET CHURCH OF CHRIST,Circuit Judge,"2, Division 12",,Scott Willhite,85,1,69,15,0
+Crittenden,PILGRIM REST CHURCH,Circuit Judge,"2, Division 12",,Scott Willhite,36,0,30,6,0
+Crittenden,WONDER BOYS CLUB,Circuit Judge,"2, Division 12",,Scott Willhite,40,0,19,21,0
+Crittenden,HEAFER,Circuit Judge,"2, Division 12",,Scott Willhite,14,0,9,5,0
+Crittenden,EDMONDSON,Circuit Judge,"2, Division 12",,Scott Willhite,36,0,28,8,0
+Crittenden,GILMORE,Circuit Judge,"2, Division 12",,Scott Willhite,11,0,11,0,0
+Crittenden,WR GOLDEN,Circuit Judge,"2, Division 12",,Scott Willhite,28,0,27,1,0
+Crittenden,EARLE CITY HALL,Circuit Judge,"2, Division 12",,Scott Willhite,49,1,41,7,0
+Crittenden,ST LUKE CHURCH,Circuit Judge,"2, Division 12",,Scott Willhite,15,0,14,1,0
+Crittenden,CRAWFORDSVILLE,Circuit Judge,"2, Division 12",,Scott Willhite,69,0,60,9,0
+Crittenden,MT PISGAH CHURCH,Circuit Judge,"2, Division 12",,Scott Willhite,0,0,0,0,0
+Crittenden,MARION CHURCH OF GOD,Circuit Judge,"2, Division 12",,Scott Willhite,215,1,92,122,0
+Crittenden,COUNTY OFFICE BLDG.,Circuit Judge,"2, Division 12",,Scott Willhite,397,0,179,218,0
+Crittenden,IMMANUEL BAPTIST CHURCH,Circuit Judge,"2, Division 12",,Scott Willhite,176,0,94,82,0
+Crittenden,BONDS MARINE,Circuit Judge,"2, Division 12",,Scott Willhite,21,0,18,3,0
+Crittenden,HORSESHOE LAKE CITY HALL,Circuit Judge,"2, Division 12",,Scott Willhite,28,0,25,3,0
+Crittenden,JERICHO CITY HALL,Circuit Judge,"2, Division 12",,Scott Willhite,33,0,12,21,0
+Crittenden,ANTHONYVILLE CITY HALL,Circuit Judge,"2, Division 12",,Scott Willhite,8,0,8,0,0
+Crittenden,JENNETTE CITY HALL,Circuit Judge,"2, Division 12",,Scott Willhite,0,0,0,0,0
+Crittenden,WEST MPH 1ST BAPT CHURCH,Circuit Judge,"2, Division 12",,Scott Willhite,143,1,73,68,1
+Crittenden,WM HIGH SCHOOL,Circuit Judge,"2, Division 12",,Prosecuting Attorney Scott Ellington,352,3,147,202,0
+Crittenden,CIVIC CENTER,Circuit Judge,"2, Division 12",,Prosecuting Attorney Scott Ellington,232,9,147,76,0
+Crittenden,MT. OLIVE BAPTIST CHURCH,Circuit Judge,"2, Division 12",,Prosecuting Attorney Scott Ellington,55,0,43,12,0
+Crittenden,CALVARY BAPTIST CHURCH,Circuit Judge,"2, Division 12",,Prosecuting Attorney Scott Ellington,65,0,39,26,0
+Crittenden,7TH STREET CHURCH OF CHRIST,Circuit Judge,"2, Division 12",,Prosecuting Attorney Scott Ellington,115,3,86,26,0
+Crittenden,PILGRIM REST CHURCH,Circuit Judge,"2, Division 12",,Prosecuting Attorney Scott Ellington,52,0,48,4,0
+Crittenden,WONDER BOYS CLUB,Circuit Judge,"2, Division 12",,Prosecuting Attorney Scott Ellington,42,0,25,17,0
+Crittenden,HEAFER,Circuit Judge,"2, Division 12",,Prosecuting Attorney Scott Ellington,24,0,21,3,0
+Crittenden,EDMONDSON,Circuit Judge,"2, Division 12",,Prosecuting Attorney Scott Ellington,31,2,23,6,0
+Crittenden,GILMORE,Circuit Judge,"2, Division 12",,Prosecuting Attorney Scott Ellington,19,0,18,1,0
+Crittenden,WR GOLDEN,Circuit Judge,"2, Division 12",,Prosecuting Attorney Scott Ellington,57,0,50,7,0
+Crittenden,EARLE CITY HALL,Circuit Judge,"2, Division 12",,Prosecuting Attorney Scott Ellington,61,2,53,6,0
+Crittenden,ST LUKE CHURCH,Circuit Judge,"2, Division 12",,Prosecuting Attorney Scott Ellington,31,0,30,1,0
+Crittenden,CRAWFORDSVILLE,Circuit Judge,"2, Division 12",,Prosecuting Attorney Scott Ellington,91,0,68,23,0
+Crittenden,MT PISGAH CHURCH,Circuit Judge,"2, Division 12",,Prosecuting Attorney Scott Ellington,0,0,0,0,0
+Crittenden,MARION CHURCH OF GOD,Circuit Judge,"2, Division 12",,Prosecuting Attorney Scott Ellington,242,2,98,142,0
+Crittenden,COUNTY OFFICE BLDG.,Circuit Judge,"2, Division 12",,Prosecuting Attorney Scott Ellington,377,0,176,201,0
+Crittenden,IMMANUEL BAPTIST CHURCH,Circuit Judge,"2, Division 12",,Prosecuting Attorney Scott Ellington,226,0,127,98,1
+Crittenden,BONDS MARINE,Circuit Judge,"2, Division 12",,Prosecuting Attorney Scott Ellington,27,0,24,3,0
+Crittenden,HORSESHOE LAKE CITY HALL,Circuit Judge,"2, Division 12",,Prosecuting Attorney Scott Ellington,23,0,18,5,0
+Crittenden,JERICHO CITY HALL,Circuit Judge,"2, Division 12",,Prosecuting Attorney Scott Ellington,36,0,22,14,0
+Crittenden,ANTHONYVILLE CITY HALL,Circuit Judge,"2, Division 12",,Prosecuting Attorney Scott Ellington,21,0,20,1,0
+Crittenden,JENNETTE CITY HALL,Circuit Judge,"2, Division 12",,Prosecuting Attorney Scott Ellington,0,0,0,0,0
+Crittenden,WEST MPH 1ST BAPT CHURCH,Circuit Judge,"2, Division 12",,Prosecuting Attorney Scott Ellington,204,3,104,97,0

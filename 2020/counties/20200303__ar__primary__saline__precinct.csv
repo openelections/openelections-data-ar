@@ -1,0 +1,1303 @@
+county,precinct,office,district,party,candidate,votes,absentee,early_vote,election_day
+Saline,Precinct 01,U.S. President,,REP,Bill Weld,11,0,3,8
+Saline,Precinct 02,U.S. President,,REP,Bill Weld,11,0,8,3
+Saline,Precinct 03,U.S. President,,REP,Bill Weld,10,0,7,3
+Saline,Precinct 04,U.S. President,,REP,Bill Weld,4,0,2,2
+Saline,Precinct 05,U.S. President,,REP,Bill Weld,11,0,8,3
+Saline,Precinct 06,U.S. President,,REP,Bill Weld,9,0,6,3
+Saline,Precinct 07,U.S. President,,REP,Bill Weld,5,1,0,4
+Saline,Precinct 08,U.S. President,,REP,Bill Weld,1,0,1,0
+Saline,Precinct 09,U.S. President,,REP,Bill Weld,4,0,3,1
+Saline,Precinct 10,U.S. President,,REP,Bill Weld,14,0,10,4
+Saline,Precinct 11,U.S. President,,REP,Bill Weld,23,0,17,6
+Saline,Precinct 12,U.S. President,,REP,Bill Weld,10,0,8,2
+Saline,Precinct 13,U.S. President,,REP,Bill Weld,22,0,14,8
+Saline,Precinct 14,U.S. President,,REP,Bill Weld,8,0,2,6
+Saline,Precinct 15,U.S. President,,REP,Bill Weld,10,1,8,1
+Saline,Precinct 16,U.S. President,,REP,Bill Weld,8,0,6,2
+Saline,Precinct 17,U.S. President,,REP,Bill Weld,11,0,5,6
+Saline,Precinct 18,U.S. President,,REP,Bill Weld,1,0,1,0
+Saline,Precinct 19,U.S. President,,REP,Bill Weld,2,0,0,2
+Saline,Precinct 20,U.S. President,,REP,Bill Weld,6,0,3,3
+Saline,Precinct 21,U.S. President,,REP,Bill Weld,2,0,1,1
+Saline,Precinct 22,U.S. President,,REP,Bill Weld,6,0,1,5
+Saline,Precinct 23,U.S. President,,REP,Bill Weld,1,0,0,1
+Saline,Precinct 24,U.S. President,,REP,Bill Weld,6,0,2,4
+Saline,Precinct 25,U.S. President,,REP,Bill Weld,7,0,3,4
+Saline,Precinct 26,U.S. President,,REP,Bill Weld,3,0,2,1
+Saline,Precinct 27,U.S. President,,REP,Bill Weld,10,0,6,4
+Saline,Precinct 28,U.S. President,,REP,Bill Weld,6,0,2,4
+Saline,Precinct 29,U.S. President,,REP,Bill Weld,2,0,2,0
+Saline,Precinct 30,U.S. President,,REP,Bill Weld,0,0,0,0
+Saline,Precinct 31,U.S. President,,REP,Bill Weld,10,0,4,6
+Saline,Precinct 32,U.S. President,,REP,Bill Weld,5,0,1,4
+Saline,Precinct 33,U.S. President,,REP,Bill Weld,3,0,2,1
+Saline,Precinct 34,U.S. President,,REP,Bill Weld,1,0,0,1
+Saline,Precinct 35,U.S. President,,REP,Bill Weld,15,1,6,8
+Saline,Precinct 36,U.S. President,,REP,Bill Weld,2,0,2,0
+Saline,Precinct 37,U.S. President,,REP,Bill Weld,8,0,2,6
+Saline,Precinct 38,U.S. President,,REP,Bill Weld,7,0,5,2
+Saline,Precinct 39,U.S. President,,REP,Bill Weld,3,0,2,1
+Saline,Precinct 40,U.S. President,,REP,Bill Weld,7,0,3,4
+Saline,Precinct 41,U.S. President,,REP,Bill Weld,6,0,4,2
+Saline,Precinct 42,U.S. President,,REP,Bill Weld,5,0,3,2
+Saline,Precinct 01,U.S. President,,REP,Roque 'Rocky' De La Fuente,1,0,0,1
+Saline,Precinct 02,U.S. President,,REP,Roque 'Rocky' De La Fuente,5,0,2,3
+Saline,Precinct 03,U.S. President,,REP,Roque 'Rocky' De La Fuente,1,0,1,0
+Saline,Precinct 04,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0
+Saline,Precinct 05,U.S. President,,REP,Roque 'Rocky' De La Fuente,9,0,7,2
+Saline,Precinct 06,U.S. President,,REP,Roque 'Rocky' De La Fuente,5,0,3,2
+Saline,Precinct 07,U.S. President,,REP,Roque 'Rocky' De La Fuente,1,0,1,0
+Saline,Precinct 08,U.S. President,,REP,Roque 'Rocky' De La Fuente,2,0,2,0
+Saline,Precinct 09,U.S. President,,REP,Roque 'Rocky' De La Fuente,1,0,1,0
+Saline,Precinct 10,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0
+Saline,Precinct 11,U.S. President,,REP,Roque 'Rocky' De La Fuente,5,0,2,3
+Saline,Precinct 12,U.S. President,,REP,Roque 'Rocky' De La Fuente,3,0,3,0
+Saline,Precinct 13,U.S. President,,REP,Roque 'Rocky' De La Fuente,4,0,1,3
+Saline,Precinct 14,U.S. President,,REP,Roque 'Rocky' De La Fuente,2,0,1,1
+Saline,Precinct 15,U.S. President,,REP,Roque 'Rocky' De La Fuente,4,0,1,3
+Saline,Precinct 16,U.S. President,,REP,Roque 'Rocky' De La Fuente,7,0,3,4
+Saline,Precinct 17,U.S. President,,REP,Roque 'Rocky' De La Fuente,4,0,4,0
+Saline,Precinct 18,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0
+Saline,Precinct 19,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0
+Saline,Precinct 20,U.S. President,,REP,Roque 'Rocky' De La Fuente,1,0,1,0
+Saline,Precinct 21,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0
+Saline,Precinct 22,U.S. President,,REP,Roque 'Rocky' De La Fuente,1,0,0,1
+Saline,Precinct 23,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0
+Saline,Precinct 24,U.S. President,,REP,Roque 'Rocky' De La Fuente,3,0,1,2
+Saline,Precinct 25,U.S. President,,REP,Roque 'Rocky' De La Fuente,1,0,0,1
+Saline,Precinct 26,U.S. President,,REP,Roque 'Rocky' De La Fuente,3,0,0,3
+Saline,Precinct 27,U.S. President,,REP,Roque 'Rocky' De La Fuente,8,0,6,2
+Saline,Precinct 28,U.S. President,,REP,Roque 'Rocky' De La Fuente,1,0,0,1
+Saline,Precinct 29,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0
+Saline,Precinct 30,U.S. President,,REP,Roque 'Rocky' De La Fuente,1,0,0,1
+Saline,Precinct 31,U.S. President,,REP,Roque 'Rocky' De La Fuente,4,0,2,2
+Saline,Precinct 32,U.S. President,,REP,Roque 'Rocky' De La Fuente,3,0,2,1
+Saline,Precinct 33,U.S. President,,REP,Roque 'Rocky' De La Fuente,1,0,0,1
+Saline,Precinct 34,U.S. President,,REP,Roque 'Rocky' De La Fuente,1,0,0,1
+Saline,Precinct 35,U.S. President,,REP,Roque 'Rocky' De La Fuente,3,0,1,2
+Saline,Precinct 36,U.S. President,,REP,Roque 'Rocky' De La Fuente,1,0,0,1
+Saline,Precinct 37,U.S. President,,REP,Roque 'Rocky' De La Fuente,2,0,1,1
+Saline,Precinct 38,U.S. President,,REP,Roque 'Rocky' De La Fuente,4,0,2,2
+Saline,Precinct 39,U.S. President,,REP,Roque 'Rocky' De La Fuente,0,0,0,0
+Saline,Precinct 40,U.S. President,,REP,Roque 'Rocky' De La Fuente,7,0,4,3
+Saline,Precinct 41,U.S. President,,REP,Roque 'Rocky' De La Fuente,4,0,4,0
+Saline,Precinct 42,U.S. President,,REP,Roque 'Rocky' De La Fuente,4,0,1,3
+Saline,Precinct 01,U.S. President,,REP,Donald J. Trump,779,4,272,503
+Saline,Precinct 02,U.S. President,,REP,Donald J. Trump,702,8,431,263
+Saline,Precinct 03,U.S. President,,REP,Donald J. Trump,309,1,141,167
+Saline,Precinct 04,U.S. President,,REP,Donald J. Trump,240,1,124,115
+Saline,Precinct 05,U.S. President,,REP,Donald J. Trump,478,0,305,173
+Saline,Precinct 06,U.S. President,,REP,Donald J. Trump,463,0,215,248
+Saline,Precinct 07,U.S. President,,REP,Donald J. Trump,266,2,125,139
+Saline,Precinct 08,U.S. President,,REP,Donald J. Trump,185,10,93,82
+Saline,Precinct 09,U.S. President,,REP,Donald J. Trump,461,2,220,239
+Saline,Precinct 10,U.S. President,,REP,Donald J. Trump,397,3,166,228
+Saline,Precinct 11,U.S. President,,REP,Donald J. Trump,359,4,233,122
+Saline,Precinct 12,U.S. President,,REP,Donald J. Trump,179,0,129,50
+Saline,Precinct 13,U.S. President,,REP,Donald J. Trump,572,1,298,273
+Saline,Precinct 14,U.S. President,,REP,Donald J. Trump,341,0,153,188
+Saline,Precinct 15,U.S. President,,REP,Donald J. Trump,438,5,266,167
+Saline,Precinct 16,U.S. President,,REP,Donald J. Trump,499,4,215,280
+Saline,Precinct 17,U.S. President,,REP,Donald J. Trump,364,3,217,144
+Saline,Precinct 18,U.S. President,,REP,Donald J. Trump,27,0,22,5
+Saline,Precinct 19,U.S. President,,REP,Donald J. Trump,192,0,71,121
+Saline,Precinct 20,U.S. President,,REP,Donald J. Trump,400,0,296,104
+Saline,Precinct 21,U.S. President,,REP,Donald J. Trump,74,0,24,50
+Saline,Precinct 22,U.S. President,,REP,Donald J. Trump,262,3,63,196
+Saline,Precinct 23,U.S. President,,REP,Donald J. Trump,126,3,18,105
+Saline,Precinct 24,U.S. President,,REP,Donald J. Trump,462,1,195,266
+Saline,Precinct 25,U.S. President,,REP,Donald J. Trump,359,4,133,222
+Saline,Precinct 26,U.S. President,,REP,Donald J. Trump,151,0,45,106
+Saline,Precinct 27,U.S. President,,REP,Donald J. Trump,664,4,371,289
+Saline,Precinct 28,U.S. President,,REP,Donald J. Trump,266,0,96,170
+Saline,Precinct 29,U.S. President,,REP,Donald J. Trump,137,2,49,86
+Saline,Precinct 30,U.S. President,,REP,Donald J. Trump,107,1,20,86
+Saline,Precinct 31,U.S. President,,REP,Donald J. Trump,409,1,201,207
+Saline,Precinct 32,U.S. President,,REP,Donald J. Trump,304,1,142,161
+Saline,Precinct 33,U.S. President,,REP,Donald J. Trump,206,2,73,131
+Saline,Precinct 34,U.S. President,,REP,Donald J. Trump,74,0,15,59
+Saline,Precinct 35,U.S. President,,REP,Donald J. Trump,570,13,329,228
+Saline,Precinct 36,U.S. President,,REP,Donald J. Trump,229,1,96,132
+Saline,Precinct 37,U.S. President,,REP,Donald J. Trump,404,1,212,191
+Saline,Precinct 38,U.S. President,,REP,Donald J. Trump,362,4,194,164
+Saline,Precinct 39,U.S. President,,REP,Donald J. Trump,132,2,74,56
+Saline,Precinct 40,U.S. President,,REP,Donald J. Trump,349,3,212,134
+Saline,Precinct 41,U.S. President,,REP,Donald J. Trump,299,1,195,103
+Saline,Precinct 42,U.S. President,,REP,Donald J. Trump,438,1,251,186
+Saline,Precinct 03,State Senate District 13,,REP,Senator Alan Clark,256,1,123,132
+Saline,Precinct 10,State Senate District 13,,REP,Senator Alan Clark,304,3,126,175
+Saline,Precinct 11,State Senate District 13,,REP,Senator Alan Clark,150,2,101,47
+Saline,Precinct 12,State Senate District 13,,REP,Senator Alan Clark,40,0,25,15
+Saline,Precinct 16,State Senate District 13,,REP,Senator Alan Clark,397,4,179,214
+Saline,Precinct 18,State Senate District 13,,REP,Senator Alan Clark,24,0,21,3
+Saline,Precinct 28,State Senate District 13,,REP,Senator Alan Clark,218,0,73,145
+Saline,Precinct 29,State Senate District 13,,REP,Senator Alan Clark,109,2,39,68
+Saline,Precinct 30,State Senate District 13,,REP,Senator Alan Clark,82,1,10,71
+Saline,Precinct 31,State Senate District 13,,REP,Senator Alan Clark,311,1,156,154
+Saline,Precinct 03,State Senate District 13,,REP,Jeff Crow,63,0,26,37
+Saline,Precinct 10,State Senate District 13,,REP,Jeff Crow,102,0,45,57
+Saline,Precinct 11,State Senate District 13,,REP,Jeff Crow,54,0,39,15
+Saline,Precinct 12,State Senate District 13,,REP,Jeff Crow,13,0,12,1
+Saline,Precinct 16,State Senate District 13,,REP,Jeff Crow,110,0,41,69
+Saline,Precinct 18,State Senate District 13,,REP,Jeff Crow,4,0,2,2
+Saline,Precinct 28,State Senate District 13,,REP,Jeff Crow,51,0,24,27
+Saline,Precinct 29,State Senate District 13,,REP,Jeff Crow,30,0,12,18
+Saline,Precinct 30,State Senate District 13,,REP,Jeff Crow,23,0,10,13
+Saline,Precinct 31,State Senate District 13,,REP,Jeff Crow,68,0,34,34
+Saline,Precinct 02,State House District 22,,REP,Jack Wells,252,3,152,97
+Saline,Precinct 08,State House District 22,,REP,Jack Wells,8,8,0,0
+Saline,Precinct 23,State House District 22,,REP,Jack Wells,23,0,3,20
+Saline,Precinct 35,State House District 22,,REP,Jack Wells,219,5,123,91
+Saline,Precinct 02,State House District 22,,REP,Richard Alvin Midkiff,67,0,38,29
+Saline,Precinct 08,State House District 22,,REP,Richard Alvin Midkiff,0,0,0,0
+Saline,Precinct 23,State House District 22,,REP,Richard Alvin Midkiff,4,0,1,3
+Saline,Precinct 35,State House District 22,,REP,Richard Alvin Midkiff,43,0,18,25
+Saline,Precinct 02,State House District 22,,REP,Justice of the Peace Richard McGrew,393,4,254,135
+Saline,Precinct 08,State House District 22,,REP,Justice of the Peace Richard McGrew,4,0,2,2
+Saline,Precinct 23,State House District 22,,REP,Justice of the Peace Richard McGrew,96,3,14,79
+Saline,Precinct 35,State House District 22,,REP,Justice of the Peace Richard McGrew,316,10,190,116
+Saline,Precinct 03,State House District 28,,REP,Marietta McClure,42,0,14,28
+Saline,Precinct 10,State House District 28,,REP,Marietta McClure,2,0,2,0
+Saline,Precinct 11,State House District 28,,REP,Marietta McClure,138,1,93,44
+Saline,Precinct 14,State House District 28,,REP,Marietta McClure,13,0,8,5
+Saline,Precinct 15,State House District 28,,REP,Marietta McClure,175,2,95,78
+Saline,Precinct 16,State House District 28,,REP,Marietta McClure,239,2,106,131
+Saline,Precinct 17,State House District 28,,REP,Marietta McClure,130,1,86,43
+Saline,Precinct 18,State House District 28,,REP,Marietta McClure,11,0,8,3
+Saline,Precinct 28,State House District 28,,REP,Marietta McClure,106,0,33,73
+Saline,Precinct 30,State House District 28,,REP,Marietta McClure,48,0,7,41
+Saline,Precinct 31,State House District 28,,REP,Marietta McClure,158,0,86,72
+Saline,Precinct 34,State House District 28,,REP,Marietta McClure,14,0,4,10
+Saline,Precinct 39,State House District 28,,REP,Marietta McClure,11,0,7,4
+Saline,Precinct 40,State House District 28,,REP,Marietta McClure,1,1,0,0
+Saline,Precinct 41,State House District 28,,REP,Marietta McClure,108,1,68,39
+Saline,Precinct 03,State House District 28,,REP,Tony Furman,80,0,43,37
+Saline,Precinct 10,State House District 28,,REP,Tony Furman,0,0,0,0
+Saline,Precinct 11,State House District 28,,REP,Tony Furman,213,2,136,75
+Saline,Precinct 14,State House District 28,,REP,Tony Furman,24,0,17,7
+Saline,Precinct 15,State House District 28,,REP,Tony Furman,278,4,179,95
+Saline,Precinct 16,State House District 28,,REP,Tony Furman,271,2,117,152
+Saline,Precinct 17,State House District 28,,REP,Tony Furman,245,2,140,103
+Saline,Precinct 18,State House District 28,,REP,Tony Furman,17,0,15,2
+Saline,Precinct 28,State House District 28,,REP,Tony Furman,164,0,63,101
+Saline,Precinct 30,State House District 28,,REP,Tony Furman,57,1,13,43
+Saline,Precinct 31,State House District 28,,REP,Tony Furman,268,1,124,143
+Saline,Precinct 34,State House District 28,,REP,Tony Furman,12,0,2,10
+Saline,Precinct 39,State House District 28,,REP,Tony Furman,13,0,9,4
+Saline,Precinct 40,State House District 28,,REP,Tony Furman,8,2,6,0
+Saline,Precinct 41,State House District 28,,REP,Tony Furman,201,0,134,67
+Saline,Precinct 01,State House District 31,,REP,Councilman RJ Hawk,312,1,108,203
+Saline,Precinct 06,State House District 31,,REP,Councilman RJ Hawk,274,0,123,151
+Saline,Precinct 13,State House District 31,,REP,Councilman RJ Hawk,374,0,183,191
+Saline,Precinct 19,State House District 31,,REP,Councilman RJ Hawk,87,0,25,62
+Saline,Precinct 21,State House District 31,,REP,Councilman RJ Hawk,32,0,12,20
+Saline,Precinct 34,State House District 31,,REP,Councilman RJ Hawk,2,0,2,0
+Saline,Precinct 38,State House District 31,,REP,Councilman RJ Hawk,112,0,61,51
+Saline,Precinct 01,State House District 31,,REP,Keith Brooks,475,3,172,300
+Saline,Precinct 06,State House District 31,,REP,Keith Brooks,187,0,94,93
+Saline,Precinct 13,State House District 31,,REP,Keith Brooks,220,1,130,89
+Saline,Precinct 19,State House District 31,,REP,Keith Brooks,104,0,46,58
+Saline,Precinct 21,State House District 31,,REP,Keith Brooks,44,0,13,31
+Saline,Precinct 34,State House District 31,,REP,Keith Brooks,10,0,3,7
+Saline,Precinct 38,State House District 31,,REP,Keith Brooks,103,2,57,44
+Saline,Precinct 01,U.S. President,,DEM,Bernie Sanders,59,0,17,42
+Saline,Precinct 02,U.S. President,,DEM,Bernie Sanders,37,0,20,17
+Saline,Precinct 03,U.S. President,,DEM,Bernie Sanders,24,0,6,18
+Saline,Precinct 04,U.S. President,,DEM,Bernie Sanders,70,0,21,49
+Saline,Precinct 05,U.S. President,,DEM,Bernie Sanders,51,0,25,26
+Saline,Precinct 06,U.S. President,,DEM,Bernie Sanders,48,0,22,26
+Saline,Precinct 07,U.S. President,,DEM,Bernie Sanders,23,0,7,16
+Saline,Precinct 08,U.S. President,,DEM,Bernie Sanders,6,0,3,3
+Saline,Precinct 09,U.S. President,,DEM,Bernie Sanders,45,0,14,31
+Saline,Precinct 10,U.S. President,,DEM,Bernie Sanders,34,0,13,21
+Saline,Precinct 11,U.S. President,,DEM,Bernie Sanders,70,1,29,40
+Saline,Precinct 12,U.S. President,,DEM,Bernie Sanders,38,0,28,10
+Saline,Precinct 13,U.S. President,,DEM,Bernie Sanders,73,1,29,43
+Saline,Precinct 14,U.S. President,,DEM,Bernie Sanders,80,0,24,56
+Saline,Precinct 15,U.S. President,,DEM,Bernie Sanders,53,1,25,27
+Saline,Precinct 16,U.S. President,,DEM,Bernie Sanders,51,1,13,37
+Saline,Precinct 17,U.S. President,,DEM,Bernie Sanders,81,0,56,25
+Saline,Precinct 18,U.S. President,,DEM,Bernie Sanders,10,0,7,3
+Saline,Precinct 19,U.S. President,,DEM,Bernie Sanders,5,0,3,2
+Saline,Precinct 20,U.S. President,,DEM,Bernie Sanders,12,0,10,2
+Saline,Precinct 21,U.S. President,,DEM,Bernie Sanders,9,0,3,6
+Saline,Precinct 22,U.S. President,,DEM,Bernie Sanders,69,0,14,55
+Saline,Precinct 23,U.S. President,,DEM,Bernie Sanders,11,0,6,5
+Saline,Precinct 24,U.S. President,,DEM,Bernie Sanders,53,1,17,35
+Saline,Precinct 25,U.S. President,,DEM,Bernie Sanders,42,0,13,29
+Saline,Precinct 26,U.S. President,,DEM,Bernie Sanders,93,0,26,67
+Saline,Precinct 27,U.S. President,,DEM,Bernie Sanders,83,0,38,45
+Saline,Precinct 28,U.S. President,,DEM,Bernie Sanders,14,0,6,8
+Saline,Precinct 29,U.S. President,,DEM,Bernie Sanders,17,0,4,13
+Saline,Precinct 30,U.S. President,,DEM,Bernie Sanders,8,0,2,6
+Saline,Precinct 31,U.S. President,,DEM,Bernie Sanders,72,0,35,37
+Saline,Precinct 32,U.S. President,,DEM,Bernie Sanders,25,0,5,20
+Saline,Precinct 33,U.S. President,,DEM,Bernie Sanders,40,0,9,31
+Saline,Precinct 34,U.S. President,,DEM,Bernie Sanders,37,0,8,29
+Saline,Precinct 35,U.S. President,,DEM,Bernie Sanders,30,1,15,14
+Saline,Precinct 36,U.S. President,,DEM,Bernie Sanders,40,0,19,21
+Saline,Precinct 37,U.S. President,,DEM,Bernie Sanders,50,0,21,29
+Saline,Precinct 38,U.S. President,,DEM,Bernie Sanders,65,0,18,47
+Saline,Precinct 39,U.S. President,,DEM,Bernie Sanders,42,0,17,25
+Saline,Precinct 40,U.S. President,,DEM,Bernie Sanders,64,0,30,34
+Saline,Precinct 41,U.S. President,,DEM,Bernie Sanders,46,0,20,26
+Saline,Precinct 42,U.S. President,,DEM,Bernie Sanders,34,0,9,25
+Saline,Precinct 01,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Saline,Precinct 02,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Saline,Precinct 03,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Saline,Precinct 04,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Saline,Precinct 05,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Saline,Precinct 06,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Saline,Precinct 07,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Saline,Precinct 08,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Saline,Precinct 09,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Saline,Precinct 10,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Saline,Precinct 11,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Saline,Precinct 12,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Saline,Precinct 13,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Saline,Precinct 14,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Saline,Precinct 15,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Saline,Precinct 16,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Saline,Precinct 17,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Saline,Precinct 18,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Saline,Precinct 19,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Saline,Precinct 20,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Saline,Precinct 21,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Saline,Precinct 22,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Saline,Precinct 23,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Saline,Precinct 24,U.S. President,,DEM,Steve Bullock,1,0,1,0
+Saline,Precinct 25,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Saline,Precinct 26,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Saline,Precinct 27,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Saline,Precinct 28,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Saline,Precinct 29,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Saline,Precinct 30,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Saline,Precinct 31,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Saline,Precinct 32,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Saline,Precinct 33,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Saline,Precinct 34,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Saline,Precinct 35,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Saline,Precinct 36,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Saline,Precinct 37,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Saline,Precinct 38,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Saline,Precinct 39,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Saline,Precinct 40,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Saline,Precinct 41,U.S. President,,DEM,Steve Bullock,1,0,0,1
+Saline,Precinct 42,U.S. President,,DEM,Steve Bullock,0,0,0,0
+Saline,Precinct 01,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Saline,Precinct 02,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Saline,Precinct 03,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Saline,Precinct 04,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Saline,Precinct 05,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Saline,Precinct 06,U.S. President,,DEM,Joe Sestak,1,0,1,0
+Saline,Precinct 07,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Saline,Precinct 08,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Saline,Precinct 09,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Saline,Precinct 10,U.S. President,,DEM,Joe Sestak,1,0,0,1
+Saline,Precinct 11,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Saline,Precinct 12,U.S. President,,DEM,Joe Sestak,1,0,1,0
+Saline,Precinct 13,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Saline,Precinct 14,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Saline,Precinct 15,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Saline,Precinct 16,U.S. President,,DEM,Joe Sestak,1,0,0,1
+Saline,Precinct 17,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Saline,Precinct 18,U.S. President,,DEM,Joe Sestak,2,0,2,0
+Saline,Precinct 19,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Saline,Precinct 20,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Saline,Precinct 21,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Saline,Precinct 22,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Saline,Precinct 23,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Saline,Precinct 24,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Saline,Precinct 25,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Saline,Precinct 26,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Saline,Precinct 27,U.S. President,,DEM,Joe Sestak,1,0,1,0
+Saline,Precinct 28,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Saline,Precinct 29,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Saline,Precinct 30,U.S. President,,DEM,Joe Sestak,1,0,0,1
+Saline,Precinct 31,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Saline,Precinct 32,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Saline,Precinct 33,U.S. President,,DEM,Joe Sestak,1,0,1,0
+Saline,Precinct 34,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Saline,Precinct 35,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Saline,Precinct 36,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Saline,Precinct 37,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Saline,Precinct 38,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Saline,Precinct 39,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Saline,Precinct 40,U.S. President,,DEM,Joe Sestak,1,0,0,1
+Saline,Precinct 41,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Saline,Precinct 42,U.S. President,,DEM,Joe Sestak,0,0,0,0
+Saline,Precinct 01,U.S. President,,DEM,Michael R. Bloomberg,39,0,21,18
+Saline,Precinct 02,U.S. President,,DEM,Michael R. Bloomberg,100,0,73,27
+Saline,Precinct 03,U.S. President,,DEM,Michael R. Bloomberg,16,0,4,12
+Saline,Precinct 04,U.S. President,,DEM,Michael R. Bloomberg,26,0,11,15
+Saline,Precinct 05,U.S. President,,DEM,Michael R. Bloomberg,46,0,37,9
+Saline,Precinct 06,U.S. President,,DEM,Michael R. Bloomberg,42,0,24,18
+Saline,Precinct 07,U.S. President,,DEM,Michael R. Bloomberg,23,1,12,10
+Saline,Precinct 08,U.S. President,,DEM,Michael R. Bloomberg,29,0,23,6
+Saline,Precinct 09,U.S. President,,DEM,Michael R. Bloomberg,42,1,28,13
+Saline,Precinct 10,U.S. President,,DEM,Michael R. Bloomberg,26,0,13,13
+Saline,Precinct 11,U.S. President,,DEM,Michael R. Bloomberg,58,0,42,16
+Saline,Precinct 12,U.S. President,,DEM,Michael R. Bloomberg,40,1,32,7
+Saline,Precinct 13,U.S. President,,DEM,Michael R. Bloomberg,78,1,57,20
+Saline,Precinct 14,U.S. President,,DEM,Michael R. Bloomberg,50,1,27,22
+Saline,Precinct 15,U.S. President,,DEM,Michael R. Bloomberg,36,0,32,4
+Saline,Precinct 16,U.S. President,,DEM,Michael R. Bloomberg,41,2,19,20
+Saline,Precinct 17,U.S. President,,DEM,Michael R. Bloomberg,53,0,39,14
+Saline,Precinct 18,U.S. President,,DEM,Michael R. Bloomberg,19,0,15,4
+Saline,Precinct 19,U.S. President,,DEM,Michael R. Bloomberg,7,0,4,3
+Saline,Precinct 20,U.S. President,,DEM,Michael R. Bloomberg,48,0,34,14
+Saline,Precinct 21,U.S. President,,DEM,Michael R. Bloomberg,4,0,2,2
+Saline,Precinct 22,U.S. President,,DEM,Michael R. Bloomberg,44,1,13,30
+Saline,Precinct 23,U.S. President,,DEM,Michael R. Bloomberg,11,0,2,9
+Saline,Precinct 24,U.S. President,,DEM,Michael R. Bloomberg,31,0,13,18
+Saline,Precinct 25,U.S. President,,DEM,Michael R. Bloomberg,20,0,10,10
+Saline,Precinct 26,U.S. President,,DEM,Michael R. Bloomberg,50,0,19,31
+Saline,Precinct 27,U.S. President,,DEM,Michael R. Bloomberg,74,0,46,28
+Saline,Precinct 28,U.S. President,,DEM,Michael R. Bloomberg,15,0,7,8
+Saline,Precinct 29,U.S. President,,DEM,Michael R. Bloomberg,13,0,3,10
+Saline,Precinct 30,U.S. President,,DEM,Michael R. Bloomberg,9,0,3,6
+Saline,Precinct 31,U.S. President,,DEM,Michael R. Bloomberg,28,0,17,11
+Saline,Precinct 32,U.S. President,,DEM,Michael R. Bloomberg,27,0,11,16
+Saline,Precinct 33,U.S. President,,DEM,Michael R. Bloomberg,17,1,7,9
+Saline,Precinct 34,U.S. President,,DEM,Michael R. Bloomberg,22,0,8,14
+Saline,Precinct 35,U.S. President,,DEM,Michael R. Bloomberg,84,0,50,34
+Saline,Precinct 36,U.S. President,,DEM,Michael R. Bloomberg,37,0,23,14
+Saline,Precinct 37,U.S. President,,DEM,Michael R. Bloomberg,35,0,15,20
+Saline,Precinct 38,U.S. President,,DEM,Michael R. Bloomberg,32,0,25,7
+Saline,Precinct 39,U.S. President,,DEM,Michael R. Bloomberg,20,0,12,8
+Saline,Precinct 40,U.S. President,,DEM,Michael R. Bloomberg,65,4,41,20
+Saline,Precinct 41,U.S. President,,DEM,Michael R. Bloomberg,37,0,28,9
+Saline,Precinct 42,U.S. President,,DEM,Michael R. Bloomberg,38,0,23,15
+Saline,Precinct 01,U.S. President,,DEM,Mosie Boyd,1,0,1,0
+Saline,Precinct 02,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Saline,Precinct 03,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Saline,Precinct 04,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Saline,Precinct 05,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Saline,Precinct 06,U.S. President,,DEM,Mosie Boyd,1,1,0,0
+Saline,Precinct 07,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Saline,Precinct 08,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Saline,Precinct 09,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Saline,Precinct 10,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Saline,Precinct 11,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Saline,Precinct 12,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Saline,Precinct 13,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Saline,Precinct 14,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Saline,Precinct 15,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Saline,Precinct 16,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Saline,Precinct 17,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Saline,Precinct 18,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Saline,Precinct 19,U.S. President,,DEM,Mosie Boyd,1,0,1,0
+Saline,Precinct 20,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Saline,Precinct 21,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Saline,Precinct 22,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Saline,Precinct 23,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Saline,Precinct 24,U.S. President,,DEM,Mosie Boyd,1,0,1,0
+Saline,Precinct 25,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Saline,Precinct 26,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Saline,Precinct 27,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Saline,Precinct 28,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Saline,Precinct 29,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Saline,Precinct 30,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Saline,Precinct 31,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Saline,Precinct 32,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Saline,Precinct 33,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Saline,Precinct 34,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Saline,Precinct 35,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Saline,Precinct 36,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Saline,Precinct 37,U.S. President,,DEM,Mosie Boyd,1,0,1,0
+Saline,Precinct 38,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Saline,Precinct 39,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Saline,Precinct 40,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Saline,Precinct 41,U.S. President,,DEM,Mosie Boyd,0,0,0,0
+Saline,Precinct 42,U.S. President,,DEM,Mosie Boyd,2,0,1,1
+Saline,Precinct 01,U.S. President,,DEM,Cory Booker,0,0,0,0
+Saline,Precinct 02,U.S. President,,DEM,Cory Booker,0,0,0,0
+Saline,Precinct 03,U.S. President,,DEM,Cory Booker,0,0,0,0
+Saline,Precinct 04,U.S. President,,DEM,Cory Booker,0,0,0,0
+Saline,Precinct 05,U.S. President,,DEM,Cory Booker,5,0,3,2
+Saline,Precinct 06,U.S. President,,DEM,Cory Booker,0,0,0,0
+Saline,Precinct 07,U.S. President,,DEM,Cory Booker,0,0,0,0
+Saline,Precinct 08,U.S. President,,DEM,Cory Booker,0,0,0,0
+Saline,Precinct 09,U.S. President,,DEM,Cory Booker,0,0,0,0
+Saline,Precinct 10,U.S. President,,DEM,Cory Booker,0,0,0,0
+Saline,Precinct 11,U.S. President,,DEM,Cory Booker,0,0,0,0
+Saline,Precinct 12,U.S. President,,DEM,Cory Booker,0,0,0,0
+Saline,Precinct 13,U.S. President,,DEM,Cory Booker,1,0,1,0
+Saline,Precinct 14,U.S. President,,DEM,Cory Booker,0,0,0,0
+Saline,Precinct 15,U.S. President,,DEM,Cory Booker,0,0,0,0
+Saline,Precinct 16,U.S. President,,DEM,Cory Booker,1,0,0,1
+Saline,Precinct 17,U.S. President,,DEM,Cory Booker,0,0,0,0
+Saline,Precinct 18,U.S. President,,DEM,Cory Booker,0,0,0,0
+Saline,Precinct 19,U.S. President,,DEM,Cory Booker,0,0,0,0
+Saline,Precinct 20,U.S. President,,DEM,Cory Booker,0,0,0,0
+Saline,Precinct 21,U.S. President,,DEM,Cory Booker,0,0,0,0
+Saline,Precinct 22,U.S. President,,DEM,Cory Booker,0,0,0,0
+Saline,Precinct 23,U.S. President,,DEM,Cory Booker,0,0,0,0
+Saline,Precinct 24,U.S. President,,DEM,Cory Booker,0,0,0,0
+Saline,Precinct 25,U.S. President,,DEM,Cory Booker,1,0,0,1
+Saline,Precinct 26,U.S. President,,DEM,Cory Booker,0,0,0,0
+Saline,Precinct 27,U.S. President,,DEM,Cory Booker,1,0,1,0
+Saline,Precinct 28,U.S. President,,DEM,Cory Booker,0,0,0,0
+Saline,Precinct 29,U.S. President,,DEM,Cory Booker,0,0,0,0
+Saline,Precinct 30,U.S. President,,DEM,Cory Booker,0,0,0,0
+Saline,Precinct 31,U.S. President,,DEM,Cory Booker,1,0,0,1
+Saline,Precinct 32,U.S. President,,DEM,Cory Booker,0,0,0,0
+Saline,Precinct 33,U.S. President,,DEM,Cory Booker,0,0,0,0
+Saline,Precinct 34,U.S. President,,DEM,Cory Booker,0,0,0,0
+Saline,Precinct 35,U.S. President,,DEM,Cory Booker,0,0,0,0
+Saline,Precinct 36,U.S. President,,DEM,Cory Booker,0,0,0,0
+Saline,Precinct 37,U.S. President,,DEM,Cory Booker,1,0,0,1
+Saline,Precinct 38,U.S. President,,DEM,Cory Booker,1,0,0,1
+Saline,Precinct 39,U.S. President,,DEM,Cory Booker,0,0,0,0
+Saline,Precinct 40,U.S. President,,DEM,Cory Booker,1,0,0,1
+Saline,Precinct 41,U.S. President,,DEM,Cory Booker,1,0,1,0
+Saline,Precinct 42,U.S. President,,DEM,Cory Booker,0,0,0,0
+Saline,Precinct 01,U.S. President,,DEM,Pete Buttigieg,18,0,18,0
+Saline,Precinct 02,U.S. President,,DEM,Pete Buttigieg,26,0,26,0
+Saline,Precinct 03,U.S. President,,DEM,Pete Buttigieg,3,0,3,0
+Saline,Precinct 04,U.S. President,,DEM,Pete Buttigieg,9,0,8,1
+Saline,Precinct 05,U.S. President,,DEM,Pete Buttigieg,16,0,16,0
+Saline,Precinct 06,U.S. President,,DEM,Pete Buttigieg,10,0,9,1
+Saline,Precinct 07,U.S. President,,DEM,Pete Buttigieg,8,0,8,0
+Saline,Precinct 08,U.S. President,,DEM,Pete Buttigieg,4,0,4,0
+Saline,Precinct 09,U.S. President,,DEM,Pete Buttigieg,5,0,5,0
+Saline,Precinct 10,U.S. President,,DEM,Pete Buttigieg,5,0,5,0
+Saline,Precinct 11,U.S. President,,DEM,Pete Buttigieg,17,0,17,0
+Saline,Precinct 12,U.S. President,,DEM,Pete Buttigieg,7,0,7,0
+Saline,Precinct 13,U.S. President,,DEM,Pete Buttigieg,22,0,21,1
+Saline,Precinct 14,U.S. President,,DEM,Pete Buttigieg,7,0,7,0
+Saline,Precinct 15,U.S. President,,DEM,Pete Buttigieg,20,1,19,0
+Saline,Precinct 16,U.S. President,,DEM,Pete Buttigieg,11,1,10,0
+Saline,Precinct 17,U.S. President,,DEM,Pete Buttigieg,13,0,13,0
+Saline,Precinct 18,U.S. President,,DEM,Pete Buttigieg,1,0,1,0
+Saline,Precinct 19,U.S. President,,DEM,Pete Buttigieg,5,0,4,1
+Saline,Precinct 20,U.S. President,,DEM,Pete Buttigieg,14,0,14,0
+Saline,Precinct 21,U.S. President,,DEM,Pete Buttigieg,0,0,0,0
+Saline,Precinct 22,U.S. President,,DEM,Pete Buttigieg,13,0,13,0
+Saline,Precinct 23,U.S. President,,DEM,Pete Buttigieg,2,0,2,0
+Saline,Precinct 24,U.S. President,,DEM,Pete Buttigieg,10,0,9,1
+Saline,Precinct 25,U.S. President,,DEM,Pete Buttigieg,8,0,8,0
+Saline,Precinct 26,U.S. President,,DEM,Pete Buttigieg,7,0,7,0
+Saline,Precinct 27,U.S. President,,DEM,Pete Buttigieg,16,1,12,3
+Saline,Precinct 28,U.S. President,,DEM,Pete Buttigieg,1,0,1,0
+Saline,Precinct 29,U.S. President,,DEM,Pete Buttigieg,0,0,0,0
+Saline,Precinct 30,U.S. President,,DEM,Pete Buttigieg,0,0,0,0
+Saline,Precinct 31,U.S. President,,DEM,Pete Buttigieg,13,0,13,0
+Saline,Precinct 32,U.S. President,,DEM,Pete Buttigieg,5,0,5,0
+Saline,Precinct 33,U.S. President,,DEM,Pete Buttigieg,3,0,2,1
+Saline,Precinct 34,U.S. President,,DEM,Pete Buttigieg,7,0,7,0
+Saline,Precinct 35,U.S. President,,DEM,Pete Buttigieg,22,0,21,1
+Saline,Precinct 36,U.S. President,,DEM,Pete Buttigieg,6,0,6,0
+Saline,Precinct 37,U.S. President,,DEM,Pete Buttigieg,14,0,14,0
+Saline,Precinct 38,U.S. President,,DEM,Pete Buttigieg,12,1,11,0
+Saline,Precinct 39,U.S. President,,DEM,Pete Buttigieg,3,0,3,0
+Saline,Precinct 40,U.S. President,,DEM,Pete Buttigieg,16,0,14,2
+Saline,Precinct 41,U.S. President,,DEM,Pete Buttigieg,10,0,10,0
+Saline,Precinct 42,U.S. President,,DEM,Pete Buttigieg,10,0,10,0
+Saline,Precinct 01,U.S. President,,DEM,Amy Klobuchar,9,0,7,2
+Saline,Precinct 02,U.S. President,,DEM,Amy Klobuchar,24,0,23,1
+Saline,Precinct 03,U.S. President,,DEM,Amy Klobuchar,10,0,6,4
+Saline,Precinct 04,U.S. President,,DEM,Amy Klobuchar,12,1,10,1
+Saline,Precinct 05,U.S. President,,DEM,Amy Klobuchar,16,0,16,0
+Saline,Precinct 06,U.S. President,,DEM,Amy Klobuchar,14,0,14,0
+Saline,Precinct 07,U.S. President,,DEM,Amy Klobuchar,3,0,3,0
+Saline,Precinct 08,U.S. President,,DEM,Amy Klobuchar,8,0,8,0
+Saline,Precinct 09,U.S. President,,DEM,Amy Klobuchar,8,0,7,1
+Saline,Precinct 10,U.S. President,,DEM,Amy Klobuchar,1,0,1,0
+Saline,Precinct 11,U.S. President,,DEM,Amy Klobuchar,13,0,12,1
+Saline,Precinct 12,U.S. President,,DEM,Amy Klobuchar,10,0,10,0
+Saline,Precinct 13,U.S. President,,DEM,Amy Klobuchar,16,0,15,1
+Saline,Precinct 14,U.S. President,,DEM,Amy Klobuchar,10,0,8,2
+Saline,Precinct 15,U.S. President,,DEM,Amy Klobuchar,15,0,15,0
+Saline,Precinct 16,U.S. President,,DEM,Amy Klobuchar,6,1,5,0
+Saline,Precinct 17,U.S. President,,DEM,Amy Klobuchar,14,0,14,0
+Saline,Precinct 18,U.S. President,,DEM,Amy Klobuchar,0,0,0,0
+Saline,Precinct 19,U.S. President,,DEM,Amy Klobuchar,2,0,2,0
+Saline,Precinct 20,U.S. President,,DEM,Amy Klobuchar,19,2,16,1
+Saline,Precinct 21,U.S. President,,DEM,Amy Klobuchar,5,0,4,1
+Saline,Precinct 22,U.S. President,,DEM,Amy Klobuchar,8,0,7,1
+Saline,Precinct 23,U.S. President,,DEM,Amy Klobuchar,1,0,1,0
+Saline,Precinct 24,U.S. President,,DEM,Amy Klobuchar,20,0,20,0
+Saline,Precinct 25,U.S. President,,DEM,Amy Klobuchar,6,0,5,1
+Saline,Precinct 26,U.S. President,,DEM,Amy Klobuchar,3,0,3,0
+Saline,Precinct 27,U.S. President,,DEM,Amy Klobuchar,15,1,11,3
+Saline,Precinct 28,U.S. President,,DEM,Amy Klobuchar,1,0,1,0
+Saline,Precinct 29,U.S. President,,DEM,Amy Klobuchar,4,0,3,1
+Saline,Precinct 30,U.S. President,,DEM,Amy Klobuchar,0,0,0,0
+Saline,Precinct 31,U.S. President,,DEM,Amy Klobuchar,7,0,7,0
+Saline,Precinct 32,U.S. President,,DEM,Amy Klobuchar,2,0,2,0
+Saline,Precinct 33,U.S. President,,DEM,Amy Klobuchar,1,0,0,1
+Saline,Precinct 34,U.S. President,,DEM,Amy Klobuchar,2,0,1,1
+Saline,Precinct 35,U.S. President,,DEM,Amy Klobuchar,42,2,39,1
+Saline,Precinct 36,U.S. President,,DEM,Amy Klobuchar,9,0,9,0
+Saline,Precinct 37,U.S. President,,DEM,Amy Klobuchar,8,0,6,2
+Saline,Precinct 38,U.S. President,,DEM,Amy Klobuchar,8,0,8,0
+Saline,Precinct 39,U.S. President,,DEM,Amy Klobuchar,5,0,4,1
+Saline,Precinct 40,U.S. President,,DEM,Amy Klobuchar,9,0,8,1
+Saline,Precinct 41,U.S. President,,DEM,Amy Klobuchar,11,0,9,2
+Saline,Precinct 42,U.S. President,,DEM,Amy Klobuchar,8,0,7,1
+Saline,Precinct 01,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Saline,Precinct 02,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Saline,Precinct 03,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Saline,Precinct 04,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Saline,Precinct 05,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Saline,Precinct 06,U.S. President,,DEM,Michael Bennet,1,0,1,0
+Saline,Precinct 07,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Saline,Precinct 08,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Saline,Precinct 09,U.S. President,,DEM,Michael Bennet,1,0,1,0
+Saline,Precinct 10,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Saline,Precinct 11,U.S. President,,DEM,Michael Bennet,1,0,0,1
+Saline,Precinct 12,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Saline,Precinct 13,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Saline,Precinct 14,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Saline,Precinct 15,U.S. President,,DEM,Michael Bennet,1,0,0,1
+Saline,Precinct 16,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Saline,Precinct 17,U.S. President,,DEM,Michael Bennet,1,0,1,0
+Saline,Precinct 18,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Saline,Precinct 19,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Saline,Precinct 20,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Saline,Precinct 21,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Saline,Precinct 22,U.S. President,,DEM,Michael Bennet,2,0,1,1
+Saline,Precinct 23,U.S. President,,DEM,Michael Bennet,1,0,0,1
+Saline,Precinct 24,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Saline,Precinct 25,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Saline,Precinct 26,U.S. President,,DEM,Michael Bennet,1,0,1,0
+Saline,Precinct 27,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Saline,Precinct 28,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Saline,Precinct 29,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Saline,Precinct 30,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Saline,Precinct 31,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Saline,Precinct 32,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Saline,Precinct 33,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Saline,Precinct 34,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Saline,Precinct 35,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Saline,Precinct 36,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Saline,Precinct 37,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Saline,Precinct 38,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Saline,Precinct 39,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Saline,Precinct 40,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Saline,Precinct 41,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Saline,Precinct 42,U.S. President,,DEM,Michael Bennet,0,0,0,0
+Saline,Precinct 01,U.S. President,,DEM,Elizabeth Warren,32,1,4,27
+Saline,Precinct 02,U.S. President,,DEM,Elizabeth Warren,27,0,18,9
+Saline,Precinct 03,U.S. President,,DEM,Elizabeth Warren,12,0,4,8
+Saline,Precinct 04,U.S. President,,DEM,Elizabeth Warren,25,0,8,17
+Saline,Precinct 05,U.S. President,,DEM,Elizabeth Warren,34,0,20,14
+Saline,Precinct 06,U.S. President,,DEM,Elizabeth Warren,31,0,15,16
+Saline,Precinct 07,U.S. President,,DEM,Elizabeth Warren,16,0,8,8
+Saline,Precinct 08,U.S. President,,DEM,Elizabeth Warren,4,0,2,2
+Saline,Precinct 09,U.S. President,,DEM,Elizabeth Warren,11,0,3,8
+Saline,Precinct 10,U.S. President,,DEM,Elizabeth Warren,8,0,3,5
+Saline,Precinct 11,U.S. President,,DEM,Elizabeth Warren,37,0,23,14
+Saline,Precinct 12,U.S. President,,DEM,Elizabeth Warren,16,0,12,4
+Saline,Precinct 13,U.S. President,,DEM,Elizabeth Warren,37,0,13,24
+Saline,Precinct 14,U.S. President,,DEM,Elizabeth Warren,35,1,9,25
+Saline,Precinct 15,U.S. President,,DEM,Elizabeth Warren,27,0,16,11
+Saline,Precinct 16,U.S. President,,DEM,Elizabeth Warren,21,2,6,13
+Saline,Precinct 17,U.S. President,,DEM,Elizabeth Warren,28,0,14,14
+Saline,Precinct 18,U.S. President,,DEM,Elizabeth Warren,4,0,3,1
+Saline,Precinct 19,U.S. President,,DEM,Elizabeth Warren,6,0,2,4
+Saline,Precinct 20,U.S. President,,DEM,Elizabeth Warren,12,1,11,0
+Saline,Precinct 21,U.S. President,,DEM,Elizabeth Warren,2,0,0,2
+Saline,Precinct 22,U.S. President,,DEM,Elizabeth Warren,13,0,4,9
+Saline,Precinct 23,U.S. President,,DEM,Elizabeth Warren,2,0,2,0
+Saline,Precinct 24,U.S. President,,DEM,Elizabeth Warren,27,0,6,21
+Saline,Precinct 25,U.S. President,,DEM,Elizabeth Warren,9,0,1,8
+Saline,Precinct 26,U.S. President,,DEM,Elizabeth Warren,38,0,12,26
+Saline,Precinct 27,U.S. President,,DEM,Elizabeth Warren,40,0,17,23
+Saline,Precinct 28,U.S. President,,DEM,Elizabeth Warren,5,0,4,1
+Saline,Precinct 29,U.S. President,,DEM,Elizabeth Warren,6,0,1,5
+Saline,Precinct 30,U.S. President,,DEM,Elizabeth Warren,2,0,0,2
+Saline,Precinct 31,U.S. President,,DEM,Elizabeth Warren,47,2,24,21
+Saline,Precinct 32,U.S. President,,DEM,Elizabeth Warren,10,0,3,7
+Saline,Precinct 33,U.S. President,,DEM,Elizabeth Warren,16,0,7,9
+Saline,Precinct 34,U.S. President,,DEM,Elizabeth Warren,14,0,3,11
+Saline,Precinct 35,U.S. President,,DEM,Elizabeth Warren,23,2,8,13
+Saline,Precinct 36,U.S. President,,DEM,Elizabeth Warren,26,2,10,14
+Saline,Precinct 37,U.S. President,,DEM,Elizabeth Warren,20,0,9,11
+Saline,Precinct 38,U.S. President,,DEM,Elizabeth Warren,24,1,8,15
+Saline,Precinct 39,U.S. President,,DEM,Elizabeth Warren,14,0,3,11
+Saline,Precinct 40,U.S. President,,DEM,Elizabeth Warren,28,1,13,14
+Saline,Precinct 41,U.S. President,,DEM,Elizabeth Warren,25,0,15,10
+Saline,Precinct 42,U.S. President,,DEM,Elizabeth Warren,20,0,13,7
+Saline,Precinct 01,U.S. President,,DEM,Joseph R. Biden,116,0,29,87
+Saline,Precinct 02,U.S. President,,DEM,Joseph R. Biden,156,2,48,106
+Saline,Precinct 03,U.S. President,,DEM,Joseph R. Biden,37,0,13,24
+Saline,Precinct 04,U.S. President,,DEM,Joseph R. Biden,102,0,32,70
+Saline,Precinct 05,U.S. President,,DEM,Joseph R. Biden,81,1,60,20
+Saline,Precinct 06,U.S. President,,DEM,Joseph R. Biden,118,1,27,90
+Saline,Precinct 07,U.S. President,,DEM,Joseph R. Biden,41,0,23,18
+Saline,Precinct 08,U.S. President,,DEM,Joseph R. Biden,32,0,7,25
+Saline,Precinct 09,U.S. President,,DEM,Joseph R. Biden,58,2,11,45
+Saline,Precinct 10,U.S. President,,DEM,Joseph R. Biden,44,0,16,28
+Saline,Precinct 11,U.S. President,,DEM,Joseph R. Biden,99,1,46,52
+Saline,Precinct 12,U.S. President,,DEM,Joseph R. Biden,50,1,27,22
+Saline,Precinct 13,U.S. President,,DEM,Joseph R. Biden,162,4,59,99
+Saline,Precinct 14,U.S. President,,DEM,Joseph R. Biden,109,0,29,80
+Saline,Precinct 15,U.S. President,,DEM,Joseph R. Biden,109,0,41,68
+Saline,Precinct 16,U.S. President,,DEM,Joseph R. Biden,58,1,16,41
+Saline,Precinct 17,U.S. President,,DEM,Joseph R. Biden,81,1,45,35
+Saline,Precinct 18,U.S. President,,DEM,Joseph R. Biden,37,0,15,22
+Saline,Precinct 19,U.S. President,,DEM,Joseph R. Biden,14,0,3,11
+Saline,Precinct 20,U.S. President,,DEM,Joseph R. Biden,65,0,23,42
+Saline,Precinct 21,U.S. President,,DEM,Joseph R. Biden,13,0,2,11
+Saline,Precinct 22,U.S. President,,DEM,Joseph R. Biden,91,0,21,70
+Saline,Precinct 23,U.S. President,,DEM,Joseph R. Biden,17,0,2,15
+Saline,Precinct 24,U.S. President,,DEM,Joseph R. Biden,110,1,31,78
+Saline,Precinct 25,U.S. President,,DEM,Joseph R. Biden,55,0,12,43
+Saline,Precinct 26,U.S. President,,DEM,Joseph R. Biden,171,1,39,131
+Saline,Precinct 27,U.S. President,,DEM,Joseph R. Biden,113,1,45,67
+Saline,Precinct 28,U.S. President,,DEM,Joseph R. Biden,33,0,8,25
+Saline,Precinct 29,U.S. President,,DEM,Joseph R. Biden,31,0,3,28
+Saline,Precinct 30,U.S. President,,DEM,Joseph R. Biden,14,0,1,13
+Saline,Precinct 31,U.S. President,,DEM,Joseph R. Biden,77,0,24,53
+Saline,Precinct 32,U.S. President,,DEM,Joseph R. Biden,50,0,23,27
+Saline,Precinct 33,U.S. President,,DEM,Joseph R. Biden,49,1,20,28
+Saline,Precinct 34,U.S. President,,DEM,Joseph R. Biden,63,0,12,51
+Saline,Precinct 35,U.S. President,,DEM,Joseph R. Biden,125,2,32,91
+Saline,Precinct 36,U.S. President,,DEM,Joseph R. Biden,69,0,27,42
+Saline,Precinct 37,U.S. President,,DEM,Joseph R. Biden,85,0,25,60
+Saline,Precinct 38,U.S. President,,DEM,Joseph R. Biden,84,2,21,61
+Saline,Precinct 39,U.S. President,,DEM,Joseph R. Biden,61,0,14,47
+Saline,Precinct 40,U.S. President,,DEM,Joseph R. Biden,123,0,49,74
+Saline,Precinct 41,U.S. President,,DEM,Joseph R. Biden,53,1,28,24
+Saline,Precinct 42,U.S. President,,DEM,Joseph R. Biden,65,1,30,34
+Saline,Precinct 01,U.S. President,,DEM,John K. Delaney,1,0,0,1
+Saline,Precinct 02,U.S. President,,DEM,John K. Delaney,1,0,1,0
+Saline,Precinct 03,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Saline,Precinct 04,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Saline,Precinct 05,U.S. President,,DEM,John K. Delaney,1,0,1,0
+Saline,Precinct 06,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Saline,Precinct 07,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Saline,Precinct 08,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Saline,Precinct 09,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Saline,Precinct 10,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Saline,Precinct 11,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Saline,Precinct 12,U.S. President,,DEM,John K. Delaney,1,0,1,0
+Saline,Precinct 13,U.S. President,,DEM,John K. Delaney,2,0,2,0
+Saline,Precinct 14,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Saline,Precinct 15,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Saline,Precinct 16,U.S. President,,DEM,John K. Delaney,1,0,0,1
+Saline,Precinct 17,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Saline,Precinct 18,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Saline,Precinct 19,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Saline,Precinct 20,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Saline,Precinct 21,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Saline,Precinct 22,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Saline,Precinct 23,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Saline,Precinct 24,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Saline,Precinct 25,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Saline,Precinct 26,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Saline,Precinct 27,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Saline,Precinct 28,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Saline,Precinct 29,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Saline,Precinct 30,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Saline,Precinct 31,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Saline,Precinct 32,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Saline,Precinct 33,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Saline,Precinct 34,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Saline,Precinct 35,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Saline,Precinct 36,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Saline,Precinct 37,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Saline,Precinct 38,U.S. President,,DEM,John K. Delaney,1,0,1,0
+Saline,Precinct 39,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Saline,Precinct 40,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Saline,Precinct 41,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Saline,Precinct 42,U.S. President,,DEM,John K. Delaney,0,0,0,0
+Saline,Precinct 01,U.S. President,,DEM,Kamala Harris,1,0,0,1
+Saline,Precinct 02,U.S. President,,DEM,Kamala Harris,0,0,0,0
+Saline,Precinct 03,U.S. President,,DEM,Kamala Harris,0,0,0,0
+Saline,Precinct 04,U.S. President,,DEM,Kamala Harris,3,1,2,0
+Saline,Precinct 05,U.S. President,,DEM,Kamala Harris,1,0,1,0
+Saline,Precinct 06,U.S. President,,DEM,Kamala Harris,1,0,0,1
+Saline,Precinct 07,U.S. President,,DEM,Kamala Harris,1,0,1,0
+Saline,Precinct 08,U.S. President,,DEM,Kamala Harris,0,0,0,0
+Saline,Precinct 09,U.S. President,,DEM,Kamala Harris,0,0,0,0
+Saline,Precinct 10,U.S. President,,DEM,Kamala Harris,0,0,0,0
+Saline,Precinct 11,U.S. President,,DEM,Kamala Harris,2,0,1,1
+Saline,Precinct 12,U.S. President,,DEM,Kamala Harris,0,0,0,0
+Saline,Precinct 13,U.S. President,,DEM,Kamala Harris,3,0,1,2
+Saline,Precinct 14,U.S. President,,DEM,Kamala Harris,1,0,0,1
+Saline,Precinct 15,U.S. President,,DEM,Kamala Harris,1,0,0,1
+Saline,Precinct 16,U.S. President,,DEM,Kamala Harris,2,0,1,1
+Saline,Precinct 17,U.S. President,,DEM,Kamala Harris,2,0,2,0
+Saline,Precinct 18,U.S. President,,DEM,Kamala Harris,3,0,2,1
+Saline,Precinct 19,U.S. President,,DEM,Kamala Harris,0,0,0,0
+Saline,Precinct 20,U.S. President,,DEM,Kamala Harris,0,0,0,0
+Saline,Precinct 21,U.S. President,,DEM,Kamala Harris,0,0,0,0
+Saline,Precinct 22,U.S. President,,DEM,Kamala Harris,1,0,0,1
+Saline,Precinct 23,U.S. President,,DEM,Kamala Harris,0,0,0,0
+Saline,Precinct 24,U.S. President,,DEM,Kamala Harris,1,0,1,0
+Saline,Precinct 25,U.S. President,,DEM,Kamala Harris,0,0,0,0
+Saline,Precinct 26,U.S. President,,DEM,Kamala Harris,2,0,0,2
+Saline,Precinct 27,U.S. President,,DEM,Kamala Harris,1,0,0,1
+Saline,Precinct 28,U.S. President,,DEM,Kamala Harris,2,0,1,1
+Saline,Precinct 29,U.S. President,,DEM,Kamala Harris,0,0,0,0
+Saline,Precinct 30,U.S. President,,DEM,Kamala Harris,1,0,0,1
+Saline,Precinct 31,U.S. President,,DEM,Kamala Harris,1,0,1,0
+Saline,Precinct 32,U.S. President,,DEM,Kamala Harris,1,0,0,1
+Saline,Precinct 33,U.S. President,,DEM,Kamala Harris,0,0,0,0
+Saline,Precinct 34,U.S. President,,DEM,Kamala Harris,1,0,0,1
+Saline,Precinct 35,U.S. President,,DEM,Kamala Harris,4,0,2,2
+Saline,Precinct 36,U.S. President,,DEM,Kamala Harris,1,0,0,1
+Saline,Precinct 37,U.S. President,,DEM,Kamala Harris,0,0,0,0
+Saline,Precinct 38,U.S. President,,DEM,Kamala Harris,0,0,0,0
+Saline,Precinct 39,U.S. President,,DEM,Kamala Harris,1,0,0,1
+Saline,Precinct 40,U.S. President,,DEM,Kamala Harris,5,0,0,5
+Saline,Precinct 41,U.S. President,,DEM,Kamala Harris,2,0,1,1
+Saline,Precinct 42,U.S. President,,DEM,Kamala Harris,0,0,0,0
+Saline,Precinct 01,U.S. President,,DEM,Marianne Williamson,0,0,0,0
+Saline,Precinct 02,U.S. President,,DEM,Marianne Williamson,0,0,0,0
+Saline,Precinct 03,U.S. President,,DEM,Marianne Williamson,1,0,1,0
+Saline,Precinct 04,U.S. President,,DEM,Marianne Williamson,0,0,0,0
+Saline,Precinct 05,U.S. President,,DEM,Marianne Williamson,0,0,0,0
+Saline,Precinct 06,U.S. President,,DEM,Marianne Williamson,0,0,0,0
+Saline,Precinct 07,U.S. President,,DEM,Marianne Williamson,0,0,0,0
+Saline,Precinct 08,U.S. President,,DEM,Marianne Williamson,0,0,0,0
+Saline,Precinct 09,U.S. President,,DEM,Marianne Williamson,0,0,0,0
+Saline,Precinct 10,U.S. President,,DEM,Marianne Williamson,0,0,0,0
+Saline,Precinct 11,U.S. President,,DEM,Marianne Williamson,1,0,0,1
+Saline,Precinct 12,U.S. President,,DEM,Marianne Williamson,0,0,0,0
+Saline,Precinct 13,U.S. President,,DEM,Marianne Williamson,0,0,0,0
+Saline,Precinct 14,U.S. President,,DEM,Marianne Williamson,1,0,0,1
+Saline,Precinct 15,U.S. President,,DEM,Marianne Williamson,0,0,0,0
+Saline,Precinct 16,U.S. President,,DEM,Marianne Williamson,1,0,0,1
+Saline,Precinct 17,U.S. President,,DEM,Marianne Williamson,0,0,0,0
+Saline,Precinct 18,U.S. President,,DEM,Marianne Williamson,1,0,1,0
+Saline,Precinct 19,U.S. President,,DEM,Marianne Williamson,0,0,0,0
+Saline,Precinct 20,U.S. President,,DEM,Marianne Williamson,0,0,0,0
+Saline,Precinct 21,U.S. President,,DEM,Marianne Williamson,0,0,0,0
+Saline,Precinct 22,U.S. President,,DEM,Marianne Williamson,0,0,0,0
+Saline,Precinct 23,U.S. President,,DEM,Marianne Williamson,0,0,0,0
+Saline,Precinct 24,U.S. President,,DEM,Marianne Williamson,0,0,0,0
+Saline,Precinct 25,U.S. President,,DEM,Marianne Williamson,0,0,0,0
+Saline,Precinct 26,U.S. President,,DEM,Marianne Williamson,1,0,0,1
+Saline,Precinct 27,U.S. President,,DEM,Marianne Williamson,0,0,0,0
+Saline,Precinct 28,U.S. President,,DEM,Marianne Williamson,0,0,0,0
+Saline,Precinct 29,U.S. President,,DEM,Marianne Williamson,0,0,0,0
+Saline,Precinct 30,U.S. President,,DEM,Marianne Williamson,0,0,0,0
+Saline,Precinct 31,U.S. President,,DEM,Marianne Williamson,1,0,0,1
+Saline,Precinct 32,U.S. President,,DEM,Marianne Williamson,2,0,1,1
+Saline,Precinct 33,U.S. President,,DEM,Marianne Williamson,2,0,1,1
+Saline,Precinct 34,U.S. President,,DEM,Marianne Williamson,1,0,1,0
+Saline,Precinct 35,U.S. President,,DEM,Marianne Williamson,1,0,0,1
+Saline,Precinct 36,U.S. President,,DEM,Marianne Williamson,0,0,0,0
+Saline,Precinct 37,U.S. President,,DEM,Marianne Williamson,2,0,1,1
+Saline,Precinct 38,U.S. President,,DEM,Marianne Williamson,1,0,1,0
+Saline,Precinct 39,U.S. President,,DEM,Marianne Williamson,0,0,0,0
+Saline,Precinct 40,U.S. President,,DEM,Marianne Williamson,0,0,0,0
+Saline,Precinct 41,U.S. President,,DEM,Marianne Williamson,0,0,0,0
+Saline,Precinct 42,U.S. President,,DEM,Marianne Williamson,1,0,1,0
+Saline,Precinct 01,U.S. President,,DEM,Andrew Yang,0,0,0,0
+Saline,Precinct 02,U.S. President,,DEM,Andrew Yang,0,0,0,0
+Saline,Precinct 03,U.S. President,,DEM,Andrew Yang,0,0,0,0
+Saline,Precinct 04,U.S. President,,DEM,Andrew Yang,3,0,1,2
+Saline,Precinct 05,U.S. President,,DEM,Andrew Yang,1,0,1,0
+Saline,Precinct 06,U.S. President,,DEM,Andrew Yang,0,0,0,0
+Saline,Precinct 07,U.S. President,,DEM,Andrew Yang,0,0,0,0
+Saline,Precinct 08,U.S. President,,DEM,Andrew Yang,2,0,2,0
+Saline,Precinct 09,U.S. President,,DEM,Andrew Yang,0,0,0,0
+Saline,Precinct 10,U.S. President,,DEM,Andrew Yang,0,0,0,0
+Saline,Precinct 11,U.S. President,,DEM,Andrew Yang,2,0,1,1
+Saline,Precinct 12,U.S. President,,DEM,Andrew Yang,0,0,0,0
+Saline,Precinct 13,U.S. President,,DEM,Andrew Yang,0,0,0,0
+Saline,Precinct 14,U.S. President,,DEM,Andrew Yang,1,0,0,1
+Saline,Precinct 15,U.S. President,,DEM,Andrew Yang,0,0,0,0
+Saline,Precinct 16,U.S. President,,DEM,Andrew Yang,1,0,0,1
+Saline,Precinct 17,U.S. President,,DEM,Andrew Yang,1,0,1,0
+Saline,Precinct 18,U.S. President,,DEM,Andrew Yang,0,0,0,0
+Saline,Precinct 19,U.S. President,,DEM,Andrew Yang,0,0,0,0
+Saline,Precinct 20,U.S. President,,DEM,Andrew Yang,0,0,0,0
+Saline,Precinct 21,U.S. President,,DEM,Andrew Yang,0,0,0,0
+Saline,Precinct 22,U.S. President,,DEM,Andrew Yang,0,0,0,0
+Saline,Precinct 23,U.S. President,,DEM,Andrew Yang,0,0,0,0
+Saline,Precinct 24,U.S. President,,DEM,Andrew Yang,1,0,0,1
+Saline,Precinct 25,U.S. President,,DEM,Andrew Yang,0,0,0,0
+Saline,Precinct 26,U.S. President,,DEM,Andrew Yang,2,0,0,2
+Saline,Precinct 27,U.S. President,,DEM,Andrew Yang,4,0,1,3
+Saline,Precinct 28,U.S. President,,DEM,Andrew Yang,0,0,0,0
+Saline,Precinct 29,U.S. President,,DEM,Andrew Yang,0,0,0,0
+Saline,Precinct 30,U.S. President,,DEM,Andrew Yang,0,0,0,0
+Saline,Precinct 31,U.S. President,,DEM,Andrew Yang,0,0,0,0
+Saline,Precinct 32,U.S. President,,DEM,Andrew Yang,1,0,1,0
+Saline,Precinct 33,U.S. President,,DEM,Andrew Yang,0,0,0,0
+Saline,Precinct 34,U.S. President,,DEM,Andrew Yang,0,0,0,0
+Saline,Precinct 35,U.S. President,,DEM,Andrew Yang,0,0,0,0
+Saline,Precinct 36,U.S. President,,DEM,Andrew Yang,0,0,0,0
+Saline,Precinct 37,U.S. President,,DEM,Andrew Yang,0,0,0,0
+Saline,Precinct 38,U.S. President,,DEM,Andrew Yang,1,0,0,1
+Saline,Precinct 39,U.S. President,,DEM,Andrew Yang,0,0,0,0
+Saline,Precinct 40,U.S. President,,DEM,Andrew Yang,1,0,0,1
+Saline,Precinct 41,U.S. President,,DEM,Andrew Yang,0,0,0,0
+Saline,Precinct 42,U.S. President,,DEM,Andrew Yang,1,0,0,1
+Saline,Precinct 01,U.S. President,,DEM,Julian Castro,0,0,0,0
+Saline,Precinct 02,U.S. President,,DEM,Julian Castro,0,0,0,0
+Saline,Precinct 03,U.S. President,,DEM,Julian Castro,0,0,0,0
+Saline,Precinct 04,U.S. President,,DEM,Julian Castro,0,0,0,0
+Saline,Precinct 05,U.S. President,,DEM,Julian Castro,0,0,0,0
+Saline,Precinct 06,U.S. President,,DEM,Julian Castro,2,0,0,2
+Saline,Precinct 07,U.S. President,,DEM,Julian Castro,0,0,0,0
+Saline,Precinct 08,U.S. President,,DEM,Julian Castro,0,0,0,0
+Saline,Precinct 09,U.S. President,,DEM,Julian Castro,1,0,0,1
+Saline,Precinct 10,U.S. President,,DEM,Julian Castro,1,0,0,1
+Saline,Precinct 11,U.S. President,,DEM,Julian Castro,0,0,0,0
+Saline,Precinct 12,U.S. President,,DEM,Julian Castro,0,0,0,0
+Saline,Precinct 13,U.S. President,,DEM,Julian Castro,1,0,0,1
+Saline,Precinct 14,U.S. President,,DEM,Julian Castro,0,0,0,0
+Saline,Precinct 15,U.S. President,,DEM,Julian Castro,0,0,0,0
+Saline,Precinct 16,U.S. President,,DEM,Julian Castro,0,0,0,0
+Saline,Precinct 17,U.S. President,,DEM,Julian Castro,1,0,0,1
+Saline,Precinct 18,U.S. President,,DEM,Julian Castro,0,0,0,0
+Saline,Precinct 19,U.S. President,,DEM,Julian Castro,0,0,0,0
+Saline,Precinct 20,U.S. President,,DEM,Julian Castro,1,0,1,0
+Saline,Precinct 21,U.S. President,,DEM,Julian Castro,0,0,0,0
+Saline,Precinct 22,U.S. President,,DEM,Julian Castro,1,0,0,1
+Saline,Precinct 23,U.S. President,,DEM,Julian Castro,0,0,0,0
+Saline,Precinct 24,U.S. President,,DEM,Julian Castro,1,0,0,1
+Saline,Precinct 25,U.S. President,,DEM,Julian Castro,1,0,0,1
+Saline,Precinct 26,U.S. President,,DEM,Julian Castro,0,0,0,0
+Saline,Precinct 27,U.S. President,,DEM,Julian Castro,0,0,0,0
+Saline,Precinct 28,U.S. President,,DEM,Julian Castro,0,0,0,0
+Saline,Precinct 29,U.S. President,,DEM,Julian Castro,0,0,0,0
+Saline,Precinct 30,U.S. President,,DEM,Julian Castro,0,0,0,0
+Saline,Precinct 31,U.S. President,,DEM,Julian Castro,2,0,0,2
+Saline,Precinct 32,U.S. President,,DEM,Julian Castro,0,0,0,0
+Saline,Precinct 33,U.S. President,,DEM,Julian Castro,0,0,0,0
+Saline,Precinct 34,U.S. President,,DEM,Julian Castro,0,0,0,0
+Saline,Precinct 35,U.S. President,,DEM,Julian Castro,0,0,0,0
+Saline,Precinct 36,U.S. President,,DEM,Julian Castro,0,0,0,0
+Saline,Precinct 37,U.S. President,,DEM,Julian Castro,0,0,0,0
+Saline,Precinct 38,U.S. President,,DEM,Julian Castro,0,0,0,0
+Saline,Precinct 39,U.S. President,,DEM,Julian Castro,0,0,0,0
+Saline,Precinct 40,U.S. President,,DEM,Julian Castro,0,0,0,0
+Saline,Precinct 41,U.S. President,,DEM,Julian Castro,0,0,0,0
+Saline,Precinct 42,U.S. President,,DEM,Julian Castro,1,0,0,1
+Saline,Precinct 01,U.S. President,,DEM,Tom Steyer,3,0,3,0
+Saline,Precinct 02,U.S. President,,DEM,Tom Steyer,3,1,1,1
+Saline,Precinct 03,U.S. President,,DEM,Tom Steyer,1,0,0,1
+Saline,Precinct 04,U.S. President,,DEM,Tom Steyer,0,0,0,0
+Saline,Precinct 05,U.S. President,,DEM,Tom Steyer,4,0,4,0
+Saline,Precinct 06,U.S. President,,DEM,Tom Steyer,3,0,2,1
+Saline,Precinct 07,U.S. President,,DEM,Tom Steyer,2,0,2,0
+Saline,Precinct 08,U.S. President,,DEM,Tom Steyer,1,0,1,0
+Saline,Precinct 09,U.S. President,,DEM,Tom Steyer,4,0,2,2
+Saline,Precinct 10,U.S. President,,DEM,Tom Steyer,3,0,2,1
+Saline,Precinct 11,U.S. President,,DEM,Tom Steyer,4,0,4,0
+Saline,Precinct 12,U.S. President,,DEM,Tom Steyer,2,0,2,0
+Saline,Precinct 13,U.S. President,,DEM,Tom Steyer,9,0,5,4
+Saline,Precinct 14,U.S. President,,DEM,Tom Steyer,5,0,2,3
+Saline,Precinct 15,U.S. President,,DEM,Tom Steyer,2,0,2,0
+Saline,Precinct 16,U.S. President,,DEM,Tom Steyer,3,0,2,1
+Saline,Precinct 17,U.S. President,,DEM,Tom Steyer,6,0,6,0
+Saline,Precinct 18,U.S. President,,DEM,Tom Steyer,1,0,1,0
+Saline,Precinct 19,U.S. President,,DEM,Tom Steyer,0,0,0,0
+Saline,Precinct 20,U.S. President,,DEM,Tom Steyer,0,0,0,0
+Saline,Precinct 21,U.S. President,,DEM,Tom Steyer,0,0,0,0
+Saline,Precinct 22,U.S. President,,DEM,Tom Steyer,1,0,0,1
+Saline,Precinct 23,U.S. President,,DEM,Tom Steyer,1,0,0,1
+Saline,Precinct 24,U.S. President,,DEM,Tom Steyer,1,0,1,0
+Saline,Precinct 25,U.S. President,,DEM,Tom Steyer,3,0,2,1
+Saline,Precinct 26,U.S. President,,DEM,Tom Steyer,5,0,1,4
+Saline,Precinct 27,U.S. President,,DEM,Tom Steyer,2,0,1,1
+Saline,Precinct 28,U.S. President,,DEM,Tom Steyer,3,0,1,2
+Saline,Precinct 29,U.S. President,,DEM,Tom Steyer,0,0,0,0
+Saline,Precinct 30,U.S. President,,DEM,Tom Steyer,1,0,0,1
+Saline,Precinct 31,U.S. President,,DEM,Tom Steyer,4,0,4,0
+Saline,Precinct 32,U.S. President,,DEM,Tom Steyer,0,0,0,0
+Saline,Precinct 33,U.S. President,,DEM,Tom Steyer,3,0,1,2
+Saline,Precinct 34,U.S. President,,DEM,Tom Steyer,0,0,0,0
+Saline,Precinct 35,U.S. President,,DEM,Tom Steyer,2,0,2,0
+Saline,Precinct 36,U.S. President,,DEM,Tom Steyer,1,0,1,0
+Saline,Precinct 37,U.S. President,,DEM,Tom Steyer,2,0,1,1
+Saline,Precinct 38,U.S. President,,DEM,Tom Steyer,1,0,1,0
+Saline,Precinct 39,U.S. President,,DEM,Tom Steyer,4,0,3,1
+Saline,Precinct 40,U.S. President,,DEM,Tom Steyer,0,0,0,0
+Saline,Precinct 41,U.S. President,,DEM,Tom Steyer,4,0,3,1
+Saline,Precinct 42,U.S. President,,DEM,Tom Steyer,2,0,2,0
+Saline,Precinct 01,U.S. President,,DEM,Tulsi Gabbard,2,0,0,2
+Saline,Precinct 02,U.S. President,,DEM,Tulsi Gabbard,1,0,0,1
+Saline,Precinct 03,U.S. President,,DEM,Tulsi Gabbard,1,0,0,1
+Saline,Precinct 04,U.S. President,,DEM,Tulsi Gabbard,1,0,0,1
+Saline,Precinct 05,U.S. President,,DEM,Tulsi Gabbard,3,0,1,2
+Saline,Precinct 06,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0
+Saline,Precinct 07,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0
+Saline,Precinct 08,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0
+Saline,Precinct 09,U.S. President,,DEM,Tulsi Gabbard,2,0,0,2
+Saline,Precinct 10,U.S. President,,DEM,Tulsi Gabbard,2,0,0,2
+Saline,Precinct 11,U.S. President,,DEM,Tulsi Gabbard,3,0,2,1
+Saline,Precinct 12,U.S. President,,DEM,Tulsi Gabbard,1,0,1,0
+Saline,Precinct 13,U.S. President,,DEM,Tulsi Gabbard,2,0,0,2
+Saline,Precinct 14,U.S. President,,DEM,Tulsi Gabbard,2,0,2,0
+Saline,Precinct 15,U.S. President,,DEM,Tulsi Gabbard,1,0,0,1
+Saline,Precinct 16,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0
+Saline,Precinct 17,U.S. President,,DEM,Tulsi Gabbard,1,0,0,1
+Saline,Precinct 18,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0
+Saline,Precinct 19,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0
+Saline,Precinct 20,U.S. President,,DEM,Tulsi Gabbard,2,0,1,1
+Saline,Precinct 21,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0
+Saline,Precinct 22,U.S. President,,DEM,Tulsi Gabbard,1,0,0,1
+Saline,Precinct 23,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0
+Saline,Precinct 24,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0
+Saline,Precinct 25,U.S. President,,DEM,Tulsi Gabbard,1,0,1,0
+Saline,Precinct 26,U.S. President,,DEM,Tulsi Gabbard,1,0,0,1
+Saline,Precinct 27,U.S. President,,DEM,Tulsi Gabbard,1,0,1,0
+Saline,Precinct 28,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0
+Saline,Precinct 29,U.S. President,,DEM,Tulsi Gabbard,1,0,0,1
+Saline,Precinct 30,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0
+Saline,Precinct 31,U.S. President,,DEM,Tulsi Gabbard,1,0,1,0
+Saline,Precinct 32,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0
+Saline,Precinct 33,U.S. President,,DEM,Tulsi Gabbard,1,0,0,1
+Saline,Precinct 34,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0
+Saline,Precinct 35,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0
+Saline,Precinct 36,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0
+Saline,Precinct 37,U.S. President,,DEM,Tulsi Gabbard,1,0,0,1
+Saline,Precinct 38,U.S. President,,DEM,Tulsi Gabbard,1,0,1,0
+Saline,Precinct 39,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0
+Saline,Precinct 40,U.S. President,,DEM,Tulsi Gabbard,0,0,0,0
+Saline,Precinct 41,U.S. President,,DEM,Tulsi Gabbard,2,1,1,0
+Saline,Precinct 42,U.S. President,,DEM,Tulsi Gabbard,4,0,1,3
+Saline,Precinct 01,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,473,2,164,307
+Saline,Precinct 02,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,453,6,280,167
+Saline,Precinct 03,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,215,1,102,112
+Saline,Precinct 04,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,213,3,100,110
+Saline,Precinct 05,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,408,1,292,115
+Saline,Precinct 06,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,343,2,160,181
+Saline,Precinct 07,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,167,1,77,89
+Saline,Precinct 08,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,120,9,60,51
+Saline,Precinct 09,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,281,2,120,159
+Saline,Precinct 10,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,273,2,129,142
+Saline,Precinct 11,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,364,2,226,136
+Saline,Precinct 12,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,207,1,157,49
+Saline,Precinct 13,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,510,4,259,247
+Saline,Precinct 14,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,301,1,122,178
+Saline,Precinct 15,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,344,4,205,135
+Saline,Precinct 16,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,349,5,136,208
+Saline,Precinct 17,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,326,4,225,97
+Saline,Precinct 18,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,49,0,36,13
+Saline,Precinct 19,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,127,0,45,82
+Saline,Precinct 20,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,262,0,202,60
+Saline,Precinct 21,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,56,0,15,41
+Saline,Precinct 22,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,235,4,70,161
+Saline,Precinct 23,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,63,0,12,51
+Saline,Precinct 24,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,306,1,115,190
+Saline,Precinct 25,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,225,1,79,145
+Saline,Precinct 26,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,204,1,52,151
+Saline,Precinct 27,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,501,3,285,213
+Saline,Precinct 28,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,171,0,57,114
+Saline,Precinct 29,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,99,0,31,68
+Saline,Precinct 30,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,84,0,10,74
+Saline,Precinct 31,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,331,2,157,172
+Saline,Precinct 32,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,214,0,112,102
+Saline,Precinct 33,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,140,2,52,86
+Saline,Precinct 34,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,94,0,23,71
+Saline,Precinct 35,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,370,9,220,141
+Saline,Precinct 36,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,196,1,95,100
+Saline,Precinct 37,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,290,1,149,140
+Saline,Precinct 38,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,286,3,139,144
+Saline,Precinct 39,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,126,0,69,57
+Saline,Precinct 40,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,299,5,175,119
+Saline,Precinct 41,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,230,3,153,74
+Saline,Precinct 42,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,283,1,166,116
+Saline,Precinct 01,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,596,3,215,378
+Saline,Precinct 02,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,608,3,352,253
+Saline,Precinct 03,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,211,0,82,129
+Saline,Precinct 04,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,266,0,114,152
+Saline,Precinct 05,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,371,0,228,143
+Saline,Precinct 06,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,378,1,174,203
+Saline,Precinct 07,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,223,3,113,107
+Saline,Precinct 08,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,145,1,80,64
+Saline,Precinct 09,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,353,3,169,181
+Saline,Precinct 10,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,263,1,99,163
+Saline,Precinct 11,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,333,3,209,121
+Saline,Precinct 12,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,150,1,107,42
+Saline,Precinct 13,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,474,1,249,224
+Saline,Precinct 14,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,344,1,137,206
+Saline,Precinct 15,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,353,4,207,142
+Saline,Precinct 16,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,352,7,151,194
+Saline,Precinct 17,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,331,0,193,138
+Saline,Precinct 18,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,57,0,33,24
+Saline,Precinct 19,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,109,0,43,66
+Saline,Precinct 20,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,287,2,192,93
+Saline,Precinct 21,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,54,0,20,34
+Saline,Precinct 22,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,251,0,62,189
+Saline,Precinct 23,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,108,3,21,84
+Saline,Precinct 24,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,416,2,183,231
+Saline,Precinct 25,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,287,3,112,172
+Saline,Precinct 26,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,324,1,101,222
+Saline,Precinct 27,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,533,4,272,257
+Saline,Precinct 28,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,175,0,68,107
+Saline,Precinct 29,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,109,2,32,75
+Saline,Precinct 30,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,65,1,16,48
+Saline,Precinct 31,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,342,1,174,167
+Saline,Precinct 32,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,223,0,88,135
+Saline,Precinct 33,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,200,0,68,132
+Saline,Precinct 34,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,119,0,30,89
+Saline,Precinct 35,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,515,12,272,231
+Saline,Precinct 36,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,216,2,94,120
+Saline,Precinct 37,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,327,0,149,178
+Saline,Precinct 38,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,292,5,147,140
+Saline,Precinct 39,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,149,2,59,88
+Saline,Precinct 40,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,361,4,192,165
+Saline,Precinct 41,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,270,1,166,103
+Saline,Precinct 42,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,346,1,186,159
+Saline,Precinct 01,Circuit Judge,"22, Division 2",,Bobby Digby,336,1,128,207
+Saline,Precinct 02,Circuit Judge,"22, Division 2",,Bobby Digby,384,2,238,144
+Saline,Precinct 03,Circuit Judge,"22, Division 2",,Bobby Digby,129,0,55,74
+Saline,Precinct 04,Circuit Judge,"22, Division 2",,Bobby Digby,142,3,57,82
+Saline,Precinct 05,Circuit Judge,"22, Division 2",,Bobby Digby,251,1,172,78
+Saline,Precinct 06,Circuit Judge,"22, Division 2",,Bobby Digby,179,2,86,91
+Saline,Precinct 07,Circuit Judge,"22, Division 2",,Bobby Digby,109,1,52,56
+Saline,Precinct 08,Circuit Judge,"22, Division 2",,Bobby Digby,67,1,37,29
+Saline,Precinct 09,Circuit Judge,"22, Division 2",,Bobby Digby,190,3,84,103
+Saline,Precinct 10,Circuit Judge,"22, Division 2",,Bobby Digby,151,1,66,84
+Saline,Precinct 11,Circuit Judge,"22, Division 2",,Bobby Digby,242,4,147,91
+Saline,Precinct 12,Circuit Judge,"22, Division 2",,Bobby Digby,119,0,90,29
+Saline,Precinct 13,Circuit Judge,"22, Division 2",,Bobby Digby,289,2,154,133
+Saline,Precinct 14,Circuit Judge,"22, Division 2",,Bobby Digby,185,0,73,112
+Saline,Precinct 15,Circuit Judge,"22, Division 2",,Bobby Digby,212,1,138,73
+Saline,Precinct 16,Circuit Judge,"22, Division 2",,Bobby Digby,213,1,88,124
+Saline,Precinct 17,Circuit Judge,"22, Division 2",,Bobby Digby,204,2,124,78
+Saline,Precinct 18,Circuit Judge,"22, Division 2",,Bobby Digby,47,0,32,15
+Saline,Precinct 19,Circuit Judge,"22, Division 2",,Bobby Digby,51,0,20,31
+Saline,Precinct 20,Circuit Judge,"22, Division 2",,Bobby Digby,184,1,132,51
+Saline,Precinct 21,Circuit Judge,"22, Division 2",,Bobby Digby,30,0,11,19
+Saline,Precinct 22,Circuit Judge,"22, Division 2",,Bobby Digby,175,1,47,127
+Saline,Precinct 23,Circuit Judge,"22, Division 2",,Bobby Digby,58,0,4,54
+Saline,Precinct 24,Circuit Judge,"22, Division 2",,Bobby Digby,204,2,79,123
+Saline,Precinct 25,Circuit Judge,"22, Division 2",,Bobby Digby,190,0,71,119
+Saline,Precinct 26,Circuit Judge,"22, Division 2",,Bobby Digby,174,1,51,122
+Saline,Precinct 27,Circuit Judge,"22, Division 2",,Bobby Digby,274,2,160,112
+Saline,Precinct 28,Circuit Judge,"22, Division 2",,Bobby Digby,109,0,45,64
+Saline,Precinct 29,Circuit Judge,"22, Division 2",,Bobby Digby,68,0,23,45
+Saline,Precinct 30,Circuit Judge,"22, Division 2",,Bobby Digby,59,1,15,43
+Saline,Precinct 31,Circuit Judge,"22, Division 2",,Bobby Digby,210,1,107,102
+Saline,Precinct 32,Circuit Judge,"22, Division 2",,Bobby Digby,113,0,57,56
+Saline,Precinct 33,Circuit Judge,"22, Division 2",,Bobby Digby,121,0,45,76
+Saline,Precinct 34,Circuit Judge,"22, Division 2",,Bobby Digby,61,0,17,44
+Saline,Precinct 35,Circuit Judge,"22, Division 2",,Bobby Digby,325,6,179,140
+Saline,Precinct 36,Circuit Judge,"22, Division 2",,Bobby Digby,115,1,50,64
+Saline,Precinct 37,Circuit Judge,"22, Division 2",,Bobby Digby,202,0,105,97
+Saline,Precinct 38,Circuit Judge,"22, Division 2",,Bobby Digby,160,3,84,73
+Saline,Precinct 39,Circuit Judge,"22, Division 2",,Bobby Digby,82,0,36,46
+Saline,Precinct 40,Circuit Judge,"22, Division 2",,Bobby Digby,227,4,134,89
+Saline,Precinct 41,Circuit Judge,"22, Division 2",,Bobby Digby,136,2,95,39
+Saline,Precinct 42,Circuit Judge,"22, Division 2",,Bobby Digby,196,0,101,95
+Saline,Precinct 01,Circuit Judge,"22, Division 2",,City Attorney Josh Farmer,711,4,243,464
+Saline,Precinct 02,Circuit Judge,"22, Division 2",,City Attorney Josh Farmer,642,6,378,258
+Saline,Precinct 03,Circuit Judge,"22, Division 2",,City Attorney Josh Farmer,296,1,133,162
+Saline,Precinct 04,Circuit Judge,"22, Division 2",,City Attorney Josh Farmer,337,0,158,179
+Saline,Precinct 05,Circuit Judge,"22, Division 2",,City Attorney Josh Farmer,525,0,345,180
+Saline,Precinct 06,Circuit Judge,"22, Division 2",,City Attorney Josh Farmer,537,1,247,289
+Saline,Precinct 07,Circuit Judge,"22, Division 2",,City Attorney Josh Farmer,280,3,140,137
+Saline,Precinct 08,Circuit Judge,"22, Division 2",,City Attorney Josh Farmer,195,9,101,85
+Saline,Precinct 09,Circuit Judge,"22, Division 2",,City Attorney Josh Farmer,422,2,193,227
+Saline,Precinct 10,Circuit Judge,"22, Division 2",,City Attorney Josh Farmer,372,2,155,215
+Saline,Precinct 11,Circuit Judge,"22, Division 2",,City Attorney Josh Farmer,456,2,287,167
+Saline,Precinct 12,Circuit Judge,"22, Division 2",,City Attorney Josh Farmer,232,1,170,61
+Saline,Precinct 13,Circuit Judge,"22, Division 2",,City Attorney Josh Farmer,677,5,347,325
+Saline,Precinct 14,Circuit Judge,"22, Division 2",,City Attorney Josh Farmer,459,1,187,271
+Saline,Precinct 15,Circuit Judge,"22, Division 2",,City Attorney Josh Farmer,478,7,269,202
+Saline,Precinct 16,Circuit Judge,"22, Division 2",,City Attorney Josh Farmer,488,10,207,271
+Saline,Precinct 17,Circuit Judge,"22, Division 2",,City Attorney Josh Farmer,442,2,289,151
+Saline,Precinct 18,Circuit Judge,"22, Division 2",,City Attorney Josh Farmer,57,0,37,20
+Saline,Precinct 19,Circuit Judge,"22, Division 2",,City Attorney Josh Farmer,182,0,68,114
+Saline,Precinct 20,Circuit Judge,"22, Division 2",,City Attorney Josh Farmer,347,0,247,100
+Saline,Precinct 21,Circuit Judge,"22, Division 2",,City Attorney Josh Farmer,78,0,23,55
+Saline,Precinct 22,Circuit Judge,"22, Division 2",,City Attorney Josh Farmer,296,1,83,212
+Saline,Precinct 23,Circuit Judge,"22, Division 2",,City Attorney Josh Farmer,110,3,29,78
+Saline,Precinct 24,Circuit Judge,"22, Division 2",,City Attorney Josh Farmer,513,1,216,296
+Saline,Precinct 25,Circuit Judge,"22, Division 2",,City Attorney Josh Farmer,315,4,117,194
+Saline,Precinct 26,Circuit Judge,"22, Division 2",,City Attorney Josh Farmer,343,1,97,245
+Saline,Precinct 27,Circuit Judge,"22, Division 2",,City Attorney Josh Farmer,765,5,394,366
+Saline,Precinct 28,Circuit Judge,"22, Division 2",,City Attorney Josh Farmer,238,0,80,158
+Saline,Precinct 29,Circuit Judge,"22, Division 2",,City Attorney Josh Farmer,138,2,41,95
+Saline,Precinct 30,Circuit Judge,"22, Division 2",,City Attorney Josh Farmer,89,0,11,78
+Saline,Precinct 31,Circuit Judge,"22, Division 2",,City Attorney Josh Farmer,464,2,227,235
+Saline,Precinct 32,Circuit Judge,"22, Division 2",,City Attorney Josh Farmer,322,0,142,180
+Saline,Precinct 33,Circuit Judge,"22, Division 2",,City Attorney Josh Farmer,210,1,73,136
+Saline,Precinct 34,Circuit Judge,"22, Division 2",,City Attorney Josh Farmer,149,0,34,115
+Saline,Precinct 35,Circuit Judge,"22, Division 2",,City Attorney Josh Farmer,532,14,294,224
+Saline,Precinct 36,Circuit Judge,"22, Division 2",,City Attorney Josh Farmer,300,2,143,155
+Saline,Precinct 37,Circuit Judge,"22, Division 2",,City Attorney Josh Farmer,401,1,192,208
+Saline,Precinct 38,Circuit Judge,"22, Division 2",,City Attorney Josh Farmer,420,5,202,213
+Saline,Precinct 39,Circuit Judge,"22, Division 2",,City Attorney Josh Farmer,192,2,93,97
+Saline,Precinct 40,Circuit Judge,"22, Division 2",,City Attorney Josh Farmer,429,4,231,194
+Saline,Precinct 41,Circuit Judge,"22, Division 2",,City Attorney Josh Farmer,368,2,227,139
+Saline,Precinct 42,Circuit Judge,"22, Division 2",,City Attorney Josh Farmer,437,2,256,179
+Saline,Precinct 01,Circuit Judge,"22, Division 3",,City Attorney Brent Houston,472,3,189,280
+Saline,Precinct 02,Circuit Judge,"22, Division 3",,City Attorney Brent Houston,556,6,324,226
+Saline,Precinct 03,Circuit Judge,"22, Division 3",,City Attorney Brent Houston,263,1,115,147
+Saline,Precinct 04,Circuit Judge,"22, Division 3",,City Attorney Brent Houston,235,2,103,130
+Saline,Precinct 05,Circuit Judge,"22, Division 3",,City Attorney Brent Houston,438,1,306,131
+Saline,Precinct 06,Circuit Judge,"22, Division 3",,City Attorney Brent Houston,304,1,154,149
+Saline,Precinct 07,Circuit Judge,"22, Division 3",,City Attorney Brent Houston,202,4,98,100
+Saline,Precinct 08,Circuit Judge,"22, Division 3",,City Attorney Brent Houston,143,2,73,68
+Saline,Precinct 09,Circuit Judge,"22, Division 3",,City Attorney Brent Houston,346,2,162,182
+Saline,Precinct 10,Circuit Judge,"22, Division 3",,City Attorney Brent Houston,317,3,145,169
+Saline,Precinct 11,Circuit Judge,"22, Division 3",,City Attorney Brent Houston,368,3,234,131
+Saline,Precinct 12,Circuit Judge,"22, Division 3",,City Attorney Brent Houston,172,1,129,42
+Saline,Precinct 13,Circuit Judge,"22, Division 3",,City Attorney Brent Houston,399,3,208,188
+Saline,Precinct 14,Circuit Judge,"22, Division 3",,City Attorney Brent Houston,312,1,131,180
+Saline,Precinct 15,Circuit Judge,"22, Division 3",,City Attorney Brent Houston,376,5,228,143
+Saline,Precinct 16,Circuit Judge,"22, Division 3",,City Attorney Brent Houston,398,8,176,214
+Saline,Precinct 17,Circuit Judge,"22, Division 3",,City Attorney Brent Houston,350,3,225,122
+Saline,Precinct 18,Circuit Judge,"22, Division 3",,City Attorney Brent Houston,75,0,53,22
+Saline,Precinct 19,Circuit Judge,"22, Division 3",,City Attorney Brent Houston,128,0,52,76
+Saline,Precinct 20,Circuit Judge,"22, Division 3",,City Attorney Brent Houston,276,0,193,83
+Saline,Precinct 21,Circuit Judge,"22, Division 3",,City Attorney Brent Houston,67,0,24,43
+Saline,Precinct 22,Circuit Judge,"22, Division 3",,City Attorney Brent Houston,247,4,73,170
+Saline,Precinct 23,Circuit Judge,"22, Division 3",,City Attorney Brent Houston,84,2,19,63
+Saline,Precinct 24,Circuit Judge,"22, Division 3",,City Attorney Brent Houston,316,2,130,184
+Saline,Precinct 25,Circuit Judge,"22, Division 3",,City Attorney Brent Houston,259,2,87,170
+Saline,Precinct 26,Circuit Judge,"22, Division 3",,City Attorney Brent Houston,264,2,70,192
+Saline,Precinct 27,Circuit Judge,"22, Division 3",,City Attorney Brent Houston,525,5,292,228
+Saline,Precinct 28,Circuit Judge,"22, Division 3",,City Attorney Brent Houston,212,0,73,139
+Saline,Precinct 29,Circuit Judge,"22, Division 3",,City Attorney Brent Houston,120,2,39,79
+Saline,Precinct 30,Circuit Judge,"22, Division 3",,City Attorney Brent Houston,95,1,12,82
+Saline,Precinct 31,Circuit Judge,"22, Division 3",,City Attorney Brent Houston,376,3,184,189
+Saline,Precinct 32,Circuit Judge,"22, Division 3",,City Attorney Brent Houston,227,0,121,106
+Saline,Precinct 33,Circuit Judge,"22, Division 3",,City Attorney Brent Houston,160,1,66,93
+Saline,Precinct 34,Circuit Judge,"22, Division 3",,City Attorney Brent Houston,93,0,23,70
+Saline,Precinct 35,Circuit Judge,"22, Division 3",,City Attorney Brent Houston,447,12,247,188
+Saline,Precinct 36,Circuit Judge,"22, Division 3",,City Attorney Brent Houston,191,0,102,89
+Saline,Precinct 37,Circuit Judge,"22, Division 3",,City Attorney Brent Houston,330,0,163,167
+Saline,Precinct 38,Circuit Judge,"22, Division 3",,City Attorney Brent Houston,249,2,122,125
+Saline,Precinct 39,Circuit Judge,"22, Division 3",,City Attorney Brent Houston,136,2,60,74
+Saline,Precinct 40,Circuit Judge,"22, Division 3",,City Attorney Brent Houston,262,3,151,108
+Saline,Precinct 41,Circuit Judge,"22, Division 3",,City Attorney Brent Houston,274,4,181,89
+Saline,Precinct 42,Circuit Judge,"22, Division 3",,City Attorney Brent Houston,346,1,193,152
+Saline,Precinct 01,Circuit Judge,"22, Division 3",,Josh Newton,564,2,183,379
+Saline,Precinct 02,Circuit Judge,"22, Division 3",,Josh Newton,465,2,291,172
+Saline,Precinct 03,Circuit Judge,"22, Division 3",,Josh Newton,158,0,69,89
+Saline,Precinct 04,Circuit Judge,"22, Division 3",,Josh Newton,246,1,115,130
+Saline,Precinct 05,Circuit Judge,"22, Division 3",,Josh Newton,330,0,207,123
+Saline,Precinct 06,Circuit Judge,"22, Division 3",,Josh Newton,398,2,169,227
+Saline,Precinct 07,Circuit Judge,"22, Division 3",,Josh Newton,186,0,92,94
+Saline,Precinct 08,Circuit Judge,"22, Division 3",,Josh Newton,109,8,59,42
+Saline,Precinct 09,Circuit Judge,"22, Division 3",,Josh Newton,269,3,119,147
+Saline,Precinct 10,Circuit Judge,"22, Division 3",,Josh Newton,208,0,77,131
+Saline,Precinct 11,Circuit Judge,"22, Division 3",,Josh Newton,327,2,199,126
+Saline,Precinct 12,Circuit Judge,"22, Division 3",,Josh Newton,183,1,135,47
+Saline,Precinct 13,Circuit Judge,"22, Division 3",,Josh Newton,563,4,294,265
+Saline,Precinct 14,Circuit Judge,"22, Division 3",,Josh Newton,325,0,126,199
+Saline,Precinct 15,Circuit Judge,"22, Division 3",,Josh Newton,319,3,184,132
+Saline,Precinct 16,Circuit Judge,"22, Division 3",,Josh Newton,301,3,115,183
+Saline,Precinct 17,Circuit Judge,"22, Division 3",,Josh Newton,295,1,186,108
+Saline,Precinct 18,Circuit Judge,"22, Division 3",,Josh Newton,29,0,16,13
+Saline,Precinct 19,Circuit Judge,"22, Division 3",,Josh Newton,100,0,36,64
+Saline,Precinct 20,Circuit Judge,"22, Division 3",,Josh Newton,250,1,184,65
+Saline,Precinct 21,Circuit Judge,"22, Division 3",,Josh Newton,41,0,9,32
+Saline,Precinct 22,Circuit Judge,"22, Division 3",,Josh Newton,224,0,57,167
+Saline,Precinct 23,Circuit Judge,"22, Division 3",,Josh Newton,82,1,14,67
+Saline,Precinct 24,Circuit Judge,"22, Division 3",,Josh Newton,390,1,161,228
+Saline,Precinct 25,Circuit Judge,"22, Division 3",,Josh Newton,242,2,99,141
+Saline,Precinct 26,Circuit Judge,"22, Division 3",,Josh Newton,253,0,78,175
+Saline,Precinct 27,Circuit Judge,"22, Division 3",,Josh Newton,509,1,262,246
+Saline,Precinct 28,Circuit Judge,"22, Division 3",,Josh Newton,136,0,53,83
+Saline,Precinct 29,Circuit Judge,"22, Division 3",,Josh Newton,83,0,24,59
+Saline,Precinct 30,Circuit Judge,"22, Division 3",,Josh Newton,54,0,14,40
+Saline,Precinct 31,Circuit Judge,"22, Division 3",,Josh Newton,302,0,153,149
+Saline,Precinct 32,Circuit Judge,"22, Division 3",,Josh Newton,206,0,77,129
+Saline,Precinct 33,Circuit Judge,"22, Division 3",,Josh Newton,163,0,48,115
+Saline,Precinct 34,Circuit Judge,"22, Division 3",,Josh Newton,116,0,28,88
+Saline,Precinct 35,Circuit Judge,"22, Division 3",,Josh Newton,397,7,221,169
+Saline,Precinct 36,Circuit Judge,"22, Division 3",,Josh Newton,217,3,87,127
+Saline,Precinct 37,Circuit Judge,"22, Division 3",,Josh Newton,271,1,129,141
+Saline,Precinct 38,Circuit Judge,"22, Division 3",,Josh Newton,329,6,162,161
+Saline,Precinct 39,Circuit Judge,"22, Division 3",,Josh Newton,137,0,67,70
+Saline,Precinct 40,Circuit Judge,"22, Division 3",,Josh Newton,389,5,214,170
+Saline,Precinct 41,Circuit Judge,"22, Division 3",,Josh Newton,222,1,133,88
+Saline,Precinct 42,Circuit Judge,"22, Division 3",,Josh Newton,284,0,161,123
+Saline,Precinct 01,State District Court,"32, Division 1",,Clay Ford,502,2,181,319
+Saline,Precinct 02,State District Court,"32, Division 1",,Clay Ford,491,2,309,180
+Saline,Precinct 03,State District Court,"32, Division 1",,Clay Ford,242,0,109,133
+Saline,Precinct 04,State District Court,"32, Division 1",,Clay Ford,212,1,93,118
+Saline,Precinct 05,State District Court,"32, Division 1",,Clay Ford,440,1,303,136
+Saline,Precinct 06,State District Court,"32, Division 1",,Clay Ford,366,2,179,185
+Saline,Precinct 07,State District Court,"32, Division 1",,Clay Ford,195,2,103,90
+Saline,Precinct 08,State District Court,"32, Division 1",,Clay Ford,139,1,75,63
+Saline,Precinct 09,State District Court,"32, Division 1",,Clay Ford,266,2,125,139
+Saline,Precinct 10,State District Court,"32, Division 1",,Clay Ford,311,2,137,172
+Saline,Precinct 11,State District Court,"32, Division 1",,Clay Ford,383,2,258,123
+Saline,Precinct 12,State District Court,"32, Division 1",,Clay Ford,214,1,154,59
+Saline,Precinct 13,State District Court,"32, Division 1",,Clay Ford,485,2,264,219
+Saline,Precinct 14,State District Court,"32, Division 1",,Clay Ford,320,2,135,183
+Saline,Precinct 15,State District Court,"32, Division 1",,Clay Ford,370,3,225,142
+Saline,Precinct 16,State District Court,"32, Division 1",,Clay Ford,400,6,153,241
+Saline,Precinct 17,State District Court,"32, Division 1",,Clay Ford,357,3,227,127
+Saline,Precinct 18,State District Court,"32, Division 1",,Clay Ford,56,0,39,17
+Saline,Precinct 19,State District Court,"32, Division 1",,Clay Ford,138,0,52,86
+Saline,Precinct 20,State District Court,"32, Division 1",,Clay Ford,263,1,191,71
+Saline,Precinct 21,State District Court,"32, Division 1",,Clay Ford,69,0,22,47
+Saline,Precinct 22,State District Court,"32, Division 1",,Clay Ford,224,2,69,153
+Saline,Precinct 23,State District Court,"32, Division 1",,Clay Ford,90,2,17,71
+Saline,Precinct 24,State District Court,"32, Division 1",,Clay Ford,367,2,152,213
+Saline,Precinct 25,State District Court,"32, Division 1",,Clay Ford,233,2,89,142
+Saline,Precinct 26,State District Court,"32, Division 1",,Clay Ford,253,1,65,187
+Saline,Precinct 27,State District Court,"32, Division 1",,Clay Ford,575,2,323,250
+Saline,Precinct 28,State District Court,"32, Division 1",,Clay Ford,232,0,86,146
+Saline,Precinct 29,State District Court,"32, Division 1",,Clay Ford,106,1,37,68
+Saline,Precinct 30,State District Court,"32, Division 1",,Clay Ford,70,0,15,55
+Saline,Precinct 31,State District Court,"32, Division 1",,Clay Ford,379,1,180,198
+Saline,Precinct 32,State District Court,"32, Division 1",,Clay Ford,241,0,110,131
+Saline,Precinct 33,State District Court,"32, Division 1",,Clay Ford,161,1,58,102
+Saline,Precinct 34,State District Court,"32, Division 1",,Clay Ford,97,0,29,68
+Saline,Precinct 35,State District Court,"32, Division 1",,Clay Ford,377,10,209,158
+Saline,Precinct 36,State District Court,"32, Division 1",,Clay Ford,173,2,77,94
+Saline,Precinct 37,State District Court,"32, Division 1",,Clay Ford,274,1,142,131
+Saline,Precinct 38,State District Court,"32, Division 1",,Clay Ford,270,6,144,120
+Saline,Precinct 39,State District Court,"32, Division 1",,Clay Ford,134,2,59,73
+Saline,Precinct 40,State District Court,"32, Division 1",,Clay Ford,311,6,186,119
+Saline,Precinct 41,State District Court,"32, Division 1",,Clay Ford,265,2,168,95
+Saline,Precinct 42,State District Court,"32, Division 1",,Clay Ford,320,0,184,136
+Saline,Precinct 01,State District Court,"32, Division 1",,Brent Standridge,514,3,185,326
+Saline,Precinct 02,State District Court,"32, Division 1",,Brent Standridge,524,6,303,215
+Saline,Precinct 03,State District Court,"32, Division 1",,Brent Standridge,176,1,73,102
+Saline,Precinct 04,State District Court,"32, Division 1",,Brent Standridge,255,2,121,132
+Saline,Precinct 05,State District Court,"32, Division 1",,Brent Standridge,322,0,202,120
+Saline,Precinct 06,State District Court,"32, Division 1",,Brent Standridge,313,1,134,178
+Saline,Precinct 07,State District Court,"32, Division 1",,Brent Standridge,191,2,89,100
+Saline,Precinct 08,State District Court,"32, Division 1",,Brent Standridge,115,9,57,49
+Saline,Precinct 09,State District Court,"32, Division 1",,Brent Standridge,340,2,150,188
+Saline,Precinct 10,State District Court,"32, Division 1",,Brent Standridge,214,1,86,127
+Saline,Precinct 11,State District Court,"32, Division 1",,Brent Standridge,312,3,175,134
+Saline,Precinct 12,State District Court,"32, Division 1",,Brent Standridge,140,1,107,32
+Saline,Precinct 13,State District Court,"32, Division 1",,Brent Standridge,445,2,225,218
+Saline,Precinct 14,State District Court,"32, Division 1",,Brent Standridge,314,0,121,193
+Saline,Precinct 15,State District Court,"32, Division 1",,Brent Standridge,301,5,177,119
+Saline,Precinct 16,State District Court,"32, Division 1",,Brent Standridge,294,5,137,152
+Saline,Precinct 17,State District Court,"32, Division 1",,Brent Standridge,283,1,183,99
+Saline,Precinct 18,State District Court,"32, Division 1",,Brent Standridge,48,0,30,18
+Saline,Precinct 19,State District Court,"32, Division 1",,Brent Standridge,95,0,36,59
+Saline,Precinct 20,State District Court,"32, Division 1",,Brent Standridge,251,0,176,75
+Saline,Precinct 21,State District Court,"32, Division 1",,Brent Standridge,40,0,12,28
+Saline,Precinct 22,State District Court,"32, Division 1",,Brent Standridge,245,0,59,186
+Saline,Precinct 23,State District Court,"32, Division 1",,Brent Standridge,73,1,15,57
+Saline,Precinct 24,State District Court,"32, Division 1",,Brent Standridge,334,1,138,195
+Saline,Precinct 25,State District Court,"32, Division 1",,Brent Standridge,262,2,93,167
+Saline,Precinct 26,State District Court,"32, Division 1",,Brent Standridge,257,1,81,175
+Saline,Precinct 27,State District Court,"32, Division 1",,Brent Standridge,439,4,219,216
+Saline,Precinct 28,State District Court,"32, Division 1",,Brent Standridge,114,0,39,75
+Saline,Precinct 29,State District Court,"32, Division 1",,Brent Standridge,93,1,25,67
+Saline,Precinct 30,State District Court,"32, Division 1",,Brent Standridge,78,1,10,67
+Saline,Precinct 31,State District Court,"32, Division 1",,Brent Standridge,292,2,151,139
+Saline,Precinct 32,State District Court,"32, Division 1",,Brent Standridge,187,0,85,102
+Saline,Precinct 33,State District Court,"32, Division 1",,Brent Standridge,158,0,58,100
+Saline,Precinct 34,State District Court,"32, Division 1",,Brent Standridge,105,0,22,83
+Saline,Precinct 35,State District Court,"32, Division 1",,Brent Standridge,453,9,253,191
+Saline,Precinct 36,State District Court,"32, Division 1",,Brent Standridge,225,1,108,116
+Saline,Precinct 37,State District Court,"32, Division 1",,Brent Standridge,324,0,149,175
+Saline,Precinct 38,State District Court,"32, Division 1",,Brent Standridge,291,2,138,151
+Saline,Precinct 39,State District Court,"32, Division 1",,Brent Standridge,136,0,67,69
+Saline,Precinct 40,State District Court,"32, Division 1",,Brent Standridge,317,2,170,145
+Saline,Precinct 41,State District Court,"32, Division 1",,Brent Standridge,234,3,150,81
+Saline,Precinct 42,State District Court,"32, Division 1",,Brent Standridge,302,1,165,136
+Saline,Precinct 02,Special Election for State House District 22,,,Judy Bowers,317,3,176,138
+Saline,Precinct 08,Special Election for State House District 22,,,Judy Bowers,10,7,1,2
+Saline,Precinct 23,Special Election for State House District 22,,,Judy Bowers,38,0,14,24
+Saline,Precinct 35,Special Election for State House District 22,,,Judy Bowers,287,8,148,131
+Saline,Precinct 02,Special Election for State House District 22,,,Justice of the Peace Richard McGrew,730,7,454,269
+Saline,Precinct 08,Special Election for State House District 22,,,Justice of the Peace Richard McGrew,4,0,2,2
+Saline,Precinct 23,Special Election for State House District 22,,,Justice of the Peace Richard McGrew,131,2,19,110
+Saline,Precinct 35,Special Election for State House District 22,,,Justice of the Peace Richard McGrew,605,14,345,246

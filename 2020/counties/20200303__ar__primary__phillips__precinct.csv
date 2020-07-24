@@ -1,0 +1,478 @@
+county,precinct,office,district,party,candidate,votes,absentee,election_day,early_vote,provisional
+Phillips,PRECINCT 0001,U.S. President,,Dem,Elizabeth Warren,19,1,7,11,0
+Phillips,PRECINCT 0002 02 UMETHODIST (O,U.S. President,,Dem,Elizabeth Warren,0,0,0,0,0
+Phillips,PRECINCT 0003,U.S. President,,Dem,Elizabeth Warren,28,0,19,9,0
+Phillips,PRECINCT 0005,U.S. President,,Dem,Elizabeth Warren,5,0,1,4,0
+Phillips,PRECINCT 0006,U.S. President,,Dem,Elizabeth Warren,9,0,3,6,0
+Phillips,PRECINCT 0007,U.S. President,,Dem,Elizabeth Warren,1,0,0,1,0
+Phillips,PRECINCT 0008 01 SPRING LAKE C,U.S. President,,Dem,Elizabeth Warren,4,0,2,2,0
+Phillips,PRECINCT 0009 01 BARTON FIRE S,U.S. President,,Dem,Elizabeth Warren,2,0,1,1,0
+Phillips,PRECINCT 0010,U.S. President,,Dem,Elizabeth Warren,4,0,4,0,0
+Phillips,PRECINCT 0011 01 FULLER SEED,U.S. President,,Dem,Elizabeth Warren,0,0,0,0,0
+Phillips,PRECINCT 0012 01 TRENTON BAPTI,U.S. President,,Dem,Elizabeth Warren,4,0,4,0,0
+Phillips,PRECINCT 0013,U.S. President,,Dem,Elizabeth Warren,3,0,3,0,0
+Phillips,PRECINCT 0014 01 MT. ZION BAPT,U.S. President,,Dem,Elizabeth Warren,3,0,3,0,0
+Phillips,PRECINCT 0015 01 LAKEVIEW CITY,U.S. President,,Dem,Elizabeth Warren,4,0,3,1,0
+Phillips,PRECINCT 0016 01 ELAINE FIRE S,U.S. President,,Dem,Elizabeth Warren,8,1,7,0,0
+Phillips,PRECINCT 0017 01 MELLWOOD GROC,U.S. President,,Dem,Elizabeth Warren,0,0,0,0,0
+Phillips,PRECINCT 0001,U.S. President,,Dem,John K. Delaney,4,0,1,3,0
+Phillips,PRECINCT 0002 02 UMETHODIST (O,U.S. President,,Dem,John K. Delaney,0,0,0,0,0
+Phillips,PRECINCT 0003,U.S. President,,Dem,John K. Delaney,1,0,1,0,0
+Phillips,PRECINCT 0005,U.S. President,,Dem,John K. Delaney,1,0,1,0,0
+Phillips,PRECINCT 0006,U.S. President,,Dem,John K. Delaney,4,0,2,2,0
+Phillips,PRECINCT 0007,U.S. President,,Dem,John K. Delaney,2,0,2,0,0
+Phillips,PRECINCT 0008 01 SPRING LAKE C,U.S. President,,Dem,John K. Delaney,0,0,0,0,0
+Phillips,PRECINCT 0009 01 BARTON FIRE S,U.S. President,,Dem,John K. Delaney,1,0,1,0,0
+Phillips,PRECINCT 0010,U.S. President,,Dem,John K. Delaney,1,0,1,0,0
+Phillips,PRECINCT 0011 01 FULLER SEED,U.S. President,,Dem,John K. Delaney,2,0,2,0,0
+Phillips,PRECINCT 0012 01 TRENTON BAPTI,U.S. President,,Dem,John K. Delaney,0,0,0,0,0
+Phillips,PRECINCT 0013,U.S. President,,Dem,John K. Delaney,0,0,0,0,0
+Phillips,PRECINCT 0014 01 MT. ZION BAPT,U.S. President,,Dem,John K. Delaney,0,0,0,0,0
+Phillips,PRECINCT 0015 01 LAKEVIEW CITY,U.S. President,,Dem,John K. Delaney,0,0,0,0,0
+Phillips,PRECINCT 0016 01 ELAINE FIRE S,U.S. President,,Dem,John K. Delaney,1,0,0,1,0
+Phillips,PRECINCT 0017 01 MELLWOOD GROC,U.S. President,,Dem,John K. Delaney,1,0,1,0,0
+Phillips,PRECINCT 0001,U.S. President,,Dem,Kamala Harris,3,0,0,3,0
+Phillips,PRECINCT 0002 02 UMETHODIST (O,U.S. President,,Dem,Kamala Harris,0,0,0,0,0
+Phillips,PRECINCT 0003,U.S. President,,Dem,Kamala Harris,1,0,0,1,0
+Phillips,PRECINCT 0005,U.S. President,,Dem,Kamala Harris,0,0,0,0,0
+Phillips,PRECINCT 0006,U.S. President,,Dem,Kamala Harris,1,0,1,0,0
+Phillips,PRECINCT 0007,U.S. President,,Dem,Kamala Harris,5,0,2,2,1
+Phillips,PRECINCT 0008 01 SPRING LAKE C,U.S. President,,Dem,Kamala Harris,0,0,0,0,0
+Phillips,PRECINCT 0009 01 BARTON FIRE S,U.S. President,,Dem,Kamala Harris,0,0,0,0,0
+Phillips,PRECINCT 0010,U.S. President,,Dem,Kamala Harris,0,0,0,0,0
+Phillips,PRECINCT 0011 01 FULLER SEED,U.S. President,,Dem,Kamala Harris,0,0,0,0,0
+Phillips,PRECINCT 0012 01 TRENTON BAPTI,U.S. President,,Dem,Kamala Harris,0,0,0,0,0
+Phillips,PRECINCT 0013,U.S. President,,Dem,Kamala Harris,0,0,0,0,0
+Phillips,PRECINCT 0014 01 MT. ZION BAPT,U.S. President,,Dem,Kamala Harris,0,0,0,0,0
+Phillips,PRECINCT 0015 01 LAKEVIEW CITY,U.S. President,,Dem,Kamala Harris,0,0,0,0,0
+Phillips,PRECINCT 0016 01 ELAINE FIRE S,U.S. President,,Dem,Kamala Harris,0,0,0,0,0
+Phillips,PRECINCT 0017 01 MELLWOOD GROC,U.S. President,,Dem,Kamala Harris,0,0,0,0,0
+Phillips,PRECINCT 0001,U.S. President,,Dem,Pete Buttigieg,8,0,1,7,0
+Phillips,PRECINCT 0002 02 UMETHODIST (O,U.S. President,,Dem,Pete Buttigieg,0,0,0,0,0
+Phillips,PRECINCT 0003,U.S. President,,Dem,Pete Buttigieg,3,0,1,2,0
+Phillips,PRECINCT 0005,U.S. President,,Dem,Pete Buttigieg,1,0,1,0,0
+Phillips,PRECINCT 0006,U.S. President,,Dem,Pete Buttigieg,0,0,0,0,0
+Phillips,PRECINCT 0007,U.S. President,,Dem,Pete Buttigieg,3,0,2,1,0
+Phillips,PRECINCT 0008 01 SPRING LAKE C,U.S. President,,Dem,Pete Buttigieg,0,0,0,0,0
+Phillips,PRECINCT 0009 01 BARTON FIRE S,U.S. President,,Dem,Pete Buttigieg,0,0,0,0,0
+Phillips,PRECINCT 0010,U.S. President,,Dem,Pete Buttigieg,1,0,0,1,0
+Phillips,PRECINCT 0011 01 FULLER SEED,U.S. President,,Dem,Pete Buttigieg,0,0,0,0,0
+Phillips,PRECINCT 0012 01 TRENTON BAPTI,U.S. President,,Dem,Pete Buttigieg,0,0,0,0,0
+Phillips,PRECINCT 0013,U.S. President,,Dem,Pete Buttigieg,1,0,0,1,0
+Phillips,PRECINCT 0014 01 MT. ZION BAPT,U.S. President,,Dem,Pete Buttigieg,0,0,0,0,0
+Phillips,PRECINCT 0015 01 LAKEVIEW CITY,U.S. President,,Dem,Pete Buttigieg,0,0,0,0,0
+Phillips,PRECINCT 0016 01 ELAINE FIRE S,U.S. President,,Dem,Pete Buttigieg,0,0,0,0,0
+Phillips,PRECINCT 0017 01 MELLWOOD GROC,U.S. President,,Dem,Pete Buttigieg,2,0,2,0,0
+Phillips,PRECINCT 0001,U.S. President,,Dem,Steve Bullock,4,0,1,3,0
+Phillips,PRECINCT 0002 02 UMETHODIST (O,U.S. President,,Dem,Steve Bullock,0,0,0,0,0
+Phillips,PRECINCT 0003,U.S. President,,Dem,Steve Bullock,0,0,0,0,0
+Phillips,PRECINCT 0005,U.S. President,,Dem,Steve Bullock,1,0,1,0,0
+Phillips,PRECINCT 0006,U.S. President,,Dem,Steve Bullock,0,0,0,0,0
+Phillips,PRECINCT 0007,U.S. President,,Dem,Steve Bullock,0,0,0,0,0
+Phillips,PRECINCT 0008 01 SPRING LAKE C,U.S. President,,Dem,Steve Bullock,0,0,0,0,0
+Phillips,PRECINCT 0009 01 BARTON FIRE S,U.S. President,,Dem,Steve Bullock,0,0,0,0,0
+Phillips,PRECINCT 0010,U.S. President,,Dem,Steve Bullock,0,0,0,0,0
+Phillips,PRECINCT 0011 01 FULLER SEED,U.S. President,,Dem,Steve Bullock,0,0,0,0,0
+Phillips,PRECINCT 0012 01 TRENTON BAPTI,U.S. President,,Dem,Steve Bullock,0,0,0,0,0
+Phillips,PRECINCT 0013,U.S. President,,Dem,Steve Bullock,0,0,0,0,0
+Phillips,PRECINCT 0014 01 MT. ZION BAPT,U.S. President,,Dem,Steve Bullock,2,0,2,0,0
+Phillips,PRECINCT 0015 01 LAKEVIEW CITY,U.S. President,,Dem,Steve Bullock,0,0,0,0,0
+Phillips,PRECINCT 0016 01 ELAINE FIRE S,U.S. President,,Dem,Steve Bullock,0,0,0,0,0
+Phillips,PRECINCT 0017 01 MELLWOOD GROC,U.S. President,,Dem,Steve Bullock,0,0,0,0,0
+Phillips,PRECINCT 0001,U.S. President,,Dem,Joe Sestak,4,0,3,0,1
+Phillips,PRECINCT 0002 02 UMETHODIST (O,U.S. President,,Dem,Joe Sestak,0,0,0,0,0
+Phillips,PRECINCT 0003,U.S. President,,Dem,Joe Sestak,1,0,0,1,0
+Phillips,PRECINCT 0005,U.S. President,,Dem,Joe Sestak,1,0,1,0,0
+Phillips,PRECINCT 0006,U.S. President,,Dem,Joe Sestak,1,0,1,0,0
+Phillips,PRECINCT 0007,U.S. President,,Dem,Joe Sestak,1,0,0,1,0
+Phillips,PRECINCT 0008 01 SPRING LAKE C,U.S. President,,Dem,Joe Sestak,1,0,1,0,0
+Phillips,PRECINCT 0009 01 BARTON FIRE S,U.S. President,,Dem,Joe Sestak,1,0,1,0,0
+Phillips,PRECINCT 0010,U.S. President,,Dem,Joe Sestak,2,0,2,0,0
+Phillips,PRECINCT 0011 01 FULLER SEED,U.S. President,,Dem,Joe Sestak,0,0,0,0,0
+Phillips,PRECINCT 0012 01 TRENTON BAPTI,U.S. President,,Dem,Joe Sestak,0,0,0,0,0
+Phillips,PRECINCT 0013,U.S. President,,Dem,Joe Sestak,1,0,0,1,0
+Phillips,PRECINCT 0014 01 MT. ZION BAPT,U.S. President,,Dem,Joe Sestak,0,0,0,0,0
+Phillips,PRECINCT 0015 01 LAKEVIEW CITY,U.S. President,,Dem,Joe Sestak,2,0,1,1,0
+Phillips,PRECINCT 0016 01 ELAINE FIRE S,U.S. President,,Dem,Joe Sestak,0,0,0,0,0
+Phillips,PRECINCT 0017 01 MELLWOOD GROC,U.S. President,,Dem,Joe Sestak,0,0,0,0,0
+Phillips,PRECINCT 0001,U.S. President,,Dem,Tom Steyer,2,0,1,1,0
+Phillips,PRECINCT 0002 02 UMETHODIST (O,U.S. President,,Dem,Tom Steyer,0,0,0,0,0
+Phillips,PRECINCT 0003,U.S. President,,Dem,Tom Steyer,1,0,0,1,0
+Phillips,PRECINCT 0005,U.S. President,,Dem,Tom Steyer,0,0,0,0,0
+Phillips,PRECINCT 0006,U.S. President,,Dem,Tom Steyer,0,0,0,0,0
+Phillips,PRECINCT 0007,U.S. President,,Dem,Tom Steyer,0,0,0,0,0
+Phillips,PRECINCT 0008 01 SPRING LAKE C,U.S. President,,Dem,Tom Steyer,0,0,0,0,0
+Phillips,PRECINCT 0009 01 BARTON FIRE S,U.S. President,,Dem,Tom Steyer,1,0,1,0,0
+Phillips,PRECINCT 0010,U.S. President,,Dem,Tom Steyer,0,0,0,0,0
+Phillips,PRECINCT 0011 01 FULLER SEED,U.S. President,,Dem,Tom Steyer,1,0,1,0,0
+Phillips,PRECINCT 0012 01 TRENTON BAPTI,U.S. President,,Dem,Tom Steyer,1,0,1,0,0
+Phillips,PRECINCT 0013,U.S. President,,Dem,Tom Steyer,1,0,1,0,0
+Phillips,PRECINCT 0014 01 MT. ZION BAPT,U.S. President,,Dem,Tom Steyer,1,0,0,1,0
+Phillips,PRECINCT 0015 01 LAKEVIEW CITY,U.S. President,,Dem,Tom Steyer,0,0,0,0,0
+Phillips,PRECINCT 0016 01 ELAINE FIRE S,U.S. President,,Dem,Tom Steyer,0,0,0,0,0
+Phillips,PRECINCT 0017 01 MELLWOOD GROC,U.S. President,,Dem,Tom Steyer,0,0,0,0,0
+Phillips,PRECINCT 0001,U.S. President,,Dem,Mosie Boyd,0,0,0,0,0
+Phillips,PRECINCT 0002 02 UMETHODIST (O,U.S. President,,Dem,Mosie Boyd,0,0,0,0,0
+Phillips,PRECINCT 0003,U.S. President,,Dem,Mosie Boyd,0,0,0,0,0
+Phillips,PRECINCT 0005,U.S. President,,Dem,Mosie Boyd,0,0,0,0,0
+Phillips,PRECINCT 0006,U.S. President,,Dem,Mosie Boyd,0,0,0,0,0
+Phillips,PRECINCT 0007,U.S. President,,Dem,Mosie Boyd,1,0,1,0,0
+Phillips,PRECINCT 0008 01 SPRING LAKE C,U.S. President,,Dem,Mosie Boyd,0,0,0,0,0
+Phillips,PRECINCT 0009 01 BARTON FIRE S,U.S. President,,Dem,Mosie Boyd,0,0,0,0,0
+Phillips,PRECINCT 0010,U.S. President,,Dem,Mosie Boyd,0,0,0,0,0
+Phillips,PRECINCT 0011 01 FULLER SEED,U.S. President,,Dem,Mosie Boyd,0,0,0,0,0
+Phillips,PRECINCT 0012 01 TRENTON BAPTI,U.S. President,,Dem,Mosie Boyd,0,0,0,0,0
+Phillips,PRECINCT 0013,U.S. President,,Dem,Mosie Boyd,0,0,0,0,0
+Phillips,PRECINCT 0014 01 MT. ZION BAPT,U.S. President,,Dem,Mosie Boyd,0,0,0,0,0
+Phillips,PRECINCT 0015 01 LAKEVIEW CITY,U.S. President,,Dem,Mosie Boyd,1,0,0,1,0
+Phillips,PRECINCT 0016 01 ELAINE FIRE S,U.S. President,,Dem,Mosie Boyd,0,0,0,0,0
+Phillips,PRECINCT 0017 01 MELLWOOD GROC,U.S. President,,Dem,Mosie Boyd,0,0,0,0,0
+Phillips,PRECINCT 0001,U.S. President,,Dem,Andrew Yang,3,0,2,1,0
+Phillips,PRECINCT 0002 02 UMETHODIST (O,U.S. President,,Dem,Andrew Yang,0,0,0,0,0
+Phillips,PRECINCT 0003,U.S. President,,Dem,Andrew Yang,0,0,0,0,0
+Phillips,PRECINCT 0005,U.S. President,,Dem,Andrew Yang,0,0,0,0,0
+Phillips,PRECINCT 0006,U.S. President,,Dem,Andrew Yang,2,0,0,2,0
+Phillips,PRECINCT 0007,U.S. President,,Dem,Andrew Yang,0,0,0,0,0
+Phillips,PRECINCT 0008 01 SPRING LAKE C,U.S. President,,Dem,Andrew Yang,2,0,1,1,0
+Phillips,PRECINCT 0009 01 BARTON FIRE S,U.S. President,,Dem,Andrew Yang,0,0,0,0,0
+Phillips,PRECINCT 0010,U.S. President,,Dem,Andrew Yang,1,0,1,0,0
+Phillips,PRECINCT 0011 01 FULLER SEED,U.S. President,,Dem,Andrew Yang,0,0,0,0,0
+Phillips,PRECINCT 0012 01 TRENTON BAPTI,U.S. President,,Dem,Andrew Yang,0,0,0,0,0
+Phillips,PRECINCT 0013,U.S. President,,Dem,Andrew Yang,1,0,1,0,0
+Phillips,PRECINCT 0014 01 MT. ZION BAPT,U.S. President,,Dem,Andrew Yang,0,0,0,0,0
+Phillips,PRECINCT 0015 01 LAKEVIEW CITY,U.S. President,,Dem,Andrew Yang,0,0,0,0,0
+Phillips,PRECINCT 0016 01 ELAINE FIRE S,U.S. President,,Dem,Andrew Yang,0,0,0,0,0
+Phillips,PRECINCT 0017 01 MELLWOOD GROC,U.S. President,,Dem,Andrew Yang,0,0,0,0,0
+Phillips,PRECINCT 0001,U.S. President,,Dem,Joseph R. Biden,178,10,83,84,1
+Phillips,PRECINCT 0002 02 UMETHODIST (O,U.S. President,,Dem,Joseph R. Biden,3,0,2,1,0
+Phillips,PRECINCT 0003,U.S. President,,Dem,Joseph R. Biden,154,4,88,62,0
+Phillips,PRECINCT 0005,U.S. President,,Dem,Joseph R. Biden,38,0,24,14,0
+Phillips,PRECINCT 0006,U.S. President,,Dem,Joseph R. Biden,146,5,81,60,0
+Phillips,PRECINCT 0007,U.S. President,,Dem,Joseph R. Biden,54,0,35,19,0
+Phillips,PRECINCT 0008 01 SPRING LAKE C,U.S. President,,Dem,Joseph R. Biden,59,2,45,12,0
+Phillips,PRECINCT 0009 01 BARTON FIRE S,U.S. President,,Dem,Joseph R. Biden,38,0,30,8,0
+Phillips,PRECINCT 0010,U.S. President,,Dem,Joseph R. Biden,19,0,14,5,0
+Phillips,PRECINCT 0011 01 FULLER SEED,U.S. President,,Dem,Joseph R. Biden,39,0,27,12,0
+Phillips,PRECINCT 0012 01 TRENTON BAPTI,U.S. President,,Dem,Joseph R. Biden,20,2,14,4,0
+Phillips,PRECINCT 0013,U.S. President,,Dem,Joseph R. Biden,94,2,79,13,0
+Phillips,PRECINCT 0014 01 MT. ZION BAPT,U.S. President,,Dem,Joseph R. Biden,12,0,12,0,0
+Phillips,PRECINCT 0015 01 LAKEVIEW CITY,U.S. President,,Dem,Joseph R. Biden,61,0,51,10,0
+Phillips,PRECINCT 0016 01 ELAINE FIRE S,U.S. President,,Dem,Joseph R. Biden,50,10,34,6,0
+Phillips,PRECINCT 0017 01 MELLWOOD GROC,U.S. President,,Dem,Joseph R. Biden,4,0,4,0,0
+Phillips,PRECINCT 0001,U.S. President,,Dem,Marianne Williamson,1,0,1,0,0
+Phillips,PRECINCT 0002 02 UMETHODIST (O,U.S. President,,Dem,Marianne Williamson,0,0,0,0,0
+Phillips,PRECINCT 0003,U.S. President,,Dem,Marianne Williamson,2,0,1,1,0
+Phillips,PRECINCT 0005,U.S. President,,Dem,Marianne Williamson,0,0,0,0,0
+Phillips,PRECINCT 0006,U.S. President,,Dem,Marianne Williamson,0,0,0,0,0
+Phillips,PRECINCT 0007,U.S. President,,Dem,Marianne Williamson,0,0,0,0,0
+Phillips,PRECINCT 0008 01 SPRING LAKE C,U.S. President,,Dem,Marianne Williamson,0,0,0,0,0
+Phillips,PRECINCT 0009 01 BARTON FIRE S,U.S. President,,Dem,Marianne Williamson,0,0,0,0,0
+Phillips,PRECINCT 0010,U.S. President,,Dem,Marianne Williamson,2,0,2,0,0
+Phillips,PRECINCT 0011 01 FULLER SEED,U.S. President,,Dem,Marianne Williamson,0,0,0,0,0
+Phillips,PRECINCT 0012 01 TRENTON BAPTI,U.S. President,,Dem,Marianne Williamson,0,0,0,0,0
+Phillips,PRECINCT 0013,U.S. President,,Dem,Marianne Williamson,1,0,1,0,0
+Phillips,PRECINCT 0014 01 MT. ZION BAPT,U.S. President,,Dem,Marianne Williamson,0,0,0,0,0
+Phillips,PRECINCT 0015 01 LAKEVIEW CITY,U.S. President,,Dem,Marianne Williamson,0,0,0,0,0
+Phillips,PRECINCT 0016 01 ELAINE FIRE S,U.S. President,,Dem,Marianne Williamson,0,0,0,0,0
+Phillips,PRECINCT 0017 01 MELLWOOD GROC,U.S. President,,Dem,Marianne Williamson,0,0,0,0,0
+Phillips,PRECINCT 0001,U.S. President,,Dem,Michael Bennet,2,0,0,2,0
+Phillips,PRECINCT 0002 02 UMETHODIST (O,U.S. President,,Dem,Michael Bennet,0,0,0,0,0
+Phillips,PRECINCT 0003,U.S. President,,Dem,Michael Bennet,1,0,1,0,0
+Phillips,PRECINCT 0005,U.S. President,,Dem,Michael Bennet,1,0,1,0,0
+Phillips,PRECINCT 0006,U.S. President,,Dem,Michael Bennet,0,0,0,0,0
+Phillips,PRECINCT 0007,U.S. President,,Dem,Michael Bennet,0,0,0,0,0
+Phillips,PRECINCT 0008 01 SPRING LAKE C,U.S. President,,Dem,Michael Bennet,0,0,0,0,0
+Phillips,PRECINCT 0009 01 BARTON FIRE S,U.S. President,,Dem,Michael Bennet,0,0,0,0,0
+Phillips,PRECINCT 0010,U.S. President,,Dem,Michael Bennet,0,0,0,0,0
+Phillips,PRECINCT 0011 01 FULLER SEED,U.S. President,,Dem,Michael Bennet,0,0,0,0,0
+Phillips,PRECINCT 0012 01 TRENTON BAPTI,U.S. President,,Dem,Michael Bennet,1,0,1,0,0
+Phillips,PRECINCT 0013,U.S. President,,Dem,Michael Bennet,1,0,1,0,0
+Phillips,PRECINCT 0014 01 MT. ZION BAPT,U.S. President,,Dem,Michael Bennet,0,0,0,0,0
+Phillips,PRECINCT 0015 01 LAKEVIEW CITY,U.S. President,,Dem,Michael Bennet,0,0,0,0,0
+Phillips,PRECINCT 0016 01 ELAINE FIRE S,U.S. President,,Dem,Michael Bennet,1,0,1,0,0
+Phillips,PRECINCT 0017 01 MELLWOOD GROC,U.S. President,,Dem,Michael Bennet,0,0,0,0,0
+Phillips,PRECINCT 0001,U.S. President,,Dem,Michael R. Bloomberg,78,0,25,53,0
+Phillips,PRECINCT 0002 02 UMETHODIST (O,U.S. President,,Dem,Michael R. Bloomberg,0,0,0,0,0
+Phillips,PRECINCT 0003,U.S. President,,Dem,Michael R. Bloomberg,48,0,23,25,0
+Phillips,PRECINCT 0005,U.S. President,,Dem,Michael R. Bloomberg,20,0,8,12,0
+Phillips,PRECINCT 0006,U.S. President,,Dem,Michael R. Bloomberg,46,1,13,32,0
+Phillips,PRECINCT 0007,U.S. President,,Dem,Michael R. Bloomberg,18,0,13,5,0
+Phillips,PRECINCT 0008 01 SPRING LAKE C,U.S. President,,Dem,Michael R. Bloomberg,8,0,4,4,0
+Phillips,PRECINCT 0009 01 BARTON FIRE S,U.S. President,,Dem,Michael R. Bloomberg,11,0,11,0,0
+Phillips,PRECINCT 0010,U.S. President,,Dem,Michael R. Bloomberg,7,0,4,3,0
+Phillips,PRECINCT 0011 01 FULLER SEED,U.S. President,,Dem,Michael R. Bloomberg,10,0,7,3,0
+Phillips,PRECINCT 0012 01 TRENTON BAPTI,U.S. President,,Dem,Michael R. Bloomberg,3,0,3,0,0
+Phillips,PRECINCT 0013,U.S. President,,Dem,Michael R. Bloomberg,22,2,17,3,0
+Phillips,PRECINCT 0014 01 MT. ZION BAPT,U.S. President,,Dem,Michael R. Bloomberg,1,0,1,0,0
+Phillips,PRECINCT 0015 01 LAKEVIEW CITY,U.S. President,,Dem,Michael R. Bloomberg,8,1,4,3,0
+Phillips,PRECINCT 0016 01 ELAINE FIRE S,U.S. President,,Dem,Michael R. Bloomberg,13,5,6,2,0
+Phillips,PRECINCT 0017 01 MELLWOOD GROC,U.S. President,,Dem,Michael R. Bloomberg,3,1,2,0,0
+Phillips,PRECINCT 0001,U.S. President,,Dem,Julian Castro,2,0,0,2,0
+Phillips,PRECINCT 0002 02 UMETHODIST (O,U.S. President,,Dem,Julian Castro,0,0,0,0,0
+Phillips,PRECINCT 0003,U.S. President,,Dem,Julian Castro,0,0,0,0,0
+Phillips,PRECINCT 0005,U.S. President,,Dem,Julian Castro,0,0,0,0,0
+Phillips,PRECINCT 0006,U.S. President,,Dem,Julian Castro,2,0,1,1,0
+Phillips,PRECINCT 0007,U.S. President,,Dem,Julian Castro,0,0,0,0,0
+Phillips,PRECINCT 0008 01 SPRING LAKE C,U.S. President,,Dem,Julian Castro,0,0,0,0,0
+Phillips,PRECINCT 0009 01 BARTON FIRE S,U.S. President,,Dem,Julian Castro,0,0,0,0,0
+Phillips,PRECINCT 0010,U.S. President,,Dem,Julian Castro,1,0,1,0,0
+Phillips,PRECINCT 0011 01 FULLER SEED,U.S. President,,Dem,Julian Castro,0,0,0,0,0
+Phillips,PRECINCT 0012 01 TRENTON BAPTI,U.S. President,,Dem,Julian Castro,0,0,0,0,0
+Phillips,PRECINCT 0013,U.S. President,,Dem,Julian Castro,0,0,0,0,0
+Phillips,PRECINCT 0014 01 MT. ZION BAPT,U.S. President,,Dem,Julian Castro,0,0,0,0,0
+Phillips,PRECINCT 0015 01 LAKEVIEW CITY,U.S. President,,Dem,Julian Castro,0,0,0,0,0
+Phillips,PRECINCT 0016 01 ELAINE FIRE S,U.S. President,,Dem,Julian Castro,0,0,0,0,0
+Phillips,PRECINCT 0017 01 MELLWOOD GROC,U.S. President,,Dem,Julian Castro,1,0,1,0,0
+Phillips,PRECINCT 0001,U.S. President,,Dem,Tulsi Gabbard,6,0,1,5,0
+Phillips,PRECINCT 0002 02 UMETHODIST (O,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0,0
+Phillips,PRECINCT 0003,U.S. President,,Dem,Tulsi Gabbard,6,0,4,2,0
+Phillips,PRECINCT 0005,U.S. President,,Dem,Tulsi Gabbard,1,0,0,1,0
+Phillips,PRECINCT 0006,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0,0
+Phillips,PRECINCT 0007,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0,0
+Phillips,PRECINCT 0008 01 SPRING LAKE C,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0,0
+Phillips,PRECINCT 0009 01 BARTON FIRE S,U.S. President,,Dem,Tulsi Gabbard,2,0,1,1,0
+Phillips,PRECINCT 0010,U.S. President,,Dem,Tulsi Gabbard,2,0,2,0,0
+Phillips,PRECINCT 0011 01 FULLER SEED,U.S. President,,Dem,Tulsi Gabbard,1,0,1,0,0
+Phillips,PRECINCT 0012 01 TRENTON BAPTI,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0,0
+Phillips,PRECINCT 0013,U.S. President,,Dem,Tulsi Gabbard,1,0,1,0,0
+Phillips,PRECINCT 0014 01 MT. ZION BAPT,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0,0
+Phillips,PRECINCT 0015 01 LAKEVIEW CITY,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0,0
+Phillips,PRECINCT 0016 01 ELAINE FIRE S,U.S. President,,Dem,Tulsi Gabbard,2,1,1,0,0
+Phillips,PRECINCT 0017 01 MELLWOOD GROC,U.S. President,,Dem,Tulsi Gabbard,0,0,0,0,0
+Phillips,PRECINCT 0001,U.S. President,,Dem,Amy Klobuchar,15,0,7,8,0
+Phillips,PRECINCT 0002 02 UMETHODIST (O,U.S. President,,Dem,Amy Klobuchar,0,0,0,0,0
+Phillips,PRECINCT 0003,U.S. President,,Dem,Amy Klobuchar,11,1,5,5,0
+Phillips,PRECINCT 0005,U.S. President,,Dem,Amy Klobuchar,5,0,0,5,0
+Phillips,PRECINCT 0006,U.S. President,,Dem,Amy Klobuchar,1,0,1,0,0
+Phillips,PRECINCT 0007,U.S. President,,Dem,Amy Klobuchar,7,0,2,5,0
+Phillips,PRECINCT 0008 01 SPRING LAKE C,U.S. President,,Dem,Amy Klobuchar,2,0,2,0,0
+Phillips,PRECINCT 0009 01 BARTON FIRE S,U.S. President,,Dem,Amy Klobuchar,2,0,1,1,0
+Phillips,PRECINCT 0010,U.S. President,,Dem,Amy Klobuchar,1,0,0,1,0
+Phillips,PRECINCT 0011 01 FULLER SEED,U.S. President,,Dem,Amy Klobuchar,4,0,4,0,0
+Phillips,PRECINCT 0012 01 TRENTON BAPTI,U.S. President,,Dem,Amy Klobuchar,0,0,0,0,0
+Phillips,PRECINCT 0013,U.S. President,,Dem,Amy Klobuchar,4,0,4,0,0
+Phillips,PRECINCT 0014 01 MT. ZION BAPT,U.S. President,,Dem,Amy Klobuchar,0,0,0,0,0
+Phillips,PRECINCT 0015 01 LAKEVIEW CITY,U.S. President,,Dem,Amy Klobuchar,1,0,0,1,0
+Phillips,PRECINCT 0016 01 ELAINE FIRE S,U.S. President,,Dem,Amy Klobuchar,0,0,0,0,0
+Phillips,PRECINCT 0017 01 MELLWOOD GROC,U.S. President,,Dem,Amy Klobuchar,0,0,0,0,0
+Phillips,PRECINCT 0001,U.S. President,,Dem,Bernie Sanders,77,0,27,50,0
+Phillips,PRECINCT 0002 02 UMETHODIST (O,U.S. President,,Dem,Bernie Sanders,0,0,0,0,0
+Phillips,PRECINCT 0003,U.S. President,,Dem,Bernie Sanders,38,0,18,19,1
+Phillips,PRECINCT 0005,U.S. President,,Dem,Bernie Sanders,6,1,2,3,0
+Phillips,PRECINCT 0006,U.S. President,,Dem,Bernie Sanders,35,0,10,24,1
+Phillips,PRECINCT 0007,U.S. President,,Dem,Bernie Sanders,17,1,7,9,0
+Phillips,PRECINCT 0008 01 SPRING LAKE C,U.S. President,,Dem,Bernie Sanders,9,0,6,3,0
+Phillips,PRECINCT 0009 01 BARTON FIRE S,U.S. President,,Dem,Bernie Sanders,14,0,10,4,0
+Phillips,PRECINCT 0010,U.S. President,,Dem,Bernie Sanders,14,0,14,0,0
+Phillips,PRECINCT 0011 01 FULLER SEED,U.S. President,,Dem,Bernie Sanders,12,0,11,1,0
+Phillips,PRECINCT 0012 01 TRENTON BAPTI,U.S. President,,Dem,Bernie Sanders,8,1,3,4,0
+Phillips,PRECINCT 0013,U.S. President,,Dem,Bernie Sanders,24,0,19,5,0
+Phillips,PRECINCT 0014 01 MT. ZION BAPT,U.S. President,,Dem,Bernie Sanders,5,0,4,1,0
+Phillips,PRECINCT 0015 01 LAKEVIEW CITY,U.S. President,,Dem,Bernie Sanders,6,0,4,2,0
+Phillips,PRECINCT 0016 01 ELAINE FIRE S,U.S. President,,Dem,Bernie Sanders,22,9,9,3,1
+Phillips,PRECINCT 0017 01 MELLWOOD GROC,U.S. President,,Dem,Bernie Sanders,4,2,2,0,0
+Phillips,PRECINCT 0001,U.S. President,,Dem,Cory Booker,3,0,2,1,0
+Phillips,PRECINCT 0002 02 UMETHODIST (O,U.S. President,,Dem,Cory Booker,0,0,0,0,0
+Phillips,PRECINCT 0003,U.S. President,,Dem,Cory Booker,3,0,2,1,0
+Phillips,PRECINCT 0005,U.S. President,,Dem,Cory Booker,1,0,0,1,0
+Phillips,PRECINCT 0006,U.S. President,,Dem,Cory Booker,3,0,2,1,0
+Phillips,PRECINCT 0007,U.S. President,,Dem,Cory Booker,1,0,1,0,0
+Phillips,PRECINCT 0008 01 SPRING LAKE C,U.S. President,,Dem,Cory Booker,1,0,1,0,0
+Phillips,PRECINCT 0009 01 BARTON FIRE S,U.S. President,,Dem,Cory Booker,0,0,0,0,0
+Phillips,PRECINCT 0010,U.S. President,,Dem,Cory Booker,0,0,0,0,0
+Phillips,PRECINCT 0011 01 FULLER SEED,U.S. President,,Dem,Cory Booker,1,0,1,0,0
+Phillips,PRECINCT 0012 01 TRENTON BAPTI,U.S. President,,Dem,Cory Booker,0,0,0,0,0
+Phillips,PRECINCT 0013,U.S. President,,Dem,Cory Booker,0,0,0,0,0
+Phillips,PRECINCT 0014 01 MT. ZION BAPT,U.S. President,,Dem,Cory Booker,1,0,1,0,0
+Phillips,PRECINCT 0015 01 LAKEVIEW CITY,U.S. President,,Dem,Cory Booker,0,0,0,0,0
+Phillips,PRECINCT 0016 01 ELAINE FIRE S,U.S. President,,Dem,Cory Booker,0,0,0,0,0
+Phillips,PRECINCT 0017 01 MELLWOOD GROC,U.S. President,,Dem,Cory Booker,0,0,0,0,0
+Phillips,PRECINCT 0001,State Senate District 25,,Dem,Efrem Elliott,1,0,0,1,0
+Phillips,PRECINCT 0002 02 UMETHODIST (O,State Senate District 25,,Dem,Efrem Elliott,0,0,0,0,0
+Phillips,PRECINCT 0007,State Senate District 25,,Dem,Efrem Elliott,11,0,8,3,0
+Phillips,PRECINCT 0009 01 BARTON FIRE S,State Senate District 25,,Dem,Efrem Elliott,11,0,9,2,0
+Phillips,PRECINCT 0010,State Senate District 25,,Dem,Efrem Elliott,0,0,0,0,0
+Phillips,PRECINCT 0012 01 TRENTON BAPTI,State Senate District 25,,Dem,Efrem Elliott,8,3,2,3,0
+Phillips,PRECINCT 0013,State Senate District 25,,Dem,Efrem Elliott,9,0,5,4,0
+Phillips,PRECINCT 0014 01 MT. ZION BAPT,State Senate District 25,,Dem,Efrem Elliott,4,0,4,0,0
+Phillips,PRECINCT 0015 01 LAKEVIEW CITY,State Senate District 25,,Dem,Efrem Elliott,16,1,12,3,0
+Phillips,PRECINCT 0016 01 ELAINE FIRE S,State Senate District 25,,Dem,Efrem Elliott,59,25,26,7,1
+Phillips,PRECINCT 0017 01 MELLWOOD GROC,State Senate District 25,,Dem,Efrem Elliott,9,3,6,0,0
+Phillips,PRECINCT 0001,State Senate District 25,,Dem,Senator Stephanie Flowers,5,0,4,1,0
+Phillips,PRECINCT 0002 02 UMETHODIST (O,State Senate District 25,,Dem,Senator Stephanie Flowers,2,0,2,0,0
+Phillips,PRECINCT 0007,State Senate District 25,,Dem,Senator Stephanie Flowers,24,0,12,11,1
+Phillips,PRECINCT 0009 01 BARTON FIRE S,State Senate District 25,,Dem,Senator Stephanie Flowers,55,0,44,11,0
+Phillips,PRECINCT 0010,State Senate District 25,,Dem,Senator Stephanie Flowers,0,0,0,0,0
+Phillips,PRECINCT 0012 01 TRENTON BAPTI,State Senate District 25,,Dem,Senator Stephanie Flowers,26,0,21,5,0
+Phillips,PRECINCT 0013,State Senate District 25,,Dem,Senator Stephanie Flowers,13,0,10,3,0
+Phillips,PRECINCT 0014 01 MT. ZION BAPT,State Senate District 25,,Dem,Senator Stephanie Flowers,19,0,17,2,0
+Phillips,PRECINCT 0015 01 LAKEVIEW CITY,State Senate District 25,,Dem,Senator Stephanie Flowers,62,0,50,12,0
+Phillips,PRECINCT 0016 01 ELAINE FIRE S,State Senate District 25,,Dem,Senator Stephanie Flowers,37,1,31,5,0
+Phillips,PRECINCT 0017 01 MELLWOOD GROC,State Senate District 25,,Dem,Senator Stephanie Flowers,6,0,6,0,0
+Phillips,PRECINCT 0001,Justice of the Peace District 2 DISTRICT 2,,Dem,Edward Carter,112,4,20,88,0
+Phillips,PRECINCT 0005,Justice of the Peace District 2 DISTRICT 2,,Dem,Edward Carter,14,0,5,9,0
+Phillips,PRECINCT 0007,Justice of the Peace District 2 DISTRICT 2,,Dem,Edward Carter,0,0,0,0,0
+Phillips,PRECINCT 0001,Justice of the Peace District 2 DISTRICT 2,,Dem,Derward Mauldin,76,1,32,43,0
+Phillips,PRECINCT 0005,Justice of the Peace District 2 DISTRICT 2,,Dem,Derward Mauldin,16,1,8,7,0
+Phillips,PRECINCT 0007,Justice of the Peace District 2 DISTRICT 2,,Dem,Derward Mauldin,10,0,5,5,0
+Phillips,PRECINCT 0001,Constable Honor Township HONOR TOWNSHIP,,Dem,Charles Lowery,16,0,13,3,0
+Phillips,PRECINCT 0003,Constable Honor Township HONOR TOWNSHIP,,Dem,Charles Lowery,48,2,35,10,1
+Phillips,PRECINCT 0005,Constable Honor Township HONOR TOWNSHIP,,Dem,Charles Lowery,14,0,6,8,0
+Phillips,PRECINCT 0006,Constable Honor Township HONOR TOWNSHIP,,Dem,Charles Lowery,19,0,6,13,0
+Phillips,PRECINCT 0007,Constable Honor Township HONOR TOWNSHIP,,Dem,Charles Lowery,31,0,18,12,1
+Phillips,PRECINCT 0001,Constable Honor Township HONOR TOWNSHIP,,Dem,Wilburt E. Strotter,6,0,4,2,0
+Phillips,PRECINCT 0003,Constable Honor Township HONOR TOWNSHIP,,Dem,Wilburt E. Strotter,125,1,49,75,0
+Phillips,PRECINCT 0005,Constable Honor Township HONOR TOWNSHIP,,Dem,Wilburt E. Strotter,41,1,24,16,0
+Phillips,PRECINCT 0006,Constable Honor Township HONOR TOWNSHIP,,Dem,Wilburt E. Strotter,161,6,74,80,1
+Phillips,PRECINCT 0007,Constable Honor Township HONOR TOWNSHIP,,Dem,Wilburt E. Strotter,44,1,23,20,0
+Phillips,PRECINCT 0001,Constable Honor Township HONOR TOWNSHIP,,Dem,"Darryl Brown, Sr.",9,0,4,5,0
+Phillips,PRECINCT 0003,Constable Honor Township HONOR TOWNSHIP,,Dem,"Darryl Brown, Sr.",49,1,34,14,0
+Phillips,PRECINCT 0005,Constable Honor Township HONOR TOWNSHIP,,Dem,"Darryl Brown, Sr.",22,0,10,12,0
+Phillips,PRECINCT 0006,Constable Honor Township HONOR TOWNSHIP,,Dem,"Darryl Brown, Sr.",65,0,36,29,0
+Phillips,PRECINCT 0007,Constable Honor Township HONOR TOWNSHIP,,Dem,"Darryl Brown, Sr.",29,0,21,8,0
+Phillips,PRECINCT 0001,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Phillips,PRECINCT 0002 02 UMETHODIST (O,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Phillips,PRECINCT 0003,U.S. President,,Rep,Roque 'Rocky' De La Fuente,1,0,1,0,0
+Phillips,PRECINCT 0005,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Phillips,PRECINCT 0006,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Phillips,PRECINCT 0007,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Phillips,PRECINCT 0008 01 SPRING LAKE C,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Phillips,PRECINCT 0009 01 BARTON FIRE S,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Phillips,PRECINCT 0010,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Phillips,PRECINCT 0011 01 FULLER SEED,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Phillips,PRECINCT 0012 01 TRENTON BAPTI,U.S. President,,Rep,Roque 'Rocky' De La Fuente,1,0,1,0,0
+Phillips,PRECINCT 0013,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Phillips,PRECINCT 0014 01 MT. ZION BAPT,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Phillips,PRECINCT 0015 01 LAKEVIEW CITY,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Phillips,PRECINCT 0016 01 ELAINE FIRE S,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Phillips,PRECINCT 0017 01 MELLWOOD GROC,U.S. President,,Rep,Roque 'Rocky' De La Fuente,0,0,0,0,0
+Phillips,PRECINCT 0001,U.S. President,,Rep,Bill Weld,3,0,2,1,0
+Phillips,PRECINCT 0002 02 UMETHODIST (O,U.S. President,,Rep,Bill Weld,0,0,0,0,0
+Phillips,PRECINCT 0003,U.S. President,,Rep,Bill Weld,0,0,0,0,0
+Phillips,PRECINCT 0005,U.S. President,,Rep,Bill Weld,0,0,0,0,0
+Phillips,PRECINCT 0006,U.S. President,,Rep,Bill Weld,0,0,0,0,0
+Phillips,PRECINCT 0007,U.S. President,,Rep,Bill Weld,0,0,0,0,0
+Phillips,PRECINCT 0008 01 SPRING LAKE C,U.S. President,,Rep,Bill Weld,0,0,0,0,0
+Phillips,PRECINCT 0009 01 BARTON FIRE S,U.S. President,,Rep,Bill Weld,0,0,0,0,0
+Phillips,PRECINCT 0010,U.S. President,,Rep,Bill Weld,0,0,0,0,0
+Phillips,PRECINCT 0011 01 FULLER SEED,U.S. President,,Rep,Bill Weld,0,0,0,0,0
+Phillips,PRECINCT 0012 01 TRENTON BAPTI,U.S. President,,Rep,Bill Weld,0,0,0,0,0
+Phillips,PRECINCT 0013,U.S. President,,Rep,Bill Weld,0,0,0,0,0
+Phillips,PRECINCT 0014 01 MT. ZION BAPT,U.S. President,,Rep,Bill Weld,0,0,0,0,0
+Phillips,PRECINCT 0015 01 LAKEVIEW CITY,U.S. President,,Rep,Bill Weld,0,0,0,0,0
+Phillips,PRECINCT 0016 01 ELAINE FIRE S,U.S. President,,Rep,Bill Weld,0,0,0,0,0
+Phillips,PRECINCT 0017 01 MELLWOOD GROC,U.S. President,,Rep,Bill Weld,0,0,0,0,0
+Phillips,PRECINCT 0001,U.S. President,,Rep,Donald J. Trump,53,0,34,19,0
+Phillips,PRECINCT 0002 02 UMETHODIST (O,U.S. President,,Rep,Donald J. Trump,0,0,0,0,0
+Phillips,PRECINCT 0003,U.S. President,,Rep,Donald J. Trump,75,0,54,21,0
+Phillips,PRECINCT 0005,U.S. President,,Rep,Donald J. Trump,14,0,7,7,0
+Phillips,PRECINCT 0006,U.S. President,,Rep,Donald J. Trump,6,0,1,5,0
+Phillips,PRECINCT 0007,U.S. President,,Rep,Donald J. Trump,53,0,32,21,0
+Phillips,PRECINCT 0008 01 SPRING LAKE C,U.S. President,,Rep,Donald J. Trump,17,0,14,3,0
+Phillips,PRECINCT 0009 01 BARTON FIRE S,U.S. President,,Rep,Donald J. Trump,31,0,26,5,0
+Phillips,PRECINCT 0010,U.S. President,,Rep,Donald J. Trump,79,0,70,9,0
+Phillips,PRECINCT 0011 01 FULLER SEED,U.S. President,,Rep,Donald J. Trump,39,0,34,4,1
+Phillips,PRECINCT 0012 01 TRENTON BAPTI,U.S. President,,Rep,Donald J. Trump,11,0,11,0,0
+Phillips,PRECINCT 0013,U.S. President,,Rep,Donald J. Trump,52,0,47,5,0
+Phillips,PRECINCT 0014 01 MT. ZION BAPT,U.S. President,,Rep,Donald J. Trump,30,0,27,3,0
+Phillips,PRECINCT 0015 01 LAKEVIEW CITY,U.S. President,,Rep,Donald J. Trump,3,0,3,0,0
+Phillips,PRECINCT 0016 01 ELAINE FIRE S,U.S. President,,Rep,Donald J. Trump,42,0,41,1,0
+Phillips,PRECINCT 0017 01 MELLWOOD GROC,U.S. President,,Rep,Donald J. Trump,14,0,14,0,0
+Phillips,PRECINCT 0001,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,249,2,109,137,1
+Phillips,PRECINCT 0002 02 UMETHODIST (O,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,2,0,2,0,0
+Phillips,PRECINCT 0003,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,182,4,115,62,1
+Phillips,PRECINCT 0005,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,51,0,30,21,0
+Phillips,PRECINCT 0006,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,143,1,69,73,0
+Phillips,PRECINCT 0007,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,90,1,52,37,0
+Phillips,PRECINCT 0008 01 SPRING LAKE C,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,67,1,50,16,0
+Phillips,PRECINCT 0009 01 BARTON FIRE S,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,67,0,53,14,0
+Phillips,PRECINCT 0010,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,87,0,75,12,0
+Phillips,PRECINCT 0011 01 FULLER SEED,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,62,0,49,13,0
+Phillips,PRECINCT 0012 01 TRENTON BAPTI,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,25,2,18,5,0
+Phillips,PRECINCT 0013,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,117,4,95,18,0
+Phillips,PRECINCT 0014 01 MT. ZION BAPT,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,24,0,23,1,0
+Phillips,PRECINCT 0015 01 LAKEVIEW CITY,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,51,1,40,10,0
+Phillips,PRECINCT 0016 01 ELAINE FIRE S,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,62,14,42,6,0
+Phillips,PRECINCT 0017 01 MELLWOOD GROC,State Supreme Court Associate Justice, Position 4,Non,Barbara Womack Webb,14,2,12,0,0
+Phillips,PRECINCT 0001,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,176,9,77,90,0
+Phillips,PRECINCT 0002 02 UMETHODIST (O,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,0,0,0,0,0
+Phillips,PRECINCT 0003,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,149,1,88,60,0
+Phillips,PRECINCT 0005,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,36,1,16,19,0
+Phillips,PRECINCT 0006,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,84,5,37,42,0
+Phillips,PRECINCT 0007,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,74,0,48,25,1
+Phillips,PRECINCT 0008 01 SPRING LAKE C,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,31,1,24,6,0
+Phillips,PRECINCT 0009 01 BARTON FIRE S,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,36,0,30,6,0
+Phillips,PRECINCT 0010,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,59,0,51,8,0
+Phillips,PRECINCT 0011 01 FULLER SEED,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,43,0,40,2,1
+Phillips,PRECINCT 0012 01 TRENTON BAPTI,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,20,1,17,2,0
+Phillips,PRECINCT 0013,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,62,0,55,7,0
+Phillips,PRECINCT 0014 01 MT. ZION BAPT,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,27,0,24,3,0
+Phillips,PRECINCT 0015 01 LAKEVIEW CITY,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,22,0,16,6,0
+Phillips,PRECINCT 0016 01 ELAINE FIRE S,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,63,7,50,5,1
+Phillips,PRECINCT 0017 01 MELLWOOD GROC,State Supreme Court Associate Justice, Position 4,Non,Judge Morgan 'Chip' Welch,14,1,13,0,0
+Phillips,PRECINCT 0001,Circuit Judge,"1, Division 5, At Large",Non,Kathie Hess,167,0,70,96,1
+Phillips,PRECINCT 0002 02 UMETHODIST (O,Circuit Judge,"1, Division 5, At Large",Non,Kathie Hess,0,0,0,0,0
+Phillips,PRECINCT 0003,Circuit Judge,"1, Division 5, At Large",Non,Kathie Hess,142,1,92,49,0
+Phillips,PRECINCT 0005,Circuit Judge,"1, Division 5, At Large",Non,Kathie Hess,33,0,14,19,0
+Phillips,PRECINCT 0006,Circuit Judge,"1, Division 5, At Large",Non,Kathie Hess,35,1,17,17,0
+Phillips,PRECINCT 0007,Circuit Judge,"1, Division 5, At Large",Non,Kathie Hess,75,1,41,32,1
+Phillips,PRECINCT 0008 01 SPRING LAKE C,Circuit Judge,"1, Division 5, At Large",Non,Kathie Hess,20,0,13,7,0
+Phillips,PRECINCT 0009 01 BARTON FIRE S,Circuit Judge,"1, Division 5, At Large",Non,Kathie Hess,33,0,24,9,0
+Phillips,PRECINCT 0010,Circuit Judge,"1, Division 5, At Large",Non,Kathie Hess,74,0,65,9,0
+Phillips,PRECINCT 0011 01 FULLER SEED,Circuit Judge,"1, Division 5, At Large",Non,Kathie Hess,35,0,30,4,1
+Phillips,PRECINCT 0012 01 TRENTON BAPTI,Circuit Judge,"1, Division 5, At Large",Non,Kathie Hess,22,3,16,3,0
+Phillips,PRECINCT 0013,Circuit Judge,"1, Division 5, At Large",Non,Kathie Hess,80,2,69,9,0
+Phillips,PRECINCT 0014 01 MT. ZION BAPT,Circuit Judge,"1, Division 5, At Large",Non,Kathie Hess,26,0,23,3,0
+Phillips,PRECINCT 0015 01 LAKEVIEW CITY,Circuit Judge,"1, Division 5, At Large",Non,Kathie Hess,8,1,5,2,0
+Phillips,PRECINCT 0016 01 ELAINE FIRE S,Circuit Judge,"1, Division 5, At Large",Non,Kathie Hess,68,25,34,8,1
+Phillips,PRECINCT 0017 01 MELLWOOD GROC,Circuit Judge,"1, Division 5, At Large",Non,Kathie Hess,16,3,13,0,0
+Phillips,PRECINCT 0001,Circuit Judge,"1, Division 5, At Large",Non,Judge David Carruth,110,7,54,49,0
+Phillips,PRECINCT 0002 02 UMETHODIST (O,Circuit Judge,"1, Division 5, At Large",Non,Judge David Carruth,2,0,2,0,0
+Phillips,PRECINCT 0003,Circuit Judge,"1, Division 5, At Large",Non,Judge David Carruth,90,0,61,28,1
+Phillips,PRECINCT 0005,Circuit Judge,"1, Division 5, At Large",Non,Judge David Carruth,29,0,17,12,0
+Phillips,PRECINCT 0006,Circuit Judge,"1, Division 5, At Large",Non,Judge David Carruth,49,0,25,24,0
+Phillips,PRECINCT 0007,Circuit Judge,"1, Division 5, At Large",Non,Judge David Carruth,55,0,34,21,0
+Phillips,PRECINCT 0008 01 SPRING LAKE C,Circuit Judge,"1, Division 5, At Large",Non,Judge David Carruth,34,0,28,6,0
+Phillips,PRECINCT 0009 01 BARTON FIRE S,Circuit Judge,"1, Division 5, At Large",Non,Judge David Carruth,49,0,42,7,0
+Phillips,PRECINCT 0010,Circuit Judge,"1, Division 5, At Large",Non,Judge David Carruth,62,0,54,8,0
+Phillips,PRECINCT 0011 01 FULLER SEED,Circuit Judge,"1, Division 5, At Large",Non,Judge David Carruth,53,0,48,5,0
+Phillips,PRECINCT 0012 01 TRENTON BAPTI,Circuit Judge,"1, Division 5, At Large",Non,Judge David Carruth,16,0,15,1,0
+Phillips,PRECINCT 0013,Circuit Judge,"1, Division 5, At Large",Non,Judge David Carruth,51,0,43,8,0
+Phillips,PRECINCT 0014 01 MT. ZION BAPT,Circuit Judge,"1, Division 5, At Large",Non,Judge David Carruth,23,0,21,2,0
+Phillips,PRECINCT 0015 01 LAKEVIEW CITY,Circuit Judge,"1, Division 5, At Large",Non,Judge David Carruth,25,0,16,9,0
+Phillips,PRECINCT 0016 01 ELAINE FIRE S,Circuit Judge,"1, Division 5, At Large",Non,Judge David Carruth,52,1,50,1,0
+Phillips,PRECINCT 0017 01 MELLWOOD GROC,Circuit Judge,"1, Division 5, At Large",Non,Judge David Carruth,10,0,10,0,0
+Phillips,PRECINCT 0001,Circuit Judge,"1, Division 5, At Large",Non,Andrew Coleman,207,4,68,135,0
+Phillips,PRECINCT 0002 02 UMETHODIST (O,Circuit Judge,"1, Division 5, At Large",Non,Andrew Coleman,1,0,0,1,0
+Phillips,PRECINCT 0003,Circuit Judge,"1, Division 5, At Large",Non,Andrew Coleman,139,4,59,76,0
+Phillips,PRECINCT 0005,Circuit Judge,"1, Division 5, At Large",Non,Andrew Coleman,40,1,20,19,0
+Phillips,PRECINCT 0006,Circuit Judge,"1, Division 5, At Large",Non,Andrew Coleman,168,5,76,86,1
+Phillips,PRECINCT 0007,Circuit Judge,"1, Division 5, At Large",Non,Andrew Coleman,38,0,26,12,0
+Phillips,PRECINCT 0008 01 SPRING LAKE C,Circuit Judge,"1, Division 5, At Large",Non,Andrew Coleman,50,2,36,12,0
+Phillips,PRECINCT 0009 01 BARTON FIRE S,Circuit Judge,"1, Division 5, At Large",Non,Andrew Coleman,23,0,16,7,0
+Phillips,PRECINCT 0010,Circuit Judge,"1, Division 5, At Large",Non,Andrew Coleman,9,0,6,3,0
+Phillips,PRECINCT 0011 01 FULLER SEED,Circuit Judge,"1, Division 5, At Large",Non,Andrew Coleman,21,0,12,9,0
+Phillips,PRECINCT 0012 01 TRENTON BAPTI,Circuit Judge,"1, Division 5, At Large",Non,Andrew Coleman,9,0,6,3,0
+Phillips,PRECINCT 0013,Circuit Judge,"1, Division 5, At Large",Non,Andrew Coleman,76,2,63,11,0
+Phillips,PRECINCT 0014 01 MT. ZION BAPT,Circuit Judge,"1, Division 5, At Large",Non,Andrew Coleman,4,0,4,0,0
+Phillips,PRECINCT 0015 01 LAKEVIEW CITY,Circuit Judge,"1, Division 5, At Large",Non,Andrew Coleman,50,0,43,7,0
+Phillips,PRECINCT 0016 01 ELAINE FIRE S,Circuit Judge,"1, Division 5, At Large",Non,Andrew Coleman,13,0,8,5,0
+Phillips,PRECINCT 0017 01 MELLWOOD GROC,Circuit Judge,"1, Division 5, At Large",Non,Andrew Coleman,3,0,3,0,0
+Phillips,PRECINCT 0001,Circuit Judge,"1, Division 3, Subdistrict 1.2",Non,Gary J. Mitchusson,25,0,11,14,0
+Phillips,PRECINCT 0003,Circuit Judge,"1, Division 3, Subdistrict 1.2",Non,Gary J. Mitchusson,121,4,73,44,0
+Phillips,PRECINCT 0005,Circuit Judge,"1, Division 3, Subdistrict 1.2",Non,Gary J. Mitchusson,21,0,11,10,0
+Phillips,PRECINCT 0006,Circuit Judge,"1, Division 3, Subdistrict 1.2",Non,Gary J. Mitchusson,25,0,12,13,0
+Phillips,PRECINCT 0007,Circuit Judge,"1, Division 3, Subdistrict 1.2",Non,Gary J. Mitchusson,36,1,17,18,0
+Phillips,PRECINCT 0009 01 BARTON FIRE S,Circuit Judge,"1, Division 3, Subdistrict 1.2",Non,Gary J. Mitchusson,41,0,32,9,0
+Phillips,PRECINCT 0010,Circuit Judge,"1, Division 3, Subdistrict 1.2",Non,Gary J. Mitchusson,53,0,45,8,0
+Phillips,PRECINCT 0011 01 FULLER SEED,Circuit Judge,"1, Division 3, Subdistrict 1.2",Non,Gary J. Mitchusson,40,0,34,6,0
+Phillips,PRECINCT 0013,Circuit Judge,"1, Division 3, Subdistrict 1.2",Non,Gary J. Mitchusson,52,2,44,6,0
+Phillips,PRECINCT 0001,Circuit Judge,"1, Division 3, Subdistrict 1.2",Non,Judge Christopher Morledge,46,0,21,25,0
+Phillips,PRECINCT 0003,Circuit Judge,"1, Division 3, Subdistrict 1.2",Non,Judge Christopher Morledge,191,0,111,79,1
+Phillips,PRECINCT 0005,Circuit Judge,"1, Division 3, Subdistrict 1.2",Non,Judge Christopher Morledge,47,0,26,21,0
+Phillips,PRECINCT 0006,Circuit Judge,"1, Division 3, Subdistrict 1.2",Non,Judge Christopher Morledge,20,0,13,7,0
+Phillips,PRECINCT 0007,Circuit Judge,"1, Division 3, Subdistrict 1.2",Non,Judge Christopher Morledge,103,0,68,34,1
+Phillips,PRECINCT 0009 01 BARTON FIRE S,Circuit Judge,"1, Division 3, Subdistrict 1.2",Non,Judge Christopher Morledge,58,0,45,13,0
+Phillips,PRECINCT 0010,Circuit Judge,"1, Division 3, Subdistrict 1.2",Non,Judge Christopher Morledge,89,0,77,12,0
+Phillips,PRECINCT 0011 01 FULLER SEED,Circuit Judge,"1, Division 3, Subdistrict 1.2",Non,Judge Christopher Morledge,64,0,53,10,1
+Phillips,PRECINCT 0013,Circuit Judge,"1, Division 3, Subdistrict 1.2",Non,Judge Christopher Morledge,90,2,77,11,0
