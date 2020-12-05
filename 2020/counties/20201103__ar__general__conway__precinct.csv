@@ -1,0 +1,868 @@
+county,precinct,office,district,party,candidate,votes
+Conway,AUSTIN,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,116
+Conway,BENTLEY CITY,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,237
+Conway,WELBOURNE WEST,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,197
+Conway,ST. VINCENT,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,206
+Conway,STEELE,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,206
+Conway,MENIFEE CITY,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,14
+Conway,HOWARD CITY,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,182
+Conway,HIGGINS,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,30
+Conway,CEDAR FALLS,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,104
+Conway,GREGORY,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,149
+Conway,GRIFFIN,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,155
+Conway,LICK MTN.,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,232
+Conway,WASHINGTON EAST,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,391
+Conway,MCCLAREN,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,78
+Conway,HOWARD RURAL,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,170
+Conway,WHITE EAGLE,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,18
+Conway,WARD 3,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,293
+Conway,WARD 4,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,472
+Conway,MARTIN,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,48
+Conway,WARD 2,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,268
+Conway,UNION,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,244
+Conway,BENTLEY RURAL,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,200
+Conway,WASHINGTON WEST,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,127
+Conway,BIRD,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,246
+Conway,CATHOLIC POINT,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,143
+Conway,PETIT JEAN,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,25
+Conway,NICHOLS,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,206
+Conway,OLD HICKORY,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,64
+Conway,WARD 1,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,333
+Conway,WELBOURNE EAST,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,488
+Conway,MENIFEE RURAL,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,52
+Conway,AUSTIN,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,7
+Conway,BENTLEY CITY,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,47
+Conway,WELBOURNE WEST,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,83
+Conway,ST. VINCENT,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,90
+Conway,STEELE,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,45
+Conway,MENIFEE CITY,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,122
+Conway,HOWARD CITY,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,150
+Conway,HIGGINS,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,4
+Conway,CEDAR FALLS,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,62
+Conway,GREGORY,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,33
+Conway,GRIFFIN,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,44
+Conway,LICK MTN.,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,55
+Conway,WASHINGTON EAST,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,110
+Conway,MCCLAREN,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,19
+Conway,HOWARD RURAL,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,107
+Conway,WHITE EAGLE,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,5
+Conway,WARD 3,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,271
+Conway,WARD 4,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,307
+Conway,MARTIN,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,4
+Conway,WARD 2,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,174
+Conway,UNION,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,103
+Conway,BENTLEY RURAL,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,32
+Conway,WASHINGTON WEST,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,55
+Conway,BIRD,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,71
+Conway,CATHOLIC POINT,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,47
+Conway,PETIT JEAN,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,15
+Conway,NICHOLS,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,61
+Conway,OLD HICKORY,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,15
+Conway,WARD 1,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,254
+Conway,WELBOURNE EAST,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,201
+Conway,MENIFEE RURAL,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,22
+Conway,AUSTIN,U.S. President, Vice President,CON,Don Blankenship/William Mohr,0
+Conway,BENTLEY CITY,U.S. President, Vice President,CON,Don Blankenship/William Mohr,1
+Conway,WELBOURNE WEST,U.S. President, Vice President,CON,Don Blankenship/William Mohr,0
+Conway,ST. VINCENT,U.S. President, Vice President,CON,Don Blankenship/William Mohr,1
+Conway,STEELE,U.S. President, Vice President,CON,Don Blankenship/William Mohr,1
+Conway,MENIFEE CITY,U.S. President, Vice President,CON,Don Blankenship/William Mohr,1
+Conway,HOWARD CITY,U.S. President, Vice President,CON,Don Blankenship/William Mohr,1
+Conway,HIGGINS,U.S. President, Vice President,CON,Don Blankenship/William Mohr,0
+Conway,CEDAR FALLS,U.S. President, Vice President,CON,Don Blankenship/William Mohr,0
+Conway,GREGORY,U.S. President, Vice President,CON,Don Blankenship/William Mohr,0
+Conway,GRIFFIN,U.S. President, Vice President,CON,Don Blankenship/William Mohr,1
+Conway,LICK MTN.,U.S. President, Vice President,CON,Don Blankenship/William Mohr,0
+Conway,WASHINGTON EAST,U.S. President, Vice President,CON,Don Blankenship/William Mohr,0
+Conway,MCCLAREN,U.S. President, Vice President,CON,Don Blankenship/William Mohr,1
+Conway,HOWARD RURAL,U.S. President, Vice President,CON,Don Blankenship/William Mohr,1
+Conway,WHITE EAGLE,U.S. President, Vice President,CON,Don Blankenship/William Mohr,0
+Conway,WARD 3,U.S. President, Vice President,CON,Don Blankenship/William Mohr,2
+Conway,WARD 4,U.S. President, Vice President,CON,Don Blankenship/William Mohr,1
+Conway,MARTIN,U.S. President, Vice President,CON,Don Blankenship/William Mohr,0
+Conway,WARD 2,U.S. President, Vice President,CON,Don Blankenship/William Mohr,3
+Conway,UNION,U.S. President, Vice President,CON,Don Blankenship/William Mohr,2
+Conway,BENTLEY RURAL,U.S. President, Vice President,CON,Don Blankenship/William Mohr,0
+Conway,WASHINGTON WEST,U.S. President, Vice President,CON,Don Blankenship/William Mohr,0
+Conway,BIRD,U.S. President, Vice President,CON,Don Blankenship/William Mohr,0
+Conway,CATHOLIC POINT,U.S. President, Vice President,CON,Don Blankenship/William Mohr,1
+Conway,PETIT JEAN,U.S. President, Vice President,CON,Don Blankenship/William Mohr,0
+Conway,NICHOLS,U.S. President, Vice President,CON,Don Blankenship/William Mohr,1
+Conway,OLD HICKORY,U.S. President, Vice President,CON,Don Blankenship/William Mohr,0
+Conway,WARD 1,U.S. President, Vice President,CON,Don Blankenship/William Mohr,2
+Conway,WELBOURNE EAST,U.S. President, Vice President,CON,Don Blankenship/William Mohr,2
+Conway,MENIFEE RURAL,U.S. President, Vice President,CON,Don Blankenship/William Mohr,0
+Conway,AUSTIN,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Conway,BENTLEY CITY,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,1
+Conway,WELBOURNE WEST,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Conway,ST. VINCENT,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,1
+Conway,STEELE,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Conway,MENIFEE CITY,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Conway,HOWARD CITY,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,3
+Conway,HIGGINS,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Conway,CEDAR FALLS,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,1
+Conway,GREGORY,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Conway,GRIFFIN,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Conway,LICK MTN.,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,3
+Conway,WASHINGTON EAST,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,4
+Conway,MCCLAREN,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Conway,HOWARD RURAL,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Conway,WHITE EAGLE,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Conway,WARD 3,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,1
+Conway,WARD 4,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Conway,MARTIN,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Conway,WARD 2,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,1
+Conway,UNION,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,1
+Conway,BENTLEY RURAL,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Conway,WASHINGTON WEST,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,1
+Conway,BIRD,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,1
+Conway,CATHOLIC POINT,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,1
+Conway,PETIT JEAN,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Conway,NICHOLS,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Conway,OLD HICKORY,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Conway,WARD 1,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,4
+Conway,WELBOURNE EAST,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Conway,MENIFEE RURAL,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Conway,AUSTIN,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,0
+Conway,BENTLEY CITY,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,5
+Conway,WELBOURNE WEST,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,1
+Conway,ST. VINCENT,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,3
+Conway,STEELE,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,1
+Conway,MENIFEE CITY,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,0
+Conway,HOWARD CITY,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,2
+Conway,HIGGINS,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,1
+Conway,CEDAR FALLS,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,2
+Conway,GREGORY,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,0
+Conway,GRIFFIN,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,1
+Conway,LICK MTN.,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,4
+Conway,WASHINGTON EAST,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,9
+Conway,MCCLAREN,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,0
+Conway,HOWARD RURAL,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,1
+Conway,WHITE EAGLE,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,0
+Conway,WARD 3,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,7
+Conway,WARD 4,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,8
+Conway,MARTIN,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,0
+Conway,WARD 2,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,10
+Conway,UNION,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,2
+Conway,BENTLEY RURAL,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,0
+Conway,WASHINGTON WEST,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,1
+Conway,BIRD,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,0
+Conway,CATHOLIC POINT,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,1
+Conway,PETIT JEAN,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,1
+Conway,NICHOLS,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,1
+Conway,OLD HICKORY,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,0
+Conway,WARD 1,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,13
+Conway,WELBOURNE EAST,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,3
+Conway,MENIFEE RURAL,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,1
+Conway,AUSTIN,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Conway,BENTLEY CITY,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Conway,WELBOURNE WEST,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Conway,ST. VINCENT,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,1
+Conway,STEELE,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Conway,MENIFEE CITY,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Conway,HOWARD CITY,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Conway,HIGGINS,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Conway,CEDAR FALLS,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Conway,GREGORY,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Conway,GRIFFIN,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,1
+Conway,LICK MTN.,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Conway,WASHINGTON EAST,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Conway,MCCLAREN,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Conway,HOWARD RURAL,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Conway,WHITE EAGLE,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Conway,WARD 3,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,2
+Conway,WARD 4,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,1
+Conway,MARTIN,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Conway,WARD 2,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Conway,UNION,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Conway,BENTLEY RURAL,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,2
+Conway,WASHINGTON WEST,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Conway,BIRD,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,1
+Conway,CATHOLIC POINT,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Conway,PETIT JEAN,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Conway,NICHOLS,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Conway,OLD HICKORY,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Conway,WARD 1,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Conway,WELBOURNE EAST,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Conway,MENIFEE RURAL,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Conway,AUSTIN,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Conway,BENTLEY CITY,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,1
+Conway,WELBOURNE WEST,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Conway,ST. VINCENT,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Conway,STEELE,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Conway,MENIFEE CITY,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Conway,HOWARD CITY,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Conway,HIGGINS,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Conway,CEDAR FALLS,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Conway,GREGORY,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Conway,GRIFFIN,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Conway,LICK MTN.,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Conway,WASHINGTON EAST,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Conway,MCCLAREN,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Conway,HOWARD RURAL,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Conway,WHITE EAGLE,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Conway,WARD 3,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Conway,WARD 4,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Conway,MARTIN,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Conway,WARD 2,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Conway,UNION,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Conway,BENTLEY RURAL,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Conway,WASHINGTON WEST,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,1
+Conway,BIRD,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,2
+Conway,CATHOLIC POINT,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,1
+Conway,PETIT JEAN,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Conway,NICHOLS,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Conway,OLD HICKORY,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Conway,WARD 1,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Conway,WELBOURNE EAST,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Conway,MENIFEE RURAL,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Conway,AUSTIN,U.S. President, Vice President,GRE,Howie Hawkins/Angela Walker,2
+Conway,BENTLEY CITY,U.S. President, Vice President,GRE,Howie Hawkins/Angela Walker,0
+Conway,WELBOURNE WEST,U.S. President, Vice President,GRE,Howie Hawkins/Angela Walker,0
+Conway,ST. VINCENT,U.S. President, Vice President,GRE,Howie Hawkins/Angela Walker,0
+Conway,STEELE,U.S. President, Vice President,GRE,Howie Hawkins/Angela Walker,0
+Conway,MENIFEE CITY,U.S. President, Vice President,GRE,Howie Hawkins/Angela Walker,1
+Conway,HOWARD CITY,U.S. President, Vice President,GRE,Howie Hawkins/Angela Walker,0
+Conway,HIGGINS,U.S. President, Vice President,GRE,Howie Hawkins/Angela Walker,0
+Conway,CEDAR FALLS,U.S. President, Vice President,GRE,Howie Hawkins/Angela Walker,0
+Conway,GREGORY,U.S. President, Vice President,GRE,Howie Hawkins/Angela Walker,0
+Conway,GRIFFIN,U.S. President, Vice President,GRE,Howie Hawkins/Angela Walker,0
+Conway,LICK MTN.,U.S. President, Vice President,GRE,Howie Hawkins/Angela Walker,1
+Conway,WASHINGTON EAST,U.S. President, Vice President,GRE,Howie Hawkins/Angela Walker,5
+Conway,MCCLAREN,U.S. President, Vice President,GRE,Howie Hawkins/Angela Walker,0
+Conway,HOWARD RURAL,U.S. President, Vice President,GRE,Howie Hawkins/Angela Walker,0
+Conway,WHITE EAGLE,U.S. President, Vice President,GRE,Howie Hawkins/Angela Walker,0
+Conway,WARD 3,U.S. President, Vice President,GRE,Howie Hawkins/Angela Walker,0
+Conway,WARD 4,U.S. President, Vice President,GRE,Howie Hawkins/Angela Walker,0
+Conway,MARTIN,U.S. President, Vice President,GRE,Howie Hawkins/Angela Walker,0
+Conway,WARD 2,U.S. President, Vice President,GRE,Howie Hawkins/Angela Walker,2
+Conway,UNION,U.S. President, Vice President,GRE,Howie Hawkins/Angela Walker,0
+Conway,BENTLEY RURAL,U.S. President, Vice President,GRE,Howie Hawkins/Angela Walker,3
+Conway,WASHINGTON WEST,U.S. President, Vice President,GRE,Howie Hawkins/Angela Walker,3
+Conway,BIRD,U.S. President, Vice President,GRE,Howie Hawkins/Angela Walker,0
+Conway,CATHOLIC POINT,U.S. President, Vice President,GRE,Howie Hawkins/Angela Walker,1
+Conway,PETIT JEAN,U.S. President, Vice President,GRE,Howie Hawkins/Angela Walker,0
+Conway,NICHOLS,U.S. President, Vice President,GRE,Howie Hawkins/Angela Walker,0
+Conway,OLD HICKORY,U.S. President, Vice President,GRE,Howie Hawkins/Angela Walker,0
+Conway,WARD 1,U.S. President, Vice President,GRE,Howie Hawkins/Angela Walker,0
+Conway,WELBOURNE EAST,U.S. President, Vice President,GRE,Howie Hawkins/Angela Walker,0
+Conway,MENIFEE RURAL,U.S. President, Vice President,GRE,Howie Hawkins/Angela Walker,0
+Conway,AUSTIN,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,1
+Conway,BENTLEY CITY,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,0
+Conway,WELBOURNE WEST,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,3
+Conway,ST. VINCENT,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,2
+Conway,STEELE,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,0
+Conway,MENIFEE CITY,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,1
+Conway,HOWARD CITY,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,0
+Conway,HIGGINS,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,0
+Conway,CEDAR FALLS,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,1
+Conway,GREGORY,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,0
+Conway,GRIFFIN,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,3
+Conway,LICK MTN.,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,0
+Conway,WASHINGTON EAST,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,3
+Conway,MCCLAREN,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,1
+Conway,HOWARD RURAL,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,3
+Conway,WHITE EAGLE,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,0
+Conway,WARD 3,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,1
+Conway,WARD 4,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,1
+Conway,MARTIN,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,0
+Conway,WARD 2,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,3
+Conway,UNION,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,2
+Conway,BENTLEY RURAL,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,0
+Conway,WASHINGTON WEST,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,1
+Conway,BIRD,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,0
+Conway,CATHOLIC POINT,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,1
+Conway,PETIT JEAN,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,1
+Conway,NICHOLS,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,0
+Conway,OLD HICKORY,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,1
+Conway,WARD 1,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,1
+Conway,WELBOURNE EAST,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,1
+Conway,MENIFEE RURAL,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,0
+Conway,AUSTIN,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,1
+Conway,BENTLEY CITY,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,3
+Conway,WELBOURNE WEST,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,3
+Conway,ST. VINCENT,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,5
+Conway,STEELE,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,1
+Conway,MENIFEE CITY,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,5
+Conway,HOWARD CITY,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,7
+Conway,HIGGINS,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,0
+Conway,CEDAR FALLS,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,0
+Conway,GREGORY,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,1
+Conway,GRIFFIN,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,1
+Conway,LICK MTN.,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,2
+Conway,WASHINGTON EAST,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,4
+Conway,MCCLAREN,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,0
+Conway,HOWARD RURAL,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,7
+Conway,WHITE EAGLE,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,0
+Conway,WARD 3,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,12
+Conway,WARD 4,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,11
+Conway,MARTIN,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,0
+Conway,WARD 2,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,4
+Conway,UNION,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,4
+Conway,BENTLEY RURAL,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,1
+Conway,WASHINGTON WEST,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,2
+Conway,BIRD,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,0
+Conway,CATHOLIC POINT,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,2
+Conway,PETIT JEAN,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,1
+Conway,NICHOLS,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,1
+Conway,OLD HICKORY,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,0
+Conway,WARD 1,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,3
+Conway,WELBOURNE EAST,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,6
+Conway,MENIFEE RURAL,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,1
+Conway,AUSTIN,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,1
+Conway,BENTLEY CITY,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Conway,WELBOURNE WEST,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,2
+Conway,ST. VINCENT,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,1
+Conway,STEELE,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Conway,MENIFEE CITY,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,1
+Conway,HOWARD CITY,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,1
+Conway,HIGGINS,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Conway,CEDAR FALLS,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Conway,GREGORY,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Conway,GRIFFIN,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,1
+Conway,LICK MTN.,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,2
+Conway,WASHINGTON EAST,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Conway,MCCLAREN,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Conway,HOWARD RURAL,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,1
+Conway,WHITE EAGLE,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Conway,WARD 3,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,1
+Conway,WARD 4,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,1
+Conway,MARTIN,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Conway,WARD 2,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,1
+Conway,UNION,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Conway,BENTLEY RURAL,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Conway,WASHINGTON WEST,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Conway,BIRD,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Conway,CATHOLIC POINT,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Conway,PETIT JEAN,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Conway,NICHOLS,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,2
+Conway,OLD HICKORY,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,1
+Conway,WARD 1,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,1
+Conway,WELBOURNE EAST,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,3
+Conway,MENIFEE RURAL,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Conway,AUSTIN,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,1
+Conway,BENTLEY CITY,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,1
+Conway,WELBOURNE WEST,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,2
+Conway,ST. VINCENT,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,1
+Conway,STEELE,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,1
+Conway,MENIFEE CITY,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,4
+Conway,HOWARD CITY,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,3
+Conway,HIGGINS,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Conway,CEDAR FALLS,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,2
+Conway,GREGORY,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Conway,GRIFFIN,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,1
+Conway,LICK MTN.,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,1
+Conway,WASHINGTON EAST,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,1
+Conway,MCCLAREN,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Conway,HOWARD RURAL,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,2
+Conway,WHITE EAGLE,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Conway,WARD 3,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,6
+Conway,WARD 4,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,3
+Conway,MARTIN,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Conway,WARD 2,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,4
+Conway,UNION,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,1
+Conway,BENTLEY RURAL,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,1
+Conway,WASHINGTON WEST,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,3
+Conway,BIRD,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,3
+Conway,CATHOLIC POINT,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Conway,PETIT JEAN,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Conway,NICHOLS,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Conway,OLD HICKORY,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Conway,WARD 1,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,5
+Conway,WELBOURNE EAST,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,3
+Conway,MENIFEE RURAL,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Conway,AUSTIN,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Conway,BENTLEY CITY,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,1
+Conway,WELBOURNE WEST,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,2
+Conway,ST. VINCENT,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,1
+Conway,STEELE,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,1
+Conway,MENIFEE CITY,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Conway,HOWARD CITY,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,2
+Conway,HIGGINS,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,1
+Conway,CEDAR FALLS,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,1
+Conway,GREGORY,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Conway,GRIFFIN,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,2
+Conway,LICK MTN.,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Conway,WASHINGTON EAST,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,2
+Conway,MCCLAREN,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Conway,HOWARD RURAL,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Conway,WHITE EAGLE,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Conway,WARD 3,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,2
+Conway,WARD 4,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,4
+Conway,MARTIN,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Conway,WARD 2,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,1
+Conway,UNION,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Conway,BENTLEY RURAL,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,1
+Conway,WASHINGTON WEST,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,1
+Conway,BIRD,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,2
+Conway,CATHOLIC POINT,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,3
+Conway,PETIT JEAN,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Conway,NICHOLS,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,3
+Conway,OLD HICKORY,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Conway,WARD 1,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,3
+Conway,WELBOURNE EAST,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,1
+Conway,MENIFEE RURAL,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Conway,AUSTIN,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,9
+Conway,BENTLEY CITY,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,61
+Conway,WELBOURNE WEST,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,82
+Conway,ST. VINCENT,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,69
+Conway,STEELE,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,43
+Conway,MENIFEE CITY,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,120
+Conway,HOWARD CITY,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,150
+Conway,HIGGINS,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,7
+Conway,CEDAR FALLS,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,63
+Conway,GREGORY,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,32
+Conway,GRIFFIN,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,46
+Conway,LICK MTN.,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,65
+Conway,WASHINGTON EAST,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,121
+Conway,MCCLAREN,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,21
+Conway,HOWARD RURAL,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,102
+Conway,WHITE EAGLE,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,4
+Conway,WARD 3,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,275
+Conway,WARD 4,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,292
+Conway,MARTIN,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,5
+Conway,WARD 2,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,173
+Conway,UNION,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,98
+Conway,BENTLEY RURAL,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,39
+Conway,WASHINGTON WEST,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,63
+Conway,BIRD,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,61
+Conway,CATHOLIC POINT,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,50
+Conway,PETIT JEAN,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,17
+Conway,NICHOLS,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,64
+Conway,OLD HICKORY,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,14
+Conway,WARD 1,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,246
+Conway,WELBOURNE EAST,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,191
+Conway,MENIFEE RURAL,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,23
+Conway,AUSTIN,U.S. Senate,,REP,Senator Tom Cotton,120
+Conway,BENTLEY CITY,U.S. Senate,,REP,Senator Tom Cotton,233
+Conway,WELBOURNE WEST,U.S. Senate,,REP,Senator Tom Cotton,211
+Conway,ST. VINCENT,U.S. Senate,,REP,Senator Tom Cotton,239
+Conway,STEELE,U.S. Senate,,REP,Senator Tom Cotton,212
+Conway,MENIFEE CITY,U.S. Senate,,REP,Senator Tom Cotton,28
+Conway,HOWARD CITY,U.S. Senate,,REP,Senator Tom Cotton,189
+Conway,HIGGINS,U.S. Senate,,REP,Senator Tom Cotton,29
+Conway,CEDAR FALLS,U.S. Senate,,REP,Senator Tom Cotton,109
+Conway,GREGORY,U.S. Senate,,REP,Senator Tom Cotton,150
+Conway,GRIFFIN,U.S. Senate,,REP,Senator Tom Cotton,164
+Conway,LICK MTN.,U.S. Senate,,REP,Senator Tom Cotton,229
+Conway,WASHINGTON EAST,U.S. Senate,,REP,Senator Tom Cotton,397
+Conway,MCCLAREN,U.S. Senate,,REP,Senator Tom Cotton,77
+Conway,HOWARD RURAL,U.S. Senate,,REP,Senator Tom Cotton,190
+Conway,WHITE EAGLE,U.S. Senate,,REP,Senator Tom Cotton,19
+Conway,WARD 3,U.S. Senate,,REP,Senator Tom Cotton,313
+Conway,WARD 4,U.S. Senate,,REP,Senator Tom Cotton,499
+Conway,MARTIN,U.S. Senate,,REP,Senator Tom Cotton,47
+Conway,WARD 2,U.S. Senate,,REP,Senator Tom Cotton,290
+Conway,UNION,U.S. Senate,,REP,Senator Tom Cotton,254
+Conway,BENTLEY RURAL,U.S. Senate,,REP,Senator Tom Cotton,198
+Conway,WASHINGTON WEST,U.S. Senate,,REP,Senator Tom Cotton,128
+Conway,BIRD,U.S. Senate,,REP,Senator Tom Cotton,255
+Conway,CATHOLIC POINT,U.S. Senate,,REP,Senator Tom Cotton,148
+Conway,PETIT JEAN,U.S. Senate,,REP,Senator Tom Cotton,26
+Conway,NICHOLS,U.S. Senate,,REP,Senator Tom Cotton,202
+Conway,OLD HICKORY,U.S. Senate,,REP,Senator Tom Cotton,60
+Conway,WARD 1,U.S. Senate,,REP,Senator Tom Cotton,359
+Conway,WELBOURNE EAST,U.S. Senate,,REP,Senator Tom Cotton,508
+Conway,MENIFEE RURAL,U.S. Senate,,REP,Senator Tom Cotton,53
+Conway,AUSTIN,U.S. Congress District 02,,DEM,Senator Joyce Elliott,13
+Conway,BENTLEY CITY,U.S. Congress District 02,,DEM,Senator Joyce Elliott,52
+Conway,WELBOURNE WEST,U.S. Congress District 02,,DEM,Senator Joyce Elliott,81
+Conway,ST. VINCENT,U.S. Congress District 02,,DEM,Senator Joyce Elliott,85
+Conway,STEELE,U.S. Congress District 02,,DEM,Senator Joyce Elliott,46
+Conway,MENIFEE CITY,U.S. Congress District 02,,DEM,Senator Joyce Elliott,138
+Conway,HOWARD CITY,U.S. Congress District 02,,DEM,Senator Joyce Elliott,160
+Conway,HIGGINS,U.S. Congress District 02,,DEM,Senator Joyce Elliott,4
+Conway,CEDAR FALLS,U.S. Congress District 02,,DEM,Senator Joyce Elliott,57
+Conway,GREGORY,U.S. Congress District 02,,DEM,Senator Joyce Elliott,31
+Conway,GRIFFIN,U.S. Congress District 02,,DEM,Senator Joyce Elliott,50
+Conway,LICK MTN.,U.S. Congress District 02,,DEM,Senator Joyce Elliott,61
+Conway,WASHINGTON EAST,U.S. Congress District 02,,DEM,Senator Joyce Elliott,123
+Conway,MCCLAREN,U.S. Congress District 02,,DEM,Senator Joyce Elliott,16
+Conway,HOWARD RURAL,U.S. Congress District 02,,DEM,Senator Joyce Elliott,117
+Conway,WHITE EAGLE,U.S. Congress District 02,,DEM,Senator Joyce Elliott,4
+Conway,WARD 3,U.S. Congress District 02,,DEM,Senator Joyce Elliott,306
+Conway,WARD 4,U.S. Congress District 02,,DEM,Senator Joyce Elliott,323
+Conway,MARTIN,U.S. Congress District 02,,DEM,Senator Joyce Elliott,3
+Conway,WARD 2,U.S. Congress District 02,,DEM,Senator Joyce Elliott,198
+Conway,UNION,U.S. Congress District 02,,DEM,Senator Joyce Elliott,114
+Conway,BENTLEY RURAL,U.S. Congress District 02,,DEM,Senator Joyce Elliott,36
+Conway,WASHINGTON WEST,U.S. Congress District 02,,DEM,Senator Joyce Elliott,65
+Conway,BIRD,U.S. Congress District 02,,DEM,Senator Joyce Elliott,78
+Conway,CATHOLIC POINT,U.S. Congress District 02,,DEM,Senator Joyce Elliott,51
+Conway,PETIT JEAN,U.S. Congress District 02,,DEM,Senator Joyce Elliott,16
+Conway,NICHOLS,U.S. Congress District 02,,DEM,Senator Joyce Elliott,69
+Conway,OLD HICKORY,U.S. Congress District 02,,DEM,Senator Joyce Elliott,22
+Conway,WARD 1,U.S. Congress District 02,,DEM,Senator Joyce Elliott,271
+Conway,WELBOURNE EAST,U.S. Congress District 02,,DEM,Senator Joyce Elliott,209
+Conway,MENIFEE RURAL,U.S. Congress District 02,,DEM,Senator Joyce Elliott,23
+Conway,AUSTIN,U.S. Congress District 02,,REP,Congressman French Hill,117
+Conway,BENTLEY CITY,U.S. Congress District 02,,REP,Congressman French Hill,245
+Conway,WELBOURNE WEST,U.S. Congress District 02,,REP,Congressman French Hill,214
+Conway,ST. VINCENT,U.S. Congress District 02,,REP,Congressman French Hill,229
+Conway,STEELE,U.S. Congress District 02,,REP,Congressman French Hill,210
+Conway,MENIFEE CITY,U.S. Congress District 02,,REP,Congressman French Hill,14
+Conway,HOWARD CITY,U.S. Congress District 02,,REP,Congressman French Hill,190
+Conway,HIGGINS,U.S. Congress District 02,,REP,Congressman French Hill,31
+Conway,CEDAR FALLS,U.S. Congress District 02,,REP,Congressman French Hill,114
+Conway,GREGORY,U.S. Congress District 02,,REP,Congressman French Hill,150
+Conway,GRIFFIN,U.S. Congress District 02,,REP,Congressman French Hill,159
+Conway,LICK MTN.,U.S. Congress District 02,,REP,Congressman French Hill,238
+Conway,WASHINGTON EAST,U.S. Congress District 02,,REP,Congressman French Hill,405
+Conway,MCCLAREN,U.S. Congress District 02,,REP,Congressman French Hill,83
+Conway,HOWARD RURAL,U.S. Congress District 02,,REP,Congressman French Hill,175
+Conway,WHITE EAGLE,U.S. Congress District 02,,REP,Congressman French Hill,19
+Conway,WARD 3,U.S. Congress District 02,,REP,Congressman French Hill,291
+Conway,WARD 4,U.S. Congress District 02,,REP,Congressman French Hill,485
+Conway,MARTIN,U.S. Congress District 02,,REP,Congressman French Hill,49
+Conway,WARD 2,U.S. Congress District 02,,REP,Congressman French Hill,274
+Conway,UNION,U.S. Congress District 02,,REP,Congressman French Hill,246
+Conway,BENTLEY RURAL,U.S. Congress District 02,,REP,Congressman French Hill,203
+Conway,WASHINGTON WEST,U.S. Congress District 02,,REP,Congressman French Hill,129
+Conway,BIRD,U.S. Congress District 02,,REP,Congressman French Hill,244
+Conway,CATHOLIC POINT,U.S. Congress District 02,,REP,Congressman French Hill,149
+Conway,PETIT JEAN,U.S. Congress District 02,,REP,Congressman French Hill,27
+Conway,NICHOLS,U.S. Congress District 02,,REP,Congressman French Hill,202
+Conway,OLD HICKORY,U.S. Congress District 02,,REP,Congressman French Hill,59
+Conway,WARD 1,U.S. Congress District 02,,REP,Congressman French Hill,346
+Conway,WELBOURNE EAST,U.S. Congress District 02,,REP,Congressman French Hill,500
+Conway,MENIFEE RURAL,U.S. Congress District 02,,REP,Congressman French Hill,53
+Conway,AUSTIN,State Representative District 65,,REP,Representative Rick Beck,108
+Conway,BENTLEY CITY,State Representative District 65,,REP,Representative Rick Beck,232
+Conway,WELBOURNE WEST,State Representative District 65,,REP,Representative Rick Beck,199
+Conway,ST. VINCENT,State Representative District 65,,REP,Representative Rick Beck,238
+Conway,STEELE,State Representative District 65,,REP,Representative Rick Beck,200
+Conway,MENIFEE CITY,State Representative District 65,,REP,Representative Rick Beck,28
+Conway,HOWARD CITY,State Representative District 65,,REP,Representative Rick Beck,175
+Conway,HIGGINS,State Representative District 65,,REP,Representative Rick Beck,30
+Conway,CEDAR FALLS,State Representative District 65,,REP,Representative Rick Beck,100
+Conway,GREGORY,State Representative District 65,,REP,Representative Rick Beck,147
+Conway,GRIFFIN,State Representative District 65,,REP,Representative Rick Beck,161
+Conway,LICK MTN.,State Representative District 65,,REP,Representative Rick Beck,222
+Conway,WASHINGTON EAST,State Representative District 65,,REP,Representative Rick Beck,400
+Conway,MCCLAREN,State Representative District 65,,REP,Representative Rick Beck,69
+Conway,HOWARD RURAL,State Representative District 65,,REP,Representative Rick Beck,170
+Conway,WHITE EAGLE,State Representative District 65,,REP,Representative Rick Beck,17
+Conway,WARD 3,State Representative District 65,,REP,Representative Rick Beck,287
+Conway,WARD 4,State Representative District 65,,REP,Representative Rick Beck,465
+Conway,MARTIN,State Representative District 65,,REP,Representative Rick Beck,47
+Conway,WARD 2,State Representative District 65,,REP,Representative Rick Beck,263
+Conway,UNION,State Representative District 65,,REP,Representative Rick Beck,243
+Conway,BENTLEY RURAL,State Representative District 65,,REP,Representative Rick Beck,196
+Conway,WASHINGTON WEST,State Representative District 65,,REP,Representative Rick Beck,131
+Conway,BIRD,State Representative District 65,,REP,Representative Rick Beck,233
+Conway,CATHOLIC POINT,State Representative District 65,,REP,Representative Rick Beck,142
+Conway,NICHOLS,State Representative District 65,,REP,Representative Rick Beck,202
+Conway,OLD HICKORY,State Representative District 65,,REP,Representative Rick Beck,59
+Conway,WARD 1,State Representative District 65,,REP,Representative Rick Beck,350
+Conway,WELBOURNE EAST,State Representative District 65,,REP,Representative Rick Beck,475
+Conway,MENIFEE RURAL,State Representative District 65,,REP,Representative Rick Beck,54
+Conway,AUSTIN,State Representative District 65,,DEM,David Norman,20
+Conway,BENTLEY CITY,State Representative District 65,,DEM,David Norman,65
+Conway,WELBOURNE WEST,State Representative District 65,,DEM,David Norman,96
+Conway,ST. VINCENT,State Representative District 65,,DEM,David Norman,73
+Conway,STEELE,State Representative District 65,,DEM,David Norman,55
+Conway,MENIFEE CITY,State Representative District 65,,DEM,David Norman,123
+Conway,HOWARD CITY,State Representative District 65,,DEM,David Norman,171
+Conway,HIGGINS,State Representative District 65,,DEM,David Norman,5
+Conway,CEDAR FALLS,State Representative District 65,,DEM,David Norman,72
+Conway,GREGORY,State Representative District 65,,DEM,David Norman,36
+Conway,GRIFFIN,State Representative District 65,,DEM,David Norman,48
+Conway,LICK MTN.,State Representative District 65,,DEM,David Norman,76
+Conway,WASHINGTON EAST,State Representative District 65,,DEM,David Norman,126
+Conway,MCCLAREN,State Representative District 65,,DEM,David Norman,28
+Conway,HOWARD RURAL,State Representative District 65,,DEM,David Norman,121
+Conway,WHITE EAGLE,State Representative District 65,,DEM,David Norman,6
+Conway,WARD 3,State Representative District 65,,DEM,David Norman,307
+Conway,WARD 4,State Representative District 65,,DEM,David Norman,340
+Conway,MARTIN,State Representative District 65,,DEM,David Norman,5
+Conway,WARD 2,State Representative District 65,,DEM,David Norman,209
+Conway,UNION,State Representative District 65,,DEM,David Norman,117
+Conway,BENTLEY RURAL,State Representative District 65,,DEM,David Norman,42
+Conway,WASHINGTON WEST,State Representative District 65,,DEM,David Norman,62
+Conway,BIRD,State Representative District 65,,DEM,David Norman,93
+Conway,CATHOLIC POINT,State Representative District 65,,DEM,David Norman,58
+Conway,NICHOLS,State Representative District 65,,DEM,David Norman,70
+Conway,OLD HICKORY,State Representative District 65,,DEM,David Norman,21
+Conway,WARD 1,State Representative District 65,,DEM,David Norman,259
+Conway,WELBOURNE EAST,State Representative District 65,,DEM,David Norman,234
+Conway,MENIFEE RURAL,State Representative District 65,,DEM,David Norman,22
+Conway,AUSTIN,State District Judge District 12,,NON,District Judge Brian Mueller,32
+Conway,BENTLEY CITY,State District Judge District 12,,NON,District Judge Brian Mueller,100
+Conway,WELBOURNE WEST,State District Judge District 12,,NON,District Judge Brian Mueller,80
+Conway,ST. VINCENT,State District Judge District 12,,NON,District Judge Brian Mueller,78
+Conway,STEELE,State District Judge District 12,,NON,District Judge Brian Mueller,87
+Conway,MENIFEE CITY,State District Judge District 12,,NON,District Judge Brian Mueller,40
+Conway,HOWARD CITY,State District Judge District 12,,NON,District Judge Brian Mueller,74
+Conway,HIGGINS,State District Judge District 12,,NON,District Judge Brian Mueller,5
+Conway,CEDAR FALLS,State District Judge District 12,,NON,District Judge Brian Mueller,63
+Conway,GREGORY,State District Judge District 12,,NON,District Judge Brian Mueller,58
+Conway,GRIFFIN,State District Judge District 12,,NON,District Judge Brian Mueller,53
+Conway,LICK MTN.,State District Judge District 12,,NON,District Judge Brian Mueller,104
+Conway,WASHINGTON EAST,State District Judge District 12,,NON,District Judge Brian Mueller,120
+Conway,MCCLAREN,State District Judge District 12,,NON,District Judge Brian Mueller,21
+Conway,HOWARD RURAL,State District Judge District 12,,NON,District Judge Brian Mueller,72
+Conway,WHITE EAGLE,State District Judge District 12,,NON,District Judge Brian Mueller,8
+Conway,WARD 3,State District Judge District 12,,NON,District Judge Brian Mueller,149
+Conway,WARD 4,State District Judge District 12,,NON,District Judge Brian Mueller,220
+Conway,MARTIN,State District Judge District 12,,NON,District Judge Brian Mueller,14
+Conway,WARD 2,State District Judge District 12,,NON,District Judge Brian Mueller,120
+Conway,UNION,State District Judge District 12,,NON,District Judge Brian Mueller,92
+Conway,BENTLEY RURAL,State District Judge District 12,,NON,District Judge Brian Mueller,61
+Conway,WASHINGTON WEST,State District Judge District 12,,NON,District Judge Brian Mueller,64
+Conway,BIRD,State District Judge District 12,,NON,District Judge Brian Mueller,93
+Conway,CATHOLIC POINT,State District Judge District 12,,NON,District Judge Brian Mueller,60
+Conway,PETIT JEAN,State District Judge District 12,,NON,District Judge Brian Mueller,18
+Conway,NICHOLS,State District Judge District 12,,NON,District Judge Brian Mueller,62
+Conway,OLD HICKORY,State District Judge District 12,,NON,District Judge Brian Mueller,14
+Conway,WARD 1,State District Judge District 12,,NON,District Judge Brian Mueller,162
+Conway,WELBOURNE EAST,State District Judge District 12,,NON,District Judge Brian Mueller,190
+Conway,MENIFEE RURAL,State District Judge District 12,,NON,District Judge Brian Mueller,27
+Conway,AUSTIN,State District Judge District 12,,NON,Judge Dale Lipsmeyer,90
+Conway,BENTLEY CITY,State District Judge District 12,,NON,Judge Dale Lipsmeyer,196
+Conway,WELBOURNE WEST,State District Judge District 12,,NON,Judge Dale Lipsmeyer,212
+Conway,ST. VINCENT,State District Judge District 12,,NON,Judge Dale Lipsmeyer,231
+Conway,STEELE,State District Judge District 12,,NON,Judge Dale Lipsmeyer,167
+Conway,MENIFEE CITY,State District Judge District 12,,NON,Judge Dale Lipsmeyer,108
+Conway,HOWARD CITY,State District Judge District 12,,NON,Judge Dale Lipsmeyer,268
+Conway,HIGGINS,State District Judge District 12,,NON,Judge Dale Lipsmeyer,31
+Conway,CEDAR FALLS,State District Judge District 12,,NON,Judge Dale Lipsmeyer,93
+Conway,GREGORY,State District Judge District 12,,NON,Judge Dale Lipsmeyer,125
+Conway,GRIFFIN,State District Judge District 12,,NON,Judge Dale Lipsmeyer,153
+Conway,LICK MTN.,State District Judge District 12,,NON,Judge Dale Lipsmeyer,191
+Conway,WASHINGTON EAST,State District Judge District 12,,NON,Judge Dale Lipsmeyer,396
+Conway,MCCLAREN,State District Judge District 12,,NON,Judge Dale Lipsmeyer,75
+Conway,HOWARD RURAL,State District Judge District 12,,NON,Judge Dale Lipsmeyer,214
+Conway,WHITE EAGLE,State District Judge District 12,,NON,Judge Dale Lipsmeyer,13
+Conway,WARD 3,State District Judge District 12,,NON,Judge Dale Lipsmeyer,439
+Conway,WARD 4,State District Judge District 12,,NON,Judge Dale Lipsmeyer,568
+Conway,MARTIN,State District Judge District 12,,NON,Judge Dale Lipsmeyer,38
+Conway,WARD 2,State District Judge District 12,,NON,Judge Dale Lipsmeyer,341
+Conway,UNION,State District Judge District 12,,NON,Judge Dale Lipsmeyer,263
+Conway,BENTLEY RURAL,State District Judge District 12,,NON,Judge Dale Lipsmeyer,171
+Conway,WASHINGTON WEST,State District Judge District 12,,NON,Judge Dale Lipsmeyer,131
+Conway,BIRD,State District Judge District 12,,NON,Judge Dale Lipsmeyer,227
+Conway,CATHOLIC POINT,State District Judge District 12,,NON,Judge Dale Lipsmeyer,136
+Conway,PETIT JEAN,State District Judge District 12,,NON,Judge Dale Lipsmeyer,22
+Conway,NICHOLS,State District Judge District 12,,NON,Judge Dale Lipsmeyer,206
+Conway,OLD HICKORY,State District Judge District 12,,NON,Judge Dale Lipsmeyer,63
+Conway,WARD 1,State District Judge District 12,,NON,Judge Dale Lipsmeyer,450
+Conway,WELBOURNE EAST,State District Judge District 12,,NON,Judge Dale Lipsmeyer,502
+Conway,MENIFEE RURAL,State District Judge District 12,,NON,Judge Dale Lipsmeyer,47
+Conway,AUSTIN,JP DISTRICT 4,,DEM,THOMAS FLOWERS,74
+Conway,LICK MTN.,JP DISTRICT 4,,DEM,THOMAS FLOWERS,199
+Conway,UNION,JP DISTRICT 4,,DEM,THOMAS FLOWERS,95
+Conway,CATHOLIC POINT,JP DISTRICT 4,,DEM,THOMAS FLOWERS,136
+Conway,NICHOLS,JP DISTRICT 4,,DEM,THOMAS FLOWERS,8
+Conway,AUSTIN,JP DISTRICT 4,,REP,CYERICE MARTIN,56
+Conway,LICK MTN.,JP DISTRICT 4,,REP,CYERICE MARTIN,90
+Conway,UNION,JP DISTRICT 4,,REP,CYERICE MARTIN,83
+Conway,CATHOLIC POINT,JP DISTRICT 4,,REP,CYERICE MARTIN,63
+Conway,NICHOLS,JP DISTRICT 4,,REP,CYERICE MARTIN,8
+Conway,WARD 3,MORRILTON COUNCILMEMBER WARD 4 POSITION 1,,DEM,JIM BOWLES,329
+Conway,WARD 4,MORRILTON COUNCILMEMBER WARD 4 POSITION 1,,DEM,JIM BOWLES,399
+Conway,WARD 2,MORRILTON COUNCILMEMBER WARD 4 POSITION 1,,DEM,JIM BOWLES,234
+Conway,WARD 1,MORRILTON COUNCILMEMBER WARD 4 POSITION 1,,DEM,JIM BOWLES,320
+Conway,WARD 3,MORRILTON COUNCILMEMBER WARD 4 POSITION 1,,REP,BRANDON D. BAKER,266
+Conway,WARD 4,MORRILTON COUNCILMEMBER WARD 4 POSITION 1,,REP,BRANDON D. BAKER,406
+Conway,WARD 2,MORRILTON COUNCILMEMBER WARD 4 POSITION 1,,REP,BRANDON D. BAKER,234
+Conway,WARD 1,MORRILTON COUNCILMEMBER WARD 4 POSITION 1,,REP,BRANDON D. BAKER,291
+Conway,WELBOURNE WEST,WELBOURNE CONSTABLE TOWNSHIIP,,DEM,ROBERT L. STOBAUGH,206
+Conway,WARD 3,WELBOURNE CONSTABLE TOWNSHIIP,,DEM,ROBERT L. STOBAUGH,391
+Conway,WARD 4,WELBOURNE CONSTABLE TOWNSHIIP,,DEM,ROBERT L. STOBAUGH,490
+Conway,WARD 2,WELBOURNE CONSTABLE TOWNSHIIP,,DEM,ROBERT L. STOBAUGH,279
+Conway,WARD 1,WELBOURNE CONSTABLE TOWNSHIIP,,DEM,ROBERT L. STOBAUGH,395
+Conway,WELBOURNE EAST,WELBOURNE CONSTABLE TOWNSHIIP,,DEM,ROBERT L. STOBAUGH,398
+Conway,WELBOURNE WEST,WELBOURNE CONSTABLE TOWNSHIIP,,REP,RICHARD SHANE ENGEBRECHT,86
+Conway,WARD 3,WELBOURNE CONSTABLE TOWNSHIIP,,REP,RICHARD SHANE ENGEBRECHT,203
+Conway,WARD 4,WELBOURNE CONSTABLE TOWNSHIIP,,REP,RICHARD SHANE ENGEBRECHT,313
+Conway,WARD 2,WELBOURNE CONSTABLE TOWNSHIIP,,REP,RICHARD SHANE ENGEBRECHT,188
+Conway,WARD 1,WELBOURNE CONSTABLE TOWNSHIIP,,REP,RICHARD SHANE ENGEBRECHT,209
+Conway,WELBOURNE EAST,WELBOURNE CONSTABLE TOWNSHIIP,,REP,RICHARD SHANE ENGEBRECHT,305
+Conway,PETIT JEAN,State Representative District 73,,REP,State Representative Mary Bentley,40
+Conway,HOWARD CITY,RECORDER / TREASURER PLUMERVILLE,,DEM,ANDREA HOLLAND,324
+Conway,AUSTIN,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,64
+Conway,BENTLEY CITY,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,182
+Conway,WELBOURNE WEST,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,167
+Conway,ST. VINCENT,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,169
+Conway,STEELE,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,140
+Conway,MENIFEE CITY,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,93
+Conway,HOWARD CITY,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,222
+Conway,HIGGINS,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,18
+Conway,CEDAR FALLS,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,101
+Conway,GREGORY,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,80
+Conway,GRIFFIN,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,105
+Conway,LICK MTN.,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,169
+Conway,WASHINGTON EAST,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,266
+Conway,MCCLAREN,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,55
+Conway,HOWARD RURAL,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,178
+Conway,WHITE EAGLE,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,19
+Conway,WARD 3,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,360
+Conway,WARD 4,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,488
+Conway,MARTIN,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,32
+Conway,WARD 2,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,280
+Conway,UNION,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,181
+Conway,BENTLEY RURAL,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,122
+Conway,WASHINGTON WEST,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,112
+Conway,BIRD,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,172
+Conway,CATHOLIC POINT,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,120
+Conway,PETIT JEAN,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,21
+Conway,NICHOLS,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,133
+Conway,OLD HICKORY,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,49
+Conway,WARD 1,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,352
+Conway,WELBOURNE EAST,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,392
+Conway,MENIFEE RURAL,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,35
+Conway,AUSTIN,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,63
+Conway,BENTLEY CITY,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,116
+Conway,WELBOURNE WEST,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,126
+Conway,ST. VINCENT,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,145
+Conway,STEELE,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,114
+Conway,MENIFEE CITY,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,58
+Conway,HOWARD CITY,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,122
+Conway,HIGGINS,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,18
+Conway,CEDAR FALLS,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,69
+Conway,GREGORY,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,102
+Conway,GRIFFIN,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,105
+Conway,LICK MTN.,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,129
+Conway,WASHINGTON EAST,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,254
+Conway,MCCLAREN,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,41
+Conway,HOWARD RURAL,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,111
+Conway,WHITE EAGLE,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,4
+Conway,WARD 3,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,226
+Conway,WARD 4,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,312
+Conway,MARTIN,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,20
+Conway,WARD 2,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,189
+Conway,UNION,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,170
+Conway,BENTLEY RURAL,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,115
+Conway,WASHINGTON WEST,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,82
+Conway,BIRD,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,152
+Conway,CATHOLIC POINT,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,79
+Conway,PETIT JEAN,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,21
+Conway,NICHOLS,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,135
+Conway,OLD HICKORY,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,29
+Conway,WARD 1,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,255
+Conway,WELBOURNE EAST,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,315
+Conway,MENIFEE RURAL,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,41
+Conway,AUSTIN,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,51
+Conway,BENTLEY CITY,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,170
+Conway,WELBOURNE WEST,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,139
+Conway,ST. VINCENT,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,170
+Conway,STEELE,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,123
+Conway,MENIFEE CITY,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,85
+Conway,HOWARD CITY,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,182
+Conway,HIGGINS,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,19
+Conway,CEDAR FALLS,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,77
+Conway,GREGORY,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,99
+Conway,GRIFFIN,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,116
+Conway,LICK MTN.,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,161
+Conway,WASHINGTON EAST,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,268
+Conway,MCCLAREN,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,55
+Conway,HOWARD RURAL,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,161
+Conway,WHITE EAGLE,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,10
+Conway,WARD 3,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,325
+Conway,WARD 4,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,385
+Conway,MARTIN,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,30
+Conway,WARD 2,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,266
+Conway,UNION,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,199
+Conway,BENTLEY RURAL,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,129
+Conway,WASHINGTON WEST,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,118
+Conway,BIRD,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,159
+Conway,CATHOLIC POINT,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,95
+Conway,PETIT JEAN,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,21
+Conway,NICHOLS,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,134
+Conway,OLD HICKORY,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,46
+Conway,WARD 1,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,298
+Conway,WELBOURNE EAST,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,341
+Conway,MENIFEE RURAL,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,41
+Conway,AUSTIN,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,73
+Conway,BENTLEY CITY,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,124
+Conway,WELBOURNE WEST,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,149
+Conway,ST. VINCENT,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,140
+Conway,STEELE,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,129
+Conway,MENIFEE CITY,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,63
+Conway,HOWARD CITY,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,160
+Conway,HIGGINS,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,16
+Conway,CEDAR FALLS,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,89
+Conway,GREGORY,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,80
+Conway,GRIFFIN,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,92
+Conway,LICK MTN.,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,136
+Conway,WASHINGTON EAST,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,251
+Conway,MCCLAREN,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,40
+Conway,HOWARD RURAL,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,124
+Conway,WHITE EAGLE,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,13
+Conway,WARD 3,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,258
+Conway,WARD 4,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,399
+Conway,MARTIN,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,21
+Conway,WARD 2,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,198
+Conway,UNION,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,148
+Conway,BENTLEY RURAL,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,104
+Conway,WASHINGTON WEST,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,73
+Conway,BIRD,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,164
+Conway,CATHOLIC POINT,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,101
+Conway,PETIT JEAN,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,20
+Conway,NICHOLS,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,132
+Conway,OLD HICKORY,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,31
+Conway,WARD 1,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,305
+Conway,WELBOURNE EAST,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,355
+Conway,MENIFEE RURAL,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,33
+Conway,AUSTIN,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,52
+Conway,BENTLEY CITY,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,122
+Conway,WELBOURNE WEST,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,101
+Conway,ST. VINCENT,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,133
+Conway,STEELE,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,113
+Conway,MENIFEE CITY,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,65
+Conway,HOWARD CITY,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,153
+Conway,HIGGINS,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,8
+Conway,CEDAR FALLS,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,65
+Conway,GREGORY,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,66
+Conway,GRIFFIN,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,67
+Conway,LICK MTN.,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,111
+Conway,WASHINGTON EAST,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,192
+Conway,MCCLAREN,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,47
+Conway,HOWARD RURAL,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,104
+Conway,WHITE EAGLE,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,15
+Conway,WARD 3,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,239
+Conway,WARD 4,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,316
+Conway,MARTIN,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,28
+Conway,WARD 2,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,211
+Conway,UNION,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,136
+Conway,BENTLEY RURAL,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,102
+Conway,WASHINGTON WEST,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,82
+Conway,BIRD,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,125
+Conway,CATHOLIC POINT,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,71
+Conway,PETIT JEAN,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,17
+Conway,NICHOLS,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,88
+Conway,OLD HICKORY,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,38
+Conway,WARD 1,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,216
+Conway,WELBOURNE EAST,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,265
+Conway,MENIFEE RURAL,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,28
+Conway,AUSTIN,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,70
+Conway,BENTLEY CITY,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,171
+Conway,WELBOURNE WEST,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,180
+Conway,ST. VINCENT,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,171
+Conway,STEELE,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,133
+Conway,MENIFEE CITY,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,81
+Conway,HOWARD CITY,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,189
+Conway,HIGGINS,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,27
+Conway,CEDAR FALLS,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,96
+Conway,GREGORY,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,110
+Conway,GRIFFIN,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,137
+Conway,LICK MTN.,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,177
+Conway,WASHINGTON EAST,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,317
+Conway,MCCLAREN,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,46
+Conway,HOWARD RURAL,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,173
+Conway,WHITE EAGLE,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,8
+Conway,WARD 3,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,337
+Conway,WARD 4,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,463
+Conway,MARTIN,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,23
+Conway,WARD 2,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,247
+Conway,UNION,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,206
+Conway,BENTLEY RURAL,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,129
+Conway,WASHINGTON WEST,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,112
+Conway,BIRD,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,192
+Conway,CATHOLIC POINT,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,124
+Conway,PETIT JEAN,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,21
+Conway,NICHOLS,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,173
+Conway,OLD HICKORY,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,39
+Conway,WARD 1,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,377
+Conway,WELBOURNE EAST,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,419
+Conway,MENIFEE RURAL,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,45

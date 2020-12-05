@@ -1,0 +1,436 @@
+county,precinct,office,district,party,candidate,votes
+Columbia,Columbia North,U.S. President, Vice President,Ind,Phil Collins/Billy Joe Parker,2
+Columbia,Columbia South,U.S. President, Vice President,Ind,Phil Collins/Billy Joe Parker,4
+Columbia,Mag Ward 1,U.S. President, Vice President,Ind,Phil Collins/Billy Joe Parker,4
+Columbia,Mag Ward 2,U.S. President, Vice President,Ind,Phil Collins/Billy Joe Parker,2
+Columbia,Mag Ward 3,U.S. President, Vice President,Ind,Phil Collins/Billy Joe Parker,1
+Columbia,Mag Ward 4,U.S. President, Vice President,Ind,Phil Collins/Billy Joe Parker,1
+Columbia,McNeil Township,U.S. President, Vice President,Ind,Phil Collins/Billy Joe Parker,0
+Columbia,McNeil City,U.S. President, Vice President,Ind,Phil Collins/Billy Joe Parker,1
+Columbia,Waldo Township,U.S. President, Vice President,Ind,Phil Collins/Billy Joe Parker,0
+Columbia,Waldo City,U.S. President, Vice President,Ind,Phil Collins/Billy Joe Parker,4
+Columbia,Emerson Township,U.S. President, Vice President,Ind,Phil Collins/Billy Joe Parker,4
+Columbia,Emerson City,U.S. President, Vice President,Ind,Phil Collins/Billy Joe Parker,0
+Columbia,Taylor Township,U.S. President, Vice President,Ind,Phil Collins/Billy Joe Parker,2
+Columbia,Taylor City,U.S. President, Vice President,Ind,Phil Collins/Billy Joe Parker,1
+Columbia,Columbia North,U.S. President, Vice President,Soc,Gloria La Riva/Sunil Freeman,1
+Columbia,Columbia South,U.S. President, Vice President,Soc,Gloria La Riva/Sunil Freeman,2
+Columbia,Mag Ward 1,U.S. President, Vice President,Soc,Gloria La Riva/Sunil Freeman,5
+Columbia,Mag Ward 2,U.S. President, Vice President,Soc,Gloria La Riva/Sunil Freeman,2
+Columbia,Mag Ward 3,U.S. President, Vice President,Soc,Gloria La Riva/Sunil Freeman,0
+Columbia,Mag Ward 4,U.S. President, Vice President,Soc,Gloria La Riva/Sunil Freeman,0
+Columbia,McNeil Township,U.S. President, Vice President,Soc,Gloria La Riva/Sunil Freeman,0
+Columbia,McNeil City,U.S. President, Vice President,Soc,Gloria La Riva/Sunil Freeman,0
+Columbia,Waldo Township,U.S. President, Vice President,Soc,Gloria La Riva/Sunil Freeman,1
+Columbia,Waldo City,U.S. President, Vice President,Soc,Gloria La Riva/Sunil Freeman,0
+Columbia,Emerson Township,U.S. President, Vice President,Soc,Gloria La Riva/Sunil Freeman,0
+Columbia,Emerson City,U.S. President, Vice President,Soc,Gloria La Riva/Sunil Freeman,1
+Columbia,Taylor Township,U.S. President, Vice President,Soc,Gloria La Riva/Sunil Freeman,0
+Columbia,Taylor City,U.S. President, Vice President,Soc,Gloria La Riva/Sunil Freeman,0
+Columbia,Columbia North,U.S. President, Vice President,Ind,C.L. Gammon/Phil Collins,1
+Columbia,Columbia South,U.S. President, Vice President,Ind,C.L. Gammon/Phil Collins,1
+Columbia,Mag Ward 1,U.S. President, Vice President,Ind,C.L. Gammon/Phil Collins,1
+Columbia,Mag Ward 2,U.S. President, Vice President,Ind,C.L. Gammon/Phil Collins,1
+Columbia,Mag Ward 3,U.S. President, Vice President,Ind,C.L. Gammon/Phil Collins,0
+Columbia,Mag Ward 4,U.S. President, Vice President,Ind,C.L. Gammon/Phil Collins,4
+Columbia,McNeil Township,U.S. President, Vice President,Ind,C.L. Gammon/Phil Collins,0
+Columbia,McNeil City,U.S. President, Vice President,Ind,C.L. Gammon/Phil Collins,0
+Columbia,Waldo Township,U.S. President, Vice President,Ind,C.L. Gammon/Phil Collins,0
+Columbia,Waldo City,U.S. President, Vice President,Ind,C.L. Gammon/Phil Collins,1
+Columbia,Emerson Township,U.S. President, Vice President,Ind,C.L. Gammon/Phil Collins,0
+Columbia,Emerson City,U.S. President, Vice President,Ind,C.L. Gammon/Phil Collins,0
+Columbia,Taylor Township,U.S. President, Vice President,Ind,C.L. Gammon/Phil Collins,0
+Columbia,Taylor City,U.S. President, Vice President,Ind,C.L. Gammon/Phil Collins,0
+Columbia,Columbia North,U.S. President, Vice President,Ind,Kanye West/Michelle Tidball,1
+Columbia,Columbia South,U.S. President, Vice President,Ind,Kanye West/Michelle Tidball,1
+Columbia,Mag Ward 1,U.S. President, Vice President,Ind,Kanye West/Michelle Tidball,7
+Columbia,Mag Ward 2,U.S. President, Vice President,Ind,Kanye West/Michelle Tidball,1
+Columbia,Mag Ward 3,U.S. President, Vice President,Ind,Kanye West/Michelle Tidball,1
+Columbia,Mag Ward 4,U.S. President, Vice President,Ind,Kanye West/Michelle Tidball,3
+Columbia,McNeil Township,U.S. President, Vice President,Ind,Kanye West/Michelle Tidball,1
+Columbia,McNeil City,U.S. President, Vice President,Ind,Kanye West/Michelle Tidball,1
+Columbia,Waldo Township,U.S. President, Vice President,Ind,Kanye West/Michelle Tidball,0
+Columbia,Waldo City,U.S. President, Vice President,Ind,Kanye West/Michelle Tidball,1
+Columbia,Emerson Township,U.S. President, Vice President,Ind,Kanye West/Michelle Tidball,2
+Columbia,Emerson City,U.S. President, Vice President,Ind,Kanye West/Michelle Tidball,0
+Columbia,Taylor Township,U.S. President, Vice President,Ind,Kanye West/Michelle Tidball,0
+Columbia,Taylor City,U.S. President, Vice President,Ind,Kanye West/Michelle Tidball,0
+Columbia,Columbia North,U.S. President, Vice President,Dem,Joseph R. Biden/Kamala Harris,259
+Columbia,Columbia South,U.S. President, Vice President,Dem,Joseph R. Biden/Kamala Harris,361
+Columbia,Mag Ward 1,U.S. President, Vice President,Dem,Joseph R. Biden/Kamala Harris,359
+Columbia,Mag Ward 2,U.S. President, Vice President,Dem,Joseph R. Biden/Kamala Harris,500
+Columbia,Mag Ward 3,U.S. President, Vice President,Dem,Joseph R. Biden/Kamala Harris,218
+Columbia,Mag Ward 4,U.S. President, Vice President,Dem,Joseph R. Biden/Kamala Harris,321
+Columbia,McNeil Township,U.S. President, Vice President,Dem,Joseph R. Biden/Kamala Harris,127
+Columbia,McNeil City,U.S. President, Vice President,Dem,Joseph R. Biden/Kamala Harris,64
+Columbia,Waldo Township,U.S. President, Vice President,Dem,Joseph R. Biden/Kamala Harris,95
+Columbia,Waldo City,U.S. President, Vice President,Dem,Joseph R. Biden/Kamala Harris,275
+Columbia,Emerson Township,U.S. President, Vice President,Dem,Joseph R. Biden/Kamala Harris,108
+Columbia,Emerson City,U.S. President, Vice President,Dem,Joseph R. Biden/Kamala Harris,41
+Columbia,Taylor Township,U.S. President, Vice President,Dem,Joseph R. Biden/Kamala Harris,67
+Columbia,Taylor City,U.S. President, Vice President,Dem,Joseph R. Biden/Kamala Harris,19
+Columbia,Columbia North,U.S. President, Vice President,Lib,Jo Jorgensen/Jeremy 'Spike' Cohen,5
+Columbia,Columbia South,U.S. President, Vice President,Lib,Jo Jorgensen/Jeremy 'Spike' Cohen,2
+Columbia,Mag Ward 1,U.S. President, Vice President,Lib,Jo Jorgensen/Jeremy 'Spike' Cohen,8
+Columbia,Mag Ward 2,U.S. President, Vice President,Lib,Jo Jorgensen/Jeremy 'Spike' Cohen,6
+Columbia,Mag Ward 3,U.S. President, Vice President,Lib,Jo Jorgensen/Jeremy 'Spike' Cohen,10
+Columbia,Mag Ward 4,U.S. President, Vice President,Lib,Jo Jorgensen/Jeremy 'Spike' Cohen,9
+Columbia,McNeil Township,U.S. President, Vice President,Lib,Jo Jorgensen/Jeremy 'Spike' Cohen,1
+Columbia,McNeil City,U.S. President, Vice President,Lib,Jo Jorgensen/Jeremy 'Spike' Cohen,1
+Columbia,Waldo Township,U.S. President, Vice President,Lib,Jo Jorgensen/Jeremy 'Spike' Cohen,1
+Columbia,Waldo City,U.S. President, Vice President,Lib,Jo Jorgensen/Jeremy 'Spike' Cohen,1
+Columbia,Emerson Township,U.S. President, Vice President,Lib,Jo Jorgensen/Jeremy 'Spike' Cohen,4
+Columbia,Emerson City,U.S. President, Vice President,Lib,Jo Jorgensen/Jeremy 'Spike' Cohen,3
+Columbia,Taylor Township,U.S. President, Vice President,Lib,Jo Jorgensen/Jeremy 'Spike' Cohen,1
+Columbia,Taylor City,U.S. President, Vice President,Lib,Jo Jorgensen/Jeremy 'Spike' Cohen,1
+Columbia,Columbia North,U.S. President, Vice President,Ind,Brock Pierce/Karla Ballard,2
+Columbia,Columbia South,U.S. President, Vice President,Ind,Brock Pierce/Karla Ballard,1
+Columbia,Mag Ward 1,U.S. President, Vice President,Ind,Brock Pierce/Karla Ballard,3
+Columbia,Mag Ward 2,U.S. President, Vice President,Ind,Brock Pierce/Karla Ballard,0
+Columbia,Mag Ward 3,U.S. President, Vice President,Ind,Brock Pierce/Karla Ballard,0
+Columbia,Mag Ward 4,U.S. President, Vice President,Ind,Brock Pierce/Karla Ballard,1
+Columbia,McNeil Township,U.S. President, Vice President,Ind,Brock Pierce/Karla Ballard,2
+Columbia,McNeil City,U.S. President, Vice President,Ind,Brock Pierce/Karla Ballard,0
+Columbia,Waldo Township,U.S. President, Vice President,Ind,Brock Pierce/Karla Ballard,0
+Columbia,Waldo City,U.S. President, Vice President,Ind,Brock Pierce/Karla Ballard,1
+Columbia,Emerson Township,U.S. President, Vice President,Ind,Brock Pierce/Karla Ballard,1
+Columbia,Emerson City,U.S. President, Vice President,Ind,Brock Pierce/Karla Ballard,0
+Columbia,Taylor Township,U.S. President, Vice President,Ind,Brock Pierce/Karla Ballard,0
+Columbia,Taylor City,U.S. President, Vice President,Ind,Brock Pierce/Karla Ballard,0
+Columbia,Columbia North,U.S. President, Vice President,Rep,Donald J. Trump/Michael R. Pence,1113
+Columbia,Columbia South,U.S. President, Vice President,Rep,Donald J. Trump/Michael R. Pence,640
+Columbia,Mag Ward 1,U.S. President, Vice President,Rep,Donald J. Trump/Michael R. Pence,463
+Columbia,Mag Ward 2,U.S. President, Vice President,Rep,Donald J. Trump/Michael R. Pence,110
+Columbia,Mag Ward 3,U.S. President, Vice President,Rep,Donald J. Trump/Michael R. Pence,656
+Columbia,Mag Ward 4,U.S. President, Vice President,Rep,Donald J. Trump/Michael R. Pence,732
+Columbia,McNeil Township,U.S. President, Vice President,Rep,Donald J. Trump/Michael R. Pence,244
+Columbia,McNeil City,U.S. President, Vice President,Rep,Donald J. Trump/Michael R. Pence,68
+Columbia,Waldo Township,U.S. President, Vice President,Rep,Donald J. Trump/Michael R. Pence,241
+Columbia,Waldo City,U.S. President, Vice President,Rep,Donald J. Trump/Michael R. Pence,104
+Columbia,Emerson Township,U.S. President, Vice President,Rep,Donald J. Trump/Michael R. Pence,521
+Columbia,Emerson City,U.S. President, Vice President,Rep,Donald J. Trump/Michael R. Pence,48
+Columbia,Taylor Township,U.S. President, Vice President,Rep,Donald J. Trump/Michael R. Pence,342
+Columbia,Taylor City,U.S. President, Vice President,Rep,Donald J. Trump/Michael R. Pence,218
+Columbia,Columbia North,U.S. President, Vice President,Lif,John Richard Myers/Tiara Suzanne Lusk,0
+Columbia,Columbia South,U.S. President, Vice President,Lif,John Richard Myers/Tiara Suzanne Lusk,1
+Columbia,Mag Ward 1,U.S. President, Vice President,Lif,John Richard Myers/Tiara Suzanne Lusk,2
+Columbia,Mag Ward 2,U.S. President, Vice President,Lif,John Richard Myers/Tiara Suzanne Lusk,2
+Columbia,Mag Ward 3,U.S. President, Vice President,Lif,John Richard Myers/Tiara Suzanne Lusk,3
+Columbia,Mag Ward 4,U.S. President, Vice President,Lif,John Richard Myers/Tiara Suzanne Lusk,1
+Columbia,McNeil Township,U.S. President, Vice President,Lif,John Richard Myers/Tiara Suzanne Lusk,0
+Columbia,McNeil City,U.S. President, Vice President,Lif,John Richard Myers/Tiara Suzanne Lusk,0
+Columbia,Waldo Township,U.S. President, Vice President,Lif,John Richard Myers/Tiara Suzanne Lusk,0
+Columbia,Waldo City,U.S. President, Vice President,Lif,John Richard Myers/Tiara Suzanne Lusk,0
+Columbia,Emerson Township,U.S. President, Vice President,Lif,John Richard Myers/Tiara Suzanne Lusk,0
+Columbia,Emerson City,U.S. President, Vice President,Lif,John Richard Myers/Tiara Suzanne Lusk,0
+Columbia,Taylor Township,U.S. President, Vice President,Lif,John Richard Myers/Tiara Suzanne Lusk,1
+Columbia,Taylor City,U.S. President, Vice President,Lif,John Richard Myers/Tiara Suzanne Lusk,0
+Columbia,Columbia North,U.S. President, Vice President,Gre,Howie Hawkins/Angela Walker,10
+Columbia,Columbia South,U.S. President, Vice President,Gre,Howie Hawkins/Angela Walker,13
+Columbia,Mag Ward 1,U.S. President, Vice President,Gre,Howie Hawkins/Angela Walker,3
+Columbia,Mag Ward 2,U.S. President, Vice President,Gre,Howie Hawkins/Angela Walker,10
+Columbia,Mag Ward 3,U.S. President, Vice President,Gre,Howie Hawkins/Angela Walker,1
+Columbia,Mag Ward 4,U.S. President, Vice President,Gre,Howie Hawkins/Angela Walker,7
+Columbia,McNeil Township,U.S. President, Vice President,Gre,Howie Hawkins/Angela Walker,2
+Columbia,McNeil City,U.S. President, Vice President,Gre,Howie Hawkins/Angela Walker,1
+Columbia,Waldo Township,U.S. President, Vice President,Gre,Howie Hawkins/Angela Walker,4
+Columbia,Waldo City,U.S. President, Vice President,Gre,Howie Hawkins/Angela Walker,7
+Columbia,Emerson Township,U.S. President, Vice President,Gre,Howie Hawkins/Angela Walker,4
+Columbia,Emerson City,U.S. President, Vice President,Gre,Howie Hawkins/Angela Walker,1
+Columbia,Taylor Township,U.S. President, Vice President,Gre,Howie Hawkins/Angela Walker,8
+Columbia,Taylor City,U.S. President, Vice President,Gre,Howie Hawkins/Angela Walker,0
+Columbia,Columbia North,U.S. President, Vice President,Ind,Roque 'Rocky' De La Fuente/Darcy G. Richardson,3
+Columbia,Columbia South,U.S. President, Vice President,Ind,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Columbia,Mag Ward 1,U.S. President, Vice President,Ind,Roque 'Rocky' De La Fuente/Darcy G. Richardson,6
+Columbia,Mag Ward 2,U.S. President, Vice President,Ind,Roque 'Rocky' De La Fuente/Darcy G. Richardson,8
+Columbia,Mag Ward 3,U.S. President, Vice President,Ind,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Columbia,Mag Ward 4,U.S. President, Vice President,Ind,Roque 'Rocky' De La Fuente/Darcy G. Richardson,4
+Columbia,McNeil Township,U.S. President, Vice President,Ind,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Columbia,McNeil City,U.S. President, Vice President,Ind,Roque 'Rocky' De La Fuente/Darcy G. Richardson,2
+Columbia,Waldo Township,U.S. President, Vice President,Ind,Roque 'Rocky' De La Fuente/Darcy G. Richardson,1
+Columbia,Waldo City,U.S. President, Vice President,Ind,Roque 'Rocky' De La Fuente/Darcy G. Richardson,3
+Columbia,Emerson Township,U.S. President, Vice President,Ind,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Columbia,Emerson City,U.S. President, Vice President,Ind,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Columbia,Taylor Township,U.S. President, Vice President,Ind,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Columbia,Taylor City,U.S. President, Vice President,Ind,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Columbia,Columbia North,U.S. President, Vice President,Ame,Brian Carroll/Amar Patel,2
+Columbia,Columbia South,U.S. President, Vice President,Ame,Brian Carroll/Amar Patel,3
+Columbia,Mag Ward 1,U.S. President, Vice President,Ame,Brian Carroll/Amar Patel,1
+Columbia,Mag Ward 2,U.S. President, Vice President,Ame,Brian Carroll/Amar Patel,3
+Columbia,Mag Ward 3,U.S. President, Vice President,Ame,Brian Carroll/Amar Patel,0
+Columbia,Mag Ward 4,U.S. President, Vice President,Ame,Brian Carroll/Amar Patel,2
+Columbia,McNeil Township,U.S. President, Vice President,Ame,Brian Carroll/Amar Patel,0
+Columbia,McNeil City,U.S. President, Vice President,Ame,Brian Carroll/Amar Patel,0
+Columbia,Waldo Township,U.S. President, Vice President,Ame,Brian Carroll/Amar Patel,1
+Columbia,Waldo City,U.S. President, Vice President,Ame,Brian Carroll/Amar Patel,3
+Columbia,Emerson Township,U.S. President, Vice President,Ame,Brian Carroll/Amar Patel,0
+Columbia,Emerson City,U.S. President, Vice President,Ame,Brian Carroll/Amar Patel,2
+Columbia,Taylor Township,U.S. President, Vice President,Ame,Brian Carroll/Amar Patel,0
+Columbia,Taylor City,U.S. President, Vice President,Ame,Brian Carroll/Amar Patel,0
+Columbia,Columbia North,U.S. President, Vice President,Con,Don Blankenship/William Mohr,7
+Columbia,Columbia South,U.S. President, Vice President,Con,Don Blankenship/William Mohr,2
+Columbia,Mag Ward 1,U.S. President, Vice President,Con,Don Blankenship/William Mohr,8
+Columbia,Mag Ward 2,U.S. President, Vice President,Con,Don Blankenship/William Mohr,8
+Columbia,Mag Ward 3,U.S. President, Vice President,Con,Don Blankenship/William Mohr,1
+Columbia,Mag Ward 4,U.S. President, Vice President,Con,Don Blankenship/William Mohr,3
+Columbia,McNeil Township,U.S. President, Vice President,Con,Don Blankenship/William Mohr,1
+Columbia,McNeil City,U.S. President, Vice President,Con,Don Blankenship/William Mohr,0
+Columbia,Waldo Township,U.S. President, Vice President,Con,Don Blankenship/William Mohr,4
+Columbia,Waldo City,U.S. President, Vice President,Con,Don Blankenship/William Mohr,6
+Columbia,Emerson Township,U.S. President, Vice President,Con,Don Blankenship/William Mohr,3
+Columbia,Emerson City,U.S. President, Vice President,Con,Don Blankenship/William Mohr,1
+Columbia,Taylor Township,U.S. President, Vice President,Con,Don Blankenship/William Mohr,2
+Columbia,Taylor City,U.S. President, Vice President,Con,Don Blankenship/William Mohr,1
+Columbia,Columbia North,U.S. Senate,,Lib,Ricky Dale Harrington Jr.,215
+Columbia,Columbia South,U.S. Senate,,Lib,Ricky Dale Harrington Jr.,297
+Columbia,Mag Ward 1,U.S. Senate,,Lib,Ricky Dale Harrington Jr.,296
+Columbia,Mag Ward 2,U.S. Senate,,Lib,Ricky Dale Harrington Jr.,363
+Columbia,Mag Ward 3,U.S. Senate,,Lib,Ricky Dale Harrington Jr.,192
+Columbia,Mag Ward 4,U.S. Senate,,Lib,Ricky Dale Harrington Jr.,281
+Columbia,McNeil Township,U.S. Senate,,Lib,Ricky Dale Harrington Jr.,106
+Columbia,McNeil City,U.S. Senate,,Lib,Ricky Dale Harrington Jr.,50
+Columbia,Waldo Township,U.S. Senate,,Lib,Ricky Dale Harrington Jr.,78
+Columbia,Waldo City,U.S. Senate,,Lib,Ricky Dale Harrington Jr.,225
+Columbia,Emerson Township,U.S. Senate,,Lib,Ricky Dale Harrington Jr.,103
+Columbia,Emerson City,U.S. Senate,,Lib,Ricky Dale Harrington Jr.,38
+Columbia,Taylor Township,U.S. Senate,,Lib,Ricky Dale Harrington Jr.,57
+Columbia,Taylor City,U.S. Senate,,Lib,Ricky Dale Harrington Jr.,14
+Columbia,Columbia North,U.S. Senate,,Rep,Senator Tom Cotton,1146
+Columbia,Columbia South,U.S. Senate,,Rep,Senator Tom Cotton,661
+Columbia,Mag Ward 1,U.S. Senate,,Rep,Senator Tom Cotton,508
+Columbia,Mag Ward 2,U.S. Senate,,Rep,Senator Tom Cotton,168
+Columbia,Mag Ward 3,U.S. Senate,,Rep,Senator Tom Cotton,675
+Columbia,Mag Ward 4,U.S. Senate,,Rep,Senator Tom Cotton,758
+Columbia,McNeil Township,U.S. Senate,,Rep,Senator Tom Cotton,248
+Columbia,McNeil City,U.S. Senate,,Rep,Senator Tom Cotton,78
+Columbia,Waldo Township,U.S. Senate,,Rep,Senator Tom Cotton,250
+Columbia,Waldo City,U.S. Senate,,Rep,Senator Tom Cotton,134
+Columbia,Emerson Township,U.S. Senate,,Rep,Senator Tom Cotton,524
+Columbia,Emerson City,U.S. Senate,,Rep,Senator Tom Cotton,51
+Columbia,Taylor Township,U.S. Senate,,Rep,Senator Tom Cotton,351
+Columbia,Taylor City,U.S. Senate,,Rep,Senator Tom Cotton,224
+Columbia,Columbia North,U.S. Congress District 04,,Lib,Frank Gilbert,14
+Columbia,Columbia South,U.S. Congress District 04,,Lib,Frank Gilbert,21
+Columbia,Mag Ward 1,U.S. Congress District 04,,Lib,Frank Gilbert,24
+Columbia,Mag Ward 2,U.S. Congress District 04,,Lib,Frank Gilbert,10
+Columbia,Mag Ward 3,U.S. Congress District 04,,Lib,Frank Gilbert,27
+Columbia,Mag Ward 4,U.S. Congress District 04,,Lib,Frank Gilbert,22
+Columbia,McNeil Township,U.S. Congress District 04,,Lib,Frank Gilbert,7
+Columbia,McNeil City,U.S. Congress District 04,,Lib,Frank Gilbert,1
+Columbia,Waldo Township,U.S. Congress District 04,,Lib,Frank Gilbert,4
+Columbia,Waldo City,U.S. Congress District 04,,Lib,Frank Gilbert,12
+Columbia,Emerson Township,U.S. Congress District 04,,Lib,Frank Gilbert,9
+Columbia,Emerson City,U.S. Congress District 04,,Lib,Frank Gilbert,6
+Columbia,Taylor Township,U.S. Congress District 04,,Lib,Frank Gilbert,7
+Columbia,Taylor City,U.S. Congress District 04,,Lib,Frank Gilbert,1
+Columbia,Columbia North,U.S. Congress District 04,,Rep,Representative Bruce Westerman,1133
+Columbia,Columbia South,U.S. Congress District 04,,Rep,Representative Bruce Westerman,638
+Columbia,Mag Ward 1,U.S. Congress District 04,,Rep,Representative Bruce Westerman,480
+Columbia,Mag Ward 2,U.S. Congress District 04,,Rep,Representative Bruce Westerman,118
+Columbia,Mag Ward 3,U.S. Congress District 04,,Rep,Representative Bruce Westerman,665
+Columbia,Mag Ward 4,U.S. Congress District 04,,Rep,Representative Bruce Westerman,757
+Columbia,McNeil Township,U.S. Congress District 04,,Rep,Representative Bruce Westerman,249
+Columbia,McNeil City,U.S. Congress District 04,,Rep,Representative Bruce Westerman,71
+Columbia,Waldo Township,U.S. Congress District 04,,Rep,Representative Bruce Westerman,245
+Columbia,Waldo City,U.S. Congress District 04,,Rep,Representative Bruce Westerman,106
+Columbia,Emerson Township,U.S. Congress District 04,,Rep,Representative Bruce Westerman,516
+Columbia,Emerson City,U.S. Congress District 04,,Rep,Representative Bruce Westerman,48
+Columbia,Taylor Township,U.S. Congress District 04,,Rep,Representative Bruce Westerman,341
+Columbia,Taylor City,U.S. Congress District 04,,Rep,Representative Bruce Westerman,224
+Columbia,Columbia North,U.S. Congress District 04,,Dem,William H. Hanson,233
+Columbia,Columbia South,U.S. Congress District 04,,Dem,William H. Hanson,349
+Columbia,Mag Ward 1,U.S. Congress District 04,,Dem,William H. Hanson,344
+Columbia,Mag Ward 2,U.S. Congress District 04,,Dem,William H. Hanson,501
+Columbia,Mag Ward 3,U.S. Congress District 04,,Dem,William H. Hanson,191
+Columbia,Mag Ward 4,U.S. Congress District 04,,Dem,William H. Hanson,297
+Columbia,McNeil Township,U.S. Congress District 04,,Dem,William H. Hanson,117
+Columbia,McNeil City,U.S. Congress District 04,,Dem,William H. Hanson,65
+Columbia,Waldo Township,U.S. Congress District 04,,Dem,William H. Hanson,97
+Columbia,Waldo City,U.S. Congress District 04,,Dem,William H. Hanson,274
+Columbia,Emerson Township,U.S. Congress District 04,,Dem,William H. Hanson,108
+Columbia,Emerson City,U.S. Congress District 04,,Dem,William H. Hanson,38
+Columbia,Taylor Township,U.S. Congress District 04,,Dem,William H. Hanson,69
+Columbia,Taylor City,U.S. Congress District 04,,Dem,William H. Hanson,17
+Columbia,Columbia North,State Senate District 12,,Rep,Charles Beckham,807
+Columbia,Columbia South,State Senate District 12,,Rep,Charles Beckham,467
+Columbia,Mag Ward 1,State Senate District 12,,Rep,Charles Beckham,316
+Columbia,Mag Ward 2,State Senate District 12,,Rep,Charles Beckham,92
+Columbia,Mag Ward 3,State Senate District 12,,Rep,Charles Beckham,385
+Columbia,Mag Ward 4,State Senate District 12,,Rep,Charles Beckham,509
+Columbia,McNeil Township,State Senate District 12,,Rep,Charles Beckham,195
+Columbia,McNeil City,State Senate District 12,,Rep,Charles Beckham,61
+Columbia,Waldo Township,State Senate District 12,,Rep,Charles Beckham,194
+Columbia,Waldo City,State Senate District 12,,Rep,Charles Beckham,85
+Columbia,Emerson Township,State Senate District 12,,Rep,Charles Beckham,357
+Columbia,Emerson City,State Senate District 12,,Rep,Charles Beckham,24
+Columbia,Taylor Township,State Senate District 12,,Rep,Charles Beckham,289
+Columbia,Taylor City,State Senate District 12,,Rep,Charles Beckham,182
+Columbia,Columbia North,State Senate District 12,,Dem,Senator Bruce Maloch,583
+Columbia,Columbia South,State Senate District 12,,Dem,Senator Bruce Maloch,545
+Columbia,Mag Ward 1,State Senate District 12,,Dem,Senator Bruce Maloch,541
+Columbia,Mag Ward 2,State Senate District 12,,Dem,Senator Bruce Maloch,538
+Columbia,Mag Ward 3,State Senate District 12,,Dem,Senator Bruce Maloch,501
+Columbia,Mag Ward 4,State Senate District 12,,Dem,Senator Bruce Maloch,568
+Columbia,McNeil Township,State Senate District 12,,Dem,Senator Bruce Maloch,179
+Columbia,McNeil City,State Senate District 12,,Dem,Senator Bruce Maloch,76
+Columbia,Waldo Township,State Senate District 12,,Dem,Senator Bruce Maloch,150
+Columbia,Waldo City,State Senate District 12,,Dem,Senator Bruce Maloch,308
+Columbia,Emerson Township,State Senate District 12,,Dem,Senator Bruce Maloch,279
+Columbia,Emerson City,State Senate District 12,,Dem,Senator Bruce Maloch,73
+Columbia,Taylor Township,State Senate District 12,,Dem,Senator Bruce Maloch,127
+Columbia,Taylor City,State Senate District 12,,Dem,Senator Bruce Maloch,59
+Columbia,Columbia North,State Representative District 2,,Rep,Representative Lane Jean,875
+Columbia,Columbia South,State Representative District 2,,Rep,Representative Lane Jean,280
+Columbia,Mag Ward 1,State Representative District 2,,Rep,Representative Lane Jean,601
+Columbia,Mag Ward 2,State Representative District 2,,Rep,Representative Lane Jean,34
+Columbia,Mag Ward 3,State Representative District 2,,Rep,Representative Lane Jean,831
+Columbia,Mag Ward 4,State Representative District 2,,Rep,Representative Lane Jean,964
+Columbia,McNeil Township,State Representative District 2,,Rep,Representative Lane Jean,0
+Columbia,Waldo Township,State Representative District 2,,Rep,Representative Lane Jean,77
+Columbia,Emerson Township,State Representative District 2,,Rep,Representative Lane Jean,253
+Columbia,Taylor Township,State Representative District 2,,Rep,Representative Lane Jean,262
+Columbia,Taylor City,State Representative District 2,,Rep,Representative Lane Jean,236
+Columbia,Columbia North,State Representative District 5,,Rep,Chase McDowell,324
+Columbia,Columbia South,State Representative District 5,,Rep,Chase McDowell,375
+Columbia,Mag Ward 1,State Representative District 5,,Rep,Chase McDowell,26
+Columbia,Mag Ward 2,State Representative District 5,,Rep,Chase McDowell,72
+Columbia,McNeil Township,State Representative District 5,,Rep,Chase McDowell,225
+Columbia,McNeil City,State Representative District 5,,Rep,Chase McDowell,58
+Columbia,Waldo Township,State Representative District 5,,Rep,Chase McDowell,168
+Columbia,Waldo City,State Representative District 5,,Rep,Chase McDowell,98
+Columbia,Columbia North,State Representative District 5,,Dem,State Rep. David Fielding,98
+Columbia,Columbia South,State Representative District 5,,Dem,State Rep. David Fielding,319
+Columbia,Mag Ward 1,State Representative District 5,,Dem,State Rep. David Fielding,160
+Columbia,Mag Ward 2,State Representative District 5,,Dem,State Rep. David Fielding,524
+Columbia,McNeil Township,State Representative District 5,,Dem,State Rep. David Fielding,149
+Columbia,McNeil City,State Representative District 5,,Dem,State Rep. David Fielding,80
+Columbia,Waldo Township,State Representative District 5,,Dem,State Rep. David Fielding,86
+Columbia,Waldo City,State Representative District 5,,Dem,State Rep. David Fielding,303
+Columbia,Columbia South,State Representative District 6,,Rep,State Representative Matthew J. Shepherd,5
+Columbia,Emerson Township,State Representative District 6,,Rep,State Representative Matthew J. Shepherd,315
+Columbia,Emerson City,State Representative District 6,,Rep,State Representative Matthew J. Shepherd,68
+Columbia,Taylor Township,State Representative District 6,,Rep,State Representative Matthew J. Shepherd,113
+Columbia,Columbia North,JOP Dist 02,,Dem,Stephen K. Stroebele,25
+Columbia,McNeil Township,JOP Dist 02,,Dem,Stephen K. Stroebele,127
+Columbia,McNeil City,JOP Dist 02,,Dem,Stephen K. Stroebele,62
+Columbia,Waldo Township,JOP Dist 02,,Dem,Stephen K. Stroebele,20
+Columbia,Columbia North,JOP Dist 02,,Rep,Sam Sharp,213
+Columbia,McNeil Township,JOP Dist 02,,Rep,Sam Sharp,246
+Columbia,McNeil City,JOP Dist 02,,Rep,Sam Sharp,75
+Columbia,Waldo Township,JOP Dist 02,,Rep,Sam Sharp,68
+Columbia,Mag Ward 1,Magnolia Constable 3 City,,Rep,Dr. Randall H. Adams,450
+Columbia,Mag Ward 2,Magnolia Constable 3 City,,Rep,Dr. Randall H. Adams,103
+Columbia,Mag Ward 3,Magnolia Constable 3 City,,Rep,Dr. Randall H. Adams,620
+Columbia,Mag Ward 4,Magnolia Constable 3 City,,Rep,Dr. Randall H. Adams,699
+Columbia,Mag Ward 1,Magnolia Constable 3 City,,Ind,Justin L. Sneed,46
+Columbia,Mag Ward 2,Magnolia Constable 3 City,,Ind,Justin L. Sneed,23
+Columbia,Mag Ward 3,Magnolia Constable 3 City,,Ind,Justin L. Sneed,61
+Columbia,Mag Ward 4,Magnolia Constable 3 City,,Ind,Justin L. Sneed,71
+Columbia,Mag Ward 1,Magnolia Constable 3 City,,Dem,"Kevin ""Murph"" Murphy",356
+Columbia,Mag Ward 2,Magnolia Constable 3 City,,Dem,"Kevin ""Murph"" Murphy",482
+Columbia,Mag Ward 3,Magnolia Constable 3 City,,Dem,"Kevin ""Murph"" Murphy",196
+Columbia,Mag Ward 4,Magnolia Constable 3 City,,Dem,"Kevin ""Murph"" Murphy",303
+Columbia,Waldo City,Waldo Alderman Ward 1 Pos.2 City,,Ind,David Baird,219
+Columbia,Waldo City,Waldo Alderman Ward 1 Pos.2 City,,Ind,Ramon Scarber,167
+Columbia,Waldo City,Waldo Alderman Ward 3 Pos.1 City,,Ind,Katrina Deshaun Finley,133
+Columbia,Waldo City,Waldo Alderman Ward 3 Pos.1 City,,Ind,La Wanda Gail Robinson,256
+Columbia,Waldo City,Waldo Alderman Ward 3 Pos.2 City,,Ind,Patricia Doss Glover,162
+Columbia,Waldo City,Waldo Alderman Ward 3 Pos.2 City,,Ind,Dedrick Young,230
+Columbia,Waldo City,Waldo City Recorder City,,Ind,Beverlyn Rowden,274
+Columbia,Waldo City,Waldo City Recorder City,,Ind,Darla Longino,110
+Columbia,Emerson Township,Alderman P3 Town,,Ind,Gregory Carter,144
+Columbia,Emerson City,Alderman P3 Town,,Ind,Gregory Carter,48
+Columbia,Emerson Township,Alderman P3 Town,,Ind,Milly Lindsey,170
+Columbia,Emerson City,Alderman P3 Town,,Ind,Milly Lindsey,44
+Columbia,Mag Ward 1,Magnolia City Clerk City,,Ind,Shakamree L. Roy,734
+Columbia,Mag Ward 2,Magnolia City Clerk City,,Ind,Shakamree L. Roy,507
+Columbia,Mag Ward 3,Magnolia City Clerk City,,Ind,Shakamree L. Roy,788
+Columbia,Mag Ward 4,Magnolia City Clerk City,,Ind,Shakamree L. Roy,926
+Columbia,Emerson Township,EMERSON TOWN LEVING A 1% SALES AND USE TAX Town,,NON,FOR,38
+Columbia,Emerson City,EMERSON TOWN LEVING A 1% SALES AND USE TAX Town,,NON,FOR,50
+Columbia,Emerson Township,EMERSON TOWN LEVING A 1% SALES AND USE TAX Town,,NON,AGAINST,63
+Columbia,Emerson City,EMERSON TOWN LEVING A 1% SALES AND USE TAX Town,,NON,AGAINST,46
+Columbia,Columbia North,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,682
+Columbia,Columbia South,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,491
+Columbia,Mag Ward 1,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,531
+Columbia,Mag Ward 2,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,339
+Columbia,Mag Ward 3,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,555
+Columbia,Mag Ward 4,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,608
+Columbia,McNeil Township,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,183
+Columbia,McNeil City,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,68
+Columbia,Waldo Township,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,181
+Columbia,Waldo City,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,231
+Columbia,Emerson Township,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,317
+Columbia,Emerson City,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,51
+Columbia,Taylor Township,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,258
+Columbia,Taylor City,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,150
+Columbia,Columbia North,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,692
+Columbia,Columbia South,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,477
+Columbia,Mag Ward 1,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,286
+Columbia,Mag Ward 2,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,230
+Columbia,Mag Ward 3,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,325
+Columbia,Mag Ward 4,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,429
+Columbia,McNeil Township,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,180
+Columbia,McNeil City,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,61
+Columbia,Waldo Township,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,146
+Columbia,Waldo City,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,119
+Columbia,Emerson Township,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,305
+Columbia,Emerson City,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,40
+Columbia,Taylor Township,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,152
+Columbia,Taylor City,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,89
+Columbia,Columbia North,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,584
+Columbia,Columbia South,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,466
+Columbia,Mag Ward 1,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,430
+Columbia,Mag Ward 2,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,338
+Columbia,Mag Ward 3,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,392
+Columbia,Mag Ward 4,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,452
+Columbia,McNeil Township,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,145
+Columbia,McNeil City,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,71
+Columbia,Waldo Township,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,165
+Columbia,Waldo City,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,210
+Columbia,Emerson Township,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,304
+Columbia,Emerson City,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,47
+Columbia,Taylor Township,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,223
+Columbia,Taylor City,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,130
+Columbia,Columbia North,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,768
+Columbia,Columbia South,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,484
+Columbia,Mag Ward 1,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,382
+Columbia,Mag Ward 2,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,227
+Columbia,Mag Ward 3,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,472
+Columbia,Mag Ward 4,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,566
+Columbia,McNeil Township,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,215
+Columbia,McNeil City,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,57
+Columbia,Waldo Township,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,157
+Columbia,Waldo City,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,138
+Columbia,Emerson Township,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,305
+Columbia,Emerson City,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,39
+Columbia,Taylor Township,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,182
+Columbia,Taylor City,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,108
+Columbia,Columbia North,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,509
+Columbia,Columbia South,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,384
+Columbia,Mag Ward 1,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,405
+Columbia,Mag Ward 2,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,299
+Columbia,Mag Ward 3,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,393
+Columbia,Mag Ward 4,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,452
+Columbia,McNeil Township,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,132
+Columbia,McNeil City,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,58
+Columbia,Waldo Township,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,142
+Columbia,Waldo City,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,196
+Columbia,Emerson Township,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,261
+Columbia,Emerson City,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,45
+Columbia,Taylor Township,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,217
+Columbia,Taylor City,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,125
+Columbia,Columbia North,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,816
+Columbia,Columbia South,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,552
+Columbia,Mag Ward 1,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,393
+Columbia,Mag Ward 2,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,254
+Columbia,Mag Ward 3,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,455
+Columbia,Mag Ward 4,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,543
+Columbia,McNeil Township,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,225
+Columbia,McNeil City,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,70
+Columbia,Waldo Township,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,172
+Columbia,Waldo City,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,152
+Columbia,Emerson Township,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,328
+Columbia,Emerson City,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,40
+Columbia,Taylor Township,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,184
+Columbia,Taylor City,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,110

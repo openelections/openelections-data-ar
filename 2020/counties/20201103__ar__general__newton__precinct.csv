@@ -1,0 +1,495 @@
+county,precinct,office,district,party,candidate,votes
+Newton,Big Creek,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,26
+Newton,Boston,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,6
+Newton,Dogpatch,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,88
+Newton,Grove,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,58
+Newton,Hasty,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,6
+Newton,Hickory Grove,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,8
+Newton,Hudson,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,63
+Newton,Jackson,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,111
+Newton,Jefferson,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,27
+Newton,Lincoln,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,16
+Newton,Low Gap,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,37
+Newton,Mt. Sherman,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,26
+Newton,Murray,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,41
+Newton,Pleasant Hill,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,44
+Newton,Polk,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,18
+Newton,Ponca,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,85
+Newton,Richland,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,12
+Newton,Van Buren,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,2
+Newton,White,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,35
+Newton,Big Creek,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,107
+Newton,Boston,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,46
+Newton,Dogpatch,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,329
+Newton,Grove,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,408
+Newton,Hasty,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,145
+Newton,Hickory Grove,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,40
+Newton,Hudson,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,173
+Newton,Jackson,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,395
+Newton,Jefferson,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,94
+Newton,Lincoln,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,104
+Newton,Low Gap,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,115
+Newton,Mt. Sherman,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,127
+Newton,Murray,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,23
+Newton,Pleasant Hill,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,174
+Newton,Polk,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,97
+Newton,Ponca,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,297
+Newton,Richland,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,137
+Newton,Van Buren,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,12
+Newton,White,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,369
+Newton,Big Creek,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Newton,Boston,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Newton,Dogpatch,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,1
+Newton,Grove,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Newton,Hasty,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Newton,Hickory Grove,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Newton,Hudson,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Newton,Jackson,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,3
+Newton,Jefferson,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Newton,Lincoln,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Newton,Low Gap,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,1
+Newton,Mt. Sherman,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,1
+Newton,Murray,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Newton,Pleasant Hill,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,1
+Newton,Polk,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Newton,Ponca,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,1
+Newton,Richland,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Newton,Van Buren,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Newton,White,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Newton,Big Creek,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Newton,Boston,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Newton,Dogpatch,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Newton,Grove,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Newton,Hasty,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Newton,Hickory Grove,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Newton,Hudson,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Newton,Jackson,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Newton,Jefferson,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Newton,Lincoln,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Newton,Low Gap,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Newton,Mt. Sherman,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Newton,Murray,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Newton,Pleasant Hill,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Newton,Polk,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Newton,Ponca,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Newton,Richland,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Newton,Van Buren,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Newton,White,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Newton,Big Creek,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,2
+Newton,Boston,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,0
+Newton,Dogpatch,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,1
+Newton,Grove,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,1
+Newton,Hasty,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,1
+Newton,Hickory Grove,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,0
+Newton,Hudson,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,1
+Newton,Jackson,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,1
+Newton,Jefferson,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,1
+Newton,Lincoln,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,0
+Newton,Low Gap,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,1
+Newton,Mt. Sherman,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,0
+Newton,Murray,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,0
+Newton,Pleasant Hill,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,3
+Newton,Polk,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,1
+Newton,Ponca,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,0
+Newton,Richland,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,0
+Newton,Van Buren,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,0
+Newton,White,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,0
+Newton,Big Creek,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Newton,Boston,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Newton,Dogpatch,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Newton,Grove,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Newton,Hasty,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Newton,Hickory Grove,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Newton,Hudson,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,1
+Newton,Jackson,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,2
+Newton,Jefferson,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Newton,Lincoln,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Newton,Low Gap,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Newton,Mt. Sherman,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Newton,Murray,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Newton,Pleasant Hill,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Newton,Polk,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Newton,Ponca,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,1
+Newton,Richland,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Newton,Van Buren,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Newton,White,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Newton,Big Creek,U.S. President, Vice President,GRE,Howie Hawkins/Angela Walker,0
+Newton,Boston,U.S. President, Vice President,GRE,Howie Hawkins/Angela Walker,0
+Newton,Dogpatch,U.S. President, Vice President,GRE,Howie Hawkins/Angela Walker,3
+Newton,Grove,U.S. President, Vice President,GRE,Howie Hawkins/Angela Walker,1
+Newton,Hasty,U.S. President, Vice President,GRE,Howie Hawkins/Angela Walker,0
+Newton,Hickory Grove,U.S. President, Vice President,GRE,Howie Hawkins/Angela Walker,1
+Newton,Hudson,U.S. President, Vice President,GRE,Howie Hawkins/Angela Walker,3
+Newton,Jackson,U.S. President, Vice President,GRE,Howie Hawkins/Angela Walker,1
+Newton,Jefferson,U.S. President, Vice President,GRE,Howie Hawkins/Angela Walker,1
+Newton,Lincoln,U.S. President, Vice President,GRE,Howie Hawkins/Angela Walker,0
+Newton,Low Gap,U.S. President, Vice President,GRE,Howie Hawkins/Angela Walker,0
+Newton,Mt. Sherman,U.S. President, Vice President,GRE,Howie Hawkins/Angela Walker,0
+Newton,Murray,U.S. President, Vice President,GRE,Howie Hawkins/Angela Walker,0
+Newton,Pleasant Hill,U.S. President, Vice President,GRE,Howie Hawkins/Angela Walker,0
+Newton,Polk,U.S. President, Vice President,GRE,Howie Hawkins/Angela Walker,0
+Newton,Ponca,U.S. President, Vice President,GRE,Howie Hawkins/Angela Walker,0
+Newton,Richland,U.S. President, Vice President,GRE,Howie Hawkins/Angela Walker,0
+Newton,Van Buren,U.S. President, Vice President,GRE,Howie Hawkins/Angela Walker,0
+Newton,White,U.S. President, Vice President,GRE,Howie Hawkins/Angela Walker,1
+Newton,Big Creek,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,0
+Newton,Boston,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,0
+Newton,Dogpatch,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,0
+Newton,Grove,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,1
+Newton,Hasty,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,0
+Newton,Hickory Grove,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,0
+Newton,Hudson,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,0
+Newton,Jackson,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,1
+Newton,Jefferson,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,0
+Newton,Lincoln,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,0
+Newton,Low Gap,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,0
+Newton,Mt. Sherman,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,0
+Newton,Murray,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,0
+Newton,Pleasant Hill,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,0
+Newton,Polk,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,0
+Newton,Ponca,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,1
+Newton,Richland,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,0
+Newton,Van Buren,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,0
+Newton,White,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,1
+Newton,Big Creek,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,1
+Newton,Boston,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Newton,Dogpatch,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Newton,Grove,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Newton,Hasty,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Newton,Hickory Grove,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Newton,Hudson,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Newton,Jackson,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Newton,Jefferson,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Newton,Lincoln,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Newton,Low Gap,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Newton,Mt. Sherman,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,1
+Newton,Murray,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Newton,Pleasant Hill,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Newton,Polk,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Newton,Ponca,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Newton,Richland,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Newton,Van Buren,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Newton,White,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Newton,Big Creek,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Newton,Boston,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Newton,Dogpatch,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,1
+Newton,Grove,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,1
+Newton,Hasty,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,1
+Newton,Hickory Grove,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Newton,Hudson,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Newton,Jackson,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,1
+Newton,Jefferson,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,1
+Newton,Lincoln,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Newton,Low Gap,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Newton,Mt. Sherman,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Newton,Murray,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Newton,Pleasant Hill,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,1
+Newton,Polk,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Newton,Ponca,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,3
+Newton,Richland,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Newton,Van Buren,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Newton,White,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Newton,Big Creek,U.S. President, Vice President,CON,Don Blankenship/William Mohr,0
+Newton,Boston,U.S. President, Vice President,CON,Don Blankenship/William Mohr,0
+Newton,Dogpatch,U.S. President, Vice President,CON,Don Blankenship/William Mohr,1
+Newton,Grove,U.S. President, Vice President,CON,Don Blankenship/William Mohr,4
+Newton,Hasty,U.S. President, Vice President,CON,Don Blankenship/William Mohr,0
+Newton,Hickory Grove,U.S. President, Vice President,CON,Don Blankenship/William Mohr,0
+Newton,Hudson,U.S. President, Vice President,CON,Don Blankenship/William Mohr,3
+Newton,Jackson,U.S. President, Vice President,CON,Don Blankenship/William Mohr,4
+Newton,Jefferson,U.S. President, Vice President,CON,Don Blankenship/William Mohr,0
+Newton,Lincoln,U.S. President, Vice President,CON,Don Blankenship/William Mohr,0
+Newton,Low Gap,U.S. President, Vice President,CON,Don Blankenship/William Mohr,0
+Newton,Mt. Sherman,U.S. President, Vice President,CON,Don Blankenship/William Mohr,0
+Newton,Murray,U.S. President, Vice President,CON,Don Blankenship/William Mohr,0
+Newton,Pleasant Hill,U.S. President, Vice President,CON,Don Blankenship/William Mohr,0
+Newton,Polk,U.S. President, Vice President,CON,Don Blankenship/William Mohr,0
+Newton,Ponca,U.S. President, Vice President,CON,Don Blankenship/William Mohr,1
+Newton,Richland,U.S. President, Vice President,CON,Don Blankenship/William Mohr,0
+Newton,Van Buren,U.S. President, Vice President,CON,Don Blankenship/William Mohr,0
+Newton,White,U.S. President, Vice President,CON,Don Blankenship/William Mohr,2
+Newton,Big Creek,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Newton,Boston,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Newton,Dogpatch,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,2
+Newton,Grove,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,1
+Newton,Hasty,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Newton,Hickory Grove,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Newton,Hudson,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Newton,Jackson,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Newton,Jefferson,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,1
+Newton,Lincoln,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Newton,Low Gap,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Newton,Mt. Sherman,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Newton,Murray,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Newton,Pleasant Hill,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Newton,Polk,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Newton,Ponca,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,2
+Newton,Richland,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Newton,Van Buren,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Newton,White,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,2
+Newton,Big Creek,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,1
+Newton,Boston,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,0
+Newton,Dogpatch,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,1
+Newton,Grove,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,0
+Newton,Hasty,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,0
+Newton,Hickory Grove,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,2
+Newton,Hudson,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,0
+Newton,Jackson,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,2
+Newton,Jefferson,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,3
+Newton,Lincoln,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,5
+Newton,Low Gap,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,1
+Newton,Mt. Sherman,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,2
+Newton,Murray,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,1
+Newton,Pleasant Hill,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,1
+Newton,Polk,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,0
+Newton,Ponca,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,3
+Newton,Richland,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,0
+Newton,Van Buren,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,0
+Newton,White,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,1
+Newton,Big Creek,U.S. Senate,,REP,Senator Tom Cotton,96
+Newton,Boston,U.S. Senate,,REP,Senator Tom Cotton,43
+Newton,Dogpatch,U.S. Senate,,REP,Senator Tom Cotton,321
+Newton,Grove,U.S. Senate,,REP,Senator Tom Cotton,403
+Newton,Hasty,U.S. Senate,,REP,Senator Tom Cotton,144
+Newton,Hickory Grove,U.S. Senate,,REP,Senator Tom Cotton,40
+Newton,Hudson,U.S. Senate,,REP,Senator Tom Cotton,170
+Newton,Jackson,U.S. Senate,,REP,Senator Tom Cotton,396
+Newton,Jefferson,U.S. Senate,,REP,Senator Tom Cotton,93
+Newton,Lincoln,U.S. Senate,,REP,Senator Tom Cotton,98
+Newton,Low Gap,U.S. Senate,,REP,Senator Tom Cotton,110
+Newton,Mt. Sherman,U.S. Senate,,REP,Senator Tom Cotton,126
+Newton,Murray,U.S. Senate,,REP,Senator Tom Cotton,19
+Newton,Pleasant Hill,U.S. Senate,,REP,Senator Tom Cotton,177
+Newton,Polk,U.S. Senate,,REP,Senator Tom Cotton,95
+Newton,Ponca,U.S. Senate,,REP,Senator Tom Cotton,306
+Newton,Richland,U.S. Senate,,REP,Senator Tom Cotton,138
+Newton,Van Buren,U.S. Senate,,REP,Senator Tom Cotton,12
+Newton,White,U.S. Senate,,REP,Senator Tom Cotton,368
+Newton,Big Creek,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,29
+Newton,Boston,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,9
+Newton,Dogpatch,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,97
+Newton,Grove,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,62
+Newton,Hasty,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,7
+Newton,Hickory Grove,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,10
+Newton,Hudson,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,69
+Newton,Jackson,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,105
+Newton,Jefferson,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,33
+Newton,Lincoln,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,20
+Newton,Low Gap,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,40
+Newton,Mt. Sherman,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,24
+Newton,Murray,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,45
+Newton,Pleasant Hill,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,41
+Newton,Polk,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,14
+Newton,Ponca,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,82
+Newton,Richland,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,10
+Newton,Van Buren,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,2
+Newton,White,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,29
+Newton,Big Creek,U.S. Congress District 03,,DEM,Celeste Williams,25
+Newton,Dogpatch,U.S. Congress District 03,,DEM,Celeste Williams,93
+Newton,Grove,U.S. Congress District 03,,DEM,Celeste Williams,56
+Newton,Hasty,U.S. Congress District 03,,DEM,Celeste Williams,6
+Newton,Polk,U.S. Congress District 03,,DEM,Celeste Williams,14
+Newton,Richland,U.S. Congress District 03,,DEM,Celeste Williams,7
+Newton,White,U.S. Congress District 03,,DEM,Celeste Williams,34
+Newton,Big Creek,U.S. Congress District 03,,LIB,Michael J. Kalagias,1
+Newton,Dogpatch,U.S. Congress District 03,,LIB,Michael J. Kalagias,9
+Newton,Grove,U.S. Congress District 03,,LIB,Michael J. Kalagias,9
+Newton,Hasty,U.S. Congress District 03,,LIB,Michael J. Kalagias,2
+Newton,Polk,U.S. Congress District 03,,LIB,Michael J. Kalagias,6
+Newton,Richland,U.S. Congress District 03,,LIB,Michael J. Kalagias,1
+Newton,White,U.S. Congress District 03,,LIB,Michael J. Kalagias,5
+Newton,Big Creek,U.S. Congress District 03,,REP,Congressman Steve Womack,101
+Newton,Dogpatch,U.S. Congress District 03,,REP,Congressman Steve Womack,320
+Newton,Grove,U.S. Congress District 03,,REP,Congressman Steve Womack,400
+Newton,Hasty,U.S. Congress District 03,,REP,Congressman Steve Womack,144
+Newton,Polk,U.S. Congress District 03,,REP,Congressman Steve Womack,91
+Newton,Richland,U.S. Congress District 03,,REP,Congressman Steve Womack,138
+Newton,White,U.S. Congress District 03,,REP,Congressman Steve Womack,361
+Newton,Boston,U.S. Congress District 04,,DEM,William H. Hanson,8
+Newton,Hickory Grove,U.S. Congress District 04,,DEM,William H. Hanson,8
+Newton,Hudson,U.S. Congress District 04,,DEM,William H. Hanson,64
+Newton,Jackson,U.S. Congress District 04,,DEM,William H. Hanson,110
+Newton,Jefferson,U.S. Congress District 04,,DEM,William H. Hanson,28
+Newton,Lincoln,U.S. Congress District 04,,DEM,William H. Hanson,17
+Newton,Low Gap,U.S. Congress District 04,,DEM,William H. Hanson,37
+Newton,Mt. Sherman,U.S. Congress District 04,,DEM,William H. Hanson,29
+Newton,Murray,U.S. Congress District 04,,DEM,William H. Hanson,37
+Newton,Pleasant Hill,U.S. Congress District 04,,DEM,William H. Hanson,37
+Newton,Ponca,U.S. Congress District 04,,DEM,William H. Hanson,84
+Newton,Van Buren,U.S. Congress District 04,,DEM,William H. Hanson,2
+Newton,Boston,U.S. Congress District 04,,REP,Representative Bruce Westerman,44
+Newton,Hickory Grove,U.S. Congress District 04,,REP,Representative Bruce Westerman,41
+Newton,Hudson,U.S. Congress District 04,,REP,Representative Bruce Westerman,170
+Newton,Jackson,U.S. Congress District 04,,REP,Representative Bruce Westerman,377
+Newton,Jefferson,U.S. Congress District 04,,REP,Representative Bruce Westerman,89
+Newton,Lincoln,U.S. Congress District 04,,REP,Representative Bruce Westerman,95
+Newton,Low Gap,U.S. Congress District 04,,REP,Representative Bruce Westerman,107
+Newton,Mt. Sherman,U.S. Congress District 04,,REP,Representative Bruce Westerman,121
+Newton,Murray,U.S. Congress District 04,,REP,Representative Bruce Westerman,22
+Newton,Pleasant Hill,U.S. Congress District 04,,REP,Representative Bruce Westerman,176
+Newton,Ponca,U.S. Congress District 04,,REP,Representative Bruce Westerman,297
+Newton,Van Buren,U.S. Congress District 04,,REP,Representative Bruce Westerman,12
+Newton,Boston,U.S. Congress District 04,,LIB,Frank Gilbert,0
+Newton,Hickory Grove,U.S. Congress District 04,,LIB,Frank Gilbert,2
+Newton,Hudson,U.S. Congress District 04,,LIB,Frank Gilbert,6
+Newton,Jackson,U.S. Congress District 04,,LIB,Frank Gilbert,17
+Newton,Jefferson,U.S. Congress District 04,,LIB,Frank Gilbert,7
+Newton,Lincoln,U.S. Congress District 04,,LIB,Frank Gilbert,10
+Newton,Low Gap,U.S. Congress District 04,,LIB,Frank Gilbert,5
+Newton,Mt. Sherman,U.S. Congress District 04,,LIB,Frank Gilbert,1
+Newton,Murray,U.S. Congress District 04,,LIB,Frank Gilbert,3
+Newton,Pleasant Hill,U.S. Congress District 04,,LIB,Frank Gilbert,5
+Newton,Ponca,U.S. Congress District 04,,LIB,Frank Gilbert,9
+Newton,Van Buren,U.S. Congress District 04,,LIB,Frank Gilbert,0
+Newton,Big Creek,State Senate District 16,,REP,Senator Breanne Davis,110
+Newton,Boston,State Senate District 16,,REP,Senator Breanne Davis,47
+Newton,Dogpatch,State Senate District 16,,REP,Senator Breanne Davis,370
+Newton,Grove,State Senate District 16,,REP,Senator Breanne Davis,429
+Newton,Hasty,State Senate District 16,,REP,Senator Breanne Davis,147
+Newton,Hickory Grove,State Senate District 16,,REP,Senator Breanne Davis,41
+Newton,Hudson,State Senate District 16,,REP,Senator Breanne Davis,202
+Newton,Jackson,State Senate District 16,,REP,Senator Breanne Davis,442
+Newton,Jefferson,State Senate District 16,,REP,Senator Breanne Davis,96
+Newton,Lincoln,State Senate District 16,,REP,Senator Breanne Davis,105
+Newton,Low Gap,State Senate District 16,,REP,Senator Breanne Davis,125
+Newton,Mt. Sherman,State Senate District 16,,REP,Senator Breanne Davis,141
+Newton,Murray,State Senate District 16,,REP,Senator Breanne Davis,45
+Newton,Pleasant Hill,State Senate District 16,,REP,Senator Breanne Davis,189
+Newton,Polk,State Senate District 16,,REP,Senator Breanne Davis,103
+Newton,Ponca,State Senate District 16,,REP,Senator Breanne Davis,331
+Newton,Richland,State Senate District 16,,REP,Senator Breanne Davis,139
+Newton,Van Buren,State Senate District 16,,REP,Senator Breanne Davis,13
+Newton,White,State Senate District 16,,REP,Senator Breanne Davis,365
+Newton,Big Creek,State Representative District 83,,REP,Representative Keith Slape,117
+Newton,Boston,State Representative District 83,,REP,Representative Keith Slape,49
+Newton,Dogpatch,State Representative District 83,,REP,Representative Keith Slape,380
+Newton,Grove,State Representative District 83,,REP,Representative Keith Slape,429
+Newton,Hasty,State Representative District 83,,REP,Representative Keith Slape,150
+Newton,Hickory Grove,State Representative District 83,,REP,Representative Keith Slape,38
+Newton,Hudson,State Representative District 83,,REP,Representative Keith Slape,213
+Newton,Jackson,State Representative District 83,,REP,Representative Keith Slape,466
+Newton,Jefferson,State Representative District 83,,REP,Representative Keith Slape,96
+Newton,Lincoln,State Representative District 83,,REP,Representative Keith Slape,108
+Newton,Low Gap,State Representative District 83,,REP,Representative Keith Slape,125
+Newton,Mt. Sherman,State Representative District 83,,REP,Representative Keith Slape,143
+Newton,Murray,State Representative District 83,,REP,Representative Keith Slape,51
+Newton,Pleasant Hill,State Representative District 83,,REP,Representative Keith Slape,195
+Newton,Polk,State Representative District 83,,REP,Representative Keith Slape,106
+Newton,Ponca,State Representative District 83,,REP,Representative Keith Slape,346
+Newton,Richland,State Representative District 83,,REP,Representative Keith Slape,132
+Newton,Van Buren,State Representative District 83,,REP,Representative Keith Slape,12
+Newton,White,State Representative District 83,,REP,Representative Keith Slape,374
+Newton,Big Creek,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,62
+Newton,Boston,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,20
+Newton,Dogpatch,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,195
+Newton,Grove,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,259
+Newton,Hasty,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,72
+Newton,Hickory Grove,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,15
+Newton,Hudson,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,108
+Newton,Jackson,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,196
+Newton,Jefferson,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,54
+Newton,Lincoln,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,68
+Newton,Low Gap,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,59
+Newton,Mt. Sherman,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,55
+Newton,Murray,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,30
+Newton,Pleasant Hill,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,90
+Newton,Polk,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,46
+Newton,Ponca,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,207
+Newton,Richland,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,61
+Newton,Van Buren,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,10
+Newton,White,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,150
+Newton,Big Creek,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,62
+Newton,Boston,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,31
+Newton,Dogpatch,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,222
+Newton,Grove,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,190
+Newton,Hasty,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,78
+Newton,Hickory Grove,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,33
+Newton,Hudson,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,132
+Newton,Jackson,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,307
+Newton,Jefferson,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,69
+Newton,Lincoln,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,49
+Newton,Low Gap,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,86
+Newton,Mt. Sherman,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,94
+Newton,Murray,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,35
+Newton,Pleasant Hill,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,124
+Newton,Polk,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,57
+Newton,Ponca,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,179
+Newton,Richland,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,82
+Newton,Van Buren,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,4
+Newton,White,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,247
+Newton,Big Creek,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,57
+Newton,Boston,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,17
+Newton,Dogpatch,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,197
+Newton,Grove,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,223
+Newton,Hasty,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,61
+Newton,Hickory Grove,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,17
+Newton,Hudson,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,118
+Newton,Jackson,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,239
+Newton,Jefferson,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,41
+Newton,Lincoln,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,66
+Newton,Low Gap,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,65
+Newton,Mt. Sherman,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,55
+Newton,Murray,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,22
+Newton,Pleasant Hill,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,101
+Newton,Polk,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,49
+Newton,Ponca,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,199
+Newton,Richland,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,72
+Newton,Van Buren,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,9
+Newton,White,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,159
+Newton,Big Creek,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,62
+Newton,Boston,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,34
+Newton,Dogpatch,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,216
+Newton,Grove,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,206
+Newton,Hasty,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,84
+Newton,Hickory Grove,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,30
+Newton,Hudson,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,114
+Newton,Jackson,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,252
+Newton,Jefferson,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,74
+Newton,Lincoln,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,49
+Newton,Low Gap,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,79
+Newton,Mt. Sherman,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,91
+Newton,Murray,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,40
+Newton,Pleasant Hill,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,111
+Newton,Polk,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,52
+Newton,Ponca,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,173
+Newton,Richland,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,74
+Newton,Van Buren,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,5
+Newton,White,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,218
+Newton,Big Creek,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,48
+Newton,Boston,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,22
+Newton,Dogpatch,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,145
+Newton,Grove,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,154
+Newton,Hasty,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,43
+Newton,Hickory Grove,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,13
+Newton,Hudson,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,85
+Newton,Jackson,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,157
+Newton,Jefferson,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,49
+Newton,Lincoln,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,45
+Newton,Low Gap,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,44
+Newton,Mt. Sherman,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,38
+Newton,Murray,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,13
+Newton,Pleasant Hill,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,77
+Newton,Polk,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,34
+Newton,Ponca,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,158
+Newton,Richland,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,51
+Newton,Van Buren,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,8
+Newton,White,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,139
+Newton,Big Creek,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,62
+Newton,Boston,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,28
+Newton,Dogpatch,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,259
+Newton,Grove,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,260
+Newton,Hasty,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,97
+Newton,Hickory Grove,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,29
+Newton,Hudson,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,145
+Newton,Jackson,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,316
+Newton,Jefferson,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,67
+Newton,Lincoln,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,66
+Newton,Low Gap,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,93
+Newton,Mt. Sherman,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,103
+Newton,Murray,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,49
+Newton,Pleasant Hill,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,121
+Newton,Polk,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,62
+Newton,Ponca,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,210
+Newton,Richland,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,91
+Newton,Van Buren,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,6
+Newton,White,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,227

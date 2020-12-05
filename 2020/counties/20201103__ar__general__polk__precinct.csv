@@ -1,0 +1,455 @@
+county,precinct,office,district,party,candidate,votes
+Polk,Precinct 1,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,1
+Polk,Precinct 2,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,1
+Polk,Precinct 3,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,4
+Polk,Acorn,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,8
+Polk,Ink,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,0
+Polk,Board Camp,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,0
+Polk,Cherry Hill,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,1
+Polk,Big Fork,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,1
+Polk,Dallas Valley,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,2
+Polk,Shady Grove,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,3
+Polk,Rocky,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,0
+Polk,Potter,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,2
+Polk,Hatfield,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,0
+Polk,Cove,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,0
+Polk,Vandervoort,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,0
+Polk,Wickes,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,5
+Polk,Grannis,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,0
+Polk,Precinct 1,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,1
+Polk,Precinct 2,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,1
+Polk,Precinct 3,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Polk,Acorn,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Polk,Ink,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Polk,Board Camp,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Polk,Cherry Hill,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Polk,Big Fork,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Polk,Dallas Valley,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,2
+Polk,Shady Grove,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,1
+Polk,Rocky,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Polk,Potter,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,1
+Polk,Hatfield,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,1
+Polk,Cove,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,1
+Polk,Vandervoort,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Polk,Wickes,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Polk,Grannis,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Polk,Precinct 1,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Polk,Precinct 2,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Polk,Precinct 3,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Polk,Acorn,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,1
+Polk,Ink,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Polk,Board Camp,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Polk,Cherry Hill,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Polk,Big Fork,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Polk,Dallas Valley,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Polk,Shady Grove,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,1
+Polk,Rocky,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Polk,Potter,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Polk,Hatfield,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,1
+Polk,Cove,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Polk,Vandervoort,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Polk,Wickes,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Polk,Grannis,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,1
+Polk,Precinct 1,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,4
+Polk,Precinct 2,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,4
+Polk,Precinct 3,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,0
+Polk,Acorn,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,3
+Polk,Ink,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,0
+Polk,Board Camp,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,1
+Polk,Cherry Hill,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,0
+Polk,Big Fork,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,0
+Polk,Dallas Valley,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,3
+Polk,Shady Grove,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,0
+Polk,Rocky,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,0
+Polk,Potter,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,2
+Polk,Hatfield,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,2
+Polk,Cove,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,0
+Polk,Vandervoort,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,0
+Polk,Wickes,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,3
+Polk,Grannis,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,1
+Polk,Precinct 1,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Polk,Precinct 2,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,1
+Polk,Precinct 3,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Polk,Acorn,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Polk,Ink,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,1
+Polk,Board Camp,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Polk,Cherry Hill,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Polk,Big Fork,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Polk,Dallas Valley,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,1
+Polk,Shady Grove,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Polk,Rocky,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Polk,Potter,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,1
+Polk,Hatfield,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Polk,Cove,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Polk,Vandervoort,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Polk,Wickes,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Polk,Grannis,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Polk,Precinct 1,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,117
+Polk,Precinct 2,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,174
+Polk,Precinct 3,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,178
+Polk,Acorn,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,67
+Polk,Ink,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,27
+Polk,Board Camp,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,74
+Polk,Cherry Hill,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,46
+Polk,Big Fork,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,11
+Polk,Dallas Valley,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,119
+Polk,Shady Grove,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,65
+Polk,Rocky,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,45
+Polk,Potter,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,122
+Polk,Hatfield,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,57
+Polk,Cove,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,55
+Polk,Vandervoort,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,23
+Polk,Wickes,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,45
+Polk,Grannis,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,21
+Polk,Precinct 1,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Polk,Precinct 2,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,1
+Polk,Precinct 3,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Polk,Acorn,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Polk,Ink,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,1
+Polk,Board Camp,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Polk,Cherry Hill,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Polk,Big Fork,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Polk,Dallas Valley,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,1
+Polk,Shady Grove,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Polk,Rocky,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Polk,Potter,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Polk,Hatfield,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Polk,Cove,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Polk,Vandervoort,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Polk,Wickes,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,1
+Polk,Grannis,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Polk,Precinct 1,U.S. President, Vice President,GRN,Howie Hawkins/Angela Walker,1
+Polk,Precinct 2,U.S. President, Vice President,GRN,Howie Hawkins/Angela Walker,1
+Polk,Precinct 3,U.S. President, Vice President,GRN,Howie Hawkins/Angela Walker,2
+Polk,Acorn,U.S. President, Vice President,GRN,Howie Hawkins/Angela Walker,2
+Polk,Ink,U.S. President, Vice President,GRN,Howie Hawkins/Angela Walker,0
+Polk,Board Camp,U.S. President, Vice President,GRN,Howie Hawkins/Angela Walker,0
+Polk,Cherry Hill,U.S. President, Vice President,GRN,Howie Hawkins/Angela Walker,1
+Polk,Big Fork,U.S. President, Vice President,GRN,Howie Hawkins/Angela Walker,0
+Polk,Dallas Valley,U.S. President, Vice President,GRN,Howie Hawkins/Angela Walker,2
+Polk,Shady Grove,U.S. President, Vice President,GRN,Howie Hawkins/Angela Walker,0
+Polk,Rocky,U.S. President, Vice President,GRN,Howie Hawkins/Angela Walker,0
+Polk,Potter,U.S. President, Vice President,GRN,Howie Hawkins/Angela Walker,0
+Polk,Hatfield,U.S. President, Vice President,GRN,Howie Hawkins/Angela Walker,1
+Polk,Cove,U.S. President, Vice President,GRN,Howie Hawkins/Angela Walker,0
+Polk,Vandervoort,U.S. President, Vice President,GRN,Howie Hawkins/Angela Walker,0
+Polk,Wickes,U.S. President, Vice President,GRN,Howie Hawkins/Angela Walker,0
+Polk,Grannis,U.S. President, Vice President,GRN,Howie Hawkins/Angela Walker,0
+Polk,Precinct 1,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,563
+Polk,Precinct 2,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,575
+Polk,Precinct 3,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,608
+Polk,Acorn,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,772
+Polk,Ink,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,139
+Polk,Board Camp,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,347
+Polk,Cherry Hill,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,302
+Polk,Big Fork,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,92
+Polk,Dallas Valley,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,783
+Polk,Shady Grove,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,381
+Polk,Rocky,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,179
+Polk,Potter,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,584
+Polk,Hatfield,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,443
+Polk,Cove,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,392
+Polk,Vandervoort,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,240
+Polk,Wickes,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,402
+Polk,Grannis,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,233
+Polk,Precinct 1,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,1
+Polk,Precinct 2,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,1
+Polk,Precinct 3,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,1
+Polk,Acorn,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,3
+Polk,Ink,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Polk,Board Camp,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Polk,Cherry Hill,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Polk,Big Fork,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Polk,Dallas Valley,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Polk,Shady Grove,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,1
+Polk,Rocky,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Polk,Potter,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,4
+Polk,Hatfield,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Polk,Cove,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,1
+Polk,Vandervoort,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Polk,Wickes,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,1
+Polk,Grannis,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,1
+Polk,Precinct 1,U.S. President, Vice President,CNS,Don Blankenship/William Mohr,2
+Polk,Precinct 2,U.S. President, Vice President,CNS,Don Blankenship/William Mohr,3
+Polk,Precinct 3,U.S. President, Vice President,CNS,Don Blankenship/William Mohr,0
+Polk,Acorn,U.S. President, Vice President,CNS,Don Blankenship/William Mohr,4
+Polk,Ink,U.S. President, Vice President,CNS,Don Blankenship/William Mohr,1
+Polk,Board Camp,U.S. President, Vice President,CNS,Don Blankenship/William Mohr,1
+Polk,Cherry Hill,U.S. President, Vice President,CNS,Don Blankenship/William Mohr,1
+Polk,Big Fork,U.S. President, Vice President,CNS,Don Blankenship/William Mohr,0
+Polk,Dallas Valley,U.S. President, Vice President,CNS,Don Blankenship/William Mohr,4
+Polk,Shady Grove,U.S. President, Vice President,CNS,Don Blankenship/William Mohr,2
+Polk,Rocky,U.S. President, Vice President,CNS,Don Blankenship/William Mohr,2
+Polk,Potter,U.S. President, Vice President,CNS,Don Blankenship/William Mohr,0
+Polk,Hatfield,U.S. President, Vice President,CNS,Don Blankenship/William Mohr,2
+Polk,Cove,U.S. President, Vice President,CNS,Don Blankenship/William Mohr,0
+Polk,Vandervoort,U.S. President, Vice President,CNS,Don Blankenship/William Mohr,0
+Polk,Wickes,U.S. President, Vice President,CNS,Don Blankenship/William Mohr,1
+Polk,Grannis,U.S. President, Vice President,CNS,Don Blankenship/William Mohr,0
+Polk,Precinct 1,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Polk,Precinct 2,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,1
+Polk,Precinct 3,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,2
+Polk,Acorn,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,2
+Polk,Ink,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Polk,Board Camp,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Polk,Cherry Hill,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,1
+Polk,Big Fork,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Polk,Dallas Valley,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,1
+Polk,Shady Grove,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Polk,Rocky,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Polk,Potter,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Polk,Hatfield,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,1
+Polk,Cove,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Polk,Vandervoort,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Polk,Wickes,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Polk,Grannis,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Polk,Precinct 1,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,8
+Polk,Precinct 2,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,11
+Polk,Precinct 3,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,8
+Polk,Acorn,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,5
+Polk,Ink,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,1
+Polk,Board Camp,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,5
+Polk,Cherry Hill,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,7
+Polk,Big Fork,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,2
+Polk,Dallas Valley,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,4
+Polk,Shady Grove,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,3
+Polk,Rocky,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,1
+Polk,Potter,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,9
+Polk,Hatfield,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,5
+Polk,Cove,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,6
+Polk,Vandervoort,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,4
+Polk,Wickes,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,3
+Polk,Grannis,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,1
+Polk,Precinct 1,U.S. Senate,,REP,Senator Tom Cotton,578
+Polk,Precinct 2,U.S. Senate,,REP,Senator Tom Cotton,601
+Polk,Precinct 3,U.S. Senate,,REP,Senator Tom Cotton,608
+Polk,Acorn,U.S. Senate,,REP,Senator Tom Cotton,771
+Polk,Ink,U.S. Senate,,REP,Senator Tom Cotton,136
+Polk,Board Camp,U.S. Senate,,REP,Senator Tom Cotton,352
+Polk,Cherry Hill,U.S. Senate,,REP,Senator Tom Cotton,298
+Polk,Big Fork,U.S. Senate,,REP,Senator Tom Cotton,91
+Polk,Dallas Valley,U.S. Senate,,REP,Senator Tom Cotton,791
+Polk,Shady Grove,U.S. Senate,,REP,Senator Tom Cotton,377
+Polk,Rocky,U.S. Senate,,REP,Senator Tom Cotton,184
+Polk,Potter,U.S. Senate,,REP,Senator Tom Cotton,584
+Polk,Hatfield,U.S. Senate,,REP,Senator Tom Cotton,448
+Polk,Cove,U.S. Senate,,REP,Senator Tom Cotton,388
+Polk,Vandervoort,U.S. Senate,,REP,Senator Tom Cotton,236
+Polk,Wickes,U.S. Senate,,REP,Senator Tom Cotton,403
+Polk,Grannis,U.S. Senate,,REP,Senator Tom Cotton,237
+Polk,Precinct 1,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,116
+Polk,Precinct 2,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,172
+Polk,Precinct 3,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,185
+Polk,Acorn,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,87
+Polk,Ink,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,31
+Polk,Board Camp,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,70
+Polk,Cherry Hill,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,58
+Polk,Big Fork,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,11
+Polk,Dallas Valley,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,125
+Polk,Shady Grove,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,73
+Polk,Rocky,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,40
+Polk,Potter,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,137
+Polk,Hatfield,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,61
+Polk,Cove,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,57
+Polk,Vandervoort,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,29
+Polk,Wickes,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,54
+Polk,Grannis,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,18
+Polk,Precinct 1,U.S. Congress District 04,,REP,Representative Bruce Westerman,569
+Polk,Precinct 2,U.S. Congress District 04,,REP,Representative Bruce Westerman,593
+Polk,Precinct 3,U.S. Congress District 04,,REP,Representative Bruce Westerman,604
+Polk,Acorn,U.S. Congress District 04,,REP,Representative Bruce Westerman,771
+Polk,Ink,U.S. Congress District 04,,REP,Representative Bruce Westerman,136
+Polk,Board Camp,U.S. Congress District 04,,REP,Representative Bruce Westerman,347
+Polk,Cherry Hill,U.S. Congress District 04,,REP,Representative Bruce Westerman,297
+Polk,Big Fork,U.S. Congress District 04,,REP,Representative Bruce Westerman,90
+Polk,Dallas Valley,U.S. Congress District 04,,REP,Representative Bruce Westerman,785
+Polk,Shady Grove,U.S. Congress District 04,,REP,Representative Bruce Westerman,372
+Polk,Rocky,U.S. Congress District 04,,REP,Representative Bruce Westerman,188
+Polk,Potter,U.S. Congress District 04,,REP,Representative Bruce Westerman,578
+Polk,Hatfield,U.S. Congress District 04,,REP,Representative Bruce Westerman,434
+Polk,Cove,U.S. Congress District 04,,REP,Representative Bruce Westerman,385
+Polk,Vandervoort,U.S. Congress District 04,,REP,Representative Bruce Westerman,234
+Polk,Wickes,U.S. Congress District 04,,REP,Representative Bruce Westerman,404
+Polk,Grannis,U.S. Congress District 04,,REP,Representative Bruce Westerman,232
+Polk,Precinct 1,U.S. Congress District 04,,LIB,Frank Gilbert,24
+Polk,Precinct 2,U.S. Congress District 04,,LIB,Frank Gilbert,36
+Polk,Precinct 3,U.S. Congress District 04,,LIB,Frank Gilbert,38
+Polk,Acorn,U.S. Congress District 04,,LIB,Frank Gilbert,23
+Polk,Ink,U.S. Congress District 04,,LIB,Frank Gilbert,5
+Polk,Board Camp,U.S. Congress District 04,,LIB,Frank Gilbert,12
+Polk,Cherry Hill,U.S. Congress District 04,,LIB,Frank Gilbert,13
+Polk,Big Fork,U.S. Congress District 04,,LIB,Frank Gilbert,6
+Polk,Dallas Valley,U.S. Congress District 04,,LIB,Frank Gilbert,25
+Polk,Shady Grove,U.S. Congress District 04,,LIB,Frank Gilbert,25
+Polk,Rocky,U.S. Congress District 04,,LIB,Frank Gilbert,2
+Polk,Potter,U.S. Congress District 04,,LIB,Frank Gilbert,30
+Polk,Hatfield,U.S. Congress District 04,,LIB,Frank Gilbert,17
+Polk,Cove,U.S. Congress District 04,,LIB,Frank Gilbert,12
+Polk,Vandervoort,U.S. Congress District 04,,LIB,Frank Gilbert,10
+Polk,Wickes,U.S. Congress District 04,,LIB,Frank Gilbert,17
+Polk,Grannis,U.S. Congress District 04,,LIB,Frank Gilbert,3
+Polk,Precinct 1,U.S. Congress District 04,,DEM,William H. Hanson,103
+Polk,Precinct 2,U.S. Congress District 04,,DEM,William H. Hanson,140
+Polk,Precinct 3,U.S. Congress District 04,,DEM,William H. Hanson,152
+Polk,Acorn,U.S. Congress District 04,,DEM,William H. Hanson,66
+Polk,Ink,U.S. Congress District 04,,DEM,William H. Hanson,27
+Polk,Board Camp,U.S. Congress District 04,,DEM,William H. Hanson,63
+Polk,Cherry Hill,U.S. Congress District 04,,DEM,William H. Hanson,45
+Polk,Big Fork,U.S. Congress District 04,,DEM,William H. Hanson,9
+Polk,Dallas Valley,U.S. Congress District 04,,DEM,William H. Hanson,103
+Polk,Shady Grove,U.S. Congress District 04,,DEM,William H. Hanson,53
+Polk,Rocky,U.S. Congress District 04,,DEM,William H. Hanson,36
+Polk,Potter,U.S. Congress District 04,,DEM,William H. Hanson,113
+Polk,Hatfield,U.S. Congress District 04,,DEM,William H. Hanson,57
+Polk,Cove,U.S. Congress District 04,,DEM,William H. Hanson,45
+Polk,Vandervoort,U.S. Congress District 04,,DEM,William H. Hanson,20
+Polk,Wickes,U.S. Congress District 04,,DEM,William H. Hanson,36
+Polk,Grannis,U.S. Congress District 04,,DEM,William H. Hanson,21
+Polk,Precinct 1,State Representative District 20,,REP,State Representative John Maddox,680
+Polk,Precinct 2,State Representative District 20,,REP,State Representative John Maddox,737
+Polk,Precinct 3,State Representative District 20,,REP,State Representative John Maddox,768
+Polk,Acorn,State Representative District 20,,REP,State Representative John Maddox,148
+Polk,Ink,State Representative District 20,,REP,State Representative John Maddox,164
+Polk,Board Camp,State Representative District 20,,REP,State Representative John Maddox,409
+Polk,Big Fork,State Representative District 20,,REP,State Representative John Maddox,102
+Polk,Dallas Valley,State Representative District 20,,REP,State Representative John Maddox,888
+Polk,Shady Grove,State Representative District 20,,REP,State Representative John Maddox,431
+Polk,Rocky,State Representative District 20,,REP,State Representative John Maddox,213
+Polk,Potter,State Representative District 20,,REP,State Representative John Maddox,686
+Polk,Hatfield,State Representative District 20,,REP,State Representative John Maddox,493
+Polk,Cove,State Representative District 20,,REP,State Representative John Maddox,436
+Polk,Vandervoort,State Representative District 20,,REP,State Representative John Maddox,255
+Polk,Wickes,State Representative District 20,,REP,State Representative John Maddox,451
+Polk,Grannis,State Representative District 20,,REP,State Representative John Maddox,246
+Polk,Acorn,State Representative District 21,,REP,Representative Marcus Richmond,676
+Polk,Cherry Hill,State Representative District 21,,REP,Representative Marcus Richmond,335
+Polk,Precinct 2,JUSTICE OF THE PEACE DST 3,,REP,LEVI ELLISON,37
+Polk,Precinct 3,JUSTICE OF THE PEACE DST 3,,REP,LEVI ELLISON,481
+Polk,Precinct 2,JUSTICE OF THE PEACE DST 3,,IND,HAROLD COOGAN,15
+Polk,Precinct 3,JUSTICE OF THE PEACE DST 3,,IND,HAROLD COOGAN,311
+Polk,Acorn,JUSTICE OF THE PEACE DST 5,,IND,TROY LUNSFORD,20
+Polk,Ink,JUSTICE OF THE PEACE DST 5,,IND,TROY LUNSFORD,74
+Polk,Board Camp,JUSTICE OF THE PEACE DST 5,,IND,TROY LUNSFORD,106
+Polk,Cherry Hill,JUSTICE OF THE PEACE DST 5,,IND,TROY LUNSFORD,195
+Polk,Big Fork,JUSTICE OF THE PEACE DST 5,,IND,TROY LUNSFORD,24
+Polk,Acorn,JUSTICE OF THE PEACE DST 5,,REP,SCOTT KIERSEY,15
+Polk,Ink,JUSTICE OF THE PEACE DST 5,,REP,SCOTT KIERSEY,69
+Polk,Board Camp,JUSTICE OF THE PEACE DST 5,,REP,SCOTT KIERSEY,132
+Polk,Cherry Hill,JUSTICE OF THE PEACE DST 5,,REP,SCOTT KIERSEY,158
+Polk,Big Fork,JUSTICE OF THE PEACE DST 5,,REP,SCOTT KIERSEY,27
+Polk,Potter,CONSTABLE EAGLE TWP,,IND,JIMMY TITSWORTH,104
+Polk,Potter,CONSTABLE EAGLE TWP,,REP,RAY HAGLER,168
+Polk,Shady Grove,CONSTABLE POTTER TWP,,IND,JAMES RICHARDSON,117
+Polk,Potter,CONSTABLE POTTER TWP,,IND,JAMES RICHARDSON,110
+Polk,Shady Grove,CONSTABLE POTTER TWP,,REP,EDDIE PRICE,323
+Polk,Potter,CONSTABLE POTTER TWP,,REP,EDDIE PRICE,253
+Polk,Precinct 1,COUNCIL MEMBER WARD 3, POSITION 2 MENA,IND,LARRY S. STEWART,340
+Polk,Precinct 2,COUNCIL MEMBER WARD 3, POSITION 2 MENA,IND,LARRY S. STEWART,349
+Polk,Precinct 3,COUNCIL MEMBER WARD 3, POSITION 2 MENA,IND,LARRY S. STEWART,399
+Polk,Precinct 1,COUNCIL MEMBER WARD 3, POSITION 2 MENA,IND,ED GIBSON,311
+Polk,Precinct 2,COUNCIL MEMBER WARD 3, POSITION 2 MENA,IND,ED GIBSON,359
+Polk,Precinct 3,COUNCIL MEMBER WARD 3, POSITION 2 MENA,IND,ED GIBSON,341
+Polk,Hatfield,COUNCIL MEMBER POSITION 1 HATFIELD,,IND,DIANE OSBORNE,57
+Polk,Hatfield,COUNCIL MEMBER POSITION 1 HATFIELD,,IND,PAIGE SELF,60
+Polk,Precinct 1,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,386
+Polk,Precinct 2,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,448
+Polk,Precinct 3,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,444
+Polk,Acorn,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,406
+Polk,Ink,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,76
+Polk,Board Camp,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,228
+Polk,Cherry Hill,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,163
+Polk,Big Fork,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,61
+Polk,Dallas Valley,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,481
+Polk,Shady Grove,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,227
+Polk,Rocky,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,107
+Polk,Potter,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,387
+Polk,Hatfield,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,267
+Polk,Cove,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,222
+Polk,Vandervoort,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,146
+Polk,Wickes,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,252
+Polk,Grannis,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,122
+Polk,Precinct 1,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,304
+Polk,Precinct 2,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,322
+Polk,Precinct 3,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,342
+Polk,Acorn,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,451
+Polk,Ink,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,92
+Polk,Board Camp,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,195
+Polk,Cherry Hill,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,192
+Polk,Big Fork,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,43
+Polk,Dallas Valley,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,435
+Polk,Shady Grove,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,224
+Polk,Rocky,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,117
+Polk,Potter,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,330
+Polk,Hatfield,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,234
+Polk,Cove,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,217
+Polk,Vandervoort,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,120
+Polk,Wickes,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,202
+Polk,Grannis,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,132
+Polk,Precinct 1,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,427
+Polk,Precinct 2,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,457
+Polk,Precinct 3,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,462
+Polk,Acorn,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,470
+Polk,Ink,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,99
+Polk,Board Camp,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,253
+Polk,Cherry Hill,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,198
+Polk,Big Fork,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,61
+Polk,Dallas Valley,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,487
+Polk,Shady Grove,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,234
+Polk,Rocky,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,126
+Polk,Potter,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,423
+Polk,Hatfield,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,284
+Polk,Cove,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,255
+Polk,Vandervoort,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,157
+Polk,Wickes,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,274
+Polk,Grannis,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,134
+Polk,Precinct 1,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,254
+Polk,Precinct 2,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,297
+Polk,Precinct 3,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,308
+Polk,Acorn,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,384
+Polk,Ink,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,68
+Polk,Board Camp,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,162
+Polk,Cherry Hill,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,154
+Polk,Big Fork,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,41
+Polk,Dallas Valley,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,418
+Polk,Shady Grove,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,205
+Polk,Rocky,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,95
+Polk,Potter,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,280
+Polk,Hatfield,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,210
+Polk,Cove,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,184
+Polk,Vandervoort,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,105
+Polk,Wickes,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,176
+Polk,Grannis,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,114
+Polk,Precinct 1,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,319
+Polk,Precinct 2,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,357
+Polk,Precinct 3,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,330
+Polk,Acorn,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,341
+Polk,Ink,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,67
+Polk,Board Camp,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,208
+Polk,Cherry Hill,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,148
+Polk,Big Fork,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,41
+Polk,Dallas Valley,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,398
+Polk,Shady Grove,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,186
+Polk,Rocky,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,84
+Polk,Potter,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,318
+Polk,Hatfield,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,208
+Polk,Cove,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,174
+Polk,Vandervoort,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,119
+Polk,Wickes,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,235
+Polk,Grannis,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,124
+Polk,Precinct 1,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,350
+Polk,Precinct 2,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,379
+Polk,Precinct 3,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,428
+Polk,Acorn,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,495
+Polk,Ink,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,94
+Polk,Board Camp,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,193
+Polk,Cherry Hill,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,198
+Polk,Big Fork,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,57
+Polk,Dallas Valley,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,495
+Polk,Shady Grove,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,239
+Polk,Rocky,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,134
+Polk,Potter,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,373
+Polk,Hatfield,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,276
+Polk,Cove,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,254
+Polk,Vandervoort,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,137
+Polk,Wickes,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,207
+Polk,Grannis,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,125

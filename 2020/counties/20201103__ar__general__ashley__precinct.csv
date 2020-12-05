@@ -1,0 +1,905 @@
+county,precinct,office,district,party,candidate,votes
+Ashley,CW1,U.S. President, Vice President,CNS,Don Blankenship/William Mohr,4
+Ashley,CW2,U.S. President, Vice President,CNS,Don Blankenship/William Mohr,4
+Ashley,CW3,U.S. President, Vice President,CNS,Don Blankenship/William Mohr,3
+Ashley,NCE,U.S. President, Vice President,CNS,Don Blankenship/William Mohr,1
+Ashley,NCW,U.S. President, Vice President,CNS,Don Blankenship/William Mohr,0
+Ashley,WCR,U.S. President, Vice President,CNS,Don Blankenship/William Mohr,2
+Ashley,VOTECH,U.S. President, Vice President,CNS,Don Blankenship/William Mohr,2
+Ashley,COOTER,U.S. President, Vice President,CNS,Don Blankenship/William Mohr,0
+Ashley,HICKORY GROVE,U.S. President, Vice President,CNS,Don Blankenship/William Mohr,1
+Ashley,CROSSROADS,U.S. President, Vice President,CNS,Don Blankenship/William Mohr,1
+Ashley,HW3,U.S. President, Vice President,CNS,Don Blankenship/William Mohr,2
+Ashley,HW2,U.S. President, Vice President,CNS,Don Blankenship/William Mohr,0
+Ashley,HW1,U.S. President, Vice President,CNS,Don Blankenship/William Mohr,2
+Ashley,HBG RURAL,U.S. President, Vice President,CNS,Don Blankenship/William Mohr,1
+Ashley,MT ZION,U.S. President, Vice President,CNS,Don Blankenship/William Mohr,0
+Ashley,MILO,U.S. President, Vice President,CNS,Don Blankenship/William Mohr,2
+Ashley,BEECH CREEK,U.S. President, Vice President,CNS,Don Blankenship/William Mohr,0
+Ashley,MIST,U.S. President, Vice President,CNS,Don Blankenship/William Mohr,0
+Ashley,FH CITY,U.S. President, Vice President,CNS,Don Blankenship/William Mohr,0
+Ashley,FH RURAL,U.S. President, Vice President,CNS,Don Blankenship/William Mohr,0
+Ashley,PORTLAND CITY,U.S. President, Vice President,CNS,Don Blankenship/William Mohr,0
+Ashley,PORTLAND RURAL,U.S. President, Vice President,CNS,Don Blankenship/William Mohr,0
+Ashley,BOYDELL,U.S. President, Vice President,CNS,Don Blankenship/William Mohr,0
+Ashley,SNY/TRA,U.S. President, Vice President,CNS,Don Blankenship/William Mohr,1
+Ashley,MONTROSE CITY,U.S. President, Vice President,CNS,Don Blankenship/William Mohr,0
+Ashley,MONTROSE RURAL,U.S. President, Vice President,CNS,Don Blankenship/William Mohr,0
+Ashley,PARKDALE CITY,U.S. President, Vice President,CNS,Don Blankenship/William Mohr,0
+Ashley,PARKDALE RURAL,U.S. President, Vice President,CNS,Don Blankenship/William Mohr,0
+Ashley,WILMOT CITY,U.S. President, Vice President,CNS,Don Blankenship/William Mohr,3
+Ashley,WILMOT RURAL,U.S. President, Vice President,CNS,Don Blankenship/William Mohr,1
+Ashley,CW1,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,5
+Ashley,CW2,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Ashley,CW3,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,4
+Ashley,NCE,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Ashley,NCW,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Ashley,WCR,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,3
+Ashley,VOTECH,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Ashley,COOTER,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Ashley,HICKORY GROVE,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Ashley,CROSSROADS,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,2
+Ashley,HW3,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Ashley,HW2,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,1
+Ashley,HW1,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,4
+Ashley,HBG RURAL,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,2
+Ashley,MT ZION,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,1
+Ashley,MILO,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Ashley,BEECH CREEK,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Ashley,MIST,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Ashley,FH CITY,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,1
+Ashley,FH RURAL,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,1
+Ashley,PORTLAND CITY,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,1
+Ashley,PORTLAND RURAL,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Ashley,BOYDELL,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Ashley,SNY/TRA,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Ashley,MONTROSE CITY,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Ashley,MONTROSE RURAL,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Ashley,PARKDALE CITY,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,2
+Ashley,PARKDALE RURAL,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Ashley,WILMOT CITY,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,7
+Ashley,WILMOT RURAL,U.S. President, Vice President,IND,C.L. Gammon/Phil Collins,0
+Ashley,CW1,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,5
+Ashley,CW2,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,4
+Ashley,CW3,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Ashley,NCE,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Ashley,NCW,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Ashley,WCR,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Ashley,VOTECH,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Ashley,COOTER,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Ashley,HICKORY GROVE,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Ashley,CROSSROADS,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Ashley,HW3,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,1
+Ashley,HW2,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Ashley,HW1,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Ashley,HBG RURAL,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Ashley,MT ZION,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Ashley,MILO,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Ashley,BEECH CREEK,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Ashley,MIST,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Ashley,FH CITY,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Ashley,FH RURAL,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,1
+Ashley,PORTLAND CITY,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Ashley,PORTLAND RURAL,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Ashley,BOYDELL,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Ashley,SNY/TRA,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,1
+Ashley,MONTROSE CITY,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Ashley,MONTROSE RURAL,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Ashley,PARKDALE CITY,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,1
+Ashley,PARKDALE RURAL,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,0
+Ashley,WILMOT CITY,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,3
+Ashley,WILMOT RURAL,U.S. President, Vice President,LIF,John Richard Myers/Tiara Suzanne Lusk,1
+Ashley,CW1,U.S. President, Vice President,GNR,Howie Hawkins/Angela Walker,2
+Ashley,CW2,U.S. President, Vice President,GNR,Howie Hawkins/Angela Walker,2
+Ashley,CW3,U.S. President, Vice President,GNR,Howie Hawkins/Angela Walker,0
+Ashley,NCE,U.S. President, Vice President,GNR,Howie Hawkins/Angela Walker,0
+Ashley,NCW,U.S. President, Vice President,GNR,Howie Hawkins/Angela Walker,0
+Ashley,WCR,U.S. President, Vice President,GNR,Howie Hawkins/Angela Walker,0
+Ashley,VOTECH,U.S. President, Vice President,GNR,Howie Hawkins/Angela Walker,0
+Ashley,COOTER,U.S. President, Vice President,GNR,Howie Hawkins/Angela Walker,0
+Ashley,HICKORY GROVE,U.S. President, Vice President,GNR,Howie Hawkins/Angela Walker,0
+Ashley,CROSSROADS,U.S. President, Vice President,GNR,Howie Hawkins/Angela Walker,0
+Ashley,HW3,U.S. President, Vice President,GNR,Howie Hawkins/Angela Walker,2
+Ashley,HW2,U.S. President, Vice President,GNR,Howie Hawkins/Angela Walker,1
+Ashley,HW1,U.S. President, Vice President,GNR,Howie Hawkins/Angela Walker,0
+Ashley,HBG RURAL,U.S. President, Vice President,GNR,Howie Hawkins/Angela Walker,0
+Ashley,MT ZION,U.S. President, Vice President,GNR,Howie Hawkins/Angela Walker,0
+Ashley,MILO,U.S. President, Vice President,GNR,Howie Hawkins/Angela Walker,0
+Ashley,BEECH CREEK,U.S. President, Vice President,GNR,Howie Hawkins/Angela Walker,0
+Ashley,MIST,U.S. President, Vice President,GNR,Howie Hawkins/Angela Walker,0
+Ashley,FH CITY,U.S. President, Vice President,GNR,Howie Hawkins/Angela Walker,0
+Ashley,FH RURAL,U.S. President, Vice President,GNR,Howie Hawkins/Angela Walker,1
+Ashley,PORTLAND CITY,U.S. President, Vice President,GNR,Howie Hawkins/Angela Walker,0
+Ashley,PORTLAND RURAL,U.S. President, Vice President,GNR,Howie Hawkins/Angela Walker,0
+Ashley,BOYDELL,U.S. President, Vice President,GNR,Howie Hawkins/Angela Walker,0
+Ashley,SNY/TRA,U.S. President, Vice President,GNR,Howie Hawkins/Angela Walker,0
+Ashley,MONTROSE CITY,U.S. President, Vice President,GNR,Howie Hawkins/Angela Walker,0
+Ashley,MONTROSE RURAL,U.S. President, Vice President,GNR,Howie Hawkins/Angela Walker,0
+Ashley,PARKDALE CITY,U.S. President, Vice President,GNR,Howie Hawkins/Angela Walker,0
+Ashley,PARKDALE RURAL,U.S. President, Vice President,GNR,Howie Hawkins/Angela Walker,0
+Ashley,WILMOT CITY,U.S. President, Vice President,GNR,Howie Hawkins/Angela Walker,1
+Ashley,WILMOT RURAL,U.S. President, Vice President,GNR,Howie Hawkins/Angela Walker,0
+Ashley,CW1,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Ashley,CW2,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,2
+Ashley,CW3,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,1
+Ashley,NCE,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Ashley,NCW,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,1
+Ashley,WCR,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Ashley,VOTECH,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Ashley,COOTER,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Ashley,HICKORY GROVE,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Ashley,CROSSROADS,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,1
+Ashley,HW3,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,1
+Ashley,HW2,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,2
+Ashley,HW1,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Ashley,HBG RURAL,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Ashley,MT ZION,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Ashley,MILO,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Ashley,BEECH CREEK,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Ashley,MIST,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Ashley,FH CITY,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Ashley,FH RURAL,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Ashley,PORTLAND CITY,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Ashley,PORTLAND RURAL,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Ashley,BOYDELL,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Ashley,SNY/TRA,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Ashley,MONTROSE CITY,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Ashley,MONTROSE RURAL,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Ashley,PARKDALE CITY,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Ashley,PARKDALE RURAL,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Ashley,WILMOT CITY,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,1
+Ashley,WILMOT RURAL,U.S. President, Vice President,IND,Roque 'Rocky' De La Fuente/Darcy G. Richardson,0
+Ashley,CW1,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Ashley,CW2,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Ashley,CW3,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,1
+Ashley,NCE,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Ashley,NCW,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Ashley,WCR,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Ashley,VOTECH,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Ashley,COOTER,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Ashley,HICKORY GROVE,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Ashley,CROSSROADS,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,1
+Ashley,HW3,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Ashley,HW2,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Ashley,HW1,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,2
+Ashley,HBG RURAL,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,1
+Ashley,MT ZION,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Ashley,MILO,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Ashley,BEECH CREEK,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Ashley,MIST,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Ashley,FH CITY,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Ashley,FH RURAL,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Ashley,PORTLAND CITY,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,1
+Ashley,PORTLAND RURAL,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Ashley,BOYDELL,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Ashley,SNY/TRA,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Ashley,MONTROSE CITY,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,1
+Ashley,MONTROSE RURAL,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Ashley,PARKDALE CITY,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,3
+Ashley,PARKDALE RURAL,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Ashley,WILMOT CITY,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Ashley,WILMOT RURAL,U.S. President, Vice President,AME,Brian Carroll/Amar Patel,0
+Ashley,CW1,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,297
+Ashley,CW2,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,323
+Ashley,CW3,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,175
+Ashley,NCE,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,77
+Ashley,NCW,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,50
+Ashley,WCR,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,178
+Ashley,VOTECH,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,62
+Ashley,COOTER,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,34
+Ashley,HICKORY GROVE,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,45
+Ashley,CROSSROADS,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,42
+Ashley,HW3,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,76
+Ashley,HW2,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,55
+Ashley,HW1,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,160
+Ashley,HBG RURAL,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,74
+Ashley,MT ZION,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,11
+Ashley,MILO,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,47
+Ashley,BEECH CREEK,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,3
+Ashley,MIST,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,5
+Ashley,FH CITY,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,23
+Ashley,FH RURAL,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,39
+Ashley,PORTLAND CITY,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,84
+Ashley,PORTLAND RURAL,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,8
+Ashley,BOYDELL,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,4
+Ashley,SNY/TRA,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,5
+Ashley,MONTROSE CITY,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,69
+Ashley,MONTROSE RURAL,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,3
+Ashley,PARKDALE CITY,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,55
+Ashley,PARKDALE RURAL,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,6
+Ashley,WILMOT CITY,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,100
+Ashley,WILMOT RURAL,U.S. President, Vice President,DEM,Joseph R. Biden/Kamala Harris,15
+Ashley,CW1,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,1
+Ashley,CW2,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,2
+Ashley,CW3,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,6
+Ashley,NCE,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,0
+Ashley,NCW,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,0
+Ashley,WCR,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,0
+Ashley,VOTECH,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,2
+Ashley,COOTER,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,3
+Ashley,HICKORY GROVE,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,2
+Ashley,CROSSROADS,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,2
+Ashley,HW3,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,1
+Ashley,HW2,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,1
+Ashley,HW1,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,0
+Ashley,HBG RURAL,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,1
+Ashley,MT ZION,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,0
+Ashley,MILO,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,2
+Ashley,BEECH CREEK,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,0
+Ashley,MIST,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,0
+Ashley,FH CITY,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,0
+Ashley,FH RURAL,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,0
+Ashley,PORTLAND CITY,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,0
+Ashley,PORTLAND RURAL,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,0
+Ashley,BOYDELL,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,0
+Ashley,SNY/TRA,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,0
+Ashley,MONTROSE CITY,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,1
+Ashley,MONTROSE RURAL,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,0
+Ashley,PARKDALE CITY,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,0
+Ashley,PARKDALE RURAL,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,0
+Ashley,WILMOT CITY,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,1
+Ashley,WILMOT RURAL,U.S. President, Vice President,LIB,Jo Jorgensen/Jeremy 'Spike' Cohen,0
+Ashley,CW1,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,1
+Ashley,CW2,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Ashley,CW3,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Ashley,NCE,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Ashley,NCW,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,1
+Ashley,WCR,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Ashley,VOTECH,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Ashley,COOTER,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Ashley,HICKORY GROVE,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Ashley,CROSSROADS,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Ashley,HW3,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Ashley,HW2,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,1
+Ashley,HW1,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Ashley,HBG RURAL,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,1
+Ashley,MT ZION,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Ashley,MILO,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,1
+Ashley,BEECH CREEK,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Ashley,MIST,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Ashley,FH CITY,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Ashley,FH RURAL,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Ashley,PORTLAND CITY,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Ashley,PORTLAND RURAL,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Ashley,BOYDELL,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Ashley,SNY/TRA,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Ashley,MONTROSE CITY,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Ashley,MONTROSE RURAL,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Ashley,PARKDALE CITY,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Ashley,PARKDALE RURAL,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Ashley,WILMOT CITY,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Ashley,WILMOT RURAL,U.S. President, Vice President,IND,Brock Pierce/Karla Ballard,0
+Ashley,CW1,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,9
+Ashley,CW2,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,7
+Ashley,CW3,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,1
+Ashley,NCE,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,4
+Ashley,NCW,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,2
+Ashley,WCR,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,2
+Ashley,VOTECH,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,2
+Ashley,COOTER,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,0
+Ashley,HICKORY GROVE,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,0
+Ashley,CROSSROADS,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,2
+Ashley,HW3,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,1
+Ashley,HW2,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,1
+Ashley,HW1,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,2
+Ashley,HBG RURAL,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,0
+Ashley,MT ZION,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,0
+Ashley,MILO,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,0
+Ashley,BEECH CREEK,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,0
+Ashley,MIST,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,0
+Ashley,FH CITY,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,0
+Ashley,FH RURAL,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,0
+Ashley,PORTLAND CITY,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,0
+Ashley,PORTLAND RURAL,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,1
+Ashley,BOYDELL,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,0
+Ashley,SNY/TRA,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,0
+Ashley,MONTROSE CITY,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,0
+Ashley,MONTROSE RURAL,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,0
+Ashley,PARKDALE CITY,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,2
+Ashley,PARKDALE RURAL,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,2
+Ashley,WILMOT CITY,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,5
+Ashley,WILMOT RURAL,U.S. President, Vice President,IND,Kanye West/Michelle Tidball,0
+Ashley,CW1,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,2
+Ashley,CW2,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,5
+Ashley,CW3,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,1
+Ashley,NCE,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Ashley,NCW,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Ashley,WCR,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,1
+Ashley,VOTECH,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,1
+Ashley,COOTER,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Ashley,HICKORY GROVE,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Ashley,CROSSROADS,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,1
+Ashley,HW3,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Ashley,HW2,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,2
+Ashley,HW1,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,2
+Ashley,HBG RURAL,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,1
+Ashley,MT ZION,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Ashley,MILO,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Ashley,BEECH CREEK,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Ashley,MIST,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Ashley,FH CITY,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,1
+Ashley,FH RURAL,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Ashley,PORTLAND CITY,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Ashley,PORTLAND RURAL,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Ashley,BOYDELL,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Ashley,SNY/TRA,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Ashley,MONTROSE CITY,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,3
+Ashley,MONTROSE RURAL,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Ashley,PARKDALE CITY,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,1
+Ashley,PARKDALE RURAL,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Ashley,WILMOT CITY,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,6
+Ashley,WILMOT RURAL,U.S. President, Vice President,SOC,Gloria La Riva/Sunil Freeman,0
+Ashley,CW1,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,182
+Ashley,CW2,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,298
+Ashley,CW3,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,685
+Ashley,NCE,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,379
+Ashley,NCW,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,212
+Ashley,WCR,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,406
+Ashley,VOTECH,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,212
+Ashley,COOTER,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,177
+Ashley,HICKORY GROVE,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,418
+Ashley,CROSSROADS,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,355
+Ashley,HW3,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,309
+Ashley,HW2,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,189
+Ashley,HW1,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,45
+Ashley,HBG RURAL,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,547
+Ashley,MT ZION,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,142
+Ashley,MILO,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,345
+Ashley,BEECH CREEK,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,22
+Ashley,MIST,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,83
+Ashley,FH CITY,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,34
+Ashley,FH RURAL,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,211
+Ashley,PORTLAND CITY,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,84
+Ashley,PORTLAND RURAL,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,24
+Ashley,BOYDELL,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,7
+Ashley,SNY/TRA,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,41
+Ashley,MONTROSE CITY,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,19
+Ashley,MONTROSE RURAL,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,5
+Ashley,PARKDALE CITY,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,29
+Ashley,PARKDALE RURAL,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,7
+Ashley,WILMOT CITY,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,40
+Ashley,WILMOT RURAL,U.S. President, Vice President,REP,Donald J. Trump/Michael R. Pence,41
+Ashley,CW1,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,7
+Ashley,CW2,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,4
+Ashley,CW3,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,1
+Ashley,NCE,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,2
+Ashley,NCW,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,0
+Ashley,WCR,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,2
+Ashley,VOTECH,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,1
+Ashley,COOTER,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,0
+Ashley,HICKORY GROVE,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,1
+Ashley,CROSSROADS,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,1
+Ashley,HW3,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,1
+Ashley,HW2,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,3
+Ashley,HW1,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,4
+Ashley,HBG RURAL,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,1
+Ashley,MT ZION,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,1
+Ashley,MILO,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,0
+Ashley,BEECH CREEK,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,1
+Ashley,MIST,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,0
+Ashley,FH CITY,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,1
+Ashley,FH RURAL,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,0
+Ashley,PORTLAND CITY,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,3
+Ashley,PORTLAND RURAL,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,0
+Ashley,BOYDELL,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,0
+Ashley,SNY/TRA,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,1
+Ashley,MONTROSE CITY,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,3
+Ashley,MONTROSE RURAL,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,0
+Ashley,PARKDALE CITY,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,0
+Ashley,PARKDALE RURAL,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,0
+Ashley,WILMOT CITY,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,6
+Ashley,WILMOT RURAL,U.S. President, Vice President,IND,Phil Collins/Billy Joe Parker,0
+Ashley,CW1,U.S. Senate,,REP,Senator Tom Cotton,221
+Ashley,CW2,U.S. Senate,,REP,Senator Tom Cotton,344
+Ashley,CW3,U.S. Senate,,REP,Senator Tom Cotton,701
+Ashley,NCE,U.S. Senate,,REP,Senator Tom Cotton,377
+Ashley,NCW,U.S. Senate,,REP,Senator Tom Cotton,212
+Ashley,WCR,U.S. Senate,,REP,Senator Tom Cotton,429
+Ashley,VOTECH,U.S. Senate,,REP,Senator Tom Cotton,212
+Ashley,COOTER,U.S. Senate,,REP,Senator Tom Cotton,181
+Ashley,HICKORY GROVE,U.S. Senate,,REP,Senator Tom Cotton,414
+Ashley,CROSSROADS,U.S. Senate,,REP,Senator Tom Cotton,352
+Ashley,HW3,U.S. Senate,,REP,Senator Tom Cotton,319
+Ashley,HW2,U.S. Senate,,REP,Senator Tom Cotton,207
+Ashley,HW1,U.S. Senate,,REP,Senator Tom Cotton,67
+Ashley,HBG RURAL,U.S. Senate,,REP,Senator Tom Cotton,556
+Ashley,MT ZION,U.S. Senate,,REP,Senator Tom Cotton,144
+Ashley,MILO,U.S. Senate,,REP,Senator Tom Cotton,344
+Ashley,BEECH CREEK,U.S. Senate,,REP,Senator Tom Cotton,23
+Ashley,MIST,U.S. Senate,,REP,Senator Tom Cotton,80
+Ashley,FH CITY,U.S. Senate,,REP,Senator Tom Cotton,40
+Ashley,FH RURAL,U.S. Senate,,REP,Senator Tom Cotton,216
+Ashley,PORTLAND CITY,U.S. Senate,,REP,Senator Tom Cotton,100
+Ashley,PORTLAND RURAL,U.S. Senate,,REP,Senator Tom Cotton,27
+Ashley,BOYDELL,U.S. Senate,,REP,Senator Tom Cotton,8
+Ashley,SNY/TRA,U.S. Senate,,REP,Senator Tom Cotton,40
+Ashley,MONTROSE CITY,U.S. Senate,,REP,Senator Tom Cotton,30
+Ashley,MONTROSE RURAL,U.S. Senate,,REP,Senator Tom Cotton,5
+Ashley,PARKDALE CITY,U.S. Senate,,REP,Senator Tom Cotton,37
+Ashley,PARKDALE RURAL,U.S. Senate,,REP,Senator Tom Cotton,8
+Ashley,WILMOT CITY,U.S. Senate,,REP,Senator Tom Cotton,58
+Ashley,WILMOT RURAL,U.S. Senate,,REP,Senator Tom Cotton,49
+Ashley,CW1,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,266
+Ashley,CW2,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,289
+Ashley,CW3,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,175
+Ashley,NCE,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,78
+Ashley,NCW,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,50
+Ashley,WCR,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,148
+Ashley,VOTECH,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,68
+Ashley,COOTER,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,30
+Ashley,HICKORY GROVE,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,42
+Ashley,CROSSROADS,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,50
+Ashley,HW3,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,72
+Ashley,HW2,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,44
+Ashley,HW1,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,145
+Ashley,HBG RURAL,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,68
+Ashley,MT ZION,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,10
+Ashley,MILO,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,49
+Ashley,BEECH CREEK,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,2
+Ashley,MIST,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,6
+Ashley,FH CITY,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,20
+Ashley,FH RURAL,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,31
+Ashley,PORTLAND CITY,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,66
+Ashley,PORTLAND RURAL,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,6
+Ashley,BOYDELL,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,3
+Ashley,SNY/TRA,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,8
+Ashley,MONTROSE CITY,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,49
+Ashley,MONTROSE RURAL,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,3
+Ashley,PARKDALE CITY,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,51
+Ashley,PARKDALE RURAL,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,7
+Ashley,WILMOT CITY,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,103
+Ashley,WILMOT RURAL,U.S. Senate,,LIB,Ricky Dale Harrington Jr.,10
+Ashley,CW1,U.S. Congress District 04,,REP,Representative Bruce Westerman,187
+Ashley,CW2,U.S. Congress District 04,,REP,Representative Bruce Westerman,315
+Ashley,CW3,U.S. Congress District 04,,REP,Representative Bruce Westerman,698
+Ashley,NCE,U.S. Congress District 04,,REP,Representative Bruce Westerman,377
+Ashley,NCW,U.S. Congress District 04,,REP,Representative Bruce Westerman,207
+Ashley,WCR,U.S. Congress District 04,,REP,Representative Bruce Westerman,409
+Ashley,VOTECH,U.S. Congress District 04,,REP,Representative Bruce Westerman,207
+Ashley,COOTER,U.S. Congress District 04,,REP,Representative Bruce Westerman,184
+Ashley,HICKORY GROVE,U.S. Congress District 04,,REP,Representative Bruce Westerman,413
+Ashley,CROSSROADS,U.S. Congress District 04,,REP,Representative Bruce Westerman,350
+Ashley,HW3,U.S. Congress District 04,,REP,Representative Bruce Westerman,317
+Ashley,HW2,U.S. Congress District 04,,REP,Representative Bruce Westerman,198
+Ashley,HW1,U.S. Congress District 04,,REP,Representative Bruce Westerman,45
+Ashley,HBG RURAL,U.S. Congress District 04,,REP,Representative Bruce Westerman,543
+Ashley,MT ZION,U.S. Congress District 04,,REP,Representative Bruce Westerman,146
+Ashley,MILO,U.S. Congress District 04,,REP,Representative Bruce Westerman,347
+Ashley,BEECH CREEK,U.S. Congress District 04,,REP,Representative Bruce Westerman,24
+Ashley,MIST,U.S. Congress District 04,,REP,Representative Bruce Westerman,80
+Ashley,FH CITY,U.S. Congress District 04,,REP,Representative Bruce Westerman,37
+Ashley,FH RURAL,U.S. Congress District 04,,REP,Representative Bruce Westerman,210
+Ashley,PORTLAND CITY,U.S. Congress District 04,,REP,Representative Bruce Westerman,85
+Ashley,PORTLAND RURAL,U.S. Congress District 04,,REP,Representative Bruce Westerman,24
+Ashley,BOYDELL,U.S. Congress District 04,,REP,Representative Bruce Westerman,7
+Ashley,SNY/TRA,U.S. Congress District 04,,REP,Representative Bruce Westerman,43
+Ashley,MONTROSE CITY,U.S. Congress District 04,,REP,Representative Bruce Westerman,23
+Ashley,MONTROSE RURAL,U.S. Congress District 04,,REP,Representative Bruce Westerman,5
+Ashley,PARKDALE CITY,U.S. Congress District 04,,REP,Representative Bruce Westerman,30
+Ashley,PARKDALE RURAL,U.S. Congress District 04,,REP,Representative Bruce Westerman,7
+Ashley,WILMOT CITY,U.S. Congress District 04,,REP,Representative Bruce Westerman,40
+Ashley,WILMOT RURAL,U.S. Congress District 04,,REP,Representative Bruce Westerman,45
+Ashley,CW1,U.S. Congress District 04,,DEM,William H. Hanson,305
+Ashley,CW2,U.S. Congress District 04,,DEM,William H. Hanson,316
+Ashley,CW3,U.S. Congress District 04,,DEM,William H. Hanson,154
+Ashley,NCE,U.S. Congress District 04,,DEM,William H. Hanson,77
+Ashley,NCW,U.S. Congress District 04,,DEM,William H. Hanson,49
+Ashley,WCR,U.S. Congress District 04,,DEM,William H. Hanson,168
+Ashley,VOTECH,U.S. Congress District 04,,DEM,William H. Hanson,62
+Ashley,COOTER,U.S. Congress District 04,,DEM,William H. Hanson,25
+Ashley,HICKORY GROVE,U.S. Congress District 04,,DEM,William H. Hanson,40
+Ashley,CROSSROADS,U.S. Congress District 04,,DEM,William H. Hanson,42
+Ashley,HW3,U.S. Congress District 04,,DEM,William H. Hanson,72
+Ashley,HW2,U.S. Congress District 04,,DEM,William H. Hanson,52
+Ashley,HW1,U.S. Congress District 04,,DEM,William H. Hanson,166
+Ashley,HBG RURAL,U.S. Congress District 04,,DEM,William H. Hanson,77
+Ashley,MT ZION,U.S. Congress District 04,,DEM,William H. Hanson,7
+Ashley,MILO,U.S. Congress District 04,,DEM,William H. Hanson,39
+Ashley,BEECH CREEK,U.S. Congress District 04,,DEM,William H. Hanson,1
+Ashley,MIST,U.S. Congress District 04,,DEM,William H. Hanson,6
+Ashley,FH CITY,U.S. Congress District 04,,DEM,William H. Hanson,22
+Ashley,FH RURAL,U.S. Congress District 04,,DEM,William H. Hanson,37
+Ashley,PORTLAND CITY,U.S. Congress District 04,,DEM,William H. Hanson,83
+Ashley,PORTLAND RURAL,U.S. Congress District 04,,DEM,William H. Hanson,9
+Ashley,BOYDELL,U.S. Congress District 04,,DEM,William H. Hanson,3
+Ashley,SNY/TRA,U.S. Congress District 04,,DEM,William H. Hanson,4
+Ashley,MONTROSE CITY,U.S. Congress District 04,,DEM,William H. Hanson,68
+Ashley,MONTROSE RURAL,U.S. Congress District 04,,DEM,William H. Hanson,3
+Ashley,PARKDALE CITY,U.S. Congress District 04,,DEM,William H. Hanson,60
+Ashley,PARKDALE RURAL,U.S. Congress District 04,,DEM,William H. Hanson,6
+Ashley,WILMOT CITY,U.S. Congress District 04,,DEM,William H. Hanson,127
+Ashley,WILMOT RURAL,U.S. Congress District 04,,DEM,William H. Hanson,12
+Ashley,CW1,U.S. Congress District 04,,LIB,Frank Gilbert,18
+Ashley,CW2,U.S. Congress District 04,,LIB,Frank Gilbert,13
+Ashley,CW3,U.S. Congress District 04,,LIB,Frank Gilbert,21
+Ashley,NCE,U.S. Congress District 04,,LIB,Frank Gilbert,6
+Ashley,NCW,U.S. Congress District 04,,LIB,Frank Gilbert,8
+Ashley,WCR,U.S. Congress District 04,,LIB,Frank Gilbert,10
+Ashley,VOTECH,U.S. Congress District 04,,LIB,Frank Gilbert,11
+Ashley,COOTER,U.S. Congress District 04,,LIB,Frank Gilbert,4
+Ashley,HICKORY GROVE,U.S. Congress District 04,,LIB,Frank Gilbert,6
+Ashley,CROSSROADS,U.S. Congress District 04,,LIB,Frank Gilbert,12
+Ashley,HW3,U.S. Congress District 04,,LIB,Frank Gilbert,6
+Ashley,HW2,U.S. Congress District 04,,LIB,Frank Gilbert,7
+Ashley,HW1,U.S. Congress District 04,,LIB,Frank Gilbert,8
+Ashley,HBG RURAL,U.S. Congress District 04,,LIB,Frank Gilbert,8
+Ashley,MT ZION,U.S. Congress District 04,,LIB,Frank Gilbert,1
+Ashley,MILO,U.S. Congress District 04,,LIB,Frank Gilbert,7
+Ashley,BEECH CREEK,U.S. Congress District 04,,LIB,Frank Gilbert,0
+Ashley,MIST,U.S. Congress District 04,,LIB,Frank Gilbert,1
+Ashley,FH CITY,U.S. Congress District 04,,LIB,Frank Gilbert,2
+Ashley,FH RURAL,U.S. Congress District 04,,LIB,Frank Gilbert,1
+Ashley,PORTLAND CITY,U.S. Congress District 04,,LIB,Frank Gilbert,4
+Ashley,PORTLAND RURAL,U.S. Congress District 04,,LIB,Frank Gilbert,0
+Ashley,BOYDELL,U.S. Congress District 04,,LIB,Frank Gilbert,1
+Ashley,SNY/TRA,U.S. Congress District 04,,LIB,Frank Gilbert,2
+Ashley,MONTROSE CITY,U.S. Congress District 04,,LIB,Frank Gilbert,3
+Ashley,MONTROSE RURAL,U.S. Congress District 04,,LIB,Frank Gilbert,0
+Ashley,PARKDALE CITY,U.S. Congress District 04,,LIB,Frank Gilbert,2
+Ashley,PARKDALE RURAL,U.S. Congress District 04,,LIB,Frank Gilbert,2
+Ashley,WILMOT CITY,U.S. Congress District 04,,LIB,Frank Gilbert,4
+Ashley,WILMOT RURAL,U.S. Congress District 04,,LIB,Frank Gilbert,1
+Ashley,CW1,State Senate District 26,,REP,Ben Gilmore,158
+Ashley,CW2,State Senate District 26,,REP,Ben Gilmore,267
+Ashley,CW3,State Senate District 26,,REP,Ben Gilmore,584
+Ashley,NCE,State Senate District 26,,REP,Ben Gilmore,345
+Ashley,NCW,State Senate District 26,,REP,Ben Gilmore,190
+Ashley,WCR,State Senate District 26,,REP,Ben Gilmore,349
+Ashley,VOTECH,State Senate District 26,,REP,Ben Gilmore,180
+Ashley,COOTER,State Senate District 26,,REP,Ben Gilmore,165
+Ashley,HICKORY GROVE,State Senate District 26,,REP,Ben Gilmore,365
+Ashley,CROSSROADS,State Senate District 26,,REP,Ben Gilmore,327
+Ashley,HW3,State Senate District 26,,REP,Ben Gilmore,271
+Ashley,HW2,State Senate District 26,,REP,Ben Gilmore,174
+Ashley,HW1,State Senate District 26,,REP,Ben Gilmore,41
+Ashley,HBG RURAL,State Senate District 26,,REP,Ben Gilmore,490
+Ashley,MT ZION,State Senate District 26,,REP,Ben Gilmore,118
+Ashley,MILO,State Senate District 26,,REP,Ben Gilmore,302
+Ashley,BEECH CREEK,State Senate District 26,,REP,Ben Gilmore,18
+Ashley,MIST,State Senate District 26,,REP,Ben Gilmore,71
+Ashley,FH CITY,State Senate District 26,,REP,Ben Gilmore,33
+Ashley,FH RURAL,State Senate District 26,,REP,Ben Gilmore,200
+Ashley,PORTLAND CITY,State Senate District 26,,REP,Ben Gilmore,73
+Ashley,PORTLAND RURAL,State Senate District 26,,REP,Ben Gilmore,19
+Ashley,BOYDELL,State Senate District 26,,REP,Ben Gilmore,9
+Ashley,SNY/TRA,State Senate District 26,,REP,Ben Gilmore,37
+Ashley,MONTROSE CITY,State Senate District 26,,REP,Ben Gilmore,24
+Ashley,MONTROSE RURAL,State Senate District 26,,REP,Ben Gilmore,5
+Ashley,PARKDALE CITY,State Senate District 26,,REP,Ben Gilmore,30
+Ashley,PARKDALE RURAL,State Senate District 26,,REP,Ben Gilmore,8
+Ashley,WILMOT CITY,State Senate District 26,,REP,Ben Gilmore,49
+Ashley,WILMOT RURAL,State Senate District 26,,REP,Ben Gilmore,40
+Ashley,CW1,State Senate District 26,,DEM,Senator Eddie L. Cheatham,356
+Ashley,CW2,State Senate District 26,,DEM,Senator Eddie L. Cheatham,379
+Ashley,CW3,State Senate District 26,,DEM,Senator Eddie L. Cheatham,291
+Ashley,NCE,State Senate District 26,,DEM,Senator Eddie L. Cheatham,118
+Ashley,NCW,State Senate District 26,,DEM,Senator Eddie L. Cheatham,75
+Ashley,WCR,State Senate District 26,,DEM,Senator Eddie L. Cheatham,241
+Ashley,VOTECH,State Senate District 26,,DEM,Senator Eddie L. Cheatham,100
+Ashley,COOTER,State Senate District 26,,DEM,Senator Eddie L. Cheatham,48
+Ashley,HICKORY GROVE,State Senate District 26,,DEM,Senator Eddie L. Cheatham,97
+Ashley,CROSSROADS,State Senate District 26,,DEM,Senator Eddie L. Cheatham,76
+Ashley,HW3,State Senate District 26,,DEM,Senator Eddie L. Cheatham,123
+Ashley,HW2,State Senate District 26,,DEM,Senator Eddie L. Cheatham,83
+Ashley,HW1,State Senate District 26,,DEM,Senator Eddie L. Cheatham,179
+Ashley,HBG RURAL,State Senate District 26,,DEM,Senator Eddie L. Cheatham,138
+Ashley,MT ZION,State Senate District 26,,DEM,Senator Eddie L. Cheatham,37
+Ashley,MILO,State Senate District 26,,DEM,Senator Eddie L. Cheatham,94
+Ashley,BEECH CREEK,State Senate District 26,,DEM,Senator Eddie L. Cheatham,7
+Ashley,MIST,State Senate District 26,,DEM,Senator Eddie L. Cheatham,17
+Ashley,FH CITY,State Senate District 26,,DEM,Senator Eddie L. Cheatham,28
+Ashley,FH RURAL,State Senate District 26,,DEM,Senator Eddie L. Cheatham,53
+Ashley,PORTLAND CITY,State Senate District 26,,DEM,Senator Eddie L. Cheatham,95
+Ashley,PORTLAND RURAL,State Senate District 26,,DEM,Senator Eddie L. Cheatham,14
+Ashley,BOYDELL,State Senate District 26,,DEM,Senator Eddie L. Cheatham,2
+Ashley,SNY/TRA,State Senate District 26,,DEM,Senator Eddie L. Cheatham,10
+Ashley,MONTROSE CITY,State Senate District 26,,DEM,Senator Eddie L. Cheatham,66
+Ashley,MONTROSE RURAL,State Senate District 26,,DEM,Senator Eddie L. Cheatham,3
+Ashley,PARKDALE CITY,State Senate District 26,,DEM,Senator Eddie L. Cheatham,62
+Ashley,PARKDALE RURAL,State Senate District 26,,DEM,Senator Eddie L. Cheatham,7
+Ashley,WILMOT CITY,State Senate District 26,,DEM,Senator Eddie L. Cheatham,125
+Ashley,WILMOT RURAL,State Senate District 26,,DEM,Senator Eddie L. Cheatham,19
+Ashley,HICKORY GROVE,State Representative District 11,,DEM,Representative Don Glover,56
+Ashley,MT ZION,State Representative District 11,,DEM,Representative Don Glover,12
+Ashley,BEECH CREEK,State Representative District 11,,DEM,Representative Don Glover,2
+Ashley,MIST,State Representative District 11,,DEM,Representative Don Glover,16
+Ashley,PORTLAND CITY,State Representative District 11,,DEM,Representative Don Glover,83
+Ashley,PORTLAND RURAL,State Representative District 11,,DEM,Representative Don Glover,10
+Ashley,BOYDELL,State Representative District 11,,DEM,Representative Don Glover,3
+Ashley,SNY/TRA,State Representative District 11,,DEM,Representative Don Glover,5
+Ashley,MONTROSE CITY,State Representative District 11,,DEM,Representative Don Glover,78
+Ashley,MONTROSE RURAL,State Representative District 11,,DEM,Representative Don Glover,3
+Ashley,PARKDALE CITY,State Representative District 11,,DEM,Representative Don Glover,62
+Ashley,PARKDALE RURAL,State Representative District 11,,DEM,Representative Don Glover,7
+Ashley,WILMOT CITY,State Representative District 11,,DEM,Representative Don Glover,135
+Ashley,WILMOT RURAL,State Representative District 11,,DEM,Representative Don Glover,16
+Ashley,HICKORY GROVE,State Representative District 11,,REP,Mark D. McElroy,405
+Ashley,MT ZION,State Representative District 11,,REP,Mark D. McElroy,142
+Ashley,BEECH CREEK,State Representative District 11,,REP,Mark D. McElroy,24
+Ashley,MIST,State Representative District 11,,REP,Mark D. McElroy,71
+Ashley,PORTLAND CITY,State Representative District 11,,REP,Mark D. McElroy,86
+Ashley,PORTLAND RURAL,State Representative District 11,,REP,Mark D. McElroy,23
+Ashley,BOYDELL,State Representative District 11,,REP,Mark D. McElroy,8
+Ashley,SNY/TRA,State Representative District 11,,REP,Mark D. McElroy,43
+Ashley,MONTROSE CITY,State Representative District 11,,REP,Mark D. McElroy,18
+Ashley,MONTROSE RURAL,State Representative District 11,,REP,Mark D. McElroy,5
+Ashley,PARKDALE CITY,State Representative District 11,,REP,Mark D. McElroy,31
+Ashley,PARKDALE RURAL,State Representative District 11,,REP,Mark D. McElroy,8
+Ashley,WILMOT CITY,State Representative District 11,,REP,Mark D. McElroy,38
+Ashley,WILMOT RURAL,State Representative District 11,,REP,Mark D. McElroy,43
+Ashley,WCR,State Representative District 8,,DEM,Christopher Ogburn,178
+Ashley,COOTER,State Representative District 8,,DEM,Christopher Ogburn,32
+Ashley,CROSSROADS,State Representative District 8,,DEM,Christopher Ogburn,51
+Ashley,MILO,State Representative District 8,,DEM,Christopher Ogburn,40
+Ashley,WCR,State Representative District 8,,REP,Representative Jeffrey R. Wardlaw,408
+Ashley,COOTER,State Representative District 8,,REP,Representative Jeffrey R. Wardlaw,180
+Ashley,CROSSROADS,State Representative District 8,,REP,Representative Jeffrey R. Wardlaw,351
+Ashley,MILO,State Representative District 8,,REP,Representative Jeffrey R. Wardlaw,353
+Ashley,CW1,State Representative District 9,,DEM,Representative LeAnne Burch,352
+Ashley,CW2,State Representative District 9,,DEM,Representative LeAnne Burch,386
+Ashley,CW3,State Representative District 9,,DEM,Representative LeAnne Burch,315
+Ashley,NCE,State Representative District 9,,DEM,Representative LeAnne Burch,119
+Ashley,NCW,State Representative District 9,,DEM,Representative LeAnne Burch,77
+Ashley,VOTECH,State Representative District 9,,DEM,Representative LeAnne Burch,98
+Ashley,HW3,State Representative District 9,,DEM,Representative LeAnne Burch,152
+Ashley,HW2,State Representative District 9,,DEM,Representative LeAnne Burch,100
+Ashley,HW1,State Representative District 9,,DEM,Representative LeAnne Burch,181
+Ashley,HBG RURAL,State Representative District 9,,DEM,Representative LeAnne Burch,175
+Ashley,FH CITY,State Representative District 9,,DEM,Representative LeAnne Burch,28
+Ashley,FH RURAL,State Representative District 9,,DEM,Representative LeAnne Burch,71
+Ashley,CW1,State Representative District 9,,REP,Howard Beaty,157
+Ashley,CW2,State Representative District 9,,REP,Howard Beaty,258
+Ashley,CW3,State Representative District 9,,REP,Howard Beaty,555
+Ashley,NCE,State Representative District 9,,REP,Howard Beaty,341
+Ashley,NCW,State Representative District 9,,REP,Howard Beaty,188
+Ashley,VOTECH,State Representative District 9,,REP,Howard Beaty,181
+Ashley,HW3,State Representative District 9,,REP,Howard Beaty,243
+Ashley,HW2,State Representative District 9,,REP,Howard Beaty,155
+Ashley,HW1,State Representative District 9,,REP,Howard Beaty,39
+Ashley,HBG RURAL,State Representative District 9,,REP,Howard Beaty,454
+Ashley,FH CITY,State Representative District 9,,REP,Howard Beaty,33
+Ashley,FH RURAL,State Representative District 9,,REP,Howard Beaty,178
+Ashley,CW1,ALDERMAN W2 P2 CROSSET,,IND,GLENDELL MOORE,276
+Ashley,CW2,ALDERMAN W2 P2 CROSSET,,IND,GLENDELL MOORE,276
+Ashley,CW3,ALDERMAN W2 P2 CROSSET,,IND,GLENDELL MOORE,190
+Ashley,CW1,ALDERMAN W2 P2 CROSSET,,IND,CHRIS GILL,217
+Ashley,CW2,ALDERMAN W2 P2 CROSSET,,IND,CHRIS GILL,352
+Ashley,CW3,ALDERMAN W2 P2 CROSSET,,IND,CHRIS GILL,646
+Ashley,CW1,ALDERMAN W3 P1 CROSSET,,IND,CARY LEE CARTER,266
+Ashley,CW2,ALDERMAN W3 P1 CROSSET,,IND,CARY LEE CARTER,358
+Ashley,CW3,ALDERMAN W3 P1 CROSSET,,IND,CARY LEE CARTER,549
+Ashley,CW1,ALDERMAN W3 P1 CROSSET,,IND,ALYSSIA LE WISE,218
+Ashley,CW2,ALDERMAN W3 P1 CROSSET,,IND,ALYSSIA LE WISE,266
+Ashley,CW3,ALDERMAN W3 P1 CROSSET,,IND,ALYSSIA LE WISE,291
+Ashley,CW1,ALDERMAN W3 P2 CROSSET,,IND,CHRISTOPHER FRIEDMAN,209
+Ashley,CW2,ALDERMAN W3 P2 CROSSET,,IND,CHRISTOPHER FRIEDMAN,299
+Ashley,CW3,ALDERMAN W3 P2 CROSSET,,IND,CHRISTOPHER FRIEDMAN,324
+Ashley,CW1,ALDERMAN W3 P2 CROSSET,,IND,JAMES KNIGHT,279
+Ashley,CW2,ALDERMAN W3 P2 CROSSET,,IND,JAMES KNIGHT,321
+Ashley,CW3,ALDERMAN W3 P2 CROSSET,,IND,JAMES KNIGHT,515
+Ashley,FH CITY,ALDERMAN W1 P1 FOUNTAIN HILL,,IND,ELIZABETH HUBBARD,23
+Ashley,FH CITY,ALDERMAN W1 P1 FOUNTAIN HILL,,IND,LORETTA WOODS,36
+Ashley,PARKDALE CITY,ALDERMAN W1 P1 PARKDALE,,IND,RAYMON SMITH,61
+Ashley,PARKDALE CITY,ALDERMAN W1 P1 PARKDALE,,IND,BERTHA J SHERRER,30
+Ashley,CW1,Circuit Judge,"10, Division 01, Subdistrict 10.2",NON,Crews Puryear,103
+Ashley,CW2,Circuit Judge,"10, Division 01, Subdistrict 10.2",NON,Crews Puryear,224
+Ashley,CW3,Circuit Judge,"10, Division 01, Subdistrict 10.2",NON,Crews Puryear,352
+Ashley,NCE,Circuit Judge,"10, Division 01, Subdistrict 10.2",NON,Crews Puryear,127
+Ashley,NCW,Circuit Judge,"10, Division 01, Subdistrict 10.2",NON,Crews Puryear,90
+Ashley,WCR,Circuit Judge,"10, Division 01, Subdistrict 10.2",NON,Crews Puryear,167
+Ashley,VOTECH,Circuit Judge,"10, Division 01, Subdistrict 10.2",NON,Crews Puryear,127
+Ashley,COOTER,Circuit Judge,"10, Division 01, Subdistrict 10.2",NON,Crews Puryear,87
+Ashley,HICKORY GROVE,Circuit Judge,"10, Division 01, Subdistrict 10.2",NON,Crews Puryear,76
+Ashley,CROSSROADS,Circuit Judge,"10, Division 01, Subdistrict 10.2",NON,Crews Puryear,211
+Ashley,HW3,Circuit Judge,"10, Division 01, Subdistrict 10.2",NON,Crews Puryear,183
+Ashley,HW2,Circuit Judge,"10, Division 01, Subdistrict 10.2",NON,Crews Puryear,114
+Ashley,HW1,Circuit Judge,"10, Division 01, Subdistrict 10.2",NON,Crews Puryear,29
+Ashley,HBG RURAL,Circuit Judge,"10, Division 01, Subdistrict 10.2",NON,Crews Puryear,245
+Ashley,MT ZION,Circuit Judge,"10, Division 01, Subdistrict 10.2",NON,Crews Puryear,9
+Ashley,MILO,Circuit Judge,"10, Division 01, Subdistrict 10.2",NON,Crews Puryear,193
+Ashley,MIST,Circuit Judge,"10, Division 01, Subdistrict 10.2",NON,Crews Puryear,38
+Ashley,FH CITY,Circuit Judge,"10, Division 01, Subdistrict 10.2",NON,Crews Puryear,21
+Ashley,FH RURAL,Circuit Judge,"10, Division 01, Subdistrict 10.2",NON,Crews Puryear,108
+Ashley,SNY/TRA,Circuit Judge,"10, Division 01, Subdistrict 10.2",NON,Crews Puryear,22
+Ashley,CW1,Circuit Judge,"10, Division 01, Subdistrict 10.2",NON,City Attorney James A. Hamilton,216
+Ashley,CW2,Circuit Judge,"10, Division 01, Subdistrict 10.2",NON,City Attorney James A. Hamilton,341
+Ashley,CW3,Circuit Judge,"10, Division 01, Subdistrict 10.2",NON,City Attorney James A. Hamilton,432
+Ashley,NCE,Circuit Judge,"10, Division 01, Subdistrict 10.2",NON,City Attorney James A. Hamilton,227
+Ashley,NCW,Circuit Judge,"10, Division 01, Subdistrict 10.2",NON,City Attorney James A. Hamilton,165
+Ashley,WCR,Circuit Judge,"10, Division 01, Subdistrict 10.2",NON,City Attorney James A. Hamilton,237
+Ashley,VOTECH,Circuit Judge,"10, Division 01, Subdistrict 10.2",NON,City Attorney James A. Hamilton,139
+Ashley,COOTER,Circuit Judge,"10, Division 01, Subdistrict 10.2",NON,City Attorney James A. Hamilton,123
+Ashley,HICKORY GROVE,Circuit Judge,"10, Division 01, Subdistrict 10.2",NON,City Attorney James A. Hamilton,120
+Ashley,CROSSROADS,Circuit Judge,"10, Division 01, Subdistrict 10.2",NON,City Attorney James A. Hamilton,187
+Ashley,HW3,Circuit Judge,"10, Division 01, Subdistrict 10.2",NON,City Attorney James A. Hamilton,156
+Ashley,HW2,Circuit Judge,"10, Division 01, Subdistrict 10.2",NON,City Attorney James A. Hamilton,134
+Ashley,HW1,Circuit Judge,"10, Division 01, Subdistrict 10.2",NON,City Attorney James A. Hamilton,30
+Ashley,HBG RURAL,Circuit Judge,"10, Division 01, Subdistrict 10.2",NON,City Attorney James A. Hamilton,265
+Ashley,MT ZION,Circuit Judge,"10, Division 01, Subdistrict 10.2",NON,City Attorney James A. Hamilton,9
+Ashley,MILO,Circuit Judge,"10, Division 01, Subdistrict 10.2",NON,City Attorney James A. Hamilton,198
+Ashley,MIST,Circuit Judge,"10, Division 01, Subdistrict 10.2",NON,City Attorney James A. Hamilton,44
+Ashley,FH CITY,Circuit Judge,"10, Division 01, Subdistrict 10.2",NON,City Attorney James A. Hamilton,35
+Ashley,FH RURAL,Circuit Judge,"10, Division 01, Subdistrict 10.2",NON,City Attorney James A. Hamilton,131
+Ashley,SNY/TRA,Circuit Judge,"10, Division 01, Subdistrict 10.2",NON,City Attorney James A. Hamilton,25
+Ashley,CW1,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,327
+Ashley,CW2,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,427
+Ashley,CW3,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,525
+Ashley,NCE,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,273
+Ashley,NCW,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,154
+Ashley,WCR,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,349
+Ashley,VOTECH,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,171
+Ashley,COOTER,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,104
+Ashley,HICKORY GROVE,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,250
+Ashley,CROSSROADS,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,216
+Ashley,HW3,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,260
+Ashley,HW2,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,155
+Ashley,HW1,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,133
+Ashley,HBG RURAL,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,428
+Ashley,MT ZION,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,96
+Ashley,MILO,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,217
+Ashley,BEECH CREEK,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,13
+Ashley,MIST,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,57
+Ashley,FH CITY,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,28
+Ashley,FH RURAL,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,148
+Ashley,PORTLAND CITY,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,122
+Ashley,PORTLAND RURAL,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,22
+Ashley,BOYDELL,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,4
+Ashley,SNY/TRA,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,23
+Ashley,MONTROSE CITY,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,66
+Ashley,MONTROSE RURAL,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,4
+Ashley,PARKDALE CITY,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,60
+Ashley,PARKDALE RURAL,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,10
+Ashley,WILMOT CITY,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,120
+Ashley,WILMOT RURAL,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,FOR,43
+Ashley,CW1,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,183
+Ashley,CW2,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,208
+Ashley,CW3,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,351
+Ashley,NCE,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,181
+Ashley,NCW,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,104
+Ashley,WCR,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,234
+Ashley,VOTECH,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,108
+Ashley,COOTER,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,108
+Ashley,HICKORY GROVE,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,209
+Ashley,CROSSROADS,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,184
+Ashley,HW3,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,131
+Ashley,HW2,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,96
+Ashley,HW1,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,77
+Ashley,HBG RURAL,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,198
+Ashley,MT ZION,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,56
+Ashley,MILO,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,175
+Ashley,BEECH CREEK,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,12
+Ashley,MIST,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,29
+Ashley,FH CITY,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,32
+Ashley,FH RURAL,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,98
+Ashley,PORTLAND CITY,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,45
+Ashley,PORTLAND RURAL,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,11
+Ashley,BOYDELL,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,6
+Ashley,SNY/TRA,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,25
+Ashley,MONTROSE CITY,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,23
+Ashley,MONTROSE RURAL,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,4
+Ashley,PARKDALE CITY,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,31
+Ashley,PARKDALE RURAL,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,5
+Ashley,WILMOT CITY,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,48
+Ashley,WILMOT RURAL,Issue No. 1: An Amendment to the Arkansas Constitution Continuing a One-Half Percent (0.5%) Sales and Use Tax for State Highways and Bridges; County Roads, Bridges and Other Surface Transportation After the Retirement of the Bonds Authorized in Arkansas Constitution,NON,AGAINST,14
+Ashley,CW1,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,275
+Ashley,CW2,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,344
+Ashley,CW3,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,470
+Ashley,NCE,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,275
+Ashley,NCW,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,133
+Ashley,WCR,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,293
+Ashley,VOTECH,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,162
+Ashley,COOTER,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,112
+Ashley,HICKORY GROVE,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,234
+Ashley,CROSSROADS,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,204
+Ashley,HW3,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,232
+Ashley,HW2,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,135
+Ashley,HW1,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,125
+Ashley,HBG RURAL,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,356
+Ashley,MT ZION,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,90
+Ashley,MILO,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,192
+Ashley,BEECH CREEK,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,11
+Ashley,MIST,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,58
+Ashley,FH CITY,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,24
+Ashley,FH RURAL,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,139
+Ashley,PORTLAND CITY,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,108
+Ashley,PORTLAND RURAL,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,19
+Ashley,BOYDELL,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,6
+Ashley,SNY/TRA,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,28
+Ashley,MONTROSE CITY,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,45
+Ashley,MONTROSE RURAL,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,4
+Ashley,PARKDALE CITY,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,58
+Ashley,PARKDALE RURAL,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,9
+Ashley,WILMOT CITY,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,106
+Ashley,WILMOT RURAL,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,FOR,39
+Ashley,CW1,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,232
+Ashley,CW2,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,287
+Ashley,CW3,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,393
+Ashley,NCE,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,177
+Ashley,NCW,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,125
+Ashley,WCR,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,285
+Ashley,VOTECH,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,109
+Ashley,COOTER,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,98
+Ashley,HICKORY GROVE,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,220
+Ashley,CROSSROADS,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,195
+Ashley,HW3,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,154
+Ashley,HW2,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,108
+Ashley,HW1,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,88
+Ashley,HBG RURAL,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,261
+Ashley,MT ZION,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,62
+Ashley,MILO,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,194
+Ashley,BEECH CREEK,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,14
+Ashley,MIST,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,29
+Ashley,FH CITY,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,35
+Ashley,FH RURAL,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,102
+Ashley,PORTLAND CITY,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,55
+Ashley,PORTLAND RURAL,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,15
+Ashley,BOYDELL,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,4
+Ashley,SNY/TRA,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,19
+Ashley,MONTROSE CITY,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,37
+Ashley,MONTROSE RURAL,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,4
+Ashley,PARKDALE CITY,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,31
+Ashley,PARKDALE RURAL,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,6
+Ashley,WILMOT CITY,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,62
+Ashley,WILMOT RURAL,Issue No. 2: A Constitutional Amendment to Amend the Term Limits Applicable to Members of the General Assembly, to be Known as the 'Arkansas Term Limits Amendment',NON,AGAINST,18
+Ashley,CW1,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,260
+Ashley,CW2,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,302
+Ashley,CW3,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,367
+Ashley,NCE,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,213
+Ashley,NCW,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,113
+Ashley,WCR,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,234
+Ashley,VOTECH,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,125
+Ashley,COOTER,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,85
+Ashley,HICKORY GROVE,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,180
+Ashley,CROSSROADS,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,141
+Ashley,HW3,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,188
+Ashley,HW2,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,113
+Ashley,HW1,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,107
+Ashley,HBG RURAL,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,285
+Ashley,MT ZION,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,56
+Ashley,MILO,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,137
+Ashley,BEECH CREEK,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,7
+Ashley,MIST,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,37
+Ashley,FH CITY,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,23
+Ashley,FH RURAL,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,102
+Ashley,PORTLAND CITY,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,89
+Ashley,PORTLAND RURAL,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,15
+Ashley,BOYDELL,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,2
+Ashley,SNY/TRA,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,16
+Ashley,MONTROSE CITY,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,44
+Ashley,MONTROSE RURAL,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,3
+Ashley,PARKDALE CITY,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,50
+Ashley,PARKDALE RURAL,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,6
+Ashley,WILMOT CITY,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,109
+Ashley,WILMOT RURAL,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,FOR,31
+Ashley,CW1,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,240
+Ashley,CW2,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,325
+Ashley,CW3,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,482
+Ashley,NCE,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,231
+Ashley,NCW,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,140
+Ashley,WCR,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,329
+Ashley,VOTECH,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,146
+Ashley,COOTER,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,122
+Ashley,HICKORY GROVE,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,270
+Ashley,CROSSROADS,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,248
+Ashley,HW3,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,197
+Ashley,HW2,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,127
+Ashley,HW1,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,101
+Ashley,HBG RURAL,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,324
+Ashley,MT ZION,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,92
+Ashley,MILO,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,244
+Ashley,BEECH CREEK,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,17
+Ashley,MIST,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,49
+Ashley,FH CITY,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,36
+Ashley,FH RURAL,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,135
+Ashley,PORTLAND CITY,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,75
+Ashley,PORTLAND RURAL,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,17
+Ashley,BOYDELL,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,8
+Ashley,SNY/TRA,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,30
+Ashley,MONTROSE CITY,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,38
+Ashley,MONTROSE RURAL,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,5
+Ashley,PARKDALE CITY,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,39
+Ashley,PARKDALE RURAL,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,9
+Ashley,WILMOT CITY,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,60
+Ashley,WILMOT RURAL,Issue No. 3: A Constitutional Amendment To Amend The Process For The Submission, Challenge,NON,AGAINST,26
+Ashley,PARKDALE CITY,SPECIAL ELECTION PARKDALE,,NON,FOR,52
+Ashley,PARKDALE CITY,SPECIAL ELECTION PARKDALE,,NON,AGAINST,39
