@@ -1,4 +1,4 @@
-county,precinct,office,district,party,candidate,votes,election_day,early_vote,absentee,provisional,hand_count
+county,precinct,office,district,party,candidate,votes,election_day,early_voting,absentee,provisional,hand_count
 Calhoun,Absentee,Att Gen,,REP,David Sterling,1,0,0,1,0,0
 Calhoun,Absentee,Att Gen,,REP,Leslie Rutledge,1,0,0,1,0,0
 Calhoun,Absentee,Auditor of State - REP,,REP,Ken Yang,1,0,0,1,0,0

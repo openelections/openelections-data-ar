@@ -1,4 +1,4 @@
-county,precinct,office,district,party,candidate,votes,election_day,early_vote,absentee,provisional,hand_count
+county,precinct,office,district,party,candidate,votes,election_day,early_voting,absentee,provisional,hand_count
 Arkansas,ALMYRA,Sheriff/Collector,,REP,Rick Newton,10,7,3,0,0,0
 Arkansas,ALMYRA,Sheriff/Collector,,REP,Todd Wright,55,49,6,0,0,0
 Arkansas,ALMYRA,U.S. President - DEM,,DEM,Hillary Clinton,5,4,1,0,0,0

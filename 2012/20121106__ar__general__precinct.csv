@@ -1,4 +1,4 @@
-county,precinct,office,district,party,candidate,votes,election_day,early_vote,absentee,provisional,hand_count
+county,precinct,office,district,party,candidate,votes,election_day,early_voting,absentee,provisional,hand_count
 Arkansas,Almyra,State Representative,13,DEM,David Hillman,63,59,2,2,0,0
 Arkansas,Almyra,State Representative,13,REP,Garland Derden Jr,42,32,9,1,0,0
 Arkansas,Almyra,State Senate,28,DEM,Tiffany Rogers,71,64,6,1,0,0
