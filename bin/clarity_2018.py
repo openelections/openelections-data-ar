@@ -10,7 +10,7 @@ except ImportError:
 
 def statewide_results(url):
     j = clarify.Jurisdiction(url=url, level="state")
-    r = requests.get(url, stream=True)
+    r = requests.get("http://results.enr.clarityelections.com/WV/74487/207685/reports/detailxml.zip", stream=True)
     z = zipfile.ZipFile(BytesIO(r.content))
     z.extractall()
     p = clarify.Parser()
@@ -19,20 +19,20 @@ def statewide_results(url):
     for result in p.results:
         candidate = result.choice.text
         office, district = parse_office(result.contest.text)
-        party = result.choice.party
-#        if '(' in candidate and party is None:
-#            if '(I)' in candidate:
-#                if '(I)(I)' in candidate:
-#                    candidate = candidate.split('(I)')[0]
-#                    party = 'I'
-#                else:
-#                    candidate, party = candidate.split('(I)')
-#                candidate = candidate.strip() + ' (I)'
-#            else:
-#                print(candidate)
-#                candidate, party = candidate.split('(', 1)
-#                candidate = candidate.strip()
-#            party = party.replace(')','').strip()
+        party = parse_party(result.contest.text)
+        if '(' in candidate and party is None:
+            if '(I)' in candidate:
+                if '(I)(I)' in candidate:
+                    candidate = candidate.split('(I)')[0]
+                    party = 'I'
+                else:
+                    candidate, party = candidate.split('(I)')
+                candidate = candidate.strip() + ' (I)'
+            else:
+                print(candidate)
+                candidate, party = candidate.split('(', 1)
+                candidate = candidate.strip()
+            party = party.replace(')','').strip()
         if result.jurisdiction:
             county = result.jurisdiction.name
         else:
@@ -43,7 +43,7 @@ def statewide_results(url):
         else:
             results.append({ 'county': county, 'office': office, 'district': district, 'party': party, 'candidate': candidate, result.vote_type: result.votes})
 
-    with open("20200609__wv__primary__county.csv", "wt") as csvfile:
+    with open("20180522__ar__primary.csv", "wt") as csvfile:
         w = csv.writer(csvfile)
         w.writerow(['county', 'office', 'district', 'party', 'candidate', 'votes'])
         for row in results:
@@ -61,6 +61,7 @@ def download_county_files(url, filename):
             z.extractall()
             precinct_results(sub.name.replace(' ','_').lower(),filename)
         except:
+            print("can't find xml")
             no_xml.append(sub.name)
 
     print(no_xml)
@@ -77,18 +78,18 @@ def precinct_results(county_name, filename):
             continue
         candidate = result.choice.text
         office, district = parse_office(result.contest.text)
-        party = result.choice.party #parse_party(result.contest.text)
-#        if '(' in candidate and party is None:
-#            if '(I)' in candidate:
-#                if '(I)(I)' in candidate:
-#                    candidate = candidate.split('(I)')[0]
-#                    party = 'I'
-#                else:
-#                    candidate, party = candidate.split('(I)')
-#            else:
-#                candidate, party = candidate.split('(', 1)
-#                candidate = candidate.strip()
-#            party = party.replace(')','').strip()
+        party = parse_party(result.contest.text)
+        if '(' in candidate and party is None:
+            if '(I)' in candidate:
+                if '(I)(I)' in candidate:
+                    candidate = candidate.split('(I)')[0]
+                    party = 'I'
+                else:
+                    candidate, party = candidate.split('(I)')
+            else:
+                candidate, party = candidate.split('(', 1)
+                candidate = candidate.strip()
+            party = party.replace(')','').strip()
         county = p.region
         if result.jurisdiction:
             precinct = result.jurisdiction.name
@@ -103,9 +104,8 @@ def precinct_results(county_name, filename):
             results.append({ 'county': county, 'precinct': precinct, 'office': office, 'district': district, 'party': party, 'candidate': candidate, result.vote_type: result.votes})
 
     vote_types = list(set(vote_types))
-    print(vote_types)
-#    vote_types.remove('regVotersCounty')
-#    vote_types.remove('underVotes')
+    vote_types.remove('overVotes')
+    vote_types.remove('underVotes')
     with open(f, "wt") as csvfile:
         w = csv.writer(csvfile)
         headers = ['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes'] #+ [x.replace(' ','_').lower() for x in vote_types]
