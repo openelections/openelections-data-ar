@@ -171,12 +171,12 @@ Sevier,Paraclifta,County Clerk,,DEM,"Patricia ""Patty"" Sharp",26,26
 Sevier,Red Colony,County Clerk,,DEM,"Patricia ""Patty"" Sharp",132,132
 Sevier,Washington,County Clerk,,DEM,"Patricia ""Patty"" Sharp",17,17
 Sevier,Saline East,County Clerk,,DEM,"Patricia ""Patty"" Sharp",18,18
-Sevier,Clear Creek 2,Constable, Monroe Township,DEM,Kim Culp,51,51
-Sevier,Monroe,Constable, Monroe Township,DEM,Kim Culp,110,110
-Sevier,Clear Creek 2,Constable, Monroe Township,DEM,Doug Ruth,17,17
-Sevier,Monroe,Constable, Monroe Township,DEM,Doug Ruth,58,58
-Sevier,Clear Creek 2,Constable, CC Township CLEAR CREEK TOWNSHIP,DEM,Roger Whitmore,205,205
-Sevier,Clear Creek 2,Constable, CC Township CLEAR CREEK TOWNSHIP,DEM,Jason Richardson,38,38
+Sevier,Clear Creek 2,Constable,Monroe Township,DEM,Kim Culp,51,51
+Sevier,Monroe,Constable,Monroe Township,DEM,Kim Culp,110,110
+Sevier,Clear Creek 2,Constable,Monroe Township,DEM,Doug Ruth,17,17
+Sevier,Monroe,Constable,Monroe Township,DEM,Doug Ruth,58,58
+Sevier,Clear Creek 2,Constable,CC Township CLEAR CREEK TOWNSHIP,DEM,Roger Whitmore,205,205
+Sevier,Clear Creek 2,Constable,CC Township CLEAR CREEK TOWNSHIP,DEM,Jason Richardson,38,38
 Sevier,Bear Creek West,Unopposed Candidates,,DEM,FOR Unopposed Candidates,185,185
 Sevier,Bear Creek East &  Saline West,Unopposed Candidates,,DEM,FOR Unopposed Candidates,104,104
 Sevier,De Queen North Central,Unopposed Candidates,,DEM,FOR Unopposed Candidates,59,59
@@ -353,38 +353,38 @@ Sevier,Paraclifta,State Supreme Court Associate Justice Position 4,,,Raymond Abr
 Sevier,Red Colony,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,105,105
 Sevier,Washington,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,19,19
 Sevier,Saline East,State Supreme Court Associate Justice Position 4,,,Raymond Abramson,19,19
-Sevier,Bear Creek West,Court of Appeals Associate Judge District 4, Position 1,,Brandon Harrison,149,149
-Sevier,Bear Creek East &  Saline West,Court of Appeals Associate Judge District 4, Position 1,,Brandon Harrison,67,67
-Sevier,De Queen North Central,Court of Appeals Associate Judge District 4, Position 1,,Brandon Harrison,47,47
-Sevier,De Gueen Northwest,Court of Appeals Associate Judge District 4, Position 1,,Brandon Harrison,98,98
-Sevier,De Queen Southwest,Court of Appeals Associate Judge District 4, Position 1,,Brandon Harrison,55,55
-Sevier,De Queen East,Court of Appeals Associate Judge District 4, Position 1,,Brandon Harrison,45,45
-Sevier,Ben Lomond,Court of Appeals Associate Judge District 4, Position 1,,Brandon Harrison,17,17
-Sevier,Clear Creek 2,Court of Appeals Associate Judge District 4, Position 1,,Brandon Harrison,174,174
-Sevier,Clear Creek 1,Court of Appeals Associate Judge District 4, Position 1,,Brandon Harrison,60,60
-Sevier,Jefferson,Court of Appeals Associate Judge District 4, Position 1,,Brandon Harrison,17,17
-Sevier,Mineral,Court of Appeals Associate Judge District 4, Position 1,,Brandon Harrison,95,95
-Sevier,Monroe,Court of Appeals Associate Judge District 4, Position 1,,Brandon Harrison,101,101
-Sevier,Paraclifta,Court of Appeals Associate Judge District 4, Position 1,,Brandon Harrison,37,37
-Sevier,Red Colony,Court of Appeals Associate Judge District 4, Position 1,,Brandon Harrison,133,133
-Sevier,Washington,Court of Appeals Associate Judge District 4, Position 1,,Brandon Harrison,36,36
-Sevier,Saline East,Court of Appeals Associate Judge District 4, Position 1,,Brandon Harrison,21,21
-Sevier,Bear Creek West,Court of Appeals Associate Judge District 4, Position 1,,Circuit Judge Jake Looney,122,122
-Sevier,Bear Creek East &  Saline West,Court of Appeals Associate Judge District 4, Position 1,,Circuit Judge Jake Looney,75,75
-Sevier,De Queen North Central,Court of Appeals Associate Judge District 4, Position 1,,Circuit Judge Jake Looney,43,43
-Sevier,De Gueen Northwest,Court of Appeals Associate Judge District 4, Position 1,,Circuit Judge Jake Looney,111,111
-Sevier,De Queen Southwest,Court of Appeals Associate Judge District 4, Position 1,,Circuit Judge Jake Looney,63,63
-Sevier,De Queen East,Court of Appeals Associate Judge District 4, Position 1,,Circuit Judge Jake Looney,38,38
-Sevier,Ben Lomond,Court of Appeals Associate Judge District 4, Position 1,,Circuit Judge Jake Looney,15,15
-Sevier,Clear Creek 2,Court of Appeals Associate Judge District 4, Position 1,,Circuit Judge Jake Looney,155,155
-Sevier,Clear Creek 1,Court of Appeals Associate Judge District 4, Position 1,,Circuit Judge Jake Looney,61,61
-Sevier,Jefferson,Court of Appeals Associate Judge District 4, Position 1,,Circuit Judge Jake Looney,15,15
-Sevier,Mineral,Court of Appeals Associate Judge District 4, Position 1,,Circuit Judge Jake Looney,65,65
-Sevier,Monroe,Court of Appeals Associate Judge District 4, Position 1,,Circuit Judge Jake Looney,86,86
-Sevier,Paraclifta,Court of Appeals Associate Judge District 4, Position 1,,Circuit Judge Jake Looney,19,19
-Sevier,Red Colony,Court of Appeals Associate Judge District 4, Position 1,,Circuit Judge Jake Looney,126,126
-Sevier,Washington,Court of Appeals Associate Judge District 4, Position 1,,Circuit Judge Jake Looney,25,25
-Sevier,Saline East,Court of Appeals Associate Judge District 4, Position 1,,Circuit Judge Jake Looney,26,26
+Sevier,Bear Creek West,Court of Appeals Associate Judge District 4,Position 1,,Brandon Harrison,149,149
+Sevier,Bear Creek East &  Saline West,Court of Appeals Associate Judge District 4,Position 1,,Brandon Harrison,67,67
+Sevier,De Queen North Central,Court of Appeals Associate Judge District 4,Position 1,,Brandon Harrison,47,47
+Sevier,De Gueen Northwest,Court of Appeals Associate Judge District 4,Position 1,,Brandon Harrison,98,98
+Sevier,De Queen Southwest,Court of Appeals Associate Judge District 4,Position 1,,Brandon Harrison,55,55
+Sevier,De Queen East,Court of Appeals Associate Judge District 4,Position 1,,Brandon Harrison,45,45
+Sevier,Ben Lomond,Court of Appeals Associate Judge District 4,Position 1,,Brandon Harrison,17,17
+Sevier,Clear Creek 2,Court of Appeals Associate Judge District 4,Position 1,,Brandon Harrison,174,174
+Sevier,Clear Creek 1,Court of Appeals Associate Judge District 4,Position 1,,Brandon Harrison,60,60
+Sevier,Jefferson,Court of Appeals Associate Judge District 4,Position 1,,Brandon Harrison,17,17
+Sevier,Mineral,Court of Appeals Associate Judge District 4,Position 1,,Brandon Harrison,95,95
+Sevier,Monroe,Court of Appeals Associate Judge District 4,Position 1,,Brandon Harrison,101,101
+Sevier,Paraclifta,Court of Appeals Associate Judge District 4,Position 1,,Brandon Harrison,37,37
+Sevier,Red Colony,Court of Appeals Associate Judge District 4,Position 1,,Brandon Harrison,133,133
+Sevier,Washington,Court of Appeals Associate Judge District 4,Position 1,,Brandon Harrison,36,36
+Sevier,Saline East,Court of Appeals Associate Judge District 4,Position 1,,Brandon Harrison,21,21
+Sevier,Bear Creek West,Court of Appeals Associate Judge District 4,Position 1,,Circuit Judge Jake Looney,122,122
+Sevier,Bear Creek East &  Saline West,Court of Appeals Associate Judge District 4,Position 1,,Circuit Judge Jake Looney,75,75
+Sevier,De Queen North Central,Court of Appeals Associate Judge District 4,Position 1,,Circuit Judge Jake Looney,43,43
+Sevier,De Gueen Northwest,Court of Appeals Associate Judge District 4,Position 1,,Circuit Judge Jake Looney,111,111
+Sevier,De Queen Southwest,Court of Appeals Associate Judge District 4,Position 1,,Circuit Judge Jake Looney,63,63
+Sevier,De Queen East,Court of Appeals Associate Judge District 4,Position 1,,Circuit Judge Jake Looney,38,38
+Sevier,Ben Lomond,Court of Appeals Associate Judge District 4,Position 1,,Circuit Judge Jake Looney,15,15
+Sevier,Clear Creek 2,Court of Appeals Associate Judge District 4,Position 1,,Circuit Judge Jake Looney,155,155
+Sevier,Clear Creek 1,Court of Appeals Associate Judge District 4,Position 1,,Circuit Judge Jake Looney,61,61
+Sevier,Jefferson,Court of Appeals Associate Judge District 4,Position 1,,Circuit Judge Jake Looney,15,15
+Sevier,Mineral,Court of Appeals Associate Judge District 4,Position 1,,Circuit Judge Jake Looney,65,65
+Sevier,Monroe,Court of Appeals Associate Judge District 4,Position 1,,Circuit Judge Jake Looney,86,86
+Sevier,Paraclifta,Court of Appeals Associate Judge District 4,Position 1,,Circuit Judge Jake Looney,19,19
+Sevier,Red Colony,Court of Appeals Associate Judge District 4,Position 1,,Circuit Judge Jake Looney,126,126
+Sevier,Washington,Court of Appeals Associate Judge District 4,Position 1,,Circuit Judge Jake Looney,25,25
+Sevier,Saline East,Court of Appeals Associate Judge District 4,Position 1,,Circuit Judge Jake Looney,26,26
 Sevier,Bear Creek West,Unopposed,,,FOR Unopposed Candidates,240,240
 Sevier,Bear Creek East &  Saline West,Unopposed,,,FOR Unopposed Candidates,110,110
 Sevier,De Queen North Central,Unopposed,,,FOR Unopposed Candidates,70,70

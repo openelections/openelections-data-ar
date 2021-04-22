@@ -456,48 +456,48 @@ Cross,WYNNE WARD 1,JUSTICE OF THE PEACE DISTRICT 6 DISTRICT 6,,REP,JARED CALDWEL
 Cross,WYNNE WARD 2,JUSTICE OF THE PEACE DISTRICT 6 DISTRICT 6,,REP,JARED CALDWELL,17,8,9,0,0
 Cross,WYNNE WARD 3,JUSTICE OF THE PEACE DISTRICT 6 DISTRICT 6,,REP,JARED CALDWELL,3,1,2,0,0
 Cross,WYNNE WARD 4,JUSTICE OF THE PEACE DISTRICT 6 DISTRICT 6,,REP,JARED CALDWELL,3,0,2,1,0
-Cross,WYNNE WARD 1,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,117,38,75,4,0
-Cross,WYNNE WARD 2,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,132,66,64,2,0
-Cross,WYNNE WARD 3,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,46,23,23,0,0
-Cross,WYNNE WARD 4,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,64,28,35,1,0
-Cross,WYNNE WARD 5,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,245,95,145,2,3
-Cross,Wynne Township,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,146,64,79,3,0
-Cross,Smith,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,162,71,90,0,1
-Cross,Bedford,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,46,24,22,0,0
-Cross,Ellis,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,53,40,12,0,1
-Cross,Fair Oaks,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,13,7,6,0,0
-Cross,Brushy Lake,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,21,11,9,1,0
-Cross,Hickory Ridge City,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,25,20,5,0,0
-Cross,Hickory Ridge Township,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,25,15,10,0,0
-Cross,Cherry Valley City,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,42,31,11,0,0
-Cross,Mitchell,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,43,34,8,0,1
-Cross,"Bay Village, Birdeye",State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,47,30,16,1,0
-Cross,Searcy,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,120,86,33,0,1
-Cross,Parkin Ward 1,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,19,14,4,1,0
-Cross,Parkin Ward 2,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,18,17,0,0,1
-Cross,Parkin Ward 3,State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,7,6,1,0,0
-Cross,"Tyronza, Twist",State Supreme Court Associate Justice, Position 4,,Judge Morgan 'Chip' Welch,7,4,3,0,0
-Cross,WYNNE WARD 1,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,82,30,49,2,1
-Cross,WYNNE WARD 2,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,127,58,69,0,0
-Cross,WYNNE WARD 3,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,56,36,17,3,0
-Cross,WYNNE WARD 4,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,94,53,39,2,0
-Cross,WYNNE WARD 5,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,169,76,91,1,1
-Cross,Wynne Township,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,88,43,45,0,0
-Cross,Smith,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,108,43,65,0,0
-Cross,Bedford,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,29,12,17,0,0
-Cross,Ellis,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,19,16,3,0,0
-Cross,Fair Oaks,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,12,9,3,0,0
-Cross,Brushy Lake,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,10,7,3,0,0
-Cross,Hickory Ridge City,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,17,14,3,0,0
-Cross,Hickory Ridge Township,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,16,14,2,0,0
-Cross,Cherry Valley City,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,24,15,9,0,0
-Cross,Mitchell,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,19,17,2,0,0
-Cross,"Bay Village, Birdeye",State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,22,16,6,0,0
-Cross,Searcy,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,67,50,17,0,0
-Cross,Parkin Ward 1,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,20,15,5,0,0
-Cross,Parkin Ward 2,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,14,11,3,0,0
-Cross,Parkin Ward 3,State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,14,10,4,0,0
-Cross,"Tyronza, Twist",State Supreme Court Associate Justice, Position 4,,Barbara Womack Webb,7,5,2,0,0
+Cross,WYNNE WARD 1,State Supreme Court Associate Justice,Position 4,,Judge Morgan 'Chip' Welch,117,38,75,4,0
+Cross,WYNNE WARD 2,State Supreme Court Associate Justice,Position 4,,Judge Morgan 'Chip' Welch,132,66,64,2,0
+Cross,WYNNE WARD 3,State Supreme Court Associate Justice,Position 4,,Judge Morgan 'Chip' Welch,46,23,23,0,0
+Cross,WYNNE WARD 4,State Supreme Court Associate Justice,Position 4,,Judge Morgan 'Chip' Welch,64,28,35,1,0
+Cross,WYNNE WARD 5,State Supreme Court Associate Justice,Position 4,,Judge Morgan 'Chip' Welch,245,95,145,2,3
+Cross,Wynne Township,State Supreme Court Associate Justice,Position 4,,Judge Morgan 'Chip' Welch,146,64,79,3,0
+Cross,Smith,State Supreme Court Associate Justice,Position 4,,Judge Morgan 'Chip' Welch,162,71,90,0,1
+Cross,Bedford,State Supreme Court Associate Justice,Position 4,,Judge Morgan 'Chip' Welch,46,24,22,0,0
+Cross,Ellis,State Supreme Court Associate Justice,Position 4,,Judge Morgan 'Chip' Welch,53,40,12,0,1
+Cross,Fair Oaks,State Supreme Court Associate Justice,Position 4,,Judge Morgan 'Chip' Welch,13,7,6,0,0
+Cross,Brushy Lake,State Supreme Court Associate Justice,Position 4,,Judge Morgan 'Chip' Welch,21,11,9,1,0
+Cross,Hickory Ridge City,State Supreme Court Associate Justice,Position 4,,Judge Morgan 'Chip' Welch,25,20,5,0,0
+Cross,Hickory Ridge Township,State Supreme Court Associate Justice,Position 4,,Judge Morgan 'Chip' Welch,25,15,10,0,0
+Cross,Cherry Valley City,State Supreme Court Associate Justice,Position 4,,Judge Morgan 'Chip' Welch,42,31,11,0,0
+Cross,Mitchell,State Supreme Court Associate Justice,Position 4,,Judge Morgan 'Chip' Welch,43,34,8,0,1
+Cross,"Bay Village, Birdeye",State Supreme Court Associate Justice,Position 4,,Judge Morgan 'Chip' Welch,47,30,16,1,0
+Cross,Searcy,State Supreme Court Associate Justice,Position 4,,Judge Morgan 'Chip' Welch,120,86,33,0,1
+Cross,Parkin Ward 1,State Supreme Court Associate Justice,Position 4,,Judge Morgan 'Chip' Welch,19,14,4,1,0
+Cross,Parkin Ward 2,State Supreme Court Associate Justice,Position 4,,Judge Morgan 'Chip' Welch,18,17,0,0,1
+Cross,Parkin Ward 3,State Supreme Court Associate Justice,Position 4,,Judge Morgan 'Chip' Welch,7,6,1,0,0
+Cross,"Tyronza, Twist",State Supreme Court Associate Justice,Position 4,,Judge Morgan 'Chip' Welch,7,4,3,0,0
+Cross,WYNNE WARD 1,State Supreme Court Associate Justice,Position 4,,Barbara Womack Webb,82,30,49,2,1
+Cross,WYNNE WARD 2,State Supreme Court Associate Justice,Position 4,,Barbara Womack Webb,127,58,69,0,0
+Cross,WYNNE WARD 3,State Supreme Court Associate Justice,Position 4,,Barbara Womack Webb,56,36,17,3,0
+Cross,WYNNE WARD 4,State Supreme Court Associate Justice,Position 4,,Barbara Womack Webb,94,53,39,2,0
+Cross,WYNNE WARD 5,State Supreme Court Associate Justice,Position 4,,Barbara Womack Webb,169,76,91,1,1
+Cross,Wynne Township,State Supreme Court Associate Justice,Position 4,,Barbara Womack Webb,88,43,45,0,0
+Cross,Smith,State Supreme Court Associate Justice,Position 4,,Barbara Womack Webb,108,43,65,0,0
+Cross,Bedford,State Supreme Court Associate Justice,Position 4,,Barbara Womack Webb,29,12,17,0,0
+Cross,Ellis,State Supreme Court Associate Justice,Position 4,,Barbara Womack Webb,19,16,3,0,0
+Cross,Fair Oaks,State Supreme Court Associate Justice,Position 4,,Barbara Womack Webb,12,9,3,0,0
+Cross,Brushy Lake,State Supreme Court Associate Justice,Position 4,,Barbara Womack Webb,10,7,3,0,0
+Cross,Hickory Ridge City,State Supreme Court Associate Justice,Position 4,,Barbara Womack Webb,17,14,3,0,0
+Cross,Hickory Ridge Township,State Supreme Court Associate Justice,Position 4,,Barbara Womack Webb,16,14,2,0,0
+Cross,Cherry Valley City,State Supreme Court Associate Justice,Position 4,,Barbara Womack Webb,24,15,9,0,0
+Cross,Mitchell,State Supreme Court Associate Justice,Position 4,,Barbara Womack Webb,19,17,2,0,0
+Cross,"Bay Village, Birdeye",State Supreme Court Associate Justice,Position 4,,Barbara Womack Webb,22,16,6,0,0
+Cross,Searcy,State Supreme Court Associate Justice,Position 4,,Barbara Womack Webb,67,50,17,0,0
+Cross,Parkin Ward 1,State Supreme Court Associate Justice,Position 4,,Barbara Womack Webb,20,15,5,0,0
+Cross,Parkin Ward 2,State Supreme Court Associate Justice,Position 4,,Barbara Womack Webb,14,11,3,0,0
+Cross,Parkin Ward 3,State Supreme Court Associate Justice,Position 4,,Barbara Womack Webb,14,10,4,0,0
+Cross,"Tyronza, Twist",State Supreme Court Associate Justice,Position 4,,Barbara Womack Webb,7,5,2,0,0
 Cross,WYNNE WARD 1,Circuit Judge,"1, Division 3, Subdistrict 1.2",,Gary J. Mitchusson,113,40,69,3,1
 Cross,WYNNE WARD 2,Circuit Judge,"1, Division 3, Subdistrict 1.2",,Gary J. Mitchusson,151,78,71,2,0
 Cross,WYNNE WARD 3,Circuit Judge,"1, Division 3, Subdistrict 1.2",,Gary J. Mitchusson,62,40,21,1,0

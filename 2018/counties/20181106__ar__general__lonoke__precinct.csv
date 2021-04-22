@@ -1380,8 +1380,8 @@ Lonoke,01- Allport City,City of Allport Recorder / Treasurer,,Ind,Rita Ingram,24
 Lonoke,01- Allport City,City of Allport Recorder / Treasurer,,Ind,Odessia Gaston,27,13,0,14,0,0
 Lonoke,03 - Austin City,City of Austin Mayor,,Ind,"Bernadette ""Bernie"" Chamberlain",451,143,4,303,0,1
 Lonoke,03 - Austin City,City of Austin Mayor,,Ind,Bobby Boyd,348,109,1,238,0,0
-Lonoke,03 - Austin City,City of Austin Alderman Ward 3, Position 4,Ind,Jennifer M. Moreau,400,134,2,263,0,1
-Lonoke,03 - Austin City,City of Austin Alderman Ward 3, Position 4,Ind,Randy Ryan,378,112,3,263,0,0
+Lonoke,03 - Austin City,City of Austin Alderman Ward 3,Position 4,Ind,Jennifer M. Moreau,400,134,2,263,0,1
+Lonoke,03 - Austin City,City of Austin Alderman Ward 3,Position 4,Ind,Randy Ryan,378,112,3,263,0,0
 Lonoke,05 - Cabot City W/1,City of Cabot Mayor,,Ind,Mayor Bill Cypert,506,128,5,373,0,0
 Lonoke,06 - Cabot City W/2,City of Cabot Mayor,,Ind,Mayor Bill Cypert,1000,220,11,769,0,0
 Lonoke,07 - Cabot City W/3,City of Cabot Mayor,,Ind,Mayor Bill Cypert,684,140,5,539,0,0
@@ -1402,42 +1402,42 @@ Lonoke,05 - Cabot City W/1,City Of Cabot City Attorney,,Ind,Ben Hooper,428,92,8,
 Lonoke,06 - Cabot City W/2,City Of Cabot City Attorney,,Ind,Ben Hooper,794,170,8,616,0,0
 Lonoke,07 - Cabot City W/3,City Of Cabot City Attorney,,Ind,Ben Hooper,665,146,4,515,0,0
 Lonoke,08 - Cabot City W/4,City Of Cabot City Attorney,,Ind,Ben Hooper,441,106,5,329,0,1
-Lonoke,05 - Cabot City W/1,City of Cabot Alderman Ward 2, Position 1,Ind,Travis Larison,430,106,5,319,0,0
-Lonoke,06 - Cabot City W/2,City of Cabot Alderman Ward 2, Position 1,Ind,Travis Larison,843,185,9,649,0,0
-Lonoke,07 - Cabot City W/3,City of Cabot Alderman Ward 2, Position 1,Ind,Travis Larison,543,119,5,419,0,0
-Lonoke,08 - Cabot City W/4,City of Cabot Alderman Ward 2, Position 1,Ind,Travis Larison,424,114,3,307,0,0
-Lonoke,05 - Cabot City W/1,City of Cabot Alderman Ward 2, Position 1,Ind,Doug Warner,777,204,13,560,0,0
-Lonoke,06 - Cabot City W/2,City of Cabot Alderman Ward 2, Position 1,Ind,Doug Warner,1424,311,11,1102,0,0
-Lonoke,07 - Cabot City W/3,City of Cabot Alderman Ward 2, Position 1,Ind,Doug Warner,1227,259,4,964,0,0
-Lonoke,08 - Cabot City W/4,City of Cabot Alderman Ward 2, Position 1,Ind,Doug Warner,842,220,12,609,0,1
-Lonoke,05 - Cabot City W/1,City of Cabot Alderman Ward 4, Position 1,Ind,Scott A. Thorstad,380,105,4,271,0,0
-Lonoke,06 - Cabot City W/2,City of Cabot Alderman Ward 4, Position 1,Ind,Scott A. Thorstad,648,139,1,508,0,0
-Lonoke,07 - Cabot City W/3,City of Cabot Alderman Ward 4, Position 1,Ind,Scott A. Thorstad,515,119,6,390,0,0
-Lonoke,08 - Cabot City W/4,City of Cabot Alderman Ward 4, Position 1,Ind,Scott A. Thorstad,416,129,6,280,0,1
-Lonoke,05 - Cabot City W/1,City of Cabot Alderman Ward 4, Position 1,Ind,Matt Webber,814,198,14,602,0,0
-Lonoke,06 - Cabot City W/2,City of Cabot Alderman Ward 4, Position 1,Ind,Matt Webber,1549,342,17,1190,0,0
-Lonoke,07 - Cabot City W/3,City of Cabot Alderman Ward 4, Position 1,Ind,Matt Webber,1240,254,3,983,0,0
-Lonoke,08 - Cabot City W/4,City of Cabot Alderman Ward 4, Position 1,Ind,Matt Webber,837,197,9,631,0,0
+Lonoke,05 - Cabot City W/1,City of Cabot Alderman Ward 2,Position 1,Ind,Travis Larison,430,106,5,319,0,0
+Lonoke,06 - Cabot City W/2,City of Cabot Alderman Ward 2,Position 1,Ind,Travis Larison,843,185,9,649,0,0
+Lonoke,07 - Cabot City W/3,City of Cabot Alderman Ward 2,Position 1,Ind,Travis Larison,543,119,5,419,0,0
+Lonoke,08 - Cabot City W/4,City of Cabot Alderman Ward 2,Position 1,Ind,Travis Larison,424,114,3,307,0,0
+Lonoke,05 - Cabot City W/1,City of Cabot Alderman Ward 2,Position 1,Ind,Doug Warner,777,204,13,560,0,0
+Lonoke,06 - Cabot City W/2,City of Cabot Alderman Ward 2,Position 1,Ind,Doug Warner,1424,311,11,1102,0,0
+Lonoke,07 - Cabot City W/3,City of Cabot Alderman Ward 2,Position 1,Ind,Doug Warner,1227,259,4,964,0,0
+Lonoke,08 - Cabot City W/4,City of Cabot Alderman Ward 2,Position 1,Ind,Doug Warner,842,220,12,609,0,1
+Lonoke,05 - Cabot City W/1,City of Cabot Alderman Ward 4,Position 1,Ind,Scott A. Thorstad,380,105,4,271,0,0
+Lonoke,06 - Cabot City W/2,City of Cabot Alderman Ward 4,Position 1,Ind,Scott A. Thorstad,648,139,1,508,0,0
+Lonoke,07 - Cabot City W/3,City of Cabot Alderman Ward 4,Position 1,Ind,Scott A. Thorstad,515,119,6,390,0,0
+Lonoke,08 - Cabot City W/4,City of Cabot Alderman Ward 4,Position 1,Ind,Scott A. Thorstad,416,129,6,280,0,1
+Lonoke,05 - Cabot City W/1,City of Cabot Alderman Ward 4,Position 1,Ind,Matt Webber,814,198,14,602,0,0
+Lonoke,06 - Cabot City W/2,City of Cabot Alderman Ward 4,Position 1,Ind,Matt Webber,1549,342,17,1190,0,0
+Lonoke,07 - Cabot City W/3,City of Cabot Alderman Ward 4,Position 1,Ind,Matt Webber,1240,254,3,983,0,0
+Lonoke,08 - Cabot City W/4,City of Cabot Alderman Ward 4,Position 1,Ind,Matt Webber,837,197,9,631,0,0
 Lonoke,10 - Carlisle City Ward 1,City of Carlisle Mayor,,Ind,Ray Glover,311,104,2,205,0,0
 Lonoke,11 -Carlisle City Ward 2,City of Carlisle Mayor,,Ind,Ray Glover,147,40,1,106,0,0
 Lonoke,12 - Carlisle City Ward 3,City of Carlisle Mayor,,Ind,Ray Glover,156,53,0,103,0,0
-Lonoke,10 - Carlisle City Ward 1,City of Carlisle Alderman Ward 3, Position 1,Ind,"Teresa ""Anne"" Anderson",181,61,2,118,0,0
-Lonoke,11 -Carlisle City Ward 2,City of Carlisle Alderman Ward 3, Position 1,Ind,"Teresa ""Anne"" Anderson",81,20,0,61,0,0
-Lonoke,12 - Carlisle City Ward 3,City of Carlisle Alderman Ward 3, Position 1,Ind,"Teresa ""Anne"" Anderson",88,31,0,57,0,0
-Lonoke,10 - Carlisle City Ward 1,City of Carlisle Alderman Ward 3, Position 1,Ind,James E. Givens,130,43,0,87,0,0
-Lonoke,11 -Carlisle City Ward 2,City of Carlisle Alderman Ward 3, Position 1,Ind,James E. Givens,64,19,1,44,0,0
-Lonoke,12 - Carlisle City Ward 3,City of Carlisle Alderman Ward 3, Position 1,Ind,James E. Givens,76,23,0,53,0,0
+Lonoke,10 - Carlisle City Ward 1,City of Carlisle Alderman Ward 3,Position 1,Ind,"Teresa ""Anne"" Anderson",181,61,2,118,0,0
+Lonoke,11 -Carlisle City Ward 2,City of Carlisle Alderman Ward 3,Position 1,Ind,"Teresa ""Anne"" Anderson",81,20,0,61,0,0
+Lonoke,12 - Carlisle City Ward 3,City of Carlisle Alderman Ward 3,Position 1,Ind,"Teresa ""Anne"" Anderson",88,31,0,57,0,0
+Lonoke,10 - Carlisle City Ward 1,City of Carlisle Alderman Ward 3,Position 1,Ind,James E. Givens,130,43,0,87,0,0
+Lonoke,11 -Carlisle City Ward 2,City of Carlisle Alderman Ward 3,Position 1,Ind,James E. Givens,64,19,1,44,0,0
+Lonoke,12 - Carlisle City Ward 3,City of Carlisle Alderman Ward 3,Position 1,Ind,James E. Givens,76,23,0,53,0,0
 Lonoke,28 - Humnoke City,City of Humnoke Mayor,,Ind,Tammie Jinks,18,10,0,8,0,0
 Lonoke,28 - Humnoke City,City of Humnoke Mayor,,Ind,Jeff Tyler,43,19,0,24,0,0
 Lonoke,28 - Humnoke City,City of Humnoke Mayor,,Ind,"Richard ""Pip"" L. Terry",48,14,1,33,0,0
-Lonoke,28 - Humnoke City,City of Humnoke Alderman Ward 1, Position 1,Ind,Janet L. Carter,60,23,1,36,0,0
-Lonoke,28 - Humnoke City,City of Humnoke Alderman Ward 1, Position 1,Ind,Rodney N. Hall,48,20,0,28,0,0
-Lonoke,28 - Humnoke City,City of Humnoke Alderman Ward 1, Position 2,Ind,Sue Rockwell King,75,27,1,47,0,0
-Lonoke,28 - Humnoke City,City of Humnoke Alderman Ward 1, Position 2,Ind,Rachel Munnerlyn Fleming,33,15,0,18,0,0
-Lonoke,28 - Humnoke City,City of Humnoke Alderman Ward 2, Position 1,Ind,Fred Hensiek,78,26,1,51,0,0
-Lonoke,28 - Humnoke City,City of Humnoke Alderman Ward 2, Position 1,Ind,Thomas Jinks,29,15,0,14,0,0
-Lonoke,28 - Humnoke City,City of Humnoke Alderman Ward 2, Position 2,Ind,Wilma Ruth Box Morgan,79,29,1,49,0,0
-Lonoke,28 - Humnoke City,City of Humnoke Alderman Ward 2, Position 2,Ind,Larry Ray Fleming,28,13,0,15,0,0
+Lonoke,28 - Humnoke City,City of Humnoke Alderman Ward 1,Position 1,Ind,Janet L. Carter,60,23,1,36,0,0
+Lonoke,28 - Humnoke City,City of Humnoke Alderman Ward 1,Position 1,Ind,Rodney N. Hall,48,20,0,28,0,0
+Lonoke,28 - Humnoke City,City of Humnoke Alderman Ward 1,Position 2,Ind,Sue Rockwell King,75,27,1,47,0,0
+Lonoke,28 - Humnoke City,City of Humnoke Alderman Ward 1,Position 2,Ind,Rachel Munnerlyn Fleming,33,15,0,18,0,0
+Lonoke,28 - Humnoke City,City of Humnoke Alderman Ward 2,Position 1,Ind,Fred Hensiek,78,26,1,51,0,0
+Lonoke,28 - Humnoke City,City of Humnoke Alderman Ward 2,Position 1,Ind,Thomas Jinks,29,15,0,14,0,0
+Lonoke,28 - Humnoke City,City of Humnoke Alderman Ward 2,Position 2,Ind,Wilma Ruth Box Morgan,79,29,1,49,0,0
+Lonoke,28 - Humnoke City,City of Humnoke Alderman Ward 2,Position 2,Ind,Larry Ray Fleming,28,13,0,15,0,0
 Lonoke,34 - Lonoke City W/1,City of Lonoke Mayor,,Dem,Wayne McGee,106,21,1,84,0,0
 Lonoke,35 - Lonoke City W/2,City of Lonoke Mayor,,Dem,Wayne McGee,69,14,0,55,0,0
 Lonoke,36 - Lonoke City W/3,City of Lonoke Mayor,,Dem,Wayne McGee,67,32,2,33,0,0
@@ -1469,18 +1469,18 @@ Lonoke,49 - Ward City W/3,City of Ward Mayor,,Ind,Charles Gastineau,221,54,2,165
 Lonoke,47 - Ward City W/1,City of Ward Mayor,,Ind,Randy Staley,137,31,5,101,0,0
 Lonoke,48 - Ward City W/2,City of Ward Mayor,,Ind,Randy Staley,123,30,1,91,0,1
 Lonoke,49 - Ward City W/3,City of Ward Mayor,,Ind,Randy Staley,135,36,2,97,0,0
-Lonoke,47 - Ward City W/1,City of Ward Alderman Ward 2, Position 1,Ind,Gary R. Matheny,134,33,3,98,0,0
-Lonoke,48 - Ward City W/2,City of Ward Alderman Ward 2, Position 1,Ind,Gary R. Matheny,154,40,0,113,0,1
-Lonoke,49 - Ward City W/3,City of Ward Alderman Ward 2, Position 1,Ind,Gary R. Matheny,209,50,4,155,0,0
-Lonoke,47 - Ward City W/1,City of Ward Alderman Ward 2, Position 1,Ind,Chasity Scott,189,40,3,146,0,0
-Lonoke,48 - Ward City W/2,City of Ward Alderman Ward 2, Position 1,Ind,Chasity Scott,187,50,3,134,0,0
-Lonoke,49 - Ward City W/3,City of Ward Alderman Ward 2, Position 1,Ind,Chasity Scott,234,57,0,177,0,0
-Lonoke,47 - Ward City W/1,City of Ward Alderman Ward 2, Position 2,Ind,Robin Hefner,176,41,0,135,0,0
-Lonoke,48 - Ward City W/2,City of Ward Alderman Ward 2, Position 2,Ind,Robin Hefner,179,45,3,131,0,0
-Lonoke,49 - Ward City W/3,City of Ward Alderman Ward 2, Position 2,Ind,Robin Hefner,248,54,1,193,0,0
-Lonoke,47 - Ward City W/1,City of Ward Alderman Ward 2, Position 2,Ind,Jeffrey A. Shaver,148,32,6,110,0,0
-Lonoke,48 - Ward City W/2,City of Ward Alderman Ward 2, Position 2,Ind,Jeffrey A. Shaver,161,45,0,115,0,1
-Lonoke,49 - Ward City W/3,City of Ward Alderman Ward 2, Position 2,Ind,Jeffrey A. Shaver,195,54,3,138,0,0
+Lonoke,47 - Ward City W/1,City of Ward Alderman Ward 2,Position 1,Ind,Gary R. Matheny,134,33,3,98,0,0
+Lonoke,48 - Ward City W/2,City of Ward Alderman Ward 2,Position 1,Ind,Gary R. Matheny,154,40,0,113,0,1
+Lonoke,49 - Ward City W/3,City of Ward Alderman Ward 2,Position 1,Ind,Gary R. Matheny,209,50,4,155,0,0
+Lonoke,47 - Ward City W/1,City of Ward Alderman Ward 2,Position 1,Ind,Chasity Scott,189,40,3,146,0,0
+Lonoke,48 - Ward City W/2,City of Ward Alderman Ward 2,Position 1,Ind,Chasity Scott,187,50,3,134,0,0
+Lonoke,49 - Ward City W/3,City of Ward Alderman Ward 2,Position 1,Ind,Chasity Scott,234,57,0,177,0,0
+Lonoke,47 - Ward City W/1,City of Ward Alderman Ward 2,Position 2,Ind,Robin Hefner,176,41,0,135,0,0
+Lonoke,48 - Ward City W/2,City of Ward Alderman Ward 2,Position 2,Ind,Robin Hefner,179,45,3,131,0,0
+Lonoke,49 - Ward City W/3,City of Ward Alderman Ward 2,Position 2,Ind,Robin Hefner,248,54,1,193,0,0
+Lonoke,47 - Ward City W/1,City of Ward Alderman Ward 2,Position 2,Ind,Jeffrey A. Shaver,148,32,6,110,0,0
+Lonoke,48 - Ward City W/2,City of Ward Alderman Ward 2,Position 2,Ind,Jeffrey A. Shaver,161,45,0,115,0,1
+Lonoke,49 - Ward City W/3,City of Ward Alderman Ward 2,Position 2,Ind,Jeffrey A. Shaver,195,54,3,138,0,0
 Lonoke,17 - England City Ward 1,City of England Mayor,,Dem,David (Butch) House,204,65,0,139,0,0
 Lonoke,18 - England City Ward 2,City of England Mayor,,Dem,David (Butch) House,133,38,0,95,0,0
 Lonoke,19- England City Ward 3,City of England Mayor,,Dem,David (Butch) House,138,61,0,77,0,0
@@ -1599,116 +1599,116 @@ Lonoke,53 - Lonoke City W/5,Issue No. 2: A Constitutional Amendment Adding as a 
 Lonoke,54 - Lonoke City W/6,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,AGAINST,31,11,2,18,0,0
 Lonoke,55 - Lonoke City W/7,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,AGAINST,41,8,3,30,0,0
 Lonoke,56 - Lonoke City W/8,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,Non,AGAINST,54,6,0,48,0,0
-Lonoke,01- Allport City,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,41,25,0,16,0,0
-Lonoke,02 - Caroline Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,372,102,1,269,0,0
-Lonoke,03 - Austin City,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,520,169,3,347,0,1
-Lonoke,04 - Butler Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,410,167,3,240,0,0
-Lonoke,05 - Cabot City W/1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,759,200,12,547,0,0
-Lonoke,06 - Cabot City W/2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,1408,321,10,1077,0,0
-Lonoke,07 - Cabot City W/3,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,1092,257,8,827,0,0
-Lonoke,08 - Cabot City W/4,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,778,216,10,552,0,0
-Lonoke,09 - York Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,241,58,3,180,0,0
-Lonoke,10 - Carlisle City Ward 1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,163,69,2,92,0,0
-Lonoke,11 -Carlisle City Ward 2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,79,20,1,58,0,0
-Lonoke,12 - Carlisle City Ward 3,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,92,35,0,57,0,0
-Lonoke,13 - Carlisle Twp.,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,63,24,2,37,0,0
-Lonoke,14 - Cleveland Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,50,21,1,28,0,0
-Lonoke,15 - Dortch Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,23,16,1,6,0,0
-Lonoke,16 - Eagle Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,338,117,8,212,0,1
-Lonoke,17 - England City Ward 1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,128,53,0,75,0,0
-Lonoke,18 - England City Ward 2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,99,39,0,60,0,0
-Lonoke,19- England City Ward 3,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,132,68,0,64,0,0
-Lonoke,20 - England City Ward 4,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,65,23,0,42,0,0
-Lonoke,21 - Fletcher Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,18,7,0,11,0,0
-Lonoke,22 - Furlow Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,180,60,4,116,0,0
-Lonoke,23 - Goodrum Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,494,151,1,342,0,0
-Lonoke,24 - Gray Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,512,266,0,246,0,0
-Lonoke,25 - Gumwood Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,47,21,0,26,0,0
-Lonoke,26 - Hamilton Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,12,8,0,4,0,0
-Lonoke,27 - Crooked Creek Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,25,12,0,13,0,0
-Lonoke,28 - Humnoke City,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,47,23,0,24,0,0
-Lonoke,29 - Indian Bayou Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,26,14,0,12,0,0
-Lonoke,30 - Coy City,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,10,7,0,3,0,0
-Lonoke,31 - Isbell Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,17,7,0,10,0,0
-Lonoke,32 - Lafayette Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,3,2,0,1,0,0
-Lonoke,33 - Keo City,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,57,41,0,16,0,0
-Lonoke,34 - Lonoke City W/1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,129,28,1,100,0,0
-Lonoke,35 - Lonoke City W/2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,71,16,0,55,0,0
-Lonoke,36 - Lonoke City W/3,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,99,41,4,54,0,0
-Lonoke,37 - Lonoke City W/4,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,132,31,2,99,0,0
-Lonoke,38 - Lonoke Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,158,45,0,113,0,0
-Lonoke,39 - Magness Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,387,136,4,247,0,0
-Lonoke,40 - Oak Grove Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,701,243,8,450,0,0
-Lonoke,41 - Pettus Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,23,15,0,8,0,0
-Lonoke,42 - Prairie Twp.,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,78,47,0,31,0,0
-Lonoke,43 - Pulaski Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,116,85,1,30,0,0
-Lonoke,44 - Richwood Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,21,11,0,10,0,0
-Lonoke,45 - Totten Twp.,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,50,16,0,34,0,0
-Lonoke,46 - Walls Twp.,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,10,5,0,5,0,0
-Lonoke,47 - Ward City W/1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,220,59,4,157,0,0
-Lonoke,48 - Ward City W/2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,235,63,1,170,0,1
-Lonoke,49 - Ward City W/3,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,328,86,1,241,0,0
-Lonoke,50 - Ward Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,205,44,1,160,0,0
-Lonoke,51 - Williams Twp.,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,126,60,2,64,0,0
-Lonoke,53 - Lonoke City W/5,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,115,25,3,87,0,0
-Lonoke,54 - Lonoke City W/6,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,93,31,1,61,0,0
-Lonoke,55 - Lonoke City W/7,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,117,25,2,90,0,0
-Lonoke,56 - Lonoke City W/8,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,FOR,140,29,0,111,0,0
-Lonoke,01- Allport City,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,10,1,0,9,0,0
-Lonoke,02 - Caroline Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,300,81,1,218,0,0
-Lonoke,03 - Austin City,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,280,83,2,195,0,0
-Lonoke,04 - Butler Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,329,112,5,211,0,1
-Lonoke,05 - Cabot City W/1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,502,121,6,375,0,0
-Lonoke,06 - Cabot City W/2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,1010,202,10,798,0,0
-Lonoke,07 - Cabot City W/3,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,796,142,4,650,0,0
-Lonoke,08 - Cabot City W/4,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,576,146,5,424,0,1
-Lonoke,09 - York Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,252,67,5,180,0,0
-Lonoke,10 - Carlisle City Ward 1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,152,37,0,115,0,0
-Lonoke,11 -Carlisle City Ward 2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,69,20,0,49,0,0
-Lonoke,12 - Carlisle City Ward 3,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,74,20,0,54,0,0
-Lonoke,13 - Carlisle Twp.,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,54,25,0,29,0,0
-Lonoke,14 - Cleveland Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,24,2,0,22,0,0
-Lonoke,15 - Dortch Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,37,18,5,14,0,0
-Lonoke,16 - Eagle Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,269,86,6,177,0,0
-Lonoke,17 - England City Ward 1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,126,40,0,86,0,0
-Lonoke,18 - England City Ward 2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,70,15,0,55,0,0
-Lonoke,19- England City Ward 3,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,45,24,0,21,0,0
-Lonoke,20 - England City Ward 4,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,39,11,0,28,0,0
-Lonoke,21 - Fletcher Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,28,13,0,15,0,0
-Lonoke,22 - Furlow Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,106,38,1,67,0,0
-Lonoke,23 - Goodrum Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,391,107,10,274,0,0
-Lonoke,24 - Gray Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,377,187,1,189,0,0
-Lonoke,25 - Gumwood Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,33,10,0,23,0,0
-Lonoke,26 - Hamilton Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,21,11,1,9,0,0
-Lonoke,27 - Crooked Creek Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,52,13,6,33,0,0
-Lonoke,28 - Humnoke City,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,59,17,1,41,0,0
-Lonoke,29 - Indian Bayou Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,13,8,0,5,0,0
-Lonoke,30 - Coy City,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,13,10,0,3,0,0
-Lonoke,31 - Isbell Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,22,15,0,7,0,0
-Lonoke,32 - Lafayette Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,5,2,0,3,0,0
-Lonoke,33 - Keo City,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,52,41,1,10,0,0
-Lonoke,34 - Lonoke City W/1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,96,19,2,75,0,0
-Lonoke,35 - Lonoke City W/2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,74,13,1,60,0,0
-Lonoke,36 - Lonoke City W/3,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,51,12,1,38,0,0
-Lonoke,37 - Lonoke City W/4,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,61,15,1,45,0,0
-Lonoke,38 - Lonoke Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,140,36,1,103,0,0
-Lonoke,39 - Magness Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,274,82,2,190,0,0
-Lonoke,40 - Oak Grove Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,628,177,6,445,0,0
-Lonoke,41 - Pettus Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,13,6,0,7,0,0
-Lonoke,42 - Prairie Twp.,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,72,34,0,38,0,0
-Lonoke,43 - Pulaski Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,41,31,0,10,0,0
-Lonoke,44 - Richwood Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,9,3,0,6,0,0
-Lonoke,45 - Totten Twp.,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,54,23,0,31,0,0
-Lonoke,46 - Walls Twp.,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,8,8,0,0,0,0
-Lonoke,47 - Ward City W/1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,114,17,2,95,0,0
-Lonoke,48 - Ward City W/2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,109,27,2,80,0,0
-Lonoke,49 - Ward City W/3,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,141,29,3,109,0,0
-Lonoke,50 - Ward Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,172,35,4,133,0,0
-Lonoke,51 - Williams Twp.,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,94,47,5,42,0,0
-Lonoke,53 - Lonoke City W/5,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,42,9,0,33,0,0
-Lonoke,54 - Lonoke City W/6,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,38,6,1,31,0,0
-Lonoke,55 - Lonoke City W/7,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,75,20,1,54,0,0
-Lonoke,56 - Lonoke City W/8,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,97,15,0,82,0,0
+Lonoke,01- Allport City,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,41,25,0,16,0,0
+Lonoke,02 - Caroline Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,372,102,1,269,0,0
+Lonoke,03 - Austin City,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,520,169,3,347,0,1
+Lonoke,04 - Butler Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,410,167,3,240,0,0
+Lonoke,05 - Cabot City W/1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,759,200,12,547,0,0
+Lonoke,06 - Cabot City W/2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,1408,321,10,1077,0,0
+Lonoke,07 - Cabot City W/3,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,1092,257,8,827,0,0
+Lonoke,08 - Cabot City W/4,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,778,216,10,552,0,0
+Lonoke,09 - York Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,241,58,3,180,0,0
+Lonoke,10 - Carlisle City Ward 1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,163,69,2,92,0,0
+Lonoke,11 -Carlisle City Ward 2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,79,20,1,58,0,0
+Lonoke,12 - Carlisle City Ward 3,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,92,35,0,57,0,0
+Lonoke,13 - Carlisle Twp.,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,63,24,2,37,0,0
+Lonoke,14 - Cleveland Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,50,21,1,28,0,0
+Lonoke,15 - Dortch Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,23,16,1,6,0,0
+Lonoke,16 - Eagle Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,338,117,8,212,0,1
+Lonoke,17 - England City Ward 1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,128,53,0,75,0,0
+Lonoke,18 - England City Ward 2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,99,39,0,60,0,0
+Lonoke,19- England City Ward 3,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,132,68,0,64,0,0
+Lonoke,20 - England City Ward 4,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,65,23,0,42,0,0
+Lonoke,21 - Fletcher Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,18,7,0,11,0,0
+Lonoke,22 - Furlow Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,180,60,4,116,0,0
+Lonoke,23 - Goodrum Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,494,151,1,342,0,0
+Lonoke,24 - Gray Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,512,266,0,246,0,0
+Lonoke,25 - Gumwood Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,47,21,0,26,0,0
+Lonoke,26 - Hamilton Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,12,8,0,4,0,0
+Lonoke,27 - Crooked Creek Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,25,12,0,13,0,0
+Lonoke,28 - Humnoke City,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,47,23,0,24,0,0
+Lonoke,29 - Indian Bayou Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,26,14,0,12,0,0
+Lonoke,30 - Coy City,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,10,7,0,3,0,0
+Lonoke,31 - Isbell Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,17,7,0,10,0,0
+Lonoke,32 - Lafayette Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,3,2,0,1,0,0
+Lonoke,33 - Keo City,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,57,41,0,16,0,0
+Lonoke,34 - Lonoke City W/1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,129,28,1,100,0,0
+Lonoke,35 - Lonoke City W/2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,71,16,0,55,0,0
+Lonoke,36 - Lonoke City W/3,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,99,41,4,54,0,0
+Lonoke,37 - Lonoke City W/4,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,132,31,2,99,0,0
+Lonoke,38 - Lonoke Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,158,45,0,113,0,0
+Lonoke,39 - Magness Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,387,136,4,247,0,0
+Lonoke,40 - Oak Grove Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,701,243,8,450,0,0
+Lonoke,41 - Pettus Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,23,15,0,8,0,0
+Lonoke,42 - Prairie Twp.,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,78,47,0,31,0,0
+Lonoke,43 - Pulaski Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,116,85,1,30,0,0
+Lonoke,44 - Richwood Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,21,11,0,10,0,0
+Lonoke,45 - Totten Twp.,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,50,16,0,34,0,0
+Lonoke,46 - Walls Twp.,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,10,5,0,5,0,0
+Lonoke,47 - Ward City W/1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,220,59,4,157,0,0
+Lonoke,48 - Ward City W/2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,235,63,1,170,0,1
+Lonoke,49 - Ward City W/3,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,328,86,1,241,0,0
+Lonoke,50 - Ward Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,205,44,1,160,0,0
+Lonoke,51 - Williams Twp.,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,126,60,2,64,0,0
+Lonoke,53 - Lonoke City W/5,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,115,25,3,87,0,0
+Lonoke,54 - Lonoke City W/6,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,93,31,1,61,0,0
+Lonoke,55 - Lonoke City W/7,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,117,25,2,90,0,0
+Lonoke,56 - Lonoke City W/8,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,FOR,140,29,0,111,0,0
+Lonoke,01- Allport City,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,10,1,0,9,0,0
+Lonoke,02 - Caroline Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,300,81,1,218,0,0
+Lonoke,03 - Austin City,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,280,83,2,195,0,0
+Lonoke,04 - Butler Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,329,112,5,211,0,1
+Lonoke,05 - Cabot City W/1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,502,121,6,375,0,0
+Lonoke,06 - Cabot City W/2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,1010,202,10,798,0,0
+Lonoke,07 - Cabot City W/3,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,796,142,4,650,0,0
+Lonoke,08 - Cabot City W/4,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,576,146,5,424,0,1
+Lonoke,09 - York Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,252,67,5,180,0,0
+Lonoke,10 - Carlisle City Ward 1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,152,37,0,115,0,0
+Lonoke,11 -Carlisle City Ward 2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,69,20,0,49,0,0
+Lonoke,12 - Carlisle City Ward 3,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,74,20,0,54,0,0
+Lonoke,13 - Carlisle Twp.,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,54,25,0,29,0,0
+Lonoke,14 - Cleveland Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,24,2,0,22,0,0
+Lonoke,15 - Dortch Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,37,18,5,14,0,0
+Lonoke,16 - Eagle Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,269,86,6,177,0,0
+Lonoke,17 - England City Ward 1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,126,40,0,86,0,0
+Lonoke,18 - England City Ward 2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,70,15,0,55,0,0
+Lonoke,19- England City Ward 3,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,45,24,0,21,0,0
+Lonoke,20 - England City Ward 4,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,39,11,0,28,0,0
+Lonoke,21 - Fletcher Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,28,13,0,15,0,0
+Lonoke,22 - Furlow Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,106,38,1,67,0,0
+Lonoke,23 - Goodrum Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,391,107,10,274,0,0
+Lonoke,24 - Gray Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,377,187,1,189,0,0
+Lonoke,25 - Gumwood Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,33,10,0,23,0,0
+Lonoke,26 - Hamilton Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,21,11,1,9,0,0
+Lonoke,27 - Crooked Creek Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,52,13,6,33,0,0
+Lonoke,28 - Humnoke City,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,59,17,1,41,0,0
+Lonoke,29 - Indian Bayou Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,13,8,0,5,0,0
+Lonoke,30 - Coy City,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,13,10,0,3,0,0
+Lonoke,31 - Isbell Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,22,15,0,7,0,0
+Lonoke,32 - Lafayette Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,5,2,0,3,0,0
+Lonoke,33 - Keo City,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,52,41,1,10,0,0
+Lonoke,34 - Lonoke City W/1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,96,19,2,75,0,0
+Lonoke,35 - Lonoke City W/2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,74,13,1,60,0,0
+Lonoke,36 - Lonoke City W/3,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,51,12,1,38,0,0
+Lonoke,37 - Lonoke City W/4,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,61,15,1,45,0,0
+Lonoke,38 - Lonoke Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,140,36,1,103,0,0
+Lonoke,39 - Magness Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,274,82,2,190,0,0
+Lonoke,40 - Oak Grove Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,628,177,6,445,0,0
+Lonoke,41 - Pettus Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,13,6,0,7,0,0
+Lonoke,42 - Prairie Twp.,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,72,34,0,38,0,0
+Lonoke,43 - Pulaski Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,41,31,0,10,0,0
+Lonoke,44 - Richwood Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,9,3,0,6,0,0
+Lonoke,45 - Totten Twp.,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,54,23,0,31,0,0
+Lonoke,46 - Walls Twp.,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,8,8,0,0,0,0
+Lonoke,47 - Ward City W/1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,114,17,2,95,0,0
+Lonoke,48 - Ward City W/2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,109,27,2,80,0,0
+Lonoke,49 - Ward City W/3,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,141,29,3,109,0,0
+Lonoke,50 - Ward Twp,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,172,35,4,133,0,0
+Lonoke,51 - Williams Twp.,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,94,47,5,42,0,0
+Lonoke,53 - Lonoke City W/5,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,42,9,0,33,0,0
+Lonoke,54 - Lonoke City W/6,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,38,6,1,31,0,0
+Lonoke,55 - Lonoke City W/7,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,75,20,1,54,0,0
+Lonoke,56 - Lonoke City W/8,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),Non,AGAINST,97,15,0,82,0,0
 Lonoke,01- Allport City,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,FOR,47,25,0,22,0,0
 Lonoke,02 - Caroline Twp,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,FOR,371,91,2,278,0,0
 Lonoke,03 - Austin City,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,Non,FOR,455,143,3,308,0,1

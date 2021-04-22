@@ -947,22 +947,22 @@ Yell,Danville,Belleville Mayor Belleville,,DEM,Boyce Page,1,0,1,0,0
 Yell,Ferguson,Belleville Mayor Belleville,,DEM,Boyce Page,41,27,14,0,0
 Yell,Danville,Belleville Mayor Belleville,,IND,Steven Baxter,2,0,2,0,0
 Yell,Ferguson,Belleville Mayor Belleville,,IND,Steven Baxter,77,54,22,1,0
-Yell,Danville,Belleville Alderman, W1,IND,Stacy Gillespie,3,0,3,0,0
-Yell,Ferguson,Belleville Alderman, W1,IND,Stacy Gillespie,51,39,12,0,0
-Yell,Danville,Belleville Alderman, W1,IND,Krista Tate,0,0,0,0,0
-Yell,Ferguson,Belleville Alderman, W1,IND,Krista Tate,66,42,23,1,0
-Yell,Danville,Belleville Alderman, W 1,IND,David D Taylor,2,0,2,0,0
-Yell,Ferguson,Belleville Alderman, W 1,IND,David D Taylor,32,26,6,0,0
-Yell,Danville,Belleville Alderman, W 1,IND,Bradley Bland,1,0,1,0,0
-Yell,Ferguson,Belleville Alderman, W 1,IND,Bradley Bland,84,53,30,1,0
-Yell,Danville,Belleville Alderman, W 2,IND,Billy Alvey,3,0,3,0,0
-Yell,Ferguson,Belleville Alderman, W 2,IND,Billy Alvey,71,49,22,0,0
-Yell,Danville,Belleville Alderman, W 2,IND,Bill Lipe,0,0,0,0,0
-Yell,Ferguson,Belleville Alderman, W 2,IND,Bill Lipe,46,32,13,1,0
-Yell,Danville,Belleville Alderman, W 2,IND,Chris Carson,2,0,2,0,0
-Yell,Ferguson,Belleville Alderman, W 2,IND,Chris Carson,65,45,19,1,0
-Yell,Danville,Belleville Alderman, W 2,IND,Jesus (Jessie) Flores,1,0,1,0,0
-Yell,Ferguson,Belleville Alderman, W 2,IND,Jesus (Jessie) Flores,53,36,17,0,0
+Yell,Danville,Belleville Alderman,W1,IND,Stacy Gillespie,3,0,3,0,0
+Yell,Ferguson,Belleville Alderman,W1,IND,Stacy Gillespie,51,39,12,0,0
+Yell,Danville,Belleville Alderman,W1,IND,Krista Tate,0,0,0,0,0
+Yell,Ferguson,Belleville Alderman,W1,IND,Krista Tate,66,42,23,1,0
+Yell,Danville,Belleville Alderman,W 1,IND,David D Taylor,2,0,2,0,0
+Yell,Ferguson,Belleville Alderman,W 1,IND,David D Taylor,32,26,6,0,0
+Yell,Danville,Belleville Alderman,W 1,IND,Bradley Bland,1,0,1,0,0
+Yell,Ferguson,Belleville Alderman,W 1,IND,Bradley Bland,84,53,30,1,0
+Yell,Danville,Belleville Alderman,W 2,IND,Billy Alvey,3,0,3,0,0
+Yell,Ferguson,Belleville Alderman,W 2,IND,Billy Alvey,71,49,22,0,0
+Yell,Danville,Belleville Alderman,W 2,IND,Bill Lipe,0,0,0,0,0
+Yell,Ferguson,Belleville Alderman,W 2,IND,Bill Lipe,46,32,13,1,0
+Yell,Danville,Belleville Alderman,W 2,IND,Chris Carson,2,0,2,0,0
+Yell,Ferguson,Belleville Alderman,W 2,IND,Chris Carson,65,45,19,1,0
+Yell,Danville,Belleville Alderman,W 2,IND,Jesus (Jessie) Flores,1,0,1,0,0
+Yell,Ferguson,Belleville Alderman,W 2,IND,Jesus (Jessie) Flores,53,36,17,0,0
 Yell,Danville,Corinth Mayor Corinth,,DEM,Jim W Pickens,10,5,5,0,0
 Yell,Danville,Danville Mayor Danville,,IND,Phillip W Moudy,294,127,154,8,5
 Yell,Dardanelle Outside,Dardanelle Mayor Dardanelle,,IND,Jimmy L Witt,0,0,0,0,0
@@ -980,8 +980,8 @@ Yell,Dardanelle Ward 3,Dardanelle Mayor Dardanelle,,IND,Tony Lamb,12,5,5,1,1
 Yell,Riley,Havana Mayor Havana,,IND,Mary Countryman,29,26,2,0,1
 Yell,Riley,Havana Mayor Havana,,IND,Rick Bryant,45,34,10,1,0
 Yell,Ward,Ola Mayor Ola,,IND,Jeff Black,178,128,44,5,1
-Yell,Ward,Ola Alderman, W 2,DEM,Jimmy Pitts,82,58,22,1,1
-Yell,Ward,Ola Alderman, W 2,IND,"Cynthia ""Cindy"" Raney",104,74,26,4,0
+Yell,Ward,Ola Alderman,W 2,DEM,Jimmy Pitts,82,58,22,1,1
+Yell,Ward,Ola Alderman,W 2,IND,"Cynthia ""Cindy"" Raney",104,74,26,4,0
 Yell,Lamar,Plainview Mayor Plainview,,DEM,Doug Forrest,146,114,30,1,1
 Yell,Bluffton,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,48,40,8,0,0
 Yell,Briggsville,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,FOR,39,30,9,0,0
@@ -1039,62 +1039,62 @@ Yell,Riley,Issue No. 2: A Constitutional Amendment Adding as a Qualification to 
 Yell,Rover,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,20,20,0,0,0
 Yell,Ward,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,40,32,7,0,1
 Yell,Ions Creek,Issue No. 2: A Constitutional Amendment Adding as a Qualification to Vote that a Voter Present Certain Valid Photographic Identification When Casting a Ballot In Person or Casting and Absentee Ballot,,NON,AGAINST,1,1,0,0,0
-Yell,Bluffton,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,35,27,8,0,0
-Yell,Briggsville,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,30,24,6,0,0
-Yell,Centerville,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,98,91,7,0,0
-Yell,Compton,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,16,13,3,0,0
-Yell,Crawford,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,52,8,44,0,0
-Yell,Danville,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,242,109,126,6,1
-Yell,Dardanelle Outside,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,544,162,377,5,0
-Yell,Dardanelle Ward 1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,222,77,138,6,1
-Yell,Dardanelle Ward 2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,122,46,71,5,0
-Yell,Dardanelle Ward 3,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,102,22,66,13,1
-Yell,Dutch Creek,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,15,5,10,0,0
-Yell,Ferguson,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,143,85,58,0,0
-Yell,Galla Rock,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,32,21,11,0,0
-Yell,Gilkey,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,28,21,6,1,0
-Yell,Gravelly,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,25,17,8,0,0
-Yell,Herring,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,28,9,19,0,0
-Yell,Lamar,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,170,121,42,7,0
-Yell,Magazine 1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,147,53,92,1,1
-Yell,Magazine 2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,35,27,7,1,0
-Yell,Mason,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,40,31,9,0,0
-Yell,Mountain,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,23,7,16,0,0
-Yell,Prairie,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,98,35,62,1,0
-Yell,Richland,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,49,25,23,1,0
-Yell,Waveland,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,56,27,29,0,0
-Yell,Riley,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,101,88,13,0,0
-Yell,Rover,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,58,51,7,0,0
-Yell,Ward,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,183,127,53,3,0
-Yell,Ions Creek,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,FOR,8,5,3,0,0
-Yell,Bluffton,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,22,18,4,0,0
-Yell,Briggsville,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,16,10,6,0,0
-Yell,Centerville,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,88,72,14,0,2
-Yell,Compton,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,11,5,5,1,0
-Yell,Crawford,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,63,8,55,0,0
-Yell,Danville,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,191,77,106,4,4
-Yell,Dardanelle Outside,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,561,165,394,2,0
-Yell,Dardanelle Ward 1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,222,71,149,2,0
-Yell,Dardanelle Ward 2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,104,27,74,3,0
-Yell,Dardanelle Ward 3,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,62,22,35,4,1
-Yell,Dutch Creek,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,8,6,2,0,0
-Yell,Ferguson,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,203,117,82,4,0
-Yell,Galla Rock,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,41,19,22,0,0
-Yell,Gilkey,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,22,9,13,0,0
-Yell,Gravelly,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,34,23,11,0,0
-Yell,Herring,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,31,12,19,0,0
-Yell,Lamar,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,116,87,25,1,3
-Yell,Magazine 1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,184,61,121,1,1
-Yell,Magazine 2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,28,26,1,1,0
-Yell,Mason,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,55,43,12,0,0
-Yell,Mountain,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,33,9,24,0,0
-Yell,Prairie,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,144,53,90,1,0
-Yell,Richland,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,36,16,20,0,0
-Yell,Waveland,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,41,27,13,1,0
-Yell,Riley,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,109,83,25,1,0
-Yell,Rover,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,37,32,4,0,1
-Yell,Ward,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,130,91,34,3,2
-Yell,Ions Creek,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos, One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,8,4,4,0,0
+Yell,Bluffton,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,FOR,35,27,8,0,0
+Yell,Briggsville,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,FOR,30,24,6,0,0
+Yell,Centerville,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,FOR,98,91,7,0,0
+Yell,Compton,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,FOR,16,13,3,0,0
+Yell,Crawford,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,FOR,52,8,44,0,0
+Yell,Danville,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,FOR,242,109,126,6,1
+Yell,Dardanelle Outside,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,FOR,544,162,377,5,0
+Yell,Dardanelle Ward 1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,FOR,222,77,138,6,1
+Yell,Dardanelle Ward 2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,FOR,122,46,71,5,0
+Yell,Dardanelle Ward 3,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,FOR,102,22,66,13,1
+Yell,Dutch Creek,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,FOR,15,5,10,0,0
+Yell,Ferguson,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,FOR,143,85,58,0,0
+Yell,Galla Rock,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,FOR,32,21,11,0,0
+Yell,Gilkey,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,FOR,28,21,6,1,0
+Yell,Gravelly,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,FOR,25,17,8,0,0
+Yell,Herring,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,FOR,28,9,19,0,0
+Yell,Lamar,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,FOR,170,121,42,7,0
+Yell,Magazine 1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,FOR,147,53,92,1,1
+Yell,Magazine 2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,FOR,35,27,7,1,0
+Yell,Mason,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,FOR,40,31,9,0,0
+Yell,Mountain,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,FOR,23,7,16,0,0
+Yell,Prairie,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,FOR,98,35,62,1,0
+Yell,Richland,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,FOR,49,25,23,1,0
+Yell,Waveland,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,FOR,56,27,29,0,0
+Yell,Riley,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,FOR,101,88,13,0,0
+Yell,Rover,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,FOR,58,51,7,0,0
+Yell,Ward,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,FOR,183,127,53,3,0
+Yell,Ions Creek,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,FOR,8,5,3,0,0
+Yell,Bluffton,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,22,18,4,0,0
+Yell,Briggsville,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,16,10,6,0,0
+Yell,Centerville,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,88,72,14,0,2
+Yell,Compton,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,11,5,5,1,0
+Yell,Crawford,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,63,8,55,0,0
+Yell,Danville,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,191,77,106,4,4
+Yell,Dardanelle Outside,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,561,165,394,2,0
+Yell,Dardanelle Ward 1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,222,71,149,2,0
+Yell,Dardanelle Ward 2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,104,27,74,3,0
+Yell,Dardanelle Ward 3,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,62,22,35,4,1
+Yell,Dutch Creek,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,8,6,2,0,0
+Yell,Ferguson,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,203,117,82,4,0
+Yell,Galla Rock,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,41,19,22,0,0
+Yell,Gilkey,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,22,9,13,0,0
+Yell,Gravelly,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,34,23,11,0,0
+Yell,Herring,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,31,12,19,0,0
+Yell,Lamar,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,116,87,25,1,3
+Yell,Magazine 1,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,184,61,121,1,1
+Yell,Magazine 2,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,28,26,1,1,0
+Yell,Mason,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,55,43,12,0,0
+Yell,Mountain,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,33,9,24,0,0
+Yell,Prairie,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,144,53,90,1,0
+Yell,Richland,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,36,16,20,0,0
+Yell,Waveland,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,41,27,13,1,0
+Yell,Riley,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,109,83,25,1,0
+Yell,Rover,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,37,32,4,0,1
+Yell,Ward,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,130,91,34,3,2
+Yell,Ions Creek,Issue No. 4: An Amendment to Require Four Licenses to be Issued for Casino Gaming at Casinos,One Each in Crittenden (to Southland Racing Corporation),NON,AGAINST,8,4,4,0,0
 Yell,Bluffton,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,37,31,6,0,0
 Yell,Briggsville,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,35,24,11,0,0
 Yell,Centerville,Issue No. 5: An Act to Increase the Arkansas Minimum Wage,,NON,FOR,117,102,14,0,1
