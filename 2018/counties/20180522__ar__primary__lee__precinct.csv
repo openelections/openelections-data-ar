@@ -116,16 +116,16 @@ Lee,JP06,CIRCUIT CLERK,,,Circuit Clerk Mary Ann Wilkinson,112
 Lee,JP07,CIRCUIT CLERK,,,Circuit Clerk Mary Ann Wilkinson,133
 Lee,JP08,CIRCUIT CLERK,,,Circuit Clerk Mary Ann Wilkinson,73
 Lee,JP09,CIRCUIT CLERK,,,Circuit Clerk Mary Ann Wilkinson,43
-Lee,JP01,JP, PRECINCT 1,,JN Bickerstaff,212
-Lee,JP01,JP, PRECINCT 1,,Lonibeth Schwede Vondran,57
-Lee,JP02,JP, PRECINCT 2,,Junious Pruett,56
-Lee,JP02,JP, PRECINCT 2,,Victoria Perry,71
-Lee,JP02,JP, PRECINCT 2,,Matt Oxner,167
-Lee,JP01,CONSTABLE, PRECINCT 1,,Patrick Fowler,34
-Lee,JP01,CONSTABLE, PRECINCT 1,,J Harvey Shaw,67
-Lee,JP01,CONSTABLE, PRECINCT 1,,James Stacks,167
-Lee,JP02,CONSTABLE, PRECINCT 2,,Kyle Morris,101
-Lee,JP02,CONSTABLE, PRECINCT 2,,Charlie Thompson,168
+Lee,JP01,JP,PRECINCT 1,,JN Bickerstaff,212
+Lee,JP01,JP,PRECINCT 1,,Lonibeth Schwede Vondran,57
+Lee,JP02,JP,PRECINCT 2,,Junious Pruett,56
+Lee,JP02,JP,PRECINCT 2,,Victoria Perry,71
+Lee,JP02,JP,PRECINCT 2,,Matt Oxner,167
+Lee,JP01,CONSTABLE,PRECINCT 1,,Patrick Fowler,34
+Lee,JP01,CONSTABLE,PRECINCT 1,,J Harvey Shaw,67
+Lee,JP01,CONSTABLE,PRECINCT 1,,James Stacks,167
+Lee,JP02,CONSTABLE,PRECINCT 2,,Kyle Morris,101
+Lee,JP02,CONSTABLE,PRECINCT 2,,Charlie Thompson,168
 Lee,JP01,Governor,,REP,Governor Asa Hutchinson,4
 Lee,JP02,Governor,,REP,Governor Asa Hutchinson,0
 Lee,JP03,Governor,,REP,Governor Asa Hutchinson,3
@@ -162,33 +162,33 @@ Lee,JP06,Secretary of State,,REP,State Representative Trevor Drown,0
 Lee,JP07,Secretary of State,,REP,State Representative Trevor Drown,0
 Lee,JP08,Secretary of State,,REP,State Representative Trevor Drown,1
 Lee,JP09,Secretary of State,,REP,State Representative Trevor Drown,0
-Lee,JP01,State Supreme Court Associate Justice, Position 3,,David Sterling,49
-Lee,JP02,State Supreme Court Associate Justice, Position 3,,David Sterling,54
-Lee,JP03,State Supreme Court Associate Justice, Position 3,,David Sterling,65
-Lee,JP04,State Supreme Court Associate Justice, Position 3,,David Sterling,20
-Lee,JP05,State Supreme Court Associate Justice, Position 3,,David Sterling,35
-Lee,JP06,State Supreme Court Associate Justice, Position 3,,David Sterling,44
-Lee,JP07,State Supreme Court Associate Justice, Position 3,,David Sterling,46
-Lee,JP08,State Supreme Court Associate Justice, Position 3,,David Sterling,37
-Lee,JP09,State Supreme Court Associate Justice, Position 3,,David Sterling,25
-Lee,JP01,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,160
-Lee,JP02,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,160
-Lee,JP03,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,151
-Lee,JP04,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,123
-Lee,JP05,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,104
-Lee,JP06,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,154
-Lee,JP07,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,152
-Lee,JP08,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,98
-Lee,JP09,State Supreme Court Associate Justice, Position 3,,State Supreme Court Justice Courtney Goodson,76
-Lee,JP01,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,51
-Lee,JP02,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,49
-Lee,JP03,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,37
-Lee,JP04,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,43
-Lee,JP05,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,52
-Lee,JP06,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,54
-Lee,JP07,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,58
-Lee,JP08,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,51
-Lee,JP09,State Supreme Court Associate Justice, Position 3,,Judge Kenneth Hixson,24
+Lee,JP01,State Supreme Court Associate Justice,Position 3,,David Sterling,49
+Lee,JP02,State Supreme Court Associate Justice,Position 3,,David Sterling,54
+Lee,JP03,State Supreme Court Associate Justice,Position 3,,David Sterling,65
+Lee,JP04,State Supreme Court Associate Justice,Position 3,,David Sterling,20
+Lee,JP05,State Supreme Court Associate Justice,Position 3,,David Sterling,35
+Lee,JP06,State Supreme Court Associate Justice,Position 3,,David Sterling,44
+Lee,JP07,State Supreme Court Associate Justice,Position 3,,David Sterling,46
+Lee,JP08,State Supreme Court Associate Justice,Position 3,,David Sterling,37
+Lee,JP09,State Supreme Court Associate Justice,Position 3,,David Sterling,25
+Lee,JP01,State Supreme Court Associate Justice,Position 3,,State Supreme Court Justice Courtney Goodson,160
+Lee,JP02,State Supreme Court Associate Justice,Position 3,,State Supreme Court Justice Courtney Goodson,160
+Lee,JP03,State Supreme Court Associate Justice,Position 3,,State Supreme Court Justice Courtney Goodson,151
+Lee,JP04,State Supreme Court Associate Justice,Position 3,,State Supreme Court Justice Courtney Goodson,123
+Lee,JP05,State Supreme Court Associate Justice,Position 3,,State Supreme Court Justice Courtney Goodson,104
+Lee,JP06,State Supreme Court Associate Justice,Position 3,,State Supreme Court Justice Courtney Goodson,154
+Lee,JP07,State Supreme Court Associate Justice,Position 3,,State Supreme Court Justice Courtney Goodson,152
+Lee,JP08,State Supreme Court Associate Justice,Position 3,,State Supreme Court Justice Courtney Goodson,98
+Lee,JP09,State Supreme Court Associate Justice,Position 3,,State Supreme Court Justice Courtney Goodson,76
+Lee,JP01,State Supreme Court Associate Justice,Position 3,,Judge Kenneth Hixson,51
+Lee,JP02,State Supreme Court Associate Justice,Position 3,,Judge Kenneth Hixson,49
+Lee,JP03,State Supreme Court Associate Justice,Position 3,,Judge Kenneth Hixson,37
+Lee,JP04,State Supreme Court Associate Justice,Position 3,,Judge Kenneth Hixson,43
+Lee,JP05,State Supreme Court Associate Justice,Position 3,,Judge Kenneth Hixson,52
+Lee,JP06,State Supreme Court Associate Justice,Position 3,,Judge Kenneth Hixson,54
+Lee,JP07,State Supreme Court Associate Justice,Position 3,,Judge Kenneth Hixson,58
+Lee,JP08,State Supreme Court Associate Justice,Position 3,,Judge Kenneth Hixson,51
+Lee,JP09,State Supreme Court Associate Justice,Position 3,,Judge Kenneth Hixson,24
 Lee,JP01,Prosecuting Attorney,1,,Todd Murray,187
 Lee,JP02,Prosecuting Attorney,1,,Todd Murray,182
 Lee,JP03,Prosecuting Attorney,1,,Todd Murray,155
