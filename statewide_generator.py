@@ -2,10 +2,10 @@ import os
 import glob
 import csv
 
-year = '2020'
-election = '20200518'
+year = '2022'
+election = '20221108'
 path = election+'*precinct.csv'
-output_file = election+'__ar__primary__precinct.csv'
+output_file = election+'__ar__general__precinct.csv'
 
 def generate_headers(year, path):
     os.chdir(year)

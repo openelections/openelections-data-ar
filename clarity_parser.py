@@ -56,7 +56,7 @@ def download_county_files(url, filename):
     subs = j.get_subjurisdictions()
     for sub in subs:
         try:
-            r = requests.get(sub.report_url('xml'), stream=True)
+            r = requests.get(sub.report_url('xml'), stream=True, headers={"User-Agent": "Mozilla/5.0 (platform; rv:geckoversion) Gecko/geckotrail Firefox/firefoxversion"})
             z = zipfile.ZipFile(BytesIO(r.content))
             z.extractall()
             precinct_results(sub.name.replace(' ','_').lower(),filename)
@@ -104,11 +104,11 @@ def precinct_results(county_name, filename):
 
     vote_types = list(set(vote_types))
     print(vote_types)
-#    vote_types.remove('regVotersCounty')
+    vote_types.remove('regVotersCounty')
 #    vote_types.remove('underVotes')
     with open(f, "wt") as csvfile:
         w = csv.writer(csvfile)
-        headers = ['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes'] #+ [x.replace(' ','_').lower() for x in vote_types]
+        headers = ['county', 'precinct', 'office', 'district', 'party', 'candidate', 'votes'] + [x.replace(' ','_').lower() for x in vote_types]
         w.writerow(headers)
         for row in results:
             if 'Republican' in row['office']:
@@ -116,7 +116,7 @@ def precinct_results(county_name, filename):
             elif 'Democrat' in row['office']:
                 row['party'] = 'DEM'
             total_votes = sum([row[k] for k in vote_types if row[k]])
-            w.writerow([row['county'], row['precinct'], row['office'], row['district'], row['party'], row['candidate'], total_votes])# + [row[k] for k in vote_types])
+            w.writerow([row['county'], row['precinct'], row['office'], row['district'], row['party'], row['candidate'], total_votes] + [row[k] for k in vote_types])
 
 
 def parse_office(office_text):
