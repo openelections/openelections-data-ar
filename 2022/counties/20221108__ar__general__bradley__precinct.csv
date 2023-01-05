@@ -1,0 +1,531 @@
+county,precinct,office,district,party,candidate,votes,early_vote,absentee,election_day
+Bradley,Ward 1,U.S. Senate,,REP,Senator John Boozman,116,67,1,48
+Bradley,Ward 2,U.S. Senate,,REP,Senator John Boozman,253,131,8,114
+Bradley,Ward 3,U.S. Senate,,REP,Senator John Boozman,174,89,0,85
+Bradley,North,U.S. Senate,,REP,Senator John Boozman,424,245,6,173
+Bradley,South,U.S. Senate,,REP,Senator John Boozman,246,133,1,112
+Bradley,Banks City,U.S. Senate,,REP,Senator John Boozman,19,8,0,11
+Bradley,Banks Rural,U.S. Senate,,REP,Senator John Boozman,80,24,0,56
+Bradley,Springhill,U.S. Senate,,REP,Senator John Boozman,101,32,0,69
+Bradley,Hermitage City,U.S. Senate,,REP,Senator John Boozman,57,17,0,40
+Bradley,Hermitage Rural,U.S. Senate,,REP,Senator John Boozman,156,60,1,95
+Bradley,Eagle Lake,U.S. Senate,,REP,Senator John Boozman,42,10,0,32
+Bradley,Jersey,U.S. Senate,,REP,Senator John Boozman,46,9,1,36
+Bradley,Johnsville,U.S. Senate,,REP,Senator John Boozman,62,15,0,47
+Bradley,Marion,U.S. Senate,,REP,Senator John Boozman,48,14,0,34
+Bradley,Ward 1,U.S. Senate,,LIB,Kenneth Cates,12,7,0,5
+Bradley,Ward 2,U.S. Senate,,LIB,Kenneth Cates,10,7,0,3
+Bradley,Ward 3,U.S. Senate,,LIB,Kenneth Cates,11,9,1,1
+Bradley,North,U.S. Senate,,LIB,Kenneth Cates,9,5,0,4
+Bradley,South,U.S. Senate,,LIB,Kenneth Cates,5,2,0,3
+Bradley,Banks City,U.S. Senate,,LIB,Kenneth Cates,1,0,0,1
+Bradley,Banks Rural,U.S. Senate,,LIB,Kenneth Cates,3,1,0,2
+Bradley,Springhill,U.S. Senate,,LIB,Kenneth Cates,2,2,0,0
+Bradley,Hermitage City,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0
+Bradley,Hermitage Rural,U.S. Senate,,LIB,Kenneth Cates,3,0,0,3
+Bradley,Eagle Lake,U.S. Senate,,LIB,Kenneth Cates,5,0,0,5
+Bradley,Jersey,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0
+Bradley,Johnsville,U.S. Senate,,LIB,Kenneth Cates,1,1,0,0
+Bradley,Marion,U.S. Senate,,LIB,Kenneth Cates,1,1,0,0
+Bradley,Ward 1,U.S. Senate,,DEM,Natalie James,213,102,4,107
+Bradley,Ward 2,U.S. Senate,,DEM,Natalie James,123,67,4,52
+Bradley,Ward 3,U.S. Senate,,DEM,Natalie James,178,113,6,59
+Bradley,North,U.S. Senate,,DEM,Natalie James,51,38,2,11
+Bradley,South,U.S. Senate,,DEM,Natalie James,30,22,0,8
+Bradley,Banks City,U.S. Senate,,DEM,Natalie James,7,0,0,7
+Bradley,Banks Rural,U.S. Senate,,DEM,Natalie James,31,10,0,21
+Bradley,Springhill,U.S. Senate,,DEM,Natalie James,5,0,0,5
+Bradley,Hermitage City,U.S. Senate,,DEM,Natalie James,28,3,0,25
+Bradley,Hermitage Rural,U.S. Senate,,DEM,Natalie James,10,2,0,8
+Bradley,Eagle Lake,U.S. Senate,,DEM,Natalie James,9,0,0,9
+Bradley,Jersey,U.S. Senate,,DEM,Natalie James,19,5,0,14
+Bradley,Johnsville,U.S. Senate,,DEM,Natalie James,25,7,0,18
+Bradley,Marion,U.S. Senate,,DEM,Natalie James,1,0,0,1
+Bradley,Ward 1,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,111,60,1,50
+Bradley,Ward 2,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,262,135,9,118
+Bradley,Ward 3,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,159,82,2,75
+Bradley,North,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,415,239,6,170
+Bradley,South,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,245,130,1,114
+Bradley,Banks City,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,19,7,0,12
+Bradley,Banks Rural,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,85,23,0,62
+Bradley,Springhill,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,101,33,0,68
+Bradley,Hermitage City,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,54,16,0,38
+Bradley,Hermitage Rural,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,157,60,1,96
+Bradley,Eagle Lake,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,46,10,0,36
+Bradley,Jersey,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,44,9,1,34
+Bradley,Johnsville,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,61,16,0,45
+Bradley,Marion,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,48,14,0,34
+Bradley,Ward 1,U.S. Congress District 04,,DEM,John White,213,106,4,103
+Bradley,Ward 2,U.S. Congress District 04,,DEM,John White,107,58,3,46
+Bradley,Ward 3,U.S. Congress District 04,,DEM,John White,185,119,4,62
+Bradley,North,U.S. Congress District 04,,DEM,John White,48,36,2,10
+Bradley,South,U.S. Congress District 04,,DEM,John White,31,23,0,8
+Bradley,Banks City,U.S. Congress District 04,,DEM,John White,8,0,0,8
+Bradley,Banks Rural,U.S. Congress District 04,,DEM,John White,27,9,0,18
+Bradley,Springhill,U.S. Congress District 04,,DEM,John White,4,0,0,4
+Bradley,Hermitage City,U.S. Congress District 04,,DEM,John White,25,3,0,22
+Bradley,Hermitage Rural,U.S. Congress District 04,,DEM,John White,7,2,0,5
+Bradley,Eagle Lake,U.S. Congress District 04,,DEM,John White,8,0,0,8
+Bradley,Jersey,U.S. Congress District 04,,DEM,John White,19,5,0,14
+Bradley,Johnsville,U.S. Congress District 04,,DEM,John White,25,6,0,19
+Bradley,Marion,U.S. Congress District 04,,DEM,John White,1,0,0,1
+Bradley,Ward 1,U.S. Congress District 04,,LIB,Gregory Maxwell,10,6,0,4
+Bradley,Ward 2,U.S. Congress District 04,,LIB,Gregory Maxwell,10,7,0,3
+Bradley,Ward 3,U.S. Congress District 04,,LIB,Gregory Maxwell,13,7,1,5
+Bradley,North,U.S. Congress District 04,,LIB,Gregory Maxwell,6,3,0,3
+Bradley,South,U.S. Congress District 04,,LIB,Gregory Maxwell,2,1,0,1
+Bradley,Banks City,U.S. Congress District 04,,LIB,Gregory Maxwell,1,1,0,0
+Bradley,Banks Rural,U.S. Congress District 04,,LIB,Gregory Maxwell,3,2,0,1
+Bradley,Springhill,U.S. Congress District 04,,LIB,Gregory Maxwell,2,1,0,1
+Bradley,Hermitage City,U.S. Congress District 04,,LIB,Gregory Maxwell,3,0,0,3
+Bradley,Hermitage Rural,U.S. Congress District 04,,LIB,Gregory Maxwell,3,0,0,3
+Bradley,Eagle Lake,U.S. Congress District 04,,LIB,Gregory Maxwell,2,0,0,2
+Bradley,Jersey,U.S. Congress District 04,,LIB,Gregory Maxwell,0,0,0,0
+Bradley,Johnsville,U.S. Congress District 04,,LIB,Gregory Maxwell,2,1,0,1
+Bradley,Marion,U.S. Congress District 04,,LIB,Gregory Maxwell,1,1,0,0
+Bradley,Ward 1,Attorney General,,DEM,Jesse Gibson,227,114,5,108
+Bradley,Ward 2,Attorney General,,DEM,Jesse Gibson,129,69,3,57
+Bradley,Ward 3,Attorney General,,DEM,Jesse Gibson,191,121,6,64
+Bradley,North,Attorney General,,DEM,Jesse Gibson,48,33,2,13
+Bradley,South,Attorney General,,DEM,Jesse Gibson,30,21,0,9
+Bradley,Banks City,Attorney General,,DEM,Jesse Gibson,10,1,0,9
+Bradley,Banks Rural,Attorney General,,DEM,Jesse Gibson,33,11,0,22
+Bradley,Springhill,Attorney General,,DEM,Jesse Gibson,6,0,0,6
+Bradley,Hermitage City,Attorney General,,DEM,Jesse Gibson,33,4,0,29
+Bradley,Hermitage Rural,Attorney General,,DEM,Jesse Gibson,11,3,0,8
+Bradley,Eagle Lake,Attorney General,,DEM,Jesse Gibson,10,0,0,10
+Bradley,Jersey,Attorney General,,DEM,Jesse Gibson,18,5,0,13
+Bradley,Johnsville,Attorney General,,DEM,Jesse Gibson,28,8,0,20
+Bradley,Marion,Attorney General,,DEM,Jesse Gibson,2,0,0,2
+Bradley,Ward 1,Attorney General,,REP,Lieutenant Governor Tim Griffin,105,59,0,46
+Bradley,Ward 2,Attorney General,,REP,Lieutenant Governor Tim Griffin,251,132,9,110
+Bradley,Ward 3,Attorney General,,REP,Lieutenant Governor Tim Griffin,163,85,1,77
+Bradley,North,Attorney General,,REP,Lieutenant Governor Tim Griffin,429,247,6,176
+Bradley,South,Attorney General,,REP,Lieutenant Governor Tim Griffin,249,135,1,113
+Bradley,Banks City,Attorney General,,REP,Lieutenant Governor Tim Griffin,18,7,0,11
+Bradley,Banks Rural,Attorney General,,REP,Lieutenant Governor Tim Griffin,80,23,0,57
+Bradley,Springhill,Attorney General,,REP,Lieutenant Governor Tim Griffin,101,35,0,66
+Bradley,Hermitage City,Attorney General,,REP,Lieutenant Governor Tim Griffin,50,17,0,33
+Bradley,Hermitage Rural,Attorney General,,REP,Lieutenant Governor Tim Griffin,154,59,0,95
+Bradley,Eagle Lake,Attorney General,,REP,Lieutenant Governor Tim Griffin,45,10,0,35
+Bradley,Jersey,Attorney General,,REP,Lieutenant Governor Tim Griffin,43,9,1,33
+Bradley,Johnsville,Attorney General,,REP,Lieutenant Governor Tim Griffin,60,15,0,45
+Bradley,Marion,Attorney General,,REP,Lieutenant Governor Tim Griffin,46,14,0,32
+Bradley,Ward 1,Auditor of State,,LIB,Simeon Snow,9,4,0,5
+Bradley,Ward 2,Auditor of State,,LIB,Simeon Snow,9,6,1,2
+Bradley,Ward 3,Auditor of State,,LIB,Simeon Snow,12,7,1,4
+Bradley,North,Auditor of State,,LIB,Simeon Snow,12,6,0,6
+Bradley,South,Auditor of State,,LIB,Simeon Snow,2,0,0,2
+Bradley,Banks City,Auditor of State,,LIB,Simeon Snow,0,0,0,0
+Bradley,Banks Rural,Auditor of State,,LIB,Simeon Snow,0,0,0,0
+Bradley,Springhill,Auditor of State,,LIB,Simeon Snow,2,0,0,2
+Bradley,Hermitage City,Auditor of State,,LIB,Simeon Snow,3,1,0,2
+Bradley,Hermitage Rural,Auditor of State,,LIB,Simeon Snow,3,1,0,2
+Bradley,Eagle Lake,Auditor of State,,LIB,Simeon Snow,2,0,0,2
+Bradley,Jersey,Auditor of State,,LIB,Simeon Snow,2,1,0,1
+Bradley,Johnsville,Auditor of State,,LIB,Simeon Snow,3,1,0,2
+Bradley,Marion,Auditor of State,,LIB,Simeon Snow,0,0,0,0
+Bradley,Ward 1,Auditor of State,,REP,Treasurer of State Dennis Milligan,107,58,1,48
+Bradley,Ward 2,Auditor of State,,REP,Treasurer of State Dennis Milligan,256,133,8,115
+Bradley,Ward 3,Auditor of State,,REP,Treasurer of State Dennis Milligan,161,83,1,77
+Bradley,North,Auditor of State,,REP,Treasurer of State Dennis Milligan,421,244,6,171
+Bradley,South,Auditor of State,,REP,Treasurer of State Dennis Milligan,245,133,1,111
+Bradley,Banks City,Auditor of State,,REP,Treasurer of State Dennis Milligan,18,7,0,11
+Bradley,Banks Rural,Auditor of State,,REP,Treasurer of State Dennis Milligan,86,24,0,62
+Bradley,Springhill,Auditor of State,,REP,Treasurer of State Dennis Milligan,101,34,0,67
+Bradley,Hermitage City,Auditor of State,,REP,Treasurer of State Dennis Milligan,55,16,0,39
+Bradley,Hermitage Rural,Auditor of State,,REP,Treasurer of State Dennis Milligan,156,60,1,95
+Bradley,Eagle Lake,Auditor of State,,REP,Treasurer of State Dennis Milligan,43,10,0,33
+Bradley,Jersey,Auditor of State,,REP,Treasurer of State Dennis Milligan,43,8,1,34
+Bradley,Johnsville,Auditor of State,,REP,Treasurer of State Dennis Milligan,60,16,0,44
+Bradley,Marion,Auditor of State,,REP,Treasurer of State Dennis Milligan,48,15,0,33
+Bradley,Ward 1,Auditor of State,,DEM,Diamond Arnold-Johnson,219,108,4,107
+Bradley,Ward 2,Auditor of State,,DEM,Diamond Arnold-Johnson,113,62,2,49
+Bradley,Ward 3,Auditor of State,,DEM,Diamond Arnold-Johnson,186,118,5,63
+Bradley,North,Auditor of State,,DEM,Diamond Arnold-Johnson,47,34,2,11
+Bradley,South,Auditor of State,,DEM,Diamond Arnold-Johnson,34,24,0,10
+Bradley,Banks City,Auditor of State,,DEM,Diamond Arnold-Johnson,8,1,0,7
+Bradley,Banks Rural,Auditor of State,,DEM,Diamond Arnold-Johnson,30,11,0,19
+Bradley,Springhill,Auditor of State,,DEM,Diamond Arnold-Johnson,4,0,0,4
+Bradley,Hermitage City,Auditor of State,,DEM,Diamond Arnold-Johnson,27,4,0,23
+Bradley,Hermitage Rural,Auditor of State,,DEM,Diamond Arnold-Johnson,10,1,0,9
+Bradley,Eagle Lake,Auditor of State,,DEM,Diamond Arnold-Johnson,9,0,0,9
+Bradley,Jersey,Auditor of State,,DEM,Diamond Arnold-Johnson,17,5,0,12
+Bradley,Johnsville,Auditor of State,,DEM,Diamond Arnold-Johnson,24,6,0,18
+Bradley,Marion,Auditor of State,,DEM,Diamond Arnold-Johnson,2,0,0,2
+Bradley,Ward 1,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,115,61,2,52
+Bradley,Ward 2,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,252,129,7,116
+Bradley,Ward 3,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,161,82,2,77
+Bradley,North,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,425,244,6,175
+Bradley,South,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,246,133,1,112
+Bradley,Banks City,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,18,7,0,11
+Bradley,Banks Rural,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,81,23,0,58
+Bradley,Springhill,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,101,34,0,67
+Bradley,Hermitage City,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,52,17,0,35
+Bradley,Hermitage Rural,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,155,58,1,96
+Bradley,Eagle Lake,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,46,10,0,36
+Bradley,Jersey,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,43,9,1,33
+Bradley,Johnsville,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,59,16,0,43
+Bradley,Marion,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,49,15,0,34
+Bradley,Ward 1,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,213,105,3,105
+Bradley,Ward 2,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,123,69,4,50
+Bradley,Ward 3,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,185,119,5,61
+Bradley,North,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,46,35,2,9
+Bradley,South,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,30,21,0,9
+Bradley,Banks City,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,8,1,0,7
+Bradley,Banks Rural,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,32,12,0,20
+Bradley,Springhill,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,4,0,0,4
+Bradley,Hermitage City,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,30,3,0,27
+Bradley,Hermitage Rural,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,8,2,0,6
+Bradley,Eagle Lake,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,8,0,0,8
+Bradley,Jersey,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,19,5,0,14
+Bradley,Johnsville,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,23,6,0,17
+Bradley,Marion,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,1,0,0,1
+Bradley,Ward 1,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,4,0,1
+Bradley,Ward 2,Governor,,LIB,"Ricky Dale Harrington, Jr.",8,5,0,3
+Bradley,Ward 3,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,2,0,1
+Bradley,North,Governor,,LIB,"Ricky Dale Harrington, Jr.",6,4,0,2
+Bradley,South,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Bradley,Banks City,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Bradley,Banks Rural,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Bradley,Springhill,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Bradley,Hermitage City,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Bradley,Hermitage Rural,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Bradley,Eagle Lake,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Bradley,Jersey,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Bradley,Johnsville,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Bradley,Marion,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Bradley,Ward 1,Governor,,DEM,Chris Jones,247,123,5,119
+Bradley,Ward 2,Governor,,DEM,Chris Jones,141,75,4,62
+Bradley,Ward 3,Governor,,DEM,Chris Jones,211,133,5,73
+Bradley,North,Governor,,DEM,Chris Jones,63,44,2,17
+Bradley,South,Governor,,DEM,Chris Jones,33,23,0,10
+Bradley,Banks City,Governor,,DEM,Chris Jones,8,1,0,7
+Bradley,Banks Rural,Governor,,DEM,Chris Jones,38,12,0,26
+Bradley,Springhill,Governor,,DEM,Chris Jones,4,0,0,4
+Bradley,Hermitage City,Governor,,DEM,Chris Jones,32,4,0,28
+Bradley,Hermitage Rural,Governor,,DEM,Chris Jones,10,2,0,8
+Bradley,Eagle Lake,Governor,,DEM,Chris Jones,11,0,0,11
+Bradley,Jersey,Governor,,DEM,Chris Jones,21,5,0,16
+Bradley,Johnsville,Governor,,DEM,Chris Jones,26,7,0,19
+Bradley,Marion,Governor,,DEM,Chris Jones,1,1,0,0
+Bradley,Ward 1,Governor,,REP,Sarah Huckabee Sanders,98,55,0,43
+Bradley,Ward 2,Governor,,REP,Sarah Huckabee Sanders,235,123,8,104
+Bradley,Ward 3,Governor,,REP,Sarah Huckabee Sanders,154,80,2,72
+Bradley,North,Governor,,REP,Sarah Huckabee Sanders,414,239,6,169
+Bradley,South,Governor,,REP,Sarah Huckabee Sanders,247,133,1,113
+Bradley,Banks City,Governor,,REP,Sarah Huckabee Sanders,20,7,0,13
+Bradley,Banks Rural,Governor,,REP,Sarah Huckabee Sanders,81,23,0,58
+Bradley,Springhill,Governor,,REP,Sarah Huckabee Sanders,104,34,0,70
+Bradley,Hermitage City,Governor,,REP,Sarah Huckabee Sanders,53,16,0,37
+Bradley,Hermitage Rural,Governor,,REP,Sarah Huckabee Sanders,158,60,0,98
+Bradley,Eagle Lake,Governor,,REP,Sarah Huckabee Sanders,46,10,0,36
+Bradley,Jersey,Governor,,REP,Sarah Huckabee Sanders,44,9,1,34
+Bradley,Johnsville,Governor,,REP,Sarah Huckabee Sanders,61,16,0,45
+Bradley,Marion,Governor,,REP,Sarah Huckabee Sanders,49,14,0,35
+Bradley,Ward 1,Lieutenant Governor,,DEM,Kelly Ross Krout,213,103,4,106
+Bradley,Ward 2,Lieutenant Governor,,DEM,Kelly Ross Krout,127,70,3,54
+Bradley,Ward 3,Lieutenant Governor,,DEM,Kelly Ross Krout,185,116,4,65
+Bradley,North,Lieutenant Governor,,DEM,Kelly Ross Krout,51,37,2,12
+Bradley,South,Lieutenant Governor,,DEM,Kelly Ross Krout,29,21,0,8
+Bradley,Banks City,Lieutenant Governor,,DEM,Kelly Ross Krout,8,1,0,7
+Bradley,Banks Rural,Lieutenant Governor,,DEM,Kelly Ross Krout,30,10,0,20
+Bradley,Springhill,Lieutenant Governor,,DEM,Kelly Ross Krout,4,0,0,4
+Bradley,Hermitage City,Lieutenant Governor,,DEM,Kelly Ross Krout,30,4,0,26
+Bradley,Hermitage Rural,Lieutenant Governor,,DEM,Kelly Ross Krout,11,4,0,7
+Bradley,Eagle Lake,Lieutenant Governor,,DEM,Kelly Ross Krout,8,0,0,8
+Bradley,Jersey,Lieutenant Governor,,DEM,Kelly Ross Krout,19,5,0,14
+Bradley,Johnsville,Lieutenant Governor,,DEM,Kelly Ross Krout,25,7,0,18
+Bradley,Marion,Lieutenant Governor,,DEM,Kelly Ross Krout,1,0,0,1
+Bradley,Ward 1,Lieutenant Governor,,LIB,Frank Gilbert,15,9,0,6
+Bradley,Ward 2,Lieutenant Governor,,LIB,Frank Gilbert,9,5,0,4
+Bradley,Ward 3,Lieutenant Governor,,LIB,Frank Gilbert,11,4,1,6
+Bradley,North,Lieutenant Governor,,LIB,Frank Gilbert,13,5,0,8
+Bradley,South,Lieutenant Governor,,LIB,Frank Gilbert,4,0,0,4
+Bradley,Banks City,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0
+Bradley,Banks Rural,Lieutenant Governor,,LIB,Frank Gilbert,3,1,0,2
+Bradley,Springhill,Lieutenant Governor,,LIB,Frank Gilbert,2,0,0,2
+Bradley,Hermitage City,Lieutenant Governor,,LIB,Frank Gilbert,3,2,0,1
+Bradley,Hermitage Rural,Lieutenant Governor,,LIB,Frank Gilbert,5,0,0,5
+Bradley,Eagle Lake,Lieutenant Governor,,LIB,Frank Gilbert,3,0,0,3
+Bradley,Jersey,Lieutenant Governor,,LIB,Frank Gilbert,1,0,0,1
+Bradley,Johnsville,Lieutenant Governor,,LIB,Frank Gilbert,5,1,0,4
+Bradley,Marion,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0
+Bradley,Ward 1,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,110,62,1,47
+Bradley,Ward 2,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,246,129,9,108
+Bradley,Ward 3,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,165,89,2,74
+Bradley,North,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,419,246,6,167
+Bradley,South,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,248,135,1,112
+Bradley,Banks City,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,19,7,0,12
+Bradley,Banks Rural,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,84,24,0,60
+Bradley,Springhill,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,102,35,0,67
+Bradley,Hermitage City,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,52,15,0,37
+Bradley,Hermitage Rural,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,155,58,1,96
+Bradley,Eagle Lake,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,46,10,0,36
+Bradley,Jersey,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,44,9,1,34
+Bradley,Johnsville,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,57,15,0,42
+Bradley,Marion,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,49,15,0,34
+Bradley,Ward 1,Secretary of State,,REP,Secretary of State John Thurston,113,62,1,50
+Bradley,Ward 2,Secretary of State,,REP,Secretary of State John Thurston,255,135,9,111
+Bradley,Ward 3,Secretary of State,,REP,Secretary of State John Thurston,166,85,0,81
+Bradley,North,Secretary of State,,REP,Secretary of State John Thurston,430,248,6,176
+Bradley,South,Secretary of State,,REP,Secretary of State John Thurston,248,133,1,114
+Bradley,Banks City,Secretary of State,,REP,Secretary of State John Thurston,19,7,0,12
+Bradley,Banks Rural,Secretary of State,,REP,Secretary of State John Thurston,81,24,0,57
+Bradley,Springhill,Secretary of State,,REP,Secretary of State John Thurston,101,33,0,68
+Bradley,Hermitage City,Secretary of State,,REP,Secretary of State John Thurston,56,17,0,39
+Bradley,Hermitage Rural,Secretary of State,,REP,Secretary of State John Thurston,157,59,1,97
+Bradley,Eagle Lake,Secretary of State,,REP,Secretary of State John Thurston,48,10,0,38
+Bradley,Jersey,Secretary of State,,REP,Secretary of State John Thurston,43,9,1,33
+Bradley,Johnsville,Secretary of State,,REP,Secretary of State John Thurston,61,16,0,45
+Bradley,Marion,Secretary of State,,REP,Secretary of State John Thurston,47,15,0,32
+Bradley,Ward 1,Secretary of State,,DEM,Anna Beth Gorman,218,106,4,108
+Bradley,Ward 2,Secretary of State,,DEM,Anna Beth Gorman,123,66,3,54
+Bradley,Ward 3,Secretary of State,,DEM,Anna Beth Gorman,196,125,7,64
+Bradley,North,Secretary of State,,DEM,Anna Beth Gorman,50,38,2,10
+Bradley,South,Secretary of State,,DEM,Anna Beth Gorman,32,23,0,9
+Bradley,Banks City,Secretary of State,,DEM,Anna Beth Gorman,9,1,0,8
+Bradley,Banks Rural,Secretary of State,,DEM,Anna Beth Gorman,33,11,0,22
+Bradley,Springhill,Secretary of State,,DEM,Anna Beth Gorman,6,0,0,6
+Bradley,Hermitage City,Secretary of State,,DEM,Anna Beth Gorman,28,3,0,25
+Bradley,Hermitage Rural,Secretary of State,,DEM,Anna Beth Gorman,12,3,0,9
+Bradley,Eagle Lake,Secretary of State,,DEM,Anna Beth Gorman,10,0,0,10
+Bradley,Jersey,Secretary of State,,DEM,Anna Beth Gorman,20,5,0,15
+Bradley,Johnsville,Secretary of State,,DEM,Anna Beth Gorman,26,7,0,19
+Bradley,Marion,Secretary of State,,DEM,Anna Beth Gorman,2,0,0,2
+Bradley,Ward 1,State Treasurer,,REP,State Representative Mark Lowery,106,59,1,46
+Bradley,Ward 2,State Treasurer,,REP,State Representative Mark Lowery,253,130,9,114
+Bradley,Ward 3,State Treasurer,,REP,State Representative Mark Lowery,164,85,1,78
+Bradley,North,State Treasurer,,REP,State Representative Mark Lowery,427,247,6,174
+Bradley,South,State Treasurer,,REP,State Representative Mark Lowery,245,131,1,113
+Bradley,Banks City,State Treasurer,,REP,State Representative Mark Lowery,19,7,0,12
+Bradley,Banks Rural,State Treasurer,,REP,State Representative Mark Lowery,83,24,0,59
+Bradley,Springhill,State Treasurer,,REP,State Representative Mark Lowery,104,34,0,70
+Bradley,Hermitage City,State Treasurer,,REP,State Representative Mark Lowery,54,17,0,37
+Bradley,Hermitage Rural,State Treasurer,,REP,State Representative Mark Lowery,154,57,1,96
+Bradley,Eagle Lake,State Treasurer,,REP,State Representative Mark Lowery,47,10,0,37
+Bradley,Jersey,State Treasurer,,REP,State Representative Mark Lowery,44,9,1,34
+Bradley,Johnsville,State Treasurer,,REP,State Representative Mark Lowery,59,15,0,44
+Bradley,Marion,State Treasurer,,REP,State Representative Mark Lowery,48,15,0,33
+Bradley,Ward 1,State Treasurer,,DEM,Pam Whitaker,228,113,4,111
+Bradley,Ward 2,State Treasurer,,DEM,Pam Whitaker,129,74,3,52
+Bradley,Ward 3,State Treasurer,,DEM,Pam Whitaker,198,126,6,66
+Bradley,North,State Treasurer,,DEM,Pam Whitaker,52,38,2,12
+Bradley,South,State Treasurer,,DEM,Pam Whitaker,33,23,0,10
+Bradley,Banks City,State Treasurer,,DEM,Pam Whitaker,8,1,0,7
+Bradley,Banks Rural,State Treasurer,,DEM,Pam Whitaker,34,11,0,23
+Bradley,Springhill,State Treasurer,,DEM,Pam Whitaker,4,0,0,4
+Bradley,Hermitage City,State Treasurer,,DEM,Pam Whitaker,28,3,0,25
+Bradley,Hermitage Rural,State Treasurer,,DEM,Pam Whitaker,14,4,0,10
+Bradley,Eagle Lake,State Treasurer,,DEM,Pam Whitaker,9,0,0,9
+Bradley,Jersey,State Treasurer,,DEM,Pam Whitaker,20,5,0,15
+Bradley,Johnsville,State Treasurer,,DEM,Pam Whitaker,27,8,0,19
+Bradley,Marion,State Treasurer,,DEM,Pam Whitaker,1,0,0,1
+Bradley,Ward 1,State Senate,01,REP,Senator Ben Gilmore,207,107,3,97
+Bradley,Ward 2,State Senate,01,REP,Senator Ben Gilmore,311,160,10,141
+Bradley,Ward 3,State Senate,01,REP,Senator Ben Gilmore,237,128,6,103
+Bradley,North,State Senate,01,REP,Senator Ben Gilmore,437,254,7,176
+Bradley,South,State Senate,01,REP,Senator Ben Gilmore,254,135,1,118
+Bradley,Banks City,State Senate,01,REP,Senator Ben Gilmore,25,7,0,18
+Bradley,Banks Rural,State Senate,01,REP,Senator Ben Gilmore,96,29,0,67
+Bradley,Springhill,State Senate,01,REP,Senator Ben Gilmore,102,32,0,70
+Bradley,Hermitage City,State Senate,01,REP,Senator Ben Gilmore,65,19,0,46
+Bradley,Hermitage Rural,State Senate,01,REP,Senator Ben Gilmore,157,58,1,98
+Bradley,Eagle Lake,State Senate,01,REP,Senator Ben Gilmore,50,10,0,40
+Bradley,Jersey,State Senate,01,REP,Senator Ben Gilmore,46,9,1,36
+Bradley,Johnsville,State Senate,01,REP,Senator Ben Gilmore,70,18,0,52
+Bradley,Marion,State Senate,01,REP,Senator Ben Gilmore,50,15,0,35
+Bradley,Ward 1,State House,94,DEM,Curley Jackson,223,114,3,106
+Bradley,Ward 2,State House,94,DEM,Curley Jackson,132,73,2,57
+Bradley,Ward 3,State House,94,DEM,Curley Jackson,195,128,6,61
+Bradley,South,State House,94,DEM,Curley Jackson,34,21,0,13
+Bradley,Springhill,State House,94,DEM,Curley Jackson,13,2,0,11
+Bradley,Hermitage City,State House,94,DEM,Curley Jackson,26,4,0,22
+Bradley,Hermitage Rural,State House,94,DEM,Curley Jackson,12,2,0,10
+Bradley,Johnsville,State House,94,DEM,Curley Jackson,18,7,0,11
+Bradley,Marion,State House,94,DEM,Curley Jackson,1,1,0,0
+Bradley,Ward 1,State House,94,REP,State Representative Jeffrey Wardlaw,115,62,2,51
+Bradley,Ward 2,State House,94,REP,State Representative Jeffrey Wardlaw,248,128,10,110
+Bradley,Ward 3,State House,94,REP,State Representative Jeffrey Wardlaw,168,85,1,82
+Bradley,South,State House,94,REP,State Representative Jeffrey Wardlaw,245,134,1,110
+Bradley,Springhill,State House,94,REP,State Representative Jeffrey Wardlaw,92,31,0,61
+Bradley,Hermitage City,State House,94,REP,State Representative Jeffrey Wardlaw,57,15,0,42
+Bradley,Hermitage Rural,State House,94,REP,State Representative Jeffrey Wardlaw,157,59,1,97
+Bradley,Johnsville,State House,94,REP,State Representative Jeffrey Wardlaw,68,16,0,52
+Bradley,Marion,State House,94,REP,State Representative Jeffrey Wardlaw,49,14,0,35
+Bradley,North,State House,96,REP,State Representative Sonia Barker,413,241,7,165
+Bradley,Banks City,State House,96,REP,State Representative Sonia Barker,22,8,0,14
+Bradley,Banks Rural,State House,96,REP,State Representative Sonia Barker,84,27,0,57
+Bradley,Eagle Lake,State House,96,REP,State Representative Sonia Barker,46,10,0,36
+Bradley,Jersey,State House,96,REP,State Representative Sonia Barker,44,9,1,34
+Bradley,Ward 1,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,88,42,1,45
+Bradley,Ward 2,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,103,43,3,57
+Bradley,Ward 3,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,103,57,1,45
+Bradley,North,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,136,73,2,61
+Bradley,South,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,66,34,0,32
+Bradley,Banks City,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,11,3,0,8
+Bradley,Banks Rural,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,30,5,0,25
+Bradley,Springhill,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,22,7,0,15
+Bradley,Hermitage City,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,29,7,0,22
+Bradley,Hermitage Rural,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,50,17,0,33
+Bradley,Eagle Lake,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,19,3,0,16
+Bradley,Jersey,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,20,5,0,15
+Bradley,Johnsville,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,23,8,0,15
+Bradley,Marion,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,8,3,0,5
+Bradley,Ward 1,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,206,117,4,85
+Bradley,Ward 2,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,259,152,9,98
+Bradley,Ward 3,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,228,135,6,87
+Bradley,North,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,320,198,6,116
+Bradley,South,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,197,116,1,80
+Bradley,Banks City,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,17,5,0,12
+Bradley,Banks Rural,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,69,25,0,44
+Bradley,Springhill,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,79,24,0,55
+Bradley,Hermitage City,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,50,11,0,39
+Bradley,Hermitage Rural,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,113,44,1,68
+Bradley,Eagle Lake,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,32,3,0,29
+Bradley,Jersey,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,33,8,1,24
+Bradley,Johnsville,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,57,11,0,46
+Bradley,Marion,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,39,12,0,27
+Bradley,Ward 1,Circuit Clerk,,REP,REP Cindy H. Wagnon,261,134,3,124
+Bradley,Ward 2,Circuit Clerk,,REP,REP Cindy H. Wagnon,358,192,10,156
+Bradley,Ward 3,Circuit Clerk,,REP,REP Cindy H. Wagnon,294,169,6,119
+Bradley,North,Circuit Clerk,,REP,REP Cindy H. Wagnon,466,273,8,185
+Bradley,South,Circuit Clerk,,REP,REP Cindy H. Wagnon,265,146,1,118
+Bradley,Banks City,Circuit Clerk,,REP,REP Cindy H. Wagnon,26,8,0,18
+Bradley,Banks Rural,Circuit Clerk,,REP,REP Cindy H. Wagnon,105,29,0,76
+Bradley,Springhill,Circuit Clerk,,REP,REP Cindy H. Wagnon,107,35,0,72
+Bradley,Hermitage City,Circuit Clerk,,REP,REP Cindy H. Wagnon,79,20,0,59
+Bradley,Hermitage Rural,Circuit Clerk,,REP,REP Cindy H. Wagnon,165,62,1,102
+Bradley,Eagle Lake,Circuit Clerk,,REP,REP Cindy H. Wagnon,53,10,0,43
+Bradley,Jersey,Circuit Clerk,,REP,REP Cindy H. Wagnon,52,10,1,41
+Bradley,Johnsville,Circuit Clerk,,REP,REP Cindy H. Wagnon,80,19,0,61
+Bradley,Marion,Circuit Clerk,,REP,REP Cindy H. Wagnon,48,15,0,33
+Bradley,Ward 1,City of Warren Mayor,,IND,IND Gregg Reep,234,120,4,110
+Bradley,Ward 2,City of Warren Mayor,,IND,IND Gregg Reep,278,153,9,116
+Bradley,Ward 3,City of Warren Mayor,,IND,IND Gregg Reep,276,166,5,105
+Bradley,Ward 1,City of Warren Mayor,,IND,IND Wayne (Pokechop) White,68,31,1,36
+Bradley,Ward 2,City of Warren Mayor,,IND,IND Wayne (Pokechop) White,37,18,0,19
+Bradley,Ward 3,City of Warren Mayor,,IND,IND Wayne (Pokechop) White,48,27,1,20
+Bradley,Ward 1,City of Warren Mayor,,IND,IND Carlos I. Yepes,37,22,0,15
+Bradley,Ward 2,City of Warren Mayor,,IND,IND Carlos I. Yepes,63,31,3,29
+Bradley,Ward 3,City of Warren Mayor,,IND,IND Carlos I. Yepes,40,20,1,19
+Bradley,Ward 1,Warren City Clerk,,IND,IND Janice Nelson,256,129,4,123
+Bradley,Ward 2,Warren City Clerk,,IND,IND Janice Nelson,346,180,10,156
+Bradley,Ward 3,Warren City Clerk,,IND,IND Janice Nelson,288,163,5,120
+Bradley,Ward 1,Warren Alderman, Ward 1,IND,IND Jimmy Domineck,126,69,1,56
+Bradley,Ward 1,Warren Alderman, Ward 1,IND,IND Joel B. Tolefree,206,101,4,101
+Bradley,Hermitage City,City of Hermitage Mayor,,IND,IND Tonya C. Kendrix,34,8,0,26
+Bradley,Hermitage City,City of Hermitage Mayor,,IND,IND Karla Ramos,23,5,0,18
+Bradley,Hermitage City,City of Hermitage Mayor,,IND,IND Matthew J. Cathey,28,8,0,20
+Bradley,Ward 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,117,65,1,51
+Bradley,Ward 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,148,84,5,59
+Bradley,Ward 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,138,72,6,60
+Bradley,North,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,140,90,4,46
+Bradley,South,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,89,49,0,40
+Bradley,Banks City,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,8,4,0,4
+Bradley,Banks Rural,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,35,13,0,22
+Bradley,Springhill,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,39,12,0,27
+Bradley,Hermitage City,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,30,13,0,17
+Bradley,Hermitage Rural,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,43,12,0,31
+Bradley,Eagle Lake,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,19,4,0,15
+Bradley,Jersey,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,24,6,0,18
+Bradley,Johnsville,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,34,14,0,20
+Bradley,Marion,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,17,7,0,10
+Bradley,Ward 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,206,101,3,102
+Bradley,Ward 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,219,115,7,97
+Bradley,Ward 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,211,130,1,80
+Bradley,North,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,330,191,4,135
+Bradley,South,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,181,103,1,77
+Bradley,Banks City,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,19,4,0,15
+Bradley,Banks Rural,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,73,19,0,54
+Bradley,Springhill,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,65,20,0,45
+Bradley,Hermitage City,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,47,7,0,40
+Bradley,Hermitage Rural,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,120,48,1,71
+Bradley,Eagle Lake,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,35,5,0,30
+Bradley,Jersey,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,32,5,1,26
+Bradley,Johnsville,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,53,9,0,44
+Bradley,Marion,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,32,8,0,24
+Bradley,Ward 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,122,65,2,55
+Bradley,Ward 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,141,75,3,63
+Bradley,Ward 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,136,67,3,66
+Bradley,North,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,182,111,4,67
+Bradley,South,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,109,60,1,48
+Bradley,Banks City,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,15,6,0,9
+Bradley,Banks Rural,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,58,15,0,43
+Bradley,Springhill,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,45,16,0,29
+Bradley,Hermitage City,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,45,16,0,29
+Bradley,Hermitage Rural,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,64,25,1,38
+Bradley,Eagle Lake,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,20,3,0,17
+Bradley,Jersey,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,26,7,0,19
+Bradley,Johnsville,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,48,15,0,33
+Bradley,Marion,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,23,6,0,17
+Bradley,Ward 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,204,103,2,99
+Bradley,Ward 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,232,126,9,97
+Bradley,Ward 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,216,137,4,75
+Bradley,North,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,290,170,4,116
+Bradley,South,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,164,95,0,69
+Bradley,Banks City,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,12,2,0,10
+Bradley,Banks Rural,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,54,19,0,35
+Bradley,Springhill,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,59,17,0,42
+Bradley,Hermitage City,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,39,5,0,34
+Bradley,Hermitage Rural,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,102,36,0,66
+Bradley,Eagle Lake,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,36,7,0,29
+Bradley,Jersey,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,32,4,1,27
+Bradley,Johnsville,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,39,8,0,31
+Bradley,Marion,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,27,9,0,18
+Bradley,Ward 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,178,94,1,83
+Bradley,Ward 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,211,113,7,91
+Bradley,Ward 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,185,93,4,88
+Bradley,North,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,227,136,3,88
+Bradley,South,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,136,81,1,54
+Bradley,Banks City,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,14,5,0,9
+Bradley,Banks Rural,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,59,23,0,36
+Bradley,Springhill,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,50,13,0,37
+Bradley,Hermitage City,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,49,13,0,36
+Bradley,Hermitage Rural,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,84,30,1,53
+Bradley,Eagle Lake,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,24,8,0,16
+Bradley,Jersey,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,40,11,1,28
+Bradley,Johnsville,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,44,11,0,33
+Bradley,Marion,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,34,11,0,23
+Bradley,Ward 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,150,77,4,69
+Bradley,Ward 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,165,91,5,69
+Bradley,Ward 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,166,108,3,55
+Bradley,North,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,254,149,5,100
+Bradley,South,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,138,74,0,64
+Bradley,Banks City,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,13,3,0,10
+Bradley,Banks Rural,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,53,9,0,44
+Bradley,Springhill,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,57,21,0,36
+Bradley,Hermitage City,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,36,8,0,28
+Bradley,Hermitage Rural,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,85,32,0,53
+Bradley,Eagle Lake,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,33,2,0,31
+Bradley,Jersey,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,20,2,0,18
+Bradley,Johnsville,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,43,12,0,31
+Bradley,Marion,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,16,4,0,12
+Bradley,Ward 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,195,96,4,95
+Bradley,Ward 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,133,71,2,60
+Bradley,Ward 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,173,95,6,72
+Bradley,North,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,122,83,1,38
+Bradley,South,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,55,31,0,24
+Bradley,Banks City,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,15,1,0,14
+Bradley,Banks Rural,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,51,12,0,39
+Bradley,Springhill,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,32,6,0,26
+Bradley,Hermitage City,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,40,8,0,32
+Bradley,Hermitage Rural,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,34,12,0,22
+Bradley,Eagle Lake,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,17,5,0,12
+Bradley,Jersey,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,24,6,0,18
+Bradley,Johnsville,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,36,10,0,26
+Bradley,Marion,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,12,4,0,8
+Bradley,Ward 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,152,83,1,68
+Bradley,Ward 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,248,134,10,104
+Bradley,Ward 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,188,115,1,72
+Bradley,North,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,360,204,7,149
+Bradley,South,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,224,124,1,99
+Bradley,Banks City,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,12,7,0,5
+Bradley,Banks Rural,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,66,22,0,44
+Bradley,Springhill,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,78,29,0,49
+Bradley,Hermitage City,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,45,12,0,33
+Bradley,Hermitage Rural,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,135,50,1,84
+Bradley,Eagle Lake,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,41,5,0,36
+Bradley,Jersey,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,39,8,1,30
+Bradley,Johnsville,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,52,13,0,39
+Bradley,Marion,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,38,11,0,27

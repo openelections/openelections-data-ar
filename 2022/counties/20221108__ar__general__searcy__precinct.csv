@@ -1,0 +1,562 @@
+county,precinct,office,district,party,candidate,votes,early_vote,absentee,election_day
+Searcy,Bear Creek #4,U.S. Senate,,DEM,Natalie James,36,29,0,7
+Searcy,Bear Creek #5,U.S. Senate,,DEM,Natalie James,44,27,5,12
+Searcy,Bear Creek #6,U.S. Senate,,DEM,Natalie James,29,19,0,10
+Searcy,Calf Creek,U.S. Senate,,DEM,Natalie James,25,11,0,14
+Searcy,Long Creek,U.S. Senate,,DEM,Natalie James,7,5,0,2
+Searcy,Mt. Pleasant,U.S. Senate,,DEM,Natalie James,18,8,0,10
+Searcy,Oxley,U.S. Senate,,DEM,Natalie James,27,17,0,10
+Searcy,Prairie,U.S. Senate,,DEM,Natalie James,18,4,0,14
+Searcy,Red River,U.S. Senate,,DEM,Natalie James,21,18,1,2
+Searcy,Rock Creek,U.S. Senate,,DEM,Natalie James,19,5,1,13
+Searcy,Shady Grove,U.S. Senate,,DEM,Natalie James,14,10,0,4
+Searcy,Spring,U.S. Senate,,DEM,Natalie James,47,19,3,25
+Searcy,St. Joe,U.S. Senate,,DEM,Natalie James,18,4,1,13
+Searcy,Tomahawk,U.S. Senate,,DEM,Natalie James,36,19,0,17
+Searcy,Wiley's Cove,U.S. Senate,,DEM,Natalie James,67,21,8,38
+Searcy,Bear Creek #4,U.S. Senate,,LIB,Kenneth Cates,14,8,0,6
+Searcy,Bear Creek #5,U.S. Senate,,LIB,Kenneth Cates,23,10,1,12
+Searcy,Bear Creek #6,U.S. Senate,,LIB,Kenneth Cates,21,15,0,6
+Searcy,Calf Creek,U.S. Senate,,LIB,Kenneth Cates,9,1,0,8
+Searcy,Long Creek,U.S. Senate,,LIB,Kenneth Cates,11,5,0,6
+Searcy,Mt. Pleasant,U.S. Senate,,LIB,Kenneth Cates,12,1,0,11
+Searcy,Oxley,U.S. Senate,,LIB,Kenneth Cates,5,3,0,2
+Searcy,Prairie,U.S. Senate,,LIB,Kenneth Cates,13,6,0,7
+Searcy,Red River,U.S. Senate,,LIB,Kenneth Cates,7,3,0,4
+Searcy,Rock Creek,U.S. Senate,,LIB,Kenneth Cates,1,0,0,1
+Searcy,Shady Grove,U.S. Senate,,LIB,Kenneth Cates,6,1,0,5
+Searcy,Spring,U.S. Senate,,LIB,Kenneth Cates,9,8,0,1
+Searcy,St. Joe,U.S. Senate,,LIB,Kenneth Cates,6,3,0,3
+Searcy,Tomahawk,U.S. Senate,,LIB,Kenneth Cates,9,3,0,6
+Searcy,Wiley's Cove,U.S. Senate,,LIB,Kenneth Cates,16,7,0,9
+Searcy,Bear Creek #4,U.S. Senate,,REP,Senator John Boozman,279,191,3,85
+Searcy,Bear Creek #5,U.S. Senate,,REP,Senator John Boozman,296,208,4,84
+Searcy,Bear Creek #6,U.S. Senate,,REP,Senator John Boozman,263,167,4,92
+Searcy,Calf Creek,U.S. Senate,,REP,Senator John Boozman,66,28,1,37
+Searcy,Long Creek,U.S. Senate,,REP,Senator John Boozman,170,66,3,101
+Searcy,Mt. Pleasant,U.S. Senate,,REP,Senator John Boozman,142,35,3,104
+Searcy,Oxley,U.S. Senate,,REP,Senator John Boozman,154,77,1,76
+Searcy,Prairie,U.S. Senate,,REP,Senator John Boozman,153,45,1,107
+Searcy,Red River,U.S. Senate,,REP,Senator John Boozman,83,48,4,31
+Searcy,Rock Creek,U.S. Senate,,REP,Senator John Boozman,138,52,1,85
+Searcy,Shady Grove,U.S. Senate,,REP,Senator John Boozman,53,34,0,19
+Searcy,Spring,U.S. Senate,,REP,Senator John Boozman,160,66,2,92
+Searcy,St. Joe,U.S. Senate,,REP,Senator John Boozman,118,31,2,85
+Searcy,Tomahawk,U.S. Senate,,REP,Senator John Boozman,153,76,1,76
+Searcy,Wiley's Cove,U.S. Senate,,REP,Senator John Boozman,295,134,4,157
+Searcy,Bear Creek #4,U.S. Congress District 01,,DEM,Representative Monte Hodges,36,31,0,5
+Searcy,Bear Creek #5,U.S. Congress District 01,,DEM,Representative Monte Hodges,41,27,5,9
+Searcy,Bear Creek #6,U.S. Congress District 01,,DEM,Representative Monte Hodges,26,19,0,7
+Searcy,Calf Creek,U.S. Congress District 01,,DEM,Representative Monte Hodges,24,9,0,15
+Searcy,Long Creek,U.S. Congress District 01,,DEM,Representative Monte Hodges,10,5,0,5
+Searcy,Mt. Pleasant,U.S. Congress District 01,,DEM,Representative Monte Hodges,21,7,0,14
+Searcy,Oxley,U.S. Congress District 01,,DEM,Representative Monte Hodges,24,17,0,7
+Searcy,Prairie,U.S. Congress District 01,,DEM,Representative Monte Hodges,21,5,0,16
+Searcy,Red River,U.S. Congress District 01,,DEM,Representative Monte Hodges,19,17,0,2
+Searcy,Rock Creek,U.S. Congress District 01,,DEM,Representative Monte Hodges,16,6,1,9
+Searcy,Shady Grove,U.S. Congress District 01,,DEM,Representative Monte Hodges,12,8,0,4
+Searcy,Spring,U.S. Congress District 01,,DEM,Representative Monte Hodges,42,18,3,21
+Searcy,St. Joe,U.S. Congress District 01,,DEM,Representative Monte Hodges,18,4,1,13
+Searcy,Tomahawk,U.S. Congress District 01,,DEM,Representative Monte Hodges,36,19,0,17
+Searcy,Wiley's Cove,U.S. Congress District 01,,DEM,Representative Monte Hodges,61,17,7,37
+Searcy,Bear Creek #4,U.S. Congress District 01,,REP,Congressman Rick Crawford,284,188,3,93
+Searcy,Bear Creek #5,U.S. Congress District 01,,REP,Congressman Rick Crawford,300,203,5,92
+Searcy,Bear Creek #6,U.S. Congress District 01,,REP,Congressman Rick Crawford,276,176,4,96
+Searcy,Calf Creek,U.S. Congress District 01,,REP,Congressman Rick Crawford,75,33,1,41
+Searcy,Long Creek,U.S. Congress District 01,,REP,Congressman Rick Crawford,176,68,3,105
+Searcy,Mt. Pleasant,U.S. Congress District 01,,REP,Congressman Rick Crawford,146,38,3,105
+Searcy,Oxley,U.S. Congress District 01,,REP,Congressman Rick Crawford,156,78,1,77
+Searcy,Prairie,U.S. Congress District 01,,REP,Congressman Rick Crawford,150,47,1,102
+Searcy,Red River,U.S. Congress District 01,,REP,Congressman Rick Crawford,82,43,5,34
+Searcy,Rock Creek,U.S. Congress District 01,,REP,Congressman Rick Crawford,130,49,1,80
+Searcy,Shady Grove,U.S. Congress District 01,,REP,Congressman Rick Crawford,56,33,0,23
+Searcy,Spring,U.S. Congress District 01,,REP,Congressman Rick Crawford,163,74,2,87
+Searcy,St. Joe,U.S. Congress District 01,,REP,Congressman Rick Crawford,113,32,2,79
+Searcy,Tomahawk,U.S. Congress District 01,,REP,Congressman Rick Crawford,157,79,1,77
+Searcy,Wiley's Cove,U.S. Congress District 01,,REP,Congressman Rick Crawford,292,133,6,153
+Searcy,Bear Creek #4,Attorney General,,DEM,Jesse Gibson,43,35,0,8
+Searcy,Bear Creek #5,Attorney General,,DEM,Jesse Gibson,43,28,4,11
+Searcy,Bear Creek #6,Attorney General,,DEM,Jesse Gibson,29,20,0,9
+Searcy,Calf Creek,Attorney General,,DEM,Jesse Gibson,27,11,0,16
+Searcy,Long Creek,Attorney General,,DEM,Jesse Gibson,13,8,0,5
+Searcy,Mt. Pleasant,Attorney General,,DEM,Jesse Gibson,20,8,0,12
+Searcy,Oxley,Attorney General,,DEM,Jesse Gibson,28,18,0,10
+Searcy,Prairie,Attorney General,,DEM,Jesse Gibson,22,4,0,18
+Searcy,Red River,Attorney General,,DEM,Jesse Gibson,23,21,0,2
+Searcy,Rock Creek,Attorney General,,DEM,Jesse Gibson,18,6,1,11
+Searcy,Shady Grove,Attorney General,,DEM,Jesse Gibson,14,10,0,4
+Searcy,Spring,Attorney General,,DEM,Jesse Gibson,48,18,3,27
+Searcy,St. Joe,Attorney General,,DEM,Jesse Gibson,20,6,1,13
+Searcy,Tomahawk,Attorney General,,DEM,Jesse Gibson,39,20,0,19
+Searcy,Wiley's Cove,Attorney General,,DEM,Jesse Gibson,67,19,7,41
+Searcy,Bear Creek #4,Attorney General,,REP,Lieutenant Governor Tim Griffin,290,194,3,93
+Searcy,Bear Creek #5,Attorney General,,REP,Lieutenant Governor Tim Griffin,319,217,6,96
+Searcy,Bear Creek #6,Attorney General,,REP,Lieutenant Governor Tim Griffin,284,181,4,99
+Searcy,Calf Creek,Attorney General,,REP,Lieutenant Governor Tim Griffin,76,31,1,44
+Searcy,Long Creek,Attorney General,,REP,Lieutenant Governor Tim Griffin,178,68,3,107
+Searcy,Mt. Pleasant,Attorney General,,REP,Lieutenant Governor Tim Griffin,151,38,3,110
+Searcy,Oxley,Attorney General,,REP,Lieutenant Governor Tim Griffin,159,81,1,77
+Searcy,Prairie,Attorney General,,REP,Lieutenant Governor Tim Griffin,161,52,1,108
+Searcy,Red River,Attorney General,,REP,Lieutenant Governor Tim Griffin,88,48,5,35
+Searcy,Rock Creek,Attorney General,,REP,Lieutenant Governor Tim Griffin,139,52,1,86
+Searcy,Shady Grove,Attorney General,,REP,Lieutenant Governor Tim Griffin,59,35,0,24
+Searcy,Spring,Attorney General,,REP,Lieutenant Governor Tim Griffin,173,78,2,93
+Searcy,St. Joe,Attorney General,,REP,Lieutenant Governor Tim Griffin,121,32,2,87
+Searcy,Tomahawk,Attorney General,,REP,Lieutenant Governor Tim Griffin,160,78,1,81
+Searcy,Wiley's Cove,Attorney General,,REP,Lieutenant Governor Tim Griffin,311,144,6,161
+Searcy,Bear Creek #4,Auditor of State,,REP,Treasurer of State Dennis Milligan,279,190,3,86
+Searcy,Bear Creek #5,Auditor of State,,REP,Treasurer of State Dennis Milligan,303,206,5,92
+Searcy,Bear Creek #6,Auditor of State,,REP,Treasurer of State Dennis Milligan,277,180,4,93
+Searcy,Calf Creek,Auditor of State,,REP,Treasurer of State Dennis Milligan,67,26,1,40
+Searcy,Long Creek,Auditor of State,,REP,Treasurer of State Dennis Milligan,172,65,3,104
+Searcy,Mt. Pleasant,Auditor of State,,REP,Treasurer of State Dennis Milligan,150,35,3,112
+Searcy,Oxley,Auditor of State,,REP,Treasurer of State Dennis Milligan,157,78,1,78
+Searcy,Prairie,Auditor of State,,REP,Treasurer of State Dennis Milligan,159,50,1,108
+Searcy,Red River,Auditor of State,,REP,Treasurer of State Dennis Milligan,84,48,5,31
+Searcy,Rock Creek,Auditor of State,,REP,Treasurer of State Dennis Milligan,136,52,1,83
+Searcy,Shady Grove,Auditor of State,,REP,Treasurer of State Dennis Milligan,54,34,0,20
+Searcy,Spring,Auditor of State,,REP,Treasurer of State Dennis Milligan,168,73,2,93
+Searcy,St. Joe,Auditor of State,,REP,Treasurer of State Dennis Milligan,119,33,2,84
+Searcy,Tomahawk,Auditor of State,,REP,Treasurer of State Dennis Milligan,156,78,1,77
+Searcy,Wiley's Cove,Auditor of State,,REP,Treasurer of State Dennis Milligan,296,139,6,151
+Searcy,Bear Creek #4,Auditor of State,,DEM,Diamond Arnold-Johnson,35,28,0,7
+Searcy,Bear Creek #5,Auditor of State,,DEM,Diamond Arnold-Johnson,45,31,5,9
+Searcy,Bear Creek #6,Auditor of State,,DEM,Diamond Arnold-Johnson,28,19,0,9
+Searcy,Calf Creek,Auditor of State,,DEM,Diamond Arnold-Johnson,19,9,0,10
+Searcy,Long Creek,Auditor of State,,DEM,Diamond Arnold-Johnson,10,5,0,5
+Searcy,Mt. Pleasant,Auditor of State,,DEM,Diamond Arnold-Johnson,19,9,0,10
+Searcy,Oxley,Auditor of State,,DEM,Diamond Arnold-Johnson,23,17,0,6
+Searcy,Prairie,Auditor of State,,DEM,Diamond Arnold-Johnson,19,4,0,15
+Searcy,Red River,Auditor of State,,DEM,Diamond Arnold-Johnson,19,18,0,1
+Searcy,Rock Creek,Auditor of State,,DEM,Diamond Arnold-Johnson,18,5,1,12
+Searcy,Shady Grove,Auditor of State,,DEM,Diamond Arnold-Johnson,12,10,0,2
+Searcy,Spring,Auditor of State,,DEM,Diamond Arnold-Johnson,41,18,3,20
+Searcy,St. Joe,Auditor of State,,DEM,Diamond Arnold-Johnson,16,4,1,11
+Searcy,Tomahawk,Auditor of State,,DEM,Diamond Arnold-Johnson,35,18,0,17
+Searcy,Wiley's Cove,Auditor of State,,DEM,Diamond Arnold-Johnson,60,19,7,34
+Searcy,Bear Creek #4,Auditor of State,,LIB,Simeon Snow,13,7,0,6
+Searcy,Bear Creek #5,Auditor of State,,LIB,Simeon Snow,6,5,0,1
+Searcy,Bear Creek #6,Auditor of State,,LIB,Simeon Snow,8,4,0,4
+Searcy,Calf Creek,Auditor of State,,LIB,Simeon Snow,10,3,0,7
+Searcy,Long Creek,Auditor of State,,LIB,Simeon Snow,10,7,0,3
+Searcy,Mt. Pleasant,Auditor of State,,LIB,Simeon Snow,4,2,0,2
+Searcy,Oxley,Auditor of State,,LIB,Simeon Snow,4,1,0,3
+Searcy,Prairie,Auditor of State,,LIB,Simeon Snow,4,0,0,4
+Searcy,Red River,Auditor of State,,LIB,Simeon Snow,9,4,0,5
+Searcy,Rock Creek,Auditor of State,,LIB,Simeon Snow,4,1,0,3
+Searcy,Shady Grove,Auditor of State,,LIB,Simeon Snow,7,1,0,6
+Searcy,Spring,Auditor of State,,LIB,Simeon Snow,5,2,0,3
+Searcy,St. Joe,Auditor of State,,LIB,Simeon Snow,5,1,0,4
+Searcy,Tomahawk,Auditor of State,,LIB,Simeon Snow,4,1,0,3
+Searcy,Wiley's Cove,Auditor of State,,LIB,Simeon Snow,16,2,0,14
+Searcy,Bear Creek #4,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,37,31,0,6
+Searcy,Bear Creek #5,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,43,26,5,12
+Searcy,Bear Creek #6,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,31,23,0,8
+Searcy,Calf Creek,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,25,10,0,15
+Searcy,Long Creek,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,9,5,0,4
+Searcy,Mt. Pleasant,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,21,8,0,13
+Searcy,Oxley,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,24,16,0,8
+Searcy,Prairie,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,22,4,0,18
+Searcy,Red River,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,21,19,0,2
+Searcy,Rock Creek,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,20,7,1,12
+Searcy,Shady Grove,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,15,10,0,5
+Searcy,Spring,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,45,17,3,25
+Searcy,St. Joe,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,18,5,1,12
+Searcy,Tomahawk,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,37,16,0,21
+Searcy,Wiley's Cove,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,65,20,7,38
+Searcy,Bear Creek #4,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,285,190,3,92
+Searcy,Bear Creek #5,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,299,202,5,92
+Searcy,Bear Creek #6,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,277,175,4,98
+Searcy,Calf Creek,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,69,28,1,40
+Searcy,Long Creek,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,179,70,3,106
+Searcy,Mt. Pleasant,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,146,37,3,106
+Searcy,Oxley,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,155,78,1,76
+Searcy,Prairie,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,156,50,1,105
+Searcy,Red River,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,87,47,5,35
+Searcy,Rock Creek,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,133,50,1,82
+Searcy,Shady Grove,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,58,35,0,23
+Searcy,Spring,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,166,74,2,90
+Searcy,St. Joe,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,122,33,2,87
+Searcy,Tomahawk,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,159,79,1,79
+Searcy,Wiley's Cove,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,295,132,5,158
+Searcy,Bear Creek #4,Governor,,REP,Sarah Huckabee Sanders,289,195,3,91
+Searcy,Bear Creek #5,Governor,,REP,Sarah Huckabee Sanders,308,209,4,95
+Searcy,Bear Creek #6,Governor,,REP,Sarah Huckabee Sanders,274,180,4,90
+Searcy,Calf Creek,Governor,,REP,Sarah Huckabee Sanders,72,30,0,42
+Searcy,Long Creek,Governor,,REP,Sarah Huckabee Sanders,179,68,3,108
+Searcy,Mt. Pleasant,Governor,,REP,Sarah Huckabee Sanders,142,38,3,101
+Searcy,Oxley,Governor,,REP,Sarah Huckabee Sanders,156,78,1,77
+Searcy,Prairie,Governor,,REP,Sarah Huckabee Sanders,158,49,1,108
+Searcy,Red River,Governor,,REP,Sarah Huckabee Sanders,84,49,3,32
+Searcy,Rock Creek,Governor,,REP,Sarah Huckabee Sanders,140,51,1,88
+Searcy,Shady Grove,Governor,,REP,Sarah Huckabee Sanders,58,34,0,24
+Searcy,Spring,Governor,,REP,Sarah Huckabee Sanders,177,78,2,97
+Searcy,St. Joe,Governor,,REP,Sarah Huckabee Sanders,119,35,2,82
+Searcy,Tomahawk,Governor,,REP,Sarah Huckabee Sanders,153,78,1,74
+Searcy,Wiley's Cove,Governor,,REP,Sarah Huckabee Sanders,299,141,5,153
+Searcy,Bear Creek #4,Governor,,DEM,Chris Jones,42,35,0,7
+Searcy,Bear Creek #5,Governor,,DEM,Chris Jones,50,32,6,12
+Searcy,Bear Creek #6,Governor,,DEM,Chris Jones,40,23,0,17
+Searcy,Calf Creek,Governor,,DEM,Chris Jones,27,13,0,14
+Searcy,Long Creek,Governor,,DEM,Chris Jones,9,5,0,4
+Searcy,Mt. Pleasant,Governor,,DEM,Chris Jones,26,8,0,18
+Searcy,Oxley,Governor,,DEM,Chris Jones,30,20,0,10
+Searcy,Prairie,Governor,,DEM,Chris Jones,23,4,0,19
+Searcy,Red River,Governor,,DEM,Chris Jones,24,20,2,2
+Searcy,Rock Creek,Governor,,DEM,Chris Jones,20,7,1,12
+Searcy,Shady Grove,Governor,,DEM,Chris Jones,13,10,0,3
+Searcy,Spring,Governor,,DEM,Chris Jones,47,19,3,25
+Searcy,St. Joe,Governor,,DEM,Chris Jones,20,4,1,15
+Searcy,Tomahawk,Governor,,DEM,Chris Jones,42,20,0,22
+Searcy,Wiley's Cove,Governor,,DEM,Chris Jones,79,22,8,49
+Searcy,Bear Creek #4,Governor,,LIB,"Ricky Dale Harrington, Jr.",6,2,0,4
+Searcy,Bear Creek #5,Governor,,LIB,"Ricky Dale Harrington, Jr.",10,7,0,3
+Searcy,Bear Creek #6,Governor,,LIB,"Ricky Dale Harrington, Jr.",6,3,0,3
+Searcy,Calf Creek,Governor,,LIB,"Ricky Dale Harrington, Jr.",4,0,1,3
+Searcy,Long Creek,Governor,,LIB,"Ricky Dale Harrington, Jr.",6,4,0,2
+Searcy,Mt. Pleasant,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,0,0,3
+Searcy,Oxley,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,1,0,2
+Searcy,Prairie,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,2,0,3
+Searcy,Red River,Governor,,LIB,"Ricky Dale Harrington, Jr.",6,3,0,3
+Searcy,Rock Creek,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Searcy,Shady Grove,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,1,0,1
+Searcy,Spring,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,1,0,0
+Searcy,St. Joe,Governor,,LIB,"Ricky Dale Harrington, Jr.",4,0,0,4
+Searcy,Tomahawk,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,1,0,4
+Searcy,Wiley's Cove,Governor,,LIB,"Ricky Dale Harrington, Jr.",8,1,0,7
+Searcy,Bear Creek #4,Lieutenant Governor,,DEM,Kelly Ross Krout,35,27,0,8
+Searcy,Bear Creek #5,Lieutenant Governor,,DEM,Kelly Ross Krout,43,29,5,9
+Searcy,Bear Creek #6,Lieutenant Governor,,DEM,Kelly Ross Krout,39,26,0,13
+Searcy,Calf Creek,Lieutenant Governor,,DEM,Kelly Ross Krout,25,12,0,13
+Searcy,Long Creek,Lieutenant Governor,,DEM,Kelly Ross Krout,7,5,0,2
+Searcy,Mt. Pleasant,Lieutenant Governor,,DEM,Kelly Ross Krout,21,8,0,13
+Searcy,Oxley,Lieutenant Governor,,DEM,Kelly Ross Krout,28,18,0,10
+Searcy,Prairie,Lieutenant Governor,,DEM,Kelly Ross Krout,21,4,0,17
+Searcy,Red River,Lieutenant Governor,,DEM,Kelly Ross Krout,23,19,2,2
+Searcy,Rock Creek,Lieutenant Governor,,DEM,Kelly Ross Krout,21,6,1,14
+Searcy,Shady Grove,Lieutenant Governor,,DEM,Kelly Ross Krout,14,10,0,4
+Searcy,Spring,Lieutenant Governor,,DEM,Kelly Ross Krout,42,18,3,21
+Searcy,St. Joe,Lieutenant Governor,,DEM,Kelly Ross Krout,16,4,1,11
+Searcy,Tomahawk,Lieutenant Governor,,DEM,Kelly Ross Krout,40,20,0,20
+Searcy,Wiley's Cove,Lieutenant Governor,,DEM,Kelly Ross Krout,65,21,7,37
+Searcy,Bear Creek #4,Lieutenant Governor,,LIB,Frank Gilbert,11,8,0,3
+Searcy,Bear Creek #5,Lieutenant Governor,,LIB,Frank Gilbert,15,10,0,5
+Searcy,Bear Creek #6,Lieutenant Governor,,LIB,Frank Gilbert,15,7,0,8
+Searcy,Calf Creek,Lieutenant Governor,,LIB,Frank Gilbert,7,1,0,6
+Searcy,Long Creek,Lieutenant Governor,,LIB,Frank Gilbert,9,4,0,5
+Searcy,Mt. Pleasant,Lieutenant Governor,,LIB,Frank Gilbert,3,3,0,0
+Searcy,Oxley,Lieutenant Governor,,LIB,Frank Gilbert,10,7,0,3
+Searcy,Prairie,Lieutenant Governor,,LIB,Frank Gilbert,6,2,0,4
+Searcy,Red River,Lieutenant Governor,,LIB,Frank Gilbert,9,6,0,3
+Searcy,Rock Creek,Lieutenant Governor,,LIB,Frank Gilbert,3,1,0,2
+Searcy,Shady Grove,Lieutenant Governor,,LIB,Frank Gilbert,5,0,0,5
+Searcy,Spring,Lieutenant Governor,,LIB,Frank Gilbert,9,2,0,7
+Searcy,St. Joe,Lieutenant Governor,,LIB,Frank Gilbert,7,3,0,4
+Searcy,Tomahawk,Lieutenant Governor,,LIB,Frank Gilbert,4,1,0,3
+Searcy,Wiley's Cove,Lieutenant Governor,,LIB,Frank Gilbert,15,3,0,12
+Searcy,Bear Creek #4,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,291,196,3,92
+Searcy,Bear Creek #5,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,305,209,5,91
+Searcy,Bear Creek #6,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,264,172,4,88
+Searcy,Calf Creek,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,67,29,1,37
+Searcy,Long Creek,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,175,67,3,105
+Searcy,Mt. Pleasant,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,148,35,3,110
+Searcy,Oxley,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,149,73,1,75
+Searcy,Prairie,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,157,49,1,107
+Searcy,Red River,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,80,45,3,32
+Searcy,Rock Creek,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,136,51,1,84
+Searcy,Shady Grove,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,54,35,0,19
+Searcy,Spring,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,168,76,2,90
+Searcy,St. Joe,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,119,31,2,86
+Searcy,Tomahawk,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,155,77,1,77
+Searcy,Wiley's Cove,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,298,138,6,154
+Searcy,Bear Creek #4,Secretary of State,,DEM,Anna Beth Gorman,41,34,0,7
+Searcy,Bear Creek #5,Secretary of State,,DEM,Anna Beth Gorman,46,30,4,12
+Searcy,Bear Creek #6,Secretary of State,,DEM,Anna Beth Gorman,34,21,0,13
+Searcy,Calf Creek,Secretary of State,,DEM,Anna Beth Gorman,27,12,0,15
+Searcy,Long Creek,Secretary of State,,DEM,Anna Beth Gorman,12,6,0,6
+Searcy,Mt. Pleasant,Secretary of State,,DEM,Anna Beth Gorman,20,8,0,12
+Searcy,Oxley,Secretary of State,,DEM,Anna Beth Gorman,28,18,0,10
+Searcy,Prairie,Secretary of State,,DEM,Anna Beth Gorman,20,4,0,16
+Searcy,Red River,Secretary of State,,DEM,Anna Beth Gorman,21,19,0,2
+Searcy,Rock Creek,Secretary of State,,DEM,Anna Beth Gorman,22,7,2,13
+Searcy,Shady Grove,Secretary of State,,DEM,Anna Beth Gorman,15,10,0,5
+Searcy,Spring,Secretary of State,,DEM,Anna Beth Gorman,46,18,3,25
+Searcy,St. Joe,Secretary of State,,DEM,Anna Beth Gorman,20,6,1,13
+Searcy,Tomahawk,Secretary of State,,DEM,Anna Beth Gorman,38,18,0,20
+Searcy,Wiley's Cove,Secretary of State,,DEM,Anna Beth Gorman,64,18,6,40
+Searcy,Bear Creek #4,Secretary of State,,REP,Secretary of State John Thurston,290,195,3,92
+Searcy,Bear Creek #5,Secretary of State,,REP,Secretary of State John Thurston,313,215,6,92
+Searcy,Bear Creek #6,Secretary of State,,REP,Secretary of State John Thurston,281,182,4,95
+Searcy,Calf Creek,Secretary of State,,REP,Secretary of State John Thurston,74,30,1,43
+Searcy,Long Creek,Secretary of State,,REP,Secretary of State John Thurston,178,70,3,105
+Searcy,Mt. Pleasant,Secretary of State,,REP,Secretary of State John Thurston,151,38,3,110
+Searcy,Oxley,Secretary of State,,REP,Secretary of State John Thurston,158,80,1,77
+Searcy,Prairie,Secretary of State,,REP,Secretary of State John Thurston,163,51,1,111
+Searcy,Red River,Secretary of State,,REP,Secretary of State John Thurston,89,49,5,35
+Searcy,Rock Creek,Secretary of State,,REP,Secretary of State John Thurston,134,51,0,83
+Searcy,Shady Grove,Secretary of State,,REP,Secretary of State John Thurston,58,35,0,23
+Searcy,Spring,Secretary of State,,REP,Secretary of State John Thurston,167,75,2,90
+Searcy,St. Joe,Secretary of State,,REP,Secretary of State John Thurston,122,32,2,88
+Searcy,Tomahawk,Secretary of State,,REP,Secretary of State John Thurston,159,80,1,78
+Searcy,Wiley's Cove,Secretary of State,,REP,Secretary of State John Thurston,302,138,7,157
+Searcy,Bear Creek #4,State Treasurer,,REP,State Representative Mark Lowery,284,192,3,89
+Searcy,Bear Creek #5,State Treasurer,,REP,State Representative Mark Lowery,302,206,5,91
+Searcy,Bear Creek #6,State Treasurer,,REP,State Representative Mark Lowery,273,175,4,94
+Searcy,Calf Creek,State Treasurer,,REP,State Representative Mark Lowery,70,27,1,42
+Searcy,Long Creek,State Treasurer,,REP,State Representative Mark Lowery,180,69,3,108
+Searcy,Mt. Pleasant,State Treasurer,,REP,State Representative Mark Lowery,152,38,2,112
+Searcy,Oxley,State Treasurer,,REP,State Representative Mark Lowery,151,78,1,72
+Searcy,Prairie,State Treasurer,,REP,State Representative Mark Lowery,161,51,1,109
+Searcy,Red River,State Treasurer,,REP,State Representative Mark Lowery,86,48,5,33
+Searcy,Rock Creek,State Treasurer,,REP,State Representative Mark Lowery,136,49,1,86
+Searcy,Shady Grove,State Treasurer,,REP,State Representative Mark Lowery,59,35,0,24
+Searcy,Spring,State Treasurer,,REP,State Representative Mark Lowery,168,73,2,93
+Searcy,St. Joe,State Treasurer,,REP,State Representative Mark Lowery,116,31,2,83
+Searcy,Tomahawk,State Treasurer,,REP,State Representative Mark Lowery,159,77,1,81
+Searcy,Wiley's Cove,State Treasurer,,REP,State Representative Mark Lowery,292,138,5,149
+Searcy,Bear Creek #4,State Treasurer,,DEM,Pam Whitaker,40,33,0,7
+Searcy,Bear Creek #5,State Treasurer,,DEM,Pam Whitaker,45,29,5,11
+Searcy,Bear Creek #6,State Treasurer,,DEM,Pam Whitaker,36,24,0,12
+Searcy,Calf Creek,State Treasurer,,DEM,Pam Whitaker,28,12,0,16
+Searcy,Long Creek,State Treasurer,,DEM,Pam Whitaker,10,7,0,3
+Searcy,Mt. Pleasant,State Treasurer,,DEM,Pam Whitaker,20,8,0,12
+Searcy,Oxley,State Treasurer,,DEM,Pam Whitaker,31,17,0,14
+Searcy,Prairie,State Treasurer,,DEM,Pam Whitaker,21,4,0,17
+Searcy,Red River,State Treasurer,,DEM,Pam Whitaker,21,18,0,3
+Searcy,Rock Creek,State Treasurer,,DEM,Pam Whitaker,21,8,1,12
+Searcy,Shady Grove,State Treasurer,,DEM,Pam Whitaker,14,10,0,4
+Searcy,Spring,State Treasurer,,DEM,Pam Whitaker,43,18,3,22
+Searcy,St. Joe,State Treasurer,,DEM,Pam Whitaker,21,7,1,13
+Searcy,Tomahawk,State Treasurer,,DEM,Pam Whitaker,36,19,0,17
+Searcy,Wiley's Cove,State Treasurer,,DEM,Pam Whitaker,76,23,7,46
+Searcy,Bear Creek #4,State Senate,24,REP,Senator Missy Thomas Irvin,290,194,3,93
+Searcy,Bear Creek #5,State Senate,24,REP,Senator Missy Thomas Irvin,305,203,8,94
+Searcy,Bear Creek #6,State Senate,24,REP,Senator Missy Thomas Irvin,276,177,3,96
+Searcy,Calf Creek,State Senate,24,REP,Senator Missy Thomas Irvin,78,32,1,45
+Searcy,Long Creek,State Senate,24,REP,Senator Missy Thomas Irvin,167,65,3,99
+Searcy,Mt. Pleasant,State Senate,24,REP,Senator Missy Thomas Irvin,153,42,3,108
+Searcy,Oxley,State Senate,24,REP,Senator Missy Thomas Irvin,162,84,1,77
+Searcy,Prairie,State Senate,24,REP,Senator Missy Thomas Irvin,151,48,1,102
+Searcy,Red River,State Senate,24,REP,Senator Missy Thomas Irvin,83,45,3,35
+Searcy,Rock Creek,State Senate,24,REP,Senator Missy Thomas Irvin,135,53,1,81
+Searcy,Shady Grove,State Senate,24,REP,Senator Missy Thomas Irvin,59,36,0,23
+Searcy,Spring,State Senate,24,REP,Senator Missy Thomas Irvin,164,75,3,86
+Searcy,St. Joe,State Senate,24,REP,Senator Missy Thomas Irvin,113,35,2,76
+Searcy,Tomahawk,State Senate,24,REP,Senator Missy Thomas Irvin,164,85,0,79
+Searcy,Wiley's Cove,State Senate,24,REP,Senator Missy Thomas Irvin,310,139,9,162
+Searcy,Bear Creek #4,State House,27,REP,Steven Walker,267,180,3,84
+Searcy,Bear Creek #5,State House,27,REP,Steven Walker,278,181,8,89
+Searcy,Bear Creek #6,State House,27,REP,Steven Walker,257,164,4,89
+Searcy,Calf Creek,State House,27,REP,Steven Walker,74,27,1,46
+Searcy,Long Creek,State House,27,REP,Steven Walker,162,64,3,95
+Searcy,Mt. Pleasant,State House,27,REP,Steven Walker,148,38,3,107
+Searcy,Oxley,State House,27,REP,Steven Walker,149,74,1,74
+Searcy,Prairie,State House,27,REP,Steven Walker,157,50,1,106
+Searcy,Red River,State House,27,REP,Steven Walker,83,49,3,31
+Searcy,Rock Creek,State House,27,REP,Steven Walker,130,50,1,79
+Searcy,Shady Grove,State House,27,REP,Steven Walker,55,33,0,22
+Searcy,Spring,State House,27,REP,Steven Walker,167,75,3,89
+Searcy,St. Joe,State House,27,REP,Steven Walker,110,32,2,76
+Searcy,Tomahawk,State House,27,REP,Steven Walker,149,75,0,74
+Searcy,Wiley's Cove,State House,27,REP,Steven Walker,282,118,8,156
+Searcy,Bear Creek #4,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,159,109,0,50
+Searcy,Bear Creek #5,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,159,105,3,51
+Searcy,Bear Creek #6,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,152,97,2,53
+Searcy,Calf Creek,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,40,16,0,24
+Searcy,Long Creek,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,90,36,3,51
+Searcy,Mt. Pleasant,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,69,22,1,46
+Searcy,Oxley,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,76,39,0,37
+Searcy,Prairie,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,81,27,1,53
+Searcy,Red River,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,41,18,3,20
+Searcy,Rock Creek,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,68,26,1,41
+Searcy,Shady Grove,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,29,14,0,15
+Searcy,Spring,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,82,39,0,43
+Searcy,St. Joe,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,63,15,2,46
+Searcy,Tomahawk,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,90,44,0,46
+Searcy,Wiley's Cove,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,164,72,8,84
+Searcy,Bear Creek #4,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,111,75,3,33
+Searcy,Bear Creek #5,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,130,87,7,36
+Searcy,Bear Creek #6,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,115,73,2,40
+Searcy,Calf Creek,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,34,16,1,17
+Searcy,Long Creek,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,72,28,0,44
+Searcy,Mt. Pleasant,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,68,16,2,50
+Searcy,Oxley,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,82,42,1,39
+Searcy,Prairie,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,79,21,0,58
+Searcy,Red River,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,47,31,2,14
+Searcy,Rock Creek,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,67,26,0,41
+Searcy,Shady Grove,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,35,26,0,9
+Searcy,Spring,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,90,38,3,49
+Searcy,St. Joe,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,46,18,0,28
+Searcy,Tomahawk,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,82,40,0,42
+Searcy,Wiley's Cove,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,147,63,4,80
+Searcy,Bear Creek #4,Circuit Clerk,,REP,REP Debbie Loggins,307,212,3,92
+Searcy,Bear Creek #5,Circuit Clerk,,REP,REP Debbie Loggins,338,224,10,104
+Searcy,Bear Creek #6,Circuit Clerk,,REP,REP Debbie Loggins,290,189,3,98
+Searcy,Calf Creek,Circuit Clerk,,REP,REP Debbie Loggins,96,39,1,56
+Searcy,Long Creek,Circuit Clerk,,REP,REP Debbie Loggins,168,68,3,97
+Searcy,Mt. Pleasant,Circuit Clerk,,REP,REP Debbie Loggins,156,45,3,108
+Searcy,Oxley,Circuit Clerk,,REP,REP Debbie Loggins,170,88,1,81
+Searcy,Prairie,Circuit Clerk,,REP,REP Debbie Loggins,172,53,1,118
+Searcy,Red River,Circuit Clerk,,REP,REP Debbie Loggins,94,55,3,36
+Searcy,Rock Creek,Circuit Clerk,,REP,REP Debbie Loggins,154,57,1,96
+Searcy,Shady Grove,Circuit Clerk,,REP,REP Debbie Loggins,61,37,0,24
+Searcy,Spring,Circuit Clerk,,REP,REP Debbie Loggins,187,86,5,96
+Searcy,St. Joe,Circuit Clerk,,REP,REP Debbie Loggins,127,36,2,89
+Searcy,Tomahawk,Circuit Clerk,,REP,REP Debbie Loggins,182,89,1,92
+Searcy,Wiley's Cove,Circuit Clerk,,REP,REP Debbie Loggins,338,145,11,182
+Searcy,Oxley,Justice of the Peace #8,,REP,REP Cindi Silor,45,20,0,25
+Searcy,Wiley's Cove,Justice of the Peace #8,,REP,REP Cindi Silor,209,104,3,102
+Searcy,Oxley,Justice of the Peace #8,,DEM,DEM Randy Rose,17,10,0,7
+Searcy,Wiley's Cove,Justice of the Peace #8,,DEM,DEM Randy Rose,144,45,9,90
+Searcy,Wiley's Cove,City of Leslie: Mayor,,NON,Talitha Hardin,72,31,2,39
+Searcy,Wiley's Cove,City of Leslie: Mayor,,NON,Eric Jaeger,108,24,6,78
+Searcy,Wiley's Cove,City of Leslie: Alderman: Ward #1, Position #1,NON,Sonja Owens,66,18,2,46
+Searcy,Wiley's Cove,City of Leslie: Alderman: Ward #1, Position #1,NON,Richard West,36,19,2,15
+Searcy,Wiley's Cove,City of Leslie: Alderman: Ward #1, Position #1,NON,Hayden Shelby,52,13,4,35
+Searcy,Wiley's Cove,City of Leslie: Alderman, Ward #1,NON,Michael L. Owens,94,30,2,62
+Searcy,Wiley's Cove,City of Leslie: Alderman, Ward #1,NON,Ronald Edmiston,65,20,6,39
+Searcy,Wiley's Cove,City of Leslie: Alderman, Ward #2,NON,Mitzi N. Myers,93,29,4,60
+Searcy,Wiley's Cove,City of Leslie: Alderman, Ward #2,NON,Diana M. Brodie,74,23,4,47
+Searcy,Wiley's Cove,City of Leslie: Alderman, Ward #2,NON,Joy Ellis,81,28,2,51
+Searcy,Wiley's Cove,City of Leslie: Alderman, Ward #2,NON,Toby Long,89,25,6,58
+Searcy,Bear Creek #5,City of Marshall: Mayor,,NON,Kevin Elliott,282,189,8,85
+Searcy,Bear Creek #6,City of Marshall: Mayor,,NON,Kevin Elliott,146,96,1,49
+Searcy,Spring,City of Marshall: Mayor,,NON,Kevin Elliott,0,0,0,0
+Searcy,Bear Creek #5,City of Marshall: Mayor,,NON,Jana Judd,60,39,2,19
+Searcy,Bear Creek #6,City of Marshall: Mayor,,NON,Jana Judd,27,17,1,9
+Searcy,Spring,City of Marshall: Mayor,,NON,Jana Judd,0,0,0,0
+Searcy,Bear Creek #4,Unopposed Candidates,,NON,FOR,206,145,3,58
+Searcy,Bear Creek #5,Unopposed Candidates,,NON,FOR,182,108,9,65
+Searcy,Bear Creek #6,Unopposed Candidates,,NON,FOR,174,113,4,57
+Searcy,Calf Creek,Unopposed Candidates,,NON,FOR,45,17,1,27
+Searcy,Long Creek,Unopposed Candidates,,NON,FOR,117,47,3,67
+Searcy,Mt. Pleasant,Unopposed Candidates,,NON,FOR,107,37,3,67
+Searcy,Oxley,Unopposed Candidates,,NON,FOR,115,63,1,51
+Searcy,Prairie,Unopposed Candidates,,NON,FOR,113,30,1,82
+Searcy,Red River,Unopposed Candidates,,NON,FOR,66,36,3,27
+Searcy,Rock Creek,Unopposed Candidates,,NON,FOR,94,38,0,56
+Searcy,Shady Grove,Unopposed Candidates,,NON,FOR,50,31,0,19
+Searcy,Spring,Unopposed Candidates,,NON,FOR,122,57,3,62
+Searcy,St. Joe,Unopposed Candidates,,NON,FOR,69,19,2,48
+Searcy,Tomahawk,Unopposed Candidates,,NON,FOR,121,64,1,56
+Searcy,Wiley's Cove,Unopposed Candidates,,NON,FOR,179,82,7,90
+Searcy,Bear Creek #4,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,86,60,1,25
+Searcy,Bear Creek #5,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,103,73,3,27
+Searcy,Bear Creek #6,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,92,66,3,23
+Searcy,Calf Creek,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,17,8,0,9
+Searcy,Long Creek,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,50,30,2,18
+Searcy,Mt. Pleasant,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,60,23,3,34
+Searcy,Oxley,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,56,32,0,24
+Searcy,Prairie,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,64,29,0,35
+Searcy,Red River,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,30,19,2,9
+Searcy,Rock Creek,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,50,17,1,32
+Searcy,Shady Grove,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,27,16,0,11
+Searcy,Spring,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,70,30,4,36
+Searcy,St. Joe,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,49,18,2,29
+Searcy,Tomahawk,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,63,35,0,28
+Searcy,Wiley's Cove,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,110,43,7,60
+Searcy,Bear Creek #4,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,221,147,2,72
+Searcy,Bear Creek #5,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,215,140,5,70
+Searcy,Bear Creek #6,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,207,124,1,82
+Searcy,Calf Creek,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,80,33,1,46
+Searcy,Long Creek,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,135,44,1,90
+Searcy,Mt. Pleasant,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,106,24,0,82
+Searcy,Oxley,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,123,63,1,59
+Searcy,Prairie,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,110,25,1,84
+Searcy,Red River,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,78,47,3,28
+Searcy,Rock Creek,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,94,35,1,58
+Searcy,Shady Grove,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,46,29,0,17
+Searcy,Spring,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,142,61,1,80
+Searcy,St. Joe,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,89,20,1,68
+Searcy,Tomahawk,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,130,58,0,72
+Searcy,Wiley's Cove,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,241,106,6,129
+Searcy,Bear Creek #4,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,124,83,1,40
+Searcy,Bear Creek #5,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,128,93,2,33
+Searcy,Bear Creek #6,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,120,81,3,36
+Searcy,Calf Creek,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,34,15,1,18
+Searcy,Long Creek,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,68,27,0,41
+Searcy,Mt. Pleasant,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,75,26,3,46
+Searcy,Oxley,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,72,39,0,33
+Searcy,Prairie,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,78,31,0,47
+Searcy,Red River,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,34,17,4,13
+Searcy,Rock Creek,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,55,12,0,43
+Searcy,Shady Grove,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,33,20,0,13
+Searcy,Spring,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,83,33,2,48
+Searcy,St. Joe,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,65,22,1,42
+Searcy,Tomahawk,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,72,33,0,39
+Searcy,Wiley's Cove,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,150,72,3,75
+Searcy,Bear Creek #4,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,195,135,2,58
+Searcy,Bear Creek #5,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,202,126,7,69
+Searcy,Bear Creek #6,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,183,111,0,72
+Searcy,Calf Creek,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,66,27,0,39
+Searcy,Long Creek,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,121,48,3,70
+Searcy,Mt. Pleasant,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,92,21,0,71
+Searcy,Oxley,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,108,54,1,53
+Searcy,Prairie,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,100,23,1,76
+Searcy,Red River,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,73,48,1,24
+Searcy,Rock Creek,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,97,42,2,53
+Searcy,Shady Grove,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,40,25,0,15
+Searcy,Spring,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,132,57,3,72
+Searcy,St. Joe,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,78,16,2,60
+Searcy,Tomahawk,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,122,59,1,62
+Searcy,Wiley's Cove,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,213,80,10,123
+Searcy,Bear Creek #4,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,148,112,1,35
+Searcy,Bear Creek #5,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,163,113,2,48
+Searcy,Bear Creek #6,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,139,88,3,48
+Searcy,Calf Creek,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,15,5,1,9
+Searcy,Long Creek,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,69,32,2,35
+Searcy,Mt. Pleasant,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,86,24,3,59
+Searcy,Oxley,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,95,47,0,48
+Searcy,Prairie,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,95,35,0,60
+Searcy,Red River,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,46,30,2,14
+Searcy,Rock Creek,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,80,26,1,53
+Searcy,Shady Grove,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,31,20,0,11
+Searcy,Spring,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,90,38,2,50
+Searcy,St. Joe,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,81,26,2,53
+Searcy,Tomahawk,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,84,41,1,42
+Searcy,Wiley's Cove,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,188,93,5,90
+Searcy,Bear Creek #4,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,181,113,2,66
+Searcy,Bear Creek #5,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,174,112,7,55
+Searcy,Bear Creek #6,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,169,109,0,60
+Searcy,Calf Creek,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,84,36,0,48
+Searcy,Long Creek,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,119,43,1,75
+Searcy,Mt. Pleasant,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,84,23,0,61
+Searcy,Oxley,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,87,48,1,38
+Searcy,Prairie,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,89,19,1,69
+Searcy,Red River,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,67,40,3,24
+Searcy,Rock Creek,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,75,28,1,46
+Searcy,Shady Grove,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,42,25,0,17
+Searcy,Spring,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,130,57,1,72
+Searcy,St. Joe,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,63,12,1,50
+Searcy,Tomahawk,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,112,54,0,58
+Searcy,Wiley's Cove,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,178,63,8,107
+Searcy,Bear Creek #4,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,104,75,1,28
+Searcy,Bear Creek #5,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,125,78,3,44
+Searcy,Bear Creek #6,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,93,59,2,32
+Searcy,Calf Creek,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,43,16,1,26
+Searcy,Long Creek,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,54,27,0,27
+Searcy,Mt. Pleasant,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,52,17,1,34
+Searcy,Oxley,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,71,40,0,31
+Searcy,Prairie,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,51,10,0,41
+Searcy,Red River,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,46,29,3,14
+Searcy,Rock Creek,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,72,23,2,47
+Searcy,Shady Grove,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,26,18,0,8
+Searcy,Spring,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,80,36,3,41
+Searcy,St. Joe,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,48,20,0,28
+Searcy,Tomahawk,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,90,43,0,47
+Searcy,Wiley's Cove,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,148,52,6,90
+Searcy,Bear Creek #4,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,232,156,2,74
+Searcy,Bear Creek #5,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,233,162,7,64
+Searcy,Bear Creek #6,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,226,147,2,77
+Searcy,Calf Creek,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,59,26,0,33
+Searcy,Long Creek,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,139,50,3,86
+Searcy,Mt. Pleasant,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,119,29,2,88
+Searcy,Oxley,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,118,59,1,58
+Searcy,Prairie,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,135,46,1,88
+Searcy,Red River,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,67,41,2,24
+Searcy,Rock Creek,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,90,34,0,56
+Searcy,Shady Grove,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,46,26,0,20
+Searcy,Spring,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,146,62,2,82
+Searcy,St. Joe,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,94,18,3,73
+Searcy,Tomahawk,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,112,57,1,54
+Searcy,Wiley's Cove,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,238,114,7,117

@@ -1,0 +1,743 @@
+county,precinct,office,district,party,candidate,votes,early_vote,absentee,election_day
+St Francis,Hughes,U.S. Senate,,DEM,Natalie James,210,33,3,174
+St Francis,Heth/Blackfish,U.S. Senate,,DEM,Natalie James,52,8,2,42
+St Francis,Widener,U.S. Senate,,DEM,Natalie James,46,10,0,36
+St Francis,Madison,U.S. Senate,,DEM,Natalie James,120,43,0,77
+St Francis,Bonair,U.S. Senate,,DEM,Natalie James,70,40,3,27
+St Francis,Newcastle/Parrott,U.S. Senate,,DEM,Natalie James,97,58,1,38
+St Francis,Colt,U.S. Senate,,DEM,Natalie James,122,46,3,73
+St Francis,Caldwell,U.S. Senate,,DEM,Natalie James,38,17,0,21
+St Francis,Forrest City Country West,U.S. Senate,,DEM,Natalie James,62,48,5,9
+St Francis,Palestine,U.S. Senate,,DEM,Natalie James,123,54,10,59
+St Francis,Wheatley,U.S. Senate,,DEM,Natalie James,35,7,4,24
+St Francis,FC Ward 1,U.S. Senate,,DEM,Natalie James,445,265,38,142
+St Francis,FC Ward 2,U.S. Senate,,DEM,Natalie James,410,241,49,120
+St Francis,FC Ward 3,U.S. Senate,,DEM,Natalie James,322,197,24,101
+St Francis,FC Ward 4,U.S. Senate,,DEM,Natalie James,272,173,11,88
+St Francis,Hughes,U.S. Senate,,REP,Senator John Boozman,105,35,0,70
+St Francis,Heth/Blackfish,U.S. Senate,,REP,Senator John Boozman,77,18,0,59
+St Francis,Widener,U.S. Senate,,REP,Senator John Boozman,49,15,0,34
+St Francis,Madison,U.S. Senate,,REP,Senator John Boozman,41,26,1,14
+St Francis,Bonair,U.S. Senate,,REP,Senator John Boozman,217,100,3,114
+St Francis,Newcastle/Parrott,U.S. Senate,,REP,Senator John Boozman,569,251,4,314
+St Francis,Colt,U.S. Senate,,REP,Senator John Boozman,253,83,1,169
+St Francis,Caldwell,U.S. Senate,,REP,Senator John Boozman,151,64,1,86
+St Francis,Forrest City Country West,U.S. Senate,,REP,Senator John Boozman,41,25,0,16
+St Francis,Palestine,U.S. Senate,,REP,Senator John Boozman,336,104,6,226
+St Francis,Wheatley,U.S. Senate,,REP,Senator John Boozman,103,13,0,90
+St Francis,FC Ward 1,U.S. Senate,,REP,Senator John Boozman,32,26,0,6
+St Francis,FC Ward 2,U.S. Senate,,REP,Senator John Boozman,39,21,0,18
+St Francis,FC Ward 3,U.S. Senate,,REP,Senator John Boozman,286,184,3,99
+St Francis,FC Ward 4,U.S. Senate,,REP,Senator John Boozman,215,138,3,74
+St Francis,Hughes,U.S. Senate,,LIB,Kenneth Cates,7,3,0,4
+St Francis,Heth/Blackfish,U.S. Senate,,LIB,Kenneth Cates,4,3,0,1
+St Francis,Widener,U.S. Senate,,LIB,Kenneth Cates,3,2,0,1
+St Francis,Madison,U.S. Senate,,LIB,Kenneth Cates,7,2,0,5
+St Francis,Bonair,U.S. Senate,,LIB,Kenneth Cates,2,0,0,2
+St Francis,Newcastle/Parrott,U.S. Senate,,LIB,Kenneth Cates,14,6,0,8
+St Francis,Colt,U.S. Senate,,LIB,Kenneth Cates,7,1,0,6
+St Francis,Caldwell,U.S. Senate,,LIB,Kenneth Cates,3,3,0,0
+St Francis,Forrest City Country West,U.S. Senate,,LIB,Kenneth Cates,2,0,0,2
+St Francis,Palestine,U.S. Senate,,LIB,Kenneth Cates,4,1,0,3
+St Francis,Wheatley,U.S. Senate,,LIB,Kenneth Cates,2,1,0,1
+St Francis,FC Ward 1,U.S. Senate,,LIB,Kenneth Cates,9,8,0,1
+St Francis,FC Ward 2,U.S. Senate,,LIB,Kenneth Cates,11,7,0,4
+St Francis,FC Ward 3,U.S. Senate,,LIB,Kenneth Cates,18,6,0,12
+St Francis,FC Ward 4,U.S. Senate,,LIB,Kenneth Cates,8,5,0,3
+St Francis,Hughes,U.S. Congress District 01,,REP,Congressman Rick Crawford,107,36,0,71
+St Francis,Heth/Blackfish,U.S. Congress District 01,,REP,Congressman Rick Crawford,76,20,0,56
+St Francis,Widener,U.S. Congress District 01,,REP,Congressman Rick Crawford,53,16,0,37
+St Francis,Madison,U.S. Congress District 01,,REP,Congressman Rick Crawford,44,24,1,19
+St Francis,Bonair,U.S. Congress District 01,,REP,Congressman Rick Crawford,223,103,2,118
+St Francis,Newcastle/Parrott,U.S. Congress District 01,,REP,Congressman Rick Crawford,589,254,4,331
+St Francis,Colt,U.S. Congress District 01,,REP,Congressman Rick Crawford,249,78,1,170
+St Francis,Caldwell,U.S. Congress District 01,,REP,Congressman Rick Crawford,153,67,1,85
+St Francis,Forrest City Country West,U.S. Congress District 01,,REP,Congressman Rick Crawford,43,27,0,16
+St Francis,Palestine,U.S. Congress District 01,,REP,Congressman Rick Crawford,330,105,5,220
+St Francis,Wheatley,U.S. Congress District 01,,REP,Congressman Rick Crawford,104,13,1,90
+St Francis,FC Ward 1,U.S. Congress District 01,,REP,Congressman Rick Crawford,41,34,0,7
+St Francis,FC Ward 2,U.S. Congress District 01,,REP,Congressman Rick Crawford,45,22,0,23
+St Francis,FC Ward 3,U.S. Congress District 01,,REP,Congressman Rick Crawford,295,187,3,105
+St Francis,FC Ward 4,U.S. Congress District 01,,REP,Congressman Rick Crawford,221,136,3,82
+St Francis,Hughes,U.S. Congress District 01,,DEM,Representative Monte Hodges,208,34,3,171
+St Francis,Heth/Blackfish,U.S. Congress District 01,,DEM,Representative Monte Hodges,56,8,2,46
+St Francis,Widener,U.S. Congress District 01,,DEM,Representative Monte Hodges,45,11,0,34
+St Francis,Madison,U.S. Congress District 01,,DEM,Representative Monte Hodges,121,45,0,76
+St Francis,Bonair,U.S. Congress District 01,,DEM,Representative Monte Hodges,65,36,4,25
+St Francis,Newcastle/Parrott,U.S. Congress District 01,,DEM,Representative Monte Hodges,90,59,1,30
+St Francis,Colt,U.S. Congress District 01,,DEM,Representative Monte Hodges,125,50,3,72
+St Francis,Caldwell,U.S. Congress District 01,,DEM,Representative Monte Hodges,42,19,0,23
+St Francis,Forrest City Country West,U.S. Congress District 01,,DEM,Representative Monte Hodges,63,47,5,11
+St Francis,Palestine,U.S. Congress District 01,,DEM,Representative Monte Hodges,125,52,11,62
+St Francis,Wheatley,U.S. Congress District 01,,DEM,Representative Monte Hodges,34,7,3,24
+St Francis,FC Ward 1,U.S. Congress District 01,,DEM,Representative Monte Hodges,433,258,38,137
+St Francis,FC Ward 2,U.S. Congress District 01,,DEM,Representative Monte Hodges,412,245,50,117
+St Francis,FC Ward 3,U.S. Congress District 01,,DEM,Representative Monte Hodges,326,196,24,106
+St Francis,FC Ward 4,U.S. Congress District 01,,DEM,Representative Monte Hodges,268,172,11,85
+St Francis,Hughes,Attorney General,,DEM,Jesse Gibson,210,32,3,175
+St Francis,Heth/Blackfish,Attorney General,,DEM,Jesse Gibson,56,9,2,45
+St Francis,Widener,Attorney General,,DEM,Jesse Gibson,52,12,0,40
+St Francis,Madison,Attorney General,,DEM,Jesse Gibson,125,46,0,79
+St Francis,Bonair,Attorney General,,DEM,Jesse Gibson,74,43,4,27
+St Francis,Newcastle/Parrott,Attorney General,,DEM,Jesse Gibson,92,59,0,33
+St Francis,Colt,Attorney General,,DEM,Jesse Gibson,129,49,3,77
+St Francis,Caldwell,Attorney General,,DEM,Jesse Gibson,40,18,0,22
+St Francis,Forrest City Country West,Attorney General,,DEM,Jesse Gibson,65,49,5,11
+St Francis,Palestine,Attorney General,,DEM,Jesse Gibson,132,58,9,65
+St Francis,Wheatley,Attorney General,,DEM,Jesse Gibson,35,7,4,24
+St Francis,FC Ward 1,Attorney General,,DEM,Jesse Gibson,439,262,38,139
+St Francis,FC Ward 2,Attorney General,,DEM,Jesse Gibson,407,241,49,117
+St Francis,FC Ward 3,Attorney General,,DEM,Jesse Gibson,327,201,24,102
+St Francis,FC Ward 4,Attorney General,,DEM,Jesse Gibson,283,180,11,92
+St Francis,Hughes,Attorney General,,REP,Lieutenant Governor Tim Griffin,111,38,0,73
+St Francis,Heth/Blackfish,Attorney General,,REP,Lieutenant Governor Tim Griffin,79,20,0,59
+St Francis,Widener,Attorney General,,REP,Lieutenant Governor Tim Griffin,48,16,0,32
+St Francis,Madison,Attorney General,,REP,Lieutenant Governor Tim Griffin,40,23,1,16
+St Francis,Bonair,Attorney General,,REP,Lieutenant Governor Tim Griffin,216,97,2,117
+St Francis,Newcastle/Parrott,Attorney General,,REP,Lieutenant Governor Tim Griffin,583,254,5,324
+St Francis,Colt,Attorney General,,REP,Lieutenant Governor Tim Griffin,253,82,1,170
+St Francis,Caldwell,Attorney General,,REP,Lieutenant Governor Tim Griffin,154,68,1,85
+St Francis,Forrest City Country West,Attorney General,,REP,Lieutenant Governor Tim Griffin,41,25,0,16
+St Francis,Palestine,Attorney General,,REP,Lieutenant Governor Tim Griffin,328,102,7,219
+St Francis,Wheatley,Attorney General,,REP,Lieutenant Governor Tim Griffin,105,13,0,92
+St Francis,FC Ward 1,Attorney General,,REP,Lieutenant Governor Tim Griffin,39,33,0,6
+St Francis,FC Ward 2,Attorney General,,REP,Lieutenant Governor Tim Griffin,50,25,0,25
+St Francis,FC Ward 3,Attorney General,,REP,Lieutenant Governor Tim Griffin,295,184,3,108
+St Francis,FC Ward 4,Attorney General,,REP,Lieutenant Governor Tim Griffin,213,135,3,75
+St Francis,Hughes,Auditor of State,,REP,Treasurer of State Dennis Milligan,102,35,0,67
+St Francis,Heth/Blackfish,Auditor of State,,REP,Treasurer of State Dennis Milligan,80,19,0,61
+St Francis,Widener,Auditor of State,,REP,Treasurer of State Dennis Milligan,45,14,0,31
+St Francis,Madison,Auditor of State,,REP,Treasurer of State Dennis Milligan,40,23,1,16
+St Francis,Bonair,Auditor of State,,REP,Treasurer of State Dennis Milligan,216,98,2,116
+St Francis,Newcastle/Parrott,Auditor of State,,REP,Treasurer of State Dennis Milligan,575,247,5,323
+St Francis,Colt,Auditor of State,,REP,Treasurer of State Dennis Milligan,250,80,1,169
+St Francis,Caldwell,Auditor of State,,REP,Treasurer of State Dennis Milligan,154,66,1,87
+St Francis,Forrest City Country West,Auditor of State,,REP,Treasurer of State Dennis Milligan,39,24,0,15
+St Francis,Palestine,Auditor of State,,REP,Treasurer of State Dennis Milligan,322,103,5,214
+St Francis,Wheatley,Auditor of State,,REP,Treasurer of State Dennis Milligan,106,13,0,93
+St Francis,FC Ward 1,Auditor of State,,REP,Treasurer of State Dennis Milligan,30,23,0,7
+St Francis,FC Ward 2,Auditor of State,,REP,Treasurer of State Dennis Milligan,41,21,0,20
+St Francis,FC Ward 3,Auditor of State,,REP,Treasurer of State Dennis Milligan,286,182,3,101
+St Francis,FC Ward 4,Auditor of State,,REP,Treasurer of State Dennis Milligan,217,140,3,74
+St Francis,Hughes,Auditor of State,,LIB,Simeon Snow,9,5,0,4
+St Francis,Heth/Blackfish,Auditor of State,,LIB,Simeon Snow,2,1,1,0
+St Francis,Widener,Auditor of State,,LIB,Simeon Snow,3,1,0,2
+St Francis,Madison,Auditor of State,,LIB,Simeon Snow,7,4,0,3
+St Francis,Bonair,Auditor of State,,LIB,Simeon Snow,7,4,0,3
+St Francis,Newcastle/Parrott,Auditor of State,,LIB,Simeon Snow,19,10,0,9
+St Francis,Colt,Auditor of State,,LIB,Simeon Snow,10,4,0,6
+St Francis,Caldwell,Auditor of State,,LIB,Simeon Snow,7,5,0,2
+St Francis,Forrest City Country West,Auditor of State,,LIB,Simeon Snow,5,1,0,4
+St Francis,Palestine,Auditor of State,,LIB,Simeon Snow,12,4,0,8
+St Francis,Wheatley,Auditor of State,,LIB,Simeon Snow,2,0,0,2
+St Francis,FC Ward 1,Auditor of State,,LIB,Simeon Snow,14,12,1,1
+St Francis,FC Ward 2,Auditor of State,,LIB,Simeon Snow,13,9,0,4
+St Francis,FC Ward 3,Auditor of State,,LIB,Simeon Snow,27,14,0,13
+St Francis,FC Ward 4,Auditor of State,,LIB,Simeon Snow,19,13,0,6
+St Francis,Hughes,Auditor of State,,DEM,Diamond Arnold-Johnson,205,30,3,172
+St Francis,Heth/Blackfish,Auditor of State,,DEM,Diamond Arnold-Johnson,50,9,1,40
+St Francis,Widener,Auditor of State,,DEM,Diamond Arnold-Johnson,49,11,0,38
+St Francis,Madison,Auditor of State,,DEM,Diamond Arnold-Johnson,115,42,0,73
+St Francis,Bonair,Auditor of State,,DEM,Diamond Arnold-Johnson,66,38,4,24
+St Francis,Newcastle/Parrott,Auditor of State,,DEM,Diamond Arnold-Johnson,84,57,0,27
+St Francis,Colt,Auditor of State,,DEM,Diamond Arnold-Johnson,116,44,3,69
+St Francis,Caldwell,Auditor of State,,DEM,Diamond Arnold-Johnson,33,14,0,19
+St Francis,Forrest City Country West,Auditor of State,,DEM,Diamond Arnold-Johnson,59,46,5,8
+St Francis,Palestine,Auditor of State,,DEM,Diamond Arnold-Johnson,120,52,11,57
+St Francis,Wheatley,Auditor of State,,DEM,Diamond Arnold-Johnson,30,6,4,20
+St Francis,FC Ward 1,Auditor of State,,DEM,Diamond Arnold-Johnson,434,258,38,138
+St Francis,FC Ward 2,Auditor of State,,DEM,Diamond Arnold-Johnson,401,235,49,117
+St Francis,FC Ward 3,Auditor of State,,DEM,Diamond Arnold-Johnson,311,188,24,99
+St Francis,FC Ward 4,Auditor of State,,DEM,Diamond Arnold-Johnson,258,162,11,85
+St Francis,Hughes,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,111,38,0,73
+St Francis,Heth/Blackfish,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,79,19,0,60
+St Francis,Widener,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,47,14,0,33
+St Francis,Madison,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,46,26,1,19
+St Francis,Bonair,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,223,99,3,121
+St Francis,Newcastle/Parrott,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,588,256,5,327
+St Francis,Colt,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,256,82,1,173
+St Francis,Caldwell,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,156,69,1,86
+St Francis,Forrest City Country West,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,42,26,0,16
+St Francis,Palestine,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,330,104,5,221
+St Francis,Wheatley,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,105,14,0,91
+St Francis,FC Ward 1,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,39,33,0,6
+St Francis,FC Ward 2,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,51,27,1,23
+St Francis,FC Ward 3,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,298,183,3,112
+St Francis,FC Ward 4,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,231,147,3,81
+St Francis,Hughes,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,207,33,3,171
+St Francis,Heth/Blackfish,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,54,10,2,42
+St Francis,Widener,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,50,13,0,37
+St Francis,Madison,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,121,44,0,77
+St Francis,Bonair,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,67,41,3,23
+St Francis,Newcastle/Parrott,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,89,56,0,33
+St Francis,Colt,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,120,46,3,71
+St Francis,Caldwell,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,38,17,0,21
+St Francis,Forrest City Country West,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,60,44,5,11
+St Francis,Palestine,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,122,53,10,59
+St Francis,Wheatley,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,34,6,4,24
+St Francis,FC Ward 1,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,442,259,39,144
+St Francis,FC Ward 2,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,406,242,46,118
+St Francis,FC Ward 3,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,324,203,24,97
+St Francis,FC Ward 4,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,262,166,11,85
+St Francis,Hughes,Governor,,REP,Sarah Huckabee Sanders,99,32,0,67
+St Francis,Heth/Blackfish,Governor,,REP,Sarah Huckabee Sanders,81,19,0,62
+St Francis,Widener,Governor,,REP,Sarah Huckabee Sanders,47,14,0,33
+St Francis,Madison,Governor,,REP,Sarah Huckabee Sanders,40,24,1,15
+St Francis,Bonair,Governor,,REP,Sarah Huckabee Sanders,213,97,2,114
+St Francis,Newcastle/Parrott,Governor,,REP,Sarah Huckabee Sanders,567,244,4,319
+St Francis,Colt,Governor,,REP,Sarah Huckabee Sanders,254,82,1,171
+St Francis,Caldwell,Governor,,REP,Sarah Huckabee Sanders,151,66,1,84
+St Francis,Forrest City Country West,Governor,,REP,Sarah Huckabee Sanders,41,25,0,16
+St Francis,Palestine,Governor,,REP,Sarah Huckabee Sanders,331,105,6,220
+St Francis,Wheatley,Governor,,REP,Sarah Huckabee Sanders,101,14,0,87
+St Francis,FC Ward 1,Governor,,REP,Sarah Huckabee Sanders,41,29,0,12
+St Francis,FC Ward 2,Governor,,REP,Sarah Huckabee Sanders,46,24,0,22
+St Francis,FC Ward 3,Governor,,REP,Sarah Huckabee Sanders,260,166,2,92
+St Francis,FC Ward 4,Governor,,REP,Sarah Huckabee Sanders,205,129,3,73
+St Francis,Hughes,Governor,,DEM,Chris Jones,227,42,3,182
+St Francis,Heth/Blackfish,Governor,,DEM,Chris Jones,53,9,2,42
+St Francis,Widener,Governor,,DEM,Chris Jones,51,13,0,38
+St Francis,Madison,Governor,,DEM,Chris Jones,124,47,0,77
+St Francis,Bonair,Governor,,DEM,Chris Jones,74,41,4,29
+St Francis,Newcastle/Parrott,Governor,,DEM,Chris Jones,103,64,1,38
+St Francis,Colt,Governor,,DEM,Chris Jones,123,47,3,73
+St Francis,Caldwell,Governor,,DEM,Chris Jones,42,18,0,24
+St Francis,Forrest City Country West,Governor,,DEM,Chris Jones,64,49,5,10
+St Francis,Palestine,Governor,,DEM,Chris Jones,132,57,10,65
+St Francis,Wheatley,Governor,,DEM,Chris Jones,37,6,4,27
+St Francis,FC Ward 1,Governor,,DEM,Chris Jones,443,267,39,137
+St Francis,FC Ward 2,Governor,,DEM,Chris Jones,414,243,48,123
+St Francis,FC Ward 3,Governor,,DEM,Chris Jones,357,221,25,111
+St Francis,FC Ward 4,Governor,,DEM,Chris Jones,283,182,10,91
+St Francis,Hughes,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+St Francis,Heth/Blackfish,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,1,0,0
+St Francis,Widener,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,1,0,0
+St Francis,Madison,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,1,0,4
+St Francis,Bonair,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,2,0,1
+St Francis,Newcastle/Parrott,Governor,,LIB,"Ricky Dale Harrington, Jr.",12,7,0,5
+St Francis,Colt,Governor,,LIB,"Ricky Dale Harrington, Jr.",6,2,0,4
+St Francis,Caldwell,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,2,0,0
+St Francis,Forrest City Country West,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,1,0,2
+St Francis,Palestine,Governor,,LIB,"Ricky Dale Harrington, Jr.",4,0,0,4
+St Francis,Wheatley,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,1,0,2
+St Francis,FC Ward 1,Governor,,LIB,"Ricky Dale Harrington, Jr.",8,6,0,2
+St Francis,FC Ward 2,Governor,,LIB,"Ricky Dale Harrington, Jr.",10,8,1,1
+St Francis,FC Ward 3,Governor,,LIB,"Ricky Dale Harrington, Jr.",11,3,0,8
+St Francis,FC Ward 4,Governor,,LIB,"Ricky Dale Harrington, Jr.",8,5,1,2
+St Francis,Hughes,Lieutenant Governor,,LIB,Frank Gilbert,5,1,0,4
+St Francis,Heth/Blackfish,Lieutenant Governor,,LIB,Frank Gilbert,3,1,0,2
+St Francis,Widener,Lieutenant Governor,,LIB,Frank Gilbert,7,0,0,7
+St Francis,Madison,Lieutenant Governor,,LIB,Frank Gilbert,6,1,0,5
+St Francis,Bonair,Lieutenant Governor,,LIB,Frank Gilbert,8,1,0,7
+St Francis,Newcastle/Parrott,Lieutenant Governor,,LIB,Frank Gilbert,16,7,0,9
+St Francis,Colt,Lieutenant Governor,,LIB,Frank Gilbert,8,3,0,5
+St Francis,Caldwell,Lieutenant Governor,,LIB,Frank Gilbert,4,3,0,1
+St Francis,Forrest City Country West,Lieutenant Governor,,LIB,Frank Gilbert,6,0,3,3
+St Francis,Palestine,Lieutenant Governor,,LIB,Frank Gilbert,6,4,0,2
+St Francis,Wheatley,Lieutenant Governor,,LIB,Frank Gilbert,2,1,1,0
+St Francis,FC Ward 1,Lieutenant Governor,,LIB,Frank Gilbert,14,8,0,6
+St Francis,FC Ward 2,Lieutenant Governor,,LIB,Frank Gilbert,11,6,0,5
+St Francis,FC Ward 3,Lieutenant Governor,,LIB,Frank Gilbert,16,9,0,7
+St Francis,FC Ward 4,Lieutenant Governor,,LIB,Frank Gilbert,10,7,0,3
+St Francis,Hughes,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,106,35,0,71
+St Francis,Heth/Blackfish,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,79,20,0,59
+St Francis,Widener,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,46,16,0,30
+St Francis,Madison,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,42,25,1,16
+St Francis,Bonair,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,214,98,2,114
+St Francis,Newcastle/Parrott,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,576,249,4,323
+St Francis,Colt,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,248,82,1,165
+St Francis,Caldwell,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,152,65,1,86
+St Francis,Forrest City Country West,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,43,27,0,16
+St Francis,Palestine,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,331,100,6,225
+St Francis,Wheatley,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,106,13,0,93
+St Francis,FC Ward 1,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,43,36,1,6
+St Francis,FC Ward 2,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,51,28,1,22
+St Francis,FC Ward 3,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,283,182,2,99
+St Francis,FC Ward 4,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,213,135,3,75
+St Francis,Hughes,Lieutenant Governor,,DEM,Kelly Ross Krout,210,33,3,174
+St Francis,Heth/Blackfish,Lieutenant Governor,,DEM,Kelly Ross Krout,51,8,2,41
+St Francis,Widener,Lieutenant Governor,,DEM,Kelly Ross Krout,44,11,0,33
+St Francis,Madison,Lieutenant Governor,,DEM,Kelly Ross Krout,119,45,0,74
+St Francis,Bonair,Lieutenant Governor,,DEM,Kelly Ross Krout,68,41,4,23
+St Francis,Newcastle/Parrott,Lieutenant Governor,,DEM,Kelly Ross Krout,87,55,1,31
+St Francis,Colt,Lieutenant Governor,,DEM,Kelly Ross Krout,120,44,3,73
+St Francis,Caldwell,Lieutenant Governor,,DEM,Kelly Ross Krout,39,18,0,21
+St Francis,Forrest City Country West,Lieutenant Governor,,DEM,Kelly Ross Krout,56,46,2,8
+St Francis,Palestine,Lieutenant Governor,,DEM,Kelly Ross Krout,125,56,10,59
+St Francis,Wheatley,Lieutenant Governor,,DEM,Kelly Ross Krout,32,6,3,23
+St Francis,FC Ward 1,Lieutenant Governor,,DEM,Kelly Ross Krout,423,252,38,133
+St Francis,FC Ward 2,Lieutenant Governor,,DEM,Kelly Ross Krout,396,232,48,116
+St Francis,FC Ward 3,Lieutenant Governor,,DEM,Kelly Ross Krout,327,198,25,104
+St Francis,FC Ward 4,Lieutenant Governor,,DEM,Kelly Ross Krout,273,174,11,88
+St Francis,Hughes,Secretary of State,,DEM,Anna Beth Gorman,210,33,3,174
+St Francis,Heth/Blackfish,Secretary of State,,DEM,Anna Beth Gorman,54,9,2,43
+St Francis,Widener,Secretary of State,,DEM,Anna Beth Gorman,52,14,0,38
+St Francis,Madison,Secretary of State,,DEM,Anna Beth Gorman,125,48,0,77
+St Francis,Bonair,Secretary of State,,DEM,Anna Beth Gorman,69,41,3,25
+St Francis,Newcastle/Parrott,Secretary of State,,DEM,Anna Beth Gorman,101,61,1,39
+St Francis,Colt,Secretary of State,,DEM,Anna Beth Gorman,127,48,3,76
+St Francis,Caldwell,Secretary of State,,DEM,Anna Beth Gorman,42,19,0,23
+St Francis,Forrest City Country West,Secretary of State,,DEM,Anna Beth Gorman,65,49,5,11
+St Francis,Palestine,Secretary of State,,DEM,Anna Beth Gorman,131,57,10,64
+St Francis,Wheatley,Secretary of State,,DEM,Anna Beth Gorman,33,6,4,23
+St Francis,FC Ward 1,Secretary of State,,DEM,Anna Beth Gorman,447,271,38,138
+St Francis,FC Ward 2,Secretary of State,,DEM,Anna Beth Gorman,406,240,48,118
+St Francis,FC Ward 3,Secretary of State,,DEM,Anna Beth Gorman,333,201,24,108
+St Francis,FC Ward 4,Secretary of State,,DEM,Anna Beth Gorman,285,183,11,91
+St Francis,Hughes,Secretary of State,,REP,Secretary of State John Thurston,110,36,0,74
+St Francis,Heth/Blackfish,Secretary of State,,REP,Secretary of State John Thurston,79,20,0,59
+St Francis,Widener,Secretary of State,,REP,Secretary of State John Thurston,44,13,0,31
+St Francis,Madison,Secretary of State,,REP,Secretary of State John Thurston,41,23,1,17
+St Francis,Bonair,Secretary of State,,REP,Secretary of State John Thurston,218,99,3,116
+St Francis,Newcastle/Parrott,Secretary of State,,REP,Secretary of State John Thurston,575,250,4,321
+St Francis,Colt,Secretary of State,,REP,Secretary of State John Thurston,254,82,1,171
+St Francis,Caldwell,Secretary of State,,REP,Secretary of State John Thurston,151,66,1,84
+St Francis,Forrest City Country West,Secretary of State,,REP,Secretary of State John Thurston,41,25,0,16
+St Francis,Palestine,Secretary of State,,REP,Secretary of State John Thurston,330,102,6,222
+St Francis,Wheatley,Secretary of State,,REP,Secretary of State John Thurston,105,13,0,92
+St Francis,FC Ward 1,Secretary of State,,REP,Secretary of State John Thurston,33,26,0,7
+St Francis,FC Ward 2,Secretary of State,,REP,Secretary of State John Thurston,52,27,0,25
+St Francis,FC Ward 3,Secretary of State,,REP,Secretary of State John Thurston,292,187,3,102
+St Francis,FC Ward 4,Secretary of State,,REP,Secretary of State John Thurston,207,131,3,73
+St Francis,Hughes,State Treasurer,,REP,State Representative Mark Lowery,109,37,0,72
+St Francis,Heth/Blackfish,State Treasurer,,REP,State Representative Mark Lowery,80,20,0,60
+St Francis,Widener,State Treasurer,,REP,State Representative Mark Lowery,47,14,0,33
+St Francis,Madison,State Treasurer,,REP,State Representative Mark Lowery,41,26,1,14
+St Francis,Bonair,State Treasurer,,REP,State Representative Mark Lowery,219,99,3,117
+St Francis,Newcastle/Parrott,State Treasurer,,REP,State Representative Mark Lowery,577,251,4,322
+St Francis,Colt,State Treasurer,,REP,State Representative Mark Lowery,252,80,1,171
+St Francis,Caldwell,State Treasurer,,REP,State Representative Mark Lowery,154,67,1,86
+St Francis,Forrest City Country West,State Treasurer,,REP,State Representative Mark Lowery,42,26,0,16
+St Francis,Palestine,State Treasurer,,REP,State Representative Mark Lowery,335,105,7,223
+St Francis,Wheatley,State Treasurer,,REP,State Representative Mark Lowery,104,14,0,90
+St Francis,FC Ward 1,State Treasurer,,REP,State Representative Mark Lowery,34,27,0,7
+St Francis,FC Ward 2,State Treasurer,,REP,State Representative Mark Lowery,45,26,0,19
+St Francis,FC Ward 3,State Treasurer,,REP,State Representative Mark Lowery,280,177,2,101
+St Francis,FC Ward 4,State Treasurer,,REP,State Representative Mark Lowery,218,140,3,75
+St Francis,Hughes,State Treasurer,,DEM,Pam Whitaker,212,32,3,177
+St Francis,Heth/Blackfish,State Treasurer,,DEM,Pam Whitaker,54,9,2,43
+St Francis,Widener,State Treasurer,,DEM,Pam Whitaker,52,14,0,38
+St Francis,Madison,State Treasurer,,DEM,Pam Whitaker,126,45,0,81
+St Francis,Bonair,State Treasurer,,DEM,Pam Whitaker,70,41,3,26
+St Francis,Newcastle/Parrott,State Treasurer,,DEM,Pam Whitaker,99,59,1,39
+St Francis,Colt,State Treasurer,,DEM,Pam Whitaker,127,48,3,76
+St Francis,Caldwell,State Treasurer,,DEM,Pam Whitaker,41,19,0,22
+St Francis,Forrest City Country West,State Treasurer,,DEM,Pam Whitaker,63,47,5,11
+St Francis,Palestine,State Treasurer,,DEM,Pam Whitaker,125,55,8,62
+St Francis,Wheatley,State Treasurer,,DEM,Pam Whitaker,35,6,4,25
+St Francis,FC Ward 1,State Treasurer,,DEM,Pam Whitaker,449,272,38,139
+St Francis,FC Ward 2,State Treasurer,,DEM,Pam Whitaker,418,243,49,126
+St Francis,FC Ward 3,State Treasurer,,DEM,Pam Whitaker,344,209,25,110
+St Francis,FC Ward 4,State Treasurer,,DEM,Pam Whitaker,275,174,11,90
+St Francis,Hughes,State Senate,09,REP,Terry Fuller,106,34,0,72
+St Francis,Heth/Blackfish,State Senate,09,REP,Terry Fuller,76,20,0,56
+St Francis,Widener,State Senate,09,REP,Terry Fuller,14,7,0,7
+St Francis,Madison,State Senate,09,REP,Terry Fuller,48,28,1,19
+St Francis,Bonair,State Senate,09,REP,Terry Fuller,171,85,1,85
+St Francis,Newcastle/Parrott,State Senate,09,REP,Terry Fuller,12,8,2,2
+St Francis,FC Ward 1,State Senate,09,REP,Terry Fuller,45,36,0,9
+St Francis,FC Ward 2,State Senate,09,REP,Terry Fuller,30,15,0,15
+St Francis,FC Ward 3,State Senate,09,REP,Terry Fuller,240,147,2,91
+St Francis,FC Ward 4,State Senate,09,REP,Terry Fuller,222,141,2,79
+St Francis,Hughes,State Senate,09,DEM,State Representative Reginald Murdock,218,40,3,175
+St Francis,Heth/Blackfish,State Senate,09,DEM,State Representative Reginald Murdock,56,9,2,45
+St Francis,Widener,State Senate,09,DEM,State Representative Reginald Murdock,10,3,0,7
+St Francis,Madison,State Senate,09,DEM,State Representative Reginald Murdock,118,42,0,76
+St Francis,Bonair,State Senate,09,DEM,State Representative Reginald Murdock,52,23,4,25
+St Francis,Newcastle/Parrott,State Senate,09,DEM,State Representative Reginald Murdock,5,5,0,0
+St Francis,FC Ward 1,State Senate,09,DEM,State Representative Reginald Murdock,434,259,38,137
+St Francis,FC Ward 2,State Senate,09,DEM,State Representative Reginald Murdock,337,198,46,93
+St Francis,FC Ward 3,State Senate,09,DEM,State Representative Reginald Murdock,235,158,15,62
+St Francis,FC Ward 4,State Senate,09,DEM,State Representative Reginald Murdock,269,171,12,86
+St Francis,Widener,State Senate,10,DEM,Cliff Hart,40,9,0,31
+St Francis,Bonair,State Senate,10,DEM,Cliff Hart,27,19,0,8
+St Francis,Newcastle/Parrott,State Senate,10,DEM,Cliff Hart,101,61,1,39
+St Francis,Colt,State Senate,10,DEM,Cliff Hart,126,48,3,75
+St Francis,Caldwell,State Senate,10,DEM,Cliff Hart,42,18,0,24
+St Francis,Forrest City Country West,State Senate,10,DEM,Cliff Hart,64,48,5,11
+St Francis,Palestine,State Senate,10,DEM,Cliff Hart,126,54,8,64
+St Francis,Wheatley,State Senate,10,DEM,Cliff Hart,36,6,4,26
+St Francis,FC Ward 1,State Senate,10,DEM,Cliff Hart,0,0,0,0
+St Francis,FC Ward 2,State Senate,10,DEM,Cliff Hart,75,47,4,24
+St Francis,FC Ward 3,State Senate,10,DEM,Cliff Hart,106,51,9,46
+St Francis,Widener,State Senate,10,REP,Senator Ronald Caldwell,32,8,0,24
+St Francis,Bonair,State Senate,10,REP,Senator Ronald Caldwell,40,13,1,26
+St Francis,Newcastle/Parrott,State Senate,10,REP,Senator Ronald Caldwell,560,237,2,321
+St Francis,Colt,State Senate,10,REP,Senator Ronald Caldwell,255,83,1,171
+St Francis,Caldwell,State Senate,10,REP,Senator Ronald Caldwell,151,66,1,84
+St Francis,Forrest City Country West,State Senate,10,REP,Senator Ronald Caldwell,42,26,0,16
+St Francis,Palestine,State Senate,10,REP,Senator Ronald Caldwell,331,102,8,221
+St Francis,Wheatley,State Senate,10,REP,Senator Ronald Caldwell,102,13,0,89
+St Francis,FC Ward 1,State Senate,10,REP,Senator Ronald Caldwell,3,3,0,0
+St Francis,FC Ward 2,State Senate,10,REP,Senator Ronald Caldwell,19,9,0,10
+St Francis,FC Ward 3,State Senate,10,REP,Senator Ronald Caldwell,44,32,1,11
+St Francis,Heth/Blackfish,State House,35,DEM,Rep. Milton Nicks Jr.,0,0,0,0
+St Francis,Widener,State House,37,REP,Representative Steve Hollowell,38,9,0,29
+St Francis,Madison,State House,37,REP,Representative Steve Hollowell,35,20,1,14
+St Francis,Newcastle/Parrott,State House,37,REP,Representative Steve Hollowell,572,244,5,323
+St Francis,Colt,State House,37,REP,Representative Steve Hollowell,240,77,1,162
+St Francis,Caldwell,State House,37,REP,Representative Steve Hollowell,148,63,1,84
+St Francis,Forrest City Country West,State House,37,REP,Representative Steve Hollowell,12,8,0,4
+St Francis,Palestine,State House,37,REP,Representative Steve Hollowell,321,103,6,212
+St Francis,FC Ward 2,State House,37,REP,Representative Steve Hollowell,40,22,1,17
+St Francis,FC Ward 3,State House,37,REP,Representative Steve Hollowell,245,157,6,82
+St Francis,FC Ward 4,State House,37,REP,Representative Steve Hollowell,66,47,0,19
+St Francis,Widener,State House,37,DEM,Christopher Joseph Reed,34,8,0,26
+St Francis,Madison,State House,37,DEM,Christopher Joseph Reed,43,15,0,28
+St Francis,Newcastle/Parrott,State House,37,DEM,Christopher Joseph Reed,92,58,0,34
+St Francis,Colt,State House,37,DEM,Christopher Joseph Reed,126,49,3,74
+St Francis,Caldwell,State House,37,DEM,Christopher Joseph Reed,40,18,0,22
+St Francis,Forrest City Country West,State House,37,DEM,Christopher Joseph Reed,33,26,4,3
+St Francis,Palestine,State House,37,DEM,Christopher Joseph Reed,129,52,10,67
+St Francis,FC Ward 2,State House,37,DEM,Christopher Joseph Reed,278,170,11,97
+St Francis,FC Ward 3,State House,37,DEM,Christopher Joseph Reed,291,175,21,95
+St Francis,FC Ward 4,State House,37,DEM,Christopher Joseph Reed,33,27,3,3
+St Francis,Widener,State House,37,LIB,Brian E. Ramsey,1,0,0,1
+St Francis,Madison,State House,37,LIB,Brian E. Ramsey,1,1,0,0
+St Francis,Newcastle/Parrott,State House,37,LIB,Brian E. Ramsey,18,12,0,6
+St Francis,Colt,State House,37,LIB,Brian E. Ramsey,12,3,0,9
+St Francis,Caldwell,State House,37,LIB,Brian E. Ramsey,6,4,0,2
+St Francis,Forrest City Country West,State House,37,LIB,Brian E. Ramsey,3,1,0,2
+St Francis,Palestine,State House,37,LIB,Brian E. Ramsey,9,4,0,5
+St Francis,FC Ward 2,State House,37,LIB,Brian E. Ramsey,6,4,0,2
+St Francis,FC Ward 3,State House,37,LIB,Brian E. Ramsey,20,8,0,12
+St Francis,FC Ward 4,State House,37,LIB,Brian E. Ramsey,4,3,0,1
+St Francis,Wheatley,State House,62,DEM,Dexter R. Miller,35,7,4,24
+St Francis,Wheatley,State House,62,REP,Representative Mark D. McElroy,103,13,0,90
+St Francis,Hughes,State House,63,DEM,Representative Deborah Ferguson,281,64,3,214
+St Francis,Heth/Blackfish,State House,63,DEM,Representative Deborah Ferguson,109,22,2,85
+St Francis,Widener,State House,63,DEM,Representative Deborah Ferguson,18,7,0,11
+St Francis,Madison,State House,63,DEM,Representative Deborah Ferguson,86,33,0,53
+St Francis,Bonair,State House,63,DEM,Representative Deborah Ferguson,182,95,3,84
+St Francis,Forrest City Country West,State House,63,DEM,Representative Deborah Ferguson,38,27,1,10
+St Francis,FC Ward 1,State House,63,DEM,Representative Deborah Ferguson,454,279,37,138
+St Francis,FC Ward 2,State House,63,DEM,Representative Deborah Ferguson,130,69,36,25
+St Francis,FC Ward 3,State House,63,DEM,Representative Deborah Ferguson,59,42,0,17
+St Francis,FC Ward 4,State House,63,DEM,Representative Deborah Ferguson,349,214,8,127
+St Francis,Hughes,State Supreme Court Associate Justice Position 2,,NOP,Supreme Court Associate Justice Robin Wynne,167,43,1,123
+St Francis,Heth/Blackfish,State Supreme Court Associate Justice Position 2,,NOP,Supreme Court Associate Justice Robin Wynne,83,22,1,60
+St Francis,Widener,State Supreme Court Associate Justice Position 2,,NOP,Supreme Court Associate Justice Robin Wynne,53,17,0,36
+St Francis,Madison,State Supreme Court Associate Justice Position 2,,NOP,Supreme Court Associate Justice Robin Wynne,95,42,1,52
+St Francis,Bonair,State Supreme Court Associate Justice Position 2,,NOP,Supreme Court Associate Justice Robin Wynne,164,89,3,72
+St Francis,Newcastle/Parrott,State Supreme Court Associate Justice Position 2,,NOP,Supreme Court Associate Justice Robin Wynne,387,181,2,204
+St Francis,Colt,State Supreme Court Associate Justice Position 2,,NOP,Supreme Court Associate Justice Robin Wynne,214,75,1,138
+St Francis,Caldwell,State Supreme Court Associate Justice Position 2,,NOP,Supreme Court Associate Justice Robin Wynne,111,45,0,66
+St Francis,Forrest City Country West,State Supreme Court Associate Justice Position 2,,NOP,Supreme Court Associate Justice Robin Wynne,64,45,5,14
+St Francis,Palestine,State Supreme Court Associate Justice Position 2,,NOP,Supreme Court Associate Justice Robin Wynne,242,85,5,152
+St Francis,Wheatley,State Supreme Court Associate Justice Position 2,,NOP,Supreme Court Associate Justice Robin Wynne,61,11,2,48
+St Francis,FC Ward 1,State Supreme Court Associate Justice Position 2,,NOP,Supreme Court Associate Justice Robin Wynne,254,158,26,70
+St Francis,FC Ward 2,State Supreme Court Associate Justice Position 2,,NOP,Supreme Court Associate Justice Robin Wynne,282,147,40,95
+St Francis,FC Ward 3,State Supreme Court Associate Justice Position 2,,NOP,Supreme Court Associate Justice Robin Wynne,381,231,16,134
+St Francis,FC Ward 4,State Supreme Court Associate Justice Position 2,,NOP,Supreme Court Associate Justice Robin Wynne,294,184,4,106
+St Francis,Hughes,State Supreme Court Associate Justice Position 2,,NOP,Judge Chris Carnahan,96,21,1,74
+St Francis,Heth/Blackfish,State Supreme Court Associate Justice Position 2,,NOP,Judge Chris Carnahan,33,5,1,27
+St Francis,Widener,State Supreme Court Associate Justice Position 2,,NOP,Judge Chris Carnahan,31,8,0,23
+St Francis,Madison,State Supreme Court Associate Justice Position 2,,NOP,Judge Chris Carnahan,43,19,0,24
+St Francis,Bonair,State Supreme Court Associate Justice Position 2,,NOP,Judge Chris Carnahan,78,30,3,45
+St Francis,Newcastle/Parrott,State Supreme Court Associate Justice Position 2,,NOP,Judge Chris Carnahan,218,97,1,120
+St Francis,Colt,State Supreme Court Associate Justice Position 2,,NOP,Judge Chris Carnahan,107,34,1,72
+St Francis,Caldwell,State Supreme Court Associate Justice Position 2,,NOP,Judge Chris Carnahan,59,27,0,32
+St Francis,Forrest City Country West,State Supreme Court Associate Justice Position 2,,NOP,Judge Chris Carnahan,18,9,0,9
+St Francis,Palestine,State Supreme Court Associate Justice Position 2,,NOP,Judge Chris Carnahan,133,42,2,89
+St Francis,Wheatley,State Supreme Court Associate Justice Position 2,,NOP,Judge Chris Carnahan,56,5,0,51
+St Francis,FC Ward 1,State Supreme Court Associate Justice Position 2,,NOP,Judge Chris Carnahan,155,97,6,52
+St Francis,FC Ward 2,State Supreme Court Associate Justice Position 2,,NOP,Judge Chris Carnahan,114,76,5,33
+St Francis,FC Ward 3,State Supreme Court Associate Justice Position 2,,NOP,Judge Chris Carnahan,189,121,10,58
+St Francis,FC Ward 4,State Supreme Court Associate Justice Position 2,,NOP,Judge Chris Carnahan,152,98,8,46
+St Francis,Hughes,Sheriff & Collector,,IND,IND Bobby May,65,21,0,44
+St Francis,Heth/Blackfish,Sheriff & Collector,,IND,IND Bobby May,72,17,1,54
+St Francis,Widener,Sheriff & Collector,,IND,IND Bobby May,53,16,0,37
+St Francis,Madison,Sheriff & Collector,,IND,IND Bobby May,70,37,1,32
+St Francis,Bonair,Sheriff & Collector,,IND,IND Bobby May,222,97,6,119
+St Francis,Newcastle/Parrott,Sheriff & Collector,,IND,IND Bobby May,554,248,5,301
+St Francis,Colt,Sheriff & Collector,,IND,IND Bobby May,263,80,2,181
+St Francis,Caldwell,Sheriff & Collector,,IND,IND Bobby May,140,58,1,81
+St Francis,Forrest City Country West,Sheriff & Collector,,IND,IND Bobby May,49,28,2,19
+St Francis,Palestine,Sheriff & Collector,,IND,IND Bobby May,341,107,10,224
+St Francis,Wheatley,Sheriff & Collector,,IND,IND Bobby May,106,13,0,93
+St Francis,FC Ward 1,Sheriff & Collector,,IND,IND Bobby May,155,95,16,44
+St Francis,FC Ward 2,Sheriff & Collector,,IND,IND Bobby May,222,125,34,63
+St Francis,FC Ward 3,Sheriff & Collector,,IND,IND Bobby May,384,235,15,134
+St Francis,FC Ward 4,Sheriff & Collector,,IND,IND Bobby May,294,185,10,99
+St Francis,Hughes,Sheriff & Collector,,DEM,DEM Deon Lee,261,53,3,205
+St Francis,Heth/Blackfish,Sheriff & Collector,,DEM,DEM Deon Lee,58,10,1,47
+St Francis,Widener,Sheriff & Collector,,DEM,DEM Deon Lee,43,10,0,33
+St Francis,Madison,Sheriff & Collector,,DEM,DEM Deon Lee,100,35,0,65
+St Francis,Bonair,Sheriff & Collector,,DEM,DEM Deon Lee,67,41,0,26
+St Francis,Newcastle/Parrott,Sheriff & Collector,,DEM,DEM Deon Lee,117,60,0,57
+St Francis,Colt,Sheriff & Collector,,DEM,DEM Deon Lee,117,50,2,65
+St Francis,Caldwell,Sheriff & Collector,,DEM,DEM Deon Lee,54,28,0,26
+St Francis,Forrest City Country West,Sheriff & Collector,,DEM,DEM Deon Lee,57,45,3,9
+St Francis,Palestine,Sheriff & Collector,,DEM,DEM Deon Lee,118,52,6,60
+St Francis,Wheatley,Sheriff & Collector,,DEM,DEM Deon Lee,35,7,4,24
+St Francis,FC Ward 1,Sheriff & Collector,,DEM,DEM Deon Lee,337,207,22,108
+St Francis,FC Ward 2,Sheriff & Collector,,DEM,DEM Deon Lee,248,148,16,84
+St Francis,FC Ward 3,Sheriff & Collector,,DEM,DEM Deon Lee,244,154,12,78
+St Francis,FC Ward 4,Sheriff & Collector,,DEM,DEM Deon Lee,210,135,4,71
+St Francis,Hughes,Assessor,,DEM,DEM Alvin Taggart,210,33,3,174
+St Francis,Heth/Blackfish,Assessor,,DEM,DEM Alvin Taggart,48,8,1,39
+St Francis,Widener,Assessor,,DEM,DEM Alvin Taggart,45,11,0,34
+St Francis,Madison,Assessor,,DEM,DEM Alvin Taggart,113,40,0,73
+St Francis,Bonair,Assessor,,DEM,DEM Alvin Taggart,46,28,2,16
+St Francis,Newcastle/Parrott,Assessor,,DEM,DEM Alvin Taggart,55,31,0,24
+St Francis,Colt,Assessor,,DEM,DEM Alvin Taggart,123,43,2,78
+St Francis,Caldwell,Assessor,,DEM,DEM Alvin Taggart,43,18,0,25
+St Francis,Forrest City Country West,Assessor,,DEM,DEM Alvin Taggart,54,39,4,11
+St Francis,Palestine,Assessor,,DEM,DEM Alvin Taggart,109,44,7,58
+St Francis,Wheatley,Assessor,,DEM,DEM Alvin Taggart,33,3,2,28
+St Francis,FC Ward 1,Assessor,,DEM,DEM Alvin Taggart,369,222,25,122
+St Francis,FC Ward 2,Assessor,,DEM,DEM Alvin Taggart,310,194,18,98
+St Francis,FC Ward 3,Assessor,,DEM,DEM Alvin Taggart,259,157,14,88
+St Francis,FC Ward 4,Assessor,,DEM,DEM Alvin Taggart,215,133,8,74
+St Francis,Hughes,Assessor,,IND,IND Ginadell Adams,105,39,0,66
+St Francis,Heth/Blackfish,Assessor,,IND,IND Ginadell Adams,80,20,1,59
+St Francis,Widener,Assessor,,IND,IND Ginadell Adams,51,15,0,36
+St Francis,Madison,Assessor,,IND,IND Ginadell Adams,54,32,1,21
+St Francis,Bonair,Assessor,,IND,IND Ginadell Adams,236,107,4,125
+St Francis,Newcastle/Parrott,Assessor,,IND,IND Ginadell Adams,612,278,4,330
+St Francis,Colt,Assessor,,IND,IND Ginadell Adams,251,85,2,164
+St Francis,Caldwell,Assessor,,IND,IND Ginadell Adams,146,66,1,79
+St Francis,Forrest City Country West,Assessor,,IND,IND Ginadell Adams,52,35,1,16
+St Francis,Palestine,Assessor,,IND,IND Ginadell Adams,344,114,7,223
+St Francis,Wheatley,Assessor,,IND,IND Ginadell Adams,101,16,2,83
+St Francis,FC Ward 1,Assessor,,IND,IND Ginadell Adams,114,78,13,23
+St Francis,FC Ward 2,Assessor,,IND,IND Ginadell Adams,156,78,31,47
+St Francis,FC Ward 3,Assessor,,IND,IND Ginadell Adams,358,228,13,117
+St Francis,FC Ward 4,Assessor,,IND,IND Ginadell Adams,282,184,6,92
+St Francis,Hughes,Treasurer,,DEM,DEM LaShunda D. Winfrey,214,35,2,177
+St Francis,Heth/Blackfish,Treasurer,,DEM,DEM LaShunda D. Winfrey,48,8,1,39
+St Francis,Widener,Treasurer,,DEM,DEM LaShunda D. Winfrey,52,14,0,38
+St Francis,Madison,Treasurer,,DEM,DEM LaShunda D. Winfrey,123,47,0,76
+St Francis,Bonair,Treasurer,,DEM,DEM LaShunda D. Winfrey,57,36,4,17
+St Francis,Newcastle/Parrott,Treasurer,,DEM,DEM LaShunda D. Winfrey,71,48,0,23
+St Francis,Colt,Treasurer,,DEM,DEM LaShunda D. Winfrey,118,43,3,72
+St Francis,Caldwell,Treasurer,,DEM,DEM LaShunda D. Winfrey,35,14,0,21
+St Francis,Forrest City Country West,Treasurer,,DEM,DEM LaShunda D. Winfrey,60,45,5,10
+St Francis,Palestine,Treasurer,,DEM,DEM LaShunda D. Winfrey,120,53,10,57
+St Francis,Wheatley,Treasurer,,DEM,DEM LaShunda D. Winfrey,35,5,4,26
+St Francis,FC Ward 1,Treasurer,,DEM,DEM LaShunda D. Winfrey,425,253,35,137
+St Francis,FC Ward 2,Treasurer,,DEM,DEM LaShunda D. Winfrey,386,220,45,121
+St Francis,FC Ward 3,Treasurer,,DEM,DEM LaShunda D. Winfrey,300,189,21,90
+St Francis,FC Ward 4,Treasurer,,DEM,DEM LaShunda D. Winfrey,243,146,11,86
+St Francis,Hughes,Treasurer,,IND,IND Tammy Talley,105,38,1,66
+St Francis,Heth/Blackfish,Treasurer,,IND,IND Tammy Talley,81,20,1,60
+St Francis,Widener,Treasurer,,IND,IND Tammy Talley,42,11,0,31
+St Francis,Madison,Treasurer,,IND,IND Tammy Talley,46,25,1,20
+St Francis,Bonair,Treasurer,,IND,IND Tammy Talley,228,102,2,124
+St Francis,Newcastle/Parrott,Treasurer,,IND,IND Tammy Talley,604,265,5,334
+St Francis,Colt,Treasurer,,IND,IND Tammy Talley,258,84,1,173
+St Francis,Caldwell,Treasurer,,IND,IND Tammy Talley,158,72,1,85
+St Francis,Forrest City Country West,Treasurer,,IND,IND Tammy Talley,44,28,0,16
+St Francis,Palestine,Treasurer,,IND,IND Tammy Talley,327,103,6,218
+St Francis,Wheatley,Treasurer,,IND,IND Tammy Talley,102,14,0,88
+St Francis,FC Ward 1,Treasurer,,IND,IND Tammy Talley,60,48,2,10
+St Francis,FC Ward 2,Treasurer,,IND,IND Tammy Talley,76,50,3,23
+St Francis,FC Ward 3,Treasurer,,IND,IND Tammy Talley,319,196,6,117
+St Francis,FC Ward 4,Treasurer,,IND,IND Tammy Talley,250,171,3,76
+St Francis,Hughes,Circuit Clerk,,DEM,DEM Alan T. Smith,276,66,3,207
+St Francis,Heth/Blackfish,Circuit Clerk,,DEM,DEM Alan T. Smith,106,21,2,83
+St Francis,Widener,Circuit Clerk,,DEM,DEM Alan T. Smith,82,20,0,62
+St Francis,Madison,Circuit Clerk,,DEM,DEM Alan T. Smith,153,66,1,86
+St Francis,Bonair,Circuit Clerk,,DEM,DEM Alan T. Smith,205,109,3,93
+St Francis,Newcastle/Parrott,Circuit Clerk,,DEM,DEM Alan T. Smith,516,241,2,273
+St Francis,Colt,Circuit Clerk,,DEM,DEM Alan T. Smith,294,109,4,181
+St Francis,Caldwell,Circuit Clerk,,DEM,DEM Alan T. Smith,155,71,0,84
+St Francis,Forrest City Country West,Circuit Clerk,,DEM,DEM Alan T. Smith,84,58,5,21
+St Francis,Palestine,Circuit Clerk,,DEM,DEM Alan T. Smith,357,122,13,222
+St Francis,Wheatley,Circuit Clerk,,DEM,DEM Alan T. Smith,117,18,4,95
+St Francis,FC Ward 1,Circuit Clerk,,DEM,DEM Alan T. Smith,451,275,35,141
+St Francis,FC Ward 2,Circuit Clerk,,DEM,DEM Alan T. Smith,413,237,43,133
+St Francis,FC Ward 3,Circuit Clerk,,DEM,DEM Alan T. Smith,530,333,27,170
+St Francis,FC Ward 4,Circuit Clerk,,DEM,DEM Alan T. Smith,445,283,13,149
+St Francis,FC Ward 1,Mayor- Forrest City,,IND,IND Cedric Williams,129,85,8,36
+St Francis,FC Ward 2,Mayor- Forrest City,,IND,IND Cedric Williams,125,78,10,37
+St Francis,FC Ward 3,Mayor- Forrest City,,IND,IND Cedric Williams,192,117,9,66
+St Francis,FC Ward 4,Mayor- Forrest City,,IND,IND Cedric Williams,155,94,7,54
+St Francis,FC Ward 1,Mayor- Forrest City,,IND,IND Louise Fields,28,10,15,3
+St Francis,FC Ward 2,Mayor- Forrest City,,IND,IND Louise Fields,61,16,32,13
+St Francis,FC Ward 3,Mayor- Forrest City,,IND,IND Louise Fields,21,8,9,4
+St Francis,FC Ward 4,Mayor- Forrest City,,IND,IND Louise Fields,10,3,4,3
+St Francis,FC Ward 1,Mayor- Forrest City,,IND,IND Evetta Whitby,125,82,3,40
+St Francis,FC Ward 2,Mayor- Forrest City,,IND,IND Evetta Whitby,76,50,2,24
+St Francis,FC Ward 3,Mayor- Forrest City,,IND,IND Evetta Whitby,65,39,2,24
+St Francis,FC Ward 4,Mayor- Forrest City,,IND,IND Evetta Whitby,60,44,1,15
+St Francis,FC Ward 1,Mayor- Forrest City,,IND,IND Christy Parkman Gross,16,10,0,6
+St Francis,FC Ward 2,Mayor- Forrest City,,IND,IND Christy Parkman Gross,24,10,1,13
+St Francis,FC Ward 3,Mayor- Forrest City,,IND,IND Christy Parkman Gross,148,95,3,50
+St Francis,FC Ward 4,Mayor- Forrest City,,IND,IND Christy Parkman Gross,101,68,1,32
+St Francis,FC Ward 1,Mayor- Forrest City,,IND,IND Chris Oswalt,42,30,1,11
+St Francis,FC Ward 2,Mayor- Forrest City,,IND,IND Chris Oswalt,49,33,2,14
+St Francis,FC Ward 3,Mayor- Forrest City,,IND,IND Chris Oswalt,110,75,1,34
+St Francis,FC Ward 4,Mayor- Forrest City,,IND,IND Chris Oswalt,91,62,0,29
+St Francis,FC Ward 1,Mayor- Forrest City,,IND,IND Jason Evansingston,11,7,0,4
+St Francis,FC Ward 2,Mayor- Forrest City,,IND,IND Jason Evansingston,7,6,0,1
+St Francis,FC Ward 3,Mayor- Forrest City,,IND,IND Jason Evansingston,8,2,0,6
+St Francis,FC Ward 4,Mayor- Forrest City,,IND,IND Jason Evansingston,10,7,0,3
+St Francis,FC Ward 1,Mayor- Forrest City,,IND,IND Larry S. Bryant,146,83,11,52
+St Francis,FC Ward 2,Mayor- Forrest City,,IND,IND Larry S. Bryant,135,87,3,45
+St Francis,FC Ward 3,Mayor- Forrest City,,IND,IND Larry S. Bryant,84,54,3,27
+St Francis,FC Ward 4,Mayor- Forrest City,,IND,IND Larry S. Bryant,77,44,1,32
+St Francis,Madison,Mayor,,IND,IND Roy Lee Winfrey,153,63,1,89
+St Francis,Widener,Mayor,,DEM,DEM Arvin Billingsley,54,8,0,46
+St Francis,Hughes,Mayor,,IND,IND Nathaniel Curne,232,47,2,183
+St Francis,Caldwell,Mayor,,IND,IND Gary L. Hughes,89,38,1,50
+St Francis,Colt,Mayor,,IND,IND Tyler Mullins,80,24,0,56
+St Francis,Palestine,Mayor,,IND,IND Billy Shafer,140,39,2,99
+St Francis,Wheatley,Mayor,,IND,IND Larry Carl Nash,98,15,0,83
+St Francis,FC Ward 1,City Clerk,,IND,IND Derene Cochran,425,264,34,127
+St Francis,FC Ward 2,City Clerk,,IND,IND Derene Cochran,423,242,48,133
+St Francis,FC Ward 3,City Clerk,,IND,IND Derene Cochran,551,343,26,182
+St Francis,FC Ward 4,City Clerk,,IND,IND Derene Cochran,455,293,13,149
+St Francis,Wheatley,Recorder/Treasurer,,IND,IND Judy Kay Baynes,94,15,0,79
+St Francis,Widener,Recorder/Treasurer,,IND,IND Mary Ann Billingsley,48,8,0,40
+St Francis,FC Ward 1,Forrest City Council- Ward 1, Position 1,IND,IND Ronald R. Williams,239,145,14,80
+St Francis,FC Ward 1,Forrest City Council- Ward 1, Position 1,IND,"IND Jim Bailey, Jr.",255,161,25,69
+St Francis,FC Ward 2,Forrest City Council, Position 1,IND,IND Cornescha Moore Wright,237,135,12,90
+St Francis,FC Ward 2,Forrest City Council, Position 1,IND,IND Melvin L. Tinsley,129,84,9,36
+St Francis,FC Ward 2,Forrest City Council, Position 1,IND,IND Carl Miller,98,49,29,20
+St Francis,FC Ward 3,Forrest City Council, Position 1,IND,IND Justin Reeves,330,203,13,114
+St Francis,FC Ward 3,Forrest City Council, Position 1,IND,IND Nate Thomas,280,175,14,91
+St Francis,Hughes,Justice of Peace District 2,,IND,IND Ray Oswalt,0,0,0,0
+St Francis,Widener,Justice of Peace District 2,,IND,IND Ray Oswalt,0,0,0,0
+St Francis,Madison,Justice of Peace District 2,,IND,IND Ray Oswalt,3,3,0,0
+St Francis,Bonair,Justice of Peace District 2,,IND,IND Ray Oswalt,163,72,3,88
+St Francis,FC Ward 1,Justice of Peace District 2,,IND,IND Ray Oswalt,1,1,0,0
+St Francis,FC Ward 4,Justice of Peace District 2,,IND,IND Ray Oswalt,31,14,2,15
+St Francis,Hughes,Justice of Peace District 2,,DEM,DEM Jimmy Long,0,0,0,0
+St Francis,Widener,Justice of Peace District 2,,DEM,DEM Jimmy Long,0,0,0,0
+St Francis,Madison,Justice of Peace District 2,,DEM,DEM Jimmy Long,0,0,0,0
+St Francis,Bonair,Justice of Peace District 2,,DEM,DEM Jimmy Long,124,65,3,56
+St Francis,FC Ward 1,Justice of Peace District 2,,DEM,DEM Jimmy Long,2,1,1,0
+St Francis,FC Ward 4,Justice of Peace District 2,,DEM,DEM Jimmy Long,98,53,2,43
+St Francis,FC Ward 2,Justice of Peace District 7,,DEM,DEM Nathaniel Murray,28,12,6,10
+St Francis,FC Ward 3,Justice of Peace District 7,,DEM,DEM Nathaniel Murray,186,131,7,48
+St Francis,FC Ward 4,Justice of Peace District 7,,DEM,DEM Nathaniel Murray,16,13,0,3
+St Francis,FC Ward 2,Justice of Peace District 7,,REP,REP Timothy McMahon,11,5,0,6
+St Francis,FC Ward 3,Justice of Peace District 7,,REP,REP Timothy McMahon,203,121,7,75
+St Francis,FC Ward 4,Justice of Peace District 7,,REP,REP Timothy McMahon,10,6,1,3
+St Francis,Newcastle/Parrott,Justice of Peace District 8,,REP,REP Summer R. Hess,10,7,2,1
+St Francis,FC Ward 3,Justice of Peace District 8,,REP,REP Summer R. Hess,28,18,0,10
+St Francis,FC Ward 4,Justice of Peace District 8,,REP,REP Summer R. Hess,166,110,0,56
+St Francis,Newcastle/Parrott,Justice of Peace District 8,,DEM,DEM Chris Ray,7,6,0,1
+St Francis,FC Ward 3,Justice of Peace District 8,,DEM,DEM Chris Ray,58,36,3,19
+St Francis,FC Ward 4,Justice of Peace District 8,,DEM,DEM Chris Ray,176,120,9,47
+St Francis,Hughes,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NOP,FOR,146,34,2,110
+St Francis,Heth/Blackfish,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NOP,FOR,55,8,1,46
+St Francis,Widener,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NOP,FOR,38,11,0,27
+St Francis,Madison,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NOP,FOR,85,39,1,45
+St Francis,Bonair,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NOP,FOR,109,56,1,52
+St Francis,Newcastle/Parrott,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NOP,FOR,252,140,2,110
+St Francis,Colt,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NOP,FOR,136,49,0,87
+St Francis,Caldwell,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NOP,FOR,87,49,0,38
+St Francis,Forrest City Country West,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NOP,FOR,35,23,1,11
+St Francis,Palestine,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NOP,FOR,178,62,9,107
+St Francis,Wheatley,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NOP,FOR,47,9,3,35
+St Francis,FC Ward 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NOP,FOR,195,127,2,66
+St Francis,FC Ward 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NOP,FOR,181,117,9,55
+St Francis,FC Ward 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NOP,FOR,273,174,4,95
+St Francis,FC Ward 4,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NOP,FOR,212,131,2,79
+St Francis,Hughes,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NOP,AGAINST,150,28,0,122
+St Francis,Heth/Blackfish,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NOP,AGAINST,69,18,1,50
+St Francis,Widener,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NOP,AGAINST,57,15,0,42
+St Francis,Madison,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NOP,AGAINST,77,30,0,47
+St Francis,Bonair,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NOP,AGAINST,164,76,5,83
+St Francis,Newcastle/Parrott,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NOP,AGAINST,396,157,1,238
+St Francis,Colt,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NOP,AGAINST,218,67,4,147
+St Francis,Caldwell,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NOP,AGAINST,95,31,0,64
+St Francis,Forrest City Country West,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NOP,AGAINST,61,44,4,13
+St Francis,Palestine,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NOP,AGAINST,253,83,7,163
+St Francis,Wheatley,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NOP,AGAINST,88,10,1,77
+St Francis,FC Ward 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NOP,AGAINST,235,144,31,60
+St Francis,FC Ward 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NOP,AGAINST,243,125,39,79
+St Francis,FC Ward 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NOP,AGAINST,317,193,21,103
+St Francis,FC Ward 4,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NOP,AGAINST,246,160,8,78
+St Francis,Hughes,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NOP,FOR,145,34,2,109
+St Francis,Heth/Blackfish,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NOP,FOR,75,15,0,60
+St Francis,Widener,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NOP,FOR,37,14,0,23
+St Francis,Madison,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NOP,FOR,78,38,0,40
+St Francis,Bonair,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NOP,FOR,146,70,1,75
+St Francis,Newcastle/Parrott,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NOP,FOR,312,164,2,146
+St Francis,Colt,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NOP,FOR,170,60,0,110
+St Francis,Caldwell,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NOP,FOR,112,51,0,61
+St Francis,Forrest City Country West,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NOP,FOR,41,29,0,12
+St Francis,Palestine,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NOP,FOR,214,78,9,127
+St Francis,Wheatley,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NOP,FOR,78,10,4,64
+St Francis,FC Ward 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NOP,FOR,197,124,2,71
+St Francis,FC Ward 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NOP,FOR,190,117,6,67
+St Francis,FC Ward 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NOP,FOR,326,218,2,106
+St Francis,FC Ward 4,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NOP,FOR,225,145,2,78
+St Francis,Hughes,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NOP,AGAINST,146,25,0,121
+St Francis,Heth/Blackfish,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NOP,AGAINST,50,13,2,35
+St Francis,Widener,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NOP,AGAINST,55,12,0,43
+St Francis,Madison,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NOP,AGAINST,78,29,1,48
+St Francis,Bonair,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NOP,AGAINST,128,63,5,60
+St Francis,Newcastle/Parrott,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NOP,AGAINST,334,132,2,200
+St Francis,Colt,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NOP,AGAINST,187,60,4,123
+St Francis,Caldwell,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NOP,AGAINST,69,28,0,41
+St Francis,Forrest City Country West,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NOP,AGAINST,56,38,5,13
+St Francis,Palestine,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NOP,AGAINST,213,69,7,137
+St Francis,Wheatley,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NOP,AGAINST,56,9,0,47
+St Francis,FC Ward 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NOP,AGAINST,250,152,33,65
+St Francis,FC Ward 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NOP,AGAINST,243,128,42,73
+St Francis,FC Ward 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NOP,AGAINST,274,155,22,97
+St Francis,FC Ward 4,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NOP,AGAINST,243,148,9,86
+St Francis,Hughes,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NOP,FOR,216,51,1,164
+St Francis,Heth/Blackfish,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NOP,FOR,86,16,0,70
+St Francis,Widener,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NOP,FOR,50,12,0,38
+St Francis,Madison,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NOP,FOR,107,49,0,58
+St Francis,Bonair,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NOP,FOR,147,75,2,70
+St Francis,Newcastle/Parrott,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NOP,FOR,351,170,0,181
+St Francis,Colt,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NOP,FOR,197,65,0,132
+St Francis,Caldwell,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NOP,FOR,119,54,0,65
+St Francis,Forrest City Country West,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NOP,FOR,48,33,1,14
+St Francis,Palestine,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NOP,FOR,234,88,11,135
+St Francis,Wheatley,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NOP,FOR,78,13,2,63
+St Francis,FC Ward 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NOP,FOR,240,149,5,86
+St Francis,FC Ward 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NOP,FOR,230,136,11,83
+St Francis,FC Ward 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NOP,FOR,358,221,6,131
+St Francis,FC Ward 4,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NOP,FOR,251,156,3,92
+St Francis,Hughes,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NOP,AGAINST,87,12,2,73
+St Francis,Heth/Blackfish,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NOP,AGAINST,43,12,2,29
+St Francis,Widener,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NOP,AGAINST,46,15,0,31
+St Francis,Madison,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NOP,AGAINST,56,20,1,35
+St Francis,Bonair,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NOP,AGAINST,126,59,4,63
+St Francis,Newcastle/Parrott,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NOP,AGAINST,313,135,3,175
+St Francis,Colt,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NOP,AGAINST,166,54,4,108
+St Francis,Caldwell,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NOP,AGAINST,67,28,0,39
+St Francis,Forrest City Country West,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NOP,AGAINST,51,37,4,10
+St Francis,Palestine,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NOP,AGAINST,202,57,5,140
+St Francis,Wheatley,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NOP,AGAINST,59,7,2,50
+St Francis,FC Ward 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NOP,AGAINST,213,129,30,54
+St Francis,FC Ward 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NOP,AGAINST,204,113,36,55
+St Francis,FC Ward 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NOP,AGAINST,249,156,18,75
+St Francis,FC Ward 4,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NOP,AGAINST,226,145,8,73
+St Francis,Hughes,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NOP,FOR,182,38,0,144
+St Francis,Heth/Blackfish,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NOP,FOR,63,14,0,49
+St Francis,Widener,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NOP,FOR,43,9,0,34
+St Francis,Madison,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NOP,FOR,102,39,0,63
+St Francis,Bonair,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NOP,FOR,106,57,3,46
+St Francis,Newcastle/Parrott,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NOP,FOR,214,108,1,105
+St Francis,Colt,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NOP,FOR,152,59,3,90
+St Francis,Caldwell,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NOP,FOR,54,23,0,31
+St Francis,Forrest City Country West,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NOP,FOR,44,27,1,16
+St Francis,Palestine,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NOP,FOR,159,52,8,99
+St Francis,Wheatley,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NOP,FOR,55,8,2,45
+St Francis,FC Ward 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NOP,FOR,287,166,28,93
+St Francis,FC Ward 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NOP,FOR,296,159,36,101
+St Francis,FC Ward 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NOP,FOR,343,211,19,113
+St Francis,FC Ward 4,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NOP,FOR,241,150,6,85
+St Francis,Hughes,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NOP,AGAINST,124,27,3,94
+St Francis,Heth/Blackfish,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NOP,AGAINST,71,15,2,54
+St Francis,Widener,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NOP,AGAINST,53,18,0,35
+St Francis,Madison,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NOP,AGAINST,63,29,1,33
+St Francis,Bonair,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NOP,AGAINST,172,79,2,91
+St Francis,Newcastle/Parrott,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NOP,AGAINST,461,205,2,254
+St Francis,Colt,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NOP,AGAINST,222,69,1,152
+St Francis,Caldwell,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NOP,AGAINST,137,61,1,75
+St Francis,Forrest City Country West,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NOP,AGAINST,58,44,4,10
+St Francis,Palestine,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NOP,AGAINST,292,100,8,184
+St Francis,Wheatley,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NOP,AGAINST,86,13,2,71
+St Francis,FC Ward 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NOP,AGAINST,186,124,10,52
+St Francis,FC Ward 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NOP,AGAINST,151,96,13,42
+St Francis,FC Ward 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NOP,AGAINST,275,173,7,95
+St Francis,FC Ward 4,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NOP,AGAINST,248,161,5,82

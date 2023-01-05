@@ -1,0 +1,453 @@
+county,precinct,office,district,party,candidate,votes,early_vote,absentee,election_day
+Fulton,Benton/Union,U.S. Senate,,LIB,Kenneth Cates,41,29,0,12
+Fulton,Vidette/Big Creek,U.S. Senate,,LIB,Kenneth Cates,15,3,0,12
+Fulton,Cleveland,U.S. Senate,,LIB,Kenneth Cates,1,1,0,0
+Fulton,Fulton/Mt Calm,U.S. Senate,,LIB,Kenneth Cates,17,6,0,11
+Fulton,MS/Afton,U.S. Senate,,LIB,Kenneth Cates,29,8,1,20
+Fulton,Myatt,U.S. Senate,,LIB,Kenneth Cates,3,0,0,3
+Fulton,PR/SB,U.S. Senate,,LIB,Kenneth Cates,27,9,0,18
+Fulton,Cherokee Village,U.S. Senate,,LIB,Kenneth Cates,13,4,0,9
+Fulton,Southfork/Wilson,U.S. Senate,,LIB,Kenneth Cates,14,8,0,6
+Fulton,Washington,U.S. Senate,,LIB,Kenneth Cates,8,4,0,4
+Fulton,Benton/Union,U.S. Senate,,DEM,Natalie James,199,133,9,57
+Fulton,Vidette/Big Creek,U.S. Senate,,DEM,Natalie James,29,9,0,20
+Fulton,Cleveland,U.S. Senate,,DEM,Natalie James,17,8,1,8
+Fulton,Fulton/Mt Calm,U.S. Senate,,DEM,Natalie James,47,20,1,26
+Fulton,MS/Afton,U.S. Senate,,DEM,Natalie James,136,57,3,76
+Fulton,Myatt,U.S. Senate,,DEM,Natalie James,5,3,1,1
+Fulton,PR/SB,U.S. Senate,,DEM,Natalie James,103,58,4,41
+Fulton,Cherokee Village,U.S. Senate,,DEM,Natalie James,71,30,0,41
+Fulton,Southfork/Wilson,U.S. Senate,,DEM,Natalie James,48,31,2,15
+Fulton,Washington,U.S. Senate,,DEM,Natalie James,26,12,4,10
+Fulton,Benton/Union,U.S. Senate,,REP,Senator John Boozman,656,449,11,196
+Fulton,Vidette/Big Creek,U.S. Senate,,REP,Senator John Boozman,270,78,3,189
+Fulton,Cleveland,U.S. Senate,,REP,Senator John Boozman,105,61,0,44
+Fulton,Fulton/Mt Calm,U.S. Senate,,REP,Senator John Boozman,329,113,2,214
+Fulton,MS/Afton,U.S. Senate,,REP,Senator John Boozman,570,234,12,324
+Fulton,Myatt,U.S. Senate,,REP,Senator John Boozman,65,23,0,42
+Fulton,PR/SB,U.S. Senate,,REP,Senator John Boozman,540,245,6,289
+Fulton,Cherokee Village,U.S. Senate,,REP,Senator John Boozman,230,69,10,151
+Fulton,Southfork/Wilson,U.S. Senate,,REP,Senator John Boozman,221,130,6,85
+Fulton,Washington,U.S. Senate,,REP,Senator John Boozman,133,85,1,47
+Fulton,Benton/Union,U.S. Congress District 01,,DEM,Representative Monte Hodges,215,150,9,56
+Fulton,Vidette/Big Creek,U.S. Congress District 01,,DEM,Representative Monte Hodges,36,7,0,29
+Fulton,Cleveland,U.S. Congress District 01,,DEM,Representative Monte Hodges,19,9,1,9
+Fulton,Fulton/Mt Calm,U.S. Congress District 01,,DEM,Representative Monte Hodges,51,22,1,28
+Fulton,MS/Afton,U.S. Congress District 01,,DEM,Representative Monte Hodges,145,59,4,82
+Fulton,Myatt,U.S. Congress District 01,,DEM,Representative Monte Hodges,8,3,1,4
+Fulton,PR/SB,U.S. Congress District 01,,DEM,Representative Monte Hodges,109,68,4,37
+Fulton,Cherokee Village,U.S. Congress District 01,,DEM,Representative Monte Hodges,77,32,0,45
+Fulton,Southfork/Wilson,U.S. Congress District 01,,DEM,Representative Monte Hodges,55,36,2,17
+Fulton,Washington,U.S. Congress District 01,,DEM,Representative Monte Hodges,32,17,4,11
+Fulton,Benton/Union,U.S. Congress District 01,,REP,Congressman Rick Crawford,685,466,10,209
+Fulton,Vidette/Big Creek,U.S. Congress District 01,,REP,Congressman Rick Crawford,280,83,3,194
+Fulton,Cleveland,U.S. Congress District 01,,REP,Congressman Rick Crawford,102,58,0,44
+Fulton,Fulton/Mt Calm,U.S. Congress District 01,,REP,Congressman Rick Crawford,339,115,2,222
+Fulton,MS/Afton,U.S. Congress District 01,,REP,Congressman Rick Crawford,586,238,12,336
+Fulton,Myatt,U.S. Congress District 01,,REP,Congressman Rick Crawford,65,24,0,41
+Fulton,PR/SB,U.S. Congress District 01,,REP,Congressman Rick Crawford,557,242,5,310
+Fulton,Cherokee Village,U.S. Congress District 01,,REP,Congressman Rick Crawford,235,71,9,155
+Fulton,Southfork/Wilson,U.S. Congress District 01,,REP,Congressman Rick Crawford,226,132,6,88
+Fulton,Washington,U.S. Congress District 01,,REP,Congressman Rick Crawford,136,85,1,50
+Fulton,Benton/Union,Attorney General,,DEM,Jesse Gibson,229,160,9,60
+Fulton,Vidette/Big Creek,Attorney General,,DEM,Jesse Gibson,34,6,0,28
+Fulton,Cleveland,Attorney General,,DEM,Jesse Gibson,18,9,1,8
+Fulton,Fulton/Mt Calm,Attorney General,,DEM,Jesse Gibson,56,22,1,33
+Fulton,MS/Afton,Attorney General,,DEM,Jesse Gibson,148,61,4,83
+Fulton,Myatt,Attorney General,,DEM,Jesse Gibson,7,3,1,3
+Fulton,PR/SB,Attorney General,,DEM,Jesse Gibson,115,67,5,43
+Fulton,Cherokee Village,Attorney General,,DEM,Jesse Gibson,83,36,0,47
+Fulton,Southfork/Wilson,Attorney General,,DEM,Jesse Gibson,51,34,2,15
+Fulton,Washington,Attorney General,,DEM,Jesse Gibson,35,20,4,11
+Fulton,Benton/Union,Attorney General,,REP,Lieutenant Governor Tim Griffin,664,452,10,202
+Fulton,Vidette/Big Creek,Attorney General,,REP,Lieutenant Governor Tim Griffin,276,83,3,190
+Fulton,Cleveland,Attorney General,,REP,Lieutenant Governor Tim Griffin,102,58,0,44
+Fulton,Fulton/Mt Calm,Attorney General,,REP,Lieutenant Governor Tim Griffin,332,115,2,215
+Fulton,MS/Afton,Attorney General,,REP,Lieutenant Governor Tim Griffin,583,236,10,337
+Fulton,Myatt,Attorney General,,REP,Lieutenant Governor Tim Griffin,67,24,0,43
+Fulton,PR/SB,Attorney General,,REP,Lieutenant Governor Tim Griffin,554,244,5,305
+Fulton,Cherokee Village,Attorney General,,REP,Lieutenant Governor Tim Griffin,228,67,10,151
+Fulton,Southfork/Wilson,Attorney General,,REP,Lieutenant Governor Tim Griffin,230,134,6,90
+Fulton,Washington,Attorney General,,REP,Lieutenant Governor Tim Griffin,132,81,1,50
+Fulton,Benton/Union,Auditor of State,,LIB,Simeon Snow,33,21,0,12
+Fulton,Vidette/Big Creek,Auditor of State,,LIB,Simeon Snow,12,0,0,12
+Fulton,Cleveland,Auditor of State,,LIB,Simeon Snow,5,3,0,2
+Fulton,Fulton/Mt Calm,Auditor of State,,LIB,Simeon Snow,17,7,0,10
+Fulton,MS/Afton,Auditor of State,,LIB,Simeon Snow,27,11,0,16
+Fulton,Myatt,Auditor of State,,LIB,Simeon Snow,5,0,0,5
+Fulton,PR/SB,Auditor of State,,LIB,Simeon Snow,26,10,0,16
+Fulton,Cherokee Village,Auditor of State,,LIB,Simeon Snow,13,4,0,9
+Fulton,Southfork/Wilson,Auditor of State,,LIB,Simeon Snow,9,6,0,3
+Fulton,Washington,Auditor of State,,LIB,Simeon Snow,10,7,0,3
+Fulton,Benton/Union,Auditor of State,,DEM,Diamond Arnold-Johnson,192,132,9,51
+Fulton,Vidette/Big Creek,Auditor of State,,DEM,Diamond Arnold-Johnson,29,7,0,22
+Fulton,Cleveland,Auditor of State,,DEM,Diamond Arnold-Johnson,18,8,1,9
+Fulton,Fulton/Mt Calm,Auditor of State,,DEM,Diamond Arnold-Johnson,45,18,1,26
+Fulton,MS/Afton,Auditor of State,,DEM,Diamond Arnold-Johnson,142,58,3,81
+Fulton,Myatt,Auditor of State,,DEM,Diamond Arnold-Johnson,4,3,1,0
+Fulton,PR/SB,Auditor of State,,DEM,Diamond Arnold-Johnson,97,58,5,34
+Fulton,Cherokee Village,Auditor of State,,DEM,Diamond Arnold-Johnson,70,30,0,40
+Fulton,Southfork/Wilson,Auditor of State,,DEM,Diamond Arnold-Johnson,48,29,2,17
+Fulton,Washington,Auditor of State,,DEM,Diamond Arnold-Johnson,33,16,4,13
+Fulton,Benton/Union,Auditor of State,,REP,Treasurer of State Dennis Milligan,658,450,10,198
+Fulton,Vidette/Big Creek,Auditor of State,,REP,Treasurer of State Dennis Milligan,272,83,3,186
+Fulton,Cleveland,Auditor of State,,REP,Treasurer of State Dennis Milligan,98,56,0,42
+Fulton,Fulton/Mt Calm,Auditor of State,,REP,Treasurer of State Dennis Milligan,325,114,2,209
+Fulton,MS/Afton,Auditor of State,,REP,Treasurer of State Dennis Milligan,559,229,10,320
+Fulton,Myatt,Auditor of State,,REP,Treasurer of State Dennis Milligan,65,24,0,41
+Fulton,PR/SB,Auditor of State,,REP,Treasurer of State Dennis Milligan,537,239,5,293
+Fulton,Cherokee Village,Auditor of State,,REP,Treasurer of State Dennis Milligan,229,68,10,151
+Fulton,Southfork/Wilson,Auditor of State,,REP,Treasurer of State Dennis Milligan,218,129,6,83
+Fulton,Washington,Auditor of State,,REP,Treasurer of State Dennis Milligan,118,76,1,41
+Fulton,Benton/Union,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,676,461,11,204
+Fulton,Vidette/Big Creek,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,276,82,2,192
+Fulton,Cleveland,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,100,55,0,45
+Fulton,Fulton/Mt Calm,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,329,112,1,216
+Fulton,MS/Afton,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,587,237,11,339
+Fulton,Myatt,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,67,25,0,42
+Fulton,PR/SB,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,568,250,6,312
+Fulton,Cherokee Village,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,233,71,10,152
+Fulton,Southfork/Wilson,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,232,138,6,88
+Fulton,Washington,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,128,81,1,46
+Fulton,Benton/Union,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,209,143,9,57
+Fulton,Vidette/Big Creek,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,33,7,1,25
+Fulton,Cleveland,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,19,11,1,7
+Fulton,Fulton/Mt Calm,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,51,23,2,26
+Fulton,MS/Afton,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,138,60,2,76
+Fulton,Myatt,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,6,2,1,3
+Fulton,PR/SB,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,98,58,4,36
+Fulton,Cherokee Village,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,79,32,0,47
+Fulton,Southfork/Wilson,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,47,30,2,15
+Fulton,Washington,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,32,17,4,11
+Fulton,Benton/Union,Governor,,LIB,"Ricky Dale Harrington, Jr.",19,11,0,8
+Fulton,Vidette/Big Creek,Governor,,LIB,"Ricky Dale Harrington, Jr.",12,2,0,10
+Fulton,Cleveland,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Fulton,Fulton/Mt Calm,Governor,,LIB,"Ricky Dale Harrington, Jr.",9,2,0,7
+Fulton,MS/Afton,Governor,,LIB,"Ricky Dale Harrington, Jr.",20,6,0,14
+Fulton,Myatt,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,0,0,2
+Fulton,PR/SB,Governor,,LIB,"Ricky Dale Harrington, Jr.",20,7,0,13
+Fulton,Cherokee Village,Governor,,LIB,"Ricky Dale Harrington, Jr.",8,2,0,6
+Fulton,Southfork/Wilson,Governor,,LIB,"Ricky Dale Harrington, Jr.",9,7,0,2
+Fulton,Washington,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,2,0,3
+Fulton,Benton/Union,Governor,,DEM,Chris Jones,243,166,11,66
+Fulton,Vidette/Big Creek,Governor,,DEM,Chris Jones,43,11,0,32
+Fulton,Cleveland,Governor,,DEM,Chris Jones,21,9,1,11
+Fulton,Fulton/Mt Calm,Governor,,DEM,Chris Jones,62,23,1,38
+Fulton,MS/Afton,Governor,,DEM,Chris Jones,153,67,6,80
+Fulton,Myatt,Governor,,DEM,Chris Jones,8,3,1,4
+Fulton,PR/SB,Governor,,DEM,Chris Jones,131,70,5,56
+Fulton,Cherokee Village,Governor,,DEM,Chris Jones,83,39,0,44
+Fulton,Southfork/Wilson,Governor,,DEM,Chris Jones,57,33,2,22
+Fulton,Washington,Governor,,DEM,Chris Jones,33,18,4,11
+Fulton,Benton/Union,Governor,,REP,Sarah Huckabee Sanders,641,439,9,193
+Fulton,Vidette/Big Creek,Governor,,REP,Sarah Huckabee Sanders,262,77,3,182
+Fulton,Cleveland,Governor,,REP,Sarah Huckabee Sanders,98,59,0,39
+Fulton,Fulton/Mt Calm,Governor,,REP,Sarah Huckabee Sanders,327,119,2,206
+Fulton,MS/Afton,Governor,,REP,Sarah Huckabee Sanders,563,229,9,325
+Fulton,Myatt,Governor,,REP,Sarah Huckabee Sanders,63,23,0,40
+Fulton,PR/SB,Governor,,REP,Sarah Huckabee Sanders,519,233,5,281
+Fulton,Cherokee Village,Governor,,REP,Sarah Huckabee Sanders,222,62,10,150
+Fulton,Southfork/Wilson,Governor,,REP,Sarah Huckabee Sanders,219,130,6,83
+Fulton,Washington,Governor,,REP,Sarah Huckabee Sanders,131,83,1,47
+Fulton,Benton/Union,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,671,455,13,203
+Fulton,Vidette/Big Creek,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,273,79,3,191
+Fulton,Cleveland,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,102,58,0,44
+Fulton,Fulton/Mt Calm,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,322,109,2,211
+Fulton,MS/Afton,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,577,236,10,331
+Fulton,Myatt,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,67,25,0,42
+Fulton,PR/SB,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,541,241,5,295
+Fulton,Cherokee Village,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,227,68,9,150
+Fulton,Southfork/Wilson,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,225,134,6,85
+Fulton,Washington,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,131,84,1,46
+Fulton,Benton/Union,Lieutenant Governor,,DEM,Kelly Ross Krout,195,134,8,53
+Fulton,Vidette/Big Creek,Lieutenant Governor,,DEM,Kelly Ross Krout,28,7,0,21
+Fulton,Cleveland,Lieutenant Governor,,DEM,Kelly Ross Krout,19,9,1,9
+Fulton,Fulton/Mt Calm,Lieutenant Governor,,DEM,Kelly Ross Krout,51,22,1,28
+Fulton,MS/Afton,Lieutenant Governor,,DEM,Kelly Ross Krout,130,56,3,71
+Fulton,Myatt,Lieutenant Governor,,DEM,Kelly Ross Krout,5,2,1,2
+Fulton,PR/SB,Lieutenant Governor,,DEM,Kelly Ross Krout,101,64,5,32
+Fulton,Cherokee Village,Lieutenant Governor,,DEM,Kelly Ross Krout,76,33,0,43
+Fulton,Southfork/Wilson,Lieutenant Governor,,DEM,Kelly Ross Krout,44,27,2,15
+Fulton,Washington,Lieutenant Governor,,DEM,Kelly Ross Krout,31,15,4,12
+Fulton,Benton/Union,Lieutenant Governor,,LIB,Frank Gilbert,27,21,0,6
+Fulton,Vidette/Big Creek,Lieutenant Governor,,LIB,Frank Gilbert,10,1,0,9
+Fulton,Cleveland,Lieutenant Governor,,LIB,Frank Gilbert,2,2,0,0
+Fulton,Fulton/Mt Calm,Lieutenant Governor,,LIB,Frank Gilbert,17,8,0,9
+Fulton,MS/Afton,Lieutenant Governor,,LIB,Frank Gilbert,25,8,0,17
+Fulton,Myatt,Lieutenant Governor,,LIB,Frank Gilbert,2,0,0,2
+Fulton,PR/SB,Lieutenant Governor,,LIB,Frank Gilbert,21,4,0,17
+Fulton,Cherokee Village,Lieutenant Governor,,LIB,Frank Gilbert,5,1,0,4
+Fulton,Southfork/Wilson,Lieutenant Governor,,LIB,Frank Gilbert,11,7,0,4
+Fulton,Washington,Lieutenant Governor,,LIB,Frank Gilbert,3,1,0,2
+Fulton,Benton/Union,Secretary of State,,DEM,Anna Beth Gorman,219,147,9,63
+Fulton,Vidette/Big Creek,Secretary of State,,DEM,Anna Beth Gorman,34,8,0,26
+Fulton,Cleveland,Secretary of State,,DEM,Anna Beth Gorman,18,8,1,9
+Fulton,Fulton/Mt Calm,Secretary of State,,DEM,Anna Beth Gorman,50,22,1,27
+Fulton,MS/Afton,Secretary of State,,DEM,Anna Beth Gorman,149,57,3,89
+Fulton,Myatt,Secretary of State,,DEM,Anna Beth Gorman,6,2,1,3
+Fulton,PR/SB,Secretary of State,,DEM,Anna Beth Gorman,114,67,4,43
+Fulton,Cherokee Village,Secretary of State,,DEM,Anna Beth Gorman,82,37,0,45
+Fulton,Southfork/Wilson,Secretary of State,,DEM,Anna Beth Gorman,51,32,2,17
+Fulton,Washington,Secretary of State,,DEM,Anna Beth Gorman,33,18,4,11
+Fulton,Benton/Union,Secretary of State,,REP,Secretary of State John Thurston,675,461,12,202
+Fulton,Vidette/Big Creek,Secretary of State,,REP,Secretary of State John Thurston,279,82,3,194
+Fulton,Cleveland,Secretary of State,,REP,Secretary of State John Thurston,102,59,0,43
+Fulton,Fulton/Mt Calm,Secretary of State,,REP,Secretary of State John Thurston,343,120,2,221
+Fulton,MS/Afton,Secretary of State,,REP,Secretary of State John Thurston,579,242,10,327
+Fulton,Myatt,Secretary of State,,REP,Secretary of State John Thurston,66,24,0,42
+Fulton,PR/SB,Secretary of State,,REP,Secretary of State John Thurston,546,241,6,299
+Fulton,Cherokee Village,Secretary of State,,REP,Secretary of State John Thurston,230,66,10,154
+Fulton,Southfork/Wilson,Secretary of State,,REP,Secretary of State John Thurston,228,135,6,87
+Fulton,Washington,Secretary of State,,REP,Secretary of State John Thurston,130,82,1,47
+Fulton,Benton/Union,State Treasurer,,REP,State Representative Mark Lowery,669,456,11,202
+Fulton,Vidette/Big Creek,State Treasurer,,REP,State Representative Mark Lowery,276,81,3,192
+Fulton,Cleveland,State Treasurer,,REP,State Representative Mark Lowery,100,58,0,42
+Fulton,Fulton/Mt Calm,State Treasurer,,REP,State Representative Mark Lowery,336,118,2,216
+Fulton,MS/Afton,State Treasurer,,REP,State Representative Mark Lowery,581,241,9,331
+Fulton,Myatt,State Treasurer,,REP,State Representative Mark Lowery,66,25,0,41
+Fulton,PR/SB,State Treasurer,,REP,State Representative Mark Lowery,548,244,5,299
+Fulton,Cherokee Village,State Treasurer,,REP,State Representative Mark Lowery,229,70,10,149
+Fulton,Southfork/Wilson,State Treasurer,,REP,State Representative Mark Lowery,229,136,6,87
+Fulton,Washington,State Treasurer,,REP,State Representative Mark Lowery,126,78,1,47
+Fulton,Benton/Union,State Treasurer,,DEM,Pam Whitaker,217,149,9,59
+Fulton,Vidette/Big Creek,State Treasurer,,DEM,Pam Whitaker,37,9,0,28
+Fulton,Cleveland,State Treasurer,,DEM,Pam Whitaker,21,10,1,10
+Fulton,Fulton/Mt Calm,State Treasurer,,DEM,Pam Whitaker,53,21,1,31
+Fulton,MS/Afton,State Treasurer,,DEM,Pam Whitaker,149,58,5,86
+Fulton,Myatt,State Treasurer,,DEM,Pam Whitaker,7,2,1,4
+Fulton,PR/SB,State Treasurer,,DEM,Pam Whitaker,110,63,5,42
+Fulton,Cherokee Village,State Treasurer,,DEM,Pam Whitaker,80,33,0,47
+Fulton,Southfork/Wilson,State Treasurer,,DEM,Pam Whitaker,49,30,2,17
+Fulton,Washington,State Treasurer,,DEM,Pam Whitaker,38,22,4,12
+Fulton,PR/SB,State Senate,22,REP,Representative John Payton,586,258,8,320
+Fulton,Cherokee Village,State Senate,22,REP,Representative John Payton,272,87,9,176
+Fulton,Benton/Union,State Senate,23,REP,Senator Scott Flippo,650,448,11,191
+Fulton,Vidette/Big Creek,State Senate,23,REP,Senator Scott Flippo,275,81,3,191
+Fulton,Cleveland,State Senate,23,REP,Senator Scott Flippo,97,56,0,41
+Fulton,Fulton/Mt Calm,State Senate,23,REP,Senator Scott Flippo,322,113,2,207
+Fulton,MS/Afton,State Senate,23,REP,Senator Scott Flippo,574,240,10,324
+Fulton,Myatt,State Senate,23,REP,Senator Scott Flippo,64,24,0,40
+Fulton,Southfork/Wilson,State Senate,23,REP,Senator Scott Flippo,224,131,6,87
+Fulton,Washington,State Senate,23,REP,Senator Scott Flippo,129,82,1,46
+Fulton,Benton/Union,State Senate,23,DEM,Derek Huber,238,159,10,69
+Fulton,Vidette/Big Creek,State Senate,23,DEM,Derek Huber,42,9,0,33
+Fulton,Cleveland,State Senate,23,DEM,Derek Huber,23,10,1,12
+Fulton,Fulton/Mt Calm,State Senate,23,DEM,Derek Huber,68,27,1,40
+Fulton,MS/Afton,State Senate,23,DEM,Derek Huber,150,59,3,88
+Fulton,Myatt,State Senate,23,DEM,Derek Huber,8,3,1,4
+Fulton,Southfork/Wilson,State Senate,23,DEM,Derek Huber,54,36,2,16
+Fulton,Washington,State Senate,23,DEM,Derek Huber,34,18,4,12
+Fulton,Benton/Union,State House,02,LIB,Teresa M. Norman,153,105,3,45
+Fulton,MS/Afton,State House,02,LIB,Teresa M. Norman,128,53,3,72
+Fulton,Myatt,State House,02,LIB,Teresa M. Norman,9,2,1,6
+Fulton,PR/SB,State House,02,LIB,Teresa M. Norman,104,50,4,50
+Fulton,Cherokee Village,State House,02,LIB,Teresa M. Norman,65,30,0,35
+Fulton,Southfork/Wilson,State House,02,LIB,Teresa M. Norman,44,29,2,13
+Fulton,Washington,State House,02,LIB,Teresa M. Norman,25,11,3,11
+Fulton,Benton/Union,State House,02,REP,Trey Steimel,703,479,15,209
+Fulton,MS/Afton,State House,02,REP,Trey Steimel,586,240,10,336
+Fulton,Myatt,State House,02,REP,Trey Steimel,63,23,0,40
+Fulton,PR/SB,State House,02,REP,Trey Steimel,527,241,5,281
+Fulton,Cherokee Village,State House,02,REP,Trey Steimel,224,65,10,149
+Fulton,Southfork/Wilson,State House,02,REP,Trey Steimel,230,138,6,86
+Fulton,Washington,State House,02,REP,Trey Steimel,132,84,1,47
+Fulton,Vidette/Big Creek,State House,03,LIB,Steven Gene Parsons,35,7,0,28
+Fulton,Cleveland,State House,03,LIB,Steven Gene Parsons,15,5,1,9
+Fulton,Fulton/Mt Calm,State House,03,LIB,Steven Gene Parsons,44,21,0,23
+Fulton,Vidette/Big Creek,State House,03,REP,Stetson Painter,277,81,3,193
+Fulton,Cleveland,State House,03,REP,Stetson Painter,104,61,0,43
+Fulton,Fulton/Mt Calm,State House,03,REP,Stetson Painter,338,116,2,220
+Fulton,Benton/Union,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,435,303,9,123
+Fulton,Vidette/Big Creek,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,129,39,3,87
+Fulton,Cleveland,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,50,25,1,24
+Fulton,Fulton/Mt Calm,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,172,56,0,116
+Fulton,MS/Afton,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,343,159,8,176
+Fulton,Myatt,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,29,10,1,18
+Fulton,PR/SB,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,306,147,7,152
+Fulton,Cherokee Village,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,141,50,5,86
+Fulton,Southfork/Wilson,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,136,84,1,51
+Fulton,Washington,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,76,48,3,25
+Fulton,Benton/Union,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,326,220,7,99
+Fulton,Vidette/Big Creek,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,128,34,0,94
+Fulton,Cleveland,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,51,32,0,19
+Fulton,Fulton/Mt Calm,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,141,55,2,84
+Fulton,MS/Afton,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,309,114,4,191
+Fulton,Myatt,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,32,13,0,19
+Fulton,PR/SB,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,272,119,0,153
+Fulton,Cherokee Village,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,126,44,2,80
+Fulton,Southfork/Wilson,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,109,68,5,36
+Fulton,Washington,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,66,42,2,22
+Fulton,Benton/Union,County Judge,,REP,REP Kenneth Crow,550,368,18,164
+Fulton,Vidette/Big Creek,County Judge,,REP,REP Kenneth Crow,262,76,2,184
+Fulton,Cleveland,County Judge,,REP,REP Kenneth Crow,91,52,0,39
+Fulton,Fulton/Mt Calm,County Judge,,REP,REP Kenneth Crow,315,103,2,210
+Fulton,MS/Afton,County Judge,,REP,REP Kenneth Crow,572,226,15,331
+Fulton,Myatt,County Judge,,REP,REP Kenneth Crow,63,24,0,39
+Fulton,PR/SB,County Judge,,REP,REP Kenneth Crow,501,224,6,271
+Fulton,Cherokee Village,County Judge,,REP,REP Kenneth Crow,224,66,10,148
+Fulton,Southfork/Wilson,County Judge,,REP,REP Kenneth Crow,229,131,6,92
+Fulton,Washington,County Judge,,REP,REP Kenneth Crow,110,67,1,42
+Fulton,Benton/Union,County Judge,,IND,IND Todd Doty,354,246,3,105
+Fulton,Vidette/Big Creek,County Judge,,IND,IND Todd Doty,52,13,1,38
+Fulton,Cleveland,County Judge,,IND,IND Todd Doty,33,18,1,14
+Fulton,Fulton/Mt Calm,County Judge,,IND,IND Todd Doty,82,39,1,42
+Fulton,MS/Afton,County Judge,,IND,IND Todd Doty,157,71,1,85
+Fulton,Myatt,County Judge,,IND,IND Todd Doty,11,3,1,7
+Fulton,PR/SB,County Judge,,IND,IND Todd Doty,164,87,4,73
+Fulton,Cherokee Village,County Judge,,IND,IND Todd Doty,83,36,0,47
+Fulton,Southfork/Wilson,County Judge,,IND,IND Todd Doty,52,39,2,11
+Fulton,Washington,County Judge,,IND,IND Todd Doty,56,36,4,16
+Fulton,Benton/Union,County Sheriff,,IND,IND Dallas Montgomery,141,90,5,46
+Fulton,Vidette/Big Creek,County Sheriff,,IND,IND Dallas Montgomery,44,12,1,31
+Fulton,Cleveland,County Sheriff,,IND,IND Dallas Montgomery,14,6,1,7
+Fulton,Fulton/Mt Calm,County Sheriff,,IND,IND Dallas Montgomery,39,14,1,24
+Fulton,MS/Afton,County Sheriff,,IND,IND Dallas Montgomery,201,80,6,115
+Fulton,Myatt,County Sheriff,,IND,IND Dallas Montgomery,19,6,0,13
+Fulton,PR/SB,County Sheriff,,IND,IND Dallas Montgomery,132,63,4,65
+Fulton,Cherokee Village,County Sheriff,,IND,IND Dallas Montgomery,85,39,0,46
+Fulton,Southfork/Wilson,County Sheriff,,IND,IND Dallas Montgomery,58,39,0,19
+Fulton,Washington,County Sheriff,,IND,IND Dallas Montgomery,21,11,4,6
+Fulton,Benton/Union,County Sheriff,,REP,"REP Jacob ""Jake"" Smith",754,518,16,220
+Fulton,Vidette/Big Creek,County Sheriff,,REP,"REP Jacob ""Jake"" Smith",270,76,2,192
+Fulton,Cleveland,County Sheriff,,REP,"REP Jacob ""Jake"" Smith",109,63,0,46
+Fulton,Fulton/Mt Calm,County Sheriff,,REP,"REP Jacob ""Jake"" Smith",352,126,2,224
+Fulton,MS/Afton,County Sheriff,,REP,"REP Jacob ""Jake"" Smith",532,221,9,302
+Fulton,Myatt,County Sheriff,,REP,"REP Jacob ""Jake"" Smith",55,21,1,33
+Fulton,PR/SB,County Sheriff,,REP,"REP Jacob ""Jake"" Smith",529,244,6,279
+Fulton,Cherokee Village,County Sheriff,,REP,"REP Jacob ""Jake"" Smith",219,62,10,147
+Fulton,Southfork/Wilson,County Sheriff,,REP,"REP Jacob ""Jake"" Smith",217,127,8,82
+Fulton,Washington,County Sheriff,,REP,"REP Jacob ""Jake"" Smith",145,93,1,51
+Fulton,Benton/Union,County Clerk,,IND,IND Vickie Bishop,832,561,20,251
+Fulton,Vidette/Big Creek,County Clerk,,IND,IND Vickie Bishop,261,70,3,188
+Fulton,Cleveland,County Clerk,,IND,IND Vickie Bishop,113,62,1,50
+Fulton,Fulton/Mt Calm,County Clerk,,IND,IND Vickie Bishop,350,122,2,226
+Fulton,MS/Afton,County Clerk,,IND,IND Vickie Bishop,642,262,12,368
+Fulton,Myatt,County Clerk,,IND,IND Vickie Bishop,66,24,1,41
+Fulton,PR/SB,County Clerk,,IND,IND Vickie Bishop,568,274,9,285
+Fulton,Cherokee Village,County Clerk,,IND,IND Vickie Bishop,253,92,8,153
+Fulton,Southfork/Wilson,County Clerk,,IND,IND Vickie Bishop,250,151,8,91
+Fulton,Washington,County Clerk,,IND,IND Vickie Bishop,147,92,5,50
+Fulton,Vidette/Big Creek,JP Dist 2,,IND,IND John R. Emery,16,2,0,14
+Fulton,Fulton/Mt Calm,JP Dist 2,,IND,IND John R. Emery,7,4,0,3
+Fulton,Southfork/Wilson,JP Dist 2,,IND,IND John R. Emery,27,20,0,7
+Fulton,Washington,JP Dist 2,,IND,IND John R. Emery,78,53,2,23
+Fulton,Vidette/Big Creek,JP Dist 2,,REP,REP Dennis W. Kinder,117,28,2,87
+Fulton,Fulton/Mt Calm,JP Dist 2,,REP,REP Dennis W. Kinder,56,17,0,39
+Fulton,Southfork/Wilson,JP Dist 2,,REP,REP Dennis W. Kinder,63,33,0,30
+Fulton,Washington,JP Dist 2,,REP,REP Dennis W. Kinder,71,39,1,31
+Fulton,Vidette/Big Creek,JP Dist 2,,IND,IND Justin Luther,39,11,0,28
+Fulton,Fulton/Mt Calm,JP Dist 2,,IND,IND Justin Luther,15,7,0,8
+Fulton,Southfork/Wilson,JP Dist 2,,IND,IND Justin Luther,19,9,0,10
+Fulton,Washington,JP Dist 2,,IND,IND Justin Luther,17,11,2,4
+Fulton,Benton/Union,Salem Mayor,,IND,IND Daniel Busch,353,230,8,115
+Fulton,Benton/Union,Salem Recorder/Treasurer,,IND,IND Jeremy Stone,349,224,8,117
+Fulton,Fulton/Mt Calm,Viola Mayor,,IND,IND Jackie Estes,91,25,1,65
+Fulton,Fulton/Mt Calm,Viola Clerk/Recorder,,IND,IND Tracey Sherman,92,27,1,64
+Fulton,MS/Afton,MS Mayor,,IND,IND M June Grant,55,19,2,34
+Fulton,MS/Afton,MS Mayor,,IND,IND Danny Busch,219,82,10,127
+Fulton,MS/Afton,MS Alderman W1 P1,,IND,IND Charles Vaughn,92,31,10,51
+Fulton,MS/Afton,MS Alderman W1 P1,,IND,IND Robert Bennett,170,67,2,101
+Fulton,MS/Afton,MS Alderman W2 P1,,IND,IND Roy Dan Grant,86,28,4,54
+Fulton,MS/Afton,MS Alderman W2 P1,,IND,IND Barry O'Dell,167,66,7,94
+Fulton,PR/SB,HSB Mayor,,IND,IND Duane C Delair,1,1,0,0
+Fulton,PR/SB,HSB Mayor,,IND,IND Craig Huckaby,4,2,0,2
+Fulton,PR/SB,HSB Alderman W1 P1,,IND,IND Luther Yancey,4,2,0,2
+Fulton,PR/SB,HSB Alderman W1 P1,,IND,IND Jeremiah Dunklee,1,1,0,0
+Fulton,PR/SB,HSB Alderman W1 P2,,IND,IND Kathi Purnell,0,0,0,0
+Fulton,PR/SB,HSB Alderman W1 P2,,IND,IND Loretta Purkey,4,3,0,1
+Fulton,PR/SB,Ash Flat Mayor,,IND,IND Larry Fowler,7,1,1,5
+Fulton,PR/SB,Ash Flat Alderman W1 P2,,IND,IND Mike Nix,7,1,1,5
+Fulton,PR/SB,Ash Flat Alderman W1 P2,,IND,IND Glenn Halfacre,0,0,0,0
+Fulton,Cherokee Village,CV Mayor,,IND,IND Rob Smith,114,43,5,66
+Fulton,Cherokee Village,CV Mayor,,IND,IND Constitutional Chris Burleson,19,9,1,9
+Fulton,Cherokee Village,CV Mayor,,IND,IND Steven Rose,170,47,4,119
+Fulton,Cherokee Village,City of CV City Clerk,,IND,IND Penny Trumpy,257,89,8,160
+Fulton,Cherokee Village,CV Alderman W3 P2,,IND,IND Joey Whited,81,26,3,52
+Fulton,Cherokee Village,CV Alderman W3 P2,,IND,IND Steve Thompson,197,69,4,124
+Fulton,MS/Afton,Hardy Mayor,,IND,IND Ethan J. Barnes,9,1,0,8
+Fulton,MS/Afton,Hardy Alderman W2 P1,,IND,IND Scott Quintana,4,0,0,4
+Fulton,MS/Afton,Hardy Alderman W2 P1,,IND,IND Jason Creasey,6,2,0,4
+Fulton,MS/Afton,Hardy Alderman W2 P2,,IND,IND Bruce Thurow,4,2,0,2
+Fulton,MS/Afton,Hardy Alderman W2 P2,,IND,IND Tony Berry,6,0,0,6
+Fulton,MS/Afton,Hardy Alderman W3 P1,,IND,IND Mark Gordon,6,2,0,4
+Fulton,MS/Afton,Hardy Alderman W3 P1,,IND,IND Phillip Horrell,4,0,0,4
+Fulton,Benton/Union,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,359,240,10,109
+Fulton,Vidette/Big Creek,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,144,44,2,98
+Fulton,Cleveland,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,39,19,0,20
+Fulton,Fulton/Mt Calm,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,154,53,1,100
+Fulton,MS/Afton,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,311,126,2,183
+Fulton,Myatt,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,23,11,0,12
+Fulton,PR/SB,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,280,137,3,140
+Fulton,Cherokee Village,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,125,44,5,76
+Fulton,Southfork/Wilson,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,109,62,4,43
+Fulton,Washington,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,55,36,1,18
+Fulton,Benton/Union,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,460,312,10,138
+Fulton,Vidette/Big Creek,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,132,33,1,98
+Fulton,Cleveland,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,72,43,1,28
+Fulton,Fulton/Mt Calm,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,182,69,1,112
+Fulton,MS/Afton,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,376,162,11,203
+Fulton,Myatt,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,42,12,1,29
+Fulton,PR/SB,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,347,148,6,193
+Fulton,Cherokee Village,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,173,52,5,116
+Fulton,Southfork/Wilson,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,144,90,1,53
+Fulton,Washington,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,98,56,4,38
+Fulton,Benton/Union,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,372,256,7,109
+Fulton,Vidette/Big Creek,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,159,52,2,105
+Fulton,Cleveland,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,58,27,0,31
+Fulton,Fulton/Mt Calm,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,169,56,0,113
+Fulton,MS/Afton,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,329,136,4,189
+Fulton,Myatt,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,27,13,1,13
+Fulton,PR/SB,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,324,158,1,165
+Fulton,Cherokee Village,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,127,43,4,80
+Fulton,Southfork/Wilson,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,115,67,3,45
+Fulton,Washington,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,78,52,1,25
+Fulton,Benton/Union,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,450,296,13,141
+Fulton,Vidette/Big Creek,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,123,26,1,96
+Fulton,Cleveland,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,55,34,1,20
+Fulton,Fulton/Mt Calm,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,162,59,2,101
+Fulton,MS/Afton,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,360,150,9,201
+Fulton,Myatt,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,41,12,0,29
+Fulton,PR/SB,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,308,133,9,166
+Fulton,Cherokee Village,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,167,53,6,108
+Fulton,Southfork/Wilson,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,146,91,3,52
+Fulton,Washington,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,76,41,4,31
+Fulton,Benton/Union,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,430,296,4,130
+Fulton,Vidette/Big Creek,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,191,57,2,132
+Fulton,Cleveland,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,58,39,0,19
+Fulton,Fulton/Mt Calm,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,219,73,2,144
+Fulton,MS/Afton,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,402,164,7,231
+Fulton,Myatt,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,38,12,0,26
+Fulton,PR/SB,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,344,167,2,175
+Fulton,Cherokee Village,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,156,50,7,99
+Fulton,Southfork/Wilson,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,129,73,5,51
+Fulton,Washington,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,90,60,0,30
+Fulton,Benton/Union,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,413,273,15,125
+Fulton,Vidette/Big Creek,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,113,29,1,83
+Fulton,Cleveland,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,57,25,1,31
+Fulton,Fulton/Mt Calm,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,143,57,1,85
+Fulton,MS/Afton,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,302,128,7,167
+Fulton,Myatt,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,30,11,1,18
+Fulton,PR/SB,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,300,129,8,163
+Fulton,Cherokee Village,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,144,47,2,95
+Fulton,Southfork/Wilson,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,139,88,2,49
+Fulton,Washington,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,69,36,5,28
+Fulton,Benton/Union,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,356,230,5,121
+Fulton,Vidette/Big Creek,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,125,35,2,88
+Fulton,Cleveland,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,43,17,0,26
+Fulton,Fulton/Mt Calm,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,149,58,2,89
+Fulton,MS/Afton,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,343,117,3,223
+Fulton,Myatt,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,25,9,0,16
+Fulton,PR/SB,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,272,112,3,157
+Fulton,Cherokee Village,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,140,59,0,81
+Fulton,Southfork/Wilson,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,104,51,5,48
+Fulton,Washington,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,57,36,3,18
+Fulton,Benton/Union,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,520,361,15,144
+Fulton,Vidette/Big Creek,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,187,54,1,132
+Fulton,Cleveland,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,78,50,1,27
+Fulton,Fulton/Mt Calm,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,227,79,1,147
+Fulton,MS/Afton,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,384,178,14,192
+Fulton,Myatt,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,49,18,1,30
+Fulton,PR/SB,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,386,189,7,190
+Fulton,Cherokee Village,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,165,42,10,113
+Fulton,Southfork/Wilson,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,172,116,2,54
+Fulton,Washington,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,108,65,2,41

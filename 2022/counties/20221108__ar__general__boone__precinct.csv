@@ -1,0 +1,493 @@
+county,precinct,office,district,party,candidate,votes,early_vote,absentee,election_day
+Boone,District 1,U.S. Senate,,REP,Senator John Boozman,742,521,9,212
+Boone,District 2,U.S. Senate,,REP,Senator John Boozman,901,673,16,212
+Boone,District 3,U.S. Senate,,REP,Senator John Boozman,553,380,5,168
+Boone,District 4,U.S. Senate,,REP,Senator John Boozman,810,600,27,183
+Boone,District 5,U.S. Senate,,REP,Senator John Boozman,991,553,7,431
+Boone,District 6,U.S. Senate,,REP,Senator John Boozman,1042,515,10,517
+Boone,District 7,U.S. Senate,,REP,Senator John Boozman,906,380,5,521
+Boone,District 8,U.S. Senate,,REP,Senator John Boozman,1075,705,11,359
+Boone,District 9,U.S. Senate,,REP,Senator John Boozman,1032,520,7,505
+Boone,District 10,U.S. Senate,,REP,Senator John Boozman,1163,347,13,803
+Boone,District 11,U.S. Senate,,REP,Senator John Boozman,742,242,7,493
+Boone,District 12,U.S. Senate,,REP,Senator John Boozman,217,35,3,179
+Boone,District 1,U.S. Senate,,DEM,Natalie James,206,155,6,45
+Boone,District 2,U.S. Senate,,DEM,Natalie James,248,209,8,31
+Boone,District 3,U.S. Senate,,DEM,Natalie James,162,121,4,37
+Boone,District 4,U.S. Senate,,DEM,Natalie James,188,142,14,32
+Boone,District 5,U.S. Senate,,DEM,Natalie James,175,110,6,59
+Boone,District 6,U.S. Senate,,DEM,Natalie James,118,79,4,35
+Boone,District 7,U.S. Senate,,DEM,Natalie James,124,80,2,42
+Boone,District 8,U.S. Senate,,DEM,Natalie James,249,177,8,64
+Boone,District 9,U.S. Senate,,DEM,Natalie James,185,120,3,62
+Boone,District 10,U.S. Senate,,DEM,Natalie James,142,60,4,78
+Boone,District 11,U.S. Senate,,DEM,Natalie James,128,56,6,66
+Boone,District 12,U.S. Senate,,DEM,Natalie James,54,17,1,36
+Boone,District 1,U.S. Senate,,LIB,Kenneth Cates,60,33,0,27
+Boone,District 2,U.S. Senate,,LIB,Kenneth Cates,47,27,0,20
+Boone,District 3,U.S. Senate,,LIB,Kenneth Cates,36,21,0,15
+Boone,District 4,U.S. Senate,,LIB,Kenneth Cates,50,30,1,19
+Boone,District 5,U.S. Senate,,LIB,Kenneth Cates,31,19,0,12
+Boone,District 6,U.S. Senate,,LIB,Kenneth Cates,50,28,0,22
+Boone,District 7,U.S. Senate,,LIB,Kenneth Cates,59,25,2,32
+Boone,District 8,U.S. Senate,,LIB,Kenneth Cates,49,27,1,21
+Boone,District 9,U.S. Senate,,LIB,Kenneth Cates,62,30,0,32
+Boone,District 10,U.S. Senate,,LIB,Kenneth Cates,40,11,0,29
+Boone,District 11,U.S. Senate,,LIB,Kenneth Cates,37,11,1,25
+Boone,District 12,U.S. Senate,,LIB,Kenneth Cates,12,0,0,12
+Boone,District 1,U.S. Congress District 01,,REP,Congressman Rick Crawford,772,530,9,233
+Boone,District 2,U.S. Congress District 01,,REP,Congressman Rick Crawford,919,682,16,221
+Boone,District 3,U.S. Congress District 01,,REP,Congressman Rick Crawford,569,387,5,177
+Boone,District 4,U.S. Congress District 01,,REP,Congressman Rick Crawford,832,611,27,194
+Boone,District 5,U.S. Congress District 01,,REP,Congressman Rick Crawford,994,561,7,426
+Boone,District 6,U.S. Congress District 01,,REP,Congressman Rick Crawford,1075,528,10,537
+Boone,District 7,U.S. Congress District 01,,REP,Congressman Rick Crawford,942,392,7,543
+Boone,District 8,U.S. Congress District 01,,REP,Congressman Rick Crawford,1084,707,9,368
+Boone,District 9,U.S. Congress District 01,,REP,Congressman Rick Crawford,1070,541,8,521
+Boone,District 10,U.S. Congress District 01,,REP,Congressman Rick Crawford,1194,358,13,823
+Boone,District 11,U.S. Congress District 01,,REP,Congressman Rick Crawford,760,248,7,505
+Boone,District 12,U.S. Congress District 01,,REP,Congressman Rick Crawford,222,33,3,186
+Boone,District 1,U.S. Congress District 01,,DEM,Representative Monte Hodges,228,173,6,49
+Boone,District 2,U.S. Congress District 01,,DEM,Representative Monte Hodges,264,219,7,38
+Boone,District 3,U.S. Congress District 01,,DEM,Representative Monte Hodges,170,127,4,39
+Boone,District 4,U.S. Congress District 01,,DEM,Representative Monte Hodges,215,160,15,40
+Boone,District 5,U.S. Congress District 01,,DEM,Representative Monte Hodges,195,116,6,73
+Boone,District 6,U.S. Congress District 01,,DEM,Representative Monte Hodges,131,87,4,40
+Boone,District 7,U.S. Congress District 01,,DEM,Representative Monte Hodges,143,91,2,50
+Boone,District 8,U.S. Congress District 01,,DEM,Representative Monte Hodges,270,190,10,70
+Boone,District 9,U.S. Congress District 01,,DEM,Representative Monte Hodges,202,127,2,73
+Boone,District 10,U.S. Congress District 01,,DEM,Representative Monte Hodges,148,61,4,83
+Boone,District 11,U.S. Congress District 01,,DEM,Representative Monte Hodges,139,59,7,73
+Boone,District 12,U.S. Congress District 01,,DEM,Representative Monte Hodges,55,18,1,36
+Boone,District 1,Governor,,REP,Sarah Huckabee Sanders,724,504,9,211
+Boone,District 2,Governor,,REP,Sarah Huckabee Sanders,868,643,16,209
+Boone,District 3,Governor,,REP,Sarah Huckabee Sanders,540,369,5,166
+Boone,District 4,Governor,,REP,Sarah Huckabee Sanders,808,590,27,191
+Boone,District 5,Governor,,REP,Sarah Huckabee Sanders,977,554,7,416
+Boone,District 6,Governor,,REP,Sarah Huckabee Sanders,1050,515,10,525
+Boone,District 7,Governor,,REP,Sarah Huckabee Sanders,909,380,7,522
+Boone,District 8,Governor,,REP,Sarah Huckabee Sanders,1062,689,10,363
+Boone,District 9,Governor,,REP,Sarah Huckabee Sanders,1037,524,7,506
+Boone,District 10,Governor,,REP,Sarah Huckabee Sanders,1185,353,13,819
+Boone,District 11,Governor,,REP,Sarah Huckabee Sanders,747,247,8,492
+Boone,District 12,Governor,,REP,Sarah Huckabee Sanders,220,34,3,183
+Boone,District 1,Governor,,LIB,"Ricky Dale Harrington, Jr.",41,24,0,17
+Boone,District 2,Governor,,LIB,"Ricky Dale Harrington, Jr.",28,18,0,10
+Boone,District 3,Governor,,LIB,"Ricky Dale Harrington, Jr.",22,13,0,9
+Boone,District 4,Governor,,LIB,"Ricky Dale Harrington, Jr.",25,18,2,5
+Boone,District 5,Governor,,LIB,"Ricky Dale Harrington, Jr.",22,10,0,12
+Boone,District 6,Governor,,LIB,"Ricky Dale Harrington, Jr.",25,12,0,13
+Boone,District 7,Governor,,LIB,"Ricky Dale Harrington, Jr.",23,6,0,17
+Boone,District 8,Governor,,LIB,"Ricky Dale Harrington, Jr.",31,16,1,14
+Boone,District 9,Governor,,LIB,"Ricky Dale Harrington, Jr.",38,16,0,22
+Boone,District 10,Governor,,LIB,"Ricky Dale Harrington, Jr.",23,9,0,14
+Boone,District 11,Governor,,LIB,"Ricky Dale Harrington, Jr.",22,3,0,19
+Boone,District 12,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,1,0,4
+Boone,District 1,Governor,,DEM,Chris Jones,245,185,6,54
+Boone,District 2,Governor,,DEM,Chris Jones,310,254,10,46
+Boone,District 3,Governor,,DEM,Chris Jones,189,142,4,43
+Boone,District 4,Governor,,DEM,Chris Jones,221,170,13,38
+Boone,District 5,Governor,,DEM,Chris Jones,203,121,6,76
+Boone,District 6,Governor,,DEM,Chris Jones,145,98,4,43
+Boone,District 7,Governor,,DEM,Chris Jones,163,101,3,59
+Boone,District 8,Governor,,DEM,Chris Jones,280,203,8,69
+Boone,District 9,Governor,,DEM,Chris Jones,213,133,3,77
+Boone,District 10,Governor,,DEM,Chris Jones,150,60,4,86
+Boone,District 11,Governor,,DEM,Chris Jones,141,61,6,74
+Boone,District 12,Governor,,DEM,Chris Jones,59,17,1,41
+Boone,District 1,Lieutenant Governor,,DEM,Kelly Ross Krout,222,164,6,52
+Boone,District 2,Lieutenant Governor,,DEM,Kelly Ross Krout,274,229,10,35
+Boone,District 3,Lieutenant Governor,,DEM,Kelly Ross Krout,165,121,4,40
+Boone,District 4,Lieutenant Governor,,DEM,Kelly Ross Krout,204,153,14,37
+Boone,District 5,Lieutenant Governor,,DEM,Kelly Ross Krout,195,120,6,69
+Boone,District 6,Lieutenant Governor,,DEM,Kelly Ross Krout,140,94,4,42
+Boone,District 7,Lieutenant Governor,,DEM,Kelly Ross Krout,139,87,3,49
+Boone,District 8,Lieutenant Governor,,DEM,Kelly Ross Krout,271,194,8,69
+Boone,District 9,Lieutenant Governor,,DEM,Kelly Ross Krout,201,129,3,69
+Boone,District 10,Lieutenant Governor,,DEM,Kelly Ross Krout,143,61,4,78
+Boone,District 11,Lieutenant Governor,,DEM,Kelly Ross Krout,133,59,6,68
+Boone,District 12,Lieutenant Governor,,DEM,Kelly Ross Krout,57,17,1,39
+Boone,District 1,Lieutenant Governor,,LIB,Frank Gilbert,55,34,0,21
+Boone,District 2,Lieutenant Governor,,LIB,Frank Gilbert,43,27,0,16
+Boone,District 3,Lieutenant Governor,,LIB,Frank Gilbert,34,21,1,12
+Boone,District 4,Lieutenant Governor,,LIB,Frank Gilbert,51,31,1,19
+Boone,District 5,Lieutenant Governor,,LIB,Frank Gilbert,43,18,0,25
+Boone,District 6,Lieutenant Governor,,LIB,Frank Gilbert,47,20,0,27
+Boone,District 7,Lieutenant Governor,,LIB,Frank Gilbert,40,12,2,26
+Boone,District 8,Lieutenant Governor,,LIB,Frank Gilbert,39,18,1,20
+Boone,District 9,Lieutenant Governor,,LIB,Frank Gilbert,52,28,0,24
+Boone,District 10,Lieutenant Governor,,LIB,Frank Gilbert,46,10,0,36
+Boone,District 11,Lieutenant Governor,,LIB,Frank Gilbert,29,8,1,20
+Boone,District 12,Lieutenant Governor,,LIB,Frank Gilbert,8,2,0,6
+Boone,District 1,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,730,510,9,211
+Boone,District 2,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,879,651,15,213
+Boone,District 3,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,548,377,4,167
+Boone,District 4,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,789,585,27,177
+Boone,District 5,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,959,547,5,407
+Boone,District 6,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,1026,505,10,511
+Boone,District 7,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,908,383,5,520
+Boone,District 8,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,1051,691,11,349
+Boone,District 9,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,1024,514,7,503
+Boone,District 10,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,1159,345,13,801
+Boone,District 11,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,734,238,7,489
+Boone,District 12,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,215,33,3,179
+Boone,District 1,Attorney General,,DEM,Jesse Gibson,248,183,5,60
+Boone,District 2,Attorney General,,DEM,Jesse Gibson,292,238,10,44
+Boone,District 3,Attorney General,,DEM,Jesse Gibson,181,135,4,42
+Boone,District 4,Attorney General,,DEM,Jesse Gibson,224,167,15,42
+Boone,District 5,Attorney General,,DEM,Jesse Gibson,207,126,6,75
+Boone,District 6,Attorney General,,DEM,Jesse Gibson,145,93,4,48
+Boone,District 7,Attorney General,,DEM,Jesse Gibson,149,93,3,53
+Boone,District 8,Attorney General,,DEM,Jesse Gibson,282,201,9,72
+Boone,District 9,Attorney General,,DEM,Jesse Gibson,213,131,3,79
+Boone,District 10,Attorney General,,DEM,Jesse Gibson,159,65,4,90
+Boone,District 11,Attorney General,,DEM,Jesse Gibson,183,73,7,103
+Boone,District 12,Attorney General,,DEM,Jesse Gibson,64,16,1,47
+Boone,District 1,Attorney General,,REP,Lieutenant Governor Tim Griffin,748,517,10,221
+Boone,District 2,Attorney General,,REP,Lieutenant Governor Tim Griffin,899,665,15,219
+Boone,District 3,Attorney General,,REP,Lieutenant Governor Tim Griffin,563,383,5,175
+Boone,District 4,Attorney General,,REP,Lieutenant Governor Tim Griffin,820,604,27,189
+Boone,District 5,Attorney General,,REP,Lieutenant Governor Tim Griffin,986,554,7,425
+Boone,District 6,Attorney General,,REP,Lieutenant Governor Tim Griffin,1068,530,10,528
+Boone,District 7,Attorney General,,REP,Lieutenant Governor Tim Griffin,936,389,7,540
+Boone,District 8,Attorney General,,REP,Lieutenant Governor Tim Griffin,1070,698,11,361
+Boone,District 9,Attorney General,,REP,Lieutenant Governor Tim Griffin,1054,535,6,513
+Boone,District 10,Attorney General,,REP,Lieutenant Governor Tim Griffin,1186,352,13,821
+Boone,District 11,Attorney General,,REP,Lieutenant Governor Tim Griffin,716,234,7,475
+Boone,District 12,Attorney General,,REP,Lieutenant Governor Tim Griffin,215,35,3,177
+Boone,District 1,Secretary of State,,DEM,Anna Beth Gorman,235,172,6,57
+Boone,District 2,Secretary of State,,DEM,Anna Beth Gorman,276,228,10,38
+Boone,District 3,Secretary of State,,DEM,Anna Beth Gorman,175,129,4,42
+Boone,District 4,Secretary of State,,DEM,Anna Beth Gorman,211,157,15,39
+Boone,District 5,Secretary of State,,DEM,Anna Beth Gorman,191,116,6,69
+Boone,District 6,Secretary of State,,DEM,Anna Beth Gorman,138,93,4,41
+Boone,District 7,Secretary of State,,DEM,Anna Beth Gorman,149,97,3,49
+Boone,District 8,Secretary of State,,DEM,Anna Beth Gorman,269,193,10,66
+Boone,District 9,Secretary of State,,DEM,Anna Beth Gorman,207,128,3,76
+Boone,District 10,Secretary of State,,DEM,Anna Beth Gorman,155,64,4,87
+Boone,District 11,Secretary of State,,DEM,Anna Beth Gorman,144,62,7,75
+Boone,District 12,Secretary of State,,DEM,Anna Beth Gorman,59,17,1,41
+Boone,District 1,Secretary of State,,REP,Secretary of State John Thurston,767,532,9,226
+Boone,District 2,Secretary of State,,REP,Secretary of State John Thurston,911,676,15,220
+Boone,District 3,Secretary of State,,REP,Secretary of State John Thurston,567,387,5,175
+Boone,District 4,Secretary of State,,REP,Secretary of State John Thurston,835,613,27,195
+Boone,District 5,Secretary of State,,REP,Secretary of State John Thurston,1005,568,7,430
+Boone,District 6,Secretary of State,,REP,Secretary of State John Thurston,1067,522,10,535
+Boone,District 7,Secretary of State,,REP,Secretary of State John Thurston,941,390,7,544
+Boone,District 8,Secretary of State,,REP,Secretary of State John Thurston,1092,708,10,374
+Boone,District 9,Secretary of State,,REP,Secretary of State John Thurston,1070,542,7,521
+Boone,District 10,Secretary of State,,REP,Secretary of State John Thurston,1186,354,13,819
+Boone,District 11,Secretary of State,,REP,Secretary of State John Thurston,757,244,7,506
+Boone,District 12,Secretary of State,,REP,Secretary of State John Thurston,223,35,3,185
+Boone,District 1,State Treasurer,,REP,State Representative Mark Lowery,771,532,10,229
+Boone,District 2,State Treasurer,,REP,State Representative Mark Lowery,909,670,15,224
+Boone,District 3,State Treasurer,,REP,State Representative Mark Lowery,564,385,5,174
+Boone,District 4,State Treasurer,,REP,State Representative Mark Lowery,828,610,27,191
+Boone,District 5,State Treasurer,,REP,State Representative Mark Lowery,1000,563,6,431
+Boone,District 6,State Treasurer,,REP,State Representative Mark Lowery,1076,532,10,534
+Boone,District 7,State Treasurer,,REP,State Representative Mark Lowery,955,401,8,546
+Boone,District 8,State Treasurer,,REP,State Representative Mark Lowery,1092,704,12,376
+Boone,District 9,State Treasurer,,REP,State Representative Mark Lowery,1064,540,7,517
+Boone,District 10,State Treasurer,,REP,State Representative Mark Lowery,1196,356,13,827
+Boone,District 11,State Treasurer,,REP,State Representative Mark Lowery,760,247,7,506
+Boone,District 12,State Treasurer,,REP,State Representative Mark Lowery,225,35,3,187
+Boone,District 1,State Treasurer,,DEM,Pam Whitaker,230,170,5,55
+Boone,District 2,State Treasurer,,DEM,Pam Whitaker,276,229,10,37
+Boone,District 3,State Treasurer,,DEM,Pam Whitaker,176,128,4,44
+Boone,District 4,State Treasurer,,DEM,Pam Whitaker,213,157,15,41
+Boone,District 5,State Treasurer,,DEM,Pam Whitaker,194,120,6,68
+Boone,District 6,State Treasurer,,DEM,Pam Whitaker,134,86,4,44
+Boone,District 7,State Treasurer,,DEM,Pam Whitaker,134,85,2,47
+Boone,District 8,State Treasurer,,DEM,Pam Whitaker,273,199,8,66
+Boone,District 9,State Treasurer,,DEM,Pam Whitaker,204,126,3,75
+Boone,District 10,State Treasurer,,DEM,Pam Whitaker,150,60,4,86
+Boone,District 11,State Treasurer,,DEM,Pam Whitaker,142,56,7,79
+Boone,District 12,State Treasurer,,DEM,Pam Whitaker,57,17,1,39
+Boone,District 1,Auditor of State,,LIB,Simeon Snow,55,32,0,23
+Boone,District 2,Auditor of State,,LIB,Simeon Snow,46,27,0,19
+Boone,District 3,Auditor of State,,LIB,Simeon Snow,37,19,0,18
+Boone,District 4,Auditor of State,,LIB,Simeon Snow,54,30,2,22
+Boone,District 5,Auditor of State,,LIB,Simeon Snow,37,14,2,21
+Boone,District 6,Auditor of State,,LIB,Simeon Snow,37,16,0,21
+Boone,District 7,Auditor of State,,LIB,Simeon Snow,38,18,0,20
+Boone,District 8,Auditor of State,,LIB,Simeon Snow,47,26,2,19
+Boone,District 9,Auditor of State,,LIB,Simeon Snow,47,23,0,24
+Boone,District 10,Auditor of State,,LIB,Simeon Snow,49,12,0,37
+Boone,District 11,Auditor of State,,LIB,Simeon Snow,29,8,1,20
+Boone,District 12,Auditor of State,,LIB,Simeon Snow,9,1,0,8
+Boone,District 1,Auditor of State,,DEM,Diamond Arnold-Johnson,191,147,3,41
+Boone,District 2,Auditor of State,,DEM,Diamond Arnold-Johnson,248,208,10,30
+Boone,District 3,Auditor of State,,DEM,Diamond Arnold-Johnson,157,120,4,33
+Boone,District 4,Auditor of State,,DEM,Diamond Arnold-Johnson,184,140,14,30
+Boone,District 5,Auditor of State,,DEM,Diamond Arnold-Johnson,167,109,5,53
+Boone,District 6,Auditor of State,,DEM,Diamond Arnold-Johnson,124,82,4,38
+Boone,District 7,Auditor of State,,DEM,Diamond Arnold-Johnson,126,80,2,44
+Boone,District 8,Auditor of State,,DEM,Diamond Arnold-Johnson,247,172,8,67
+Boone,District 9,Auditor of State,,DEM,Diamond Arnold-Johnson,180,114,2,64
+Boone,District 10,Auditor of State,,DEM,Diamond Arnold-Johnson,135,59,4,72
+Boone,District 11,Auditor of State,,DEM,Diamond Arnold-Johnson,122,55,7,60
+Boone,District 12,Auditor of State,,DEM,Diamond Arnold-Johnson,55,16,1,38
+Boone,District 1,Auditor of State,,REP,Treasurer of State Dennis Milligan,754,523,11,220
+Boone,District 2,Auditor of State,,REP,Treasurer of State Dennis Milligan,891,666,15,210
+Boone,District 3,Auditor of State,,REP,Treasurer of State Dennis Milligan,547,375,5,167
+Boone,District 4,Auditor of State,,REP,Treasurer of State Dennis Milligan,802,598,26,178
+Boone,District 5,Auditor of State,,REP,Treasurer of State Dennis Milligan,983,556,4,423
+Boone,District 6,Auditor of State,,REP,Treasurer of State Dennis Milligan,1045,517,10,518
+Boone,District 7,Auditor of State,,REP,Treasurer of State Dennis Milligan,923,389,8,526
+Boone,District 8,Auditor of State,,REP,Treasurer of State Dennis Milligan,1067,703,10,354
+Boone,District 9,Auditor of State,,REP,Treasurer of State Dennis Milligan,1048,534,8,506
+Boone,District 10,Auditor of State,,REP,Treasurer of State Dennis Milligan,1162,346,12,804
+Boone,District 11,Auditor of State,,REP,Treasurer of State Dennis Milligan,751,242,6,503
+Boone,District 12,Auditor of State,,REP,Treasurer of State Dennis Milligan,221,35,3,183
+Boone,District 1,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,786,541,10,235
+Boone,District 2,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,927,687,15,225
+Boone,District 3,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,574,389,5,180
+Boone,District 4,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,843,625,27,191
+Boone,District 5,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,1009,571,5,433
+Boone,District 6,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,1080,528,10,542
+Boone,District 7,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,948,397,8,543
+Boone,District 8,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,1103,720,11,372
+Boone,District 9,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,1074,547,8,519
+Boone,District 10,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,1204,357,12,835
+Boone,District 11,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,782,254,7,521
+Boone,District 12,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,225,34,3,188
+Boone,District 1,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,214,159,5,50
+Boone,District 2,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,258,213,10,35
+Boone,District 3,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,168,126,4,38
+Boone,District 4,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,202,147,15,40
+Boone,District 5,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,179,111,6,62
+Boone,District 6,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,125,85,4,36
+Boone,District 7,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,137,85,2,50
+Boone,District 8,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,256,180,9,67
+Boone,District 9,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,196,122,2,72
+Boone,District 10,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,142,60,4,78
+Boone,District 11,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,126,55,7,64
+Boone,District 12,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,56,17,1,38
+Boone,District 5,State Senate,23,DEM,Derek Huber,4,2,1,1
+Boone,District 6,State Senate,23,DEM,Derek Huber,81,54,2,25
+Boone,District 7,State Senate,23,DEM,Derek Huber,118,67,2,49
+Boone,District 11,State Senate,23,DEM,Derek Huber,143,62,7,74
+Boone,District 12,State Senate,23,DEM,Derek Huber,59,17,1,41
+Boone,District 5,State Senate,23,REP,Senator Scott Flippo,28,10,0,18
+Boone,District 6,State Senate,23,REP,Senator Scott Flippo,651,298,8,345
+Boone,District 7,State Senate,23,REP,Senator Scott Flippo,766,294,8,464
+Boone,District 11,State Senate,23,REP,Senator Scott Flippo,762,247,7,508
+Boone,District 12,State Senate,23,REP,Senator Scott Flippo,223,35,3,185
+Boone,District 1,State Senate,28,DEM,Jim Wallace,247,179,5,63
+Boone,District 2,State Senate,28,DEM,Jim Wallace,285,238,9,38
+Boone,District 3,State Senate,28,DEM,Jim Wallace,173,127,4,42
+Boone,District 4,State Senate,28,DEM,Jim Wallace,215,158,14,43
+Boone,District 5,State Senate,28,DEM,Jim Wallace,192,120,5,67
+Boone,District 6,State Senate,28,DEM,Jim Wallace,64,42,2,20
+Boone,District 7,State Senate,28,DEM,Jim Wallace,33,27,0,6
+Boone,District 8,State Senate,28,DEM,Jim Wallace,281,195,9,77
+Boone,District 9,State Senate,28,DEM,Jim Wallace,203,132,3,68
+Boone,District 10,State Senate,28,DEM,Jim Wallace,154,62,4,88
+Boone,District 1,State Senate,28,REP,Bryan B. King,756,524,10,222
+Boone,District 2,State Senate,28,REP,Bryan B. King,899,660,16,223
+Boone,District 3,State Senate,28,REP,Bryan B. King,569,388,5,176
+Boone,District 4,State Senate,28,REP,Bryan B. King,826,611,28,187
+Boone,District 5,State Senate,28,REP,Bryan B. King,966,550,5,411
+Boone,District 6,State Senate,28,REP,Bryan B. King,410,221,2,187
+Boone,District 7,State Senate,28,REP,Bryan B. King,172,96,0,76
+Boone,District 8,State Senate,28,REP,Bryan B. King,1075,702,11,362
+Boone,District 9,State Senate,28,REP,Bryan B. King,1064,534,7,523
+Boone,District 10,State Senate,28,REP,Bryan B. King,1182,354,12,816
+Boone,District 1,State House,05,IND,Jim A. Hall,221,158,4,59
+Boone,District 2,State House,05,IND,Jim A. Hall,215,165,6,44
+Boone,District 3,State House,05,IND,Jim A. Hall,171,123,2,46
+Boone,District 4,State House,05,IND,Jim A. Hall,211,154,12,45
+Boone,District 5,State House,05,IND,Jim A. Hall,186,116,5,65
+Boone,District 6,State House,05,IND,Jim A. Hall,178,102,5,71
+Boone,District 7,State House,05,IND,Jim A. Hall,156,88,2,66
+Boone,District 8,State House,05,IND,Jim A. Hall,249,168,7,74
+Boone,District 9,State House,05,IND,Jim A. Hall,191,121,2,68
+Boone,District 10,State House,05,IND,Jim A. Hall,19,18,0,1
+Boone,District 1,State House,05,REP,Representative Ron McNair,777,545,10,222
+Boone,District 2,State House,05,REP,Representative Ron McNair,951,718,20,213
+Boone,District 3,State House,05,REP,Representative Ron McNair,562,386,7,169
+Boone,District 4,State House,05,REP,Representative Ron McNair,827,616,27,184
+Boone,District 5,State House,05,REP,Representative Ron McNair,996,561,6,429
+Boone,District 6,State House,05,REP,Representative Ron McNair,1021,508,9,504
+Boone,District 7,State House,05,REP,Representative Ron McNair,929,395,6,528
+Boone,District 8,State House,05,REP,Representative Ron McNair,1099,724,12,363
+Boone,District 9,State House,05,REP,Representative Ron McNair,1072,542,8,522
+Boone,District 10,State House,05,REP,Representative Ron McNair,154,89,1,64
+Boone,District 10,State House,06,LIB,Dakota Logan,40,7,0,33
+Boone,District 11,State House,06,LIB,Dakota Logan,39,7,1,31
+Boone,District 12,State House,06,LIB,Dakota Logan,12,0,0,12
+Boone,District 10,State House,06,REP,Representative Harlan Breaux,1005,258,11,736
+Boone,District 11,State House,06,REP,Representative Harlan Breaux,736,242,6,488
+Boone,District 12,State House,06,REP,Representative Harlan Breaux,214,35,3,176
+Boone,District 10,State House,06,DEM,Markeeta Tucker,127,45,4,78
+Boone,District 11,State House,06,DEM,Markeeta Tucker,127,58,7,62
+Boone,District 12,State House,06,DEM,Markeeta Tucker,57,17,1,39
+Boone,District 1,State Supreme Court Associate Justice Position 2,,NNP,Judge Chris Carnahan,460,333,4,123
+Boone,District 2,State Supreme Court Associate Justice Position 2,,NNP,Judge Chris Carnahan,511,390,8,113
+Boone,District 3,State Supreme Court Associate Justice Position 2,,NNP,Judge Chris Carnahan,320,227,3,90
+Boone,District 4,State Supreme Court Associate Justice Position 2,,NNP,Judge Chris Carnahan,459,333,19,107
+Boone,District 5,State Supreme Court Associate Justice Position 2,,NNP,Judge Chris Carnahan,539,303,7,229
+Boone,District 6,State Supreme Court Associate Justice Position 2,,NNP,Judge Chris Carnahan,558,285,7,266
+Boone,District 7,State Supreme Court Associate Justice Position 2,,NNP,Judge Chris Carnahan,482,211,4,267
+Boone,District 8,State Supreme Court Associate Justice Position 2,,NNP,Judge Chris Carnahan,601,404,8,189
+Boone,District 9,State Supreme Court Associate Justice Position 2,,NNP,Judge Chris Carnahan,575,295,5,275
+Boone,District 10,State Supreme Court Associate Justice Position 2,,NNP,Judge Chris Carnahan,619,190,10,419
+Boone,District 11,State Supreme Court Associate Justice Position 2,,NNP,Judge Chris Carnahan,434,140,8,286
+Boone,District 12,State Supreme Court Associate Justice Position 2,,NNP,Judge Chris Carnahan,121,25,2,94
+Boone,District 1,State Supreme Court Associate Justice Position 2,,NNP,Supreme Court Associate Justice Robin Wynne,467,322,10,135
+Boone,District 2,State Supreme Court Associate Justice Position 2,,NNP,Supreme Court Associate Justice Robin Wynne,544,405,17,122
+Boone,District 3,State Supreme Court Associate Justice Position 2,,NNP,Supreme Court Associate Justice Robin Wynne,339,229,4,106
+Boone,District 4,State Supreme Court Associate Justice Position 2,,NNP,Supreme Court Associate Justice Robin Wynne,493,371,16,106
+Boone,District 5,State Supreme Court Associate Justice Position 2,,NNP,Supreme Court Associate Justice Robin Wynne,520,296,3,221
+Boone,District 6,State Supreme Court Associate Justice Position 2,,NNP,Supreme Court Associate Justice Robin Wynne,517,254,7,256
+Boone,District 7,State Supreme Court Associate Justice Position 2,,NNP,Supreme Court Associate Justice Robin Wynne,484,224,5,255
+Boone,District 8,State Supreme Court Associate Justice Position 2,,NNP,Supreme Court Associate Justice Robin Wynne,600,383,8,209
+Boone,District 9,State Supreme Court Associate Justice Position 2,,NNP,Supreme Court Associate Justice Robin Wynne,576,316,3,257
+Boone,District 10,State Supreme Court Associate Justice Position 2,,NNP,Supreme Court Associate Justice Robin Wynne,542,177,3,362
+Boone,District 11,State Supreme Court Associate Justice Position 2,,NNP,Supreme Court Associate Justice Robin Wynne,353,123,5,225
+Boone,District 12,State Supreme Court Associate Justice Position 2,,NNP,Supreme Court Associate Justice Robin Wynne,131,20,1,110
+Boone,District 1,Circuit Clerk,,REP,REP Judy Kay Harris,932,654,12,266
+Boone,District 2,Circuit Clerk,,REP,REP Judy Kay Harris,1102,831,22,249
+Boone,District 3,Circuit Clerk,,REP,REP Judy Kay Harris,680,467,6,207
+Boone,District 4,Circuit Clerk,,REP,REP Judy Kay Harris,961,702,37,222
+Boone,District 5,Circuit Clerk,,REP,REP Judy Kay Harris,1101,626,6,469
+Boone,District 6,Circuit Clerk,,REP,REP Judy Kay Harris,1158,579,11,568
+Boone,District 7,Circuit Clerk,,REP,REP Judy Kay Harris,1025,454,8,563
+Boone,District 8,Circuit Clerk,,REP,REP Judy Kay Harris,1259,825,17,417
+Boone,District 9,Circuit Clerk,,REP,REP Judy Kay Harris,1187,608,9,570
+Boone,District 10,Circuit Clerk,,REP,REP Judy Kay Harris,1266,390,12,864
+Boone,District 11,Circuit Clerk,,REP,REP Judy Kay Harris,834,278,14,542
+Boone,District 12,Circuit Clerk,,REP,REP Judy Kay Harris,255,42,3,210
+Boone,District 8,Justice of the Peace District 8,,IND,IND Mark Steven Fowler,414,274,7,133
+Boone,District 8,Justice of the Peace District 8,,REP,REP Jim Harp,932,612,13,307
+Boone,District 9,Alpena Mayor,,IND,IND AJ Womack,69,10,2,57
+Boone,District 5,Bellefonte Mayor,,IND,IND Joe Hefley,138,52,3,83
+Boone,District 6,Bergman Mayor,,IND,IND Danny Farmer,143,57,2,84
+Boone,District 12,Diamond City Mayor,,IND,IND Jaime Nuessner,174,29,3,142
+Boone,District 12,Diamond City Mayor,,IND,IND Timothy Alan Kapsos,90,14,1,75
+Boone,District 7,Everton Mayor,,IND,IND Robert Jones,33,16,1,16
+Boone,District 1,Harrison Mayor,,IND,IND Mayor Jerry Jackson,575,405,9,161
+Boone,District 2,Harrison Mayor,,IND,IND Mayor Jerry Jackson,732,559,18,155
+Boone,District 3,Harrison Mayor,,IND,IND Mayor Jerry Jackson,349,234,4,111
+Boone,District 4,Harrison Mayor,,IND,IND Mayor Jerry Jackson,583,418,31,134
+Boone,District 1,Harrison Mayor,,IND,IND Rhonda Watkins,391,276,5,110
+Boone,District 2,Harrison Mayor,,IND,IND Rhonda Watkins,404,306,7,91
+Boone,District 3,Harrison Mayor,,IND,IND Rhonda Watkins,340,249,1,90
+Boone,District 4,Harrison Mayor,,IND,IND Rhonda Watkins,419,317,9,93
+Boone,District 11,Lead Hill Mayor,,IND,IND Cale Thompson,78,16,0,62
+Boone,District 10,Omaha Mayor,,IND,IND Leslie D King,40,8,1,31
+Boone,District 11,South Lead Hill Mayor,,IND,IND Lyna Gulledge,34,1,1,32
+Boone,District 12,Diamond City Alderman,,IND,IND Robert Smith,113,19,2,92
+Boone,District 12,Diamond City Alderman,,IND,IND Dale Taylor,143,26,2,115
+Boone,District 12,Diamond City Alderman,,IND,IND Mariah M Lewis,107,14,3,90
+Boone,District 12,Diamond City Alderman,,IND,IND Casey Greer,135,26,1,108
+Boone,District 1,Harrison City Attorney,,IND,IND Nancy Cartwright,599,443,8,148
+Boone,District 2,Harrison City Attorney,,IND,IND Nancy Cartwright,713,538,18,157
+Boone,District 3,Harrison City Attorney,,IND,IND Nancy Cartwright,399,282,3,114
+Boone,District 4,Harrison City Attorney,,IND,IND Nancy Cartwright,604,448,24,132
+Boone,District 1,Harrison City Attorney,,IND,IND Rachel Freeman,300,192,3,105
+Boone,District 2,Harrison City Attorney,,IND,IND Rachel Freeman,329,256,3,70
+Boone,District 3,Harrison City Attorney,,IND,IND Rachel Freeman,228,149,0,79
+Boone,District 4,Harrison City Attorney,,IND,IND Rachel Freeman,314,223,13,78
+Boone,District 1,Harrison City Clerk,,IND,IND Jeff Pratt,866,603,12,251
+Boone,District 2,Harrison City Clerk,,IND,IND Jeff Pratt,1034,782,23,229
+Boone,District 3,Harrison City Clerk,,IND,IND Jeff Pratt,627,435,4,188
+Boone,District 4,Harrison City Clerk,,IND,IND Jeff Pratt,895,651,37,207
+Boone,District 9,Local Issue No 1,,NNP,For the off-premises sale of alcohol,37,8,2,27
+Boone,District 9,Local Issue No 1,,NNP,Against the off-premises sale of alc,37,6,0,31
+Boone,District 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NNP,FOR,418,293,9,116
+Boone,District 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NNP,FOR,446,343,10,93
+Boone,District 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NNP,FOR,312,208,2,102
+Boone,District 4,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NNP,FOR,409,274,24,111
+Boone,District 5,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NNP,FOR,455,245,5,205
+Boone,District 6,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NNP,FOR,475,255,9,211
+Boone,District 7,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NNP,FOR,416,176,6,234
+Boone,District 8,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NNP,FOR,566,368,9,189
+Boone,District 9,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NNP,FOR,481,255,4,222
+Boone,District 10,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NNP,FOR,637,184,9,444
+Boone,District 11,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NNP,FOR,374,124,11,239
+Boone,District 12,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NNP,FOR,147,26,3,118
+Boone,District 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NNP,AGAINST,524,366,4,154
+Boone,District 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NNP,AGAINST,679,509,15,155
+Boone,District 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NNP,AGAINST,378,269,6,103
+Boone,District 4,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NNP,AGAINST,580,455,11,114
+Boone,District 5,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NNP,AGAINST,683,397,8,278
+Boone,District 6,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NNP,AGAINST,677,330,4,343
+Boone,District 7,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NNP,AGAINST,618,278,4,336
+Boone,District 8,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NNP,AGAINST,736,490,11,235
+Boone,District 9,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NNP,AGAINST,731,382,6,343
+Boone,District 10,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NNP,AGAINST,633,204,8,421
+Boone,District 11,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NNP,AGAINST,473,158,3,312
+Boone,District 12,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NNP,AGAINST,124,21,1,102
+Boone,District 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NNP,FOR,445,321,6,118
+Boone,District 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NNP,FOR,494,370,11,113
+Boone,District 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NNP,FOR,331,209,6,116
+Boone,District 4,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NNP,FOR,509,359,19,131
+Boone,District 5,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NNP,FOR,555,325,5,225
+Boone,District 6,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NNP,FOR,579,297,8,274
+Boone,District 7,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NNP,FOR,493,214,2,277
+Boone,District 8,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NNP,FOR,645,413,10,222
+Boone,District 9,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NNP,FOR,563,293,4,266
+Boone,District 10,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NNP,FOR,712,197,8,507
+Boone,District 11,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NNP,FOR,437,143,11,283
+Boone,District 12,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NNP,FOR,160,24,2,134
+Boone,District 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NNP,AGAINST,506,350,6,150
+Boone,District 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NNP,AGAINST,637,486,14,137
+Boone,District 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NNP,AGAINST,371,276,2,93
+Boone,District 4,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NNP,AGAINST,490,376,16,98
+Boone,District 5,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NNP,AGAINST,589,323,8,258
+Boone,District 6,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NNP,AGAINST,571,288,5,278
+Boone,District 7,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NNP,AGAINST,527,241,8,278
+Boone,District 8,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NNP,AGAINST,656,446,9,201
+Boone,District 9,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NNP,AGAINST,653,345,5,303
+Boone,District 10,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NNP,AGAINST,560,195,9,356
+Boone,District 11,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NNP,AGAINST,424,143,2,279
+Boone,District 12,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NNP,AGAINST,110,23,2,85
+Boone,District 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NNP,FOR,516,353,10,153
+Boone,District 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NNP,FOR,576,435,11,130
+Boone,District 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NNP,FOR,358,242,3,113
+Boone,District 4,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NNP,FOR,527,379,17,131
+Boone,District 5,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NNP,FOR,592,336,6,250
+Boone,District 6,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NNP,FOR,626,332,9,285
+Boone,District 7,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NNP,FOR,553,251,6,296
+Boone,District 8,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NNP,FOR,708,455,10,243
+Boone,District 9,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NNP,FOR,634,328,4,302
+Boone,District 10,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NNP,FOR,794,227,11,556
+Boone,District 11,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NNP,FOR,474,168,11,295
+Boone,District 12,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NNP,FOR,168,30,2,136
+Boone,District 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NNP,AGAINST,455,327,4,124
+Boone,District 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NNP,AGAINST,565,428,14,123
+Boone,District 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NNP,AGAINST,363,256,6,101
+Boone,District 4,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NNP,AGAINST,494,371,20,103
+Boone,District 5,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NNP,AGAINST,565,320,7,238
+Boone,District 6,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NNP,AGAINST,556,277,5,274
+Boone,District 7,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NNP,AGAINST,493,215,4,274
+Boone,District 8,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NNP,AGAINST,617,416,10,191
+Boone,District 9,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NNP,AGAINST,612,322,6,284
+Boone,District 10,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NNP,AGAINST,514,178,6,330
+Boone,District 11,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NNP,AGAINST,403,125,3,275
+Boone,District 12,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NNP,AGAINST,110,21,2,87
+Boone,District 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NNP,FOR,414,260,8,146
+Boone,District 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NNP,FOR,464,333,6,125
+Boone,District 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NNP,FOR,355,222,6,127
+Boone,District 4,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NNP,FOR,408,264,16,128
+Boone,District 5,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NNP,FOR,401,210,10,181
+Boone,District 6,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NNP,FOR,409,202,7,200
+Boone,District 7,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NNP,FOR,384,174,2,208
+Boone,District 8,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NNP,FOR,528,344,8,176
+Boone,District 9,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NNP,FOR,482,237,2,243
+Boone,District 10,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NNP,FOR,489,137,6,346
+Boone,District 11,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NNP,FOR,346,104,8,234
+Boone,District 12,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NNP,FOR,165,31,3,131
+Boone,District 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NNP,AGAINST,574,430,7,137
+Boone,District 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NNP,AGAINST,732,572,20,140
+Boone,District 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NNP,AGAINST,385,293,3,89
+Boone,District 4,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NNP,AGAINST,637,501,26,110
+Boone,District 5,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NNP,AGAINST,783,464,3,316
+Boone,District 6,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NNP,AGAINST,802,416,7,379
+Boone,District 7,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NNP,AGAINST,701,306,8,387
+Boone,District 8,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NNP,AGAINST,838,557,12,269
+Boone,District 9,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NNP,AGAINST,791,431,8,352
+Boone,District 10,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NNP,AGAINST,847,278,11,558
+Boone,District 11,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NNP,AGAINST,552,195,6,351
+Boone,District 12,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NNP,AGAINST,120,21,1,98

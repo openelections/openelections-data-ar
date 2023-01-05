@@ -1,0 +1,400 @@
+county,precinct,office,district,party,candidate,votes,early_vote,absentee,election_day
+Lee,JP01,U.S. Senate,,DEM,Natalie James,56,14,3,39
+Lee,JP02,U.S. Senate,,DEM,Natalie James,123,44,29,50
+Lee,JP03,U.S. Senate,,DEM,Natalie James,117,82,5,30
+Lee,JP04,U.S. Senate,,DEM,Natalie James,76,49,2,25
+Lee,JP05,U.S. Senate,,DEM,Natalie James,68,55,6,7
+Lee,JP06,U.S. Senate,,DEM,Natalie James,233,144,16,73
+Lee,JP07,U.S. Senate,,DEM,Natalie James,82,60,6,16
+Lee,JP08,U.S. Senate,,DEM,Natalie James,87,38,4,45
+Lee,JP09,U.S. Senate,,DEM,Natalie James,114,37,27,50
+Lee,JP01,U.S. Senate,,LIB,Kenneth Cates,2,1,0,1
+Lee,JP02,U.S. Senate,,LIB,Kenneth Cates,6,5,0,1
+Lee,JP03,U.S. Senate,,LIB,Kenneth Cates,6,4,0,2
+Lee,JP04,U.S. Senate,,LIB,Kenneth Cates,7,5,0,2
+Lee,JP05,U.S. Senate,,LIB,Kenneth Cates,4,4,0,0
+Lee,JP06,U.S. Senate,,LIB,Kenneth Cates,11,7,0,4
+Lee,JP07,U.S. Senate,,LIB,Kenneth Cates,6,1,0,5
+Lee,JP08,U.S. Senate,,LIB,Kenneth Cates,6,2,0,4
+Lee,JP09,U.S. Senate,,LIB,Kenneth Cates,6,4,0,2
+Lee,JP01,U.S. Senate,,REP,Senator John Boozman,206,42,1,163
+Lee,JP02,U.S. Senate,,REP,Senator John Boozman,152,46,2,104
+Lee,JP03,U.S. Senate,,REP,Senator John Boozman,106,64,2,40
+Lee,JP04,U.S. Senate,,REP,Senator John Boozman,136,90,1,45
+Lee,JP05,U.S. Senate,,REP,Senator John Boozman,154,88,8,58
+Lee,JP06,U.S. Senate,,REP,Senator John Boozman,84,60,0,24
+Lee,JP07,U.S. Senate,,REP,Senator John Boozman,80,56,6,18
+Lee,JP08,U.S. Senate,,REP,Senator John Boozman,57,26,0,31
+Lee,JP09,U.S. Senate,,REP,Senator John Boozman,3,2,0,1
+Lee,JP01,U.S. Congress District 01,,REP,Congressman Rick Crawford,198,40,1,157
+Lee,JP02,U.S. Congress District 01,,REP,Congressman Rick Crawford,157,50,2,105
+Lee,JP03,U.S. Congress District 01,,REP,Congressman Rick Crawford,103,61,2,40
+Lee,JP04,U.S. Congress District 01,,REP,Congressman Rick Crawford,139,89,1,49
+Lee,JP05,U.S. Congress District 01,,REP,Congressman Rick Crawford,146,84,8,54
+Lee,JP06,U.S. Congress District 01,,REP,Congressman Rick Crawford,87,61,0,26
+Lee,JP07,U.S. Congress District 01,,REP,Congressman Rick Crawford,76,52,6,18
+Lee,JP08,U.S. Congress District 01,,REP,Congressman Rick Crawford,57,27,0,30
+Lee,JP09,U.S. Congress District 01,,REP,Congressman Rick Crawford,7,3,1,3
+Lee,JP01,U.S. Congress District 01,,DEM,Representative Monte Hodges,59,14,2,43
+Lee,JP02,U.S. Congress District 01,,DEM,Representative Monte Hodges,122,43,29,50
+Lee,JP03,U.S. Congress District 01,,DEM,Representative Monte Hodges,117,81,5,31
+Lee,JP04,U.S. Congress District 01,,DEM,Representative Monte Hodges,78,52,2,24
+Lee,JP05,U.S. Congress District 01,,DEM,Representative Monte Hodges,70,54,6,10
+Lee,JP06,U.S. Congress District 01,,DEM,Representative Monte Hodges,222,132,16,74
+Lee,JP07,U.S. Congress District 01,,DEM,Representative Monte Hodges,86,61,6,19
+Lee,JP08,U.S. Congress District 01,,DEM,Representative Monte Hodges,92,39,4,49
+Lee,JP09,U.S. Congress District 01,,DEM,Representative Monte Hodges,112,38,25,49
+Lee,JP01,Attorney General,,REP,Lieutenant Governor Tim Griffin,202,43,1,158
+Lee,JP02,Attorney General,,REP,Lieutenant Governor Tim Griffin,159,53,2,104
+Lee,JP03,Attorney General,,REP,Lieutenant Governor Tim Griffin,109,68,2,39
+Lee,JP04,Attorney General,,REP,Lieutenant Governor Tim Griffin,135,89,1,45
+Lee,JP05,Attorney General,,REP,Lieutenant Governor Tim Griffin,155,89,7,59
+Lee,JP06,Attorney General,,REP,Lieutenant Governor Tim Griffin,93,68,1,24
+Lee,JP07,Attorney General,,REP,Lieutenant Governor Tim Griffin,81,57,6,18
+Lee,JP08,Attorney General,,REP,Lieutenant Governor Tim Griffin,53,24,0,29
+Lee,JP09,Attorney General,,REP,Lieutenant Governor Tim Griffin,7,3,1,3
+Lee,JP01,Attorney General,,DEM,Jesse Gibson,57,13,2,42
+Lee,JP02,Attorney General,,DEM,Jesse Gibson,124,42,29,53
+Lee,JP03,Attorney General,,DEM,Jesse Gibson,120,82,5,33
+Lee,JP04,Attorney General,,DEM,Jesse Gibson,82,52,2,28
+Lee,JP05,Attorney General,,DEM,Jesse Gibson,70,58,6,6
+Lee,JP06,Attorney General,,DEM,Jesse Gibson,241,147,16,78
+Lee,JP07,Attorney General,,DEM,Jesse Gibson,86,60,6,20
+Lee,JP08,Attorney General,,DEM,Jesse Gibson,98,42,4,52
+Lee,JP09,Attorney General,,DEM,Jesse Gibson,115,39,26,50
+Lee,JP01,Auditor of State,,DEM,Diamond Arnold-Johnson,58,14,2,42
+Lee,JP02,Auditor of State,,DEM,Diamond Arnold-Johnson,123,41,29,53
+Lee,JP03,Auditor of State,,DEM,Diamond Arnold-Johnson,121,84,5,32
+Lee,JP04,Auditor of State,,DEM,Diamond Arnold-Johnson,76,50,2,24
+Lee,JP05,Auditor of State,,DEM,Diamond Arnold-Johnson,68,55,7,6
+Lee,JP06,Auditor of State,,DEM,Diamond Arnold-Johnson,230,140,17,73
+Lee,JP07,Auditor of State,,DEM,Diamond Arnold-Johnson,82,58,5,19
+Lee,JP08,Auditor of State,,DEM,Diamond Arnold-Johnson,94,40,4,50
+Lee,JP09,Auditor of State,,DEM,Diamond Arnold-Johnson,108,36,26,46
+Lee,JP01,Auditor of State,,REP,Treasurer of State Dennis Milligan,201,43,1,157
+Lee,JP02,Auditor of State,,REP,Treasurer of State Dennis Milligan,157,50,2,105
+Lee,JP03,Auditor of State,,REP,Treasurer of State Dennis Milligan,107,66,2,39
+Lee,JP04,Auditor of State,,REP,Treasurer of State Dennis Milligan,136,87,1,48
+Lee,JP05,Auditor of State,,REP,Treasurer of State Dennis Milligan,152,88,7,57
+Lee,JP06,Auditor of State,,REP,Treasurer of State Dennis Milligan,86,60,0,26
+Lee,JP07,Auditor of State,,REP,Treasurer of State Dennis Milligan,74,50,7,17
+Lee,JP08,Auditor of State,,REP,Treasurer of State Dennis Milligan,56,27,0,29
+Lee,JP09,Auditor of State,,REP,Treasurer of State Dennis Milligan,7,2,0,5
+Lee,JP01,Auditor of State,,LIB,Simeon Snow,1,0,0,1
+Lee,JP02,Auditor of State,,LIB,Simeon Snow,2,2,0,0
+Lee,JP03,Auditor of State,,LIB,Simeon Snow,2,1,0,1
+Lee,JP04,Auditor of State,,LIB,Simeon Snow,3,2,0,1
+Lee,JP05,Auditor of State,,LIB,Simeon Snow,4,4,0,0
+Lee,JP06,Auditor of State,,LIB,Simeon Snow,4,3,0,1
+Lee,JP07,Auditor of State,,LIB,Simeon Snow,8,6,0,2
+Lee,JP08,Auditor of State,,LIB,Simeon Snow,1,0,0,1
+Lee,JP09,Auditor of State,,LIB,Simeon Snow,3,2,1,0
+Lee,JP01,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,60,14,2,44
+Lee,JP02,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,125,43,29,53
+Lee,JP03,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,114,78,5,31
+Lee,JP04,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,76,48,2,26
+Lee,JP05,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,66,52,6,8
+Lee,JP06,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,221,129,16,76
+Lee,JP07,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,81,57,6,18
+Lee,JP08,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,94,38,4,52
+Lee,JP09,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,108,35,27,46
+Lee,JP01,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,201,43,1,157
+Lee,JP02,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,154,47,2,105
+Lee,JP03,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,106,63,2,41
+Lee,JP04,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,135,88,1,46
+Lee,JP05,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,148,88,7,53
+Lee,JP06,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,85,60,1,24
+Lee,JP07,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,84,59,6,19
+Lee,JP08,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,58,28,0,30
+Lee,JP09,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,9,4,0,5
+Lee,JP01,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Lee,JP02,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,1,0,0
+Lee,JP03,Governor,,LIB,"Ricky Dale Harrington, Jr.",6,4,0,2
+Lee,JP04,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,1,0,1
+Lee,JP05,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,2,0,0
+Lee,JP06,Governor,,LIB,"Ricky Dale Harrington, Jr.",7,4,0,3
+Lee,JP07,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,1,0,0
+Lee,JP08,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,1,0,1
+Lee,JP09,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,1,0
+Lee,JP01,Governor,,REP,Sarah Huckabee Sanders,202,44,1,157
+Lee,JP02,Governor,,REP,Sarah Huckabee Sanders,155,52,2,101
+Lee,JP03,Governor,,REP,Sarah Huckabee Sanders,104,63,2,39
+Lee,JP04,Governor,,REP,Sarah Huckabee Sanders,138,93,1,44
+Lee,JP05,Governor,,REP,Sarah Huckabee Sanders,158,90,8,60
+Lee,JP06,Governor,,REP,Sarah Huckabee Sanders,90,64,0,26
+Lee,JP07,Governor,,REP,Sarah Huckabee Sanders,80,56,6,18
+Lee,JP08,Governor,,REP,Sarah Huckabee Sanders,51,23,0,28
+Lee,JP09,Governor,,REP,Sarah Huckabee Sanders,5,2,0,3
+Lee,JP01,Governor,,DEM,Chris Jones,62,14,2,46
+Lee,JP02,Governor,,DEM,Chris Jones,129,46,29,54
+Lee,JP03,Governor,,DEM,Chris Jones,120,84,5,31
+Lee,JP04,Governor,,DEM,Chris Jones,81,51,2,28
+Lee,JP05,Governor,,DEM,Chris Jones,74,63,6,5
+Lee,JP06,Governor,,DEM,Chris Jones,241,149,17,75
+Lee,JP07,Governor,,DEM,Chris Jones,88,61,6,21
+Lee,JP08,Governor,,DEM,Chris Jones,100,43,4,53
+Lee,JP09,Governor,,DEM,Chris Jones,117,41,26,50
+Lee,JP01,Lieutenant Governor,,LIB,Frank Gilbert,3,0,0,3
+Lee,JP02,Lieutenant Governor,,LIB,Frank Gilbert,11,5,0,6
+Lee,JP03,Lieutenant Governor,,LIB,Frank Gilbert,7,5,0,2
+Lee,JP04,Lieutenant Governor,,LIB,Frank Gilbert,5,2,0,3
+Lee,JP05,Lieutenant Governor,,LIB,Frank Gilbert,3,2,0,1
+Lee,JP06,Lieutenant Governor,,LIB,Frank Gilbert,10,8,0,2
+Lee,JP07,Lieutenant Governor,,LIB,Frank Gilbert,8,5,0,3
+Lee,JP08,Lieutenant Governor,,LIB,Frank Gilbert,3,1,0,2
+Lee,JP09,Lieutenant Governor,,LIB,Frank Gilbert,3,2,0,1
+Lee,JP01,Lieutenant Governor,,DEM,Kelly Ross Krout,66,14,3,49
+Lee,JP02,Lieutenant Governor,,DEM,Kelly Ross Krout,122,42,29,51
+Lee,JP03,Lieutenant Governor,,DEM,Kelly Ross Krout,119,82,5,32
+Lee,JP04,Lieutenant Governor,,DEM,Kelly Ross Krout,75,49,2,24
+Lee,JP05,Lieutenant Governor,,DEM,Kelly Ross Krout,75,60,6,9
+Lee,JP06,Lieutenant Governor,,DEM,Kelly Ross Krout,235,143,16,76
+Lee,JP07,Lieutenant Governor,,DEM,Kelly Ross Krout,83,59,6,18
+Lee,JP08,Lieutenant Governor,,DEM,Kelly Ross Krout,95,41,4,50
+Lee,JP09,Lieutenant Governor,,DEM,Kelly Ross Krout,111,40,24,47
+Lee,JP01,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,194,42,1,151
+Lee,JP02,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,149,49,2,98
+Lee,JP03,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,104,64,2,38
+Lee,JP04,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,138,92,1,45
+Lee,JP05,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,145,83,8,54
+Lee,JP06,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,84,60,0,24
+Lee,JP07,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,75,52,6,17
+Lee,JP08,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,54,24,0,30
+Lee,JP09,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,9,1,3,5
+Lee,JP01,Secretary of State,,DEM,Anna Beth Gorman,63,14,3,46
+Lee,JP02,Secretary of State,,DEM,Anna Beth Gorman,129,46,29,54
+Lee,JP03,Secretary of State,,DEM,Anna Beth Gorman,122,86,5,31
+Lee,JP04,Secretary of State,,DEM,Anna Beth Gorman,77,50,2,25
+Lee,JP05,Secretary of State,,DEM,Anna Beth Gorman,64,53,6,5
+Lee,JP06,Secretary of State,,DEM,Anna Beth Gorman,234,142,16,76
+Lee,JP07,Secretary of State,,DEM,Anna Beth Gorman,83,58,6,19
+Lee,JP08,Secretary of State,,DEM,Anna Beth Gorman,96,41,4,51
+Lee,JP09,Secretary of State,,DEM,Anna Beth Gorman,110,39,24,47
+Lee,JP01,Secretary of State,,REP,Secretary of State John Thurston,199,43,1,155
+Lee,JP02,Secretary of State,,REP,Secretary of State John Thurston,154,48,2,104
+Lee,JP03,Secretary of State,,REP,Secretary of State John Thurston,108,64,2,42
+Lee,JP04,Secretary of State,,REP,Secretary of State John Thurston,137,91,1,45
+Lee,JP05,Secretary of State,,REP,Secretary of State John Thurston,156,90,8,58
+Lee,JP06,Secretary of State,,REP,Secretary of State John Thurston,82,56,0,26
+Lee,JP07,Secretary of State,,REP,Secretary of State John Thurston,82,58,6,18
+Lee,JP08,Secretary of State,,REP,Secretary of State John Thurston,55,25,0,30
+Lee,JP09,Secretary of State,,REP,Secretary of State John Thurston,9,2,3,4
+Lee,JP01,State Treasurer,,DEM,Pam Whitaker,61,14,3,44
+Lee,JP02,State Treasurer,,DEM,Pam Whitaker,133,49,28,56
+Lee,JP03,State Treasurer,,DEM,Pam Whitaker,121,83,5,33
+Lee,JP04,State Treasurer,,DEM,Pam Whitaker,78,52,2,24
+Lee,JP05,State Treasurer,,DEM,Pam Whitaker,71,60,6,5
+Lee,JP06,State Treasurer,,DEM,Pam Whitaker,247,155,16,76
+Lee,JP07,State Treasurer,,DEM,Pam Whitaker,84,59,7,18
+Lee,JP08,State Treasurer,,DEM,Pam Whitaker,97,43,4,50
+Lee,JP09,State Treasurer,,DEM,Pam Whitaker,117,43,27,47
+Lee,JP01,State Treasurer,,REP,State Representative Mark Lowery,201,43,1,157
+Lee,JP02,State Treasurer,,REP,State Representative Mark Lowery,151,47,2,102
+Lee,JP03,State Treasurer,,REP,State Representative Mark Lowery,107,65,2,40
+Lee,JP04,State Treasurer,,REP,State Representative Mark Lowery,139,89,1,49
+Lee,JP05,State Treasurer,,REP,State Representative Mark Lowery,148,83,8,57
+Lee,JP06,State Treasurer,,REP,State Representative Mark Lowery,85,61,0,24
+Lee,JP07,State Treasurer,,REP,State Representative Mark Lowery,82,57,5,20
+Lee,JP08,State Treasurer,,REP,State Representative Mark Lowery,52,23,0,29
+Lee,JP09,State Treasurer,,REP,State Representative Mark Lowery,4,0,0,4
+Lee,JP03,State Senate,09,REP,Terry Fuller,3,2,0,1
+Lee,JP04,State Senate,09,REP,Terry Fuller,134,88,2,44
+Lee,JP05,State Senate,09,REP,Terry Fuller,133,73,8,52
+Lee,JP06,State Senate,09,REP,Terry Fuller,77,53,1,23
+Lee,JP07,State Senate,09,REP,Terry Fuller,85,60,4,21
+Lee,JP08,State Senate,09,REP,Terry Fuller,57,26,0,31
+Lee,JP09,State Senate,09,REP,Terry Fuller,15,2,3,10
+Lee,JP03,State Senate,09,DEM,State Representative Reginald Murdock,29,19,2,8
+Lee,JP04,State Senate,09,DEM,State Representative Reginald Murdock,90,59,2,29
+Lee,JP05,State Senate,09,DEM,State Representative Reginald Murdock,97,79,6,12
+Lee,JP06,State Senate,09,DEM,State Representative Reginald Murdock,256,162,15,79
+Lee,JP07,State Senate,09,DEM,State Representative Reginald Murdock,81,56,7,18
+Lee,JP08,State Senate,09,DEM,State Representative Reginald Murdock,97,41,4,52
+Lee,JP09,State Senate,09,DEM,State Representative Reginald Murdock,108,41,24,43
+Lee,JP01,State Senate,10,DEM,Cliff Hart,63,16,3,44
+Lee,JP02,State Senate,10,DEM,Cliff Hart,129,46,29,54
+Lee,JP03,State Senate,10,DEM,Cliff Hart,93,66,3,24
+Lee,JP01,State Senate,10,REP,Senator Ronald Caldwell,200,40,1,159
+Lee,JP02,State Senate,10,REP,Senator Ronald Caldwell,153,50,2,101
+Lee,JP03,State Senate,10,REP,Senator Ronald Caldwell,105,62,2,41
+Lee,JP01,State House,62,REP,Representative Mark D. McElroy,201,40,1,160
+Lee,JP02,State House,62,REP,Representative Mark D. McElroy,160,54,2,104
+Lee,JP03,State House,62,REP,Representative Mark D. McElroy,102,61,2,39
+Lee,JP04,State House,62,REP,Representative Mark D. McElroy,138,90,1,47
+Lee,JP05,State House,62,REP,Representative Mark D. McElroy,154,87,8,59
+Lee,JP06,State House,62,REP,Representative Mark D. McElroy,95,66,0,29
+Lee,JP07,State House,62,REP,Representative Mark D. McElroy,86,60,6,20
+Lee,JP08,State House,62,REP,Representative Mark D. McElroy,57,26,0,31
+Lee,JP09,State House,62,REP,Representative Mark D. McElroy,6,1,2,3
+Lee,JP01,State House,62,DEM,Dexter R. Miller,58,16,3,39
+Lee,JP02,State House,62,DEM,Dexter R. Miller,124,43,28,53
+Lee,JP03,State House,62,DEM,Dexter R. Miller,120,82,5,33
+Lee,JP04,State House,62,DEM,Dexter R. Miller,78,51,2,25
+Lee,JP05,State House,62,DEM,Dexter R. Miller,63,52,6,5
+Lee,JP06,State House,62,DEM,Dexter R. Miller,216,128,17,71
+Lee,JP07,State House,62,DEM,Dexter R. Miller,79,55,6,18
+Lee,JP08,State House,62,DEM,Dexter R. Miller,91,38,4,49
+Lee,JP09,State House,62,DEM,Dexter R. Miller,112,40,25,47
+Lee,JP01,Circuit Clerk,,DEM,DEM Millie A. Hill,199,43,4,152
+Lee,JP02,Circuit Clerk,,DEM,DEM Millie A. Hill,231,83,30,118
+Lee,JP03,Circuit Clerk,,DEM,DEM Millie A. Hill,200,139,5,56
+Lee,JP04,Circuit Clerk,,DEM,DEM Millie A. Hill,171,114,3,54
+Lee,JP05,Circuit Clerk,,DEM,DEM Millie A. Hill,178,125,11,42
+Lee,JP06,Circuit Clerk,,DEM,DEM Millie A. Hill,316,204,15,97
+Lee,JP07,Circuit Clerk,,DEM,DEM Millie A. Hill,139,100,8,31
+Lee,JP08,Circuit Clerk,,DEM,DEM Millie A. Hill,136,59,4,73
+Lee,JP09,Circuit Clerk,,DEM,DEM Millie A. Hill,117,42,24,51
+Lee,JP01,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,103,19,2,82
+Lee,JP02,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,117,28,26,63
+Lee,JP03,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,101,62,1,38
+Lee,JP04,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,90,54,1,35
+Lee,JP05,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,101,63,7,31
+Lee,JP06,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,144,90,14,40
+Lee,JP07,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,62,40,2,20
+Lee,JP08,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,69,24,3,42
+Lee,JP09,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,62,20,19,23
+Lee,JP01,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,121,27,1,93
+Lee,JP02,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,123,50,3,70
+Lee,JP03,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,103,72,5,26
+Lee,JP04,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,97,66,2,29
+Lee,JP05,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,90,63,4,23
+Lee,JP06,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,117,79,3,35
+Lee,JP07,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,77,55,8,14
+Lee,JP08,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,57,27,0,30
+Lee,JP09,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,38,14,5,19
+Lee,JP01,Sheriff & Collector,,DEM,DEM Corey D. Wilson,90,18,3,69
+Lee,JP02,Sheriff & Collector,,DEM,DEM Corey D. Wilson,155,54,31,70
+Lee,JP03,Sheriff & Collector,,DEM,DEM Corey D. Wilson,148,103,5,40
+Lee,JP04,Sheriff & Collector,,DEM,DEM Corey D. Wilson,105,73,3,29
+Lee,JP05,Sheriff & Collector,,DEM,DEM Corey D. Wilson,108,88,7,13
+Lee,JP06,Sheriff & Collector,,DEM,DEM Corey D. Wilson,270,170,16,84
+Lee,JP07,Sheriff & Collector,,DEM,DEM Corey D. Wilson,99,72,7,20
+Lee,JP08,Sheriff & Collector,,DEM,DEM Corey D. Wilson,107,44,4,59
+Lee,JP09,Sheriff & Collector,,DEM,DEM Corey D. Wilson,118,43,26,49
+Lee,JP01,Sheriff & Collector,,REP,REP Tony Barnes,174,39,1,134
+Lee,JP02,Sheriff & Collector,,REP,REP Tony Barnes,135,47,0,88
+Lee,JP03,Sheriff & Collector,,REP,REP Tony Barnes,89,53,2,34
+Lee,JP04,Sheriff & Collector,,REP,REP Tony Barnes,118,73,1,44
+Lee,JP05,Sheriff & Collector,,REP,REP Tony Barnes,126,68,6,52
+Lee,JP06,Sheriff & Collector,,REP,REP Tony Barnes,70,53,0,17
+Lee,JP07,Sheriff & Collector,,REP,REP Tony Barnes,68,45,5,18
+Lee,JP08,Sheriff & Collector,,REP,REP Tony Barnes,45,23,0,22
+Lee,JP09,Sheriff & Collector,,REP,REP Tony Barnes,5,1,1,3
+Lee,JP02,Justice of the Peace District 2,,REP,REP Junious Pruett,155,56,2,97
+Lee,JP02,Justice of the Peace District 2,,DEM,DEM Victoria Perry,127,42,28,57
+Lee,JP05,Justice of the Peace District 5,,DEM,DEM Drew Wooten,115,80,9,26
+Lee,JP05,Justice of the Peace District 5,,REP,REP Ronni Schwantz,102,58,5,39
+Lee,JP05,City of Marianna Mayor,,NON,Mattie Allison,18,13,4,1
+Lee,JP06,City of Marianna Mayor,,NON,Mattie Allison,65,38,6,21
+Lee,JP07,City of Marianna Mayor,,NON,Mattie Allison,28,18,2,8
+Lee,JP08,City of Marianna Mayor,,NON,Mattie Allison,28,10,0,18
+Lee,JP09,City of Marianna Mayor,,NON,Mattie Allison,45,17,15,13
+Lee,JP05,City of Marianna Mayor,,NON,DJ McMickle,12,11,0,1
+Lee,JP06,City of Marianna Mayor,,NON,DJ McMickle,70,51,3,16
+Lee,JP07,City of Marianna Mayor,,NON,DJ McMickle,71,50,5,16
+Lee,JP08,City of Marianna Mayor,,NON,DJ McMickle,43,18,0,25
+Lee,JP09,City of Marianna Mayor,,NON,DJ McMickle,5,0,2,3
+Lee,JP05,City of Marianna Mayor,,NON,Ora Stevens,23,20,0,3
+Lee,JP06,City of Marianna Mayor,,NON,Ora Stevens,134,98,5,31
+Lee,JP07,City of Marianna Mayor,,NON,Ora Stevens,51,38,4,9
+Lee,JP08,City of Marianna Mayor,,NON,Ora Stevens,57,27,0,30
+Lee,JP09,City of Marianna Mayor,,NON,Ora Stevens,48,19,8,21
+Lee,JP05,City of Marianna Mayor,,NON,Adrian Smith,9,5,0,4
+Lee,JP06,City of Marianna Mayor,,NON,Adrian Smith,27,11,0,16
+Lee,JP07,City of Marianna Mayor,,NON,Adrian Smith,10,7,0,3
+Lee,JP08,City of Marianna Mayor,,NON,Adrian Smith,7,2,0,5
+Lee,JP09,City of Marianna Mayor,,NON,Adrian Smith,7,4,0,3
+Lee,JP05,City of Marianna Mayor,,NON,Michael Moore,5,3,1,1
+Lee,JP06,City of Marianna Mayor,,NON,Michael Moore,42,20,3,19
+Lee,JP07,City of Marianna Mayor,,NON,Michael Moore,8,4,1,3
+Lee,JP08,City of Marianna Mayor,,NON,Michael Moore,22,8,4,10
+Lee,JP09,City of Marianna Mayor,,NON,Michael Moore,19,5,2,12
+Lee,JP05,Marianna City Clerk,,NON,Kim Miles,60,45,5,10
+Lee,JP06,Marianna City Clerk,,NON,Kim Miles,281,179,14,88
+Lee,JP07,Marianna City Clerk,,NON,Kim Miles,144,99,11,34
+Lee,JP08,Marianna City Clerk,,NON,Kim Miles,143,63,4,76
+Lee,JP09,Marianna City Clerk,,NON,Kim Miles,105,38,23,44
+Lee,JP06,Marianna Council Member Ward 4,,NON,"Leigh A, Lewis",35,32,0,3
+Lee,JP09,Marianna Council Member Ward 4,,NON,"Leigh A, Lewis",50,17,15,18
+Lee,JP06,Marianna Council Member Ward 4,,NON,Telis Montogomery,11,9,0,2
+Lee,JP09,Marianna Council Member Ward 4,,NON,Telis Montogomery,25,8,3,14
+Lee,JP06,Marianna Council Member Ward 4,,NON,LaFay Broadway,11,8,0,3
+Lee,JP09,Marianna Council Member Ward 4,,NON,LaFay Broadway,27,14,2,11
+Lee,JP06,Marianna Ward 1 Alderman, Position 2,NON,Martin Chaffin,36,30,1,5
+Lee,JP07,Marianna Ward 1 Alderman, Position 2,NON,Martin Chaffin,28,15,2,11
+Lee,JP08,Marianna Ward 1 Alderman, Position 2,NON,Martin Chaffin,39,26,0,13
+Lee,JP06,Marianna Ward 1 Alderman, Position 2,NON,Danny Blount,69,54,1,14
+Lee,JP07,Marianna Ward 1 Alderman, Position 2,NON,Danny Blount,18,9,1,8
+Lee,JP08,Marianna Ward 1 Alderman, Position 2,NON,Danny Blount,64,36,3,25
+Lee,JP01,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,92,22,3,67
+Lee,JP02,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,68,28,3,37
+Lee,JP03,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,89,56,4,29
+Lee,JP04,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,81,54,1,26
+Lee,JP05,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,87,58,5,24
+Lee,JP06,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,156,106,4,46
+Lee,JP07,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,66,47,5,14
+Lee,JP08,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,57,22,0,35
+Lee,JP09,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,54,19,10,25
+Lee,JP01,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,150,32,1,117
+Lee,JP02,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,193,60,28,105
+Lee,JP03,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,120,77,3,40
+Lee,JP04,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,118,76,2,40
+Lee,JP05,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,120,77,7,36
+Lee,JP06,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,145,90,9,46
+Lee,JP07,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,82,55,7,20
+Lee,JP08,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,80,36,4,40
+Lee,JP09,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,46,16,14,16
+Lee,JP01,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,127,24,3,100
+Lee,JP02,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,85,27,4,54
+Lee,JP03,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,106,70,5,31
+Lee,JP04,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,110,74,1,35
+Lee,JP05,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,109,73,7,29
+Lee,JP06,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,159,101,9,49
+Lee,JP07,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,78,52,6,20
+Lee,JP08,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,66,24,1,41
+Lee,JP09,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,54,20,9,25
+Lee,JP01,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,120,31,1,88
+Lee,JP02,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,179,63,27,89
+Lee,JP03,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,109,69,2,38
+Lee,JP04,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,93,60,2,31
+Lee,JP05,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,104,65,7,32
+Lee,JP06,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,150,101,6,43
+Lee,JP07,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,75,54,6,15
+Lee,JP08,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,75,34,3,38
+Lee,JP09,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,55,20,16,19
+Lee,JP01,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,134,29,3,102
+Lee,JP02,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,122,43,2,77
+Lee,JP03,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,131,77,3,51
+Lee,JP04,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,106,66,1,39
+Lee,JP05,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,114,72,7,35
+Lee,JP06,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,185,122,4,59
+Lee,JP07,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,86,60,4,22
+Lee,JP08,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,75,32,0,43
+Lee,JP09,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,62,23,8,31
+Lee,JP01,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,108,25,1,82
+Lee,JP02,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,143,51,27,65
+Lee,JP03,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,81,59,4,18
+Lee,JP04,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,93,66,2,25
+Lee,JP05,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,96,64,5,27
+Lee,JP06,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,125,84,10,31
+Lee,JP07,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,62,43,8,11
+Lee,JP08,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,65,28,4,33
+Lee,JP09,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,40,14,15,11
+Lee,JP01,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,103,26,3,74
+Lee,JP02,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,103,41,9,53
+Lee,JP03,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,100,62,2,36
+Lee,JP04,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,86,61,0,25
+Lee,JP05,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,86,61,4,21
+Lee,JP06,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,177,111,6,60
+Lee,JP07,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,63,45,0,18
+Lee,JP08,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,80,34,0,46
+Lee,JP09,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,60,19,7,34
+Lee,JP01,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,156,31,1,124
+Lee,JP02,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,175,55,21,99
+Lee,JP03,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,116,78,5,33
+Lee,JP04,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,122,77,3,42
+Lee,JP05,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,136,84,10,42
+Lee,JP06,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,144,102,9,33
+Lee,JP07,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,96,66,12,18
+Lee,JP08,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,65,27,4,34
+Lee,JP09,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,55,24,19,12

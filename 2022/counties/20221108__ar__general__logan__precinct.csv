@@ -1,0 +1,1444 @@
+county,precinct,office,district,party,candidate,votes,absentee,election_day,early_voting
+Logan,Cane Creek,U.S. Senate,,DEM,Natalie James,32,0,20,12
+Logan,Clark Crossroads,U.S. Senate,,DEM,Natalie James,23,0,10,13
+Logan,Clark City,U.S. Senate,,DEM,Natalie James,23,0,15,8
+Logan,Clark Rural,U.S. Senate,,DEM,Natalie James,21,1,8,12
+Logan,Delaware,U.S. Senate,,DEM,Natalie James,36,1,16,19
+Logan,Driggs,U.S. Senate,,DEM,Natalie James,12,2,4,6
+Logan,Ellsworth,U.S. Senate,,DEM,Natalie James,18,0,7,11
+Logan,Johnson,U.S. Senate,,DEM,Natalie James,17,0,4,13
+Logan,Logan,U.S. Senate,,DEM,Natalie James,29,2,18,9
+Logan,Mountain,U.S. Senate,,DEM,Natalie James,7,0,4,3
+Logan,River City,U.S. Senate,,DEM,Natalie James,10,0,7,3
+Logan,River Rural,U.S. Senate,,DEM,Natalie James,32,0,23,9
+Logan,Shoal Creek,U.S. Senate,,DEM,Natalie James,51,3,24,24
+Logan,Short Mtn Ward 1,U.S. Senate,,DEM,Natalie James,97,1,24,72
+Logan,Short Mtn Ward 2,U.S. Senate,,DEM,Natalie James,49,5,9,35
+Logan,Short Mtn Ward 3,U.S. Senate,,DEM,Natalie James,37,1,17,19
+Logan,Short Mtn Ward 4,U.S. Senate,,DEM,Natalie James,90,6,27,57
+Logan,Caulksville City,U.S. Senate,,DEM,Natalie James,9,0,7,2
+Logan,Caulksville Rural,U.S. Senate,,DEM,Natalie James,33,0,19,14
+Logan,Ratcliff City,U.S. Senate,,DEM,Natalie James,7,0,7,0
+Logan,Ratcliff Rural,U.S. Senate,,DEM,Natalie James,21,0,16,5
+Logan,Morrison Bluff,U.S. Senate,,DEM,Natalie James,9,0,8,1
+Logan,Blue Mtn City,U.S. Senate,,DEM,Natalie James,1,0,1,0
+Logan,Blue Mtn Rural,U.S. Senate,,DEM,Natalie James,4,0,1,3
+Logan,Boone Ward 1,U.S. Senate,,DEM,Natalie James,40,0,11,29
+Logan,Boone Ward 2,U.S. Senate,,DEM,Natalie James,57,0,17,40
+Logan,Boone Ward 3,U.S. Senate,,DEM,Natalie James,82,3,25,54
+Logan,Boone Ward 4,U.S. Senate,,DEM,Natalie James,61,3,18,40
+Logan,Cauthron,U.S. Senate,,DEM,Natalie James,20,0,4,16
+Logan,Petit Jean,U.S. Senate,,DEM,Natalie James,11,0,0,11
+Logan,Reveille City,U.S. Senate,,DEM,Natalie James,20,0,16,4
+Logan,Reveille Rural,U.S. Senate,,DEM,Natalie James,36,0,25,11
+Logan,Sugar Creek,U.S. Senate,,DEM,Natalie James,19,0,4,15
+Logan,Washburn,U.S. Senate,,DEM,Natalie James,42,0,14,28
+Logan,Barber,U.S. Senate,,DEM,Natalie James,15,0,4,11
+Logan,Tomlinson,U.S. Senate,,DEM,Natalie James,23,0,14,9
+Logan,Cane Creek,U.S. Senate,,REP,Senator John Boozman,139,2,100,37
+Logan,Clark Crossroads,U.S. Senate,,REP,Senator John Boozman,108,0,69,39
+Logan,Clark City,U.S. Senate,,REP,Senator John Boozman,114,0,86,28
+Logan,Clark Rural,U.S. Senate,,REP,Senator John Boozman,87,0,47,40
+Logan,Delaware,U.S. Senate,,REP,Senator John Boozman,166,5,101,60
+Logan,Driggs,U.S. Senate,,REP,Senator John Boozman,139,0,51,88
+Logan,Ellsworth,U.S. Senate,,REP,Senator John Boozman,220,0,115,105
+Logan,Johnson,U.S. Senate,,REP,Senator John Boozman,78,0,36,42
+Logan,Logan,U.S. Senate,,REP,Senator John Boozman,113,0,86,27
+Logan,Mountain,U.S. Senate,,REP,Senator John Boozman,38,0,13,25
+Logan,River City,U.S. Senate,,REP,Senator John Boozman,55,0,45,10
+Logan,River Rural,U.S. Senate,,REP,Senator John Boozman,83,0,67,16
+Logan,Shoal Creek,U.S. Senate,,REP,Senator John Boozman,201,2,135,64
+Logan,Short Mtn Ward 1,U.S. Senate,,REP,Senator John Boozman,280,2,109,169
+Logan,Short Mtn Ward 2,U.S. Senate,,REP,Senator John Boozman,211,4,91,116
+Logan,Short Mtn Ward 3,U.S. Senate,,REP,Senator John Boozman,157,3,63,91
+Logan,Short Mtn Ward 4,U.S. Senate,,REP,Senator John Boozman,348,2,117,229
+Logan,Caulksville City,U.S. Senate,,REP,Senator John Boozman,70,0,46,24
+Logan,Caulksville Rural,U.S. Senate,,REP,Senator John Boozman,115,0,70,45
+Logan,Ratcliff City,U.S. Senate,,REP,Senator John Boozman,43,0,25,18
+Logan,Ratcliff Rural,U.S. Senate,,REP,Senator John Boozman,36,2,22,12
+Logan,Morrison Bluff,U.S. Senate,,REP,Senator John Boozman,28,0,24,4
+Logan,Blue Mtn City,U.S. Senate,,REP,Senator John Boozman,23,0,7,16
+Logan,Blue Mtn Rural,U.S. Senate,,REP,Senator John Boozman,26,0,15,11
+Logan,Boone Ward 1,U.S. Senate,,REP,Senator John Boozman,215,5,69,141
+Logan,Boone Ward 2,U.S. Senate,,REP,Senator John Boozman,245,6,63,176
+Logan,Boone Ward 3,U.S. Senate,,REP,Senator John Boozman,234,1,80,153
+Logan,Boone Ward 4,U.S. Senate,,REP,Senator John Boozman,398,4,122,272
+Logan,Cauthron,U.S. Senate,,REP,Senator John Boozman,78,1,15,62
+Logan,Petit Jean,U.S. Senate,,REP,Senator John Boozman,82,0,30,52
+Logan,Reveille City,U.S. Senate,,REP,Senator John Boozman,152,0,109,43
+Logan,Reveille Rural,U.S. Senate,,REP,Senator John Boozman,156,1,101,54
+Logan,Sugar Creek,U.S. Senate,,REP,Senator John Boozman,107,1,30,76
+Logan,Washburn,U.S. Senate,,REP,Senator John Boozman,199,2,53,144
+Logan,Barber,U.S. Senate,,REP,Senator John Boozman,94,2,25,67
+Logan,Tomlinson,U.S. Senate,,REP,Senator John Boozman,82,1,62,19
+Logan,Cane Creek,U.S. Senate,,LIB,Kenneth Cates,7,0,4,3
+Logan,Clark Crossroads,U.S. Senate,,LIB,Kenneth Cates,4,0,1,3
+Logan,Clark City,U.S. Senate,,LIB,Kenneth Cates,6,0,5,1
+Logan,Clark Rural,U.S. Senate,,LIB,Kenneth Cates,3,0,1,2
+Logan,Delaware,U.S. Senate,,LIB,Kenneth Cates,5,0,4,1
+Logan,Driggs,U.S. Senate,,LIB,Kenneth Cates,3,0,2,1
+Logan,Ellsworth,U.S. Senate,,LIB,Kenneth Cates,8,0,4,4
+Logan,Johnson,U.S. Senate,,LIB,Kenneth Cates,2,0,1,1
+Logan,Logan,U.S. Senate,,LIB,Kenneth Cates,4,0,1,3
+Logan,Mountain,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0
+Logan,River City,U.S. Senate,,LIB,Kenneth Cates,2,0,2,0
+Logan,River Rural,U.S. Senate,,LIB,Kenneth Cates,5,0,5,0
+Logan,Shoal Creek,U.S. Senate,,LIB,Kenneth Cates,12,0,6,6
+Logan,Short Mtn Ward 1,U.S. Senate,,LIB,Kenneth Cates,15,0,8,7
+Logan,Short Mtn Ward 2,U.S. Senate,,LIB,Kenneth Cates,5,0,3,2
+Logan,Short Mtn Ward 3,U.S. Senate,,LIB,Kenneth Cates,11,0,7,4
+Logan,Short Mtn Ward 4,U.S. Senate,,LIB,Kenneth Cates,21,0,11,10
+Logan,Caulksville City,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0
+Logan,Caulksville Rural,U.S. Senate,,LIB,Kenneth Cates,3,0,1,2
+Logan,Ratcliff City,U.S. Senate,,LIB,Kenneth Cates,3,0,1,2
+Logan,Ratcliff Rural,U.S. Senate,,LIB,Kenneth Cates,1,0,0,1
+Logan,Morrison Bluff,U.S. Senate,,LIB,Kenneth Cates,1,0,1,0
+Logan,Blue Mtn City,U.S. Senate,,LIB,Kenneth Cates,1,0,1,0
+Logan,Blue Mtn Rural,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0
+Logan,Boone Ward 1,U.S. Senate,,LIB,Kenneth Cates,9,0,4,5
+Logan,Boone Ward 2,U.S. Senate,,LIB,Kenneth Cates,5,1,2,2
+Logan,Boone Ward 3,U.S. Senate,,LIB,Kenneth Cates,16,0,3,13
+Logan,Boone Ward 4,U.S. Senate,,LIB,Kenneth Cates,15,0,3,12
+Logan,Cauthron,U.S. Senate,,LIB,Kenneth Cates,2,0,0,2
+Logan,Petit Jean,U.S. Senate,,LIB,Kenneth Cates,2,0,0,2
+Logan,Reveille City,U.S. Senate,,LIB,Kenneth Cates,8,0,7,1
+Logan,Reveille Rural,U.S. Senate,,LIB,Kenneth Cates,7,0,1,6
+Logan,Sugar Creek,U.S. Senate,,LIB,Kenneth Cates,11,0,6,5
+Logan,Washburn,U.S. Senate,,LIB,Kenneth Cates,10,0,2,8
+Logan,Barber,U.S. Senate,,LIB,Kenneth Cates,6,0,2,4
+Logan,Tomlinson,U.S. Senate,,LIB,Kenneth Cates,1,0,1,0
+Logan,Cane Creek,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,146,2,104,40
+Logan,Clark Crossroads,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,113,0,69,44
+Logan,Clark City,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,120,0,88,32
+Logan,Clark Rural,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,90,0,48,42
+Logan,Delaware,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,168,5,103,60
+Logan,Driggs,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,142,0,54,88
+Logan,Ellsworth,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,218,0,114,104
+Logan,Johnson,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,82,0,40,42
+Logan,Logan,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,114,0,87,27
+Logan,Mountain,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,33,0,12,21
+Logan,River City,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,52,0,43,9
+Logan,River Rural,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,87,0,72,15
+Logan,Shoal Creek,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,209,2,139,68
+Logan,Short Mtn Ward 1,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,283,3,108,172
+Logan,Short Mtn Ward 2,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,204,5,89,110
+Logan,Short Mtn Ward 3,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,150,3,60,87
+Logan,Short Mtn Ward 4,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,354,2,120,232
+Logan,Caulksville City,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,66,0,44,22
+Logan,Caulksville Rural,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,119,0,73,46
+Logan,Ratcliff City,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,43,0,24,19
+Logan,Ratcliff Rural,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,36,2,21,13
+Logan,Morrison Bluff,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,26,0,22,4
+Logan,Blue Mtn City,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,23,0,7,16
+Logan,Blue Mtn Rural,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,26,0,15,11
+Logan,Boone Ward 1,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,214,5,69,140
+Logan,Boone Ward 2,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,255,6,63,186
+Logan,Boone Ward 3,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,240,2,80,158
+Logan,Boone Ward 4,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,402,4,126,272
+Logan,Cauthron,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,81,1,17,63
+Logan,Petit Jean,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,80,0,28,52
+Logan,Reveille City,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,152,0,112,40
+Logan,Reveille Rural,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,165,1,106,58
+Logan,Sugar Creek,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,114,1,35,78
+Logan,Washburn,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,211,2,56,153
+Logan,Barber,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,95,2,26,67
+Logan,Tomlinson,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,83,1,63,19
+Logan,Cane Creek,U.S. Congress District 04,,LIB,Gregory Maxwell,5,0,2,3
+Logan,Clark Crossroads,U.S. Congress District 04,,LIB,Gregory Maxwell,2,0,0,2
+Logan,Clark City,U.S. Congress District 04,,LIB,Gregory Maxwell,4,0,3,1
+Logan,Clark Rural,U.S. Congress District 04,,LIB,Gregory Maxwell,1,0,0,1
+Logan,Delaware,U.S. Congress District 04,,LIB,Gregory Maxwell,3,0,3,0
+Logan,Driggs,U.S. Congress District 04,,LIB,Gregory Maxwell,1,0,0,1
+Logan,Ellsworth,U.S. Congress District 04,,LIB,Gregory Maxwell,5,0,3,2
+Logan,Johnson,U.S. Congress District 04,,LIB,Gregory Maxwell,3,0,0,3
+Logan,Logan,U.S. Congress District 04,,LIB,Gregory Maxwell,7,0,4,3
+Logan,Mountain,U.S. Congress District 04,,LIB,Gregory Maxwell,3,0,1,2
+Logan,River City,U.S. Congress District 04,,LIB,Gregory Maxwell,3,0,3,0
+Logan,River Rural,U.S. Congress District 04,,LIB,Gregory Maxwell,5,0,5,0
+Logan,Shoal Creek,U.S. Congress District 04,,LIB,Gregory Maxwell,6,0,2,4
+Logan,Short Mtn Ward 1,U.S. Congress District 04,,LIB,Gregory Maxwell,13,0,7,6
+Logan,Short Mtn Ward 2,U.S. Congress District 04,,LIB,Gregory Maxwell,9,0,6,3
+Logan,Short Mtn Ward 3,U.S. Congress District 04,,LIB,Gregory Maxwell,15,0,10,5
+Logan,Short Mtn Ward 4,U.S. Congress District 04,,LIB,Gregory Maxwell,17,0,8,9
+Logan,Caulksville City,U.S. Congress District 04,,LIB,Gregory Maxwell,0,0,0,0
+Logan,Caulksville Rural,U.S. Congress District 04,,LIB,Gregory Maxwell,2,0,1,1
+Logan,Ratcliff City,U.S. Congress District 04,,LIB,Gregory Maxwell,4,0,3,1
+Logan,Ratcliff Rural,U.S. Congress District 04,,LIB,Gregory Maxwell,1,0,1,0
+Logan,Morrison Bluff,U.S. Congress District 04,,LIB,Gregory Maxwell,1,0,1,0
+Logan,Blue Mtn City,U.S. Congress District 04,,LIB,Gregory Maxwell,0,0,0,0
+Logan,Blue Mtn Rural,U.S. Congress District 04,,LIB,Gregory Maxwell,1,0,0,1
+Logan,Boone Ward 1,U.S. Congress District 04,,LIB,Gregory Maxwell,9,0,3,6
+Logan,Boone Ward 2,U.S. Congress District 04,,LIB,Gregory Maxwell,5,1,3,1
+Logan,Boone Ward 3,U.S. Congress District 04,,LIB,Gregory Maxwell,19,0,5,14
+Logan,Boone Ward 4,U.S. Congress District 04,,LIB,Gregory Maxwell,12,0,1,11
+Logan,Cauthron,U.S. Congress District 04,,LIB,Gregory Maxwell,3,0,0,3
+Logan,Petit Jean,U.S. Congress District 04,,LIB,Gregory Maxwell,2,0,0,2
+Logan,Reveille City,U.S. Congress District 04,,LIB,Gregory Maxwell,6,0,6,0
+Logan,Reveille Rural,U.S. Congress District 04,,LIB,Gregory Maxwell,4,0,0,4
+Logan,Sugar Creek,U.S. Congress District 04,,LIB,Gregory Maxwell,10,0,5,5
+Logan,Washburn,U.S. Congress District 04,,LIB,Gregory Maxwell,8,0,2,6
+Logan,Barber,U.S. Congress District 04,,LIB,Gregory Maxwell,10,0,3,7
+Logan,Tomlinson,U.S. Congress District 04,,LIB,Gregory Maxwell,0,0,0,0
+Logan,Cane Creek,U.S. Congress District 04,,DEM,John White,26,0,17,9
+Logan,Clark Crossroads,U.S. Congress District 04,,DEM,John White,20,0,11,9
+Logan,Clark City,U.S. Congress District 04,,DEM,John White,20,0,15,5
+Logan,Clark Rural,U.S. Congress District 04,,DEM,John White,19,1,7,11
+Logan,Delaware,U.S. Congress District 04,,DEM,John White,36,1,15,20
+Logan,Driggs,U.S. Congress District 04,,DEM,John White,11,2,4,5
+Logan,Ellsworth,U.S. Congress District 04,,DEM,John White,21,0,8,13
+Logan,Johnson,U.S. Congress District 04,,DEM,John White,9,0,0,9
+Logan,Logan,U.S. Congress District 04,,DEM,John White,25,2,14,9
+Logan,Mountain,U.S. Congress District 04,,DEM,John White,8,0,5,3
+Logan,River City,U.S. Congress District 04,,DEM,John White,13,0,9,4
+Logan,River Rural,U.S. Congress District 04,,DEM,John White,27,0,17,10
+Logan,Shoal Creek,U.S. Congress District 04,,DEM,John White,45,3,23,19
+Logan,Short Mtn Ward 1,U.S. Congress District 04,,DEM,John White,95,0,26,69
+Logan,Short Mtn Ward 2,U.S. Congress District 04,,DEM,John White,46,3,6,37
+Logan,Short Mtn Ward 3,U.S. Congress District 04,,DEM,John White,36,0,16,20
+Logan,Short Mtn Ward 4,U.S. Congress District 04,,DEM,John White,90,6,27,57
+Logan,Caulksville City,U.S. Congress District 04,,DEM,John White,11,0,8,3
+Logan,Caulksville Rural,U.S. Congress District 04,,DEM,John White,29,0,15,14
+Logan,Ratcliff City,U.S. Congress District 04,,DEM,John White,5,0,5,0
+Logan,Ratcliff Rural,U.S. Congress District 04,,DEM,John White,21,0,16,5
+Logan,Morrison Bluff,U.S. Congress District 04,,DEM,John White,10,0,9,1
+Logan,Blue Mtn City,U.S. Congress District 04,,DEM,John White,2,0,2,0
+Logan,Blue Mtn Rural,U.S. Congress District 04,,DEM,John White,4,0,1,3
+Logan,Boone Ward 1,U.S. Congress District 04,,DEM,John White,38,0,11,27
+Logan,Boone Ward 2,U.S. Congress District 04,,DEM,John White,45,0,14,31
+Logan,Boone Ward 3,U.S. Congress District 04,,DEM,John White,68,1,24,43
+Logan,Boone Ward 4,U.S. Congress District 04,,DEM,John White,58,3,16,39
+Logan,Cauthron,U.S. Congress District 04,,DEM,John White,16,0,2,14
+Logan,Petit Jean,U.S. Congress District 04,,DEM,John White,11,0,0,11
+Logan,Reveille City,U.S. Congress District 04,,DEM,John White,21,0,14,7
+Logan,Reveille Rural,U.S. Congress District 04,,DEM,John White,30,1,18,11
+Logan,Sugar Creek,U.S. Congress District 04,,DEM,John White,14,0,1,13
+Logan,Washburn,U.S. Congress District 04,,DEM,John White,32,0,11,21
+Logan,Barber,U.S. Congress District 04,,DEM,John White,11,0,3,8
+Logan,Tomlinson,U.S. Congress District 04,,DEM,John White,24,0,15,9
+Logan,Cane Creek,Governor,,REP,Sarah Huckabee Sanders,140,2,101,37
+Logan,Clark Crossroads,Governor,,REP,Sarah Huckabee Sanders,106,0,67,39
+Logan,Clark City,Governor,,REP,Sarah Huckabee Sanders,105,0,76,29
+Logan,Clark Rural,Governor,,REP,Sarah Huckabee Sanders,86,0,48,38
+Logan,Delaware,Governor,,REP,Sarah Huckabee Sanders,168,5,102,61
+Logan,Driggs,Governor,,REP,Sarah Huckabee Sanders,132,0,53,79
+Logan,Ellsworth,Governor,,REP,Sarah Huckabee Sanders,216,0,113,103
+Logan,Johnson,Governor,,REP,Sarah Huckabee Sanders,82,0,37,45
+Logan,Logan,Governor,,REP,Sarah Huckabee Sanders,112,0,84,28
+Logan,Mountain,Governor,,REP,Sarah Huckabee Sanders,34,0,12,22
+Logan,River City,Governor,,REP,Sarah Huckabee Sanders,50,0,42,8
+Logan,River Rural,Governor,,REP,Sarah Huckabee Sanders,76,0,65,11
+Logan,Shoal Creek,Governor,,REP,Sarah Huckabee Sanders,204,2,140,62
+Logan,Short Mtn Ward 1,Governor,,REP,Sarah Huckabee Sanders,272,2,100,170
+Logan,Short Mtn Ward 2,Governor,,REP,Sarah Huckabee Sanders,200,5,82,113
+Logan,Short Mtn Ward 3,Governor,,REP,Sarah Huckabee Sanders,156,3,61,92
+Logan,Short Mtn Ward 4,Governor,,REP,Sarah Huckabee Sanders,345,2,117,226
+Logan,Caulksville City,Governor,,REP,Sarah Huckabee Sanders,65,0,43,22
+Logan,Caulksville Rural,Governor,,REP,Sarah Huckabee Sanders,113,0,68,45
+Logan,Ratcliff City,Governor,,REP,Sarah Huckabee Sanders,38,0,18,20
+Logan,Ratcliff Rural,Governor,,REP,Sarah Huckabee Sanders,35,2,21,12
+Logan,Morrison Bluff,Governor,,REP,Sarah Huckabee Sanders,26,0,21,5
+Logan,Blue Mtn City,Governor,,REP,Sarah Huckabee Sanders,23,0,7,16
+Logan,Blue Mtn Rural,Governor,,REP,Sarah Huckabee Sanders,25,0,15,10
+Logan,Boone Ward 1,Governor,,REP,Sarah Huckabee Sanders,212,4,66,142
+Logan,Boone Ward 2,Governor,,REP,Sarah Huckabee Sanders,246,6,65,175
+Logan,Boone Ward 3,Governor,,REP,Sarah Huckabee Sanders,233,1,79,153
+Logan,Boone Ward 4,Governor,,REP,Sarah Huckabee Sanders,389,4,124,261
+Logan,Cauthron,Governor,,REP,Sarah Huckabee Sanders,81,1,16,64
+Logan,Petit Jean,Governor,,REP,Sarah Huckabee Sanders,80,0,29,51
+Logan,Reveille City,Governor,,REP,Sarah Huckabee Sanders,156,0,114,42
+Logan,Reveille Rural,Governor,,REP,Sarah Huckabee Sanders,152,1,93,58
+Logan,Sugar Creek,Governor,,REP,Sarah Huckabee Sanders,110,1,35,74
+Logan,Washburn,Governor,,REP,Sarah Huckabee Sanders,202,2,53,147
+Logan,Barber,Governor,,REP,Sarah Huckabee Sanders,100,2,28,70
+Logan,Tomlinson,Governor,,REP,Sarah Huckabee Sanders,84,1,65,18
+Logan,Cane Creek,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,0,3,0
+Logan,Clark Crossroads,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,0,1,1
+Logan,Clark City,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,0,3,0
+Logan,Clark Rural,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,1,0
+Logan,Delaware,Governor,,LIB,"Ricky Dale Harrington, Jr.",4,0,3,1
+Logan,Driggs,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,0,1,1
+Logan,Ellsworth,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,0,1,2
+Logan,Johnson,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,1,0
+Logan,Logan,Governor,,LIB,"Ricky Dale Harrington, Jr.",6,0,4,2
+Logan,Mountain,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,1,0
+Logan,River City,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,0,2,0
+Logan,River Rural,Governor,,LIB,"Ricky Dale Harrington, Jr.",4,0,3,1
+Logan,Shoal Creek,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,0,2,3
+Logan,Short Mtn Ward 1,Governor,,LIB,"Ricky Dale Harrington, Jr.",10,0,6,4
+Logan,Short Mtn Ward 2,Governor,,LIB,"Ricky Dale Harrington, Jr.",4,0,2,2
+Logan,Short Mtn Ward 3,Governor,,LIB,"Ricky Dale Harrington, Jr.",6,0,6,0
+Logan,Short Mtn Ward 4,Governor,,LIB,"Ricky Dale Harrington, Jr.",11,0,3,8
+Logan,Caulksville City,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Logan,Caulksville Rural,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Logan,Ratcliff City,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,0,3,0
+Logan,Ratcliff Rural,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Logan,Morrison Bluff,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,1,0
+Logan,Blue Mtn City,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Logan,Blue Mtn Rural,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Logan,Boone Ward 1,Governor,,LIB,"Ricky Dale Harrington, Jr.",9,0,5,4
+Logan,Boone Ward 2,Governor,,LIB,"Ricky Dale Harrington, Jr.",7,1,3,3
+Logan,Boone Ward 3,Governor,,LIB,"Ricky Dale Harrington, Jr.",13,0,2,11
+Logan,Boone Ward 4,Governor,,LIB,"Ricky Dale Harrington, Jr.",12,0,1,11
+Logan,Cauthron,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Logan,Petit Jean,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Logan,Reveille City,Governor,,LIB,"Ricky Dale Harrington, Jr.",4,0,3,1
+Logan,Reveille Rural,Governor,,LIB,"Ricky Dale Harrington, Jr.",6,0,3,3
+Logan,Sugar Creek,Governor,,LIB,"Ricky Dale Harrington, Jr.",4,0,1,3
+Logan,Washburn,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,0,2,3
+Logan,Barber,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,0,1,1
+Logan,Tomlinson,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,0,3,0
+Logan,Cane Creek,Governor,,DEM,Chris Jones,35,0,20,15
+Logan,Clark Crossroads,Governor,,DEM,Chris Jones,28,0,13,15
+Logan,Clark City,Governor,,DEM,Chris Jones,36,0,27,9
+Logan,Clark Rural,Governor,,DEM,Chris Jones,24,1,7,16
+Logan,Delaware,Governor,,DEM,Chris Jones,35,1,16,18
+Logan,Driggs,Governor,,DEM,Chris Jones,13,2,3,8
+Logan,Ellsworth,Governor,,DEM,Chris Jones,29,0,12,17
+Logan,Johnson,Governor,,DEM,Chris Jones,14,0,3,11
+Logan,Logan,Governor,,DEM,Chris Jones,31,2,19,10
+Logan,Mountain,Governor,,DEM,Chris Jones,11,0,5,6
+Logan,River City,Governor,,DEM,Chris Jones,14,0,9,5
+Logan,River Rural,Governor,,DEM,Chris Jones,40,0,27,13
+Logan,Shoal Creek,Governor,,DEM,Chris Jones,55,3,24,28
+Logan,Short Mtn Ward 1,Governor,,DEM,Chris Jones,115,1,35,79
+Logan,Short Mtn Ward 2,Governor,,DEM,Chris Jones,62,4,18,40
+Logan,Short Mtn Ward 3,Governor,,DEM,Chris Jones,43,1,19,23
+Logan,Short Mtn Ward 4,Governor,,DEM,Chris Jones,109,6,36,67
+Logan,Caulksville City,Governor,,DEM,Chris Jones,14,0,10,4
+Logan,Caulksville Rural,Governor,,DEM,Chris Jones,39,0,22,17
+Logan,Ratcliff City,Governor,,DEM,Chris Jones,12,0,12,0
+Logan,Ratcliff Rural,Governor,,DEM,Chris Jones,23,0,17,6
+Logan,Morrison Bluff,Governor,,DEM,Chris Jones,11,0,10,1
+Logan,Blue Mtn City,Governor,,DEM,Chris Jones,2,0,2,0
+Logan,Blue Mtn Rural,Governor,,DEM,Chris Jones,6,0,1,5
+Logan,Boone Ward 1,Governor,,DEM,Chris Jones,44,1,12,31
+Logan,Boone Ward 2,Governor,,DEM,Chris Jones,55,0,14,41
+Logan,Boone Ward 3,Governor,,DEM,Chris Jones,87,3,28,56
+Logan,Boone Ward 4,Governor,,DEM,Chris Jones,77,3,20,54
+Logan,Cauthron,Governor,,DEM,Chris Jones,18,0,3,15
+Logan,Petit Jean,Governor,,DEM,Chris Jones,12,0,0,12
+Logan,Reveille City,Governor,,DEM,Chris Jones,21,0,16,5
+Logan,Reveille Rural,Governor,,DEM,Chris Jones,45,1,32,12
+Logan,Sugar Creek,Governor,,DEM,Chris Jones,24,0,5,19
+Logan,Washburn,Governor,,DEM,Chris Jones,46,0,15,31
+Logan,Barber,Governor,,DEM,Chris Jones,14,0,3,11
+Logan,Tomlinson,Governor,,DEM,Chris Jones,21,0,11,10
+Logan,Cane Creek,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,136,2,98,36
+Logan,Clark Crossroads,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,105,0,66,39
+Logan,Clark City,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,116,0,84,32
+Logan,Clark Rural,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,86,0,46,40
+Logan,Delaware,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,169,5,104,60
+Logan,Driggs,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,140,0,53,87
+Logan,Ellsworth,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,208,0,107,101
+Logan,Johnson,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,82,0,39,43
+Logan,Logan,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,113,0,84,29
+Logan,Mountain,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,33,0,12,21
+Logan,River City,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,52,0,44,8
+Logan,River Rural,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,75,0,62,13
+Logan,Shoal Creek,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,202,2,136,64
+Logan,Short Mtn Ward 1,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,279,2,104,173
+Logan,Short Mtn Ward 2,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,206,5,89,112
+Logan,Short Mtn Ward 3,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,152,3,61,88
+Logan,Short Mtn Ward 4,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,345,2,118,225
+Logan,Caulksville City,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,66,0,43,23
+Logan,Caulksville Rural,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,118,0,72,46
+Logan,Ratcliff City,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,42,0,23,19
+Logan,Ratcliff Rural,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,36,2,21,13
+Logan,Morrison Bluff,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,29,0,25,4
+Logan,Blue Mtn City,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,24,0,8,16
+Logan,Blue Mtn Rural,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,25,0,15,10
+Logan,Boone Ward 1,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,212,5,65,142
+Logan,Boone Ward 2,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,244,7,63,174
+Logan,Boone Ward 3,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,239,1,81,157
+Logan,Boone Ward 4,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,384,4,120,260
+Logan,Cauthron,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,75,1,15,59
+Logan,Petit Jean,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,82,0,29,53
+Logan,Reveille City,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,151,0,110,41
+Logan,Reveille Rural,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,169,1,108,60
+Logan,Sugar Creek,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,112,1,36,75
+Logan,Washburn,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,202,2,52,148
+Logan,Barber,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,99,2,27,70
+Logan,Tomlinson,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,83,1,64,18
+Logan,Cane Creek,Lieutenant Governor,,DEM,Kelly Ross Krout,33,0,20,13
+Logan,Clark Crossroads,Lieutenant Governor,,DEM,Kelly Ross Krout,24,0,12,12
+Logan,Clark City,Lieutenant Governor,,DEM,Kelly Ross Krout,22,0,17,5
+Logan,Clark Rural,Lieutenant Governor,,DEM,Kelly Ross Krout,21,1,7,13
+Logan,Delaware,Lieutenant Governor,,DEM,Kelly Ross Krout,33,1,14,18
+Logan,Driggs,Lieutenant Governor,,DEM,Kelly Ross Krout,13,2,5,6
+Logan,Ellsworth,Lieutenant Governor,,DEM,Kelly Ross Krout,30,0,12,18
+Logan,Johnson,Lieutenant Governor,,DEM,Kelly Ross Krout,12,0,2,10
+Logan,Logan,Lieutenant Governor,,DEM,Kelly Ross Krout,25,2,16,7
+Logan,Mountain,Lieutenant Governor,,DEM,Kelly Ross Krout,9,0,5,4
+Logan,River City,Lieutenant Governor,,DEM,Kelly Ross Krout,14,0,10,4
+Logan,River Rural,Lieutenant Governor,,DEM,Kelly Ross Krout,37,0,25,12
+Logan,Shoal Creek,Lieutenant Governor,,DEM,Kelly Ross Krout,48,3,25,20
+Logan,Short Mtn Ward 1,Lieutenant Governor,,DEM,Kelly Ross Krout,98,1,31,66
+Logan,Short Mtn Ward 2,Lieutenant Governor,,DEM,Kelly Ross Krout,48,3,9,36
+Logan,Short Mtn Ward 3,Lieutenant Governor,,DEM,Kelly Ross Krout,33,1,16,16
+Logan,Short Mtn Ward 4,Lieutenant Governor,,DEM,Kelly Ross Krout,98,6,28,64
+Logan,Caulksville City,Lieutenant Governor,,DEM,Kelly Ross Krout,12,0,9,3
+Logan,Caulksville Rural,Lieutenant Governor,,DEM,Kelly Ross Krout,31,0,16,15
+Logan,Ratcliff City,Lieutenant Governor,,DEM,Kelly Ross Krout,9,0,9,0
+Logan,Ratcliff Rural,Lieutenant Governor,,DEM,Kelly Ross Krout,21,0,16,5
+Logan,Morrison Bluff,Lieutenant Governor,,DEM,Kelly Ross Krout,8,0,7,1
+Logan,Blue Mtn City,Lieutenant Governor,,DEM,Kelly Ross Krout,1,0,1,0
+Logan,Blue Mtn Rural,Lieutenant Governor,,DEM,Kelly Ross Krout,5,0,1,4
+Logan,Boone Ward 1,Lieutenant Governor,,DEM,Kelly Ross Krout,37,0,11,26
+Logan,Boone Ward 2,Lieutenant Governor,,DEM,Kelly Ross Krout,53,0,14,39
+Logan,Boone Ward 3,Lieutenant Governor,,DEM,Kelly Ross Krout,75,3,22,50
+Logan,Boone Ward 4,Lieutenant Governor,,DEM,Kelly Ross Krout,70,3,20,47
+Logan,Cauthron,Lieutenant Governor,,DEM,Kelly Ross Krout,21,0,4,17
+Logan,Petit Jean,Lieutenant Governor,,DEM,Kelly Ross Krout,12,0,1,11
+Logan,Reveille City,Lieutenant Governor,,DEM,Kelly Ross Krout,19,0,14,5
+Logan,Reveille Rural,Lieutenant Governor,,DEM,Kelly Ross Krout,31,1,19,11
+Logan,Sugar Creek,Lieutenant Governor,,DEM,Kelly Ross Krout,18,0,3,15
+Logan,Washburn,Lieutenant Governor,,DEM,Kelly Ross Krout,41,0,15,26
+Logan,Barber,Lieutenant Governor,,DEM,Kelly Ross Krout,10,0,3,7
+Logan,Tomlinson,Lieutenant Governor,,DEM,Kelly Ross Krout,19,0,11,8
+Logan,Cane Creek,Lieutenant Governor,,LIB,Frank Gilbert,8,0,5,3
+Logan,Clark Crossroads,Lieutenant Governor,,LIB,Frank Gilbert,5,0,1,4
+Logan,Clark City,Lieutenant Governor,,LIB,Frank Gilbert,4,0,4,0
+Logan,Clark Rural,Lieutenant Governor,,LIB,Frank Gilbert,4,0,3,1
+Logan,Delaware,Lieutenant Governor,,LIB,Frank Gilbert,5,0,3,2
+Logan,Driggs,Lieutenant Governor,,LIB,Frank Gilbert,1,0,0,1
+Logan,Ellsworth,Lieutenant Governor,,LIB,Frank Gilbert,7,0,5,2
+Logan,Johnson,Lieutenant Governor,,LIB,Frank Gilbert,2,0,0,2
+Logan,Logan,Lieutenant Governor,,LIB,Frank Gilbert,8,0,5,3
+Logan,Mountain,Lieutenant Governor,,LIB,Frank Gilbert,2,0,1,1
+Logan,River City,Lieutenant Governor,,LIB,Frank Gilbert,1,0,0,1
+Logan,River Rural,Lieutenant Governor,,LIB,Frank Gilbert,7,0,7,0
+Logan,Shoal Creek,Lieutenant Governor,,LIB,Frank Gilbert,9,0,2,7
+Logan,Short Mtn Ward 1,Lieutenant Governor,,LIB,Frank Gilbert,19,0,7,12
+Logan,Short Mtn Ward 2,Lieutenant Governor,,LIB,Frank Gilbert,9,0,4,5
+Logan,Short Mtn Ward 3,Lieutenant Governor,,LIB,Frank Gilbert,19,0,9,10
+Logan,Short Mtn Ward 4,Lieutenant Governor,,LIB,Frank Gilbert,19,0,8,11
+Logan,Caulksville City,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0
+Logan,Caulksville Rural,Lieutenant Governor,,LIB,Frank Gilbert,3,0,2,1
+Logan,Ratcliff City,Lieutenant Governor,,LIB,Frank Gilbert,2,0,1,1
+Logan,Ratcliff Rural,Lieutenant Governor,,LIB,Frank Gilbert,1,0,1,0
+Logan,Morrison Bluff,Lieutenant Governor,,LIB,Frank Gilbert,1,0,1,0
+Logan,Blue Mtn City,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0
+Logan,Blue Mtn Rural,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0
+Logan,Boone Ward 1,Lieutenant Governor,,LIB,Frank Gilbert,12,0,6,6
+Logan,Boone Ward 2,Lieutenant Governor,,LIB,Frank Gilbert,10,0,4,6
+Logan,Boone Ward 3,Lieutenant Governor,,LIB,Frank Gilbert,17,0,5,12
+Logan,Boone Ward 4,Lieutenant Governor,,LIB,Frank Gilbert,23,0,4,19
+Logan,Cauthron,Lieutenant Governor,,LIB,Frank Gilbert,4,0,0,4
+Logan,Petit Jean,Lieutenant Governor,,LIB,Frank Gilbert,1,0,0,1
+Logan,Reveille City,Lieutenant Governor,,LIB,Frank Gilbert,10,0,8,2
+Logan,Reveille Rural,Lieutenant Governor,,LIB,Frank Gilbert,3,0,1,2
+Logan,Sugar Creek,Lieutenant Governor,,LIB,Frank Gilbert,8,0,2,6
+Logan,Washburn,Lieutenant Governor,,LIB,Frank Gilbert,9,0,3,6
+Logan,Barber,Lieutenant Governor,,LIB,Frank Gilbert,6,0,1,5
+Logan,Tomlinson,Lieutenant Governor,,LIB,Frank Gilbert,3,0,1,2
+Logan,Cane Creek,Attorney General,,DEM,Jesse Gibson,34,0,22,12
+Logan,Clark Crossroads,Attorney General,,DEM,Jesse Gibson,25,0,13,12
+Logan,Clark City,Attorney General,,DEM,Jesse Gibson,30,0,22,8
+Logan,Clark Rural,Attorney General,,DEM,Jesse Gibson,26,1,10,15
+Logan,Delaware,Attorney General,,DEM,Jesse Gibson,37,1,17,19
+Logan,Driggs,Attorney General,,DEM,Jesse Gibson,13,2,5,6
+Logan,Ellsworth,Attorney General,,DEM,Jesse Gibson,26,0,9,17
+Logan,Johnson,Attorney General,,DEM,Jesse Gibson,11,0,1,10
+Logan,Logan,Attorney General,,DEM,Jesse Gibson,31,2,19,10
+Logan,Mountain,Attorney General,,DEM,Jesse Gibson,12,0,6,6
+Logan,River City,Attorney General,,DEM,Jesse Gibson,14,0,10,4
+Logan,River Rural,Attorney General,,DEM,Jesse Gibson,35,0,24,11
+Logan,Shoal Creek,Attorney General,,DEM,Jesse Gibson,49,3,23,23
+Logan,Short Mtn Ward 1,Attorney General,,DEM,Jesse Gibson,101,1,31,69
+Logan,Short Mtn Ward 2,Attorney General,,DEM,Jesse Gibson,55,5,12,38
+Logan,Short Mtn Ward 3,Attorney General,,DEM,Jesse Gibson,38,1,16,21
+Logan,Short Mtn Ward 4,Attorney General,,DEM,Jesse Gibson,101,6,33,62
+Logan,Caulksville City,Attorney General,,DEM,Jesse Gibson,11,0,8,3
+Logan,Caulksville Rural,Attorney General,,DEM,Jesse Gibson,35,0,18,17
+Logan,Ratcliff City,Attorney General,,DEM,Jesse Gibson,9,0,9,0
+Logan,Ratcliff Rural,Attorney General,,DEM,Jesse Gibson,22,0,17,5
+Logan,Morrison Bluff,Attorney General,,DEM,Jesse Gibson,8,0,7,1
+Logan,Blue Mtn City,Attorney General,,DEM,Jesse Gibson,1,0,1,0
+Logan,Blue Mtn Rural,Attorney General,,DEM,Jesse Gibson,5,0,1,4
+Logan,Boone Ward 1,Attorney General,,DEM,Jesse Gibson,45,0,13,32
+Logan,Boone Ward 2,Attorney General,,DEM,Jesse Gibson,55,0,15,40
+Logan,Boone Ward 3,Attorney General,,DEM,Jesse Gibson,82,3,29,50
+Logan,Boone Ward 4,Attorney General,,DEM,Jesse Gibson,66,3,18,45
+Logan,Cauthron,Attorney General,,DEM,Jesse Gibson,19,0,3,16
+Logan,Petit Jean,Attorney General,,DEM,Jesse Gibson,13,0,1,12
+Logan,Reveille City,Attorney General,,DEM,Jesse Gibson,28,0,21,7
+Logan,Reveille Rural,Attorney General,,DEM,Jesse Gibson,35,1,21,13
+Logan,Sugar Creek,Attorney General,,DEM,Jesse Gibson,22,0,5,17
+Logan,Washburn,Attorney General,,DEM,Jesse Gibson,47,0,18,29
+Logan,Barber,Attorney General,,DEM,Jesse Gibson,16,0,3,13
+Logan,Tomlinson,Attorney General,,DEM,Jesse Gibson,21,0,13,8
+Logan,Cane Creek,Attorney General,,REP,Lieutenant Governor Tim Griffin,145,2,103,40
+Logan,Clark Crossroads,Attorney General,,REP,Lieutenant Governor Tim Griffin,109,0,66,43
+Logan,Clark City,Attorney General,,REP,Lieutenant Governor Tim Griffin,110,0,82,28
+Logan,Clark Rural,Attorney General,,REP,Lieutenant Governor Tim Griffin,84,0,46,38
+Logan,Delaware,Attorney General,,REP,Lieutenant Governor Tim Griffin,166,5,101,60
+Logan,Driggs,Attorney General,,REP,Lieutenant Governor Tim Griffin,141,0,52,89
+Logan,Ellsworth,Attorney General,,REP,Lieutenant Governor Tim Griffin,218,0,115,103
+Logan,Johnson,Attorney General,,REP,Lieutenant Governor Tim Griffin,84,0,40,44
+Logan,Logan,Attorney General,,REP,Lieutenant Governor Tim Griffin,113,0,84,29
+Logan,Mountain,Attorney General,,REP,Lieutenant Governor Tim Griffin,34,0,12,22
+Logan,River City,Attorney General,,REP,Lieutenant Governor Tim Griffin,52,0,43,9
+Logan,River Rural,Attorney General,,REP,Lieutenant Governor Tim Griffin,82,0,69,13
+Logan,Shoal Creek,Attorney General,,REP,Lieutenant Governor Tim Griffin,213,2,140,71
+Logan,Short Mtn Ward 1,Attorney General,,REP,Lieutenant Governor Tim Griffin,290,2,110,178
+Logan,Short Mtn Ward 2,Attorney General,,REP,Lieutenant Governor Tim Griffin,208,4,90,114
+Logan,Short Mtn Ward 3,Attorney General,,REP,Lieutenant Governor Tim Griffin,165,3,70,92
+Logan,Short Mtn Ward 4,Attorney General,,REP,Lieutenant Governor Tim Griffin,360,2,119,239
+Logan,Caulksville City,Attorney General,,REP,Lieutenant Governor Tim Griffin,68,0,45,23
+Logan,Caulksville Rural,Attorney General,,REP,Lieutenant Governor Tim Griffin,115,0,70,45
+Logan,Ratcliff City,Attorney General,,REP,Lieutenant Governor Tim Griffin,44,0,24,20
+Logan,Ratcliff Rural,Attorney General,,REP,Lieutenant Governor Tim Griffin,36,2,21,13
+Logan,Morrison Bluff,Attorney General,,REP,Lieutenant Governor Tim Griffin,29,0,25,4
+Logan,Blue Mtn City,Attorney General,,REP,Lieutenant Governor Tim Griffin,23,0,7,16
+Logan,Blue Mtn Rural,Attorney General,,REP,Lieutenant Governor Tim Griffin,26,0,15,11
+Logan,Boone Ward 1,Attorney General,,REP,Lieutenant Governor Tim Griffin,217,5,68,144
+Logan,Boone Ward 2,Attorney General,,REP,Lieutenant Governor Tim Griffin,252,7,66,179
+Logan,Boone Ward 3,Attorney General,,REP,Lieutenant Governor Tim Griffin,250,1,79,170
+Logan,Boone Ward 4,Attorney General,,REP,Lieutenant Governor Tim Griffin,408,4,126,278
+Logan,Cauthron,Attorney General,,REP,Lieutenant Governor Tim Griffin,81,1,16,64
+Logan,Petit Jean,Attorney General,,REP,Lieutenant Governor Tim Griffin,82,0,29,53
+Logan,Reveille City,Attorney General,,REP,Lieutenant Governor Tim Griffin,151,0,110,41
+Logan,Reveille Rural,Attorney General,,REP,Lieutenant Governor Tim Griffin,167,1,107,59
+Logan,Sugar Creek,Attorney General,,REP,Lieutenant Governor Tim Griffin,116,1,36,79
+Logan,Washburn,Attorney General,,REP,Lieutenant Governor Tim Griffin,204,2,52,150
+Logan,Barber,Attorney General,,REP,Lieutenant Governor Tim Griffin,99,2,28,69
+Logan,Tomlinson,Attorney General,,REP,Lieutenant Governor Tim Griffin,85,1,64,20
+Logan,Cane Creek,Secretary of State,,DEM,Anna Beth Gorman,33,0,20,13
+Logan,Clark Crossroads,Secretary of State,,DEM,Anna Beth Gorman,24,0,10,14
+Logan,Clark City,Secretary of State,,DEM,Anna Beth Gorman,30,0,23,7
+Logan,Clark Rural,Secretary of State,,DEM,Anna Beth Gorman,26,1,10,15
+Logan,Delaware,Secretary of State,,DEM,Anna Beth Gorman,36,1,15,20
+Logan,Driggs,Secretary of State,,DEM,Anna Beth Gorman,16,2,6,8
+Logan,Ellsworth,Secretary of State,,DEM,Anna Beth Gorman,29,0,14,15
+Logan,Johnson,Secretary of State,,DEM,Anna Beth Gorman,13,0,3,10
+Logan,Logan,Secretary of State,,DEM,Anna Beth Gorman,31,2,20,9
+Logan,Mountain,Secretary of State,,DEM,Anna Beth Gorman,11,0,6,5
+Logan,River City,Secretary of State,,DEM,Anna Beth Gorman,14,0,10,4
+Logan,River Rural,Secretary of State,,DEM,Anna Beth Gorman,39,0,28,11
+Logan,Shoal Creek,Secretary of State,,DEM,Anna Beth Gorman,53,3,25,25
+Logan,Short Mtn Ward 1,Secretary of State,,DEM,Anna Beth Gorman,112,1,34,77
+Logan,Short Mtn Ward 2,Secretary of State,,DEM,Anna Beth Gorman,56,4,12,40
+Logan,Short Mtn Ward 3,Secretary of State,,DEM,Anna Beth Gorman,39,1,17,21
+Logan,Short Mtn Ward 4,Secretary of State,,DEM,Anna Beth Gorman,97,6,32,59
+Logan,Caulksville City,Secretary of State,,DEM,Anna Beth Gorman,12,0,8,4
+Logan,Caulksville Rural,Secretary of State,,DEM,Anna Beth Gorman,37,0,20,17
+Logan,Ratcliff City,Secretary of State,,DEM,Anna Beth Gorman,9,0,8,1
+Logan,Ratcliff Rural,Secretary of State,,DEM,Anna Beth Gorman,22,0,17,5
+Logan,Morrison Bluff,Secretary of State,,DEM,Anna Beth Gorman,9,0,8,1
+Logan,Blue Mtn City,Secretary of State,,DEM,Anna Beth Gorman,2,0,2,0
+Logan,Blue Mtn Rural,Secretary of State,,DEM,Anna Beth Gorman,5,0,1,4
+Logan,Boone Ward 1,Secretary of State,,DEM,Anna Beth Gorman,50,0,15,35
+Logan,Boone Ward 2,Secretary of State,,DEM,Anna Beth Gorman,52,0,16,36
+Logan,Boone Ward 3,Secretary of State,,DEM,Anna Beth Gorman,87,3,26,58
+Logan,Boone Ward 4,Secretary of State,,DEM,Anna Beth Gorman,74,3,20,51
+Logan,Cauthron,Secretary of State,,DEM,Anna Beth Gorman,17,0,2,15
+Logan,Petit Jean,Secretary of State,,DEM,Anna Beth Gorman,16,0,1,15
+Logan,Reveille City,Secretary of State,,DEM,Anna Beth Gorman,27,0,19,8
+Logan,Reveille Rural,Secretary of State,,DEM,Anna Beth Gorman,37,1,22,14
+Logan,Sugar Creek,Secretary of State,,DEM,Anna Beth Gorman,24,0,6,18
+Logan,Washburn,Secretary of State,,DEM,Anna Beth Gorman,40,0,13,27
+Logan,Barber,Secretary of State,,DEM,Anna Beth Gorman,17,0,4,13
+Logan,Tomlinson,Secretary of State,,DEM,Anna Beth Gorman,25,0,15,10
+Logan,Cane Creek,Secretary of State,,REP,Secretary of State John Thurston,144,2,103,39
+Logan,Clark Crossroads,Secretary of State,,REP,Secretary of State John Thurston,112,0,71,41
+Logan,Clark City,Secretary of State,,REP,Secretary of State John Thurston,113,0,82,31
+Logan,Clark Rural,Secretary of State,,REP,Secretary of State John Thurston,85,0,46,39
+Logan,Delaware,Secretary of State,,REP,Secretary of State John Thurston,170,5,106,59
+Logan,Driggs,Secretary of State,,REP,Secretary of State John Thurston,139,0,52,87
+Logan,Ellsworth,Secretary of State,,REP,Secretary of State John Thurston,217,0,112,105
+Logan,Johnson,Secretary of State,,REP,Secretary of State John Thurston,83,0,38,45
+Logan,Logan,Secretary of State,,REP,Secretary of State John Thurston,114,0,85,29
+Logan,Mountain,Secretary of State,,REP,Secretary of State John Thurston,33,0,12,21
+Logan,River City,Secretary of State,,REP,Secretary of State John Thurston,53,0,44,9
+Logan,River Rural,Secretary of State,,REP,Secretary of State John Thurston,79,0,67,12
+Logan,Shoal Creek,Secretary of State,,REP,Secretary of State John Thurston,210,2,139,69
+Logan,Short Mtn Ward 1,Secretary of State,,REP,Secretary of State John Thurston,285,2,108,175
+Logan,Short Mtn Ward 2,Secretary of State,,REP,Secretary of State John Thurston,211,5,91,115
+Logan,Short Mtn Ward 3,Secretary of State,,REP,Secretary of State John Thurston,165,3,69,93
+Logan,Short Mtn Ward 4,Secretary of State,,REP,Secretary of State John Thurston,367,2,123,242
+Logan,Caulksville City,Secretary of State,,REP,Secretary of State John Thurston,67,0,45,22
+Logan,Caulksville Rural,Secretary of State,,REP,Secretary of State John Thurston,113,0,69,44
+Logan,Ratcliff City,Secretary of State,,REP,Secretary of State John Thurston,44,0,25,19
+Logan,Ratcliff Rural,Secretary of State,,REP,Secretary of State John Thurston,36,2,21,13
+Logan,Morrison Bluff,Secretary of State,,REP,Secretary of State John Thurston,28,0,24,4
+Logan,Blue Mtn City,Secretary of State,,REP,Secretary of State John Thurston,23,0,7,16
+Logan,Blue Mtn Rural,Secretary of State,,REP,Secretary of State John Thurston,26,0,15,11
+Logan,Boone Ward 1,Secretary of State,,REP,Secretary of State John Thurston,212,5,66,141
+Logan,Boone Ward 2,Secretary of State,,REP,Secretary of State John Thurston,255,7,65,183
+Logan,Boone Ward 3,Secretary of State,,REP,Secretary of State John Thurston,242,1,81,160
+Logan,Boone Ward 4,Secretary of State,,REP,Secretary of State John Thurston,402,4,125,273
+Logan,Cauthron,Secretary of State,,REP,Secretary of State John Thurston,83,1,17,65
+Logan,Petit Jean,Secretary of State,,REP,Secretary of State John Thurston,78,0,29,49
+Logan,Reveille City,Secretary of State,,REP,Secretary of State John Thurston,154,0,114,40
+Logan,Reveille Rural,Secretary of State,,REP,Secretary of State John Thurston,165,1,107,57
+Logan,Sugar Creek,Secretary of State,,REP,Secretary of State John Thurston,114,1,35,78
+Logan,Washburn,Secretary of State,,REP,Secretary of State John Thurston,212,2,57,153
+Logan,Barber,Secretary of State,,REP,Secretary of State John Thurston,98,2,27,69
+Logan,Tomlinson,Secretary of State,,REP,Secretary of State John Thurston,81,1,62,18
+Logan,Cane Creek,State Treasurer,,REP,State Representative Mark Lowery,141,2,100,39
+Logan,Clark Crossroads,State Treasurer,,REP,State Representative Mark Lowery,110,0,67,43
+Logan,Clark City,State Treasurer,,REP,State Representative Mark Lowery,117,0,86,31
+Logan,Clark Rural,State Treasurer,,REP,State Representative Mark Lowery,88,0,47,41
+Logan,Delaware,State Treasurer,,REP,State Representative Mark Lowery,170,5,106,59
+Logan,Driggs,State Treasurer,,REP,State Representative Mark Lowery,139,0,53,86
+Logan,Ellsworth,State Treasurer,,REP,State Representative Mark Lowery,219,0,115,104
+Logan,Johnson,State Treasurer,,REP,State Representative Mark Lowery,82,0,38,44
+Logan,Logan,State Treasurer,,REP,State Representative Mark Lowery,115,0,86,29
+Logan,Mountain,State Treasurer,,REP,State Representative Mark Lowery,35,0,12,23
+Logan,River City,State Treasurer,,REP,State Representative Mark Lowery,52,0,43,9
+Logan,River Rural,State Treasurer,,REP,State Representative Mark Lowery,77,0,64,13
+Logan,Shoal Creek,State Treasurer,,REP,State Representative Mark Lowery,212,2,140,70
+Logan,Short Mtn Ward 1,State Treasurer,,REP,State Representative Mark Lowery,289,2,111,176
+Logan,Short Mtn Ward 2,State Treasurer,,REP,State Representative Mark Lowery,213,5,90,118
+Logan,Short Mtn Ward 3,State Treasurer,,REP,State Representative Mark Lowery,164,3,66,95
+Logan,Short Mtn Ward 4,State Treasurer,,REP,State Representative Mark Lowery,361,2,124,235
+Logan,Caulksville City,State Treasurer,,REP,State Representative Mark Lowery,66,0,45,21
+Logan,Caulksville Rural,State Treasurer,,REP,State Representative Mark Lowery,115,0,71,44
+Logan,Ratcliff City,State Treasurer,,REP,State Representative Mark Lowery,45,0,25,20
+Logan,Ratcliff Rural,State Treasurer,,REP,State Representative Mark Lowery,37,2,22,13
+Logan,Morrison Bluff,State Treasurer,,REP,State Representative Mark Lowery,29,0,25,4
+Logan,Blue Mtn City,State Treasurer,,REP,State Representative Mark Lowery,24,0,8,16
+Logan,Blue Mtn Rural,State Treasurer,,REP,State Representative Mark Lowery,25,0,15,10
+Logan,Boone Ward 1,State Treasurer,,REP,State Representative Mark Lowery,215,4,68,143
+Logan,Boone Ward 2,State Treasurer,,REP,State Representative Mark Lowery,249,7,66,176
+Logan,Boone Ward 3,State Treasurer,,REP,State Representative Mark Lowery,244,1,78,165
+Logan,Boone Ward 4,State Treasurer,,REP,State Representative Mark Lowery,409,4,126,279
+Logan,Cauthron,State Treasurer,,REP,State Representative Mark Lowery,80,1,15,64
+Logan,Petit Jean,State Treasurer,,REP,State Representative Mark Lowery,79,0,29,50
+Logan,Reveille City,State Treasurer,,REP,State Representative Mark Lowery,155,0,113,42
+Logan,Reveille Rural,State Treasurer,,REP,State Representative Mark Lowery,168,1,109,58
+Logan,Sugar Creek,State Treasurer,,REP,State Representative Mark Lowery,114,1,35,78
+Logan,Washburn,State Treasurer,,REP,State Representative Mark Lowery,209,2,54,153
+Logan,Barber,State Treasurer,,REP,State Representative Mark Lowery,99,2,27,70
+Logan,Tomlinson,State Treasurer,,REP,State Representative Mark Lowery,83,1,63,19
+Logan,Cane Creek,State Treasurer,,DEM,Pam Whitaker,36,0,23,13
+Logan,Clark Crossroads,State Treasurer,,DEM,Pam Whitaker,25,0,13,12
+Logan,Clark City,State Treasurer,,DEM,Pam Whitaker,25,0,19,6
+Logan,Clark Rural,State Treasurer,,DEM,Pam Whitaker,23,1,9,13
+Logan,Delaware,State Treasurer,,DEM,Pam Whitaker,37,1,15,21
+Logan,Driggs,State Treasurer,,DEM,Pam Whitaker,15,2,5,8
+Logan,Ellsworth,State Treasurer,,DEM,Pam Whitaker,26,0,11,15
+Logan,Johnson,State Treasurer,,DEM,Pam Whitaker,14,0,3,11
+Logan,Logan,State Treasurer,,DEM,Pam Whitaker,30,2,19,9
+Logan,Mountain,State Treasurer,,DEM,Pam Whitaker,10,0,6,4
+Logan,River City,State Treasurer,,DEM,Pam Whitaker,15,0,11,4
+Logan,River Rural,State Treasurer,,DEM,Pam Whitaker,42,0,30,12
+Logan,Shoal Creek,State Treasurer,,DEM,Pam Whitaker,51,3,24,24
+Logan,Short Mtn Ward 1,State Treasurer,,DEM,Pam Whitaker,106,1,30,75
+Logan,Short Mtn Ward 2,State Treasurer,,DEM,Pam Whitaker,53,4,12,37
+Logan,Short Mtn Ward 3,State Treasurer,,DEM,Pam Whitaker,41,1,20,20
+Logan,Short Mtn Ward 4,State Treasurer,,DEM,Pam Whitaker,101,6,30,65
+Logan,Caulksville City,State Treasurer,,DEM,Pam Whitaker,12,0,8,4
+Logan,Caulksville Rural,State Treasurer,,DEM,Pam Whitaker,34,0,18,16
+Logan,Ratcliff City,State Treasurer,,DEM,Pam Whitaker,8,0,8,0
+Logan,Ratcliff Rural,State Treasurer,,DEM,Pam Whitaker,21,0,16,5
+Logan,Morrison Bluff,State Treasurer,,DEM,Pam Whitaker,9,0,8,1
+Logan,Blue Mtn City,State Treasurer,,DEM,Pam Whitaker,1,0,1,0
+Logan,Blue Mtn Rural,State Treasurer,,DEM,Pam Whitaker,5,0,1,4
+Logan,Boone Ward 1,State Treasurer,,DEM,Pam Whitaker,49,1,14,34
+Logan,Boone Ward 2,State Treasurer,,DEM,Pam Whitaker,57,0,15,42
+Logan,Boone Ward 3,State Treasurer,,DEM,Pam Whitaker,86,3,30,53
+Logan,Boone Ward 4,State Treasurer,,DEM,Pam Whitaker,68,3,19,46
+Logan,Cauthron,State Treasurer,,DEM,Pam Whitaker,20,0,4,16
+Logan,Petit Jean,State Treasurer,,DEM,Pam Whitaker,15,0,1,14
+Logan,Reveille City,State Treasurer,,DEM,Pam Whitaker,26,0,20,6
+Logan,Reveille Rural,State Treasurer,,DEM,Pam Whitaker,33,1,19,13
+Logan,Sugar Creek,State Treasurer,,DEM,Pam Whitaker,24,0,6,18
+Logan,Washburn,State Treasurer,,DEM,Pam Whitaker,43,0,16,27
+Logan,Barber,State Treasurer,,DEM,Pam Whitaker,16,0,4,12
+Logan,Tomlinson,State Treasurer,,DEM,Pam Whitaker,23,0,14,9
+Logan,Cane Creek,Auditor of State,,LIB,Simeon Snow,11,0,8,3
+Logan,Clark Crossroads,Auditor of State,,LIB,Simeon Snow,9,0,4,5
+Logan,Clark City,Auditor of State,,LIB,Simeon Snow,9,0,7,2
+Logan,Clark Rural,Auditor of State,,LIB,Simeon Snow,1,0,1,0
+Logan,Delaware,Auditor of State,,LIB,Simeon Snow,5,0,3,2
+Logan,Driggs,Auditor of State,,LIB,Simeon Snow,2,0,0,2
+Logan,Ellsworth,Auditor of State,,LIB,Simeon Snow,8,0,4,4
+Logan,Johnson,Auditor of State,,LIB,Simeon Snow,3,0,0,3
+Logan,Logan,Auditor of State,,LIB,Simeon Snow,7,0,4,3
+Logan,Mountain,Auditor of State,,LIB,Simeon Snow,1,0,0,1
+Logan,River City,Auditor of State,,LIB,Simeon Snow,3,0,2,1
+Logan,River Rural,Auditor of State,,LIB,Simeon Snow,5,0,5,0
+Logan,Shoal Creek,Auditor of State,,LIB,Simeon Snow,10,0,4,6
+Logan,Short Mtn Ward 1,Auditor of State,,LIB,Simeon Snow,19,0,6,13
+Logan,Short Mtn Ward 2,Auditor of State,,LIB,Simeon Snow,10,0,4,6
+Logan,Short Mtn Ward 3,Auditor of State,,LIB,Simeon Snow,12,0,6,6
+Logan,Short Mtn Ward 4,Auditor of State,,LIB,Simeon Snow,24,0,8,16
+Logan,Caulksville City,Auditor of State,,LIB,Simeon Snow,3,0,2,1
+Logan,Caulksville Rural,Auditor of State,,LIB,Simeon Snow,9,0,3,6
+Logan,Ratcliff City,Auditor of State,,LIB,Simeon Snow,3,0,3,0
+Logan,Ratcliff Rural,Auditor of State,,LIB,Simeon Snow,1,0,0,1
+Logan,Morrison Bluff,Auditor of State,,LIB,Simeon Snow,2,0,2,0
+Logan,Blue Mtn City,Auditor of State,,LIB,Simeon Snow,1,0,0,1
+Logan,Blue Mtn Rural,Auditor of State,,LIB,Simeon Snow,1,0,0,1
+Logan,Boone Ward 1,Auditor of State,,LIB,Simeon Snow,10,0,4,6
+Logan,Boone Ward 2,Auditor of State,,LIB,Simeon Snow,13,2,4,7
+Logan,Boone Ward 3,Auditor of State,,LIB,Simeon Snow,23,0,9,14
+Logan,Boone Ward 4,Auditor of State,,LIB,Simeon Snow,24,0,3,21
+Logan,Cauthron,Auditor of State,,LIB,Simeon Snow,0,0,0,0
+Logan,Petit Jean,Auditor of State,,LIB,Simeon Snow,2,0,0,2
+Logan,Reveille City,Auditor of State,,LIB,Simeon Snow,11,0,9,2
+Logan,Reveille Rural,Auditor of State,,LIB,Simeon Snow,10,0,4,6
+Logan,Sugar Creek,Auditor of State,,LIB,Simeon Snow,7,0,4,3
+Logan,Washburn,Auditor of State,,LIB,Simeon Snow,4,0,2,2
+Logan,Barber,Auditor of State,,LIB,Simeon Snow,11,0,5,6
+Logan,Tomlinson,Auditor of State,,LIB,Simeon Snow,2,0,1,1
+Logan,Cane Creek,Auditor of State,,REP,Treasurer of State Dennis Milligan,136,2,97,37
+Logan,Clark Crossroads,Auditor of State,,REP,Treasurer of State Dennis Milligan,106,0,66,40
+Logan,Clark City,Auditor of State,,REP,Treasurer of State Dennis Milligan,114,0,85,29
+Logan,Clark Rural,Auditor of State,,REP,Treasurer of State Dennis Milligan,88,0,47,41
+Logan,Delaware,Auditor of State,,REP,Treasurer of State Dennis Milligan,169,5,104,60
+Logan,Driggs,Auditor of State,,REP,Treasurer of State Dennis Milligan,140,0,54,86
+Logan,Ellsworth,Auditor of State,,REP,Treasurer of State Dennis Milligan,216,0,113,103
+Logan,Johnson,Auditor of State,,REP,Treasurer of State Dennis Milligan,81,0,39,42
+Logan,Logan,Auditor of State,,REP,Treasurer of State Dennis Milligan,115,0,86,29
+Logan,Mountain,Auditor of State,,REP,Treasurer of State Dennis Milligan,35,0,12,23
+Logan,River City,Auditor of State,,REP,Treasurer of State Dennis Milligan,51,0,43,8
+Logan,River Rural,Auditor of State,,REP,Treasurer of State Dennis Milligan,78,0,63,15
+Logan,Shoal Creek,Auditor of State,,REP,Treasurer of State Dennis Milligan,207,2,139,66
+Logan,Short Mtn Ward 1,Auditor of State,,REP,Treasurer of State Dennis Milligan,293,2,109,182
+Logan,Short Mtn Ward 2,Auditor of State,,REP,Treasurer of State Dennis Milligan,208,5,93,110
+Logan,Short Mtn Ward 3,Auditor of State,,REP,Treasurer of State Dennis Milligan,155,3,63,89
+Logan,Short Mtn Ward 4,Auditor of State,,REP,Treasurer of State Dennis Milligan,353,1,121,231
+Logan,Caulksville City,Auditor of State,,REP,Treasurer of State Dennis Milligan,64,0,43,21
+Logan,Caulksville Rural,Auditor of State,,REP,Treasurer of State Dennis Milligan,110,0,70,40
+Logan,Ratcliff City,Auditor of State,,REP,Treasurer of State Dennis Milligan,44,0,24,20
+Logan,Ratcliff Rural,Auditor of State,,REP,Treasurer of State Dennis Milligan,35,2,21,12
+Logan,Morrison Bluff,Auditor of State,,REP,Treasurer of State Dennis Milligan,30,0,26,4
+Logan,Blue Mtn City,Auditor of State,,REP,Treasurer of State Dennis Milligan,22,0,7,15
+Logan,Blue Mtn Rural,Auditor of State,,REP,Treasurer of State Dennis Milligan,26,0,15,11
+Logan,Boone Ward 1,Auditor of State,,REP,Treasurer of State Dennis Milligan,214,4,69,141
+Logan,Boone Ward 2,Auditor of State,,REP,Treasurer of State Dennis Milligan,244,5,64,175
+Logan,Boone Ward 3,Auditor of State,,REP,Treasurer of State Dennis Milligan,232,1,78,153
+Logan,Boone Ward 4,Auditor of State,,REP,Treasurer of State Dennis Milligan,399,4,126,269
+Logan,Cauthron,Auditor of State,,REP,Treasurer of State Dennis Milligan,83,1,16,66
+Logan,Petit Jean,Auditor of State,,REP,Treasurer of State Dennis Milligan,83,0,29,54
+Logan,Reveille City,Auditor of State,,REP,Treasurer of State Dennis Milligan,144,0,104,40
+Logan,Reveille Rural,Auditor of State,,REP,Treasurer of State Dennis Milligan,160,1,104,55
+Logan,Sugar Creek,Auditor of State,,REP,Treasurer of State Dennis Milligan,110,1,32,77
+Logan,Washburn,Auditor of State,,REP,Treasurer of State Dennis Milligan,214,2,57,155
+Logan,Barber,Auditor of State,,REP,Treasurer of State Dennis Milligan,90,2,23,65
+Logan,Tomlinson,Auditor of State,,REP,Treasurer of State Dennis Milligan,83,1,64,18
+Logan,Cane Creek,Auditor of State,,DEM,Diamond Arnold-Johnson,32,0,20,12
+Logan,Clark Crossroads,Auditor of State,,DEM,Diamond Arnold-Johnson,20,0,10,10
+Logan,Clark City,Auditor of State,,DEM,Diamond Arnold-Johnson,19,0,13,6
+Logan,Clark Rural,Auditor of State,,DEM,Diamond Arnold-Johnson,22,1,8,13
+Logan,Delaware,Auditor of State,,DEM,Diamond Arnold-Johnson,33,1,14,18
+Logan,Driggs,Auditor of State,,DEM,Diamond Arnold-Johnson,12,2,4,6
+Logan,Ellsworth,Auditor of State,,DEM,Diamond Arnold-Johnson,22,0,9,13
+Logan,Johnson,Auditor of State,,DEM,Diamond Arnold-Johnson,12,0,2,10
+Logan,Logan,Auditor of State,,DEM,Diamond Arnold-Johnson,23,2,15,6
+Logan,Mountain,Auditor of State,,DEM,Diamond Arnold-Johnson,10,0,6,4
+Logan,River City,Auditor of State,,DEM,Diamond Arnold-Johnson,13,0,9,4
+Logan,River Rural,Auditor of State,,DEM,Diamond Arnold-Johnson,36,0,27,9
+Logan,Shoal Creek,Auditor of State,,DEM,Diamond Arnold-Johnson,43,3,20,20
+Logan,Short Mtn Ward 1,Auditor of State,,DEM,Diamond Arnold-Johnson,85,1,27,57
+Logan,Short Mtn Ward 2,Auditor of State,,DEM,Diamond Arnold-Johnson,46,4,5,37
+Logan,Short Mtn Ward 3,Auditor of State,,DEM,Diamond Arnold-Johnson,39,1,18,20
+Logan,Short Mtn Ward 4,Auditor of State,,DEM,Diamond Arnold-Johnson,85,6,27,52
+Logan,Caulksville City,Auditor of State,,DEM,Diamond Arnold-Johnson,12,0,8,4
+Logan,Caulksville Rural,Auditor of State,,DEM,Diamond Arnold-Johnson,30,0,16,14
+Logan,Ratcliff City,Auditor of State,,DEM,Diamond Arnold-Johnson,6,0,6,0
+Logan,Ratcliff Rural,Auditor of State,,DEM,Diamond Arnold-Johnson,22,0,17,5
+Logan,Morrison Bluff,Auditor of State,,DEM,Diamond Arnold-Johnson,6,0,5,1
+Logan,Blue Mtn City,Auditor of State,,DEM,Diamond Arnold-Johnson,2,0,2,0
+Logan,Blue Mtn Rural,Auditor of State,,DEM,Diamond Arnold-Johnson,4,0,1,3
+Logan,Boone Ward 1,Auditor of State,,DEM,Diamond Arnold-Johnson,40,1,10,29
+Logan,Boone Ward 2,Auditor of State,,DEM,Diamond Arnold-Johnson,51,0,14,37
+Logan,Boone Ward 3,Auditor of State,,DEM,Diamond Arnold-Johnson,76,3,21,52
+Logan,Boone Ward 4,Auditor of State,,DEM,Diamond Arnold-Johnson,54,3,16,35
+Logan,Cauthron,Auditor of State,,DEM,Diamond Arnold-Johnson,17,0,3,14
+Logan,Petit Jean,Auditor of State,,DEM,Diamond Arnold-Johnson,10,0,1,9
+Logan,Reveille City,Auditor of State,,DEM,Diamond Arnold-Johnson,23,0,17,6
+Logan,Reveille Rural,Auditor of State,,DEM,Diamond Arnold-Johnson,28,1,15,12
+Logan,Sugar Creek,Auditor of State,,DEM,Diamond Arnold-Johnson,21,0,5,16
+Logan,Washburn,Auditor of State,,DEM,Diamond Arnold-Johnson,34,0,11,23
+Logan,Barber,Auditor of State,,DEM,Diamond Arnold-Johnson,13,0,3,10
+Logan,Tomlinson,Auditor of State,,DEM,Diamond Arnold-Johnson,21,0,12,9
+Logan,Cane Creek,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,31,0,20,11
+Logan,Clark Crossroads,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,24,0,12,12
+Logan,Clark City,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,22,0,16,6
+Logan,Clark Rural,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,22,1,9,12
+Logan,Delaware,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,36,1,14,21
+Logan,Driggs,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,13,2,4,7
+Logan,Ellsworth,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,26,0,12,14
+Logan,Johnson,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,11,0,0,11
+Logan,Logan,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,26,2,17,7
+Logan,Mountain,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,8,0,4,4
+Logan,River City,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,14,0,10,4
+Logan,River Rural,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,34,0,24,10
+Logan,Shoal Creek,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,52,3,21,28
+Logan,Short Mtn Ward 1,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,105,1,34,70
+Logan,Short Mtn Ward 2,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,54,4,10,40
+Logan,Short Mtn Ward 3,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,41,1,19,21
+Logan,Short Mtn Ward 4,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,105,6,32,67
+Logan,Caulksville City,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,12,0,8,4
+Logan,Caulksville Rural,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,33,0,16,17
+Logan,Ratcliff City,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,7,0,7,0
+Logan,Ratcliff Rural,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,21,0,16,5
+Logan,Morrison Bluff,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,8,0,7,1
+Logan,Blue Mtn City,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,2,0,2,0
+Logan,Blue Mtn Rural,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,5,0,1,4
+Logan,Boone Ward 1,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,41,0,12,29
+Logan,Boone Ward 2,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,52,0,16,36
+Logan,Boone Ward 3,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,81,3,25,53
+Logan,Boone Ward 4,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,66,3,16,47
+Logan,Cauthron,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,19,0,2,17
+Logan,Petit Jean,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,13,0,0,13
+Logan,Reveille City,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,28,0,20,8
+Logan,Reveille Rural,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,35,0,20,15
+Logan,Sugar Creek,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,22,0,5,17
+Logan,Washburn,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,36,0,14,22
+Logan,Barber,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,15,0,3,12
+Logan,Tomlinson,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,23,0,13,10
+Logan,Cane Creek,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,147,2,104,41
+Logan,Clark Crossroads,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,111,0,68,43
+Logan,Clark City,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,118,0,87,31
+Logan,Clark Rural,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,89,0,47,42
+Logan,Delaware,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,170,5,107,58
+Logan,Driggs,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,139,0,54,85
+Logan,Ellsworth,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,219,0,112,107
+Logan,Johnson,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,85,0,40,45
+Logan,Logan,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,119,0,87,32
+Logan,Mountain,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,36,0,13,23
+Logan,River City,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,51,0,42,9
+Logan,River Rural,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,84,0,70,14
+Logan,Shoal Creek,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,210,2,144,64
+Logan,Short Mtn Ward 1,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,288,2,107,179
+Logan,Short Mtn Ward 2,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,213,5,93,115
+Logan,Short Mtn Ward 3,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,161,3,64,94
+Logan,Short Mtn Ward 4,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,358,2,124,232
+Logan,Caulksville City,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,67,0,45,22
+Logan,Caulksville Rural,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,116,0,73,43
+Logan,Ratcliff City,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,46,0,26,20
+Logan,Ratcliff Rural,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,37,2,22,13
+Logan,Morrison Bluff,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,31,0,26,5
+Logan,Blue Mtn City,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,23,0,7,16
+Logan,Blue Mtn Rural,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,26,0,15,11
+Logan,Boone Ward 1,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,221,5,71,145
+Logan,Boone Ward 2,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,252,6,65,181
+Logan,Boone Ward 3,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,247,1,82,164
+Logan,Boone Ward 4,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,407,4,127,276
+Logan,Cauthron,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,80,1,17,62
+Logan,Petit Jean,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,79,0,28,51
+Logan,Reveille City,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,152,0,112,40
+Logan,Reveille Rural,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,164,1,106,57
+Logan,Sugar Creek,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,115,1,36,78
+Logan,Washburn,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,214,2,56,156
+Logan,Barber,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,100,2,29,69
+Logan,Tomlinson,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,83,1,64,18
+Logan,Cauthron,State Senate,05,REP,Senator Terry Rice,90,1,17,72
+Logan,Petit Jean,State Senate,05,REP,Senator Terry Rice,84,0,28,56
+Logan,Sugar Creek,State Senate,05,REP,Senator Terry Rice,127,1,38,88
+Logan,Tomlinson,State Senate,05,REP,Senator Terry Rice,93,1,69,23
+Logan,Cane Creek,State Senate,26,REP,Senator Gary Stubblefield,152,2,105,45
+Logan,Clark Crossroads,State Senate,26,REP,Senator Gary Stubblefield,119,0,71,48
+Logan,Clark City,State Senate,26,REP,Senator Gary Stubblefield,132,0,95,37
+Logan,Clark Rural,State Senate,26,REP,Senator Gary Stubblefield,96,1,50,45
+Logan,Delaware,State Senate,26,REP,Senator Gary Stubblefield,181,6,111,64
+Logan,Driggs,State Senate,26,REP,Senator Gary Stubblefield,145,0,55,90
+Logan,Ellsworth,State Senate,26,REP,Senator Gary Stubblefield,225,0,117,108
+Logan,Johnson,State Senate,26,REP,Senator Gary Stubblefield,87,0,40,47
+Logan,Logan,State Senate,26,REP,Senator Gary Stubblefield,122,0,91,31
+Logan,Mountain,State Senate,26,REP,Senator Gary Stubblefield,39,0,15,24
+Logan,River City,State Senate,26,REP,Senator Gary Stubblefield,58,0,48,10
+Logan,River Rural,State Senate,26,REP,Senator Gary Stubblefield,93,0,74,19
+Logan,Shoal Creek,State Senate,26,REP,Senator Gary Stubblefield,214,2,143,69
+Logan,Short Mtn Ward 1,State Senate,26,REP,Senator Gary Stubblefield,308,3,113,192
+Logan,Short Mtn Ward 2,State Senate,26,REP,Senator Gary Stubblefield,227,7,92,128
+Logan,Short Mtn Ward 3,State Senate,26,REP,Senator Gary Stubblefield,168,3,67,98
+Logan,Short Mtn Ward 4,State Senate,26,REP,Senator Gary Stubblefield,391,2,135,254
+Logan,Caulksville City,State Senate,26,REP,Senator Gary Stubblefield,71,0,46,25
+Logan,Caulksville Rural,State Senate,26,REP,Senator Gary Stubblefield,122,0,74,48
+Logan,Ratcliff City,State Senate,26,REP,Senator Gary Stubblefield,48,0,28,20
+Logan,Ratcliff Rural,State Senate,26,REP,Senator Gary Stubblefield,45,2,28,15
+Logan,Morrison Bluff,State Senate,26,REP,Senator Gary Stubblefield,33,0,28,5
+Logan,Blue Mtn City,State Senate,26,REP,Senator Gary Stubblefield,23,0,7,16
+Logan,Blue Mtn Rural,State Senate,26,REP,Senator Gary Stubblefield,27,0,15,12
+Logan,Boone Ward 1,State Senate,26,REP,Senator Gary Stubblefield,229,5,70,154
+Logan,Boone Ward 2,State Senate,26,REP,Senator Gary Stubblefield,262,6,70,186
+Logan,Boone Ward 3,State Senate,26,REP,Senator Gary Stubblefield,260,2,86,172
+Logan,Boone Ward 4,State Senate,26,REP,Senator Gary Stubblefield,418,4,125,289
+Logan,Reveille City,State Senate,26,REP,Senator Gary Stubblefield,157,0,114,43
+Logan,Reveille Rural,State Senate,26,REP,Senator Gary Stubblefield,172,1,113,58
+Logan,Washburn,State Senate,26,REP,Senator Gary Stubblefield,218,2,56,160
+Logan,Barber,State Senate,26,REP,Senator Gary Stubblefield,101,2,25,74
+Logan,Cane Creek,State Senate,26,LIB,Gabriel Andreuccetti,20,0,14,6
+Logan,Clark Crossroads,State Senate,26,LIB,Gabriel Andreuccetti,15,0,9,6
+Logan,Clark City,State Senate,26,LIB,Gabriel Andreuccetti,12,0,11,1
+Logan,Clark Rural,State Senate,26,LIB,Gabriel Andreuccetti,15,0,6,9
+Logan,Delaware,State Senate,26,LIB,Gabriel Andreuccetti,24,0,9,15
+Logan,Driggs,State Senate,26,LIB,Gabriel Andreuccetti,8,2,2,4
+Logan,Ellsworth,State Senate,26,LIB,Gabriel Andreuccetti,18,0,8,10
+Logan,Johnson,State Senate,26,LIB,Gabriel Andreuccetti,7,0,0,7
+Logan,Logan,State Senate,26,LIB,Gabriel Andreuccetti,19,0,12,7
+Logan,Mountain,State Senate,26,LIB,Gabriel Andreuccetti,7,0,3,4
+Logan,River City,State Senate,26,LIB,Gabriel Andreuccetti,9,0,6,3
+Logan,River Rural,State Senate,26,LIB,Gabriel Andreuccetti,23,0,18,5
+Logan,Shoal Creek,State Senate,26,LIB,Gabriel Andreuccetti,41,1,19,21
+Logan,Short Mtn Ward 1,State Senate,26,LIB,Gabriel Andreuccetti,72,0,21,51
+Logan,Short Mtn Ward 2,State Senate,26,LIB,Gabriel Andreuccetti,36,1,9,26
+Logan,Short Mtn Ward 3,State Senate,26,LIB,Gabriel Andreuccetti,34,1,17,16
+Logan,Short Mtn Ward 4,State Senate,26,LIB,Gabriel Andreuccetti,66,6,18,42
+Logan,Caulksville City,State Senate,26,LIB,Gabriel Andreuccetti,6,0,5,1
+Logan,Caulksville Rural,State Senate,26,LIB,Gabriel Andreuccetti,27,0,14,13
+Logan,Ratcliff City,State Senate,26,LIB,Gabriel Andreuccetti,5,0,5,0
+Logan,Ratcliff Rural,State Senate,26,LIB,Gabriel Andreuccetti,12,0,9,3
+Logan,Morrison Bluff,State Senate,26,LIB,Gabriel Andreuccetti,5,0,4,1
+Logan,Blue Mtn City,State Senate,26,LIB,Gabriel Andreuccetti,2,0,2,0
+Logan,Blue Mtn Rural,State Senate,26,LIB,Gabriel Andreuccetti,3,0,1,2
+Logan,Boone Ward 1,State Senate,26,LIB,Gabriel Andreuccetti,34,0,14,20
+Logan,Boone Ward 2,State Senate,26,LIB,Gabriel Andreuccetti,40,1,10,29
+Logan,Boone Ward 3,State Senate,26,LIB,Gabriel Andreuccetti,62,2,21,39
+Logan,Boone Ward 4,State Senate,26,LIB,Gabriel Andreuccetti,49,3,16,30
+Logan,Reveille City,State Senate,26,LIB,Gabriel Andreuccetti,22,0,17,5
+Logan,Reveille Rural,State Senate,26,LIB,Gabriel Andreuccetti,25,0,12,13
+Logan,Washburn,State Senate,26,LIB,Gabriel Andreuccetti,33,0,12,21
+Logan,Barber,State Senate,26,LIB,Gabriel Andreuccetti,12,0,6,6
+Logan,Cane Creek,State House,46,REP,State Representative Jon S. Eubanks,162,1,114,47
+Logan,Clark Crossroads,State House,46,REP,State Representative Jon S. Eubanks,126,0,75,51
+Logan,Clark City,State House,46,REP,State Representative Jon S. Eubanks,136,0,99,37
+Logan,Clark Rural,State House,46,REP,State Representative Jon S. Eubanks,102,1,52,49
+Logan,Delaware,State House,46,REP,State Representative Jon S. Eubanks,195,6,116,73
+Logan,Driggs,State House,46,REP,State Representative Jon S. Eubanks,149,0,58,91
+Logan,Ellsworth,State House,46,REP,State Representative Jon S. Eubanks,228,0,117,111
+Logan,Johnson,State House,46,REP,State Representative Jon S. Eubanks,88,0,39,49
+Logan,Logan,State House,46,REP,State Representative Jon S. Eubanks,134,0,99,35
+Logan,Mountain,State House,46,REP,State Representative Jon S. Eubanks,44,0,17,27
+Logan,River City,State House,46,REP,State Representative Jon S. Eubanks,62,0,50,12
+Logan,River Rural,State House,46,REP,State Representative Jon S. Eubanks,109,0,88,21
+Logan,Shoal Creek,State House,46,REP,State Representative Jon S. Eubanks,223,3,144,76
+Logan,Short Mtn Ward 1,State House,46,REP,State Representative Jon S. Eubanks,354,2,129,223
+Logan,Short Mtn Ward 2,State House,46,REP,State Representative Jon S. Eubanks,237,5,99,133
+Logan,Short Mtn Ward 3,State House,46,REP,State Representative Jon S. Eubanks,190,3,78,109
+Logan,Short Mtn Ward 4,State House,46,REP,State Representative Jon S. Eubanks,419,6,137,276
+Logan,Caulksville City,State House,46,REP,State Representative Jon S. Eubanks,71,0,46,25
+Logan,Caulksville Rural,State House,46,REP,State Representative Jon S. Eubanks,139,0,83,56
+Logan,Ratcliff City,State House,46,REP,State Representative Jon S. Eubanks,49,0,30,19
+Logan,Ratcliff Rural,State House,46,REP,State Representative Jon S. Eubanks,50,2,34,14
+Logan,Morrison Bluff,State House,46,REP,State Representative Jon S. Eubanks,34,0,30,4
+Logan,Blue Mtn City,State House,46,REP,State Representative Jon S. Eubanks,25,0,9,16
+Logan,Blue Mtn Rural,State House,46,REP,State Representative Jon S. Eubanks,29,0,15,14
+Logan,Boone Ward 1,State House,46,REP,State Representative Jon S. Eubanks,248,5,80,163
+Logan,Boone Ward 2,State House,46,REP,State Representative Jon S. Eubanks,286,7,75,204
+Logan,Boone Ward 3,State House,46,REP,State Representative Jon S. Eubanks,299,1,104,194
+Logan,Boone Ward 4,State House,46,REP,State Representative Jon S. Eubanks,445,5,139,301
+Logan,Cauthron,State House,46,REP,State Representative Jon S. Eubanks,90,1,19,70
+Logan,Petit Jean,State House,46,REP,State Representative Jon S. Eubanks,86,0,28,58
+Logan,Reveille City,State House,46,REP,State Representative Jon S. Eubanks,169,0,124,45
+Logan,Reveille Rural,State House,46,REP,State Representative Jon S. Eubanks,190,1,124,65
+Logan,Sugar Creek,State House,46,REP,State Representative Jon S. Eubanks,128,1,38,89
+Logan,Washburn,State House,46,REP,State Representative Jon S. Eubanks,238,2,64,172
+Logan,Barber,State House,46,REP,State Representative Jon S. Eubanks,108,2,30,76
+Logan,Tomlinson,State House,46,REP,State Representative Jon S. Eubanks,94,1,70,23
+Logan,Cane Creek,Circuit Clerk,,DEM,DEM Carrie Stanford,58,0,41,17
+Logan,Clark Crossroads,Circuit Clerk,,DEM,DEM Carrie Stanford,42,0,25,17
+Logan,Clark City,Circuit Clerk,,DEM,DEM Carrie Stanford,54,0,46,8
+Logan,Clark Rural,Circuit Clerk,,DEM,DEM Carrie Stanford,45,1,20,24
+Logan,Delaware,Circuit Clerk,,DEM,DEM Carrie Stanford,44,1,21,22
+Logan,Driggs,Circuit Clerk,,DEM,DEM Carrie Stanford,24,2,9,13
+Logan,Ellsworth,Circuit Clerk,,DEM,DEM Carrie Stanford,66,0,32,34
+Logan,Johnson,Circuit Clerk,,DEM,DEM Carrie Stanford,24,0,9,15
+Logan,Logan,Circuit Clerk,,DEM,DEM Carrie Stanford,44,2,31,11
+Logan,Mountain,Circuit Clerk,,DEM,DEM Carrie Stanford,15,0,8,7
+Logan,River City,Circuit Clerk,,DEM,DEM Carrie Stanford,25,0,21,4
+Logan,River Rural,Circuit Clerk,,DEM,DEM Carrie Stanford,55,0,39,16
+Logan,Shoal Creek,Circuit Clerk,,DEM,DEM Carrie Stanford,67,4,33,30
+Logan,Short Mtn Ward 1,Circuit Clerk,,DEM,DEM Carrie Stanford,180,2,64,114
+Logan,Short Mtn Ward 2,Circuit Clerk,,DEM,DEM Carrie Stanford,110,5,34,71
+Logan,Short Mtn Ward 3,Circuit Clerk,,DEM,DEM Carrie Stanford,72,1,34,37
+Logan,Short Mtn Ward 4,Circuit Clerk,,DEM,DEM Carrie Stanford,165,6,53,106
+Logan,Caulksville City,Circuit Clerk,,DEM,DEM Carrie Stanford,13,0,9,4
+Logan,Caulksville Rural,Circuit Clerk,,DEM,DEM Carrie Stanford,41,0,23,18
+Logan,Ratcliff City,Circuit Clerk,,DEM,DEM Carrie Stanford,15,0,12,3
+Logan,Ratcliff Rural,Circuit Clerk,,DEM,DEM Carrie Stanford,24,0,19,5
+Logan,Morrison Bluff,Circuit Clerk,,DEM,DEM Carrie Stanford,15,0,13,2
+Logan,Blue Mtn City,Circuit Clerk,,DEM,DEM Carrie Stanford,3,0,3,0
+Logan,Blue Mtn Rural,Circuit Clerk,,DEM,DEM Carrie Stanford,6,0,2,4
+Logan,Boone Ward 1,Circuit Clerk,,DEM,DEM Carrie Stanford,59,1,15,43
+Logan,Boone Ward 2,Circuit Clerk,,DEM,DEM Carrie Stanford,63,0,17,46
+Logan,Boone Ward 3,Circuit Clerk,,DEM,DEM Carrie Stanford,110,3,36,71
+Logan,Boone Ward 4,Circuit Clerk,,DEM,DEM Carrie Stanford,95,3,22,70
+Logan,Cauthron,Circuit Clerk,,DEM,DEM Carrie Stanford,22,0,3,19
+Logan,Petit Jean,Circuit Clerk,,DEM,DEM Carrie Stanford,15,0,2,13
+Logan,Reveille City,Circuit Clerk,,DEM,DEM Carrie Stanford,36,0,24,12
+Logan,Reveille Rural,Circuit Clerk,,DEM,DEM Carrie Stanford,50,0,32,18
+Logan,Sugar Creek,Circuit Clerk,,DEM,DEM Carrie Stanford,27,0,6,21
+Logan,Washburn,Circuit Clerk,,DEM,DEM Carrie Stanford,46,0,14,32
+Logan,Barber,Circuit Clerk,,DEM,DEM Carrie Stanford,16,0,3,13
+Logan,Tomlinson,Circuit Clerk,,DEM,DEM Carrie Stanford,24,0,15,9
+Logan,Cane Creek,Circuit Clerk,,REP,REP April Hice,121,2,84,35
+Logan,Clark Crossroads,Circuit Clerk,,REP,REP April Hice,93,0,55,38
+Logan,Clark City,Circuit Clerk,,REP,REP April Hice,87,0,58,29
+Logan,Clark Rural,Circuit Clerk,,REP,REP April Hice,66,0,36,30
+Logan,Delaware,Circuit Clerk,,REP,REP April Hice,161,5,99,57
+Logan,Driggs,Circuit Clerk,,REP,REP April Hice,130,0,49,81
+Logan,Ellsworth,Circuit Clerk,,REP,REP April Hice,177,0,93,84
+Logan,Johnson,Circuit Clerk,,REP,REP April Hice,73,0,32,41
+Logan,Logan,Circuit Clerk,,REP,REP April Hice,102,0,74,28
+Logan,Mountain,Circuit Clerk,,REP,REP April Hice,29,0,10,19
+Logan,River City,Circuit Clerk,,REP,REP April Hice,41,0,32,9
+Logan,River Rural,Circuit Clerk,,REP,REP April Hice,64,0,56,8
+Logan,Shoal Creek,Circuit Clerk,,REP,REP April Hice,196,1,133,62
+Logan,Short Mtn Ward 1,Circuit Clerk,,REP,REP April Hice,214,1,78,135
+Logan,Short Mtn Ward 2,Circuit Clerk,,REP,REP April Hice,158,4,69,85
+Logan,Short Mtn Ward 3,Circuit Clerk,,REP,REP April Hice,131,3,50,78
+Logan,Short Mtn Ward 4,Circuit Clerk,,REP,REP April Hice,300,2,102,196
+Logan,Caulksville City,Circuit Clerk,,REP,REP April Hice,66,0,44,22
+Logan,Caulksville Rural,Circuit Clerk,,REP,REP April Hice,109,0,66,43
+Logan,Ratcliff City,Circuit Clerk,,REP,REP April Hice,38,0,21,17
+Logan,Ratcliff Rural,Circuit Clerk,,REP,REP April Hice,35,2,19,14
+Logan,Morrison Bluff,Circuit Clerk,,REP,REP April Hice,24,0,20,4
+Logan,Blue Mtn City,Circuit Clerk,,REP,REP April Hice,22,0,6,16
+Logan,Blue Mtn Rural,Circuit Clerk,,REP,REP April Hice,25,0,14,11
+Logan,Boone Ward 1,Circuit Clerk,,REP,REP April Hice,204,4,68,132
+Logan,Boone Ward 2,Circuit Clerk,,REP,REP April Hice,240,7,63,170
+Logan,Boone Ward 3,Circuit Clerk,,REP,REP April Hice,220,1,72,147
+Logan,Boone Ward 4,Circuit Clerk,,REP,REP April Hice,381,4,122,255
+Logan,Cauthron,Circuit Clerk,,REP,REP April Hice,77,1,15,61
+Logan,Petit Jean,Circuit Clerk,,REP,REP April Hice,79,0,27,52
+Logan,Reveille City,Circuit Clerk,,REP,REP April Hice,144,0,108,36
+Logan,Reveille Rural,Circuit Clerk,,REP,REP April Hice,149,1,96,52
+Logan,Sugar Creek,Circuit Clerk,,REP,REP April Hice,109,1,34,74
+Logan,Washburn,Circuit Clerk,,REP,REP April Hice,206,2,55,149
+Logan,Barber,Circuit Clerk,,REP,REP April Hice,98,2,28,68
+Logan,Tomlinson,Circuit Clerk,,REP,REP April Hice,81,1,61,19
+Logan,Driggs,Justice of the Peace District #2,,DEM,DEM Justin Taylor,12,2,3,7
+Logan,Ellsworth,Justice of the Peace District #2,,DEM,DEM Justin Taylor,31,0,15,16
+Logan,Johnson,Justice of the Peace District #2,,DEM,DEM Justin Taylor,13,0,4,9
+Logan,Logan,Justice of the Peace District #2,,DEM,DEM Justin Taylor,17,0,9,8
+Logan,Mountain,Justice of the Peace District #2,,DEM,DEM Justin Taylor,11,0,5,6
+Logan,Short Mtn Ward 4,Justice of the Peace District #2,,DEM,DEM Justin Taylor,4,0,1,3
+Logan,Driggs,Justice of the Peace District #2,,REP,REP Gary Rhinehart,142,0,55,87
+Logan,Ellsworth,Justice of the Peace District #2,,REP,REP Gary Rhinehart,211,0,109,102
+Logan,Johnson,Justice of the Peace District #2,,REP,REP Gary Rhinehart,82,0,37,45
+Logan,Logan,Justice of the Peace District #2,,REP,REP Gary Rhinehart,68,0,48,20
+Logan,Mountain,Justice of the Peace District #2,,REP,REP Gary Rhinehart,34,0,13,21
+Logan,Short Mtn Ward 4,Justice of the Peace District #2,,REP,REP Gary Rhinehart,38,0,10,28
+Logan,Boone Ward 4,Justice of the Peace District #7,,IND,IND Bob Krepps,179,4,53,122
+Logan,Washburn,Justice of the Peace District #7,,IND,IND Bob Krepps,104,0,24,80
+Logan,Boone Ward 4,Justice of the Peace District #7,,REP,REP Donald R Keezer,195,3,59,133
+Logan,Washburn,Justice of the Peace District #7,,REP,REP Donald R Keezer,145,2,43,100
+Logan,Short Mtn Ward 1,Paris Mayor,,IND,IND Daniel Rogers,367,2,135,230
+Logan,Short Mtn Ward 2,Paris Mayor,,IND,IND Daniel Rogers,247,7,101,139
+Logan,Short Mtn Ward 3,Paris Mayor,,IND,IND Daniel Rogers,185,4,78,103
+Logan,Short Mtn Ward 1,Paris City Clerk,,IND,IND Mary L Sullivan,360,3,127,230
+Logan,Short Mtn Ward 2,Paris City Clerk,,IND,IND Mary L Sullivan,244,7,96,141
+Logan,Short Mtn Ward 3,Paris City Clerk,,IND,IND Mary L Sullivan,187,4,79,104
+Logan,Short Mtn Ward 1,Paris Alderman W1/ P1,,IND,IND Jan Faulkner,241,1,84,156
+Logan,Short Mtn Ward 2,Paris Alderman W1/ P1,,IND,IND Jan Faulkner,147,3,70,74
+Logan,Short Mtn Ward 3,Paris Alderman W1/ P1,,IND,IND Jan Faulkner,135,3,59,73
+Logan,Short Mtn Ward 1,Paris Alderman W1/ P1,,IND,IND Raymond J Sharum,134,2,50,82
+Logan,Short Mtn Ward 2,Paris Alderman W1/ P1,,IND,IND Raymond J Sharum,108,5,30,73
+Logan,Short Mtn Ward 3,Paris Alderman W1/ P1,,IND,IND Raymond J Sharum,59,1,21,37
+Logan,Short Mtn Ward 1,Paris Alderman W3/ P1,,IND,IND Robert Colby Wells,216,0,91,125
+Logan,Short Mtn Ward 2,Paris Alderman W3/ P1,,IND,IND Robert Colby Wells,138,4,50,84
+Logan,Short Mtn Ward 3,Paris Alderman W3/ P1,,IND,IND Robert Colby Wells,105,1,48,56
+Logan,Short Mtn Ward 1,Paris Alderman W3/ P1,,IND,IND Kenneth Stovall,157,3,44,110
+Logan,Short Mtn Ward 2,Paris Alderman W3/ P1,,IND,IND Kenneth Stovall,120,3,51,66
+Logan,Short Mtn Ward 3,Paris Alderman W3/ P1,,IND,IND Kenneth Stovall,89,3,31,55
+Logan,Boone Ward 1,Booneville Mayor,,IND,IND Aaron L Brewer,75,1,27,47
+Logan,Boone Ward 2,Booneville Mayor,,IND,IND Aaron L Brewer,90,3,24,63
+Logan,Boone Ward 3,Booneville Mayor,,IND,IND Aaron L Brewer,74,1,25,48
+Logan,Boone Ward 1,Booneville Mayor,,IND,IND Edgar Baker,128,3,41,84
+Logan,Boone Ward 2,Booneville Mayor,,IND,IND Edgar Baker,147,4,38,105
+Logan,Boone Ward 3,Booneville Mayor,,IND,IND Edgar Baker,181,0,64,117
+Logan,Boone Ward 1,Booneville Mayor,,IND,IND Jerry G Wilkins,65,1,17,47
+Logan,Boone Ward 2,Booneville Mayor,,IND,IND Jerry G Wilkins,69,0,19,50
+Logan,Boone Ward 3,Booneville Mayor,,IND,IND Jerry G Wilkins,77,3,20,54
+Logan,Boone Ward 1,Booneville City Clerk,,IND,IND Gayleene R West,256,5,82,169
+Logan,Boone Ward 2,Booneville City Clerk,,IND,IND Gayleene R West,293,7,78,208
+Logan,Boone Ward 3,Booneville City Clerk,,IND,IND Gayleene R West,321,4,105,212
+Logan,Boone Ward 1,Booneville Alderman W1/ P1,,IND,IND Alton Shackleford,164,0,61,103
+Logan,Boone Ward 2,Booneville Alderman W1/ P1,,IND,IND Alton Shackleford,154,4,50,100
+Logan,Boone Ward 3,Booneville Alderman W1/ P1,,IND,IND Alton Shackleford,152,1,62,89
+Logan,Boone Ward 1,Booneville Alderman W1/ P1,,IND,IND Guy A Robson,91,4,21,66
+Logan,Boone Ward 2,Booneville Alderman W1/ P1,,IND,IND Guy A Robson,142,2,31,109
+Logan,Boone Ward 3,Booneville Alderman W1/ P1,,IND,IND Guy A Robson,172,2,45,125
+Logan,Boone Ward 1,Booneville Alderman W2/P2,,IND,IND David Hogan,128,4,38,86
+Logan,Boone Ward 2,Booneville Alderman W2/P2,,IND,IND David Hogan,109,1,30,78
+Logan,Boone Ward 3,Booneville Alderman W2/P2,,IND,IND David Hogan,144,0,50,94
+Logan,Boone Ward 1,Booneville Alderman W2/P2,,IND,IND Tina Siddons Hunt,134,1,46,87
+Logan,Boone Ward 2,Booneville Alderman W2/P2,,IND,IND Tina Siddons Hunt,187,5,50,132
+Logan,Boone Ward 3,Booneville Alderman W2/P2,,IND,IND Tina Siddons Hunt,183,4,58,121
+Logan,Reveille City,Magazine Mayor,,IND,IND Donald West,45,0,28,17
+Logan,Reveille City,Magazine Mayor,,IND,IND Joshua Scott,133,0,103,30
+Logan,River City,Scranton Mayor,,IND,IND David Corbitt,61,0,48,13
+Logan,River City,Scranton Alderman W1/P1,,IND,IND William A Ahne,40,0,36,4
+Logan,River City,Scranton Alderman W1/P1,,IND,IND Laura Murry,27,0,18,9
+Logan,Ratcliff City,Ratcliff Mayor,,IND,IND Roger Hughey,50,0,31,19
+Logan,Ratcliff City,Ratcliff City Clerk,,IND,IND Oleda J Bennett,51,0,32,19
+Logan,Caulksville City,Caulksville Mayor,,IND,IND Scott Lee,74,0,49,25
+Logan,Blue Mtn City,Blue Mountain Mayor,,IND,IND Juanita Granier,24,0,8,16
+Logan,Clark City,Subiaco Mayor,,IND,IND Bobby Sewell,140,0,104,36
+Logan,Morrison Bluff,Morrison Bluff Mayor,,IND,IND Charlotte K Siebenmorgen,36,0,31,5
+Logan,Cane Creek,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,54,0,38,16
+Logan,Clark Crossroads,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,56,0,35,21
+Logan,Clark City,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,65,0,50,15
+Logan,Clark Rural,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,45,1,28,16
+Logan,Delaware,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,105,1,63,41
+Logan,Driggs,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,78,0,28,50
+Logan,Ellsworth,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,103,0,56,47
+Logan,Johnson,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,43,0,15,28
+Logan,Logan,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,58,0,44,14
+Logan,Mountain,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,22,0,12,10
+Logan,River City,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,29,0,22,7
+Logan,River Rural,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,47,0,33,14
+Logan,Shoal Creek,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,100,1,72,27
+Logan,Short Mtn Ward 1,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,158,2,63,93
+Logan,Short Mtn Ward 2,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,112,1,51,60
+Logan,Short Mtn Ward 3,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,86,0,42,44
+Logan,Short Mtn Ward 4,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,219,3,78,138
+Logan,Caulksville City,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,34,0,20,14
+Logan,Caulksville Rural,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,67,0,41,26
+Logan,Ratcliff City,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,26,0,16,10
+Logan,Ratcliff Rural,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,19,2,12,5
+Logan,Morrison Bluff,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,17,0,16,1
+Logan,Blue Mtn City,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,9,0,4,5
+Logan,Blue Mtn Rural,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,9,0,3,6
+Logan,Boone Ward 1,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,131,1,40,90
+Logan,Boone Ward 2,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,117,3,34,80
+Logan,Boone Ward 3,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,142,2,40,100
+Logan,Boone Ward 4,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,180,2,59,119
+Logan,Cauthron,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,54,0,9,45
+Logan,Petit Jean,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,41,0,13,28
+Logan,Reveille City,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,69,0,52,17
+Logan,Reveille Rural,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,75,1,49,25
+Logan,Sugar Creek,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,52,0,15,37
+Logan,Washburn,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,103,0,28,75
+Logan,Barber,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,54,2,15,37
+Logan,Tomlinson,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,45,0,36,9
+Logan,Cane Creek,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,110,2,74,34
+Logan,Clark Crossroads,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,70,0,43,27
+Logan,Clark City,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,66,0,47,19
+Logan,Clark Rural,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,59,0,24,35
+Logan,Delaware,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,86,3,49,34
+Logan,Driggs,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,70,2,29,39
+Logan,Ellsworth,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,114,0,59,55
+Logan,Johnson,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,43,0,21,22
+Logan,Logan,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,78,2,54,22
+Logan,Mountain,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,16,0,5,11
+Logan,River City,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,35,0,29,6
+Logan,River Rural,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,64,0,55,9
+Logan,Shoal Creek,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,137,2,80,55
+Logan,Short Mtn Ward 1,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,207,1,69,137
+Logan,Short Mtn Ward 2,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,134,7,46,81
+Logan,Short Mtn Ward 3,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,102,4,36,62
+Logan,Short Mtn Ward 4,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,210,5,68,137
+Logan,Caulksville City,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,33,0,22,11
+Logan,Caulksville Rural,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,70,0,40,30
+Logan,Ratcliff City,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,25,0,15,10
+Logan,Ratcliff Rural,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,33,0,23,10
+Logan,Morrison Bluff,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,20,0,16,4
+Logan,Blue Mtn City,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,14,0,5,9
+Logan,Blue Mtn Rural,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,15,0,8,7
+Logan,Boone Ward 1,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,125,3,44,78
+Logan,Boone Ward 2,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,170,3,41,126
+Logan,Boone Ward 3,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,177,2,65,110
+Logan,Boone Ward 4,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,252,5,77,170
+Logan,Cauthron,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,39,1,8,30
+Logan,Petit Jean,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,40,0,10,30
+Logan,Reveille City,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,102,0,71,31
+Logan,Reveille Rural,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,110,0,71,39
+Logan,Sugar Creek,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,74,0,26,48
+Logan,Washburn,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,140,1,39,100
+Logan,Barber,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,55,0,16,39
+Logan,Tomlinson,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,53,0,36,17
+Logan,Cane Creek,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,71,0,47,24
+Logan,Clark Crossroads,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,50,0,27,23
+Logan,Clark City,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,53,0,38,15
+Logan,Clark Rural,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,44,0,24,20
+Logan,Delaware,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,70,1,41,28
+Logan,Driggs,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,47,0,14,33
+Logan,Ellsworth,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,92,0,51,41
+Logan,Johnson,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,25,0,10,15
+Logan,Logan,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,45,1,32,12
+Logan,Mountain,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,19,0,7,12
+Logan,River City,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,21,0,20,1
+Logan,River Rural,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,29,0,23,6
+Logan,Shoal Creek,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,103,1,59,43
+Logan,Short Mtn Ward 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,137,1,52,84
+Logan,Short Mtn Ward 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,101,2,45,54
+Logan,Short Mtn Ward 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,70,0,39,31
+Logan,Short Mtn Ward 4,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,158,5,59,94
+Logan,Caulksville City,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,19,0,12,7
+Logan,Caulksville Rural,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,52,0,36,16
+Logan,Ratcliff City,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,14,0,10,4
+Logan,Ratcliff Rural,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,16,2,8,6
+Logan,Morrison Bluff,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,13,0,12,1
+Logan,Blue Mtn City,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,8,0,4,4
+Logan,Blue Mtn Rural,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,6,0,2,4
+Logan,Boone Ward 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,111,3,35,73
+Logan,Boone Ward 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,125,4,34,87
+Logan,Boone Ward 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,122,1,45,76
+Logan,Boone Ward 4,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,180,1,64,115
+Logan,Cauthron,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,30,0,8,22
+Logan,Petit Jean,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,37,0,10,27
+Logan,Reveille City,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,66,0,44,22
+Logan,Reveille Rural,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,71,1,44,26
+Logan,Sugar Creek,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,46,0,13,33
+Logan,Washburn,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,93,1,28,64
+Logan,Barber,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,49,0,21,28
+Logan,Tomlinson,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,27,1,20,6
+Logan,Cane Creek,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,104,0,76,28
+Logan,Clark Crossroads,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,83,0,53,30
+Logan,Clark City,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,87,0,65,22
+Logan,Clark Rural,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,65,1,30,34
+Logan,Delaware,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,128,3,74,51
+Logan,Driggs,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,103,2,43,58
+Logan,Ellsworth,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,142,0,68,74
+Logan,Johnson,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,70,0,30,40
+Logan,Logan,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,99,0,74,25
+Logan,Mountain,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,24,0,10,14
+Logan,River City,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,46,0,34,12
+Logan,River Rural,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,89,0,70,19
+Logan,Shoal Creek,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,151,4,99,48
+Logan,Short Mtn Ward 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,243,2,85,156
+Logan,Short Mtn Ward 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,158,5,57,96
+Logan,Short Mtn Ward 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,119,4,44,71
+Logan,Short Mtn Ward 4,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,292,3,90,199
+Logan,Caulksville City,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,55,0,38,17
+Logan,Caulksville Rural,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,92,0,51,41
+Logan,Ratcliff City,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,38,0,22,16
+Logan,Ratcliff Rural,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,39,0,28,11
+Logan,Morrison Bluff,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,26,0,21,5
+Logan,Blue Mtn City,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,16,0,5,11
+Logan,Blue Mtn Rural,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,20,0,10,10
+Logan,Boone Ward 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,147,1,48,98
+Logan,Boone Ward 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,172,3,44,125
+Logan,Boone Ward 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,200,3,61,136
+Logan,Boone Ward 4,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,288,4,81,203
+Logan,Cauthron,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,68,1,11,56
+Logan,Petit Jean,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,53,0,19,34
+Logan,Reveille City,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,110,0,85,25
+Logan,Reveille Rural,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,124,1,79,44
+Logan,Sugar Creek,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,88,1,26,61
+Logan,Washburn,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,154,0,42,112
+Logan,Barber,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,66,2,10,54
+Logan,Tomlinson,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,77,0,56,21
+Logan,Cane Creek,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,71,0,51,20
+Logan,Clark Crossroads,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,54,0,32,22
+Logan,Clark City,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,70,0,51,19
+Logan,Clark Rural,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,39,0,20,19
+Logan,Delaware,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,88,2,52,34
+Logan,Driggs,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,57,0,26,31
+Logan,Ellsworth,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,103,0,58,45
+Logan,Johnson,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,35,0,19,16
+Logan,Logan,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,61,0,46,15
+Logan,Mountain,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,24,0,10,14
+Logan,River City,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,26,0,22,4
+Logan,River Rural,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,44,0,36,8
+Logan,Shoal Creek,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,103,2,66,35
+Logan,Short Mtn Ward 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,160,1,57,102
+Logan,Short Mtn Ward 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,98,3,46,49
+Logan,Short Mtn Ward 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,78,0,42,36
+Logan,Short Mtn Ward 4,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,189,2,64,123
+Logan,Caulksville City,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,36,0,24,12
+Logan,Caulksville Rural,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,54,0,35,19
+Logan,Ratcliff City,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,21,0,13,8
+Logan,Ratcliff Rural,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,14,2,6,6
+Logan,Morrison Bluff,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,18,0,17,1
+Logan,Blue Mtn City,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,10,0,4,6
+Logan,Blue Mtn Rural,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,11,0,5,6
+Logan,Boone Ward 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,120,2,38,80
+Logan,Boone Ward 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,140,4,35,101
+Logan,Boone Ward 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,111,0,39,72
+Logan,Boone Ward 4,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,200,0,68,132
+Logan,Cauthron,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,34,0,6,28
+Logan,Petit Jean,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,50,0,20,30
+Logan,Reveille City,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,77,0,60,17
+Logan,Reveille Rural,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,74,0,46,28
+Logan,Sugar Creek,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,62,1,21,40
+Logan,Washburn,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,105,1,31,73
+Logan,Barber,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,61,0,17,44
+Logan,Tomlinson,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,45,0,36,9
+Logan,Cane Creek,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,103,0,72,31
+Logan,Clark Crossroads,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,79,0,48,31
+Logan,Clark City,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,73,0,55,18
+Logan,Clark Rural,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,70,1,35,34
+Logan,Delaware,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,114,2,66,46
+Logan,Driggs,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,93,2,32,59
+Logan,Ellsworth,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,137,0,65,72
+Logan,Johnson,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,61,0,21,40
+Logan,Logan,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,86,2,61,23
+Logan,Mountain,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,19,0,8,11
+Logan,River City,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,42,0,33,9
+Logan,River Rural,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,74,0,57,17
+Logan,Shoal Creek,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,151,3,93,55
+Logan,Short Mtn Ward 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,223,2,82,139
+Logan,Short Mtn Ward 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,165,5,56,104
+Logan,Short Mtn Ward 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,115,4,40,71
+Logan,Short Mtn Ward 4,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,267,6,86,175
+Logan,Caulksville City,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,41,0,27,14
+Logan,Caulksville Rural,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,93,0,54,39
+Logan,Ratcliff City,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,32,0,20,12
+Logan,Ratcliff Rural,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,41,0,30,11
+Logan,Morrison Bluff,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,21,0,16,5
+Logan,Blue Mtn City,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,14,0,5,9
+Logan,Blue Mtn Rural,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,17,0,8,9
+Logan,Boone Ward 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,141,3,47,91
+Logan,Boone Ward 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,159,3,43,113
+Logan,Boone Ward 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,211,4,66,141
+Logan,Boone Ward 4,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,270,4,77,189
+Logan,Cauthron,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,64,1,13,50
+Logan,Petit Jean,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,41,0,9,32
+Logan,Reveille City,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,102,0,72,30
+Logan,Reveille Rural,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,125,2,79,44
+Logan,Sugar Creek,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,74,0,20,54
+Logan,Washburn,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,144,0,39,105
+Logan,Barber,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,55,2,15,38
+Logan,Tomlinson,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,62,1,43,18
+Logan,Cane Creek,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,73,0,45,28
+Logan,Clark Crossroads,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,59,0,35,24
+Logan,Clark City,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,75,0,55,20
+Logan,Clark Rural,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,48,0,24,24
+Logan,Delaware,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,94,1,62,31
+Logan,Driggs,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,68,0,28,40
+Logan,Ellsworth,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,129,0,72,57
+Logan,Johnson,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,46,0,23,23
+Logan,Logan,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,72,1,50,21
+Logan,Mountain,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,19,0,9,10
+Logan,River City,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,31,0,26,5
+Logan,River Rural,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,64,0,54,10
+Logan,Shoal Creek,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,131,2,81,48
+Logan,Short Mtn Ward 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,202,2,70,130
+Logan,Short Mtn Ward 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,135,6,59,70
+Logan,Short Mtn Ward 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,108,2,53,53
+Logan,Short Mtn Ward 4,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,226,1,79,146
+Logan,Caulksville City,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,27,0,15,12
+Logan,Caulksville Rural,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,78,0,44,34
+Logan,Ratcliff City,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,18,0,10,8
+Logan,Ratcliff Rural,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,21,2,10,9
+Logan,Morrison Bluff,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,17,0,14,3
+Logan,Blue Mtn City,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,12,0,5,7
+Logan,Blue Mtn Rural,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,13,0,8,5
+Logan,Boone Ward 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,138,3,47,88
+Logan,Boone Ward 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,170,6,39,125
+Logan,Boone Ward 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,146,1,54,91
+Logan,Boone Ward 4,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,250,3,81,166
+Logan,Cauthron,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,41,1,7,33
+Logan,Petit Jean,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,53,0,17,36
+Logan,Reveille City,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,90,0,65,25
+Logan,Reveille Rural,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,85,1,56,28
+Logan,Sugar Creek,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,72,0,20,52
+Logan,Washburn,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,127,1,41,85
+Logan,Barber,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,64,0,21,43
+Logan,Tomlinson,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,43,1,32,10
+Logan,Cane Creek,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,102,0,78,24
+Logan,Clark Crossroads,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,75,0,46,29
+Logan,Clark City,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,66,0,50,16
+Logan,Clark Rural,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,59,1,29,29
+Logan,Delaware,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,108,3,56,49
+Logan,Driggs,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,82,2,30,50
+Logan,Ellsworth,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,113,0,52,61
+Logan,Johnson,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,50,0,17,33
+Logan,Logan,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,73,1,55,17
+Logan,Mountain,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,25,0,9,16
+Logan,River City,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,37,0,29,8
+Logan,River Rural,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,55,0,40,15
+Logan,Shoal Creek,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,126,2,79,45
+Logan,Short Mtn Ward 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,186,1,70,115
+Logan,Short Mtn Ward 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,122,2,40,80
+Logan,Short Mtn Ward 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,84,2,31,51
+Logan,Short Mtn Ward 4,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,232,7,71,154
+Logan,Caulksville City,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,50,0,36,14
+Logan,Caulksville Rural,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,67,0,44,23
+Logan,Ratcliff City,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,35,0,23,12
+Logan,Ratcliff Rural,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,34,0,26,8
+Logan,Morrison Bluff,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,21,0,18,3
+Logan,Blue Mtn City,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,13,0,4,9
+Logan,Blue Mtn Rural,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,16,0,6,10
+Logan,Boone Ward 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,123,1,38,84
+Logan,Boone Ward 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,133,1,41,91
+Logan,Boone Ward 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,178,3,52,123
+Logan,Boone Ward 4,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,221,2,63,156
+Logan,Cauthron,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,56,0,12,44
+Logan,Petit Jean,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,38,0,12,26
+Logan,Reveille City,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,88,0,65,23
+Logan,Reveille Rural,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,112,1,69,42
+Logan,Sugar Creek,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,65,1,22,42
+Logan,Washburn,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,123,0,29,94
+Logan,Barber,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,52,2,11,39
+Logan,Tomlinson,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,61,0,44,17
+Logan,Cane Creek,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,69,0,50,19
+Logan,Clark Crossroads,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,41,0,24,17
+Logan,Clark City,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,46,0,34,12
+Logan,Clark Rural,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,29,1,11,17
+Logan,Delaware,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,92,2,57,33
+Logan,Driggs,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,51,0,21,30
+Logan,Ellsworth,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,87,0,51,36
+Logan,Johnson,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,34,0,7,27
+Logan,Logan,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,62,0,42,20
+Logan,Mountain,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,18,0,7,11
+Logan,River City,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,25,0,22,3
+Logan,River Rural,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,39,0,29,10
+Logan,Shoal Creek,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,119,2,74,43
+Logan,Short Mtn Ward 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,157,1,58,98
+Logan,Short Mtn Ward 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,134,7,51,76
+Logan,Short Mtn Ward 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,114,2,63,49
+Logan,Short Mtn Ward 4,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,189,5,74,110
+Logan,Caulksville City,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,28,0,18,10
+Logan,Caulksville Rural,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,73,0,40,33
+Logan,Ratcliff City,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,13,0,6,7
+Logan,Ratcliff Rural,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,33,2,19,12
+Logan,Morrison Bluff,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,16,0,13,3
+Logan,Blue Mtn City,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,14,0,6,8
+Logan,Blue Mtn Rural,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,15,0,8,7
+Logan,Boone Ward 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,133,1,52,80
+Logan,Boone Ward 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,132,3,41,88
+Logan,Boone Ward 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,159,2,66,91
+Logan,Boone Ward 4,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,165,2,62,101
+Logan,Cauthron,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,37,0,5,32
+Logan,Petit Jean,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,52,0,12,40
+Logan,Reveille City,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,77,0,53,24
+Logan,Reveille Rural,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,65,0,40,25
+Logan,Sugar Creek,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,59,0,13,46
+Logan,Washburn,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,115,1,46,68
+Logan,Barber,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,56,2,21,33
+Logan,Tomlinson,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,45,1,33,11
+Logan,Cane Creek,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,110,2,75,33
+Logan,Clark Crossroads,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,95,0,57,38
+Logan,Clark City,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,97,0,71,26
+Logan,Clark Rural,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,81,0,45,36
+Logan,Delaware,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,115,4,64,47
+Logan,Driggs,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,104,2,37,65
+Logan,Ellsworth,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,158,0,74,84
+Logan,Johnson,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,62,0,33,29
+Logan,Logan,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,86,1,65,20
+Logan,Mountain,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,26,0,10,16
+Logan,River City,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,43,0,33,10
+Logan,River Rural,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,80,0,66,14
+Logan,Shoal Creek,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,144,3,90,51
+Logan,Short Mtn Ward 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,240,2,84,154
+Logan,Short Mtn Ward 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,132,2,52,78
+Logan,Short Mtn Ward 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,91,2,23,66
+Logan,Short Mtn Ward 4,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,279,3,82,194
+Logan,Caulksville City,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,51,0,35,16
+Logan,Caulksville Rural,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,78,0,50,28
+Logan,Ratcliff City,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,40,0,27,13
+Logan,Ratcliff Rural,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,25,0,18,7
+Logan,Morrison Bluff,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,23,0,20,3
+Logan,Blue Mtn City,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,11,0,3,8
+Logan,Blue Mtn Rural,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,16,0,8,8
+Logan,Boone Ward 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,136,4,33,99
+Logan,Boone Ward 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,174,4,39,131
+Logan,Boone Ward 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,173,2,43,128
+Logan,Boone Ward 4,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,313,5,84,224
+Logan,Cauthron,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,63,1,14,48
+Logan,Petit Jean,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,42,0,18,24
+Logan,Reveille City,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,103,0,79,24
+Logan,Reveille Rural,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,136,2,87,47
+Logan,Sugar Creek,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,78,1,28,49
+Logan,Washburn,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,135,0,24,111
+Logan,Barber,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,60,0,11,49
+Logan,Tomlinson,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,61,0,44,17
+Logan,Short Mtn Ward 1,City of Paris Annexation,,NON,For Annexation of the territory desc,260,2,85,173
+Logan,Short Mtn Ward 2,City of Paris Annexation,,NON,For Annexation of the territory desc,165,7,68,90
+Logan,Short Mtn Ward 3,City of Paris Annexation,,NON,For Annexation of the territory desc,136,3,53,80
+Logan,Short Mtn Ward 4,City of Paris Annexation,,NON,For Annexation of the territory desc,17,0,7,10
+Logan,Short Mtn Ward 1,City of Paris Annexation,,NON,Against Annexation of the territory,120,1,49,70
+Logan,Short Mtn Ward 2,City of Paris Annexation,,NON,Against Annexation of the territory,90,1,32,57
+Logan,Short Mtn Ward 3,City of Paris Annexation,,NON,Against Annexation of the territory,61,1,31,29
+Logan,Short Mtn Ward 4,City of Paris Annexation,,NON,Against Annexation of the territory,10,0,5,5
+Logan,Morrison Bluff,Morrison Bluff Special,,NON,FOR THE OFF-PREMISES SALE OF ALCOHOL,32,0,27,5
+Logan,Morrison Bluff,Morrison Bluff Special,,NON,AGAINST THE OFF-PREMISES SALE OF ALC,6,0,5,1

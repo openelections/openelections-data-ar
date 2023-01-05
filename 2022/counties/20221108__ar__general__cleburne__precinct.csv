@@ -1,0 +1,1337 @@
+county,precinct,office,district,party,candidate,votes,early_vote,absentee,election_day
+Cleburne,NORTH CADRON INSIDE,U.S. Senate,,LIB,Kenneth Cates,8,1,0,7
+Cleburne,NORTH CADRON OUTSIDE,U.S. Senate,,LIB,Kenneth Cates,9,2,0,7
+Cleburne,SOUTH CADRON INSIDE,U.S. Senate,,LIB,Kenneth Cates,9,2,0,7
+Cleburne,SOUTH CADRON OUTSIDE,U.S. Senate,,LIB,Kenneth Cates,6,4,0,2
+Cleburne,CALIFORNIA,U.S. Senate,,LIB,Kenneth Cates,2,2,0,0
+Cleburne,CENTER POST,U.S. Senate,,LIB,Kenneth Cates,9,5,1,3
+Cleburne,CLAYTON,U.S. Senate,,LIB,Kenneth Cates,13,6,0,7
+Cleburne,FRANCIS,U.S. Senate,,LIB,Kenneth Cates,9,4,1,4
+Cleburne,GRASSEY INSIDE,U.S. Senate,,LIB,Kenneth Cates,2,1,0,1
+Cleburne,GRASSEY OUTSIDE,U.S. Senate,,LIB,Kenneth Cates,9,1,0,8
+Cleburne,GREERS FERRY GILES,U.S. Senate,,LIB,Kenneth Cates,10,2,0,8
+Cleburne,GILES,U.S. Senate,,LIB,Kenneth Cates,8,2,0,6
+Cleburne,HEALING SPRINGS,U.S. Senate,,LIB,Kenneth Cates,13,7,0,6
+Cleburne,HEBER SPRINGS WARD 1,U.S. Senate,,LIB,Kenneth Cates,21,11,0,10
+Cleburne,HEBER SPRINGS WARD 2,U.S. Senate,,LIB,Kenneth Cates,18,16,0,2
+Cleburne,HEBER SPRINGS WARD 3,U.S. Senate,,LIB,Kenneth Cates,16,6,1,9
+Cleburne,HEBER SPRINGS WARD 4,U.S. Senate,,LIB,Kenneth Cates,23,9,0,14
+Cleburne,HEBER SPRINGS OUTSIDE,U.S. Senate,,LIB,Kenneth Cates,47,34,0,13
+Cleburne,MCJESTER,U.S. Senate,,LIB,Kenneth Cates,4,2,0,2
+Cleburne,MORGAN OUTSIDE,U.S. Senate,,LIB,Kenneth Cates,2,0,0,2
+Cleburne,MOUNTAIN,U.S. Senate,,LIB,Kenneth Cates,14,7,0,7
+Cleburne,EAST PETER CREEK,U.S. Senate,,LIB,Kenneth Cates,11,3,0,8
+Cleburne,WEST PETER CREEK,U.S. Senate,,LIB,Kenneth Cates,16,8,0,8
+Cleburne,PICKENS,U.S. Senate,,LIB,Kenneth Cates,5,3,0,2
+Cleburne,PINE,U.S. Senate,,LIB,Kenneth Cates,3,1,0,2
+Cleburne,PINEY,U.S. Senate,,LIB,Kenneth Cates,20,8,0,12
+Cleburne,POFF,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0
+Cleburne,SALINE INSIDE,U.S. Senate,,LIB,Kenneth Cates,2,0,0,2
+Cleburne,SALINE OUTSIDE,U.S. Senate,,LIB,Kenneth Cates,5,3,0,2
+Cleburne,SUGAR CAMP,U.S. Senate,,LIB,Kenneth Cates,9,0,0,9
+Cleburne,SUGAR LOAF,U.S. Senate,,LIB,Kenneth Cates,13,7,0,6
+Cleburne,VALLEY,U.S. Senate,,LIB,Kenneth Cates,4,4,0,0
+Cleburne,WILBURN,U.S. Senate,,LIB,Kenneth Cates,4,0,0,4
+Cleburne,MORGAN INSIDE,U.S. Senate,,LIB,Kenneth Cates,4,1,0,3
+Cleburne,NORTH CADRON INSIDE,U.S. Senate,,REP,Senator John Boozman,84,24,0,60
+Cleburne,NORTH CADRON OUTSIDE,U.S. Senate,,REP,Senator John Boozman,192,78,0,114
+Cleburne,SOUTH CADRON INSIDE,U.S. Senate,,REP,Senator John Boozman,113,27,1,85
+Cleburne,SOUTH CADRON OUTSIDE,U.S. Senate,,REP,Senator John Boozman,171,76,4,91
+Cleburne,CALIFORNIA,U.S. Senate,,REP,Senator John Boozman,143,52,1,90
+Cleburne,CENTER POST,U.S. Senate,,REP,Senator John Boozman,251,112,2,137
+Cleburne,CLAYTON,U.S. Senate,,REP,Senator John Boozman,362,172,2,188
+Cleburne,FRANCIS,U.S. Senate,,REP,Senator John Boozman,267,113,4,150
+Cleburne,GRASSEY INSIDE,U.S. Senate,,REP,Senator John Boozman,60,9,3,48
+Cleburne,GRASSEY OUTSIDE,U.S. Senate,,REP,Senator John Boozman,251,53,0,198
+Cleburne,GREERS FERRY GILES,U.S. Senate,,REP,Senator John Boozman,305,71,3,231
+Cleburne,GILES,U.S. Senate,,REP,Senator John Boozman,236,60,0,176
+Cleburne,HEALING SPRINGS,U.S. Senate,,REP,Senator John Boozman,310,76,4,230
+Cleburne,HEBER SPRINGS WARD 1,U.S. Senate,,REP,Senator John Boozman,400,268,5,127
+Cleburne,HEBER SPRINGS WARD 2,U.S. Senate,,REP,Senator John Boozman,385,257,13,115
+Cleburne,HEBER SPRINGS WARD 3,U.S. Senate,,REP,Senator John Boozman,575,407,9,159
+Cleburne,HEBER SPRINGS WARD 4,U.S. Senate,,REP,Senator John Boozman,478,285,9,184
+Cleburne,HEBER SPRINGS OUTSIDE,U.S. Senate,,REP,Senator John Boozman,980,680,15,285
+Cleburne,MCJESTER,U.S. Senate,,REP,Senator John Boozman,135,58,6,71
+Cleburne,MORGAN OUTSIDE,U.S. Senate,,REP,Senator John Boozman,141,31,4,106
+Cleburne,MOUNTAIN,U.S. Senate,,REP,Senator John Boozman,282,131,1,150
+Cleburne,EAST PETER CREEK,U.S. Senate,,REP,Senator John Boozman,208,69,2,137
+Cleburne,WEST PETER CREEK,U.S. Senate,,REP,Senator John Boozman,377,187,4,186
+Cleburne,PICKENS,U.S. Senate,,REP,Senator John Boozman,182,83,5,94
+Cleburne,PINE,U.S. Senate,,REP,Senator John Boozman,77,27,1,49
+Cleburne,PINEY,U.S. Senate,,REP,Senator John Boozman,380,135,5,240
+Cleburne,POFF,U.S. Senate,,REP,Senator John Boozman,35,15,0,20
+Cleburne,SALINE INSIDE,U.S. Senate,,REP,Senator John Boozman,53,20,0,33
+Cleburne,SALINE OUTSIDE,U.S. Senate,,REP,Senator John Boozman,168,72,0,96
+Cleburne,SUGAR CAMP,U.S. Senate,,REP,Senator John Boozman,155,35,0,120
+Cleburne,SUGAR LOAF,U.S. Senate,,REP,Senator John Boozman,221,120,2,99
+Cleburne,VALLEY,U.S. Senate,,REP,Senator John Boozman,173,123,6,44
+Cleburne,WILBURN,U.S. Senate,,REP,Senator John Boozman,92,25,0,67
+Cleburne,MORGAN INSIDE,U.S. Senate,,REP,Senator John Boozman,94,17,2,75
+Cleburne,NORTH CADRON INSIDE,U.S. Senate,,DEM,Natalie James,10,1,1,8
+Cleburne,NORTH CADRON OUTSIDE,U.S. Senate,,DEM,Natalie James,9,3,0,6
+Cleburne,SOUTH CADRON INSIDE,U.S. Senate,,DEM,Natalie James,28,11,1,16
+Cleburne,SOUTH CADRON OUTSIDE,U.S. Senate,,DEM,Natalie James,21,6,1,14
+Cleburne,CALIFORNIA,U.S. Senate,,DEM,Natalie James,7,4,0,3
+Cleburne,CENTER POST,U.S. Senate,,DEM,Natalie James,40,22,0,18
+Cleburne,CLAYTON,U.S. Senate,,DEM,Natalie James,58,39,1,18
+Cleburne,FRANCIS,U.S. Senate,,DEM,Natalie James,33,17,0,16
+Cleburne,GRASSEY INSIDE,U.S. Senate,,DEM,Natalie James,8,0,0,8
+Cleburne,GRASSEY OUTSIDE,U.S. Senate,,DEM,Natalie James,32,6,0,26
+Cleburne,GREERS FERRY GILES,U.S. Senate,,DEM,Natalie James,61,16,0,45
+Cleburne,GILES,U.S. Senate,,DEM,Natalie James,25,11,0,14
+Cleburne,HEALING SPRINGS,U.S. Senate,,DEM,Natalie James,34,13,0,21
+Cleburne,HEBER SPRINGS WARD 1,U.S. Senate,,DEM,Natalie James,89,53,4,32
+Cleburne,HEBER SPRINGS WARD 2,U.S. Senate,,DEM,Natalie James,94,63,3,28
+Cleburne,HEBER SPRINGS WARD 3,U.S. Senate,,DEM,Natalie James,125,94,3,28
+Cleburne,HEBER SPRINGS WARD 4,U.S. Senate,,DEM,Natalie James,99,66,6,27
+Cleburne,HEBER SPRINGS OUTSIDE,U.S. Senate,,DEM,Natalie James,135,78,4,53
+Cleburne,MCJESTER,U.S. Senate,,DEM,Natalie James,22,14,2,6
+Cleburne,MORGAN OUTSIDE,U.S. Senate,,DEM,Natalie James,35,11,3,21
+Cleburne,MOUNTAIN,U.S. Senate,,DEM,Natalie James,26,12,2,12
+Cleburne,EAST PETER CREEK,U.S. Senate,,DEM,Natalie James,11,5,0,6
+Cleburne,WEST PETER CREEK,U.S. Senate,,DEM,Natalie James,74,37,4,33
+Cleburne,PICKENS,U.S. Senate,,DEM,Natalie James,34,29,0,5
+Cleburne,PINE,U.S. Senate,,DEM,Natalie James,12,5,0,7
+Cleburne,PINEY,U.S. Senate,,DEM,Natalie James,46,21,3,22
+Cleburne,POFF,U.S. Senate,,DEM,Natalie James,5,1,0,4
+Cleburne,SALINE INSIDE,U.S. Senate,,DEM,Natalie James,10,4,0,6
+Cleburne,SALINE OUTSIDE,U.S. Senate,,DEM,Natalie James,33,12,1,20
+Cleburne,SUGAR CAMP,U.S. Senate,,DEM,Natalie James,22,7,2,13
+Cleburne,SUGAR LOAF,U.S. Senate,,DEM,Natalie James,46,29,2,15
+Cleburne,VALLEY,U.S. Senate,,DEM,Natalie James,23,18,2,3
+Cleburne,WILBURN,U.S. Senate,,DEM,Natalie James,17,3,1,13
+Cleburne,MORGAN INSIDE,U.S. Senate,,DEM,Natalie James,18,6,0,12
+Cleburne,NORTH CADRON INSIDE,U.S. Congress District 02,,LIB,Michael White,10,1,0,9
+Cleburne,NORTH CADRON OUTSIDE,U.S. Congress District 02,,LIB,Michael White,10,4,0,6
+Cleburne,SOUTH CADRON INSIDE,U.S. Congress District 02,,LIB,Michael White,13,3,1,9
+Cleburne,SOUTH CADRON OUTSIDE,U.S. Congress District 02,,LIB,Michael White,9,5,0,4
+Cleburne,CALIFORNIA,U.S. Congress District 02,,LIB,Michael White,5,5,0,0
+Cleburne,CENTER POST,U.S. Congress District 02,,LIB,Michael White,11,3,1,7
+Cleburne,CLAYTON,U.S. Congress District 02,,LIB,Michael White,17,7,0,10
+Cleburne,FRANCIS,U.S. Congress District 02,,LIB,Michael White,13,7,1,5
+Cleburne,GRASSEY INSIDE,U.S. Congress District 02,,LIB,Michael White,1,1,0,0
+Cleburne,GRASSEY OUTSIDE,U.S. Congress District 02,,LIB,Michael White,12,1,0,11
+Cleburne,GREERS FERRY GILES,U.S. Congress District 02,,LIB,Michael White,16,4,0,12
+Cleburne,GILES,U.S. Congress District 02,,LIB,Michael White,11,3,0,8
+Cleburne,HEALING SPRINGS,U.S. Congress District 02,,LIB,Michael White,17,8,0,9
+Cleburne,HEBER SPRINGS WARD 1,U.S. Congress District 02,,LIB,Michael White,29,15,0,14
+Cleburne,HEBER SPRINGS WARD 2,U.S. Congress District 02,,LIB,Michael White,17,14,0,3
+Cleburne,HEBER SPRINGS WARD 3,U.S. Congress District 02,,LIB,Michael White,27,15,1,11
+Cleburne,HEBER SPRINGS WARD 4,U.S. Congress District 02,,LIB,Michael White,32,12,1,19
+Cleburne,HEBER SPRINGS OUTSIDE,U.S. Congress District 02,,LIB,Michael White,54,36,1,17
+Cleburne,MCJESTER,U.S. Congress District 02,,LIB,Michael White,3,2,0,1
+Cleburne,MORGAN OUTSIDE,U.S. Congress District 02,,LIB,Michael White,1,1,0,0
+Cleburne,MOUNTAIN,U.S. Congress District 02,,LIB,Michael White,6,3,0,3
+Cleburne,EAST PETER CREEK,U.S. Congress District 02,,LIB,Michael White,9,3,0,6
+Cleburne,WEST PETER CREEK,U.S. Congress District 02,,LIB,Michael White,18,11,0,7
+Cleburne,PICKENS,U.S. Congress District 02,,LIB,Michael White,9,6,0,3
+Cleburne,PINE,U.S. Congress District 02,,LIB,Michael White,3,1,0,2
+Cleburne,PINEY,U.S. Congress District 02,,LIB,Michael White,19,9,0,10
+Cleburne,POFF,U.S. Congress District 02,,LIB,Michael White,1,0,0,1
+Cleburne,SALINE INSIDE,U.S. Congress District 02,,LIB,Michael White,2,1,0,1
+Cleburne,SALINE OUTSIDE,U.S. Congress District 02,,LIB,Michael White,8,6,0,2
+Cleburne,SUGAR CAMP,U.S. Congress District 02,,LIB,Michael White,14,2,0,12
+Cleburne,SUGAR LOAF,U.S. Congress District 02,,LIB,Michael White,13,7,0,6
+Cleburne,VALLEY,U.S. Congress District 02,,LIB,Michael White,5,4,0,1
+Cleburne,WILBURN,U.S. Congress District 02,,LIB,Michael White,8,1,0,7
+Cleburne,MORGAN INSIDE,U.S. Congress District 02,,LIB,Michael White,5,1,0,4
+Cleburne,NORTH CADRON INSIDE,U.S. Congress District 02,,REP,Congressman French Hill,83,24,0,59
+Cleburne,NORTH CADRON OUTSIDE,U.S. Congress District 02,,REP,Congressman French Hill,194,77,0,117
+Cleburne,SOUTH CADRON INSIDE,U.S. Congress District 02,,REP,Congressman French Hill,111,29,1,81
+Cleburne,SOUTH CADRON OUTSIDE,U.S. Congress District 02,,REP,Congressman French Hill,170,75,4,91
+Cleburne,CALIFORNIA,U.S. Congress District 02,,REP,Congressman French Hill,138,48,1,89
+Cleburne,CENTER POST,U.S. Congress District 02,,REP,Congressman French Hill,251,114,2,135
+Cleburne,CLAYTON,U.S. Congress District 02,,REP,Congressman French Hill,360,171,2,187
+Cleburne,FRANCIS,U.S. Congress District 02,,REP,Congressman French Hill,267,113,4,150
+Cleburne,GRASSEY INSIDE,U.S. Congress District 02,,REP,Congressman French Hill,61,9,3,49
+Cleburne,GRASSEY OUTSIDE,U.S. Congress District 02,,REP,Congressman French Hill,245,50,0,195
+Cleburne,GREERS FERRY GILES,U.S. Congress District 02,,REP,Congressman French Hill,303,71,3,229
+Cleburne,GILES,U.S. Congress District 02,,REP,Congressman French Hill,237,59,0,178
+Cleburne,HEALING SPRINGS,U.S. Congress District 02,,REP,Congressman French Hill,299,75,4,220
+Cleburne,HEBER SPRINGS WARD 1,U.S. Congress District 02,,REP,Congressman French Hill,395,265,4,126
+Cleburne,HEBER SPRINGS WARD 2,U.S. Congress District 02,,REP,Congressman French Hill,387,257,13,117
+Cleburne,HEBER SPRINGS WARD 3,U.S. Congress District 02,,REP,Congressman French Hill,567,402,9,156
+Cleburne,HEBER SPRINGS WARD 4,U.S. Congress District 02,,REP,Congressman French Hill,469,284,8,177
+Cleburne,HEBER SPRINGS OUTSIDE,U.S. Congress District 02,,REP,Congressman French Hill,978,680,15,283
+Cleburne,MCJESTER,U.S. Congress District 02,,REP,Congressman French Hill,135,58,8,69
+Cleburne,MORGAN OUTSIDE,U.S. Congress District 02,,REP,Congressman French Hill,141,32,4,105
+Cleburne,MOUNTAIN,U.S. Congress District 02,,REP,Congressman French Hill,291,136,1,154
+Cleburne,EAST PETER CREEK,U.S. Congress District 02,,REP,Congressman French Hill,211,70,2,139
+Cleburne,WEST PETER CREEK,U.S. Congress District 02,,REP,Congressman French Hill,376,184,4,188
+Cleburne,PICKENS,U.S. Congress District 02,,REP,Congressman French Hill,179,83,5,91
+Cleburne,PINE,U.S. Congress District 02,,REP,Congressman French Hill,77,27,1,49
+Cleburne,PINEY,U.S. Congress District 02,,REP,Congressman French Hill,381,135,5,241
+Cleburne,POFF,U.S. Congress District 02,,REP,Congressman French Hill,34,15,0,19
+Cleburne,SALINE INSIDE,U.S. Congress District 02,,REP,Congressman French Hill,55,20,0,35
+Cleburne,SALINE OUTSIDE,U.S. Congress District 02,,REP,Congressman French Hill,166,70,0,96
+Cleburne,SUGAR CAMP,U.S. Congress District 02,,REP,Congressman French Hill,150,34,0,116
+Cleburne,SUGAR LOAF,U.S. Congress District 02,,REP,Congressman French Hill,225,123,2,100
+Cleburne,VALLEY,U.S. Congress District 02,,REP,Congressman French Hill,172,123,8,41
+Cleburne,WILBURN,U.S. Congress District 02,,REP,Congressman French Hill,87,24,0,63
+Cleburne,MORGAN INSIDE,U.S. Congress District 02,,REP,Congressman French Hill,91,16,2,73
+Cleburne,NORTH CADRON INSIDE,U.S. Congress District 02,,DEM,Quintessa Hathaway,10,1,1,8
+Cleburne,NORTH CADRON OUTSIDE,U.S. Congress District 02,,DEM,Quintessa Hathaway,7,3,0,4
+Cleburne,SOUTH CADRON INSIDE,U.S. Congress District 02,,DEM,Quintessa Hathaway,25,7,0,18
+Cleburne,SOUTH CADRON OUTSIDE,U.S. Congress District 02,,DEM,Quintessa Hathaway,19,6,1,12
+Cleburne,CALIFORNIA,U.S. Congress District 02,,DEM,Quintessa Hathaway,7,4,0,3
+Cleburne,CENTER POST,U.S. Congress District 02,,DEM,Quintessa Hathaway,37,22,0,15
+Cleburne,CLAYTON,U.S. Congress District 02,,DEM,Quintessa Hathaway,55,38,1,16
+Cleburne,FRANCIS,U.S. Congress District 02,,DEM,Quintessa Hathaway,30,15,0,15
+Cleburne,GRASSEY INSIDE,U.S. Congress District 02,,DEM,Quintessa Hathaway,7,0,0,7
+Cleburne,GRASSEY OUTSIDE,U.S. Congress District 02,,DEM,Quintessa Hathaway,33,9,0,24
+Cleburne,GREERS FERRY GILES,U.S. Congress District 02,,DEM,Quintessa Hathaway,57,13,0,44
+Cleburne,GILES,U.S. Congress District 02,,DEM,Quintessa Hathaway,22,11,0,11
+Cleburne,HEALING SPRINGS,U.S. Congress District 02,,DEM,Quintessa Hathaway,34,12,0,22
+Cleburne,HEBER SPRINGS WARD 1,U.S. Congress District 02,,DEM,Quintessa Hathaway,83,51,4,28
+Cleburne,HEBER SPRINGS WARD 2,U.S. Congress District 02,,DEM,Quintessa Hathaway,88,60,3,25
+Cleburne,HEBER SPRINGS WARD 3,U.S. Congress District 02,,DEM,Quintessa Hathaway,117,85,3,29
+Cleburne,HEBER SPRINGS WARD 4,U.S. Congress District 02,,DEM,Quintessa Hathaway,94,61,6,27
+Cleburne,HEBER SPRINGS OUTSIDE,U.S. Congress District 02,,DEM,Quintessa Hathaway,129,77,3,49
+Cleburne,MCJESTER,U.S. Congress District 02,,DEM,Quintessa Hathaway,21,14,0,7
+Cleburne,MORGAN OUTSIDE,U.S. Congress District 02,,DEM,Quintessa Hathaway,36,9,3,24
+Cleburne,MOUNTAIN,U.S. Congress District 02,,DEM,Quintessa Hathaway,23,9,2,12
+Cleburne,EAST PETER CREEK,U.S. Congress District 02,,DEM,Quintessa Hathaway,11,5,0,6
+Cleburne,WEST PETER CREEK,U.S. Congress District 02,,DEM,Quintessa Hathaway,70,35,4,31
+Cleburne,PICKENS,U.S. Congress District 02,,DEM,Quintessa Hathaway,34,27,0,7
+Cleburne,PINE,U.S. Congress District 02,,DEM,Quintessa Hathaway,13,5,0,8
+Cleburne,PINEY,U.S. Congress District 02,,DEM,Quintessa Hathaway,45,20,3,22
+Cleburne,POFF,U.S. Congress District 02,,DEM,Quintessa Hathaway,4,1,0,3
+Cleburne,SALINE INSIDE,U.S. Congress District 02,,DEM,Quintessa Hathaway,8,3,0,5
+Cleburne,SALINE OUTSIDE,U.S. Congress District 02,,DEM,Quintessa Hathaway,29,9,1,19
+Cleburne,SUGAR CAMP,U.S. Congress District 02,,DEM,Quintessa Hathaway,21,6,2,13
+Cleburne,SUGAR LOAF,U.S. Congress District 02,,DEM,Quintessa Hathaway,42,26,2,14
+Cleburne,VALLEY,U.S. Congress District 02,,DEM,Quintessa Hathaway,21,17,0,4
+Cleburne,WILBURN,U.S. Congress District 02,,DEM,Quintessa Hathaway,17,3,1,13
+Cleburne,MORGAN INSIDE,U.S. Congress District 02,,DEM,Quintessa Hathaway,20,7,0,13
+Cleburne,NORTH CADRON INSIDE,Attorney General,,REP,Lieutenant Governor Tim Griffin,89,23,0,66
+Cleburne,NORTH CADRON OUTSIDE,Attorney General,,REP,Lieutenant Governor Tim Griffin,200,80,0,120
+Cleburne,SOUTH CADRON INSIDE,Attorney General,,REP,Lieutenant Governor Tim Griffin,118,30,1,87
+Cleburne,SOUTH CADRON OUTSIDE,Attorney General,,REP,Lieutenant Governor Tim Griffin,180,82,4,94
+Cleburne,CALIFORNIA,Attorney General,,REP,Lieutenant Governor Tim Griffin,142,53,1,88
+Cleburne,CENTER POST,Attorney General,,REP,Lieutenant Governor Tim Griffin,259,118,2,139
+Cleburne,CLAYTON,Attorney General,,REP,Lieutenant Governor Tim Griffin,373,175,2,196
+Cleburne,FRANCIS,Attorney General,,REP,Lieutenant Governor Tim Griffin,272,119,5,148
+Cleburne,GRASSEY INSIDE,Attorney General,,REP,Lieutenant Governor Tim Griffin,61,10,3,48
+Cleburne,GRASSEY OUTSIDE,Attorney General,,REP,Lieutenant Governor Tim Griffin,250,50,0,200
+Cleburne,GREERS FERRY GILES,Attorney General,,REP,Lieutenant Governor Tim Griffin,307,74,3,230
+Cleburne,GILES,Attorney General,,REP,Lieutenant Governor Tim Griffin,240,60,0,180
+Cleburne,HEALING SPRINGS,Attorney General,,REP,Lieutenant Governor Tim Griffin,317,80,4,233
+Cleburne,HEBER SPRINGS WARD 1,Attorney General,,REP,Lieutenant Governor Tim Griffin,407,268,5,134
+Cleburne,HEBER SPRINGS WARD 2,Attorney General,,REP,Lieutenant Governor Tim Griffin,393,262,13,118
+Cleburne,HEBER SPRINGS WARD 3,Attorney General,,REP,Lieutenant Governor Tim Griffin,589,414,10,165
+Cleburne,HEBER SPRINGS WARD 4,Attorney General,,REP,Lieutenant Governor Tim Griffin,486,282,8,196
+Cleburne,HEBER SPRINGS OUTSIDE,Attorney General,,REP,Lieutenant Governor Tim Griffin,1024,709,15,300
+Cleburne,MCJESTER,Attorney General,,REP,Lieutenant Governor Tim Griffin,140,60,8,72
+Cleburne,MORGAN OUTSIDE,Attorney General,,REP,Lieutenant Governor Tim Griffin,141,32,4,105
+Cleburne,MOUNTAIN,Attorney General,,REP,Lieutenant Governor Tim Griffin,293,136,1,156
+Cleburne,EAST PETER CREEK,Attorney General,,REP,Lieutenant Governor Tim Griffin,216,71,2,143
+Cleburne,WEST PETER CREEK,Attorney General,,REP,Lieutenant Governor Tim Griffin,391,195,4,192
+Cleburne,PICKENS,Attorney General,,REP,Lieutenant Governor Tim Griffin,182,85,5,92
+Cleburne,PINE,Attorney General,,REP,Lieutenant Governor Tim Griffin,81,29,1,51
+Cleburne,PINEY,Attorney General,,REP,Lieutenant Governor Tim Griffin,397,143,5,249
+Cleburne,POFF,Attorney General,,REP,Lieutenant Governor Tim Griffin,35,14,0,21
+Cleburne,SALINE INSIDE,Attorney General,,REP,Lieutenant Governor Tim Griffin,55,20,0,35
+Cleburne,SALINE OUTSIDE,Attorney General,,REP,Lieutenant Governor Tim Griffin,169,75,0,94
+Cleburne,SUGAR CAMP,Attorney General,,REP,Lieutenant Governor Tim Griffin,165,35,0,130
+Cleburne,SUGAR LOAF,Attorney General,,REP,Lieutenant Governor Tim Griffin,233,127,2,104
+Cleburne,VALLEY,Attorney General,,REP,Lieutenant Governor Tim Griffin,177,126,7,44
+Cleburne,WILBURN,Attorney General,,REP,Lieutenant Governor Tim Griffin,95,26,0,69
+Cleburne,MORGAN INSIDE,Attorney General,,REP,Lieutenant Governor Tim Griffin,87,16,2,69
+Cleburne,NORTH CADRON INSIDE,Attorney General,,DEM,Jesse Gibson,14,3,1,10
+Cleburne,NORTH CADRON OUTSIDE,Attorney General,,DEM,Jesse Gibson,10,3,0,7
+Cleburne,SOUTH CADRON INSIDE,Attorney General,,DEM,Jesse Gibson,31,10,1,20
+Cleburne,SOUTH CADRON OUTSIDE,Attorney General,,DEM,Jesse Gibson,19,5,1,13
+Cleburne,CALIFORNIA,Attorney General,,DEM,Jesse Gibson,8,5,0,3
+Cleburne,CENTER POST,Attorney General,,DEM,Jesse Gibson,42,23,1,18
+Cleburne,CLAYTON,Attorney General,,DEM,Jesse Gibson,59,41,1,17
+Cleburne,FRANCIS,Attorney General,,DEM,Jesse Gibson,35,16,0,19
+Cleburne,GRASSEY INSIDE,Attorney General,,DEM,Jesse Gibson,9,0,0,9
+Cleburne,GRASSEY OUTSIDE,Attorney General,,DEM,Jesse Gibson,38,10,0,28
+Cleburne,GREERS FERRY GILES,Attorney General,,DEM,Jesse Gibson,67,15,0,52
+Cleburne,GILES,Attorney General,,DEM,Jesse Gibson,29,13,0,16
+Cleburne,HEALING SPRINGS,Attorney General,,DEM,Jesse Gibson,38,16,0,22
+Cleburne,HEBER SPRINGS WARD 1,Attorney General,,DEM,Jesse Gibson,99,61,4,34
+Cleburne,HEBER SPRINGS WARD 2,Attorney General,,DEM,Jesse Gibson,101,71,3,27
+Cleburne,HEBER SPRINGS WARD 3,Attorney General,,DEM,Jesse Gibson,121,86,3,32
+Cleburne,HEBER SPRINGS WARD 4,Attorney General,,DEM,Jesse Gibson,111,74,7,30
+Cleburne,HEBER SPRINGS OUTSIDE,Attorney General,,DEM,Jesse Gibson,138,84,4,50
+Cleburne,MCJESTER,Attorney General,,DEM,Jesse Gibson,21,14,0,7
+Cleburne,MORGAN OUTSIDE,Attorney General,,DEM,Jesse Gibson,36,9,3,24
+Cleburne,MOUNTAIN,Attorney General,,DEM,Jesse Gibson,24,11,2,11
+Cleburne,EAST PETER CREEK,Attorney General,,DEM,Jesse Gibson,11,5,0,6
+Cleburne,WEST PETER CREEK,Attorney General,,DEM,Jesse Gibson,73,36,4,33
+Cleburne,PICKENS,Attorney General,,DEM,Jesse Gibson,40,32,0,8
+Cleburne,PINE,Attorney General,,DEM,Jesse Gibson,13,5,0,8
+Cleburne,PINEY,Attorney General,,DEM,Jesse Gibson,48,22,3,23
+Cleburne,POFF,Attorney General,,DEM,Jesse Gibson,5,1,0,4
+Cleburne,SALINE INSIDE,Attorney General,,DEM,Jesse Gibson,10,4,0,6
+Cleburne,SALINE OUTSIDE,Attorney General,,DEM,Jesse Gibson,36,12,1,23
+Cleburne,SUGAR CAMP,Attorney General,,DEM,Jesse Gibson,22,7,2,13
+Cleburne,SUGAR LOAF,Attorney General,,DEM,Jesse Gibson,48,30,2,16
+Cleburne,VALLEY,Attorney General,,DEM,Jesse Gibson,22,18,1,3
+Cleburne,WILBURN,Attorney General,,DEM,Jesse Gibson,18,2,1,15
+Cleburne,MORGAN INSIDE,Attorney General,,DEM,Jesse Gibson,27,8,0,19
+Cleburne,NORTH CADRON INSIDE,Auditor of State,,LIB,Simeon Snow,6,2,0,4
+Cleburne,NORTH CADRON OUTSIDE,Auditor of State,,LIB,Simeon Snow,4,0,0,4
+Cleburne,SOUTH CADRON INSIDE,Auditor of State,,LIB,Simeon Snow,12,3,1,8
+Cleburne,SOUTH CADRON OUTSIDE,Auditor of State,,LIB,Simeon Snow,3,1,0,2
+Cleburne,CALIFORNIA,Auditor of State,,LIB,Simeon Snow,0,0,0,0
+Cleburne,CENTER POST,Auditor of State,,LIB,Simeon Snow,7,3,1,3
+Cleburne,CLAYTON,Auditor of State,,LIB,Simeon Snow,8,5,0,3
+Cleburne,FRANCIS,Auditor of State,,LIB,Simeon Snow,5,2,0,3
+Cleburne,GRASSEY INSIDE,Auditor of State,,LIB,Simeon Snow,1,0,0,1
+Cleburne,GRASSEY OUTSIDE,Auditor of State,,LIB,Simeon Snow,12,2,0,10
+Cleburne,GREERS FERRY GILES,Auditor of State,,LIB,Simeon Snow,13,3,0,10
+Cleburne,GILES,Auditor of State,,LIB,Simeon Snow,6,4,0,2
+Cleburne,HEALING SPRINGS,Auditor of State,,LIB,Simeon Snow,10,3,0,7
+Cleburne,HEBER SPRINGS WARD 1,Auditor of State,,LIB,Simeon Snow,28,14,0,14
+Cleburne,HEBER SPRINGS WARD 2,Auditor of State,,LIB,Simeon Snow,18,14,0,4
+Cleburne,HEBER SPRINGS WARD 3,Auditor of State,,LIB,Simeon Snow,22,7,1,14
+Cleburne,HEBER SPRINGS WARD 4,Auditor of State,,LIB,Simeon Snow,19,10,0,9
+Cleburne,HEBER SPRINGS OUTSIDE,Auditor of State,,LIB,Simeon Snow,32,21,0,11
+Cleburne,MCJESTER,Auditor of State,,LIB,Simeon Snow,4,1,2,1
+Cleburne,MORGAN OUTSIDE,Auditor of State,,LIB,Simeon Snow,4,2,0,2
+Cleburne,MOUNTAIN,Auditor of State,,LIB,Simeon Snow,6,2,1,3
+Cleburne,EAST PETER CREEK,Auditor of State,,LIB,Simeon Snow,7,1,0,6
+Cleburne,WEST PETER CREEK,Auditor of State,,LIB,Simeon Snow,11,7,0,4
+Cleburne,PICKENS,Auditor of State,,LIB,Simeon Snow,6,5,0,1
+Cleburne,PINE,Auditor of State,,LIB,Simeon Snow,1,0,0,1
+Cleburne,PINEY,Auditor of State,,LIB,Simeon Snow,17,9,0,8
+Cleburne,POFF,Auditor of State,,LIB,Simeon Snow,0,0,0,0
+Cleburne,SALINE INSIDE,Auditor of State,,LIB,Simeon Snow,2,1,0,1
+Cleburne,SALINE OUTSIDE,Auditor of State,,LIB,Simeon Snow,4,4,0,0
+Cleburne,SUGAR CAMP,Auditor of State,,LIB,Simeon Snow,5,0,0,5
+Cleburne,SUGAR LOAF,Auditor of State,,LIB,Simeon Snow,12,6,0,6
+Cleburne,VALLEY,Auditor of State,,LIB,Simeon Snow,6,5,0,1
+Cleburne,WILBURN,Auditor of State,,LIB,Simeon Snow,7,1,0,6
+Cleburne,MORGAN INSIDE,Auditor of State,,LIB,Simeon Snow,7,1,0,6
+Cleburne,NORTH CADRON INSIDE,Auditor of State,,DEM,Diamond Arnold-Johnson,7,0,0,7
+Cleburne,NORTH CADRON OUTSIDE,Auditor of State,,DEM,Diamond Arnold-Johnson,7,3,0,4
+Cleburne,SOUTH CADRON INSIDE,Auditor of State,,DEM,Diamond Arnold-Johnson,24,8,0,16
+Cleburne,SOUTH CADRON OUTSIDE,Auditor of State,,DEM,Diamond Arnold-Johnson,21,7,1,13
+Cleburne,CALIFORNIA,Auditor of State,,DEM,Diamond Arnold-Johnson,8,5,0,3
+Cleburne,CENTER POST,Auditor of State,,DEM,Diamond Arnold-Johnson,39,23,0,16
+Cleburne,CLAYTON,Auditor of State,,DEM,Diamond Arnold-Johnson,54,34,1,19
+Cleburne,FRANCIS,Auditor of State,,DEM,Diamond Arnold-Johnson,29,12,0,17
+Cleburne,GRASSEY INSIDE,Auditor of State,,DEM,Diamond Arnold-Johnson,6,0,0,6
+Cleburne,GRASSEY OUTSIDE,Auditor of State,,DEM,Diamond Arnold-Johnson,30,8,0,22
+Cleburne,GREERS FERRY GILES,Auditor of State,,DEM,Diamond Arnold-Johnson,52,10,0,42
+Cleburne,GILES,Auditor of State,,DEM,Diamond Arnold-Johnson,23,8,0,15
+Cleburne,HEALING SPRINGS,Auditor of State,,DEM,Diamond Arnold-Johnson,32,13,0,19
+Cleburne,HEBER SPRINGS WARD 1,Auditor of State,,DEM,Diamond Arnold-Johnson,83,52,4,27
+Cleburne,HEBER SPRINGS WARD 2,Auditor of State,,DEM,Diamond Arnold-Johnson,84,57,3,24
+Cleburne,HEBER SPRINGS WARD 3,Auditor of State,,DEM,Diamond Arnold-Johnson,110,85,2,23
+Cleburne,HEBER SPRINGS WARD 4,Auditor of State,,DEM,Diamond Arnold-Johnson,90,60,7,23
+Cleburne,HEBER SPRINGS OUTSIDE,Auditor of State,,DEM,Diamond Arnold-Johnson,117,68,4,45
+Cleburne,MCJESTER,Auditor of State,,DEM,Diamond Arnold-Johnson,19,13,0,6
+Cleburne,MORGAN OUTSIDE,Auditor of State,,DEM,Diamond Arnold-Johnson,33,8,3,22
+Cleburne,MOUNTAIN,Auditor of State,,DEM,Diamond Arnold-Johnson,22,10,1,11
+Cleburne,EAST PETER CREEK,Auditor of State,,DEM,Diamond Arnold-Johnson,12,5,0,7
+Cleburne,WEST PETER CREEK,Auditor of State,,DEM,Diamond Arnold-Johnson,68,32,4,32
+Cleburne,PICKENS,Auditor of State,,DEM,Diamond Arnold-Johnson,31,25,0,6
+Cleburne,PINE,Auditor of State,,DEM,Diamond Arnold-Johnson,14,5,0,9
+Cleburne,PINEY,Auditor of State,,DEM,Diamond Arnold-Johnson,47,22,3,22
+Cleburne,POFF,Auditor of State,,DEM,Diamond Arnold-Johnson,6,2,0,4
+Cleburne,SALINE INSIDE,Auditor of State,,DEM,Diamond Arnold-Johnson,11,5,0,6
+Cleburne,SALINE OUTSIDE,Auditor of State,,DEM,Diamond Arnold-Johnson,35,12,1,22
+Cleburne,SUGAR CAMP,Auditor of State,,DEM,Diamond Arnold-Johnson,23,6,2,15
+Cleburne,SUGAR LOAF,Auditor of State,,DEM,Diamond Arnold-Johnson,45,28,2,15
+Cleburne,VALLEY,Auditor of State,,DEM,Diamond Arnold-Johnson,21,18,0,3
+Cleburne,WILBURN,Auditor of State,,DEM,Diamond Arnold-Johnson,14,1,1,12
+Cleburne,MORGAN INSIDE,Auditor of State,,DEM,Diamond Arnold-Johnson,21,7,0,14
+Cleburne,NORTH CADRON INSIDE,Auditor of State,,REP,Treasurer of State Dennis Milligan,89,24,1,64
+Cleburne,NORTH CADRON OUTSIDE,Auditor of State,,REP,Treasurer of State Dennis Milligan,200,81,0,119
+Cleburne,SOUTH CADRON INSIDE,Auditor of State,,REP,Treasurer of State Dennis Milligan,112,29,1,82
+Cleburne,SOUTH CADRON OUTSIDE,Auditor of State,,REP,Treasurer of State Dennis Milligan,173,78,4,91
+Cleburne,CALIFORNIA,Auditor of State,,REP,Treasurer of State Dennis Milligan,145,53,1,91
+Cleburne,CENTER POST,Auditor of State,,REP,Treasurer of State Dennis Milligan,255,115,2,138
+Cleburne,CLAYTON,Auditor of State,,REP,Treasurer of State Dennis Milligan,369,176,2,191
+Cleburne,FRANCIS,Auditor of State,,REP,Treasurer of State Dennis Milligan,269,120,5,144
+Cleburne,GRASSEY INSIDE,Auditor of State,,REP,Treasurer of State Dennis Milligan,60,10,3,47
+Cleburne,GRASSEY OUTSIDE,Auditor of State,,REP,Treasurer of State Dennis Milligan,247,50,0,197
+Cleburne,GREERS FERRY GILES,Auditor of State,,REP,Treasurer of State Dennis Milligan,311,76,3,232
+Cleburne,GILES,Auditor of State,,REP,Treasurer of State Dennis Milligan,238,60,0,178
+Cleburne,HEALING SPRINGS,Auditor of State,,REP,Treasurer of State Dennis Milligan,313,80,4,229
+Cleburne,HEBER SPRINGS WARD 1,Auditor of State,,REP,Treasurer of State Dennis Milligan,392,262,5,125
+Cleburne,HEBER SPRINGS WARD 2,Auditor of State,,REP,Treasurer of State Dennis Milligan,387,259,13,115
+Cleburne,HEBER SPRINGS WARD 3,Auditor of State,,REP,Treasurer of State Dennis Milligan,575,407,10,158
+Cleburne,HEBER SPRINGS WARD 4,Auditor of State,,REP,Treasurer of State Dennis Milligan,488,289,8,191
+Cleburne,HEBER SPRINGS OUTSIDE,Auditor of State,,REP,Treasurer of State Dennis Milligan,1009,703,15,291
+Cleburne,MCJESTER,Auditor of State,,REP,Treasurer of State Dennis Milligan,135,60,6,69
+Cleburne,MORGAN OUTSIDE,Auditor of State,,REP,Treasurer of State Dennis Milligan,139,30,4,105
+Cleburne,MOUNTAIN,Auditor of State,,REP,Treasurer of State Dennis Milligan,289,135,1,153
+Cleburne,EAST PETER CREEK,Auditor of State,,REP,Treasurer of State Dennis Milligan,210,70,2,138
+Cleburne,WEST PETER CREEK,Auditor of State,,REP,Treasurer of State Dennis Milligan,388,193,4,191
+Cleburne,PICKENS,Auditor of State,,REP,Treasurer of State Dennis Milligan,183,86,5,92
+Cleburne,PINE,Auditor of State,,REP,Treasurer of State Dennis Milligan,74,26,1,47
+Cleburne,PINEY,Auditor of State,,REP,Treasurer of State Dennis Milligan,379,132,5,242
+Cleburne,POFF,Auditor of State,,REP,Treasurer of State Dennis Milligan,35,14,0,21
+Cleburne,SALINE INSIDE,Auditor of State,,REP,Treasurer of State Dennis Milligan,50,18,0,32
+Cleburne,SALINE OUTSIDE,Auditor of State,,REP,Treasurer of State Dennis Milligan,164,69,0,95
+Cleburne,SUGAR CAMP,Auditor of State,,REP,Treasurer of State Dennis Milligan,159,36,0,123
+Cleburne,SUGAR LOAF,Auditor of State,,REP,Treasurer of State Dennis Milligan,222,121,2,99
+Cleburne,VALLEY,Auditor of State,,REP,Treasurer of State Dennis Milligan,169,118,8,43
+Cleburne,WILBURN,Auditor of State,,REP,Treasurer of State Dennis Milligan,92,26,0,66
+Cleburne,MORGAN INSIDE,Auditor of State,,REP,Treasurer of State Dennis Milligan,87,16,2,69
+Cleburne,NORTH CADRON INSIDE,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,9,2,0,7
+Cleburne,NORTH CADRON OUTSIDE,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,11,4,0,7
+Cleburne,SOUTH CADRON INSIDE,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,29,9,1,19
+Cleburne,SOUTH CADRON OUTSIDE,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,19,6,1,12
+Cleburne,CALIFORNIA,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,10,5,0,5
+Cleburne,CENTER POST,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,39,21,1,17
+Cleburne,CLAYTON,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,56,38,1,17
+Cleburne,FRANCIS,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,36,14,0,22
+Cleburne,GRASSEY INSIDE,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,6,0,0,6
+Cleburne,GRASSEY OUTSIDE,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,33,9,0,24
+Cleburne,GREERS FERRY GILES,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,66,14,0,52
+Cleburne,GILES,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,19,7,0,12
+Cleburne,HEALING SPRINGS,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,38,16,0,22
+Cleburne,HEBER SPRINGS WARD 1,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,83,54,4,25
+Cleburne,HEBER SPRINGS WARD 2,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,83,60,3,20
+Cleburne,HEBER SPRINGS WARD 3,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,108,80,4,24
+Cleburne,HEBER SPRINGS WARD 4,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,92,59,7,26
+Cleburne,HEBER SPRINGS OUTSIDE,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,135,78,4,53
+Cleburne,MCJESTER,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,20,12,2,6
+Cleburne,MORGAN OUTSIDE,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,35,9,3,23
+Cleburne,MOUNTAIN,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,28,13,2,13
+Cleburne,EAST PETER CREEK,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,18,9,0,9
+Cleburne,WEST PETER CREEK,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,72,36,4,32
+Cleburne,PICKENS,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,34,27,0,7
+Cleburne,PINE,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,11,5,0,6
+Cleburne,PINEY,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,48,20,2,26
+Cleburne,POFF,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,5,3,0,2
+Cleburne,SALINE INSIDE,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,10,4,0,6
+Cleburne,SALINE OUTSIDE,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,33,12,1,20
+Cleburne,SUGAR CAMP,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,23,6,1,16
+Cleburne,SUGAR LOAF,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,49,32,2,15
+Cleburne,VALLEY,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,22,17,2,3
+Cleburne,WILBURN,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,12,2,1,9
+Cleburne,MORGAN INSIDE,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,24,8,0,16
+Cleburne,NORTH CADRON INSIDE,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,93,25,1,67
+Cleburne,NORTH CADRON OUTSIDE,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,198,80,0,118
+Cleburne,SOUTH CADRON INSIDE,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,120,31,1,88
+Cleburne,SOUTH CADRON OUTSIDE,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,176,78,4,94
+Cleburne,CALIFORNIA,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,143,53,1,89
+Cleburne,CENTER POST,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,262,120,2,140
+Cleburne,CLAYTON,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,375,179,2,194
+Cleburne,FRANCIS,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,267,120,5,142
+Cleburne,GRASSEY INSIDE,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,61,10,3,48
+Cleburne,GRASSEY OUTSIDE,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,257,51,0,206
+Cleburne,GREERS FERRY GILES,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,310,75,3,232
+Cleburne,GILES,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,249,65,0,184
+Cleburne,HEALING SPRINGS,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,319,81,4,234
+Cleburne,HEBER SPRINGS WARD 1,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,418,274,5,139
+Cleburne,HEBER SPRINGS WARD 2,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,407,272,13,122
+Cleburne,HEBER SPRINGS WARD 3,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,598,419,9,170
+Cleburne,HEBER SPRINGS WARD 4,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,501,295,8,198
+Cleburne,HEBER SPRINGS OUTSIDE,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,1025,715,15,295
+Cleburne,MCJESTER,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,138,61,6,71
+Cleburne,MORGAN OUTSIDE,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,141,32,4,105
+Cleburne,MOUNTAIN,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,290,136,1,153
+Cleburne,EAST PETER CREEK,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,210,67,2,141
+Cleburne,WEST PETER CREEK,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,390,194,4,192
+Cleburne,PICKENS,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,187,89,5,93
+Cleburne,PINE,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,82,28,1,53
+Cleburne,PINEY,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,394,144,6,244
+Cleburne,POFF,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,35,13,0,22
+Cleburne,SALINE INSIDE,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,54,19,0,35
+Cleburne,SALINE OUTSIDE,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,172,74,0,98
+Cleburne,SUGAR CAMP,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,163,36,1,126
+Cleburne,SUGAR LOAF,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,232,125,2,105
+Cleburne,VALLEY,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,174,125,6,43
+Cleburne,WILBURN,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,100,26,0,74
+Cleburne,MORGAN INSIDE,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,87,15,2,70
+Cleburne,NORTH CADRON INSIDE,Governor,,LIB,"Ricky Dale Harrington, Jr.",6,1,0,5
+Cleburne,NORTH CADRON OUTSIDE,Governor,,LIB,"Ricky Dale Harrington, Jr.",6,1,0,5
+Cleburne,SOUTH CADRON INSIDE,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,0,0,5
+Cleburne,SOUTH CADRON OUTSIDE,Governor,,LIB,"Ricky Dale Harrington, Jr.",4,1,0,3
+Cleburne,CALIFORNIA,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,2,0,0
+Cleburne,CENTER POST,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,1,1,0
+Cleburne,CLAYTON,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,3,0,2
+Cleburne,FRANCIS,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,0,0,2
+Cleburne,GRASSEY INSIDE,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Cleburne,GRASSEY OUTSIDE,Governor,,LIB,"Ricky Dale Harrington, Jr.",10,2,0,8
+Cleburne,GREERS FERRY GILES,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,0,0,5
+Cleburne,GILES,Governor,,LIB,"Ricky Dale Harrington, Jr.",8,3,0,5
+Cleburne,HEALING SPRINGS,Governor,,LIB,"Ricky Dale Harrington, Jr.",8,3,0,5
+Cleburne,HEBER SPRINGS WARD 1,Governor,,LIB,"Ricky Dale Harrington, Jr.",15,10,0,5
+Cleburne,HEBER SPRINGS WARD 2,Governor,,LIB,"Ricky Dale Harrington, Jr.",8,6,0,2
+Cleburne,HEBER SPRINGS WARD 3,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,3,0,2
+Cleburne,HEBER SPRINGS WARD 4,Governor,,LIB,"Ricky Dale Harrington, Jr.",9,7,0,2
+Cleburne,HEBER SPRINGS OUTSIDE,Governor,,LIB,"Ricky Dale Harrington, Jr.",21,12,0,9
+Cleburne,MCJESTER,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,0,0,2
+Cleburne,MORGAN OUTSIDE,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,1,0,1
+Cleburne,MOUNTAIN,Governor,,LIB,"Ricky Dale Harrington, Jr.",4,1,0,3
+Cleburne,EAST PETER CREEK,Governor,,LIB,"Ricky Dale Harrington, Jr.",6,2,0,4
+Cleburne,WEST PETER CREEK,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,1,0,2
+Cleburne,PICKENS,Governor,,LIB,"Ricky Dale Harrington, Jr.",4,2,0,2
+Cleburne,PINE,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Cleburne,PINEY,Governor,,LIB,"Ricky Dale Harrington, Jr.",8,5,0,3
+Cleburne,POFF,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,1,0,0
+Cleburne,SALINE INSIDE,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Cleburne,SALINE OUTSIDE,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Cleburne,SUGAR CAMP,Governor,,LIB,"Ricky Dale Harrington, Jr.",8,2,0,6
+Cleburne,SUGAR LOAF,Governor,,LIB,"Ricky Dale Harrington, Jr.",9,3,0,6
+Cleburne,VALLEY,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,5,0,0
+Cleburne,WILBURN,Governor,,LIB,"Ricky Dale Harrington, Jr.",4,0,0,4
+Cleburne,MORGAN INSIDE,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Cleburne,NORTH CADRON INSIDE,Governor,,REP,Sarah Huckabee Sanders,83,23,0,60
+Cleburne,NORTH CADRON OUTSIDE,Governor,,REP,Sarah Huckabee Sanders,188,77,0,111
+Cleburne,SOUTH CADRON INSIDE,Governor,,REP,Sarah Huckabee Sanders,112,28,1,83
+Cleburne,SOUTH CADRON OUTSIDE,Governor,,REP,Sarah Huckabee Sanders,173,80,4,89
+Cleburne,CALIFORNIA,Governor,,REP,Sarah Huckabee Sanders,145,54,1,90
+Cleburne,CENTER POST,Governor,,REP,Sarah Huckabee Sanders,255,119,2,134
+Cleburne,CLAYTON,Governor,,REP,Sarah Huckabee Sanders,366,173,2,191
+Cleburne,FRANCIS,Governor,,REP,Sarah Huckabee Sanders,270,118,5,147
+Cleburne,GRASSEY INSIDE,Governor,,REP,Sarah Huckabee Sanders,62,10,3,49
+Cleburne,GRASSEY OUTSIDE,Governor,,REP,Sarah Huckabee Sanders,243,50,0,193
+Cleburne,GREERS FERRY GILES,Governor,,REP,Sarah Huckabee Sanders,297,71,3,223
+Cleburne,GILES,Governor,,REP,Sarah Huckabee Sanders,231,57,0,174
+Cleburne,HEALING SPRINGS,Governor,,REP,Sarah Huckabee Sanders,307,77,4,226
+Cleburne,HEBER SPRINGS WARD 1,Governor,,REP,Sarah Huckabee Sanders,393,262,4,127
+Cleburne,HEBER SPRINGS WARD 2,Governor,,REP,Sarah Huckabee Sanders,389,258,14,117
+Cleburne,HEBER SPRINGS WARD 3,Governor,,REP,Sarah Huckabee Sanders,556,389,9,158
+Cleburne,HEBER SPRINGS WARD 4,Governor,,REP,Sarah Huckabee Sanders,473,275,10,188
+Cleburne,HEBER SPRINGS OUTSIDE,Governor,,REP,Sarah Huckabee Sanders,985,688,15,282
+Cleburne,MCJESTER,Governor,,REP,Sarah Huckabee Sanders,135,60,6,69
+Cleburne,MORGAN OUTSIDE,Governor,,REP,Sarah Huckabee Sanders,129,30,4,95
+Cleburne,MOUNTAIN,Governor,,REP,Sarah Huckabee Sanders,288,136,1,151
+Cleburne,EAST PETER CREEK,Governor,,REP,Sarah Huckabee Sanders,210,70,1,139
+Cleburne,WEST PETER CREEK,Governor,,REP,Sarah Huckabee Sanders,378,188,4,186
+Cleburne,PICKENS,Governor,,REP,Sarah Huckabee Sanders,175,78,5,92
+Cleburne,PINE,Governor,,REP,Sarah Huckabee Sanders,76,25,1,50
+Cleburne,PINEY,Governor,,REP,Sarah Huckabee Sanders,377,136,5,236
+Cleburne,POFF,Governor,,REP,Sarah Huckabee Sanders,32,12,0,20
+Cleburne,SALINE INSIDE,Governor,,REP,Sarah Huckabee Sanders,53,19,0,34
+Cleburne,SALINE OUTSIDE,Governor,,REP,Sarah Huckabee Sanders,168,73,0,95
+Cleburne,SUGAR CAMP,Governor,,REP,Sarah Huckabee Sanders,155,33,0,122
+Cleburne,SUGAR LOAF,Governor,,REP,Sarah Huckabee Sanders,216,119,1,96
+Cleburne,VALLEY,Governor,,REP,Sarah Huckabee Sanders,160,116,6,38
+Cleburne,WILBURN,Governor,,REP,Sarah Huckabee Sanders,89,25,0,64
+Cleburne,MORGAN INSIDE,Governor,,REP,Sarah Huckabee Sanders,83,16,2,65
+Cleburne,NORTH CADRON INSIDE,Governor,,DEM,Chris Jones,15,3,1,11
+Cleburne,NORTH CADRON OUTSIDE,Governor,,DEM,Chris Jones,18,5,0,13
+Cleburne,SOUTH CADRON INSIDE,Governor,,DEM,Chris Jones,35,12,1,22
+Cleburne,SOUTH CADRON OUTSIDE,Governor,,DEM,Chris Jones,22,6,1,15
+Cleburne,CALIFORNIA,Governor,,DEM,Chris Jones,5,2,0,3
+Cleburne,CENTER POST,Governor,,DEM,Chris Jones,45,22,0,23
+Cleburne,CLAYTON,Governor,,DEM,Chris Jones,60,41,1,18
+Cleburne,FRANCIS,Governor,,DEM,Chris Jones,36,17,0,19
+Cleburne,GRASSEY INSIDE,Governor,,DEM,Chris Jones,7,0,0,7
+Cleburne,GRASSEY OUTSIDE,Governor,,DEM,Chris Jones,38,8,0,30
+Cleburne,GREERS FERRY GILES,Governor,,DEM,Chris Jones,76,18,0,58
+Cleburne,GILES,Governor,,DEM,Chris Jones,31,13,0,18
+Cleburne,HEALING SPRINGS,Governor,,DEM,Chris Jones,44,16,0,28
+Cleburne,HEBER SPRINGS WARD 1,Governor,,DEM,Chris Jones,105,62,5,38
+Cleburne,HEBER SPRINGS WARD 2,Governor,,DEM,Chris Jones,103,73,3,27
+Cleburne,HEBER SPRINGS WARD 3,Governor,,DEM,Chris Jones,151,110,4,37
+Cleburne,HEBER SPRINGS WARD 4,Governor,,DEM,Chris Jones,118,78,5,35
+Cleburne,HEBER SPRINGS OUTSIDE,Governor,,DEM,Chris Jones,161,97,4,60
+Cleburne,MCJESTER,Governor,,DEM,Chris Jones,24,14,2,8
+Cleburne,MORGAN OUTSIDE,Governor,,DEM,Chris Jones,47,11,3,33
+Cleburne,MOUNTAIN,Governor,,DEM,Chris Jones,30,13,2,15
+Cleburne,EAST PETER CREEK,Governor,,DEM,Chris Jones,16,6,1,9
+Cleburne,WEST PETER CREEK,Governor,,DEM,Chris Jones,86,43,4,39
+Cleburne,PICKENS,Governor,,DEM,Chris Jones,41,34,0,7
+Cleburne,PINE,Governor,,DEM,Chris Jones,14,5,0,9
+Cleburne,PINEY,Governor,,DEM,Chris Jones,59,23,3,33
+Cleburne,POFF,Governor,,DEM,Chris Jones,7,3,0,4
+Cleburne,SALINE INSIDE,Governor,,DEM,Chris Jones,11,5,0,6
+Cleburne,SALINE OUTSIDE,Governor,,DEM,Chris Jones,37,14,1,22
+Cleburne,SUGAR CAMP,Governor,,DEM,Chris Jones,23,7,2,14
+Cleburne,SUGAR LOAF,Governor,,DEM,Chris Jones,57,36,3,18
+Cleburne,VALLEY,Governor,,DEM,Chris Jones,34,23,2,9
+Cleburne,WILBURN,Governor,,DEM,Chris Jones,20,3,1,16
+Cleburne,MORGAN INSIDE,Governor,,DEM,Chris Jones,32,8,0,24
+Cleburne,NORTH CADRON INSIDE,Lieutenant Governor,,LIB,Frank Gilbert,8,2,0,6
+Cleburne,NORTH CADRON OUTSIDE,Lieutenant Governor,,LIB,Frank Gilbert,6,2,0,4
+Cleburne,SOUTH CADRON INSIDE,Lieutenant Governor,,LIB,Frank Gilbert,14,3,0,11
+Cleburne,SOUTH CADRON OUTSIDE,Lieutenant Governor,,LIB,Frank Gilbert,8,4,0,4
+Cleburne,CALIFORNIA,Lieutenant Governor,,LIB,Frank Gilbert,2,2,0,0
+Cleburne,CENTER POST,Lieutenant Governor,,LIB,Frank Gilbert,5,1,1,3
+Cleburne,CLAYTON,Lieutenant Governor,,LIB,Frank Gilbert,9,2,0,7
+Cleburne,FRANCIS,Lieutenant Governor,,LIB,Frank Gilbert,3,0,1,2
+Cleburne,GRASSEY INSIDE,Lieutenant Governor,,LIB,Frank Gilbert,2,0,0,2
+Cleburne,GRASSEY OUTSIDE,Lieutenant Governor,,LIB,Frank Gilbert,10,0,0,10
+Cleburne,GREERS FERRY GILES,Lieutenant Governor,,LIB,Frank Gilbert,11,3,0,8
+Cleburne,GILES,Lieutenant Governor,,LIB,Frank Gilbert,15,4,0,11
+Cleburne,HEALING SPRINGS,Lieutenant Governor,,LIB,Frank Gilbert,10,6,0,4
+Cleburne,HEBER SPRINGS WARD 1,Lieutenant Governor,,LIB,Frank Gilbert,20,13,0,7
+Cleburne,HEBER SPRINGS WARD 2,Lieutenant Governor,,LIB,Frank Gilbert,11,8,0,3
+Cleburne,HEBER SPRINGS WARD 3,Lieutenant Governor,,LIB,Frank Gilbert,22,10,0,12
+Cleburne,HEBER SPRINGS WARD 4,Lieutenant Governor,,LIB,Frank Gilbert,18,10,0,8
+Cleburne,HEBER SPRINGS OUTSIDE,Lieutenant Governor,,LIB,Frank Gilbert,37,28,0,9
+Cleburne,MCJESTER,Lieutenant Governor,,LIB,Frank Gilbert,3,2,0,1
+Cleburne,MORGAN OUTSIDE,Lieutenant Governor,,LIB,Frank Gilbert,1,0,0,1
+Cleburne,MOUNTAIN,Lieutenant Governor,,LIB,Frank Gilbert,8,5,0,3
+Cleburne,EAST PETER CREEK,Lieutenant Governor,,LIB,Frank Gilbert,6,2,0,4
+Cleburne,WEST PETER CREEK,Lieutenant Governor,,LIB,Frank Gilbert,11,4,0,7
+Cleburne,PICKENS,Lieutenant Governor,,LIB,Frank Gilbert,7,4,0,3
+Cleburne,PINE,Lieutenant Governor,,LIB,Frank Gilbert,1,0,0,1
+Cleburne,PINEY,Lieutenant Governor,,LIB,Frank Gilbert,16,5,0,11
+Cleburne,POFF,Lieutenant Governor,,LIB,Frank Gilbert,1,0,0,1
+Cleburne,SALINE INSIDE,Lieutenant Governor,,LIB,Frank Gilbert,3,1,0,2
+Cleburne,SALINE OUTSIDE,Lieutenant Governor,,LIB,Frank Gilbert,6,4,0,2
+Cleburne,SUGAR CAMP,Lieutenant Governor,,LIB,Frank Gilbert,6,0,0,6
+Cleburne,SUGAR LOAF,Lieutenant Governor,,LIB,Frank Gilbert,12,5,0,7
+Cleburne,VALLEY,Lieutenant Governor,,LIB,Frank Gilbert,5,4,0,1
+Cleburne,WILBURN,Lieutenant Governor,,LIB,Frank Gilbert,4,0,0,4
+Cleburne,MORGAN INSIDE,Lieutenant Governor,,LIB,Frank Gilbert,3,0,0,3
+Cleburne,NORTH CADRON INSIDE,Lieutenant Governor,,DEM,Kelly Ross Krout,12,1,1,10
+Cleburne,NORTH CADRON OUTSIDE,Lieutenant Governor,,DEM,Kelly Ross Krout,14,5,0,9
+Cleburne,SOUTH CADRON INSIDE,Lieutenant Governor,,DEM,Kelly Ross Krout,29,10,1,18
+Cleburne,SOUTH CADRON OUTSIDE,Lieutenant Governor,,DEM,Kelly Ross Krout,23,7,1,15
+Cleburne,CALIFORNIA,Lieutenant Governor,,DEM,Kelly Ross Krout,8,5,0,3
+Cleburne,CENTER POST,Lieutenant Governor,,DEM,Kelly Ross Krout,44,23,0,21
+Cleburne,CLAYTON,Lieutenant Governor,,DEM,Kelly Ross Krout,59,40,1,18
+Cleburne,FRANCIS,Lieutenant Governor,,DEM,Kelly Ross Krout,37,19,0,18
+Cleburne,GRASSEY INSIDE,Lieutenant Governor,,DEM,Kelly Ross Krout,6,1,0,5
+Cleburne,GRASSEY OUTSIDE,Lieutenant Governor,,DEM,Kelly Ross Krout,34,8,0,26
+Cleburne,GREERS FERRY GILES,Lieutenant Governor,,DEM,Kelly Ross Krout,67,16,0,51
+Cleburne,GILES,Lieutenant Governor,,DEM,Kelly Ross Krout,30,14,0,16
+Cleburne,HEALING SPRINGS,Lieutenant Governor,,DEM,Kelly Ross Krout,35,13,0,22
+Cleburne,HEBER SPRINGS WARD 1,Lieutenant Governor,,DEM,Kelly Ross Krout,98,61,5,32
+Cleburne,HEBER SPRINGS WARD 2,Lieutenant Governor,,DEM,Kelly Ross Krout,98,69,3,26
+Cleburne,HEBER SPRINGS WARD 3,Lieutenant Governor,,DEM,Kelly Ross Krout,124,90,4,30
+Cleburne,HEBER SPRINGS WARD 4,Lieutenant Governor,,DEM,Kelly Ross Krout,104,68,7,29
+Cleburne,HEBER SPRINGS OUTSIDE,Lieutenant Governor,,DEM,Kelly Ross Krout,143,87,4,52
+Cleburne,MCJESTER,Lieutenant Governor,,DEM,Kelly Ross Krout,22,15,0,7
+Cleburne,MORGAN OUTSIDE,Lieutenant Governor,,DEM,Kelly Ross Krout,39,11,3,25
+Cleburne,MOUNTAIN,Lieutenant Governor,,DEM,Kelly Ross Krout,22,11,2,9
+Cleburne,EAST PETER CREEK,Lieutenant Governor,,DEM,Kelly Ross Krout,11,5,0,6
+Cleburne,WEST PETER CREEK,Lieutenant Governor,,DEM,Kelly Ross Krout,75,38,4,33
+Cleburne,PICKENS,Lieutenant Governor,,DEM,Kelly Ross Krout,37,31,0,6
+Cleburne,PINE,Lieutenant Governor,,DEM,Kelly Ross Krout,13,5,0,8
+Cleburne,PINEY,Lieutenant Governor,,DEM,Kelly Ross Krout,49,22,3,24
+Cleburne,POFF,Lieutenant Governor,,DEM,Kelly Ross Krout,7,3,0,4
+Cleburne,SALINE INSIDE,Lieutenant Governor,,DEM,Kelly Ross Krout,11,4,0,7
+Cleburne,SALINE OUTSIDE,Lieutenant Governor,,DEM,Kelly Ross Krout,34,15,1,18
+Cleburne,SUGAR CAMP,Lieutenant Governor,,DEM,Kelly Ross Krout,23,9,1,13
+Cleburne,SUGAR LOAF,Lieutenant Governor,,DEM,Kelly Ross Krout,50,31,3,16
+Cleburne,VALLEY,Lieutenant Governor,,DEM,Kelly Ross Krout,32,25,2,5
+Cleburne,WILBURN,Lieutenant Governor,,DEM,Kelly Ross Krout,18,3,1,14
+Cleburne,MORGAN INSIDE,Lieutenant Governor,,DEM,Kelly Ross Krout,28,8,0,20
+Cleburne,NORTH CADRON INSIDE,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,84,24,0,60
+Cleburne,NORTH CADRON OUTSIDE,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,190,77,0,113
+Cleburne,SOUTH CADRON INSIDE,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,107,27,1,79
+Cleburne,SOUTH CADRON OUTSIDE,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,168,76,4,88
+Cleburne,CALIFORNIA,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,142,51,1,90
+Cleburne,CENTER POST,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,253,117,2,134
+Cleburne,CLAYTON,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,366,174,2,190
+Cleburne,FRANCIS,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,269,116,4,149
+Cleburne,GRASSEY INSIDE,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,61,9,3,49
+Cleburne,GRASSEY OUTSIDE,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,248,51,0,197
+Cleburne,GREERS FERRY GILES,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,300,70,3,227
+Cleburne,GILES,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,225,55,0,170
+Cleburne,HEALING SPRINGS,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,310,76,4,230
+Cleburne,HEBER SPRINGS WARD 1,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,388,255,4,129
+Cleburne,HEBER SPRINGS WARD 2,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,389,259,13,117
+Cleburne,HEBER SPRINGS WARD 3,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,566,402,9,155
+Cleburne,HEBER SPRINGS WARD 4,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,474,279,7,188
+Cleburne,HEBER SPRINGS OUTSIDE,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,986,682,15,289
+Cleburne,MCJESTER,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,135,57,8,70
+Cleburne,MORGAN OUTSIDE,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,139,31,4,104
+Cleburne,MOUNTAIN,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,289,132,1,156
+Cleburne,EAST PETER CREEK,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,214,71,2,141
+Cleburne,WEST PETER CREEK,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,378,187,4,187
+Cleburne,PICKENS,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,174,79,5,90
+Cleburne,PINE,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,77,26,1,50
+Cleburne,PINEY,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,380,137,5,238
+Cleburne,POFF,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,33,13,0,20
+Cleburne,SALINE INSIDE,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,50,19,0,31
+Cleburne,SALINE OUTSIDE,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,165,68,0,97
+Cleburne,SUGAR CAMP,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,156,33,1,122
+Cleburne,SUGAR LOAF,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,218,120,1,97
+Cleburne,VALLEY,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,162,115,6,41
+Cleburne,WILBURN,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,91,25,0,66
+Cleburne,MORGAN INSIDE,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,85,16,2,67
+Cleburne,NORTH CADRON INSIDE,Secretary of State,,REP,Secretary of State John Thurston,93,24,0,69
+Cleburne,NORTH CADRON OUTSIDE,Secretary of State,,REP,Secretary of State John Thurston,198,81,0,117
+Cleburne,SOUTH CADRON INSIDE,Secretary of State,,REP,Secretary of State John Thurston,115,29,1,85
+Cleburne,SOUTH CADRON OUTSIDE,Secretary of State,,REP,Secretary of State John Thurston,172,78,4,90
+Cleburne,CALIFORNIA,Secretary of State,,REP,Secretary of State John Thurston,145,54,1,90
+Cleburne,CENTER POST,Secretary of State,,REP,Secretary of State John Thurston,254,117,2,135
+Cleburne,CLAYTON,Secretary of State,,REP,Secretary of State John Thurston,375,179,2,194
+Cleburne,FRANCIS,Secretary of State,,REP,Secretary of State John Thurston,269,120,5,144
+Cleburne,GRASSEY INSIDE,Secretary of State,,REP,Secretary of State John Thurston,60,10,3,47
+Cleburne,GRASSEY OUTSIDE,Secretary of State,,REP,Secretary of State John Thurston,250,50,0,200
+Cleburne,GREERS FERRY GILES,Secretary of State,,REP,Secretary of State John Thurston,313,76,3,234
+Cleburne,GILES,Secretary of State,,REP,Secretary of State John Thurston,240,61,0,179
+Cleburne,HEALING SPRINGS,Secretary of State,,REP,Secretary of State John Thurston,318,83,4,231
+Cleburne,HEBER SPRINGS WARD 1,Secretary of State,,REP,Secretary of State John Thurston,403,268,4,131
+Cleburne,HEBER SPRINGS WARD 2,Secretary of State,,REP,Secretary of State John Thurston,393,262,13,118
+Cleburne,HEBER SPRINGS WARD 3,Secretary of State,,REP,Secretary of State John Thurston,580,407,10,163
+Cleburne,HEBER SPRINGS WARD 4,Secretary of State,,REP,Secretary of State John Thurston,486,287,7,192
+Cleburne,HEBER SPRINGS OUTSIDE,Secretary of State,,REP,Secretary of State John Thurston,1015,705,15,295
+Cleburne,MCJESTER,Secretary of State,,REP,Secretary of State John Thurston,136,60,6,70
+Cleburne,MORGAN OUTSIDE,Secretary of State,,REP,Secretary of State John Thurston,138,30,4,104
+Cleburne,MOUNTAIN,Secretary of State,,REP,Secretary of State John Thurston,290,136,1,153
+Cleburne,EAST PETER CREEK,Secretary of State,,REP,Secretary of State John Thurston,217,70,2,145
+Cleburne,WEST PETER CREEK,Secretary of State,,REP,Secretary of State John Thurston,388,196,4,188
+Cleburne,PICKENS,Secretary of State,,REP,Secretary of State John Thurston,182,85,5,92
+Cleburne,PINE,Secretary of State,,REP,Secretary of State John Thurston,79,27,1,51
+Cleburne,PINEY,Secretary of State,,REP,Secretary of State John Thurston,401,145,5,251
+Cleburne,POFF,Secretary of State,,REP,Secretary of State John Thurston,34,13,0,21
+Cleburne,SALINE INSIDE,Secretary of State,,REP,Secretary of State John Thurston,55,20,0,35
+Cleburne,SALINE OUTSIDE,Secretary of State,,REP,Secretary of State John Thurston,171,74,0,97
+Cleburne,SUGAR CAMP,Secretary of State,,REP,Secretary of State John Thurston,160,34,0,126
+Cleburne,SUGAR LOAF,Secretary of State,,REP,Secretary of State John Thurston,228,124,2,102
+Cleburne,VALLEY,Secretary of State,,REP,Secretary of State John Thurston,175,125,7,43
+Cleburne,WILBURN,Secretary of State,,REP,Secretary of State John Thurston,97,26,0,71
+Cleburne,MORGAN INSIDE,Secretary of State,,REP,Secretary of State John Thurston,89,15,2,72
+Cleburne,NORTH CADRON INSIDE,Secretary of State,,DEM,Anna Beth Gorman,8,2,1,5
+Cleburne,NORTH CADRON OUTSIDE,Secretary of State,,DEM,Anna Beth Gorman,11,3,0,8
+Cleburne,SOUTH CADRON INSIDE,Secretary of State,,DEM,Anna Beth Gorman,34,11,1,22
+Cleburne,SOUTH CADRON OUTSIDE,Secretary of State,,DEM,Anna Beth Gorman,25,7,1,17
+Cleburne,CALIFORNIA,Secretary of State,,DEM,Anna Beth Gorman,7,4,0,3
+Cleburne,CENTER POST,Secretary of State,,DEM,Anna Beth Gorman,47,24,1,22
+Cleburne,CLAYTON,Secretary of State,,DEM,Anna Beth Gorman,57,37,1,19
+Cleburne,FRANCIS,Secretary of State,,DEM,Anna Beth Gorman,33,14,0,19
+Cleburne,GRASSEY INSIDE,Secretary of State,,DEM,Anna Beth Gorman,9,0,0,9
+Cleburne,GRASSEY OUTSIDE,Secretary of State,,DEM,Anna Beth Gorman,39,10,0,29
+Cleburne,GREERS FERRY GILES,Secretary of State,,DEM,Anna Beth Gorman,64,13,0,51
+Cleburne,GILES,Secretary of State,,DEM,Anna Beth Gorman,26,10,0,16
+Cleburne,HEALING SPRINGS,Secretary of State,,DEM,Anna Beth Gorman,39,13,0,26
+Cleburne,HEBER SPRINGS WARD 1,Secretary of State,,DEM,Anna Beth Gorman,99,61,4,34
+Cleburne,HEBER SPRINGS WARD 2,Secretary of State,,DEM,Anna Beth Gorman,98,69,3,26
+Cleburne,HEBER SPRINGS WARD 3,Secretary of State,,DEM,Anna Beth Gorman,131,94,3,34
+Cleburne,HEBER SPRINGS WARD 4,Secretary of State,,DEM,Anna Beth Gorman,106,70,6,30
+Cleburne,HEBER SPRINGS OUTSIDE,Secretary of State,,DEM,Anna Beth Gorman,144,86,4,54
+Cleburne,MCJESTER,Secretary of State,,DEM,Anna Beth Gorman,22,13,2,7
+Cleburne,MORGAN OUTSIDE,Secretary of State,,DEM,Anna Beth Gorman,37,10,3,24
+Cleburne,MOUNTAIN,Secretary of State,,DEM,Anna Beth Gorman,29,11,2,16
+Cleburne,EAST PETER CREEK,Secretary of State,,DEM,Anna Beth Gorman,11,5,0,6
+Cleburne,WEST PETER CREEK,Secretary of State,,DEM,Anna Beth Gorman,76,36,4,36
+Cleburne,PICKENS,Secretary of State,,DEM,Anna Beth Gorman,39,31,0,8
+Cleburne,PINE,Secretary of State,,DEM,Anna Beth Gorman,13,5,0,8
+Cleburne,PINEY,Secretary of State,,DEM,Anna Beth Gorman,45,20,3,22
+Cleburne,POFF,Secretary of State,,DEM,Anna Beth Gorman,7,3,0,4
+Cleburne,SALINE INSIDE,Secretary of State,,DEM,Anna Beth Gorman,10,4,0,6
+Cleburne,SALINE OUTSIDE,Secretary of State,,DEM,Anna Beth Gorman,35,13,1,21
+Cleburne,SUGAR CAMP,Secretary of State,,DEM,Anna Beth Gorman,27,8,2,17
+Cleburne,SUGAR LOAF,Secretary of State,,DEM,Anna Beth Gorman,53,33,2,18
+Cleburne,VALLEY,Secretary of State,,DEM,Anna Beth Gorman,24,20,1,3
+Cleburne,WILBURN,Secretary of State,,DEM,Anna Beth Gorman,16,2,1,13
+Cleburne,MORGAN INSIDE,Secretary of State,,DEM,Anna Beth Gorman,26,9,0,17
+Cleburne,NORTH CADRON INSIDE,State Treasurer,,REP,State Representative Mark Lowery,90,24,1,65
+Cleburne,NORTH CADRON OUTSIDE,State Treasurer,,REP,State Representative Mark Lowery,198,81,0,117
+Cleburne,SOUTH CADRON INSIDE,State Treasurer,,REP,State Representative Mark Lowery,120,30,1,89
+Cleburne,SOUTH CADRON OUTSIDE,State Treasurer,,REP,State Representative Mark Lowery,174,77,4,93
+Cleburne,CALIFORNIA,State Treasurer,,REP,State Representative Mark Lowery,144,53,1,90
+Cleburne,CENTER POST,State Treasurer,,REP,State Representative Mark Lowery,256,118,2,136
+Cleburne,CLAYTON,State Treasurer,,REP,State Representative Mark Lowery,373,176,2,195
+Cleburne,FRANCIS,State Treasurer,,REP,State Representative Mark Lowery,264,117,4,143
+Cleburne,GRASSEY INSIDE,State Treasurer,,REP,State Representative Mark Lowery,60,10,3,47
+Cleburne,GRASSEY OUTSIDE,State Treasurer,,REP,State Representative Mark Lowery,251,51,0,200
+Cleburne,GREERS FERRY GILES,State Treasurer,,REP,State Representative Mark Lowery,309,75,3,231
+Cleburne,GILES,State Treasurer,,REP,State Representative Mark Lowery,234,59,0,175
+Cleburne,HEALING SPRINGS,State Treasurer,,REP,State Representative Mark Lowery,312,79,4,229
+Cleburne,HEBER SPRINGS WARD 1,State Treasurer,,REP,State Representative Mark Lowery,400,267,4,129
+Cleburne,HEBER SPRINGS WARD 2,State Treasurer,,REP,State Representative Mark Lowery,391,262,13,116
+Cleburne,HEBER SPRINGS WARD 3,State Treasurer,,REP,State Representative Mark Lowery,578,407,9,162
+Cleburne,HEBER SPRINGS WARD 4,State Treasurer,,REP,State Representative Mark Lowery,488,286,7,195
+Cleburne,HEBER SPRINGS OUTSIDE,State Treasurer,,REP,State Representative Mark Lowery,1003,695,15,293
+Cleburne,MCJESTER,State Treasurer,,REP,State Representative Mark Lowery,135,59,5,71
+Cleburne,MORGAN OUTSIDE,State Treasurer,,REP,State Representative Mark Lowery,138,31,4,103
+Cleburne,MOUNTAIN,State Treasurer,,REP,State Representative Mark Lowery,292,135,1,156
+Cleburne,EAST PETER CREEK,State Treasurer,,REP,State Representative Mark Lowery,217,70,2,145
+Cleburne,WEST PETER CREEK,State Treasurer,,REP,State Representative Mark Lowery,384,192,4,188
+Cleburne,PICKENS,State Treasurer,,REP,State Representative Mark Lowery,180,80,5,95
+Cleburne,PINE,State Treasurer,,REP,State Representative Mark Lowery,79,27,1,51
+Cleburne,PINEY,State Treasurer,,REP,State Representative Mark Lowery,395,145,5,245
+Cleburne,POFF,State Treasurer,,REP,State Representative Mark Lowery,34,13,0,21
+Cleburne,SALINE INSIDE,State Treasurer,,REP,State Representative Mark Lowery,53,18,0,35
+Cleburne,SALINE OUTSIDE,State Treasurer,,REP,State Representative Mark Lowery,168,73,0,95
+Cleburne,SUGAR CAMP,State Treasurer,,REP,State Representative Mark Lowery,162,35,0,127
+Cleburne,SUGAR LOAF,State Treasurer,,REP,State Representative Mark Lowery,228,124,2,102
+Cleburne,VALLEY,State Treasurer,,REP,State Representative Mark Lowery,168,119,6,43
+Cleburne,WILBURN,State Treasurer,,REP,State Representative Mark Lowery,90,25,0,65
+Cleburne,MORGAN INSIDE,State Treasurer,,REP,State Representative Mark Lowery,89,15,2,72
+Cleburne,NORTH CADRON INSIDE,State Treasurer,,DEM,Pam Whitaker,12,2,0,10
+Cleburne,NORTH CADRON OUTSIDE,State Treasurer,,DEM,Pam Whitaker,11,3,0,8
+Cleburne,SOUTH CADRON INSIDE,State Treasurer,,DEM,Pam Whitaker,30,10,1,19
+Cleburne,SOUTH CADRON OUTSIDE,State Treasurer,,DEM,Pam Whitaker,24,9,1,14
+Cleburne,CALIFORNIA,State Treasurer,,DEM,Pam Whitaker,8,5,0,3
+Cleburne,CENTER POST,State Treasurer,,DEM,Pam Whitaker,46,24,1,21
+Cleburne,CLAYTON,State Treasurer,,DEM,Pam Whitaker,59,40,1,18
+Cleburne,FRANCIS,State Treasurer,,DEM,Pam Whitaker,35,16,1,18
+Cleburne,GRASSEY INSIDE,State Treasurer,,DEM,Pam Whitaker,8,0,0,8
+Cleburne,GRASSEY OUTSIDE,State Treasurer,,DEM,Pam Whitaker,39,9,0,30
+Cleburne,GREERS FERRY GILES,State Treasurer,,DEM,Pam Whitaker,64,12,0,52
+Cleburne,GILES,State Treasurer,,DEM,Pam Whitaker,33,13,0,20
+Cleburne,HEALING SPRINGS,State Treasurer,,DEM,Pam Whitaker,44,16,0,28
+Cleburne,HEBER SPRINGS WARD 1,State Treasurer,,DEM,Pam Whitaker,104,62,5,37
+Cleburne,HEBER SPRINGS WARD 2,State Treasurer,,DEM,Pam Whitaker,104,72,3,29
+Cleburne,HEBER SPRINGS WARD 3,State Treasurer,,DEM,Pam Whitaker,132,94,4,34
+Cleburne,HEBER SPRINGS WARD 4,State Treasurer,,DEM,Pam Whitaker,108,71,7,30
+Cleburne,HEBER SPRINGS OUTSIDE,State Treasurer,,DEM,Pam Whitaker,161,99,4,58
+Cleburne,MCJESTER,State Treasurer,,DEM,Pam Whitaker,23,14,3,6
+Cleburne,MORGAN OUTSIDE,State Treasurer,,DEM,Pam Whitaker,38,10,3,25
+Cleburne,MOUNTAIN,State Treasurer,,DEM,Pam Whitaker,27,13,2,12
+Cleburne,EAST PETER CREEK,State Treasurer,,DEM,Pam Whitaker,13,7,0,6
+Cleburne,WEST PETER CREEK,State Treasurer,,DEM,Pam Whitaker,82,40,4,38
+Cleburne,PICKENS,State Treasurer,,DEM,Pam Whitaker,43,37,0,6
+Cleburne,PINE,State Treasurer,,DEM,Pam Whitaker,13,5,0,8
+Cleburne,PINEY,State Treasurer,,DEM,Pam Whitaker,46,19,3,24
+Cleburne,POFF,State Treasurer,,DEM,Pam Whitaker,7,3,0,4
+Cleburne,SALINE INSIDE,State Treasurer,,DEM,Pam Whitaker,12,6,0,6
+Cleburne,SALINE OUTSIDE,State Treasurer,,DEM,Pam Whitaker,38,14,1,23
+Cleburne,SUGAR CAMP,State Treasurer,,DEM,Pam Whitaker,23,7,2,14
+Cleburne,SUGAR LOAF,State Treasurer,,DEM,Pam Whitaker,53,33,2,18
+Cleburne,VALLEY,State Treasurer,,DEM,Pam Whitaker,31,25,2,4
+Cleburne,WILBURN,State Treasurer,,DEM,Pam Whitaker,18,3,1,14
+Cleburne,MORGAN INSIDE,State Treasurer,,DEM,Pam Whitaker,25,9,0,16
+Cleburne,NORTH CADRON INSIDE,State Senate,18,DEM,Nick Cartwright,14,2,1,11
+Cleburne,NORTH CADRON OUTSIDE,State Senate,18,DEM,Nick Cartwright,15,5,0,10
+Cleburne,SOUTH CADRON INSIDE,State Senate,18,DEM,Nick Cartwright,33,10,1,22
+Cleburne,SOUTH CADRON OUTSIDE,State Senate,18,DEM,Nick Cartwright,24,7,1,16
+Cleburne,CENTER POST,State Senate,18,DEM,Nick Cartwright,0,0,0,0
+Cleburne,CLAYTON,State Senate,18,DEM,Nick Cartwright,62,38,1,23
+Cleburne,HEBER SPRINGS WARD 1,State Senate,18,DEM,Nick Cartwright,98,60,5,33
+Cleburne,HEBER SPRINGS WARD 4,State Senate,18,DEM,Nick Cartwright,9,5,0,4
+Cleburne,HEBER SPRINGS OUTSIDE,State Senate,18,DEM,Nick Cartwright,76,38,3,35
+Cleburne,MOUNTAIN,State Senate,18,DEM,Nick Cartwright,26,13,2,11
+Cleburne,PICKENS,State Senate,18,DEM,Nick Cartwright,38,30,0,8
+Cleburne,PINEY,State Senate,18,DEM,Nick Cartwright,65,25,3,37
+Cleburne,VALLEY,State Senate,18,DEM,Nick Cartwright,29,23,2,4
+Cleburne,NORTH CADRON INSIDE,State Senate,18,REP,Senator Jonathan Dismang,85,24,0,61
+Cleburne,NORTH CADRON OUTSIDE,State Senate,18,REP,Senator Jonathan Dismang,192,78,0,114
+Cleburne,SOUTH CADRON INSIDE,State Senate,18,REP,Senator Jonathan Dismang,106,27,1,78
+Cleburne,SOUTH CADRON OUTSIDE,State Senate,18,REP,Senator Jonathan Dismang,167,75,4,88
+Cleburne,CENTER POST,State Senate,18,REP,Senator Jonathan Dismang,0,0,0,0
+Cleburne,CLAYTON,State Senate,18,REP,Senator Jonathan Dismang,361,175,2,184
+Cleburne,HEBER SPRINGS WARD 1,State Senate,18,REP,Senator Jonathan Dismang,391,257,4,130
+Cleburne,HEBER SPRINGS WARD 4,State Senate,18,REP,Senator Jonathan Dismang,14,7,0,7
+Cleburne,HEBER SPRINGS OUTSIDE,State Senate,18,REP,Senator Jonathan Dismang,544,361,11,172
+Cleburne,MOUNTAIN,State Senate,18,REP,Senator Jonathan Dismang,288,136,1,151
+Cleburne,PICKENS,State Senate,18,REP,Senator Jonathan Dismang,180,83,5,92
+Cleburne,PINEY,State Senate,18,REP,Senator Jonathan Dismang,366,132,5,229
+Cleburne,VALLEY,State Senate,18,REP,Senator Jonathan Dismang,164,116,6,42
+Cleburne,NORTH CADRON INSIDE,State Senate,18,LIB,James Burk,4,0,0,4
+Cleburne,NORTH CADRON OUTSIDE,State Senate,18,LIB,James Burk,3,1,0,2
+Cleburne,SOUTH CADRON INSIDE,State Senate,18,LIB,James Burk,8,1,0,7
+Cleburne,SOUTH CADRON OUTSIDE,State Senate,18,LIB,James Burk,5,2,0,3
+Cleburne,CENTER POST,State Senate,18,LIB,James Burk,0,0,0,0
+Cleburne,CLAYTON,State Senate,18,LIB,James Burk,7,2,0,5
+Cleburne,HEBER SPRINGS WARD 1,State Senate,18,LIB,James Burk,17,13,0,4
+Cleburne,HEBER SPRINGS WARD 4,State Senate,18,LIB,James Burk,1,1,0,0
+Cleburne,HEBER SPRINGS OUTSIDE,State Senate,18,LIB,James Burk,22,13,0,9
+Cleburne,MOUNTAIN,State Senate,18,LIB,James Burk,6,1,0,5
+Cleburne,PICKENS,State Senate,18,LIB,James Burk,5,4,0,1
+Cleburne,PINEY,State Senate,18,LIB,James Burk,11,6,0,5
+Cleburne,VALLEY,State Senate,18,LIB,James Burk,5,4,0,1
+Cleburne,CALIFORNIA,State Senate,22,REP,Representative John Payton,145,54,1,90
+Cleburne,FRANCIS,State Senate,22,REP,Representative John Payton,283,123,5,155
+Cleburne,GRASSEY INSIDE,State Senate,22,REP,Representative John Payton,62,9,3,50
+Cleburne,GRASSEY OUTSIDE,State Senate,22,REP,Representative John Payton,268,53,0,215
+Cleburne,GREERS FERRY GILES,State Senate,22,REP,Representative John Payton,335,79,3,253
+Cleburne,GILES,State Senate,22,REP,Representative John Payton,253,67,0,186
+Cleburne,HEALING SPRINGS,State Senate,22,REP,Representative John Payton,335,83,4,248
+Cleburne,HEBER SPRINGS WARD 2,State Senate,22,REP,Representative John Payton,433,291,14,128
+Cleburne,HEBER SPRINGS WARD 3,State Senate,22,REP,Representative John Payton,630,440,12,178
+Cleburne,HEBER SPRINGS WARD 4,State Senate,22,REP,Representative John Payton,513,300,11,202
+Cleburne,HEBER SPRINGS OUTSIDE,State Senate,22,REP,Representative John Payton,468,346,5,117
+Cleburne,MCJESTER,State Senate,22,REP,Representative John Payton,143,62,8,73
+Cleburne,EAST PETER CREEK,State Senate,22,REP,Representative John Payton,217,70,2,145
+Cleburne,WEST PETER CREEK,State Senate,22,REP,Representative John Payton,414,206,4,204
+Cleburne,PINE,State Senate,22,REP,Representative John Payton,81,30,1,50
+Cleburne,SUGAR LOAF,State Senate,22,REP,Representative John Payton,240,133,3,104
+Cleburne,WILBURN,State Senate,22,REP,Representative John Payton,104,27,0,77
+Cleburne,CENTER POST,State Senate,24,REP,Senator Missy Thomas Irvin,273,119,2,152
+Cleburne,MORGAN OUTSIDE,State Senate,24,REP,Senator Missy Thomas Irvin,154,35,5,114
+Cleburne,POFF,State Senate,24,REP,Senator Missy Thomas Irvin,36,13,0,23
+Cleburne,SALINE INSIDE,State Senate,24,REP,Senator Missy Thomas Irvin,56,21,0,35
+Cleburne,SALINE OUTSIDE,State Senate,24,REP,Senator Missy Thomas Irvin,186,80,0,106
+Cleburne,SUGAR CAMP,State Senate,24,REP,Senator Missy Thomas Irvin,174,39,2,133
+Cleburne,MORGAN INSIDE,State Senate,24,REP,Senator Missy Thomas Irvin,107,24,2,81
+Cleburne,MCJESTER,State House,40,REP,Shad Pearce,141,58,8,75
+Cleburne,PINE,State House,40,REP,Shad Pearce,79,29,1,49
+Cleburne,WILBURN,State House,40,REP,Shad Pearce,102,27,0,75
+Cleburne,SOUTH CADRON OUTSIDE,State House,41,REP,State Representative Josh Miller,173,75,4,94
+Cleburne,CALIFORNIA,State House,41,REP,State Representative Josh Miller,145,55,1,89
+Cleburne,CENTER POST,State House,41,REP,State Representative Josh Miller,254,116,2,136
+Cleburne,CLAYTON,State House,41,REP,State Representative Josh Miller,377,183,2,192
+Cleburne,FRANCIS,State House,41,REP,State Representative Josh Miller,275,120,5,150
+Cleburne,GRASSEY INSIDE,State House,41,REP,State Representative Josh Miller,59,9,3,47
+Cleburne,GRASSEY OUTSIDE,State House,41,REP,State Representative Josh Miller,248,47,0,201
+Cleburne,GREERS FERRY GILES,State House,41,REP,State Representative Josh Miller,310,78,3,229
+Cleburne,GILES,State House,41,REP,State Representative Josh Miller,245,62,0,183
+Cleburne,HEALING SPRINGS,State House,41,REP,State Representative Josh Miller,311,77,4,230
+Cleburne,HEBER SPRINGS WARD 1,State House,41,REP,State Representative Josh Miller,396,258,4,134
+Cleburne,HEBER SPRINGS WARD 2,State House,41,REP,State Representative Josh Miller,371,250,11,110
+Cleburne,HEBER SPRINGS WARD 3,State House,41,REP,State Representative Josh Miller,550,397,8,145
+Cleburne,HEBER SPRINGS WARD 4,State House,41,REP,State Representative Josh Miller,468,279,8,181
+Cleburne,HEBER SPRINGS OUTSIDE,State House,41,REP,State Representative Josh Miller,962,675,14,273
+Cleburne,MORGAN OUTSIDE,State House,41,REP,State Representative Josh Miller,146,33,4,109
+Cleburne,MOUNTAIN,State House,41,REP,State Representative Josh Miller,281,132,1,148
+Cleburne,EAST PETER CREEK,State House,41,REP,State Representative Josh Miller,207,70,2,135
+Cleburne,WEST PETER CREEK,State House,41,REP,State Representative Josh Miller,386,193,4,189
+Cleburne,PICKENS,State House,41,REP,State Representative Josh Miller,191,92,5,94
+Cleburne,PINEY,State House,41,REP,State Representative Josh Miller,380,129,6,245
+Cleburne,POFF,State House,41,REP,State Representative Josh Miller,34,13,0,21
+Cleburne,SALINE INSIDE,State House,41,REP,State Representative Josh Miller,53,21,0,32
+Cleburne,SALINE OUTSIDE,State House,41,REP,State Representative Josh Miller,171,76,0,95
+Cleburne,SUGAR CAMP,State House,41,REP,State Representative Josh Miller,161,37,2,122
+Cleburne,SUGAR LOAF,State House,41,REP,State Representative Josh Miller,212,116,2,94
+Cleburne,VALLEY,State House,41,REP,State Representative Josh Miller,160,111,7,42
+Cleburne,MORGAN INSIDE,State House,41,REP,State Representative Josh Miller,100,21,2,77
+Cleburne,SOUTH CADRON OUTSIDE,State House,41,LIB,"Edward M. Flanigan, III",22,8,1,13
+Cleburne,CALIFORNIA,State House,41,LIB,"Edward M. Flanigan, III",8,3,0,5
+Cleburne,CENTER POST,State House,41,LIB,"Edward M. Flanigan, III",36,21,1,14
+Cleburne,CLAYTON,State House,41,LIB,"Edward M. Flanigan, III",50,29,1,20
+Cleburne,FRANCIS,State House,41,LIB,"Edward M. Flanigan, III",27,12,0,15
+Cleburne,GRASSEY INSIDE,State House,41,LIB,"Edward M. Flanigan, III",7,0,0,7
+Cleburne,GRASSEY OUTSIDE,State House,41,LIB,"Edward M. Flanigan, III",38,11,0,27
+Cleburne,GREERS FERRY GILES,State House,41,LIB,"Edward M. Flanigan, III",55,9,0,46
+Cleburne,GILES,State House,41,LIB,"Edward M. Flanigan, III",22,11,0,11
+Cleburne,HEALING SPRINGS,State House,41,LIB,"Edward M. Flanigan, III",40,18,0,22
+Cleburne,HEBER SPRINGS WARD 1,State House,41,LIB,"Edward M. Flanigan, III",100,66,3,31
+Cleburne,HEBER SPRINGS WARD 2,State House,41,LIB,"Edward M. Flanigan, III",112,74,5,33
+Cleburne,HEBER SPRINGS WARD 3,State House,41,LIB,"Edward M. Flanigan, III",131,82,3,46
+Cleburne,HEBER SPRINGS WARD 4,State House,41,LIB,"Edward M. Flanigan, III",109,65,3,41
+Cleburne,HEBER SPRINGS OUTSIDE,State House,41,LIB,"Edward M. Flanigan, III",177,107,4,66
+Cleburne,MORGAN OUTSIDE,State House,41,LIB,"Edward M. Flanigan, III",27,7,3,17
+Cleburne,MOUNTAIN,State House,41,LIB,"Edward M. Flanigan, III",38,16,2,20
+Cleburne,EAST PETER CREEK,State House,41,LIB,"Edward M. Flanigan, III",24,7,0,17
+Cleburne,WEST PETER CREEK,State House,41,LIB,"Edward M. Flanigan, III",75,36,3,36
+Cleburne,PICKENS,State House,41,LIB,"Edward M. Flanigan, III",28,22,0,6
+Cleburne,PINEY,State House,41,LIB,"Edward M. Flanigan, III",58,33,2,23
+Cleburne,POFF,State House,41,LIB,"Edward M. Flanigan, III",4,0,0,4
+Cleburne,SALINE INSIDE,State House,41,LIB,"Edward M. Flanigan, III",8,3,0,5
+Cleburne,SALINE OUTSIDE,State House,41,LIB,"Edward M. Flanigan, III",27,11,1,15
+Cleburne,SUGAR CAMP,State House,41,LIB,"Edward M. Flanigan, III",23,5,0,18
+Cleburne,SUGAR LOAF,State House,41,LIB,"Edward M. Flanigan, III",56,31,2,23
+Cleburne,VALLEY,State House,41,LIB,"Edward M. Flanigan, III",34,28,1,5
+Cleburne,MORGAN INSIDE,State House,41,LIB,"Edward M. Flanigan, III",11,2,0,9
+Cleburne,NORTH CADRON INSIDE,State House,42,REP,Representative Stephen Meeks,95,25,1,69
+Cleburne,NORTH CADRON OUTSIDE,State House,42,REP,Representative Stephen Meeks,205,81,0,124
+Cleburne,SOUTH CADRON INSIDE,State House,42,REP,Representative Stephen Meeks,138,34,1,103
+Cleburne,NORTH CADRON INSIDE,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,42,11,1,30
+Cleburne,NORTH CADRON OUTSIDE,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,95,35,0,60
+Cleburne,SOUTH CADRON INSIDE,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,60,19,1,40
+Cleburne,SOUTH CADRON OUTSIDE,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,81,40,3,38
+Cleburne,CALIFORNIA,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,88,40,1,47
+Cleburne,CENTER POST,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,138,67,1,70
+Cleburne,CLAYTON,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,202,114,1,87
+Cleburne,FRANCIS,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,150,67,3,80
+Cleburne,GRASSEY INSIDE,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,33,8,0,25
+Cleburne,GRASSEY OUTSIDE,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,143,27,0,116
+Cleburne,GREERS FERRY GILES,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,186,43,1,142
+Cleburne,GILES,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,140,33,0,107
+Cleburne,HEALING SPRINGS,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,184,52,2,130
+Cleburne,HEBER SPRINGS WARD 1,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,234,154,6,74
+Cleburne,HEBER SPRINGS WARD 2,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,250,165,7,78
+Cleburne,HEBER SPRINGS WARD 3,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,349,261,8,80
+Cleburne,HEBER SPRINGS WARD 4,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,261,153,7,101
+Cleburne,HEBER SPRINGS OUTSIDE,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,574,413,10,151
+Cleburne,MCJESTER,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,66,34,5,27
+Cleburne,MORGAN OUTSIDE,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,83,19,3,61
+Cleburne,MOUNTAIN,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,174,80,1,93
+Cleburne,EAST PETER CREEK,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,134,45,0,89
+Cleburne,WEST PETER CREEK,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,229,113,6,110
+Cleburne,PICKENS,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,102,48,3,51
+Cleburne,PINE,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,30,10,1,19
+Cleburne,PINEY,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,205,71,2,132
+Cleburne,POFF,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,18,7,0,11
+Cleburne,SALINE INSIDE,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,30,12,0,18
+Cleburne,SALINE OUTSIDE,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,91,45,0,46
+Cleburne,SUGAR CAMP,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,94,15,2,77
+Cleburne,SUGAR LOAF,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,132,68,1,63
+Cleburne,VALLEY,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,91,60,6,25
+Cleburne,WILBURN,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,52,9,0,43
+Cleburne,MORGAN INSIDE,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,48,9,2,37
+Cleburne,NORTH CADRON INSIDE,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,48,12,0,36
+Cleburne,NORTH CADRON OUTSIDE,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,93,42,0,51
+Cleburne,SOUTH CADRON INSIDE,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,75,18,1,56
+Cleburne,SOUTH CADRON OUTSIDE,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,96,39,2,55
+Cleburne,CALIFORNIA,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,45,15,0,30
+Cleburne,CENTER POST,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,127,59,1,67
+Cleburne,CLAYTON,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,179,80,1,98
+Cleburne,FRANCIS,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,121,51,2,68
+Cleburne,GRASSEY INSIDE,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,31,2,3,26
+Cleburne,GRASSEY OUTSIDE,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,129,28,0,101
+Cleburne,GREERS FERRY GILES,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,145,34,2,109
+Cleburne,GILES,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,108,34,0,74
+Cleburne,HEALING SPRINGS,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,132,35,1,96
+Cleburne,HEBER SPRINGS WARD 1,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,220,145,2,73
+Cleburne,HEBER SPRINGS WARD 2,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,195,133,9,53
+Cleburne,HEBER SPRINGS WARD 3,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,273,180,5,88
+Cleburne,HEBER SPRINGS WARD 4,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,269,157,4,108
+Cleburne,HEBER SPRINGS OUTSIDE,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,454,294,8,152
+Cleburne,MCJESTER,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,77,31,3,43
+Cleburne,MORGAN OUTSIDE,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,66,14,3,49
+Cleburne,MOUNTAIN,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,117,55,2,60
+Cleburne,EAST PETER CREEK,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,84,27,2,55
+Cleburne,WEST PETER CREEK,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,185,92,2,91
+Cleburne,PICKENS,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,101,60,1,40
+Cleburne,PINE,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,43,15,0,28
+Cleburne,PINEY,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,204,80,5,119
+Cleburne,POFF,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,19,9,0,10
+Cleburne,SALINE INSIDE,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,31,11,0,20
+Cleburne,SALINE OUTSIDE,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,83,35,0,48
+Cleburne,SUGAR CAMP,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,66,21,0,45
+Cleburne,SUGAR LOAF,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,119,71,2,46
+Cleburne,VALLEY,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,80,59,2,19
+Cleburne,WILBURN,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,46,14,0,32
+Cleburne,MORGAN INSIDE,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,49,11,0,38
+Cleburne,NORTH CADRON INSIDE,CLEBURNE COUNTY CIRCUIT CLERK,,REP,REP Heather Smith,96,25,1,70
+Cleburne,NORTH CADRON OUTSIDE,CLEBURNE COUNTY CIRCUIT CLERK,,REP,REP Heather Smith,207,83,0,124
+Cleburne,SOUTH CADRON INSIDE,CLEBURNE COUNTY CIRCUIT CLERK,,REP,REP Heather Smith,142,35,1,106
+Cleburne,SOUTH CADRON OUTSIDE,CLEBURNE COUNTY CIRCUIT CLERK,,REP,REP Heather Smith,185,80,4,101
+Cleburne,CALIFORNIA,CLEBURNE COUNTY CIRCUIT CLERK,,REP,REP Heather Smith,143,55,1,87
+Cleburne,CENTER POST,CLEBURNE COUNTY CIRCUIT CLERK,,REP,REP Heather Smith,285,131,2,152
+Cleburne,CLAYTON,CLEBURNE COUNTY CIRCUIT CLERK,,REP,REP Heather Smith,404,199,2,203
+Cleburne,FRANCIS,CLEBURNE COUNTY CIRCUIT CLERK,,REP,REP Heather Smith,288,126,5,157
+Cleburne,GRASSEY INSIDE,CLEBURNE COUNTY CIRCUIT CLERK,,REP,REP Heather Smith,62,9,3,50
+Cleburne,GRASSEY OUTSIDE,CLEBURNE COUNTY CIRCUIT CLERK,,REP,REP Heather Smith,277,56,0,221
+Cleburne,GREERS FERRY GILES,CLEBURNE COUNTY CIRCUIT CLERK,,REP,REP Heather Smith,353,83,3,267
+Cleburne,GILES,CLEBURNE COUNTY CIRCUIT CLERK,,REP,REP Heather Smith,265,72,0,193
+Cleburne,HEALING SPRINGS,CLEBURNE COUNTY CIRCUIT CLERK,,REP,REP Heather Smith,341,88,4,249
+Cleburne,HEBER SPRINGS WARD 1,CLEBURNE COUNTY CIRCUIT CLERK,,REP,REP Heather Smith,474,308,5,161
+Cleburne,HEBER SPRINGS WARD 2,CLEBURNE COUNTY CIRCUIT CLERK,,REP,REP Heather Smith,459,308,16,135
+Cleburne,HEBER SPRINGS WARD 3,CLEBURNE COUNTY CIRCUIT CLERK,,REP,REP Heather Smith,656,462,12,182
+Cleburne,HEBER SPRINGS WARD 4,CLEBURNE COUNTY CIRCUIT CLERK,,REP,REP Heather Smith,550,325,11,214
+Cleburne,HEBER SPRINGS OUTSIDE,CLEBURNE COUNTY CIRCUIT CLERK,,REP,REP Heather Smith,1097,756,18,323
+Cleburne,MCJESTER,CLEBURNE COUNTY CIRCUIT CLERK,,REP,REP Heather Smith,149,65,8,76
+Cleburne,MORGAN OUTSIDE,CLEBURNE COUNTY CIRCUIT CLERK,,REP,REP Heather Smith,161,36,7,118
+Cleburne,MOUNTAIN,CLEBURNE COUNTY CIRCUIT CLERK,,REP,REP Heather Smith,314,145,3,166
+Cleburne,EAST PETER CREEK,CLEBURNE COUNTY CIRCUIT CLERK,,REP,REP Heather Smith,226,75,2,149
+Cleburne,WEST PETER CREEK,CLEBURNE COUNTY CIRCUIT CLERK,,REP,REP Heather Smith,441,219,7,215
+Cleburne,PICKENS,CLEBURNE COUNTY CIRCUIT CLERK,,REP,REP Heather Smith,211,111,5,95
+Cleburne,PINE,CLEBURNE COUNTY CIRCUIT CLERK,,REP,REP Heather Smith,81,28,1,52
+Cleburne,PINEY,CLEBURNE COUNTY CIRCUIT CLERK,,REP,REP Heather Smith,428,156,8,264
+Cleburne,POFF,CLEBURNE COUNTY CIRCUIT CLERK,,REP,REP Heather Smith,39,15,0,24
+Cleburne,SALINE INSIDE,CLEBURNE COUNTY CIRCUIT CLERK,,REP,REP Heather Smith,60,24,0,36
+Cleburne,SALINE OUTSIDE,CLEBURNE COUNTY CIRCUIT CLERK,,REP,REP Heather Smith,193,83,0,110
+Cleburne,SUGAR CAMP,CLEBURNE COUNTY CIRCUIT CLERK,,REP,REP Heather Smith,179,40,2,137
+Cleburne,SUGAR LOAF,CLEBURNE COUNTY CIRCUIT CLERK,,REP,REP Heather Smith,252,139,3,110
+Cleburne,VALLEY,CLEBURNE COUNTY CIRCUIT CLERK,,REP,REP Heather Smith,188,134,8,46
+Cleburne,WILBURN,CLEBURNE COUNTY CIRCUIT CLERK,,REP,REP Heather Smith,108,28,0,80
+Cleburne,MORGAN INSIDE,CLEBURNE COUNTY CIRCUIT CLERK,,REP,REP Heather Smith,107,22,2,83
+Cleburne,CALIFORNIA,JUSTICE OF THE PEACE DISTRICT 2,,IND,IND Brittany Ann Stubbs,33,14,0,19
+Cleburne,FRANCIS,JUSTICE OF THE PEACE DISTRICT 2,,IND,IND Brittany Ann Stubbs,55,25,0,30
+Cleburne,GILES,JUSTICE OF THE PEACE DISTRICT 2,,IND,IND Brittany Ann Stubbs,15,0,0,15
+Cleburne,HEALING SPRINGS,JUSTICE OF THE PEACE DISTRICT 2,,IND,IND Brittany Ann Stubbs,46,20,0,26
+Cleburne,MORGAN OUTSIDE,JUSTICE OF THE PEACE DISTRICT 2,,IND,IND Brittany Ann Stubbs,1,0,0,1
+Cleburne,POFF,JUSTICE OF THE PEACE DISTRICT 2,,IND,IND Brittany Ann Stubbs,6,0,0,6
+Cleburne,SUGAR CAMP,JUSTICE OF THE PEACE DISTRICT 2,,IND,IND Brittany Ann Stubbs,44,10,1,33
+Cleburne,CALIFORNIA,JUSTICE OF THE PEACE DISTRICT 2,,REP,REP Sam Henegar,118,43,1,74
+Cleburne,FRANCIS,JUSTICE OF THE PEACE DISTRICT 2,,REP,REP Sam Henegar,242,106,5,131
+Cleburne,GILES,JUSTICE OF THE PEACE DISTRICT 2,,REP,REP Sam Henegar,52,12,0,40
+Cleburne,HEALING SPRINGS,JUSTICE OF THE PEACE DISTRICT 2,,REP,REP Sam Henegar,142,35,0,107
+Cleburne,MORGAN OUTSIDE,JUSTICE OF THE PEACE DISTRICT 2,,REP,REP Sam Henegar,3,0,0,3
+Cleburne,POFF,JUSTICE OF THE PEACE DISTRICT 2,,REP,REP Sam Henegar,18,6,0,12
+Cleburne,SUGAR CAMP,JUSTICE OF THE PEACE DISTRICT 2,,REP,REP Sam Henegar,141,31,1,109
+Cleburne,HEBER SPRINGS WARD 1,JUSTICE OF THE PEACE DISTRICT 7,,REP,REP Jacque Patchell Martin,152,91,2,59
+Cleburne,HEBER SPRINGS WARD 4,JUSTICE OF THE PEACE DISTRICT 7,,REP,REP Jacque Patchell Martin,73,40,1,32
+Cleburne,HEBER SPRINGS OUTSIDE,JUSTICE OF THE PEACE DISTRICT 7,,REP,REP Jacque Patchell Martin,92,67,1,24
+Cleburne,HEBER SPRINGS WARD 1,JUSTICE OF THE PEACE DISTRICT 7,,IND,IND Gary Euton,147,86,3,58
+Cleburne,HEBER SPRINGS WARD 4,JUSTICE OF THE PEACE DISTRICT 7,,IND,IND Gary Euton,75,49,1,25
+Cleburne,HEBER SPRINGS OUTSIDE,JUSTICE OF THE PEACE DISTRICT 7,,IND,IND Gary Euton,82,45,5,32
+Cleburne,GREERS FERRY GILES,GREERS FERRY MAYOR,,IND,IND Darryl Birdsong,332,75,3,254
+Cleburne,GREERS FERRY GILES,GREERS FERRY ALDERMAN, WARD 1-POSITION 1,IND,IND Scott Hartsfield,192,50,2,140
+Cleburne,GREERS FERRY GILES,GREERS FERRY ALDERMAN, WARD 1-POSITION 1,IND,IND Tim Janssen,154,29,1,124
+Cleburne,GREERS FERRY GILES,GREERS FERRY ALDERMAN, WARD 1-POSITION 2,IND,IND Mike Clevenger,216,55,2,159
+Cleburne,GREERS FERRY GILES,GREERS FERRY ALDERMAN, WARD 1-POSITION 2,IND,IND Jay England,129,24,1,104
+Cleburne,GREERS FERRY GILES,GREERS FERRY ALDERMAN, WARD 2-POSITION 3,IND,"IND Randy ""Cowboy"" Lance",193,43,0,150
+Cleburne,GREERS FERRY GILES,GREERS FERRY ALDERMAN, WARD 2-POSITION 3,IND,IND Dustin Baker,150,34,3,113
+Cleburne,HEBER SPRINGS WARD 1,HEBER SPRINGS MAYOR,,IND,IND Kasey Griffin,450,298,8,144
+Cleburne,HEBER SPRINGS WARD 2,HEBER SPRINGS MAYOR,,IND,IND Kasey Griffin,431,290,15,126
+Cleburne,HEBER SPRINGS WARD 3,HEBER SPRINGS MAYOR,,IND,IND Kasey Griffin,598,419,10,169
+Cleburne,HEBER SPRINGS WARD 4,HEBER SPRINGS MAYOR,,IND,IND Kasey Griffin,514,303,12,199
+Cleburne,HEBER SPRINGS WARD 1,HEBER SPRINGS CITY CLERK,,IND,IND Vicki McPherson,457,297,8,152
+Cleburne,HEBER SPRINGS WARD 2,HEBER SPRINGS CITY CLERK,,IND,IND Vicki McPherson,426,284,16,126
+Cleburne,HEBER SPRINGS WARD 3,HEBER SPRINGS CITY CLERK,,IND,IND Vicki McPherson,605,427,11,167
+Cleburne,HEBER SPRINGS WARD 4,HEBER SPRINGS CITY CLERK,,IND,IND Vicki McPherson,512,304,12,196
+Cleburne,HEBER SPRINGS WARD 2,HEBER SPRINGS ALDERMAN, WARD 2-POSITION 1,IND,IND Layne Tubbs,290,191,11,88
+Cleburne,HEBER SPRINGS WARD 2,HEBER SPRINGS ALDERMAN, WARD 2-POSITION 1,IND,IND Kraig Leathers,160,115,6,39
+Cleburne,NORTH CADRON INSIDE,QUITMAN MAYOR,,IND,IND Tonia Shue,21,7,0,14
+Cleburne,SOUTH CADRON INSIDE,QUITMAN MAYOR,,IND,IND Tonia Shue,35,13,1,21
+Cleburne,NORTH CADRON INSIDE,QUITMAN MAYOR,,IND,IND Todd Henry,82,19,1,62
+Cleburne,SOUTH CADRON INSIDE,QUITMAN MAYOR,,IND,IND Todd Henry,114,26,0,88
+Cleburne,NORTH CADRON INSIDE,QUITMAN ALDERMAN, WARD 2-POSITION 2,IND,IND Ellen Gardner,24,8,0,16
+Cleburne,SOUTH CADRON INSIDE,QUITMAN ALDERMAN, WARD 2-POSITION 2,IND,IND Ellen Gardner,41,14,1,26
+Cleburne,NORTH CADRON INSIDE,QUITMAN ALDERMAN, WARD 2-POSITION 2,IND,IND Samantha Henry,74,16,1,57
+Cleburne,SOUTH CADRON INSIDE,QUITMAN ALDERMAN, WARD 2-POSITION 2,IND,IND Samantha Henry,99,23,0,76
+Cleburne,MORGAN INSIDE,CITY OF FAIRFIELD BAY MAYOR,,IND,IND Jackie Sikes,25,3,0,22
+Cleburne,MORGAN INSIDE,CITY OF FAIRFIELD BAY MAYOR,,IND,IND John P. Conry,35,7,0,28
+Cleburne,MORGAN INSIDE,CITY OF FAIRFIELD BAY MAYOR,,IND,IND Daniel S. Feuer,36,6,2,28
+Cleburne,MORGAN INSIDE,CITY OF FAIRFIELD BAY MAYOR,,IND,IND Linda Duncan,18,8,0,10
+Cleburne,MORGAN INSIDE,CITY OF FAIRFIELD BAY CITY COUNCIL WARD 3, POSITI,IND,IND Don Bailey,58,10,0,48
+Cleburne,MORGAN INSIDE,CITY OF FAIRFIELD BAY CITY COUNCIL WARD 3, POSITI,IND,IND Bella Anita Comas,47,13,2,32
+Cleburne,MORGAN INSIDE,CITY OF FAIRFIELD BAY CITY COUNCIL WARD 2, POSITI,IND,IND Robert Otis,34,6,0,28
+Cleburne,MORGAN INSIDE,CITY OF FAIRFIELD BAY CITY COUNCIL WARD 2, POSITI,IND,IND Ruth Krotz,78,18,2,58
+Cleburne,SALINE INSIDE,HIGDEN MAYOR,,IND,IND Scott Barker,62,24,0,38
+Cleburne,SALINE INSIDE,HIGDEN RECORDER,,IND,IND R Wayne Weatherford,63,24,0,39
+Cleburne,NORTH CADRON INSIDE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,29,12,0,17
+Cleburne,NORTH CADRON OUTSIDE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,74,31,0,43
+Cleburne,SOUTH CADRON INSIDE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,44,15,1,28
+Cleburne,SOUTH CADRON OUTSIDE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,54,31,1,22
+Cleburne,CALIFORNIA,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,41,17,0,24
+Cleburne,CENTER POST,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,99,56,1,42
+Cleburne,CLAYTON,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,157,90,1,66
+Cleburne,FRANCIS,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,114,47,1,66
+Cleburne,GRASSEY INSIDE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,23,2,2,19
+Cleburne,GRASSEY OUTSIDE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,85,24,0,61
+Cleburne,GREERS FERRY GILES,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,136,42,1,93
+Cleburne,GILES,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,73,18,0,55
+Cleburne,HEALING SPRINGS,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,101,32,1,68
+Cleburne,HEBER SPRINGS WARD 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,219,148,1,70
+Cleburne,HEBER SPRINGS WARD 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,202,140,8,54
+Cleburne,HEBER SPRINGS WARD 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,281,202,6,73
+Cleburne,HEBER SPRINGS WARD 4,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,254,148,10,96
+Cleburne,HEBER SPRINGS OUTSIDE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,502,332,13,157
+Cleburne,MCJESTER,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,68,27,3,38
+Cleburne,MORGAN OUTSIDE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,76,20,2,54
+Cleburne,MOUNTAIN,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,107,60,2,45
+Cleburne,EAST PETER CREEK,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,64,19,0,45
+Cleburne,WEST PETER CREEK,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,169,101,1,67
+Cleburne,PICKENS,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,86,44,1,41
+Cleburne,PINE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,27,15,0,12
+Cleburne,PINEY,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,191,72,6,113
+Cleburne,POFF,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,17,10,0,7
+Cleburne,SALINE INSIDE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,24,8,0,16
+Cleburne,SALINE OUTSIDE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,61,29,0,32
+Cleburne,SUGAR CAMP,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,45,12,2,31
+Cleburne,SUGAR LOAF,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,96,58,4,34
+Cleburne,VALLEY,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,84,63,5,16
+Cleburne,WILBURN,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,40,14,0,26
+Cleburne,MORGAN INSIDE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,36,5,2,29
+Cleburne,NORTH CADRON INSIDE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,69,14,0,55
+Cleburne,NORTH CADRON OUTSIDE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,132,51,0,81
+Cleburne,SOUTH CADRON INSIDE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,99,24,1,74
+Cleburne,SOUTH CADRON OUTSIDE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,135,51,4,80
+Cleburne,CALIFORNIA,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,106,38,1,67
+Cleburne,CENTER POST,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,195,80,2,113
+Cleburne,CLAYTON,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,265,119,2,144
+Cleburne,FRANCIS,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,181,85,3,93
+Cleburne,GRASSEY INSIDE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,44,8,1,35
+Cleburne,GRASSEY OUTSIDE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,200,33,0,167
+Cleburne,GREERS FERRY GILES,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,225,45,1,179
+Cleburne,GILES,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,180,54,0,126
+Cleburne,HEALING SPRINGS,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,243,61,2,180
+Cleburne,HEBER SPRINGS WARD 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,266,172,8,86
+Cleburne,HEBER SPRINGS WARD 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,277,182,8,87
+Cleburne,HEBER SPRINGS WARD 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,390,271,7,112
+Cleburne,HEBER SPRINGS WARD 4,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,317,198,3,116
+Cleburne,HEBER SPRINGS OUTSIDE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,612,425,5,182
+Cleburne,MCJESTER,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,86,43,5,38
+Cleburne,MORGAN OUTSIDE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,95,20,5,70
+Cleburne,MOUNTAIN,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,201,85,1,115
+Cleburne,EAST PETER CREEK,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,158,55,2,101
+Cleburne,WEST PETER CREEK,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,279,120,7,152
+Cleburne,PICKENS,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,128,70,4,54
+Cleburne,PINE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,62,18,1,43
+Cleburne,PINEY,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,246,90,2,154
+Cleburne,POFF,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,23,6,0,17
+Cleburne,SALINE INSIDE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,39,16,0,23
+Cleburne,SALINE OUTSIDE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,135,54,1,80
+Cleburne,SUGAR CAMP,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,131,27,0,104
+Cleburne,SUGAR LOAF,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,173,91,0,82
+Cleburne,VALLEY,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,107,77,3,27
+Cleburne,WILBURN,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,64,12,1,51
+Cleburne,MORGAN INSIDE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,78,19,0,59
+Cleburne,NORTH CADRON INSIDE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,38,9,1,28
+Cleburne,NORTH CADRON OUTSIDE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,80,32,0,48
+Cleburne,SOUTH CADRON INSIDE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,53,17,0,36
+Cleburne,SOUTH CADRON OUTSIDE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,80,34,0,46
+Cleburne,CALIFORNIA,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,65,22,1,42
+Cleburne,CENTER POST,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,123,58,2,63
+Cleburne,CLAYTON,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,170,91,0,79
+Cleburne,FRANCIS,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,132,51,1,80
+Cleburne,GRASSEY INSIDE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,33,2,2,29
+Cleburne,GRASSEY OUTSIDE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,102,22,0,80
+Cleburne,GREERS FERRY GILES,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,166,43,2,121
+Cleburne,GILES,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,107,24,0,83
+Cleburne,HEALING SPRINGS,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,137,37,1,99
+Cleburne,HEBER SPRINGS WARD 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,228,157,2,69
+Cleburne,HEBER SPRINGS WARD 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,203,147,5,51
+Cleburne,HEBER SPRINGS WARD 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,312,216,6,90
+Cleburne,HEBER SPRINGS WARD 4,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,274,159,10,105
+Cleburne,HEBER SPRINGS OUTSIDE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,545,372,12,161
+Cleburne,MCJESTER,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,77,35,3,39
+Cleburne,MORGAN OUTSIDE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,82,19,2,61
+Cleburne,MOUNTAIN,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,149,72,0,77
+Cleburne,EAST PETER CREEK,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,81,27,0,54
+Cleburne,WEST PETER CREEK,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,192,101,5,86
+Cleburne,PICKENS,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,90,41,2,47
+Cleburne,PINE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,34,14,0,20
+Cleburne,PINEY,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,206,77,6,123
+Cleburne,POFF,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,22,11,0,11
+Cleburne,SALINE INSIDE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,22,6,0,16
+Cleburne,SALINE OUTSIDE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,86,36,0,50
+Cleburne,SUGAR CAMP,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,60,11,2,47
+Cleburne,SUGAR LOAF,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,94,59,2,33
+Cleburne,VALLEY,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,109,78,3,28
+Cleburne,WILBURN,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,45,11,0,34
+Cleburne,MORGAN INSIDE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,34,6,1,27
+Cleburne,NORTH CADRON INSIDE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,63,17,0,46
+Cleburne,NORTH CADRON OUTSIDE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,129,51,0,78
+Cleburne,SOUTH CADRON INSIDE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,91,22,2,67
+Cleburne,SOUTH CADRON OUTSIDE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,112,49,5,58
+Cleburne,CALIFORNIA,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,86,34,0,52
+Cleburne,CENTER POST,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,173,78,1,94
+Cleburne,CLAYTON,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,254,119,3,132
+Cleburne,FRANCIS,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,166,80,4,82
+Cleburne,GRASSEY INSIDE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,35,8,1,26
+Cleburne,GRASSEY OUTSIDE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,184,33,0,151
+Cleburne,GREERS FERRY GILES,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,203,45,0,158
+Cleburne,GILES,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,155,49,0,106
+Cleburne,HEALING SPRINGS,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,215,60,2,153
+Cleburne,HEBER SPRINGS WARD 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,261,163,7,91
+Cleburne,HEBER SPRINGS WARD 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,274,173,11,90
+Cleburne,HEBER SPRINGS WARD 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,372,266,7,99
+Cleburne,HEBER SPRINGS WARD 4,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,299,187,4,108
+Cleburne,HEBER SPRINGS OUTSIDE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,582,395,5,182
+Cleburne,MCJESTER,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,78,37,5,36
+Cleburne,MORGAN OUTSIDE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,88,21,4,63
+Cleburne,MOUNTAIN,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,161,74,3,84
+Cleburne,EAST PETER CREEK,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,147,50,2,95
+Cleburne,WEST PETER CREEK,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,260,120,3,137
+Cleburne,PICKENS,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,124,71,3,50
+Cleburne,PINE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,57,18,1,38
+Cleburne,PINEY,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,231,85,2,144
+Cleburne,POFF,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,19,5,0,14
+Cleburne,SALINE INSIDE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,40,18,0,22
+Cleburne,SALINE OUTSIDE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,113,48,1,64
+Cleburne,SUGAR CAMP,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,120,28,0,92
+Cleburne,SUGAR LOAF,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,174,91,2,81
+Cleburne,VALLEY,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,85,62,5,18
+Cleburne,WILBURN,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,65,15,1,49
+Cleburne,MORGAN INSIDE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,81,17,1,63
+Cleburne,NORTH CADRON INSIDE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,46,15,0,31
+Cleburne,NORTH CADRON OUTSIDE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,96,43,0,53
+Cleburne,SOUTH CADRON INSIDE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,70,20,1,49
+Cleburne,SOUTH CADRON OUTSIDE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,100,45,2,53
+Cleburne,CALIFORNIA,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,66,24,0,42
+Cleburne,CENTER POST,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,159,78,3,78
+Cleburne,CLAYTON,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,211,115,1,95
+Cleburne,FRANCIS,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,172,74,3,95
+Cleburne,GRASSEY INSIDE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,33,3,3,27
+Cleburne,GRASSEY OUTSIDE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,126,26,0,100
+Cleburne,GREERS FERRY GILES,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,220,57,2,161
+Cleburne,GILES,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,121,33,0,88
+Cleburne,HEALING SPRINGS,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,182,57,2,123
+Cleburne,HEBER SPRINGS WARD 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,279,192,4,83
+Cleburne,HEBER SPRINGS WARD 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,253,175,6,72
+Cleburne,HEBER SPRINGS WARD 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,363,262,8,93
+Cleburne,HEBER SPRINGS WARD 4,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,325,190,9,126
+Cleburne,HEBER SPRINGS OUTSIDE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,627,438,12,177
+Cleburne,MCJESTER,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,90,46,0,44
+Cleburne,MORGAN OUTSIDE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,109,24,3,82
+Cleburne,MOUNTAIN,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,169,84,1,84
+Cleburne,EAST PETER CREEK,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,110,34,0,76
+Cleburne,WEST PETER CREEK,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,239,130,4,105
+Cleburne,PICKENS,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,110,50,3,57
+Cleburne,PINE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,35,15,0,20
+Cleburne,PINEY,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,239,93,7,139
+Cleburne,POFF,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,22,9,0,13
+Cleburne,SALINE INSIDE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,27,5,0,22
+Cleburne,SALINE OUTSIDE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,101,47,0,54
+Cleburne,SUGAR CAMP,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,75,20,0,55
+Cleburne,SUGAR LOAF,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,142,82,2,58
+Cleburne,VALLEY,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,95,67,6,22
+Cleburne,WILBURN,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,70,21,0,49
+Cleburne,MORGAN INSIDE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,45,7,2,36
+Cleburne,NORTH CADRON INSIDE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,53,11,1,41
+Cleburne,NORTH CADRON OUTSIDE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,113,39,0,74
+Cleburne,SOUTH CADRON INSIDE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,73,19,1,53
+Cleburne,SOUTH CADRON OUTSIDE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,93,39,3,51
+Cleburne,CALIFORNIA,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,82,32,1,49
+Cleburne,CENTER POST,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,138,59,0,79
+Cleburne,CLAYTON,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,213,98,2,113
+Cleburne,FRANCIS,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,123,55,2,66
+Cleburne,GRASSEY INSIDE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,37,7,0,30
+Cleburne,GRASSEY OUTSIDE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,164,32,0,132
+Cleburne,GREERS FERRY GILES,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,149,30,0,119
+Cleburne,GILES,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,137,39,0,98
+Cleburne,HEALING SPRINGS,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,169,39,1,129
+Cleburne,HEBER SPRINGS WARD 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,214,131,5,78
+Cleburne,HEBER SPRINGS WARD 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,231,150,10,71
+Cleburne,HEBER SPRINGS WARD 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,322,223,4,95
+Cleburne,HEBER SPRINGS WARD 4,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,253,158,6,89
+Cleburne,HEBER SPRINGS OUTSIDE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,513,341,5,167
+Cleburne,MCJESTER,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,68,26,8,34
+Cleburne,MORGAN OUTSIDE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,65,16,4,45
+Cleburne,MOUNTAIN,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,140,60,2,78
+Cleburne,EAST PETER CREEK,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,117,43,2,72
+Cleburne,WEST PETER CREEK,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,223,98,4,121
+Cleburne,PICKENS,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,108,65,2,41
+Cleburne,PINE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,55,18,1,36
+Cleburne,PINEY,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,201,68,1,132
+Cleburne,POFF,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,16,6,0,10
+Cleburne,SALINE INSIDE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,36,19,0,17
+Cleburne,SALINE OUTSIDE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,96,36,1,59
+Cleburne,SUGAR CAMP,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,107,21,2,84
+Cleburne,SUGAR LOAF,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,137,74,2,61
+Cleburne,VALLEY,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,96,73,2,21
+Cleburne,WILBURN,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,38,5,1,32
+Cleburne,MORGAN INSIDE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,69,17,0,52
+Cleburne,NORTH CADRON INSIDE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,30,6,1,23
+Cleburne,NORTH CADRON OUTSIDE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,61,23,0,38
+Cleburne,SOUTH CADRON INSIDE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,66,20,0,46
+Cleburne,SOUTH CADRON OUTSIDE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,51,24,0,27
+Cleburne,CALIFORNIA,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,33,13,0,20
+Cleburne,CENTER POST,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,104,51,1,52
+Cleburne,CLAYTON,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,142,64,0,78
+Cleburne,FRANCIS,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,124,47,1,76
+Cleburne,GRASSEY INSIDE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,20,5,0,15
+Cleburne,GRASSEY OUTSIDE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,103,16,0,87
+Cleburne,GREERS FERRY GILES,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,148,34,0,114
+Cleburne,GILES,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,77,22,0,55
+Cleburne,HEALING SPRINGS,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,102,26,2,74
+Cleburne,HEBER SPRINGS WARD 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,225,132,4,89
+Cleburne,HEBER SPRINGS WARD 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,182,117,6,59
+Cleburne,HEBER SPRINGS WARD 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,230,147,4,79
+Cleburne,HEBER SPRINGS WARD 4,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,215,125,6,84
+Cleburne,HEBER SPRINGS OUTSIDE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,387,240,8,139
+Cleburne,MCJESTER,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,66,30,1,35
+Cleburne,MORGAN OUTSIDE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,58,16,1,41
+Cleburne,MOUNTAIN,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,93,55,2,36
+Cleburne,EAST PETER CREEK,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,53,20,0,33
+Cleburne,WEST PETER CREEK,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,161,81,1,79
+Cleburne,PICKENS,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,77,54,1,22
+Cleburne,PINE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,28,9,0,19
+Cleburne,PINEY,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,146,52,3,91
+Cleburne,POFF,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,20,7,1,12
+Cleburne,SALINE INSIDE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,31,9,0,22
+Cleburne,SALINE OUTSIDE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,85,31,1,53
+Cleburne,SUGAR CAMP,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,47,18,1,28
+Cleburne,SUGAR LOAF,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,103,49,1,53
+Cleburne,VALLEY,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,59,45,2,12
+Cleburne,WILBURN,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,39,5,1,33
+Cleburne,MORGAN INSIDE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,44,7,0,37
+Cleburne,NORTH CADRON INSIDE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,71,20,0,51
+Cleburne,NORTH CADRON OUTSIDE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,156,62,0,94
+Cleburne,SOUTH CADRON INSIDE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,84,20,1,63
+Cleburne,SOUTH CADRON OUTSIDE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,146,61,5,80
+Cleburne,CALIFORNIA,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,119,44,1,74
+Cleburne,CENTER POST,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,197,90,2,105
+Cleburne,CLAYTON,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,291,152,3,136
+Cleburne,FRANCIS,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,185,88,4,93
+Cleburne,GRASSEY INSIDE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,50,5,3,42
+Cleburne,GRASSEY OUTSIDE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,189,44,0,145
+Cleburne,GREERS FERRY GILES,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,227,54,3,170
+Cleburne,GILES,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,193,52,0,141
+Cleburne,HEALING SPRINGS,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,257,71,2,184
+Cleburne,HEBER SPRINGS WARD 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,284,201,5,78
+Cleburne,HEBER SPRINGS WARD 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,318,219,11,88
+Cleburne,HEBER SPRINGS WARD 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,482,359,9,114
+Cleburne,HEBER SPRINGS WARD 4,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,380,231,9,140
+Cleburne,HEBER SPRINGS OUTSIDE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,770,550,10,210
+Cleburne,MCJESTER,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,94,43,7,44
+Cleburne,MORGAN OUTSIDE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,119,25,6,88
+Cleburne,MOUNTAIN,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,228,95,1,132
+Cleburne,EAST PETER CREEK,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,178,58,2,118
+Cleburne,WEST PETER CREEK,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,304,151,7,146
+Cleburne,PICKENS,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,143,62,3,78
+Cleburne,PINE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,64,23,1,40
+Cleburne,PINEY,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,299,114,5,180
+Cleburne,POFF,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,22,9,0,13
+Cleburne,SALINE INSIDE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,34,15,0,19
+Cleburne,SALINE OUTSIDE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,122,57,0,65
+Cleburne,SUGAR CAMP,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,139,24,1,114
+Cleburne,SUGAR LOAF,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,178,107,3,68
+Cleburne,VALLEY,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,137,98,6,33
+Cleburne,WILBURN,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,74,23,0,51
+Cleburne,MORGAN INSIDE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,72,17,2,53

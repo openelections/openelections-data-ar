@@ -1,0 +1,585 @@
+county,precinct,office,district,party,candidate,votes,early_vote,absentee,election_day
+Columbia,Columbia North,U.S. Senate,,LIB,Kenneth Cates,19,10,0,9
+Columbia,Columbia South,U.S. Senate,,LIB,Kenneth Cates,10,7,0,3
+Columbia,Mag Ward 1,U.S. Senate,,LIB,Kenneth Cates,10,2,1,7
+Columbia,Mag Ward 2,U.S. Senate,,LIB,Kenneth Cates,10,6,0,4
+Columbia,Mag Ward 3,U.S. Senate,,LIB,Kenneth Cates,10,7,0,3
+Columbia,Mag Ward 4,U.S. Senate,,LIB,Kenneth Cates,20,15,0,5
+Columbia,McNeil Township,U.S. Senate,,LIB,Kenneth Cates,13,6,0,7
+Columbia,McNeil City,U.S. Senate,,LIB,Kenneth Cates,1,0,0,1
+Columbia,Waldo Township,U.S. Senate,,LIB,Kenneth Cates,5,4,0,1
+Columbia,Waldo City,U.S. Senate,,LIB,Kenneth Cates,8,3,0,5
+Columbia,Emerson Township,U.S. Senate,,LIB,Kenneth Cates,6,4,0,2
+Columbia,Emerson City,U.S. Senate,,LIB,Kenneth Cates,5,0,0,5
+Columbia,Taylor Township,U.S. Senate,,LIB,Kenneth Cates,4,0,1,3
+Columbia,Taylor City,U.S. Senate,,LIB,Kenneth Cates,3,2,0,1
+Columbia,Columbia North,U.S. Senate,,DEM,Natalie James,148,115,15,18
+Columbia,Columbia South,U.S. Senate,,DEM,Natalie James,242,163,8,71
+Columbia,Mag Ward 1,U.S. Senate,,DEM,Natalie James,224,137,13,74
+Columbia,Mag Ward 2,U.S. Senate,,DEM,Natalie James,308,213,13,82
+Columbia,Mag Ward 3,U.S. Senate,,DEM,Natalie James,119,73,5,41
+Columbia,Mag Ward 4,U.S. Senate,,DEM,Natalie James,175,109,10,56
+Columbia,McNeil Township,U.S. Senate,,DEM,Natalie James,88,42,5,41
+Columbia,McNeil City,U.S. Senate,,DEM,Natalie James,55,34,1,20
+Columbia,Waldo Township,U.S. Senate,,DEM,Natalie James,57,28,0,29
+Columbia,Waldo City,U.S. Senate,,DEM,Natalie James,186,67,5,114
+Columbia,Emerson Township,U.S. Senate,,DEM,Natalie James,64,26,0,38
+Columbia,Emerson City,U.S. Senate,,DEM,Natalie James,33,14,0,19
+Columbia,Taylor Township,U.S. Senate,,DEM,Natalie James,45,26,2,17
+Columbia,Taylor City,U.S. Senate,,DEM,Natalie James,8,2,1,5
+Columbia,Columbia North,U.S. Senate,,REP,Senator John Boozman,923,678,13,232
+Columbia,Columbia South,U.S. Senate,,REP,Senator John Boozman,387,273,10,104
+Columbia,Mag Ward 1,U.S. Senate,,REP,Senator John Boozman,350,234,20,96
+Columbia,Mag Ward 2,U.S. Senate,,REP,Senator John Boozman,82,50,0,32
+Columbia,Mag Ward 3,U.S. Senate,,REP,Senator John Boozman,539,394,24,121
+Columbia,Mag Ward 4,U.S. Senate,,REP,Senator John Boozman,551,423,22,106
+Columbia,McNeil Township,U.S. Senate,,REP,Senator John Boozman,180,124,0,56
+Columbia,McNeil City,U.S. Senate,,REP,Senator John Boozman,70,32,0,38
+Columbia,Waldo Township,U.S. Senate,,REP,Senator John Boozman,173,106,5,62
+Columbia,Waldo City,U.S. Senate,,REP,Senator John Boozman,84,39,1,44
+Columbia,Emerson Township,U.S. Senate,,REP,Senator John Boozman,404,215,2,187
+Columbia,Emerson City,U.S. Senate,,REP,Senator John Boozman,38,14,0,24
+Columbia,Taylor Township,U.S. Senate,,REP,Senator John Boozman,262,96,2,164
+Columbia,Taylor City,U.S. Senate,,REP,Senator John Boozman,134,38,5,91
+Columbia,Columbia North,U.S. Congress District 04,,DEM,John White,150,114,15,21
+Columbia,Columbia South,U.S. Congress District 04,,DEM,John White,251,166,7,78
+Columbia,Mag Ward 1,U.S. Congress District 04,,DEM,John White,215,133,14,68
+Columbia,Mag Ward 2,U.S. Congress District 04,,DEM,John White,306,214,11,81
+Columbia,Mag Ward 3,U.S. Congress District 04,,DEM,John White,107,63,5,39
+Columbia,Mag Ward 4,U.S. Congress District 04,,DEM,John White,171,108,10,53
+Columbia,McNeil Township,U.S. Congress District 04,,DEM,John White,88,42,5,41
+Columbia,McNeil City,U.S. Congress District 04,,DEM,John White,54,32,1,21
+Columbia,Waldo Township,U.S. Congress District 04,,DEM,John White,57,27,2,28
+Columbia,Waldo City,U.S. Congress District 04,,DEM,John White,187,66,4,117
+Columbia,Emerson Township,U.S. Congress District 04,,DEM,John White,66,29,0,37
+Columbia,Emerson City,U.S. Congress District 04,,DEM,John White,30,12,0,18
+Columbia,Taylor Township,U.S. Congress District 04,,DEM,John White,42,25,2,15
+Columbia,Taylor City,U.S. Congress District 04,,DEM,John White,11,4,1,6
+Columbia,Columbia North,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,914,670,13,231
+Columbia,Columbia South,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,384,272,11,101
+Columbia,Mag Ward 1,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,353,236,19,98
+Columbia,Mag Ward 2,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,81,50,1,30
+Columbia,Mag Ward 3,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,551,406,22,123
+Columbia,Mag Ward 4,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,554,425,20,109
+Columbia,McNeil Township,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,181,125,0,56
+Columbia,McNeil City,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,71,34,0,37
+Columbia,Waldo Township,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,175,109,4,62
+Columbia,Waldo City,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,80,37,1,42
+Columbia,Emerson Township,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,403,213,2,188
+Columbia,Emerson City,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,39,14,0,25
+Columbia,Taylor Township,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,265,95,3,167
+Columbia,Taylor City,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,133,38,5,90
+Columbia,Columbia North,U.S. Congress District 04,,LIB,Gregory Maxwell,23,17,0,6
+Columbia,Columbia South,U.S. Congress District 04,,LIB,Gregory Maxwell,7,5,0,2
+Columbia,Mag Ward 1,U.S. Congress District 04,,LIB,Gregory Maxwell,17,8,1,8
+Columbia,Mag Ward 2,U.S. Congress District 04,,LIB,Gregory Maxwell,14,7,1,6
+Columbia,Mag Ward 3,U.S. Congress District 04,,LIB,Gregory Maxwell,8,6,0,2
+Columbia,Mag Ward 4,U.S. Congress District 04,,LIB,Gregory Maxwell,23,16,0,7
+Columbia,McNeil Township,U.S. Congress District 04,,LIB,Gregory Maxwell,8,5,0,3
+Columbia,McNeil City,U.S. Congress District 04,,LIB,Gregory Maxwell,1,0,0,1
+Columbia,Waldo Township,U.S. Congress District 04,,LIB,Gregory Maxwell,3,2,0,1
+Columbia,Waldo City,U.S. Congress District 04,,LIB,Gregory Maxwell,12,5,1,6
+Columbia,Emerson Township,U.S. Congress District 04,,LIB,Gregory Maxwell,3,3,0,0
+Columbia,Emerson City,U.S. Congress District 04,,LIB,Gregory Maxwell,6,1,0,5
+Columbia,Taylor Township,U.S. Congress District 04,,LIB,Gregory Maxwell,4,1,0,3
+Columbia,Taylor City,U.S. Congress District 04,,LIB,Gregory Maxwell,2,1,0,1
+Columbia,Columbia North,Attorney General,,DEM,Jesse Gibson,156,122,15,19
+Columbia,Columbia South,Attorney General,,DEM,Jesse Gibson,247,165,7,75
+Columbia,Mag Ward 1,Attorney General,,DEM,Jesse Gibson,225,138,12,75
+Columbia,Mag Ward 2,Attorney General,,DEM,Jesse Gibson,305,212,13,80
+Columbia,Mag Ward 3,Attorney General,,DEM,Jesse Gibson,125,72,7,46
+Columbia,Mag Ward 4,Attorney General,,DEM,Jesse Gibson,183,114,10,59
+Columbia,McNeil Township,Attorney General,,DEM,Jesse Gibson,98,47,5,46
+Columbia,McNeil City,Attorney General,,DEM,Jesse Gibson,58,35,1,22
+Columbia,Waldo Township,Attorney General,,DEM,Jesse Gibson,58,28,1,29
+Columbia,Waldo City,Attorney General,,DEM,Jesse Gibson,198,73,5,120
+Columbia,Emerson Township,Attorney General,,DEM,Jesse Gibson,67,28,1,38
+Columbia,Emerson City,Attorney General,,DEM,Jesse Gibson,35,13,0,22
+Columbia,Taylor Township,Attorney General,,DEM,Jesse Gibson,48,27,2,19
+Columbia,Taylor City,Attorney General,,DEM,Jesse Gibson,11,3,1,7
+Columbia,Columbia North,Attorney General,,REP,Lieutenant Governor Tim Griffin,933,681,14,238
+Columbia,Columbia South,Attorney General,,REP,Lieutenant Governor Tim Griffin,389,276,10,103
+Columbia,Mag Ward 1,Attorney General,,REP,Lieutenant Governor Tim Griffin,361,237,22,102
+Columbia,Mag Ward 2,Attorney General,,REP,Lieutenant Governor Tim Griffin,93,58,0,35
+Columbia,Mag Ward 3,Attorney General,,REP,Lieutenant Governor Tim Griffin,542,401,21,120
+Columbia,Mag Ward 4,Attorney General,,REP,Lieutenant Governor Tim Griffin,562,431,22,109
+Columbia,McNeil Township,Attorney General,,REP,Lieutenant Governor Tim Griffin,180,126,0,54
+Columbia,McNeil City,Attorney General,,REP,Lieutenant Governor Tim Griffin,68,31,0,37
+Columbia,Waldo Township,Attorney General,,REP,Lieutenant Governor Tim Griffin,178,110,5,63
+Columbia,Waldo City,Attorney General,,REP,Lieutenant Governor Tim Griffin,81,35,1,45
+Columbia,Emerson Township,Attorney General,,REP,Lieutenant Governor Tim Griffin,409,219,1,189
+Columbia,Emerson City,Attorney General,,REP,Lieutenant Governor Tim Griffin,41,15,0,26
+Columbia,Taylor Township,Attorney General,,REP,Lieutenant Governor Tim Griffin,264,95,3,166
+Columbia,Taylor City,Attorney General,,REP,Lieutenant Governor Tim Griffin,134,40,5,89
+Columbia,Columbia North,Auditor of State,,DEM,Diamond Arnold-Johnson,150,115,14,21
+Columbia,Columbia South,Auditor of State,,DEM,Diamond Arnold-Johnson,244,163,8,73
+Columbia,Mag Ward 1,Auditor of State,,DEM,Diamond Arnold-Johnson,226,140,14,72
+Columbia,Mag Ward 2,Auditor of State,,DEM,Diamond Arnold-Johnson,308,216,13,79
+Columbia,Mag Ward 3,Auditor of State,,DEM,Diamond Arnold-Johnson,109,66,3,40
+Columbia,Mag Ward 4,Auditor of State,,DEM,Diamond Arnold-Johnson,168,109,10,49
+Columbia,McNeil Township,Auditor of State,,DEM,Diamond Arnold-Johnson,89,43,5,41
+Columbia,McNeil City,Auditor of State,,DEM,Diamond Arnold-Johnson,56,32,1,23
+Columbia,Waldo Township,Auditor of State,,DEM,Diamond Arnold-Johnson,58,27,1,30
+Columbia,Waldo City,Auditor of State,,DEM,Diamond Arnold-Johnson,191,71,5,115
+Columbia,Emerson Township,Auditor of State,,DEM,Diamond Arnold-Johnson,63,28,0,35
+Columbia,Emerson City,Auditor of State,,DEM,Diamond Arnold-Johnson,31,12,0,19
+Columbia,Taylor Township,Auditor of State,,DEM,Diamond Arnold-Johnson,41,25,3,13
+Columbia,Taylor City,Auditor of State,,DEM,Diamond Arnold-Johnson,9,2,1,6
+Columbia,Columbia North,Auditor of State,,LIB,Simeon Snow,19,14,0,5
+Columbia,Columbia South,Auditor of State,,LIB,Simeon Snow,8,5,0,3
+Columbia,Mag Ward 1,Auditor of State,,LIB,Simeon Snow,15,6,1,8
+Columbia,Mag Ward 2,Auditor of State,,LIB,Simeon Snow,7,5,0,2
+Columbia,Mag Ward 3,Auditor of State,,LIB,Simeon Snow,22,14,1,7
+Columbia,Mag Ward 4,Auditor of State,,LIB,Simeon Snow,27,17,0,10
+Columbia,McNeil Township,Auditor of State,,LIB,Simeon Snow,11,5,0,6
+Columbia,McNeil City,Auditor of State,,LIB,Simeon Snow,0,0,0,0
+Columbia,Waldo Township,Auditor of State,,LIB,Simeon Snow,3,1,0,2
+Columbia,Waldo City,Auditor of State,,LIB,Simeon Snow,9,4,0,5
+Columbia,Emerson Township,Auditor of State,,LIB,Simeon Snow,4,3,0,1
+Columbia,Emerson City,Auditor of State,,LIB,Simeon Snow,6,2,0,4
+Columbia,Taylor Township,Auditor of State,,LIB,Simeon Snow,6,3,0,3
+Columbia,Taylor City,Auditor of State,,LIB,Simeon Snow,2,2,0,0
+Columbia,Columbia North,Auditor of State,,REP,Treasurer of State Dennis Milligan,918,672,14,232
+Columbia,Columbia South,Auditor of State,,REP,Treasurer of State Dennis Milligan,381,270,10,101
+Columbia,Mag Ward 1,Auditor of State,,REP,Treasurer of State Dennis Milligan,341,229,19,93
+Columbia,Mag Ward 2,Auditor of State,,REP,Treasurer of State Dennis Milligan,79,47,0,32
+Columbia,Mag Ward 3,Auditor of State,,REP,Treasurer of State Dennis Milligan,532,391,23,118
+Columbia,Mag Ward 4,Auditor of State,,REP,Treasurer of State Dennis Milligan,543,415,22,106
+Columbia,McNeil Township,Auditor of State,,REP,Treasurer of State Dennis Milligan,176,123,0,53
+Columbia,McNeil City,Auditor of State,,REP,Treasurer of State Dennis Milligan,69,33,0,36
+Columbia,Waldo Township,Auditor of State,,REP,Treasurer of State Dennis Milligan,173,109,5,59
+Columbia,Waldo City,Auditor of State,,REP,Treasurer of State Dennis Milligan,80,33,1,46
+Columbia,Emerson Township,Auditor of State,,REP,Treasurer of State Dennis Milligan,404,212,1,191
+Columbia,Emerson City,Auditor of State,,REP,Treasurer of State Dennis Milligan,36,14,0,22
+Columbia,Taylor Township,Auditor of State,,REP,Treasurer of State Dennis Milligan,265,94,2,169
+Columbia,Taylor City,Auditor of State,,REP,Treasurer of State Dennis Milligan,135,39,5,91
+Columbia,Columbia North,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,946,694,14,238
+Columbia,Columbia South,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,392,281,10,101
+Columbia,Mag Ward 1,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,360,240,20,100
+Columbia,Mag Ward 2,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,98,61,0,37
+Columbia,Mag Ward 3,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,549,398,24,127
+Columbia,Mag Ward 4,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,570,438,20,112
+Columbia,McNeil Township,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,186,129,0,57
+Columbia,McNeil City,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,72,35,0,37
+Columbia,Waldo Township,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,178,110,5,63
+Columbia,Waldo City,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,88,37,2,49
+Columbia,Emerson Township,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,409,217,1,191
+Columbia,Emerson City,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,41,15,0,26
+Columbia,Taylor Township,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,269,96,2,171
+Columbia,Taylor City,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,135,39,5,91
+Columbia,Columbia North,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,145,112,15,18
+Columbia,Columbia South,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,239,156,8,75
+Columbia,Mag Ward 1,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,221,133,14,74
+Columbia,Mag Ward 2,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,296,206,13,77
+Columbia,Mag Ward 3,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,115,72,5,38
+Columbia,Mag Ward 4,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,171,107,11,53
+Columbia,McNeil Township,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,87,41,5,41
+Columbia,McNeil City,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,54,31,1,22
+Columbia,Waldo Township,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,56,27,1,28
+Columbia,Waldo City,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,187,69,4,114
+Columbia,Emerson Township,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,63,27,0,36
+Columbia,Emerson City,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,33,13,0,20
+Columbia,Taylor Township,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,43,26,3,14
+Columbia,Taylor City,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,11,4,1,6
+Columbia,Columbia North,Governor,,LIB,"Ricky Dale Harrington, Jr.",13,7,0,6
+Columbia,Columbia South,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,1,0,1
+Columbia,Mag Ward 1,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,1,0,4
+Columbia,Mag Ward 2,Governor,,LIB,"Ricky Dale Harrington, Jr.",8,6,0,2
+Columbia,Mag Ward 3,Governor,,LIB,"Ricky Dale Harrington, Jr.",6,5,0,1
+Columbia,Mag Ward 4,Governor,,LIB,"Ricky Dale Harrington, Jr.",10,7,0,3
+Columbia,McNeil Township,Governor,,LIB,"Ricky Dale Harrington, Jr.",6,4,0,2
+Columbia,McNeil City,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Columbia,Waldo Township,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,2,0,1
+Columbia,Waldo City,Governor,,LIB,"Ricky Dale Harrington, Jr.",7,3,0,4
+Columbia,Emerson Township,Governor,,LIB,"Ricky Dale Harrington, Jr.",10,4,0,6
+Columbia,Emerson City,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,0,0,5
+Columbia,Taylor Township,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,1,0,4
+Columbia,Taylor City,Governor,,LIB,"Ricky Dale Harrington, Jr.",4,2,0,2
+Columbia,Columbia North,Governor,,REP,Sarah Huckabee Sanders,922,675,14,233
+Columbia,Columbia South,Governor,,REP,Sarah Huckabee Sanders,373,267,10,96
+Columbia,Mag Ward 1,Governor,,REP,Sarah Huckabee Sanders,339,224,19,96
+Columbia,Mag Ward 2,Governor,,REP,Sarah Huckabee Sanders,70,42,0,28
+Columbia,Mag Ward 3,Governor,,REP,Sarah Huckabee Sanders,504,373,21,110
+Columbia,Mag Ward 4,Governor,,REP,Sarah Huckabee Sanders,543,416,20,107
+Columbia,McNeil Township,Governor,,REP,Sarah Huckabee Sanders,176,125,0,51
+Columbia,McNeil City,Governor,,REP,Sarah Huckabee Sanders,71,33,0,38
+Columbia,Waldo Township,Governor,,REP,Sarah Huckabee Sanders,168,105,3,60
+Columbia,Waldo City,Governor,,REP,Sarah Huckabee Sanders,77,30,0,47
+Columbia,Emerson Township,Governor,,REP,Sarah Huckabee Sanders,397,210,1,186
+Columbia,Emerson City,Governor,,REP,Sarah Huckabee Sanders,37,14,0,23
+Columbia,Taylor Township,Governor,,REP,Sarah Huckabee Sanders,259,94,3,162
+Columbia,Taylor City,Governor,,REP,Sarah Huckabee Sanders,130,37,5,88
+Columbia,Columbia North,Governor,,DEM,Chris Jones,163,126,16,21
+Columbia,Columbia South,Governor,,DEM,Chris Jones,265,177,7,81
+Columbia,Mag Ward 1,Governor,,DEM,Chris Jones,243,150,15,78
+Columbia,Mag Ward 2,Governor,,DEM,Chris Jones,325,226,13,86
+Columbia,Mag Ward 3,Governor,,DEM,Chris Jones,158,96,8,54
+Columbia,Mag Ward 4,Governor,,DEM,Chris Jones,198,127,11,60
+Columbia,McNeil Township,Governor,,DEM,Chris Jones,98,43,5,50
+Columbia,McNeil City,Governor,,DEM,Chris Jones,54,32,1,21
+Columbia,Waldo Township,Governor,,DEM,Chris Jones,64,32,3,29
+Columbia,Waldo City,Governor,,DEM,Chris Jones,199,76,6,117
+Columbia,Emerson Township,Governor,,DEM,Chris Jones,75,35,1,39
+Columbia,Emerson City,Governor,,DEM,Chris Jones,35,14,0,21
+Columbia,Taylor Township,Governor,,DEM,Chris Jones,49,27,2,20
+Columbia,Taylor City,Governor,,DEM,Chris Jones,11,4,1,6
+Columbia,Columbia North,Lieutenant Governor,,DEM,Kelly Ross Krout,147,113,15,19
+Columbia,Columbia South,Lieutenant Governor,,DEM,Kelly Ross Krout,251,164,9,78
+Columbia,Mag Ward 1,Lieutenant Governor,,DEM,Kelly Ross Krout,232,141,15,76
+Columbia,Mag Ward 2,Lieutenant Governor,,DEM,Kelly Ross Krout,308,214,13,81
+Columbia,Mag Ward 3,Lieutenant Governor,,DEM,Kelly Ross Krout,134,81,8,45
+Columbia,Mag Ward 4,Lieutenant Governor,,DEM,Kelly Ross Krout,188,118,11,59
+Columbia,McNeil Township,Lieutenant Governor,,DEM,Kelly Ross Krout,96,44,5,47
+Columbia,McNeil City,Lieutenant Governor,,DEM,Kelly Ross Krout,55,31,1,23
+Columbia,Waldo Township,Lieutenant Governor,,DEM,Kelly Ross Krout,55,26,3,26
+Columbia,Waldo City,Lieutenant Governor,,DEM,Kelly Ross Krout,198,74,5,119
+Columbia,Emerson Township,Lieutenant Governor,,DEM,Kelly Ross Krout,67,30,1,36
+Columbia,Emerson City,Lieutenant Governor,,DEM,Kelly Ross Krout,36,13,0,23
+Columbia,Taylor Township,Lieutenant Governor,,DEM,Kelly Ross Krout,45,26,3,16
+Columbia,Taylor City,Lieutenant Governor,,DEM,Kelly Ross Krout,13,4,1,8
+Columbia,Columbia North,Lieutenant Governor,,LIB,Frank Gilbert,22,15,0,7
+Columbia,Columbia South,Lieutenant Governor,,LIB,Frank Gilbert,14,8,0,6
+Columbia,Mag Ward 1,Lieutenant Governor,,LIB,Frank Gilbert,12,6,1,5
+Columbia,Mag Ward 2,Lieutenant Governor,,LIB,Frank Gilbert,11,9,0,2
+Columbia,Mag Ward 3,Lieutenant Governor,,LIB,Frank Gilbert,15,8,0,7
+Columbia,Mag Ward 4,Lieutenant Governor,,LIB,Frank Gilbert,25,18,2,5
+Columbia,McNeil Township,Lieutenant Governor,,LIB,Frank Gilbert,10,6,0,4
+Columbia,McNeil City,Lieutenant Governor,,LIB,Frank Gilbert,3,3,0,0
+Columbia,Waldo Township,Lieutenant Governor,,LIB,Frank Gilbert,4,1,0,3
+Columbia,Waldo City,Lieutenant Governor,,LIB,Frank Gilbert,7,2,0,5
+Columbia,Emerson Township,Lieutenant Governor,,LIB,Frank Gilbert,8,7,0,1
+Columbia,Emerson City,Lieutenant Governor,,LIB,Frank Gilbert,4,0,0,4
+Columbia,Taylor Township,Lieutenant Governor,,LIB,Frank Gilbert,5,2,0,3
+Columbia,Taylor City,Lieutenant Governor,,LIB,Frank Gilbert,3,1,0,2
+Columbia,Columbia North,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,923,678,13,232
+Columbia,Columbia South,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,368,264,9,95
+Columbia,Mag Ward 1,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,339,226,18,95
+Columbia,Mag Ward 2,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,77,46,0,31
+Columbia,Mag Ward 3,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,515,381,21,113
+Columbia,Mag Ward 4,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,531,409,19,103
+Columbia,McNeil Township,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,174,122,0,52
+Columbia,McNeil City,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,67,31,0,36
+Columbia,Waldo Township,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,171,108,3,60
+Columbia,Waldo City,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,78,33,1,44
+Columbia,Emerson Township,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,399,207,1,191
+Columbia,Emerson City,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,36,14,0,22
+Columbia,Taylor Township,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,264,94,2,168
+Columbia,Taylor City,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,128,37,5,86
+Columbia,Columbia North,Secretary of State,,DEM,Anna Beth Gorman,163,127,15,21
+Columbia,Columbia South,Secretary of State,,DEM,Anna Beth Gorman,254,166,9,79
+Columbia,Mag Ward 1,Secretary of State,,DEM,Anna Beth Gorman,240,145,16,79
+Columbia,Mag Ward 2,Secretary of State,,DEM,Anna Beth Gorman,309,216,13,80
+Columbia,Mag Ward 3,Secretary of State,,DEM,Anna Beth Gorman,130,77,8,45
+Columbia,Mag Ward 4,Secretary of State,,DEM,Anna Beth Gorman,187,118,11,58
+Columbia,McNeil Township,Secretary of State,,DEM,Anna Beth Gorman,89,41,5,43
+Columbia,McNeil City,Secretary of State,,DEM,Anna Beth Gorman,53,32,1,20
+Columbia,Waldo Township,Secretary of State,,DEM,Anna Beth Gorman,56,27,1,28
+Columbia,Waldo City,Secretary of State,,DEM,Anna Beth Gorman,202,75,5,122
+Columbia,Emerson Township,Secretary of State,,DEM,Anna Beth Gorman,68,31,1,36
+Columbia,Emerson City,Secretary of State,,DEM,Anna Beth Gorman,34,13,0,21
+Columbia,Taylor Township,Secretary of State,,DEM,Anna Beth Gorman,46,26,3,17
+Columbia,Taylor City,Secretary of State,,DEM,Anna Beth Gorman,16,5,1,10
+Columbia,Columbia North,Secretary of State,,REP,Secretary of State John Thurston,924,677,13,234
+Columbia,Columbia South,Secretary of State,,REP,Secretary of State John Thurston,379,270,9,100
+Columbia,Mag Ward 1,Secretary of State,,REP,Secretary of State John Thurston,347,231,18,98
+Columbia,Mag Ward 2,Secretary of State,,REP,Secretary of State John Thurston,85,49,0,36
+Columbia,Mag Ward 3,Secretary of State,,REP,Secretary of State John Thurston,533,393,21,119
+Columbia,Mag Ward 4,Secretary of State,,REP,Secretary of State John Thurston,561,430,21,110
+Columbia,McNeil Township,Secretary of State,,REP,Secretary of State John Thurston,187,130,0,57
+Columbia,McNeil City,Secretary of State,,REP,Secretary of State John Thurston,70,33,0,37
+Columbia,Waldo Township,Secretary of State,,REP,Secretary of State John Thurston,177,111,5,61
+Columbia,Waldo City,Secretary of State,,REP,Secretary of State John Thurston,76,32,1,43
+Columbia,Emerson Township,Secretary of State,,REP,Secretary of State John Thurston,408,215,1,192
+Columbia,Emerson City,Secretary of State,,REP,Secretary of State John Thurston,42,14,0,28
+Columbia,Taylor Township,Secretary of State,,REP,Secretary of State John Thurston,267,96,2,169
+Columbia,Taylor City,Secretary of State,,REP,Secretary of State John Thurston,130,38,5,87
+Columbia,Columbia North,State Treasurer,,REP,State Representative Mark Lowery,922,673,12,237
+Columbia,Columbia South,State Treasurer,,REP,State Representative Mark Lowery,382,271,10,101
+Columbia,Mag Ward 1,State Treasurer,,REP,State Representative Mark Lowery,343,227,21,95
+Columbia,Mag Ward 2,State Treasurer,,REP,State Representative Mark Lowery,80,48,0,32
+Columbia,Mag Ward 3,State Treasurer,,REP,State Representative Mark Lowery,518,378,21,119
+Columbia,Mag Ward 4,State Treasurer,,REP,State Representative Mark Lowery,556,424,19,113
+Columbia,McNeil Township,State Treasurer,,REP,State Representative Mark Lowery,184,127,0,57
+Columbia,McNeil City,State Treasurer,,REP,State Representative Mark Lowery,69,32,0,37
+Columbia,Waldo Township,State Treasurer,,REP,State Representative Mark Lowery,175,109,3,63
+Columbia,Waldo City,State Treasurer,,REP,State Representative Mark Lowery,76,33,0,43
+Columbia,Emerson Township,State Treasurer,,REP,State Representative Mark Lowery,406,216,1,189
+Columbia,Emerson City,State Treasurer,,REP,State Representative Mark Lowery,42,14,0,28
+Columbia,Taylor Township,State Treasurer,,REP,State Representative Mark Lowery,268,96,3,169
+Columbia,Taylor City,State Treasurer,,REP,State Representative Mark Lowery,130,38,5,87
+Columbia,Columbia North,State Treasurer,,DEM,Pam Whitaker,162,128,14,20
+Columbia,Columbia South,State Treasurer,,DEM,Pam Whitaker,253,168,8,77
+Columbia,Mag Ward 1,State Treasurer,,DEM,Pam Whitaker,235,143,13,79
+Columbia,Mag Ward 2,State Treasurer,,DEM,Pam Whitaker,319,223,13,83
+Columbia,Mag Ward 3,State Treasurer,,DEM,Pam Whitaker,143,89,8,46
+Columbia,Mag Ward 4,State Treasurer,,DEM,Pam Whitaker,188,122,12,54
+Columbia,McNeil Township,State Treasurer,,DEM,Pam Whitaker,93,45,5,43
+Columbia,McNeil City,State Treasurer,,DEM,Pam Whitaker,56,33,1,22
+Columbia,Waldo Township,State Treasurer,,DEM,Pam Whitaker,58,29,3,26
+Columbia,Waldo City,State Treasurer,,DEM,Pam Whitaker,204,77,6,121
+Columbia,Emerson Township,State Treasurer,,DEM,Pam Whitaker,71,30,0,41
+Columbia,Emerson City,State Treasurer,,DEM,Pam Whitaker,35,14,0,21
+Columbia,Taylor Township,State Treasurer,,DEM,Pam Whitaker,43,25,2,16
+Columbia,Taylor City,State Treasurer,,DEM,Pam Whitaker,14,5,1,8
+Columbia,Columbia North,State Senate,03,REP,Alderman Steve Crowell,979,717,17,245
+Columbia,Columbia South,State Senate,03,REP,Alderman Steve Crowell,470,325,13,132
+Columbia,Mag Ward 1,State Senate,03,REP,Alderman Steve Crowell,463,291,24,148
+Columbia,Mag Ward 2,State Senate,03,REP,Alderman Steve Crowell,233,150,5,78
+Columbia,Mag Ward 3,State Senate,03,REP,Alderman Steve Crowell,601,423,23,155
+Columbia,Mag Ward 4,State Senate,03,REP,Alderman Steve Crowell,643,474,26,143
+Columbia,McNeil Township,State Senate,03,REP,Alderman Steve Crowell,225,142,5,78
+Columbia,McNeil City,State Senate,03,REP,Alderman Steve Crowell,87,38,1,48
+Columbia,Waldo Township,State Senate,03,REP,Alderman Steve Crowell,185,109,5,71
+Columbia,Waldo City,State Senate,03,REP,Alderman Steve Crowell,144,52,1,91
+Columbia,Emerson Township,State Senate,03,REP,Alderman Steve Crowell,419,219,2,198
+Columbia,Emerson City,State Senate,03,REP,Alderman Steve Crowell,55,20,0,35
+Columbia,Taylor Township,State Senate,03,REP,Alderman Steve Crowell,285,104,4,177
+Columbia,Taylor City,State Senate,03,REP,Alderman Steve Crowell,137,40,5,92
+Columbia,Columbia North,State House,98,REP,Wade Andrews,268,184,5,79
+Columbia,Columbia South,State House,98,REP,Wade Andrews,4,4,0,0
+Columbia,Mag Ward 1,State House,98,REP,Wade Andrews,7,3,0,4
+Columbia,Mag Ward 2,State House,98,REP,Wade Andrews,50,33,0,17
+Columbia,Mag Ward 3,State House,98,REP,Wade Andrews,81,63,0,18
+Columbia,Mag Ward 4,State House,98,REP,Wade Andrews,32,22,1,9
+Columbia,McNeil Township,State House,98,REP,Wade Andrews,168,118,0,50
+Columbia,McNeil City,State House,98,REP,Wade Andrews,63,30,0,33
+Columbia,Waldo Township,State House,98,REP,Wade Andrews,163,99,5,59
+Columbia,Waldo City,State House,98,REP,Wade Andrews,75,34,0,41
+Columbia,Columbia North,State House,98,DEM,State Representative David Fielding,59,44,3,12
+Columbia,Columbia South,State House,98,DEM,State Representative David Fielding,4,3,0,1
+Columbia,Mag Ward 1,State House,98,DEM,State Representative David Fielding,53,32,1,20
+Columbia,Mag Ward 2,State House,98,DEM,State Representative David Fielding,310,224,12,74
+Columbia,Mag Ward 3,State House,98,DEM,State Representative David Fielding,26,17,0,9
+Columbia,Mag Ward 4,State House,98,DEM,State Representative David Fielding,35,22,3,10
+Columbia,McNeil Township,State House,98,DEM,State Representative David Fielding,110,54,5,51
+Columbia,McNeil City,State House,98,DEM,State Representative David Fielding,62,35,1,26
+Columbia,Waldo Township,State House,98,DEM,State Representative David Fielding,69,37,1,31
+Columbia,Waldo City,State House,98,DEM,State Representative David Fielding,207,74,5,128
+Columbia,Columbia North,State House,99,LIB,Paul E. Green,90,69,5,16
+Columbia,Columbia South,State House,99,LIB,Paul E. Green,145,91,8,46
+Columbia,Mag Ward 1,State House,99,LIB,Paul E. Green,128,80,8,40
+Columbia,Mag Ward 2,State House,99,LIB,Paul E. Green,9,6,0,3
+Columbia,Mag Ward 3,State House,99,LIB,Paul E. Green,65,41,2,22
+Columbia,Mag Ward 4,State House,99,LIB,Paul E. Green,89,58,4,27
+Columbia,Emerson Township,State House,99,LIB,Paul E. Green,43,23,0,20
+Columbia,Emerson City,State House,99,LIB,Paul E. Green,25,8,0,17
+Columbia,Taylor Township,State House,99,LIB,Paul E. Green,34,19,2,13
+Columbia,Taylor City,State House,99,LIB,Paul E. Green,11,5,1,5
+Columbia,Columbia North,State House,99,REP,Representative Lane Jean,655,492,11,152
+Columbia,Columbia South,State House,99,REP,Representative Lane Jean,421,296,10,115
+Columbia,Mag Ward 1,State House,99,REP,Representative Lane Jean,376,243,24,109
+Columbia,Mag Ward 2,State House,99,REP,Representative Lane Jean,34,13,0,21
+Columbia,Mag Ward 3,State House,99,REP,Representative Lane Jean,478,342,24,112
+Columbia,Mag Ward 4,State House,99,REP,Representative Lane Jean,574,435,23,116
+Columbia,Emerson Township,State House,99,REP,Representative Lane Jean,418,219,1,198
+Columbia,Emerson City,State House,99,REP,Representative Lane Jean,41,16,0,25
+Columbia,Taylor Township,State House,99,REP,Representative Lane Jean,265,95,3,167
+Columbia,Taylor City,State House,99,REP,Representative Lane Jean,133,38,5,90
+Columbia,Columbia North,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,602,441,13,148
+Columbia,Columbia South,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,331,225,12,94
+Columbia,Mag Ward 1,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,310,188,17,105
+Columbia,Mag Ward 2,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,211,137,9,65
+Columbia,Mag Ward 3,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,402,288,15,99
+Columbia,Mag Ward 4,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,427,315,19,93
+Columbia,McNeil Township,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,143,84,5,54
+Columbia,McNeil City,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,75,37,1,37
+Columbia,Waldo Township,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,128,78,5,45
+Columbia,Waldo City,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,137,51,3,83
+Columbia,Emerson Township,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,258,134,2,122
+Columbia,Emerson City,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,41,13,0,28
+Columbia,Taylor Township,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,174,66,4,104
+Columbia,Taylor City,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,96,31,2,63
+Columbia,Columbia North,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,347,250,8,89
+Columbia,Columbia South,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,186,127,5,54
+Columbia,Mag Ward 1,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,191,124,15,52
+Columbia,Mag Ward 2,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,106,75,0,31
+Columbia,Mag Ward 3,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,213,148,10,55
+Columbia,Mag Ward 4,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,240,176,9,55
+Columbia,McNeil Township,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,105,67,0,38
+Columbia,McNeil City,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,35,18,0,17
+Columbia,Waldo Township,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,67,39,0,28
+Columbia,Waldo City,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,86,36,0,50
+Columbia,Emerson Township,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,145,77,0,68
+Columbia,Emerson City,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,17,8,0,9
+Columbia,Taylor Township,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,102,42,1,59
+Columbia,Taylor City,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,40,10,3,27
+Columbia,Columbia North,CIRCUIT CLERK,,REP,REP Angela Wilson Keith,1003,735,20,248
+Columbia,Columbia South,CIRCUIT CLERK,,REP,REP Angela Wilson Keith,498,345,15,138
+Columbia,Mag Ward 1,CIRCUIT CLERK,,REP,REP Angela Wilson Keith,487,307,28,152
+Columbia,Mag Ward 2,CIRCUIT CLERK,,REP,REP Angela Wilson Keith,267,169,7,91
+Columbia,Mag Ward 3,CIRCUIT CLERK,,REP,REP Angela Wilson Keith,619,439,22,158
+Columbia,Mag Ward 4,CIRCUIT CLERK,,REP,REP Angela Wilson Keith,669,496,26,147
+Columbia,McNeil Township,CIRCUIT CLERK,,REP,REP Angela Wilson Keith,241,152,5,84
+Columbia,McNeil City,CIRCUIT CLERK,,REP,REP Angela Wilson Keith,97,42,1,54
+Columbia,Waldo Township,CIRCUIT CLERK,,REP,REP Angela Wilson Keith,190,109,5,76
+Columbia,Waldo City,CIRCUIT CLERK,,REP,REP Angela Wilson Keith,159,55,2,102
+Columbia,Emerson Township,CIRCUIT CLERK,,REP,REP Angela Wilson Keith,439,231,2,206
+Columbia,Emerson City,CIRCUIT CLERK,,REP,REP Angela Wilson Keith,58,20,0,38
+Columbia,Taylor Township,CIRCUIT CLERK,,REP,REP Angela Wilson Keith,288,105,4,179
+Columbia,Taylor City,CIRCUIT CLERK,,REP,REP Angela Wilson Keith,137,41,5,91
+Columbia,Columbia North,COLUMBIA COUNTY SHERIFF,,IND,IND Leroy Martin,658,487,20,151
+Columbia,Columbia South,COLUMBIA COUNTY SHERIFF,,IND,IND Leroy Martin,478,328,13,137
+Columbia,Mag Ward 1,COLUMBIA COUNTY SHERIFF,,IND,IND Leroy Martin,406,269,13,124
+Columbia,Mag Ward 2,COLUMBIA COUNTY SHERIFF,,IND,IND Leroy Martin,349,242,13,94
+Columbia,Mag Ward 3,COLUMBIA COUNTY SHERIFF,,IND,IND Leroy Martin,414,300,17,97
+Columbia,Mag Ward 4,COLUMBIA COUNTY SHERIFF,,IND,IND Leroy Martin,450,326,14,110
+Columbia,McNeil Township,COLUMBIA COUNTY SHERIFF,,IND,IND Leroy Martin,176,104,5,67
+Columbia,McNeil City,COLUMBIA COUNTY SHERIFF,,IND,IND Leroy Martin,104,56,1,47
+Columbia,Waldo Township,COLUMBIA COUNTY SHERIFF,,IND,IND Leroy Martin,136,84,5,47
+Columbia,Waldo City,COLUMBIA COUNTY SHERIFF,,IND,IND Leroy Martin,220,81,5,134
+Columbia,Emerson Township,COLUMBIA COUNTY SHERIFF,,IND,IND Leroy Martin,299,152,2,145
+Columbia,Emerson City,COLUMBIA COUNTY SHERIFF,,IND,IND Leroy Martin,60,22,0,38
+Columbia,Taylor Township,COLUMBIA COUNTY SHERIFF,,IND,IND Leroy Martin,207,96,4,107
+Columbia,Taylor City,COLUMBIA COUNTY SHERIFF,,IND,IND Leroy Martin,58,16,3,39
+Columbia,Columbia North,COLUMBIA COUNTY SHERIFF,,REP,REP Denny Foster,433,317,8,108
+Columbia,Columbia South,COLUMBIA COUNTY SHERIFF,,REP,REP Denny Foster,154,107,5,42
+Columbia,Mag Ward 1,COLUMBIA COUNTY SHERIFF,,REP,REP Denny Foster,177,104,20,53
+Columbia,Mag Ward 2,COLUMBIA COUNTY SHERIFF,,REP,REP Denny Foster,51,30,0,21
+Columbia,Mag Ward 3,COLUMBIA COUNTY SHERIFF,,REP,REP Denny Foster,247,170,10,67
+Columbia,Mag Ward 4,COLUMBIA COUNTY SHERIFF,,REP,REP Denny Foster,289,215,18,56
+Columbia,McNeil Township,COLUMBIA COUNTY SHERIFF,,REP,REP Denny Foster,103,67,0,36
+Columbia,McNeil City,COLUMBIA COUNTY SHERIFF,,REP,REP Denny Foster,21,10,0,11
+Columbia,Waldo Township,COLUMBIA COUNTY SHERIFF,,REP,REP Denny Foster,94,53,1,40
+Columbia,Waldo City,COLUMBIA COUNTY SHERIFF,,REP,REP Denny Foster,58,26,1,31
+Columbia,Emerson Township,COLUMBIA COUNTY SHERIFF,,REP,REP Denny Foster,180,96,0,84
+Columbia,Emerson City,COLUMBIA COUNTY SHERIFF,,REP,REP Denny Foster,17,6,0,11
+Columbia,Taylor Township,COLUMBIA COUNTY SHERIFF,,REP,REP Denny Foster,106,24,1,81
+Columbia,Taylor City,COLUMBIA COUNTY SHERIFF,,REP,REP Denny Foster,85,26,3,56
+Columbia,Mag Ward 1,MAGNOLIA CITY MAYOR,,IND,IND Parnell Vann,542,344,32,166
+Columbia,Mag Ward 2,MAGNOLIA CITY MAYOR,,IND,IND Parnell Vann,358,242,12,104
+Columbia,Mag Ward 3,MAGNOLIA CITY MAYOR,,IND,IND Parnell Vann,613,435,22,156
+Columbia,Mag Ward 4,MAGNOLIA CITY MAYOR,,IND,IND Parnell Vann,652,474,28,150
+Columbia,Mag Ward 1,MAGNOLIA ALDERMAN WARD 1 POSITION 2,,IND,IND David Sisson,368,248,17,103
+Columbia,Mag Ward 1,MAGNOLIA ALDERMAN WARD 1 POSITION 2,,IND,IND Roderick C. Henderson,178,103,17,58
+Columbia,McNeil City,MCNEIL CITY MAYOR,,IND,IND Henry Warren,52,31,1,20
+Columbia,McNeil City,MCNEIL CITY MAYOR,,IND,IND Dana Burchfield-Harris,73,34,0,39
+Columbia,McNeil City,MCNEIL ALDERMAN POSITION 1,,IND,IND Emily Vaughn Wilson,64,32,0,32
+Columbia,McNeil City,MCNEIL ALDERMAN POSITION 1,,IND,IND Athalia Dismuke,60,33,1,26
+Columbia,McNeil City,MCNEIL ALDERMAN POSITION 3,,IND,IND James T. Young,59,30,0,29
+Columbia,McNeil City,MCNEIL ALDERMAN POSITION 3,,IND,IND Virginia Warren,61,33,1,27
+Columbia,Waldo City,WALDO CITY MAYOR,,IND,IND Beverlyn Rowden,168,68,5,95
+Columbia,Waldo City,WALDO CITY MAYOR,,IND,IND Juan A. Minniefield,109,39,1,69
+Columbia,Waldo City,WALDO CITY RECORDER,,IND,IND Wyteshia Howell,238,86,5,147
+Columbia,Emerson City,EMERSON CITY MAYOR,,IND,IND Janice W. Curtis,21,2,0,19
+Columbia,Emerson City,EMERSON CITY MAYOR,,IND,IND Linda Mullins,56,25,0,31
+Columbia,Taylor City,TAYLOR CITY MAYOR,,IND,IND Clifford Page,135,36,5,94
+Columbia,Taylor City,TAYLOR ALDERMAN WARD 1 POSITION 2,,IND,IND Dalton Jones,74,14,2,58
+Columbia,Taylor City,TAYLOR ALDERMAN WARD 1 POSITION 2,,IND,IND Johnny Haynes,69,28,4,37
+Columbia,Taylor Township,TAYLOR CONSTABLE,,IND,IND Amy Jill Stewart,48,27,2,19
+Columbia,Taylor City,TAYLOR CONSTABLE,,IND,IND Amy Jill Stewart,18,4,1,13
+Columbia,Taylor Township,TAYLOR CONSTABLE,,REP,REP Hunter Scott,259,91,3,165
+Columbia,Taylor City,TAYLOR CONSTABLE,,REP,REP Hunter Scott,123,37,5,81
+Columbia,Emerson City,TAX LEVY ORDINANCE# 2022/07-01,,NON,For,40,12,0,28
+Columbia,Emerson City,TAX LEVY ORDINANCE# 2022/07-01,,NON,Against,34,16,0,18
+Columbia,Columbia North,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,322,215,7,100
+Columbia,Columbia South,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,239,161,5,73
+Columbia,Mag Ward 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,229,135,15,79
+Columbia,Mag Ward 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,142,84,5,53
+Columbia,Mag Ward 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,231,148,12,71
+Columbia,Mag Ward 4,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,257,162,10,85
+Columbia,McNeil Township,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,86,53,1,32
+Columbia,McNeil City,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,60,28,1,31
+Columbia,Waldo Township,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,94,50,5,39
+Columbia,Waldo City,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,120,37,0,83
+Columbia,Emerson Township,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,157,71,1,85
+Columbia,Emerson City,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,31,9,0,22
+Columbia,Taylor Township,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,129,38,3,88
+Columbia,Taylor City,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,60,17,3,40
+Columbia,Columbia North,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,711,550,16,145
+Columbia,Columbia South,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,331,236,13,82
+Columbia,Mag Ward 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,315,213,15,87
+Columbia,Mag Ward 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,194,141,7,46
+Columbia,Mag Ward 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,413,314,13,86
+Columbia,Mag Ward 4,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,443,345,20,78
+Columbia,McNeil Township,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,183,111,4,68
+Columbia,McNeil City,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,59,33,0,26
+Columbia,Waldo Township,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,119,77,1,41
+Columbia,Waldo City,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,115,52,4,59
+Columbia,Emerson Township,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,294,162,1,131
+Columbia,Emerson City,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,38,17,0,21
+Columbia,Taylor Township,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,166,74,2,90
+Columbia,Taylor City,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,76,23,1,52
+Columbia,Columbia North,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,408,285,7,116
+Columbia,Columbia South,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,250,173,7,70
+Columbia,Mag Ward 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,243,146,14,83
+Columbia,Mag Ward 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,154,102,0,52
+Columbia,Mag Ward 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,268,192,9,67
+Columbia,Mag Ward 4,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,315,220,14,81
+Columbia,McNeil Township,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,90,52,0,38
+Columbia,McNeil City,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,53,22,1,30
+Columbia,Waldo Township,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,108,62,5,41
+Columbia,Waldo City,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,111,35,1,75
+Columbia,Emerson Township,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,185,83,1,101
+Columbia,Emerson City,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,32,9,0,23
+Columbia,Taylor Township,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,132,41,2,89
+Columbia,Taylor City,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,65,20,3,42
+Columbia,Columbia North,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,640,489,18,133
+Columbia,Columbia South,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,330,228,11,91
+Columbia,Mag Ward 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,315,210,18,87
+Columbia,Mag Ward 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,190,130,11,49
+Columbia,Mag Ward 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,376,273,14,89
+Columbia,Mag Ward 4,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,391,292,15,84
+Columbia,McNeil Township,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,180,112,5,63
+Columbia,McNeil City,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,64,38,0,26
+Columbia,Waldo Township,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,109,67,1,41
+Columbia,Waldo City,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,141,61,3,77
+Columbia,Emerson Township,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,273,153,1,119
+Columbia,Emerson City,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,34,15,0,19
+Columbia,Taylor Township,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,164,72,2,90
+Columbia,Taylor City,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,70,20,1,49
+Columbia,Columbia North,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,507,349,14,144
+Columbia,Columbia South,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,331,222,9,100
+Columbia,Mag Ward 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,293,177,16,100
+Columbia,Mag Ward 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,210,139,3,68
+Columbia,Mag Ward 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,297,215,10,72
+Columbia,Mag Ward 4,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,350,239,10,101
+Columbia,McNeil Township,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,122,77,0,45
+Columbia,McNeil City,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,76,32,1,43
+Columbia,Waldo Township,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,127,69,5,53
+Columbia,Waldo City,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,148,46,0,102
+Columbia,Emerson Township,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,216,97,1,118
+Columbia,Emerson City,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,38,10,0,28
+Columbia,Taylor Township,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,175,61,2,112
+Columbia,Taylor City,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,84,23,3,58
+Columbia,Columbia North,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,556,434,13,109
+Columbia,Columbia South,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,263,188,9,66
+Columbia,Mag Ward 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,271,180,18,73
+Columbia,Mag Ward 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,147,101,8,38
+Columbia,Mag Ward 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,357,251,14,92
+Columbia,Mag Ward 4,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,369,284,20,65
+Columbia,McNeil Township,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,151,90,5,56
+Columbia,McNeil City,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,41,28,0,13
+Columbia,Waldo Township,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,98,66,1,31
+Columbia,Waldo City,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,102,51,4,47
+Columbia,Emerson Township,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,244,138,1,105
+Columbia,Emerson City,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,30,15,0,15
+Columbia,Taylor Township,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,125,53,2,70
+Columbia,Taylor City,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,53,17,1,35
+Columbia,Columbia North,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,322,224,11,87
+Columbia,Columbia South,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,266,163,4,99
+Columbia,Mag Ward 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,261,155,11,95
+Columbia,Mag Ward 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,247,155,10,82
+Columbia,Mag Ward 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,206,130,3,73
+Columbia,Mag Ward 4,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,259,168,14,77
+Columbia,McNeil Township,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,83,38,5,40
+Columbia,McNeil City,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,61,30,1,30
+Columbia,Waldo Township,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,79,42,0,37
+Columbia,Waldo City,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,172,58,1,113
+Columbia,Emerson Township,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,142,62,1,79
+Columbia,Emerson City,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,39,9,0,30
+Columbia,Taylor Township,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,83,37,1,45
+Columbia,Taylor City,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,51,16,1,34
+Columbia,Columbia North,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,754,569,16,169
+Columbia,Columbia South,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,352,263,14,75
+Columbia,Mag Ward 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,320,216,22,82
+Columbia,Mag Ward 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,134,104,2,28
+Columbia,Mag Ward 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,457,343,21,93
+Columbia,Mag Ward 4,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,475,364,18,93
+Columbia,McNeil Township,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,188,129,0,59
+Columbia,McNeil City,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,61,33,0,28
+Columbia,Waldo Township,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,149,92,6,51
+Columbia,Waldo City,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,82,37,3,42
+Columbia,Emerson Township,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,329,178,1,150
+Columbia,Emerson City,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,35,17,0,18
+Columbia,Taylor Township,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,222,81,3,138
+Columbia,Taylor City,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,90,25,3,62

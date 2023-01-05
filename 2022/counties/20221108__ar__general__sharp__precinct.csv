@@ -1,0 +1,980 @@
+county,precinct,office,district,party,candidate,votes,provisional,early_vote,absentee,election_day
+Sharp,Big Creek,U.S. Senate,,DEM,Natalie James,10,0,4,0,6
+Sharp,Cave,U.S. Senate,,DEM,Natalie James,95,0,60,1,34
+Sharp,Cherokee,U.S. Senate,,DEM,Natalie James,305,0,197,13,95
+Sharp,Davidson,U.S. Senate,,DEM,Natalie James,8,0,3,0,5
+Sharp,East Sullivan,U.S. Senate,,DEM,Natalie James,8,0,8,0,0
+Sharp,Hardy,U.S. Senate,,DEM,Natalie James,109,0,79,5,25
+Sharp,Highland,U.S. Senate,,DEM,Natalie James,68,0,28,2,38
+Sharp,Jackson,U.S. Senate,,DEM,Natalie James,23,0,11,0,12
+Sharp,Lave Creek,U.S. Senate,,DEM,Natalie James,21,0,14,0,7
+Sharp,Lower North,U.S. Senate,,DEM,Natalie James,25,0,16,0,9
+Sharp,Morgan,U.S. Senate,,DEM,Natalie James,9,0,9,0,0
+Sharp,North Big Rock,U.S. Senate,,DEM,Natalie James,6,0,3,0,3
+Sharp,North Lebanon,U.S. Senate,,DEM,Natalie James,1,0,0,1,0
+Sharp,North Union,U.S. Senate,,DEM,Natalie James,3,0,2,0,1
+Sharp,Ozark,U.S. Senate,,DEM,Natalie James,39,0,22,0,17
+Sharp,Piney Fork,U.S. Senate,,DEM,Natalie James,44,0,20,0,24
+Sharp,Richwood,U.S. Senate,,DEM,Natalie James,99,0,71,4,24
+Sharp,Scott,U.S. Senate,,DEM,Natalie James,17,0,12,0,5
+Sharp,South Big Rock,U.S. Senate,,DEM,Natalie James,9,0,2,0,7
+Sharp,South Lebanon,U.S. Senate,,DEM,Natalie James,7,0,6,0,1
+Sharp,South Union,U.S. Senate,,DEM,Natalie James,21,0,8,4,9
+Sharp,Strawberry,U.S. Senate,,DEM,Natalie James,11,0,1,0,10
+Sharp,Upper North,U.S. Senate,,DEM,Natalie James,13,0,4,0,9
+Sharp,Washington,U.S. Senate,,DEM,Natalie James,11,0,5,0,6
+Sharp,West Sullivan,U.S. Senate,,DEM,Natalie James,17,0,10,0,7
+Sharp,Big Creek,U.S. Senate,,REP,Senator John Boozman,101,0,53,0,48
+Sharp,Cave,U.S. Senate,,REP,Senator John Boozman,593,0,370,6,217
+Sharp,Cherokee,U.S. Senate,,REP,Senator John Boozman,1119,0,651,34,434
+Sharp,Davidson,U.S. Senate,,REP,Senator John Boozman,61,0,43,3,15
+Sharp,East Sullivan,U.S. Senate,,REP,Senator John Boozman,131,0,91,6,34
+Sharp,Hardy,U.S. Senate,,REP,Senator John Boozman,313,0,196,10,107
+Sharp,Highland,U.S. Senate,,REP,Senator John Boozman,390,0,197,7,186
+Sharp,Jackson,U.S. Senate,,REP,Senator John Boozman,84,0,34,4,46
+Sharp,Lave Creek,U.S. Senate,,REP,Senator John Boozman,111,0,75,1,35
+Sharp,Lower North,U.S. Senate,,REP,Senator John Boozman,171,0,76,8,87
+Sharp,Morgan,U.S. Senate,,REP,Senator John Boozman,62,0,39,3,20
+Sharp,North Big Rock,U.S. Senate,,REP,Senator John Boozman,47,0,21,0,26
+Sharp,North Lebanon,U.S. Senate,,REP,Senator John Boozman,18,0,10,1,7
+Sharp,North Union,U.S. Senate,,REP,Senator John Boozman,34,0,18,2,14
+Sharp,Ozark,U.S. Senate,,REP,Senator John Boozman,159,0,76,0,83
+Sharp,Piney Fork,U.S. Senate,,REP,Senator John Boozman,313,0,102,4,207
+Sharp,Richwood,U.S. Senate,,REP,Senator John Boozman,501,0,352,10,139
+Sharp,Scott,U.S. Senate,,REP,Senator John Boozman,133,0,89,1,43
+Sharp,South Big Rock,U.S. Senate,,REP,Senator John Boozman,58,0,34,0,24
+Sharp,South Lebanon,U.S. Senate,,REP,Senator John Boozman,42,0,18,1,23
+Sharp,South Union,U.S. Senate,,REP,Senator John Boozman,92,0,48,0,44
+Sharp,Strawberry,U.S. Senate,,REP,Senator John Boozman,45,0,7,0,38
+Sharp,Upper North,U.S. Senate,,REP,Senator John Boozman,66,0,9,1,56
+Sharp,Washington,U.S. Senate,,REP,Senator John Boozman,72,0,45,0,27
+Sharp,West Sullivan,U.S. Senate,,REP,Senator John Boozman,132,0,74,0,58
+Sharp,Big Creek,U.S. Senate,,LIB,Kenneth Cates,3,0,1,0,2
+Sharp,Cave,U.S. Senate,,LIB,Kenneth Cates,29,0,16,0,13
+Sharp,Cherokee,U.S. Senate,,LIB,Kenneth Cates,42,0,15,0,27
+Sharp,Davidson,U.S. Senate,,LIB,Kenneth Cates,3,0,3,0,0
+Sharp,East Sullivan,U.S. Senate,,LIB,Kenneth Cates,6,0,2,0,4
+Sharp,Hardy,U.S. Senate,,LIB,Kenneth Cates,20,0,12,0,8
+Sharp,Highland,U.S. Senate,,LIB,Kenneth Cates,15,0,6,0,9
+Sharp,Jackson,U.S. Senate,,LIB,Kenneth Cates,5,0,2,0,3
+Sharp,Lave Creek,U.S. Senate,,LIB,Kenneth Cates,7,0,3,0,4
+Sharp,Lower North,U.S. Senate,,LIB,Kenneth Cates,6,0,3,0,3
+Sharp,Morgan,U.S. Senate,,LIB,Kenneth Cates,3,0,3,0,0
+Sharp,North Big Rock,U.S. Senate,,LIB,Kenneth Cates,3,0,1,0,2
+Sharp,North Lebanon,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0,0
+Sharp,North Union,U.S. Senate,,LIB,Kenneth Cates,2,0,1,0,1
+Sharp,Ozark,U.S. Senate,,LIB,Kenneth Cates,12,0,6,0,6
+Sharp,Piney Fork,U.S. Senate,,LIB,Kenneth Cates,12,0,5,0,7
+Sharp,Richwood,U.S. Senate,,LIB,Kenneth Cates,19,0,13,1,5
+Sharp,Scott,U.S. Senate,,LIB,Kenneth Cates,2,0,0,0,2
+Sharp,South Big Rock,U.S. Senate,,LIB,Kenneth Cates,1,0,1,0,0
+Sharp,South Lebanon,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0,0
+Sharp,South Union,U.S. Senate,,LIB,Kenneth Cates,4,0,3,0,1
+Sharp,Strawberry,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0,0
+Sharp,Upper North,U.S. Senate,,LIB,Kenneth Cates,2,0,0,0,2
+Sharp,Washington,U.S. Senate,,LIB,Kenneth Cates,1,0,0,0,1
+Sharp,West Sullivan,U.S. Senate,,LIB,Kenneth Cates,2,0,1,0,1
+Sharp,Big Creek,U.S. Congress District 01,,DEM,Representative Monte Hodges,10,0,4,0,6
+Sharp,Cave,U.S. Congress District 01,,DEM,Representative Monte Hodges,101,0,61,2,38
+Sharp,Cherokee,U.S. Congress District 01,,DEM,Representative Monte Hodges,319,0,207,12,100
+Sharp,Davidson,U.S. Congress District 01,,DEM,Representative Monte Hodges,11,0,6,0,5
+Sharp,East Sullivan,U.S. Congress District 01,,DEM,Representative Monte Hodges,11,0,8,0,3
+Sharp,Hardy,U.S. Congress District 01,,DEM,Representative Monte Hodges,111,0,79,6,26
+Sharp,Highland,U.S. Congress District 01,,DEM,Representative Monte Hodges,70,0,28,2,40
+Sharp,Jackson,U.S. Congress District 01,,DEM,Representative Monte Hodges,24,0,11,0,13
+Sharp,Lave Creek,U.S. Congress District 01,,DEM,Representative Monte Hodges,19,0,12,0,7
+Sharp,Lower North,U.S. Congress District 01,,DEM,Representative Monte Hodges,26,0,15,0,11
+Sharp,Morgan,U.S. Congress District 01,,DEM,Representative Monte Hodges,8,0,8,0,0
+Sharp,North Big Rock,U.S. Congress District 01,,DEM,Representative Monte Hodges,5,0,2,0,3
+Sharp,North Lebanon,U.S. Congress District 01,,DEM,Representative Monte Hodges,1,0,0,1,0
+Sharp,North Union,U.S. Congress District 01,,DEM,Representative Monte Hodges,5,0,4,0,1
+Sharp,Ozark,U.S. Congress District 01,,DEM,Representative Monte Hodges,41,0,24,0,17
+Sharp,Piney Fork,U.S. Congress District 01,,DEM,Representative Monte Hodges,42,0,20,0,22
+Sharp,Richwood,U.S. Congress District 01,,DEM,Representative Monte Hodges,104,0,78,4,22
+Sharp,Scott,U.S. Congress District 01,,DEM,Representative Monte Hodges,20,0,13,0,7
+Sharp,South Big Rock,U.S. Congress District 01,,DEM,Representative Monte Hodges,13,0,5,0,8
+Sharp,South Lebanon,U.S. Congress District 01,,DEM,Representative Monte Hodges,7,0,6,0,1
+Sharp,South Union,U.S. Congress District 01,,DEM,Representative Monte Hodges,20,0,8,4,8
+Sharp,Strawberry,U.S. Congress District 01,,DEM,Representative Monte Hodges,10,0,1,0,9
+Sharp,Upper North,U.S. Congress District 01,,DEM,Representative Monte Hodges,13,0,4,0,9
+Sharp,Washington,U.S. Congress District 01,,DEM,Representative Monte Hodges,9,0,3,0,6
+Sharp,West Sullivan,U.S. Congress District 01,,DEM,Representative Monte Hodges,17,0,9,0,8
+Sharp,Big Creek,U.S. Congress District 01,,REP,Congressman Rick Crawford,104,0,54,0,50
+Sharp,Cave,U.S. Congress District 01,,REP,Congressman Rick Crawford,620,0,387,5,228
+Sharp,Cherokee,U.S. Congress District 01,,REP,Congressman Rick Crawford,1146,0,654,35,457
+Sharp,Davidson,U.S. Congress District 01,,REP,Congressman Rick Crawford,62,0,43,3,16
+Sharp,East Sullivan,U.S. Congress District 01,,REP,Congressman Rick Crawford,133,0,92,6,35
+Sharp,Hardy,U.S. Congress District 01,,REP,Congressman Rick Crawford,331,0,207,9,115
+Sharp,Highland,U.S. Congress District 01,,REP,Congressman Rick Crawford,401,0,201,7,193
+Sharp,Jackson,U.S. Congress District 01,,REP,Congressman Rick Crawford,87,0,36,4,47
+Sharp,Lave Creek,U.S. Congress District 01,,REP,Congressman Rick Crawford,118,0,78,1,39
+Sharp,Lower North,U.S. Congress District 01,,REP,Congressman Rick Crawford,176,0,80,8,88
+Sharp,Morgan,U.S. Congress District 01,,REP,Congressman Rick Crawford,66,0,43,3,20
+Sharp,North Big Rock,U.S. Congress District 01,,REP,Congressman Rick Crawford,51,0,23,0,28
+Sharp,North Lebanon,U.S. Congress District 01,,REP,Congressman Rick Crawford,18,0,10,1,7
+Sharp,North Union,U.S. Congress District 01,,REP,Congressman Rick Crawford,33,0,16,2,15
+Sharp,Ozark,U.S. Congress District 01,,REP,Congressman Rick Crawford,168,0,80,0,88
+Sharp,Piney Fork,U.S. Congress District 01,,REP,Congressman Rick Crawford,324,0,107,4,213
+Sharp,Richwood,U.S. Congress District 01,,REP,Congressman Rick Crawford,512,0,358,10,144
+Sharp,Scott,U.S. Congress District 01,,REP,Congressman Rick Crawford,133,0,89,1,43
+Sharp,South Big Rock,U.S. Congress District 01,,REP,Congressman Rick Crawford,55,0,32,0,23
+Sharp,South Lebanon,U.S. Congress District 01,,REP,Congressman Rick Crawford,42,0,18,1,23
+Sharp,South Union,U.S. Congress District 01,,REP,Congressman Rick Crawford,97,0,51,0,46
+Sharp,Strawberry,U.S. Congress District 01,,REP,Congressman Rick Crawford,46,0,7,0,39
+Sharp,Upper North,U.S. Congress District 01,,REP,Congressman Rick Crawford,67,0,9,1,57
+Sharp,Washington,U.S. Congress District 01,,REP,Congressman Rick Crawford,73,0,45,0,28
+Sharp,West Sullivan,U.S. Congress District 01,,REP,Congressman Rick Crawford,132,0,76,0,56
+Sharp,Big Creek,Attorney General,,REP,Lieutenant Governor Tim Griffin,103,0,54,0,49
+Sharp,Cave,Attorney General,,REP,Lieutenant Governor Tim Griffin,616,0,381,5,230
+Sharp,Cherokee,Attorney General,,REP,Lieutenant Governor Tim Griffin,1142,0,648,34,460
+Sharp,Davidson,Attorney General,,REP,Lieutenant Governor Tim Griffin,63,0,44,3,16
+Sharp,East Sullivan,Attorney General,,REP,Lieutenant Governor Tim Griffin,133,0,92,4,37
+Sharp,Hardy,Attorney General,,REP,Lieutenant Governor Tim Griffin,333,0,210,10,113
+Sharp,Highland,Attorney General,,REP,Lieutenant Governor Tim Griffin,414,0,205,8,201
+Sharp,Jackson,Attorney General,,REP,Lieutenant Governor Tim Griffin,87,0,35,4,48
+Sharp,Lave Creek,Attorney General,,REP,Lieutenant Governor Tim Griffin,117,0,77,1,39
+Sharp,Lower North,Attorney General,,REP,Lieutenant Governor Tim Griffin,177,0,81,8,88
+Sharp,Morgan,Attorney General,,REP,Lieutenant Governor Tim Griffin,64,0,41,3,20
+Sharp,North Big Rock,Attorney General,,REP,Lieutenant Governor Tim Griffin,50,0,23,0,27
+Sharp,North Lebanon,Attorney General,,REP,Lieutenant Governor Tim Griffin,18,0,10,1,7
+Sharp,North Union,Attorney General,,REP,Lieutenant Governor Tim Griffin,34,0,18,2,14
+Sharp,Ozark,Attorney General,,REP,Lieutenant Governor Tim Griffin,169,0,81,0,88
+Sharp,Piney Fork,Attorney General,,REP,Lieutenant Governor Tim Griffin,323,0,107,4,212
+Sharp,Richwood,Attorney General,,REP,Lieutenant Governor Tim Griffin,517,0,361,11,145
+Sharp,Scott,Attorney General,,REP,Lieutenant Governor Tim Griffin,134,0,89,1,44
+Sharp,South Big Rock,Attorney General,,REP,Lieutenant Governor Tim Griffin,57,0,33,0,24
+Sharp,South Lebanon,Attorney General,,REP,Lieutenant Governor Tim Griffin,39,0,16,1,22
+Sharp,South Union,Attorney General,,REP,Lieutenant Governor Tim Griffin,97,0,50,0,47
+Sharp,Strawberry,Attorney General,,REP,Lieutenant Governor Tim Griffin,45,0,7,0,38
+Sharp,Upper North,Attorney General,,REP,Lieutenant Governor Tim Griffin,63,0,9,1,53
+Sharp,Washington,Attorney General,,REP,Lieutenant Governor Tim Griffin,73,0,45,0,28
+Sharp,West Sullivan,Attorney General,,REP,Lieutenant Governor Tim Griffin,133,0,74,0,59
+Sharp,Big Creek,Attorney General,,DEM,Jesse Gibson,10,0,4,0,6
+Sharp,Cave,Attorney General,,DEM,Jesse Gibson,100,0,63,2,35
+Sharp,Cherokee,Attorney General,,DEM,Jesse Gibson,317,0,209,13,95
+Sharp,Davidson,Attorney General,,DEM,Jesse Gibson,10,0,5,0,5
+Sharp,East Sullivan,Attorney General,,DEM,Jesse Gibson,11,0,8,2,1
+Sharp,Hardy,Attorney General,,DEM,Jesse Gibson,106,0,74,5,27
+Sharp,Highland,Attorney General,,DEM,Jesse Gibson,57,0,25,1,31
+Sharp,Jackson,Attorney General,,DEM,Jesse Gibson,23,0,11,0,12
+Sharp,Lave Creek,Attorney General,,DEM,Jesse Gibson,20,0,13,0,7
+Sharp,Lower North,Attorney General,,DEM,Jesse Gibson,25,0,14,0,11
+Sharp,Morgan,Attorney General,,DEM,Jesse Gibson,11,0,11,0,0
+Sharp,North Big Rock,Attorney General,,DEM,Jesse Gibson,6,0,2,0,4
+Sharp,North Lebanon,Attorney General,,DEM,Jesse Gibson,1,0,0,1,0
+Sharp,North Union,Attorney General,,DEM,Jesse Gibson,4,0,2,0,2
+Sharp,Ozark,Attorney General,,DEM,Jesse Gibson,41,0,23,0,18
+Sharp,Piney Fork,Attorney General,,DEM,Jesse Gibson,41,0,18,0,23
+Sharp,Richwood,Attorney General,,DEM,Jesse Gibson,102,0,76,4,22
+Sharp,Scott,Attorney General,,DEM,Jesse Gibson,18,0,12,0,6
+Sharp,South Big Rock,Attorney General,,DEM,Jesse Gibson,11,0,4,0,7
+Sharp,South Lebanon,Attorney General,,DEM,Jesse Gibson,7,0,6,0,1
+Sharp,South Union,Attorney General,,DEM,Jesse Gibson,19,0,8,3,8
+Sharp,Strawberry,Attorney General,,DEM,Jesse Gibson,11,0,1,0,10
+Sharp,Upper North,Attorney General,,DEM,Jesse Gibson,17,0,4,0,13
+Sharp,Washington,Attorney General,,DEM,Jesse Gibson,10,0,4,0,6
+Sharp,West Sullivan,Attorney General,,DEM,Jesse Gibson,18,0,11,0,7
+Sharp,Big Creek,Auditor of State,,DEM,Diamond Arnold-Johnson,9,0,4,0,5
+Sharp,Cave,Auditor of State,,DEM,Diamond Arnold-Johnson,87,0,57,2,28
+Sharp,Cherokee,Auditor of State,,DEM,Diamond Arnold-Johnson,302,0,197,12,93
+Sharp,Davidson,Auditor of State,,DEM,Diamond Arnold-Johnson,7,0,3,0,4
+Sharp,East Sullivan,Auditor of State,,DEM,Diamond Arnold-Johnson,7,0,6,0,1
+Sharp,Hardy,Auditor of State,,DEM,Diamond Arnold-Johnson,95,0,70,4,21
+Sharp,Highland,Auditor of State,,DEM,Diamond Arnold-Johnson,54,0,23,1,30
+Sharp,Jackson,Auditor of State,,DEM,Diamond Arnold-Johnson,26,0,12,0,14
+Sharp,Lave Creek,Auditor of State,,DEM,Diamond Arnold-Johnson,21,0,13,0,8
+Sharp,Lower North,Auditor of State,,DEM,Diamond Arnold-Johnson,22,0,12,0,10
+Sharp,Morgan,Auditor of State,,DEM,Diamond Arnold-Johnson,8,0,8,0,0
+Sharp,North Big Rock,Auditor of State,,DEM,Diamond Arnold-Johnson,4,0,2,0,2
+Sharp,North Lebanon,Auditor of State,,DEM,Diamond Arnold-Johnson,1,0,0,1,0
+Sharp,North Union,Auditor of State,,DEM,Diamond Arnold-Johnson,3,0,2,0,1
+Sharp,Ozark,Auditor of State,,DEM,Diamond Arnold-Johnson,35,0,23,0,12
+Sharp,Piney Fork,Auditor of State,,DEM,Diamond Arnold-Johnson,39,0,17,0,22
+Sharp,Richwood,Auditor of State,,DEM,Diamond Arnold-Johnson,89,0,66,4,19
+Sharp,Scott,Auditor of State,,DEM,Diamond Arnold-Johnson,18,0,12,0,6
+Sharp,South Big Rock,Auditor of State,,DEM,Diamond Arnold-Johnson,8,0,2,0,6
+Sharp,South Lebanon,Auditor of State,,DEM,Diamond Arnold-Johnson,8,0,7,0,1
+Sharp,South Union,Auditor of State,,DEM,Diamond Arnold-Johnson,19,0,8,2,9
+Sharp,Strawberry,Auditor of State,,DEM,Diamond Arnold-Johnson,10,0,0,0,10
+Sharp,Upper North,Auditor of State,,DEM,Diamond Arnold-Johnson,12,0,4,0,8
+Sharp,Washington,Auditor of State,,DEM,Diamond Arnold-Johnson,8,0,4,0,4
+Sharp,West Sullivan,Auditor of State,,DEM,Diamond Arnold-Johnson,19,0,11,0,8
+Sharp,Big Creek,Auditor of State,,REP,Treasurer of State Dennis Milligan,101,0,52,0,49
+Sharp,Cave,Auditor of State,,REP,Treasurer of State Dennis Milligan,605,0,378,4,223
+Sharp,Cherokee,Auditor of State,,REP,Treasurer of State Dennis Milligan,1114,0,641,34,439
+Sharp,Davidson,Auditor of State,,REP,Treasurer of State Dennis Milligan,66,0,46,3,17
+Sharp,East Sullivan,Auditor of State,,REP,Treasurer of State Dennis Milligan,132,0,93,4,35
+Sharp,Hardy,Auditor of State,,REP,Treasurer of State Dennis Milligan,325,0,203,10,112
+Sharp,Highland,Auditor of State,,REP,Treasurer of State Dennis Milligan,403,0,200,8,195
+Sharp,Jackson,Auditor of State,,REP,Treasurer of State Dennis Milligan,81,0,33,4,44
+Sharp,Lave Creek,Auditor of State,,REP,Treasurer of State Dennis Milligan,111,0,75,1,35
+Sharp,Lower North,Auditor of State,,REP,Treasurer of State Dennis Milligan,171,0,78,8,85
+Sharp,Morgan,Auditor of State,,REP,Treasurer of State Dennis Milligan,64,0,41,3,20
+Sharp,North Big Rock,Auditor of State,,REP,Treasurer of State Dennis Milligan,49,0,23,0,26
+Sharp,North Lebanon,Auditor of State,,REP,Treasurer of State Dennis Milligan,18,0,10,1,7
+Sharp,North Union,Auditor of State,,REP,Treasurer of State Dennis Milligan,33,0,17,2,14
+Sharp,Ozark,Auditor of State,,REP,Treasurer of State Dennis Milligan,161,0,75,0,86
+Sharp,Piney Fork,Auditor of State,,REP,Treasurer of State Dennis Milligan,316,0,106,4,206
+Sharp,Richwood,Auditor of State,,REP,Treasurer of State Dennis Milligan,506,0,355,10,141
+Sharp,Scott,Auditor of State,,REP,Treasurer of State Dennis Milligan,133,0,90,1,42
+Sharp,South Big Rock,Auditor of State,,REP,Treasurer of State Dennis Milligan,59,0,35,0,24
+Sharp,South Lebanon,Auditor of State,,REP,Treasurer of State Dennis Milligan,42,0,18,1,23
+Sharp,South Union,Auditor of State,,REP,Treasurer of State Dennis Milligan,95,0,50,0,45
+Sharp,Strawberry,Auditor of State,,REP,Treasurer of State Dennis Milligan,45,0,7,0,38
+Sharp,Upper North,Auditor of State,,REP,Treasurer of State Dennis Milligan,63,0,9,1,53
+Sharp,Washington,Auditor of State,,REP,Treasurer of State Dennis Milligan,72,0,45,0,27
+Sharp,West Sullivan,Auditor of State,,REP,Treasurer of State Dennis Milligan,128,0,72,0,56
+Sharp,Big Creek,Auditor of State,,LIB,Simeon Snow,3,0,1,0,2
+Sharp,Cave,Auditor of State,,LIB,Simeon Snow,26,0,10,1,15
+Sharp,Cherokee,Auditor of State,,LIB,Simeon Snow,45,0,20,1,24
+Sharp,Davidson,Auditor of State,,LIB,Simeon Snow,0,0,0,0,0
+Sharp,East Sullivan,Auditor of State,,LIB,Simeon Snow,3,0,1,0,2
+Sharp,Hardy,Auditor of State,,LIB,Simeon Snow,21,0,13,1,7
+Sharp,Highland,Auditor of State,,LIB,Simeon Snow,16,0,9,0,7
+Sharp,Jackson,Auditor of State,,LIB,Simeon Snow,4,0,1,0,3
+Sharp,Lave Creek,Auditor of State,,LIB,Simeon Snow,6,0,3,0,3
+Sharp,Lower North,Auditor of State,,LIB,Simeon Snow,9,0,5,0,4
+Sharp,Morgan,Auditor of State,,LIB,Simeon Snow,2,0,2,0,0
+Sharp,North Big Rock,Auditor of State,,LIB,Simeon Snow,1,0,0,0,1
+Sharp,North Lebanon,Auditor of State,,LIB,Simeon Snow,0,0,0,0,0
+Sharp,North Union,Auditor of State,,LIB,Simeon Snow,2,0,1,0,1
+Sharp,Ozark,Auditor of State,,LIB,Simeon Snow,14,0,6,0,8
+Sharp,Piney Fork,Auditor of State,,LIB,Simeon Snow,10,0,4,0,6
+Sharp,Richwood,Auditor of State,,LIB,Simeon Snow,20,0,12,1,7
+Sharp,Scott,Auditor of State,,LIB,Simeon Snow,2,0,0,0,2
+Sharp,South Big Rock,Auditor of State,,LIB,Simeon Snow,0,0,0,0,0
+Sharp,South Lebanon,Auditor of State,,LIB,Simeon Snow,0,0,0,0,0
+Sharp,South Union,Auditor of State,,LIB,Simeon Snow,3,0,1,1,1
+Sharp,Strawberry,Auditor of State,,LIB,Simeon Snow,1,0,1,0,0
+Sharp,Upper North,Auditor of State,,LIB,Simeon Snow,6,0,0,0,6
+Sharp,Washington,Auditor of State,,LIB,Simeon Snow,3,0,0,0,3
+Sharp,West Sullivan,Auditor of State,,LIB,Simeon Snow,4,0,2,0,2
+Sharp,Big Creek,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,105,0,55,0,50
+Sharp,Cave,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,630,0,388,6,236
+Sharp,Cherokee,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,1154,0,657,34,463
+Sharp,Davidson,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,64,0,44,3,17
+Sharp,East Sullivan,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,130,0,89,4,37
+Sharp,Hardy,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,338,0,211,10,117
+Sharp,Highland,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,413,0,204,8,201
+Sharp,Jackson,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,85,0,34,4,47
+Sharp,Lave Creek,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,116,0,77,1,38
+Sharp,Lower North,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,178,0,80,8,90
+Sharp,Morgan,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,64,0,42,2,20
+Sharp,North Big Rock,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,51,0,23,0,28
+Sharp,North Lebanon,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,18,0,10,1,7
+Sharp,North Union,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,34,0,18,2,14
+Sharp,Ozark,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,171,0,81,0,90
+Sharp,Piney Fork,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,320,0,107,4,209
+Sharp,Richwood,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,508,0,353,11,144
+Sharp,Scott,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,134,0,90,1,43
+Sharp,South Big Rock,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,56,0,33,0,23
+Sharp,South Lebanon,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,41,0,18,1,22
+Sharp,South Union,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,97,0,50,0,47
+Sharp,Strawberry,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,45,0,7,0,38
+Sharp,Upper North,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,67,0,9,1,57
+Sharp,Washington,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,77,0,45,0,32
+Sharp,West Sullivan,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,134,0,75,0,59
+Sharp,Big Creek,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,8,0,3,0,5
+Sharp,Cave,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,84,0,54,1,29
+Sharp,Cherokee,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,307,0,201,13,93
+Sharp,Davidson,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,9,0,5,0,4
+Sharp,East Sullivan,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,11,0,11,0,0
+Sharp,Hardy,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,103,0,74,5,24
+Sharp,Highland,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,59,0,26,1,32
+Sharp,Jackson,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,26,0,12,0,14
+Sharp,Lave Creek,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,22,0,14,0,8
+Sharp,Lower North,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,24,0,15,0,9
+Sharp,Morgan,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,11,0,10,1,0
+Sharp,North Big Rock,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,5,0,2,0,3
+Sharp,North Lebanon,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,1,0,0,1,0
+Sharp,North Union,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,4,0,2,0,2
+Sharp,Ozark,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,38,0,23,0,15
+Sharp,Piney Fork,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,42,0,19,0,23
+Sharp,Richwood,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,104,0,77,4,23
+Sharp,Scott,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,19,0,12,0,7
+Sharp,South Big Rock,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,10,0,4,0,6
+Sharp,South Lebanon,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,7,0,6,0,1
+Sharp,South Union,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,20,0,9,3,8
+Sharp,Strawberry,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,11,0,1,0,10
+Sharp,Upper North,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,14,0,4,0,10
+Sharp,Washington,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,5,0,3,0,2
+Sharp,West Sullivan,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,17,0,10,0,7
+Sharp,Big Creek,Governor,,LIB,"Ricky Dale Harrington, Jr.",4,0,3,0,1
+Sharp,Cave,Governor,,LIB,"Ricky Dale Harrington, Jr.",20,0,11,0,9
+Sharp,Cherokee,Governor,,LIB,"Ricky Dale Harrington, Jr.",42,0,15,0,27
+Sharp,Davidson,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,0,3,0,0
+Sharp,East Sullivan,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,0,2,0,1
+Sharp,Hardy,Governor,,LIB,"Ricky Dale Harrington, Jr.",18,0,11,0,7
+Sharp,Highland,Governor,,LIB,"Ricky Dale Harrington, Jr.",13,0,6,0,7
+Sharp,Jackson,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,0,1,0,2
+Sharp,Lave Creek,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,0,1,0,2
+Sharp,Lower North,Governor,,LIB,"Ricky Dale Harrington, Jr.",9,0,2,0,7
+Sharp,Morgan,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,1,0,0
+Sharp,North Big Rock,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0,0
+Sharp,North Lebanon,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0,0
+Sharp,North Union,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,1,0,0
+Sharp,Ozark,Governor,,LIB,"Ricky Dale Harrington, Jr.",9,0,6,0,3
+Sharp,Piney Fork,Governor,,LIB,"Ricky Dale Harrington, Jr.",9,0,3,0,6
+Sharp,Richwood,Governor,,LIB,"Ricky Dale Harrington, Jr.",20,0,11,1,8
+Sharp,Scott,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,0,1,0,1
+Sharp,South Big Rock,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,1,0,0
+Sharp,South Lebanon,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,0,1
+Sharp,South Union,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,0,3,0,2
+Sharp,Strawberry,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0,0
+Sharp,Upper North,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,0,1
+Sharp,Washington,Governor,,LIB,"Ricky Dale Harrington, Jr.",4,0,2,0,2
+Sharp,West Sullivan,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,0,2,0,1
+Sharp,Big Creek,Governor,,REP,Sarah Huckabee Sanders,100,0,51,0,49
+Sharp,Cave,Governor,,REP,Sarah Huckabee Sanders,591,0,365,5,221
+Sharp,Cherokee,Governor,,REP,Sarah Huckabee Sanders,1106,0,635,34,437
+Sharp,Davidson,Governor,,REP,Sarah Huckabee Sanders,63,0,43,3,17
+Sharp,East Sullivan,Governor,,REP,Sarah Huckabee Sanders,124,0,88,3,33
+Sharp,Hardy,Governor,,REP,Sarah Huckabee Sanders,318,0,201,9,108
+Sharp,Highland,Governor,,REP,Sarah Huckabee Sanders,395,0,198,8,189
+Sharp,Jackson,Governor,,REP,Sarah Huckabee Sanders,85,0,35,4,46
+Sharp,Lave Creek,Governor,,REP,Sarah Huckabee Sanders,115,0,77,1,37
+Sharp,Lower North,Governor,,REP,Sarah Huckabee Sanders,170,0,78,8,84
+Sharp,Morgan,Governor,,REP,Sarah Huckabee Sanders,63,0,40,3,20
+Sharp,North Big Rock,Governor,,REP,Sarah Huckabee Sanders,50,0,23,0,27
+Sharp,North Lebanon,Governor,,REP,Sarah Huckabee Sanders,18,0,10,1,7
+Sharp,North Union,Governor,,REP,Sarah Huckabee Sanders,35,0,19,2,14
+Sharp,Ozark,Governor,,REP,Sarah Huckabee Sanders,160,0,75,0,85
+Sharp,Piney Fork,Governor,,REP,Sarah Huckabee Sanders,315,0,106,4,205
+Sharp,Richwood,Governor,,REP,Sarah Huckabee Sanders,495,0,345,9,141
+Sharp,Scott,Governor,,REP,Sarah Huckabee Sanders,128,0,88,1,39
+Sharp,South Big Rock,Governor,,REP,Sarah Huckabee Sanders,50,0,28,0,22
+Sharp,South Lebanon,Governor,,REP,Sarah Huckabee Sanders,40,0,17,1,22
+Sharp,South Union,Governor,,REP,Sarah Huckabee Sanders,91,0,47,0,44
+Sharp,Strawberry,Governor,,REP,Sarah Huckabee Sanders,43,0,6,0,37
+Sharp,Upper North,Governor,,REP,Sarah Huckabee Sanders,67,0,10,1,56
+Sharp,Washington,Governor,,REP,Sarah Huckabee Sanders,68,0,42,0,26
+Sharp,West Sullivan,Governor,,REP,Sarah Huckabee Sanders,126,0,69,0,57
+Sharp,Big Creek,Governor,,DEM,Chris Jones,10,0,4,0,6
+Sharp,Cave,Governor,,DEM,Chris Jones,110,0,72,2,36
+Sharp,Cherokee,Governor,,DEM,Chris Jones,325,0,216,13,96
+Sharp,Davidson,Governor,,DEM,Chris Jones,7,0,3,0,4
+Sharp,East Sullivan,Governor,,DEM,Chris Jones,19,0,12,3,4
+Sharp,Hardy,Governor,,DEM,Chris Jones,108,0,76,6,26
+Sharp,Highland,Governor,,DEM,Chris Jones,69,0,30,1,38
+Sharp,Jackson,Governor,,DEM,Chris Jones,25,0,11,0,14
+Sharp,Lave Creek,Governor,,DEM,Chris Jones,21,0,13,0,8
+Sharp,Lower North,Governor,,DEM,Chris Jones,23,0,15,0,8
+Sharp,Morgan,Governor,,DEM,Chris Jones,11,0,11,0,0
+Sharp,North Big Rock,Governor,,DEM,Chris Jones,6,0,2,0,4
+Sharp,North Lebanon,Governor,,DEM,Chris Jones,1,0,0,1,0
+Sharp,North Union,Governor,,DEM,Chris Jones,4,0,2,0,2
+Sharp,Ozark,Governor,,DEM,Chris Jones,41,0,23,0,18
+Sharp,Piney Fork,Governor,,DEM,Chris Jones,45,0,20,0,25
+Sharp,Richwood,Governor,,DEM,Chris Jones,106,0,81,5,20
+Sharp,Scott,Governor,,DEM,Chris Jones,23,0,13,0,10
+Sharp,South Big Rock,Governor,,DEM,Chris Jones,15,0,8,0,7
+Sharp,South Lebanon,Governor,,DEM,Chris Jones,9,0,8,0,1
+Sharp,South Union,Governor,,DEM,Chris Jones,22,0,9,4,9
+Sharp,Strawberry,Governor,,DEM,Chris Jones,13,0,2,0,11
+Sharp,Upper North,Governor,,DEM,Chris Jones,12,0,3,0,9
+Sharp,Washington,Governor,,DEM,Chris Jones,12,0,6,0,6
+Sharp,West Sullivan,Governor,,DEM,Chris Jones,19,0,11,0,8
+Sharp,Big Creek,Lieutenant Governor,,LIB,Frank Gilbert,5,0,3,0,2
+Sharp,Cave,Lieutenant Governor,,LIB,Frank Gilbert,23,0,11,0,12
+Sharp,Cherokee,Lieutenant Governor,,LIB,Frank Gilbert,43,0,19,0,24
+Sharp,Davidson,Lieutenant Governor,,LIB,Frank Gilbert,3,0,3,0,0
+Sharp,East Sullivan,Lieutenant Governor,,LIB,Frank Gilbert,6,0,2,0,4
+Sharp,Hardy,Lieutenant Governor,,LIB,Frank Gilbert,18,0,13,0,5
+Sharp,Highland,Lieutenant Governor,,LIB,Frank Gilbert,14,0,4,1,9
+Sharp,Jackson,Lieutenant Governor,,LIB,Frank Gilbert,4,0,1,0,3
+Sharp,Lave Creek,Lieutenant Governor,,LIB,Frank Gilbert,3,0,1,0,2
+Sharp,Lower North,Lieutenant Governor,,LIB,Frank Gilbert,9,0,4,0,5
+Sharp,Morgan,Lieutenant Governor,,LIB,Frank Gilbert,5,0,4,0,1
+Sharp,North Big Rock,Lieutenant Governor,,LIB,Frank Gilbert,2,0,0,0,2
+Sharp,North Lebanon,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0,0
+Sharp,North Union,Lieutenant Governor,,LIB,Frank Gilbert,3,0,1,0,2
+Sharp,Ozark,Lieutenant Governor,,LIB,Frank Gilbert,11,0,4,0,7
+Sharp,Piney Fork,Lieutenant Governor,,LIB,Frank Gilbert,13,0,1,0,12
+Sharp,Richwood,Lieutenant Governor,,LIB,Frank Gilbert,26,0,16,1,9
+Sharp,Scott,Lieutenant Governor,,LIB,Frank Gilbert,2,0,0,0,2
+Sharp,South Big Rock,Lieutenant Governor,,LIB,Frank Gilbert,1,0,1,0,0
+Sharp,South Lebanon,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0,0
+Sharp,South Union,Lieutenant Governor,,LIB,Frank Gilbert,7,0,4,0,3
+Sharp,Strawberry,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0,0
+Sharp,Upper North,Lieutenant Governor,,LIB,Frank Gilbert,3,0,0,0,3
+Sharp,Washington,Lieutenant Governor,,LIB,Frank Gilbert,1,0,0,0,1
+Sharp,West Sullivan,Lieutenant Governor,,LIB,Frank Gilbert,1,0,1,0,0
+Sharp,Big Creek,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,100,0,52,0,48
+Sharp,Cave,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,611,0,382,6,223
+Sharp,Cherokee,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,1127,0,655,34,438
+Sharp,Davidson,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,60,0,41,3,16
+Sharp,East Sullivan,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,131,0,91,6,34
+Sharp,Hardy,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,325,0,206,10,109
+Sharp,Highland,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,401,0,199,7,195
+Sharp,Jackson,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,84,0,34,4,46
+Sharp,Lave Creek,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,113,0,76,1,36
+Sharp,Lower North,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,171,0,78,8,85
+Sharp,Morgan,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,61,0,39,3,19
+Sharp,North Big Rock,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,49,0,22,0,27
+Sharp,North Lebanon,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,18,0,10,1,7
+Sharp,North Union,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,32,0,17,2,13
+Sharp,Ozark,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,163,0,80,0,83
+Sharp,Piney Fork,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,309,0,104,3,202
+Sharp,Richwood,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,502,0,349,11,142
+Sharp,Scott,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,131,0,89,1,41
+Sharp,South Big Rock,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,55,0,31,0,24
+Sharp,South Lebanon,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,41,0,17,1,23
+Sharp,South Union,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,91,0,47,0,44
+Sharp,Strawberry,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,46,0,7,0,39
+Sharp,Upper North,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,64,0,9,1,54
+Sharp,Washington,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,74,0,45,0,29
+Sharp,West Sullivan,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,129,0,71,0,58
+Sharp,Big Creek,Lieutenant Governor,,DEM,Kelly Ross Krout,9,0,3,0,6
+Sharp,Cave,Lieutenant Governor,,DEM,Kelly Ross Krout,87,0,54,1,32
+Sharp,Cherokee,Lieutenant Governor,,DEM,Kelly Ross Krout,298,0,189,13,96
+Sharp,Davidson,Lieutenant Governor,,DEM,Kelly Ross Krout,10,0,5,0,5
+Sharp,East Sullivan,Lieutenant Governor,,DEM,Kelly Ross Krout,9,0,8,0,1
+Sharp,Hardy,Lieutenant Governor,,DEM,Kelly Ross Krout,99,0,69,5,25
+Sharp,Highland,Lieutenant Governor,,DEM,Kelly Ross Krout,57,0,28,1,28
+Sharp,Jackson,Lieutenant Governor,,DEM,Kelly Ross Krout,24,0,12,0,12
+Sharp,Lave Creek,Lieutenant Governor,,DEM,Kelly Ross Krout,22,0,14,0,8
+Sharp,Lower North,Lieutenant Governor,,DEM,Kelly Ross Krout,23,0,14,0,9
+Sharp,Morgan,Lieutenant Governor,,DEM,Kelly Ross Krout,9,0,9,0,0
+Sharp,North Big Rock,Lieutenant Governor,,DEM,Kelly Ross Krout,5,0,3,0,2
+Sharp,North Lebanon,Lieutenant Governor,,DEM,Kelly Ross Krout,1,0,0,1,0
+Sharp,North Union,Lieutenant Governor,,DEM,Kelly Ross Krout,3,0,2,0,1
+Sharp,Ozark,Lieutenant Governor,,DEM,Kelly Ross Krout,35,0,20,0,15
+Sharp,Piney Fork,Lieutenant Governor,,DEM,Kelly Ross Krout,42,0,21,1,20
+Sharp,Richwood,Lieutenant Governor,,DEM,Kelly Ross Krout,89,0,69,3,17
+Sharp,Scott,Lieutenant Governor,,DEM,Kelly Ross Krout,20,0,13,0,7
+Sharp,South Big Rock,Lieutenant Governor,,DEM,Kelly Ross Krout,11,0,5,0,6
+Sharp,South Lebanon,Lieutenant Governor,,DEM,Kelly Ross Krout,8,0,7,0,1
+Sharp,South Union,Lieutenant Governor,,DEM,Kelly Ross Krout,19,0,8,3,8
+Sharp,Strawberry,Lieutenant Governor,,DEM,Kelly Ross Krout,10,0,1,0,9
+Sharp,Upper North,Lieutenant Governor,,DEM,Kelly Ross Krout,14,0,4,0,10
+Sharp,Washington,Lieutenant Governor,,DEM,Kelly Ross Krout,7,0,3,0,4
+Sharp,West Sullivan,Lieutenant Governor,,DEM,Kelly Ross Krout,19,0,11,0,8
+Sharp,Big Creek,Secretary of State,,DEM,Anna Beth Gorman,12,0,5,0,7
+Sharp,Cave,Secretary of State,,DEM,Anna Beth Gorman,106,0,63,3,40
+Sharp,Cherokee,Secretary of State,,DEM,Anna Beth Gorman,330,0,213,12,105
+Sharp,Davidson,Secretary of State,,DEM,Anna Beth Gorman,10,0,5,1,4
+Sharp,East Sullivan,Secretary of State,,DEM,Anna Beth Gorman,9,0,8,0,1
+Sharp,Hardy,Secretary of State,,DEM,Anna Beth Gorman,109,0,78,5,26
+Sharp,Highland,Secretary of State,,DEM,Anna Beth Gorman,63,0,27,2,34
+Sharp,Jackson,Secretary of State,,DEM,Anna Beth Gorman,25,0,11,0,14
+Sharp,Lave Creek,Secretary of State,,DEM,Anna Beth Gorman,21,0,14,0,7
+Sharp,Lower North,Secretary of State,,DEM,Anna Beth Gorman,30,0,18,0,12
+Sharp,Morgan,Secretary of State,,DEM,Anna Beth Gorman,10,0,10,0,0
+Sharp,North Big Rock,Secretary of State,,DEM,Anna Beth Gorman,6,0,2,0,4
+Sharp,North Lebanon,Secretary of State,,DEM,Anna Beth Gorman,1,0,0,1,0
+Sharp,North Union,Secretary of State,,DEM,Anna Beth Gorman,4,0,2,0,2
+Sharp,Ozark,Secretary of State,,DEM,Anna Beth Gorman,44,0,26,0,18
+Sharp,Piney Fork,Secretary of State,,DEM,Anna Beth Gorman,44,0,20,0,24
+Sharp,Richwood,Secretary of State,,DEM,Anna Beth Gorman,112,0,82,4,26
+Sharp,Scott,Secretary of State,,DEM,Anna Beth Gorman,19,0,12,0,7
+Sharp,South Big Rock,Secretary of State,,DEM,Anna Beth Gorman,10,0,5,0,5
+Sharp,South Lebanon,Secretary of State,,DEM,Anna Beth Gorman,8,0,7,0,1
+Sharp,South Union,Secretary of State,,DEM,Anna Beth Gorman,18,0,8,3,7
+Sharp,Strawberry,Secretary of State,,DEM,Anna Beth Gorman,10,0,0,0,10
+Sharp,Upper North,Secretary of State,,DEM,Anna Beth Gorman,16,0,4,0,12
+Sharp,Washington,Secretary of State,,DEM,Anna Beth Gorman,9,0,3,0,6
+Sharp,West Sullivan,Secretary of State,,DEM,Anna Beth Gorman,16,0,10,0,6
+Sharp,Big Creek,Secretary of State,,REP,Secretary of State John Thurston,101,0,52,0,49
+Sharp,Cave,Secretary of State,,REP,Secretary of State John Thurston,610,0,380,4,226
+Sharp,Cherokee,Secretary of State,,REP,Secretary of State John Thurston,1131,0,646,34,451
+Sharp,Davidson,Secretary of State,,REP,Secretary of State John Thurston,61,0,42,2,17
+Sharp,East Sullivan,Secretary of State,,REP,Secretary of State John Thurston,138,0,94,6,38
+Sharp,Hardy,Secretary of State,,REP,Secretary of State John Thurston,333,0,209,10,114
+Sharp,Highland,Secretary of State,,REP,Secretary of State John Thurston,408,0,203,7,198
+Sharp,Jackson,Secretary of State,,REP,Secretary of State John Thurston,84,0,34,4,46
+Sharp,Lave Creek,Secretary of State,,REP,Secretary of State John Thurston,118,0,78,1,39
+Sharp,Lower North,Secretary of State,,REP,Secretary of State John Thurston,170,0,76,8,86
+Sharp,Morgan,Secretary of State,,REP,Secretary of State John Thurston,65,0,42,3,20
+Sharp,North Big Rock,Secretary of State,,REP,Secretary of State John Thurston,49,0,23,0,26
+Sharp,North Lebanon,Secretary of State,,REP,Secretary of State John Thurston,18,0,10,1,7
+Sharp,North Union,Secretary of State,,REP,Secretary of State John Thurston,34,0,18,2,14
+Sharp,Ozark,Secretary of State,,REP,Secretary of State John Thurston,164,0,76,0,88
+Sharp,Piney Fork,Secretary of State,,REP,Secretary of State John Thurston,319,0,105,4,210
+Sharp,Richwood,Secretary of State,,REP,Secretary of State John Thurston,502,0,351,11,140
+Sharp,Scott,Secretary of State,,REP,Secretary of State John Thurston,134,0,90,1,43
+Sharp,South Big Rock,Secretary of State,,REP,Secretary of State John Thurston,57,0,32,0,25
+Sharp,South Lebanon,Secretary of State,,REP,Secretary of State John Thurston,42,0,18,1,23
+Sharp,South Union,Secretary of State,,REP,Secretary of State John Thurston,98,0,50,0,48
+Sharp,Strawberry,Secretary of State,,REP,Secretary of State John Thurston,46,0,8,0,38
+Sharp,Upper North,Secretary of State,,REP,Secretary of State John Thurston,65,0,9,1,55
+Sharp,Washington,Secretary of State,,REP,Secretary of State John Thurston,73,0,45,0,28
+Sharp,West Sullivan,Secretary of State,,REP,Secretary of State John Thurston,135,0,75,0,60
+Sharp,Big Creek,State Treasurer,,REP,State Representative Mark Lowery,103,0,54,0,49
+Sharp,Cave,State Treasurer,,REP,State Representative Mark Lowery,623,0,383,4,236
+Sharp,Cherokee,State Treasurer,,REP,State Representative Mark Lowery,1121,0,639,34,448
+Sharp,Davidson,State Treasurer,,REP,State Representative Mark Lowery,64,0,45,3,16
+Sharp,East Sullivan,State Treasurer,,REP,State Representative Mark Lowery,133,0,92,4,37
+Sharp,Hardy,State Treasurer,,REP,State Representative Mark Lowery,329,0,206,10,113
+Sharp,Highland,State Treasurer,,REP,State Representative Mark Lowery,398,0,197,8,193
+Sharp,Jackson,State Treasurer,,REP,State Representative Mark Lowery,83,0,34,4,45
+Sharp,Lave Creek,State Treasurer,,REP,State Representative Mark Lowery,114,0,77,1,36
+Sharp,Lower North,State Treasurer,,REP,State Representative Mark Lowery,175,0,78,8,89
+Sharp,Morgan,State Treasurer,,REP,State Representative Mark Lowery,63,0,40,3,20
+Sharp,North Big Rock,State Treasurer,,REP,State Representative Mark Lowery,50,0,23,0,27
+Sharp,North Lebanon,State Treasurer,,REP,State Representative Mark Lowery,18,0,10,1,7
+Sharp,North Union,State Treasurer,,REP,State Representative Mark Lowery,33,0,18,2,13
+Sharp,Ozark,State Treasurer,,REP,State Representative Mark Lowery,161,0,75,0,86
+Sharp,Piney Fork,State Treasurer,,REP,State Representative Mark Lowery,314,0,105,4,205
+Sharp,Richwood,State Treasurer,,REP,State Representative Mark Lowery,504,0,352,10,142
+Sharp,Scott,State Treasurer,,REP,State Representative Mark Lowery,131,0,88,1,42
+Sharp,South Big Rock,State Treasurer,,REP,State Representative Mark Lowery,55,0,31,0,24
+Sharp,South Lebanon,State Treasurer,,REP,State Representative Mark Lowery,40,0,16,1,23
+Sharp,South Union,State Treasurer,,REP,State Representative Mark Lowery,98,0,51,0,47
+Sharp,Strawberry,State Treasurer,,REP,State Representative Mark Lowery,44,0,7,0,37
+Sharp,Upper North,State Treasurer,,REP,State Representative Mark Lowery,66,0,9,1,56
+Sharp,Washington,State Treasurer,,REP,State Representative Mark Lowery,74,0,44,0,30
+Sharp,West Sullivan,State Treasurer,,REP,State Representative Mark Lowery,133,0,75,0,58
+Sharp,Big Creek,State Treasurer,,DEM,Pam Whitaker,11,0,4,0,7
+Sharp,Cave,State Treasurer,,DEM,Pam Whitaker,94,0,61,3,30
+Sharp,Cherokee,State Treasurer,,DEM,Pam Whitaker,330,0,211,13,106
+Sharp,Davidson,State Treasurer,,DEM,Pam Whitaker,9,0,4,0,5
+Sharp,East Sullivan,State Treasurer,,DEM,Pam Whitaker,11,0,9,0,2
+Sharp,Hardy,State Treasurer,,DEM,Pam Whitaker,112,0,80,5,27
+Sharp,Highland,State Treasurer,,DEM,Pam Whitaker,68,0,29,1,38
+Sharp,Jackson,State Treasurer,,DEM,Pam Whitaker,27,0,12,0,15
+Sharp,Lave Creek,State Treasurer,,DEM,Pam Whitaker,25,0,15,0,10
+Sharp,Lower North,State Treasurer,,DEM,Pam Whitaker,26,0,17,0,9
+Sharp,Morgan,State Treasurer,,DEM,Pam Whitaker,12,0,12,0,0
+Sharp,North Big Rock,State Treasurer,,DEM,Pam Whitaker,6,0,2,0,4
+Sharp,North Lebanon,State Treasurer,,DEM,Pam Whitaker,1,0,0,1,0
+Sharp,North Union,State Treasurer,,DEM,Pam Whitaker,4,0,2,0,2
+Sharp,Ozark,State Treasurer,,DEM,Pam Whitaker,47,0,28,0,19
+Sharp,Piney Fork,State Treasurer,,DEM,Pam Whitaker,45,0,20,0,25
+Sharp,Richwood,State Treasurer,,DEM,Pam Whitaker,111,0,81,5,25
+Sharp,Scott,State Treasurer,,DEM,Pam Whitaker,21,0,13,0,8
+Sharp,South Big Rock,State Treasurer,,DEM,Pam Whitaker,12,0,6,0,6
+Sharp,South Lebanon,State Treasurer,,DEM,Pam Whitaker,9,0,8,0,1
+Sharp,South Union,State Treasurer,,DEM,Pam Whitaker,18,0,8,3,7
+Sharp,Strawberry,State Treasurer,,DEM,Pam Whitaker,12,0,1,0,11
+Sharp,Upper North,State Treasurer,,DEM,Pam Whitaker,15,0,4,0,11
+Sharp,Washington,State Treasurer,,DEM,Pam Whitaker,9,0,5,0,4
+Sharp,West Sullivan,State Treasurer,,DEM,Pam Whitaker,17,0,10,0,7
+Sharp,Big Creek,State Senate,22,REP,Representative John Payton,108,0,56,0,52
+Sharp,Cave,State Senate,22,REP,Representative John Payton,669,0,413,6,250
+Sharp,Cherokee,State Senate,22,REP,Representative John Payton,1253,0,721,40,492
+Sharp,Davidson,State Senate,22,REP,Representative John Payton,68,0,47,3,18
+Sharp,East Sullivan,State Senate,22,REP,Representative John Payton,135,0,95,4,36
+Sharp,Hardy,State Senate,22,REP,Representative John Payton,370,0,235,11,124
+Sharp,Highland,State Senate,22,REP,Representative John Payton,439,0,212,8,219
+Sharp,Jackson,State Senate,22,REP,Representative John Payton,97,0,41,4,52
+Sharp,Lave Creek,State Senate,22,REP,Representative John Payton,121,0,81,1,39
+Sharp,Lower North,State Senate,22,REP,Representative John Payton,184,0,87,8,89
+Sharp,Morgan,State Senate,22,REP,Representative John Payton,68,0,45,3,20
+Sharp,North Big Rock,State Senate,22,REP,Representative John Payton,53,0,23,0,30
+Sharp,North Lebanon,State Senate,22,REP,Representative John Payton,18,0,10,1,7
+Sharp,North Union,State Senate,22,REP,Representative John Payton,34,0,16,2,16
+Sharp,Ozark,State Senate,22,REP,Representative John Payton,185,0,87,0,98
+Sharp,Piney Fork,State Senate,22,REP,Representative John Payton,335,0,111,3,221
+Sharp,Richwood,State Senate,22,REP,Representative John Payton,562,0,393,14,155
+Sharp,Scott,State Senate,22,REP,Representative John Payton,141,0,93,1,47
+Sharp,South Big Rock,State Senate,22,REP,Representative John Payton,64,0,36,0,28
+Sharp,South Lebanon,State Senate,22,REP,Representative John Payton,41,0,18,1,22
+Sharp,South Union,State Senate,22,REP,Representative John Payton,101,0,52,0,49
+Sharp,Strawberry,State Senate,22,REP,Representative John Payton,50,0,7,0,43
+Sharp,Upper North,State Senate,22,REP,Representative John Payton,75,0,11,1,63
+Sharp,Washington,State Senate,22,REP,Representative John Payton,76,0,44,0,32
+Sharp,West Sullivan,State Senate,22,REP,Representative John Payton,141,0,79,0,62
+Sharp,Cherokee,State House,02,REP,Trey Steimel,1119,0,643,36,440
+Sharp,Hardy,State House,02,REP,Trey Steimel,326,0,209,9,108
+Sharp,Highland,State House,02,REP,Trey Steimel,385,0,193,8,184
+Sharp,Jackson,State House,02,REP,Trey Steimel,79,0,34,4,41
+Sharp,Lower North,State House,02,REP,Trey Steimel,166,0,75,8,83
+Sharp,North Union,State House,02,REP,Trey Steimel,34,0,17,2,15
+Sharp,Ozark,State House,02,REP,Trey Steimel,149,0,67,0,82
+Sharp,South Union,State House,02,REP,Trey Steimel,94,0,50,0,44
+Sharp,Upper North,State House,02,REP,Trey Steimel,59,0,9,1,49
+Sharp,Cherokee,State House,02,LIB,Teresa M. Norman,248,0,155,8,85
+Sharp,Hardy,State House,02,LIB,Teresa M. Norman,88,0,61,5,22
+Sharp,Highland,State House,02,LIB,Teresa M. Norman,55,0,23,0,32
+Sharp,Jackson,State House,02,LIB,Teresa M. Norman,21,0,8,0,13
+Sharp,Lower North,State House,02,LIB,Teresa M. Norman,27,0,17,0,10
+Sharp,North Union,State House,02,LIB,Teresa M. Norman,4,0,3,0,1
+Sharp,Ozark,State House,02,LIB,Teresa M. Norman,39,0,23,0,16
+Sharp,South Union,State House,02,LIB,Teresa M. Norman,16,0,6,3,7
+Sharp,Upper North,State House,02,LIB,Teresa M. Norman,17,0,4,0,13
+Sharp,Big Creek,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,51,0,27,0,24
+Sharp,Cave,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,322,0,207,3,112
+Sharp,Cherokee,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,655,0,386,24,245
+Sharp,Davidson,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,36,0,23,0,13
+Sharp,East Sullivan,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,71,0,49,3,19
+Sharp,Hardy,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,191,0,120,4,67
+Sharp,Highland,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,238,0,115,3,120
+Sharp,Jackson,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,47,0,20,3,24
+Sharp,Lave Creek,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,67,0,41,0,26
+Sharp,Lower North,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,94,0,49,7,38
+Sharp,Morgan,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,40,0,28,1,11
+Sharp,North Big Rock,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,30,0,15,0,15
+Sharp,North Lebanon,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,11,0,5,1,5
+Sharp,North Union,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,16,0,8,2,6
+Sharp,Ozark,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,102,0,53,0,49
+Sharp,Piney Fork,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,155,0,42,2,111
+Sharp,Richwood,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,282,0,200,8,74
+Sharp,Scott,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,91,0,62,1,28
+Sharp,South Big Rock,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,30,0,11,0,19
+Sharp,South Lebanon,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,18,0,8,1,9
+Sharp,South Union,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,57,0,24,1,32
+Sharp,Strawberry,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,31,0,4,0,27
+Sharp,Upper North,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,32,0,5,0,27
+Sharp,Washington,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,44,0,26,0,18
+Sharp,West Sullivan,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,64,0,34,0,30
+Sharp,Big Creek,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,47,0,20,0,27
+Sharp,Cave,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,328,0,198,3,127
+Sharp,Cherokee,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,647,0,383,17,247
+Sharp,Davidson,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,33,0,23,3,7
+Sharp,East Sullivan,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,58,0,40,1,17
+Sharp,Hardy,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,206,0,137,9,60
+Sharp,Highland,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,202,0,100,5,97
+Sharp,Jackson,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,50,0,20,1,29
+Sharp,Lave Creek,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,53,0,37,0,16
+Sharp,Lower North,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,88,0,40,1,47
+Sharp,Morgan,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,29,0,19,2,8
+Sharp,North Big Rock,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,20,0,6,0,14
+Sharp,North Lebanon,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,8,0,5,1,2
+Sharp,North Union,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,16,0,8,0,8
+Sharp,Ozark,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,91,0,40,0,51
+Sharp,Piney Fork,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,166,0,70,2,94
+Sharp,Richwood,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,266,0,182,7,77
+Sharp,Scott,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,50,0,31,0,19
+Sharp,South Big Rock,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,33,0,25,0,8
+Sharp,South Lebanon,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,19,0,9,0,10
+Sharp,South Union,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,51,0,29,2,20
+Sharp,Strawberry,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,20,0,4,0,16
+Sharp,Upper North,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,40,0,8,0,32
+Sharp,Washington,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,33,0,19,0,14
+Sharp,West Sullivan,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,60,0,35,0,25
+Sharp,Big Creek,County Judge,,REP,REP Mark Counts,98,0,52,0,46
+Sharp,Cave,County Judge,,REP,REP Mark Counts,620,0,389,7,224
+Sharp,Cherokee,County Judge,,REP,REP Mark Counts,1055,0,611,35,409
+Sharp,Davidson,County Judge,,REP,REP Mark Counts,55,0,38,3,14
+Sharp,East Sullivan,County Judge,,REP,REP Mark Counts,121,0,84,5,32
+Sharp,Hardy,County Judge,,REP,REP Mark Counts,286,0,191,8,87
+Sharp,Highland,County Judge,,REP,REP Mark Counts,302,0,160,9,133
+Sharp,Jackson,County Judge,,REP,REP Mark Counts,74,0,31,2,41
+Sharp,Lave Creek,County Judge,,REP,REP Mark Counts,87,0,54,1,32
+Sharp,Lower North,County Judge,,REP,REP Mark Counts,134,0,61,8,65
+Sharp,Morgan,County Judge,,REP,REP Mark Counts,47,0,28,2,17
+Sharp,North Big Rock,County Judge,,REP,REP Mark Counts,36,0,18,0,18
+Sharp,North Lebanon,County Judge,,REP,REP Mark Counts,14,0,9,0,5
+Sharp,North Union,County Judge,,REP,REP Mark Counts,25,0,13,2,10
+Sharp,Ozark,County Judge,,REP,REP Mark Counts,129,0,59,0,70
+Sharp,Piney Fork,County Judge,,REP,REP Mark Counts,284,0,94,3,187
+Sharp,Richwood,County Judge,,REP,REP Mark Counts,343,0,243,6,94
+Sharp,Scott,County Judge,,REP,REP Mark Counts,136,0,89,1,46
+Sharp,South Big Rock,County Judge,,REP,REP Mark Counts,51,0,27,0,24
+Sharp,South Lebanon,County Judge,,REP,REP Mark Counts,37,0,17,1,19
+Sharp,South Union,County Judge,,REP,REP Mark Counts,82,0,45,0,37
+Sharp,Strawberry,County Judge,,REP,REP Mark Counts,47,0,5,0,42
+Sharp,Upper North,County Judge,,REP,REP Mark Counts,57,0,7,1,49
+Sharp,Washington,County Judge,,REP,REP Mark Counts,70,0,41,0,29
+Sharp,West Sullivan,County Judge,,REP,REP Mark Counts,111,0,62,0,49
+Sharp,Big Creek,County Judge,,IND,IND Jeremy Langston,15,0,6,0,9
+Sharp,Cave,County Judge,,IND,IND Jeremy Langston,96,0,54,0,42
+Sharp,Cherokee,County Judge,,IND,IND Jeremy Langston,403,0,242,11,150
+Sharp,Davidson,County Judge,,IND,IND Jeremy Langston,16,0,10,0,6
+Sharp,East Sullivan,County Judge,,IND,IND Jeremy Langston,23,0,15,1,7
+Sharp,Hardy,County Judge,,IND,IND Jeremy Langston,150,0,93,7,50
+Sharp,Highland,County Judge,,IND,IND Jeremy Langston,171,0,71,0,100
+Sharp,Jackson,County Judge,,IND,IND Jeremy Langston,37,0,16,2,19
+Sharp,Lave Creek,County Judge,,IND,IND Jeremy Langston,51,0,37,0,14
+Sharp,Lower North,County Judge,,IND,IND Jeremy Langston,65,0,32,0,33
+Sharp,Morgan,County Judge,,IND,IND Jeremy Langston,26,0,22,1,3
+Sharp,North Big Rock,County Judge,,IND,IND Jeremy Langston,19,0,6,0,13
+Sharp,North Lebanon,County Judge,,IND,IND Jeremy Langston,4,0,1,1,2
+Sharp,North Union,County Judge,,IND,IND Jeremy Langston,14,0,8,0,6
+Sharp,Ozark,County Judge,,IND,IND Jeremy Langston,78,0,42,0,36
+Sharp,Piney Fork,County Judge,,IND,IND Jeremy Langston,81,0,28,1,52
+Sharp,Richwood,County Judge,,IND,IND Jeremy Langston,274,0,192,9,73
+Sharp,Scott,County Judge,,IND,IND Jeremy Langston,17,0,13,0,4
+Sharp,South Big Rock,County Judge,,IND,IND Jeremy Langston,15,0,10,0,5
+Sharp,South Lebanon,County Judge,,IND,IND Jeremy Langston,13,0,8,0,5
+Sharp,South Union,County Judge,,IND,IND Jeremy Langston,34,0,13,4,17
+Sharp,Strawberry,County Judge,,IND,IND Jeremy Langston,9,0,3,0,6
+Sharp,Upper North,County Judge,,IND,IND Jeremy Langston,22,0,6,0,16
+Sharp,Washington,County Judge,,IND,IND Jeremy Langston,12,0,8,0,4
+Sharp,West Sullivan,County Judge,,IND,IND Jeremy Langston,37,0,20,0,17
+Sharp,Big Creek,Cty & Cir Clerk,,REP,REP Alisa Black,108,0,55,0,53
+Sharp,Cave,Cty & Cir Clerk,,REP,REP Alisa Black,681,0,423,7,251
+Sharp,Cherokee,Cty & Cir Clerk,,REP,REP Alisa Black,1306,0,755,42,509
+Sharp,Davidson,Cty & Cir Clerk,,REP,REP Alisa Black,64,0,44,2,18
+Sharp,East Sullivan,Cty & Cir Clerk,,REP,REP Alisa Black,134,0,92,6,36
+Sharp,Hardy,Cty & Cir Clerk,,REP,REP Alisa Black,405,0,261,12,132
+Sharp,Highland,Cty & Cir Clerk,,REP,REP Alisa Black,453,0,221,9,223
+Sharp,Jackson,Cty & Cir Clerk,,REP,REP Alisa Black,101,0,40,4,57
+Sharp,Lave Creek,Cty & Cir Clerk,,REP,REP Alisa Black,128,0,86,1,41
+Sharp,Lower North,Cty & Cir Clerk,,REP,REP Alisa Black,188,0,90,8,90
+Sharp,Morgan,Cty & Cir Clerk,,REP,REP Alisa Black,70,0,47,3,20
+Sharp,North Big Rock,Cty & Cir Clerk,,REP,REP Alisa Black,54,0,24,0,30
+Sharp,North Lebanon,Cty & Cir Clerk,,REP,REP Alisa Black,19,0,10,2,7
+Sharp,North Union,Cty & Cir Clerk,,REP,REP Alisa Black,33,0,16,2,15
+Sharp,Ozark,Cty & Cir Clerk,,REP,REP Alisa Black,192,0,93,0,99
+Sharp,Piney Fork,Cty & Cir Clerk,,REP,REP Alisa Black,346,0,116,4,226
+Sharp,Richwood,Cty & Cir Clerk,,REP,REP Alisa Black,570,0,400,14,156
+Sharp,Scott,Cty & Cir Clerk,,REP,REP Alisa Black,144,0,94,1,49
+Sharp,South Big Rock,Cty & Cir Clerk,,REP,REP Alisa Black,65,0,35,0,30
+Sharp,South Lebanon,Cty & Cir Clerk,,REP,REP Alisa Black,45,0,21,1,23
+Sharp,South Union,Cty & Cir Clerk,,REP,REP Alisa Black,108,0,55,2,51
+Sharp,Strawberry,Cty & Cir Clerk,,REP,REP Alisa Black,54,0,8,0,46
+Sharp,Upper North,Cty & Cir Clerk,,REP,REP Alisa Black,75,0,12,1,62
+Sharp,Washington,Cty & Cir Clerk,,REP,REP Alisa Black,76,0,45,0,31
+Sharp,West Sullivan,Cty & Cir Clerk,,REP,REP Alisa Black,137,0,76,0,61
+Sharp,Jackson,Constable Dist 6,,IND,IND Israel Hester,36,0,12,0,24
+Sharp,North Big Rock,Constable Dist 6,,IND,IND Israel Hester,10,0,5,0,5
+Sharp,North Lebanon,Constable Dist 6,,IND,IND Israel Hester,1,0,0,1,0
+Sharp,Ozark,Constable Dist 6,,IND,IND Israel Hester,59,0,28,0,31
+Sharp,South Lebanon,Constable Dist 6,,IND,IND Israel Hester,12,0,9,0,3
+Sharp,South Union,Constable Dist 6,,IND,IND Israel Hester,26,0,13,3,10
+Sharp,Strawberry,Constable Dist 6,,IND,IND Israel Hester,11,0,1,0,10
+Sharp,Jackson,Constable Dist 6,,REP,REP Luke Vander Vort,72,0,33,4,35
+Sharp,North Big Rock,Constable Dist 6,,REP,REP Luke Vander Vort,45,0,19,0,26
+Sharp,North Lebanon,Constable Dist 6,,REP,REP Luke Vander Vort,18,0,10,1,7
+Sharp,Ozark,Constable Dist 6,,REP,REP Luke Vander Vort,143,0,70,0,73
+Sharp,South Lebanon,Constable Dist 6,,REP,REP Luke Vander Vort,32,0,11,1,20
+Sharp,South Union,Constable Dist 6,,REP,REP Luke Vander Vort,88,0,45,0,43
+Sharp,Strawberry,Constable Dist 6,,REP,REP Luke Vander Vort,45,0,7,0,38
+Sharp,Richwood,AF Mayor,,IND,IND Larry Fowler,251,0,174,8,69
+Sharp,Richwood,AF Ward 1 Pos 2,,IND,IND Glenn Halfacre,79,0,57,1,21
+Sharp,Richwood,AF Ward 1 Pos 2,,IND,IND Mike Nix,184,0,124,6,54
+Sharp,Cave,CC Mayor,,IND,IND Jonas Anderson,353,0,223,5,125
+Sharp,Cave,CC Alderman Ward 1 Pos 2,,IND,IND Melanie Cheshier Lanie,145,0,101,0,44
+Sharp,Cave,CC Alderman Ward 1 Pos 2,,IND,IND Jill Carr,220,0,130,5,85
+Sharp,Cherokee,CV Mayor,,IND,IND Steven Rose,898,0,517,34,347
+Sharp,Cherokee,CV Mayor,,IND,IND Chris Burleson,95,0,50,2,43
+Sharp,Cherokee,CV Mayor,,IND,IND Rob Smith,426,0,265,7,154
+Sharp,Cherokee,CV City Clerk,,IND,IND Penny Trumpy,1275,0,741,40,494
+Sharp,Cherokee,CV Ward 3 Pos 2,,IND,IND Joey Whited,435,0,255,11,169
+Sharp,Cherokee,CV Ward 3 Pos 2,,IND,IND Steve Thompson,892,0,526,30,336
+Sharp,Piney Fork,ES Mayor,,IND,IND Susan Kunkel Perkey,130,0,37,1,92
+Sharp,Piney Fork,ES Alderman Pos 6,,IND,IND Chaney Emmerich,26,0,6,0,20
+Sharp,Piney Fork,ES Alderman Pos 6,,IND,IND Chan Bailey,114,0,32,1,81
+Sharp,Hardy,Hardy Mayor,,IND,IND Ethan J. Barnes,236,0,156,11,69
+Sharp,Hardy,Hardy Alderman Ward 2 Pos 1,,IND,IND Jason Creasey,122,0,89,5,28
+Sharp,Hardy,Hardy Alderman Ward 2 Pos 1,,IND,IND Scott Quintana,109,0,67,4,38
+Sharp,Hardy,Hardy Alderman Ward 2 Pos 2,,IND,IND Tony Berry,148,0,107,4,37
+Sharp,Hardy,Hardy Alderman Ward 2 Pos 2,,IND,IND Bruce Thurow,84,0,51,3,30
+Sharp,Hardy,Hardy Alderman Ward 3 Pos 1,,IND,IND Mark Gordon,154,0,99,3,52
+Sharp,Hardy,Hardy Alderman Ward 3 Pos 1,,IND,IND Phillip Horrell,84,0,61,4,19
+Sharp,Highland,Highland Mayor,,IND,IND Kyle Crawford,204,0,97,3,104
+Sharp,Highland,Highland Mayor,,IND,"IND Billy ""Turk"" Johns",195,0,95,6,94
+Sharp,Jackson,Williford Mayor,,IND,IND Linda Brock,18,0,10,0,8
+Sharp,Jackson,Williford Rec/Treasurer,,IND,IND Ronda Schilling,10,0,7,0,3
+Sharp,Jackson,Williford Rec/Treasurer,,IND,IND Phillip Allan,10,0,2,0,8
+Sharp,Big Creek,Cave City Board of Directors Pos 3,,IND,IND Jeff Eddy,10,0,4,0,6
+Sharp,Cave,Cave City Board of Directors Pos 3,,IND,IND Jeff Eddy,229,0,143,3,83
+Sharp,East Sullivan,Cave City Board of Directors Pos 3,,IND,IND Jeff Eddy,50,0,39,1,10
+Sharp,Lave Creek,Cave City Board of Directors Pos 3,,IND,IND Jeff Eddy,38,0,25,0,13
+Sharp,Morgan,Cave City Board of Directors Pos 3,,IND,IND Jeff Eddy,15,0,11,0,4
+Sharp,Piney Fork,Cave City Board of Directors Pos 3,,IND,IND Jeff Eddy,152,0,47,3,102
+Sharp,Scott,Cave City Board of Directors Pos 3,,IND,IND Jeff Eddy,41,0,28,0,13
+Sharp,South Big Rock,Cave City Board of Directors Pos 3,,IND,IND Jeff Eddy,3,0,3,0,0
+Sharp,Washington,Cave City Board of Directors Pos 3,,IND,IND Jeff Eddy,28,0,19,0,9
+Sharp,West Sullivan,Cave City Board of Directors Pos 3,,IND,IND Jeff Eddy,46,0,22,0,24
+Sharp,Big Creek,Cave City Board of Directors Pos 3,,IND,IND Caleb Qualls,15,0,10,0,5
+Sharp,Cave,Cave City Board of Directors Pos 3,,IND,IND Caleb Qualls,452,0,285,4,163
+Sharp,East Sullivan,Cave City Board of Directors Pos 3,,IND,IND Caleb Qualls,84,0,55,5,24
+Sharp,Lave Creek,Cave City Board of Directors Pos 3,,IND,IND Caleb Qualls,64,0,42,1,21
+Sharp,Morgan,Cave City Board of Directors Pos 3,,IND,IND Caleb Qualls,18,0,13,2,3
+Sharp,Piney Fork,Cave City Board of Directors Pos 3,,IND,IND Caleb Qualls,185,0,69,1,115
+Sharp,Scott,Cave City Board of Directors Pos 3,,IND,IND Caleb Qualls,50,0,33,0,17
+Sharp,South Big Rock,Cave City Board of Directors Pos 3,,IND,IND Caleb Qualls,16,0,10,0,6
+Sharp,Washington,Cave City Board of Directors Pos 3,,IND,IND Caleb Qualls,40,0,24,0,16
+Sharp,West Sullivan,Cave City Board of Directors Pos 3,,IND,IND Caleb Qualls,79,0,43,0,36
+Sharp,Big Creek,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,30,0,15,0,15
+Sharp,Cave,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,233,0,133,3,97
+Sharp,Cherokee,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,579,0,343,20,216
+Sharp,Davidson,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,23,0,16,1,6
+Sharp,East Sullivan,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,52,0,32,6,14
+Sharp,Hardy,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,183,0,117,5,61
+Sharp,Highland,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,184,0,93,4,87
+Sharp,Jackson,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,52,0,22,3,27
+Sharp,Lave Creek,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,50,0,37,0,13
+Sharp,Lower North,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,67,0,32,5,30
+Sharp,Morgan,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,27,0,20,0,7
+Sharp,North Big Rock,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,20,0,10,0,10
+Sharp,North Lebanon,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,6,0,2,1,3
+Sharp,North Union,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,15,0,7,0,8
+Sharp,Ozark,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,87,0,48,0,39
+Sharp,Piney Fork,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,105,0,39,0,66
+Sharp,Richwood,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,230,0,151,9,70
+Sharp,Scott,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,55,0,33,0,22
+Sharp,South Big Rock,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,20,0,13,0,7
+Sharp,South Lebanon,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,16,0,6,1,9
+Sharp,South Union,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,34,0,15,0,19
+Sharp,Strawberry,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,12,0,4,0,8
+Sharp,Upper North,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,30,0,2,1,27
+Sharp,Washington,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,26,0,17,0,9
+Sharp,West Sullivan,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,44,0,31,0,13
+Sharp,Big Creek,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,81,0,40,0,41
+Sharp,Cave,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,461,0,300,4,157
+Sharp,Cherokee,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,824,0,470,25,329
+Sharp,Davidson,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,49,0,32,2,15
+Sharp,East Sullivan,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,90,0,67,0,23
+Sharp,Hardy,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,231,0,153,8,70
+Sharp,Highland,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,279,0,134,5,140
+Sharp,Jackson,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,55,0,22,1,32
+Sharp,Lave Creek,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,86,0,53,1,32
+Sharp,Lower North,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,130,0,61,3,66
+Sharp,Morgan,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,42,0,27,2,13
+Sharp,North Big Rock,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,36,0,15,0,21
+Sharp,North Lebanon,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,13,0,8,1,4
+Sharp,North Union,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,24,0,14,2,8
+Sharp,Ozark,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,110,0,51,0,59
+Sharp,Piney Fork,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,248,0,84,4,160
+Sharp,Richwood,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,365,0,265,6,94
+Sharp,Scott,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,94,0,65,1,28
+Sharp,South Big Rock,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,45,0,24,0,21
+Sharp,South Lebanon,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,30,0,17,0,13
+Sharp,South Union,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,80,0,42,4,34
+Sharp,Strawberry,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,44,0,4,0,40
+Sharp,Upper North,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,51,0,11,0,40
+Sharp,Washington,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,55,0,31,0,24
+Sharp,West Sullivan,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,100,0,51,0,49
+Sharp,Big Creek,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,49,0,21,0,28
+Sharp,Cave,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,262,0,161,5,96
+Sharp,Cherokee,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,650,0,378,19,253
+Sharp,Davidson,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,27,0,22,0,5
+Sharp,East Sullivan,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,62,0,48,3,11
+Sharp,Hardy,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,193,0,126,8,59
+Sharp,Highland,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,205,0,100,6,99
+Sharp,Jackson,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,46,0,18,3,25
+Sharp,Lave Creek,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,57,0,40,0,17
+Sharp,Lower North,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,85,0,40,5,40
+Sharp,Morgan,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,29,0,19,2,8
+Sharp,North Big Rock,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,24,0,12,0,12
+Sharp,North Lebanon,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,9,0,4,1,4
+Sharp,North Union,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,12,0,9,0,3
+Sharp,Ozark,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,77,0,40,0,37
+Sharp,Piney Fork,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,134,0,44,0,90
+Sharp,Richwood,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,265,0,179,8,78
+Sharp,Scott,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,63,0,40,1,22
+Sharp,South Big Rock,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,24,0,15,0,9
+Sharp,South Lebanon,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,16,0,8,1,7
+Sharp,South Union,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,50,0,23,1,26
+Sharp,Strawberry,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,19,0,3,0,16
+Sharp,Upper North,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,44,0,3,1,40
+Sharp,Washington,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,32,0,19,0,13
+Sharp,West Sullivan,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,53,0,33,0,20
+Sharp,Big Creek,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,62,0,34,0,28
+Sharp,Cave,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,435,0,274,2,159
+Sharp,Cherokee,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,757,0,441,25,291
+Sharp,Davidson,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,44,0,25,3,16
+Sharp,East Sullivan,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,80,0,51,3,26
+Sharp,Hardy,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,218,0,141,4,73
+Sharp,Highland,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,255,0,126,2,127
+Sharp,Jackson,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,60,0,25,1,34
+Sharp,Lave Creek,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,81,0,52,1,28
+Sharp,Lower North,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,113,0,53,3,57
+Sharp,Morgan,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,40,0,28,0,12
+Sharp,North Big Rock,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,31,0,13,0,18
+Sharp,North Lebanon,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,10,0,6,1,3
+Sharp,North Union,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,27,0,12,2,13
+Sharp,Ozark,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,118,0,57,0,61
+Sharp,Piney Fork,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,224,0,81,4,139
+Sharp,Richwood,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,324,0,231,7,86
+Sharp,Scott,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,83,0,55,0,28
+Sharp,South Big Rock,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,40,0,21,0,19
+Sharp,South Lebanon,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,29,0,16,0,13
+Sharp,South Union,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,64,0,33,3,28
+Sharp,Strawberry,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,35,0,4,0,31
+Sharp,Upper North,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,36,0,10,0,26
+Sharp,Washington,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,49,0,29,0,20
+Sharp,West Sullivan,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,90,0,49,0,41
+Sharp,Big Creek,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,59,0,29,0,30
+Sharp,Cave,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,343,0,218,5,120
+Sharp,Cherokee,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,761,0,431,25,305
+Sharp,Davidson,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,33,0,28,2,3
+Sharp,East Sullivan,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,71,0,52,3,16
+Sharp,Hardy,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,234,0,152,11,71
+Sharp,Highland,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,255,0,132,5,118
+Sharp,Jackson,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,65,0,29,2,34
+Sharp,Lave Creek,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,70,0,46,1,23
+Sharp,Lower North,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,111,0,52,5,54
+Sharp,Morgan,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,30,0,23,0,7
+Sharp,North Big Rock,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,27,0,9,0,18
+Sharp,North Lebanon,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,7,0,2,1,4
+Sharp,North Union,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,19,0,8,1,10
+Sharp,Ozark,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,102,0,51,0,51
+Sharp,Piney Fork,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,170,0,55,1,114
+Sharp,Richwood,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,327,0,233,7,87
+Sharp,Scott,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,65,0,39,1,25
+Sharp,South Big Rock,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,29,0,20,0,9
+Sharp,South Lebanon,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,20,0,9,1,10
+Sharp,South Union,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,58,0,34,0,24
+Sharp,Strawberry,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,31,0,5,0,26
+Sharp,Upper North,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,47,0,5,1,41
+Sharp,Washington,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,43,0,24,0,19
+Sharp,West Sullivan,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,62,0,34,0,28
+Sharp,Big Creek,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,52,0,26,0,26
+Sharp,Cave,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,358,0,218,2,138
+Sharp,Cherokee,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,663,0,399,20,244
+Sharp,Davidson,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,40,0,21,1,18
+Sharp,East Sullivan,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,71,0,46,3,22
+Sharp,Hardy,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,190,0,124,1,65
+Sharp,Highland,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,213,0,97,4,112
+Sharp,Jackson,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,45,0,16,2,27
+Sharp,Lave Creek,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,63,0,42,0,21
+Sharp,Lower North,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,89,0,42,2,45
+Sharp,Morgan,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,42,0,27,2,13
+Sharp,North Big Rock,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,27,0,15,0,12
+Sharp,North Lebanon,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,12,0,8,1,3
+Sharp,North Union,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,19,0,13,0,6
+Sharp,Ozark,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,99,0,49,0,50
+Sharp,Piney Fork,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,192,0,73,3,116
+Sharp,Richwood,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,272,0,187,8,77
+Sharp,Scott,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,85,0,60,0,25
+Sharp,South Big Rock,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,37,0,17,0,20
+Sharp,South Lebanon,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,26,0,15,0,11
+Sharp,South Union,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,58,0,23,4,31
+Sharp,Strawberry,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,24,0,3,0,21
+Sharp,Upper North,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,33,0,8,0,25
+Sharp,Washington,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,39,0,25,0,14
+Sharp,West Sullivan,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,84,0,48,0,36
+Sharp,Big Creek,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,37,0,13,0,24
+Sharp,Cave,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,198,0,106,2,90
+Sharp,Cherokee,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,666,0,359,20,287
+Sharp,Davidson,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,28,0,13,3,12
+Sharp,East Sullivan,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,44,0,27,1,16
+Sharp,Hardy,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,218,0,150,6,62
+Sharp,Highland,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,178,0,76,5,97
+Sharp,Jackson,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,57,0,23,0,34
+Sharp,Lave Creek,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,48,0,29,0,19
+Sharp,Lower North,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,81,0,40,4,37
+Sharp,Morgan,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,33,0,24,2,7
+Sharp,North Big Rock,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,23,0,14,0,9
+Sharp,North Lebanon,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,6,0,4,0,2
+Sharp,North Union,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,21,0,10,1,10
+Sharp,Ozark,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,119,0,54,0,65
+Sharp,Piney Fork,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,112,0,44,0,68
+Sharp,Richwood,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,219,0,141,6,72
+Sharp,Scott,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,43,0,24,0,19
+Sharp,South Big Rock,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,19,0,9,0,10
+Sharp,South Lebanon,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,21,0,8,0,13
+Sharp,South Union,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,53,0,23,2,28
+Sharp,Strawberry,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,15,0,3,0,12
+Sharp,Upper North,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,28,0,6,0,22
+Sharp,Washington,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,30,0,20,0,10
+Sharp,West Sullivan,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,46,0,20,0,26
+Sharp,Big Creek,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,76,0,44,0,32
+Sharp,Cave,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,517,0,339,5,173
+Sharp,Cherokee,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,794,0,495,27,272
+Sharp,Davidson,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,45,0,36,0,9
+Sharp,East Sullivan,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,100,0,71,5,24
+Sharp,Hardy,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,215,0,131,7,77
+Sharp,Highland,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,293,0,154,4,135
+Sharp,Jackson,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,56,0,24,4,28
+Sharp,Lave Creek,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,90,0,62,1,27
+Sharp,Lower North,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,123,0,56,4,63
+Sharp,Morgan,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,40,0,27,0,13
+Sharp,North Big Rock,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,32,0,11,0,21
+Sharp,North Lebanon,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,13,0,6,2,5
+Sharp,North Union,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,19,0,12,1,6
+Sharp,Ozark,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,86,0,46,0,40
+Sharp,Piney Fork,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,255,0,83,4,168
+Sharp,Richwood,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,398,0,294,9,95
+Sharp,Scott,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,109,0,78,1,30
+Sharp,South Big Rock,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,47,0,27,0,20
+Sharp,South Lebanon,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,28,0,16,1,11
+Sharp,South Union,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,64,0,34,2,28
+Sharp,Strawberry,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,40,0,5,0,35
+Sharp,Upper North,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,52,0,7,1,44
+Sharp,Washington,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,54,0,30,0,24
+Sharp,West Sullivan,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,104,0,64,0,40

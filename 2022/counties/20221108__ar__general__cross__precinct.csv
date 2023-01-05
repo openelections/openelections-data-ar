@@ -1,0 +1,896 @@
+county,precinct,office,district,party,candidate,votes,provisional,early_vote,absentee,election_day
+Cross,"Bay Village, Birdeye",U.S. Senate,,DEM,Natalie James,23,0,11,0,12
+Cross,Cherry Valley City,U.S. Senate,,DEM,Natalie James,29,0,6,0,23
+Cross,Hickory Ridge City,U.S. Senate,,DEM,Natalie James,8,0,0,0,8
+Cross,Hickory Ridge Township,U.S. Senate,,DEM,Natalie James,7,0,4,0,3
+Cross,Mitchell,U.S. Senate,,DEM,Natalie James,22,0,8,0,14
+Cross,Searcy,U.S. Senate,,DEM,Natalie James,42,0,20,0,22
+Cross,Parkin Ward 1,U.S. Senate,,DEM,Natalie James,75,2,13,15,45
+Cross,Parkin Ward 2,U.S. Senate,,DEM,Natalie James,49,3,11,17,18
+Cross,Parkin Ward 3,U.S. Senate,,DEM,Natalie James,81,0,20,25,36
+Cross,"Tyronza, Twist",U.S. Senate,,DEM,Natalie James,11,0,4,0,7
+Cross,WYNNE WARD 1,U.S. Senate,,DEM,Natalie James,99,0,71,6,22
+Cross,WYNNE WARD 2,U.S. Senate,,DEM,Natalie James,77,0,58,1,18
+Cross,WYNNE WARD 3,U.S. Senate,,DEM,Natalie James,113,0,63,4,46
+Cross,WYNNE WARD 4,U.S. Senate,,DEM,Natalie James,190,1,114,5,70
+Cross,WYNNE WARD 5,U.S. Senate,,DEM,Natalie James,110,2,81,5,22
+Cross,Wynne Township,U.S. Senate,,DEM,Natalie James,60,0,32,1,27
+Cross,Bedford,U.S. Senate,,DEM,Natalie James,16,0,13,0,3
+Cross,Brushy Lake,U.S. Senate,,DEM,Natalie James,4,0,3,0,1
+Cross,Ellis,U.S. Senate,,DEM,Natalie James,6,0,2,0,4
+Cross,Fair Oaks,U.S. Senate,,DEM,Natalie James,5,0,2,0,3
+Cross,Smith,U.S. Senate,,DEM,Natalie James,52,0,34,0,18
+Cross,"Bay Village, Birdeye",U.S. Senate,,REP,Senator John Boozman,97,0,39,0,58
+Cross,Cherry Valley City,U.S. Senate,,REP,Senator John Boozman,112,0,37,0,75
+Cross,Hickory Ridge City,U.S. Senate,,REP,Senator John Boozman,70,0,14,0,56
+Cross,Hickory Ridge Township,U.S. Senate,,REP,Senator John Boozman,58,0,17,1,40
+Cross,Mitchell,U.S. Senate,,REP,Senator John Boozman,126,0,40,3,83
+Cross,Searcy,U.S. Senate,,REP,Senator John Boozman,350,1,135,5,209
+Cross,Parkin Ward 1,U.S. Senate,,REP,Senator John Boozman,43,1,19,3,20
+Cross,Parkin Ward 2,U.S. Senate,,REP,Senator John Boozman,17,0,3,4,10
+Cross,Parkin Ward 3,U.S. Senate,,REP,Senator John Boozman,16,2,6,3,5
+Cross,"Tyronza, Twist",U.S. Senate,,REP,Senator John Boozman,26,0,11,0,15
+Cross,WYNNE WARD 1,U.S. Senate,,REP,Senator John Boozman,341,1,251,7,82
+Cross,WYNNE WARD 2,U.S. Senate,,REP,Senator John Boozman,335,0,247,3,85
+Cross,WYNNE WARD 3,U.S. Senate,,REP,Senator John Boozman,146,1,82,8,55
+Cross,WYNNE WARD 4,U.S. Senate,,REP,Senator John Boozman,107,0,65,3,39
+Cross,WYNNE WARD 5,U.S. Senate,,REP,Senator John Boozman,517,0,384,8,125
+Cross,Wynne Township,U.S. Senate,,REP,Senator John Boozman,416,1,283,3,129
+Cross,Bedford,U.S. Senate,,REP,Senator John Boozman,109,0,63,1,45
+Cross,Brushy Lake,U.S. Senate,,REP,Senator John Boozman,104,1,34,1,68
+Cross,Ellis,U.S. Senate,,REP,Senator John Boozman,124,0,70,0,54
+Cross,Fair Oaks,U.S. Senate,,REP,Senator John Boozman,42,0,17,0,25
+Cross,Smith,U.S. Senate,,REP,Senator John Boozman,551,2,391,4,154
+Cross,"Bay Village, Birdeye",U.S. Senate,,LIB,Kenneth Cates,2,0,0,0,2
+Cross,Cherry Valley City,U.S. Senate,,LIB,Kenneth Cates,7,0,2,0,5
+Cross,Hickory Ridge City,U.S. Senate,,LIB,Kenneth Cates,4,0,0,0,4
+Cross,Hickory Ridge Township,U.S. Senate,,LIB,Kenneth Cates,1,0,0,0,1
+Cross,Mitchell,U.S. Senate,,LIB,Kenneth Cates,3,0,0,0,3
+Cross,Searcy,U.S. Senate,,LIB,Kenneth Cates,7,0,4,0,3
+Cross,Parkin Ward 1,U.S. Senate,,LIB,Kenneth Cates,5,0,2,0,3
+Cross,Parkin Ward 2,U.S. Senate,,LIB,Kenneth Cates,3,0,1,0,2
+Cross,Parkin Ward 3,U.S. Senate,,LIB,Kenneth Cates,1,0,0,0,1
+Cross,"Tyronza, Twist",U.S. Senate,,LIB,Kenneth Cates,0,0,0,0,0
+Cross,WYNNE WARD 1,U.S. Senate,,LIB,Kenneth Cates,18,0,12,0,6
+Cross,WYNNE WARD 2,U.S. Senate,,LIB,Kenneth Cates,8,0,4,0,4
+Cross,WYNNE WARD 3,U.S. Senate,,LIB,Kenneth Cates,8,1,3,0,4
+Cross,WYNNE WARD 4,U.S. Senate,,LIB,Kenneth Cates,9,0,6,0,3
+Cross,WYNNE WARD 5,U.S. Senate,,LIB,Kenneth Cates,12,0,8,0,4
+Cross,Wynne Township,U.S. Senate,,LIB,Kenneth Cates,5,0,3,0,2
+Cross,Bedford,U.S. Senate,,LIB,Kenneth Cates,2,0,2,0,0
+Cross,Brushy Lake,U.S. Senate,,LIB,Kenneth Cates,2,0,0,0,2
+Cross,Ellis,U.S. Senate,,LIB,Kenneth Cates,5,0,2,0,3
+Cross,Fair Oaks,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0,0
+Cross,Smith,U.S. Senate,,LIB,Kenneth Cates,17,0,11,0,6
+Cross,"Bay Village, Birdeye",U.S. Congress District 01,,DEM,Representative Monte Hodges,27,0,11,0,16
+Cross,Cherry Valley City,U.S. Congress District 01,,DEM,Representative Monte Hodges,26,0,5,0,21
+Cross,Hickory Ridge City,U.S. Congress District 01,,DEM,Representative Monte Hodges,14,0,0,0,14
+Cross,Hickory Ridge Township,U.S. Congress District 01,,DEM,Representative Monte Hodges,7,0,3,0,4
+Cross,Mitchell,U.S. Congress District 01,,DEM,Representative Monte Hodges,20,0,6,0,14
+Cross,Searcy,U.S. Congress District 01,,DEM,Representative Monte Hodges,42,0,23,0,19
+Cross,Parkin Ward 1,U.S. Congress District 01,,DEM,Representative Monte Hodges,75,3,12,15,45
+Cross,Parkin Ward 2,U.S. Congress District 01,,DEM,Representative Monte Hodges,47,3,11,15,18
+Cross,Parkin Ward 3,U.S. Congress District 01,,DEM,Representative Monte Hodges,77,0,19,23,35
+Cross,"Tyronza, Twist",U.S. Congress District 01,,DEM,Representative Monte Hodges,14,0,5,0,9
+Cross,WYNNE WARD 1,U.S. Congress District 01,,DEM,Representative Monte Hodges,108,0,77,6,25
+Cross,WYNNE WARD 2,U.S. Congress District 01,,DEM,Representative Monte Hodges,79,0,58,1,20
+Cross,WYNNE WARD 3,U.S. Congress District 01,,DEM,Representative Monte Hodges,110,0,62,5,43
+Cross,WYNNE WARD 4,U.S. Congress District 01,,DEM,Representative Monte Hodges,188,1,112,6,69
+Cross,WYNNE WARD 5,U.S. Congress District 01,,DEM,Representative Monte Hodges,112,2,84,5,21
+Cross,Wynne Township,U.S. Congress District 01,,DEM,Representative Monte Hodges,62,0,34,1,27
+Cross,Bedford,U.S. Congress District 01,,DEM,Representative Monte Hodges,22,0,17,0,5
+Cross,Brushy Lake,U.S. Congress District 01,,DEM,Representative Monte Hodges,8,0,5,0,3
+Cross,Ellis,U.S. Congress District 01,,DEM,Representative Monte Hodges,8,0,4,0,4
+Cross,Fair Oaks,U.S. Congress District 01,,DEM,Representative Monte Hodges,5,0,1,0,4
+Cross,Smith,U.S. Congress District 01,,DEM,Representative Monte Hodges,54,0,35,0,19
+Cross,"Bay Village, Birdeye",U.S. Congress District 01,,REP,Congressman Rick Crawford,96,0,39,0,57
+Cross,Cherry Valley City,U.S. Congress District 01,,REP,Congressman Rick Crawford,124,0,40,0,84
+Cross,Hickory Ridge City,U.S. Congress District 01,,REP,Congressman Rick Crawford,71,0,14,0,57
+Cross,Hickory Ridge Township,U.S. Congress District 01,,REP,Congressman Rick Crawford,58,0,18,1,39
+Cross,Mitchell,U.S. Congress District 01,,REP,Congressman Rick Crawford,131,0,42,3,86
+Cross,Searcy,U.S. Congress District 01,,REP,Congressman Rick Crawford,355,1,135,5,214
+Cross,Parkin Ward 1,U.S. Congress District 01,,REP,Congressman Rick Crawford,48,0,22,3,23
+Cross,Parkin Ward 2,U.S. Congress District 01,,REP,Congressman Rick Crawford,19,0,4,3,12
+Cross,Parkin Ward 3,U.S. Congress District 01,,REP,Congressman Rick Crawford,20,1,7,6,6
+Cross,"Tyronza, Twist",U.S. Congress District 01,,REP,Congressman Rick Crawford,23,0,10,0,13
+Cross,WYNNE WARD 1,U.S. Congress District 01,,REP,Congressman Rick Crawford,349,1,258,7,83
+Cross,WYNNE WARD 2,U.S. Congress District 01,,REP,Congressman Rick Crawford,340,0,250,3,87
+Cross,WYNNE WARD 3,U.S. Congress District 01,,REP,Congressman Rick Crawford,156,2,86,7,61
+Cross,WYNNE WARD 4,U.S. Congress District 01,,REP,Congressman Rick Crawford,113,0,71,2,40
+Cross,WYNNE WARD 5,U.S. Congress District 01,,REP,Congressman Rick Crawford,525,0,388,8,129
+Cross,Wynne Township,U.S. Congress District 01,,REP,Congressman Rick Crawford,419,1,286,3,129
+Cross,Bedford,U.S. Congress District 01,,REP,Congressman Rick Crawford,105,0,60,1,44
+Cross,Brushy Lake,U.S. Congress District 01,,REP,Congressman Rick Crawford,104,1,34,1,68
+Cross,Ellis,U.S. Congress District 01,,REP,Congressman Rick Crawford,128,0,71,0,57
+Cross,Fair Oaks,U.S. Congress District 01,,REP,Congressman Rick Crawford,41,0,18,0,23
+Cross,Smith,U.S. Congress District 01,,REP,Congressman Rick Crawford,561,2,399,4,156
+Cross,"Bay Village, Birdeye",State Senate,10,REP,Senator Ronald Caldwell,94,0,36,0,58
+Cross,Cherry Valley City,State Senate,10,REP,Senator Ronald Caldwell,118,0,38,0,80
+Cross,Hickory Ridge City,State Senate,10,REP,Senator Ronald Caldwell,72,0,14,0,58
+Cross,Hickory Ridge Township,State Senate,10,REP,Senator Ronald Caldwell,61,0,17,1,43
+Cross,Mitchell,State Senate,10,REP,Senator Ronald Caldwell,133,0,41,3,89
+Cross,Searcy,State Senate,10,REP,Senator Ronald Caldwell,355,1,137,5,212
+Cross,Parkin Ward 1,State Senate,10,REP,Senator Ronald Caldwell,44,0,16,4,24
+Cross,Parkin Ward 2,State Senate,10,REP,Senator Ronald Caldwell,20,0,4,6,10
+Cross,Parkin Ward 3,State Senate,10,REP,Senator Ronald Caldwell,16,2,5,5,4
+Cross,"Tyronza, Twist",State Senate,10,REP,Senator Ronald Caldwell,26,0,12,0,14
+Cross,WYNNE WARD 1,State Senate,10,REP,Senator Ronald Caldwell,338,1,251,6,80
+Cross,WYNNE WARD 2,State Senate,10,REP,Senator Ronald Caldwell,327,0,243,3,81
+Cross,WYNNE WARD 3,State Senate,10,REP,Senator Ronald Caldwell,143,2,77,8,56
+Cross,WYNNE WARD 4,State Senate,10,REP,Senator Ronald Caldwell,107,0,65,4,38
+Cross,WYNNE WARD 5,State Senate,10,REP,Senator Ronald Caldwell,500,0,371,9,120
+Cross,Wynne Township,State Senate,10,REP,Senator Ronald Caldwell,390,1,264,3,122
+Cross,Bedford,State Senate,10,REP,Senator Ronald Caldwell,109,0,63,1,45
+Cross,Brushy Lake,State Senate,10,REP,Senator Ronald Caldwell,99,1,32,1,65
+Cross,Ellis,State Senate,10,REP,Senator Ronald Caldwell,126,0,69,0,57
+Cross,Fair Oaks,State Senate,10,REP,Senator Ronald Caldwell,42,0,18,0,24
+Cross,Smith,State Senate,10,REP,Senator Ronald Caldwell,554,2,396,4,152
+Cross,"Bay Village, Birdeye",State Senate,10,DEM,Cliff Hart,28,0,13,0,15
+Cross,Cherry Valley City,State Senate,10,DEM,Cliff Hart,33,0,7,0,26
+Cross,Hickory Ridge City,State Senate,10,DEM,Cliff Hart,10,0,0,0,10
+Cross,Hickory Ridge Township,State Senate,10,DEM,Cliff Hart,6,0,4,0,2
+Cross,Mitchell,State Senate,10,DEM,Cliff Hart,19,0,7,0,12
+Cross,Searcy,State Senate,10,DEM,Cliff Hart,46,0,22,0,24
+Cross,Parkin Ward 1,State Senate,10,DEM,Cliff Hart,80,3,17,15,45
+Cross,Parkin Ward 2,State Senate,10,DEM,Cliff Hart,53,3,13,17,20
+Cross,Parkin Ward 3,State Senate,10,DEM,Cliff Hart,82,0,19,27,36
+Cross,"Tyronza, Twist",State Senate,10,DEM,Cliff Hart,12,0,2,0,10
+Cross,WYNNE WARD 1,State Senate,10,DEM,Cliff Hart,122,0,84,7,31
+Cross,WYNNE WARD 2,State Senate,10,DEM,Cliff Hart,94,0,67,1,26
+Cross,WYNNE WARD 3,State Senate,10,DEM,Cliff Hart,121,0,68,4,49
+Cross,WYNNE WARD 4,State Senate,10,DEM,Cliff Hart,196,1,118,4,73
+Cross,WYNNE WARD 5,State Senate,10,DEM,Cliff Hart,138,2,104,4,28
+Cross,Wynne Township,State Senate,10,DEM,Cliff Hart,87,0,51,1,35
+Cross,Bedford,State Senate,10,DEM,Cliff Hart,20,0,15,0,5
+Cross,Brushy Lake,State Senate,10,DEM,Cliff Hart,13,0,7,0,6
+Cross,Ellis,State Senate,10,DEM,Cliff Hart,12,0,6,0,6
+Cross,Fair Oaks,State Senate,10,DEM,Cliff Hart,3,0,1,0,2
+Cross,Smith,State Senate,10,DEM,Cliff Hart,66,0,43,0,23
+Cross,Parkin Ward 1,State House,35,DEM,Rep. Milton Nicks Jr.,102,3,23,16,60
+Cross,Parkin Ward 2,State House,35,DEM,Rep. Milton Nicks Jr.,59,3,12,18,26
+Cross,Parkin Ward 3,State House,35,DEM,Rep. Milton Nicks Jr.,92,2,24,28,38
+Cross,"Tyronza, Twist",State House,35,DEM,Rep. Milton Nicks Jr.,26,0,11,0,15
+Cross,"Bay Village, Birdeye",State House,37,DEM,Christopher Joseph Reed,27,0,13,0,14
+Cross,Cherry Valley City,State House,37,DEM,Christopher Joseph Reed,28,0,5,0,23
+Cross,Hickory Ridge City,State House,37,DEM,Christopher Joseph Reed,13,0,0,0,13
+Cross,Hickory Ridge Township,State House,37,DEM,Christopher Joseph Reed,8,0,4,0,4
+Cross,Mitchell,State House,37,DEM,Christopher Joseph Reed,24,0,6,0,18
+Cross,Searcy,State House,37,DEM,Christopher Joseph Reed,43,0,21,0,22
+Cross,"Tyronza, Twist",State House,37,DEM,Christopher Joseph Reed,0,0,0,0,0
+Cross,WYNNE WARD 1,State House,37,DEM,Christopher Joseph Reed,94,0,66,5,23
+Cross,WYNNE WARD 2,State House,37,DEM,Christopher Joseph Reed,76,0,59,1,16
+Cross,WYNNE WARD 3,State House,37,DEM,Christopher Joseph Reed,109,0,58,5,46
+Cross,WYNNE WARD 4,State House,37,DEM,Christopher Joseph Reed,185,1,110,5,69
+Cross,WYNNE WARD 5,State House,37,DEM,Christopher Joseph Reed,115,2,87,5,21
+Cross,Wynne Township,State House,37,DEM,Christopher Joseph Reed,60,0,32,1,27
+Cross,Bedford,State House,37,DEM,Christopher Joseph Reed,17,0,12,0,5
+Cross,Brushy Lake,State House,37,DEM,Christopher Joseph Reed,8,0,4,0,4
+Cross,Ellis,State House,37,DEM,Christopher Joseph Reed,7,0,3,0,4
+Cross,Fair Oaks,State House,37,DEM,Christopher Joseph Reed,6,0,2,0,4
+Cross,Smith,State House,37,DEM,Christopher Joseph Reed,59,0,37,0,22
+Cross,"Bay Village, Birdeye",State House,37,LIB,Brian E. Ramsey,3,0,0,0,3
+Cross,Cherry Valley City,State House,37,LIB,Brian E. Ramsey,8,0,2,0,6
+Cross,Hickory Ridge City,State House,37,LIB,Brian E. Ramsey,0,0,0,0,0
+Cross,Hickory Ridge Township,State House,37,LIB,Brian E. Ramsey,1,0,0,0,1
+Cross,Mitchell,State House,37,LIB,Brian E. Ramsey,1,0,1,0,0
+Cross,Searcy,State House,37,LIB,Brian E. Ramsey,10,0,3,1,6
+Cross,"Tyronza, Twist",State House,37,LIB,Brian E. Ramsey,0,0,0,0,0
+Cross,WYNNE WARD 1,State House,37,LIB,Brian E. Ramsey,14,0,10,0,4
+Cross,WYNNE WARD 2,State House,37,LIB,Brian E. Ramsey,14,0,9,0,5
+Cross,WYNNE WARD 3,State House,37,LIB,Brian E. Ramsey,15,1,10,0,4
+Cross,WYNNE WARD 4,State House,37,LIB,Brian E. Ramsey,13,0,12,0,1
+Cross,WYNNE WARD 5,State House,37,LIB,Brian E. Ramsey,16,0,12,0,4
+Cross,Wynne Township,State House,37,LIB,Brian E. Ramsey,17,0,10,0,7
+Cross,Bedford,State House,37,LIB,Brian E. Ramsey,3,0,3,0,0
+Cross,Brushy Lake,State House,37,LIB,Brian E. Ramsey,4,0,0,0,4
+Cross,Ellis,State House,37,LIB,Brian E. Ramsey,4,0,4,0,0
+Cross,Fair Oaks,State House,37,LIB,Brian E. Ramsey,0,0,0,0,0
+Cross,Smith,State House,37,LIB,Brian E. Ramsey,19,0,12,0,7
+Cross,"Bay Village, Birdeye",State House,37,REP,Representative Steve Hollowell,89,0,35,0,54
+Cross,Cherry Valley City,State House,37,REP,Representative Steve Hollowell,114,0,38,0,76
+Cross,Hickory Ridge City,State House,37,REP,Representative Steve Hollowell,71,0,14,0,57
+Cross,Hickory Ridge Township,State House,37,REP,Representative Steve Hollowell,57,0,17,1,39
+Cross,Mitchell,State House,37,REP,Representative Steve Hollowell,126,0,41,3,82
+Cross,Searcy,State House,37,REP,Representative Steve Hollowell,348,1,135,4,208
+Cross,"Tyronza, Twist",State House,37,REP,Representative Steve Hollowell,0,0,0,0,0
+Cross,WYNNE WARD 1,State House,37,REP,Representative Steve Hollowell,348,1,256,8,83
+Cross,WYNNE WARD 2,State House,37,REP,Representative Steve Hollowell,330,0,240,3,87
+Cross,WYNNE WARD 3,State House,37,REP,Representative Steve Hollowell,142,1,79,7,55
+Cross,WYNNE WARD 4,State House,37,REP,Representative Steve Hollowell,106,0,62,3,41
+Cross,WYNNE WARD 5,State House,37,REP,Representative Steve Hollowell,512,0,377,8,127
+Cross,Wynne Township,State House,37,REP,Representative Steve Hollowell,405,1,277,3,124
+Cross,Bedford,State House,37,REP,Representative Steve Hollowell,108,0,62,1,45
+Cross,Brushy Lake,State House,37,REP,Representative Steve Hollowell,97,1,35,1,60
+Cross,Ellis,State House,37,REP,Representative Steve Hollowell,124,0,67,0,57
+Cross,Fair Oaks,State House,37,REP,Representative Steve Hollowell,41,0,17,0,24
+Cross,Smith,State House,37,REP,Representative Steve Hollowell,540,2,387,4,147
+Cross,"Bay Village, Birdeye",Governor,,DEM,Chris Jones,28,0,13,0,15
+Cross,Cherry Valley City,Governor,,DEM,Chris Jones,26,0,6,0,20
+Cross,Hickory Ridge City,Governor,,DEM,Chris Jones,12,0,0,0,12
+Cross,Hickory Ridge Township,Governor,,DEM,Chris Jones,7,0,3,0,4
+Cross,Mitchell,Governor,,DEM,Chris Jones,21,0,7,0,14
+Cross,Searcy,Governor,,DEM,Chris Jones,46,0,22,0,24
+Cross,Parkin Ward 1,Governor,,DEM,Chris Jones,75,2,15,15,43
+Cross,Parkin Ward 2,Governor,,DEM,Chris Jones,48,3,11,17,17
+Cross,Parkin Ward 3,Governor,,DEM,Chris Jones,80,1,18,25,36
+Cross,"Tyronza, Twist",Governor,,DEM,Chris Jones,16,0,5,0,11
+Cross,WYNNE WARD 1,Governor,,DEM,Chris Jones,107,0,76,7,24
+Cross,WYNNE WARD 2,Governor,,DEM,Chris Jones,89,0,64,1,24
+Cross,WYNNE WARD 3,Governor,,DEM,Chris Jones,117,0,64,5,48
+Cross,WYNNE WARD 4,Governor,,DEM,Chris Jones,194,1,118,5,70
+Cross,WYNNE WARD 5,Governor,,DEM,Chris Jones,138,2,103,5,28
+Cross,Wynne Township,Governor,,DEM,Chris Jones,67,0,37,1,29
+Cross,Bedford,Governor,,DEM,Chris Jones,22,0,14,0,8
+Cross,Brushy Lake,Governor,,DEM,Chris Jones,7,0,5,0,2
+Cross,Ellis,Governor,,DEM,Chris Jones,8,0,3,0,5
+Cross,Fair Oaks,Governor,,DEM,Chris Jones,7,0,2,0,5
+Cross,Smith,Governor,,DEM,Chris Jones,59,0,37,0,22
+Cross,"Bay Village, Birdeye",Governor,,LIB,"Ricky Dale Harrington, Jr.",2,0,0,0,2
+Cross,Cherry Valley City,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,0,0,0,3
+Cross,Hickory Ridge City,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,0,0,0,3
+Cross,Hickory Ridge Township,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,1,0,0
+Cross,Mitchell,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,0,1,0,2
+Cross,Searcy,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,0,1,0,4
+Cross,Parkin Ward 1,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,1,1,0,1
+Cross,Parkin Ward 2,Governor,,LIB,"Ricky Dale Harrington, Jr.",4,0,2,0,2
+Cross,Parkin Ward 3,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,0,2,0,1
+Cross,"Tyronza, Twist",Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,0,1
+Cross,WYNNE WARD 1,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,0,4,0,1
+Cross,WYNNE WARD 2,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,0,1,2,2
+Cross,WYNNE WARD 3,Governor,,LIB,"Ricky Dale Harrington, Jr.",7,1,4,0,2
+Cross,WYNNE WARD 4,Governor,,LIB,"Ricky Dale Harrington, Jr.",7,0,4,0,3
+Cross,WYNNE WARD 5,Governor,,LIB,"Ricky Dale Harrington, Jr.",11,0,8,0,3
+Cross,Wynne Township,Governor,,LIB,"Ricky Dale Harrington, Jr.",7,0,4,0,3
+Cross,Bedford,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,0,3,0,0
+Cross,Brushy Lake,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,0,1,0,2
+Cross,Ellis,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,0,3,0,0
+Cross,Fair Oaks,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0,0
+Cross,Smith,Governor,,LIB,"Ricky Dale Harrington, Jr.",10,0,7,0,3
+Cross,"Bay Village, Birdeye",Governor,,REP,Sarah Huckabee Sanders,93,0,37,0,56
+Cross,Cherry Valley City,Governor,,REP,Sarah Huckabee Sanders,121,0,39,0,82
+Cross,Hickory Ridge City,Governor,,REP,Sarah Huckabee Sanders,70,0,14,0,56
+Cross,Hickory Ridge Township,Governor,,REP,Sarah Huckabee Sanders,59,0,16,1,42
+Cross,Mitchell,Governor,,REP,Sarah Huckabee Sanders,128,0,40,3,85
+Cross,Searcy,Governor,,REP,Sarah Huckabee Sanders,351,1,135,5,210
+Cross,Parkin Ward 1,Governor,,REP,Sarah Huckabee Sanders,46,0,18,3,25
+Cross,Parkin Ward 2,Governor,,REP,Sarah Huckabee Sanders,18,0,4,4,10
+Cross,Parkin Ward 3,Governor,,REP,Sarah Huckabee Sanders,17,1,6,4,6
+Cross,"Tyronza, Twist",Governor,,REP,Sarah Huckabee Sanders,21,0,10,0,11
+Cross,WYNNE WARD 1,Governor,,REP,Sarah Huckabee Sanders,344,1,255,6,82
+Cross,WYNNE WARD 2,Governor,,REP,Sarah Huckabee Sanders,327,0,245,1,81
+Cross,WYNNE WARD 3,Governor,,REP,Sarah Huckabee Sanders,144,1,80,7,56
+Cross,WYNNE WARD 4,Governor,,REP,Sarah Huckabee Sanders,104,0,62,3,39
+Cross,WYNNE WARD 5,Governor,,REP,Sarah Huckabee Sanders,496,0,366,8,122
+Cross,Wynne Township,Governor,,REP,Sarah Huckabee Sanders,411,1,281,3,126
+Cross,Bedford,Governor,,REP,Sarah Huckabee Sanders,102,0,60,1,41
+Cross,Brushy Lake,Governor,,REP,Sarah Huckabee Sanders,101,1,33,1,66
+Cross,Ellis,Governor,,REP,Sarah Huckabee Sanders,128,0,70,0,58
+Cross,Fair Oaks,Governor,,REP,Sarah Huckabee Sanders,39,0,17,0,22
+Cross,Smith,Governor,,REP,Sarah Huckabee Sanders,552,2,393,4,153
+Cross,"Bay Village, Birdeye",Lieutenant Governor,,DEM,Kelly Ross Krout,27,0,12,0,15
+Cross,Cherry Valley City,Lieutenant Governor,,DEM,Kelly Ross Krout,26,0,5,0,21
+Cross,Hickory Ridge City,Lieutenant Governor,,DEM,Kelly Ross Krout,13,0,0,0,13
+Cross,Hickory Ridge Township,Lieutenant Governor,,DEM,Kelly Ross Krout,6,0,3,0,3
+Cross,Mitchell,Lieutenant Governor,,DEM,Kelly Ross Krout,21,0,8,0,13
+Cross,Searcy,Lieutenant Governor,,DEM,Kelly Ross Krout,45,0,23,0,22
+Cross,Parkin Ward 1,Lieutenant Governor,,DEM,Kelly Ross Krout,77,2,13,15,47
+Cross,Parkin Ward 2,Lieutenant Governor,,DEM,Kelly Ross Krout,47,3,11,15,18
+Cross,Parkin Ward 3,Lieutenant Governor,,DEM,Kelly Ross Krout,76,0,19,25,32
+Cross,"Tyronza, Twist",Lieutenant Governor,,DEM,Kelly Ross Krout,13,0,5,0,8
+Cross,WYNNE WARD 1,Lieutenant Governor,,DEM,Kelly Ross Krout,99,0,70,6,23
+Cross,WYNNE WARD 2,Lieutenant Governor,,DEM,Kelly Ross Krout,77,0,57,1,19
+Cross,WYNNE WARD 3,Lieutenant Governor,,DEM,Kelly Ross Krout,112,0,61,5,46
+Cross,WYNNE WARD 4,Lieutenant Governor,,DEM,Kelly Ross Krout,184,1,109,5,69
+Cross,WYNNE WARD 5,Lieutenant Governor,,DEM,Kelly Ross Krout,121,2,89,5,25
+Cross,Wynne Township,Lieutenant Governor,,DEM,Kelly Ross Krout,64,0,33,1,30
+Cross,Bedford,Lieutenant Governor,,DEM,Kelly Ross Krout,17,0,12,0,5
+Cross,Brushy Lake,Lieutenant Governor,,DEM,Kelly Ross Krout,6,0,5,0,1
+Cross,Ellis,Lieutenant Governor,,DEM,Kelly Ross Krout,8,0,3,0,5
+Cross,Fair Oaks,Lieutenant Governor,,DEM,Kelly Ross Krout,6,0,2,0,4
+Cross,Smith,Lieutenant Governor,,DEM,Kelly Ross Krout,56,0,38,0,18
+Cross,"Bay Village, Birdeye",Lieutenant Governor,,LIB,Frank Gilbert,3,0,0,0,3
+Cross,Cherry Valley City,Lieutenant Governor,,LIB,Frank Gilbert,6,0,1,0,5
+Cross,Hickory Ridge City,Lieutenant Governor,,LIB,Frank Gilbert,2,0,0,0,2
+Cross,Hickory Ridge Township,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0,0
+Cross,Mitchell,Lieutenant Governor,,LIB,Frank Gilbert,4,0,0,0,4
+Cross,Searcy,Lieutenant Governor,,LIB,Frank Gilbert,9,0,1,0,8
+Cross,Parkin Ward 1,Lieutenant Governor,,LIB,Frank Gilbert,2,1,0,0,1
+Cross,Parkin Ward 2,Lieutenant Governor,,LIB,Frank Gilbert,2,0,2,0,0
+Cross,Parkin Ward 3,Lieutenant Governor,,LIB,Frank Gilbert,3,0,2,0,1
+Cross,"Tyronza, Twist",Lieutenant Governor,,LIB,Frank Gilbert,1,0,0,0,1
+Cross,WYNNE WARD 1,Lieutenant Governor,,LIB,Frank Gilbert,13,0,8,0,5
+Cross,WYNNE WARD 2,Lieutenant Governor,,LIB,Frank Gilbert,12,0,7,0,5
+Cross,WYNNE WARD 3,Lieutenant Governor,,LIB,Frank Gilbert,9,0,5,0,4
+Cross,WYNNE WARD 4,Lieutenant Governor,,LIB,Frank Gilbert,7,0,4,1,2
+Cross,WYNNE WARD 5,Lieutenant Governor,,LIB,Frank Gilbert,11,0,9,0,2
+Cross,Wynne Township,Lieutenant Governor,,LIB,Frank Gilbert,6,0,3,0,3
+Cross,Bedford,Lieutenant Governor,,LIB,Frank Gilbert,1,0,1,0,0
+Cross,Brushy Lake,Lieutenant Governor,,LIB,Frank Gilbert,3,0,1,0,2
+Cross,Ellis,Lieutenant Governor,,LIB,Frank Gilbert,3,0,3,0,0
+Cross,Fair Oaks,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0,0
+Cross,Smith,Lieutenant Governor,,LIB,Frank Gilbert,9,0,7,0,2
+Cross,"Bay Village, Birdeye",Lieutenant Governor,,REP,Attorney General Leslie Rutledge,93,0,38,0,55
+Cross,Cherry Valley City,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,120,0,39,0,81
+Cross,Hickory Ridge City,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,70,0,14,0,56
+Cross,Hickory Ridge Township,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,61,0,18,1,42
+Cross,Mitchell,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,126,0,40,3,83
+Cross,Searcy,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,349,1,135,5,208
+Cross,Parkin Ward 1,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,44,0,20,3,21
+Cross,Parkin Ward 2,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,18,0,3,3,12
+Cross,Parkin Ward 3,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,19,2,5,4,8
+Cross,"Tyronza, Twist",Lieutenant Governor,,REP,Attorney General Leslie Rutledge,23,0,10,0,13
+Cross,WYNNE WARD 1,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,345,1,255,7,82
+Cross,WYNNE WARD 2,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,331,0,245,3,83
+Cross,WYNNE WARD 3,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,144,2,80,7,55
+Cross,WYNNE WARD 4,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,113,0,71,2,40
+Cross,WYNNE WARD 5,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,512,0,379,8,125
+Cross,Wynne Township,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,411,1,284,3,123
+Cross,Bedford,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,110,0,65,1,44
+Cross,Brushy Lake,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,101,1,32,1,67
+Cross,Ellis,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,125,0,69,0,56
+Cross,Fair Oaks,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,39,0,16,0,23
+Cross,Smith,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,558,2,394,4,158
+Cross,"Bay Village, Birdeye",Attorney General,,REP,Lieutenant Governor Tim Griffin,94,0,38,0,56
+Cross,Cherry Valley City,Attorney General,,REP,Lieutenant Governor Tim Griffin,123,0,39,0,84
+Cross,Hickory Ridge City,Attorney General,,REP,Lieutenant Governor Tim Griffin,70,0,14,0,56
+Cross,Hickory Ridge Township,Attorney General,,REP,Lieutenant Governor Tim Griffin,61,0,18,1,42
+Cross,Mitchell,Attorney General,,REP,Lieutenant Governor Tim Griffin,124,0,39,2,83
+Cross,Searcy,Attorney General,,REP,Lieutenant Governor Tim Griffin,357,1,136,4,216
+Cross,Parkin Ward 1,Attorney General,,REP,Lieutenant Governor Tim Griffin,47,1,19,3,24
+Cross,Parkin Ward 2,Attorney General,,REP,Lieutenant Governor Tim Griffin,18,0,4,5,9
+Cross,Parkin Ward 3,Attorney General,,REP,Lieutenant Governor Tim Griffin,17,1,6,5,5
+Cross,"Tyronza, Twist",Attorney General,,REP,Lieutenant Governor Tim Griffin,23,0,11,0,12
+Cross,WYNNE WARD 1,Attorney General,,REP,Lieutenant Governor Tim Griffin,364,1,269,7,87
+Cross,WYNNE WARD 2,Attorney General,,REP,Lieutenant Governor Tim Griffin,343,0,251,3,89
+Cross,WYNNE WARD 3,Attorney General,,REP,Lieutenant Governor Tim Griffin,150,1,85,8,56
+Cross,WYNNE WARD 4,Attorney General,,REP,Lieutenant Governor Tim Griffin,114,0,69,3,42
+Cross,WYNNE WARD 5,Attorney General,,REP,Lieutenant Governor Tim Griffin,532,0,394,8,130
+Cross,Wynne Township,Attorney General,,REP,Lieutenant Governor Tim Griffin,424,1,289,3,131
+Cross,Bedford,Attorney General,,REP,Lieutenant Governor Tim Griffin,105,0,61,1,43
+Cross,Brushy Lake,Attorney General,,REP,Lieutenant Governor Tim Griffin,104,1,34,1,68
+Cross,Ellis,Attorney General,,REP,Lieutenant Governor Tim Griffin,130,0,72,0,58
+Cross,Fair Oaks,Attorney General,,REP,Lieutenant Governor Tim Griffin,44,0,18,0,26
+Cross,Smith,Attorney General,,REP,Lieutenant Governor Tim Griffin,563,2,403,4,154
+Cross,"Bay Village, Birdeye",Attorney General,,DEM,Jesse Gibson,28,0,11,0,17
+Cross,Cherry Valley City,Attorney General,,DEM,Jesse Gibson,28,0,6,0,22
+Cross,Hickory Ridge City,Attorney General,,DEM,Jesse Gibson,14,0,0,0,14
+Cross,Hickory Ridge Township,Attorney General,,DEM,Jesse Gibson,6,0,3,0,3
+Cross,Mitchell,Attorney General,,DEM,Jesse Gibson,24,0,9,0,15
+Cross,Searcy,Attorney General,,DEM,Jesse Gibson,37,0,19,0,18
+Cross,Parkin Ward 1,Attorney General,,DEM,Jesse Gibson,74,2,14,15,43
+Cross,Parkin Ward 2,Attorney General,,DEM,Jesse Gibson,51,3,12,15,21
+Cross,Parkin Ward 3,Attorney General,,DEM,Jesse Gibson,77,0,20,23,34
+Cross,"Tyronza, Twist",Attorney General,,DEM,Jesse Gibson,15,0,4,0,11
+Cross,WYNNE WARD 1,Attorney General,,DEM,Jesse Gibson,94,0,65,6,23
+Cross,WYNNE WARD 2,Attorney General,,DEM,Jesse Gibson,79,0,60,1,18
+Cross,WYNNE WARD 3,Attorney General,,DEM,Jesse Gibson,114,1,61,3,49
+Cross,WYNNE WARD 4,Attorney General,,DEM,Jesse Gibson,189,1,115,4,69
+Cross,WYNNE WARD 5,Attorney General,,DEM,Jesse Gibson,108,2,79,5,22
+Cross,Wynne Township,Attorney General,,DEM,Jesse Gibson,59,0,33,1,25
+Cross,Bedford,Attorney General,,DEM,Jesse Gibson,23,0,16,0,7
+Cross,Brushy Lake,Attorney General,,DEM,Jesse Gibson,6,0,4,0,2
+Cross,Ellis,Attorney General,,DEM,Jesse Gibson,7,0,3,0,4
+Cross,Fair Oaks,Attorney General,,DEM,Jesse Gibson,3,0,1,0,2
+Cross,Smith,Attorney General,,DEM,Jesse Gibson,56,0,35,0,21
+Cross,"Bay Village, Birdeye",Secretary of State,,DEM,Anna Beth Gorman,26,0,11,0,15
+Cross,Cherry Valley City,Secretary of State,,DEM,Anna Beth Gorman,31,0,7,0,24
+Cross,Hickory Ridge City,Secretary of State,,DEM,Anna Beth Gorman,11,0,0,0,11
+Cross,Hickory Ridge Township,Secretary of State,,DEM,Anna Beth Gorman,8,0,4,0,4
+Cross,Mitchell,Secretary of State,,DEM,Anna Beth Gorman,23,0,7,0,16
+Cross,Searcy,Secretary of State,,DEM,Anna Beth Gorman,40,0,22,0,18
+Cross,Parkin Ward 1,Secretary of State,,DEM,Anna Beth Gorman,81,3,14,16,48
+Cross,Parkin Ward 2,Secretary of State,,DEM,Anna Beth Gorman,49,3,10,16,20
+Cross,Parkin Ward 3,Secretary of State,,DEM,Anna Beth Gorman,74,0,17,22,35
+Cross,"Tyronza, Twist",Secretary of State,,DEM,Anna Beth Gorman,15,0,5,0,10
+Cross,WYNNE WARD 1,Secretary of State,,DEM,Anna Beth Gorman,99,0,70,5,24
+Cross,WYNNE WARD 2,Secretary of State,,DEM,Anna Beth Gorman,81,0,57,1,23
+Cross,WYNNE WARD 3,Secretary of State,,DEM,Anna Beth Gorman,116,1,61,5,49
+Cross,WYNNE WARD 4,Secretary of State,,DEM,Anna Beth Gorman,195,1,117,5,72
+Cross,WYNNE WARD 5,Secretary of State,,DEM,Anna Beth Gorman,115,2,85,5,23
+Cross,Wynne Township,Secretary of State,,DEM,Anna Beth Gorman,60,0,34,1,25
+Cross,Bedford,Secretary of State,,DEM,Anna Beth Gorman,20,0,15,0,5
+Cross,Brushy Lake,Secretary of State,,DEM,Anna Beth Gorman,7,0,4,0,3
+Cross,Ellis,Secretary of State,,DEM,Anna Beth Gorman,6,0,2,0,4
+Cross,Fair Oaks,Secretary of State,,DEM,Anna Beth Gorman,6,0,2,0,4
+Cross,Smith,Secretary of State,,DEM,Anna Beth Gorman,51,0,35,0,16
+Cross,"Bay Village, Birdeye",Secretary of State,,REP,Secretary of State John Thurston,96,0,39,0,57
+Cross,Cherry Valley City,Secretary of State,,REP,Secretary of State John Thurston,120,0,38,0,82
+Cross,Hickory Ridge City,Secretary of State,,REP,Secretary of State John Thurston,74,0,14,0,60
+Cross,Hickory Ridge Township,Secretary of State,,REP,Secretary of State John Thurston,59,0,17,1,41
+Cross,Mitchell,Secretary of State,,REP,Secretary of State John Thurston,127,0,41,3,83
+Cross,Searcy,Secretary of State,,REP,Secretary of State John Thurston,360,1,136,5,218
+Cross,Parkin Ward 1,Secretary of State,,REP,Secretary of State John Thurston,41,0,19,2,20
+Cross,Parkin Ward 2,Secretary of State,,REP,Secretary of State John Thurston,19,0,6,3,10
+Cross,Parkin Ward 3,Secretary of State,,REP,Secretary of State John Thurston,19,1,9,3,6
+Cross,"Tyronza, Twist",Secretary of State,,REP,Secretary of State John Thurston,23,0,10,0,13
+Cross,WYNNE WARD 1,Secretary of State,,REP,Secretary of State John Thurston,352,1,258,8,85
+Cross,WYNNE WARD 2,Secretary of State,,REP,Secretary of State John Thurston,338,0,251,3,84
+Cross,WYNNE WARD 3,Secretary of State,,REP,Secretary of State John Thurston,149,1,85,7,56
+Cross,WYNNE WARD 4,Secretary of State,,REP,Secretary of State John Thurston,110,0,67,3,40
+Cross,WYNNE WARD 5,Secretary of State,,REP,Secretary of State John Thurston,527,0,390,8,129
+Cross,Wynne Township,Secretary of State,,REP,Secretary of State John Thurston,423,1,286,3,133
+Cross,Bedford,Secretary of State,,REP,Secretary of State John Thurston,107,0,62,1,44
+Cross,Brushy Lake,Secretary of State,,REP,Secretary of State John Thurston,104,1,34,1,68
+Cross,Ellis,Secretary of State,,REP,Secretary of State John Thurston,130,0,72,0,58
+Cross,Fair Oaks,Secretary of State,,REP,Secretary of State John Thurston,41,0,17,0,24
+Cross,Smith,Secretary of State,,REP,Secretary of State John Thurston,570,2,402,4,162
+Cross,"Bay Village, Birdeye",State Treasurer,,DEM,Pam Whitaker,27,0,12,0,15
+Cross,Cherry Valley City,State Treasurer,,DEM,Pam Whitaker,31,0,8,0,23
+Cross,Hickory Ridge City,State Treasurer,,DEM,Pam Whitaker,14,0,0,0,14
+Cross,Hickory Ridge Township,State Treasurer,,DEM,Pam Whitaker,7,0,3,0,4
+Cross,Mitchell,State Treasurer,,DEM,Pam Whitaker,21,0,7,0,14
+Cross,Searcy,State Treasurer,,DEM,Pam Whitaker,40,0,21,0,19
+Cross,Parkin Ward 1,State Treasurer,,DEM,Pam Whitaker,79,3,14,16,46
+Cross,Parkin Ward 2,State Treasurer,,DEM,Pam Whitaker,51,3,11,15,22
+Cross,Parkin Ward 3,State Treasurer,,DEM,Pam Whitaker,79,0,20,22,37
+Cross,"Tyronza, Twist",State Treasurer,,DEM,Pam Whitaker,15,0,5,0,10
+Cross,WYNNE WARD 1,State Treasurer,,DEM,Pam Whitaker,105,0,72,7,26
+Cross,WYNNE WARD 2,State Treasurer,,DEM,Pam Whitaker,89,0,64,1,24
+Cross,WYNNE WARD 3,State Treasurer,,DEM,Pam Whitaker,116,0,65,4,47
+Cross,WYNNE WARD 4,State Treasurer,,DEM,Pam Whitaker,200,1,121,6,72
+Cross,WYNNE WARD 5,State Treasurer,,DEM,Pam Whitaker,126,2,96,5,23
+Cross,Wynne Township,State Treasurer,,DEM,Pam Whitaker,68,0,39,1,28
+Cross,Bedford,State Treasurer,,DEM,Pam Whitaker,21,0,16,0,5
+Cross,Brushy Lake,State Treasurer,,DEM,Pam Whitaker,8,0,5,0,3
+Cross,Ellis,State Treasurer,,DEM,Pam Whitaker,8,0,3,0,5
+Cross,Fair Oaks,State Treasurer,,DEM,Pam Whitaker,5,0,2,0,3
+Cross,Smith,State Treasurer,,DEM,Pam Whitaker,55,0,36,0,19
+Cross,"Bay Village, Birdeye",State Treasurer,,REP,State Representative Mark Lowery,95,0,38,0,57
+Cross,Cherry Valley City,State Treasurer,,REP,State Representative Mark Lowery,120,0,37,0,83
+Cross,Hickory Ridge City,State Treasurer,,REP,State Representative Mark Lowery,71,0,14,0,57
+Cross,Hickory Ridge Township,State Treasurer,,REP,State Representative Mark Lowery,60,0,18,1,41
+Cross,Mitchell,State Treasurer,,REP,State Representative Mark Lowery,129,0,41,3,85
+Cross,Searcy,State Treasurer,,REP,State Representative Mark Lowery,361,1,137,5,218
+Cross,Parkin Ward 1,State Treasurer,,REP,State Representative Mark Lowery,46,0,20,2,24
+Cross,Parkin Ward 2,State Treasurer,,REP,State Representative Mark Lowery,16,0,4,3,9
+Cross,Parkin Ward 3,State Treasurer,,REP,State Representative Mark Lowery,17,1,6,3,7
+Cross,"Tyronza, Twist",State Treasurer,,REP,State Representative Mark Lowery,23,0,10,0,13
+Cross,WYNNE WARD 1,State Treasurer,,REP,State Representative Mark Lowery,346,1,256,6,83
+Cross,WYNNE WARD 2,State Treasurer,,REP,State Representative Mark Lowery,330,0,244,3,83
+Cross,WYNNE WARD 3,State Treasurer,,REP,State Representative Mark Lowery,148,2,81,8,57
+Cross,WYNNE WARD 4,State Treasurer,,REP,State Representative Mark Lowery,107,0,64,2,41
+Cross,WYNNE WARD 5,State Treasurer,,REP,State Representative Mark Lowery,517,0,381,8,128
+Cross,Wynne Township,State Treasurer,,REP,State Representative Mark Lowery,413,1,280,3,129
+Cross,Bedford,State Treasurer,,REP,State Representative Mark Lowery,105,0,59,1,45
+Cross,Brushy Lake,State Treasurer,,REP,State Representative Mark Lowery,102,1,33,1,67
+Cross,Ellis,State Treasurer,,REP,State Representative Mark Lowery,128,0,71,0,57
+Cross,Fair Oaks,State Treasurer,,REP,State Representative Mark Lowery,40,0,17,0,23
+Cross,Smith,State Treasurer,,REP,State Representative Mark Lowery,564,2,400,4,158
+Cross,"Bay Village, Birdeye",Auditor of State,,REP,Treasurer of State Dennis Milligan,96,0,40,0,56
+Cross,Cherry Valley City,Auditor of State,,REP,Treasurer of State Dennis Milligan,119,0,39,0,80
+Cross,Hickory Ridge City,Auditor of State,,REP,Treasurer of State Dennis Milligan,71,0,14,0,57
+Cross,Hickory Ridge Township,Auditor of State,,REP,Treasurer of State Dennis Milligan,61,0,18,1,42
+Cross,Mitchell,Auditor of State,,REP,Treasurer of State Dennis Milligan,129,0,41,3,85
+Cross,Searcy,Auditor of State,,REP,Treasurer of State Dennis Milligan,347,1,137,5,204
+Cross,Parkin Ward 1,Auditor of State,,REP,Treasurer of State Dennis Milligan,42,1,18,2,21
+Cross,Parkin Ward 2,Auditor of State,,REP,Treasurer of State Dennis Milligan,16,0,3,3,10
+Cross,Parkin Ward 3,Auditor of State,,REP,Treasurer of State Dennis Milligan,13,1,5,3,4
+Cross,"Tyronza, Twist",Auditor of State,,REP,Treasurer of State Dennis Milligan,22,0,9,0,13
+Cross,WYNNE WARD 1,Auditor of State,,REP,Treasurer of State Dennis Milligan,342,1,251,7,83
+Cross,WYNNE WARD 2,Auditor of State,,REP,Treasurer of State Dennis Milligan,328,0,243,3,82
+Cross,WYNNE WARD 3,Auditor of State,,REP,Treasurer of State Dennis Milligan,146,2,84,7,53
+Cross,WYNNE WARD 4,Auditor of State,,REP,Treasurer of State Dennis Milligan,110,0,68,3,39
+Cross,WYNNE WARD 5,Auditor of State,,REP,Treasurer of State Dennis Milligan,514,0,377,8,129
+Cross,Wynne Township,Auditor of State,,REP,Treasurer of State Dennis Milligan,406,1,279,3,123
+Cross,Bedford,Auditor of State,,REP,Treasurer of State Dennis Milligan,110,0,64,1,45
+Cross,Brushy Lake,Auditor of State,,REP,Treasurer of State Dennis Milligan,102,1,34,1,66
+Cross,Ellis,Auditor of State,,REP,Treasurer of State Dennis Milligan,124,0,69,0,55
+Cross,Fair Oaks,Auditor of State,,REP,Treasurer of State Dennis Milligan,40,0,18,0,22
+Cross,Smith,Auditor of State,,REP,Treasurer of State Dennis Milligan,544,2,388,4,150
+Cross,"Bay Village, Birdeye",Auditor of State,,DEM,Diamond Arnold-Johnson,23,0,8,0,15
+Cross,Cherry Valley City,Auditor of State,,DEM,Diamond Arnold-Johnson,26,0,5,0,21
+Cross,Hickory Ridge City,Auditor of State,,DEM,Diamond Arnold-Johnson,9,0,0,0,9
+Cross,Hickory Ridge Township,Auditor of State,,DEM,Diamond Arnold-Johnson,6,0,3,0,3
+Cross,Mitchell,Auditor of State,,DEM,Diamond Arnold-Johnson,20,0,6,0,14
+Cross,Searcy,Auditor of State,,DEM,Diamond Arnold-Johnson,43,0,21,0,22
+Cross,Parkin Ward 1,Auditor of State,,DEM,Diamond Arnold-Johnson,77,2,14,15,46
+Cross,Parkin Ward 2,Auditor of State,,DEM,Diamond Arnold-Johnson,51,3,12,17,19
+Cross,Parkin Ward 3,Auditor of State,,DEM,Diamond Arnold-Johnson,77,0,20,22,35
+Cross,"Tyronza, Twist",Auditor of State,,DEM,Diamond Arnold-Johnson,15,0,6,0,9
+Cross,WYNNE WARD 1,Auditor of State,,DEM,Diamond Arnold-Johnson,89,0,63,6,20
+Cross,WYNNE WARD 2,Auditor of State,,DEM,Diamond Arnold-Johnson,73,0,55,1,17
+Cross,WYNNE WARD 3,Auditor of State,,DEM,Diamond Arnold-Johnson,111,0,59,5,47
+Cross,WYNNE WARD 4,Auditor of State,,DEM,Diamond Arnold-Johnson,184,1,110,5,68
+Cross,WYNNE WARD 5,Auditor of State,,DEM,Diamond Arnold-Johnson,103,2,78,5,18
+Cross,Wynne Township,Auditor of State,,DEM,Diamond Arnold-Johnson,58,0,32,1,25
+Cross,Bedford,Auditor of State,,DEM,Diamond Arnold-Johnson,13,0,9,0,4
+Cross,Brushy Lake,Auditor of State,,DEM,Diamond Arnold-Johnson,8,0,5,0,3
+Cross,Ellis,Auditor of State,,DEM,Diamond Arnold-Johnson,7,0,2,0,5
+Cross,Fair Oaks,Auditor of State,,DEM,Diamond Arnold-Johnson,4,0,1,0,3
+Cross,Smith,Auditor of State,,DEM,Diamond Arnold-Johnson,51,0,33,0,18
+Cross,"Bay Village, Birdeye",Auditor of State,,LIB,Simeon Snow,4,0,2,0,2
+Cross,Cherry Valley City,Auditor of State,,LIB,Simeon Snow,6,0,1,0,5
+Cross,Hickory Ridge City,Auditor of State,,LIB,Simeon Snow,4,0,0,0,4
+Cross,Hickory Ridge Township,Auditor of State,,LIB,Simeon Snow,0,0,0,0,0
+Cross,Mitchell,Auditor of State,,LIB,Simeon Snow,1,0,1,0,0
+Cross,Searcy,Auditor of State,,LIB,Simeon Snow,9,0,0,0,9
+Cross,Parkin Ward 1,Auditor of State,,LIB,Simeon Snow,4,0,2,0,2
+Cross,Parkin Ward 2,Auditor of State,,LIB,Simeon Snow,2,0,1,0,1
+Cross,Parkin Ward 3,Auditor of State,,LIB,Simeon Snow,5,0,1,0,4
+Cross,"Tyronza, Twist",Auditor of State,,LIB,Simeon Snow,1,0,0,0,1
+Cross,WYNNE WARD 1,Auditor of State,,LIB,Simeon Snow,21,0,15,0,6
+Cross,WYNNE WARD 2,Auditor of State,,LIB,Simeon Snow,18,0,10,0,8
+Cross,WYNNE WARD 3,Auditor of State,,LIB,Simeon Snow,7,0,2,0,5
+Cross,WYNNE WARD 4,Auditor of State,,LIB,Simeon Snow,12,0,8,0,4
+Cross,WYNNE WARD 5,Auditor of State,,LIB,Simeon Snow,23,0,20,0,3
+Cross,Wynne Township,Auditor of State,,LIB,Simeon Snow,15,0,8,0,7
+Cross,Bedford,Auditor of State,,LIB,Simeon Snow,4,0,4,0,0
+Cross,Brushy Lake,Auditor of State,,LIB,Simeon Snow,2,0,0,0,2
+Cross,Ellis,Auditor of State,,LIB,Simeon Snow,5,0,3,0,2
+Cross,Fair Oaks,Auditor of State,,LIB,Simeon Snow,1,0,0,0,1
+Cross,Smith,Auditor of State,,LIB,Simeon Snow,22,0,15,0,7
+Cross,"Bay Village, Birdeye",Commissioner of State Lands,,DEM,Darlene Goldi Gaines,27,0,11,0,16
+Cross,Cherry Valley City,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,26,0,6,0,20
+Cross,Hickory Ridge City,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,10,0,0,0,10
+Cross,Hickory Ridge Township,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,6,0,3,0,3
+Cross,Mitchell,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,23,0,7,0,16
+Cross,Searcy,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,39,0,22,0,17
+Cross,Parkin Ward 1,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,78,2,14,15,47
+Cross,Parkin Ward 2,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,50,3,11,16,20
+Cross,Parkin Ward 3,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,78,0,19,22,37
+Cross,"Tyronza, Twist",Commissioner of State Lands,,DEM,Darlene Goldi Gaines,15,0,5,0,10
+Cross,WYNNE WARD 1,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,94,0,67,6,21
+Cross,WYNNE WARD 2,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,89,0,64,1,24
+Cross,WYNNE WARD 3,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,115,0,63,4,48
+Cross,WYNNE WARD 4,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,191,1,115,5,70
+Cross,WYNNE WARD 5,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,109,2,79,5,23
+Cross,Wynne Township,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,60,0,34,1,25
+Cross,Bedford,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,16,0,12,0,4
+Cross,Brushy Lake,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,7,0,5,0,2
+Cross,Ellis,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,7,0,3,0,4
+Cross,Fair Oaks,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,6,0,1,0,5
+Cross,Smith,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,51,0,35,0,16
+Cross,"Bay Village, Birdeye",Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,96,0,39,0,57
+Cross,Cherry Valley City,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,123,0,38,0,85
+Cross,Hickory Ridge City,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,74,0,13,0,61
+Cross,Hickory Ridge Township,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,60,0,18,1,41
+Cross,Mitchell,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,127,0,41,3,83
+Cross,Searcy,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,363,1,137,5,220
+Cross,Parkin Ward 1,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,46,1,20,3,22
+Cross,Parkin Ward 2,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,19,0,5,4,10
+Cross,Parkin Ward 3,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,18,1,7,3,7
+Cross,"Tyronza, Twist",Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,23,0,10,0,13
+Cross,WYNNE WARD 1,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,359,1,264,7,87
+Cross,WYNNE WARD 2,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,329,0,244,3,82
+Cross,WYNNE WARD 3,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,146,1,81,8,56
+Cross,WYNNE WARD 4,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,115,0,70,3,42
+Cross,WYNNE WARD 5,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,530,0,394,8,128
+Cross,Wynne Township,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,421,1,287,3,130
+Cross,Bedford,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,111,0,65,1,45
+Cross,Brushy Lake,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,103,1,34,1,67
+Cross,Ellis,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,128,0,71,0,57
+Cross,Fair Oaks,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,40,0,18,0,22
+Cross,Smith,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,569,2,403,4,160
+Cross,"Bay Village, Birdeye",CROSS COUNTY JUDGE,,REP,REP Lynn Blake,88,0,38,0,50
+Cross,Cherry Valley City,CROSS COUNTY JUDGE,,REP,REP Lynn Blake,102,0,35,0,67
+Cross,Hickory Ridge City,CROSS COUNTY JUDGE,,REP,REP Lynn Blake,55,0,12,0,43
+Cross,Hickory Ridge Township,CROSS COUNTY JUDGE,,REP,REP Lynn Blake,50,0,16,1,33
+Cross,Mitchell,CROSS COUNTY JUDGE,,REP,REP Lynn Blake,114,0,38,3,73
+Cross,Searcy,CROSS COUNTY JUDGE,,REP,REP Lynn Blake,325,1,122,4,198
+Cross,Parkin Ward 1,CROSS COUNTY JUDGE,,REP,REP Lynn Blake,55,1,13,11,30
+Cross,Parkin Ward 2,CROSS COUNTY JUDGE,,REP,REP Lynn Blake,35,0,9,11,15
+Cross,Parkin Ward 3,CROSS COUNTY JUDGE,,REP,REP Lynn Blake,40,2,6,15,17
+Cross,"Tyronza, Twist",CROSS COUNTY JUDGE,,REP,REP Lynn Blake,25,0,9,0,16
+Cross,WYNNE WARD 1,CROSS COUNTY JUDGE,,REP,REP Lynn Blake,325,1,244,5,75
+Cross,WYNNE WARD 2,CROSS COUNTY JUDGE,,REP,REP Lynn Blake,308,0,231,3,74
+Cross,WYNNE WARD 3,CROSS COUNTY JUDGE,,REP,REP Lynn Blake,124,0,72,4,48
+Cross,WYNNE WARD 4,CROSS COUNTY JUDGE,,REP,REP Lynn Blake,107,0,60,4,43
+Cross,WYNNE WARD 5,CROSS COUNTY JUDGE,,REP,REP Lynn Blake,462,0,349,4,109
+Cross,Wynne Township,CROSS COUNTY JUDGE,,REP,REP Lynn Blake,363,1,248,2,112
+Cross,Bedford,CROSS COUNTY JUDGE,,REP,REP Lynn Blake,99,0,58,1,40
+Cross,Brushy Lake,CROSS COUNTY JUDGE,,REP,REP Lynn Blake,82,1,28,1,52
+Cross,Ellis,CROSS COUNTY JUDGE,,REP,REP Lynn Blake,108,0,64,0,44
+Cross,Fair Oaks,CROSS COUNTY JUDGE,,REP,REP Lynn Blake,40,0,16,0,24
+Cross,Smith,CROSS COUNTY JUDGE,,REP,REP Lynn Blake,492,2,351,4,135
+Cross,"Bay Village, Birdeye",CROSS COUNTY JUDGE,,DEM,DEM Donnie Sanders,35,0,12,0,23
+Cross,Cherry Valley City,CROSS COUNTY JUDGE,,DEM,DEM Donnie Sanders,50,0,10,0,40
+Cross,Hickory Ridge City,CROSS COUNTY JUDGE,,DEM,DEM Donnie Sanders,30,0,2,0,28
+Cross,Hickory Ridge Township,CROSS COUNTY JUDGE,,DEM,DEM Donnie Sanders,18,0,5,0,13
+Cross,Mitchell,CROSS COUNTY JUDGE,,DEM,DEM Donnie Sanders,38,0,10,0,28
+Cross,Searcy,CROSS COUNTY JUDGE,,DEM,DEM Donnie Sanders,80,0,38,1,41
+Cross,Parkin Ward 1,CROSS COUNTY JUDGE,,DEM,DEM Donnie Sanders,70,2,21,7,40
+Cross,Parkin Ward 2,CROSS COUNTY JUDGE,,DEM,DEM Donnie Sanders,38,3,8,12,15
+Cross,Parkin Ward 3,CROSS COUNTY JUDGE,,DEM,DEM Donnie Sanders,63,0,20,16,27
+Cross,"Tyronza, Twist",CROSS COUNTY JUDGE,,DEM,DEM Donnie Sanders,14,0,6,0,8
+Cross,WYNNE WARD 1,CROSS COUNTY JUDGE,,DEM,DEM Donnie Sanders,135,0,93,8,34
+Cross,WYNNE WARD 2,CROSS COUNTY JUDGE,,DEM,DEM Donnie Sanders,114,0,80,1,33
+Cross,WYNNE WARD 3,CROSS COUNTY JUDGE,,DEM,DEM Donnie Sanders,141,2,74,8,57
+Cross,WYNNE WARD 4,CROSS COUNTY JUDGE,,DEM,DEM Donnie Sanders,203,1,128,4,70
+Cross,WYNNE WARD 5,CROSS COUNTY JUDGE,,DEM,DEM Donnie Sanders,183,2,130,9,42
+Cross,Wynne Township,CROSS COUNTY JUDGE,,DEM,DEM Donnie Sanders,121,0,72,2,47
+Cross,Bedford,CROSS COUNTY JUDGE,,DEM,DEM Donnie Sanders,30,0,20,0,10
+Cross,Brushy Lake,CROSS COUNTY JUDGE,,DEM,DEM Donnie Sanders,29,0,11,0,18
+Cross,Ellis,CROSS COUNTY JUDGE,,DEM,DEM Donnie Sanders,29,0,12,0,17
+Cross,Fair Oaks,CROSS COUNTY JUDGE,,DEM,DEM Donnie Sanders,8,0,3,0,5
+Cross,Smith,CROSS COUNTY JUDGE,,DEM,DEM Donnie Sanders,128,0,85,0,43
+Cross,"Bay Village, Birdeye",CIRCUIT CLERK & RECORDER,,DEM,DEM Rhonda Sullivan,87,0,31,0,56
+Cross,Cherry Valley City,CIRCUIT CLERK & RECORDER,,DEM,DEM Rhonda Sullivan,125,0,35,0,90
+Cross,Hickory Ridge City,CIRCUIT CLERK & RECORDER,,DEM,DEM Rhonda Sullivan,73,0,12,0,61
+Cross,Hickory Ridge Township,CIRCUIT CLERK & RECORDER,,DEM,DEM Rhonda Sullivan,54,0,17,0,37
+Cross,Mitchell,CIRCUIT CLERK & RECORDER,,DEM,DEM Rhonda Sullivan,118,0,39,1,78
+Cross,Searcy,CIRCUIT CLERK & RECORDER,,DEM,DEM Rhonda Sullivan,329,1,136,4,188
+Cross,Parkin Ward 1,CIRCUIT CLERK & RECORDER,,DEM,DEM Rhonda Sullivan,106,3,26,15,62
+Cross,Parkin Ward 2,CIRCUIT CLERK & RECORDER,,DEM,DEM Rhonda Sullivan,62,3,15,20,24
+Cross,Parkin Ward 3,CIRCUIT CLERK & RECORDER,,DEM,DEM Rhonda Sullivan,89,1,22,28,38
+Cross,"Tyronza, Twist",CIRCUIT CLERK & RECORDER,,DEM,DEM Rhonda Sullivan,30,0,11,0,19
+Cross,WYNNE WARD 1,CIRCUIT CLERK & RECORDER,,DEM,DEM Rhonda Sullivan,393,1,284,13,95
+Cross,WYNNE WARD 2,CIRCUIT CLERK & RECORDER,,DEM,DEM Rhonda Sullivan,347,0,257,4,86
+Cross,WYNNE WARD 3,CIRCUIT CLERK & RECORDER,,DEM,DEM Rhonda Sullivan,235,2,127,12,94
+Cross,WYNNE WARD 4,CIRCUIT CLERK & RECORDER,,DEM,DEM Rhonda Sullivan,286,1,178,8,99
+Cross,WYNNE WARD 5,CIRCUIT CLERK & RECORDER,,DEM,DEM Rhonda Sullivan,536,2,402,10,122
+Cross,Wynne Township,CIRCUIT CLERK & RECORDER,,DEM,DEM Rhonda Sullivan,406,1,274,3,128
+Cross,Bedford,CIRCUIT CLERK & RECORDER,,DEM,DEM Rhonda Sullivan,102,0,60,1,41
+Cross,Brushy Lake,CIRCUIT CLERK & RECORDER,,DEM,DEM Rhonda Sullivan,91,0,30,1,60
+Cross,Ellis,CIRCUIT CLERK & RECORDER,,DEM,DEM Rhonda Sullivan,110,0,58,0,52
+Cross,Fair Oaks,CIRCUIT CLERK & RECORDER,,DEM,DEM Rhonda Sullivan,36,0,14,0,22
+Cross,Smith,CIRCUIT CLERK & RECORDER,,DEM,DEM Rhonda Sullivan,492,2,342,4,144
+Cross,"Bay Village, Birdeye",State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,73,0,28,0,45
+Cross,Cherry Valley City,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,89,0,26,0,63
+Cross,Hickory Ridge City,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,38,0,8,0,30
+Cross,Hickory Ridge Township,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,36,0,11,0,25
+Cross,Mitchell,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,73,0,23,0,50
+Cross,Searcy,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,241,1,103,1,136
+Cross,Parkin Ward 1,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,69,1,19,6,43
+Cross,Parkin Ward 2,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,43,1,12,14,16
+Cross,Parkin Ward 3,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,38,1,11,7,19
+Cross,"Tyronza, Twist",State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,18,0,7,0,11
+Cross,WYNNE WARD 1,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,283,1,211,7,64
+Cross,WYNNE WARD 2,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,267,0,193,3,71
+Cross,WYNNE WARD 3,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,172,2,94,7,69
+Cross,WYNNE WARD 4,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,200,0,116,6,78
+Cross,WYNNE WARD 5,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,382,2,274,9,97
+Cross,Wynne Township,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,267,1,176,2,88
+Cross,Bedford,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,90,0,56,0,34
+Cross,Brushy Lake,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,70,0,21,0,49
+Cross,Ellis,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,73,0,43,0,30
+Cross,Fair Oaks,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,28,0,10,0,18
+Cross,Smith,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,358,1,255,2,100
+Cross,"Bay Village, Birdeye",State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,36,0,12,0,24
+Cross,Cherry Valley City,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,50,0,14,0,36
+Cross,Hickory Ridge City,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,41,0,6,0,35
+Cross,Hickory Ridge Township,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,23,0,8,0,15
+Cross,Mitchell,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,57,0,20,1,36
+Cross,Searcy,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,129,0,48,2,79
+Cross,Parkin Ward 1,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,40,1,10,9,20
+Cross,Parkin Ward 2,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,21,2,1,4,14
+Cross,Parkin Ward 3,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,42,0,10,16,16
+Cross,"Tyronza, Twist",State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,14,0,6,0,8
+Cross,WYNNE WARD 1,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,144,0,100,5,39
+Cross,WYNNE WARD 2,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,128,0,102,1,25
+Cross,WYNNE WARD 3,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,77,0,44,3,30
+Cross,WYNNE WARD 4,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,79,0,54,1,24
+Cross,WYNNE WARD 5,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,200,0,159,4,37
+Cross,Wynne Township,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,174,0,117,1,56
+Cross,Bedford,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,28,0,17,1,10
+Cross,Brushy Lake,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,33,1,14,1,17
+Cross,Ellis,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,46,0,22,0,24
+Cross,Fair Oaks,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,16,0,9,0,7
+Cross,Smith,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,199,1,137,2,59
+Cross,WYNNE WARD 1,MAYOR OF WYNNE,,IND,IND Blake VanLandingham,124,1,92,8,23
+Cross,WYNNE WARD 2,MAYOR OF WYNNE,,IND,IND Blake VanLandingham,103,0,75,0,28
+Cross,WYNNE WARD 3,MAYOR OF WYNNE,,IND,IND Blake VanLandingham,89,1,54,3,31
+Cross,WYNNE WARD 4,MAYOR OF WYNNE,,IND,IND Blake VanLandingham,95,0,69,1,25
+Cross,WYNNE WARD 5,MAYOR OF WYNNE,,IND,IND Blake VanLandingham,125,1,92,4,28
+Cross,WYNNE WARD 1,MAYOR OF WYNNE,,IND,IND Brett Forrester,70,0,54,1,15
+Cross,WYNNE WARD 2,MAYOR OF WYNNE,,IND,IND Brett Forrester,60,0,47,0,13
+Cross,WYNNE WARD 3,MAYOR OF WYNNE,,IND,IND Brett Forrester,31,0,17,1,13
+Cross,WYNNE WARD 4,MAYOR OF WYNNE,,IND,IND Brett Forrester,40,0,19,1,20
+Cross,WYNNE WARD 5,MAYOR OF WYNNE,,IND,IND Brett Forrester,85,0,57,0,28
+Cross,WYNNE WARD 1,MAYOR OF WYNNE,,IND,IND Jennifer Hobbs,267,0,192,4,71
+Cross,WYNNE WARD 2,MAYOR OF WYNNE,,IND,IND Jennifer Hobbs,256,0,187,4,65
+Cross,WYNNE WARD 3,MAYOR OF WYNNE,,IND,IND Jennifer Hobbs,143,1,75,8,59
+Cross,WYNNE WARD 4,MAYOR OF WYNNE,,IND,IND Jennifer Hobbs,168,0,98,6,64
+Cross,WYNNE WARD 5,MAYOR OF WYNNE,,IND,IND Jennifer Hobbs,430,1,324,8,97
+Cross,WYNNE WARD 1,WYNNE CITY CLERK,,IND,IND Emily N. Watts,425,1,313,12,99
+Cross,WYNNE WARD 2,WYNNE CITY CLERK,,IND,IND Emily N. Watts,390,0,290,4,96
+Cross,WYNNE WARD 3,WYNNE CITY CLERK,,IND,IND Emily N. Watts,244,2,136,11,95
+Cross,WYNNE WARD 4,WYNNE CITY CLERK,,IND,IND Emily N. Watts,266,1,158,7,100
+Cross,WYNNE WARD 5,WYNNE CITY CLERK,,IND,IND Emily N. Watts,588,2,432,10,144
+Cross,WYNNE WARD 4,WYNNE CITY COUNCIL MEMBER WARD 4 POSITION 1,,IND,IND Stevie D. Nelson,166,1,103,2,60
+Cross,WYNNE WARD 4,WYNNE CITY COUNCIL MEMBER WARD 4 POSITION 1,,IND,IND Charles E. Hogans,126,0,78,4,44
+Cross,WYNNE WARD 5,WYNNE CITY COUNCIL MEMBER WARD 5 POSITION 1,,IND,IND Mike Hamrick,283,0,204,7,72
+Cross,WYNNE WARD 5,WYNNE CITY COUNCIL MEMBER WARD 5 POSITION 1,,IND,IND Tyler Waymire,361,2,272,6,81
+Cross,Parkin Ward 1,MAYOR OF PARKIN,,IND,IND Diane Patterson,59,0,16,7,36
+Cross,Parkin Ward 2,MAYOR OF PARKIN,,IND,IND Diane Patterson,32,1,9,10,12
+Cross,Parkin Ward 3,MAYOR OF PARKIN,,IND,IND Diane Patterson,37,0,10,16,11
+Cross,Parkin Ward 1,MAYOR OF PARKIN,,IND,IND Prongue Shen Griffin,23,2,6,1,14
+Cross,Parkin Ward 2,MAYOR OF PARKIN,,IND,IND Prongue Shen Griffin,9,1,3,2,3
+Cross,Parkin Ward 3,MAYOR OF PARKIN,,IND,IND Prongue Shen Griffin,17,1,8,2,6
+Cross,Parkin Ward 1,MAYOR OF PARKIN,,IND,IND Sherry Gillon,46,1,12,12,21
+Cross,Parkin Ward 2,MAYOR OF PARKIN,,IND,IND Sherry Gillon,38,2,5,14,17
+Cross,Parkin Ward 3,MAYOR OF PARKIN,,IND,IND Sherry Gillon,51,1,8,16,26
+Cross,Parkin Ward 1,PARKIN CITY COUNCIL MEMBER WARD 1 POSITION 2,,IND,IND Santiá D. Robinson,24,1,6,1,16
+Cross,Parkin Ward 2,PARKIN CITY COUNCIL MEMBER WARD 1 POSITION 2,,IND,IND Santiá D. Robinson,15,0,8,2,5
+Cross,Parkin Ward 3,PARKIN CITY COUNCIL MEMBER WARD 1 POSITION 2,,IND,IND Santiá D. Robinson,30,0,9,11,10
+Cross,Parkin Ward 1,PARKIN CITY COUNCIL MEMBER WARD 1 POSITION 2,,IND,IND David Hickman,50,0,20,3,27
+Cross,Parkin Ward 2,PARKIN CITY COUNCIL MEMBER WARD 1 POSITION 2,,IND,IND David Hickman,18,0,3,6,9
+Cross,Parkin Ward 3,PARKIN CITY COUNCIL MEMBER WARD 1 POSITION 2,,IND,IND David Hickman,22,0,9,7,6
+Cross,Parkin Ward 1,PARKIN CITY COUNCIL MEMBER WARD 1 POSITION 2,,IND,IND Janice Rena McCoy,49,2,7,15,25
+Cross,Parkin Ward 2,PARKIN CITY COUNCIL MEMBER WARD 1 POSITION 2,,IND,IND Janice Rena McCoy,44,3,6,17,18
+Cross,Parkin Ward 3,PARKIN CITY COUNCIL MEMBER WARD 1 POSITION 2,,IND,IND Janice Rena McCoy,52,2,8,16,26
+Cross,Parkin Ward 1,PARKIN CITY COUNCIL MEMBER WARD 2 POSITION 2,,IND,IND Daniel A. Del Pino,51,0,14,10,27
+Cross,Parkin Ward 2,PARKIN CITY COUNCIL MEMBER WARD 2 POSITION 2,,IND,IND Daniel A. Del Pino,33,1,5,13,14
+Cross,Parkin Ward 3,PARKIN CITY COUNCIL MEMBER WARD 2 POSITION 2,,IND,IND Daniel A. Del Pino,40,1,7,17,15
+Cross,Parkin Ward 1,PARKIN CITY COUNCIL MEMBER WARD 2 POSITION 2,,IND,IND Mary Willis,69,3,16,8,42
+Cross,Parkin Ward 2,PARKIN CITY COUNCIL MEMBER WARD 2 POSITION 2,,IND,IND Mary Willis,42,2,12,11,17
+Cross,Parkin Ward 3,PARKIN CITY COUNCIL MEMBER WARD 2 POSITION 2,,IND,IND Mary Willis,62,1,18,15,28
+Cross,Parkin Ward 1,PARKIN CITY COUNCIL MEMBER WARD 3 POSITION 2,,IND,IND Christa Evans,39,0,13,2,24
+Cross,Parkin Ward 2,PARKIN CITY COUNCIL MEMBER WARD 3 POSITION 2,,IND,IND Christa Evans,13,0,1,2,10
+Cross,Parkin Ward 3,PARKIN CITY COUNCIL MEMBER WARD 3 POSITION 2,,IND,IND Christa Evans,33,0,13,8,12
+Cross,Parkin Ward 1,PARKIN CITY COUNCIL MEMBER WARD 3 POSITION 2,,IND,IND Tammy White,80,3,17,16,44
+Cross,Parkin Ward 2,PARKIN CITY COUNCIL MEMBER WARD 3 POSITION 2,,IND,IND Tammy White,64,4,16,23,21
+Cross,Parkin Ward 3,PARKIN CITY COUNCIL MEMBER WARD 3 POSITION 2,,IND,IND Tammy White,71,2,12,25,32
+Cross,Hickory Ridge City,MAYOR OF HICKORY RIDGE,,IND,IND Tillman Kennon,81,0,14,0,67
+Cross,Cherry Valley City,MAYOR OF CHERRY VALLEY,,IND,IND Adam Love,137,0,38,0,99
+Cross,"Bay Village, Birdeye",Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,43,0,16,0,27
+Cross,Cherry Valley City,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,70,0,21,0,49
+Cross,Hickory Ridge City,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,30,0,4,0,26
+Cross,Hickory Ridge Township,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,41,0,15,1,25
+Cross,Mitchell,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,51,0,17,1,33
+Cross,Searcy,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,174,1,66,5,102
+Cross,Parkin Ward 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,60,2,13,6,39
+Cross,Parkin Ward 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,25,1,5,4,15
+Cross,Parkin Ward 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,44,1,12,10,21
+Cross,"Tyronza, Twist",Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,17,0,6,0,11
+Cross,WYNNE WARD 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,198,1,142,2,53
+Cross,WYNNE WARD 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,200,0,149,4,47
+Cross,WYNNE WARD 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,139,1,76,5,57
+Cross,WYNNE WARD 4,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,135,0,78,6,51
+Cross,WYNNE WARD 5,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,295,2,199,4,90
+Cross,Wynne Township,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,234,0,152,1,81
+Cross,Bedford,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,51,0,34,1,16
+Cross,Brushy Lake,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,57,0,22,1,34
+Cross,Ellis,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,62,0,32,0,30
+Cross,Fair Oaks,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,16,0,8,0,8
+Cross,Smith,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,274,2,188,3,81
+Cross,"Bay Village, Birdeye",Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,67,0,26,0,41
+Cross,Cherry Valley City,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,75,0,20,0,55
+Cross,Hickory Ridge City,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,48,0,8,0,40
+Cross,Hickory Ridge Township,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,23,0,6,0,17
+Cross,Mitchell,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,87,0,28,1,58
+Cross,Searcy,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,208,0,85,0,123
+Cross,Parkin Ward 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,52,0,18,8,26
+Cross,Parkin Ward 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,31,2,9,9,11
+Cross,Parkin Ward 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,34,0,9,9,16
+Cross,"Tyronza, Twist",Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,21,0,8,0,13
+Cross,WYNNE WARD 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,223,0,167,10,46
+Cross,WYNNE WARD 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,196,0,146,0,50
+Cross,WYNNE WARD 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,112,1,66,5,40
+Cross,WYNNE WARD 4,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,133,0,84,2,47
+Cross,WYNNE WARD 5,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,316,0,253,6,57
+Cross,Wynne Township,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,230,1,157,2,70
+Cross,Bedford,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,70,0,36,0,34
+Cross,Brushy Lake,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,53,1,16,0,36
+Cross,Ellis,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,66,0,39,0,27
+Cross,Fair Oaks,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,30,0,11,0,19
+Cross,Smith,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,314,0,224,0,90
+Cross,"Bay Village, Birdeye",Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,51,0,18,0,33
+Cross,Cherry Valley City,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,67,0,18,0,49
+Cross,Hickory Ridge City,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,37,0,2,0,35
+Cross,Hickory Ridge Township,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,32,0,11,0,21
+Cross,Mitchell,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,58,0,21,1,36
+Cross,Searcy,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,186,1,71,3,111
+Cross,Parkin Ward 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,76,1,16,5,54
+Cross,Parkin Ward 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,27,2,8,2,15
+Cross,Parkin Ward 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,55,1,15,12,27
+Cross,"Tyronza, Twist",Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,24,0,10,0,14
+Cross,WYNNE WARD 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,223,1,165,5,52
+Cross,WYNNE WARD 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,226,0,164,2,60
+Cross,WYNNE WARD 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,153,2,81,7,63
+Cross,WYNNE WARD 4,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,140,0,84,5,51
+Cross,WYNNE WARD 5,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,329,2,234,6,87
+Cross,Wynne Township,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,241,0,153,3,85
+Cross,Bedford,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,47,0,31,1,15
+Cross,Brushy Lake,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,54,0,21,0,33
+Cross,Ellis,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,64,0,34,0,30
+Cross,Fair Oaks,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,16,0,4,0,12
+Cross,Smith,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,281,1,201,3,76
+Cross,"Bay Village, Birdeye",Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,60,0,24,0,36
+Cross,Cherry Valley City,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,79,0,26,0,53
+Cross,Hickory Ridge City,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,41,0,10,0,31
+Cross,Hickory Ridge Township,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,30,0,10,0,20
+Cross,Mitchell,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,81,0,26,0,55
+Cross,Searcy,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,195,0,77,1,117
+Cross,Parkin Ward 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,42,2,15,10,15
+Cross,Parkin Ward 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,30,0,8,11,11
+Cross,Parkin Ward 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,27,0,8,9,10
+Cross,"Tyronza, Twist",Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,10,0,4,0,6
+Cross,WYNNE WARD 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,203,0,146,7,50
+Cross,WYNNE WARD 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,175,0,131,2,42
+Cross,WYNNE WARD 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,103,0,63,3,37
+Cross,WYNNE WARD 4,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,136,0,85,2,49
+Cross,WYNNE WARD 5,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,281,0,217,4,60
+Cross,Wynne Township,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,224,1,155,0,68
+Cross,Bedford,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,73,0,41,0,32
+Cross,Brushy Lake,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,54,1,16,1,36
+Cross,Ellis,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,64,0,36,0,28
+Cross,Fair Oaks,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,29,0,14,0,15
+Cross,Smith,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,308,1,213,1,93
+Cross,"Bay Village, Birdeye",Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,64,0,18,0,46
+Cross,Cherry Valley City,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,96,0,27,0,69
+Cross,Hickory Ridge City,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,40,0,4,0,36
+Cross,Hickory Ridge Township,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,33,0,11,0,22
+Cross,Mitchell,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,82,0,31,1,50
+Cross,Searcy,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,236,1,92,4,139
+Cross,Parkin Ward 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,83,3,17,10,53
+Cross,Parkin Ward 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,36,2,11,3,20
+Cross,Parkin Ward 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,67,2,20,16,29
+Cross,"Tyronza, Twist",Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,25,0,7,0,18
+Cross,WYNNE WARD 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,248,1,178,4,65
+Cross,WYNNE WARD 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,262,0,193,0,69
+Cross,WYNNE WARD 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,172,1,88,7,76
+Cross,WYNNE WARD 4,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,184,1,109,6,68
+Cross,WYNNE WARD 5,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,356,2,256,5,93
+Cross,Wynne Township,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,278,0,179,3,96
+Cross,Bedford,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,72,0,45,0,27
+Cross,Brushy Lake,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,53,0,21,0,32
+Cross,Ellis,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,84,0,42,0,42
+Cross,Fair Oaks,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,32,0,12,0,20
+Cross,Smith,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,337,2,237,3,95
+Cross,"Bay Village, Birdeye",Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,50,0,24,0,26
+Cross,Cherry Valley City,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,53,0,17,0,36
+Cross,Hickory Ridge City,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,38,0,7,0,31
+Cross,Hickory Ridge Township,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,29,0,8,0,21
+Cross,Mitchell,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,61,0,17,0,44
+Cross,Searcy,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,149,0,61,0,88
+Cross,Parkin Ward 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,39,0,16,6,17
+Cross,Parkin Ward 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,22,0,5,10,7
+Cross,Parkin Ward 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,17,0,3,5,9
+Cross,"Tyronza, Twist",Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,12,0,7,0,5
+Cross,WYNNE WARD 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,188,0,140,8,40
+Cross,WYNNE WARD 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,146,0,108,4,34
+Cross,WYNNE WARD 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,86,1,54,3,28
+Cross,WYNNE WARD 4,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,99,0,60,2,37
+Cross,WYNNE WARD 5,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,262,0,204,5,53
+Cross,Wynne Township,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,192,1,133,0,58
+Cross,Bedford,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,55,0,31,1,23
+Cross,Brushy Lake,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,57,1,17,1,38
+Cross,Ellis,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,45,0,30,0,15
+Cross,Fair Oaks,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,13,0,6,0,7
+Cross,Smith,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,264,0,186,1,77
+Cross,"Bay Village, Birdeye",Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,55,0,17,0,38
+Cross,Cherry Valley City,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,61,0,7,0,54
+Cross,Hickory Ridge City,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,22,0,2,0,20
+Cross,Hickory Ridge Township,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,23,0,10,0,13
+Cross,Mitchell,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,41,0,8,0,33
+Cross,Searcy,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,124,1,32,0,91
+Cross,Parkin Ward 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,77,2,19,12,44
+Cross,Parkin Ward 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,44,3,6,14,21
+Cross,Parkin Ward 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,70,2,16,24,28
+Cross,"Tyronza, Twist",Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,15,0,5,0,10
+Cross,WYNNE WARD 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,180,1,127,3,49
+Cross,WYNNE WARD 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,165,0,119,2,44
+Cross,WYNNE WARD 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,141,1,71,3,66
+Cross,WYNNE WARD 4,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,157,0,87,2,68
+Cross,WYNNE WARD 5,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,207,2,152,2,51
+Cross,Wynne Township,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,191,0,113,0,78
+Cross,Bedford,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,46,0,29,1,16
+Cross,Brushy Lake,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,44,0,10,0,34
+Cross,Ellis,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,52,0,29,0,23
+Cross,Fair Oaks,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,15,0,5,0,10
+Cross,Smith,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,175,2,102,0,71
+Cross,"Bay Village, Birdeye",Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,67,0,32,0,35
+Cross,Cherry Valley City,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,90,0,37,0,53
+Cross,Hickory Ridge City,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,60,0,10,0,50
+Cross,Hickory Ridge Township,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,43,0,11,1,31
+Cross,Mitchell,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,104,0,39,2,63
+Cross,Searcy,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,270,0,123,5,142
+Cross,Parkin Ward 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,44,0,15,5,24
+Cross,Parkin Ward 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,21,0,10,4,7
+Cross,Parkin Ward 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,20,0,7,3,10
+Cross,"Tyronza, Twist",Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,23,0,10,0,13
+Cross,WYNNE WARD 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,267,0,198,9,60
+Cross,WYNNE WARD 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,250,0,188,2,60
+Cross,WYNNE WARD 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,124,1,76,9,38
+Cross,WYNNE WARD 4,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,137,0,91,5,41
+Cross,WYNNE WARD 5,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,434,0,321,11,102
+Cross,Wynne Township,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,288,1,204,4,79
+Cross,Bedford,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,80,0,48,0,32
+Cross,Brushy Lake,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,65,1,27,1,36
+Cross,Ellis,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,85,0,45,0,40
+Cross,Fair Oaks,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,32,0,14,0,18
+Cross,Smith,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,436,0,329,4,103
+Cross,Cherry Valley City,TRANSFER OF SURPLUS $19,937.65,NON,FOR,115,0,33,0,82
+Cross,Cherry Valley City,TRANSFER OF SURPLUS $19,937.65,NON,AGAINST,33,0,9,0,24
+Cross,Cherry Valley City,TRANSFER OF SURPLUS $55,000.00,NON,FOR,112,0,32,0,80
+Cross,Cherry Valley City,TRANSFER OF SURPLUS $55,000.00,NON,AGAINST,36,0,10,0,26

@@ -1,0 +1,728 @@
+county,precinct,office,district,party,candidate,votes,provisional,early_vote,absentee,election_day
+Clay,North St. Francis,U.S. Senate,,LIB,Kenneth Cates,31,0,21,0,10
+Clay,South St. Francis,U.S. Senate,,LIB,Kenneth Cates,21,0,14,0,7
+Clay,East Oak Bluff,U.S. Senate,,LIB,Kenneth Cates,14,0,7,0,7
+Clay,West Oak Bluff,U.S. Senate,,LIB,Kenneth Cates,13,0,3,1,9
+Clay,Bennett & Lemmons,U.S. Senate,,LIB,Kenneth Cates,2,0,2,0,0
+Clay,Bradshaw & Haywood,U.S. Senate,,LIB,Kenneth Cates,2,0,0,0,2
+Clay,Johnson,U.S. Senate,,LIB,Kenneth Cates,2,0,1,0,1
+Clay,Knob,U.S. Senate,,LIB,Kenneth Cates,1,0,1,0,0
+Clay,Liddell & Chalk Bluff,U.S. Senate,,LIB,Kenneth Cates,6,0,6,0,0
+Clay,Payne & Swain,U.S. Senate,,LIB,Kenneth Cates,3,0,3,0,0
+Clay,Pollard/JP1,U.S. Senate,,LIB,Kenneth Cates,4,0,3,0,1
+Clay,Brown & Carpenter,U.S. Senate,,LIB,Kenneth Cates,4,1,2,0,1
+Clay,Cache & Wilson,U.S. Senate,,LIB,Kenneth Cates,3,0,2,0,1
+Clay,Clark,U.S. Senate,,LIB,Kenneth Cates,1,0,1,0,0
+Clay,Nelson,U.S. Senate,,LIB,Kenneth Cates,2,0,1,0,1
+Clay,North Kilgore & Cleveland,U.S. Senate,,LIB,Kenneth Cates,12,0,9,0,3
+Clay,South Kilgore & Gleghorn,U.S. Senate,,LIB,Kenneth Cates,18,1,11,0,6
+Clay,North St. Francis,U.S. Senate,,REP,Senator John Boozman,599,1,413,14,171
+Clay,South St. Francis,U.S. Senate,,REP,Senator John Boozman,357,1,218,6,132
+Clay,East Oak Bluff,U.S. Senate,,REP,Senator John Boozman,235,1,88,2,144
+Clay,West Oak Bluff,U.S. Senate,,REP,Senator John Boozman,228,0,67,3,158
+Clay,Bennett & Lemmons,U.S. Senate,,REP,Senator John Boozman,96,1,53,2,40
+Clay,Bradshaw & Haywood,U.S. Senate,,REP,Senator John Boozman,147,0,81,4,62
+Clay,Johnson,U.S. Senate,,REP,Senator John Boozman,57,0,19,0,38
+Clay,Knob,U.S. Senate,,REP,Senator John Boozman,45,0,20,0,25
+Clay,Liddell & Chalk Bluff,U.S. Senate,,REP,Senator John Boozman,125,0,88,1,36
+Clay,Payne & Swain,U.S. Senate,,REP,Senator John Boozman,63,0,45,1,17
+Clay,Pollard/JP1,U.S. Senate,,REP,Senator John Boozman,139,0,78,0,61
+Clay,Brown & Carpenter,U.S. Senate,,REP,Senator John Boozman,59,1,35,2,21
+Clay,Cache & Wilson,U.S. Senate,,REP,Senator John Boozman,51,0,39,0,12
+Clay,Clark,U.S. Senate,,REP,Senator John Boozman,25,0,14,0,11
+Clay,Nelson,U.S. Senate,,REP,Senator John Boozman,30,0,21,0,9
+Clay,North Kilgore & Cleveland,U.S. Senate,,REP,Senator John Boozman,456,6,284,7,159
+Clay,South Kilgore & Gleghorn,U.S. Senate,,REP,Senator John Boozman,368,2,236,7,123
+Clay,North St. Francis,U.S. Senate,,DEM,Natalie James,142,0,105,2,35
+Clay,South St. Francis,U.S. Senate,,DEM,Natalie James,88,0,58,2,28
+Clay,East Oak Bluff,U.S. Senate,,DEM,Natalie James,66,0,34,5,27
+Clay,West Oak Bluff,U.S. Senate,,DEM,Natalie James,86,0,35,2,49
+Clay,Bennett & Lemmons,U.S. Senate,,DEM,Natalie James,9,0,6,0,3
+Clay,Bradshaw & Haywood,U.S. Senate,,DEM,Natalie James,19,0,11,0,8
+Clay,Johnson,U.S. Senate,,DEM,Natalie James,13,0,4,0,9
+Clay,Knob,U.S. Senate,,DEM,Natalie James,6,0,4,0,2
+Clay,Liddell & Chalk Bluff,U.S. Senate,,DEM,Natalie James,29,0,21,0,8
+Clay,Payne & Swain,U.S. Senate,,DEM,Natalie James,16,0,12,0,4
+Clay,Pollard/JP1,U.S. Senate,,DEM,Natalie James,20,0,12,0,8
+Clay,Brown & Carpenter,U.S. Senate,,DEM,Natalie James,15,0,9,0,6
+Clay,Cache & Wilson,U.S. Senate,,DEM,Natalie James,7,0,4,0,3
+Clay,Clark,U.S. Senate,,DEM,Natalie James,8,0,6,0,2
+Clay,Nelson,U.S. Senate,,DEM,Natalie James,5,0,3,0,2
+Clay,North Kilgore & Cleveland,U.S. Senate,,DEM,Natalie James,85,2,56,3,24
+Clay,South Kilgore & Gleghorn,U.S. Senate,,DEM,Natalie James,84,2,62,1,19
+Clay,North St. Francis,U.S. Congress District 01,,DEM,Representative Monte Hodges,152,0,115,2,35
+Clay,South St. Francis,U.S. Congress District 01,,DEM,Representative Monte Hodges,92,0,60,2,30
+Clay,East Oak Bluff,U.S. Congress District 01,,DEM,Representative Monte Hodges,67,0,31,5,31
+Clay,West Oak Bluff,U.S. Congress District 01,,DEM,Representative Monte Hodges,100,0,40,3,57
+Clay,Bennett & Lemmons,U.S. Congress District 01,,DEM,Representative Monte Hodges,9,0,6,0,3
+Clay,Bradshaw & Haywood,U.S. Congress District 01,,DEM,Representative Monte Hodges,18,0,11,0,7
+Clay,Johnson,U.S. Congress District 01,,DEM,Representative Monte Hodges,13,0,5,0,8
+Clay,Knob,U.S. Congress District 01,,DEM,Representative Monte Hodges,8,0,6,0,2
+Clay,Liddell & Chalk Bluff,U.S. Congress District 01,,DEM,Representative Monte Hodges,26,0,19,0,7
+Clay,Payne & Swain,U.S. Congress District 01,,DEM,Representative Monte Hodges,16,0,13,0,3
+Clay,Pollard/JP1,U.S. Congress District 01,,DEM,Representative Monte Hodges,23,0,13,0,10
+Clay,Brown & Carpenter,U.S. Congress District 01,,DEM,Representative Monte Hodges,19,1,11,0,7
+Clay,Cache & Wilson,U.S. Congress District 01,,DEM,Representative Monte Hodges,9,0,5,0,4
+Clay,Clark,U.S. Congress District 01,,DEM,Representative Monte Hodges,8,0,6,0,2
+Clay,Nelson,U.S. Congress District 01,,DEM,Representative Monte Hodges,8,0,5,0,3
+Clay,North Kilgore & Cleveland,U.S. Congress District 01,,DEM,Representative Monte Hodges,78,1,55,3,19
+Clay,South Kilgore & Gleghorn,U.S. Congress District 01,,DEM,Representative Monte Hodges,77,2,57,1,17
+Clay,North St. Francis,U.S. Congress District 01,,REP,Congressman Rick Crawford,622,1,424,14,183
+Clay,South St. Francis,U.S. Congress District 01,,REP,Congressman Rick Crawford,372,1,227,6,138
+Clay,East Oak Bluff,U.S. Congress District 01,,REP,Congressman Rick Crawford,249,1,99,2,147
+Clay,West Oak Bluff,U.S. Congress District 01,,REP,Congressman Rick Crawford,228,0,65,3,160
+Clay,Bennett & Lemmons,U.S. Congress District 01,,REP,Congressman Rick Crawford,97,1,54,2,40
+Clay,Bradshaw & Haywood,U.S. Congress District 01,,REP,Congressman Rick Crawford,151,0,81,4,66
+Clay,Johnson,U.S. Congress District 01,,REP,Congressman Rick Crawford,60,0,19,0,41
+Clay,Knob,U.S. Congress District 01,,REP,Congressman Rick Crawford,45,0,20,0,25
+Clay,Liddell & Chalk Bluff,U.S. Congress District 01,,REP,Congressman Rick Crawford,133,0,95,1,37
+Clay,Payne & Swain,U.S. Congress District 01,,REP,Congressman Rick Crawford,65,0,46,1,18
+Clay,Pollard/JP1,U.S. Congress District 01,,REP,Congressman Rick Crawford,139,0,80,0,59
+Clay,Brown & Carpenter,U.S. Congress District 01,,REP,Congressman Rick Crawford,60,1,35,2,22
+Clay,Cache & Wilson,U.S. Congress District 01,,REP,Congressman Rick Crawford,53,0,41,0,12
+Clay,Clark,U.S. Congress District 01,,REP,Congressman Rick Crawford,26,0,15,0,11
+Clay,Nelson,U.S. Congress District 01,,REP,Congressman Rick Crawford,29,0,20,0,9
+Clay,North Kilgore & Cleveland,U.S. Congress District 01,,REP,Congressman Rick Crawford,473,8,293,6,166
+Clay,South Kilgore & Gleghorn,U.S. Congress District 01,,REP,Congressman Rick Crawford,393,3,249,7,134
+Clay,North St. Francis,Attorney General,,DEM,Jesse Gibson,155,0,117,2,36
+Clay,South St. Francis,Attorney General,,DEM,Jesse Gibson,96,0,67,2,27
+Clay,East Oak Bluff,Attorney General,,DEM,Jesse Gibson,77,0,38,5,34
+Clay,West Oak Bluff,Attorney General,,DEM,Jesse Gibson,90,0,33,3,54
+Clay,Bennett & Lemmons,Attorney General,,DEM,Jesse Gibson,8,0,5,0,3
+Clay,Bradshaw & Haywood,Attorney General,,DEM,Jesse Gibson,17,0,11,0,6
+Clay,Johnson,Attorney General,,DEM,Jesse Gibson,13,0,5,0,8
+Clay,Knob,Attorney General,,DEM,Jesse Gibson,7,0,5,0,2
+Clay,Liddell & Chalk Bluff,Attorney General,,DEM,Jesse Gibson,29,0,20,0,9
+Clay,Payne & Swain,Attorney General,,DEM,Jesse Gibson,19,0,15,0,4
+Clay,Pollard/JP1,Attorney General,,DEM,Jesse Gibson,25,0,15,0,10
+Clay,Brown & Carpenter,Attorney General,,DEM,Jesse Gibson,16,1,8,0,7
+Clay,Cache & Wilson,Attorney General,,DEM,Jesse Gibson,10,0,6,0,4
+Clay,Clark,Attorney General,,DEM,Jesse Gibson,8,0,6,0,2
+Clay,Nelson,Attorney General,,DEM,Jesse Gibson,7,0,5,0,2
+Clay,North Kilgore & Cleveland,Attorney General,,DEM,Jesse Gibson,79,1,56,3,19
+Clay,South Kilgore & Gleghorn,Attorney General,,DEM,Jesse Gibson,84,2,64,1,17
+Clay,North St. Francis,Attorney General,,REP,Lieutenant Governor Tim Griffin,619,1,424,14,180
+Clay,South St. Francis,Attorney General,,REP,Lieutenant Governor Tim Griffin,366,1,222,6,137
+Clay,East Oak Bluff,Attorney General,,REP,Lieutenant Governor Tim Griffin,236,1,90,2,143
+Clay,West Oak Bluff,Attorney General,,REP,Lieutenant Governor Tim Griffin,238,0,72,3,163
+Clay,Bennett & Lemmons,Attorney General,,REP,Lieutenant Governor Tim Griffin,98,1,55,2,40
+Clay,Bradshaw & Haywood,Attorney General,,REP,Lieutenant Governor Tim Griffin,152,0,81,4,67
+Clay,Johnson,Attorney General,,REP,Lieutenant Governor Tim Griffin,58,0,19,0,39
+Clay,Knob,Attorney General,,REP,Lieutenant Governor Tim Griffin,46,0,21,0,25
+Clay,Liddell & Chalk Bluff,Attorney General,,REP,Lieutenant Governor Tim Griffin,132,0,96,1,35
+Clay,Payne & Swain,Attorney General,,REP,Lieutenant Governor Tim Griffin,60,0,43,0,17
+Clay,Pollard/JP1,Attorney General,,REP,Lieutenant Governor Tim Griffin,137,0,78,0,59
+Clay,Brown & Carpenter,Attorney General,,REP,Lieutenant Governor Tim Griffin,64,1,39,2,22
+Clay,Cache & Wilson,Attorney General,,REP,Lieutenant Governor Tim Griffin,52,0,40,0,12
+Clay,Clark,Attorney General,,REP,Lieutenant Governor Tim Griffin,26,0,15,0,11
+Clay,Nelson,Attorney General,,REP,Lieutenant Governor Tim Griffin,29,0,20,0,9
+Clay,North Kilgore & Cleveland,Attorney General,,REP,Lieutenant Governor Tim Griffin,471,8,290,7,166
+Clay,South Kilgore & Gleghorn,Attorney General,,REP,Lieutenant Governor Tim Griffin,385,3,244,7,131
+Clay,North St. Francis,Auditor of State,,DEM,Diamond Arnold-Johnson,142,0,107,2,33
+Clay,South St. Francis,Auditor of State,,DEM,Diamond Arnold-Johnson,94,0,66,1,27
+Clay,East Oak Bluff,Auditor of State,,DEM,Diamond Arnold-Johnson,66,0,37,5,24
+Clay,West Oak Bluff,Auditor of State,,DEM,Diamond Arnold-Johnson,70,0,32,1,37
+Clay,Bennett & Lemmons,Auditor of State,,DEM,Diamond Arnold-Johnson,9,0,5,0,4
+Clay,Bradshaw & Haywood,Auditor of State,,DEM,Diamond Arnold-Johnson,17,0,10,0,7
+Clay,Johnson,Auditor of State,,DEM,Diamond Arnold-Johnson,12,0,6,0,6
+Clay,Knob,Auditor of State,,DEM,Diamond Arnold-Johnson,5,0,3,0,2
+Clay,Liddell & Chalk Bluff,Auditor of State,,DEM,Diamond Arnold-Johnson,26,0,17,0,9
+Clay,Payne & Swain,Auditor of State,,DEM,Diamond Arnold-Johnson,16,0,13,0,3
+Clay,Pollard/JP1,Auditor of State,,DEM,Diamond Arnold-Johnson,22,0,13,0,9
+Clay,Brown & Carpenter,Auditor of State,,DEM,Diamond Arnold-Johnson,14,0,8,0,6
+Clay,Cache & Wilson,Auditor of State,,DEM,Diamond Arnold-Johnson,8,0,5,0,3
+Clay,Clark,Auditor of State,,DEM,Diamond Arnold-Johnson,7,0,5,0,2
+Clay,Nelson,Auditor of State,,DEM,Diamond Arnold-Johnson,5,0,4,0,1
+Clay,North Kilgore & Cleveland,Auditor of State,,DEM,Diamond Arnold-Johnson,68,1,51,2,14
+Clay,South Kilgore & Gleghorn,Auditor of State,,DEM,Diamond Arnold-Johnson,75,2,55,1,17
+Clay,North St. Francis,Auditor of State,,REP,Treasurer of State Dennis Milligan,581,1,400,13,167
+Clay,South St. Francis,Auditor of State,,REP,Treasurer of State Dennis Milligan,349,1,210,7,131
+Clay,East Oak Bluff,Auditor of State,,REP,Treasurer of State Dennis Milligan,216,1,82,2,131
+Clay,West Oak Bluff,Auditor of State,,REP,Treasurer of State Dennis Milligan,206,0,57,3,146
+Clay,Bennett & Lemmons,Auditor of State,,REP,Treasurer of State Dennis Milligan,87,1,49,2,35
+Clay,Bradshaw & Haywood,Auditor of State,,REP,Treasurer of State Dennis Milligan,138,0,76,4,58
+Clay,Johnson,Auditor of State,,REP,Treasurer of State Dennis Milligan,52,0,18,0,34
+Clay,Knob,Auditor of State,,REP,Treasurer of State Dennis Milligan,47,0,23,0,24
+Clay,Liddell & Chalk Bluff,Auditor of State,,REP,Treasurer of State Dennis Milligan,122,0,90,1,31
+Clay,Payne & Swain,Auditor of State,,REP,Treasurer of State Dennis Milligan,61,0,43,1,17
+Clay,Pollard/JP1,Auditor of State,,REP,Treasurer of State Dennis Milligan,132,0,76,0,56
+Clay,Brown & Carpenter,Auditor of State,,REP,Treasurer of State Dennis Milligan,57,1,35,1,20
+Clay,Cache & Wilson,Auditor of State,,REP,Treasurer of State Dennis Milligan,49,0,37,0,12
+Clay,Clark,Auditor of State,,REP,Treasurer of State Dennis Milligan,26,0,16,0,10
+Clay,Nelson,Auditor of State,,REP,Treasurer of State Dennis Milligan,30,0,20,0,10
+Clay,North Kilgore & Cleveland,Auditor of State,,REP,Treasurer of State Dennis Milligan,438,7,266,8,157
+Clay,South Kilgore & Gleghorn,Auditor of State,,REP,Treasurer of State Dennis Milligan,355,3,230,7,115
+Clay,North St. Francis,Auditor of State,,LIB,Simeon Snow,48,0,32,1,15
+Clay,South St. Francis,Auditor of State,,LIB,Simeon Snow,18,0,11,0,7
+Clay,East Oak Bluff,Auditor of State,,LIB,Simeon Snow,31,0,10,0,21
+Clay,West Oak Bluff,Auditor of State,,LIB,Simeon Snow,48,0,15,2,31
+Clay,Bennett & Lemmons,Auditor of State,,LIB,Simeon Snow,9,0,6,0,3
+Clay,Bradshaw & Haywood,Auditor of State,,LIB,Simeon Snow,12,0,6,0,6
+Clay,Johnson,Auditor of State,,LIB,Simeon Snow,7,0,0,0,7
+Clay,Knob,Auditor of State,,LIB,Simeon Snow,1,0,0,0,1
+Clay,Liddell & Chalk Bluff,Auditor of State,,LIB,Simeon Snow,10,0,7,0,3
+Clay,Payne & Swain,Auditor of State,,LIB,Simeon Snow,2,0,2,0,0
+Clay,Pollard/JP1,Auditor of State,,LIB,Simeon Snow,9,0,4,0,5
+Clay,Brown & Carpenter,Auditor of State,,LIB,Simeon Snow,8,1,3,1,3
+Clay,Cache & Wilson,Auditor of State,,LIB,Simeon Snow,5,0,4,0,1
+Clay,Clark,Auditor of State,,LIB,Simeon Snow,1,0,0,0,1
+Clay,Nelson,Auditor of State,,LIB,Simeon Snow,1,0,1,0,0
+Clay,North Kilgore & Cleveland,Auditor of State,,LIB,Simeon Snow,43,1,28,0,14
+Clay,South Kilgore & Gleghorn,Auditor of State,,LIB,Simeon Snow,39,0,23,0,16
+Clay,North St. Francis,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,621,1,427,14,179
+Clay,South St. Francis,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,375,1,230,7,137
+Clay,East Oak Bluff,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,251,1,101,2,147
+Clay,West Oak Bluff,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,241,0,66,4,171
+Clay,Bennett & Lemmons,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,97,1,54,2,40
+Clay,Bradshaw & Haywood,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,149,0,81,4,64
+Clay,Johnson,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,59,0,19,0,40
+Clay,Knob,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,47,0,22,0,25
+Clay,Liddell & Chalk Bluff,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,133,0,97,1,35
+Clay,Payne & Swain,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,63,0,45,0,18
+Clay,Pollard/JP1,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,137,0,78,0,59
+Clay,Brown & Carpenter,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,64,1,39,2,22
+Clay,Cache & Wilson,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,51,0,39,0,12
+Clay,Clark,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,26,0,15,0,11
+Clay,Nelson,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,29,0,19,0,10
+Clay,North Kilgore & Cleveland,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,473,8,294,8,163
+Clay,South Kilgore & Gleghorn,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,389,3,250,7,129
+Clay,North St. Francis,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,145,0,107,2,36
+Clay,South St. Francis,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,86,0,59,0,27
+Clay,East Oak Bluff,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,64,0,29,5,30
+Clay,West Oak Bluff,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,84,0,39,2,43
+Clay,Bennett & Lemmons,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,9,0,6,0,3
+Clay,Bradshaw & Haywood,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,18,0,11,0,7
+Clay,Johnson,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,13,0,5,0,8
+Clay,Knob,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,6,0,4,0,2
+Clay,Liddell & Chalk Bluff,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,26,0,18,0,8
+Clay,Payne & Swain,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,16,0,13,0,3
+Clay,Pollard/JP1,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,25,0,15,0,10
+Clay,Brown & Carpenter,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,16,1,8,0,7
+Clay,Cache & Wilson,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,11,0,7,0,4
+Clay,Clark,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,8,0,6,0,2
+Clay,Nelson,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,8,0,6,0,2
+Clay,North Kilgore & Cleveland,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,75,1,51,2,21
+Clay,South Kilgore & Gleghorn,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,79,2,56,1,20
+Clay,North St. Francis,Governor,,LIB,"Ricky Dale Harrington, Jr.",19,0,9,0,10
+Clay,South St. Francis,Governor,,LIB,"Ricky Dale Harrington, Jr.",11,0,7,0,4
+Clay,East Oak Bluff,Governor,,LIB,"Ricky Dale Harrington, Jr.",10,0,2,0,8
+Clay,West Oak Bluff,Governor,,LIB,"Ricky Dale Harrington, Jr.",8,0,2,0,6
+Clay,Bennett & Lemmons,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,0,1,0,1
+Clay,Bradshaw & Haywood,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,0,1
+Clay,Johnson,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,0,1
+Clay,Knob,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0,0
+Clay,Liddell & Chalk Bluff,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,0,2,0,0
+Clay,Payne & Swain,Governor,,LIB,"Ricky Dale Harrington, Jr.",4,0,4,0,0
+Clay,Pollard/JP1,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,0,1,0,1
+Clay,Brown & Carpenter,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,1,1,0,1
+Clay,Cache & Wilson,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,0,1,0,1
+Clay,Clark,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,1,0,0
+Clay,Nelson,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,0,1,0,1
+Clay,North Kilgore & Cleveland,Governor,,LIB,"Ricky Dale Harrington, Jr.",8,0,5,1,2
+Clay,South Kilgore & Gleghorn,Governor,,LIB,"Ricky Dale Harrington, Jr.",10,1,7,0,2
+Clay,North St. Francis,Governor,,DEM,Chris Jones,173,0,133,3,37
+Clay,South St. Francis,Governor,,DEM,Chris Jones,104,0,66,1,37
+Clay,East Oak Bluff,Governor,,DEM,Chris Jones,71,1,34,5,31
+Clay,West Oak Bluff,Governor,,DEM,Chris Jones,113,0,44,3,66
+Clay,Bennett & Lemmons,Governor,,DEM,Chris Jones,10,0,6,0,4
+Clay,Bradshaw & Haywood,Governor,,DEM,Chris Jones,17,0,11,0,6
+Clay,Johnson,Governor,,DEM,Chris Jones,14,0,5,0,9
+Clay,Knob,Governor,,DEM,Chris Jones,9,0,7,0,2
+Clay,Liddell & Chalk Bluff,Governor,,DEM,Chris Jones,29,0,22,0,7
+Clay,Payne & Swain,Governor,,DEM,Chris Jones,16,0,13,0,3
+Clay,Pollard/JP1,Governor,,DEM,Chris Jones,24,0,15,0,9
+Clay,Brown & Carpenter,Governor,,DEM,Chris Jones,20,0,12,1,7
+Clay,Cache & Wilson,Governor,,DEM,Chris Jones,9,0,6,0,3
+Clay,Clark,Governor,,DEM,Chris Jones,10,0,8,0,2
+Clay,Nelson,Governor,,DEM,Chris Jones,7,0,4,0,3
+Clay,North Kilgore & Cleveland,Governor,,DEM,Chris Jones,83,2,61,2,18
+Clay,South Kilgore & Gleghorn,Governor,,DEM,Chris Jones,89,2,61,1,25
+Clay,North St. Francis,Governor,,REP,Sarah Huckabee Sanders,591,1,404,13,173
+Clay,South St. Francis,Governor,,REP,Sarah Huckabee Sanders,348,1,214,7,126
+Clay,East Oak Bluff,Governor,,REP,Sarah Huckabee Sanders,233,0,91,2,140
+Clay,West Oak Bluff,Governor,,REP,Sarah Huckabee Sanders,212,0,60,3,149
+Clay,Bennett & Lemmons,Governor,,REP,Sarah Huckabee Sanders,95,1,54,2,38
+Clay,Bradshaw & Haywood,Governor,,REP,Sarah Huckabee Sanders,152,0,82,4,66
+Clay,Johnson,Governor,,REP,Sarah Huckabee Sanders,58,0,19,0,39
+Clay,Knob,Governor,,REP,Sarah Huckabee Sanders,43,0,18,0,25
+Clay,Liddell & Chalk Bluff,Governor,,REP,Sarah Huckabee Sanders,130,0,92,1,37
+Clay,Payne & Swain,Governor,,REP,Sarah Huckabee Sanders,63,0,44,1,18
+Clay,Pollard/JP1,Governor,,REP,Sarah Huckabee Sanders,137,0,77,0,60
+Clay,Brown & Carpenter,Governor,,REP,Sarah Huckabee Sanders,57,1,34,1,21
+Clay,Cache & Wilson,Governor,,REP,Sarah Huckabee Sanders,50,0,38,0,12
+Clay,Clark,Governor,,REP,Sarah Huckabee Sanders,23,0,12,0,11
+Clay,Nelson,Governor,,REP,Sarah Huckabee Sanders,28,0,20,0,8
+Clay,North Kilgore & Cleveland,Governor,,REP,Sarah Huckabee Sanders,465,7,287,7,164
+Clay,South Kilgore & Gleghorn,Governor,,REP,Sarah Huckabee Sanders,375,2,242,7,124
+Clay,North St. Francis,Lieutenant Governor,,DEM,Kelly Ross Krout,149,0,115,1,33
+Clay,South St. Francis,Lieutenant Governor,,DEM,Kelly Ross Krout,86,0,60,1,25
+Clay,East Oak Bluff,Lieutenant Governor,,DEM,Kelly Ross Krout,68,0,30,5,33
+Clay,West Oak Bluff,Lieutenant Governor,,DEM,Kelly Ross Krout,85,0,35,2,48
+Clay,Bennett & Lemmons,Lieutenant Governor,,DEM,Kelly Ross Krout,8,0,5,0,3
+Clay,Bradshaw & Haywood,Lieutenant Governor,,DEM,Kelly Ross Krout,17,0,11,0,6
+Clay,Johnson,Lieutenant Governor,,DEM,Kelly Ross Krout,12,0,5,0,7
+Clay,Knob,Lieutenant Governor,,DEM,Kelly Ross Krout,6,0,5,0,1
+Clay,Liddell & Chalk Bluff,Lieutenant Governor,,DEM,Kelly Ross Krout,28,0,21,0,7
+Clay,Payne & Swain,Lieutenant Governor,,DEM,Kelly Ross Krout,16,0,12,0,4
+Clay,Pollard/JP1,Lieutenant Governor,,DEM,Kelly Ross Krout,24,0,15,0,9
+Clay,Brown & Carpenter,Lieutenant Governor,,DEM,Kelly Ross Krout,18,0,11,1,6
+Clay,Cache & Wilson,Lieutenant Governor,,DEM,Kelly Ross Krout,11,0,8,0,3
+Clay,Clark,Lieutenant Governor,,DEM,Kelly Ross Krout,10,0,8,0,2
+Clay,Nelson,Lieutenant Governor,,DEM,Kelly Ross Krout,6,0,4,0,2
+Clay,North Kilgore & Cleveland,Lieutenant Governor,,DEM,Kelly Ross Krout,70,1,49,3,17
+Clay,South Kilgore & Gleghorn,Lieutenant Governor,,DEM,Kelly Ross Krout,76,2,55,1,18
+Clay,North St. Francis,Lieutenant Governor,,LIB,Frank Gilbert,21,0,12,0,9
+Clay,South St. Francis,Lieutenant Governor,,LIB,Frank Gilbert,15,0,7,0,8
+Clay,East Oak Bluff,Lieutenant Governor,,LIB,Frank Gilbert,5,0,1,0,4
+Clay,West Oak Bluff,Lieutenant Governor,,LIB,Frank Gilbert,20,0,7,1,12
+Clay,Bennett & Lemmons,Lieutenant Governor,,LIB,Frank Gilbert,2,0,2,0,0
+Clay,Bradshaw & Haywood,Lieutenant Governor,,LIB,Frank Gilbert,3,0,2,0,1
+Clay,Johnson,Lieutenant Governor,,LIB,Frank Gilbert,1,0,0,0,1
+Clay,Knob,Lieutenant Governor,,LIB,Frank Gilbert,1,0,0,0,1
+Clay,Liddell & Chalk Bluff,Lieutenant Governor,,LIB,Frank Gilbert,2,0,2,0,0
+Clay,Payne & Swain,Lieutenant Governor,,LIB,Frank Gilbert,3,0,3,0,0
+Clay,Pollard/JP1,Lieutenant Governor,,LIB,Frank Gilbert,3,0,2,0,1
+Clay,Brown & Carpenter,Lieutenant Governor,,LIB,Frank Gilbert,3,1,0,0,2
+Clay,Cache & Wilson,Lieutenant Governor,,LIB,Frank Gilbert,4,0,3,0,1
+Clay,Clark,Lieutenant Governor,,LIB,Frank Gilbert,1,0,1,0,0
+Clay,Nelson,Lieutenant Governor,,LIB,Frank Gilbert,2,0,1,0,1
+Clay,North Kilgore & Cleveland,Lieutenant Governor,,LIB,Frank Gilbert,16,0,10,0,6
+Clay,South Kilgore & Gleghorn,Lieutenant Governor,,LIB,Frank Gilbert,17,1,11,0,5
+Clay,North St. Francis,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,606,1,416,15,174
+Clay,South St. Francis,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,360,1,220,7,132
+Clay,East Oak Bluff,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,240,1,96,2,141
+Clay,West Oak Bluff,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,224,0,64,3,157
+Clay,Bennett & Lemmons,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,96,1,53,2,40
+Clay,Bradshaw & Haywood,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,149,0,79,4,66
+Clay,Johnson,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,58,0,19,0,39
+Clay,Knob,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,46,0,21,0,25
+Clay,Liddell & Chalk Bluff,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,128,0,91,1,36
+Clay,Payne & Swain,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,62,0,45,1,16
+Clay,Pollard/JP1,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,134,0,76,0,58
+Clay,Brown & Carpenter,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,59,1,36,1,21
+Clay,Cache & Wilson,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,46,0,34,0,12
+Clay,Clark,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,23,0,12,0,11
+Clay,Nelson,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,28,0,19,0,9
+Clay,North Kilgore & Cleveland,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,466,8,290,7,161
+Clay,South Kilgore & Gleghorn,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,380,2,244,7,127
+Clay,North St. Francis,Secretary of State,,DEM,Anna Beth Gorman,156,0,113,2,41
+Clay,South St. Francis,Secretary of State,,DEM,Anna Beth Gorman,95,0,65,1,29
+Clay,East Oak Bluff,Secretary of State,,DEM,Anna Beth Gorman,72,1,32,5,34
+Clay,West Oak Bluff,Secretary of State,,DEM,Anna Beth Gorman,93,0,34,3,56
+Clay,Bennett & Lemmons,Secretary of State,,DEM,Anna Beth Gorman,11,0,7,0,4
+Clay,Bradshaw & Haywood,Secretary of State,,DEM,Anna Beth Gorman,20,0,12,0,8
+Clay,Johnson,Secretary of State,,DEM,Anna Beth Gorman,11,0,5,0,6
+Clay,Knob,Secretary of State,,DEM,Anna Beth Gorman,8,0,5,0,3
+Clay,Liddell & Chalk Bluff,Secretary of State,,DEM,Anna Beth Gorman,28,0,21,0,7
+Clay,Payne & Swain,Secretary of State,,DEM,Anna Beth Gorman,17,0,14,0,3
+Clay,Pollard/JP1,Secretary of State,,DEM,Anna Beth Gorman,25,0,16,0,9
+Clay,Brown & Carpenter,Secretary of State,,DEM,Anna Beth Gorman,18,1,9,0,8
+Clay,Cache & Wilson,Secretary of State,,DEM,Anna Beth Gorman,11,0,7,0,4
+Clay,Clark,Secretary of State,,DEM,Anna Beth Gorman,7,0,5,0,2
+Clay,Nelson,Secretary of State,,DEM,Anna Beth Gorman,6,0,5,0,1
+Clay,North Kilgore & Cleveland,Secretary of State,,DEM,Anna Beth Gorman,78,2,53,3,20
+Clay,South Kilgore & Gleghorn,Secretary of State,,DEM,Anna Beth Gorman,93,2,70,1,20
+Clay,North St. Francis,Secretary of State,,REP,Secretary of State John Thurston,615,1,424,14,176
+Clay,South St. Francis,Secretary of State,,REP,Secretary of State John Thurston,366,1,222,6,137
+Clay,East Oak Bluff,Secretary of State,,REP,Secretary of State John Thurston,240,0,96,2,142
+Clay,West Oak Bluff,Secretary of State,,REP,Secretary of State John Thurston,229,0,68,3,158
+Clay,Bennett & Lemmons,Secretary of State,,REP,Secretary of State John Thurston,96,1,54,2,39
+Clay,Bradshaw & Haywood,Secretary of State,,REP,Secretary of State John Thurston,148,0,79,4,65
+Clay,Johnson,Secretary of State,,REP,Secretary of State John Thurston,61,0,19,0,42
+Clay,Knob,Secretary of State,,REP,Secretary of State John Thurston,45,0,21,0,24
+Clay,Liddell & Chalk Bluff,Secretary of State,,REP,Secretary of State John Thurston,132,0,95,1,36
+Clay,Payne & Swain,Secretary of State,,REP,Secretary of State John Thurston,64,0,46,0,18
+Clay,Pollard/JP1,Secretary of State,,REP,Secretary of State John Thurston,137,0,77,0,60
+Clay,Brown & Carpenter,Secretary of State,,REP,Secretary of State John Thurston,59,1,36,2,20
+Clay,Cache & Wilson,Secretary of State,,REP,Secretary of State John Thurston,50,0,38,0,12
+Clay,Clark,Secretary of State,,REP,Secretary of State John Thurston,27,0,16,0,11
+Clay,Nelson,Secretary of State,,REP,Secretary of State John Thurston,29,0,19,0,10
+Clay,North Kilgore & Cleveland,Secretary of State,,REP,Secretary of State John Thurston,471,7,294,7,163
+Clay,South Kilgore & Gleghorn,Secretary of State,,REP,Secretary of State John Thurston,378,3,238,7,130
+Clay,North St. Francis,State Treasurer,,DEM,Pam Whitaker,166,0,129,2,35
+Clay,South St. Francis,State Treasurer,,DEM,Pam Whitaker,104,0,72,1,31
+Clay,East Oak Bluff,State Treasurer,,DEM,Pam Whitaker,74,0,35,5,34
+Clay,West Oak Bluff,State Treasurer,,DEM,Pam Whitaker,91,0,38,2,51
+Clay,Bennett & Lemmons,State Treasurer,,DEM,Pam Whitaker,9,0,6,0,3
+Clay,Bradshaw & Haywood,State Treasurer,,DEM,Pam Whitaker,20,0,12,0,8
+Clay,Johnson,State Treasurer,,DEM,Pam Whitaker,14,0,5,0,9
+Clay,Knob,State Treasurer,,DEM,Pam Whitaker,8,0,6,0,2
+Clay,Liddell & Chalk Bluff,State Treasurer,,DEM,Pam Whitaker,30,0,22,0,8
+Clay,Payne & Swain,State Treasurer,,DEM,Pam Whitaker,16,0,13,0,3
+Clay,Pollard/JP1,State Treasurer,,DEM,Pam Whitaker,29,0,17,0,12
+Clay,Brown & Carpenter,State Treasurer,,DEM,Pam Whitaker,18,1,9,0,8
+Clay,Cache & Wilson,State Treasurer,,DEM,Pam Whitaker,11,0,7,0,4
+Clay,Clark,State Treasurer,,DEM,Pam Whitaker,7,0,5,0,2
+Clay,Nelson,State Treasurer,,DEM,Pam Whitaker,8,0,5,0,3
+Clay,North Kilgore & Cleveland,State Treasurer,,DEM,Pam Whitaker,88,1,62,3,22
+Clay,South Kilgore & Gleghorn,State Treasurer,,DEM,Pam Whitaker,98,2,69,1,26
+Clay,North St. Francis,State Treasurer,,REP,State Representative Mark Lowery,609,1,412,14,182
+Clay,South St. Francis,State Treasurer,,REP,State Representative Mark Lowery,357,1,216,6,134
+Clay,East Oak Bluff,State Treasurer,,REP,State Representative Mark Lowery,237,1,90,2,144
+Clay,West Oak Bluff,State Treasurer,,REP,State Representative Mark Lowery,232,0,66,4,162
+Clay,Bennett & Lemmons,State Treasurer,,REP,State Representative Mark Lowery,97,1,54,2,40
+Clay,Bradshaw & Haywood,State Treasurer,,REP,State Representative Mark Lowery,147,0,79,4,64
+Clay,Johnson,State Treasurer,,REP,State Representative Mark Lowery,58,0,19,0,39
+Clay,Knob,State Treasurer,,REP,State Representative Mark Lowery,43,0,19,0,24
+Clay,Liddell & Chalk Bluff,State Treasurer,,REP,State Representative Mark Lowery,129,0,93,1,35
+Clay,Payne & Swain,State Treasurer,,REP,State Representative Mark Lowery,64,0,46,0,18
+Clay,Pollard/JP1,State Treasurer,,REP,State Representative Mark Lowery,133,0,76,0,57
+Clay,Brown & Carpenter,State Treasurer,,REP,State Representative Mark Lowery,60,1,37,2,20
+Clay,Cache & Wilson,State Treasurer,,REP,State Representative Mark Lowery,51,0,39,0,12
+Clay,Clark,State Treasurer,,REP,State Representative Mark Lowery,27,0,16,0,11
+Clay,Nelson,State Treasurer,,REP,State Representative Mark Lowery,28,0,19,0,9
+Clay,North Kilgore & Cleveland,State Treasurer,,REP,State Representative Mark Lowery,463,8,287,7,161
+Clay,South Kilgore & Gleghorn,State Treasurer,,REP,State Representative Mark Lowery,371,3,238,7,123
+Clay,North St. Francis,State Senate,21,LIB,"Alfred Jefferson Holland, III",109,0,75,1,33
+Clay,South St. Francis,State Senate,21,LIB,"Alfred Jefferson Holland, III",73,0,50,0,23
+Clay,East Oak Bluff,State Senate,21,LIB,"Alfred Jefferson Holland, III",56,0,24,4,28
+Clay,West Oak Bluff,State Senate,21,LIB,"Alfred Jefferson Holland, III",78,0,26,3,49
+Clay,Bennett & Lemmons,State Senate,21,LIB,"Alfred Jefferson Holland, III",12,0,7,0,5
+Clay,Bradshaw & Haywood,State Senate,21,LIB,"Alfred Jefferson Holland, III",13,0,9,0,4
+Clay,Johnson,State Senate,21,LIB,"Alfred Jefferson Holland, III",6,0,1,0,5
+Clay,Knob,State Senate,21,LIB,"Alfred Jefferson Holland, III",7,0,5,0,2
+Clay,Liddell & Chalk Bluff,State Senate,21,LIB,"Alfred Jefferson Holland, III",20,0,17,0,3
+Clay,Payne & Swain,State Senate,21,LIB,"Alfred Jefferson Holland, III",13,0,10,0,3
+Clay,Pollard/JP1,State Senate,21,LIB,"Alfred Jefferson Holland, III",21,0,13,0,8
+Clay,Brown & Carpenter,State Senate,21,LIB,"Alfred Jefferson Holland, III",15,1,8,0,6
+Clay,Cache & Wilson,State Senate,21,LIB,"Alfred Jefferson Holland, III",8,0,7,0,1
+Clay,Clark,State Senate,21,LIB,"Alfred Jefferson Holland, III",6,0,4,0,2
+Clay,Nelson,State Senate,21,LIB,"Alfred Jefferson Holland, III",6,0,5,0,1
+Clay,North Kilgore & Cleveland,State Senate,21,LIB,"Alfred Jefferson Holland, III",58,0,41,3,14
+Clay,South Kilgore & Gleghorn,State Senate,21,LIB,"Alfred Jefferson Holland, III",60,3,43,0,14
+Clay,North St. Francis,State Senate,21,REP,State Senator Blake Johnson,643,1,445,15,182
+Clay,South St. Francis,State Senate,21,REP,State Senator Blake Johnson,371,1,229,7,134
+Clay,East Oak Bluff,State Senate,21,REP,State Senator Blake Johnson,252,1,100,2,149
+Clay,West Oak Bluff,State Senate,21,REP,State Senator Blake Johnson,242,0,74,3,165
+Clay,Bennett & Lemmons,State Senate,21,REP,State Senator Blake Johnson,90,1,50,2,37
+Clay,Bradshaw & Haywood,State Senate,21,REP,State Senator Blake Johnson,154,0,82,4,68
+Clay,Johnson,State Senate,21,REP,State Senator Blake Johnson,64,0,21,0,43
+Clay,Knob,State Senate,21,REP,State Senator Blake Johnson,45,0,20,0,25
+Clay,Liddell & Chalk Bluff,State Senate,21,REP,State Senator Blake Johnson,134,0,94,1,39
+Clay,Payne & Swain,State Senate,21,REP,State Senator Blake Johnson,65,0,47,1,17
+Clay,Pollard/JP1,State Senate,21,REP,State Senator Blake Johnson,140,0,80,0,60
+Clay,Brown & Carpenter,State Senate,21,REP,State Senator Blake Johnson,60,0,37,2,21
+Clay,Cache & Wilson,State Senate,21,REP,State Senator Blake Johnson,52,0,38,0,14
+Clay,Clark,State Senate,21,REP,State Senator Blake Johnson,27,0,16,0,11
+Clay,Nelson,State Senate,21,REP,State Senator Blake Johnson,29,0,20,0,9
+Clay,North Kilgore & Cleveland,State Senate,21,REP,State Senator Blake Johnson,493,9,307,7,170
+Clay,South Kilgore & Gleghorn,State Senate,21,REP,State Senator Blake Johnson,410,2,266,8,134
+Clay,North St. Francis,State House,01,REP,Jeremy Wooldridge Justice of the Peace,597,1,407,13,176
+Clay,South St. Francis,State House,01,REP,Jeremy Wooldridge Justice of the Peace,362,0,222,7,133
+Clay,East Oak Bluff,State House,01,REP,Jeremy Wooldridge Justice of the Peace,224,0,85,2,137
+Clay,West Oak Bluff,State House,01,REP,Jeremy Wooldridge Justice of the Peace,207,0,59,3,145
+Clay,Bennett & Lemmons,State House,01,REP,Jeremy Wooldridge Justice of the Peace,93,1,51,2,39
+Clay,Bradshaw & Haywood,State House,01,REP,Jeremy Wooldridge Justice of the Peace,138,0,75,4,59
+Clay,Johnson,State House,01,REP,Jeremy Wooldridge Justice of the Peace,58,0,19,0,39
+Clay,Knob,State House,01,REP,Jeremy Wooldridge Justice of the Peace,42,0,18,0,24
+Clay,Liddell & Chalk Bluff,State House,01,REP,Jeremy Wooldridge Justice of the Peace,129,0,94,1,34
+Clay,Payne & Swain,State House,01,REP,Jeremy Wooldridge Justice of the Peace,62,0,43,1,18
+Clay,Pollard/JP1,State House,01,REP,Jeremy Wooldridge Justice of the Peace,142,0,81,0,61
+Clay,Brown & Carpenter,State House,01,REP,Jeremy Wooldridge Justice of the Peace,60,1,34,2,23
+Clay,Cache & Wilson,State House,01,REP,Jeremy Wooldridge Justice of the Peace,49,0,38,0,11
+Clay,Clark,State House,01,REP,Jeremy Wooldridge Justice of the Peace,27,0,16,0,11
+Clay,Nelson,State House,01,REP,Jeremy Wooldridge Justice of the Peace,30,0,19,0,11
+Clay,North Kilgore & Cleveland,State House,01,REP,Jeremy Wooldridge Justice of the Peace,469,7,288,7,167
+Clay,South Kilgore & Gleghorn,State House,01,REP,Jeremy Wooldridge Justice of the Peace,372,3,238,7,124
+Clay,North St. Francis,State House,01,DEM,Teresa L. Roofe,187,0,140,3,44
+Clay,South St. Francis,State House,01,DEM,Teresa L. Roofe,104,1,71,0,32
+Clay,East Oak Bluff,State House,01,DEM,Teresa L. Roofe,90,1,42,5,42
+Clay,West Oak Bluff,State House,01,DEM,Teresa L. Roofe,123,0,46,3,74
+Clay,Bennett & Lemmons,State House,01,DEM,Teresa L. Roofe,14,0,10,0,4
+Clay,Bradshaw & Haywood,State House,01,DEM,Teresa L. Roofe,31,0,17,0,14
+Clay,Johnson,State House,01,DEM,Teresa L. Roofe,15,0,5,0,10
+Clay,Knob,State House,01,DEM,Teresa L. Roofe,11,0,8,0,3
+Clay,Liddell & Chalk Bluff,State House,01,DEM,Teresa L. Roofe,30,0,21,0,9
+Clay,Payne & Swain,State House,01,DEM,Teresa L. Roofe,20,0,17,0,3
+Clay,Pollard/JP1,State House,01,DEM,Teresa L. Roofe,20,0,12,0,8
+Clay,Brown & Carpenter,State House,01,DEM,Teresa L. Roofe,19,1,12,0,6
+Clay,Cache & Wilson,State House,01,DEM,Teresa L. Roofe,12,0,7,0,5
+Clay,Clark,State House,01,DEM,Teresa L. Roofe,7,0,5,0,2
+Clay,Nelson,State House,01,DEM,Teresa L. Roofe,6,0,5,0,1
+Clay,North Kilgore & Cleveland,State House,01,DEM,Teresa L. Roofe,84,2,60,3,19
+Clay,South Kilgore & Gleghorn,State House,01,DEM,Teresa L. Roofe,103,2,74,1,26
+Clay,North St. Francis,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,360,0,244,10,106
+Clay,South St. Francis,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,217,1,140,3,73
+Clay,East Oak Bluff,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,148,0,69,0,79
+Clay,West Oak Bluff,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,149,0,49,2,98
+Clay,Bennett & Lemmons,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,43,0,22,2,19
+Clay,Bradshaw & Haywood,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,81,0,50,2,29
+Clay,Johnson,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,33,0,11,0,22
+Clay,Knob,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,19,0,8,0,11
+Clay,Liddell & Chalk Bluff,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,69,0,47,0,22
+Clay,Payne & Swain,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,36,0,25,0,11
+Clay,Pollard/JP1,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,81,0,46,0,35
+Clay,Brown & Carpenter,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,27,0,17,0,10
+Clay,Cache & Wilson,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,33,0,23,0,10
+Clay,Clark,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,12,0,6,0,6
+Clay,Nelson,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,22,0,15,0,7
+Clay,North Kilgore & Cleveland,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,267,5,172,4,86
+Clay,South Kilgore & Gleghorn,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,225,1,143,2,79
+Clay,North St. Francis,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,316,1,222,5,88
+Clay,South St. Francis,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,190,0,117,4,69
+Clay,East Oak Bluff,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,133,1,46,4,82
+Clay,West Oak Bluff,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,137,0,41,4,92
+Clay,Bennett & Lemmons,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,37,0,21,0,16
+Clay,Bradshaw & Haywood,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,70,0,33,1,36
+Clay,Johnson,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,24,0,10,0,14
+Clay,Knob,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,26,0,15,0,11
+Clay,Liddell & Chalk Bluff,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,68,0,49,1,18
+Clay,Payne & Swain,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,30,0,20,0,10
+Clay,Pollard/JP1,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,58,0,37,0,21
+Clay,Brown & Carpenter,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,38,2,24,1,11
+Clay,Cache & Wilson,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,19,0,17,0,2
+Clay,Clark,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,20,0,13,0,7
+Clay,Nelson,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,10,0,7,0,3
+Clay,North Kilgore & Cleveland,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,233,4,146,4,79
+Clay,South Kilgore & Gleghorn,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,206,3,139,6,58
+Clay,North St. Francis,Prosecuting Attorney,02,NON,Martin E. Lilly,343,0,229,8,106
+Clay,South St. Francis,Prosecuting Attorney,02,NON,Martin E. Lilly,211,1,137,4,69
+Clay,East Oak Bluff,Prosecuting Attorney,02,NON,Martin E. Lilly,100,0,40,1,59
+Clay,West Oak Bluff,Prosecuting Attorney,02,NON,Martin E. Lilly,76,0,30,1,45
+Clay,Bennett & Lemmons,Prosecuting Attorney,02,NON,Martin E. Lilly,39,0,18,0,21
+Clay,Bradshaw & Haywood,Prosecuting Attorney,02,NON,Martin E. Lilly,61,0,32,1,28
+Clay,Johnson,Prosecuting Attorney,02,NON,Martin E. Lilly,24,0,10,0,14
+Clay,Knob,Prosecuting Attorney,02,NON,Martin E. Lilly,19,0,10,0,9
+Clay,Liddell & Chalk Bluff,Prosecuting Attorney,02,NON,Martin E. Lilly,85,0,61,0,24
+Clay,Payne & Swain,Prosecuting Attorney,02,NON,Martin E. Lilly,38,0,29,0,9
+Clay,Pollard/JP1,Prosecuting Attorney,02,NON,Martin E. Lilly,66,0,40,0,26
+Clay,Brown & Carpenter,Prosecuting Attorney,02,NON,Martin E. Lilly,27,0,16,0,11
+Clay,Cache & Wilson,Prosecuting Attorney,02,NON,Martin E. Lilly,18,0,15,0,3
+Clay,Clark,Prosecuting Attorney,02,NON,Martin E. Lilly,15,0,5,0,10
+Clay,Nelson,Prosecuting Attorney,02,NON,Martin E. Lilly,12,0,7,0,5
+Clay,North Kilgore & Cleveland,Prosecuting Attorney,02,NON,Martin E. Lilly,167,3,102,6,56
+Clay,South Kilgore & Gleghorn,Prosecuting Attorney,02,NON,Martin E. Lilly,120,1,72,4,43
+Clay,North St. Francis,Prosecuting Attorney,02,NON,Sonia Fonticiella,364,1,262,7,94
+Clay,South St. Francis,Prosecuting Attorney,02,NON,Sonia Fonticiella,209,0,129,4,76
+Clay,East Oak Bluff,Prosecuting Attorney,02,NON,Sonia Fonticiella,191,1,76,4,110
+Clay,West Oak Bluff,Prosecuting Attorney,02,NON,Sonia Fonticiella,239,0,70,5,164
+Clay,Bennett & Lemmons,Prosecuting Attorney,02,NON,Sonia Fonticiella,52,0,33,2,17
+Clay,Bradshaw & Haywood,Prosecuting Attorney,02,NON,Sonia Fonticiella,92,0,50,2,40
+Clay,Johnson,Prosecuting Attorney,02,NON,Sonia Fonticiella,38,0,12,0,26
+Clay,Knob,Prosecuting Attorney,02,NON,Sonia Fonticiella,28,0,15,0,13
+Clay,Liddell & Chalk Bluff,Prosecuting Attorney,02,NON,Sonia Fonticiella,58,0,39,0,19
+Clay,Payne & Swain,Prosecuting Attorney,02,NON,Sonia Fonticiella,32,0,20,0,12
+Clay,Pollard/JP1,Prosecuting Attorney,02,NON,Sonia Fonticiella,71,0,37,0,34
+Clay,Brown & Carpenter,Prosecuting Attorney,02,NON,Sonia Fonticiella,45,1,27,2,15
+Clay,Cache & Wilson,Prosecuting Attorney,02,NON,Sonia Fonticiella,40,0,28,0,12
+Clay,Clark,Prosecuting Attorney,02,NON,Sonia Fonticiella,19,0,16,0,3
+Clay,Nelson,Prosecuting Attorney,02,NON,Sonia Fonticiella,23,0,18,0,5
+Clay,North Kilgore & Cleveland,Prosecuting Attorney,02,NON,Sonia Fonticiella,354,6,229,3,116
+Clay,South Kilgore & Gleghorn,Prosecuting Attorney,02,NON,Sonia Fonticiella,331,3,223,4,101
+Clay,North St. Francis,Circuit Clerk,,REP,REP Angela Self,697,1,476,15,205
+Clay,South St. Francis,Circuit Clerk,,REP,REP Angela Self,421,1,262,6,152
+Clay,East Oak Bluff,Circuit Clerk,,REP,REP Angela Self,279,1,111,3,164
+Clay,West Oak Bluff,Circuit Clerk,,REP,REP Angela Self,299,0,94,5,200
+Clay,Bennett & Lemmons,Circuit Clerk,,REP,REP Angela Self,101,1,56,2,42
+Clay,Bradshaw & Haywood,Circuit Clerk,,REP,REP Angela Self,160,0,86,4,70
+Clay,Johnson,Circuit Clerk,,REP,REP Angela Self,68,0,23,0,45
+Clay,Knob,Circuit Clerk,,REP,REP Angela Self,47,0,22,0,25
+Clay,Liddell & Chalk Bluff,Circuit Clerk,,REP,REP Angela Self,142,0,101,1,40
+Clay,Payne & Swain,Circuit Clerk,,REP,REP Angela Self,70,0,51,0,19
+Clay,Pollard/JP1,Circuit Clerk,,REP,REP Angela Self,151,0,88,0,63
+Clay,Brown & Carpenter,Circuit Clerk,,REP,REP Angela Self,65,2,40,2,21
+Clay,Cache & Wilson,Circuit Clerk,,REP,REP Angela Self,55,0,41,0,14
+Clay,Clark,Circuit Clerk,,REP,REP Angela Self,31,0,19,0,12
+Clay,Nelson,Circuit Clerk,,REP,REP Angela Self,33,0,23,0,10
+Clay,North Kilgore & Cleveland,Circuit Clerk,,REP,REP Angela Self,514,8,319,7,180
+Clay,South Kilgore & Gleghorn,Circuit Clerk,,REP,REP Angela Self,437,5,280,7,145
+Clay,North St. Francis,Justice of the Peace District #1,,REP,"REP Neal ""Poppy"" Smith",30,0,17,1,12
+Clay,South St. Francis,Justice of the Peace District #1,,REP,"REP Neal ""Poppy"" Smith",66,0,35,1,30
+Clay,Liddell & Chalk Bluff,Justice of the Peace District #1,,REP,"REP Neal ""Poppy"" Smith",107,0,73,1,33
+Clay,Pollard/JP1,Justice of the Peace District #1,,REP,"REP Neal ""Poppy"" Smith",101,0,58,0,43
+Clay,North St. Francis,Justice of the Peace District #1,,DEM,DEM Richie Culver,23,0,13,1,9
+Clay,South St. Francis,Justice of the Peace District #1,,DEM,DEM Richie Culver,31,0,22,1,8
+Clay,Liddell & Chalk Bluff,Justice of the Peace District #1,,DEM,DEM Richie Culver,55,0,43,0,12
+Clay,Pollard/JP1,Justice of the Peace District #1,,DEM,DEM Richie Culver,61,0,35,0,26
+Clay,North Kilgore & Cleveland,Justice of the Peace District #6,,REP,REP Dennis Haines,247,1,154,6,86
+Clay,North Kilgore & Cleveland,Justice of the Peace District #6,,IND,IND Drew Alexander Calhoun,99,5,68,2,24
+Clay,Cache & Wilson,Justice of the Peace District #7,,REP,REP Randy Kingston,18,0,13,0,5
+Clay,Clark,Justice of the Peace District #7,,REP,REP Randy Kingston,21,0,11,0,10
+Clay,South Kilgore & Gleghorn,Justice of the Peace District #7,,REP,REP Randy Kingston,201,1,129,1,70
+Clay,Cache & Wilson,Justice of the Peace District #7,,DEM,DEM Ryan Carter,23,0,19,0,4
+Clay,Clark,Justice of the Peace District #7,,DEM,DEM Ryan Carter,10,0,7,0,3
+Clay,South Kilgore & Gleghorn,Justice of the Peace District #7,,DEM,DEM Ryan Carter,142,0,91,2,49
+Clay,South St. Francis,Constable-South St. Francis,,DEM,"DEM David R. MacDonald, Jr.",110,0,79,2,29
+Clay,South St. Francis,Constable-South St. Francis,,REP,REP John Midkiff,350,1,213,5,131
+Clay,Liddell & Chalk Bluff,Constable- Liddell & Chalk Bluff,,IND,IND Fred Hicks,85,0,63,1,21
+Clay,Liddell & Chalk Bluff,Constable- Liddell & Chalk Bluff,,REP,REP Robert E Hill,74,0,51,0,23
+Clay,South Kilgore & Gleghorn,Constable- South Kilgore & Gleghorn,,REP,REP Denver Roofe,226,3,141,7,75
+Clay,South Kilgore & Gleghorn,Constable- South Kilgore & Gleghorn,,IND,IND Kirk Scobey,245,2,165,1,77
+Clay,North St. Francis,Mayor of Piggott,,NON,Travis Williams,304,1,216,4,83
+Clay,South St. Francis,Mayor of Piggott,,NON,Travis Williams,144,1,90,1,52
+Clay,North St. Francis,Mayor of Piggott,,NON,Bradley Pistol Scheffler,401,0,280,9,112
+Clay,South St. Francis,Mayor of Piggott,,NON,Bradley Pistol Scheffler,259,0,166,7,86
+Clay,North St. Francis,City Clerk of Piggott,,NON,Julie McMillon,347,1,244,7,95
+Clay,South St. Francis,City Clerk of Piggott,,NON,Julie McMillon,181,0,100,4,77
+Clay,North St. Francis,City Clerk of Piggott,,NON,Nikki Blue,350,0,247,5,98
+Clay,South St. Francis,City Clerk of Piggott,,NON,Nikki Blue,217,1,151,4,61
+Clay,North St. Francis,Council Member North Ward Position 2 in Piggott,,NON,Daniel Steen,269,0,186,7,76
+Clay,South St. Francis,Council Member North Ward Position 2 in Piggott,,NON,Daniel Steen,210,0,126,2,82
+Clay,North St. Francis,Council Member North Ward Position 2 in Piggott,,NON,Kevin Jones,430,0,306,6,118
+Clay,South St. Francis,Council Member North Ward Position 2 in Piggott,,NON,Kevin Jones,190,1,126,6,57
+Clay,North St. Francis,Council Member South Ward Position 2 in Piggott,,NON,Jamey Parks,381,0,268,6,107
+Clay,South St. Francis,Council Member South Ward Position 2 in Piggott,,NON,Jamey Parks,229,0,143,5,81
+Clay,North St. Francis,Council Member South Ward Position 2 in Piggott,,NON,Julie Davis,310,1,219,5,85
+Clay,South St. Francis,Council Member South Ward Position 2 in Piggott,,NON,Julie Davis,172,1,110,3,58
+Clay,East Oak Bluff,Mayor of Rector,,NON,Lark S Sigsby,73,1,29,3,40
+Clay,West Oak Bluff,Mayor of Rector,,NON,Lark S Sigsby,113,0,36,2,75
+Clay,East Oak Bluff,Mayor of Rector,,NON,Shawn Brandon,124,0,37,2,85
+Clay,West Oak Bluff,Mayor of Rector,,NON,Shawn Brandon,112,0,27,1,84
+Clay,East Oak Bluff,Recorder/Treasurer of Rector,,NON,Debi Boyd,184,1,63,4,116
+Clay,West Oak Bluff,Recorder/Treasurer of Rector,,NON,Debi Boyd,216,0,62,3,151
+Clay,Liddell & Chalk Bluff,Mayor of St. Francis,,NON,Teressa Johnson,31,0,22,0,9
+Clay,Bennett & Lemmons,Mayor of McDougal,,NON,Carroll Shipman,32,0,19,2,11
+Clay,North Kilgore & Cleveland,Mayor of Corning,,NON,Gregory O Ahrent,230,6,143,3,78
+Clay,South Kilgore & Gleghorn,Mayor of Corning,,NON,Gregory O Ahrent,271,4,182,2,83
+Clay,North Kilgore & Cleveland,Mayor of Corning,,NON,Adam Smith,168,1,111,5,51
+Clay,South Kilgore & Gleghorn,Mayor of Corning,,NON,Adam Smith,136,1,85,5,45
+Clay,North Kilgore & Cleveland,City Clerk/Treasurer of Corning,,NON,J'Anna Couch,384,7,240,6,131
+Clay,South Kilgore & Gleghorn,City Clerk/Treasurer of Corning,,NON,J'Anna Couch,376,5,244,6,121
+Clay,North Kilgore & Cleveland,Council Member North Ward Position 1 in Corning,,NON,Vernie Carpenter,187,4,118,3,62
+Clay,South Kilgore & Gleghorn,Council Member North Ward Position 1 in Corning,,NON,Vernie Carpenter,167,2,106,3,56
+Clay,North Kilgore & Cleveland,Council Member North Ward Position 1 in Corning,,NON,Terry Masterson,208,3,132,4,69
+Clay,South Kilgore & Gleghorn,Council Member North Ward Position 1 in Corning,,NON,Terry Masterson,233,3,156,4,70
+Clay,North Kilgore & Cleveland,Council Member North Ward Position 2 in Corning,,NON,Karen Young,179,3,114,3,59
+Clay,South Kilgore & Gleghorn,Council Member North Ward Position 2 in Corning,,NON,Karen Young,169,4,108,6,51
+Clay,North Kilgore & Cleveland,Council Member North Ward Position 2 in Corning,,NON,Ray Vannoy,220,4,141,4,71
+Clay,South Kilgore & Gleghorn,Council Member North Ward Position 2 in Corning,,NON,Ray Vannoy,232,1,156,1,74
+Clay,Clark,Mayor of Peach Orchard,,NON,Dianne Neill,19,0,14,0,5
+Clay,Cache & Wilson,Mayor of Knobel,,NON,Tim Hobbs,34,0,28,0,6
+Clay,Nelson,Mayor of Datto,,NON,Jeremy Edington,15,0,9,0,6
+Clay,Nelson,Recorder/Treasurer of Datto,,NON,Debra Edington,15,0,9,0,6
+Clay,North St. Francis,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,335,1,225,6,103
+Clay,South St. Francis,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,203,0,124,2,77
+Clay,East Oak Bluff,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,111,0,47,2,62
+Clay,West Oak Bluff,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,118,0,33,3,82
+Clay,Bennett & Lemmons,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,40,0,19,2,19
+Clay,Bradshaw & Haywood,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,80,0,46,2,32
+Clay,Johnson,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,30,0,11,0,19
+Clay,Knob,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,20,0,12,0,8
+Clay,Liddell & Chalk Bluff,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,77,0,53,1,23
+Clay,Payne & Swain,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,36,0,24,0,12
+Clay,Pollard/JP1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,57,0,29,0,28
+Clay,Brown & Carpenter,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,37,2,19,2,14
+Clay,Cache & Wilson,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,20,0,16,0,4
+Clay,Clark,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,17,0,13,0,4
+Clay,Nelson,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,8,0,3,0,5
+Clay,North Kilgore & Cleveland,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,261,6,174,6,75
+Clay,South Kilgore & Gleghorn,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,220,1,151,3,65
+Clay,North St. Francis,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,391,0,282,10,99
+Clay,South St. Francis,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,217,1,139,5,72
+Clay,East Oak Bluff,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,187,1,73,5,108
+Clay,West Oak Bluff,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,197,0,66,3,128
+Clay,Bennett & Lemmons,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,54,1,35,0,18
+Clay,Bradshaw & Haywood,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,78,0,44,1,33
+Clay,Johnson,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,40,0,12,0,28
+Clay,Knob,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,30,0,13,0,17
+Clay,Liddell & Chalk Bluff,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,71,0,53,0,18
+Clay,Payne & Swain,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,40,0,31,0,9
+Clay,Pollard/JP1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,93,0,58,0,35
+Clay,Brown & Carpenter,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,38,0,28,0,10
+Clay,Cache & Wilson,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,36,0,25,0,11
+Clay,Clark,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,16,0,7,0,9
+Clay,Nelson,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,26,0,20,0,6
+Clay,North Kilgore & Cleveland,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,262,2,160,4,96
+Clay,South Kilgore & Gleghorn,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,222,4,136,5,77
+Clay,North St. Francis,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,352,1,229,6,116
+Clay,South St. Francis,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,210,1,125,5,79
+Clay,East Oak Bluff,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,136,1,54,2,79
+Clay,West Oak Bluff,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,132,0,44,0,88
+Clay,Bennett & Lemmons,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,44,0,22,0,22
+Clay,Bradshaw & Haywood,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,81,0,38,0,43
+Clay,Johnson,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,28,0,7,0,21
+Clay,Knob,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,21,0,9,0,12
+Clay,Liddell & Chalk Bluff,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,71,0,53,1,17
+Clay,Payne & Swain,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,43,0,29,1,13
+Clay,Pollard/JP1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,80,0,43,0,37
+Clay,Brown & Carpenter,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,33,2,20,1,10
+Clay,Cache & Wilson,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,30,0,21,0,9
+Clay,Clark,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,17,0,11,0,6
+Clay,Nelson,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,13,0,8,0,5
+Clay,North Kilgore & Cleveland,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,282,5,175,5,97
+Clay,South Kilgore & Gleghorn,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,228,1,156,4,67
+Clay,North St. Francis,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,376,0,277,10,89
+Clay,South St. Francis,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,214,0,141,2,71
+Clay,East Oak Bluff,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,171,0,71,5,95
+Clay,West Oak Bluff,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,182,0,55,6,121
+Clay,Bennett & Lemmons,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,56,1,34,2,19
+Clay,Bradshaw & Haywood,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,82,0,52,3,27
+Clay,Johnson,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,40,0,13,0,27
+Clay,Knob,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,31,0,16,0,15
+Clay,Liddell & Chalk Bluff,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,77,0,54,0,23
+Clay,Payne & Swain,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,32,0,24,0,8
+Clay,Pollard/JP1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,80,0,48,0,32
+Clay,Brown & Carpenter,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,45,0,27,1,17
+Clay,Cache & Wilson,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,26,0,21,0,5
+Clay,Clark,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,17,0,10,0,7
+Clay,Nelson,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,21,0,15,0,6
+Clay,North Kilgore & Cleveland,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,249,3,161,5,80
+Clay,South Kilgore & Gleghorn,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,221,3,137,4,77
+Clay,North St. Francis,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,443,1,299,9,134
+Clay,South St. Francis,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,268,0,165,5,98
+Clay,East Oak Bluff,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,161,0,59,3,99
+Clay,West Oak Bluff,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,159,0,45,3,111
+Clay,Bennett & Lemmons,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,61,0,30,2,29
+Clay,Bradshaw & Haywood,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,95,0,52,2,41
+Clay,Johnson,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,34,0,13,0,21
+Clay,Knob,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,24,0,11,0,13
+Clay,Liddell & Chalk Bluff,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,81,0,56,1,24
+Clay,Payne & Swain,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,38,0,29,0,9
+Clay,Pollard/JP1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,85,0,44,0,41
+Clay,Brown & Carpenter,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,32,2,17,0,13
+Clay,Cache & Wilson,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,36,0,25,0,11
+Clay,Clark,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,19,0,13,0,6
+Clay,Nelson,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,19,0,10,0,9
+Clay,North Kilgore & Cleveland,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,326,7,214,6,99
+Clay,South Kilgore & Gleghorn,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,273,1,175,4,93
+Clay,North St. Francis,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,294,0,214,6,74
+Clay,South St. Francis,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,172,1,110,1,60
+Clay,East Oak Bluff,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,141,1,62,4,74
+Clay,West Oak Bluff,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,157,0,55,3,99
+Clay,Bennett & Lemmons,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,39,1,27,0,11
+Clay,Bradshaw & Haywood,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,70,0,40,1,29
+Clay,Johnson,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,33,0,8,0,25
+Clay,Knob,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,26,0,14,0,12
+Clay,Liddell & Chalk Bluff,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,71,0,53,0,18
+Clay,Payne & Swain,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,39,0,26,1,12
+Clay,Pollard/JP1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,74,0,47,0,27
+Clay,Brown & Carpenter,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,45,0,30,2,13
+Clay,Cache & Wilson,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,22,0,19,0,3
+Clay,Clark,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,15,0,8,0,7
+Clay,Nelson,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,16,0,14,0,2
+Clay,North Kilgore & Cleveland,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,216,2,130,4,80
+Clay,South Kilgore & Gleghorn,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,181,3,120,4,54
+Clay,North St. Francis,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,402,1,272,6,123
+Clay,South St. Francis,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,223,1,138,3,81
+Clay,East Oak Bluff,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,107,0,43,3,61
+Clay,West Oak Bluff,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,128,0,40,2,86
+Clay,Bennett & Lemmons,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,49,0,25,0,24
+Clay,Bradshaw & Haywood,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,71,0,40,2,29
+Clay,Johnson,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,32,0,16,0,16
+Clay,Knob,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,25,0,10,0,15
+Clay,Liddell & Chalk Bluff,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,71,0,50,0,21
+Clay,Payne & Swain,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,30,0,21,0,9
+Clay,Pollard/JP1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,62,0,30,0,32
+Clay,Brown & Carpenter,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,36,1,22,1,12
+Clay,Cache & Wilson,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,32,0,23,0,9
+Clay,Clark,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,15,0,13,0,2
+Clay,Nelson,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,17,0,13,0,4
+Clay,North Kilgore & Cleveland,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,223,6,140,5,72
+Clay,South Kilgore & Gleghorn,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,217,3,131,5,78
+Clay,North St. Francis,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,374,0,271,10,93
+Clay,South St. Francis,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,238,0,149,5,84
+Clay,East Oak Bluff,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,204,1,85,4,114
+Clay,West Oak Bluff,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,201,0,65,4,132
+Clay,Bennett & Lemmons,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,56,1,34,2,19
+Clay,Bradshaw & Haywood,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,98,0,52,2,44
+Clay,Johnson,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,40,0,8,0,32
+Clay,Knob,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,25,0,16,0,9
+Clay,Liddell & Chalk Bluff,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,88,0,63,1,24
+Clay,Payne & Swain,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,53,0,40,1,12
+Clay,Pollard/JP1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,98,0,60,0,38
+Clay,Brown & Carpenter,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,45,1,26,1,17
+Clay,Cache & Wilson,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,28,0,21,0,7
+Clay,Clark,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,19,0,8,0,11
+Clay,Nelson,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,20,0,12,0,8
+Clay,North Kilgore & Cleveland,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,330,3,214,4,109
+Clay,South Kilgore & Gleghorn,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,256,2,178,3,73

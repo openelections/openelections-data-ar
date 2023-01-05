@@ -1,0 +1,991 @@
+county,precinct,office,district,party,candidate,votes,early_vote,absentee,election_day
+Hempstead,Hope 1,U.S. Senate,,LIB,Kenneth Cates,5,4,0,1
+Hempstead,Hope 2,U.S. Senate,,LIB,Kenneth Cates,3,3,0,0
+Hempstead,Hope 3,U.S. Senate,,LIB,Kenneth Cates,9,3,0,6
+Hempstead,Hope 4,U.S. Senate,,LIB,Kenneth Cates,3,3,0,0
+Hempstead,Hope 5,U.S. Senate,,LIB,Kenneth Cates,6,5,1,0
+Hempstead,Hope 6,U.S. Senate,,LIB,Kenneth Cates,3,3,0,0
+Hempstead,Hope 7,U.S. Senate,,LIB,Kenneth Cates,6,3,0,3
+Hempstead,Bingen,U.S. Senate,,LIB,Kenneth Cates,4,0,0,4
+Hempstead,Blevins,U.S. Senate,,LIB,Kenneth Cates,7,0,0,7
+Hempstead,Columbus,U.S. Senate,,LIB,Kenneth Cates,1,0,0,1
+Hempstead,Crossroads,U.S. Senate,,LIB,Kenneth Cates,1,1,0,0
+Hempstead,Deann,U.S. Senate,,LIB,Kenneth Cates,7,5,1,1
+Hempstead,Fulton,U.S. Senate,,LIB,Kenneth Cates,4,1,0,3
+Hempstead,Guernsey,U.S. Senate,,LIB,Kenneth Cates,1,1,0,0
+Hempstead,McCaskill,U.S. Senate,,LIB,Kenneth Cates,11,5,0,6
+Hempstead,McNab,U.S. Senate,,LIB,Kenneth Cates,1,0,0,1
+Hempstead,Ozan,U.S. Senate,,LIB,Kenneth Cates,2,0,0,2
+Hempstead,Patmos,U.S. Senate,,LIB,Kenneth Cates,7,1,0,6
+Hempstead,Perrytown,U.S. Senate,,LIB,Kenneth Cates,2,1,0,1
+Hempstead,Rocky Mound,U.S. Senate,,LIB,Kenneth Cates,2,2,0,0
+Hempstead,Saratoga,U.S. Senate,,LIB,Kenneth Cates,3,0,0,3
+Hempstead,Shover Springs,U.S. Senate,,LIB,Kenneth Cates,2,0,0,2
+Hempstead,Spring Hill,U.S. Senate,,LIB,Kenneth Cates,12,5,1,6
+Hempstead,Washington,U.S. Senate,,LIB,Kenneth Cates,3,0,0,3
+Hempstead,Hope 1,U.S. Senate,,REP,Senator John Boozman,160,106,5,49
+Hempstead,Hope 2,U.S. Senate,,REP,Senator John Boozman,47,17,6,24
+Hempstead,Hope 3,U.S. Senate,,REP,Senator John Boozman,238,154,17,67
+Hempstead,Hope 4,U.S. Senate,,REP,Senator John Boozman,55,42,2,11
+Hempstead,Hope 5,U.S. Senate,,REP,Senator John Boozman,212,136,22,54
+Hempstead,Hope 6,U.S. Senate,,REP,Senator John Boozman,139,81,3,55
+Hempstead,Hope 7,U.S. Senate,,REP,Senator John Boozman,319,203,14,102
+Hempstead,Bingen,U.S. Senate,,REP,Senator John Boozman,201,24,9,168
+Hempstead,Blevins,U.S. Senate,,REP,Senator John Boozman,202,52,2,148
+Hempstead,Columbus,U.S. Senate,,REP,Senator John Boozman,36,4,1,31
+Hempstead,Crossroads,U.S. Senate,,REP,Senator John Boozman,77,15,0,62
+Hempstead,Deann,U.S. Senate,,REP,Senator John Boozman,133,68,4,61
+Hempstead,Fulton,U.S. Senate,,REP,Senator John Boozman,61,9,3,49
+Hempstead,Guernsey,U.S. Senate,,REP,Senator John Boozman,71,38,2,31
+Hempstead,McCaskill,U.S. Senate,,REP,Senator John Boozman,161,29,2,130
+Hempstead,McNab,U.S. Senate,,REP,Senator John Boozman,19,9,0,10
+Hempstead,Ozan,U.S. Senate,,REP,Senator John Boozman,87,15,1,71
+Hempstead,Patmos,U.S. Senate,,REP,Senator John Boozman,140,53,3,84
+Hempstead,Perrytown,U.S. Senate,,REP,Senator John Boozman,117,73,5,39
+Hempstead,Rocky Mound,U.S. Senate,,REP,Senator John Boozman,139,77,5,57
+Hempstead,Saratoga,U.S. Senate,,REP,Senator John Boozman,66,17,0,49
+Hempstead,Shover Springs,U.S. Senate,,REP,Senator John Boozman,144,94,4,46
+Hempstead,Spring Hill,U.S. Senate,,REP,Senator John Boozman,444,161,9,274
+Hempstead,Washington,U.S. Senate,,REP,Senator John Boozman,70,16,1,53
+Hempstead,Hope 1,U.S. Senate,,DEM,Natalie James,176,105,4,67
+Hempstead,Hope 2,U.S. Senate,,DEM,Natalie James,138,70,9,59
+Hempstead,Hope 3,U.S. Senate,,DEM,Natalie James,70,43,3,24
+Hempstead,Hope 4,U.S. Senate,,DEM,Natalie James,107,64,4,39
+Hempstead,Hope 5,U.S. Senate,,DEM,Natalie James,113,65,13,35
+Hempstead,Hope 6,U.S. Senate,,DEM,Natalie James,20,10,2,8
+Hempstead,Hope 7,U.S. Senate,,DEM,Natalie James,56,28,7,21
+Hempstead,Bingen,U.S. Senate,,DEM,Natalie James,31,3,6,22
+Hempstead,Blevins,U.S. Senate,,DEM,Natalie James,36,14,3,19
+Hempstead,Columbus,U.S. Senate,,DEM,Natalie James,26,14,0,12
+Hempstead,Crossroads,U.S. Senate,,DEM,Natalie James,20,5,2,13
+Hempstead,Deann,U.S. Senate,,DEM,Natalie James,26,17,3,6
+Hempstead,Fulton,U.S. Senate,,DEM,Natalie James,57,18,3,36
+Hempstead,Guernsey,U.S. Senate,,DEM,Natalie James,22,8,2,12
+Hempstead,McCaskill,U.S. Senate,,DEM,Natalie James,31,11,0,20
+Hempstead,McNab,U.S. Senate,,DEM,Natalie James,9,1,0,8
+Hempstead,Ozan,U.S. Senate,,DEM,Natalie James,69,14,0,55
+Hempstead,Patmos,U.S. Senate,,DEM,Natalie James,22,11,0,11
+Hempstead,Perrytown,U.S. Senate,,DEM,Natalie James,18,12,2,4
+Hempstead,Rocky Mound,U.S. Senate,,DEM,Natalie James,30,20,2,8
+Hempstead,Saratoga,U.S. Senate,,DEM,Natalie James,24,2,1,21
+Hempstead,Shover Springs,U.S. Senate,,DEM,Natalie James,22,15,0,7
+Hempstead,Spring Hill,U.S. Senate,,DEM,Natalie James,25,13,3,9
+Hempstead,Washington,U.S. Senate,,DEM,Natalie James,45,12,0,33
+Hempstead,Hope 1,U.S. Congress District 04,,LIB,Gregory Maxwell,7,4,0,3
+Hempstead,Hope 2,U.S. Congress District 04,,LIB,Gregory Maxwell,4,2,0,2
+Hempstead,Hope 3,U.S. Congress District 04,,LIB,Gregory Maxwell,13,7,0,6
+Hempstead,Hope 4,U.S. Congress District 04,,LIB,Gregory Maxwell,7,5,0,2
+Hempstead,Hope 5,U.S. Congress District 04,,LIB,Gregory Maxwell,6,3,1,2
+Hempstead,Hope 6,U.S. Congress District 04,,LIB,Gregory Maxwell,2,2,0,0
+Hempstead,Hope 7,U.S. Congress District 04,,LIB,Gregory Maxwell,7,2,2,3
+Hempstead,Bingen,U.S. Congress District 04,,LIB,Gregory Maxwell,8,0,1,7
+Hempstead,Blevins,U.S. Congress District 04,,LIB,Gregory Maxwell,3,1,0,2
+Hempstead,Columbus,U.S. Congress District 04,,LIB,Gregory Maxwell,2,0,0,2
+Hempstead,Crossroads,U.S. Congress District 04,,LIB,Gregory Maxwell,2,0,0,2
+Hempstead,Deann,U.S. Congress District 04,,LIB,Gregory Maxwell,6,5,0,1
+Hempstead,Fulton,U.S. Congress District 04,,LIB,Gregory Maxwell,2,1,0,1
+Hempstead,Guernsey,U.S. Congress District 04,,LIB,Gregory Maxwell,1,0,0,1
+Hempstead,McCaskill,U.S. Congress District 04,,LIB,Gregory Maxwell,5,2,0,3
+Hempstead,McNab,U.S. Congress District 04,,LIB,Gregory Maxwell,1,0,0,1
+Hempstead,Ozan,U.S. Congress District 04,,LIB,Gregory Maxwell,1,1,0,0
+Hempstead,Patmos,U.S. Congress District 04,,LIB,Gregory Maxwell,4,1,0,3
+Hempstead,Perrytown,U.S. Congress District 04,,LIB,Gregory Maxwell,1,0,0,1
+Hempstead,Rocky Mound,U.S. Congress District 04,,LIB,Gregory Maxwell,3,2,0,1
+Hempstead,Saratoga,U.S. Congress District 04,,LIB,Gregory Maxwell,2,0,0,2
+Hempstead,Shover Springs,U.S. Congress District 04,,LIB,Gregory Maxwell,2,1,0,1
+Hempstead,Spring Hill,U.S. Congress District 04,,LIB,Gregory Maxwell,6,2,0,4
+Hempstead,Washington,U.S. Congress District 04,,LIB,Gregory Maxwell,2,0,0,2
+Hempstead,Hope 1,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,151,97,6,48
+Hempstead,Hope 2,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,54,21,7,26
+Hempstead,Hope 3,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,230,149,17,64
+Hempstead,Hope 4,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,47,33,2,12
+Hempstead,Hope 5,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,217,138,24,55
+Hempstead,Hope 6,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,138,84,3,51
+Hempstead,Hope 7,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,311,198,15,98
+Hempstead,Bingen,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,197,23,9,165
+Hempstead,Blevins,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,199,51,2,146
+Hempstead,Columbus,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,36,3,1,32
+Hempstead,Crossroads,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,72,16,0,56
+Hempstead,Deann,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,135,72,5,58
+Hempstead,Fulton,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,55,8,3,44
+Hempstead,Guernsey,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,72,40,2,30
+Hempstead,McCaskill,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,160,30,2,128
+Hempstead,McNab,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,18,9,0,9
+Hempstead,Ozan,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,87,15,1,71
+Hempstead,Patmos,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,135,54,3,78
+Hempstead,Perrytown,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,113,69,5,39
+Hempstead,Rocky Mound,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,137,78,5,54
+Hempstead,Saratoga,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,66,15,0,51
+Hempstead,Shover Springs,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,141,92,4,45
+Hempstead,Spring Hill,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,444,159,11,274
+Hempstead,Washington,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,71,15,1,55
+Hempstead,Hope 1,U.S. Congress District 04,,DEM,John White,165,102,2,61
+Hempstead,Hope 2,U.S. Congress District 04,,DEM,John White,125,62,8,55
+Hempstead,Hope 3,U.S. Congress District 04,,DEM,John White,65,37,3,25
+Hempstead,Hope 4,U.S. Congress District 04,,DEM,John White,105,64,4,37
+Hempstead,Hope 5,U.S. Congress District 04,,DEM,John White,95,55,12,28
+Hempstead,Hope 6,U.S. Congress District 04,,DEM,John White,17,7,2,8
+Hempstead,Hope 7,U.S. Congress District 04,,DEM,John White,50,24,5,21
+Hempstead,Bingen,U.S. Congress District 04,,DEM,John White,28,3,4,21
+Hempstead,Blevins,U.S. Congress District 04,,DEM,John White,34,11,3,20
+Hempstead,Columbus,U.S. Congress District 04,,DEM,John White,23,13,0,10
+Hempstead,Crossroads,U.S. Congress District 04,,DEM,John White,17,3,2,12
+Hempstead,Deann,U.S. Congress District 04,,DEM,John White,21,13,3,5
+Hempstead,Fulton,U.S. Congress District 04,,DEM,John White,57,17,3,37
+Hempstead,Guernsey,U.S. Congress District 04,,DEM,John White,19,7,2,10
+Hempstead,McCaskill,U.S. Congress District 04,,DEM,John White,32,10,0,22
+Hempstead,McNab,U.S. Congress District 04,,DEM,John White,9,0,0,9
+Hempstead,Ozan,U.S. Congress District 04,,DEM,John White,68,13,0,55
+Hempstead,Patmos,U.S. Congress District 04,,DEM,John White,21,10,0,11
+Hempstead,Perrytown,U.S. Congress District 04,,DEM,John White,18,12,2,4
+Hempstead,Rocky Mound,U.S. Congress District 04,,DEM,John White,31,19,2,10
+Hempstead,Saratoga,U.S. Congress District 04,,DEM,John White,23,1,1,21
+Hempstead,Shover Springs,U.S. Congress District 04,,DEM,John White,21,13,0,8
+Hempstead,Spring Hill,U.S. Congress District 04,,DEM,John White,21,12,2,7
+Hempstead,Washington,U.S. Congress District 04,,DEM,John White,45,15,0,30
+Hempstead,Hope 1,Attorney General,,REP,Lieutenant Governor Tim Griffin,158,104,5,49
+Hempstead,Hope 2,Attorney General,,REP,Lieutenant Governor Tim Griffin,52,18,6,28
+Hempstead,Hope 3,Attorney General,,REP,Lieutenant Governor Tim Griffin,240,156,14,70
+Hempstead,Hope 4,Attorney General,,REP,Lieutenant Governor Tim Griffin,55,41,2,12
+Hempstead,Hope 5,Attorney General,,REP,Lieutenant Governor Tim Griffin,216,136,23,57
+Hempstead,Hope 6,Attorney General,,REP,Lieutenant Governor Tim Griffin,143,87,3,53
+Hempstead,Hope 7,Attorney General,,REP,Lieutenant Governor Tim Griffin,326,206,15,105
+Hempstead,Bingen,Attorney General,,REP,Lieutenant Governor Tim Griffin,201,23,9,169
+Hempstead,Blevins,Attorney General,,REP,Lieutenant Governor Tim Griffin,207,52,2,153
+Hempstead,Columbus,Attorney General,,REP,Lieutenant Governor Tim Griffin,39,4,1,34
+Hempstead,Crossroads,Attorney General,,REP,Lieutenant Governor Tim Griffin,78,16,0,62
+Hempstead,Deann,Attorney General,,REP,Lieutenant Governor Tim Griffin,141,75,5,61
+Hempstead,Fulton,Attorney General,,REP,Lieutenant Governor Tim Griffin,61,8,3,50
+Hempstead,Guernsey,Attorney General,,REP,Lieutenant Governor Tim Griffin,75,39,2,34
+Hempstead,McCaskill,Attorney General,,REP,Lieutenant Governor Tim Griffin,165,32,2,131
+Hempstead,McNab,Attorney General,,REP,Lieutenant Governor Tim Griffin,18,9,0,9
+Hempstead,Ozan,Attorney General,,REP,Lieutenant Governor Tim Griffin,89,16,1,72
+Hempstead,Patmos,Attorney General,,REP,Lieutenant Governor Tim Griffin,142,55,3,84
+Hempstead,Perrytown,Attorney General,,REP,Lieutenant Governor Tim Griffin,116,70,5,41
+Hempstead,Rocky Mound,Attorney General,,REP,Lieutenant Governor Tim Griffin,141,79,5,57
+Hempstead,Saratoga,Attorney General,,REP,Lieutenant Governor Tim Griffin,66,17,0,49
+Hempstead,Shover Springs,Attorney General,,REP,Lieutenant Governor Tim Griffin,145,95,4,46
+Hempstead,Spring Hill,Attorney General,,REP,Lieutenant Governor Tim Griffin,450,166,10,274
+Hempstead,Washington,Attorney General,,REP,Lieutenant Governor Tim Griffin,72,15,1,56
+Hempstead,Hope 1,Attorney General,,DEM,Jesse Gibson,180,111,3,66
+Hempstead,Hope 2,Attorney General,,DEM,Jesse Gibson,140,72,9,59
+Hempstead,Hope 3,Attorney General,,DEM,Jesse Gibson,76,42,5,29
+Hempstead,Hope 4,Attorney General,,DEM,Jesse Gibson,111,70,4,37
+Hempstead,Hope 5,Attorney General,,DEM,Jesse Gibson,113,68,14,31
+Hempstead,Hope 6,Attorney General,,DEM,Jesse Gibson,18,8,2,8
+Hempstead,Hope 7,Attorney General,,DEM,Jesse Gibson,57,29,7,21
+Hempstead,Bingen,Attorney General,,DEM,Jesse Gibson,34,3,6,25
+Hempstead,Blevins,Attorney General,,DEM,Jesse Gibson,40,14,3,23
+Hempstead,Columbus,Attorney General,,DEM,Jesse Gibson,26,14,0,12
+Hempstead,Crossroads,Attorney General,,DEM,Jesse Gibson,19,4,2,13
+Hempstead,Deann,Attorney General,,DEM,Jesse Gibson,27,16,3,8
+Hempstead,Fulton,Attorney General,,DEM,Jesse Gibson,59,18,3,38
+Hempstead,Guernsey,Attorney General,,DEM,Jesse Gibson,20,8,2,10
+Hempstead,McCaskill,Attorney General,,DEM,Jesse Gibson,35,11,0,24
+Hempstead,McNab,Attorney General,,DEM,Jesse Gibson,9,1,0,8
+Hempstead,Ozan,Attorney General,,DEM,Jesse Gibson,72,15,0,57
+Hempstead,Patmos,Attorney General,,DEM,Jesse Gibson,25,10,0,15
+Hempstead,Perrytown,Attorney General,,DEM,Jesse Gibson,18,12,2,4
+Hempstead,Rocky Mound,Attorney General,,DEM,Jesse Gibson,33,22,2,9
+Hempstead,Saratoga,Attorney General,,DEM,Jesse Gibson,26,2,1,23
+Hempstead,Shover Springs,Attorney General,,DEM,Jesse Gibson,22,13,0,9
+Hempstead,Spring Hill,Attorney General,,DEM,Jesse Gibson,26,11,3,12
+Hempstead,Washington,Attorney General,,DEM,Jesse Gibson,46,13,0,33
+Hempstead,Hope 1,Auditor of State,,DEM,Diamond Arnold-Johnson,165,96,2,67
+Hempstead,Hope 2,Auditor of State,,DEM,Diamond Arnold-Johnson,138,69,9,60
+Hempstead,Hope 3,Auditor of State,,DEM,Diamond Arnold-Johnson,69,39,5,25
+Hempstead,Hope 4,Auditor of State,,DEM,Diamond Arnold-Johnson,106,62,4,40
+Hempstead,Hope 5,Auditor of State,,DEM,Diamond Arnold-Johnson,101,60,12,29
+Hempstead,Hope 6,Auditor of State,,DEM,Diamond Arnold-Johnson,20,10,2,8
+Hempstead,Hope 7,Auditor of State,,DEM,Diamond Arnold-Johnson,52,26,5,21
+Hempstead,Bingen,Auditor of State,,DEM,Diamond Arnold-Johnson,29,3,4,22
+Hempstead,Blevins,Auditor of State,,DEM,Diamond Arnold-Johnson,38,15,3,20
+Hempstead,Columbus,Auditor of State,,DEM,Diamond Arnold-Johnson,28,14,0,14
+Hempstead,Crossroads,Auditor of State,,DEM,Diamond Arnold-Johnson,18,4,2,12
+Hempstead,Deann,Auditor of State,,DEM,Diamond Arnold-Johnson,27,16,2,9
+Hempstead,Fulton,Auditor of State,,DEM,Diamond Arnold-Johnson,63,21,3,39
+Hempstead,Guernsey,Auditor of State,,DEM,Diamond Arnold-Johnson,21,8,2,11
+Hempstead,McCaskill,Auditor of State,,DEM,Diamond Arnold-Johnson,31,10,1,20
+Hempstead,McNab,Auditor of State,,DEM,Diamond Arnold-Johnson,9,1,0,8
+Hempstead,Ozan,Auditor of State,,DEM,Diamond Arnold-Johnson,69,14,0,55
+Hempstead,Patmos,Auditor of State,,DEM,Diamond Arnold-Johnson,24,11,0,13
+Hempstead,Perrytown,Auditor of State,,DEM,Diamond Arnold-Johnson,19,13,2,4
+Hempstead,Rocky Mound,Auditor of State,,DEM,Diamond Arnold-Johnson,28,19,1,8
+Hempstead,Saratoga,Auditor of State,,DEM,Diamond Arnold-Johnson,21,1,1,19
+Hempstead,Shover Springs,Auditor of State,,DEM,Diamond Arnold-Johnson,21,13,0,8
+Hempstead,Spring Hill,Auditor of State,,DEM,Diamond Arnold-Johnson,21,11,2,8
+Hempstead,Washington,Auditor of State,,DEM,Diamond Arnold-Johnson,46,15,0,31
+Hempstead,Hope 1,Auditor of State,,REP,Treasurer of State Dennis Milligan,160,108,6,46
+Hempstead,Hope 2,Auditor of State,,REP,Treasurer of State Dennis Milligan,48,18,5,25
+Hempstead,Hope 3,Auditor of State,,REP,Treasurer of State Dennis Milligan,234,154,15,65
+Hempstead,Hope 4,Auditor of State,,REP,Treasurer of State Dennis Milligan,51,39,2,10
+Hempstead,Hope 5,Auditor of State,,REP,Treasurer of State Dennis Milligan,220,140,23,57
+Hempstead,Hope 6,Auditor of State,,REP,Treasurer of State Dennis Milligan,140,84,3,53
+Hempstead,Hope 7,Auditor of State,,REP,Treasurer of State Dennis Milligan,318,203,15,100
+Hempstead,Bingen,Auditor of State,,REP,Treasurer of State Dennis Milligan,201,23,9,169
+Hempstead,Blevins,Auditor of State,,REP,Treasurer of State Dennis Milligan,204,49,2,153
+Hempstead,Columbus,Auditor of State,,REP,Treasurer of State Dennis Milligan,38,3,1,34
+Hempstead,Crossroads,Auditor of State,,REP,Treasurer of State Dennis Milligan,79,16,0,63
+Hempstead,Deann,Auditor of State,,REP,Treasurer of State Dennis Milligan,135,71,5,59
+Hempstead,Fulton,Auditor of State,,REP,Treasurer of State Dennis Milligan,60,7,3,50
+Hempstead,Guernsey,Auditor of State,,REP,Treasurer of State Dennis Milligan,73,39,2,32
+Hempstead,McCaskill,Auditor of State,,REP,Treasurer of State Dennis Milligan,164,30,1,133
+Hempstead,McNab,Auditor of State,,REP,Treasurer of State Dennis Milligan,19,9,0,10
+Hempstead,Ozan,Auditor of State,,REP,Treasurer of State Dennis Milligan,89,16,1,72
+Hempstead,Patmos,Auditor of State,,REP,Treasurer of State Dennis Milligan,141,54,3,84
+Hempstead,Perrytown,Auditor of State,,REP,Treasurer of State Dennis Milligan,114,69,5,40
+Hempstead,Rocky Mound,Auditor of State,,REP,Treasurer of State Dennis Milligan,140,79,5,56
+Hempstead,Saratoga,Auditor of State,,REP,Treasurer of State Dennis Milligan,67,17,0,50
+Hempstead,Shover Springs,Auditor of State,,REP,Treasurer of State Dennis Milligan,144,94,4,46
+Hempstead,Spring Hill,Auditor of State,,REP,Treasurer of State Dennis Milligan,449,166,11,272
+Hempstead,Washington,Auditor of State,,REP,Treasurer of State Dennis Milligan,70,16,1,53
+Hempstead,Hope 1,Auditor of State,,LIB,Simeon Snow,8,6,0,2
+Hempstead,Hope 2,Auditor of State,,LIB,Simeon Snow,4,2,1,1
+Hempstead,Hope 3,Auditor of State,,LIB,Simeon Snow,13,4,0,9
+Hempstead,Hope 4,Auditor of State,,LIB,Simeon Snow,6,6,0,0
+Hempstead,Hope 5,Auditor of State,,LIB,Simeon Snow,6,2,2,2
+Hempstead,Hope 6,Auditor of State,,LIB,Simeon Snow,4,3,0,1
+Hempstead,Hope 7,Auditor of State,,LIB,Simeon Snow,8,3,2,3
+Hempstead,Bingen,Auditor of State,,LIB,Simeon Snow,5,0,2,3
+Hempstead,Blevins,Auditor of State,,LIB,Simeon Snow,3,1,0,2
+Hempstead,Columbus,Auditor of State,,LIB,Simeon Snow,1,1,0,0
+Hempstead,Crossroads,Auditor of State,,LIB,Simeon Snow,0,0,0,0
+Hempstead,Deann,Auditor of State,,LIB,Simeon Snow,6,4,1,1
+Hempstead,Fulton,Auditor of State,,LIB,Simeon Snow,0,0,0,0
+Hempstead,Guernsey,Auditor of State,,LIB,Simeon Snow,1,1,0,0
+Hempstead,McCaskill,Auditor of State,,LIB,Simeon Snow,4,2,0,2
+Hempstead,McNab,Auditor of State,,LIB,Simeon Snow,0,0,0,0
+Hempstead,Ozan,Auditor of State,,LIB,Simeon Snow,3,1,0,2
+Hempstead,Patmos,Auditor of State,,LIB,Simeon Snow,2,0,0,2
+Hempstead,Perrytown,Auditor of State,,LIB,Simeon Snow,2,2,0,0
+Hempstead,Rocky Mound,Auditor of State,,LIB,Simeon Snow,3,1,1,1
+Hempstead,Saratoga,Auditor of State,,LIB,Simeon Snow,4,0,0,4
+Hempstead,Shover Springs,Auditor of State,,LIB,Simeon Snow,0,0,0,0
+Hempstead,Spring Hill,Auditor of State,,LIB,Simeon Snow,8,2,0,6
+Hempstead,Washington,Auditor of State,,LIB,Simeon Snow,5,0,0,5
+Hempstead,Hope 1,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,160,102,6,52
+Hempstead,Hope 2,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,53,19,6,28
+Hempstead,Hope 3,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,240,154,15,71
+Hempstead,Hope 4,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,50,39,2,9
+Hempstead,Hope 5,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,222,143,23,56
+Hempstead,Hope 6,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,140,86,3,51
+Hempstead,Hope 7,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,317,198,16,103
+Hempstead,Bingen,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,202,23,10,169
+Hempstead,Blevins,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,205,51,2,152
+Hempstead,Columbus,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,43,6,1,36
+Hempstead,Crossroads,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,75,16,0,59
+Hempstead,Deann,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,139,74,5,60
+Hempstead,Fulton,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,63,8,3,52
+Hempstead,Guernsey,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,75,39,2,34
+Hempstead,McCaskill,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,162,30,1,131
+Hempstead,McNab,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,19,9,0,10
+Hempstead,Ozan,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,86,15,1,70
+Hempstead,Patmos,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,138,52,3,83
+Hempstead,Perrytown,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,119,73,5,41
+Hempstead,Rocky Mound,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,144,81,5,58
+Hempstead,Saratoga,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,70,16,0,54
+Hempstead,Shover Springs,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,144,92,4,48
+Hempstead,Spring Hill,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,460,170,10,280
+Hempstead,Washington,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,75,17,1,57
+Hempstead,Hope 1,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,163,100,3,60
+Hempstead,Hope 2,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,134,69,8,57
+Hempstead,Hope 3,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,71,40,5,26
+Hempstead,Hope 4,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,113,69,4,40
+Hempstead,Hope 5,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,102,59,14,29
+Hempstead,Hope 6,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,19,9,2,8
+Hempstead,Hope 7,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,48,25,6,17
+Hempstead,Bingen,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,30,2,5,23
+Hempstead,Blevins,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,36,13,3,20
+Hempstead,Columbus,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,21,12,0,9
+Hempstead,Crossroads,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,18,4,2,12
+Hempstead,Deann,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,29,17,3,9
+Hempstead,Fulton,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,57,19,3,35
+Hempstead,Guernsey,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,17,6,2,9
+Hempstead,McCaskill,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,33,12,1,20
+Hempstead,McNab,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,9,0,0,9
+Hempstead,Ozan,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,72,14,0,58
+Hempstead,Patmos,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,25,12,0,13
+Hempstead,Perrytown,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,17,11,2,4
+Hempstead,Rocky Mound,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,27,18,2,7
+Hempstead,Saratoga,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,19,1,1,17
+Hempstead,Shover Springs,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,22,15,0,7
+Hempstead,Spring Hill,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,17,9,3,5
+Hempstead,Washington,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,42,13,0,29
+Hempstead,Hope 1,Governor,,LIB,"Ricky Dale Harrington, Jr.",6,4,0,2
+Hempstead,Hope 2,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,1,0,0
+Hempstead,Hope 3,Governor,,LIB,"Ricky Dale Harrington, Jr.",7,2,0,5
+Hempstead,Hope 4,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,1,0,2
+Hempstead,Hope 5,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,3,1,1
+Hempstead,Hope 6,Governor,,LIB,"Ricky Dale Harrington, Jr.",4,2,0,2
+Hempstead,Hope 7,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,1,0,0
+Hempstead,Bingen,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Hempstead,Blevins,Governor,,LIB,"Ricky Dale Harrington, Jr.",4,3,0,1
+Hempstead,Columbus,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,0,0,2
+Hempstead,Crossroads,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,1,0,0
+Hempstead,Deann,Governor,,LIB,"Ricky Dale Harrington, Jr.",4,4,0,0
+Hempstead,Fulton,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,0,0,2
+Hempstead,Guernsey,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Hempstead,McCaskill,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,1,0,2
+Hempstead,McNab,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Hempstead,Ozan,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Hempstead,Patmos,Governor,,LIB,"Ricky Dale Harrington, Jr.",4,1,0,3
+Hempstead,Perrytown,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Hempstead,Rocky Mound,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,1,0,0
+Hempstead,Saratoga,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,0,0,2
+Hempstead,Shover Springs,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Hempstead,Spring Hill,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,0,0,5
+Hempstead,Washington,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Hempstead,Hope 1,Governor,,REP,Sarah Huckabee Sanders,153,102,5,46
+Hempstead,Hope 2,Governor,,REP,Sarah Huckabee Sanders,44,15,4,25
+Hempstead,Hope 3,Governor,,REP,Sarah Huckabee Sanders,218,143,13,62
+Hempstead,Hope 4,Governor,,REP,Sarah Huckabee Sanders,52,42,2,8
+Hempstead,Hope 5,Governor,,REP,Sarah Huckabee Sanders,202,130,24,48
+Hempstead,Hope 6,Governor,,REP,Sarah Huckabee Sanders,135,80,3,52
+Hempstead,Hope 7,Governor,,REP,Sarah Huckabee Sanders,318,201,14,103
+Hempstead,Bingen,Governor,,REP,Sarah Huckabee Sanders,201,24,9,168
+Hempstead,Blevins,Governor,,REP,Sarah Huckabee Sanders,199,47,3,149
+Hempstead,Columbus,Governor,,REP,Sarah Huckabee Sanders,34,4,1,29
+Hempstead,Crossroads,Governor,,REP,Sarah Huckabee Sanders,76,14,0,62
+Hempstead,Deann,Governor,,REP,Sarah Huckabee Sanders,136,71,5,60
+Hempstead,Fulton,Governor,,REP,Sarah Huckabee Sanders,61,8,3,50
+Hempstead,Guernsey,Governor,,REP,Sarah Huckabee Sanders,72,38,2,32
+Hempstead,McCaskill,Governor,,REP,Sarah Huckabee Sanders,166,34,1,131
+Hempstead,McNab,Governor,,REP,Sarah Huckabee Sanders,19,9,0,10
+Hempstead,Ozan,Governor,,REP,Sarah Huckabee Sanders,90,16,1,73
+Hempstead,Patmos,Governor,,REP,Sarah Huckabee Sanders,137,51,2,84
+Hempstead,Perrytown,Governor,,REP,Sarah Huckabee Sanders,117,72,5,40
+Hempstead,Rocky Mound,Governor,,REP,Sarah Huckabee Sanders,138,79,5,54
+Hempstead,Saratoga,Governor,,REP,Sarah Huckabee Sanders,68,17,0,51
+Hempstead,Shover Springs,Governor,,REP,Sarah Huckabee Sanders,148,98,4,46
+Hempstead,Spring Hill,Governor,,REP,Sarah Huckabee Sanders,452,167,10,275
+Hempstead,Washington,Governor,,REP,Sarah Huckabee Sanders,75,16,1,58
+Hempstead,Hope 1,Governor,,DEM,Chris Jones,187,114,4,69
+Hempstead,Hope 2,Governor,,DEM,Chris Jones,150,75,11,64
+Hempstead,Hope 3,Governor,,DEM,Chris Jones,93,54,7,32
+Hempstead,Hope 4,Governor,,DEM,Chris Jones,118,71,4,43
+Hempstead,Hope 5,Governor,,DEM,Chris Jones,126,75,11,40
+Hempstead,Hope 6,Governor,,DEM,Chris Jones,25,14,2,9
+Hempstead,Hope 7,Governor,,DEM,Chris Jones,63,31,8,24
+Hempstead,Bingen,Governor,,DEM,Chris Jones,36,3,6,27
+Hempstead,Blevins,Governor,,DEM,Chris Jones,43,16,2,25
+Hempstead,Columbus,Governor,,DEM,Chris Jones,30,14,0,16
+Hempstead,Crossroads,Governor,,DEM,Chris Jones,21,5,2,14
+Hempstead,Deann,Governor,,DEM,Chris Jones,27,16,3,8
+Hempstead,Fulton,Governor,,DEM,Chris Jones,60,20,3,37
+Hempstead,Guernsey,Governor,,DEM,Chris Jones,23,9,2,12
+Hempstead,McCaskill,Governor,,DEM,Chris Jones,34,9,1,24
+Hempstead,McNab,Governor,,DEM,Chris Jones,9,0,0,9
+Hempstead,Ozan,Governor,,DEM,Chris Jones,72,15,0,57
+Hempstead,Patmos,Governor,,DEM,Chris Jones,28,13,1,14
+Hempstead,Perrytown,Governor,,DEM,Chris Jones,21,14,2,5
+Hempstead,Rocky Mound,Governor,,DEM,Chris Jones,33,21,2,10
+Hempstead,Saratoga,Governor,,DEM,Chris Jones,24,2,1,21
+Hempstead,Shover Springs,Governor,,DEM,Chris Jones,21,13,0,8
+Hempstead,Spring Hill,Governor,,DEM,Chris Jones,28,13,3,12
+Hempstead,Washington,Governor,,DEM,Chris Jones,44,14,0,30
+Hempstead,Hope 1,Lieutenant Governor,,LIB,Frank Gilbert,5,4,0,1
+Hempstead,Hope 2,Lieutenant Governor,,LIB,Frank Gilbert,1,1,0,0
+Hempstead,Hope 3,Lieutenant Governor,,LIB,Frank Gilbert,8,0,0,8
+Hempstead,Hope 4,Lieutenant Governor,,LIB,Frank Gilbert,4,3,0,1
+Hempstead,Hope 5,Lieutenant Governor,,LIB,Frank Gilbert,7,5,1,1
+Hempstead,Hope 6,Lieutenant Governor,,LIB,Frank Gilbert,1,1,0,0
+Hempstead,Hope 7,Lieutenant Governor,,LIB,Frank Gilbert,6,4,0,2
+Hempstead,Bingen,Lieutenant Governor,,LIB,Frank Gilbert,6,0,0,6
+Hempstead,Blevins,Lieutenant Governor,,LIB,Frank Gilbert,5,2,0,3
+Hempstead,Columbus,Lieutenant Governor,,LIB,Frank Gilbert,3,0,0,3
+Hempstead,Crossroads,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0
+Hempstead,Deann,Lieutenant Governor,,LIB,Frank Gilbert,6,4,0,2
+Hempstead,Fulton,Lieutenant Governor,,LIB,Frank Gilbert,1,0,0,1
+Hempstead,Guernsey,Lieutenant Governor,,LIB,Frank Gilbert,1,0,0,1
+Hempstead,McCaskill,Lieutenant Governor,,LIB,Frank Gilbert,6,3,0,3
+Hempstead,McNab,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0
+Hempstead,Ozan,Lieutenant Governor,,LIB,Frank Gilbert,2,1,0,1
+Hempstead,Patmos,Lieutenant Governor,,LIB,Frank Gilbert,6,0,0,6
+Hempstead,Perrytown,Lieutenant Governor,,LIB,Frank Gilbert,1,1,0,0
+Hempstead,Rocky Mound,Lieutenant Governor,,LIB,Frank Gilbert,4,3,0,1
+Hempstead,Saratoga,Lieutenant Governor,,LIB,Frank Gilbert,4,0,0,4
+Hempstead,Shover Springs,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0
+Hempstead,Spring Hill,Lieutenant Governor,,LIB,Frank Gilbert,11,3,0,8
+Hempstead,Washington,Lieutenant Governor,,LIB,Frank Gilbert,3,1,0,2
+Hempstead,Hope 1,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,161,107,6,48
+Hempstead,Hope 2,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,50,19,6,25
+Hempstead,Hope 3,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,229,152,14,63
+Hempstead,Hope 4,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,54,41,2,11
+Hempstead,Hope 5,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,203,129,23,51
+Hempstead,Hope 6,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,140,82,3,55
+Hempstead,Hope 7,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,317,202,16,99
+Hempstead,Bingen,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,200,24,9,167
+Hempstead,Blevins,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,198,48,2,148
+Hempstead,Columbus,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,36,4,1,31
+Hempstead,Crossroads,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,79,16,0,63
+Hempstead,Deann,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,137,74,5,58
+Hempstead,Fulton,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,62,8,3,51
+Hempstead,Guernsey,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,74,40,2,32
+Hempstead,McCaskill,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,161,30,1,130
+Hempstead,McNab,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,20,9,0,11
+Hempstead,Ozan,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,89,15,1,73
+Hempstead,Patmos,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,135,54,3,78
+Hempstead,Perrytown,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,117,72,5,40
+Hempstead,Rocky Mound,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,140,79,5,56
+Hempstead,Saratoga,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,66,17,0,49
+Hempstead,Shover Springs,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,148,96,4,48
+Hempstead,Spring Hill,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,452,168,10,274
+Hempstead,Washington,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,67,14,1,52
+Hempstead,Hope 1,Lieutenant Governor,,DEM,Kelly Ross Krout,168,100,2,66
+Hempstead,Hope 2,Lieutenant Governor,,DEM,Kelly Ross Krout,139,69,8,62
+Hempstead,Hope 3,Lieutenant Governor,,DEM,Kelly Ross Krout,81,47,6,28
+Hempstead,Hope 4,Lieutenant Governor,,DEM,Kelly Ross Krout,108,65,4,39
+Hempstead,Hope 5,Lieutenant Governor,,DEM,Kelly Ross Krout,120,72,13,35
+Hempstead,Hope 6,Lieutenant Governor,,DEM,Kelly Ross Krout,20,12,2,6
+Hempstead,Hope 7,Lieutenant Governor,,DEM,Kelly Ross Krout,58,27,6,25
+Hempstead,Bingen,Lieutenant Governor,,DEM,Kelly Ross Krout,30,2,6,22
+Hempstead,Blevins,Lieutenant Governor,,DEM,Kelly Ross Krout,42,16,3,23
+Hempstead,Columbus,Lieutenant Governor,,DEM,Kelly Ross Krout,27,14,0,13
+Hempstead,Crossroads,Lieutenant Governor,,DEM,Kelly Ross Krout,19,5,2,12
+Hempstead,Deann,Lieutenant Governor,,DEM,Kelly Ross Krout,26,14,3,9
+Hempstead,Fulton,Lieutenant Governor,,DEM,Kelly Ross Krout,60,19,3,38
+Hempstead,Guernsey,Lieutenant Governor,,DEM,Kelly Ross Krout,20,8,2,10
+Hempstead,McCaskill,Lieutenant Governor,,DEM,Kelly Ross Krout,32,10,1,21
+Hempstead,McNab,Lieutenant Governor,,DEM,Kelly Ross Krout,9,1,0,8
+Hempstead,Ozan,Lieutenant Governor,,DEM,Kelly Ross Krout,70,13,0,57
+Hempstead,Patmos,Lieutenant Governor,,DEM,Kelly Ross Krout,27,11,0,16
+Hempstead,Perrytown,Lieutenant Governor,,DEM,Kelly Ross Krout,20,13,2,5
+Hempstead,Rocky Mound,Lieutenant Governor,,DEM,Kelly Ross Krout,29,20,2,7
+Hempstead,Saratoga,Lieutenant Governor,,DEM,Kelly Ross Krout,22,2,1,19
+Hempstead,Shover Springs,Lieutenant Governor,,DEM,Kelly Ross Krout,20,13,0,7
+Hempstead,Spring Hill,Lieutenant Governor,,DEM,Kelly Ross Krout,20,9,3,8
+Hempstead,Washington,Lieutenant Governor,,DEM,Kelly Ross Krout,48,15,0,33
+Hempstead,Hope 1,Secretary of State,,REP,Secretary of State John Thurston,153,99,4,50
+Hempstead,Hope 2,Secretary of State,,REP,Secretary of State John Thurston,49,20,4,25
+Hempstead,Hope 3,Secretary of State,,REP,Secretary of State John Thurston,242,155,15,72
+Hempstead,Hope 4,Secretary of State,,REP,Secretary of State John Thurston,54,41,2,11
+Hempstead,Hope 5,Secretary of State,,REP,Secretary of State John Thurston,217,139,22,56
+Hempstead,Hope 6,Secretary of State,,REP,Secretary of State John Thurston,141,84,3,54
+Hempstead,Hope 7,Secretary of State,,REP,Secretary of State John Thurston,325,208,15,102
+Hempstead,Bingen,Secretary of State,,REP,Secretary of State John Thurston,201,23,9,169
+Hempstead,Blevins,Secretary of State,,REP,Secretary of State John Thurston,202,48,1,153
+Hempstead,Columbus,Secretary of State,,REP,Secretary of State John Thurston,40,4,1,35
+Hempstead,Crossroads,Secretary of State,,REP,Secretary of State John Thurston,77,15,0,62
+Hempstead,Deann,Secretary of State,,REP,Secretary of State John Thurston,139,73,5,61
+Hempstead,Fulton,Secretary of State,,REP,Secretary of State John Thurston,63,10,3,50
+Hempstead,Guernsey,Secretary of State,,REP,Secretary of State John Thurston,73,39,2,32
+Hempstead,McCaskill,Secretary of State,,REP,Secretary of State John Thurston,167,33,1,133
+Hempstead,McNab,Secretary of State,,REP,Secretary of State John Thurston,20,9,0,11
+Hempstead,Ozan,Secretary of State,,REP,Secretary of State John Thurston,88,15,1,72
+Hempstead,Patmos,Secretary of State,,REP,Secretary of State John Thurston,138,53,3,82
+Hempstead,Perrytown,Secretary of State,,REP,Secretary of State John Thurston,119,73,5,41
+Hempstead,Rocky Mound,Secretary of State,,REP,Secretary of State John Thurston,141,80,4,57
+Hempstead,Saratoga,Secretary of State,,REP,Secretary of State John Thurston,69,17,0,52
+Hempstead,Shover Springs,Secretary of State,,REP,Secretary of State John Thurston,147,95,4,48
+Hempstead,Spring Hill,Secretary of State,,REP,Secretary of State John Thurston,451,166,10,275
+Hempstead,Washington,Secretary of State,,REP,Secretary of State John Thurston,72,16,1,55
+Hempstead,Hope 1,Secretary of State,,DEM,Anna Beth Gorman,177,108,4,65
+Hempstead,Hope 2,Secretary of State,,DEM,Anna Beth Gorman,139,68,10,61
+Hempstead,Hope 3,Secretary of State,,DEM,Anna Beth Gorman,75,44,5,26
+Hempstead,Hope 4,Secretary of State,,DEM,Anna Beth Gorman,111,67,4,40
+Hempstead,Hope 5,Secretary of State,,DEM,Anna Beth Gorman,110,64,14,32
+Hempstead,Hope 6,Secretary of State,,DEM,Anna Beth Gorman,21,11,2,8
+Hempstead,Hope 7,Secretary of State,,DEM,Anna Beth Gorman,54,25,7,22
+Hempstead,Bingen,Secretary of State,,DEM,Anna Beth Gorman,34,3,6,25
+Hempstead,Blevins,Secretary of State,,DEM,Anna Beth Gorman,45,18,4,23
+Hempstead,Columbus,Secretary of State,,DEM,Anna Beth Gorman,26,14,0,12
+Hempstead,Crossroads,Secretary of State,,DEM,Anna Beth Gorman,20,5,2,13
+Hempstead,Deann,Secretary of State,,DEM,Anna Beth Gorman,28,17,3,8
+Hempstead,Fulton,Secretary of State,,DEM,Anna Beth Gorman,56,18,3,35
+Hempstead,Guernsey,Secretary of State,,DEM,Anna Beth Gorman,20,8,2,10
+Hempstead,McCaskill,Secretary of State,,DEM,Anna Beth Gorman,33,11,1,21
+Hempstead,McNab,Secretary of State,,DEM,Anna Beth Gorman,8,0,0,8
+Hempstead,Ozan,Secretary of State,,DEM,Anna Beth Gorman,71,13,0,58
+Hempstead,Patmos,Secretary of State,,DEM,Anna Beth Gorman,29,12,0,17
+Hempstead,Perrytown,Secretary of State,,DEM,Anna Beth Gorman,17,11,2,4
+Hempstead,Rocky Mound,Secretary of State,,DEM,Anna Beth Gorman,30,20,2,8
+Hempstead,Saratoga,Secretary of State,,DEM,Anna Beth Gorman,23,1,1,21
+Hempstead,Shover Springs,Secretary of State,,DEM,Anna Beth Gorman,22,15,0,7
+Hempstead,Spring Hill,Secretary of State,,DEM,Anna Beth Gorman,29,13,3,13
+Hempstead,Washington,Secretary of State,,DEM,Anna Beth Gorman,46,14,0,32
+Hempstead,Hope 1,State Treasurer,,REP,State Representative Mark Lowery,156,103,4,49
+Hempstead,Hope 2,State Treasurer,,REP,State Representative Mark Lowery,47,17,5,25
+Hempstead,Hope 3,State Treasurer,,REP,State Representative Mark Lowery,230,147,13,70
+Hempstead,Hope 4,State Treasurer,,REP,State Representative Mark Lowery,55,41,2,12
+Hempstead,Hope 5,State Treasurer,,REP,State Representative Mark Lowery,215,138,24,53
+Hempstead,Hope 6,State Treasurer,,REP,State Representative Mark Lowery,143,86,3,54
+Hempstead,Hope 7,State Treasurer,,REP,State Representative Mark Lowery,321,203,16,102
+Hempstead,Bingen,State Treasurer,,REP,State Representative Mark Lowery,202,23,9,170
+Hempstead,Blevins,State Treasurer,,REP,State Representative Mark Lowery,204,50,2,152
+Hempstead,Columbus,State Treasurer,,REP,State Representative Mark Lowery,39,5,1,33
+Hempstead,Crossroads,State Treasurer,,REP,State Representative Mark Lowery,79,16,0,63
+Hempstead,Deann,State Treasurer,,REP,State Representative Mark Lowery,139,74,5,60
+Hempstead,Fulton,State Treasurer,,REP,State Representative Mark Lowery,63,8,3,52
+Hempstead,Guernsey,State Treasurer,,REP,State Representative Mark Lowery,75,39,2,34
+Hempstead,McCaskill,State Treasurer,,REP,State Representative Mark Lowery,168,33,1,134
+Hempstead,McNab,State Treasurer,,REP,State Representative Mark Lowery,19,9,0,10
+Hempstead,Ozan,State Treasurer,,REP,State Representative Mark Lowery,91,15,1,75
+Hempstead,Patmos,State Treasurer,,REP,State Representative Mark Lowery,137,53,3,81
+Hempstead,Perrytown,State Treasurer,,REP,State Representative Mark Lowery,120,74,5,41
+Hempstead,Rocky Mound,State Treasurer,,REP,State Representative Mark Lowery,142,80,5,57
+Hempstead,Saratoga,State Treasurer,,REP,State Representative Mark Lowery,68,17,0,51
+Hempstead,Shover Springs,State Treasurer,,REP,State Representative Mark Lowery,148,97,4,47
+Hempstead,Spring Hill,State Treasurer,,REP,State Representative Mark Lowery,456,165,10,281
+Hempstead,Washington,State Treasurer,,REP,State Representative Mark Lowery,72,16,1,55
+Hempstead,Hope 1,State Treasurer,,DEM,Pam Whitaker,177,107,4,66
+Hempstead,Hope 2,State Treasurer,,DEM,Pam Whitaker,143,72,10,61
+Hempstead,Hope 3,State Treasurer,,DEM,Pam Whitaker,87,51,7,29
+Hempstead,Hope 4,State Treasurer,,DEM,Pam Whitaker,114,70,4,40
+Hempstead,Hope 5,State Treasurer,,DEM,Pam Whitaker,116,67,13,36
+Hempstead,Hope 6,State Treasurer,,DEM,Pam Whitaker,20,10,2,8
+Hempstead,Hope 7,State Treasurer,,DEM,Pam Whitaker,57,28,6,23
+Hempstead,Bingen,State Treasurer,,DEM,Pam Whitaker,32,2,6,24
+Hempstead,Blevins,State Treasurer,,DEM,Pam Whitaker,44,16,3,25
+Hempstead,Columbus,State Treasurer,,DEM,Pam Whitaker,26,13,0,13
+Hempstead,Crossroads,State Treasurer,,DEM,Pam Whitaker,19,5,2,12
+Hempstead,Deann,State Treasurer,,DEM,Pam Whitaker,29,18,3,8
+Hempstead,Fulton,State Treasurer,,DEM,Pam Whitaker,58,19,3,36
+Hempstead,Guernsey,State Treasurer,,DEM,Pam Whitaker,21,9,2,10
+Hempstead,McCaskill,State Treasurer,,DEM,Pam Whitaker,33,10,1,22
+Hempstead,McNab,State Treasurer,,DEM,Pam Whitaker,9,0,0,9
+Hempstead,Ozan,State Treasurer,,DEM,Pam Whitaker,70,14,0,56
+Hempstead,Patmos,State Treasurer,,DEM,Pam Whitaker,29,12,0,17
+Hempstead,Perrytown,State Treasurer,,DEM,Pam Whitaker,16,10,2,4
+Hempstead,Rocky Mound,State Treasurer,,DEM,Pam Whitaker,31,20,2,9
+Hempstead,Saratoga,State Treasurer,,DEM,Pam Whitaker,25,1,1,23
+Hempstead,Shover Springs,State Treasurer,,DEM,Pam Whitaker,21,13,0,8
+Hempstead,Spring Hill,State Treasurer,,DEM,Pam Whitaker,26,15,3,8
+Hempstead,Washington,State Treasurer,,DEM,Pam Whitaker,49,14,0,35
+Hempstead,Bingen,State Senate,04,IND,Lonny M. Goodwin,38,4,7,27
+Hempstead,Columbus,State Senate,04,IND,Lonny M. Goodwin,31,13,0,18
+Hempstead,Fulton,State Senate,04,IND,Lonny M. Goodwin,51,13,4,34
+Hempstead,McNab,State Senate,04,IND,Lonny M. Goodwin,8,4,0,4
+Hempstead,Ozan,State Senate,04,IND,Lonny M. Goodwin,53,11,0,42
+Hempstead,Saratoga,State Senate,04,IND,Lonny M. Goodwin,32,8,1,23
+Hempstead,Bingen,State Senate,04,REP,"Senator Jimmy Hickey, JR.",196,23,7,166
+Hempstead,Columbus,State Senate,04,REP,"Senator Jimmy Hickey, JR.",33,3,1,29
+Hempstead,Fulton,State Senate,04,REP,"Senator Jimmy Hickey, JR.",60,11,2,47
+Hempstead,McNab,State Senate,04,REP,"Senator Jimmy Hickey, JR.",18,6,0,12
+Hempstead,Ozan,State Senate,04,REP,"Senator Jimmy Hickey, JR.",93,16,1,76
+Hempstead,Saratoga,State Senate,04,REP,"Senator Jimmy Hickey, JR.",55,9,0,46
+Hempstead,Hope 1,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,182,113,5,64
+Hempstead,Hope 2,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,101,44,9,48
+Hempstead,Hope 3,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,189,121,9,59
+Hempstead,Hope 4,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,73,45,4,24
+Hempstead,Hope 5,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,189,114,23,52
+Hempstead,Hope 6,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,100,62,3,35
+Hempstead,Hope 7,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,247,150,14,83
+Hempstead,Bingen,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,141,18,12,111
+Hempstead,Blevins,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,139,38,4,97
+Hempstead,Columbus,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,29,3,1,25
+Hempstead,Crossroads,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,55,10,0,45
+Hempstead,Deann,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,106,56,5,45
+Hempstead,Fulton,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,64,12,5,47
+Hempstead,Guernsey,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,57,24,4,29
+Hempstead,McCaskill,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,128,25,2,101
+Hempstead,McNab,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,17,3,0,14
+Hempstead,Ozan,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,81,17,1,63
+Hempstead,Patmos,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,106,46,3,57
+Hempstead,Perrytown,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,79,45,4,30
+Hempstead,Rocky Mound,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,100,52,5,43
+Hempstead,Saratoga,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,41,10,0,31
+Hempstead,Shover Springs,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,107,67,2,38
+Hempstead,Spring Hill,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,287,114,6,167
+Hempstead,Washington,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,64,15,0,49
+Hempstead,Hope 1,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,114,69,2,43
+Hempstead,Hope 2,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,70,35,5,30
+Hempstead,Hope 3,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,102,60,10,32
+Hempstead,Hope 4,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,61,40,2,19
+Hempstead,Hope 5,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,112,72,10,30
+Hempstead,Hope 6,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,51,29,2,20
+Hempstead,Hope 7,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,105,72,7,26
+Hempstead,Bingen,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,70,6,2,62
+Hempstead,Blevins,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,74,19,0,55
+Hempstead,Columbus,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,21,8,0,13
+Hempstead,Crossroads,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,24,5,1,18
+Hempstead,Deann,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,53,32,2,19
+Hempstead,Fulton,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,39,10,1,28
+Hempstead,Guernsey,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,32,20,0,12
+Hempstead,McCaskill,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,60,13,0,47
+Hempstead,McNab,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,5,3,0,2
+Hempstead,Ozan,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,51,7,0,44
+Hempstead,Patmos,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,49,14,0,35
+Hempstead,Perrytown,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,44,29,3,12
+Hempstead,Rocky Mound,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,53,36,1,16
+Hempstead,Saratoga,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,26,3,1,22
+Hempstead,Shover Springs,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,50,33,1,16
+Hempstead,Spring Hill,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,146,42,5,99
+Hempstead,Washington,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,42,9,1,32
+Hempstead,Hope 1,County Clerk,,DEM,DEM Nicholas Ward,132,76,3,53
+Hempstead,Hope 2,County Clerk,,DEM,DEM Nicholas Ward,122,63,7,52
+Hempstead,Hope 3,County Clerk,,DEM,DEM Nicholas Ward,54,29,2,23
+Hempstead,Hope 4,County Clerk,,DEM,DEM Nicholas Ward,92,53,4,35
+Hempstead,Hope 5,County Clerk,,DEM,DEM Nicholas Ward,90,57,7,26
+Hempstead,Hope 6,County Clerk,,DEM,DEM Nicholas Ward,20,10,1,9
+Hempstead,Hope 7,County Clerk,,DEM,DEM Nicholas Ward,46,24,2,20
+Hempstead,Bingen,County Clerk,,DEM,DEM Nicholas Ward,27,2,5,20
+Hempstead,Blevins,County Clerk,,DEM,DEM Nicholas Ward,40,15,3,22
+Hempstead,Columbus,County Clerk,,DEM,DEM Nicholas Ward,22,10,1,11
+Hempstead,Crossroads,County Clerk,,DEM,DEM Nicholas Ward,18,5,2,11
+Hempstead,Deann,County Clerk,,DEM,DEM Nicholas Ward,20,10,3,7
+Hempstead,Fulton,County Clerk,,DEM,DEM Nicholas Ward,55,14,4,37
+Hempstead,Guernsey,County Clerk,,DEM,DEM Nicholas Ward,19,8,1,10
+Hempstead,McCaskill,County Clerk,,DEM,DEM Nicholas Ward,32,12,0,20
+Hempstead,McNab,County Clerk,,DEM,DEM Nicholas Ward,9,2,0,7
+Hempstead,Ozan,County Clerk,,DEM,DEM Nicholas Ward,67,10,0,57
+Hempstead,Patmos,County Clerk,,DEM,DEM Nicholas Ward,35,15,1,19
+Hempstead,Perrytown,County Clerk,,DEM,DEM Nicholas Ward,25,18,2,5
+Hempstead,Rocky Mound,County Clerk,,DEM,DEM Nicholas Ward,20,11,2,7
+Hempstead,Saratoga,County Clerk,,DEM,DEM Nicholas Ward,21,1,1,19
+Hempstead,Shover Springs,County Clerk,,DEM,DEM Nicholas Ward,18,12,0,6
+Hempstead,Spring Hill,County Clerk,,DEM,DEM Nicholas Ward,38,16,3,19
+Hempstead,Washington,County Clerk,,DEM,DEM Nicholas Ward,45,14,0,31
+Hempstead,Hope 1,County Clerk,,REP,REP Karen Smith,200,131,4,65
+Hempstead,Hope 2,County Clerk,,REP,REP Karen Smith,67,27,8,32
+Hempstead,Hope 3,County Clerk,,REP,REP Karen Smith,261,168,18,75
+Hempstead,Hope 4,County Clerk,,REP,REP Karen Smith,68,52,2,14
+Hempstead,Hope 5,County Clerk,,REP,REP Karen Smith,239,150,28,61
+Hempstead,Hope 6,County Clerk,,REP,REP Karen Smith,144,88,3,53
+Hempstead,Hope 7,County Clerk,,REP,REP Karen Smith,335,211,19,105
+Hempstead,Bingen,County Clerk,,REP,REP Karen Smith,206,25,9,172
+Hempstead,Blevins,County Clerk,,REP,REP Karen Smith,205,50,2,153
+Hempstead,Columbus,County Clerk,,REP,REP Karen Smith,44,8,0,36
+Hempstead,Crossroads,County Clerk,,REP,REP Karen Smith,77,14,0,63
+Hempstead,Deann,County Clerk,,REP,REP Karen Smith,147,80,5,62
+Hempstead,Fulton,County Clerk,,REP,REP Karen Smith,65,12,2,51
+Hempstead,Guernsey,County Clerk,,REP,REP Karen Smith,77,40,3,34
+Hempstead,McCaskill,County Clerk,,REP,REP Karen Smith,164,30,2,132
+Hempstead,McNab,County Clerk,,REP,REP Karen Smith,18,7,0,11
+Hempstead,Ozan,County Clerk,,REP,REP Karen Smith,91,16,1,74
+Hempstead,Patmos,County Clerk,,REP,REP Karen Smith,129,49,2,78
+Hempstead,Perrytown,County Clerk,,REP,REP Karen Smith,112,67,5,40
+Hempstead,Rocky Mound,County Clerk,,REP,REP Karen Smith,151,87,5,59
+Hempstead,Saratoga,County Clerk,,REP,REP Karen Smith,68,16,0,52
+Hempstead,Shover Springs,County Clerk,,REP,REP Karen Smith,150,98,4,48
+Hempstead,Spring Hill,County Clerk,,REP,REP Karen Smith,444,164,10,270
+Hempstead,Washington,County Clerk,,REP,REP Karen Smith,77,17,1,59
+Hempstead,Hope 1,Justice of Peace District 3,,REP,REP Doug Storey,0,0,0,0
+Hempstead,Hope 2,Justice of Peace District 3,,REP,REP Doug Storey,0,0,0,0
+Hempstead,Hope 4,Justice of Peace District 3,,REP,REP Doug Storey,48,36,2,10
+Hempstead,Hope 5,Justice of Peace District 3,,REP,REP Doug Storey,2,0,0,2
+Hempstead,Hope 6,Justice of Peace District 3,,REP,REP Doug Storey,0,0,0,0
+Hempstead,Hope 1,Justice of Peace District 3,,DEM,DEM Doris Brown,6,6,0,0
+Hempstead,Hope 2,Justice of Peace District 3,,DEM,DEM Doris Brown,8,5,0,3
+Hempstead,Hope 4,Justice of Peace District 3,,DEM,DEM Doris Brown,122,76,4,42
+Hempstead,Hope 5,Justice of Peace District 3,,DEM,DEM Doris Brown,6,4,0,2
+Hempstead,Hope 6,Justice of Peace District 3,,DEM,DEM Doris Brown,0,0,0,0
+Hempstead,Hope 1,Sheriff & Collector,,REP,REP Keith Sullivan,112,69,3,40
+Hempstead,Hope 2,Sheriff & Collector,,REP,REP Keith Sullivan,34,11,3,20
+Hempstead,Hope 3,Sheriff & Collector,,REP,REP Keith Sullivan,143,98,6,39
+Hempstead,Hope 4,Sheriff & Collector,,REP,REP Keith Sullivan,36,27,2,7
+Hempstead,Hope 5,Sheriff & Collector,,REP,REP Keith Sullivan,125,87,17,21
+Hempstead,Hope 6,Sheriff & Collector,,REP,REP Keith Sullivan,92,56,3,33
+Hempstead,Hope 7,Sheriff & Collector,,REP,REP Keith Sullivan,203,132,11,60
+Hempstead,Bingen,Sheriff & Collector,,REP,REP Keith Sullivan,149,17,8,124
+Hempstead,Blevins,Sheriff & Collector,,REP,REP Keith Sullivan,160,37,1,122
+Hempstead,Columbus,Sheriff & Collector,,REP,REP Keith Sullivan,24,4,1,19
+Hempstead,Crossroads,Sheriff & Collector,,REP,REP Keith Sullivan,55,9,0,46
+Hempstead,Deann,Sheriff & Collector,,REP,REP Keith Sullivan,96,51,3,42
+Hempstead,Fulton,Sheriff & Collector,,REP,REP Keith Sullivan,47,10,2,35
+Hempstead,Guernsey,Sheriff & Collector,,REP,REP Keith Sullivan,48,20,2,26
+Hempstead,McCaskill,Sheriff & Collector,,REP,REP Keith Sullivan,123,20,1,102
+Hempstead,McNab,Sheriff & Collector,,REP,REP Keith Sullivan,14,6,0,8
+Hempstead,Ozan,Sheriff & Collector,,REP,REP Keith Sullivan,67,13,1,53
+Hempstead,Patmos,Sheriff & Collector,,REP,REP Keith Sullivan,91,44,2,45
+Hempstead,Perrytown,Sheriff & Collector,,REP,REP Keith Sullivan,80,45,3,32
+Hempstead,Rocky Mound,Sheriff & Collector,,REP,REP Keith Sullivan,78,40,3,35
+Hempstead,Saratoga,Sheriff & Collector,,REP,REP Keith Sullivan,43,9,0,34
+Hempstead,Shover Springs,Sheriff & Collector,,REP,REP Keith Sullivan,77,51,3,23
+Hempstead,Spring Hill,Sheriff & Collector,,REP,REP Keith Sullivan,269,94,8,167
+Hempstead,Washington,Sheriff & Collector,,REP,REP Keith Sullivan,50,13,0,37
+Hempstead,Hope 1,Sheriff & Collector,,DEM,DEM James Singleton,226,147,5,74
+Hempstead,Hope 2,Sheriff & Collector,,DEM,DEM James Singleton,154,77,11,66
+Hempstead,Hope 3,Sheriff & Collector,,DEM,DEM James Singleton,179,104,14,61
+Hempstead,Hope 4,Sheriff & Collector,,DEM,DEM James Singleton,136,85,4,47
+Hempstead,Hope 5,Sheriff & Collector,,DEM,DEM James Singleton,206,119,20,67
+Hempstead,Hope 6,Sheriff & Collector,,DEM,DEM James Singleton,70,39,2,29
+Hempstead,Hope 7,Sheriff & Collector,,DEM,DEM James Singleton,177,103,11,63
+Hempstead,Bingen,Sheriff & Collector,,DEM,DEM James Singleton,84,9,7,68
+Hempstead,Blevins,Sheriff & Collector,,DEM,DEM James Singleton,86,28,4,54
+Hempstead,Columbus,Sheriff & Collector,,DEM,DEM James Singleton,42,13,0,29
+Hempstead,Crossroads,Sheriff & Collector,,DEM,DEM James Singleton,43,11,2,30
+Hempstead,Deann,Sheriff & Collector,,DEM,DEM James Singleton,73,42,5,26
+Hempstead,Fulton,Sheriff & Collector,,DEM,DEM James Singleton,75,18,4,53
+Hempstead,Guernsey,Sheriff & Collector,,DEM,DEM James Singleton,47,28,2,17
+Hempstead,McCaskill,Sheriff & Collector,,DEM,DEM James Singleton,77,23,1,53
+Hempstead,McNab,Sheriff & Collector,,DEM,DEM James Singleton,15,4,0,11
+Hempstead,Ozan,Sheriff & Collector,,DEM,DEM James Singleton,91,16,0,75
+Hempstead,Patmos,Sheriff & Collector,,DEM,DEM James Singleton,77,21,1,55
+Hempstead,Perrytown,Sheriff & Collector,,DEM,DEM James Singleton,56,40,3,13
+Hempstead,Rocky Mound,Sheriff & Collector,,DEM,DEM James Singleton,94,60,4,30
+Hempstead,Saratoga,Sheriff & Collector,,DEM,DEM James Singleton,49,9,1,39
+Hempstead,Shover Springs,Sheriff & Collector,,DEM,DEM James Singleton,91,58,1,32
+Hempstead,Spring Hill,Sheriff & Collector,,DEM,DEM James Singleton,215,85,5,125
+Hempstead,Washington,Sheriff & Collector,,DEM,DEM James Singleton,70,17,1,52
+Hempstead,Hope 1,Circuit Clerk,,DEM,DEM Gail Wolfenbarger,290,177,8,105
+Hempstead,Hope 2,Circuit Clerk,,DEM,DEM Gail Wolfenbarger,173,80,12,81
+Hempstead,Hope 3,Circuit Clerk,,DEM,DEM Gail Wolfenbarger,250,155,15,80
+Hempstead,Hope 4,Circuit Clerk,,DEM,DEM Gail Wolfenbarger,145,88,6,51
+Hempstead,Hope 5,Circuit Clerk,,DEM,DEM Gail Wolfenbarger,272,167,26,79
+Hempstead,Hope 6,Circuit Clerk,,DEM,DEM Gail Wolfenbarger,126,73,4,49
+Hempstead,Hope 7,Circuit Clerk,,DEM,DEM Gail Wolfenbarger,308,195,17,96
+Hempstead,Bingen,Circuit Clerk,,DEM,DEM Gail Wolfenbarger,178,21,14,143
+Hempstead,Blevins,Circuit Clerk,,DEM,DEM Gail Wolfenbarger,168,47,5,116
+Hempstead,Columbus,Circuit Clerk,,DEM,DEM Gail Wolfenbarger,49,14,1,34
+Hempstead,Crossroads,Circuit Clerk,,DEM,DEM Gail Wolfenbarger,70,16,2,52
+Hempstead,Deann,Circuit Clerk,,DEM,DEM Gail Wolfenbarger,125,71,6,48
+Hempstead,Fulton,Circuit Clerk,,DEM,DEM Gail Wolfenbarger,102,25,5,72
+Hempstead,Guernsey,Circuit Clerk,,DEM,DEM Gail Wolfenbarger,77,37,4,36
+Hempstead,McCaskill,Circuit Clerk,,DEM,DEM Gail Wolfenbarger,149,34,2,113
+Hempstead,McNab,Circuit Clerk,,DEM,DEM Gail Wolfenbarger,22,9,0,13
+Hempstead,Ozan,Circuit Clerk,,DEM,DEM Gail Wolfenbarger,138,26,1,111
+Hempstead,Patmos,Circuit Clerk,,DEM,DEM Gail Wolfenbarger,134,52,3,79
+Hempstead,Perrytown,Circuit Clerk,,DEM,DEM Gail Wolfenbarger,105,65,7,33
+Hempstead,Rocky Mound,Circuit Clerk,,DEM,DEM Gail Wolfenbarger,134,78,7,49
+Hempstead,Saratoga,Circuit Clerk,,DEM,DEM Gail Wolfenbarger,60,11,1,48
+Hempstead,Shover Springs,Circuit Clerk,,DEM,DEM Gail Wolfenbarger,134,85,3,46
+Hempstead,Spring Hill,Circuit Clerk,,DEM,DEM Gail Wolfenbarger,387,146,12,229
+Hempstead,Washington,Circuit Clerk,,DEM,DEM Gail Wolfenbarger,88,18,0,70
+Hempstead,Blevins,Blevins Mayor,,NON,Bobby J. Steed,58,12,0,46
+Hempstead,Blevins,Blevins Secretary/Treasurer,,NON,Vickie Gray,58,13,1,44
+Hempstead,McNab,McNab City Mayor,,NON,Sheila Jackson,8,3,0,5
+Hempstead,McNab,McNab City Secretary Clerk,,NON,Levorn Oliver,7,2,0,5
+Hempstead,Ozan,Ozan Mayor,,NON,David Stallsworth,37,5,0,32
+Hempstead,Ozan,Ozan Recorder/Treasurer,,NON,Teresia Linville,38,5,0,33
+Hempstead,Patmos,Patmos Mayor,,NON,Glenn Peters,11,1,0,10
+Hempstead,Washington,Washington Mayor,,NON,Paul G. Henley,54,6,0,48
+Hempstead,Hope 1,0.25% County Wide Sales and Use Tax for Economic,,NON,FOR,153,100,5,48
+Hempstead,Hope 2,0.25% County Wide Sales and Use Tax for Economic,,NON,FOR,73,29,8,36
+Hempstead,Hope 3,0.25% County Wide Sales and Use Tax for Economic,,NON,FOR,132,90,8,34
+Hempstead,Hope 4,0.25% County Wide Sales and Use Tax for Economic,,NON,FOR,56,36,2,18
+Hempstead,Hope 5,0.25% County Wide Sales and Use Tax for Economic,,NON,FOR,147,90,16,41
+Hempstead,Hope 6,0.25% County Wide Sales and Use Tax for Economic,,NON,FOR,54,34,1,19
+Hempstead,Hope 7,0.25% County Wide Sales and Use Tax for Economic,,NON,FOR,129,76,10,43
+Hempstead,Bingen,0.25% County Wide Sales and Use Tax for Economic,,NON,FOR,60,6,3,51
+Hempstead,Blevins,0.25% County Wide Sales and Use Tax for Economic,,NON,FOR,62,16,2,44
+Hempstead,Columbus,0.25% County Wide Sales and Use Tax for Economic,,NON,FOR,26,10,0,16
+Hempstead,Crossroads,0.25% County Wide Sales and Use Tax for Economic,,NON,FOR,26,7,1,18
+Hempstead,Deann,0.25% County Wide Sales and Use Tax for Economic,,NON,FOR,61,34,5,22
+Hempstead,Fulton,0.25% County Wide Sales and Use Tax for Economic,,NON,FOR,39,11,2,26
+Hempstead,Guernsey,0.25% County Wide Sales and Use Tax for Economic,,NON,FOR,24,15,1,8
+Hempstead,McCaskill,0.25% County Wide Sales and Use Tax for Economic,,NON,FOR,55,16,1,38
+Hempstead,McNab,0.25% County Wide Sales and Use Tax for Economic,,NON,FOR,10,4,0,6
+Hempstead,Ozan,0.25% County Wide Sales and Use Tax for Economic,,NON,FOR,51,13,0,38
+Hempstead,Patmos,0.25% County Wide Sales and Use Tax for Economic,,NON,FOR,52,19,0,33
+Hempstead,Perrytown,0.25% County Wide Sales and Use Tax for Economic,,NON,FOR,42,28,3,11
+Hempstead,Rocky Mound,0.25% County Wide Sales and Use Tax for Economic,,NON,FOR,57,28,3,26
+Hempstead,Saratoga,0.25% County Wide Sales and Use Tax for Economic,,NON,FOR,23,3,1,19
+Hempstead,Shover Springs,0.25% County Wide Sales and Use Tax for Economic,,NON,FOR,55,36,0,19
+Hempstead,Spring Hill,0.25% County Wide Sales and Use Tax for Economic,,NON,FOR,124,46,7,71
+Hempstead,Washington,0.25% County Wide Sales and Use Tax for Economic,,NON,FOR,35,11,0,24
+Hempstead,Hope 1,0.25% County Wide Sales and Use Tax for Economic,,NON,AGAINST,166,99,2,65
+Hempstead,Hope 2,0.25% County Wide Sales and Use Tax for Economic,,NON,AGAINST,112,60,6,46
+Hempstead,Hope 3,0.25% County Wide Sales and Use Tax for Economic,,NON,AGAINST,175,102,12,61
+Hempstead,Hope 4,0.25% County Wide Sales and Use Tax for Economic,,NON,AGAINST,102,67,4,31
+Hempstead,Hope 5,0.25% County Wide Sales and Use Tax for Economic,,NON,AGAINST,174,111,19,44
+Hempstead,Hope 6,0.25% County Wide Sales and Use Tax for Economic,,NON,AGAINST,106,60,4,42
+Hempstead,Hope 7,0.25% County Wide Sales and Use Tax for Economic,,NON,AGAINST,248,154,12,82
+Hempstead,Bingen,0.25% County Wide Sales and Use Tax for Economic,,NON,AGAINST,178,21,12,145
+Hempstead,Blevins,0.25% County Wide Sales and Use Tax for Economic,,NON,AGAINST,178,49,2,127
+Hempstead,Columbus,0.25% County Wide Sales and Use Tax for Economic,,NON,AGAINST,38,7,0,31
+Hempstead,Crossroads,0.25% County Wide Sales and Use Tax for Economic,,NON,AGAINST,67,13,1,53
+Hempstead,Deann,0.25% County Wide Sales and Use Tax for Economic,,NON,AGAINST,107,57,3,47
+Hempstead,Fulton,0.25% County Wide Sales and Use Tax for Economic,,NON,AGAINST,82,17,4,61
+Hempstead,Guernsey,0.25% County Wide Sales and Use Tax for Economic,,NON,AGAINST,69,30,3,36
+Hempstead,McCaskill,0.25% County Wide Sales and Use Tax for Economic,,NON,AGAINST,145,28,1,116
+Hempstead,McNab,0.25% County Wide Sales and Use Tax for Economic,,NON,AGAINST,19,6,0,13
+Hempstead,Ozan,0.25% County Wide Sales and Use Tax for Economic,,NON,AGAINST,100,15,1,84
+Hempstead,Patmos,0.25% County Wide Sales and Use Tax for Economic,,NON,AGAINST,113,45,3,65
+Hempstead,Perrytown,0.25% County Wide Sales and Use Tax for Economic,,NON,AGAINST,91,53,4,34
+Hempstead,Rocky Mound,0.25% County Wide Sales and Use Tax for Economic,,NON,AGAINST,112,71,3,38
+Hempstead,Saratoga,0.25% County Wide Sales and Use Tax for Economic,,NON,AGAINST,58,11,0,47
+Hempstead,Shover Springs,0.25% County Wide Sales and Use Tax for Economic,,NON,AGAINST,108,71,4,33
+Hempstead,Spring Hill,0.25% County Wide Sales and Use Tax for Economic,,NON,AGAINST,358,132,6,220
+Hempstead,Washington,0.25% County Wide Sales and Use Tax for Economic,,NON,AGAINST,80,17,1,62
+Hempstead,Hope 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,158,102,3,53
+Hempstead,Hope 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,80,27,6,47
+Hempstead,Hope 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,117,70,8,39
+Hempstead,Hope 4,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,58,27,4,27
+Hempstead,Hope 5,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,130,75,15,40
+Hempstead,Hope 6,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,54,32,2,20
+Hempstead,Hope 7,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,137,76,15,46
+Hempstead,Bingen,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,62,12,4,46
+Hempstead,Blevins,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,73,23,1,49
+Hempstead,Columbus,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,24,3,1,20
+Hempstead,Crossroads,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,38,6,0,32
+Hempstead,Deann,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,64,37,2,25
+Hempstead,Fulton,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,38,11,3,24
+Hempstead,Guernsey,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,42,22,3,17
+Hempstead,McCaskill,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,57,14,0,43
+Hempstead,McNab,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,12,6,0,6
+Hempstead,Ozan,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,63,11,1,51
+Hempstead,Patmos,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,59,24,0,35
+Hempstead,Perrytown,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,47,29,5,13
+Hempstead,Rocky Mound,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,60,35,3,22
+Hempstead,Saratoga,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,23,5,1,17
+Hempstead,Shover Springs,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,63,36,2,25
+Hempstead,Spring Hill,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,133,61,4,68
+Hempstead,Washington,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,38,6,0,32
+Hempstead,Hope 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,166,101,5,60
+Hempstead,Hope 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,101,57,8,36
+Hempstead,Hope 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,191,124,11,56
+Hempstead,Hope 4,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,95,73,2,20
+Hempstead,Hope 5,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,182,121,17,44
+Hempstead,Hope 6,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,104,62,3,39
+Hempstead,Hope 7,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,237,151,6,80
+Hempstead,Bingen,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,172,15,11,146
+Hempstead,Blevins,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,162,42,3,117
+Hempstead,Columbus,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,42,14,0,28
+Hempstead,Crossroads,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,56,13,1,42
+Hempstead,Deann,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,100,52,5,43
+Hempstead,Fulton,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,78,15,3,60
+Hempstead,Guernsey,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,47,22,1,24
+Hempstead,McCaskill,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,138,28,2,108
+Hempstead,McNab,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,15,3,0,12
+Hempstead,Ozan,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,87,18,0,69
+Hempstead,Patmos,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,104,39,3,62
+Hempstead,Perrytown,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,83,49,2,32
+Hempstead,Rocky Mound,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,111,65,4,42
+Hempstead,Saratoga,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,59,12,0,47
+Hempstead,Shover Springs,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,98,67,2,29
+Hempstead,Spring Hill,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,328,111,8,209
+Hempstead,Washington,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,77,20,1,56
+Hempstead,Hope 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,140,87,4,49
+Hempstead,Hope 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,78,32,6,40
+Hempstead,Hope 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,136,85,9,42
+Hempstead,Hope 4,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,63,34,4,25
+Hempstead,Hope 5,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,145,82,17,46
+Hempstead,Hope 6,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,60,32,2,26
+Hempstead,Hope 7,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,180,109,14,57
+Hempstead,Bingen,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,90,15,3,72
+Hempstead,Blevins,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,92,22,1,69
+Hempstead,Columbus,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,29,2,1,26
+Hempstead,Crossroads,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,42,7,0,35
+Hempstead,Deann,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,68,39,5,24
+Hempstead,Fulton,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,50,12,2,36
+Hempstead,Guernsey,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,36,20,1,15
+Hempstead,McCaskill,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,79,15,0,64
+Hempstead,McNab,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,17,10,0,7
+Hempstead,Ozan,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,51,12,0,39
+Hempstead,Patmos,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,72,26,1,45
+Hempstead,Perrytown,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,60,34,4,22
+Hempstead,Rocky Mound,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,72,36,2,34
+Hempstead,Saratoga,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,43,11,0,32
+Hempstead,Shover Springs,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,69,42,2,25
+Hempstead,Spring Hill,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,144,57,7,80
+Hempstead,Washington,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,39,5,0,34
+Hempstead,Hope 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,192,120,4,68
+Hempstead,Hope 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,107,54,8,45
+Hempstead,Hope 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,175,110,10,55
+Hempstead,Hope 4,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,97,71,2,24
+Hempstead,Hope 5,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,172,116,18,38
+Hempstead,Hope 6,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,99,63,3,33
+Hempstead,Hope 7,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,202,123,8,71
+Hempstead,Bingen,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,146,11,12,123
+Hempstead,Blevins,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,148,43,4,101
+Hempstead,Columbus,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,36,15,0,21
+Hempstead,Crossroads,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,55,13,2,40
+Hempstead,Deann,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,93,48,3,42
+Hempstead,Fulton,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,70,16,4,50
+Hempstead,Guernsey,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,56,25,3,28
+Hempstead,McCaskill,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,119,28,1,90
+Hempstead,McNab,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,10,0,0,10
+Hempstead,Ozan,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,101,18,1,82
+Hempstead,Patmos,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,95,38,2,55
+Hempstead,Perrytown,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,74,48,3,23
+Hempstead,Rocky Mound,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,97,64,4,29
+Hempstead,Saratoga,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,42,5,1,36
+Hempstead,Shover Springs,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,91,60,2,29
+Hempstead,Spring Hill,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,320,115,6,199
+Hempstead,Washington,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,76,21,1,54
+Hempstead,Hope 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,195,117,5,73
+Hempstead,Hope 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,109,49,11,49
+Hempstead,Hope 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,164,105,9,50
+Hempstead,Hope 4,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,89,54,3,32
+Hempstead,Hope 5,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,161,93,17,51
+Hempstead,Hope 6,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,77,40,2,35
+Hempstead,Hope 7,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,187,112,14,61
+Hempstead,Bingen,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,105,17,7,81
+Hempstead,Blevins,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,98,29,2,67
+Hempstead,Columbus,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,38,8,0,30
+Hempstead,Crossroads,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,37,6,0,31
+Hempstead,Deann,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,91,50,6,35
+Hempstead,Fulton,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,74,21,2,51
+Hempstead,Guernsey,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,53,28,2,23
+Hempstead,McCaskill,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,84,18,0,66
+Hempstead,McNab,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,20,9,0,11
+Hempstead,Ozan,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,83,19,1,63
+Hempstead,Patmos,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,74,29,2,43
+Hempstead,Perrytown,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,71,45,4,22
+Hempstead,Rocky Mound,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,75,41,2,32
+Hempstead,Saratoga,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,49,12,0,37
+Hempstead,Shover Springs,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,88,58,1,29
+Hempstead,Spring Hill,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,193,77,8,108
+Hempstead,Washington,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,56,12,0,44
+Hempstead,Hope 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,134,88,3,43
+Hempstead,Hope 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,76,37,3,36
+Hempstead,Hope 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,148,91,10,47
+Hempstead,Hope 4,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,69,49,3,17
+Hempstead,Hope 5,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,157,107,17,33
+Hempstead,Hope 6,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,85,56,3,26
+Hempstead,Hope 7,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,196,121,8,67
+Hempstead,Bingen,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,133,9,8,116
+Hempstead,Blevins,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,139,36,2,101
+Hempstead,Columbus,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,28,9,1,18
+Hempstead,Crossroads,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,60,14,1,45
+Hempstead,Deann,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,75,40,2,33
+Hempstead,Fulton,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,48,7,4,37
+Hempstead,Guernsey,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,37,16,2,19
+Hempstead,McCaskill,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,115,25,1,89
+Hempstead,McNab,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,8,1,0,7
+Hempstead,Ozan,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,72,11,0,61
+Hempstead,Patmos,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,92,35,1,56
+Hempstead,Perrytown,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,64,38,3,23
+Hempstead,Rocky Mound,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,93,57,4,32
+Hempstead,Saratoga,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,38,4,1,33
+Hempstead,Shover Springs,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,77,49,3,25
+Hempstead,Spring Hill,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,281,98,5,178
+Hempstead,Washington,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,60,15,1,44
+Hempstead,Hope 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,177,96,4,77
+Hempstead,Hope 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,118,48,10,60
+Hempstead,Hope 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,116,65,12,39
+Hempstead,Hope 4,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,107,66,4,37
+Hempstead,Hope 5,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,132,68,10,54
+Hempstead,Hope 6,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,56,32,3,21
+Hempstead,Hope 7,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,125,77,11,37
+Hempstead,Bingen,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,72,6,7,59
+Hempstead,Blevins,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,75,18,2,55
+Hempstead,Columbus,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,27,10,0,17
+Hempstead,Crossroads,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,45,5,1,39
+Hempstead,Deann,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,78,45,2,31
+Hempstead,Fulton,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,61,16,3,42
+Hempstead,Guernsey,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,30,14,1,15
+Hempstead,McCaskill,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,71,18,0,53
+Hempstead,McNab,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,12,4,0,8
+Hempstead,Ozan,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,74,11,0,63
+Hempstead,Patmos,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,65,23,1,41
+Hempstead,Perrytown,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,39,20,4,15
+Hempstead,Rocky Mound,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,53,29,1,23
+Hempstead,Saratoga,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,35,7,0,28
+Hempstead,Shover Springs,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,55,34,0,21
+Hempstead,Spring Hill,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,125,54,2,69
+Hempstead,Washington,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,50,15,0,35
+Hempstead,Hope 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,161,116,4,41
+Hempstead,Hope 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,73,41,4,28
+Hempstead,Hope 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,203,134,8,61
+Hempstead,Hope 4,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,60,45,2,13
+Hempstead,Hope 5,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,201,138,26,37
+Hempstead,Hope 6,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,107,64,2,41
+Hempstead,Hope 7,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,258,156,11,91
+Hempstead,Bingen,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,167,21,8,138
+Hempstead,Blevins,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,169,48,3,118
+Hempstead,Columbus,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,38,6,1,31
+Hempstead,Crossroads,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,52,14,1,37
+Hempstead,Deann,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,89,47,6,36
+Hempstead,Fulton,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,61,12,3,46
+Hempstead,Guernsey,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,64,32,3,29
+Hempstead,McCaskill,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,130,26,1,103
+Hempstead,McNab,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,16,6,0,10
+Hempstead,Ozan,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,86,18,1,67
+Hempstead,Patmos,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,103,42,2,59
+Hempstead,Perrytown,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,97,64,3,30
+Hempstead,Rocky Mound,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,120,73,5,42
+Hempstead,Saratoga,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,57,10,1,46
+Hempstead,Shover Springs,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,113,75,4,34
+Hempstead,Spring Hill,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,349,122,11,216
+Hempstead,Washington,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,69,14,1,54

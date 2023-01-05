@@ -1,0 +1,817 @@
+county,precinct,office,district,party,candidate,votes,early_vote,absentee,election_day
+Perry,1 Aplin,U.S. Senate,,LIB,Kenneth Cates,6,2,0,4
+Perry,2 Casa,U.S. Senate,,LIB,Kenneth Cates,6,4,0,2
+Perry,3 Cherry Hill,U.S. Senate,,LIB,Kenneth Cates,1,0,0,1
+Perry,4 Fourche,U.S. Senate,,LIB,Kenneth Cates,24,18,0,6
+Perry,5 Houston,U.S. Senate,,LIB,Kenneth Cates,11,4,0,7
+Perry,6 Kenney,U.S. Senate,,LIB,Kenneth Cates,3,0,0,3
+Perry,7 Lake,U.S. Senate,,LIB,Kenneth Cates,7,4,0,3
+Perry,8 Maumelle,U.S. Senate,,LIB,Kenneth Cates,15,10,0,5
+Perry,9 New Tennessee,U.S. Senate,,LIB,Kenneth Cates,3,3,0,0
+Perry,10 Perry,U.S. Senate,,LIB,Kenneth Cates,10,1,0,9
+Perry,11 Petit Jean,U.S. Senate,,LIB,Kenneth Cates,7,5,0,2
+Perry,12 Rankin,U.S. Senate,,LIB,Kenneth Cates,20,13,0,7
+Perry,13 Rose Creek,U.S. Senate,,LIB,Kenneth Cates,3,1,0,2
+Perry,14 Tyler,U.S. Senate,,LIB,Kenneth Cates,3,0,0,3
+Perry,15 Union,U.S. Senate,,LIB,Kenneth Cates,16,6,0,10
+Perry,16 Union Valley,U.S. Senate,,LIB,Kenneth Cates,4,1,0,3
+Perry,17 Wye,U.S. Senate,,LIB,Kenneth Cates,22,5,0,17
+Perry,1 Aplin,U.S. Senate,,REP,Senator John Boozman,97,37,0,60
+Perry,2 Casa,U.S. Senate,,REP,Senator John Boozman,109,32,1,76
+Perry,3 Cherry Hill,U.S. Senate,,REP,Senator John Boozman,69,48,1,20
+Perry,4 Fourche,U.S. Senate,,REP,Senator John Boozman,400,319,2,79
+Perry,5 Houston,U.S. Senate,,REP,Senator John Boozman,262,124,0,138
+Perry,6 Kenney,U.S. Senate,,REP,Senator John Boozman,40,10,1,29
+Perry,7 Lake,U.S. Senate,,REP,Senator John Boozman,175,120,0,55
+Perry,8 Maumelle,U.S. Senate,,REP,Senator John Boozman,176,128,4,44
+Perry,9 New Tennessee,U.S. Senate,,REP,Senator John Boozman,68,31,0,37
+Perry,10 Perry,U.S. Senate,,REP,Senator John Boozman,286,75,3,208
+Perry,11 Petit Jean,U.S. Senate,,REP,Senator John Boozman,129,88,0,41
+Perry,12 Rankin,U.S. Senate,,REP,Senator John Boozman,339,217,3,119
+Perry,13 Rose Creek,U.S. Senate,,REP,Senator John Boozman,67,29,1,37
+Perry,14 Tyler,U.S. Senate,,REP,Senator John Boozman,75,9,0,66
+Perry,15 Union,U.S. Senate,,REP,Senator John Boozman,255,81,2,172
+Perry,16 Union Valley,U.S. Senate,,REP,Senator John Boozman,105,61,2,42
+Perry,17 Wye,U.S. Senate,,REP,Senator John Boozman,267,59,3,205
+Perry,1 Aplin,U.S. Senate,,DEM,Natalie James,15,2,0,13
+Perry,2 Casa,U.S. Senate,,DEM,Natalie James,24,14,0,10
+Perry,3 Cherry Hill,U.S. Senate,,DEM,Natalie James,14,6,0,8
+Perry,4 Fourche,U.S. Senate,,DEM,Natalie James,96,67,3,26
+Perry,5 Houston,U.S. Senate,,DEM,Natalie James,38,26,0,12
+Perry,6 Kenney,U.S. Senate,,DEM,Natalie James,5,3,0,2
+Perry,7 Lake,U.S. Senate,,DEM,Natalie James,29,21,0,8
+Perry,8 Maumelle,U.S. Senate,,DEM,Natalie James,39,31,0,8
+Perry,9 New Tennessee,U.S. Senate,,DEM,Natalie James,13,7,0,6
+Perry,10 Perry,U.S. Senate,,DEM,Natalie James,59,21,2,36
+Perry,11 Petit Jean,U.S. Senate,,DEM,Natalie James,24,12,0,12
+Perry,12 Rankin,U.S. Senate,,DEM,Natalie James,87,66,0,21
+Perry,13 Rose Creek,U.S. Senate,,DEM,Natalie James,18,3,2,13
+Perry,14 Tyler,U.S. Senate,,DEM,Natalie James,16,0,0,16
+Perry,15 Union,U.S. Senate,,DEM,Natalie James,98,33,1,64
+Perry,16 Union Valley,U.S. Senate,,DEM,Natalie James,35,17,0,18
+Perry,17 Wye,U.S. Senate,,DEM,Natalie James,102,29,1,72
+Perry,1 Aplin,U.S. Congress District 02,,LIB,Michael White,3,1,0,2
+Perry,2 Casa,U.S. Congress District 02,,LIB,Michael White,8,3,0,5
+Perry,3 Cherry Hill,U.S. Congress District 02,,LIB,Michael White,1,0,0,1
+Perry,4 Fourche,U.S. Congress District 02,,LIB,Michael White,26,19,0,7
+Perry,5 Houston,U.S. Congress District 02,,LIB,Michael White,15,5,0,10
+Perry,6 Kenney,U.S. Congress District 02,,LIB,Michael White,5,0,0,5
+Perry,7 Lake,U.S. Congress District 02,,LIB,Michael White,7,5,0,2
+Perry,8 Maumelle,U.S. Congress District 02,,LIB,Michael White,19,12,0,7
+Perry,9 New Tennessee,U.S. Congress District 02,,LIB,Michael White,4,3,0,1
+Perry,10 Perry,U.S. Congress District 02,,LIB,Michael White,13,4,0,9
+Perry,11 Petit Jean,U.S. Congress District 02,,LIB,Michael White,7,5,0,2
+Perry,12 Rankin,U.S. Congress District 02,,LIB,Michael White,26,18,0,8
+Perry,13 Rose Creek,U.S. Congress District 02,,LIB,Michael White,4,1,0,3
+Perry,14 Tyler,U.S. Congress District 02,,LIB,Michael White,1,0,0,1
+Perry,15 Union,U.S. Congress District 02,,LIB,Michael White,17,9,0,8
+Perry,16 Union Valley,U.S. Congress District 02,,LIB,Michael White,6,2,0,4
+Perry,17 Wye,U.S. Congress District 02,,LIB,Michael White,24,6,0,18
+Perry,1 Aplin,U.S. Congress District 02,,DEM,Quintessa Hathaway,16,2,0,14
+Perry,2 Casa,U.S. Congress District 02,,DEM,Quintessa Hathaway,21,13,0,8
+Perry,3 Cherry Hill,U.S. Congress District 02,,DEM,Quintessa Hathaway,13,6,0,7
+Perry,4 Fourche,U.S. Congress District 02,,DEM,Quintessa Hathaway,93,66,2,25
+Perry,5 Houston,U.S. Congress District 02,,DEM,Quintessa Hathaway,33,22,0,11
+Perry,6 Kenney,U.S. Congress District 02,,DEM,Quintessa Hathaway,5,3,0,2
+Perry,7 Lake,U.S. Congress District 02,,DEM,Quintessa Hathaway,26,20,0,6
+Perry,8 Maumelle,U.S. Congress District 02,,DEM,Quintessa Hathaway,35,27,0,8
+Perry,9 New Tennessee,U.S. Congress District 02,,DEM,Quintessa Hathaway,11,6,0,5
+Perry,10 Perry,U.S. Congress District 02,,DEM,Quintessa Hathaway,57,19,2,36
+Perry,11 Petit Jean,U.S. Congress District 02,,DEM,Quintessa Hathaway,26,14,0,12
+Perry,12 Rankin,U.S. Congress District 02,,DEM,Quintessa Hathaway,83,62,0,21
+Perry,13 Rose Creek,U.S. Congress District 02,,DEM,Quintessa Hathaway,13,3,0,10
+Perry,14 Tyler,U.S. Congress District 02,,DEM,Quintessa Hathaway,17,0,0,17
+Perry,15 Union,U.S. Congress District 02,,DEM,Quintessa Hathaway,92,29,1,62
+Perry,16 Union Valley,U.S. Congress District 02,,DEM,Quintessa Hathaway,31,15,0,16
+Perry,17 Wye,U.S. Congress District 02,,DEM,Quintessa Hathaway,93,24,1,68
+Perry,1 Aplin,U.S. Congress District 02,,REP,Congressman French Hill,98,37,0,61
+Perry,2 Casa,U.S. Congress District 02,,REP,Congressman French Hill,110,34,1,75
+Perry,3 Cherry Hill,U.S. Congress District 02,,REP,Congressman French Hill,71,49,1,21
+Perry,4 Fourche,U.S. Congress District 02,,REP,Congressman French Hill,405,324,3,78
+Perry,5 Houston,U.S. Congress District 02,,REP,Congressman French Hill,262,125,0,137
+Perry,6 Kenney,U.S. Congress District 02,,REP,Congressman French Hill,38,10,1,27
+Perry,7 Lake,U.S. Congress District 02,,REP,Congressman French Hill,178,119,0,59
+Perry,8 Maumelle,U.S. Congress District 02,,REP,Congressman French Hill,175,130,4,41
+Perry,9 New Tennessee,U.S. Congress District 02,,REP,Congressman French Hill,68,32,0,36
+Perry,10 Perry,U.S. Congress District 02,,REP,Congressman French Hill,283,73,3,207
+Perry,11 Petit Jean,U.S. Congress District 02,,REP,Congressman French Hill,125,84,0,41
+Perry,12 Rankin,U.S. Congress District 02,,REP,Congressman French Hill,333,214,3,116
+Perry,13 Rose Creek,U.S. Congress District 02,,REP,Congressman French Hill,70,29,3,38
+Perry,14 Tyler,U.S. Congress District 02,,REP,Congressman French Hill,76,9,0,67
+Perry,15 Union,U.S. Congress District 02,,REP,Congressman French Hill,259,82,2,175
+Perry,16 Union Valley,U.S. Congress District 02,,REP,Congressman French Hill,106,60,2,44
+Perry,17 Wye,U.S. Congress District 02,,REP,Congressman French Hill,270,61,3,206
+Perry,1 Aplin,Attorney General,,DEM,Jesse Gibson,23,7,0,16
+Perry,2 Casa,Attorney General,,DEM,Jesse Gibson,23,14,0,9
+Perry,3 Cherry Hill,Attorney General,,DEM,Jesse Gibson,14,7,0,7
+Perry,4 Fourche,Attorney General,,DEM,Jesse Gibson,105,77,2,26
+Perry,5 Houston,Attorney General,,DEM,Jesse Gibson,46,27,0,19
+Perry,6 Kenney,Attorney General,,DEM,Jesse Gibson,6,3,0,3
+Perry,7 Lake,Attorney General,,DEM,Jesse Gibson,28,20,0,8
+Perry,8 Maumelle,Attorney General,,DEM,Jesse Gibson,45,35,0,10
+Perry,9 New Tennessee,Attorney General,,DEM,Jesse Gibson,12,6,0,6
+Perry,10 Perry,Attorney General,,DEM,Jesse Gibson,70,25,3,42
+Perry,11 Petit Jean,Attorney General,,DEM,Jesse Gibson,25,13,0,12
+Perry,12 Rankin,Attorney General,,DEM,Jesse Gibson,93,70,0,23
+Perry,13 Rose Creek,Attorney General,,DEM,Jesse Gibson,18,3,2,13
+Perry,14 Tyler,Attorney General,,DEM,Jesse Gibson,16,0,0,16
+Perry,15 Union,Attorney General,,DEM,Jesse Gibson,104,37,1,66
+Perry,16 Union Valley,Attorney General,,DEM,Jesse Gibson,39,17,0,22
+Perry,17 Wye,Attorney General,,DEM,Jesse Gibson,105,30,1,74
+Perry,1 Aplin,Attorney General,,REP,Lieutenant Governor Tim Griffin,95,34,0,61
+Perry,2 Casa,Attorney General,,REP,Lieutenant Governor Tim Griffin,116,36,1,79
+Perry,3 Cherry Hill,Attorney General,,REP,Lieutenant Governor Tim Griffin,69,47,1,21
+Perry,4 Fourche,Attorney General,,REP,Lieutenant Governor Tim Griffin,419,331,3,85
+Perry,5 Houston,Attorney General,,REP,Lieutenant Governor Tim Griffin,264,125,0,139
+Perry,6 Kenney,Attorney General,,REP,Lieutenant Governor Tim Griffin,43,11,1,31
+Perry,7 Lake,Attorney General,,REP,Lieutenant Governor Tim Griffin,179,121,0,58
+Perry,8 Maumelle,Attorney General,,REP,Lieutenant Governor Tim Griffin,183,133,4,46
+Perry,9 New Tennessee,Attorney General,,REP,Lieutenant Governor Tim Griffin,71,34,0,37
+Perry,10 Perry,Attorney General,,REP,Lieutenant Governor Tim Griffin,285,72,2,211
+Perry,11 Petit Jean,Attorney General,,REP,Lieutenant Governor Tim Griffin,134,91,0,43
+Perry,12 Rankin,Attorney General,,REP,Lieutenant Governor Tim Griffin,350,226,3,121
+Perry,13 Rose Creek,Attorney General,,REP,Lieutenant Governor Tim Griffin,70,30,1,39
+Perry,14 Tyler,Attorney General,,REP,Lieutenant Governor Tim Griffin,78,9,0,69
+Perry,15 Union,Attorney General,,REP,Lieutenant Governor Tim Griffin,262,80,2,180
+Perry,16 Union Valley,Attorney General,,REP,Lieutenant Governor Tim Griffin,104,61,2,41
+Perry,17 Wye,Attorney General,,REP,Lieutenant Governor Tim Griffin,283,62,3,218
+Perry,1 Aplin,Auditor of State,,LIB,Simeon Snow,3,1,0,2
+Perry,2 Casa,Auditor of State,,LIB,Simeon Snow,2,1,0,1
+Perry,3 Cherry Hill,Auditor of State,,LIB,Simeon Snow,1,1,0,0
+Perry,4 Fourche,Auditor of State,,LIB,Simeon Snow,19,12,0,7
+Perry,5 Houston,Auditor of State,,LIB,Simeon Snow,13,3,0,10
+Perry,6 Kenney,Auditor of State,,LIB,Simeon Snow,3,0,0,3
+Perry,7 Lake,Auditor of State,,LIB,Simeon Snow,5,2,0,3
+Perry,8 Maumelle,Auditor of State,,LIB,Simeon Snow,7,3,0,4
+Perry,9 New Tennessee,Auditor of State,,LIB,Simeon Snow,6,2,0,4
+Perry,10 Perry,Auditor of State,,LIB,Simeon Snow,18,8,1,9
+Perry,11 Petit Jean,Auditor of State,,LIB,Simeon Snow,2,1,0,1
+Perry,12 Rankin,Auditor of State,,LIB,Simeon Snow,13,7,0,6
+Perry,13 Rose Creek,Auditor of State,,LIB,Simeon Snow,2,0,0,2
+Perry,14 Tyler,Auditor of State,,LIB,Simeon Snow,3,0,0,3
+Perry,15 Union,Auditor of State,,LIB,Simeon Snow,17,5,0,12
+Perry,16 Union Valley,Auditor of State,,LIB,Simeon Snow,6,1,0,5
+Perry,17 Wye,Auditor of State,,LIB,Simeon Snow,19,5,0,14
+Perry,1 Aplin,Auditor of State,,REP,Treasurer of State Dennis Milligan,93,34,0,59
+Perry,2 Casa,Auditor of State,,REP,Treasurer of State Dennis Milligan,117,36,1,80
+Perry,3 Cherry Hill,Auditor of State,,REP,Treasurer of State Dennis Milligan,68,44,1,23
+Perry,4 Fourche,Auditor of State,,REP,Treasurer of State Dennis Milligan,412,327,2,83
+Perry,5 Houston,Auditor of State,,REP,Treasurer of State Dennis Milligan,255,122,0,133
+Perry,6 Kenney,Auditor of State,,REP,Treasurer of State Dennis Milligan,39,11,1,27
+Perry,7 Lake,Auditor of State,,REP,Treasurer of State Dennis Milligan,173,116,0,57
+Perry,8 Maumelle,Auditor of State,,REP,Treasurer of State Dennis Milligan,183,135,4,44
+Perry,9 New Tennessee,Auditor of State,,REP,Treasurer of State Dennis Milligan,68,34,0,34
+Perry,10 Perry,Auditor of State,,REP,Treasurer of State Dennis Milligan,272,68,2,202
+Perry,11 Petit Jean,Auditor of State,,REP,Treasurer of State Dennis Milligan,132,92,0,40
+Perry,12 Rankin,Auditor of State,,REP,Treasurer of State Dennis Milligan,333,215,3,115
+Perry,13 Rose Creek,Auditor of State,,REP,Treasurer of State Dennis Milligan,67,29,1,37
+Perry,14 Tyler,Auditor of State,,REP,Treasurer of State Dennis Milligan,75,9,0,66
+Perry,15 Union,Auditor of State,,REP,Treasurer of State Dennis Milligan,251,80,2,169
+Perry,16 Union Valley,Auditor of State,,REP,Treasurer of State Dennis Milligan,102,60,2,40
+Perry,17 Wye,Auditor of State,,REP,Treasurer of State Dennis Milligan,273,62,3,208
+Perry,1 Aplin,Auditor of State,,DEM,Diamond Arnold-Johnson,16,3,0,13
+Perry,2 Casa,Auditor of State,,DEM,Diamond Arnold-Johnson,20,13,0,7
+Perry,3 Cherry Hill,Auditor of State,,DEM,Diamond Arnold-Johnson,12,6,0,6
+Perry,4 Fourche,Auditor of State,,DEM,Diamond Arnold-Johnson,89,66,3,20
+Perry,5 Houston,Auditor of State,,DEM,Diamond Arnold-Johnson,37,26,0,11
+Perry,6 Kenney,Auditor of State,,DEM,Diamond Arnold-Johnson,5,2,0,3
+Perry,7 Lake,Auditor of State,,DEM,Diamond Arnold-Johnson,28,21,0,7
+Perry,8 Maumelle,Auditor of State,,DEM,Diamond Arnold-Johnson,37,29,0,8
+Perry,9 New Tennessee,Auditor of State,,DEM,Diamond Arnold-Johnson,9,5,0,4
+Perry,10 Perry,Auditor of State,,DEM,Diamond Arnold-Johnson,59,18,2,39
+Perry,11 Petit Jean,Auditor of State,,DEM,Diamond Arnold-Johnson,22,10,0,12
+Perry,12 Rankin,Auditor of State,,DEM,Diamond Arnold-Johnson,89,67,0,22
+Perry,13 Rose Creek,Auditor of State,,DEM,Diamond Arnold-Johnson,14,4,2,8
+Perry,14 Tyler,Auditor of State,,DEM,Diamond Arnold-Johnson,16,0,0,16
+Perry,15 Union,Auditor of State,,DEM,Diamond Arnold-Johnson,91,32,1,58
+Perry,16 Union Valley,Auditor of State,,DEM,Diamond Arnold-Johnson,30,14,0,16
+Perry,17 Wye,Auditor of State,,DEM,Diamond Arnold-Johnson,94,24,1,69
+Perry,1 Aplin,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,97,36,0,61
+Perry,2 Casa,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,115,35,1,79
+Perry,3 Cherry Hill,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,69,46,1,22
+Perry,4 Fourche,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,416,328,3,85
+Perry,5 Houston,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,260,123,0,137
+Perry,6 Kenney,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,42,11,1,30
+Perry,7 Lake,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,183,122,0,61
+Perry,8 Maumelle,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,190,140,4,46
+Perry,9 New Tennessee,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,71,34,0,37
+Perry,10 Perry,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,292,79,2,211
+Perry,11 Petit Jean,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,131,90,0,41
+Perry,12 Rankin,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,343,221,3,119
+Perry,13 Rose Creek,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,70,30,1,39
+Perry,14 Tyler,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,77,9,0,68
+Perry,15 Union,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,265,88,2,175
+Perry,16 Union Valley,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,104,60,2,42
+Perry,17 Wye,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,277,64,2,211
+Perry,1 Aplin,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,17,3,0,14
+Perry,2 Casa,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,22,14,0,8
+Perry,3 Cherry Hill,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,14,7,0,7
+Perry,4 Fourche,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,102,75,2,25
+Perry,5 Houston,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,41,28,0,13
+Perry,6 Kenney,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,5,2,0,3
+Perry,7 Lake,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,25,19,0,6
+Perry,8 Maumelle,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,35,26,0,9
+Perry,9 New Tennessee,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,11,6,0,5
+Perry,10 Perry,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,61,19,3,39
+Perry,11 Petit Jean,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,26,13,0,13
+Perry,12 Rankin,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,91,68,0,23
+Perry,13 Rose Creek,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,13,3,2,8
+Perry,14 Tyler,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,17,0,0,17
+Perry,15 Union,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,97,31,1,65
+Perry,16 Union Valley,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,33,15,0,18
+Perry,17 Wye,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,102,28,2,72
+Perry,1 Aplin,Governor,,REP,Sarah Huckabee Sanders,93,34,0,59
+Perry,2 Casa,Governor,,REP,Sarah Huckabee Sanders,109,33,1,75
+Perry,3 Cherry Hill,Governor,,REP,Sarah Huckabee Sanders,69,46,1,22
+Perry,4 Fourche,Governor,,REP,Sarah Huckabee Sanders,395,310,3,82
+Perry,5 Houston,Governor,,REP,Sarah Huckabee Sanders,261,122,0,139
+Perry,6 Kenney,Governor,,REP,Sarah Huckabee Sanders,40,10,1,29
+Perry,7 Lake,Governor,,REP,Sarah Huckabee Sanders,176,116,0,60
+Perry,8 Maumelle,Governor,,REP,Sarah Huckabee Sanders,177,129,4,44
+Perry,9 New Tennessee,Governor,,REP,Sarah Huckabee Sanders,68,31,0,37
+Perry,10 Perry,Governor,,REP,Sarah Huckabee Sanders,273,71,2,200
+Perry,11 Petit Jean,Governor,,REP,Sarah Huckabee Sanders,127,89,0,38
+Perry,12 Rankin,Governor,,REP,Sarah Huckabee Sanders,333,214,3,116
+Perry,13 Rose Creek,Governor,,REP,Sarah Huckabee Sanders,67,29,1,37
+Perry,14 Tyler,Governor,,REP,Sarah Huckabee Sanders,71,9,0,62
+Perry,15 Union,Governor,,REP,Sarah Huckabee Sanders,245,78,2,165
+Perry,16 Union Valley,Governor,,REP,Sarah Huckabee Sanders,104,61,2,41
+Perry,17 Wye,Governor,,REP,Sarah Huckabee Sanders,265,58,2,205
+Perry,1 Aplin,Governor,,DEM,Chris Jones,25,7,0,18
+Perry,2 Casa,Governor,,DEM,Chris Jones,27,14,0,13
+Perry,3 Cherry Hill,Governor,,DEM,Chris Jones,13,6,0,7
+Perry,4 Fourche,Governor,,DEM,Chris Jones,117,90,2,25
+Perry,5 Houston,Governor,,DEM,Chris Jones,48,32,0,16
+Perry,6 Kenney,Governor,,DEM,Chris Jones,6,4,0,2
+Perry,7 Lake,Governor,,DEM,Chris Jones,35,29,0,6
+Perry,8 Maumelle,Governor,,DEM,Chris Jones,51,41,0,10
+Perry,9 New Tennessee,Governor,,DEM,Chris Jones,16,10,0,6
+Perry,10 Perry,Governor,,DEM,Chris Jones,73,26,3,44
+Perry,11 Petit Jean,Governor,,DEM,Chris Jones,34,18,0,16
+Perry,12 Rankin,Governor,,DEM,Chris Jones,108,79,0,29
+Perry,13 Rose Creek,Governor,,DEM,Chris Jones,18,4,2,12
+Perry,14 Tyler,Governor,,DEM,Chris Jones,22,0,0,22
+Perry,15 Union,Governor,,DEM,Chris Jones,115,36,1,78
+Perry,16 Union Valley,Governor,,DEM,Chris Jones,43,21,0,22
+Perry,17 Wye,Governor,,DEM,Chris Jones,120,34,2,84
+Perry,1 Aplin,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Perry,2 Casa,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,3,0,0
+Perry,3 Cherry Hill,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,2,0,0
+Perry,4 Fourche,Governor,,LIB,"Ricky Dale Harrington, Jr.",17,10,0,7
+Perry,5 Houston,Governor,,LIB,"Ricky Dale Harrington, Jr.",4,0,0,4
+Perry,6 Kenney,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,0,0,3
+Perry,7 Lake,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,2,0,0
+Perry,8 Maumelle,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,0,0,3
+Perry,9 New Tennessee,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Perry,10 Perry,Governor,,LIB,"Ricky Dale Harrington, Jr.",10,2,0,8
+Perry,11 Petit Jean,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Perry,12 Rankin,Governor,,LIB,"Ricky Dale Harrington, Jr.",6,4,0,2
+Perry,13 Rose Creek,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,0,0,3
+Perry,14 Tyler,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Perry,15 Union,Governor,,LIB,"Ricky Dale Harrington, Jr.",9,6,0,3
+Perry,16 Union Valley,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Perry,17 Wye,Governor,,LIB,"Ricky Dale Harrington, Jr.",10,1,0,9
+Perry,1 Aplin,Lieutenant Governor,,DEM,Kelly Ross Krout,16,3,0,13
+Perry,2 Casa,Lieutenant Governor,,DEM,Kelly Ross Krout,22,13,0,9
+Perry,3 Cherry Hill,Lieutenant Governor,,DEM,Kelly Ross Krout,10,3,0,7
+Perry,4 Fourche,Lieutenant Governor,,DEM,Kelly Ross Krout,103,76,3,24
+Perry,5 Houston,Lieutenant Governor,,DEM,Kelly Ross Krout,44,26,0,18
+Perry,6 Kenney,Lieutenant Governor,,DEM,Kelly Ross Krout,5,3,0,2
+Perry,7 Lake,Lieutenant Governor,,DEM,Kelly Ross Krout,26,19,0,7
+Perry,8 Maumelle,Lieutenant Governor,,DEM,Kelly Ross Krout,37,29,0,8
+Perry,9 New Tennessee,Lieutenant Governor,,DEM,Kelly Ross Krout,12,7,0,5
+Perry,10 Perry,Lieutenant Governor,,DEM,Kelly Ross Krout,74,26,3,45
+Perry,11 Petit Jean,Lieutenant Governor,,DEM,Kelly Ross Krout,29,14,0,15
+Perry,12 Rankin,Lieutenant Governor,,DEM,Kelly Ross Krout,89,69,0,20
+Perry,13 Rose Creek,Lieutenant Governor,,DEM,Kelly Ross Krout,15,4,2,9
+Perry,14 Tyler,Lieutenant Governor,,DEM,Kelly Ross Krout,15,0,0,15
+Perry,15 Union,Lieutenant Governor,,DEM,Kelly Ross Krout,99,34,1,64
+Perry,16 Union Valley,Lieutenant Governor,,DEM,Kelly Ross Krout,38,17,0,21
+Perry,17 Wye,Lieutenant Governor,,DEM,Kelly Ross Krout,104,30,1,73
+Perry,1 Aplin,Lieutenant Governor,,LIB,Frank Gilbert,3,0,0,3
+Perry,2 Casa,Lieutenant Governor,,LIB,Frank Gilbert,2,1,0,1
+Perry,3 Cherry Hill,Lieutenant Governor,,LIB,Frank Gilbert,4,2,0,2
+Perry,4 Fourche,Lieutenant Governor,,LIB,Frank Gilbert,18,11,0,7
+Perry,5 Houston,Lieutenant Governor,,LIB,Frank Gilbert,10,4,0,6
+Perry,6 Kenney,Lieutenant Governor,,LIB,Frank Gilbert,4,1,0,3
+Perry,7 Lake,Lieutenant Governor,,LIB,Frank Gilbert,10,6,0,4
+Perry,8 Maumelle,Lieutenant Governor,,LIB,Frank Gilbert,15,9,0,6
+Perry,9 New Tennessee,Lieutenant Governor,,LIB,Frank Gilbert,2,1,0,1
+Perry,10 Perry,Lieutenant Governor,,LIB,Frank Gilbert,14,5,0,9
+Perry,11 Petit Jean,Lieutenant Governor,,LIB,Frank Gilbert,3,2,0,1
+Perry,12 Rankin,Lieutenant Governor,,LIB,Frank Gilbert,19,9,0,10
+Perry,13 Rose Creek,Lieutenant Governor,,LIB,Frank Gilbert,2,0,0,2
+Perry,14 Tyler,Lieutenant Governor,,LIB,Frank Gilbert,1,0,0,1
+Perry,15 Union,Lieutenant Governor,,LIB,Frank Gilbert,13,5,0,8
+Perry,16 Union Valley,Lieutenant Governor,,LIB,Frank Gilbert,6,2,0,4
+Perry,17 Wye,Lieutenant Governor,,LIB,Frank Gilbert,27,2,0,25
+Perry,1 Aplin,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,98,37,0,61
+Perry,2 Casa,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,114,36,1,77
+Perry,3 Cherry Hill,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,70,49,1,20
+Perry,4 Fourche,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,407,324,2,81
+Perry,5 Houston,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,259,124,0,135
+Perry,6 Kenney,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,39,9,1,29
+Perry,7 Lake,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,177,122,0,55
+Perry,8 Maumelle,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,177,131,4,42
+Perry,9 New Tennessee,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,70,33,0,37
+Perry,10 Perry,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,265,64,2,199
+Perry,11 Petit Jean,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,126,89,0,37
+Perry,12 Rankin,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,332,215,3,114
+Perry,13 Rose Creek,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,69,28,1,40
+Perry,14 Tyler,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,78,9,0,69
+Perry,15 Union,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,257,81,2,174
+Perry,16 Union Valley,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,99,60,2,37
+Perry,17 Wye,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,256,61,2,193
+Perry,1 Aplin,Secretary of State,,DEM,Anna Beth Gorman,17,4,0,13
+Perry,2 Casa,Secretary of State,,DEM,Anna Beth Gorman,29,17,0,12
+Perry,3 Cherry Hill,Secretary of State,,DEM,Anna Beth Gorman,11,6,0,5
+Perry,4 Fourche,Secretary of State,,DEM,Anna Beth Gorman,120,87,2,31
+Perry,5 Houston,Secretary of State,,DEM,Anna Beth Gorman,45,31,0,14
+Perry,6 Kenney,Secretary of State,,DEM,Anna Beth Gorman,6,3,0,3
+Perry,7 Lake,Secretary of State,,DEM,Anna Beth Gorman,30,22,0,8
+Perry,8 Maumelle,Secretary of State,,DEM,Anna Beth Gorman,42,33,0,9
+Perry,9 New Tennessee,Secretary of State,,DEM,Anna Beth Gorman,15,9,0,6
+Perry,10 Perry,Secretary of State,,DEM,Anna Beth Gorman,70,24,3,43
+Perry,11 Petit Jean,Secretary of State,,DEM,Anna Beth Gorman,30,16,0,14
+Perry,12 Rankin,Secretary of State,,DEM,Anna Beth Gorman,99,73,0,26
+Perry,13 Rose Creek,Secretary of State,,DEM,Anna Beth Gorman,14,3,2,9
+Perry,14 Tyler,Secretary of State,,DEM,Anna Beth Gorman,17,0,0,17
+Perry,15 Union,Secretary of State,,DEM,Anna Beth Gorman,103,31,1,71
+Perry,16 Union Valley,Secretary of State,,DEM,Anna Beth Gorman,33,15,0,18
+Perry,17 Wye,Secretary of State,,DEM,Anna Beth Gorman,109,31,2,76
+Perry,1 Aplin,Secretary of State,,REP,Secretary of State John Thurston,97,33,0,64
+Perry,2 Casa,Secretary of State,,REP,Secretary of State John Thurston,110,33,1,76
+Perry,3 Cherry Hill,Secretary of State,,REP,Secretary of State John Thurston,73,48,1,24
+Perry,4 Fourche,Secretary of State,,REP,Secretary of State John Thurston,403,320,3,80
+Perry,5 Houston,Secretary of State,,REP,Secretary of State John Thurston,261,122,0,139
+Perry,6 Kenney,Secretary of State,,REP,Secretary of State John Thurston,43,11,1,31
+Perry,7 Lake,Secretary of State,,REP,Secretary of State John Thurston,180,121,0,59
+Perry,8 Maumelle,Secretary of State,,REP,Secretary of State John Thurston,187,136,4,47
+Perry,9 New Tennessee,Secretary of State,,REP,Secretary of State John Thurston,67,31,0,36
+Perry,10 Perry,Secretary of State,,REP,Secretary of State John Thurston,284,73,2,209
+Perry,11 Petit Jean,Secretary of State,,REP,Secretary of State John Thurston,128,89,0,39
+Perry,12 Rankin,Secretary of State,,REP,Secretary of State John Thurston,341,222,3,116
+Perry,13 Rose Creek,Secretary of State,,REP,Secretary of State John Thurston,72,30,1,41
+Perry,14 Tyler,Secretary of State,,REP,Secretary of State John Thurston,75,9,0,66
+Perry,15 Union,Secretary of State,,REP,Secretary of State John Thurston,262,87,2,173
+Perry,16 Union Valley,Secretary of State,,REP,Secretary of State John Thurston,109,63,2,44
+Perry,17 Wye,Secretary of State,,REP,Secretary of State John Thurston,277,62,2,213
+Perry,1 Aplin,State Treasurer,,DEM,Pam Whitaker,19,3,0,16
+Perry,2 Casa,State Treasurer,,DEM,Pam Whitaker,25,15,0,10
+Perry,3 Cherry Hill,State Treasurer,,DEM,Pam Whitaker,16,8,0,8
+Perry,4 Fourche,State Treasurer,,DEM,Pam Whitaker,108,78,2,28
+Perry,5 Houston,State Treasurer,,DEM,Pam Whitaker,49,33,0,16
+Perry,6 Kenney,State Treasurer,,DEM,Pam Whitaker,11,4,0,7
+Perry,7 Lake,State Treasurer,,DEM,Pam Whitaker,34,27,0,7
+Perry,8 Maumelle,State Treasurer,,DEM,Pam Whitaker,47,35,0,12
+Perry,9 New Tennessee,State Treasurer,,DEM,Pam Whitaker,13,6,0,7
+Perry,10 Perry,State Treasurer,,DEM,Pam Whitaker,73,23,3,47
+Perry,11 Petit Jean,State Treasurer,,DEM,Pam Whitaker,31,17,0,14
+Perry,12 Rankin,State Treasurer,,DEM,Pam Whitaker,101,75,0,26
+Perry,13 Rose Creek,State Treasurer,,DEM,Pam Whitaker,17,4,2,11
+Perry,14 Tyler,State Treasurer,,DEM,Pam Whitaker,17,0,0,17
+Perry,15 Union,State Treasurer,,DEM,Pam Whitaker,112,37,1,74
+Perry,16 Union Valley,State Treasurer,,DEM,Pam Whitaker,36,16,0,20
+Perry,17 Wye,State Treasurer,,DEM,Pam Whitaker,111,31,1,79
+Perry,1 Aplin,State Treasurer,,REP,State Representative Mark Lowery,91,32,0,59
+Perry,2 Casa,State Treasurer,,REP,State Representative Mark Lowery,113,35,1,77
+Perry,3 Cherry Hill,State Treasurer,,REP,State Representative Mark Lowery,65,44,1,20
+Perry,4 Fourche,State Treasurer,,REP,State Representative Mark Lowery,412,327,3,82
+Perry,5 Houston,State Treasurer,,REP,State Representative Mark Lowery,257,118,0,139
+Perry,6 Kenney,State Treasurer,,REP,State Representative Mark Lowery,37,10,1,26
+Perry,7 Lake,State Treasurer,,REP,State Representative Mark Lowery,176,116,0,60
+Perry,8 Maumelle,State Treasurer,,REP,State Representative Mark Lowery,182,135,4,43
+Perry,9 New Tennessee,State Treasurer,,REP,State Representative Mark Lowery,69,35,0,34
+Perry,10 Perry,State Treasurer,,REP,State Representative Mark Lowery,281,72,2,207
+Perry,11 Petit Jean,State Treasurer,,REP,State Representative Mark Lowery,126,87,0,39
+Perry,12 Rankin,State Treasurer,,REP,State Representative Mark Lowery,338,219,3,116
+Perry,13 Rose Creek,State Treasurer,,REP,State Representative Mark Lowery,69,29,1,39
+Perry,14 Tyler,State Treasurer,,REP,State Representative Mark Lowery,74,9,0,65
+Perry,15 Union,State Treasurer,,REP,State Representative Mark Lowery,251,81,2,168
+Perry,16 Union Valley,State Treasurer,,REP,State Representative Mark Lowery,102,60,2,40
+Perry,17 Wye,State Treasurer,,REP,State Representative Mark Lowery,279,62,3,214
+Perry,1 Aplin,State Senate,05,REP,Senator Terry Rice,92,33,0,59
+Perry,2 Casa,State Senate,05,REP,Senator Terry Rice,114,39,1,74
+Perry,3 Cherry Hill,State Senate,05,REP,Senator Terry Rice,67,44,1,22
+Perry,4 Fourche,State Senate,05,REP,Senator Terry Rice,435,332,3,100
+Perry,5 Houston,State Senate,05,REP,Senator Terry Rice,270,133,0,137
+Perry,6 Kenney,State Senate,05,REP,Senator Terry Rice,45,11,1,33
+Perry,7 Lake,State Senate,05,REP,Senator Terry Rice,186,122,0,64
+Perry,8 Maumelle,State Senate,05,REP,Senator Terry Rice,186,130,4,52
+Perry,9 New Tennessee,State Senate,05,REP,Senator Terry Rice,71,36,0,35
+Perry,10 Perry,State Senate,05,REP,Senator Terry Rice,305,77,5,223
+Perry,11 Petit Jean,State Senate,05,REP,Senator Terry Rice,129,88,0,41
+Perry,12 Rankin,State Senate,05,REP,Senator Terry Rice,371,241,3,127
+Perry,13 Rose Creek,State Senate,05,REP,Senator Terry Rice,69,27,1,41
+Perry,14 Tyler,State Senate,05,REP,Senator Terry Rice,76,9,0,67
+Perry,15 Union,State Senate,05,REP,Senator Terry Rice,299,98,2,199
+Perry,16 Union Valley,State Senate,05,REP,Senator Terry Rice,118,67,2,49
+Perry,17 Wye,State Senate,05,REP,Senator Terry Rice,307,69,3,235
+Perry,1 Aplin,State House,54,REP,State Representative Mary Bentley,99,34,0,65
+Perry,2 Casa,State House,54,REP,State Representative Mary Bentley,121,41,1,79
+Perry,3 Cherry Hill,State House,54,REP,State Representative Mary Bentley,72,49,1,22
+Perry,4 Fourche,State House,54,REP,State Representative Mary Bentley,440,337,2,101
+Perry,5 Houston,State House,54,REP,State Representative Mary Bentley,274,131,0,143
+Perry,6 Kenney,State House,54,REP,State Representative Mary Bentley,46,11,1,34
+Perry,7 Lake,State House,54,REP,State Representative Mary Bentley,185,122,0,63
+Perry,8 Maumelle,State House,54,REP,State Representative Mary Bentley,193,138,2,53
+Perry,9 New Tennessee,State House,54,REP,State Representative Mary Bentley,72,37,0,35
+Perry,10 Perry,State House,54,REP,State Representative Mary Bentley,313,84,5,224
+Perry,11 Petit Jean,State House,54,REP,State Representative Mary Bentley,134,89,0,45
+Perry,12 Rankin,State House,54,REP,State Representative Mary Bentley,374,244,3,127
+Perry,13 Rose Creek,State House,54,REP,State Representative Mary Bentley,79,31,3,45
+Perry,14 Tyler,State House,54,REP,State Representative Mary Bentley,79,8,0,71
+Perry,15 Union,State House,54,REP,State Representative Mary Bentley,309,102,3,204
+Perry,16 Union Valley,State House,54,REP,State Representative Mary Bentley,115,65,0,50
+Perry,17 Wye,State House,54,REP,State Representative Mary Bentley,313,71,3,239
+Perry,1 Aplin,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,49,14,0,35
+Perry,2 Casa,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,64,22,0,42
+Perry,3 Cherry Hill,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,38,25,1,12
+Perry,4 Fourche,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,253,200,2,51
+Perry,5 Houston,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,129,64,0,65
+Perry,6 Kenney,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,24,6,1,17
+Perry,7 Lake,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,84,53,0,31
+Perry,8 Maumelle,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,121,87,2,32
+Perry,9 New Tennessee,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,33,17,0,16
+Perry,10 Perry,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,163,48,2,113
+Perry,11 Petit Jean,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,68,45,0,23
+Perry,12 Rankin,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,194,138,1,55
+Perry,13 Rose Creek,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,49,20,2,27
+Perry,14 Tyler,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,42,1,0,41
+Perry,15 Union,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,161,52,1,108
+Perry,16 Union Valley,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,63,39,2,22
+Perry,17 Wye,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,154,31,1,122
+Perry,1 Aplin,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,44,19,0,25
+Perry,2 Casa,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,56,24,1,31
+Perry,3 Cherry Hill,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,31,20,0,11
+Perry,4 Fourche,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,200,152,1,47
+Perry,5 Houston,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,125,70,0,55
+Perry,6 Kenney,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,19,4,0,15
+Perry,7 Lake,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,97,71,0,26
+Perry,8 Maumelle,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,72,50,2,20
+Perry,9 New Tennessee,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,31,18,0,13
+Perry,10 Perry,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,155,41,3,111
+Perry,11 Petit Jean,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,71,45,0,26
+Perry,12 Rankin,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,186,116,1,69
+Perry,13 Rose Creek,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,32,11,0,21
+Perry,14 Tyler,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,38,6,0,32
+Perry,15 Union,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,145,44,0,101
+Perry,16 Union Valley,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,58,28,0,30
+Perry,17 Wye,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,184,52,3,129
+Perry,1 Aplin,Perry County Judge,,DEM,DEM Toby Davis,52,15,0,37
+Perry,2 Casa,Perry County Judge,,DEM,DEM Toby Davis,44,18,0,26
+Perry,3 Cherry Hill,Perry County Judge,,DEM,DEM Toby Davis,35,25,0,10
+Perry,4 Fourche,Perry County Judge,,DEM,DEM Toby Davis,245,188,3,54
+Perry,5 Houston,Perry County Judge,,DEM,DEM Toby Davis,180,100,0,80
+Perry,6 Kenney,Perry County Judge,,DEM,DEM Toby Davis,20,4,0,16
+Perry,7 Lake,Perry County Judge,,DEM,DEM Toby Davis,94,72,0,22
+Perry,8 Maumelle,Perry County Judge,,DEM,DEM Toby Davis,78,56,2,20
+Perry,9 New Tennessee,Perry County Judge,,DEM,DEM Toby Davis,24,10,0,14
+Perry,10 Perry,Perry County Judge,,DEM,DEM Toby Davis,190,56,3,131
+Perry,11 Petit Jean,Perry County Judge,,DEM,DEM Toby Davis,50,30,0,20
+Perry,12 Rankin,Perry County Judge,,DEM,DEM Toby Davis,174,119,1,54
+Perry,13 Rose Creek,Perry County Judge,,DEM,DEM Toby Davis,43,15,2,26
+Perry,14 Tyler,Perry County Judge,,DEM,DEM Toby Davis,29,0,0,29
+Perry,15 Union,Perry County Judge,,DEM,DEM Toby Davis,166,50,1,115
+Perry,16 Union Valley,Perry County Judge,,DEM,DEM Toby Davis,78,41,2,35
+Perry,17 Wye,Perry County Judge,,DEM,DEM Toby Davis,158,37,2,119
+Perry,1 Aplin,Perry County Judge,,REP,REP Larry Blackmon,66,26,0,40
+Perry,2 Casa,Perry County Judge,,REP,REP Larry Blackmon,95,32,1,62
+Perry,3 Cherry Hill,Perry County Judge,,REP,REP Larry Blackmon,50,30,1,19
+Perry,4 Fourche,Perry County Judge,,REP,REP Larry Blackmon,279,219,2,58
+Perry,5 Houston,Perry County Judge,,REP,REP Larry Blackmon,131,53,0,78
+Perry,6 Kenney,Perry County Judge,,REP,REP Larry Blackmon,29,10,1,18
+Perry,7 Lake,Perry County Judge,,REP,REP Larry Blackmon,118,73,0,45
+Perry,8 Maumelle,Perry County Judge,,REP,REP Larry Blackmon,148,110,2,36
+Perry,9 New Tennessee,Perry County Judge,,REP,REP Larry Blackmon,59,30,0,29
+Perry,10 Perry,Perry County Judge,,REP,REP Larry Blackmon,166,42,2,122
+Perry,11 Petit Jean,Perry County Judge,,REP,REP Larry Blackmon,110,76,0,34
+Perry,12 Rankin,Perry County Judge,,REP,REP Larry Blackmon,270,176,2,92
+Perry,13 Rose Creek,Perry County Judge,,REP,REP Larry Blackmon,45,18,1,26
+Perry,14 Tyler,Perry County Judge,,REP,REP Larry Blackmon,65,9,0,56
+Perry,15 Union,Perry County Judge,,REP,REP Larry Blackmon,200,70,2,128
+Perry,16 Union Valley,Perry County Judge,,REP,REP Larry Blackmon,65,39,0,26
+Perry,17 Wye,Perry County Judge,,REP,REP Larry Blackmon,234,56,2,176
+Perry,1 Aplin,Circuit/ County Clerk,,REP,REP Renee Rainey,97,34,0,63
+Perry,2 Casa,Circuit/ County Clerk,,REP,REP Renee Rainey,119,40,1,78
+Perry,3 Cherry Hill,Circuit/ County Clerk,,REP,REP Renee Rainey,73,47,1,25
+Perry,4 Fourche,Circuit/ County Clerk,,REP,REP Renee Rainey,452,349,3,100
+Perry,5 Houston,Circuit/ County Clerk,,REP,REP Renee Rainey,282,137,0,145
+Perry,6 Kenney,Circuit/ County Clerk,,REP,REP Renee Rainey,45,11,1,33
+Perry,7 Lake,Circuit/ County Clerk,,REP,REP Renee Rainey,193,129,0,64
+Perry,8 Maumelle,Circuit/ County Clerk,,REP,REP Renee Rainey,199,141,4,54
+Perry,9 New Tennessee,Circuit/ County Clerk,,REP,REP Renee Rainey,75,38,0,37
+Perry,10 Perry,Circuit/ County Clerk,,REP,REP Renee Rainey,310,85,5,220
+Perry,11 Petit Jean,Circuit/ County Clerk,,REP,REP Renee Rainey,133,91,0,42
+Perry,12 Rankin,Circuit/ County Clerk,,REP,REP Renee Rainey,382,250,3,129
+Perry,13 Rose Creek,Circuit/ County Clerk,,REP,REP Renee Rainey,77,31,3,43
+Perry,14 Tyler,Circuit/ County Clerk,,REP,REP Renee Rainey,74,9,0,65
+Perry,15 Union,Circuit/ County Clerk,,REP,REP Renee Rainey,309,102,2,205
+Perry,16 Union Valley,Circuit/ County Clerk,,REP,REP Renee Rainey,116,64,2,50
+Perry,17 Wye,Circuit/ County Clerk,,REP,REP Renee Rainey,314,73,3,238
+Perry,1 Aplin,Perry County Sheriff And Tax Collector,,REP,REP Ricky Don Jones,81,27,0,54
+Perry,2 Casa,Perry County Sheriff And Tax Collector,,REP,REP Ricky Don Jones,102,29,1,72
+Perry,3 Cherry Hill,Perry County Sheriff And Tax Collector,,REP,REP Ricky Don Jones,64,42,1,21
+Perry,4 Fourche,Perry County Sheriff And Tax Collector,,REP,REP Ricky Don Jones,380,293,1,86
+Perry,5 Houston,Perry County Sheriff And Tax Collector,,REP,REP Ricky Don Jones,223,106,0,117
+Perry,6 Kenney,Perry County Sheriff And Tax Collector,,REP,REP Ricky Don Jones,46,12,1,33
+Perry,7 Lake,Perry County Sheriff And Tax Collector,,REP,REP Ricky Don Jones,133,84,0,49
+Perry,8 Maumelle,Perry County Sheriff And Tax Collector,,REP,REP Ricky Don Jones,171,123,2,46
+Perry,9 New Tennessee,Perry County Sheriff And Tax Collector,,REP,REP Ricky Don Jones,66,35,0,31
+Perry,10 Perry,Perry County Sheriff And Tax Collector,,REP,REP Ricky Don Jones,300,82,2,216
+Perry,11 Petit Jean,Perry County Sheriff And Tax Collector,,REP,REP Ricky Don Jones,124,81,0,43
+Perry,12 Rankin,Perry County Sheriff And Tax Collector,,REP,REP Ricky Don Jones,309,206,1,102
+Perry,13 Rose Creek,Perry County Sheriff And Tax Collector,,REP,REP Ricky Don Jones,68,28,1,39
+Perry,14 Tyler,Perry County Sheriff And Tax Collector,,REP,REP Ricky Don Jones,74,8,0,66
+Perry,15 Union,Perry County Sheriff And Tax Collector,,REP,REP Ricky Don Jones,265,85,1,179
+Perry,16 Union Valley,Perry County Sheriff And Tax Collector,,REP,REP Ricky Don Jones,92,56,0,36
+Perry,17 Wye,Perry County Sheriff And Tax Collector,,REP,REP Ricky Don Jones,280,63,3,214
+Perry,1 Aplin,Perry County Sheriff And Tax Collector,,DEM,"DEM William ""Bill"" Finley",37,14,0,23
+Perry,2 Casa,Perry County Sheriff And Tax Collector,,DEM,"DEM William ""Bill"" Finley",34,20,0,14
+Perry,3 Cherry Hill,Perry County Sheriff And Tax Collector,,DEM,"DEM William ""Bill"" Finley",20,12,0,8
+Perry,4 Fourche,Perry County Sheriff And Tax Collector,,DEM,"DEM William ""Bill"" Finley",150,117,4,29
+Perry,5 Houston,Perry County Sheriff And Tax Collector,,DEM,"DEM William ""Bill"" Finley",88,48,0,40
+Perry,6 Kenney,Perry County Sheriff And Tax Collector,,DEM,"DEM William ""Bill"" Finley",3,2,0,1
+Perry,7 Lake,Perry County Sheriff And Tax Collector,,DEM,"DEM William ""Bill"" Finley",81,62,0,19
+Perry,8 Maumelle,Perry County Sheriff And Tax Collector,,DEM,"DEM William ""Bill"" Finley",55,43,2,10
+Perry,9 New Tennessee,Perry County Sheriff And Tax Collector,,DEM,"DEM William ""Bill"" Finley",17,6,0,11
+Perry,10 Perry,Perry County Sheriff And Tax Collector,,DEM,"DEM William ""Bill"" Finley",55,16,3,36
+Perry,11 Petit Jean,Perry County Sheriff And Tax Collector,,DEM,"DEM William ""Bill"" Finley",36,24,0,12
+Perry,12 Rankin,Perry County Sheriff And Tax Collector,,DEM,"DEM William ""Bill"" Finley",132,88,2,42
+Perry,13 Rose Creek,Perry County Sheriff And Tax Collector,,DEM,"DEM William ""Bill"" Finley",19,5,2,12
+Perry,14 Tyler,Perry County Sheriff And Tax Collector,,DEM,"DEM William ""Bill"" Finley",19,0,0,19
+Perry,15 Union,Perry County Sheriff And Tax Collector,,DEM,"DEM William ""Bill"" Finley",100,34,1,65
+Perry,16 Union Valley,Perry County Sheriff And Tax Collector,,DEM,"DEM William ""Bill"" Finley",52,24,2,26
+Perry,17 Wye,Perry County Sheriff And Tax Collector,,DEM,"DEM William ""Bill"" Finley",113,29,1,83
+Perry,1 Aplin,Perry County Coroner,,DEM,DEM Bill D. Greene,51,14,0,37
+Perry,2 Casa,Perry County Coroner,,DEM,DEM Bill D. Greene,53,27,1,25
+Perry,3 Cherry Hill,Perry County Coroner,,DEM,DEM Bill D. Greene,28,18,0,10
+Perry,4 Fourche,Perry County Coroner,,DEM,DEM Bill D. Greene,185,144,1,40
+Perry,5 Houston,Perry County Coroner,,DEM,DEM Bill D. Greene,105,62,0,43
+Perry,6 Kenney,Perry County Coroner,,DEM,DEM Bill D. Greene,7,2,0,5
+Perry,7 Lake,Perry County Coroner,,DEM,DEM Bill D. Greene,86,65,0,21
+Perry,8 Maumelle,Perry County Coroner,,DEM,DEM Bill D. Greene,68,53,2,13
+Perry,9 New Tennessee,Perry County Coroner,,DEM,DEM Bill D. Greene,21,10,0,11
+Perry,10 Perry,Perry County Coroner,,DEM,DEM Bill D. Greene,107,33,3,71
+Perry,11 Petit Jean,Perry County Coroner,,DEM,DEM Bill D. Greene,57,38,0,19
+Perry,12 Rankin,Perry County Coroner,,DEM,DEM Bill D. Greene,150,106,1,43
+Perry,13 Rose Creek,Perry County Coroner,,DEM,DEM Bill D. Greene,35,10,2,23
+Perry,14 Tyler,Perry County Coroner,,DEM,DEM Bill D. Greene,24,0,0,24
+Perry,15 Union,Perry County Coroner,,DEM,DEM Bill D. Greene,116,33,1,82
+Perry,16 Union Valley,Perry County Coroner,,DEM,DEM Bill D. Greene,66,31,2,33
+Perry,17 Wye,Perry County Coroner,,DEM,DEM Bill D. Greene,125,34,1,90
+Perry,1 Aplin,Perry County Coroner,,REP,REP Wes Harris,66,27,0,39
+Perry,2 Casa,Perry County Coroner,,REP,REP Wes Harris,86,24,0,62
+Perry,3 Cherry Hill,Perry County Coroner,,REP,REP Wes Harris,56,36,1,19
+Perry,4 Fourche,Perry County Coroner,,REP,REP Wes Harris,337,261,4,72
+Perry,5 Houston,Perry County Coroner,,REP,REP Wes Harris,203,91,0,112
+Perry,6 Kenney,Perry County Coroner,,REP,REP Wes Harris,39,10,1,28
+Perry,7 Lake,Perry County Coroner,,REP,REP Wes Harris,126,81,0,45
+Perry,8 Maumelle,Perry County Coroner,,REP,REP Wes Harris,160,115,2,43
+Perry,9 New Tennessee,Perry County Coroner,,REP,REP Wes Harris,61,31,0,30
+Perry,10 Perry,Perry County Coroner,,REP,REP Wes Harris,242,61,2,179
+Perry,11 Petit Jean,Perry County Coroner,,REP,REP Wes Harris,104,69,0,35
+Perry,12 Rankin,Perry County Coroner,,REP,REP Wes Harris,291,189,2,100
+Perry,13 Rose Creek,Perry County Coroner,,REP,REP Wes Harris,51,23,1,27
+Perry,14 Tyler,Perry County Coroner,,REP,REP Wes Harris,69,9,0,60
+Perry,15 Union,Perry County Coroner,,REP,REP Wes Harris,250,87,2,161
+Perry,16 Union Valley,Perry County Coroner,,REP,REP Wes Harris,77,49,0,28
+Perry,17 Wye,Perry County Coroner,,REP,REP Wes Harris,262,58,3,201
+Perry,1 Aplin,Perry County Treasurer,,REP,REP Jessica Spinks,77,33,0,44
+Perry,2 Casa,Perry County Treasurer,,REP,REP Jessica Spinks,99,28,1,70
+Perry,3 Cherry Hill,Perry County Treasurer,,REP,REP Jessica Spinks,59,39,1,19
+Perry,4 Fourche,Perry County Treasurer,,REP,REP Jessica Spinks,346,271,2,73
+Perry,5 Houston,Perry County Treasurer,,REP,REP Jessica Spinks,186,83,0,103
+Perry,6 Kenney,Perry County Treasurer,,REP,REP Jessica Spinks,31,11,1,19
+Perry,7 Lake,Perry County Treasurer,,REP,REP Jessica Spinks,138,86,0,52
+Perry,8 Maumelle,Perry County Treasurer,,REP,REP Jessica Spinks,151,106,2,43
+Perry,9 New Tennessee,Perry County Treasurer,,REP,REP Jessica Spinks,60,32,0,28
+Perry,10 Perry,Perry County Treasurer,,REP,REP Jessica Spinks,221,56,0,165
+Perry,11 Petit Jean,Perry County Treasurer,,REP,REP Jessica Spinks,119,80,0,39
+Perry,12 Rankin,Perry County Treasurer,,REP,REP Jessica Spinks,316,204,3,109
+Perry,13 Rose Creek,Perry County Treasurer,,REP,REP Jessica Spinks,66,27,1,38
+Perry,14 Tyler,Perry County Treasurer,,REP,REP Jessica Spinks,62,9,0,53
+Perry,15 Union,Perry County Treasurer,,REP,REP Jessica Spinks,207,73,2,132
+Perry,16 Union Valley,Perry County Treasurer,,REP,REP Jessica Spinks,104,64,2,38
+Perry,17 Wye,Perry County Treasurer,,REP,REP Jessica Spinks,252,59,3,190
+Perry,1 Aplin,Perry County Treasurer,,IND,IND Tachany Evans,14,2,0,12
+Perry,2 Casa,Perry County Treasurer,,IND,IND Tachany Evans,6,4,0,2
+Perry,3 Cherry Hill,Perry County Treasurer,,IND,IND Tachany Evans,8,7,0,1
+Perry,4 Fourche,Perry County Treasurer,,IND,IND Tachany Evans,44,33,0,11
+Perry,5 Houston,Perry County Treasurer,,IND,IND Tachany Evans,35,18,0,17
+Perry,6 Kenney,Perry County Treasurer,,IND,IND Tachany Evans,13,1,0,12
+Perry,7 Lake,Perry County Treasurer,,IND,IND Tachany Evans,19,18,0,1
+Perry,8 Maumelle,Perry County Treasurer,,IND,IND Tachany Evans,17,15,0,2
+Perry,9 New Tennessee,Perry County Treasurer,,IND,IND Tachany Evans,5,2,0,3
+Perry,10 Perry,Perry County Treasurer,,IND,IND Tachany Evans,44,12,2,30
+Perry,11 Petit Jean,Perry County Treasurer,,IND,IND Tachany Evans,10,6,0,4
+Perry,12 Rankin,Perry County Treasurer,,IND,IND Tachany Evans,36,21,0,15
+Perry,13 Rose Creek,Perry County Treasurer,,IND,IND Tachany Evans,5,0,0,5
+Perry,14 Tyler,Perry County Treasurer,,IND,IND Tachany Evans,7,0,0,7
+Perry,15 Union,Perry County Treasurer,,IND,IND Tachany Evans,59,11,0,48
+Perry,16 Union Valley,Perry County Treasurer,,IND,IND Tachany Evans,12,2,0,10
+Perry,17 Wye,Perry County Treasurer,,IND,IND Tachany Evans,25,5,0,20
+Perry,1 Aplin,Perry County Treasurer,,DEM,DEM Christina Montgomery,26,5,0,21
+Perry,2 Casa,Perry County Treasurer,,DEM,DEM Christina Montgomery,33,18,0,15
+Perry,3 Cherry Hill,Perry County Treasurer,,DEM,DEM Christina Montgomery,16,8,0,8
+Perry,4 Fourche,Perry County Treasurer,,DEM,DEM Christina Montgomery,136,105,3,28
+Perry,5 Houston,Perry County Treasurer,,DEM,DEM Christina Montgomery,90,52,0,38
+Perry,6 Kenney,Perry County Treasurer,,DEM,DEM Christina Montgomery,5,2,0,3
+Perry,7 Lake,Perry County Treasurer,,DEM,DEM Christina Montgomery,53,40,0,13
+Perry,8 Maumelle,Perry County Treasurer,,DEM,DEM Christina Montgomery,60,48,2,10
+Perry,9 New Tennessee,Perry County Treasurer,,DEM,DEM Christina Montgomery,18,7,0,11
+Perry,10 Perry,Perry County Treasurer,,DEM,DEM Christina Montgomery,91,30,3,58
+Perry,11 Petit Jean,Perry County Treasurer,,DEM,DEM Christina Montgomery,27,17,0,10
+Perry,12 Rankin,Perry County Treasurer,,DEM,DEM Christina Montgomery,93,71,0,22
+Perry,13 Rose Creek,Perry County Treasurer,,DEM,DEM Christina Montgomery,16,6,2,8
+Perry,14 Tyler,Perry County Treasurer,,DEM,DEM Christina Montgomery,23,0,0,23
+Perry,15 Union,Perry County Treasurer,,DEM,DEM Christina Montgomery,101,36,1,64
+Perry,16 Union Valley,Perry County Treasurer,,DEM,DEM Christina Montgomery,26,13,0,13
+Perry,17 Wye,Perry County Treasurer,,DEM,DEM Christina Montgomery,111,28,1,82
+Perry,1 Aplin,Justice Of The Peace District 1,,DEM,"DEM Charles ""Nub"" Camp",46,12,0,34
+Perry,2 Casa,Justice Of The Peace District 1,,DEM,"DEM Charles ""Nub"" Camp",1,0,0,1
+Perry,3 Cherry Hill,Justice Of The Peace District 1,,DEM,"DEM Charles ""Nub"" Camp",27,17,0,10
+Perry,8 Maumelle,Justice Of The Peace District 1,,DEM,"DEM Charles ""Nub"" Camp",64,49,2,13
+Perry,9 New Tennessee,Justice Of The Peace District 1,,DEM,"DEM Charles ""Nub"" Camp",25,13,0,12
+Perry,14 Tyler,Justice Of The Peace District 1,,DEM,"DEM Charles ""Nub"" Camp",26,0,0,26
+Perry,1 Aplin,Justice Of The Peace District 1,,REP,REP Travis Bentley,47,19,0,28
+Perry,2 Casa,Justice Of The Peace District 1,,REP,REP Travis Bentley,12,0,0,12
+Perry,3 Cherry Hill,Justice Of The Peace District 1,,REP,REP Travis Bentley,30,21,1,8
+Perry,8 Maumelle,Justice Of The Peace District 1,,REP,REP Travis Bentley,105,74,0,31
+Perry,9 New Tennessee,Justice Of The Peace District 1,,REP,REP Travis Bentley,57,28,0,29
+Perry,14 Tyler,Justice Of The Peace District 1,,REP,REP Travis Bentley,68,9,0,59
+Perry,1 Aplin,Justice Of the Peace -District # 2,,DEM,DEM Carmon Wise,7,3,0,4
+Perry,2 Casa,Justice Of the Peace -District # 2,,DEM,DEM Carmon Wise,53,22,0,31
+Perry,3 Cherry Hill,Justice Of the Peace -District # 2,,DEM,DEM Carmon Wise,10,7,0,3
+Perry,11 Petit Jean,Justice Of the Peace -District # 2,,DEM,DEM Carmon Wise,61,33,0,28
+Perry,13 Rose Creek,Justice Of the Peace -District # 2,,DEM,DEM Carmon Wise,53,16,2,35
+Perry,1 Aplin,Justice Of the Peace -District # 2,,REP,REP Dale Payne,16,7,0,9
+Perry,2 Casa,Justice Of the Peace -District # 2,,REP,REP Dale Payne,72,29,1,42
+Perry,3 Cherry Hill,Justice Of the Peace -District # 2,,REP,REP Dale Payne,15,8,0,7
+Perry,11 Petit Jean,Justice Of the Peace -District # 2,,REP,REP Dale Payne,77,60,0,17
+Perry,13 Rose Creek,Justice Of the Peace -District # 2,,REP,REP Dale Payne,36,17,1,18
+Perry,4 Fourche,Justice Of The Peace District 8,,DEM,DEM Trinity Grimstead,87,67,2,18
+Perry,5 Houston,Justice Of The Peace District 8,,DEM,DEM Trinity Grimstead,0,0,0,0
+Perry,16 Union Valley,Justice Of The Peace District 8,,DEM,DEM Trinity Grimstead,16,7,0,9
+Perry,4 Fourche,Justice Of The Peace District 8,,REP,REP Benjamin Lee,234,181,2,51
+Perry,5 Houston,Justice Of The Peace District 8,,REP,REP Benjamin Lee,1,1,0,0
+Perry,16 Union Valley,Justice Of The Peace District 8,,REP,REP Benjamin Lee,26,10,2,14
+Perry,4 Fourche,Justice Of The Peace District 9,,DEM,DEM Jimmy Ray Evans,36,24,1,11
+Perry,5 Houston,Justice Of The Peace District 9,,DEM,DEM Jimmy Ray Evans,2,1,0,1
+Perry,7 Lake,Justice Of The Peace District 9,,DEM,DEM Jimmy Ray Evans,63,49,0,14
+Perry,11 Petit Jean,Justice Of The Peace District 9,,DEM,DEM Jimmy Ray Evans,11,7,0,4
+Perry,4 Fourche,Justice Of The Peace District 9,,REP,REP Scott Skinkle,166,134,0,32
+Perry,5 Houston,Justice Of The Peace District 9,,REP,REP Scott Skinkle,1,1,0,0
+Perry,7 Lake,Justice Of The Peace District 9,,REP,REP Scott Skinkle,78,50,0,28
+Perry,11 Petit Jean,Justice Of The Peace District 9,,REP,REP Scott Skinkle,11,7,0,4
+Perry,11 Petit Jean,Mayor Of Adona,,NON,Mark A. Cossey,33,20,0,13
+Perry,11 Petit Jean,Mayor Of Adona,,NON,Danny Story,6,2,0,4
+Perry,11 Petit Jean,Mayor Of Adona,,NON,James H. Anderson,7,1,0,6
+Perry,10 Perry,Mayor Of Bigelow,,NON,Brad Akridge,154,36,1,117
+Perry,2 Casa,Mayor Of Casa,,NON,Josie E. Payne,44,31,1,12
+Perry,2 Casa,Mayor Of Casa,,NON,Franklin Harmon Sr.,24,16,0,8
+Perry,2 Casa,Recorder/ Treasurer Of Casa,,NON,Lelah M. Donnelly,49,34,1,14
+Perry,2 Casa,Recorder/ Treasurer Of Casa,,NON,Megan Harmon,18,12,0,6
+Perry,5 Houston,Mayor of Houston,,NON,David H. Starkey,43,21,0,22
+Perry,7 Lake,Mayor Of Perry,,NON,James Palmer,39,30,0,9
+Perry,7 Lake,Mayor Of Perry,,NON,Justin Crain,40,28,0,12
+Perry,7 Lake,Recorder / Treasurer Of Perry,,NON,Lori Petty,73,51,0,22
+Perry,7 Lake,City Council/ Alderman for Perry Position 2,,NON,Anthony Wray,33,25,0,8
+Perry,7 Lake,City Council/ Alderman for Perry Position 2,,NON,Daren M. Leach,43,32,0,11
+Perry,4 Fourche,Mayor Of Perryville,,NON,John A. Roland,384,298,1,85
+Perry,1 Aplin,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,25,9,0,16
+Perry,2 Casa,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,47,14,0,33
+Perry,3 Cherry Hill,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,35,22,1,12
+Perry,4 Fourche,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,212,165,1,46
+Perry,5 Houston,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,102,48,0,54
+Perry,6 Kenney,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,14,7,1,6
+Perry,7 Lake,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,68,47,0,21
+Perry,8 Maumelle,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,89,56,0,33
+Perry,9 New Tennessee,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,23,16,0,7
+Perry,10 Perry,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,122,29,2,91
+Perry,11 Petit Jean,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,51,38,0,13
+Perry,12 Rankin,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,160,104,0,56
+Perry,13 Rose Creek,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,32,10,0,22
+Perry,14 Tyler,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,35,2,0,33
+Perry,15 Union,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,132,49,0,83
+Perry,16 Union Valley,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,50,33,0,17
+Perry,17 Wye,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,128,28,3,97
+Perry,1 Aplin,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,87,27,0,60
+Perry,2 Casa,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,81,33,1,47
+Perry,3 Cherry Hill,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,44,28,0,16
+Perry,4 Fourche,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,283,216,4,63
+Perry,5 Houston,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,191,97,0,94
+Perry,6 Kenney,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,32,5,0,27
+Perry,7 Lake,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,137,92,0,45
+Perry,8 Maumelle,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,128,102,4,22
+Perry,9 New Tennessee,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,57,24,0,33
+Perry,10 Perry,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,223,68,3,152
+Perry,11 Petit Jean,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,97,59,0,38
+Perry,12 Rankin,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,261,178,2,81
+Perry,13 Rose Creek,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,48,21,3,24
+Perry,14 Tyler,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,55,6,0,49
+Perry,15 Union,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,219,65,3,151
+Perry,16 Union Valley,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,85,43,2,40
+Perry,17 Wye,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,256,66,1,189
+Perry,1 Aplin,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,37,14,0,23
+Perry,2 Casa,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,60,11,0,49
+Perry,3 Cherry Hill,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,39,25,1,13
+Perry,4 Fourche,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,225,183,1,41
+Perry,5 Houston,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,111,61,0,50
+Perry,6 Kenney,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,18,7,1,10
+Perry,7 Lake,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,71,41,0,30
+Perry,8 Maumelle,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,87,64,0,23
+Perry,9 New Tennessee,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,33,16,0,17
+Perry,10 Perry,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,108,30,0,78
+Perry,11 Petit Jean,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,67,46,0,21
+Perry,12 Rankin,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,202,130,1,71
+Perry,13 Rose Creek,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,28,7,0,21
+Perry,14 Tyler,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,38,4,0,34
+Perry,15 Union,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,136,52,0,84
+Perry,16 Union Valley,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,56,40,2,14
+Perry,17 Wye,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,131,30,3,98
+Perry,1 Aplin,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,74,23,0,51
+Perry,2 Casa,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,70,36,1,33
+Perry,3 Cherry Hill,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,40,26,0,14
+Perry,4 Fourche,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,277,205,4,68
+Perry,5 Houston,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,187,86,0,101
+Perry,6 Kenney,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,28,5,0,23
+Perry,7 Lake,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,134,99,0,35
+Perry,8 Maumelle,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,130,95,4,31
+Perry,9 New Tennessee,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,48,24,0,24
+Perry,10 Perry,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,244,68,5,171
+Perry,11 Petit Jean,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,85,54,0,31
+Perry,12 Rankin,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,224,154,2,68
+Perry,13 Rose Creek,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,58,25,3,30
+Perry,14 Tyler,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,53,4,0,49
+Perry,15 Union,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,223,64,3,156
+Perry,16 Union Valley,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,83,39,0,44
+Perry,17 Wye,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,254,64,1,189
+Perry,1 Aplin,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,46,19,0,27
+Perry,2 Casa,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,66,21,0,45
+Perry,3 Cherry Hill,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,47,34,1,12
+Perry,4 Fourche,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,270,208,3,59
+Perry,5 Houston,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,166,78,0,88
+Perry,6 Kenney,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,25,10,0,15
+Perry,7 Lake,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,100,71,0,29
+Perry,8 Maumelle,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,105,76,0,29
+Perry,9 New Tennessee,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,37,23,0,14
+Perry,10 Perry,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,151,44,1,106
+Perry,11 Petit Jean,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,83,57,0,26
+Perry,12 Rankin,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,229,154,0,75
+Perry,13 Rose Creek,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,42,14,0,28
+Perry,14 Tyler,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,51,6,0,45
+Perry,15 Union,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,180,62,2,116
+Perry,16 Union Valley,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,81,49,2,30
+Perry,17 Wye,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,167,39,3,125
+Perry,1 Aplin,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,63,16,0,47
+Perry,2 Casa,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,64,28,1,35
+Perry,3 Cherry Hill,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,34,18,0,16
+Perry,4 Fourche,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,235,182,2,51
+Perry,5 Houston,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,131,68,0,63
+Perry,6 Kenney,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,21,2,1,18
+Perry,7 Lake,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,105,67,0,38
+Perry,8 Maumelle,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,115,84,4,27
+Perry,9 New Tennessee,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,44,17,0,27
+Perry,10 Perry,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,199,54,4,141
+Perry,11 Petit Jean,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,71,43,0,28
+Perry,12 Rankin,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,196,130,2,64
+Perry,13 Rose Creek,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,43,19,3,21
+Perry,14 Tyler,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,39,2,0,37
+Perry,15 Union,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,177,51,1,125
+Perry,16 Union Valley,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,54,28,0,26
+Perry,17 Wye,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,215,55,1,159
+Perry,1 Aplin,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,33,12,0,21
+Perry,2 Casa,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,59,21,0,38
+Perry,3 Cherry Hill,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,34,17,0,17
+Perry,4 Fourche,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,232,159,3,70
+Perry,5 Houston,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,128,61,0,67
+Perry,6 Kenney,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,16,6,0,10
+Perry,7 Lake,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,88,55,0,33
+Perry,8 Maumelle,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,80,56,1,23
+Perry,9 New Tennessee,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,23,13,0,10
+Perry,10 Perry,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,132,37,1,94
+Perry,11 Petit Jean,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,57,33,0,24
+Perry,12 Rankin,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,191,125,1,65
+Perry,13 Rose Creek,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,26,10,0,16
+Perry,14 Tyler,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,35,6,0,29
+Perry,15 Union,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,152,45,1,106
+Perry,16 Union Valley,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,57,24,0,33
+Perry,17 Wye,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,196,41,0,155
+Perry,1 Aplin,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,82,27,0,55
+Perry,2 Casa,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,78,29,1,48
+Perry,3 Cherry Hill,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,50,37,1,12
+Perry,4 Fourche,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,295,249,2,44
+Perry,5 Houston,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,185,93,0,92
+Perry,6 Kenney,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,32,7,1,24
+Perry,7 Lake,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,123,91,0,32
+Perry,8 Maumelle,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,147,110,3,34
+Perry,9 New Tennessee,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,58,27,0,31
+Perry,10 Perry,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,225,62,4,159
+Perry,11 Petit Jean,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,103,72,0,31
+Perry,12 Rankin,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,248,166,2,80
+Perry,13 Rose Creek,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,61,23,3,35
+Perry,14 Tyler,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,58,2,0,56
+Perry,15 Union,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,215,74,2,139
+Perry,16 Union Valley,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,87,57,2,28
+Perry,17 Wye,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,198,53,4,141

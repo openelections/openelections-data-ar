@@ -1,0 +1,738 @@
+county,precinct,office,district,party,candidate,votes,early_vote,absentee,election_day
+Newton,BIG CREEK,U.S. Senate,,DEM,Natalie James,16,9,1,6
+Newton,BOSTON,U.S. Senate,,DEM,Natalie James,5,2,0,3
+Newton,DOGPATCH,U.S. Senate,,DEM,Natalie James,73,28,3,42
+Newton,GROVE,U.S. Senate,,DEM,Natalie James,43,4,4,35
+Newton,HASTY,U.S. Senate,,DEM,Natalie James,5,3,0,2
+Newton,HICKORY GROVE,U.S. Senate,,DEM,Natalie James,7,6,0,1
+Newton,HUDSON,U.S. Senate,,DEM,Natalie James,45,26,2,17
+Newton,JACKSON,U.S. Senate,,DEM,Natalie James,70,49,2,19
+Newton,JEFFERSON,U.S. Senate,,DEM,Natalie James,20,5,0,15
+Newton,LINCOLN,U.S. Senate,,DEM,Natalie James,11,5,3,3
+Newton,LOW GAP,U.S. Senate,,DEM,Natalie James,29,10,0,19
+Newton,MT SHERMAN,U.S. Senate,,DEM,Natalie James,15,12,0,3
+Newton,MURRAY,U.S. Senate,,DEM,Natalie James,28,21,0,7
+Newton,PLEASANT HILL,U.S. Senate,,DEM,Natalie James,36,23,3,10
+Newton,POLK,U.S. Senate,,DEM,Natalie James,12,3,0,9
+Newton,PONCA,U.S. Senate,,DEM,Natalie James,44,24,0,20
+Newton,RICHLAND,U.S. Senate,,DEM,Natalie James,7,2,0,5
+Newton,VAN BUREN,U.S. Senate,,DEM,Natalie James,25,6,1,18
+Newton,WHITE,U.S. Senate,,DEM,Natalie James,22,14,0,8
+Newton,BIG CREEK,U.S. Senate,,LIB,Kenneth Cates,4,0,0,4
+Newton,BOSTON,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0
+Newton,DOGPATCH,U.S. Senate,,LIB,Kenneth Cates,18,5,0,13
+Newton,GROVE,U.S. Senate,,LIB,Kenneth Cates,15,2,0,13
+Newton,HASTY,U.S. Senate,,LIB,Kenneth Cates,2,0,0,2
+Newton,HICKORY GROVE,U.S. Senate,,LIB,Kenneth Cates,2,2,0,0
+Newton,HUDSON,U.S. Senate,,LIB,Kenneth Cates,3,1,0,2
+Newton,JACKSON,U.S. Senate,,LIB,Kenneth Cates,16,9,1,6
+Newton,JEFFERSON,U.S. Senate,,LIB,Kenneth Cates,3,0,0,3
+Newton,LINCOLN,U.S. Senate,,LIB,Kenneth Cates,6,2,0,4
+Newton,LOW GAP,U.S. Senate,,LIB,Kenneth Cates,2,0,0,2
+Newton,MT SHERMAN,U.S. Senate,,LIB,Kenneth Cates,4,1,0,3
+Newton,MURRAY,U.S. Senate,,LIB,Kenneth Cates,3,3,0,0
+Newton,PLEASANT HILL,U.S. Senate,,LIB,Kenneth Cates,7,4,0,3
+Newton,POLK,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0
+Newton,PONCA,U.S. Senate,,LIB,Kenneth Cates,7,0,0,7
+Newton,RICHLAND,U.S. Senate,,LIB,Kenneth Cates,3,0,0,3
+Newton,VAN BUREN,U.S. Senate,,LIB,Kenneth Cates,1,0,0,1
+Newton,WHITE,U.S. Senate,,LIB,Kenneth Cates,11,8,0,3
+Newton,BIG CREEK,U.S. Senate,,REP,Senator John Boozman,94,38,0,56
+Newton,BOSTON,U.S. Senate,,REP,Senator John Boozman,43,8,0,35
+Newton,DOGPATCH,U.S. Senate,,REP,Senator John Boozman,247,97,2,148
+Newton,GROVE,U.S. Senate,,REP,Senator John Boozman,300,55,3,242
+Newton,HASTY,U.S. Senate,,REP,Senator John Boozman,112,35,1,76
+Newton,HICKORY GROVE,U.S. Senate,,REP,Senator John Boozman,37,8,1,28
+Newton,HUDSON,U.S. Senate,,REP,Senator John Boozman,139,43,1,95
+Newton,JACKSON,U.S. Senate,,REP,Senator John Boozman,321,182,7,132
+Newton,JEFFERSON,U.S. Senate,,REP,Senator John Boozman,78,14,2,62
+Newton,LINCOLN,U.S. Senate,,REP,Senator John Boozman,76,34,0,42
+Newton,LOW GAP,U.S. Senate,,REP,Senator John Boozman,89,21,2,66
+Newton,MT SHERMAN,U.S. Senate,,REP,Senator John Boozman,99,49,1,49
+Newton,MURRAY,U.S. Senate,,REP,Senator John Boozman,15,9,0,6
+Newton,PLEASANT HILL,U.S. Senate,,REP,Senator John Boozman,140,43,3,94
+Newton,POLK,U.S. Senate,,REP,Senator John Boozman,63,16,0,47
+Newton,PONCA,U.S. Senate,,REP,Senator John Boozman,182,42,3,137
+Newton,RICHLAND,U.S. Senate,,REP,Senator John Boozman,108,17,0,91
+Newton,VAN BUREN,U.S. Senate,,REP,Senator John Boozman,40,7,1,32
+Newton,WHITE,U.S. Senate,,REP,Senator John Boozman,257,81,2,174
+Newton,BIG CREEK,U.S. Congress District 04,,DEM,John White,17,11,1,5
+Newton,BOSTON,U.S. Congress District 04,,DEM,John White,5,2,0,3
+Newton,DOGPATCH,U.S. Congress District 04,,DEM,John White,74,25,5,44
+Newton,GROVE,U.S. Congress District 04,,DEM,John White,43,4,4,35
+Newton,HASTY,U.S. Congress District 04,,DEM,John White,5,3,0,2
+Newton,HICKORY GROVE,U.S. Congress District 04,,DEM,John White,7,6,0,1
+Newton,HUDSON,U.S. Congress District 04,,DEM,John White,39,22,2,15
+Newton,JACKSON,U.S. Congress District 04,,DEM,John White,69,47,2,20
+Newton,JEFFERSON,U.S. Congress District 04,,DEM,John White,16,4,0,12
+Newton,LINCOLN,U.S. Congress District 04,,DEM,John White,11,5,3,3
+Newton,LOW GAP,U.S. Congress District 04,,DEM,John White,22,10,0,12
+Newton,MT SHERMAN,U.S. Congress District 04,,DEM,John White,17,12,0,5
+Newton,MURRAY,U.S. Congress District 04,,DEM,John White,27,20,0,7
+Newton,PLEASANT HILL,U.S. Congress District 04,,DEM,John White,34,22,3,9
+Newton,POLK,U.S. Congress District 04,,DEM,John White,10,3,0,7
+Newton,PONCA,U.S. Congress District 04,,DEM,John White,40,23,0,17
+Newton,RICHLAND,U.S. Congress District 04,,DEM,John White,9,2,0,7
+Newton,VAN BUREN,U.S. Congress District 04,,DEM,John White,21,3,1,17
+Newton,WHITE,U.S. Congress District 04,,DEM,John White,23,16,0,7
+Newton,BIG CREEK,U.S. Congress District 04,,LIB,Gregory Maxwell,3,0,0,3
+Newton,BOSTON,U.S. Congress District 04,,LIB,Gregory Maxwell,1,1,0,0
+Newton,DOGPATCH,U.S. Congress District 04,,LIB,Gregory Maxwell,15,4,0,11
+Newton,GROVE,U.S. Congress District 04,,LIB,Gregory Maxwell,8,1,0,7
+Newton,HASTY,U.S. Congress District 04,,LIB,Gregory Maxwell,2,1,0,1
+Newton,HICKORY GROVE,U.S. Congress District 04,,LIB,Gregory Maxwell,3,2,0,1
+Newton,HUDSON,U.S. Congress District 04,,LIB,Gregory Maxwell,6,4,0,2
+Newton,JACKSON,U.S. Congress District 04,,LIB,Gregory Maxwell,14,9,1,4
+Newton,JEFFERSON,U.S. Congress District 04,,LIB,Gregory Maxwell,3,0,0,3
+Newton,LINCOLN,U.S. Congress District 04,,LIB,Gregory Maxwell,5,2,0,3
+Newton,LOW GAP,U.S. Congress District 04,,LIB,Gregory Maxwell,7,0,0,7
+Newton,MT SHERMAN,U.S. Congress District 04,,LIB,Gregory Maxwell,2,1,0,1
+Newton,MURRAY,U.S. Congress District 04,,LIB,Gregory Maxwell,2,2,0,0
+Newton,PLEASANT HILL,U.S. Congress District 04,,LIB,Gregory Maxwell,6,4,0,2
+Newton,POLK,U.S. Congress District 04,,LIB,Gregory Maxwell,0,0,0,0
+Newton,PONCA,U.S. Congress District 04,,LIB,Gregory Maxwell,4,1,0,3
+Newton,RICHLAND,U.S. Congress District 04,,LIB,Gregory Maxwell,1,0,0,1
+Newton,VAN BUREN,U.S. Congress District 04,,LIB,Gregory Maxwell,2,0,0,2
+Newton,WHITE,U.S. Congress District 04,,LIB,Gregory Maxwell,4,3,0,1
+Newton,BIG CREEK,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,91,36,0,55
+Newton,BOSTON,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,43,7,0,36
+Newton,DOGPATCH,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,249,102,1,146
+Newton,GROVE,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,304,56,3,245
+Newton,HASTY,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,112,34,1,77
+Newton,HICKORY GROVE,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,37,9,1,27
+Newton,HUDSON,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,142,44,1,97
+Newton,JACKSON,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,318,178,7,133
+Newton,JEFFERSON,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,80,15,2,63
+Newton,LINCOLN,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,76,34,0,42
+Newton,LOW GAP,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,93,22,2,69
+Newton,MT SHERMAN,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,100,49,1,50
+Newton,MURRAY,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,15,10,0,5
+Newton,PLEASANT HILL,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,141,44,3,94
+Newton,POLK,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,65,16,0,49
+Newton,PONCA,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,186,42,3,141
+Newton,RICHLAND,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,109,17,0,92
+Newton,VAN BUREN,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,41,9,1,31
+Newton,WHITE,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,260,84,2,174
+Newton,BIG CREEK,Attorney General,,DEM,Jesse Gibson,19,12,1,6
+Newton,BOSTON,Attorney General,,DEM,Jesse Gibson,5,2,0,3
+Newton,DOGPATCH,Attorney General,,DEM,Jesse Gibson,87,29,5,53
+Newton,GROVE,Attorney General,,DEM,Jesse Gibson,50,6,4,40
+Newton,HASTY,Attorney General,,DEM,Jesse Gibson,8,4,0,4
+Newton,HICKORY GROVE,Attorney General,,DEM,Jesse Gibson,8,7,0,1
+Newton,HUDSON,Attorney General,,DEM,Jesse Gibson,48,28,2,18
+Newton,JACKSON,Attorney General,,DEM,Jesse Gibson,86,61,3,22
+Newton,JEFFERSON,Attorney General,,DEM,Jesse Gibson,21,5,0,16
+Newton,LINCOLN,Attorney General,,DEM,Jesse Gibson,16,8,3,5
+Newton,LOW GAP,Attorney General,,DEM,Jesse Gibson,28,11,0,17
+Newton,MT SHERMAN,Attorney General,,DEM,Jesse Gibson,22,17,0,5
+Newton,MURRAY,Attorney General,,DEM,Jesse Gibson,28,21,0,7
+Newton,PLEASANT HILL,Attorney General,,DEM,Jesse Gibson,40,25,3,12
+Newton,POLK,Attorney General,,DEM,Jesse Gibson,9,3,0,6
+Newton,PONCA,Attorney General,,DEM,Jesse Gibson,46,25,0,21
+Newton,RICHLAND,Attorney General,,DEM,Jesse Gibson,6,2,0,4
+Newton,VAN BUREN,Attorney General,,DEM,Jesse Gibson,29,7,2,20
+Newton,WHITE,Attorney General,,DEM,Jesse Gibson,25,16,0,9
+Newton,BIG CREEK,Attorney General,,REP,Lieutenant Governor Tim Griffin,91,35,0,56
+Newton,BOSTON,Attorney General,,REP,Lieutenant Governor Tim Griffin,44,8,0,36
+Newton,DOGPATCH,Attorney General,,REP,Lieutenant Governor Tim Griffin,252,103,1,148
+Newton,GROVE,Attorney General,,REP,Lieutenant Governor Tim Griffin,307,55,3,249
+Newton,HASTY,Attorney General,,REP,Lieutenant Governor Tim Griffin,111,34,1,76
+Newton,HICKORY GROVE,Attorney General,,REP,Lieutenant Governor Tim Griffin,38,9,1,28
+Newton,HUDSON,Attorney General,,REP,Lieutenant Governor Tim Griffin,138,42,1,95
+Newton,JACKSON,Attorney General,,REP,Lieutenant Governor Tim Griffin,312,171,7,134
+Newton,JEFFERSON,Attorney General,,REP,Lieutenant Governor Tim Griffin,80,14,1,65
+Newton,LINCOLN,Attorney General,,REP,Lieutenant Governor Tim Griffin,77,33,0,44
+Newton,LOW GAP,Attorney General,,REP,Lieutenant Governor Tim Griffin,93,21,2,70
+Newton,MT SHERMAN,Attorney General,,REP,Lieutenant Governor Tim Griffin,99,46,1,52
+Newton,MURRAY,Attorney General,,REP,Lieutenant Governor Tim Griffin,17,11,0,6
+Newton,PLEASANT HILL,Attorney General,,REP,Lieutenant Governor Tim Griffin,141,45,3,93
+Newton,POLK,Attorney General,,REP,Lieutenant Governor Tim Griffin,66,16,0,50
+Newton,PONCA,Attorney General,,REP,Lieutenant Governor Tim Griffin,184,41,3,140
+Newton,RICHLAND,Attorney General,,REP,Lieutenant Governor Tim Griffin,111,17,0,94
+Newton,VAN BUREN,Attorney General,,REP,Lieutenant Governor Tim Griffin,39,7,1,31
+Newton,WHITE,Attorney General,,REP,Lieutenant Governor Tim Griffin,262,86,2,174
+Newton,BIG CREEK,Auditor of State,,DEM,Diamond Arnold-Johnson,16,10,1,5
+Newton,BOSTON,Auditor of State,,DEM,Diamond Arnold-Johnson,4,2,0,2
+Newton,DOGPATCH,Auditor of State,,DEM,Diamond Arnold-Johnson,70,26,4,40
+Newton,GROVE,Auditor of State,,DEM,Diamond Arnold-Johnson,41,4,4,33
+Newton,HASTY,Auditor of State,,DEM,Diamond Arnold-Johnson,5,3,0,2
+Newton,HICKORY GROVE,Auditor of State,,DEM,Diamond Arnold-Johnson,7,6,0,1
+Newton,HUDSON,Auditor of State,,DEM,Diamond Arnold-Johnson,40,25,2,13
+Newton,JACKSON,Auditor of State,,DEM,Diamond Arnold-Johnson,72,49,3,20
+Newton,JEFFERSON,Auditor of State,,DEM,Diamond Arnold-Johnson,16,4,0,12
+Newton,LINCOLN,Auditor of State,,DEM,Diamond Arnold-Johnson,11,5,3,3
+Newton,LOW GAP,Auditor of State,,DEM,Diamond Arnold-Johnson,24,8,0,16
+Newton,MT SHERMAN,Auditor of State,,DEM,Diamond Arnold-Johnson,17,12,0,5
+Newton,MURRAY,Auditor of State,,DEM,Diamond Arnold-Johnson,24,18,0,6
+Newton,PLEASANT HILL,Auditor of State,,DEM,Diamond Arnold-Johnson,31,20,3,8
+Newton,POLK,Auditor of State,,DEM,Diamond Arnold-Johnson,9,3,0,6
+Newton,PONCA,Auditor of State,,DEM,Diamond Arnold-Johnson,43,24,0,19
+Newton,RICHLAND,Auditor of State,,DEM,Diamond Arnold-Johnson,8,2,0,6
+Newton,VAN BUREN,Auditor of State,,DEM,Diamond Arnold-Johnson,21,4,0,17
+Newton,WHITE,Auditor of State,,DEM,Diamond Arnold-Johnson,23,14,0,9
+Newton,BIG CREEK,Auditor of State,,LIB,Simeon Snow,4,1,0,3
+Newton,BOSTON,Auditor of State,,LIB,Simeon Snow,3,1,0,2
+Newton,DOGPATCH,Auditor of State,,LIB,Simeon Snow,17,5,0,12
+Newton,GROVE,Auditor of State,,LIB,Simeon Snow,13,2,0,11
+Newton,HASTY,Auditor of State,,LIB,Simeon Snow,3,2,0,1
+Newton,HICKORY GROVE,Auditor of State,,LIB,Simeon Snow,2,2,0,0
+Newton,HUDSON,Auditor of State,,LIB,Simeon Snow,9,3,0,6
+Newton,JACKSON,Auditor of State,,LIB,Simeon Snow,12,7,0,5
+Newton,JEFFERSON,Auditor of State,,LIB,Simeon Snow,4,0,0,4
+Newton,LINCOLN,Auditor of State,,LIB,Simeon Snow,7,3,0,4
+Newton,LOW GAP,Auditor of State,,LIB,Simeon Snow,3,1,0,2
+Newton,MT SHERMAN,Auditor of State,,LIB,Simeon Snow,2,1,0,1
+Newton,MURRAY,Auditor of State,,LIB,Simeon Snow,6,5,0,1
+Newton,PLEASANT HILL,Auditor of State,,LIB,Simeon Snow,4,4,0,0
+Newton,POLK,Auditor of State,,LIB,Simeon Snow,2,0,0,2
+Newton,PONCA,Auditor of State,,LIB,Simeon Snow,4,0,0,4
+Newton,RICHLAND,Auditor of State,,LIB,Simeon Snow,1,0,0,1
+Newton,VAN BUREN,Auditor of State,,LIB,Simeon Snow,2,0,0,2
+Newton,WHITE,Auditor of State,,LIB,Simeon Snow,5,5,0,0
+Newton,BIG CREEK,Auditor of State,,REP,Treasurer of State Dennis Milligan,93,36,0,57
+Newton,BOSTON,Auditor of State,,REP,Treasurer of State Dennis Milligan,42,7,0,35
+Newton,DOGPATCH,Auditor of State,,REP,Treasurer of State Dennis Milligan,253,101,1,151
+Newton,GROVE,Auditor of State,,REP,Treasurer of State Dennis Milligan,299,53,3,243
+Newton,HASTY,Auditor of State,,REP,Treasurer of State Dennis Milligan,112,33,1,78
+Newton,HICKORY GROVE,Auditor of State,,REP,Treasurer of State Dennis Milligan,37,9,1,27
+Newton,HUDSON,Auditor of State,,REP,Treasurer of State Dennis Milligan,138,42,1,95
+Newton,JACKSON,Auditor of State,,REP,Treasurer of State Dennis Milligan,315,178,7,130
+Newton,JEFFERSON,Auditor of State,,REP,Treasurer of State Dennis Milligan,80,15,2,63
+Newton,LINCOLN,Auditor of State,,REP,Treasurer of State Dennis Milligan,75,33,0,42
+Newton,LOW GAP,Auditor of State,,REP,Treasurer of State Dennis Milligan,94,23,2,69
+Newton,MT SHERMAN,Auditor of State,,REP,Treasurer of State Dennis Milligan,100,49,1,50
+Newton,MURRAY,Auditor of State,,REP,Treasurer of State Dennis Milligan,15,10,0,5
+Newton,PLEASANT HILL,Auditor of State,,REP,Treasurer of State Dennis Milligan,142,44,3,95
+Newton,POLK,Auditor of State,,REP,Treasurer of State Dennis Milligan,64,16,0,48
+Newton,PONCA,Auditor of State,,REP,Treasurer of State Dennis Milligan,185,41,3,141
+Newton,RICHLAND,Auditor of State,,REP,Treasurer of State Dennis Milligan,109,17,0,92
+Newton,VAN BUREN,Auditor of State,,REP,Treasurer of State Dennis Milligan,42,10,1,31
+Newton,WHITE,Auditor of State,,REP,Treasurer of State Dennis Milligan,264,85,2,177
+Newton,BIG CREEK,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,21,12,1,8
+Newton,BOSTON,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,7,3,0,4
+Newton,DOGPATCH,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,79,30,4,45
+Newton,GROVE,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,48,5,4,39
+Newton,HASTY,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,5,3,0,2
+Newton,HICKORY GROVE,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,8,7,0,1
+Newton,HUDSON,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,45,27,2,16
+Newton,JACKSON,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,82,57,2,23
+Newton,JEFFERSON,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,19,4,0,15
+Newton,LINCOLN,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,12,5,3,4
+Newton,LOW GAP,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,27,9,0,18
+Newton,MT SHERMAN,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,15,12,0,3
+Newton,MURRAY,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,26,20,0,6
+Newton,PLEASANT HILL,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,34,22,3,9
+Newton,POLK,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,8,2,0,6
+Newton,PONCA,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,42,23,0,19
+Newton,RICHLAND,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,9,2,0,7
+Newton,VAN BUREN,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,27,6,1,20
+Newton,WHITE,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,23,15,0,8
+Newton,BIG CREEK,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,94,35,0,59
+Newton,BOSTON,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,42,7,0,35
+Newton,DOGPATCH,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,260,102,1,157
+Newton,GROVE,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,305,54,3,248
+Newton,HASTY,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,113,35,1,77
+Newton,HICKORY GROVE,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,37,9,1,27
+Newton,HUDSON,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,142,43,1,98
+Newton,JACKSON,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,322,180,8,134
+Newton,JEFFERSON,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,83,15,2,66
+Newton,LINCOLN,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,81,36,0,45
+Newton,LOW GAP,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,94,23,2,69
+Newton,MT SHERMAN,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,102,49,1,52
+Newton,MURRAY,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,18,12,0,6
+Newton,PLEASANT HILL,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,141,46,3,92
+Newton,POLK,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,66,17,0,49
+Newton,PONCA,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,186,42,3,141
+Newton,RICHLAND,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,108,17,0,91
+Newton,VAN BUREN,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,40,8,1,31
+Newton,WHITE,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,261,85,2,174
+Newton,BIG CREEK,Governor,,DEM,Chris Jones,20,13,1,6
+Newton,BOSTON,Governor,,DEM,Chris Jones,6,3,0,3
+Newton,DOGPATCH,Governor,,DEM,Chris Jones,83,27,4,52
+Newton,GROVE,Governor,,DEM,Chris Jones,45,4,4,37
+Newton,HASTY,Governor,,DEM,Chris Jones,4,3,0,1
+Newton,HICKORY GROVE,Governor,,DEM,Chris Jones,7,6,0,1
+Newton,HUDSON,Governor,,DEM,Chris Jones,42,24,2,16
+Newton,JACKSON,Governor,,DEM,Chris Jones,83,54,3,26
+Newton,JEFFERSON,Governor,,DEM,Chris Jones,20,4,0,16
+Newton,LINCOLN,Governor,,DEM,Chris Jones,13,5,3,5
+Newton,LOW GAP,Governor,,DEM,Chris Jones,30,12,0,18
+Newton,MT SHERMAN,Governor,,DEM,Chris Jones,19,14,0,5
+Newton,MURRAY,Governor,,DEM,Chris Jones,28,20,0,8
+Newton,PLEASANT HILL,Governor,,DEM,Chris Jones,39,24,3,12
+Newton,POLK,Governor,,DEM,Chris Jones,10,3,0,7
+Newton,PONCA,Governor,,DEM,Chris Jones,48,28,0,20
+Newton,RICHLAND,Governor,,DEM,Chris Jones,9,2,0,7
+Newton,VAN BUREN,Governor,,DEM,Chris Jones,26,5,2,19
+Newton,WHITE,Governor,,DEM,Chris Jones,25,15,0,10
+Newton,BIG CREEK,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,2,0,3
+Newton,BOSTON,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Newton,DOGPATCH,Governor,,LIB,"Ricky Dale Harrington, Jr.",8,3,0,5
+Newton,GROVE,Governor,,LIB,"Ricky Dale Harrington, Jr.",11,0,0,11
+Newton,HASTY,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,2,0,1
+Newton,HICKORY GROVE,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,2,0,0
+Newton,HUDSON,Governor,,LIB,"Ricky Dale Harrington, Jr.",6,5,0,1
+Newton,JACKSON,Governor,,LIB,"Ricky Dale Harrington, Jr.",14,9,0,5
+Newton,JEFFERSON,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,1,0,4
+Newton,LINCOLN,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Newton,LOW GAP,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,1,0,1
+Newton,MT SHERMAN,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,1,0,4
+Newton,MURRAY,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,1,0,0
+Newton,PLEASANT HILL,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,3,0,2
+Newton,POLK,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,2,0,1
+Newton,PONCA,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,2,0,3
+Newton,RICHLAND,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Newton,VAN BUREN,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,1,0,0
+Newton,WHITE,Governor,,LIB,"Ricky Dale Harrington, Jr.",6,5,0,1
+Newton,BIG CREEK,Governor,,REP,Sarah Huckabee Sanders,90,32,0,58
+Newton,BOSTON,Governor,,REP,Sarah Huckabee Sanders,43,7,0,36
+Newton,DOGPATCH,Governor,,REP,Sarah Huckabee Sanders,245,102,1,142
+Newton,GROVE,Governor,,REP,Sarah Huckabee Sanders,305,58,3,244
+Newton,HASTY,Governor,,REP,Sarah Huckabee Sanders,113,34,1,78
+Newton,HICKORY GROVE,Governor,,REP,Sarah Huckabee Sanders,39,10,1,28
+Newton,HUDSON,Governor,,REP,Sarah Huckabee Sanders,138,41,1,96
+Newton,JACKSON,Governor,,REP,Sarah Huckabee Sanders,311,178,7,126
+Newton,JEFFERSON,Governor,,REP,Sarah Huckabee Sanders,75,14,2,59
+Newton,LINCOLN,Governor,,REP,Sarah Huckabee Sanders,80,36,0,44
+Newton,LOW GAP,Governor,,REP,Sarah Huckabee Sanders,92,18,2,72
+Newton,MT SHERMAN,Governor,,REP,Sarah Huckabee Sanders,98,49,1,48
+Newton,MURRAY,Governor,,REP,Sarah Huckabee Sanders,16,11,0,5
+Newton,PLEASANT HILL,Governor,,REP,Sarah Huckabee Sanders,136,43,3,90
+Newton,POLK,Governor,,REP,Sarah Huckabee Sanders,62,14,0,48
+Newton,PONCA,Governor,,REP,Sarah Huckabee Sanders,181,37,3,141
+Newton,RICHLAND,Governor,,REP,Sarah Huckabee Sanders,109,17,0,92
+Newton,VAN BUREN,Governor,,REP,Sarah Huckabee Sanders,42,9,1,32
+Newton,WHITE,Governor,,REP,Sarah Huckabee Sanders,265,86,2,177
+Newton,BIG CREEK,Lieutenant Governor,,DEM,Kelly Ross Krout,17,10,1,6
+Newton,BOSTON,Lieutenant Governor,,DEM,Kelly Ross Krout,5,2,0,3
+Newton,DOGPATCH,Lieutenant Governor,,DEM,Kelly Ross Krout,76,27,4,45
+Newton,GROVE,Lieutenant Governor,,DEM,Kelly Ross Krout,42,5,4,33
+Newton,HASTY,Lieutenant Governor,,DEM,Kelly Ross Krout,5,3,0,2
+Newton,HICKORY GROVE,Lieutenant Governor,,DEM,Kelly Ross Krout,8,7,0,1
+Newton,HUDSON,Lieutenant Governor,,DEM,Kelly Ross Krout,42,25,2,15
+Newton,JACKSON,Lieutenant Governor,,DEM,Kelly Ross Krout,75,52,2,21
+Newton,JEFFERSON,Lieutenant Governor,,DEM,Kelly Ross Krout,17,4,0,13
+Newton,LINCOLN,Lieutenant Governor,,DEM,Kelly Ross Krout,14,7,3,4
+Newton,LOW GAP,Lieutenant Governor,,DEM,Kelly Ross Krout,25,11,0,14
+Newton,MT SHERMAN,Lieutenant Governor,,DEM,Kelly Ross Krout,17,13,0,4
+Newton,MURRAY,Lieutenant Governor,,DEM,Kelly Ross Krout,28,21,0,7
+Newton,PLEASANT HILL,Lieutenant Governor,,DEM,Kelly Ross Krout,38,23,3,12
+Newton,POLK,Lieutenant Governor,,DEM,Kelly Ross Krout,10,2,0,8
+Newton,PONCA,Lieutenant Governor,,DEM,Kelly Ross Krout,44,25,0,19
+Newton,RICHLAND,Lieutenant Governor,,DEM,Kelly Ross Krout,8,2,0,6
+Newton,VAN BUREN,Lieutenant Governor,,DEM,Kelly Ross Krout,25,6,2,17
+Newton,WHITE,Lieutenant Governor,,DEM,Kelly Ross Krout,23,15,0,8
+Newton,BIG CREEK,Lieutenant Governor,,LIB,Frank Gilbert,3,1,0,2
+Newton,BOSTON,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0
+Newton,DOGPATCH,Lieutenant Governor,,LIB,Frank Gilbert,11,3,0,8
+Newton,GROVE,Lieutenant Governor,,LIB,Frank Gilbert,12,2,0,10
+Newton,HASTY,Lieutenant Governor,,LIB,Frank Gilbert,2,1,0,1
+Newton,HICKORY GROVE,Lieutenant Governor,,LIB,Frank Gilbert,2,1,0,1
+Newton,HUDSON,Lieutenant Governor,,LIB,Frank Gilbert,3,2,0,1
+Newton,JACKSON,Lieutenant Governor,,LIB,Frank Gilbert,10,6,0,4
+Newton,JEFFERSON,Lieutenant Governor,,LIB,Frank Gilbert,5,0,0,5
+Newton,LINCOLN,Lieutenant Governor,,LIB,Frank Gilbert,4,0,0,4
+Newton,LOW GAP,Lieutenant Governor,,LIB,Frank Gilbert,3,1,0,2
+Newton,MT SHERMAN,Lieutenant Governor,,LIB,Frank Gilbert,3,0,0,3
+Newton,MURRAY,Lieutenant Governor,,LIB,Frank Gilbert,3,3,0,0
+Newton,PLEASANT HILL,Lieutenant Governor,,LIB,Frank Gilbert,2,2,0,0
+Newton,POLK,Lieutenant Governor,,LIB,Frank Gilbert,4,2,0,2
+Newton,PONCA,Lieutenant Governor,,LIB,Frank Gilbert,7,2,0,5
+Newton,RICHLAND,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0
+Newton,VAN BUREN,Lieutenant Governor,,LIB,Frank Gilbert,1,0,0,1
+Newton,WHITE,Lieutenant Governor,,LIB,Frank Gilbert,8,7,0,1
+Newton,BIG CREEK,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,93,36,0,57
+Newton,BOSTON,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,44,8,0,36
+Newton,DOGPATCH,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,250,101,1,148
+Newton,GROVE,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,302,55,3,244
+Newton,HASTY,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,113,34,1,78
+Newton,HICKORY GROVE,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,35,9,1,25
+Newton,HUDSON,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,141,43,1,97
+Newton,JACKSON,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,321,182,8,131
+Newton,JEFFERSON,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,77,15,2,60
+Newton,LINCOLN,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,75,34,0,41
+Newton,LOW GAP,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,91,18,2,71
+Newton,MT SHERMAN,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,101,50,1,50
+Newton,MURRAY,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,14,9,0,5
+Newton,PLEASANT HILL,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,142,46,3,93
+Newton,POLK,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,61,15,0,46
+Newton,PONCA,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,180,39,3,138
+Newton,RICHLAND,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,111,17,0,94
+Newton,VAN BUREN,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,40,8,1,31
+Newton,WHITE,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,256,80,2,174
+Newton,BIG CREEK,Secretary of State,,DEM,Anna Beth Gorman,19,11,1,7
+Newton,BOSTON,Secretary of State,,DEM,Anna Beth Gorman,6,2,0,4
+Newton,DOGPATCH,Secretary of State,,DEM,Anna Beth Gorman,84,28,4,52
+Newton,GROVE,Secretary of State,,DEM,Anna Beth Gorman,46,5,4,37
+Newton,HASTY,Secretary of State,,DEM,Anna Beth Gorman,6,3,0,3
+Newton,HICKORY GROVE,Secretary of State,,DEM,Anna Beth Gorman,8,7,0,1
+Newton,HUDSON,Secretary of State,,DEM,Anna Beth Gorman,45,27,2,16
+Newton,JACKSON,Secretary of State,,DEM,Anna Beth Gorman,79,57,2,20
+Newton,JEFFERSON,Secretary of State,,DEM,Anna Beth Gorman,19,4,0,15
+Newton,LINCOLN,Secretary of State,,DEM,Anna Beth Gorman,12,5,3,4
+Newton,LOW GAP,Secretary of State,,DEM,Anna Beth Gorman,26,10,0,16
+Newton,MT SHERMAN,Secretary of State,,DEM,Anna Beth Gorman,17,13,0,4
+Newton,MURRAY,Secretary of State,,DEM,Anna Beth Gorman,27,20,0,7
+Newton,PLEASANT HILL,Secretary of State,,DEM,Anna Beth Gorman,36,23,3,10
+Newton,POLK,Secretary of State,,DEM,Anna Beth Gorman,11,3,0,8
+Newton,PONCA,Secretary of State,,DEM,Anna Beth Gorman,45,25,0,20
+Newton,RICHLAND,Secretary of State,,DEM,Anna Beth Gorman,8,2,0,6
+Newton,VAN BUREN,Secretary of State,,DEM,Anna Beth Gorman,28,6,2,20
+Newton,WHITE,Secretary of State,,DEM,Anna Beth Gorman,24,16,0,8
+Newton,BIG CREEK,Secretary of State,,REP,Secretary of State John Thurston,94,36,0,58
+Newton,BOSTON,Secretary of State,,REP,Secretary of State John Thurston,42,8,0,34
+Newton,DOGPATCH,Secretary of State,,REP,Secretary of State John Thurston,253,103,1,149
+Newton,GROVE,Secretary of State,,REP,Secretary of State John Thurston,306,55,3,248
+Newton,HASTY,Secretary of State,,REP,Secretary of State John Thurston,113,35,1,77
+Newton,HICKORY GROVE,Secretary of State,,REP,Secretary of State John Thurston,36,9,1,26
+Newton,HUDSON,Secretary of State,,REP,Secretary of State John Thurston,140,42,1,97
+Newton,JACKSON,Secretary of State,,REP,Secretary of State John Thurston,322,180,8,134
+Newton,JEFFERSON,Secretary of State,,REP,Secretary of State John Thurston,79,15,2,62
+Newton,LINCOLN,Secretary of State,,REP,Secretary of State John Thurston,81,36,0,45
+Newton,LOW GAP,Secretary of State,,REP,Secretary of State John Thurston,94,21,2,71
+Newton,MT SHERMAN,Secretary of State,,REP,Secretary of State John Thurston,102,49,1,52
+Newton,MURRAY,Secretary of State,,REP,Secretary of State John Thurston,17,12,0,5
+Newton,PLEASANT HILL,Secretary of State,,REP,Secretary of State John Thurston,145,47,3,95
+Newton,POLK,Secretary of State,,REP,Secretary of State John Thurston,63,16,0,47
+Newton,PONCA,Secretary of State,,REP,Secretary of State John Thurston,184,40,3,141
+Newton,RICHLAND,Secretary of State,,REP,Secretary of State John Thurston,109,17,0,92
+Newton,VAN BUREN,Secretary of State,,REP,Secretary of State John Thurston,38,8,1,29
+Newton,WHITE,Secretary of State,,REP,Secretary of State John Thurston,258,84,2,172
+Newton,BIG CREEK,State Treasurer,,DEM,Pam Whitaker,19,10,1,8
+Newton,BOSTON,State Treasurer,,DEM,Pam Whitaker,5,2,0,3
+Newton,DOGPATCH,State Treasurer,,DEM,Pam Whitaker,85,31,4,50
+Newton,GROVE,State Treasurer,,DEM,Pam Whitaker,46,5,4,37
+Newton,HASTY,State Treasurer,,DEM,Pam Whitaker,6,4,0,2
+Newton,HICKORY GROVE,State Treasurer,,DEM,Pam Whitaker,8,7,0,1
+Newton,HUDSON,State Treasurer,,DEM,Pam Whitaker,46,27,2,17
+Newton,JACKSON,State Treasurer,,DEM,Pam Whitaker,85,60,3,22
+Newton,JEFFERSON,State Treasurer,,DEM,Pam Whitaker,19,4,0,15
+Newton,LINCOLN,State Treasurer,,DEM,Pam Whitaker,15,7,3,5
+Newton,LOW GAP,State Treasurer,,DEM,Pam Whitaker,27,9,0,18
+Newton,MT SHERMAN,State Treasurer,,DEM,Pam Whitaker,20,15,0,5
+Newton,MURRAY,State Treasurer,,DEM,Pam Whitaker,29,21,0,8
+Newton,PLEASANT HILL,State Treasurer,,DEM,Pam Whitaker,38,25,3,10
+Newton,POLK,State Treasurer,,DEM,Pam Whitaker,10,3,0,7
+Newton,PONCA,State Treasurer,,DEM,Pam Whitaker,43,23,0,20
+Newton,RICHLAND,State Treasurer,,DEM,Pam Whitaker,8,2,0,6
+Newton,VAN BUREN,State Treasurer,,DEM,Pam Whitaker,27,7,2,18
+Newton,WHITE,State Treasurer,,DEM,Pam Whitaker,24,17,0,7
+Newton,BIG CREEK,State Treasurer,,REP,State Representative Mark Lowery,95,37,0,58
+Newton,BOSTON,State Treasurer,,REP,State Representative Mark Lowery,44,8,0,36
+Newton,DOGPATCH,State Treasurer,,REP,State Representative Mark Lowery,253,100,1,152
+Newton,GROVE,State Treasurer,,REP,State Representative Mark Lowery,305,57,3,245
+Newton,HASTY,State Treasurer,,REP,State Representative Mark Lowery,113,34,1,78
+Newton,HICKORY GROVE,State Treasurer,,REP,State Representative Mark Lowery,38,9,1,28
+Newton,HUDSON,State Treasurer,,REP,State Representative Mark Lowery,140,43,1,96
+Newton,JACKSON,State Treasurer,,REP,State Representative Mark Lowery,317,178,7,132
+Newton,JEFFERSON,State Treasurer,,REP,State Representative Mark Lowery,80,15,2,63
+Newton,LINCOLN,State Treasurer,,REP,State Representative Mark Lowery,78,34,0,44
+Newton,LOW GAP,State Treasurer,,REP,State Representative Mark Lowery,92,21,2,69
+Newton,MT SHERMAN,State Treasurer,,REP,State Representative Mark Lowery,99,48,1,50
+Newton,MURRAY,State Treasurer,,REP,State Representative Mark Lowery,15,11,0,4
+Newton,PLEASANT HILL,State Treasurer,,REP,State Representative Mark Lowery,141,44,3,94
+Newton,POLK,State Treasurer,,REP,State Representative Mark Lowery,63,16,0,47
+Newton,PONCA,State Treasurer,,REP,State Representative Mark Lowery,185,43,3,139
+Newton,RICHLAND,State Treasurer,,REP,State Representative Mark Lowery,111,17,0,94
+Newton,VAN BUREN,State Treasurer,,REP,State Representative Mark Lowery,38,7,1,30
+Newton,WHITE,State Treasurer,,REP,State Representative Mark Lowery,262,86,2,174
+Newton,DOGPATCH,State Senate,24,REP,Senator Missy Thomas Irvin,278,105,3,170
+Newton,GROVE,State Senate,24,REP,Senator Missy Thomas Irvin,308,53,4,251
+Newton,HASTY,State Senate,24,REP,Senator Missy Thomas Irvin,112,36,1,75
+Newton,POLK,State Senate,24,REP,Senator Missy Thomas Irvin,60,15,0,45
+Newton,BIG CREEK,State Senate,28,DEM,Jim Wallace,20,10,1,9
+Newton,BOSTON,State Senate,28,DEM,Jim Wallace,7,3,0,4
+Newton,HICKORY GROVE,State Senate,28,DEM,Jim Wallace,8,7,0,1
+Newton,HUDSON,State Senate,28,DEM,Jim Wallace,46,27,2,17
+Newton,JACKSON,State Senate,28,DEM,Jim Wallace,83,55,3,25
+Newton,JEFFERSON,State Senate,28,DEM,Jim Wallace,20,4,0,16
+Newton,LINCOLN,State Senate,28,DEM,Jim Wallace,14,7,3,4
+Newton,LOW GAP,State Senate,28,DEM,Jim Wallace,32,11,0,21
+Newton,MT SHERMAN,State Senate,28,DEM,Jim Wallace,18,13,0,5
+Newton,MURRAY,State Senate,28,DEM,Jim Wallace,28,20,0,8
+Newton,PLEASANT HILL,State Senate,28,DEM,Jim Wallace,36,22,3,11
+Newton,PONCA,State Senate,28,DEM,Jim Wallace,55,28,0,27
+Newton,RICHLAND,State Senate,28,DEM,Jim Wallace,9,2,0,7
+Newton,VAN BUREN,State Senate,28,DEM,Jim Wallace,26,7,1,18
+Newton,WHITE,State Senate,28,DEM,Jim Wallace,26,16,0,10
+Newton,BIG CREEK,State Senate,28,REP,Bryan B. King,94,37,0,57
+Newton,BOSTON,State Senate,28,REP,Bryan B. King,42,7,0,35
+Newton,HICKORY GROVE,State Senate,28,REP,Bryan B. King,37,10,1,26
+Newton,HUDSON,State Senate,28,REP,Bryan B. King,140,43,1,96
+Newton,JACKSON,State Senate,28,REP,Bryan B. King,319,182,7,130
+Newton,JEFFERSON,State Senate,28,REP,Bryan B. King,80,15,2,63
+Newton,LINCOLN,State Senate,28,REP,Bryan B. King,78,33,0,45
+Newton,LOW GAP,State Senate,28,REP,Bryan B. King,85,19,2,64
+Newton,MT SHERMAN,State Senate,28,REP,Bryan B. King,100,49,1,50
+Newton,MURRAY,State Senate,28,REP,Bryan B. King,16,12,0,4
+Newton,PLEASANT HILL,State Senate,28,REP,Bryan B. King,144,48,3,93
+Newton,PONCA,State Senate,28,REP,Bryan B. King,173,36,3,134
+Newton,RICHLAND,State Senate,28,REP,Bryan B. King,107,17,0,90
+Newton,VAN BUREN,State Senate,28,REP,Bryan B. King,40,8,1,31
+Newton,WHITE,State Senate,28,REP,Bryan B. King,262,86,2,174
+Newton,BIG CREEK,State House,27,REP,Steven Walker,104,41,1,62
+Newton,BOSTON,State House,27,REP,Steven Walker,42,8,0,34
+Newton,DOGPATCH,State House,27,REP,Steven Walker,281,108,3,170
+Newton,GROVE,State House,27,REP,Steven Walker,316,54,4,258
+Newton,HASTY,State House,27,REP,Steven Walker,111,36,1,74
+Newton,HICKORY GROVE,State House,27,REP,Steven Walker,37,10,1,26
+Newton,HUDSON,State House,27,REP,Steven Walker,156,55,1,100
+Newton,JACKSON,State House,27,REP,Steven Walker,357,205,9,143
+Newton,JEFFERSON,State House,27,REP,Steven Walker,90,18,2,70
+Newton,LINCOLN,State House,27,REP,Steven Walker,84,38,1,45
+Newton,LOW GAP,State House,27,REP,Steven Walker,103,27,2,74
+Newton,MT SHERMAN,State House,27,REP,Steven Walker,104,52,1,51
+Newton,MURRAY,State House,27,REP,Steven Walker,28,20,0,8
+Newton,PLEASANT HILL,State House,27,REP,Steven Walker,152,54,4,94
+Newton,POLK,State House,27,REP,Steven Walker,69,18,0,51
+Newton,PONCA,State House,27,REP,Steven Walker,200,49,3,148
+Newton,RICHLAND,State House,27,REP,Steven Walker,111,16,0,95
+Newton,VAN BUREN,State House,27,REP,Steven Walker,47,9,1,37
+Newton,WHITE,State House,27,REP,Steven Walker,259,85,2,172
+Newton,BIG CREEK,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,37,19,1,17
+Newton,BOSTON,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,21,3,0,18
+Newton,DOGPATCH,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,137,49,2,86
+Newton,GROVE,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,119,24,2,93
+Newton,HASTY,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,38,13,0,25
+Newton,HICKORY GROVE,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,15,3,0,12
+Newton,HUDSON,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,76,35,2,39
+Newton,JACKSON,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,163,98,3,62
+Newton,JEFFERSON,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,37,9,1,27
+Newton,LINCOLN,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,31,14,0,17
+Newton,LOW GAP,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,46,15,0,31
+Newton,MT SHERMAN,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,56,31,1,24
+Newton,MURRAY,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,20,13,0,7
+Newton,PLEASANT HILL,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,80,36,2,42
+Newton,POLK,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,24,8,0,16
+Newton,PONCA,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,100,37,1,62
+Newton,RICHLAND,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,48,5,0,43
+Newton,VAN BUREN,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,33,8,1,24
+Newton,WHITE,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,80,36,0,44
+Newton,BIG CREEK,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,43,16,0,27
+Newton,BOSTON,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,19,5,0,14
+Newton,DOGPATCH,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,125,51,1,73
+Newton,GROVE,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,146,20,2,124
+Newton,HASTY,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,54,18,1,35
+Newton,HICKORY GROVE,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,13,6,1,6
+Newton,HUDSON,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,69,24,1,44
+Newton,JACKSON,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,172,100,6,66
+Newton,JEFFERSON,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,37,9,1,27
+Newton,LINCOLN,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,42,16,1,25
+Newton,LOW GAP,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,45,10,2,33
+Newton,MT SHERMAN,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,33,14,0,19
+Newton,MURRAY,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,16,13,0,3
+Newton,PLEASANT HILL,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,58,23,2,33
+Newton,POLK,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,28,6,0,22
+Newton,PONCA,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,84,14,0,70
+Newton,RICHLAND,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,41,7,0,34
+Newton,VAN BUREN,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,17,3,0,14
+Newton,WHITE,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,118,34,1,83
+Newton,BIG CREEK,COUNTY/CIRCUIT CLERK,,REP,REP DONNIE DAVIS,107,46,1,60
+Newton,BOSTON,COUNTY/CIRCUIT CLERK,,REP,REP DONNIE DAVIS,45,9,0,36
+Newton,DOGPATCH,COUNTY/CIRCUIT CLERK,,REP,REP DONNIE DAVIS,292,116,5,171
+Newton,GROVE,COUNTY/CIRCUIT CLERK,,REP,REP DONNIE DAVIS,332,57,4,271
+Newton,HASTY,COUNTY/CIRCUIT CLERK,,REP,REP DONNIE DAVIS,115,37,1,77
+Newton,HICKORY GROVE,COUNTY/CIRCUIT CLERK,,REP,REP DONNIE DAVIS,43,16,1,26
+Newton,HUDSON,COUNTY/CIRCUIT CLERK,,REP,REP DONNIE DAVIS,171,64,1,106
+Newton,JACKSON,COUNTY/CIRCUIT CLERK,,REP,REP DONNIE DAVIS,373,218,10,145
+Newton,JEFFERSON,COUNTY/CIRCUIT CLERK,,REP,REP DONNIE DAVIS,94,17,2,75
+Newton,LINCOLN,COUNTY/CIRCUIT CLERK,,REP,REP DONNIE DAVIS,88,39,1,48
+Newton,LOW GAP,COUNTY/CIRCUIT CLERK,,REP,REP DONNIE DAVIS,109,28,2,79
+Newton,MT SHERMAN,COUNTY/CIRCUIT CLERK,,REP,REP DONNIE DAVIS,112,59,1,52
+Newton,MURRAY,COUNTY/CIRCUIT CLERK,,REP,REP DONNIE DAVIS,42,32,0,10
+Newton,PLEASANT HILL,COUNTY/CIRCUIT CLERK,,REP,REP DONNIE DAVIS,167,63,4,100
+Newton,POLK,COUNTY/CIRCUIT CLERK,,REP,REP DONNIE DAVIS,67,19,0,48
+Newton,PONCA,COUNTY/CIRCUIT CLERK,,REP,REP DONNIE DAVIS,207,56,3,148
+Newton,RICHLAND,COUNTY/CIRCUIT CLERK,,REP,REP DONNIE DAVIS,114,17,0,97
+Newton,VAN BUREN,COUNTY/CIRCUIT CLERK,,REP,REP DONNIE DAVIS,57,14,3,40
+Newton,WHITE,COUNTY/CIRCUIT CLERK,,REP,REP DONNIE DAVIS,266,94,2,170
+Newton,BIG CREEK,COUNTY SHERIFF,,REP,REP GLENN W. WHEELER,90,37,0,53
+Newton,BOSTON,COUNTY SHERIFF,,REP,REP GLENN W. WHEELER,29,7,0,22
+Newton,DOGPATCH,COUNTY SHERIFF,,REP,REP GLENN W. WHEELER,255,98,3,154
+Newton,GROVE,COUNTY SHERIFF,,REP,REP GLENN W. WHEELER,320,53,3,264
+Newton,HASTY,COUNTY SHERIFF,,REP,REP GLENN W. WHEELER,110,33,1,76
+Newton,HICKORY GROVE,COUNTY SHERIFF,,REP,REP GLENN W. WHEELER,15,4,1,10
+Newton,HUDSON,COUNTY SHERIFF,,REP,REP GLENN W. WHEELER,118,44,1,73
+Newton,JACKSON,COUNTY SHERIFF,,REP,REP GLENN W. WHEELER,290,171,6,113
+Newton,JEFFERSON,COUNTY SHERIFF,,REP,REP GLENN W. WHEELER,46,5,1,40
+Newton,LINCOLN,COUNTY SHERIFF,,REP,REP GLENN W. WHEELER,52,23,0,29
+Newton,LOW GAP,COUNTY SHERIFF,,REP,REP GLENN W. WHEELER,90,23,2,65
+Newton,MT SHERMAN,COUNTY SHERIFF,,REP,REP GLENN W. WHEELER,85,46,0,39
+Newton,MURRAY,COUNTY SHERIFF,,REP,REP GLENN W. WHEELER,21,16,0,5
+Newton,PLEASANT HILL,COUNTY SHERIFF,,REP,REP GLENN W. WHEELER,83,34,2,47
+Newton,POLK,COUNTY SHERIFF,,REP,REP GLENN W. WHEELER,52,17,0,35
+Newton,PONCA,COUNTY SHERIFF,,REP,REP GLENN W. WHEELER,191,48,2,141
+Newton,RICHLAND,COUNTY SHERIFF,,REP,REP GLENN W. WHEELER,69,13,0,56
+Newton,VAN BUREN,COUNTY SHERIFF,,REP,REP GLENN W. WHEELER,48,14,2,32
+Newton,WHITE,COUNTY SHERIFF,,REP,REP GLENN W. WHEELER,218,73,2,143
+Newton,BIG CREEK,COUNTY SHERIFF,,IND,IND DANNY CLAYBORN,24,10,1,13
+Newton,BOSTON,COUNTY SHERIFF,,IND,IND DANNY CLAYBORN,20,3,0,17
+Newton,DOGPATCH,COUNTY SHERIFF,,IND,IND DANNY CLAYBORN,75,27,2,46
+Newton,GROVE,COUNTY SHERIFF,,IND,IND DANNY CLAYBORN,41,8,4,29
+Newton,HASTY,COUNTY SHERIFF,,IND,IND DANNY CLAYBORN,11,6,0,5
+Newton,HICKORY GROVE,COUNTY SHERIFF,,IND,IND DANNY CLAYBORN,32,14,0,18
+Newton,HUDSON,COUNTY SHERIFF,,IND,IND DANNY CLAYBORN,63,26,0,37
+Newton,JACKSON,COUNTY SHERIFF,,IND,IND DANNY CLAYBORN,107,62,4,41
+Newton,JEFFERSON,COUNTY SHERIFF,,IND,IND DANNY CLAYBORN,52,14,1,37
+Newton,LINCOLN,COUNTY SHERIFF,,IND,IND DANNY CLAYBORN,40,18,2,20
+Newton,LOW GAP,COUNTY SHERIFF,,IND,IND DANNY CLAYBORN,27,7,0,20
+Newton,MT SHERMAN,COUNTY SHERIFF,,IND,IND DANNY CLAYBORN,32,15,1,16
+Newton,MURRAY,COUNTY SHERIFF,,IND,IND DANNY CLAYBORN,21,14,0,7
+Newton,PLEASANT HILL,COUNTY SHERIFF,,IND,IND DANNY CLAYBORN,99,37,2,60
+Newton,POLK,COUNTY SHERIFF,,IND,IND DANNY CLAYBORN,22,2,0,20
+Newton,PONCA,COUNTY SHERIFF,,IND,IND DANNY CLAYBORN,38,17,1,20
+Newton,RICHLAND,COUNTY SHERIFF,,IND,IND DANNY CLAYBORN,49,6,0,43
+Newton,VAN BUREN,COUNTY SHERIFF,,IND,IND DANNY CLAYBORN,14,0,0,14
+Newton,WHITE,COUNTY SHERIFF,,IND,IND DANNY CLAYBORN,70,32,0,38
+Newton,BIG CREEK,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,41,20,0,21
+Newton,BOSTON,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,18,2,0,16
+Newton,DOGPATCH,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,117,47,0,70
+Newton,GROVE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,124,19,0,105
+Newton,HASTY,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,33,11,0,22
+Newton,HICKORY GROVE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,8,2,1,5
+Newton,HUDSON,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,73,34,1,38
+Newton,JACKSON,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,181,106,7,68
+Newton,JEFFERSON,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,28,4,2,22
+Newton,LINCOLN,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,44,20,2,22
+Newton,LOW GAP,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,42,9,1,32
+Newton,MT SHERMAN,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,29,16,0,13
+Newton,MURRAY,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,20,14,0,6
+Newton,PLEASANT HILL,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,68,28,1,39
+Newton,POLK,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,20,5,0,15
+Newton,PONCA,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,51,17,0,34
+Newton,RICHLAND,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,30,12,0,18
+Newton,VAN BUREN,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,17,6,1,10
+Newton,WHITE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,88,45,0,43
+Newton,BIG CREEK,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,63,25,1,37
+Newton,BOSTON,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,30,8,0,22
+Newton,DOGPATCH,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,197,71,4,122
+Newton,GROVE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,204,33,3,168
+Newton,HASTY,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,81,24,1,56
+Newton,HICKORY GROVE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,38,16,0,22
+Newton,HUDSON,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,99,30,2,67
+Newton,JACKSON,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,214,128,3,83
+Newton,JEFFERSON,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,66,14,0,52
+Newton,LINCOLN,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,48,20,1,27
+Newton,LOW GAP,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,76,20,1,55
+Newton,MT SHERMAN,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,81,44,0,37
+Newton,MURRAY,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,25,18,0,7
+Newton,PLEASANT HILL,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,98,38,3,57
+Newton,POLK,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,51,14,0,37
+Newton,PONCA,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,171,46,3,122
+Newton,RICHLAND,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,85,6,0,79
+Newton,VAN BUREN,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,50,9,2,39
+Newton,WHITE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,175,47,1,127
+Newton,BIG CREEK,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,45,17,0,28
+Newton,BOSTON,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,21,2,0,19
+Newton,DOGPATCH,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,133,47,1,85
+Newton,GROVE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,137,27,0,110
+Newton,HASTY,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,49,16,0,33
+Newton,HICKORY GROVE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,24,9,1,14
+Newton,HUDSON,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,75,29,0,46
+Newton,JACKSON,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,191,119,2,70
+Newton,JEFFERSON,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,39,3,2,34
+Newton,LINCOLN,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,41,16,2,23
+Newton,LOW GAP,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,49,12,2,35
+Newton,MT SHERMAN,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,43,29,0,14
+Newton,MURRAY,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,12,8,0,4
+Newton,PLEASANT HILL,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,72,29,1,42
+Newton,POLK,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,35,9,0,26
+Newton,PONCA,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,91,24,1,66
+Newton,RICHLAND,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,61,10,0,51
+Newton,VAN BUREN,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,19,5,2,12
+Newton,WHITE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,114,48,1,65
+Newton,BIG CREEK,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,52,24,1,27
+Newton,BOSTON,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,28,8,0,20
+Newton,DOGPATCH,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,184,74,4,106
+Newton,GROVE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,190,28,4,158
+Newton,HASTY,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,64,19,1,44
+Newton,HICKORY GROVE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,23,9,0,14
+Newton,HUDSON,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,101,35,3,63
+Newton,JACKSON,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,200,113,6,81
+Newton,JEFFERSON,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,57,14,0,43
+Newton,LINCOLN,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,49,23,1,25
+Newton,LOW GAP,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,70,17,0,53
+Newton,MT SHERMAN,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,67,29,1,37
+Newton,MURRAY,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,32,24,0,8
+Newton,PLEASANT HILL,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,98,39,3,56
+Newton,POLK,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,36,8,0,28
+Newton,PONCA,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,134,38,2,94
+Newton,RICHLAND,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,54,8,0,46
+Newton,VAN BUREN,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,47,10,1,36
+Newton,WHITE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,149,49,0,100
+Newton,BIG CREEK,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,50,25,0,25
+Newton,BOSTON,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,15,6,0,9
+Newton,DOGPATCH,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,149,64,3,82
+Newton,GROVE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,165,29,0,136
+Newton,HASTY,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,56,21,0,35
+Newton,HICKORY GROVE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,26,12,1,13
+Newton,HUDSON,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,84,31,1,52
+Newton,JACKSON,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,219,134,5,80
+Newton,JEFFERSON,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,41,6,2,33
+Newton,LINCOLN,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,51,23,2,26
+Newton,LOW GAP,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,55,15,2,38
+Newton,MT SHERMAN,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,60,34,0,26
+Newton,MURRAY,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,12,9,0,3
+Newton,PLEASANT HILL,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,76,28,1,47
+Newton,POLK,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,40,10,0,30
+Newton,PONCA,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,84,28,0,56
+Newton,RICHLAND,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,80,11,0,69
+Newton,VAN BUREN,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,19,8,1,10
+Newton,WHITE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,109,57,2,50
+Newton,BIG CREEK,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,54,19,1,34
+Newton,BOSTON,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,34,4,0,30
+Newton,DOGPATCH,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,165,57,2,106
+Newton,GROVE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,175,29,4,142
+Newton,HASTY,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,60,14,1,45
+Newton,HICKORY GROVE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,20,6,0,14
+Newton,HUDSON,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,92,35,2,55
+Newton,JACKSON,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,183,106,4,73
+Newton,JEFFERSON,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,54,11,0,43
+Newton,LINCOLN,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,39,16,1,22
+Newton,LOW GAP,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,64,15,0,49
+Newton,MT SHERMAN,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,53,27,1,25
+Newton,MURRAY,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,32,23,0,9
+Newton,PLEASANT HILL,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,96,41,3,52
+Newton,POLK,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,32,8,0,24
+Newton,PONCA,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,142,36,3,103
+Newton,RICHLAND,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,36,8,0,28
+Newton,VAN BUREN,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,47,7,2,38
+Newton,WHITE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,166,46,0,120
+Newton,BIG CREEK,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,45,14,1,30
+Newton,BOSTON,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,11,5,0,6
+Newton,DOGPATCH,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,164,58,4,102
+Newton,GROVE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,117,20,3,94
+Newton,HASTY,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,28,9,0,19
+Newton,HICKORY GROVE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,13,6,0,7
+Newton,HUDSON,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,87,44,3,40
+Newton,JACKSON,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,156,97,3,56
+Newton,JEFFERSON,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,34,5,2,27
+Newton,LINCOLN,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,52,18,3,31
+Newton,LOW GAP,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,40,13,1,26
+Newton,MT SHERMAN,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,38,21,1,16
+Newton,MURRAY,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,33,26,0,7
+Newton,PLEASANT HILL,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,81,42,2,37
+Newton,POLK,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,24,6,0,18
+Newton,PONCA,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,79,35,0,44
+Newton,RICHLAND,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,26,6,0,20
+Newton,VAN BUREN,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,23,6,0,17
+Newton,WHITE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,76,30,1,45
+Newton,BIG CREEK,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,64,32,0,32
+Newton,BOSTON,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,38,5,0,33
+Newton,DOGPATCH,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,173,73,2,98
+Newton,GROVE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,235,40,4,191
+Newton,HASTY,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,89,28,1,60
+Newton,HICKORY GROVE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,34,12,1,21
+Newton,HUDSON,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,98,25,0,73
+Newton,JACKSON,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,246,137,7,102
+Newton,JEFFERSON,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,66,14,0,52
+Newton,LINCOLN,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,40,22,0,18
+Newton,LOW GAP,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,81,18,1,62
+Newton,MT SHERMAN,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,83,43,0,40
+Newton,MURRAY,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,12,6,0,6
+Newton,PLEASANT HILL,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,101,29,4,68
+Newton,POLK,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,48,12,0,36
+Newton,PONCA,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,152,32,3,117
+Newton,RICHLAND,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,92,13,0,79
+Newton,VAN BUREN,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,45,9,3,33
+Newton,WHITE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,207,70,1,136

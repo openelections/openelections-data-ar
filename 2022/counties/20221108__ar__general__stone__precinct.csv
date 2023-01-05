@@ -1,0 +1,816 @@
+county,precinct,office,district,party,candidate,votes,early_vote,absentee,election_day
+Stone,Arbanna,U.S. Senate,,DEM,Natalie James,49,31,0,18
+Stone,East Out,U.S. Senate,,DEM,Natalie James,25,19,0,6
+Stone,Ward 1,U.S. Senate,,DEM,Natalie James,71,60,0,11
+Stone,Ward 2,U.S. Senate,,DEM,Natalie James,69,49,4,16
+Stone,Ward 3,U.S. Senate,,DEM,Natalie James,68,51,7,10
+Stone,West Out,U.S. Senate,,DEM,Natalie James,39,29,1,9
+Stone,Dodd Mtn,U.S. Senate,,DEM,Natalie James,79,46,3,30
+Stone,Bethany,U.S. Senate,,DEM,Natalie James,41,27,3,11
+Stone,Fifty Six,U.S. Senate,,DEM,Natalie James,10,3,0,7
+Stone,Angora Mtn,U.S. Senate,,DEM,Natalie James,12,9,0,3
+Stone,Pleasant Grove,U.S. Senate,,DEM,Natalie James,67,25,0,42
+Stone,Foothills,U.S. Senate,,DEM,Natalie James,112,79,5,28
+Stone,Liberty,U.S. Senate,,DEM,Natalie James,16,13,0,3
+Stone,Northwest,U.S. Senate,,DEM,Natalie James,25,13,2,10
+Stone,Old Lexington,U.S. Senate,,DEM,Natalie James,5,3,0,2
+Stone,Fox,U.S. Senate,,DEM,Natalie James,99,37,4,58
+Stone,Red Doors,U.S. Senate,,DEM,Natalie James,107,74,5,28
+Stone,Ben,U.S. Senate,,DEM,Natalie James,7,0,0,7
+Stone,Northeast,U.S. Senate,,DEM,Natalie James,31,20,2,9
+Stone,Arbanna,U.S. Senate,,LIB,Kenneth Cates,10,2,0,8
+Stone,East Out,U.S. Senate,,LIB,Kenneth Cates,6,3,0,3
+Stone,Ward 1,U.S. Senate,,LIB,Kenneth Cates,13,11,0,2
+Stone,Ward 2,U.S. Senate,,LIB,Kenneth Cates,15,10,0,5
+Stone,Ward 3,U.S. Senate,,LIB,Kenneth Cates,13,7,0,6
+Stone,West Out,U.S. Senate,,LIB,Kenneth Cates,9,5,0,4
+Stone,Dodd Mtn,U.S. Senate,,LIB,Kenneth Cates,11,5,0,6
+Stone,Bethany,U.S. Senate,,LIB,Kenneth Cates,10,3,0,7
+Stone,Fifty Six,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0
+Stone,Angora Mtn,U.S. Senate,,LIB,Kenneth Cates,1,1,0,0
+Stone,Pleasant Grove,U.S. Senate,,LIB,Kenneth Cates,14,5,0,9
+Stone,Foothills,U.S. Senate,,LIB,Kenneth Cates,21,11,0,10
+Stone,Liberty,U.S. Senate,,LIB,Kenneth Cates,5,2,0,3
+Stone,Northwest,U.S. Senate,,LIB,Kenneth Cates,10,7,0,3
+Stone,Old Lexington,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0
+Stone,Fox,U.S. Senate,,LIB,Kenneth Cates,17,6,0,11
+Stone,Red Doors,U.S. Senate,,LIB,Kenneth Cates,24,10,0,14
+Stone,Ben,U.S. Senate,,LIB,Kenneth Cates,5,0,0,5
+Stone,Northeast,U.S. Senate,,LIB,Kenneth Cates,2,1,0,1
+Stone,Arbanna,U.S. Senate,,REP,Senator John Boozman,235,104,2,129
+Stone,East Out,U.S. Senate,,REP,Senator John Boozman,159,108,0,51
+Stone,Ward 1,U.S. Senate,,REP,Senator John Boozman,353,244,6,103
+Stone,Ward 2,U.S. Senate,,REP,Senator John Boozman,250,167,1,82
+Stone,Ward 3,U.S. Senate,,REP,Senator John Boozman,224,158,4,62
+Stone,West Out,U.S. Senate,,REP,Senator John Boozman,138,95,0,43
+Stone,Dodd Mtn,U.S. Senate,,REP,Senator John Boozman,316,152,2,162
+Stone,Bethany,U.S. Senate,,REP,Senator John Boozman,192,86,2,104
+Stone,Fifty Six,U.S. Senate,,REP,Senator John Boozman,52,21,0,31
+Stone,Angora Mtn,U.S. Senate,,REP,Senator John Boozman,24,9,0,15
+Stone,Pleasant Grove,U.S. Senate,,REP,Senator John Boozman,309,102,6,201
+Stone,Foothills,U.S. Senate,,REP,Senator John Boozman,487,283,2,202
+Stone,Liberty,U.S. Senate,,REP,Senator John Boozman,80,48,0,32
+Stone,Northwest,U.S. Senate,,REP,Senator John Boozman,164,87,0,77
+Stone,Old Lexington,U.S. Senate,,REP,Senator John Boozman,29,5,0,24
+Stone,Fox,U.S. Senate,,REP,Senator John Boozman,330,110,4,216
+Stone,Red Doors,U.S. Senate,,REP,Senator John Boozman,378,192,13,173
+Stone,Ben,U.S. Senate,,REP,Senator John Boozman,88,36,1,51
+Stone,Northeast,U.S. Senate,,REP,Senator John Boozman,141,95,2,44
+Stone,Arbanna,U.S. Congress District 01,,DEM,Representative Monte Hodges,55,31,0,24
+Stone,East Out,U.S. Congress District 01,,DEM,Representative Monte Hodges,30,20,0,10
+Stone,Ward 1,U.S. Congress District 01,,DEM,Representative Monte Hodges,79,65,0,14
+Stone,Ward 2,U.S. Congress District 01,,DEM,Representative Monte Hodges,73,53,4,16
+Stone,Ward 3,U.S. Congress District 01,,DEM,Representative Monte Hodges,75,58,7,10
+Stone,West Out,U.S. Congress District 01,,DEM,Representative Monte Hodges,42,32,1,9
+Stone,Dodd Mtn,U.S. Congress District 01,,DEM,Representative Monte Hodges,81,47,3,31
+Stone,Bethany,U.S. Congress District 01,,DEM,Representative Monte Hodges,42,25,3,14
+Stone,Fifty Six,U.S. Congress District 01,,DEM,Representative Monte Hodges,10,3,0,7
+Stone,Angora Mtn,U.S. Congress District 01,,DEM,Representative Monte Hodges,12,9,0,3
+Stone,Pleasant Grove,U.S. Congress District 01,,DEM,Representative Monte Hodges,72,26,0,46
+Stone,Foothills,U.S. Congress District 01,,DEM,Representative Monte Hodges,118,84,5,29
+Stone,Liberty,U.S. Congress District 01,,DEM,Representative Monte Hodges,15,12,0,3
+Stone,Northwest,U.S. Congress District 01,,DEM,Representative Monte Hodges,30,17,2,11
+Stone,Old Lexington,U.S. Congress District 01,,DEM,Representative Monte Hodges,5,3,0,2
+Stone,Fox,U.S. Congress District 01,,DEM,Representative Monte Hodges,103,40,3,60
+Stone,Red Doors,U.S. Congress District 01,,DEM,Representative Monte Hodges,111,74,5,32
+Stone,Ben,U.S. Congress District 01,,DEM,Representative Monte Hodges,9,1,0,8
+Stone,Northeast,U.S. Congress District 01,,DEM,Representative Monte Hodges,33,22,2,9
+Stone,Arbanna,U.S. Congress District 01,,REP,Congressman Rick Crawford,234,103,2,129
+Stone,East Out,U.S. Congress District 01,,REP,Congressman Rick Crawford,156,105,0,51
+Stone,Ward 1,U.S. Congress District 01,,REP,Congressman Rick Crawford,355,248,6,101
+Stone,Ward 2,U.S. Congress District 01,,REP,Congressman Rick Crawford,256,169,1,86
+Stone,Ward 3,U.S. Congress District 01,,REP,Congressman Rick Crawford,227,156,3,68
+Stone,West Out,U.S. Congress District 01,,REP,Congressman Rick Crawford,141,96,0,45
+Stone,Dodd Mtn,U.S. Congress District 01,,REP,Congressman Rick Crawford,322,153,2,167
+Stone,Bethany,U.S. Congress District 01,,REP,Congressman Rick Crawford,197,89,2,106
+Stone,Fifty Six,U.S. Congress District 01,,REP,Congressman Rick Crawford,51,21,0,30
+Stone,Angora Mtn,U.S. Congress District 01,,REP,Congressman Rick Crawford,24,9,0,15
+Stone,Pleasant Grove,U.S. Congress District 01,,REP,Congressman Rick Crawford,305,102,6,197
+Stone,Foothills,U.S. Congress District 01,,REP,Congressman Rick Crawford,498,286,2,210
+Stone,Liberty,U.S. Congress District 01,,REP,Congressman Rick Crawford,84,50,0,34
+Stone,Northwest,U.S. Congress District 01,,REP,Congressman Rick Crawford,172,93,0,79
+Stone,Old Lexington,U.S. Congress District 01,,REP,Congressman Rick Crawford,27,5,0,22
+Stone,Fox,U.S. Congress District 01,,REP,Congressman Rick Crawford,341,112,5,224
+Stone,Red Doors,U.S. Congress District 01,,REP,Congressman Rick Crawford,394,200,13,181
+Stone,Ben,U.S. Congress District 01,,REP,Congressman Rick Crawford,90,35,1,54
+Stone,Northeast,U.S. Congress District 01,,REP,Congressman Rick Crawford,141,92,2,47
+Stone,Arbanna,Attorney General,,DEM,Jesse Gibson,49,31,0,18
+Stone,East Out,Attorney General,,DEM,Jesse Gibson,35,25,0,10
+Stone,Ward 1,Attorney General,,DEM,Jesse Gibson,81,68,0,13
+Stone,Ward 2,Attorney General,,DEM,Jesse Gibson,72,51,4,17
+Stone,Ward 3,Attorney General,,DEM,Jesse Gibson,74,57,7,10
+Stone,West Out,Attorney General,,DEM,Jesse Gibson,39,30,1,8
+Stone,Dodd Mtn,Attorney General,,DEM,Jesse Gibson,82,48,3,31
+Stone,Bethany,Attorney General,,DEM,Jesse Gibson,43,25,3,15
+Stone,Fifty Six,Attorney General,,DEM,Jesse Gibson,11,4,0,7
+Stone,Angora Mtn,Attorney General,,DEM,Jesse Gibson,12,9,0,3
+Stone,Pleasant Grove,Attorney General,,DEM,Jesse Gibson,73,27,0,46
+Stone,Foothills,Attorney General,,DEM,Jesse Gibson,124,86,5,33
+Stone,Liberty,Attorney General,,DEM,Jesse Gibson,16,13,0,3
+Stone,Northwest,Attorney General,,DEM,Jesse Gibson,30,16,2,12
+Stone,Old Lexington,Attorney General,,DEM,Jesse Gibson,5,3,0,2
+Stone,Fox,Attorney General,,DEM,Jesse Gibson,109,39,4,66
+Stone,Red Doors,Attorney General,,DEM,Jesse Gibson,117,76,5,36
+Stone,Ben,Attorney General,,DEM,Jesse Gibson,6,0,0,6
+Stone,Northeast,Attorney General,,DEM,Jesse Gibson,29,20,2,7
+Stone,Arbanna,Attorney General,,REP,Lieutenant Governor Tim Griffin,242,104,2,136
+Stone,East Out,Attorney General,,REP,Lieutenant Governor Tim Griffin,155,103,0,52
+Stone,Ward 1,Attorney General,,REP,Lieutenant Governor Tim Griffin,354,246,6,102
+Stone,Ward 2,Attorney General,,REP,Lieutenant Governor Tim Griffin,259,173,1,85
+Stone,Ward 3,Attorney General,,REP,Lieutenant Governor Tim Griffin,230,157,4,69
+Stone,West Out,Attorney General,,REP,Lieutenant Governor Tim Griffin,146,99,0,47
+Stone,Dodd Mtn,Attorney General,,REP,Lieutenant Governor Tim Griffin,324,153,2,169
+Stone,Bethany,Attorney General,,REP,Lieutenant Governor Tim Griffin,201,91,2,108
+Stone,Fifty Six,Attorney General,,REP,Lieutenant Governor Tim Griffin,51,20,0,31
+Stone,Angora Mtn,Attorney General,,REP,Lieutenant Governor Tim Griffin,25,10,0,15
+Stone,Pleasant Grove,Attorney General,,REP,Lieutenant Governor Tim Griffin,310,101,6,203
+Stone,Foothills,Attorney General,,REP,Lieutenant Governor Tim Griffin,492,284,2,206
+Stone,Liberty,Attorney General,,REP,Lieutenant Governor Tim Griffin,85,51,0,34
+Stone,Northwest,Attorney General,,REP,Lieutenant Governor Tim Griffin,171,93,0,78
+Stone,Old Lexington,Attorney General,,REP,Lieutenant Governor Tim Griffin,29,5,0,24
+Stone,Fox,Attorney General,,REP,Lieutenant Governor Tim Griffin,335,111,4,220
+Stone,Red Doors,Attorney General,,REP,Lieutenant Governor Tim Griffin,393,200,13,180
+Stone,Ben,Attorney General,,REP,Lieutenant Governor Tim Griffin,93,36,1,56
+Stone,Northeast,Attorney General,,REP,Lieutenant Governor Tim Griffin,144,95,2,47
+Stone,Arbanna,Auditor of State,,REP,Treasurer of State Dennis Milligan,238,105,2,131
+Stone,East Out,Auditor of State,,REP,Treasurer of State Dennis Milligan,147,103,0,44
+Stone,Ward 1,Auditor of State,,REP,Treasurer of State Dennis Milligan,353,246,6,101
+Stone,Ward 2,Auditor of State,,REP,Treasurer of State Dennis Milligan,254,169,1,84
+Stone,Ward 3,Auditor of State,,REP,Treasurer of State Dennis Milligan,215,152,3,60
+Stone,West Out,Auditor of State,,REP,Treasurer of State Dennis Milligan,142,96,0,46
+Stone,Dodd Mtn,Auditor of State,,REP,Treasurer of State Dennis Milligan,308,150,2,156
+Stone,Bethany,Auditor of State,,REP,Treasurer of State Dennis Milligan,192,85,3,104
+Stone,Fifty Six,Auditor of State,,REP,Treasurer of State Dennis Milligan,53,21,0,32
+Stone,Angora Mtn,Auditor of State,,REP,Treasurer of State Dennis Milligan,23,8,0,15
+Stone,Pleasant Grove,Auditor of State,,REP,Treasurer of State Dennis Milligan,299,100,5,194
+Stone,Foothills,Auditor of State,,REP,Treasurer of State Dennis Milligan,491,290,2,199
+Stone,Liberty,Auditor of State,,REP,Treasurer of State Dennis Milligan,83,52,0,31
+Stone,Northwest,Auditor of State,,REP,Treasurer of State Dennis Milligan,167,91,0,76
+Stone,Old Lexington,Auditor of State,,REP,Treasurer of State Dennis Milligan,29,5,0,24
+Stone,Fox,Auditor of State,,REP,Treasurer of State Dennis Milligan,326,108,4,214
+Stone,Red Doors,Auditor of State,,REP,Treasurer of State Dennis Milligan,380,196,14,170
+Stone,Ben,Auditor of State,,REP,Treasurer of State Dennis Milligan,91,32,1,58
+Stone,Northeast,Auditor of State,,REP,Treasurer of State Dennis Milligan,132,87,2,43
+Stone,Arbanna,Auditor of State,,DEM,Diamond Arnold-Johnson,43,29,0,14
+Stone,East Out,Auditor of State,,DEM,Diamond Arnold-Johnson,24,17,0,7
+Stone,Ward 1,Auditor of State,,DEM,Diamond Arnold-Johnson,67,56,0,11
+Stone,Ward 2,Auditor of State,,DEM,Diamond Arnold-Johnson,62,44,4,14
+Stone,Ward 3,Auditor of State,,DEM,Diamond Arnold-Johnson,75,56,8,11
+Stone,West Out,Auditor of State,,DEM,Diamond Arnold-Johnson,36,28,1,7
+Stone,Dodd Mtn,Auditor of State,,DEM,Diamond Arnold-Johnson,76,41,3,32
+Stone,Bethany,Auditor of State,,DEM,Diamond Arnold-Johnson,37,24,2,11
+Stone,Fifty Six,Auditor of State,,DEM,Diamond Arnold-Johnson,9,3,0,6
+Stone,Angora Mtn,Auditor of State,,DEM,Diamond Arnold-Johnson,12,9,0,3
+Stone,Pleasant Grove,Auditor of State,,DEM,Diamond Arnold-Johnson,60,25,1,34
+Stone,Foothills,Auditor of State,,DEM,Diamond Arnold-Johnson,101,69,5,27
+Stone,Liberty,Auditor of State,,DEM,Diamond Arnold-Johnson,12,9,0,3
+Stone,Northwest,Auditor of State,,DEM,Diamond Arnold-Johnson,24,14,2,8
+Stone,Old Lexington,Auditor of State,,DEM,Diamond Arnold-Johnson,5,3,0,2
+Stone,Fox,Auditor of State,,DEM,Diamond Arnold-Johnson,99,40,3,56
+Stone,Red Doors,Auditor of State,,DEM,Diamond Arnold-Johnson,101,68,4,29
+Stone,Ben,Auditor of State,,DEM,Diamond Arnold-Johnson,7,2,0,5
+Stone,Northeast,Auditor of State,,DEM,Diamond Arnold-Johnson,31,21,2,8
+Stone,Arbanna,Auditor of State,,LIB,Simeon Snow,9,1,0,8
+Stone,East Out,Auditor of State,,LIB,Simeon Snow,14,6,0,8
+Stone,Ward 1,Auditor of State,,LIB,Simeon Snow,17,14,0,3
+Stone,Ward 2,Auditor of State,,LIB,Simeon Snow,13,9,0,4
+Stone,Ward 3,Auditor of State,,LIB,Simeon Snow,13,6,0,7
+Stone,West Out,Auditor of State,,LIB,Simeon Snow,6,5,0,1
+Stone,Dodd Mtn,Auditor of State,,LIB,Simeon Snow,18,8,0,10
+Stone,Bethany,Auditor of State,,LIB,Simeon Snow,12,7,0,5
+Stone,Fifty Six,Auditor of State,,LIB,Simeon Snow,1,0,0,1
+Stone,Angora Mtn,Auditor of State,,LIB,Simeon Snow,2,2,0,0
+Stone,Pleasant Grove,Auditor of State,,LIB,Simeon Snow,20,3,0,17
+Stone,Foothills,Auditor of State,,LIB,Simeon Snow,20,10,0,10
+Stone,Liberty,Auditor of State,,LIB,Simeon Snow,4,2,0,2
+Stone,Northwest,Auditor of State,,LIB,Simeon Snow,10,5,0,5
+Stone,Old Lexington,Auditor of State,,LIB,Simeon Snow,0,0,0,0
+Stone,Fox,Auditor of State,,LIB,Simeon Snow,18,5,1,12
+Stone,Red Doors,Auditor of State,,LIB,Simeon Snow,23,10,0,13
+Stone,Ben,Auditor of State,,LIB,Simeon Snow,3,2,0,1
+Stone,Northeast,Auditor of State,,LIB,Simeon Snow,8,5,0,3
+Stone,Arbanna,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,49,31,0,18
+Stone,East Out,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,25,18,0,7
+Stone,Ward 1,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,80,67,0,13
+Stone,Ward 2,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,69,52,4,13
+Stone,Ward 3,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,69,50,8,11
+Stone,West Out,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,40,30,1,9
+Stone,Dodd Mtn,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,87,46,3,38
+Stone,Bethany,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,43,26,3,14
+Stone,Fifty Six,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,10,4,0,6
+Stone,Angora Mtn,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,11,9,0,2
+Stone,Pleasant Grove,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,65,24,0,41
+Stone,Foothills,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,112,78,5,29
+Stone,Liberty,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,15,11,0,4
+Stone,Northwest,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,30,16,2,12
+Stone,Old Lexington,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,5,3,0,2
+Stone,Fox,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,99,37,3,59
+Stone,Red Doors,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,108,72,5,31
+Stone,Ben,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,8,2,0,6
+Stone,Northeast,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,34,21,2,11
+Stone,Arbanna,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,242,103,2,137
+Stone,East Out,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,161,108,0,53
+Stone,Ward 1,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,354,246,6,102
+Stone,Ward 2,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,263,172,1,90
+Stone,Ward 3,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,231,162,3,66
+Stone,West Out,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,144,98,0,46
+Stone,Dodd Mtn,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,309,147,2,160
+Stone,Bethany,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,194,90,2,102
+Stone,Fifty Six,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,52,20,0,32
+Stone,Angora Mtn,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,24,9,0,15
+Stone,Pleasant Grove,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,313,104,6,203
+Stone,Foothills,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,495,285,2,208
+Stone,Liberty,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,83,50,0,33
+Stone,Northwest,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,170,93,0,77
+Stone,Old Lexington,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,28,5,0,23
+Stone,Fox,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,343,114,5,224
+Stone,Red Doors,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,399,203,13,183
+Stone,Ben,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,94,34,1,59
+Stone,Northeast,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,139,92,2,45
+Stone,Arbanna,Governor,,REP,Sarah Huckabee Sanders,236,102,2,132
+Stone,East Out,Governor,,REP,Sarah Huckabee Sanders,158,104,0,54
+Stone,Ward 1,Governor,,REP,Sarah Huckabee Sanders,353,247,6,100
+Stone,Ward 2,Governor,,REP,Sarah Huckabee Sanders,254,175,1,78
+Stone,Ward 3,Governor,,REP,Sarah Huckabee Sanders,221,156,4,61
+Stone,West Out,Governor,,REP,Sarah Huckabee Sanders,137,95,0,42
+Stone,Dodd Mtn,Governor,,REP,Sarah Huckabee Sanders,310,147,2,161
+Stone,Bethany,Governor,,REP,Sarah Huckabee Sanders,190,84,2,104
+Stone,Fifty Six,Governor,,REP,Sarah Huckabee Sanders,55,22,0,33
+Stone,Angora Mtn,Governor,,REP,Sarah Huckabee Sanders,24,9,0,15
+Stone,Pleasant Grove,Governor,,REP,Sarah Huckabee Sanders,318,106,5,207
+Stone,Foothills,Governor,,REP,Sarah Huckabee Sanders,493,285,2,206
+Stone,Liberty,Governor,,REP,Sarah Huckabee Sanders,79,49,0,30
+Stone,Northwest,Governor,,REP,Sarah Huckabee Sanders,170,94,0,76
+Stone,Old Lexington,Governor,,REP,Sarah Huckabee Sanders,29,5,0,24
+Stone,Fox,Governor,,REP,Sarah Huckabee Sanders,318,111,4,203
+Stone,Red Doors,Governor,,REP,Sarah Huckabee Sanders,365,185,11,169
+Stone,Ben,Governor,,REP,Sarah Huckabee Sanders,94,37,1,56
+Stone,Northeast,Governor,,REP,Sarah Huckabee Sanders,132,86,2,44
+Stone,Arbanna,Governor,,DEM,Chris Jones,55,33,0,22
+Stone,East Out,Governor,,DEM,Chris Jones,28,22,0,6
+Stone,Ward 1,Governor,,DEM,Chris Jones,82,67,0,15
+Stone,Ward 2,Governor,,DEM,Chris Jones,81,53,4,24
+Stone,Ward 3,Governor,,DEM,Chris Jones,78,59,7,12
+Stone,West Out,Governor,,DEM,Chris Jones,44,32,1,11
+Stone,Dodd Mtn,Governor,,DEM,Chris Jones,91,54,3,34
+Stone,Bethany,Governor,,DEM,Chris Jones,47,29,3,15
+Stone,Fifty Six,Governor,,DEM,Chris Jones,8,2,0,6
+Stone,Angora Mtn,Governor,,DEM,Chris Jones,13,10,0,3
+Stone,Pleasant Grove,Governor,,DEM,Chris Jones,70,24,1,45
+Stone,Foothills,Governor,,DEM,Chris Jones,124,89,5,30
+Stone,Liberty,Governor,,DEM,Chris Jones,16,12,0,4
+Stone,Northwest,Governor,,DEM,Chris Jones,28,16,2,10
+Stone,Old Lexington,Governor,,DEM,Chris Jones,5,3,0,2
+Stone,Fox,Governor,,DEM,Chris Jones,125,43,3,79
+Stone,Red Doors,Governor,,DEM,Chris Jones,131,84,6,41
+Stone,Ben,Governor,,DEM,Chris Jones,6,0,0,6
+Stone,Northeast,Governor,,DEM,Chris Jones,38,27,2,9
+Stone,Arbanna,Governor,,LIB,"Ricky Dale Harrington, Jr.",4,1,0,3
+Stone,East Out,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,4,0,1
+Stone,Ward 1,Governor,,LIB,"Ricky Dale Harrington, Jr.",8,7,0,1
+Stone,Ward 2,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,1,0,2
+Stone,Ward 3,Governor,,LIB,"Ricky Dale Harrington, Jr.",8,2,0,6
+Stone,West Out,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,2,0,3
+Stone,Dodd Mtn,Governor,,LIB,"Ricky Dale Harrington, Jr.",8,2,0,6
+Stone,Bethany,Governor,,LIB,"Ricky Dale Harrington, Jr.",6,2,0,4
+Stone,Fifty Six,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Stone,Angora Mtn,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Stone,Pleasant Grove,Governor,,LIB,"Ricky Dale Harrington, Jr.",7,2,0,5
+Stone,Foothills,Governor,,LIB,"Ricky Dale Harrington, Jr.",6,2,0,4
+Stone,Liberty,Governor,,LIB,"Ricky Dale Harrington, Jr.",6,2,0,4
+Stone,Northwest,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,1,0,4
+Stone,Old Lexington,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Stone,Fox,Governor,,LIB,"Ricky Dale Harrington, Jr.",11,3,1,7
+Stone,Red Doors,Governor,,LIB,"Ricky Dale Harrington, Jr.",14,5,1,8
+Stone,Ben,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,0,0,3
+Stone,Northeast,Governor,,LIB,"Ricky Dale Harrington, Jr.",4,2,0,2
+Stone,Arbanna,Lieutenant Governor,,DEM,Kelly Ross Krout,49,32,0,17
+Stone,East Out,Lieutenant Governor,,DEM,Kelly Ross Krout,27,19,0,8
+Stone,Ward 1,Lieutenant Governor,,DEM,Kelly Ross Krout,68,55,0,13
+Stone,Ward 2,Lieutenant Governor,,DEM,Kelly Ross Krout,67,48,4,15
+Stone,Ward 3,Lieutenant Governor,,DEM,Kelly Ross Krout,68,49,7,12
+Stone,West Out,Lieutenant Governor,,DEM,Kelly Ross Krout,40,29,1,10
+Stone,Dodd Mtn,Lieutenant Governor,,DEM,Kelly Ross Krout,81,48,3,30
+Stone,Bethany,Lieutenant Governor,,DEM,Kelly Ross Krout,39,25,3,11
+Stone,Fifty Six,Lieutenant Governor,,DEM,Kelly Ross Krout,10,3,0,7
+Stone,Angora Mtn,Lieutenant Governor,,DEM,Kelly Ross Krout,13,10,0,3
+Stone,Pleasant Grove,Lieutenant Governor,,DEM,Kelly Ross Krout,57,23,0,34
+Stone,Foothills,Lieutenant Governor,,DEM,Kelly Ross Krout,111,77,5,29
+Stone,Liberty,Lieutenant Governor,,DEM,Kelly Ross Krout,16,13,0,3
+Stone,Northwest,Lieutenant Governor,,DEM,Kelly Ross Krout,30,16,2,12
+Stone,Old Lexington,Lieutenant Governor,,DEM,Kelly Ross Krout,5,3,0,2
+Stone,Fox,Lieutenant Governor,,DEM,Kelly Ross Krout,98,37,3,58
+Stone,Red Doors,Lieutenant Governor,,DEM,Kelly Ross Krout,110,74,5,31
+Stone,Ben,Lieutenant Governor,,DEM,Kelly Ross Krout,6,0,0,6
+Stone,Northeast,Lieutenant Governor,,DEM,Kelly Ross Krout,29,23,2,4
+Stone,Arbanna,Lieutenant Governor,,LIB,Frank Gilbert,11,4,0,7
+Stone,East Out,Lieutenant Governor,,LIB,Frank Gilbert,8,3,0,5
+Stone,Ward 1,Lieutenant Governor,,LIB,Frank Gilbert,15,14,0,1
+Stone,Ward 2,Lieutenant Governor,,LIB,Frank Gilbert,14,9,0,5
+Stone,Ward 3,Lieutenant Governor,,LIB,Frank Gilbert,18,11,1,6
+Stone,West Out,Lieutenant Governor,,LIB,Frank Gilbert,3,2,0,1
+Stone,Dodd Mtn,Lieutenant Governor,,LIB,Frank Gilbert,18,9,0,9
+Stone,Bethany,Lieutenant Governor,,LIB,Frank Gilbert,15,4,0,11
+Stone,Fifty Six,Lieutenant Governor,,LIB,Frank Gilbert,3,2,0,1
+Stone,Angora Mtn,Lieutenant Governor,,LIB,Frank Gilbert,1,0,0,1
+Stone,Pleasant Grove,Lieutenant Governor,,LIB,Frank Gilbert,24,6,0,18
+Stone,Foothills,Lieutenant Governor,,LIB,Frank Gilbert,22,15,0,7
+Stone,Liberty,Lieutenant Governor,,LIB,Frank Gilbert,7,4,0,3
+Stone,Northwest,Lieutenant Governor,,LIB,Frank Gilbert,12,7,0,5
+Stone,Old Lexington,Lieutenant Governor,,LIB,Frank Gilbert,1,1,0,0
+Stone,Fox,Lieutenant Governor,,LIB,Frank Gilbert,25,7,1,17
+Stone,Red Doors,Lieutenant Governor,,LIB,Frank Gilbert,18,8,0,10
+Stone,Ben,Lieutenant Governor,,LIB,Frank Gilbert,2,0,0,2
+Stone,Northeast,Lieutenant Governor,,LIB,Frank Gilbert,9,6,0,3
+Stone,Arbanna,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,232,100,2,130
+Stone,East Out,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,150,103,0,47
+Stone,Ward 1,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,348,245,6,97
+Stone,Ward 2,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,257,172,1,84
+Stone,Ward 3,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,220,156,3,61
+Stone,West Out,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,144,99,0,45
+Stone,Dodd Mtn,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,308,144,2,162
+Stone,Bethany,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,188,87,2,99
+Stone,Fifty Six,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,50,19,0,31
+Stone,Angora Mtn,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,23,9,0,14
+Stone,Pleasant Grove,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,310,103,6,201
+Stone,Foothills,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,486,281,2,203
+Stone,Liberty,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,77,47,0,30
+Stone,Northwest,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,159,86,0,73
+Stone,Old Lexington,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,28,4,0,24
+Stone,Fox,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,326,110,4,212
+Stone,Red Doors,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,384,195,13,176
+Stone,Ben,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,93,36,1,56
+Stone,Northeast,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,136,86,2,48
+Stone,Arbanna,Secretary of State,,DEM,Anna Beth Gorman,48,30,0,18
+Stone,East Out,Secretary of State,,DEM,Anna Beth Gorman,32,25,0,7
+Stone,Ward 1,Secretary of State,,DEM,Anna Beth Gorman,79,66,0,13
+Stone,Ward 2,Secretary of State,,DEM,Anna Beth Gorman,76,54,4,18
+Stone,Ward 3,Secretary of State,,DEM,Anna Beth Gorman,81,59,8,14
+Stone,West Out,Secretary of State,,DEM,Anna Beth Gorman,43,31,1,11
+Stone,Dodd Mtn,Secretary of State,,DEM,Anna Beth Gorman,81,48,3,30
+Stone,Bethany,Secretary of State,,DEM,Anna Beth Gorman,42,25,2,15
+Stone,Fifty Six,Secretary of State,,DEM,Anna Beth Gorman,11,3,0,8
+Stone,Angora Mtn,Secretary of State,,DEM,Anna Beth Gorman,12,9,0,3
+Stone,Pleasant Grove,Secretary of State,,DEM,Anna Beth Gorman,72,25,0,47
+Stone,Foothills,Secretary of State,,DEM,Anna Beth Gorman,123,85,5,33
+Stone,Liberty,Secretary of State,,DEM,Anna Beth Gorman,18,13,0,5
+Stone,Northwest,Secretary of State,,DEM,Anna Beth Gorman,31,16,2,13
+Stone,Old Lexington,Secretary of State,,DEM,Anna Beth Gorman,5,3,0,2
+Stone,Fox,Secretary of State,,DEM,Anna Beth Gorman,108,40,4,64
+Stone,Red Doors,Secretary of State,,DEM,Anna Beth Gorman,111,75,5,31
+Stone,Ben,Secretary of State,,DEM,Anna Beth Gorman,8,1,0,7
+Stone,Northeast,Secretary of State,,DEM,Anna Beth Gorman,31,21,2,8
+Stone,Arbanna,Secretary of State,,REP,Secretary of State John Thurston,243,104,2,137
+Stone,East Out,Secretary of State,,REP,Secretary of State John Thurston,152,101,0,51
+Stone,Ward 1,Secretary of State,,REP,Secretary of State John Thurston,356,248,6,102
+Stone,Ward 2,Secretary of State,,REP,Secretary of State John Thurston,256,169,1,86
+Stone,Ward 3,Secretary of State,,REP,Secretary of State John Thurston,224,158,3,63
+Stone,West Out,Secretary of State,,REP,Secretary of State John Thurston,140,97,0,43
+Stone,Dodd Mtn,Secretary of State,,REP,Secretary of State John Thurston,322,153,2,167
+Stone,Bethany,Secretary of State,,REP,Secretary of State John Thurston,196,89,3,104
+Stone,Fifty Six,Secretary of State,,REP,Secretary of State John Thurston,52,21,0,31
+Stone,Angora Mtn,Secretary of State,,REP,Secretary of State John Thurston,24,9,0,15
+Stone,Pleasant Grove,Secretary of State,,REP,Secretary of State John Thurston,311,105,6,200
+Stone,Foothills,Secretary of State,,REP,Secretary of State John Thurston,486,281,2,203
+Stone,Liberty,Secretary of State,,REP,Secretary of State John Thurston,82,50,0,32
+Stone,Northwest,Secretary of State,,REP,Secretary of State John Thurston,171,94,0,77
+Stone,Old Lexington,Secretary of State,,REP,Secretary of State John Thurston,29,5,0,24
+Stone,Fox,Secretary of State,,REP,Secretary of State John Thurston,336,111,4,221
+Stone,Red Doors,Secretary of State,,REP,Secretary of State John Thurston,393,198,13,182
+Stone,Ben,Secretary of State,,REP,Secretary of State John Thurston,92,35,1,56
+Stone,Northeast,Secretary of State,,REP,Secretary of State John Thurston,141,93,2,46
+Stone,Arbanna,State Treasurer,,DEM,Pam Whitaker,53,34,0,19
+Stone,East Out,State Treasurer,,DEM,Pam Whitaker,27,20,0,7
+Stone,Ward 1,State Treasurer,,DEM,Pam Whitaker,88,72,0,16
+Stone,Ward 2,State Treasurer,,DEM,Pam Whitaker,80,59,4,17
+Stone,Ward 3,State Treasurer,,DEM,Pam Whitaker,82,59,7,16
+Stone,West Out,State Treasurer,,DEM,Pam Whitaker,44,32,1,11
+Stone,Dodd Mtn,State Treasurer,,DEM,Pam Whitaker,93,53,3,37
+Stone,Bethany,State Treasurer,,DEM,Pam Whitaker,45,26,3,16
+Stone,Fifty Six,State Treasurer,,DEM,Pam Whitaker,10,3,0,7
+Stone,Angora Mtn,State Treasurer,,DEM,Pam Whitaker,12,9,0,3
+Stone,Pleasant Grove,State Treasurer,,DEM,Pam Whitaker,76,28,1,47
+Stone,Foothills,State Treasurer,,DEM,Pam Whitaker,124,87,5,32
+Stone,Liberty,State Treasurer,,DEM,Pam Whitaker,20,13,0,7
+Stone,Northwest,State Treasurer,,DEM,Pam Whitaker,30,16,2,12
+Stone,Old Lexington,State Treasurer,,DEM,Pam Whitaker,5,3,0,2
+Stone,Fox,State Treasurer,,DEM,Pam Whitaker,113,42,4,67
+Stone,Red Doors,State Treasurer,,DEM,Pam Whitaker,122,79,5,38
+Stone,Ben,State Treasurer,,DEM,Pam Whitaker,8,1,0,7
+Stone,Northeast,State Treasurer,,DEM,Pam Whitaker,28,20,2,6
+Stone,Arbanna,State Treasurer,,REP,State Representative Mark Lowery,238,100,2,136
+Stone,East Out,State Treasurer,,REP,State Representative Mark Lowery,157,107,0,50
+Stone,Ward 1,State Treasurer,,REP,State Representative Mark Lowery,343,239,6,98
+Stone,Ward 2,State Treasurer,,REP,State Representative Mark Lowery,248,162,1,85
+Stone,Ward 3,State Treasurer,,REP,State Representative Mark Lowery,218,154,4,60
+Stone,West Out,State Treasurer,,REP,State Representative Mark Lowery,140,95,0,45
+Stone,Dodd Mtn,State Treasurer,,REP,State Representative Mark Lowery,305,141,2,162
+Stone,Bethany,State Treasurer,,REP,State Representative Mark Lowery,186,84,2,100
+Stone,Fifty Six,State Treasurer,,REP,State Representative Mark Lowery,52,21,0,31
+Stone,Angora Mtn,State Treasurer,,REP,State Representative Mark Lowery,25,10,0,15
+Stone,Pleasant Grove,State Treasurer,,REP,State Representative Mark Lowery,302,100,5,197
+Stone,Foothills,State Treasurer,,REP,State Representative Mark Lowery,484,278,2,204
+Stone,Liberty,State Treasurer,,REP,State Representative Mark Lowery,79,49,0,30
+Stone,Northwest,State Treasurer,,REP,State Representative Mark Lowery,170,94,0,76
+Stone,Old Lexington,State Treasurer,,REP,State Representative Mark Lowery,29,5,0,24
+Stone,Fox,State Treasurer,,REP,State Representative Mark Lowery,327,109,4,214
+Stone,Red Doors,State Treasurer,,REP,State Representative Mark Lowery,381,195,13,173
+Stone,Ben,State Treasurer,,REP,State Representative Mark Lowery,91,34,1,56
+Stone,Northeast,State Treasurer,,REP,State Representative Mark Lowery,142,93,2,47
+Stone,Arbanna,State Senate,24,REP,Senator Missy Thomas Irvin,253,110,2,141
+Stone,East Out,State Senate,24,REP,Senator Missy Thomas Irvin,163,108,0,55
+Stone,Ward 1,State Senate,24,REP,Senator Missy Thomas Irvin,381,275,5,101
+Stone,Ward 2,State Senate,24,REP,Senator Missy Thomas Irvin,289,194,3,92
+Stone,Ward 3,State Senate,24,REP,Senator Missy Thomas Irvin,255,180,5,70
+Stone,West Out,State Senate,24,REP,Senator Missy Thomas Irvin,146,104,0,42
+Stone,Dodd Mtn,State Senate,24,REP,Senator Missy Thomas Irvin,339,166,2,171
+Stone,Bethany,State Senate,24,REP,Senator Missy Thomas Irvin,215,101,3,111
+Stone,Fifty Six,State Senate,24,REP,Senator Missy Thomas Irvin,58,24,0,34
+Stone,Angora Mtn,State Senate,24,REP,Senator Missy Thomas Irvin,27,12,0,15
+Stone,Pleasant Grove,State Senate,24,REP,Senator Missy Thomas Irvin,348,113,6,229
+Stone,Foothills,State Senate,24,REP,Senator Missy Thomas Irvin,553,323,4,226
+Stone,Liberty,State Senate,24,REP,Senator Missy Thomas Irvin,85,55,0,30
+Stone,Northwest,State Senate,24,REP,Senator Missy Thomas Irvin,177,98,0,79
+Stone,Old Lexington,State Senate,24,REP,Senator Missy Thomas Irvin,31,7,0,24
+Stone,Fox,State Senate,24,REP,Senator Missy Thomas Irvin,372,124,8,240
+Stone,Red Doors,State Senate,24,REP,Senator Missy Thomas Irvin,430,219,14,197
+Stone,Ben,State Senate,24,REP,Senator Missy Thomas Irvin,92,35,0,57
+Stone,Northeast,State Senate,24,REP,Senator Missy Thomas Irvin,146,92,3,51
+Stone,Bethany,State House,27,REP,Steven Walker,199,90,3,106
+Stone,Fifty Six,State House,27,REP,Steven Walker,56,24,0,32
+Stone,Foothills,State House,27,REP,Steven Walker,544,320,4,220
+Stone,Northwest,State House,27,REP,Steven Walker,150,76,0,74
+Stone,Arbanna,State House,28,REP,Bart Schulz,259,113,2,144
+Stone,Pleasant Grove,State House,28,REP,Bart Schulz,323,106,6,211
+Stone,Ben,State House,28,REP,Bart Schulz,97,35,1,61
+Stone,Northeast,State House,28,REP,Bart Schulz,100,64,3,33
+Stone,East Out,State House,41,REP,State Representative Josh Miller,158,109,0,49
+Stone,Ward 1,State House,41,REP,State Representative Josh Miller,367,255,5,107
+Stone,Ward 2,State House,41,REP,State Representative Josh Miller,257,173,1,83
+Stone,Ward 3,State House,41,REP,State Representative Josh Miller,239,171,4,64
+Stone,West Out,State House,41,REP,State Representative Josh Miller,148,102,0,46
+Stone,Dodd Mtn,State House,41,REP,State Representative Josh Miller,326,154,2,170
+Stone,Bethany,State House,41,REP,State Representative Josh Miller,20,12,0,8
+Stone,Angora Mtn,State House,41,REP,State Representative Josh Miller,25,10,0,15
+Stone,Liberty,State House,41,REP,State Representative Josh Miller,82,52,0,30
+Stone,Northwest,State House,41,REP,State Representative Josh Miller,35,26,0,9
+Stone,Old Lexington,State House,41,REP,State Representative Josh Miller,29,5,0,24
+Stone,Fox,State House,41,REP,State Representative Josh Miller,342,113,5,224
+Stone,Red Doors,State House,41,REP,State Representative Josh Miller,405,208,13,184
+Stone,Northeast,State House,41,REP,State Representative Josh Miller,38,27,0,11
+Stone,East Out,State House,41,LIB,"Edward M. Flanigan, III",25,15,0,10
+Stone,Ward 1,State House,41,LIB,"Edward M. Flanigan, III",56,51,0,5
+Stone,Ward 2,State House,41,LIB,"Edward M. Flanigan, III",55,40,4,11
+Stone,Ward 3,State House,41,LIB,"Edward M. Flanigan, III",59,42,4,13
+Stone,West Out,State House,41,LIB,"Edward M. Flanigan, III",29,21,1,7
+Stone,Dodd Mtn,State House,41,LIB,"Edward M. Flanigan, III",57,33,0,24
+Stone,Bethany,State House,41,LIB,"Edward M. Flanigan, III",0,0,0,0
+Stone,Angora Mtn,State House,41,LIB,"Edward M. Flanigan, III",9,7,0,2
+Stone,Liberty,State House,41,LIB,"Edward M. Flanigan, III",13,9,0,4
+Stone,Northwest,State House,41,LIB,"Edward M. Flanigan, III",4,3,0,1
+Stone,Old Lexington,State House,41,LIB,"Edward M. Flanigan, III",2,2,0,0
+Stone,Fox,State House,41,LIB,"Edward M. Flanigan, III",80,33,3,44
+Stone,Red Doors,State House,41,LIB,"Edward M. Flanigan, III",88,56,4,28
+Stone,Northeast,State House,41,LIB,"Edward M. Flanigan, III",10,2,1,7
+Stone,Arbanna,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,120,50,2,68
+Stone,East Out,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,64,40,0,24
+Stone,Ward 1,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,149,103,1,45
+Stone,Ward 2,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,128,82,2,44
+Stone,Ward 3,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,116,78,6,32
+Stone,West Out,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,73,47,0,26
+Stone,Dodd Mtn,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,143,72,1,70
+Stone,Bethany,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,86,43,3,40
+Stone,Fifty Six,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,19,8,0,11
+Stone,Angora Mtn,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,19,9,0,10
+Stone,Pleasant Grove,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,149,44,4,101
+Stone,Foothills,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,212,126,2,84
+Stone,Liberty,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,41,26,0,15
+Stone,Northwest,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,72,39,0,33
+Stone,Old Lexington,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,14,2,0,12
+Stone,Fox,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,192,67,3,122
+Stone,Red Doors,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,202,103,6,93
+Stone,Ben,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,33,13,0,20
+Stone,Northeast,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,66,40,1,25
+Stone,Arbanna,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,124,61,0,63
+Stone,East Out,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,88,62,0,26
+Stone,Ward 1,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,222,167,3,52
+Stone,Ward 2,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,144,102,3,39
+Stone,Ward 3,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,148,106,4,38
+Stone,West Out,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,79,57,1,21
+Stone,Dodd Mtn,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,196,90,1,105
+Stone,Bethany,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,96,43,2,51
+Stone,Fifty Six,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,31,13,0,18
+Stone,Angora Mtn,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,9,6,0,3
+Stone,Pleasant Grove,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,168,60,2,106
+Stone,Foothills,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,279,162,4,113
+Stone,Liberty,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,47,27,0,20
+Stone,Northwest,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,97,53,0,44
+Stone,Old Lexington,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,17,5,0,12
+Stone,Fox,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,173,62,5,106
+Stone,Red Doors,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,241,133,12,96
+Stone,Ben,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,52,18,1,33
+Stone,Northeast,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,90,62,3,25
+Stone,Arbanna,County Judge,,REP,REP Jim Nesbitt,174,75,1,98
+Stone,East Out,County Judge,,REP,REP Jim Nesbitt,100,64,0,36
+Stone,Ward 1,County Judge,,REP,REP Jim Nesbitt,190,124,4,62
+Stone,Ward 2,County Judge,,REP,REP Jim Nesbitt,163,111,0,52
+Stone,Ward 3,County Judge,,REP,REP Jim Nesbitt,140,100,3,37
+Stone,West Out,County Judge,,REP,REP Jim Nesbitt,83,52,0,31
+Stone,Dodd Mtn,County Judge,,REP,REP Jim Nesbitt,201,92,2,107
+Stone,Bethany,County Judge,,REP,REP Jim Nesbitt,80,51,0,29
+Stone,Fifty Six,County Judge,,REP,REP Jim Nesbitt,25,9,0,16
+Stone,Angora Mtn,County Judge,,REP,REP Jim Nesbitt,17,6,0,11
+Stone,Pleasant Grove,County Judge,,REP,REP Jim Nesbitt,216,68,4,144
+Stone,Foothills,County Judge,,REP,REP Jim Nesbitt,302,162,2,138
+Stone,Liberty,County Judge,,REP,REP Jim Nesbitt,55,29,0,26
+Stone,Northwest,County Judge,,REP,REP Jim Nesbitt,97,54,0,43
+Stone,Old Lexington,County Judge,,REP,REP Jim Nesbitt,24,3,0,21
+Stone,Fox,County Judge,,REP,REP Jim Nesbitt,203,69,1,133
+Stone,Red Doors,County Judge,,REP,REP Jim Nesbitt,187,96,4,87
+Stone,Ben,County Judge,,REP,REP Jim Nesbitt,66,29,0,37
+Stone,Northeast,County Judge,,REP,REP Jim Nesbitt,108,67,2,39
+Stone,Arbanna,County Judge,,IND,IND Stacey Avey,116,60,1,55
+Stone,East Out,County Judge,,IND,IND Stacey Avey,90,64,0,26
+Stone,Ward 1,County Judge,,IND,IND Stacey Avey,248,193,2,53
+Stone,Ward 2,County Judge,,IND,IND Stacey Avey,175,121,5,49
+Stone,Ward 3,County Judge,,IND,IND Stacey Avey,172,122,8,42
+Stone,West Out,County Judge,,IND,IND Stacey Avey,103,78,0,25
+Stone,Dodd Mtn,County Judge,,IND,IND Stacey Avey,206,110,3,93
+Stone,Bethany,County Judge,,IND,IND Stacey Avey,161,61,5,95
+Stone,Fifty Six,County Judge,,IND,IND Stacey Avey,37,15,0,22
+Stone,Angora Mtn,County Judge,,IND,IND Stacey Avey,19,12,0,7
+Stone,Pleasant Grove,County Judge,,IND,IND Stacey Avey,178,63,2,113
+Stone,Foothills,County Judge,,IND,IND Stacey Avey,316,207,5,104
+Stone,Liberty,County Judge,,IND,IND Stacey Avey,45,33,0,12
+Stone,Northwest,County Judge,,IND,IND Stacey Avey,104,57,2,45
+Stone,Old Lexington,County Judge,,IND,IND Stacey Avey,8,4,0,4
+Stone,Fox,County Judge,,IND,IND Stacey Avey,244,85,7,152
+Stone,Red Doors,County Judge,,IND,IND Stacey Avey,331,181,14,136
+Stone,Ben,County Judge,,IND,IND Stacey Avey,35,8,1,26
+Stone,Northeast,County Judge,,IND,IND Stacey Avey,72,50,2,20
+Stone,Arbanna,Sheriff,,IND,IND Dammon McGilton,95,45,0,50
+Stone,East Out,Sheriff,,IND,IND Dammon McGilton,45,33,0,12
+Stone,Ward 1,Sheriff,,IND,IND Dammon McGilton,162,120,2,40
+Stone,Ward 2,Sheriff,,IND,IND Dammon McGilton,105,76,0,29
+Stone,Ward 3,Sheriff,,IND,IND Dammon McGilton,108,74,4,30
+Stone,West Out,Sheriff,,IND,IND Dammon McGilton,57,41,1,15
+Stone,Dodd Mtn,Sheriff,,IND,IND Dammon McGilton,127,70,1,56
+Stone,Bethany,Sheriff,,IND,IND Dammon McGilton,75,36,2,37
+Stone,Fifty Six,Sheriff,,IND,IND Dammon McGilton,20,6,0,14
+Stone,Angora Mtn,Sheriff,,IND,IND Dammon McGilton,8,2,0,6
+Stone,Pleasant Grove,Sheriff,,IND,IND Dammon McGilton,105,38,1,66
+Stone,Foothills,Sheriff,,IND,IND Dammon McGilton,179,126,1,52
+Stone,Liberty,Sheriff,,IND,IND Dammon McGilton,29,18,0,11
+Stone,Northwest,Sheriff,,IND,IND Dammon McGilton,54,31,0,23
+Stone,Old Lexington,Sheriff,,IND,IND Dammon McGilton,2,1,0,1
+Stone,Fox,Sheriff,,IND,IND Dammon McGilton,153,56,1,96
+Stone,Red Doors,Sheriff,,IND,IND Dammon McGilton,146,86,8,52
+Stone,Ben,Sheriff,,IND,IND Dammon McGilton,52,17,1,34
+Stone,Northeast,Sheriff,,IND,IND Dammon McGilton,61,36,2,23
+Stone,Arbanna,Sheriff,,REP,REP Brandon Long,166,74,2,90
+Stone,East Out,Sheriff,,REP,REP Brandon Long,120,80,0,40
+Stone,Ward 1,Sheriff,,REP,REP Brandon Long,227,162,3,62
+Stone,Ward 2,Sheriff,,REP,REP Brandon Long,179,118,4,57
+Stone,Ward 3,Sheriff,,REP,REP Brandon Long,147,105,3,39
+Stone,West Out,Sheriff,,REP,REP Brandon Long,97,67,0,30
+Stone,Dodd Mtn,Sheriff,,REP,REP Brandon Long,223,106,1,116
+Stone,Bethany,Sheriff,,REP,REP Brandon Long,123,57,2,64
+Stone,Fifty Six,Sheriff,,REP,REP Brandon Long,29,12,0,17
+Stone,Angora Mtn,Sheriff,,REP,REP Brandon Long,23,13,0,10
+Stone,Pleasant Grove,Sheriff,,REP,REP Brandon Long,217,69,5,143
+Stone,Foothills,Sheriff,,REP,REP Brandon Long,364,205,2,157
+Stone,Liberty,Sheriff,,REP,REP Brandon Long,57,33,0,24
+Stone,Northwest,Sheriff,,REP,REP Brandon Long,111,65,2,44
+Stone,Old Lexington,Sheriff,,REP,REP Brandon Long,27,6,0,21
+Stone,Fox,Sheriff,,REP,REP Brandon Long,217,72,4,141
+Stone,Red Doors,Sheriff,,REP,REP Brandon Long,270,151,6,113
+Stone,Ben,Sheriff,,REP,REP Brandon Long,43,18,0,25
+Stone,Northeast,Sheriff,,REP,REP Brandon Long,101,70,2,29
+Stone,Arbanna,Sheriff,,IND,IND Tony R. Trammell,31,18,0,13
+Stone,East Out,Sheriff,,IND,IND Tony R. Trammell,26,16,0,10
+Stone,Ward 1,Sheriff,,IND,IND Tony R. Trammell,45,32,0,13
+Stone,Ward 2,Sheriff,,IND,IND Tony R. Trammell,56,37,1,18
+Stone,Ward 3,Sheriff,,IND,IND Tony R. Trammell,56,42,3,11
+Stone,West Out,Sheriff,,IND,IND Tony R. Trammell,31,21,0,10
+Stone,Dodd Mtn,Sheriff,,IND,IND Tony R. Trammell,59,26,3,30
+Stone,Bethany,Sheriff,,IND,IND Tony R. Trammell,45,21,1,23
+Stone,Fifty Six,Sheriff,,IND,IND Tony R. Trammell,14,6,0,8
+Stone,Angora Mtn,Sheriff,,IND,IND Tony R. Trammell,5,3,0,2
+Stone,Pleasant Grove,Sheriff,,IND,IND Tony R. Trammell,69,23,0,46
+Stone,Foothills,Sheriff,,IND,IND Tony R. Trammell,79,42,4,33
+Stone,Liberty,Sheriff,,IND,IND Tony R. Trammell,12,9,0,3
+Stone,Northwest,Sheriff,,IND,IND Tony R. Trammell,38,16,0,22
+Stone,Old Lexington,Sheriff,,IND,IND Tony R. Trammell,2,0,0,2
+Stone,Fox,Sheriff,,IND,IND Tony R. Trammell,72,23,3,46
+Stone,Red Doors,Sheriff,,IND,IND Tony R. Trammell,105,44,4,57
+Stone,Ben,Sheriff,,IND,IND Tony R. Trammell,7,2,0,5
+Stone,Northeast,Sheriff,,IND,IND Tony R. Trammell,17,10,0,7
+Stone,Arbanna,Circuit Clerk,,IND,IND Angie Hudspeth-Wade,264,126,2,136
+Stone,East Out,Circuit Clerk,,IND,IND Angie Hudspeth-Wade,172,118,0,54
+Stone,Ward 1,Circuit Clerk,,IND,IND Angie Hudspeth-Wade,396,286,4,106
+Stone,Ward 2,Circuit Clerk,,IND,IND Angie Hudspeth-Wade,289,195,5,89
+Stone,Ward 3,Circuit Clerk,,IND,IND Angie Hudspeth-Wade,269,195,8,66
+Stone,West Out,Circuit Clerk,,IND,IND Angie Hudspeth-Wade,167,116,0,51
+Stone,Dodd Mtn,Circuit Clerk,,IND,IND Angie Hudspeth-Wade,358,176,5,177
+Stone,Bethany,Circuit Clerk,,IND,IND Angie Hudspeth-Wade,214,103,3,108
+Stone,Fifty Six,Circuit Clerk,,IND,IND Angie Hudspeth-Wade,56,22,0,34
+Stone,Angora Mtn,Circuit Clerk,,IND,IND Angie Hudspeth-Wade,31,15,0,16
+Stone,Pleasant Grove,Circuit Clerk,,IND,IND Angie Hudspeth-Wade,341,115,6,220
+Stone,Foothills,Circuit Clerk,,IND,IND Angie Hudspeth-Wade,551,326,7,218
+Stone,Liberty,Circuit Clerk,,IND,IND Angie Hudspeth-Wade,84,57,0,27
+Stone,Northwest,Circuit Clerk,,IND,IND Angie Hudspeth-Wade,172,94,2,76
+Stone,Old Lexington,Circuit Clerk,,IND,IND Angie Hudspeth-Wade,31,7,0,24
+Stone,Fox,Circuit Clerk,,IND,IND Angie Hudspeth-Wade,378,131,8,239
+Stone,Red Doors,Circuit Clerk,,IND,IND Angie Hudspeth-Wade,475,251,16,208
+Stone,Ben,Circuit Clerk,,IND,IND Angie Hudspeth-Wade,92,34,1,57
+Stone,Northeast,Circuit Clerk,,IND,IND Angie Hudspeth-Wade,158,103,4,51
+Stone,West Out,JP Dist 3,,IND,IND Tim Hudspeth,1,1,0,0
+Stone,Bethany,JP Dist 3,,IND,IND Tim Hudspeth,121,55,3,63
+Stone,Fifty Six,JP Dist 3,,IND,IND Tim Hudspeth,49,18,0,31
+Stone,Angora Mtn,JP Dist 3,,IND,IND Tim Hudspeth,15,10,0,5
+Stone,Foothills,JP Dist 3,,IND,IND Tim Hudspeth,5,0,2,3
+Stone,Northwest,JP Dist 3,,IND,IND Tim Hudspeth,93,48,2,43
+Stone,Red Doors,JP Dist 3,,IND,IND Tim Hudspeth,8,8,0,0
+Stone,West Out,JP Dist 3,,REP,REP Mark E. Givans,0,0,0,0
+Stone,Bethany,JP Dist 3,,REP,REP Mark E. Givans,116,53,2,61
+Stone,Fifty Six,JP Dist 3,,REP,REP Mark E. Givans,14,6,0,8
+Stone,Angora Mtn,JP Dist 3,,REP,REP Mark E. Givans,20,9,0,11
+Stone,Foothills,JP Dist 3,,REP,REP Mark E. Givans,1,1,0,0
+Stone,Northwest,JP Dist 3,,REP,REP Mark E. Givans,95,51,0,44
+Stone,Red Doors,JP Dist 3,,REP,REP Mark E. Givans,7,6,0,1
+Stone,Old Lexington,JP Dist 4,,IND,IND Jason Kocher,3,2,0,1
+Stone,Fox,JP Dist 4,,IND,IND Jason Kocher,242,74,7,161
+Stone,Old Lexington,JP Dist 4,,REP,REP Heidi Myers,29,5,0,24
+Stone,Fox,JP Dist 4,,REP,REP Heidi Myers,196,78,1,117
+Stone,East Out,JP Dist 6,,IND,IND Robert (Bob) Turner,5,2,0,3
+Stone,Pleasant Grove,JP Dist 6,,IND,IND Robert (Bob) Turner,197,69,2,126
+Stone,Ben,JP Dist 6,,IND,IND Robert (Bob) Turner,35,15,1,19
+Stone,East Out,JP Dist 6,,REP,REP Seth Templin,17,13,0,4
+Stone,Pleasant Grove,JP Dist 6,,REP,REP Seth Templin,190,60,4,126
+Stone,Ben,JP Dist 6,,REP,REP Seth Templin,66,22,0,44
+Stone,Ward 1,City of Mountain View Mayor,,IND,IND Roger D. Gardner,394,285,4,105
+Stone,Ward 2,City of Mountain View Mayor,,IND,IND Roger D. Gardner,292,198,5,89
+Stone,Ward 3,City of Mountain View Mayor,,IND,IND Roger D. Gardner,287,206,8,73
+Stone,Ward 1,Mountain View City Clerk,,IND,IND Peggy Lancaster,386,280,4,102
+Stone,Ward 2,Mountain View City Clerk,,IND,IND Peggy Lancaster,284,192,5,87
+Stone,Ward 3,Mountain View City Clerk,,IND,IND Peggy Lancaster,285,206,8,71
+Stone,Fifty Six,City of Fifty Six Mayor,,IND,IND Earnestine McDaniel,57,22,0,35
+Stone,Fifty Six,Fifty Six Recorder/Treasurer,,IND,IND Christina Byrd,58,22,0,36
+Stone,Ward 1,Mountain View Question,,NON,For,194,144,4,46
+Stone,Ward 2,Mountain View Question,,NON,For,157,106,4,47
+Stone,Ward 3,Mountain View Question,,NON,For,148,106,1,41
+Stone,Ward 1,Mountain View Question,,NON,Against,207,145,2,60
+Stone,Ward 2,Mountain View Question,,NON,Against,147,97,1,49
+Stone,Ward 3,Mountain View Question,,NON,Against,138,91,10,37
+Stone,Arbanna,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,97,51,1,45
+Stone,East Out,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,64,53,0,11
+Stone,Ward 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,152,104,3,45
+Stone,Ward 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,123,80,3,40
+Stone,Ward 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,108,78,4,26
+Stone,West Out,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,56,41,0,15
+Stone,Dodd Mtn,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,130,52,1,77
+Stone,Bethany,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,61,38,2,21
+Stone,Fifty Six,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,12,6,0,6
+Stone,Angora Mtn,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,10,5,0,5
+Stone,Pleasant Grove,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,123,55,1,67
+Stone,Foothills,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,204,134,2,68
+Stone,Liberty,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,46,32,0,14
+Stone,Northwest,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,65,37,2,26
+Stone,Old Lexington,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,8,1,0,7
+Stone,Fox,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,117,40,4,73
+Stone,Red Doors,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,147,80,3,64
+Stone,Ben,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,39,19,0,20
+Stone,Northeast,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,54,40,0,14
+Stone,Arbanna,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,185,78,1,106
+Stone,East Out,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,117,70,0,47
+Stone,Ward 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,267,201,3,63
+Stone,Ward 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,180,119,1,60
+Stone,Ward 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,188,134,5,49
+Stone,West Out,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,122,83,1,38
+Stone,Dodd Mtn,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,245,131,3,111
+Stone,Bethany,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,169,68,3,98
+Stone,Fifty Six,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,47,18,0,29
+Stone,Angora Mtn,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,22,11,0,11
+Stone,Pleasant Grove,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,253,71,5,177
+Stone,Foothills,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,389,222,4,163
+Stone,Liberty,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,50,28,0,22
+Stone,Northwest,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,132,71,0,61
+Stone,Old Lexington,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,26,7,0,19
+Stone,Fox,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,313,108,4,201
+Stone,Red Doors,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,346,185,15,146
+Stone,Ben,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,58,16,1,41
+Stone,Northeast,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,120,73,4,43
+Stone,Arbanna,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,120,48,2,70
+Stone,East Out,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,82,54,0,28
+Stone,Ward 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,180,129,3,48
+Stone,Ward 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,133,80,2,51
+Stone,Ward 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,119,88,1,30
+Stone,West Out,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,76,53,0,23
+Stone,Dodd Mtn,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,160,78,0,82
+Stone,Bethany,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,95,42,0,53
+Stone,Fifty Six,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,22,10,0,12
+Stone,Angora Mtn,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,10,6,0,4
+Stone,Pleasant Grove,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,151,56,2,93
+Stone,Foothills,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,271,157,0,114
+Stone,Liberty,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,50,33,0,17
+Stone,Northwest,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,74,40,2,32
+Stone,Old Lexington,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,13,2,0,11
+Stone,Fox,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,183,50,3,130
+Stone,Red Doors,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,185,96,4,85
+Stone,Ben,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,45,21,1,23
+Stone,Northeast,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,68,44,0,24
+Stone,Arbanna,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,165,82,0,83
+Stone,East Out,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,99,68,0,31
+Stone,Ward 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,244,177,3,64
+Stone,Ward 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,178,125,3,50
+Stone,Ward 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,177,123,7,47
+Stone,West Out,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,105,73,1,31
+Stone,Dodd Mtn,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,221,110,4,107
+Stone,Bethany,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,139,65,5,69
+Stone,Fifty Six,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,37,14,0,23
+Stone,Angora Mtn,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,23,10,0,13
+Stone,Pleasant Grove,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,232,72,4,156
+Stone,Foothills,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,328,202,6,120
+Stone,Liberty,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,46,28,0,18
+Stone,Northwest,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,124,69,0,55
+Stone,Old Lexington,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,21,6,0,15
+Stone,Fox,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,250,98,4,148
+Stone,Red Doors,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,313,173,14,126
+Stone,Ben,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,53,14,0,39
+Stone,Northeast,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,104,67,4,33
+Stone,Arbanna,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,139,65,2,72
+Stone,East Out,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,89,59,0,30
+Stone,Ward 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,173,128,1,44
+Stone,Ward 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,150,93,3,54
+Stone,Ward 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,131,90,5,36
+Stone,West Out,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,87,60,0,27
+Stone,Dodd Mtn,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,183,93,0,90
+Stone,Bethany,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,105,49,0,56
+Stone,Fifty Six,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,23,8,0,15
+Stone,Angora Mtn,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,12,6,0,6
+Stone,Pleasant Grove,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,153,55,0,98
+Stone,Foothills,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,282,161,2,119
+Stone,Liberty,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,54,34,0,20
+Stone,Northwest,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,85,51,0,34
+Stone,Old Lexington,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,9,1,0,8
+Stone,Fox,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,182,62,6,114
+Stone,Red Doors,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,207,115,5,87
+Stone,Ben,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,55,19,1,35
+Stone,Northeast,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,78,54,0,24
+Stone,Arbanna,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,147,67,0,80
+Stone,East Out,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,94,64,0,30
+Stone,Ward 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,252,180,5,67
+Stone,Ward 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,165,116,1,48
+Stone,Ward 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,167,123,3,41
+Stone,West Out,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,95,67,1,27
+Stone,Dodd Mtn,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,203,97,4,102
+Stone,Bethany,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,129,58,5,66
+Stone,Fifty Six,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,36,16,0,20
+Stone,Angora Mtn,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,23,12,0,11
+Stone,Pleasant Grove,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,228,72,6,150
+Stone,Foothills,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,319,201,4,114
+Stone,Liberty,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,44,27,0,17
+Stone,Northwest,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,113,56,2,55
+Stone,Old Lexington,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,25,7,0,18
+Stone,Fox,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,249,85,2,162
+Stone,Red Doors,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,292,155,13,124
+Stone,Ben,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,43,16,0,27
+Stone,Northeast,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,96,60,4,32
+Stone,Arbanna,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,124,61,0,63
+Stone,East Out,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,80,55,0,25
+Stone,Ward 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,123,88,0,35
+Stone,Ward 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,124,80,3,41
+Stone,Ward 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,121,85,5,31
+Stone,West Out,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,69,54,0,15
+Stone,Dodd Mtn,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,150,67,1,82
+Stone,Bethany,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,79,42,3,34
+Stone,Fifty Six,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,26,10,0,16
+Stone,Angora Mtn,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,16,12,0,4
+Stone,Pleasant Grove,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,178,56,2,120
+Stone,Foothills,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,230,147,3,80
+Stone,Liberty,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,43,26,0,17
+Stone,Northwest,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,66,41,2,23
+Stone,Old Lexington,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,17,6,0,11
+Stone,Fox,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,152,63,6,83
+Stone,Red Doors,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,193,109,9,75
+Stone,Ben,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,30,9,0,21
+Stone,Northeast,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,65,43,1,21
+Stone,Arbanna,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,170,74,2,94
+Stone,East Out,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,109,73,0,36
+Stone,Ward 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,312,225,6,81
+Stone,Ward 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,209,143,2,64
+Stone,Ward 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,183,132,4,47
+Stone,West Out,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,117,76,1,40
+Stone,Dodd Mtn,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,253,131,4,118
+Stone,Bethany,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,165,71,2,92
+Stone,Fifty Six,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,37,14,0,23
+Stone,Angora Mtn,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,19,6,0,13
+Stone,Pleasant Grove,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,219,76,4,139
+Stone,Foothills,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,391,225,4,162
+Stone,Liberty,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,59,38,0,21
+Stone,Northwest,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,136,69,0,67
+Stone,Old Lexington,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,16,2,0,14
+Stone,Fox,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,302,93,2,207
+Stone,Red Doors,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,319,167,9,143
+Stone,Ben,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,71,27,1,43
+Stone,Northeast,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,113,74,3,36

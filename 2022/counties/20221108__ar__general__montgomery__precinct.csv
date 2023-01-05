@@ -1,0 +1,608 @@
+county,precinct,office,district,party,candidate,votes,early_vote,absentee,election_day
+Montgomery,Alamo,U.S. Senate,,DEM,Natalie James,7,5,0,2
+Montgomery,Black Springs,U.S. Senate,,DEM,Natalie James,31,25,1,5
+Montgomery,Caddo Gap,U.S. Senate,,DEM,Natalie James,30,9,2,19
+Montgomery,Caney,U.S. Senate,,DEM,Natalie James,33,10,0,23
+Montgomery,Center,U.S. Senate,,DEM,Natalie James,105,75,5,25
+Montgomery,Fannie,U.S. Senate,,DEM,Natalie James,11,10,0,1
+Montgomery,Hopper,U.S. Senate,,DEM,Natalie James,10,5,0,5
+Montgomery,Mount Ida Inside,U.S. Senate,,DEM,Natalie James,61,41,5,15
+Montgomery,Mount Ida Outside,U.S. Senate,,DEM,Natalie James,66,52,3,11
+Montgomery,Norman Inside,U.S. Senate,,DEM,Natalie James,19,9,0,10
+Montgomery,Norman Outside,U.S. Senate,,DEM,Natalie James,36,21,1,14
+Montgomery,Oden Inside,U.S. Senate,,DEM,Natalie James,18,5,2,11
+Montgomery,Oden Outside,U.S. Senate,,DEM,Natalie James,35,23,3,9
+Montgomery,Pencil Bluff,U.S. Senate,,DEM,Natalie James,19,11,0,8
+Montgomery,Sims,U.S. Senate,,DEM,Natalie James,23,16,0,7
+Montgomery,Washita,U.S. Senate,,DEM,Natalie James,28,24,0,4
+Montgomery,Alamo,U.S. Senate,,REP,Senator John Boozman,33,21,0,12
+Montgomery,Black Springs,U.S. Senate,,REP,Senator John Boozman,164,78,2,84
+Montgomery,Caddo Gap,U.S. Senate,,REP,Senator John Boozman,247,84,9,154
+Montgomery,Caney,U.S. Senate,,REP,Senator John Boozman,216,33,3,180
+Montgomery,Center,U.S. Senate,,REP,Senator John Boozman,387,245,8,134
+Montgomery,Fannie,U.S. Senate,,REP,Senator John Boozman,48,36,1,11
+Montgomery,Hopper,U.S. Senate,,REP,Senator John Boozman,76,52,0,24
+Montgomery,Mount Ida Inside,U.S. Senate,,REP,Senator John Boozman,207,138,10,59
+Montgomery,Mount Ida Outside,U.S. Senate,,REP,Senator John Boozman,311,217,5,89
+Montgomery,Norman Inside,U.S. Senate,,REP,Senator John Boozman,52,16,2,34
+Montgomery,Norman Outside,U.S. Senate,,REP,Senator John Boozman,142,69,5,68
+Montgomery,Oden Inside,U.S. Senate,,REP,Senator John Boozman,62,25,2,35
+Montgomery,Oden Outside,U.S. Senate,,REP,Senator John Boozman,224,106,7,111
+Montgomery,Pencil Bluff,U.S. Senate,,REP,Senator John Boozman,128,45,1,82
+Montgomery,Sims,U.S. Senate,,REP,Senator John Boozman,87,38,0,49
+Montgomery,Washita,U.S. Senate,,REP,Senator John Boozman,132,98,4,30
+Montgomery,Alamo,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0
+Montgomery,Black Springs,U.S. Senate,,LIB,Kenneth Cates,6,5,0,1
+Montgomery,Caddo Gap,U.S. Senate,,LIB,Kenneth Cates,10,1,0,9
+Montgomery,Caney,U.S. Senate,,LIB,Kenneth Cates,15,3,0,12
+Montgomery,Center,U.S. Senate,,LIB,Kenneth Cates,19,14,0,5
+Montgomery,Fannie,U.S. Senate,,LIB,Kenneth Cates,1,1,0,0
+Montgomery,Hopper,U.S. Senate,,LIB,Kenneth Cates,2,0,0,2
+Montgomery,Mount Ida Inside,U.S. Senate,,LIB,Kenneth Cates,14,7,0,7
+Montgomery,Mount Ida Outside,U.S. Senate,,LIB,Kenneth Cates,17,11,0,6
+Montgomery,Norman Inside,U.S. Senate,,LIB,Kenneth Cates,3,1,0,2
+Montgomery,Norman Outside,U.S. Senate,,LIB,Kenneth Cates,3,2,0,1
+Montgomery,Oden Inside,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0
+Montgomery,Oden Outside,U.S. Senate,,LIB,Kenneth Cates,5,2,0,3
+Montgomery,Pencil Bluff,U.S. Senate,,LIB,Kenneth Cates,5,2,0,3
+Montgomery,Sims,U.S. Senate,,LIB,Kenneth Cates,4,2,0,2
+Montgomery,Washita,U.S. Senate,,LIB,Kenneth Cates,1,1,0,0
+Montgomery,Alamo,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,34,22,0,12
+Montgomery,Black Springs,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,167,82,2,83
+Montgomery,Caddo Gap,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,247,84,9,154
+Montgomery,Caney,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,226,34,3,189
+Montgomery,Center,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,388,249,8,131
+Montgomery,Fannie,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,48,36,1,11
+Montgomery,Hopper,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,74,50,0,24
+Montgomery,Mount Ida Inside,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,212,141,10,61
+Montgomery,Mount Ida Outside,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,317,221,5,91
+Montgomery,Norman Inside,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,52,17,2,33
+Montgomery,Norman Outside,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,142,68,4,70
+Montgomery,Oden Inside,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,63,25,2,36
+Montgomery,Oden Outside,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,227,109,7,111
+Montgomery,Pencil Bluff,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,128,47,1,80
+Montgomery,Sims,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,92,41,0,51
+Montgomery,Washita,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,134,101,4,29
+Montgomery,Alamo,U.S. Congress District 04,,DEM,John White,5,4,0,1
+Montgomery,Black Springs,U.S. Congress District 04,,DEM,John White,28,21,1,6
+Montgomery,Caddo Gap,U.S. Congress District 04,,DEM,John White,31,10,2,19
+Montgomery,Caney,U.S. Congress District 04,,DEM,John White,31,11,0,20
+Montgomery,Center,U.S. Congress District 04,,DEM,John White,106,73,5,28
+Montgomery,Fannie,U.S. Congress District 04,,DEM,John White,9,8,0,1
+Montgomery,Hopper,U.S. Congress District 04,,DEM,John White,9,6,0,3
+Montgomery,Mount Ida Inside,U.S. Congress District 04,,DEM,John White,55,39,4,12
+Montgomery,Mount Ida Outside,U.S. Congress District 04,,DEM,John White,58,46,3,9
+Montgomery,Norman Inside,U.S. Congress District 04,,DEM,John White,19,9,0,10
+Montgomery,Norman Outside,U.S. Congress District 04,,DEM,John White,36,21,2,13
+Montgomery,Oden Inside,U.S. Congress District 04,,DEM,John White,15,4,2,9
+Montgomery,Oden Outside,U.S. Congress District 04,,DEM,John White,31,18,3,10
+Montgomery,Pencil Bluff,U.S. Congress District 04,,DEM,John White,16,8,0,8
+Montgomery,Sims,U.S. Congress District 04,,DEM,John White,20,14,0,6
+Montgomery,Washita,U.S. Congress District 04,,DEM,John White,23,19,0,4
+Montgomery,Alamo,U.S. Congress District 04,,LIB,Gregory Maxwell,1,0,0,1
+Montgomery,Black Springs,U.S. Congress District 04,,LIB,Gregory Maxwell,3,3,0,0
+Montgomery,Caddo Gap,U.S. Congress District 04,,LIB,Gregory Maxwell,8,0,0,8
+Montgomery,Caney,U.S. Congress District 04,,LIB,Gregory Maxwell,5,1,0,4
+Montgomery,Center,U.S. Congress District 04,,LIB,Gregory Maxwell,13,8,0,5
+Montgomery,Fannie,U.S. Congress District 04,,LIB,Gregory Maxwell,3,3,0,0
+Montgomery,Hopper,U.S. Congress District 04,,LIB,Gregory Maxwell,4,1,0,3
+Montgomery,Mount Ida Inside,U.S. Congress District 04,,LIB,Gregory Maxwell,11,4,0,7
+Montgomery,Mount Ida Outside,U.S. Congress District 04,,LIB,Gregory Maxwell,16,10,0,6
+Montgomery,Norman Inside,U.S. Congress District 04,,LIB,Gregory Maxwell,2,0,0,2
+Montgomery,Norman Outside,U.S. Congress District 04,,LIB,Gregory Maxwell,2,0,0,2
+Montgomery,Oden Inside,U.S. Congress District 04,,LIB,Gregory Maxwell,1,0,0,1
+Montgomery,Oden Outside,U.S. Congress District 04,,LIB,Gregory Maxwell,5,2,0,3
+Montgomery,Pencil Bluff,U.S. Congress District 04,,LIB,Gregory Maxwell,4,2,0,2
+Montgomery,Sims,U.S. Congress District 04,,LIB,Gregory Maxwell,2,1,0,1
+Montgomery,Washita,U.S. Congress District 04,,LIB,Gregory Maxwell,1,1,0,0
+Montgomery,Alamo,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Montgomery,Black Springs,Governor,,LIB,"Ricky Dale Harrington, Jr.",4,1,1,2
+Montgomery,Caddo Gap,Governor,,LIB,"Ricky Dale Harrington, Jr.",4,0,2,2
+Montgomery,Caney,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Montgomery,Center,Governor,,LIB,"Ricky Dale Harrington, Jr.",19,9,7,3
+Montgomery,Fannie,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,3,0,0
+Montgomery,Hopper,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Montgomery,Mount Ida Inside,Governor,,LIB,"Ricky Dale Harrington, Jr.",14,6,5,3
+Montgomery,Mount Ida Outside,Governor,,LIB,"Ricky Dale Harrington, Jr.",10,5,3,2
+Montgomery,Norman Inside,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Montgomery,Norman Outside,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,0,2,1
+Montgomery,Oden Inside,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,0,2,0
+Montgomery,Oden Outside,Governor,,LIB,"Ricky Dale Harrington, Jr.",6,2,3,1
+Montgomery,Pencil Bluff,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,0,0,3
+Montgomery,Sims,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Montgomery,Washita,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,2,0,0
+Montgomery,Alamo,Governor,,REP,Sarah Huckabee Sanders,32,20,0,12
+Montgomery,Black Springs,Governor,,REP,Sarah Huckabee Sanders,163,85,0,78
+Montgomery,Caddo Gap,Governor,,REP,Sarah Huckabee Sanders,244,84,1,159
+Montgomery,Caney,Governor,,REP,Sarah Huckabee Sanders,227,35,0,192
+Montgomery,Center,Governor,,REP,Sarah Huckabee Sanders,359,231,0,128
+Montgomery,Fannie,Governor,,REP,Sarah Huckabee Sanders,48,37,0,11
+Montgomery,Hopper,Governor,,REP,Sarah Huckabee Sanders,77,52,0,25
+Montgomery,Mount Ida Inside,Governor,,REP,Sarah Huckabee Sanders,195,134,0,61
+Montgomery,Mount Ida Outside,Governor,,REP,Sarah Huckabee Sanders,306,215,0,91
+Montgomery,Norman Inside,Governor,,REP,Sarah Huckabee Sanders,53,17,0,36
+Montgomery,Norman Outside,Governor,,REP,Sarah Huckabee Sanders,141,69,0,72
+Montgomery,Oden Inside,Governor,,REP,Sarah Huckabee Sanders,58,24,0,34
+Montgomery,Oden Outside,Governor,,REP,Sarah Huckabee Sanders,223,109,0,114
+Montgomery,Pencil Bluff,Governor,,REP,Sarah Huckabee Sanders,127,44,0,83
+Montgomery,Sims,Governor,,REP,Sarah Huckabee Sanders,89,40,0,49
+Montgomery,Washita,Governor,,REP,Sarah Huckabee Sanders,129,97,1,31
+Montgomery,Alamo,Governor,,DEM,Chris Jones,8,6,0,2
+Montgomery,Black Springs,Governor,,DEM,Chris Jones,33,24,0,9
+Montgomery,Caddo Gap,Governor,,DEM,Chris Jones,34,11,0,23
+Montgomery,Caney,Governor,,DEM,Chris Jones,39,11,0,28
+Montgomery,Center,Governor,,DEM,Chris Jones,129,94,1,34
+Montgomery,Fannie,Governor,,DEM,Chris Jones,10,9,0,1
+Montgomery,Hopper,Governor,,DEM,Chris Jones,10,5,0,5
+Montgomery,Mount Ida Inside,Governor,,DEM,Chris Jones,63,45,0,18
+Montgomery,Mount Ida Outside,Governor,,DEM,Chris Jones,74,62,0,12
+Montgomery,Norman Inside,Governor,,DEM,Chris Jones,19,9,0,10
+Montgomery,Norman Outside,Governor,,DEM,Chris Jones,37,23,0,14
+Montgomery,Oden Inside,Governor,,DEM,Chris Jones,19,7,0,12
+Montgomery,Oden Outside,Governor,,DEM,Chris Jones,30,22,0,8
+Montgomery,Pencil Bluff,Governor,,DEM,Chris Jones,22,14,0,8
+Montgomery,Sims,Governor,,DEM,Chris Jones,24,15,0,9
+Montgomery,Washita,Governor,,DEM,Chris Jones,27,24,0,3
+Montgomery,Alamo,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0
+Montgomery,Black Springs,Lieutenant Governor,,LIB,Frank Gilbert,8,5,2,1
+Montgomery,Caddo Gap,Lieutenant Governor,,LIB,Frank Gilbert,17,0,8,9
+Montgomery,Caney,Lieutenant Governor,,LIB,Frank Gilbert,19,1,3,15
+Montgomery,Center,Lieutenant Governor,,LIB,Frank Gilbert,25,15,5,5
+Montgomery,Fannie,Lieutenant Governor,,LIB,Frank Gilbert,4,3,1,0
+Montgomery,Hopper,Lieutenant Governor,,LIB,Frank Gilbert,7,2,0,5
+Montgomery,Mount Ida Inside,Lieutenant Governor,,LIB,Frank Gilbert,22,5,9,8
+Montgomery,Mount Ida Outside,Lieutenant Governor,,LIB,Frank Gilbert,21,9,6,6
+Montgomery,Norman Inside,Lieutenant Governor,,LIB,Frank Gilbert,6,1,2,3
+Montgomery,Norman Outside,Lieutenant Governor,,LIB,Frank Gilbert,9,2,4,3
+Montgomery,Oden Inside,Lieutenant Governor,,LIB,Frank Gilbert,2,0,2,0
+Montgomery,Oden Outside,Lieutenant Governor,,LIB,Frank Gilbert,14,0,8,6
+Montgomery,Pencil Bluff,Lieutenant Governor,,LIB,Frank Gilbert,6,0,1,5
+Montgomery,Sims,Lieutenant Governor,,LIB,Frank Gilbert,1,1,0,0
+Montgomery,Washita,Lieutenant Governor,,LIB,Frank Gilbert,7,4,3,0
+Montgomery,Alamo,Lieutenant Governor,,DEM,Kelly Ross Krout,6,4,0,2
+Montgomery,Black Springs,Lieutenant Governor,,DEM,Kelly Ross Krout,37,29,0,8
+Montgomery,Caddo Gap,Lieutenant Governor,,DEM,Kelly Ross Krout,34,12,0,22
+Montgomery,Caney,Lieutenant Governor,,DEM,Kelly Ross Krout,39,11,0,28
+Montgomery,Center,Lieutenant Governor,,DEM,Kelly Ross Krout,123,91,1,31
+Montgomery,Fannie,Lieutenant Governor,,DEM,Kelly Ross Krout,6,5,0,1
+Montgomery,Hopper,Lieutenant Governor,,DEM,Kelly Ross Krout,9,6,0,3
+Montgomery,Mount Ida Inside,Lieutenant Governor,,DEM,Kelly Ross Krout,57,41,0,16
+Montgomery,Mount Ida Outside,Lieutenant Governor,,DEM,Kelly Ross Krout,69,58,0,11
+Montgomery,Norman Inside,Lieutenant Governor,,DEM,Kelly Ross Krout,19,10,0,9
+Montgomery,Norman Outside,Lieutenant Governor,,DEM,Kelly Ross Krout,40,25,0,15
+Montgomery,Oden Inside,Lieutenant Governor,,DEM,Kelly Ross Krout,18,5,0,13
+Montgomery,Oden Outside,Lieutenant Governor,,DEM,Kelly Ross Krout,30,22,0,8
+Montgomery,Pencil Bluff,Lieutenant Governor,,DEM,Kelly Ross Krout,23,14,0,9
+Montgomery,Sims,Lieutenant Governor,,DEM,Kelly Ross Krout,23,14,0,9
+Montgomery,Washita,Lieutenant Governor,,DEM,Kelly Ross Krout,24,20,0,4
+Montgomery,Alamo,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,34,22,0,12
+Montgomery,Black Springs,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,153,72,0,81
+Montgomery,Caddo Gap,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,234,82,1,151
+Montgomery,Caney,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,207,34,0,173
+Montgomery,Center,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,358,230,0,128
+Montgomery,Fannie,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,50,39,0,11
+Montgomery,Hopper,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,71,49,0,22
+Montgomery,Mount Ida Inside,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,191,136,0,55
+Montgomery,Mount Ida Outside,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,298,210,0,88
+Montgomery,Norman Inside,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,47,14,0,33
+Montgomery,Norman Outside,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,132,65,0,67
+Montgomery,Oden Inside,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,58,25,0,33
+Montgomery,Oden Outside,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,213,103,0,110
+Montgomery,Pencil Bluff,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,123,44,0,79
+Montgomery,Sims,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,88,39,0,49
+Montgomery,Washita,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,125,95,1,29
+Montgomery,Alamo,Attorney General,,DEM,Jesse Gibson,6,4,0,2
+Montgomery,Black Springs,Attorney General,,DEM,Jesse Gibson,34,26,0,8
+Montgomery,Caddo Gap,Attorney General,,DEM,Jesse Gibson,33,12,0,21
+Montgomery,Caney,Attorney General,,DEM,Jesse Gibson,40,11,0,29
+Montgomery,Center,Attorney General,,DEM,Jesse Gibson,119,87,1,31
+Montgomery,Fannie,Attorney General,,DEM,Jesse Gibson,8,7,0,1
+Montgomery,Hopper,Attorney General,,DEM,Jesse Gibson,13,7,0,6
+Montgomery,Mount Ida Inside,Attorney General,,DEM,Jesse Gibson,57,43,0,14
+Montgomery,Mount Ida Outside,Attorney General,,DEM,Jesse Gibson,68,57,0,11
+Montgomery,Norman Inside,Attorney General,,DEM,Jesse Gibson,18,8,0,10
+Montgomery,Norman Outside,Attorney General,,DEM,Jesse Gibson,39,23,0,16
+Montgomery,Oden Inside,Attorney General,,DEM,Jesse Gibson,16,5,0,11
+Montgomery,Oden Outside,Attorney General,,DEM,Jesse Gibson,33,23,0,10
+Montgomery,Pencil Bluff,Attorney General,,DEM,Jesse Gibson,20,11,0,9
+Montgomery,Sims,Attorney General,,DEM,Jesse Gibson,26,16,0,10
+Montgomery,Washita,Attorney General,,DEM,Jesse Gibson,28,24,0,4
+Montgomery,Alamo,Attorney General,,REP,Lieutenant Governor Tim Griffin,34,22,0,12
+Montgomery,Black Springs,Attorney General,,REP,Lieutenant Governor Tim Griffin,159,80,0,79
+Montgomery,Caddo Gap,Attorney General,,REP,Lieutenant Governor Tim Griffin,241,82,1,158
+Montgomery,Caney,Attorney General,,REP,Lieutenant Governor Tim Griffin,218,34,0,184
+Montgomery,Center,Attorney General,,REP,Lieutenant Governor Tim Griffin,376,242,0,134
+Montgomery,Fannie,Attorney General,,REP,Lieutenant Governor Tim Griffin,51,40,0,11
+Montgomery,Hopper,Attorney General,,REP,Lieutenant Governor Tim Griffin,72,48,0,24
+Montgomery,Mount Ida Inside,Attorney General,,REP,Lieutenant Governor Tim Griffin,206,140,0,66
+Montgomery,Mount Ida Outside,Attorney General,,REP,Lieutenant Governor Tim Griffin,317,222,0,95
+Montgomery,Norman Inside,Attorney General,,REP,Lieutenant Governor Tim Griffin,52,17,0,35
+Montgomery,Norman Outside,Attorney General,,REP,Lieutenant Governor Tim Griffin,136,68,0,68
+Montgomery,Oden Inside,Attorney General,,REP,Lieutenant Governor Tim Griffin,60,25,0,35
+Montgomery,Oden Outside,Attorney General,,REP,Lieutenant Governor Tim Griffin,212,103,0,109
+Montgomery,Pencil Bluff,Attorney General,,REP,Lieutenant Governor Tim Griffin,128,47,0,81
+Montgomery,Sims,Attorney General,,REP,Lieutenant Governor Tim Griffin,86,39,0,47
+Montgomery,Washita,Attorney General,,REP,Lieutenant Governor Tim Griffin,128,98,1,29
+Montgomery,Alamo,Secretary of State,,REP,Secretary of State John Thurston,34,22,0,12
+Montgomery,Black Springs,Secretary of State,,REP,Secretary of State John Thurston,166,81,2,83
+Montgomery,Caddo Gap,Secretary of State,,REP,Secretary of State John Thurston,250,82,9,159
+Montgomery,Caney,Secretary of State,,REP,Secretary of State John Thurston,225,34,3,188
+Montgomery,Center,Secretary of State,,REP,Secretary of State John Thurston,390,244,8,138
+Montgomery,Fannie,Secretary of State,,REP,Secretary of State John Thurston,52,40,1,11
+Montgomery,Hopper,Secretary of State,,REP,Secretary of State John Thurston,78,52,0,26
+Montgomery,Mount Ida Inside,Secretary of State,,REP,Secretary of State John Thurston,214,139,9,66
+Montgomery,Mount Ida Outside,Secretary of State,,REP,Secretary of State John Thurston,326,225,5,96
+Montgomery,Norman Inside,Secretary of State,,REP,Secretary of State John Thurston,57,18,2,37
+Montgomery,Norman Outside,Secretary of State,,REP,Secretary of State John Thurston,142,69,3,70
+Montgomery,Oden Inside,Secretary of State,,REP,Secretary of State John Thurston,60,23,2,35
+Montgomery,Oden Outside,Secretary of State,,REP,Secretary of State John Thurston,225,107,7,111
+Montgomery,Pencil Bluff,Secretary of State,,REP,Secretary of State John Thurston,134,48,1,85
+Montgomery,Sims,Secretary of State,,REP,Secretary of State John Thurston,90,40,0,50
+Montgomery,Washita,Secretary of State,,REP,Secretary of State John Thurston,132,98,4,30
+Montgomery,Alamo,Secretary of State,,DEM,Anna Beth Gorman,6,4,0,2
+Montgomery,Black Springs,Secretary of State,,DEM,Anna Beth Gorman,34,26,1,7
+Montgomery,Caddo Gap,Secretary of State,,DEM,Anna Beth Gorman,35,11,2,22
+Montgomery,Caney,Secretary of State,,DEM,Anna Beth Gorman,38,11,0,27
+Montgomery,Center,Secretary of State,,DEM,Anna Beth Gorman,121,89,5,27
+Montgomery,Fannie,Secretary of State,,DEM,Anna Beth Gorman,9,8,0,1
+Montgomery,Hopper,Secretary of State,,DEM,Anna Beth Gorman,10,5,0,5
+Montgomery,Mount Ida Inside,Secretary of State,,DEM,Anna Beth Gorman,66,45,6,15
+Montgomery,Mount Ida Outside,Secretary of State,,DEM,Anna Beth Gorman,70,57,3,10
+Montgomery,Norman Inside,Secretary of State,,DEM,Anna Beth Gorman,17,8,0,9
+Montgomery,Norman Outside,Secretary of State,,DEM,Anna Beth Gorman,38,22,2,14
+Montgomery,Oden Inside,Secretary of State,,DEM,Anna Beth Gorman,20,7,2,11
+Montgomery,Oden Outside,Secretary of State,,DEM,Anna Beth Gorman,37,23,3,11
+Montgomery,Pencil Bluff,Secretary of State,,DEM,Anna Beth Gorman,18,9,0,9
+Montgomery,Sims,Secretary of State,,DEM,Anna Beth Gorman,23,15,0,8
+Montgomery,Washita,Secretary of State,,DEM,Anna Beth Gorman,25,21,0,4
+Montgomery,Alamo,State Treasurer,,REP,State Representative Mark Lowery,34,22,0,12
+Montgomery,Black Springs,State Treasurer,,REP,State Representative Mark Lowery,161,78,2,81
+Montgomery,Caddo Gap,State Treasurer,,REP,State Representative Mark Lowery,252,84,9,159
+Montgomery,Caney,State Treasurer,,REP,State Representative Mark Lowery,224,35,3,186
+Montgomery,Center,State Treasurer,,REP,State Representative Mark Lowery,382,242,8,132
+Montgomery,Fannie,State Treasurer,,REP,State Representative Mark Lowery,51,39,1,11
+Montgomery,Hopper,State Treasurer,,REP,State Representative Mark Lowery,73,48,0,25
+Montgomery,Mount Ida Inside,State Treasurer,,REP,State Representative Mark Lowery,215,138,11,66
+Montgomery,Mount Ida Outside,State Treasurer,,REP,State Representative Mark Lowery,328,228,4,96
+Montgomery,Norman Inside,State Treasurer,,REP,State Representative Mark Lowery,55,18,2,35
+Montgomery,Norman Outside,State Treasurer,,REP,State Representative Mark Lowery,140,67,3,70
+Montgomery,Oden Inside,State Treasurer,,REP,State Representative Mark Lowery,62,24,2,36
+Montgomery,Oden Outside,State Treasurer,,REP,State Representative Mark Lowery,222,105,7,110
+Montgomery,Pencil Bluff,State Treasurer,,REP,State Representative Mark Lowery,130,48,1,81
+Montgomery,Sims,State Treasurer,,REP,State Representative Mark Lowery,91,42,0,49
+Montgomery,Washita,State Treasurer,,REP,State Representative Mark Lowery,132,99,4,29
+Montgomery,Alamo,State Treasurer,,DEM,Pam Whitaker,6,4,0,2
+Montgomery,Black Springs,State Treasurer,,DEM,Pam Whitaker,37,28,1,8
+Montgomery,Caddo Gap,State Treasurer,,DEM,Pam Whitaker,35,10,2,23
+Montgomery,Caney,State Treasurer,,DEM,Pam Whitaker,38,10,0,28
+Montgomery,Center,State Treasurer,,DEM,Pam Whitaker,129,92,5,32
+Montgomery,Fannie,State Treasurer,,DEM,Pam Whitaker,10,9,0,1
+Montgomery,Hopper,State Treasurer,,DEM,Pam Whitaker,11,6,0,5
+Montgomery,Mount Ida Inside,State Treasurer,,DEM,Pam Whitaker,62,43,4,15
+Montgomery,Mount Ida Outside,State Treasurer,,DEM,Pam Whitaker,68,54,4,10
+Montgomery,Norman Inside,State Treasurer,,DEM,Pam Whitaker,18,8,0,10
+Montgomery,Norman Outside,State Treasurer,,DEM,Pam Whitaker,42,24,2,16
+Montgomery,Oden Inside,State Treasurer,,DEM,Pam Whitaker,18,6,2,10
+Montgomery,Oden Outside,State Treasurer,,DEM,Pam Whitaker,38,23,3,12
+Montgomery,Pencil Bluff,State Treasurer,,DEM,Pam Whitaker,21,10,0,11
+Montgomery,Sims,State Treasurer,,DEM,Pam Whitaker,23,14,0,9
+Montgomery,Washita,State Treasurer,,DEM,Pam Whitaker,28,24,0,4
+Montgomery,Alamo,Auditor of State,,REP,Treasurer of State Dennis Milligan,34,22,0,12
+Montgomery,Black Springs,Auditor of State,,REP,Treasurer of State Dennis Milligan,161,77,2,82
+Montgomery,Caddo Gap,Auditor of State,,REP,Treasurer of State Dennis Milligan,251,84,9,158
+Montgomery,Caney,Auditor of State,,REP,Treasurer of State Dennis Milligan,223,34,3,186
+Montgomery,Center,Auditor of State,,REP,Treasurer of State Dennis Milligan,392,245,7,140
+Montgomery,Fannie,Auditor of State,,REP,Treasurer of State Dennis Milligan,53,41,1,11
+Montgomery,Hopper,Auditor of State,,REP,Treasurer of State Dennis Milligan,76,51,0,25
+Montgomery,Mount Ida Inside,Auditor of State,,REP,Treasurer of State Dennis Milligan,215,140,10,65
+Montgomery,Mount Ida Outside,Auditor of State,,REP,Treasurer of State Dennis Milligan,313,218,5,90
+Montgomery,Norman Inside,Auditor of State,,REP,Treasurer of State Dennis Milligan,54,17,2,35
+Montgomery,Norman Outside,Auditor of State,,REP,Treasurer of State Dennis Milligan,145,69,5,71
+Montgomery,Oden Inside,Auditor of State,,REP,Treasurer of State Dennis Milligan,61,24,2,35
+Montgomery,Oden Outside,Auditor of State,,REP,Treasurer of State Dennis Milligan,222,106,7,109
+Montgomery,Pencil Bluff,Auditor of State,,REP,Treasurer of State Dennis Milligan,134,48,1,85
+Montgomery,Sims,Auditor of State,,REP,Treasurer of State Dennis Milligan,91,41,0,50
+Montgomery,Washita,Auditor of State,,REP,Treasurer of State Dennis Milligan,136,103,4,29
+Montgomery,Alamo,Auditor of State,,DEM,Diamond Arnold-Johnson,6,4,0,2
+Montgomery,Black Springs,Auditor of State,,DEM,Diamond Arnold-Johnson,31,24,1,6
+Montgomery,Caddo Gap,Auditor of State,,DEM,Diamond Arnold-Johnson,32,10,2,20
+Montgomery,Caney,Auditor of State,,DEM,Diamond Arnold-Johnson,35,11,0,24
+Montgomery,Center,Auditor of State,,DEM,Diamond Arnold-Johnson,92,68,5,19
+Montgomery,Fannie,Auditor of State,,DEM,Diamond Arnold-Johnson,6,5,0,1
+Montgomery,Hopper,Auditor of State,,DEM,Diamond Arnold-Johnson,8,5,0,3
+Montgomery,Mount Ida Inside,Auditor of State,,DEM,Diamond Arnold-Johnson,53,39,3,11
+Montgomery,Mount Ida Outside,Auditor of State,,DEM,Diamond Arnold-Johnson,63,50,3,10
+Montgomery,Norman Inside,Auditor of State,,DEM,Diamond Arnold-Johnson,14,8,0,6
+Montgomery,Norman Outside,Auditor of State,,DEM,Diamond Arnold-Johnson,36,21,1,14
+Montgomery,Oden Inside,Auditor of State,,DEM,Diamond Arnold-Johnson,15,6,2,7
+Montgomery,Oden Outside,Auditor of State,,DEM,Diamond Arnold-Johnson,31,19,3,9
+Montgomery,Pencil Bluff,Auditor of State,,DEM,Diamond Arnold-Johnson,17,10,0,7
+Montgomery,Sims,Auditor of State,,DEM,Diamond Arnold-Johnson,22,14,0,8
+Montgomery,Washita,Auditor of State,,DEM,Diamond Arnold-Johnson,21,17,0,4
+Montgomery,Alamo,Auditor of State,,LIB,Simeon Snow,0,0,0,0
+Montgomery,Black Springs,Auditor of State,,LIB,Simeon Snow,5,4,0,1
+Montgomery,Caddo Gap,Auditor of State,,LIB,Simeon Snow,5,0,0,5
+Montgomery,Caney,Auditor of State,,LIB,Simeon Snow,6,1,0,5
+Montgomery,Center,Auditor of State,,LIB,Simeon Snow,29,21,1,7
+Montgomery,Fannie,Auditor of State,,LIB,Simeon Snow,2,2,0,0
+Montgomery,Hopper,Auditor of State,,LIB,Simeon Snow,3,1,0,2
+Montgomery,Mount Ida Inside,Auditor of State,,LIB,Simeon Snow,14,6,2,6
+Montgomery,Mount Ida Outside,Auditor of State,,LIB,Simeon Snow,19,14,0,5
+Montgomery,Norman Inside,Auditor of State,,LIB,Simeon Snow,5,1,0,4
+Montgomery,Norman Outside,Auditor of State,,LIB,Simeon Snow,2,1,0,1
+Montgomery,Oden Inside,Auditor of State,,LIB,Simeon Snow,3,0,0,3
+Montgomery,Oden Outside,Auditor of State,,LIB,Simeon Snow,5,3,0,2
+Montgomery,Pencil Bluff,Auditor of State,,LIB,Simeon Snow,2,0,0,2
+Montgomery,Sims,Auditor of State,,LIB,Simeon Snow,1,1,0,0
+Montgomery,Washita,Auditor of State,,LIB,Simeon Snow,3,3,0,0
+Montgomery,Alamo,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,34,22,0,12
+Montgomery,Black Springs,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,169,83,2,84
+Montgomery,Caddo Gap,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,253,83,9,161
+Montgomery,Caney,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,230,36,3,191
+Montgomery,Center,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,393,250,8,135
+Montgomery,Fannie,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,53,41,1,11
+Montgomery,Hopper,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,75,50,0,25
+Montgomery,Mount Ida Inside,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,225,147,11,67
+Montgomery,Mount Ida Outside,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,328,229,4,95
+Montgomery,Norman Inside,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,56,16,2,38
+Montgomery,Norman Outside,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,143,69,3,71
+Montgomery,Oden Inside,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,65,27,2,36
+Montgomery,Oden Outside,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,223,106,8,109
+Montgomery,Pencil Bluff,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,131,48,1,82
+Montgomery,Sims,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,91,41,0,50
+Montgomery,Washita,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,137,103,4,30
+Montgomery,Alamo,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,5,3,0,2
+Montgomery,Black Springs,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,29,23,1,5
+Montgomery,Caddo Gap,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,33,10,2,21
+Montgomery,Caney,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,31,10,0,21
+Montgomery,Center,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,115,84,5,26
+Montgomery,Fannie,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,7,6,0,1
+Montgomery,Hopper,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,11,6,0,5
+Montgomery,Mount Ida Inside,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,53,35,4,14
+Montgomery,Mount Ida Outside,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,69,55,4,10
+Montgomery,Norman Inside,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,16,8,0,8
+Montgomery,Norman Outside,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,38,23,2,13
+Montgomery,Oden Inside,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,16,4,2,10
+Montgomery,Oden Outside,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,33,21,2,10
+Montgomery,Pencil Bluff,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,18,10,0,8
+Montgomery,Sims,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,23,15,0,8
+Montgomery,Washita,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,22,18,0,4
+Montgomery,Alamo,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,18,13,0,5
+Montgomery,Black Springs,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,117,61,3,53
+Montgomery,Caddo Gap,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,155,46,6,103
+Montgomery,Caney,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,134,23,1,110
+Montgomery,Center,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,272,178,4,90
+Montgomery,Fannie,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,27,18,1,8
+Montgomery,Hopper,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,41,26,0,15
+Montgomery,Mount Ida Inside,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,170,105,14,51
+Montgomery,Mount Ida Outside,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,240,170,4,66
+Montgomery,Norman Inside,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,46,14,2,30
+Montgomery,Norman Outside,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,99,57,3,39
+Montgomery,Oden Inside,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,41,17,1,23
+Montgomery,Oden Outside,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,132,69,5,58
+Montgomery,Pencil Bluff,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,84,38,1,45
+Montgomery,Sims,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,53,27,0,26
+Montgomery,Washita,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,91,74,1,16
+Montgomery,Alamo,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,13,7,0,6
+Montgomery,Black Springs,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,58,30,0,28
+Montgomery,Caddo Gap,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,102,35,5,62
+Montgomery,Caney,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,91,20,2,69
+Montgomery,Center,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,187,118,8,61
+Montgomery,Fannie,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,25,22,0,3
+Montgomery,Hopper,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,41,29,0,12
+Montgomery,Mount Ida Inside,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,78,54,1,23
+Montgomery,Mount Ida Outside,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,121,89,4,28
+Montgomery,Norman Inside,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,19,7,0,12
+Montgomery,Norman Outside,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,65,28,2,35
+Montgomery,Oden Inside,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,26,8,3,15
+Montgomery,Oden Outside,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,93,49,4,40
+Montgomery,Pencil Bluff,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,47,14,0,33
+Montgomery,Sims,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,44,21,0,23
+Montgomery,Washita,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,48,33,3,12
+Montgomery,Alamo,County Judge,,REP,REP Bart Williams,36,24,0,12
+Montgomery,Black Springs,County Judge,,REP,REP Bart Williams,166,85,1,80
+Montgomery,Caddo Gap,County Judge,,REP,REP Bart Williams,230,79,9,142
+Montgomery,Caney,County Judge,,REP,REP Bart Williams,222,36,2,184
+Montgomery,Center,County Judge,,REP,REP Bart Williams,417,278,10,129
+Montgomery,Fannie,County Judge,,REP,REP Bart Williams,55,44,1,10
+Montgomery,Hopper,County Judge,,REP,REP Bart Williams,68,47,0,21
+Montgomery,Mount Ida Inside,County Judge,,REP,REP Bart Williams,218,146,13,59
+Montgomery,Mount Ida Outside,County Judge,,REP,REP Bart Williams,318,222,7,89
+Montgomery,Norman Inside,County Judge,,REP,REP Bart Williams,52,15,2,35
+Montgomery,Norman Outside,County Judge,,REP,REP Bart Williams,132,66,5,61
+Montgomery,Oden Inside,County Judge,,REP,REP Bart Williams,63,27,1,35
+Montgomery,Oden Outside,County Judge,,REP,REP Bart Williams,231,114,10,107
+Montgomery,Pencil Bluff,County Judge,,REP,REP Bart Williams,128,44,1,83
+Montgomery,Sims,County Judge,,REP,REP Bart Williams,90,42,0,48
+Montgomery,Washita,County Judge,,REP,REP Bart Williams,116,92,4,20
+Montgomery,Alamo,County Judge,,IND,IND Vance Wright,1,0,0,1
+Montgomery,Black Springs,County Judge,,IND,IND Vance Wright,35,22,2,11
+Montgomery,Caddo Gap,County Judge,,IND,IND Vance Wright,52,14,2,36
+Montgomery,Caney,County Judge,,IND,IND Vance Wright,40,9,1,30
+Montgomery,Center,County Judge,,IND,IND Vance Wright,93,56,3,34
+Montgomery,Fannie,County Judge,,IND,IND Vance Wright,6,4,0,2
+Montgomery,Hopper,County Judge,,IND,IND Vance Wright,16,7,0,9
+Montgomery,Mount Ida Inside,County Judge,,IND,IND Vance Wright,62,38,2,22
+Montgomery,Mount Ida Outside,County Judge,,IND,IND Vance Wright,81,63,3,15
+Montgomery,Norman Inside,County Judge,,IND,IND Vance Wright,21,9,0,12
+Montgomery,Norman Outside,County Judge,,IND,IND Vance Wright,53,27,1,25
+Montgomery,Oden Inside,County Judge,,IND,IND Vance Wright,17,4,3,10
+Montgomery,Oden Outside,County Judge,,IND,IND Vance Wright,35,16,1,18
+Montgomery,Pencil Bluff,County Judge,,IND,IND Vance Wright,23,14,0,9
+Montgomery,Sims,County Judge,,IND,IND Vance Wright,24,15,0,9
+Montgomery,Washita,County Judge,,IND,IND Vance Wright,46,33,0,13
+Montgomery,Alamo,Circuit & County Clerk,,REP,REP Regina Powell,34,23,0,11
+Montgomery,Black Springs,Circuit & County Clerk,,REP,REP Regina Powell,178,91,3,84
+Montgomery,Caddo Gap,Circuit & County Clerk,,REP,REP Regina Powell,261,88,10,163
+Montgomery,Caney,Circuit & County Clerk,,REP,REP Regina Powell,233,39,3,191
+Montgomery,Center,Circuit & County Clerk,,REP,REP Regina Powell,459,298,8,153
+Montgomery,Fannie,Circuit & County Clerk,,REP,REP Regina Powell,56,44,1,11
+Montgomery,Hopper,Circuit & County Clerk,,REP,REP Regina Powell,79,52,0,27
+Montgomery,Mount Ida Inside,Circuit & County Clerk,,REP,REP Regina Powell,261,168,13,80
+Montgomery,Mount Ida Outside,Circuit & County Clerk,,REP,REP Regina Powell,372,261,8,103
+Montgomery,Norman Inside,Circuit & County Clerk,,REP,REP Regina Powell,67,21,2,44
+Montgomery,Norman Outside,Circuit & County Clerk,,REP,REP Regina Powell,151,79,5,67
+Montgomery,Oden Inside,Circuit & County Clerk,,REP,REP Regina Powell,73,27,4,42
+Montgomery,Oden Outside,Circuit & County Clerk,,REP,REP Regina Powell,233,117,7,109
+Montgomery,Pencil Bluff,Circuit & County Clerk,,REP,REP Regina Powell,141,54,1,86
+Montgomery,Sims,Circuit & County Clerk,,REP,REP Regina Powell,107,51,0,56
+Montgomery,Washita,Circuit & County Clerk,,REP,REP Regina Powell,153,117,4,32
+Montgomery,Alamo,Constable,,REP,REP Brandon Vines,25,18,0,7
+Montgomery,Black Springs,Constable,,REP,REP Brandon Vines,114,54,2,58
+Montgomery,Caddo Gap,Constable,,REP,REP Brandon Vines,135,48,4,83
+Montgomery,Caney,Constable,,REP,REP Brandon Vines,175,28,2,145
+Montgomery,Hopper,Constable,,REP,REP Brandon Vines,29,19,0,10
+Montgomery,Norman Inside,Constable,,REP,REP Brandon Vines,33,14,2,17
+Montgomery,Norman Outside,Constable,,REP,REP Brandon Vines,104,49,4,51
+Montgomery,Alamo,Constable,,IND,IND Monty Coffman,12,6,0,6
+Montgomery,Black Springs,Constable,,IND,IND Monty Coffman,84,52,1,31
+Montgomery,Caddo Gap,Constable,,IND,IND Monty Coffman,147,43,6,98
+Montgomery,Caney,Constable,,IND,IND Monty Coffman,84,17,1,66
+Montgomery,Hopper,Constable,,IND,IND Monty Coffman,57,37,0,20
+Montgomery,Norman Inside,Constable,,IND,IND Monty Coffman,38,10,0,28
+Montgomery,Norman Outside,Constable,,IND,IND Monty Coffman,78,42,1,35
+Montgomery,Mount Ida Outside,JP 2,,REP,REP Mike Dobbs,0,0,0,0
+Montgomery,Oden Inside,JP 2,,REP,REP Mike Dobbs,36,16,3,17
+Montgomery,Oden Outside,JP 2,,REP,REP Mike Dobbs,125,62,3,60
+Montgomery,Pencil Bluff,JP 2,,REP,REP Mike Dobbs,49,17,1,31
+Montgomery,Mount Ida Outside,JP 2,,IND,IND Tommy Beshears,0,0,0,0
+Montgomery,Oden Inside,JP 2,,IND,IND Tommy Beshears,45,15,1,29
+Montgomery,Oden Outside,JP 2,,IND,IND Tommy Beshears,139,67,8,64
+Montgomery,Pencil Bluff,JP 2,,IND,IND Tommy Beshears,26,9,0,17
+Montgomery,Caddo Gap,Glenwood,,IND,IND John R. Powell,1,0,0,1
+Montgomery,Caney,Glenwood,,IND,IND John R. Powell,2,0,0,2
+Montgomery,Mount Ida Inside,City of Mt. Ida,,IND,IND Joan Whisenhunt,105,65,9,31
+Montgomery,Mount Ida Inside,City of Mt. Ida,,IND,IND Vann Morgan,112,81,2,29
+Montgomery,Mount Ida Inside,City of Mt. Ida,,IND,IND Derek Sandlin,62,39,2,21
+Montgomery,Norman Inside,Norman,,IND,IND Tammy Whisenhunt,69,22,2,45
+Montgomery,Norman Inside,Norman,,IND,IND Ashley Collins,70,22,2,46
+Montgomery,Oden Inside,Oden,,IND,IND Tim Philpot,76,28,4,44
+Montgomery,Oden Inside,Clerk,,IND,IND Bambi Sharp,74,28,4,42
+Montgomery,Alamo,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,15,11,0,4
+Montgomery,Black Springs,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,71,38,3,30
+Montgomery,Caddo Gap,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,104,30,9,65
+Montgomery,Caney,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,96,15,2,79
+Montgomery,Center,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,186,123,3,60
+Montgomery,Fannie,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,30,25,1,4
+Montgomery,Hopper,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,29,18,0,11
+Montgomery,Mount Ida Inside,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,107,63,8,36
+Montgomery,Mount Ida Outside,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,138,91,6,41
+Montgomery,Norman Inside,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,33,8,2,23
+Montgomery,Norman Outside,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,78,40,4,34
+Montgomery,Oden Inside,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,29,13,0,16
+Montgomery,Oden Outside,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,88,59,4,25
+Montgomery,Pencil Bluff,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,57,23,1,33
+Montgomery,Sims,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,40,24,0,16
+Montgomery,Washita,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,56,44,3,9
+Montgomery,Alamo,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,21,12,0,9
+Montgomery,Black Springs,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,122,64,0,58
+Montgomery,Caddo Gap,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,172,58,1,113
+Montgomery,Caney,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,157,28,1,128
+Montgomery,Center,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,308,199,9,100
+Montgomery,Fannie,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,29,22,0,7
+Montgomery,Hopper,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,57,38,0,19
+Montgomery,Mount Ida Inside,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,159,111,6,42
+Montgomery,Mount Ida Outside,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,239,175,2,62
+Montgomery,Norman Inside,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,39,17,0,22
+Montgomery,Norman Outside,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,101,50,1,50
+Montgomery,Oden Inside,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,44,16,4,24
+Montgomery,Oden Outside,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,154,65,4,85
+Montgomery,Pencil Bluff,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,91,33,0,58
+Montgomery,Sims,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,64,27,0,37
+Montgomery,Washita,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,99,75,1,23
+Montgomery,Alamo,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,13,10,0,3
+Montgomery,Black Springs,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,79,38,3,38
+Montgomery,Caddo Gap,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,113,37,9,67
+Montgomery,Caney,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,117,23,2,92
+Montgomery,Center,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,223,125,3,95
+Montgomery,Fannie,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,28,23,1,4
+Montgomery,Hopper,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,26,15,0,11
+Montgomery,Mount Ida Inside,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,102,64,6,32
+Montgomery,Mount Ida Outside,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,157,101,6,50
+Montgomery,Norman Inside,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,31,6,2,23
+Montgomery,Norman Outside,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,80,40,3,37
+Montgomery,Oden Inside,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,27,9,0,18
+Montgomery,Oden Outside,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,91,47,2,42
+Montgomery,Pencil Bluff,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,70,26,1,43
+Montgomery,Sims,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,40,19,0,21
+Montgomery,Washita,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,70,52,3,15
+Montgomery,Alamo,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,24,15,0,9
+Montgomery,Black Springs,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,114,63,0,51
+Montgomery,Caddo Gap,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,170,56,2,112
+Montgomery,Caney,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,148,22,1,125
+Montgomery,Center,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,279,199,9,71
+Montgomery,Fannie,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,31,24,0,7
+Montgomery,Hopper,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,59,40,0,19
+Montgomery,Mount Ida Inside,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,166,113,7,46
+Montgomery,Mount Ida Outside,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,224,169,2,53
+Montgomery,Norman Inside,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,42,20,0,22
+Montgomery,Norman Outside,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,102,51,3,48
+Montgomery,Oden Inside,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,49,20,4,25
+Montgomery,Oden Outside,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,163,82,7,74
+Montgomery,Pencil Bluff,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,78,30,0,48
+Montgomery,Sims,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,66,33,0,33
+Montgomery,Washita,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,88,69,1,18
+Montgomery,Alamo,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,18,15,0,3
+Montgomery,Black Springs,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,87,38,3,46
+Montgomery,Caddo Gap,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,137,50,10,77
+Montgomery,Caney,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,125,23,2,100
+Montgomery,Center,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,231,148,4,79
+Montgomery,Fannie,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,37,31,1,5
+Montgomery,Hopper,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,35,21,0,14
+Montgomery,Mount Ida Inside,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,126,74,10,42
+Montgomery,Mount Ida Outside,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,175,119,6,50
+Montgomery,Norman Inside,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,43,13,2,28
+Montgomery,Norman Outside,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,83,45,2,36
+Montgomery,Oden Inside,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,31,13,0,18
+Montgomery,Oden Outside,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,110,67,3,40
+Montgomery,Pencil Bluff,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,63,27,1,35
+Montgomery,Sims,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,49,24,0,25
+Montgomery,Washita,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,81,58,4,19
+Montgomery,Alamo,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,20,10,0,10
+Montgomery,Black Springs,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,106,64,0,42
+Montgomery,Caddo Gap,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,146,43,1,102
+Montgomery,Caney,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,139,22,1,116
+Montgomery,Center,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,274,179,8,87
+Montgomery,Fannie,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,22,16,0,6
+Montgomery,Hopper,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,50,34,0,16
+Montgomery,Mount Ida Inside,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,145,103,5,37
+Montgomery,Mount Ida Outside,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,208,151,2,55
+Montgomery,Norman Inside,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,30,13,0,17
+Montgomery,Norman Outside,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,99,46,4,49
+Montgomery,Oden Inside,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,43,15,4,24
+Montgomery,Oden Outside,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,143,60,6,77
+Montgomery,Pencil Bluff,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,86,29,0,57
+Montgomery,Sims,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,57,29,0,28
+Montgomery,Washita,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,77,64,0,13
+Montgomery,Alamo,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,12,8,0,4
+Montgomery,Black Springs,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,79,38,1,40
+Montgomery,Caddo Gap,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,114,40,3,71
+Montgomery,Caney,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,102,19,0,83
+Montgomery,Center,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,209,138,6,65
+Montgomery,Fannie,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,22,18,0,4
+Montgomery,Hopper,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,28,16,0,12
+Montgomery,Mount Ida Inside,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,108,63,3,42
+Montgomery,Mount Ida Outside,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,159,112,4,43
+Montgomery,Norman Inside,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,43,17,0,26
+Montgomery,Norman Outside,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,88,37,4,47
+Montgomery,Oden Inside,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,31,16,0,15
+Montgomery,Oden Outside,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,76,41,4,31
+Montgomery,Pencil Bluff,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,48,20,1,27
+Montgomery,Sims,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,47,24,0,23
+Montgomery,Washita,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,53,42,0,11
+Montgomery,Alamo,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,28,18,0,10
+Montgomery,Black Springs,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,121,70,2,49
+Montgomery,Caddo Gap,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,171,55,8,108
+Montgomery,Caney,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,166,26,3,137
+Montgomery,Center,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,306,199,6,101
+Montgomery,Fannie,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,40,31,1,8
+Montgomery,Hopper,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,58,39,0,19
+Montgomery,Mount Ida Inside,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,171,121,12,38
+Montgomery,Mount Ida Outside,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,234,168,4,62
+Montgomery,Norman Inside,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,32,9,2,21
+Montgomery,Norman Outside,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,97,55,2,40
+Montgomery,Oden Inside,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,47,13,4,30
+Montgomery,Oden Outside,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,188,92,6,90
+Montgomery,Pencil Bluff,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,103,38,0,65
+Montgomery,Sims,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,68,33,0,35
+Montgomery,Washita,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,107,80,4,23

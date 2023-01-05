@@ -1,0 +1,975 @@
+county,precinct,office,district,party,candidate,votes,early_vote,absentee,election_day
+Prairie,Belcher/Tyler,U.S. Senate,,LIB,Kenneth Cates,1,0,0,1
+Prairie,Bullard,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0
+Prairie,Calhoun,U.S. Senate,,LIB,Kenneth Cates,3,1,0,2
+Prairie,Center,U.S. Senate,,LIB,Kenneth Cates,7,0,5,2
+Prairie,Des Arc,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0
+Prairie,Hazen,U.S. Senate,,LIB,Kenneth Cates,3,0,0,3
+Prairie,Hazen Ward 2,U.S. Senate,,LIB,Kenneth Cates,5,2,0,3
+Prairie,Hazen Ward 3,U.S. Senate,,LIB,Kenneth Cates,1,0,0,1
+Prairie,Hazen Country,U.S. Senate,,LIB,Kenneth Cates,2,0,0,2
+Prairie,Hickory Plains,U.S. Senate,,LIB,Kenneth Cates,7,0,0,7
+Prairie,Lower Hill City,U.S. Senate,,LIB,Kenneth Cates,4,1,0,3
+Prairie,Lower Hill Country,U.S. Senate,,LIB,Kenneth Cates,4,0,1,3
+Prairie,Roc Roe City,U.S. Senate,,LIB,Kenneth Cates,3,0,0,3
+Prairie,Roc Roe Country,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0
+Prairie,Upper Hill,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0
+Prairie,Union,U.S. Senate,,LIB,Kenneth Cates,1,0,0,1
+Prairie,Wattensaw City Ward 1,U.S. Senate,,LIB,Kenneth Cates,2,0,0,2
+Prairie,Wattensaw City Ward 2,U.S. Senate,,LIB,Kenneth Cates,1,1,0,0
+Prairie,Wattensaw City Ward 3,U.S. Senate,,LIB,Kenneth Cates,1,1,0,0
+Prairie,Wattensaw Country,U.S. Senate,,LIB,Kenneth Cates,2,0,0,2
+Prairie,White River Ward 1,U.S. Senate,,LIB,Kenneth Cates,2,0,0,2
+Prairie,White River Ward 2,U.S. Senate,,LIB,Kenneth Cates,5,1,1,3
+Prairie,White River Ward 3,U.S. Senate,,LIB,Kenneth Cates,2,0,1,1
+Prairie,White River Country,U.S. Senate,,LIB,Kenneth Cates,7,3,2,2
+Prairie,Belcher/Tyler,U.S. Senate,,REP,Senator John Boozman,94,10,1,83
+Prairie,Bullard,U.S. Senate,,REP,Senator John Boozman,42,10,0,32
+Prairie,Calhoun,U.S. Senate,,REP,Senator John Boozman,80,17,1,62
+Prairie,Center,U.S. Senate,,REP,Senator John Boozman,132,25,1,106
+Prairie,Des Arc,U.S. Senate,,REP,Senator John Boozman,81,16,0,65
+Prairie,Hazen,U.S. Senate,,REP,Senator John Boozman,115,45,1,69
+Prairie,Hazen Ward 2,U.S. Senate,,REP,Senator John Boozman,122,52,3,67
+Prairie,Hazen Ward 3,U.S. Senate,,REP,Senator John Boozman,86,28,1,57
+Prairie,Hazen Country,U.S. Senate,,REP,Senator John Boozman,100,44,1,55
+Prairie,Hickory Plains,U.S. Senate,,REP,Senator John Boozman,221,41,3,177
+Prairie,Lower Hill City,U.S. Senate,,REP,Senator John Boozman,76,38,1,37
+Prairie,Lower Hill Country,U.S. Senate,,REP,Senator John Boozman,66,25,0,41
+Prairie,Roc Roe City,U.S. Senate,,REP,Senator John Boozman,42,0,0,42
+Prairie,Roc Roe Country,U.S. Senate,,REP,Senator John Boozman,77,23,0,54
+Prairie,Upper Hill,U.S. Senate,,REP,Senator John Boozman,8,4,0,4
+Prairie,Union,U.S. Senate,,REP,Senator John Boozman,32,7,0,25
+Prairie,Wattensaw City Ward 1,U.S. Senate,,REP,Senator John Boozman,31,18,0,13
+Prairie,Wattensaw City Ward 2,U.S. Senate,,REP,Senator John Boozman,32,20,0,12
+Prairie,Wattensaw City Ward 3,U.S. Senate,,REP,Senator John Boozman,26,14,1,11
+Prairie,Wattensaw Country,U.S. Senate,,REP,Senator John Boozman,160,101,0,59
+Prairie,White River Ward 1,U.S. Senate,,REP,Senator John Boozman,114,61,2,51
+Prairie,White River Ward 2,U.S. Senate,,REP,Senator John Boozman,147,68,2,77
+Prairie,White River Ward 3,U.S. Senate,,REP,Senator John Boozman,153,71,10,72
+Prairie,White River Country,U.S. Senate,,REP,Senator John Boozman,172,77,0,95
+Prairie,Belcher/Tyler,U.S. Senate,,DEM,Natalie James,6,2,0,4
+Prairie,Bullard,U.S. Senate,,DEM,Natalie James,9,2,0,7
+Prairie,Calhoun,U.S. Senate,,DEM,Natalie James,7,4,0,3
+Prairie,Center,U.S. Senate,,DEM,Natalie James,5,2,0,3
+Prairie,Des Arc,U.S. Senate,,DEM,Natalie James,7,2,0,5
+Prairie,Hazen,U.S. Senate,,DEM,Natalie James,30,13,1,16
+Prairie,Hazen Ward 2,U.S. Senate,,DEM,Natalie James,25,13,0,12
+Prairie,Hazen Ward 3,U.S. Senate,,DEM,Natalie James,22,7,1,14
+Prairie,Hazen Country,U.S. Senate,,DEM,Natalie James,16,12,0,4
+Prairie,Hickory Plains,U.S. Senate,,DEM,Natalie James,21,5,0,16
+Prairie,Lower Hill City,U.S. Senate,,DEM,Natalie James,30,11,0,19
+Prairie,Lower Hill Country,U.S. Senate,,DEM,Natalie James,15,6,0,9
+Prairie,Roc Roe City,U.S. Senate,,DEM,Natalie James,8,0,0,8
+Prairie,Roc Roe Country,U.S. Senate,,DEM,Natalie James,3,1,0,2
+Prairie,Upper Hill,U.S. Senate,,DEM,Natalie James,7,5,0,2
+Prairie,Union,U.S. Senate,,DEM,Natalie James,1,1,0,0
+Prairie,Wattensaw City Ward 1,U.S. Senate,,DEM,Natalie James,12,6,0,6
+Prairie,Wattensaw City Ward 2,U.S. Senate,,DEM,Natalie James,19,14,0,5
+Prairie,Wattensaw City Ward 3,U.S. Senate,,DEM,Natalie James,14,9,3,2
+Prairie,Wattensaw Country,U.S. Senate,,DEM,Natalie James,27,16,0,11
+Prairie,White River Ward 1,U.S. Senate,,DEM,Natalie James,37,27,0,10
+Prairie,White River Ward 2,U.S. Senate,,DEM,Natalie James,23,15,1,7
+Prairie,White River Ward 3,U.S. Senate,,DEM,Natalie James,18,8,2,8
+Prairie,White River Country,U.S. Senate,,DEM,Natalie James,24,13,1,10
+Prairie,Belcher/Tyler,U.S. Congress District 01,,DEM,Representative Monte Hodges,7,2,0,5
+Prairie,Bullard,U.S. Congress District 01,,DEM,Representative Monte Hodges,7,1,0,6
+Prairie,Calhoun,U.S. Congress District 01,,DEM,Representative Monte Hodges,8,4,0,4
+Prairie,Center,U.S. Congress District 01,,DEM,Representative Monte Hodges,6,2,0,4
+Prairie,Des Arc,U.S. Congress District 01,,DEM,Representative Monte Hodges,8,2,0,6
+Prairie,Hazen,U.S. Congress District 01,,DEM,Representative Monte Hodges,31,13,1,17
+Prairie,Hazen Ward 2,U.S. Congress District 01,,DEM,Representative Monte Hodges,21,11,0,10
+Prairie,Hazen Ward 3,U.S. Congress District 01,,DEM,Representative Monte Hodges,21,7,1,13
+Prairie,Hazen Country,U.S. Congress District 01,,DEM,Representative Monte Hodges,18,11,0,7
+Prairie,Hickory Plains,U.S. Congress District 01,,DEM,Representative Monte Hodges,22,6,0,16
+Prairie,Lower Hill City,U.S. Congress District 01,,DEM,Representative Monte Hodges,34,12,0,22
+Prairie,Lower Hill Country,U.S. Congress District 01,,DEM,Representative Monte Hodges,15,6,0,9
+Prairie,Roc Roe City,U.S. Congress District 01,,DEM,Representative Monte Hodges,7,0,0,7
+Prairie,Roc Roe Country,U.S. Congress District 01,,DEM,Representative Monte Hodges,2,0,0,2
+Prairie,Upper Hill,U.S. Congress District 01,,DEM,Representative Monte Hodges,6,5,0,1
+Prairie,Union,U.S. Congress District 01,,DEM,Representative Monte Hodges,2,2,0,0
+Prairie,Wattensaw City Ward 1,U.S. Congress District 01,,DEM,Representative Monte Hodges,13,7,0,6
+Prairie,Wattensaw City Ward 2,U.S. Congress District 01,,DEM,Representative Monte Hodges,23,18,0,5
+Prairie,Wattensaw City Ward 3,U.S. Congress District 01,,DEM,Representative Monte Hodges,14,9,3,2
+Prairie,Wattensaw Country,U.S. Congress District 01,,DEM,Representative Monte Hodges,23,15,0,8
+Prairie,White River Ward 1,U.S. Congress District 01,,DEM,Representative Monte Hodges,37,23,0,14
+Prairie,White River Ward 2,U.S. Congress District 01,,DEM,Representative Monte Hodges,23,17,1,5
+Prairie,White River Ward 3,U.S. Congress District 01,,DEM,Representative Monte Hodges,21,12,3,6
+Prairie,White River Country,U.S. Congress District 01,,DEM,Representative Monte Hodges,25,14,1,10
+Prairie,Belcher/Tyler,U.S. Congress District 01,,REP,Congressman Rick Crawford,93,10,1,82
+Prairie,Bullard,U.S. Congress District 01,,REP,Congressman Rick Crawford,40,10,0,30
+Prairie,Calhoun,U.S. Congress District 01,,REP,Congressman Rick Crawford,80,19,1,60
+Prairie,Center,U.S. Congress District 01,,REP,Congressman Rick Crawford,134,25,6,103
+Prairie,Des Arc,U.S. Congress District 01,,REP,Congressman Rick Crawford,77,16,0,61
+Prairie,Hazen,U.S. Congress District 01,,REP,Congressman Rick Crawford,114,45,1,68
+Prairie,Hazen Ward 2,U.S. Congress District 01,,REP,Congressman Rick Crawford,127,54,3,70
+Prairie,Hazen Ward 3,U.S. Congress District 01,,REP,Congressman Rick Crawford,84,28,1,55
+Prairie,Hazen Country,U.S. Congress District 01,,REP,Congressman Rick Crawford,97,44,1,52
+Prairie,Hickory Plains,U.S. Congress District 01,,REP,Congressman Rick Crawford,211,39,3,169
+Prairie,Lower Hill City,U.S. Congress District 01,,REP,Congressman Rick Crawford,75,38,1,36
+Prairie,Lower Hill Country,U.S. Congress District 01,,REP,Congressman Rick Crawford,68,25,1,42
+Prairie,Roc Roe City,U.S. Congress District 01,,REP,Congressman Rick Crawford,46,0,0,46
+Prairie,Roc Roe Country,U.S. Congress District 01,,REP,Congressman Rick Crawford,78,24,0,54
+Prairie,Upper Hill,U.S. Congress District 01,,REP,Congressman Rick Crawford,9,4,0,5
+Prairie,Union,U.S. Congress District 01,,REP,Congressman Rick Crawford,31,6,0,25
+Prairie,Wattensaw City Ward 1,U.S. Congress District 01,,REP,Congressman Rick Crawford,33,18,0,15
+Prairie,Wattensaw City Ward 2,U.S. Congress District 01,,REP,Congressman Rick Crawford,26,17,0,9
+Prairie,Wattensaw City Ward 3,U.S. Congress District 01,,REP,Congressman Rick Crawford,27,15,1,11
+Prairie,Wattensaw Country,U.S. Congress District 01,,REP,Congressman Rick Crawford,163,101,0,62
+Prairie,White River Ward 1,U.S. Congress District 01,,REP,Congressman Rick Crawford,104,59,2,43
+Prairie,White River Ward 2,U.S. Congress District 01,,REP,Congressman Rick Crawford,141,63,2,76
+Prairie,White River Ward 3,U.S. Congress District 01,,REP,Congressman Rick Crawford,151,68,9,74
+Prairie,White River Country,U.S. Congress District 01,,REP,Congressman Rick Crawford,174,76,2,96
+Prairie,Belcher/Tyler,Attorney General,,DEM,Jesse Gibson,7,2,0,5
+Prairie,Bullard,Attorney General,,DEM,Jesse Gibson,7,0,0,7
+Prairie,Calhoun,Attorney General,,DEM,Jesse Gibson,9,4,0,5
+Prairie,Center,Attorney General,,DEM,Jesse Gibson,6,2,0,4
+Prairie,Des Arc,Attorney General,,DEM,Jesse Gibson,7,2,0,5
+Prairie,Hazen,Attorney General,,DEM,Jesse Gibson,33,13,1,19
+Prairie,Hazen Ward 2,Attorney General,,DEM,Jesse Gibson,28,14,0,14
+Prairie,Hazen Ward 3,Attorney General,,DEM,Jesse Gibson,25,6,1,18
+Prairie,Hazen Country,Attorney General,,DEM,Jesse Gibson,18,12,0,6
+Prairie,Hickory Plains,Attorney General,,DEM,Jesse Gibson,20,5,0,15
+Prairie,Lower Hill City,Attorney General,,DEM,Jesse Gibson,33,10,0,23
+Prairie,Lower Hill Country,Attorney General,,DEM,Jesse Gibson,17,8,0,9
+Prairie,Roc Roe City,Attorney General,,DEM,Jesse Gibson,8,0,0,8
+Prairie,Roc Roe Country,Attorney General,,DEM,Jesse Gibson,3,0,0,3
+Prairie,Upper Hill,Attorney General,,DEM,Jesse Gibson,7,5,0,2
+Prairie,Union,Attorney General,,DEM,Jesse Gibson,2,2,0,0
+Prairie,Wattensaw City Ward 1,Attorney General,,DEM,Jesse Gibson,15,7,0,8
+Prairie,Wattensaw City Ward 2,Attorney General,,DEM,Jesse Gibson,23,18,0,5
+Prairie,Wattensaw City Ward 3,Attorney General,,DEM,Jesse Gibson,14,9,3,2
+Prairie,Wattensaw Country,Attorney General,,DEM,Jesse Gibson,26,15,0,11
+Prairie,White River Ward 1,Attorney General,,DEM,Jesse Gibson,41,28,0,13
+Prairie,White River Ward 2,Attorney General,,DEM,Jesse Gibson,24,15,1,8
+Prairie,White River Ward 3,Attorney General,,DEM,Jesse Gibson,23,11,3,9
+Prairie,White River Country,Attorney General,,DEM,Jesse Gibson,23,11,1,11
+Prairie,Belcher/Tyler,Attorney General,,REP,Lieutenant Governor Tim Griffin,94,10,1,83
+Prairie,Bullard,Attorney General,,REP,Lieutenant Governor Tim Griffin,44,12,0,32
+Prairie,Calhoun,Attorney General,,REP,Lieutenant Governor Tim Griffin,82,19,1,62
+Prairie,Center,Attorney General,,REP,Lieutenant Governor Tim Griffin,139,25,6,108
+Prairie,Des Arc,Attorney General,,REP,Lieutenant Governor Tim Griffin,81,16,0,65
+Prairie,Hazen,Attorney General,,REP,Lieutenant Governor Tim Griffin,114,45,1,68
+Prairie,Hazen Ward 2,Attorney General,,REP,Lieutenant Governor Tim Griffin,124,52,3,69
+Prairie,Hazen Ward 3,Attorney General,,REP,Lieutenant Governor Tim Griffin,84,28,1,55
+Prairie,Hazen Country,Attorney General,,REP,Lieutenant Governor Tim Griffin,100,44,1,55
+Prairie,Hickory Plains,Attorney General,,REP,Lieutenant Governor Tim Griffin,227,41,3,183
+Prairie,Lower Hill City,Attorney General,,REP,Lieutenant Governor Tim Griffin,77,40,1,36
+Prairie,Lower Hill Country,Attorney General,,REP,Lieutenant Governor Tim Griffin,68,23,1,44
+Prairie,Roc Roe City,Attorney General,,REP,Lieutenant Governor Tim Griffin,45,0,0,45
+Prairie,Roc Roe Country,Attorney General,,REP,Lieutenant Governor Tim Griffin,77,24,0,53
+Prairie,Upper Hill,Attorney General,,REP,Lieutenant Governor Tim Griffin,8,4,0,4
+Prairie,Union,Attorney General,,REP,Lieutenant Governor Tim Griffin,32,6,0,26
+Prairie,Wattensaw City Ward 1,Attorney General,,REP,Lieutenant Governor Tim Griffin,31,18,0,13
+Prairie,Wattensaw City Ward 2,Attorney General,,REP,Lieutenant Governor Tim Griffin,29,17,0,12
+Prairie,Wattensaw City Ward 3,Attorney General,,REP,Lieutenant Governor Tim Griffin,27,15,1,11
+Prairie,Wattensaw Country,Attorney General,,REP,Lieutenant Governor Tim Griffin,164,103,0,61
+Prairie,White River Ward 1,Attorney General,,REP,Lieutenant Governor Tim Griffin,112,59,2,51
+Prairie,White River Ward 2,Attorney General,,REP,Lieutenant Governor Tim Griffin,151,68,3,80
+Prairie,White River Ward 3,Attorney General,,REP,Lieutenant Governor Tim Griffin,153,71,10,72
+Prairie,White River Country,Attorney General,,REP,Lieutenant Governor Tim Griffin,182,84,2,96
+Prairie,Belcher/Tyler,Auditor of State,,LIB,Simeon Snow,2,0,0,2
+Prairie,Bullard,Auditor of State,,LIB,Simeon Snow,0,0,0,0
+Prairie,Calhoun,Auditor of State,,LIB,Simeon Snow,2,0,0,2
+Prairie,Center,Auditor of State,,LIB,Simeon Snow,5,0,0,5
+Prairie,Des Arc,Auditor of State,,LIB,Simeon Snow,0,0,0,0
+Prairie,Hazen,Auditor of State,,LIB,Simeon Snow,4,0,0,4
+Prairie,Hazen Ward 2,Auditor of State,,LIB,Simeon Snow,6,2,0,4
+Prairie,Hazen Ward 3,Auditor of State,,LIB,Simeon Snow,0,0,0,0
+Prairie,Hazen Country,Auditor of State,,LIB,Simeon Snow,0,0,0,0
+Prairie,Hickory Plains,Auditor of State,,LIB,Simeon Snow,2,0,0,2
+Prairie,Lower Hill City,Auditor of State,,LIB,Simeon Snow,3,0,1,2
+Prairie,Lower Hill Country,Auditor of State,,LIB,Simeon Snow,2,0,0,2
+Prairie,Roc Roe City,Auditor of State,,LIB,Simeon Snow,5,0,0,5
+Prairie,Roc Roe Country,Auditor of State,,LIB,Simeon Snow,2,0,0,2
+Prairie,Upper Hill,Auditor of State,,LIB,Simeon Snow,1,0,0,1
+Prairie,Union,Auditor of State,,LIB,Simeon Snow,0,0,0,0
+Prairie,Wattensaw City Ward 1,Auditor of State,,LIB,Simeon Snow,2,0,0,2
+Prairie,Wattensaw City Ward 2,Auditor of State,,LIB,Simeon Snow,3,2,0,1
+Prairie,Wattensaw City Ward 3,Auditor of State,,LIB,Simeon Snow,2,2,0,0
+Prairie,Wattensaw Country,Auditor of State,,LIB,Simeon Snow,6,1,0,5
+Prairie,White River Ward 1,Auditor of State,,LIB,Simeon Snow,3,1,0,2
+Prairie,White River Ward 2,Auditor of State,,LIB,Simeon Snow,4,2,0,2
+Prairie,White River Ward 3,Auditor of State,,LIB,Simeon Snow,7,4,1,2
+Prairie,White River Country,Auditor of State,,LIB,Simeon Snow,6,4,0,2
+Prairie,Belcher/Tyler,Auditor of State,,REP,Treasurer of State Dennis Milligan,89,10,0,79
+Prairie,Bullard,Auditor of State,,REP,Treasurer of State Dennis Milligan,43,11,0,32
+Prairie,Calhoun,Auditor of State,,REP,Treasurer of State Dennis Milligan,82,19,1,62
+Prairie,Center,Auditor of State,,REP,Treasurer of State Dennis Milligan,129,24,3,102
+Prairie,Des Arc,Auditor of State,,REP,Treasurer of State Dennis Milligan,80,16,0,64
+Prairie,Hazen,Auditor of State,,REP,Treasurer of State Dennis Milligan,109,46,1,62
+Prairie,Hazen Ward 2,Auditor of State,,REP,Treasurer of State Dennis Milligan,128,56,3,69
+Prairie,Hazen Ward 3,Auditor of State,,REP,Treasurer of State Dennis Milligan,87,29,1,57
+Prairie,Hazen Country,Auditor of State,,REP,Treasurer of State Dennis Milligan,99,44,1,54
+Prairie,Hickory Plains,Auditor of State,,REP,Treasurer of State Dennis Milligan,220,40,3,177
+Prairie,Lower Hill City,Auditor of State,,REP,Treasurer of State Dennis Milligan,76,39,0,37
+Prairie,Lower Hill Country,Auditor of State,,REP,Treasurer of State Dennis Milligan,68,24,1,43
+Prairie,Roc Roe City,Auditor of State,,REP,Treasurer of State Dennis Milligan,42,0,0,42
+Prairie,Roc Roe Country,Auditor of State,,REP,Treasurer of State Dennis Milligan,75,24,0,51
+Prairie,Upper Hill,Auditor of State,,REP,Treasurer of State Dennis Milligan,9,5,0,4
+Prairie,Union,Auditor of State,,REP,Treasurer of State Dennis Milligan,31,6,0,25
+Prairie,Wattensaw City Ward 1,Auditor of State,,REP,Treasurer of State Dennis Milligan,29,18,0,11
+Prairie,Wattensaw City Ward 2,Auditor of State,,REP,Treasurer of State Dennis Milligan,30,19,0,11
+Prairie,Wattensaw City Ward 3,Auditor of State,,REP,Treasurer of State Dennis Milligan,25,14,1,10
+Prairie,Wattensaw Country,Auditor of State,,REP,Treasurer of State Dennis Milligan,157,98,0,59
+Prairie,White River Ward 1,Auditor of State,,REP,Treasurer of State Dennis Milligan,103,55,2,46
+Prairie,White River Ward 2,Auditor of State,,REP,Treasurer of State Dennis Milligan,145,67,1,77
+Prairie,White River Ward 3,Auditor of State,,REP,Treasurer of State Dennis Milligan,146,67,7,72
+Prairie,White River Country,Auditor of State,,REP,Treasurer of State Dennis Milligan,173,79,1,93
+Prairie,Belcher/Tyler,Auditor of State,,DEM,Diamond Arnold-Johnson,8,2,0,6
+Prairie,Bullard,Auditor of State,,DEM,Diamond Arnold-Johnson,7,1,0,6
+Prairie,Calhoun,Auditor of State,,DEM,Diamond Arnold-Johnson,6,4,0,2
+Prairie,Center,Auditor of State,,DEM,Diamond Arnold-Johnson,5,2,1,2
+Prairie,Des Arc,Auditor of State,,DEM,Diamond Arnold-Johnson,7,2,0,5
+Prairie,Hazen,Auditor of State,,DEM,Diamond Arnold-Johnson,31,12,1,18
+Prairie,Hazen Ward 2,Auditor of State,,DEM,Diamond Arnold-Johnson,16,8,0,8
+Prairie,Hazen Ward 3,Auditor of State,,DEM,Diamond Arnold-Johnson,24,7,1,16
+Prairie,Hazen Country,Auditor of State,,DEM,Diamond Arnold-Johnson,17,12,0,5
+Prairie,Hickory Plains,Auditor of State,,DEM,Diamond Arnold-Johnson,22,5,0,17
+Prairie,Lower Hill City,Auditor of State,,DEM,Diamond Arnold-Johnson,30,10,0,20
+Prairie,Lower Hill Country,Auditor of State,,DEM,Diamond Arnold-Johnson,14,6,0,8
+Prairie,Roc Roe City,Auditor of State,,DEM,Diamond Arnold-Johnson,6,0,0,6
+Prairie,Roc Roe Country,Auditor of State,,DEM,Diamond Arnold-Johnson,3,0,0,3
+Prairie,Upper Hill,Auditor of State,,DEM,Diamond Arnold-Johnson,5,4,0,1
+Prairie,Union,Auditor of State,,DEM,Diamond Arnold-Johnson,3,2,0,1
+Prairie,Wattensaw City Ward 1,Auditor of State,,DEM,Diamond Arnold-Johnson,15,7,0,8
+Prairie,Wattensaw City Ward 2,Auditor of State,,DEM,Diamond Arnold-Johnson,18,14,0,4
+Prairie,Wattensaw City Ward 3,Auditor of State,,DEM,Diamond Arnold-Johnson,13,8,3,2
+Prairie,Wattensaw Country,Auditor of State,,DEM,Diamond Arnold-Johnson,25,17,0,8
+Prairie,White River Ward 1,Auditor of State,,DEM,Diamond Arnold-Johnson,41,29,0,12
+Prairie,White River Ward 2,Auditor of State,,DEM,Diamond Arnold-Johnson,22,12,1,9
+Prairie,White River Ward 3,Auditor of State,,DEM,Diamond Arnold-Johnson,22,11,5,6
+Prairie,White River Country,Auditor of State,,DEM,Diamond Arnold-Johnson,23,10,1,12
+Prairie,Belcher/Tyler,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,89,9,0,80
+Prairie,Bullard,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,43,12,0,31
+Prairie,Calhoun,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,85,19,1,65
+Prairie,Center,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,129,25,3,101
+Prairie,Des Arc,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,80,16,0,64
+Prairie,Hazen,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,111,45,1,65
+Prairie,Hazen Ward 2,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,127,55,3,69
+Prairie,Hazen Ward 3,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,88,29,1,58
+Prairie,Hazen Country,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,97,42,0,55
+Prairie,Hickory Plains,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,221,41,3,177
+Prairie,Lower Hill City,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,76,38,1,37
+Prairie,Lower Hill Country,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,71,26,1,44
+Prairie,Roc Roe City,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,46,0,0,46
+Prairie,Roc Roe Country,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,76,24,0,52
+Prairie,Upper Hill,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,8,4,0,4
+Prairie,Union,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,28,6,0,22
+Prairie,Wattensaw City Ward 1,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,29,17,0,12
+Prairie,Wattensaw City Ward 2,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,29,18,0,11
+Prairie,Wattensaw City Ward 3,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,27,15,1,11
+Prairie,Wattensaw Country,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,162,101,0,61
+Prairie,White River Ward 1,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,109,58,2,49
+Prairie,White River Ward 2,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,143,65,2,76
+Prairie,White River Ward 3,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,151,69,9,73
+Prairie,White River Country,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,177,78,1,98
+Prairie,Belcher/Tyler,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,9,3,0,6
+Prairie,Bullard,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,6,0,0,6
+Prairie,Calhoun,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,5,3,0,2
+Prairie,Center,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,7,2,0,5
+Prairie,Des Arc,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,8,2,0,6
+Prairie,Hazen,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,30,13,1,16
+Prairie,Hazen Ward 2,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,23,11,0,12
+Prairie,Hazen Ward 3,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,23,7,1,15
+Prairie,Hazen Country,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,19,13,1,5
+Prairie,Hickory Plains,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,24,5,0,19
+Prairie,Lower Hill City,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,31,11,0,20
+Prairie,Lower Hill Country,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,13,5,0,8
+Prairie,Roc Roe City,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,7,0,0,7
+Prairie,Roc Roe Country,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,4,0,0,4
+Prairie,Upper Hill,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,6,4,0,2
+Prairie,Union,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,4,2,0,2
+Prairie,Wattensaw City Ward 1,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,17,8,0,9
+Prairie,Wattensaw City Ward 2,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,22,17,0,5
+Prairie,Wattensaw City Ward 3,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,14,9,3,2
+Prairie,Wattensaw Country,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,26,16,0,10
+Prairie,White River Ward 1,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,39,28,0,11
+Prairie,White River Ward 2,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,26,15,1,10
+Prairie,White River Ward 3,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,22,10,4,8
+Prairie,White River Country,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,22,12,1,9
+Prairie,Belcher/Tyler,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Prairie,Bullard,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Prairie,Calhoun,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Prairie,Center,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Prairie,Des Arc,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Prairie,Hazen,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,0,0,2
+Prairie,Hazen Ward 2,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,2,0,3
+Prairie,Hazen Ward 3,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Prairie,Hazen Country,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Prairie,Hickory Plains,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Prairie,Lower Hill City,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,1,0,1
+Prairie,Lower Hill Country,Governor,,LIB,"Ricky Dale Harrington, Jr.",4,0,0,4
+Prairie,Roc Roe City,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,0,0,3
+Prairie,Roc Roe Country,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Prairie,Upper Hill,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Prairie,Union,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Prairie,Wattensaw City Ward 1,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Prairie,Wattensaw City Ward 2,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Prairie,Wattensaw City Ward 3,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,2,0,0
+Prairie,Wattensaw Country,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,2,0,3
+Prairie,White River Ward 1,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Prairie,White River Ward 2,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,2,0,1
+Prairie,White River Ward 3,Governor,,LIB,"Ricky Dale Harrington, Jr.",6,2,1,3
+Prairie,White River Country,Governor,,LIB,"Ricky Dale Harrington, Jr.",4,2,0,2
+Prairie,Belcher/Tyler,Governor,,REP,Sarah Huckabee Sanders,92,10,1,81
+Prairie,Bullard,Governor,,REP,Sarah Huckabee Sanders,44,11,0,33
+Prairie,Calhoun,Governor,,REP,Sarah Huckabee Sanders,80,19,1,60
+Prairie,Center,Governor,,REP,Sarah Huckabee Sanders,139,26,6,107
+Prairie,Des Arc,Governor,,REP,Sarah Huckabee Sanders,78,16,0,62
+Prairie,Hazen,Governor,,REP,Sarah Huckabee Sanders,111,45,1,65
+Prairie,Hazen Ward 2,Governor,,REP,Sarah Huckabee Sanders,121,52,3,66
+Prairie,Hazen Ward 3,Governor,,REP,Sarah Huckabee Sanders,82,28,1,53
+Prairie,Hazen Country,Governor,,REP,Sarah Huckabee Sanders,93,40,1,52
+Prairie,Hickory Plains,Governor,,REP,Sarah Huckabee Sanders,223,40,3,180
+Prairie,Lower Hill City,Governor,,REP,Sarah Huckabee Sanders,76,37,1,38
+Prairie,Lower Hill Country,Governor,,REP,Sarah Huckabee Sanders,70,26,1,43
+Prairie,Roc Roe City,Governor,,REP,Sarah Huckabee Sanders,40,0,0,40
+Prairie,Roc Roe Country,Governor,,REP,Sarah Huckabee Sanders,72,23,0,49
+Prairie,Upper Hill,Governor,,REP,Sarah Huckabee Sanders,8,4,0,4
+Prairie,Union,Governor,,REP,Sarah Huckabee Sanders,32,6,0,26
+Prairie,Wattensaw City Ward 1,Governor,,REP,Sarah Huckabee Sanders,30,17,0,13
+Prairie,Wattensaw City Ward 2,Governor,,REP,Sarah Huckabee Sanders,28,16,0,12
+Prairie,Wattensaw City Ward 3,Governor,,REP,Sarah Huckabee Sanders,26,14,1,11
+Prairie,Wattensaw Country,Governor,,REP,Sarah Huckabee Sanders,153,95,0,58
+Prairie,White River Ward 1,Governor,,REP,Sarah Huckabee Sanders,107,58,2,47
+Prairie,White River Ward 2,Governor,,REP,Sarah Huckabee Sanders,146,68,1,77
+Prairie,White River Ward 3,Governor,,REP,Sarah Huckabee Sanders,142,64,9,69
+Prairie,White River Country,Governor,,REP,Sarah Huckabee Sanders,174,77,2,95
+Prairie,Belcher/Tyler,Governor,,DEM,Chris Jones,8,2,0,6
+Prairie,Bullard,Governor,,DEM,Chris Jones,8,1,0,7
+Prairie,Calhoun,Governor,,DEM,Chris Jones,13,4,0,9
+Prairie,Center,Governor,,DEM,Chris Jones,5,1,0,4
+Prairie,Des Arc,Governor,,DEM,Chris Jones,8,2,0,6
+Prairie,Hazen,Governor,,DEM,Chris Jones,35,13,1,21
+Prairie,Hazen Ward 2,Governor,,DEM,Chris Jones,26,13,0,13
+Prairie,Hazen Ward 3,Governor,,DEM,Chris Jones,28,8,1,19
+Prairie,Hazen Country,Governor,,DEM,Chris Jones,22,15,0,7
+Prairie,Hickory Plains,Governor,,DEM,Chris Jones,25,6,0,19
+Prairie,Lower Hill City,Governor,,DEM,Chris Jones,32,12,0,20
+Prairie,Lower Hill Country,Governor,,DEM,Chris Jones,12,5,0,7
+Prairie,Roc Roe City,Governor,,DEM,Chris Jones,10,0,0,10
+Prairie,Roc Roe Country,Governor,,DEM,Chris Jones,7,1,0,6
+Prairie,Upper Hill,Governor,,DEM,Chris Jones,6,5,0,1
+Prairie,Union,Governor,,DEM,Chris Jones,2,2,0,0
+Prairie,Wattensaw City Ward 1,Governor,,DEM,Chris Jones,17,8,0,9
+Prairie,Wattensaw City Ward 2,Governor,,DEM,Chris Jones,23,18,0,5
+Prairie,Wattensaw City Ward 3,Governor,,DEM,Chris Jones,12,7,3,2
+Prairie,Wattensaw Country,Governor,,DEM,Chris Jones,30,20,0,10
+Prairie,White River Ward 1,Governor,,DEM,Chris Jones,47,31,0,16
+Prairie,White River Ward 2,Governor,,DEM,Chris Jones,27,14,3,10
+Prairie,White River Ward 3,Governor,,DEM,Chris Jones,27,16,3,8
+Prairie,White River Country,Governor,,DEM,Chris Jones,29,17,1,11
+Prairie,Belcher/Tyler,Lieutenant Governor,,DEM,Kelly Ross Krout,8,2,0,6
+Prairie,Bullard,Lieutenant Governor,,DEM,Kelly Ross Krout,7,0,0,7
+Prairie,Calhoun,Lieutenant Governor,,DEM,Kelly Ross Krout,8,5,0,3
+Prairie,Center,Lieutenant Governor,,DEM,Kelly Ross Krout,4,1,0,3
+Prairie,Des Arc,Lieutenant Governor,,DEM,Kelly Ross Krout,6,2,0,4
+Prairie,Hazen,Lieutenant Governor,,DEM,Kelly Ross Krout,30,13,1,16
+Prairie,Hazen Ward 2,Lieutenant Governor,,DEM,Kelly Ross Krout,24,12,0,12
+Prairie,Hazen Ward 3,Lieutenant Governor,,DEM,Kelly Ross Krout,27,6,1,20
+Prairie,Hazen Country,Lieutenant Governor,,DEM,Kelly Ross Krout,20,14,0,6
+Prairie,Hickory Plains,Lieutenant Governor,,DEM,Kelly Ross Krout,26,7,0,19
+Prairie,Lower Hill City,Lieutenant Governor,,DEM,Kelly Ross Krout,33,13,0,20
+Prairie,Lower Hill Country,Lieutenant Governor,,DEM,Kelly Ross Krout,13,5,0,8
+Prairie,Roc Roe City,Lieutenant Governor,,DEM,Kelly Ross Krout,6,0,0,6
+Prairie,Roc Roe Country,Lieutenant Governor,,DEM,Kelly Ross Krout,5,0,0,5
+Prairie,Upper Hill,Lieutenant Governor,,DEM,Kelly Ross Krout,4,3,0,1
+Prairie,Union,Lieutenant Governor,,DEM,Kelly Ross Krout,2,2,0,0
+Prairie,Wattensaw City Ward 1,Lieutenant Governor,,DEM,Kelly Ross Krout,15,7,0,8
+Prairie,Wattensaw City Ward 2,Lieutenant Governor,,DEM,Kelly Ross Krout,21,16,0,5
+Prairie,Wattensaw City Ward 3,Lieutenant Governor,,DEM,Kelly Ross Krout,14,9,3,2
+Prairie,Wattensaw Country,Lieutenant Governor,,DEM,Kelly Ross Krout,26,17,0,9
+Prairie,White River Ward 1,Lieutenant Governor,,DEM,Kelly Ross Krout,40,26,0,14
+Prairie,White River Ward 2,Lieutenant Governor,,DEM,Kelly Ross Krout,28,16,1,11
+Prairie,White River Ward 3,Lieutenant Governor,,DEM,Kelly Ross Krout,27,15,3,9
+Prairie,White River Country,Lieutenant Governor,,DEM,Kelly Ross Krout,22,13,1,8
+Prairie,Belcher/Tyler,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,93,10,1,82
+Prairie,Bullard,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,42,12,0,30
+Prairie,Calhoun,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,84,18,1,65
+Prairie,Center,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,134,25,6,103
+Prairie,Des Arc,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,80,16,0,64
+Prairie,Hazen,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,114,44,1,69
+Prairie,Hazen Ward 2,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,124,54,3,67
+Prairie,Hazen Ward 3,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,83,29,1,53
+Prairie,Hazen Country,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,96,42,1,53
+Prairie,Hickory Plains,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,217,39,3,175
+Prairie,Lower Hill City,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,76,37,1,38
+Prairie,Lower Hill Country,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,69,25,1,43
+Prairie,Roc Roe City,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,44,0,0,44
+Prairie,Roc Roe Country,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,72,24,0,48
+Prairie,Upper Hill,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,10,6,0,4
+Prairie,Union,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,31,5,0,26
+Prairie,Wattensaw City Ward 1,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,29,18,0,11
+Prairie,Wattensaw City Ward 2,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,28,16,0,12
+Prairie,Wattensaw City Ward 3,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,25,14,1,10
+Prairie,Wattensaw Country,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,158,98,0,60
+Prairie,White River Ward 1,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,108,60,2,46
+Prairie,White River Ward 2,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,143,67,2,74
+Prairie,White River Ward 3,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,143,65,9,69
+Prairie,White River Country,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,173,77,2,94
+Prairie,Belcher/Tyler,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0
+Prairie,Bullard,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0
+Prairie,Calhoun,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0
+Prairie,Center,Lieutenant Governor,,LIB,Frank Gilbert,4,0,0,4
+Prairie,Des Arc,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0
+Prairie,Hazen,Lieutenant Governor,,LIB,Frank Gilbert,3,1,0,2
+Prairie,Hazen Ward 2,Lieutenant Governor,,LIB,Frank Gilbert,4,1,0,3
+Prairie,Hazen Ward 3,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0
+Prairie,Hazen Country,Lieutenant Governor,,LIB,Frank Gilbert,1,0,0,1
+Prairie,Hickory Plains,Lieutenant Governor,,LIB,Frank Gilbert,5,0,0,5
+Prairie,Lower Hill City,Lieutenant Governor,,LIB,Frank Gilbert,1,0,0,1
+Prairie,Lower Hill Country,Lieutenant Governor,,LIB,Frank Gilbert,3,1,0,2
+Prairie,Roc Roe City,Lieutenant Governor,,LIB,Frank Gilbert,3,0,0,3
+Prairie,Roc Roe Country,Lieutenant Governor,,LIB,Frank Gilbert,2,0,0,2
+Prairie,Upper Hill,Lieutenant Governor,,LIB,Frank Gilbert,1,0,0,1
+Prairie,Union,Lieutenant Governor,,LIB,Frank Gilbert,1,1,0,0
+Prairie,Wattensaw City Ward 1,Lieutenant Governor,,LIB,Frank Gilbert,2,0,0,2
+Prairie,Wattensaw City Ward 2,Lieutenant Governor,,LIB,Frank Gilbert,3,3,0,0
+Prairie,Wattensaw City Ward 3,Lieutenant Governor,,LIB,Frank Gilbert,2,1,0,1
+Prairie,Wattensaw Country,Lieutenant Governor,,LIB,Frank Gilbert,6,3,0,3
+Prairie,White River Ward 1,Lieutenant Governor,,LIB,Frank Gilbert,2,1,0,1
+Prairie,White River Ward 2,Lieutenant Governor,,LIB,Frank Gilbert,3,0,1,2
+Prairie,White River Ward 3,Lieutenant Governor,,LIB,Frank Gilbert,5,2,1,2
+Prairie,White River Country,Lieutenant Governor,,LIB,Frank Gilbert,5,2,0,3
+Prairie,Belcher/Tyler,Secretary of State,,REP,Secretary of State John Thurston,90,9,1,80
+Prairie,Bullard,Secretary of State,,REP,Secretary of State John Thurston,44,12,0,32
+Prairie,Calhoun,Secretary of State,,REP,Secretary of State John Thurston,84,19,1,64
+Prairie,Center,Secretary of State,,REP,Secretary of State John Thurston,137,25,6,106
+Prairie,Des Arc,Secretary of State,,REP,Secretary of State John Thurston,77,16,0,61
+Prairie,Hazen,Secretary of State,,REP,Secretary of State John Thurston,115,45,1,69
+Prairie,Hazen Ward 2,Secretary of State,,REP,Secretary of State John Thurston,127,55,3,69
+Prairie,Hazen Ward 3,Secretary of State,,REP,Secretary of State John Thurston,87,29,1,57
+Prairie,Hazen Country,Secretary of State,,REP,Secretary of State John Thurston,98,43,1,54
+Prairie,Hickory Plains,Secretary of State,,REP,Secretary of State John Thurston,221,40,3,178
+Prairie,Lower Hill City,Secretary of State,,REP,Secretary of State John Thurston,73,36,1,36
+Prairie,Lower Hill Country,Secretary of State,,REP,Secretary of State John Thurston,70,25,1,44
+Prairie,Roc Roe City,Secretary of State,,REP,Secretary of State John Thurston,45,0,0,45
+Prairie,Roc Roe Country,Secretary of State,,REP,Secretary of State John Thurston,75,23,0,52
+Prairie,Upper Hill,Secretary of State,,REP,Secretary of State John Thurston,9,5,0,4
+Prairie,Union,Secretary of State,,REP,Secretary of State John Thurston,30,6,0,24
+Prairie,Wattensaw City Ward 1,Secretary of State,,REP,Secretary of State John Thurston,30,18,0,12
+Prairie,Wattensaw City Ward 2,Secretary of State,,REP,Secretary of State John Thurston,29,18,0,11
+Prairie,Wattensaw City Ward 3,Secretary of State,,REP,Secretary of State John Thurston,27,15,1,11
+Prairie,Wattensaw Country,Secretary of State,,REP,Secretary of State John Thurston,160,100,0,60
+Prairie,White River Ward 1,Secretary of State,,REP,Secretary of State John Thurston,112,60,2,50
+Prairie,White River Ward 2,Secretary of State,,REP,Secretary of State John Thurston,142,62,2,78
+Prairie,White River Ward 3,Secretary of State,,REP,Secretary of State John Thurston,152,69,10,73
+Prairie,White River Country,Secretary of State,,REP,Secretary of State John Thurston,177,79,2,96
+Prairie,Belcher/Tyler,Secretary of State,,DEM,Anna Beth Gorman,10,3,0,7
+Prairie,Bullard,Secretary of State,,DEM,Anna Beth Gorman,7,0,0,7
+Prairie,Calhoun,Secretary of State,,DEM,Anna Beth Gorman,7,4,0,3
+Prairie,Center,Secretary of State,,DEM,Anna Beth Gorman,6,2,0,4
+Prairie,Des Arc,Secretary of State,,DEM,Anna Beth Gorman,9,2,0,7
+Prairie,Hazen,Secretary of State,,DEM,Anna Beth Gorman,30,13,1,16
+Prairie,Hazen Ward 2,Secretary of State,,DEM,Anna Beth Gorman,25,12,0,13
+Prairie,Hazen Ward 3,Secretary of State,,DEM,Anna Beth Gorman,23,6,1,16
+Prairie,Hazen Country,Secretary of State,,DEM,Anna Beth Gorman,19,13,0,6
+Prairie,Hickory Plains,Secretary of State,,DEM,Anna Beth Gorman,22,5,0,17
+Prairie,Lower Hill City,Secretary of State,,DEM,Anna Beth Gorman,36,14,0,22
+Prairie,Lower Hill Country,Secretary of State,,DEM,Anna Beth Gorman,14,6,0,8
+Prairie,Roc Roe City,Secretary of State,,DEM,Anna Beth Gorman,8,0,0,8
+Prairie,Roc Roe Country,Secretary of State,,DEM,Anna Beth Gorman,5,1,0,4
+Prairie,Upper Hill,Secretary of State,,DEM,Anna Beth Gorman,6,4,0,2
+Prairie,Union,Secretary of State,,DEM,Anna Beth Gorman,4,2,0,2
+Prairie,Wattensaw City Ward 1,Secretary of State,,DEM,Anna Beth Gorman,16,7,0,9
+Prairie,Wattensaw City Ward 2,Secretary of State,,DEM,Anna Beth Gorman,22,17,0,5
+Prairie,Wattensaw City Ward 3,Secretary of State,,DEM,Anna Beth Gorman,14,9,3,2
+Prairie,Wattensaw Country,Secretary of State,,DEM,Anna Beth Gorman,29,17,0,12
+Prairie,White River Ward 1,Secretary of State,,DEM,Anna Beth Gorman,40,27,0,13
+Prairie,White River Ward 2,Secretary of State,,DEM,Anna Beth Gorman,30,18,2,10
+Prairie,White River Ward 3,Secretary of State,,DEM,Anna Beth Gorman,22,13,3,6
+Prairie,White River Country,Secretary of State,,DEM,Anna Beth Gorman,25,13,1,11
+Prairie,Belcher/Tyler,State Treasurer,,REP,State Representative Mark Lowery,91,9,1,81
+Prairie,Bullard,State Treasurer,,REP,State Representative Mark Lowery,45,12,0,33
+Prairie,Calhoun,State Treasurer,,REP,State Representative Mark Lowery,84,19,1,64
+Prairie,Center,State Treasurer,,REP,State Representative Mark Lowery,136,25,6,105
+Prairie,Des Arc,State Treasurer,,REP,State Representative Mark Lowery,78,16,0,62
+Prairie,Hazen,State Treasurer,,REP,State Representative Mark Lowery,115,45,1,69
+Prairie,Hazen Ward 2,State Treasurer,,REP,State Representative Mark Lowery,127,55,3,69
+Prairie,Hazen Ward 3,State Treasurer,,REP,State Representative Mark Lowery,83,29,1,53
+Prairie,Hazen Country,State Treasurer,,REP,State Representative Mark Lowery,95,41,0,54
+Prairie,Hickory Plains,State Treasurer,,REP,State Representative Mark Lowery,225,39,3,183
+Prairie,Lower Hill City,State Treasurer,,REP,State Representative Mark Lowery,75,38,1,36
+Prairie,Lower Hill Country,State Treasurer,,REP,State Representative Mark Lowery,70,25,1,44
+Prairie,Roc Roe City,State Treasurer,,REP,State Representative Mark Lowery,45,0,0,45
+Prairie,Roc Roe Country,State Treasurer,,REP,State Representative Mark Lowery,76,23,0,53
+Prairie,Upper Hill,State Treasurer,,REP,State Representative Mark Lowery,10,6,0,4
+Prairie,Union,State Treasurer,,REP,State Representative Mark Lowery,32,6,0,26
+Prairie,Wattensaw City Ward 1,State Treasurer,,REP,State Representative Mark Lowery,30,17,0,13
+Prairie,Wattensaw City Ward 2,State Treasurer,,REP,State Representative Mark Lowery,29,17,0,12
+Prairie,Wattensaw City Ward 3,State Treasurer,,REP,State Representative Mark Lowery,27,15,1,11
+Prairie,Wattensaw Country,State Treasurer,,REP,State Representative Mark Lowery,160,100,0,60
+Prairie,White River Ward 1,State Treasurer,,REP,State Representative Mark Lowery,104,56,2,46
+Prairie,White River Ward 2,State Treasurer,,REP,State Representative Mark Lowery,146,65,2,79
+Prairie,White River Ward 3,State Treasurer,,REP,State Representative Mark Lowery,147,65,10,72
+Prairie,White River Country,State Treasurer,,REP,State Representative Mark Lowery,175,78,2,95
+Prairie,Belcher/Tyler,State Treasurer,,DEM,Pam Whitaker,11,3,0,8
+Prairie,Bullard,State Treasurer,,DEM,Pam Whitaker,6,0,0,6
+Prairie,Calhoun,State Treasurer,,DEM,Pam Whitaker,6,4,0,2
+Prairie,Center,State Treasurer,,DEM,Pam Whitaker,7,2,0,5
+Prairie,Des Arc,State Treasurer,,DEM,Pam Whitaker,9,2,0,7
+Prairie,Hazen,State Treasurer,,DEM,Pam Whitaker,30,13,1,16
+Prairie,Hazen Ward 2,State Treasurer,,DEM,Pam Whitaker,25,12,0,13
+Prairie,Hazen Ward 3,State Treasurer,,DEM,Pam Whitaker,27,7,1,19
+Prairie,Hazen Country,State Treasurer,,DEM,Pam Whitaker,20,14,1,5
+Prairie,Hickory Plains,State Treasurer,,DEM,Pam Whitaker,23,6,0,17
+Prairie,Lower Hill City,State Treasurer,,DEM,Pam Whitaker,34,11,0,23
+Prairie,Lower Hill Country,State Treasurer,,DEM,Pam Whitaker,15,6,0,9
+Prairie,Roc Roe City,State Treasurer,,DEM,Pam Whitaker,8,0,0,8
+Prairie,Roc Roe Country,State Treasurer,,DEM,Pam Whitaker,4,1,0,3
+Prairie,Upper Hill,State Treasurer,,DEM,Pam Whitaker,5,3,0,2
+Prairie,Union,State Treasurer,,DEM,Pam Whitaker,2,2,0,0
+Prairie,Wattensaw City Ward 1,State Treasurer,,DEM,Pam Whitaker,17,8,0,9
+Prairie,Wattensaw City Ward 2,State Treasurer,,DEM,Pam Whitaker,22,17,0,5
+Prairie,Wattensaw City Ward 3,State Treasurer,,DEM,Pam Whitaker,14,9,3,2
+Prairie,Wattensaw Country,State Treasurer,,DEM,Pam Whitaker,29,18,0,11
+Prairie,White River Ward 1,State Treasurer,,DEM,Pam Whitaker,47,29,0,18
+Prairie,White River Ward 2,State Treasurer,,DEM,Pam Whitaker,28,17,2,9
+Prairie,White River Ward 3,State Treasurer,,DEM,Pam Whitaker,28,17,3,8
+Prairie,White River Country,State Treasurer,,DEM,Pam Whitaker,27,15,1,11
+Prairie,Belcher/Tyler,State Senate,10,REP,Senator Ronald Caldwell,93,9,1,83
+Prairie,Bullard,State Senate,10,REP,Senator Ronald Caldwell,41,10,0,31
+Prairie,Calhoun,State Senate,10,REP,Senator Ronald Caldwell,80,19,1,60
+Prairie,Center,State Senate,10,REP,Senator Ronald Caldwell,135,24,6,105
+Prairie,Des Arc,State Senate,10,REP,Senator Ronald Caldwell,77,15,0,62
+Prairie,Hazen,State Senate,10,REP,Senator Ronald Caldwell,111,46,1,64
+Prairie,Hazen Ward 2,State Senate,10,REP,Senator Ronald Caldwell,125,53,3,69
+Prairie,Hazen Ward 3,State Senate,10,REP,Senator Ronald Caldwell,87,29,1,57
+Prairie,Hazen Country,State Senate,10,REP,Senator Ronald Caldwell,97,42,1,54
+Prairie,Hickory Plains,State Senate,10,REP,Senator Ronald Caldwell,220,40,3,177
+Prairie,Lower Hill City,State Senate,10,REP,Senator Ronald Caldwell,75,38,1,36
+Prairie,Lower Hill Country,State Senate,10,REP,Senator Ronald Caldwell,69,24,1,44
+Prairie,Roc Roe City,State Senate,10,REP,Senator Ronald Caldwell,45,0,0,45
+Prairie,Roc Roe Country,State Senate,10,REP,Senator Ronald Caldwell,75,22,0,53
+Prairie,Upper Hill,State Senate,10,REP,Senator Ronald Caldwell,9,5,0,4
+Prairie,Union,State Senate,10,REP,Senator Ronald Caldwell,29,6,0,23
+Prairie,Wattensaw City Ward 1,State Senate,10,REP,Senator Ronald Caldwell,31,18,0,13
+Prairie,Wattensaw City Ward 2,State Senate,10,REP,Senator Ronald Caldwell,25,16,0,9
+Prairie,Wattensaw City Ward 3,State Senate,10,REP,Senator Ronald Caldwell,27,15,1,11
+Prairie,Wattensaw Country,State Senate,10,REP,Senator Ronald Caldwell,161,100,0,61
+Prairie,White River Ward 1,State Senate,10,REP,Senator Ronald Caldwell,102,56,2,44
+Prairie,White River Ward 2,State Senate,10,REP,Senator Ronald Caldwell,140,64,1,75
+Prairie,White River Ward 3,State Senate,10,REP,Senator Ronald Caldwell,150,69,10,71
+Prairie,White River Country,State Senate,10,REP,Senator Ronald Caldwell,179,81,2,96
+Prairie,Belcher/Tyler,State Senate,10,DEM,Cliff Hart,7,3,0,4
+Prairie,Bullard,State Senate,10,DEM,Cliff Hart,8,2,0,6
+Prairie,Calhoun,State Senate,10,DEM,Cliff Hart,11,4,0,7
+Prairie,Center,State Senate,10,DEM,Cliff Hart,6,2,0,4
+Prairie,Des Arc,State Senate,10,DEM,Cliff Hart,8,2,0,6
+Prairie,Hazen,State Senate,10,DEM,Cliff Hart,33,12,1,20
+Prairie,Hazen Ward 2,State Senate,10,DEM,Cliff Hart,28,14,0,14
+Prairie,Hazen Ward 3,State Senate,10,DEM,Cliff Hart,24,7,1,16
+Prairie,Hazen Country,State Senate,10,DEM,Cliff Hart,20,14,0,6
+Prairie,Hickory Plains,State Senate,10,DEM,Cliff Hart,22,5,0,17
+Prairie,Lower Hill City,State Senate,10,DEM,Cliff Hart,35,12,0,23
+Prairie,Lower Hill Country,State Senate,10,DEM,Cliff Hart,15,6,0,9
+Prairie,Roc Roe City,State Senate,10,DEM,Cliff Hart,8,0,0,8
+Prairie,Roc Roe Country,State Senate,10,DEM,Cliff Hart,4,1,0,3
+Prairie,Upper Hill,State Senate,10,DEM,Cliff Hart,6,4,0,2
+Prairie,Union,State Senate,10,DEM,Cliff Hart,2,2,0,0
+Prairie,Wattensaw City Ward 1,State Senate,10,DEM,Cliff Hart,15,7,0,8
+Prairie,Wattensaw City Ward 2,State Senate,10,DEM,Cliff Hart,26,19,0,7
+Prairie,Wattensaw City Ward 3,State Senate,10,DEM,Cliff Hart,14,9,3,2
+Prairie,Wattensaw Country,State Senate,10,DEM,Cliff Hart,28,18,0,10
+Prairie,White River Ward 1,State Senate,10,DEM,Cliff Hart,46,30,0,16
+Prairie,White River Ward 2,State Senate,10,DEM,Cliff Hart,33,18,3,12
+Prairie,White River Ward 3,State Senate,10,DEM,Cliff Hart,24,13,2,9
+Prairie,White River Country,State Senate,10,DEM,Cliff Hart,23,11,1,11
+Prairie,Belcher/Tyler,State House,60,REP,Representative Roger Lynch,96,11,1,84
+Prairie,Bullard,State House,60,REP,Representative Roger Lynch,46,11,0,35
+Prairie,Center,State House,60,REP,Representative Roger Lynch,128,25,6,97
+Prairie,Des Arc,State House,60,REP,Representative Roger Lynch,74,13,0,61
+Prairie,Hazen,State House,60,REP,Representative Roger Lynch,119,52,2,65
+Prairie,Hazen Ward 2,State House,60,REP,Representative Roger Lynch,137,58,3,76
+Prairie,Hazen Ward 3,State House,60,REP,Representative Roger Lynch,95,32,1,62
+Prairie,Hazen Country,State House,60,REP,Representative Roger Lynch,101,48,1,52
+Prairie,Hickory Plains,State House,60,REP,Representative Roger Lynch,217,39,3,175
+Prairie,Union,State House,60,REP,Representative Roger Lynch,31,7,0,24
+Prairie,Wattensaw Country,State House,60,REP,Representative Roger Lynch,22,11,0,11
+Prairie,White River Ward 1,State House,60,REP,Representative Roger Lynch,104,55,2,47
+Prairie,White River Ward 2,State House,60,REP,Representative Roger Lynch,135,64,2,69
+Prairie,White River Ward 3,State House,60,REP,Representative Roger Lynch,149,65,10,74
+Prairie,White River Country,State House,60,REP,Representative Roger Lynch,180,80,3,97
+Prairie,Calhoun,State House,61,REP,Jeremiah Moore,83,19,1,63
+Prairie,Lower Hill City,State House,61,REP,Jeremiah Moore,73,36,1,36
+Prairie,Lower Hill Country,State House,61,REP,Jeremiah Moore,72,25,1,46
+Prairie,Roc Roe City,State House,61,REP,Jeremiah Moore,37,0,0,37
+Prairie,Roc Roe Country,State House,61,REP,Jeremiah Moore,73,24,0,49
+Prairie,Upper Hill,State House,61,REP,Jeremiah Moore,8,4,0,4
+Prairie,Wattensaw City Ward 1,State House,61,REP,Jeremiah Moore,31,18,0,13
+Prairie,Wattensaw City Ward 2,State House,61,REP,Jeremiah Moore,27,17,0,10
+Prairie,Wattensaw City Ward 3,State House,61,REP,Jeremiah Moore,26,14,1,11
+Prairie,Wattensaw Country,State House,61,REP,Jeremiah Moore,141,90,0,51
+Prairie,Calhoun,State House,61,DEM,Bruce Martin,8,4,0,4
+Prairie,Lower Hill City,State House,61,DEM,Bruce Martin,31,11,0,20
+Prairie,Lower Hill Country,State House,61,DEM,Bruce Martin,12,5,0,7
+Prairie,Roc Roe City,State House,61,DEM,Bruce Martin,8,0,0,8
+Prairie,Roc Roe Country,State House,61,DEM,Bruce Martin,3,0,0,3
+Prairie,Upper Hill,State House,61,DEM,Bruce Martin,6,5,0,1
+Prairie,Wattensaw City Ward 1,State House,61,DEM,Bruce Martin,15,7,0,8
+Prairie,Wattensaw City Ward 2,State House,61,DEM,Bruce Martin,22,17,0,5
+Prairie,Wattensaw City Ward 3,State House,61,DEM,Bruce Martin,14,9,3,2
+Prairie,Wattensaw Country,State House,61,DEM,Bruce Martin,19,14,0,5
+Prairie,Calhoun,State House,61,LIB,Garrett Sheeks,1,0,0,1
+Prairie,Lower Hill City,State House,61,LIB,Garrett Sheeks,3,2,0,1
+Prairie,Lower Hill Country,State House,61,LIB,Garrett Sheeks,0,0,0,0
+Prairie,Roc Roe City,State House,61,LIB,Garrett Sheeks,8,0,0,8
+Prairie,Roc Roe Country,State House,61,LIB,Garrett Sheeks,4,0,0,4
+Prairie,Upper Hill,State House,61,LIB,Garrett Sheeks,1,0,0,1
+Prairie,Wattensaw City Ward 1,State House,61,LIB,Garrett Sheeks,1,0,0,1
+Prairie,Wattensaw City Ward 2,State House,61,LIB,Garrett Sheeks,1,0,0,1
+Prairie,Wattensaw City Ward 3,State House,61,LIB,Garrett Sheeks,1,1,0,0
+Prairie,Wattensaw Country,State House,61,LIB,Garrett Sheeks,3,2,0,1
+Prairie,Belcher/Tyler,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,50,5,0,45
+Prairie,Bullard,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,28,8,0,20
+Prairie,Calhoun,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,46,14,0,32
+Prairie,Center,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,77,17,3,57
+Prairie,Des Arc,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,41,8,0,33
+Prairie,Hazen,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,73,33,2,38
+Prairie,Hazen Ward 2,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,92,43,2,47
+Prairie,Hazen Ward 3,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,69,26,2,41
+Prairie,Hazen Country,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,53,24,1,28
+Prairie,Hickory Plains,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,117,28,1,88
+Prairie,Lower Hill City,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,50,22,0,28
+Prairie,Lower Hill Country,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,54,19,0,35
+Prairie,Roc Roe City,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,33,0,0,33
+Prairie,Roc Roe Country,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,38,12,0,26
+Prairie,Upper Hill,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,6,5,0,1
+Prairie,Union,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,19,5,0,14
+Prairie,Wattensaw City Ward 1,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,19,9,0,10
+Prairie,Wattensaw City Ward 2,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,27,16,0,11
+Prairie,Wattensaw City Ward 3,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,24,14,4,6
+Prairie,Wattensaw Country,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,90,65,0,25
+Prairie,White River Ward 1,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,73,35,2,36
+Prairie,White River Ward 2,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,101,47,2,52
+Prairie,White River Ward 3,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,110,55,7,48
+Prairie,White River Country,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,114,52,2,60
+Prairie,Belcher/Tyler,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,43,7,1,35
+Prairie,Bullard,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,18,4,0,14
+Prairie,Calhoun,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,32,4,1,27
+Prairie,Center,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,56,9,0,47
+Prairie,Des Arc,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,33,7,0,26
+Prairie,Hazen,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,51,22,0,29
+Prairie,Hazen Ward 2,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,53,21,0,32
+Prairie,Hazen Ward 3,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,34,9,0,25
+Prairie,Hazen Country,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,52,26,0,26
+Prairie,Hickory Plains,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,96,16,1,79
+Prairie,Lower Hill City,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,50,24,1,25
+Prairie,Lower Hill Country,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,26,12,1,13
+Prairie,Roc Roe City,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,19,0,0,19
+Prairie,Roc Roe Country,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,39,10,0,29
+Prairie,Upper Hill,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,9,4,0,5
+Prairie,Union,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,15,3,0,12
+Prairie,Wattensaw City Ward 1,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,25,14,0,11
+Prairie,Wattensaw City Ward 2,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,20,15,0,5
+Prairie,Wattensaw City Ward 3,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,15,8,0,7
+Prairie,Wattensaw Country,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,92,49,0,43
+Prairie,White River Ward 1,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,52,35,0,17
+Prairie,White River Ward 2,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,49,22,0,27
+Prairie,White River Ward 3,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,48,18,4,26
+Prairie,White River Country,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,69,32,0,37
+Prairie,Belcher/Tyler,County Judge,,REP,REP Lawrence Holloway,81,9,1,71
+Prairie,Bullard,County Judge,,REP,REP Lawrence Holloway,28,6,0,22
+Prairie,Calhoun,County Judge,,REP,REP Lawrence Holloway,66,19,1,46
+Prairie,Center,County Judge,,REP,REP Lawrence Holloway,133,25,6,102
+Prairie,Des Arc,County Judge,,REP,REP Lawrence Holloway,61,13,0,48
+Prairie,Hazen,County Judge,,REP,REP Lawrence Holloway,108,40,1,67
+Prairie,Hazen Ward 2,County Judge,,REP,REP Lawrence Holloway,113,46,3,64
+Prairie,Hazen Ward 3,County Judge,,REP,REP Lawrence Holloway,78,24,2,52
+Prairie,Hazen Country,County Judge,,REP,REP Lawrence Holloway,81,35,0,46
+Prairie,Hickory Plains,County Judge,,REP,REP Lawrence Holloway,203,33,3,167
+Prairie,Lower Hill City,County Judge,,REP,REP Lawrence Holloway,71,36,1,34
+Prairie,Lower Hill Country,County Judge,,REP,REP Lawrence Holloway,65,23,1,41
+Prairie,Roc Roe City,County Judge,,REP,REP Lawrence Holloway,46,0,0,46
+Prairie,Roc Roe Country,County Judge,,REP,REP Lawrence Holloway,68,17,0,51
+Prairie,Upper Hill,County Judge,,REP,REP Lawrence Holloway,7,3,0,4
+Prairie,Union,County Judge,,REP,REP Lawrence Holloway,31,6,0,25
+Prairie,Wattensaw City Ward 1,County Judge,,REP,REP Lawrence Holloway,27,17,0,10
+Prairie,Wattensaw City Ward 2,County Judge,,REP,REP Lawrence Holloway,34,22,0,12
+Prairie,Wattensaw City Ward 3,County Judge,,REP,REP Lawrence Holloway,25,16,1,8
+Prairie,Wattensaw Country,County Judge,,REP,REP Lawrence Holloway,138,95,0,43
+Prairie,White River Ward 1,County Judge,,REP,REP Lawrence Holloway,78,44,1,33
+Prairie,White River Ward 2,County Judge,,REP,REP Lawrence Holloway,110,58,3,49
+Prairie,White River Ward 3,County Judge,,REP,REP Lawrence Holloway,95,44,7,44
+Prairie,White River Country,County Judge,,REP,REP Lawrence Holloway,123,59,1,63
+Prairie,Belcher/Tyler,County Judge,,IND,IND Dewayne Lee Chappell,20,2,0,18
+Prairie,Bullard,County Judge,,IND,IND Dewayne Lee Chappell,24,6,0,18
+Prairie,Calhoun,County Judge,,IND,IND Dewayne Lee Chappell,26,4,0,22
+Prairie,Center,County Judge,,IND,IND Dewayne Lee Chappell,11,2,0,9
+Prairie,Des Arc,County Judge,,IND,IND Dewayne Lee Chappell,25,4,0,21
+Prairie,Hazen,County Judge,,IND,IND Dewayne Lee Chappell,34,17,1,16
+Prairie,Hazen Ward 2,County Judge,,IND,IND Dewayne Lee Chappell,39,21,0,18
+Prairie,Hazen Ward 3,County Judge,,IND,IND Dewayne Lee Chappell,30,12,0,18
+Prairie,Hazen Country,County Judge,,IND,IND Dewayne Lee Chappell,37,21,1,15
+Prairie,Hickory Plains,County Judge,,IND,IND Dewayne Lee Chappell,42,13,0,29
+Prairie,Lower Hill City,County Judge,,IND,IND Dewayne Lee Chappell,35,13,0,22
+Prairie,Lower Hill Country,County Judge,,IND,IND Dewayne Lee Chappell,19,8,0,11
+Prairie,Roc Roe City,County Judge,,IND,IND Dewayne Lee Chappell,7,0,0,7
+Prairie,Roc Roe Country,County Judge,,IND,IND Dewayne Lee Chappell,12,7,0,5
+Prairie,Upper Hill,County Judge,,IND,IND Dewayne Lee Chappell,8,6,0,2
+Prairie,Union,County Judge,,IND,IND Dewayne Lee Chappell,3,2,0,1
+Prairie,Wattensaw City Ward 1,County Judge,,IND,IND Dewayne Lee Chappell,19,7,0,12
+Prairie,Wattensaw City Ward 2,County Judge,,IND,IND Dewayne Lee Chappell,16,11,0,5
+Prairie,Wattensaw City Ward 3,County Judge,,IND,IND Dewayne Lee Chappell,13,5,3,5
+Prairie,Wattensaw Country,County Judge,,IND,IND Dewayne Lee Chappell,49,22,0,27
+Prairie,White River Ward 1,County Judge,,IND,IND Dewayne Lee Chappell,73,42,1,30
+Prairie,White River Ward 2,County Judge,,IND,IND Dewayne Lee Chappell,62,23,1,38
+Prairie,White River Ward 3,County Judge,,IND,IND Dewayne Lee Chappell,78,35,6,37
+Prairie,White River Country,County Judge,,IND,IND Dewayne Lee Chappell,82,35,2,45
+Prairie,Belcher/Tyler,Circuit & County Clerk,,REP,REP Gaylon Hale,95,10,1,84
+Prairie,Bullard,Circuit & County Clerk,,REP,REP Gaylon Hale,51,11,0,40
+Prairie,Calhoun,Circuit & County Clerk,,REP,REP Gaylon Hale,82,20,1,61
+Prairie,Center,Circuit & County Clerk,,REP,REP Gaylon Hale,139,25,6,108
+Prairie,Des Arc,Circuit & County Clerk,,REP,REP Gaylon Hale,80,16,0,64
+Prairie,Hazen,Circuit & County Clerk,,REP,REP Gaylon Hale,140,57,2,81
+Prairie,Hazen Ward 2,Circuit & County Clerk,,REP,REP Gaylon Hale,149,66,3,80
+Prairie,Hazen Ward 3,Circuit & County Clerk,,REP,REP Gaylon Hale,108,35,2,71
+Prairie,Hazen Country,Circuit & County Clerk,,REP,REP Gaylon Hale,107,49,1,57
+Prairie,Hickory Plains,Circuit & County Clerk,,REP,REP Gaylon Hale,232,42,3,187
+Prairie,Lower Hill City,Circuit & County Clerk,,REP,REP Gaylon Hale,103,50,1,52
+Prairie,Lower Hill Country,Circuit & County Clerk,,REP,REP Gaylon Hale,81,30,1,50
+Prairie,Roc Roe City,Circuit & County Clerk,,REP,REP Gaylon Hale,52,0,0,52
+Prairie,Roc Roe Country,Circuit & County Clerk,,REP,REP Gaylon Hale,77,23,0,54
+Prairie,Upper Hill,Circuit & County Clerk,,REP,REP Gaylon Hale,13,7,0,6
+Prairie,Union,Circuit & County Clerk,,REP,REP Gaylon Hale,32,7,0,25
+Prairie,Wattensaw City Ward 1,Circuit & County Clerk,,REP,REP Gaylon Hale,46,24,0,22
+Prairie,Wattensaw City Ward 2,Circuit & County Clerk,,REP,REP Gaylon Hale,46,34,0,12
+Prairie,Wattensaw City Ward 3,Circuit & County Clerk,,REP,REP Gaylon Hale,40,24,4,12
+Prairie,Wattensaw Country,Circuit & County Clerk,,REP,REP Gaylon Hale,183,113,0,70
+Prairie,White River Ward 1,Circuit & County Clerk,,REP,REP Gaylon Hale,135,77,2,56
+Prairie,White River Ward 2,Circuit & County Clerk,,REP,REP Gaylon Hale,163,78,4,81
+Prairie,White River Ward 3,Circuit & County Clerk,,REP,REP Gaylon Hale,165,81,11,73
+Prairie,White River Country,Circuit & County Clerk,,REP,REP Gaylon Hale,202,95,3,104
+Prairie,White River Ward 1,Justice of the Peace District 3 District 3,,REP,REP Ronald Eans,61,33,0,28
+Prairie,White River Ward 2,Justice of the Peace District 3 District 3,,REP,REP Ronald Eans,48,22,0,26
+Prairie,White River Ward 3,Justice of the Peace District 3 District 3,,REP,REP Ronald Eans,20,14,0,6
+Prairie,White River Ward 1,Justice of the Peace District 3 District 3,,DEM,DEM Judy Hinson,84,50,2,32
+Prairie,White River Ward 2,Justice of the Peace District 3 District 3,,DEM,DEM Judy Hinson,45,25,3,17
+Prairie,White River Ward 3,Justice of the Peace District 3 District 3,,DEM,DEM Judy Hinson,15,9,0,6
+Prairie,Lower Hill City,Town of Biscoe Mayor Biscoe,,IND,IND Freddie Kent Smith,104,50,1,53
+Prairie,White River Ward 1,City of Des Arc Mayor Des Arc,,IND,IND Anna Beth Fisher,47,23,0,24
+Prairie,White River Ward 2,City of Des Arc Mayor Des Arc,,IND,IND Anna Beth Fisher,51,24,2,25
+Prairie,White River Ward 3,City of Des Arc Mayor Des Arc,,IND,IND Anna Beth Fisher,59,29,4,26
+Prairie,White River Ward 1,City of Des Arc Mayor Des Arc,,IND,IND Roger Scott,84,51,1,32
+Prairie,White River Ward 2,City of Des Arc Mayor Des Arc,,IND,IND Roger Scott,81,40,1,40
+Prairie,White River Ward 3,City of Des Arc Mayor Des Arc,,IND,IND Roger Scott,89,42,5,42
+Prairie,White River Ward 1,City of Des Arc Mayor Des Arc,,IND,IND Gary Burnett,25,17,1,7
+Prairie,White River Ward 2,City of Des Arc Mayor Des Arc,,IND,IND Gary Burnett,44,20,1,23
+Prairie,White River Ward 3,City of Des Arc Mayor Des Arc,,IND,IND Gary Burnett,27,11,4,12
+Prairie,White River Ward 1,Des Arc Council Member Ward 1 Pos. 1 Des Arc,,IND,"IND Ray V. McVay, Sr.",25,9,0,16
+Prairie,White River Ward 2,Des Arc Council Member Ward 1 Pos. 1 Des Arc,,IND,"IND Ray V. McVay, Sr.",25,11,1,13
+Prairie,White River Ward 3,Des Arc Council Member Ward 1 Pos. 1 Des Arc,,IND,"IND Ray V. McVay, Sr.",24,9,6,9
+Prairie,White River Ward 1,Des Arc Council Member Ward 1 Pos. 1 Des Arc,,IND,IND Keith Knupp,123,74,2,47
+Prairie,White River Ward 2,Des Arc Council Member Ward 1 Pos. 1 Des Arc,,IND,IND Keith Knupp,146,69,3,74
+Prairie,White River Ward 3,Des Arc Council Member Ward 1 Pos. 1 Des Arc,,IND,IND Keith Knupp,148,70,7,71
+Prairie,Wattensaw City Ward 1,City of DeValls Bluff Mayor DeValls Bluff,,IND,IND Thelma Gray,39,22,0,17
+Prairie,Wattensaw City Ward 2,City of DeValls Bluff Mayor DeValls Bluff,,IND,IND Thelma Gray,37,29,0,8
+Prairie,Wattensaw City Ward 3,City of DeValls Bluff Mayor DeValls Bluff,,IND,IND Thelma Gray,36,20,4,12
+Prairie,Wattensaw City Ward 1,DeValls Bluff Member Ward 1 Pos. 1 DeValls Bluff,,IND,IND Pam Del Giorno,26,15,0,11
+Prairie,Wattensaw City Ward 2,DeValls Bluff Member Ward 1 Pos. 1 DeValls Bluff,,IND,IND Pam Del Giorno,24,15,0,9
+Prairie,Wattensaw City Ward 3,DeValls Bluff Member Ward 1 Pos. 1 DeValls Bluff,,IND,IND Pam Del Giorno,26,17,1,8
+Prairie,Wattensaw City Ward 1,DeValls Bluff Member Ward 1 Pos. 1 DeValls Bluff,,IND,IND Raymond Watson,21,10,0,11
+Prairie,Wattensaw City Ward 2,DeValls Bluff Member Ward 1 Pos. 1 DeValls Bluff,,IND,IND Raymond Watson,27,19,0,8
+Prairie,Wattensaw City Ward 3,DeValls Bluff Member Ward 1 Pos. 1 DeValls Bluff,,IND,IND Raymond Watson,13,6,3,4
+Prairie,Wattensaw City Ward 1,DeValls Bluff Member Ward 3 Pos. 2 DeValls Bluff,,IND,IND Mary Sharp,16,8,0,8
+Prairie,Wattensaw City Ward 2,DeValls Bluff Member Ward 3 Pos. 2 DeValls Bluff,,IND,IND Mary Sharp,5,5,0,0
+Prairie,Wattensaw City Ward 3,DeValls Bluff Member Ward 3 Pos. 2 DeValls Bluff,,IND,IND Mary Sharp,13,8,0,5
+Prairie,Wattensaw City Ward 1,DeValls Bluff Member Ward 3 Pos. 2 DeValls Bluff,,IND,IND Marie Flanagan,28,14,0,14
+Prairie,Wattensaw City Ward 2,DeValls Bluff Member Ward 3 Pos. 2 DeValls Bluff,,IND,IND Marie Flanagan,45,28,0,17
+Prairie,Wattensaw City Ward 3,DeValls Bluff Member Ward 3 Pos. 2 DeValls Bluff,,IND,IND Marie Flanagan,25,14,4,7
+Prairie,Hazen,City of Hazen Mayor Hazen,,IND,IND David Hardke,142,56,2,84
+Prairie,Hazen Ward 2,City of Hazen Mayor Hazen,,IND,IND David Hardke,146,65,3,78
+Prairie,Hazen Ward 3,City of Hazen Mayor Hazen,,IND,IND David Hardke,107,36,2,69
+Prairie,Roc Roe City,Town of Ulm Mayor Ulm,,IND,IND Dennis Doepel,53,0,0,53
+Prairie,Belcher/Tyler,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,23,2,1,20
+Prairie,Bullard,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,9,3,0,6
+Prairie,Calhoun,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,30,9,1,20
+Prairie,Center,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,38,6,3,29
+Prairie,Des Arc,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,22,2,0,20
+Prairie,Hazen,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,54,18,1,35
+Prairie,Hazen Ward 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,46,19,2,25
+Prairie,Hazen Ward 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,30,11,1,18
+Prairie,Hazen Country,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,35,21,0,14
+Prairie,Hickory Plains,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,83,20,2,61
+Prairie,Lower Hill City,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,32,17,1,14
+Prairie,Lower Hill Country,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,23,11,1,11
+Prairie,Roc Roe City,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,17,0,0,17
+Prairie,Roc Roe Country,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,21,5,0,16
+Prairie,Upper Hill,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,3,2,0,1
+Prairie,Union,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,5,2,0,3
+Prairie,Wattensaw City Ward 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,13,7,0,6
+Prairie,Wattensaw City Ward 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,15,11,0,4
+Prairie,Wattensaw City Ward 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,9,5,1,3
+Prairie,Wattensaw Country,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,36,20,0,16
+Prairie,White River Ward 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,46,20,2,24
+Prairie,White River Ward 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,41,16,0,25
+Prairie,White River Ward 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,54,28,7,19
+Prairie,White River Country,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,57,21,2,34
+Prairie,Belcher/Tyler,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,73,10,0,63
+Prairie,Bullard,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,40,8,0,32
+Prairie,Calhoun,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,62,14,0,48
+Prairie,Center,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,100,20,0,80
+Prairie,Des Arc,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,60,14,0,46
+Prairie,Hazen,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,90,38,1,51
+Prairie,Hazen Ward 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,102,45,1,56
+Prairie,Hazen Ward 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,76,25,1,50
+Prairie,Hazen Country,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,82,35,1,46
+Prairie,Hickory Plains,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,160,26,0,134
+Prairie,Lower Hill City,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,75,31,0,44
+Prairie,Lower Hill Country,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,63,20,0,43
+Prairie,Roc Roe City,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,36,0,0,36
+Prairie,Roc Roe Country,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,55,17,0,38
+Prairie,Upper Hill,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,10,6,0,4
+Prairie,Union,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,29,6,0,23
+Prairie,Wattensaw City Ward 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,31,16,0,15
+Prairie,Wattensaw City Ward 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,34,22,0,12
+Prairie,Wattensaw City Ward 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,30,17,3,10
+Prairie,Wattensaw Country,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,150,96,0,54
+Prairie,White River Ward 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,87,55,0,32
+Prairie,White River Ward 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,124,62,4,58
+Prairie,White River Ward 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,111,47,4,60
+Prairie,White River Country,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,145,71,1,73
+Prairie,Belcher/Tyler,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,44,2,1,41
+Prairie,Bullard,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,26,8,0,18
+Prairie,Calhoun,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,26,7,1,18
+Prairie,Center,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,60,13,2,45
+Prairie,Des Arc,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,36,9,0,27
+Prairie,Hazen,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,57,23,1,33
+Prairie,Hazen Ward 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,52,21,1,30
+Prairie,Hazen Ward 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,50,17,2,31
+Prairie,Hazen Country,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,49,24,1,24
+Prairie,Hickory Plains,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,120,24,2,94
+Prairie,Lower Hill City,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,45,21,1,23
+Prairie,Lower Hill Country,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,30,13,1,16
+Prairie,Roc Roe City,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,21,0,0,21
+Prairie,Roc Roe Country,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,28,6,0,22
+Prairie,Upper Hill,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,1,0,0,1
+Prairie,Union,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,8,1,0,7
+Prairie,Wattensaw City Ward 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,15,9,0,6
+Prairie,Wattensaw City Ward 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,20,11,0,9
+Prairie,Wattensaw City Ward 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,13,10,1,2
+Prairie,Wattensaw Country,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,70,44,0,26
+Prairie,White River Ward 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,56,22,2,32
+Prairie,White River Ward 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,68,36,3,29
+Prairie,White River Ward 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,73,38,8,27
+Prairie,White River Country,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,105,46,2,57
+Prairie,Belcher/Tyler,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,55,10,0,45
+Prairie,Bullard,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,23,3,0,20
+Prairie,Calhoun,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,66,15,0,51
+Prairie,Center,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,79,13,1,65
+Prairie,Des Arc,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,48,7,0,41
+Prairie,Hazen,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,87,33,1,53
+Prairie,Hazen Ward 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,100,45,2,53
+Prairie,Hazen Ward 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,59,18,0,41
+Prairie,Hazen Country,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,68,32,0,36
+Prairie,Hickory Plains,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,125,22,0,103
+Prairie,Lower Hill City,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,63,27,0,36
+Prairie,Lower Hill Country,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,54,17,0,37
+Prairie,Roc Roe City,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,32,0,0,32
+Prairie,Roc Roe Country,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,48,17,0,31
+Prairie,Upper Hill,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,13,8,0,5
+Prairie,Union,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,26,7,0,19
+Prairie,Wattensaw City Ward 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,29,14,0,15
+Prairie,Wattensaw City Ward 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,31,24,0,7
+Prairie,Wattensaw City Ward 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,26,12,3,11
+Prairie,Wattensaw Country,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,117,72,0,45
+Prairie,White River Ward 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,81,53,0,28
+Prairie,White River Ward 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,101,43,1,57
+Prairie,White River Ward 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,94,39,3,52
+Prairie,White River Country,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,100,49,1,50
+Prairie,Belcher/Tyler,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,39,3,0,36
+Prairie,Bullard,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,26,7,0,19
+Prairie,Calhoun,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,35,10,1,24
+Prairie,Center,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,67,16,5,46
+Prairie,Des Arc,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,42,6,0,36
+Prairie,Hazen,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,67,28,1,38
+Prairie,Hazen Ward 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,62,29,2,31
+Prairie,Hazen Ward 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,43,16,1,26
+Prairie,Hazen Country,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,53,27,1,25
+Prairie,Hickory Plains,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,135,29,3,103
+Prairie,Lower Hill City,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,55,28,0,27
+Prairie,Lower Hill Country,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,37,20,0,17
+Prairie,Roc Roe City,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,32,0,0,32
+Prairie,Roc Roe Country,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,39,8,0,31
+Prairie,Upper Hill,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,4,2,0,2
+Prairie,Union,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,13,3,0,10
+Prairie,Wattensaw City Ward 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,19,13,0,6
+Prairie,Wattensaw City Ward 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,31,18,0,13
+Prairie,Wattensaw City Ward 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,22,12,4,6
+Prairie,Wattensaw Country,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,75,44,0,31
+Prairie,White River Ward 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,78,39,2,37
+Prairie,White River Ward 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,83,36,2,45
+Prairie,White River Ward 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,90,34,8,48
+Prairie,White River Country,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,118,61,1,56
+Prairie,Belcher/Tyler,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,61,9,0,52
+Prairie,Bullard,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,23,4,0,19
+Prairie,Calhoun,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,57,13,0,44
+Prairie,Center,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,76,10,1,65
+Prairie,Des Arc,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,42,10,0,32
+Prairie,Hazen,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,77,29,1,47
+Prairie,Hazen Ward 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,89,36,1,52
+Prairie,Hazen Ward 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,65,20,1,44
+Prairie,Hazen Country,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,64,29,0,35
+Prairie,Hickory Plains,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,111,17,0,94
+Prairie,Lower Hill City,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,54,21,1,32
+Prairie,Lower Hill Country,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,47,11,1,35
+Prairie,Roc Roe City,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,20,0,0,20
+Prairie,Roc Roe Country,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,39,15,0,24
+Prairie,Upper Hill,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,10,6,0,4
+Prairie,Union,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,21,5,0,16
+Prairie,Wattensaw City Ward 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,26,12,0,14
+Prairie,Wattensaw City Ward 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,19,15,0,4
+Prairie,Wattensaw City Ward 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,17,10,0,7
+Prairie,Wattensaw Country,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,111,73,0,38
+Prairie,White River Ward 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,55,35,0,20
+Prairie,White River Ward 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,85,42,2,41
+Prairie,White River Ward 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,75,39,4,32
+Prairie,White River Country,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,86,34,1,51
+Prairie,Belcher/Tyler,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,23,6,0,17
+Prairie,Bullard,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,22,5,0,17
+Prairie,Calhoun,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,30,9,0,21
+Prairie,Center,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,38,5,0,33
+Prairie,Des Arc,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,21,3,0,18
+Prairie,Hazen,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,39,15,1,23
+Prairie,Hazen Ward 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,53,18,3,32
+Prairie,Hazen Ward 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,27,4,1,22
+Prairie,Hazen Country,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,32,17,0,15
+Prairie,Hickory Plains,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,72,21,0,51
+Prairie,Lower Hill City,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,43,12,1,30
+Prairie,Lower Hill Country,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,26,10,0,16
+Prairie,Roc Roe City,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,19,0,0,19
+Prairie,Roc Roe Country,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,31,9,0,22
+Prairie,Upper Hill,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,7,6,0,1
+Prairie,Union,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,11,4,0,7
+Prairie,Wattensaw City Ward 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,16,6,0,10
+Prairie,Wattensaw City Ward 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,16,10,0,6
+Prairie,Wattensaw City Ward 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,19,8,4,7
+Prairie,Wattensaw Country,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,59,28,0,31
+Prairie,White River Ward 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,65,34,1,30
+Prairie,White River Ward 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,62,32,1,29
+Prairie,White River Ward 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,55,21,6,28
+Prairie,White River Country,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,60,19,2,39
+Prairie,Belcher/Tyler,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,78,6,1,71
+Prairie,Bullard,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,29,7,0,22
+Prairie,Calhoun,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,63,14,1,48
+Prairie,Center,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,106,22,6,78
+Prairie,Des Arc,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,65,15,0,50
+Prairie,Hazen,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,110,43,1,66
+Prairie,Hazen Ward 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,99,49,0,50
+Prairie,Hazen Ward 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,82,30,1,51
+Prairie,Hazen Country,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,86,39,1,46
+Prairie,Hickory Plains,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,178,26,3,149
+Prairie,Lower Hill City,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,67,38,0,29
+Prairie,Lower Hill Country,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,58,20,1,37
+Prairie,Roc Roe City,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,34,0,0,34
+Prairie,Roc Roe Country,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,48,14,0,34
+Prairie,Upper Hill,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,8,3,0,5
+Prairie,Union,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,23,4,0,19
+Prairie,Wattensaw City Ward 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,31,19,0,12
+Prairie,Wattensaw City Ward 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,35,24,0,11
+Prairie,Wattensaw City Ward 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,21,15,0,6
+Prairie,Wattensaw Country,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,132,91,0,41
+Prairie,White River Ward 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,85,51,1,33
+Prairie,White River Ward 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,114,52,3,59
+Prairie,White River Ward 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,118,58,6,54
+Prairie,White River Country,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,148,77,1,70

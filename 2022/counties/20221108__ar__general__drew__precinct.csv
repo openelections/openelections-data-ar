@@ -1,0 +1,722 @@
+county,precinct,office,district,party,candidate,votes,early_vote,absentee,election_day
+Drew,Ward 1,U.S. Senate,,REP,Senator John Boozman,270,175,3,92
+Drew,Ward 2,U.S. Senate,,REP,Senator John Boozman,467,297,13,157
+Drew,Ward 3,U.S. Senate,,REP,Senator John Boozman,240,141,9,90
+Drew,Ward 4,U.S. Senate,,REP,Senator John Boozman,288,203,13,72
+Drew,Collins,U.S. Senate,,REP,Senator John Boozman,62,41,3,18
+Drew,Enon,U.S. Senate,,REP,Senator John Boozman,106,69,8,29
+Drew,Jerome,U.S. Senate,,REP,Senator John Boozman,9,6,0,3
+Drew,Lacey,U.S. Senate,,REP,Senator John Boozman,184,115,1,68
+Drew,Mar N Box 1,U.S. Senate,,REP,Senator John Boozman,482,328,7,147
+Drew,Mar N Box 2,U.S. Senate,,REP,Senator John Boozman,270,159,2,109
+Drew,Marion South,U.S. Senate,,REP,Senator John Boozman,394,201,1,192
+Drew,Ozment,U.S. Senate,,REP,Senator John Boozman,101,37,2,62
+Drew,Plantersville,U.S. Senate,,REP,Senator John Boozman,156,92,2,62
+Drew,Selma,U.S. Senate,,REP,Senator John Boozman,166,92,1,73
+Drew,Tillar,U.S. Senate,,REP,Senator John Boozman,39,7,0,32
+Drew,Wilmar,U.S. Senate,,REP,Senator John Boozman,267,156,3,108
+Drew,Winchester,U.S. Senate,,REP,Senator John Boozman,24,8,0,16
+Drew,Ward 1,U.S. Senate,,DEM,Natalie James,303,190,3,110
+Drew,Ward 2,U.S. Senate,,DEM,Natalie James,180,123,8,49
+Drew,Ward 3,U.S. Senate,,DEM,Natalie James,229,158,7,64
+Drew,Ward 4,U.S. Senate,,DEM,Natalie James,193,125,3,65
+Drew,Collins,U.S. Senate,,DEM,Natalie James,14,10,3,1
+Drew,Enon,U.S. Senate,,DEM,Natalie James,12,5,1,6
+Drew,Jerome,U.S. Senate,,DEM,Natalie James,2,2,0,0
+Drew,Lacey,U.S. Senate,,DEM,Natalie James,36,17,4,15
+Drew,Mar N Box 1,U.S. Senate,,DEM,Natalie James,161,111,7,43
+Drew,Mar N Box 2,U.S. Senate,,DEM,Natalie James,66,47,2,17
+Drew,Marion South,U.S. Senate,,DEM,Natalie James,84,53,1,30
+Drew,Ozment,U.S. Senate,,DEM,Natalie James,15,10,0,5
+Drew,Plantersville,U.S. Senate,,DEM,Natalie James,29,22,1,6
+Drew,Selma,U.S. Senate,,DEM,Natalie James,67,39,4,24
+Drew,Tillar,U.S. Senate,,DEM,Natalie James,12,5,0,7
+Drew,Wilmar,U.S. Senate,,DEM,Natalie James,158,49,4,105
+Drew,Winchester,U.S. Senate,,DEM,Natalie James,71,35,0,36
+Drew,Ward 1,U.S. Senate,,LIB,Kenneth Cates,7,4,0,3
+Drew,Ward 2,U.S. Senate,,LIB,Kenneth Cates,14,9,1,4
+Drew,Ward 3,U.S. Senate,,LIB,Kenneth Cates,22,11,0,11
+Drew,Ward 4,U.S. Senate,,LIB,Kenneth Cates,13,7,0,6
+Drew,Collins,U.S. Senate,,LIB,Kenneth Cates,2,2,0,0
+Drew,Enon,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0
+Drew,Jerome,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0
+Drew,Lacey,U.S. Senate,,LIB,Kenneth Cates,2,2,0,0
+Drew,Mar N Box 1,U.S. Senate,,LIB,Kenneth Cates,7,3,0,4
+Drew,Mar N Box 2,U.S. Senate,,LIB,Kenneth Cates,4,3,0,1
+Drew,Marion South,U.S. Senate,,LIB,Kenneth Cates,8,5,0,3
+Drew,Ozment,U.S. Senate,,LIB,Kenneth Cates,2,1,0,1
+Drew,Plantersville,U.S. Senate,,LIB,Kenneth Cates,1,0,0,1
+Drew,Selma,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0
+Drew,Tillar,U.S. Senate,,LIB,Kenneth Cates,1,0,0,1
+Drew,Wilmar,U.S. Senate,,LIB,Kenneth Cates,5,4,0,1
+Drew,Winchester,U.S. Senate,,LIB,Kenneth Cates,1,0,0,1
+Drew,Ward 1,U.S. Congress District 04,,DEM,John White,290,187,3,100
+Drew,Ward 2,U.S. Congress District 04,,DEM,John White,175,120,8,47
+Drew,Ward 3,U.S. Congress District 04,,DEM,John White,226,151,9,66
+Drew,Ward 4,U.S. Congress District 04,,DEM,John White,183,116,1,66
+Drew,Collins,U.S. Congress District 04,,DEM,John White,14,10,2,2
+Drew,Enon,U.S. Congress District 04,,DEM,John White,11,4,2,5
+Drew,Jerome,U.S. Congress District 04,,DEM,John White,2,2,0,0
+Drew,Lacey,U.S. Congress District 04,,DEM,John White,41,18,4,19
+Drew,Mar N Box 1,U.S. Congress District 04,,DEM,John White,154,107,6,41
+Drew,Mar N Box 2,U.S. Congress District 04,,DEM,John White,62,46,2,14
+Drew,Marion South,U.S. Congress District 04,,DEM,John White,71,44,0,27
+Drew,Ozment,U.S. Congress District 04,,DEM,John White,13,9,0,4
+Drew,Plantersville,U.S. Congress District 04,,DEM,John White,31,23,1,7
+Drew,Selma,U.S. Congress District 04,,DEM,John White,66,40,3,23
+Drew,Tillar,U.S. Congress District 04,,DEM,John White,12,5,0,7
+Drew,Wilmar,U.S. Congress District 04,,DEM,John White,147,46,3,98
+Drew,Winchester,U.S. Congress District 04,,DEM,John White,68,34,0,34
+Drew,Ward 1,U.S. Congress District 04,,LIB,Gregory Maxwell,18,8,0,10
+Drew,Ward 2,U.S. Congress District 04,,LIB,Gregory Maxwell,21,12,0,9
+Drew,Ward 3,U.S. Congress District 04,,LIB,Gregory Maxwell,33,20,0,13
+Drew,Ward 4,U.S. Congress District 04,,LIB,Gregory Maxwell,14,11,0,3
+Drew,Collins,U.S. Congress District 04,,LIB,Gregory Maxwell,1,0,0,1
+Drew,Enon,U.S. Congress District 04,,LIB,Gregory Maxwell,1,1,0,0
+Drew,Jerome,U.S. Congress District 04,,LIB,Gregory Maxwell,0,0,0,0
+Drew,Lacey,U.S. Congress District 04,,LIB,Gregory Maxwell,6,2,0,4
+Drew,Mar N Box 1,U.S. Congress District 04,,LIB,Gregory Maxwell,14,7,1,6
+Drew,Mar N Box 2,U.S. Congress District 04,,LIB,Gregory Maxwell,5,3,0,2
+Drew,Marion South,U.S. Congress District 04,,LIB,Gregory Maxwell,16,6,1,9
+Drew,Ozment,U.S. Congress District 04,,LIB,Gregory Maxwell,3,2,0,1
+Drew,Plantersville,U.S. Congress District 04,,LIB,Gregory Maxwell,1,0,0,1
+Drew,Selma,U.S. Congress District 04,,LIB,Gregory Maxwell,1,1,0,0
+Drew,Tillar,U.S. Congress District 04,,LIB,Gregory Maxwell,1,1,0,0
+Drew,Wilmar,U.S. Congress District 04,,LIB,Gregory Maxwell,5,3,0,2
+Drew,Winchester,U.S. Congress District 04,,LIB,Gregory Maxwell,3,1,0,2
+Drew,Ward 1,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,268,171,3,94
+Drew,Ward 2,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,460,293,13,154
+Drew,Ward 3,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,224,132,7,85
+Drew,Ward 4,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,293,204,15,74
+Drew,Collins,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,63,43,4,16
+Drew,Enon,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,107,70,7,30
+Drew,Jerome,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,8,5,0,3
+Drew,Lacey,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,175,114,1,60
+Drew,Mar N Box 1,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,473,321,7,145
+Drew,Mar N Box 2,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,275,162,2,111
+Drew,Marion South,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,397,207,1,189
+Drew,Ozment,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,101,36,2,63
+Drew,Plantersville,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,152,91,2,59
+Drew,Selma,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,169,94,1,74
+Drew,Tillar,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,40,6,0,34
+Drew,Wilmar,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,269,159,4,106
+Drew,Winchester,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,24,7,0,17
+Drew,Ward 1,Governor,,REP,Sarah Huckabee Sanders,250,162,4,84
+Drew,Ward 2,Governor,,REP,Sarah Huckabee Sanders,445,282,16,147
+Drew,Ward 3,Governor,,REP,Sarah Huckabee Sanders,228,137,6,85
+Drew,Ward 4,Governor,,REP,Sarah Huckabee Sanders,264,186,12,66
+Drew,Collins,Governor,,REP,Sarah Huckabee Sanders,59,38,3,18
+Drew,Enon,Governor,,REP,Sarah Huckabee Sanders,103,68,8,27
+Drew,Jerome,Governor,,REP,Sarah Huckabee Sanders,9,6,0,3
+Drew,Lacey,Governor,,REP,Sarah Huckabee Sanders,175,112,1,62
+Drew,Mar N Box 1,Governor,,REP,Sarah Huckabee Sanders,458,311,7,140
+Drew,Mar N Box 2,Governor,,REP,Sarah Huckabee Sanders,263,160,2,101
+Drew,Marion South,Governor,,REP,Sarah Huckabee Sanders,390,201,1,188
+Drew,Ozment,Governor,,REP,Sarah Huckabee Sanders,104,38,2,64
+Drew,Plantersville,Governor,,REP,Sarah Huckabee Sanders,145,85,2,58
+Drew,Selma,Governor,,REP,Sarah Huckabee Sanders,166,93,1,72
+Drew,Tillar,Governor,,REP,Sarah Huckabee Sanders,40,7,0,33
+Drew,Wilmar,Governor,,REP,Sarah Huckabee Sanders,259,152,3,104
+Drew,Winchester,Governor,,REP,Sarah Huckabee Sanders,22,7,0,15
+Drew,Ward 1,Governor,,DEM,Chris Jones,339,211,3,125
+Drew,Ward 2,Governor,,DEM,Chris Jones,207,140,5,62
+Drew,Ward 3,Governor,,DEM,Chris Jones,260,172,10,78
+Drew,Ward 4,Governor,,DEM,Chris Jones,226,146,4,76
+Drew,Collins,Governor,,DEM,Chris Jones,18,14,3,1
+Drew,Enon,Governor,,DEM,Chris Jones,16,7,1,8
+Drew,Jerome,Governor,,DEM,Chris Jones,2,2,0,0
+Drew,Lacey,Governor,,DEM,Chris Jones,51,25,4,22
+Drew,Mar N Box 1,Governor,,DEM,Chris Jones,193,133,7,53
+Drew,Mar N Box 2,Governor,,DEM,Chris Jones,76,51,2,23
+Drew,Marion South,Governor,,DEM,Chris Jones,95,58,1,36
+Drew,Ozment,Governor,,DEM,Chris Jones,14,10,0,4
+Drew,Plantersville,Governor,,DEM,Chris Jones,40,29,1,10
+Drew,Selma,Governor,,DEM,Chris Jones,68,40,4,24
+Drew,Tillar,Governor,,DEM,Chris Jones,11,5,0,6
+Drew,Wilmar,Governor,,DEM,Chris Jones,180,61,4,115
+Drew,Winchester,Governor,,DEM,Chris Jones,75,36,0,39
+Drew,Ward 1,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,3,0,0
+Drew,Ward 2,Governor,,LIB,"Ricky Dale Harrington, Jr.",8,6,1,1
+Drew,Ward 3,Governor,,LIB,"Ricky Dale Harrington, Jr.",12,7,0,5
+Drew,Ward 4,Governor,,LIB,"Ricky Dale Harrington, Jr.",11,8,0,3
+Drew,Collins,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Drew,Enon,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Drew,Jerome,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Drew,Lacey,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Drew,Mar N Box 1,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,2,0,3
+Drew,Mar N Box 2,Governor,,LIB,"Ricky Dale Harrington, Jr.",4,1,0,3
+Drew,Marion South,Governor,,LIB,"Ricky Dale Harrington, Jr.",11,5,0,6
+Drew,Ozment,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Drew,Plantersville,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,1,0,1
+Drew,Selma,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Drew,Tillar,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,0,0,2
+Drew,Wilmar,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Drew,Winchester,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Drew,Ward 1,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,275,175,4,96
+Drew,Ward 2,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,439,278,10,151
+Drew,Ward 3,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,241,139,7,95
+Drew,Ward 4,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,286,197,13,76
+Drew,Collins,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,60,40,3,17
+Drew,Enon,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,109,69,8,32
+Drew,Jerome,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,9,6,0,3
+Drew,Lacey,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,182,115,1,66
+Drew,Mar N Box 1,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,477,325,7,145
+Drew,Mar N Box 2,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,273,164,2,107
+Drew,Marion South,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,383,197,0,186
+Drew,Ozment,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,102,36,2,64
+Drew,Plantersville,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,146,88,2,56
+Drew,Selma,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,171,97,1,73
+Drew,Tillar,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,41,7,0,34
+Drew,Wilmar,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,272,159,3,110
+Drew,Winchester,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,24,7,0,17
+Drew,Ward 1,Lieutenant Governor,,DEM,Kelly Ross Krout,288,181,3,104
+Drew,Ward 2,Lieutenant Governor,,DEM,Kelly Ross Krout,186,128,7,51
+Drew,Ward 3,Lieutenant Governor,,DEM,Kelly Ross Krout,225,156,9,60
+Drew,Ward 4,Lieutenant Governor,,DEM,Kelly Ross Krout,195,129,3,63
+Drew,Collins,Lieutenant Governor,,DEM,Kelly Ross Krout,18,13,3,2
+Drew,Enon,Lieutenant Governor,,DEM,Kelly Ross Krout,8,4,1,3
+Drew,Jerome,Lieutenant Governor,,DEM,Kelly Ross Krout,2,2,0,0
+Drew,Lacey,Lieutenant Governor,,DEM,Kelly Ross Krout,34,16,4,14
+Drew,Mar N Box 1,Lieutenant Governor,,DEM,Kelly Ross Krout,155,109,6,40
+Drew,Mar N Box 2,Lieutenant Governor,,DEM,Kelly Ross Krout,63,45,2,16
+Drew,Marion South,Lieutenant Governor,,DEM,Kelly Ross Krout,83,54,1,28
+Drew,Ozment,Lieutenant Governor,,DEM,Kelly Ross Krout,14,11,0,3
+Drew,Plantersville,Lieutenant Governor,,DEM,Kelly Ross Krout,37,27,1,9
+Drew,Selma,Lieutenant Governor,,DEM,Kelly Ross Krout,62,34,4,24
+Drew,Tillar,Lieutenant Governor,,DEM,Kelly Ross Krout,11,5,0,6
+Drew,Wilmar,Lieutenant Governor,,DEM,Kelly Ross Krout,146,48,4,94
+Drew,Winchester,Lieutenant Governor,,DEM,Kelly Ross Krout,66,33,0,33
+Drew,Ward 1,Lieutenant Governor,,LIB,Frank Gilbert,12,9,0,3
+Drew,Ward 2,Lieutenant Governor,,LIB,Frank Gilbert,29,21,3,5
+Drew,Ward 3,Lieutenant Governor,,LIB,Frank Gilbert,20,13,0,7
+Drew,Ward 4,Lieutenant Governor,,LIB,Frank Gilbert,12,8,0,4
+Drew,Collins,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0
+Drew,Enon,Lieutenant Governor,,LIB,Frank Gilbert,1,1,0,0
+Drew,Jerome,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0
+Drew,Lacey,Lieutenant Governor,,LIB,Frank Gilbert,6,3,0,3
+Drew,Mar N Box 1,Lieutenant Governor,,LIB,Frank Gilbert,18,7,1,10
+Drew,Mar N Box 2,Lieutenant Governor,,LIB,Frank Gilbert,8,4,0,4
+Drew,Marion South,Lieutenant Governor,,LIB,Frank Gilbert,22,11,1,10
+Drew,Ozment,Lieutenant Governor,,LIB,Frank Gilbert,2,1,0,1
+Drew,Plantersville,Lieutenant Governor,,LIB,Frank Gilbert,2,0,0,2
+Drew,Selma,Lieutenant Governor,,LIB,Frank Gilbert,2,2,0,0
+Drew,Tillar,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0
+Drew,Wilmar,Lieutenant Governor,,LIB,Frank Gilbert,7,3,0,4
+Drew,Winchester,Lieutenant Governor,,LIB,Frank Gilbert,7,3,0,4
+Drew,Ward 1,Attorney General,,DEM,Jesse Gibson,318,197,2,119
+Drew,Ward 2,Attorney General,,DEM,Jesse Gibson,194,133,6,55
+Drew,Ward 3,Attorney General,,DEM,Jesse Gibson,252,169,9,74
+Drew,Ward 4,Attorney General,,DEM,Jesse Gibson,211,136,4,71
+Drew,Collins,Attorney General,,DEM,Jesse Gibson,18,15,2,1
+Drew,Enon,Attorney General,,DEM,Jesse Gibson,13,6,2,5
+Drew,Jerome,Attorney General,,DEM,Jesse Gibson,2,2,0,0
+Drew,Lacey,Attorney General,,DEM,Jesse Gibson,47,24,4,19
+Drew,Mar N Box 1,Attorney General,,DEM,Jesse Gibson,182,129,7,46
+Drew,Mar N Box 2,Attorney General,,DEM,Jesse Gibson,74,53,2,19
+Drew,Marion South,Attorney General,,DEM,Jesse Gibson,88,54,1,33
+Drew,Ozment,Attorney General,,DEM,Jesse Gibson,16,11,0,5
+Drew,Plantersville,Attorney General,,DEM,Jesse Gibson,32,24,1,7
+Drew,Selma,Attorney General,,DEM,Jesse Gibson,72,42,4,26
+Drew,Tillar,Attorney General,,DEM,Jesse Gibson,12,5,0,7
+Drew,Wilmar,Attorney General,,DEM,Jesse Gibson,160,55,4,101
+Drew,Winchester,Attorney General,,DEM,Jesse Gibson,75,35,0,40
+Drew,Ward 1,Attorney General,,REP,Lieutenant Governor Tim Griffin,263,169,4,90
+Drew,Ward 2,Attorney General,,REP,Lieutenant Governor Tim Griffin,463,296,15,152
+Drew,Ward 3,Attorney General,,REP,Lieutenant Governor Tim Griffin,232,136,7,89
+Drew,Ward 4,Attorney General,,REP,Lieutenant Governor Tim Griffin,278,196,12,70
+Drew,Collins,Attorney General,,REP,Lieutenant Governor Tim Griffin,60,38,4,18
+Drew,Enon,Attorney General,,REP,Lieutenant Governor Tim Griffin,106,69,7,30
+Drew,Jerome,Attorney General,,REP,Lieutenant Governor Tim Griffin,9,6,0,3
+Drew,Lacey,Attorney General,,REP,Lieutenant Governor Tim Griffin,177,111,1,65
+Drew,Mar N Box 1,Attorney General,,REP,Lieutenant Governor Tim Griffin,464,308,7,149
+Drew,Mar N Box 2,Attorney General,,REP,Lieutenant Governor Tim Griffin,269,159,2,108
+Drew,Marion South,Attorney General,,REP,Lieutenant Governor Tim Griffin,398,205,1,192
+Drew,Ozment,Attorney General,,REP,Lieutenant Governor Tim Griffin,100,36,2,62
+Drew,Plantersville,Attorney General,,REP,Lieutenant Governor Tim Griffin,153,90,2,61
+Drew,Selma,Attorney General,,REP,Lieutenant Governor Tim Griffin,165,93,1,71
+Drew,Tillar,Attorney General,,REP,Lieutenant Governor Tim Griffin,41,7,0,34
+Drew,Wilmar,Attorney General,,REP,Lieutenant Governor Tim Griffin,266,155,3,108
+Drew,Winchester,Attorney General,,REP,Lieutenant Governor Tim Griffin,21,8,0,13
+Drew,Ward 1,Secretary of State,,REP,Secretary of State John Thurston,272,177,3,92
+Drew,Ward 2,Secretary of State,,REP,Secretary of State John Thurston,466,299,14,153
+Drew,Ward 3,Secretary of State,,REP,Secretary of State John Thurston,240,140,7,93
+Drew,Ward 4,Secretary of State,,REP,Secretary of State John Thurston,285,204,11,70
+Drew,Collins,Secretary of State,,REP,Secretary of State John Thurston,60,38,4,18
+Drew,Enon,Secretary of State,,REP,Secretary of State John Thurston,106,69,7,30
+Drew,Jerome,Secretary of State,,REP,Secretary of State John Thurston,9,6,0,3
+Drew,Lacey,Secretary of State,,REP,Secretary of State John Thurston,175,112,1,62
+Drew,Mar N Box 1,Secretary of State,,REP,Secretary of State John Thurston,475,320,9,146
+Drew,Mar N Box 2,Secretary of State,,REP,Secretary of State John Thurston,273,161,2,110
+Drew,Marion South,Secretary of State,,REP,Secretary of State John Thurston,407,208,1,198
+Drew,Ozment,Secretary of State,,REP,Secretary of State John Thurston,102,36,2,64
+Drew,Plantersville,Secretary of State,,REP,Secretary of State John Thurston,153,91,2,60
+Drew,Selma,Secretary of State,,REP,Secretary of State John Thurston,168,93,1,74
+Drew,Tillar,Secretary of State,,REP,Secretary of State John Thurston,41,8,0,33
+Drew,Wilmar,Secretary of State,,REP,Secretary of State John Thurston,263,153,3,107
+Drew,Winchester,Secretary of State,,REP,Secretary of State John Thurston,27,9,0,18
+Drew,Ward 1,Secretary of State,,DEM,Anna Beth Gorman,307,190,4,113
+Drew,Ward 2,Secretary of State,,DEM,Anna Beth Gorman,193,128,7,58
+Drew,Ward 3,Secretary of State,,DEM,Anna Beth Gorman,240,162,9,69
+Drew,Ward 4,Secretary of State,,DEM,Anna Beth Gorman,206,129,5,72
+Drew,Collins,Secretary of State,,DEM,Anna Beth Gorman,18,15,2,1
+Drew,Enon,Secretary of State,,DEM,Anna Beth Gorman,13,6,2,5
+Drew,Jerome,Secretary of State,,DEM,Anna Beth Gorman,2,2,0,0
+Drew,Lacey,Secretary of State,,DEM,Anna Beth Gorman,47,22,4,21
+Drew,Mar N Box 1,Secretary of State,,DEM,Anna Beth Gorman,171,120,5,46
+Drew,Mar N Box 2,Secretary of State,,DEM,Anna Beth Gorman,70,52,2,16
+Drew,Marion South,Secretary of State,,DEM,Anna Beth Gorman,81,51,1,29
+Drew,Ozment,Secretary of State,,DEM,Anna Beth Gorman,16,12,0,4
+Drew,Plantersville,Secretary of State,,DEM,Anna Beth Gorman,32,23,1,8
+Drew,Selma,Secretary of State,,DEM,Anna Beth Gorman,70,43,4,23
+Drew,Tillar,Secretary of State,,DEM,Anna Beth Gorman,10,4,0,6
+Drew,Wilmar,Secretary of State,,DEM,Anna Beth Gorman,161,56,4,101
+Drew,Winchester,Secretary of State,,DEM,Anna Beth Gorman,72,34,0,38
+Drew,Ward 1,State Treasurer,,DEM,Pam Whitaker,330,205,3,122
+Drew,Ward 2,State Treasurer,,DEM,Pam Whitaker,214,145,8,61
+Drew,Ward 3,State Treasurer,,DEM,Pam Whitaker,250,168,9,73
+Drew,Ward 4,State Treasurer,,DEM,Pam Whitaker,211,135,4,72
+Drew,Collins,State Treasurer,,DEM,Pam Whitaker,18,14,2,2
+Drew,Enon,State Treasurer,,DEM,Pam Whitaker,14,6,2,6
+Drew,Jerome,State Treasurer,,DEM,Pam Whitaker,2,2,0,0
+Drew,Lacey,State Treasurer,,DEM,Pam Whitaker,53,27,4,22
+Drew,Mar N Box 1,State Treasurer,,DEM,Pam Whitaker,182,125,7,50
+Drew,Mar N Box 2,State Treasurer,,DEM,Pam Whitaker,77,53,3,21
+Drew,Marion South,State Treasurer,,DEM,Pam Whitaker,89,56,1,32
+Drew,Ozment,State Treasurer,,DEM,Pam Whitaker,19,13,0,6
+Drew,Plantersville,State Treasurer,,DEM,Pam Whitaker,35,26,1,8
+Drew,Selma,State Treasurer,,DEM,Pam Whitaker,72,44,4,24
+Drew,Tillar,State Treasurer,,DEM,Pam Whitaker,13,5,0,8
+Drew,Wilmar,State Treasurer,,DEM,Pam Whitaker,167,57,4,106
+Drew,Winchester,State Treasurer,,DEM,Pam Whitaker,71,34,0,37
+Drew,Ward 1,State Treasurer,,REP,State Representative Mark Lowery,238,156,3,79
+Drew,Ward 2,State Treasurer,,REP,State Representative Mark Lowery,445,282,14,149
+Drew,Ward 3,State Treasurer,,REP,State Representative Mark Lowery,232,135,7,90
+Drew,Ward 4,State Treasurer,,REP,State Representative Mark Lowery,280,198,12,70
+Drew,Collins,State Treasurer,,REP,State Representative Mark Lowery,60,39,4,17
+Drew,Enon,State Treasurer,,REP,State Representative Mark Lowery,105,69,7,29
+Drew,Jerome,State Treasurer,,REP,State Representative Mark Lowery,8,5,0,3
+Drew,Lacey,State Treasurer,,REP,State Representative Mark Lowery,170,107,1,62
+Drew,Mar N Box 1,State Treasurer,,REP,State Representative Mark Lowery,464,316,7,141
+Drew,Mar N Box 2,State Treasurer,,REP,State Representative Mark Lowery,264,159,1,104
+Drew,Marion South,State Treasurer,,REP,State Representative Mark Lowery,399,203,1,195
+Drew,Ozment,State Treasurer,,REP,State Representative Mark Lowery,97,33,2,62
+Drew,Plantersville,State Treasurer,,REP,State Representative Mark Lowery,151,89,2,60
+Drew,Selma,State Treasurer,,REP,State Representative Mark Lowery,164,91,1,72
+Drew,Tillar,State Treasurer,,REP,State Representative Mark Lowery,39,7,0,32
+Drew,Wilmar,State Treasurer,,REP,State Representative Mark Lowery,255,152,3,100
+Drew,Winchester,State Treasurer,,REP,State Representative Mark Lowery,26,9,0,17
+Drew,Ward 1,Auditor of State,,LIB,Simeon Snow,20,7,0,13
+Drew,Ward 2,Auditor of State,,LIB,Simeon Snow,25,14,1,10
+Drew,Ward 3,Auditor of State,,LIB,Simeon Snow,29,15,1,13
+Drew,Ward 4,Auditor of State,,LIB,Simeon Snow,20,16,0,4
+Drew,Collins,Auditor of State,,LIB,Simeon Snow,2,2,0,0
+Drew,Enon,Auditor of State,,LIB,Simeon Snow,4,1,0,3
+Drew,Jerome,Auditor of State,,LIB,Simeon Snow,0,0,0,0
+Drew,Lacey,Auditor of State,,LIB,Simeon Snow,5,2,0,3
+Drew,Mar N Box 1,Auditor of State,,LIB,Simeon Snow,19,8,1,10
+Drew,Mar N Box 2,Auditor of State,,LIB,Simeon Snow,4,4,0,0
+Drew,Marion South,Auditor of State,,LIB,Simeon Snow,15,5,2,8
+Drew,Ozment,Auditor of State,,LIB,Simeon Snow,2,1,0,1
+Drew,Plantersville,Auditor of State,,LIB,Simeon Snow,4,3,0,1
+Drew,Selma,Auditor of State,,LIB,Simeon Snow,9,5,0,4
+Drew,Tillar,Auditor of State,,LIB,Simeon Snow,0,0,0,0
+Drew,Wilmar,Auditor of State,,LIB,Simeon Snow,7,3,0,4
+Drew,Winchester,Auditor of State,,LIB,Simeon Snow,3,1,0,2
+Drew,Ward 1,Auditor of State,,REP,Treasurer of State Dennis Milligan,268,173,4,91
+Drew,Ward 2,Auditor of State,,REP,Treasurer of State Dennis Milligan,475,300,16,159
+Drew,Ward 3,Auditor of State,,REP,Treasurer of State Dennis Milligan,233,138,7,88
+Drew,Ward 4,Auditor of State,,REP,Treasurer of State Dennis Milligan,290,206,12,72
+Drew,Collins,Auditor of State,,REP,Treasurer of State Dennis Milligan,65,41,5,19
+Drew,Enon,Auditor of State,,REP,Treasurer of State Dennis Milligan,103,67,7,29
+Drew,Jerome,Auditor of State,,REP,Treasurer of State Dennis Milligan,9,6,0,3
+Drew,Lacey,Auditor of State,,REP,Treasurer of State Dennis Milligan,176,113,1,62
+Drew,Mar N Box 1,Auditor of State,,REP,Treasurer of State Dennis Milligan,475,324,9,142
+Drew,Mar N Box 2,Auditor of State,,REP,Treasurer of State Dennis Milligan,273,158,2,113
+Drew,Marion South,Auditor of State,,REP,Treasurer of State Dennis Milligan,393,204,0,189
+Drew,Ozment,Auditor of State,,REP,Treasurer of State Dennis Milligan,101,36,2,63
+Drew,Plantersville,Auditor of State,,REP,Treasurer of State Dennis Milligan,157,92,2,63
+Drew,Selma,Auditor of State,,REP,Treasurer of State Dennis Milligan,166,93,1,72
+Drew,Tillar,Auditor of State,,REP,Treasurer of State Dennis Milligan,40,7,0,33
+Drew,Wilmar,Auditor of State,,REP,Treasurer of State Dennis Milligan,257,150,4,103
+Drew,Winchester,Auditor of State,,REP,Treasurer of State Dennis Milligan,24,8,0,16
+Drew,Ward 1,Auditor of State,,DEM,Diamond Arnold-Johnson,286,183,3,100
+Drew,Ward 2,Auditor of State,,DEM,Diamond Arnold-Johnson,159,113,5,41
+Drew,Ward 3,Auditor of State,,DEM,Diamond Arnold-Johnson,223,153,8,62
+Drew,Ward 4,Auditor of State,,DEM,Diamond Arnold-Johnson,173,105,3,65
+Drew,Collins,Auditor of State,,DEM,Diamond Arnold-Johnson,11,10,1,0
+Drew,Enon,Auditor of State,,DEM,Diamond Arnold-Johnson,9,4,2,3
+Drew,Jerome,Auditor of State,,DEM,Diamond Arnold-Johnson,2,2,0,0
+Drew,Lacey,Auditor of State,,DEM,Diamond Arnold-Johnson,41,19,4,18
+Drew,Mar N Box 1,Auditor of State,,DEM,Diamond Arnold-Johnson,151,106,4,41
+Drew,Mar N Box 2,Auditor of State,,DEM,Diamond Arnold-Johnson,63,48,2,13
+Drew,Marion South,Auditor of State,,DEM,Diamond Arnold-Johnson,80,52,0,28
+Drew,Ozment,Auditor of State,,DEM,Diamond Arnold-Johnson,15,11,0,4
+Drew,Plantersville,Auditor of State,,DEM,Diamond Arnold-Johnson,26,20,1,5
+Drew,Selma,Auditor of State,,DEM,Diamond Arnold-Johnson,61,38,4,19
+Drew,Tillar,Auditor of State,,DEM,Diamond Arnold-Johnson,11,5,0,6
+Drew,Wilmar,Auditor of State,,DEM,Diamond Arnold-Johnson,158,56,3,99
+Drew,Winchester,Auditor of State,,DEM,Diamond Arnold-Johnson,71,34,0,37
+Drew,Ward 1,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,308,191,3,114
+Drew,Ward 2,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,188,128,7,53
+Drew,Ward 3,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,239,161,9,69
+Drew,Ward 4,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,197,126,5,66
+Drew,Collins,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,16,12,3,1
+Drew,Enon,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,11,4,2,5
+Drew,Jerome,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,2,2,0,0
+Drew,Lacey,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,41,21,4,16
+Drew,Mar N Box 1,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,164,114,5,45
+Drew,Mar N Box 2,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,69,50,2,17
+Drew,Marion South,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,83,51,1,31
+Drew,Ozment,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,15,12,0,3
+Drew,Plantersville,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,31,23,1,7
+Drew,Selma,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,69,40,4,25
+Drew,Tillar,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,12,6,0,6
+Drew,Wilmar,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,157,52,4,101
+Drew,Winchester,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,75,35,0,40
+Drew,Ward 1,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,263,170,3,90
+Drew,Ward 2,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,469,299,15,155
+Drew,Ward 3,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,243,141,7,95
+Drew,Ward 4,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,293,208,11,74
+Drew,Collins,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,62,41,3,18
+Drew,Enon,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,105,68,7,30
+Drew,Jerome,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,9,6,0,3
+Drew,Lacey,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,179,112,1,66
+Drew,Mar N Box 1,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,477,323,9,145
+Drew,Mar N Box 2,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,270,160,2,108
+Drew,Marion South,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,405,209,1,195
+Drew,Ozment,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,102,36,2,64
+Drew,Plantersville,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,155,92,2,61
+Drew,Selma,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,168,95,1,72
+Drew,Tillar,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,38,6,0,32
+Drew,Wilmar,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,263,155,3,105
+Drew,Winchester,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,22,8,0,14
+Drew,Ward 1,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,339,216,6,117
+Drew,Ward 2,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,386,260,12,114
+Drew,Ward 3,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,263,176,12,75
+Drew,Ward 4,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,276,187,9,80
+Drew,Collins,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,45,31,5,9
+Drew,Enon,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,67,38,4,25
+Drew,Jerome,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,9,7,0,2
+Drew,Lacey,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,117,72,1,44
+Drew,Mar N Box 1,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,343,234,8,101
+Drew,Mar N Box 2,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,196,118,3,75
+Drew,Marion South,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,269,147,1,121
+Drew,Ozment,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,73,30,1,42
+Drew,Plantersville,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,105,65,3,37
+Drew,Selma,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,108,60,3,45
+Drew,Tillar,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,35,8,0,27
+Drew,Wilmar,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,238,116,3,119
+Drew,Winchester,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,54,19,0,35
+Drew,Ward 1,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,163,101,0,62
+Drew,Ward 2,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,197,128,6,63
+Drew,Ward 3,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,162,90,4,68
+Drew,Ward 4,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,149,101,3,45
+Drew,Collins,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,23,15,1,7
+Drew,Enon,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,35,25,3,7
+Drew,Jerome,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,2,1,0,1
+Drew,Lacey,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,74,39,4,31
+Drew,Mar N Box 1,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,215,150,6,59
+Drew,Mar N Box 2,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,105,65,0,40
+Drew,Marion South,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,147,80,1,66
+Drew,Ozment,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,39,17,1,21
+Drew,Plantersville,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,60,39,0,21
+Drew,Selma,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,89,54,0,35
+Drew,Tillar,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,14,3,0,11
+Drew,Wilmar,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,134,66,1,67
+Drew,Winchester,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,28,16,0,12
+Drew,Ward 1,State Senate,01,REP,Senator Ben Gilmore,411,257,6,148
+Drew,Ward 2,State Senate,01,REP,Senator Ben Gilmore,564,363,16,185
+Drew,Ward 3,State Senate,01,REP,Senator Ben Gilmore,369,225,14,130
+Drew,Ward 4,State Senate,01,REP,Senator Ben Gilmore,388,262,14,112
+Drew,Collins,State Senate,01,REP,Senator Ben Gilmore,72,48,6,18
+Drew,Enon,State Senate,01,REP,Senator Ben Gilmore,113,73,8,32
+Drew,Jerome,State Senate,01,REP,Senator Ben Gilmore,11,8,0,3
+Drew,Lacey,State Senate,01,REP,Senator Ben Gilmore,199,117,4,78
+Drew,Mar N Box 1,State Senate,01,REP,Senator Ben Gilmore,529,356,10,163
+Drew,Mar N Box 2,State Senate,01,REP,Senator Ben Gilmore,302,176,2,124
+Drew,Marion South,State Senate,01,REP,Senator Ben Gilmore,438,222,1,215
+Drew,Ozment,State Senate,01,REP,Senator Ben Gilmore,109,43,2,64
+Drew,Plantersville,State Senate,01,REP,Senator Ben Gilmore,160,99,2,59
+Drew,Selma,State Senate,01,REP,Senator Ben Gilmore,198,111,3,84
+Drew,Wilmar,State Senate,01,REP,Senator Ben Gilmore,343,178,7,158
+Drew,Tillar,State Senate,08,LIB,David Dinwiddie,25,5,0,20
+Drew,Winchester,State Senate,08,LIB,David Dinwiddie,16,5,0,11
+Drew,Tillar,State Senate,08,DEM,Senator Stephanie Flowers,23,7,0,16
+Drew,Winchester,State Senate,08,DEM,Senator Stephanie Flowers,82,37,0,45
+Drew,Plantersville,State House,93,LIB,Aaron A. Cagle,24,17,3,4
+Drew,Plantersville,State House,93,REP,Representative Mike Holcomb,149,90,0,59
+Drew,Ward 1,State House,94,DEM,Curley Jackson,334,209,4,121
+Drew,Ward 2,State House,94,DEM,Curley Jackson,219,145,7,67
+Drew,Ward 3,State House,94,DEM,Curley Jackson,270,176,10,84
+Drew,Ward 4,State House,94,DEM,Curley Jackson,217,137,2,78
+Drew,Collins,State House,94,DEM,Curley Jackson,18,13,3,2
+Drew,Enon,State House,94,DEM,Curley Jackson,18,9,2,7
+Drew,Jerome,State House,94,DEM,Curley Jackson,2,2,0,0
+Drew,Lacey,State House,94,DEM,Curley Jackson,58,31,4,23
+Drew,Mar N Box 1,State House,94,DEM,Curley Jackson,195,136,7,52
+Drew,Mar N Box 2,State House,94,DEM,Curley Jackson,70,49,2,19
+Drew,Marion South,State House,94,DEM,Curley Jackson,108,65,1,42
+Drew,Ozment,State House,94,DEM,Curley Jackson,21,12,0,9
+Drew,Selma,State House,94,DEM,Curley Jackson,71,47,4,20
+Drew,Tillar,State House,94,DEM,Curley Jackson,9,5,0,4
+Drew,Wilmar,State House,94,DEM,Curley Jackson,189,60,4,125
+Drew,Winchester,State House,94,DEM,Curley Jackson,78,37,0,41
+Drew,Ward 1,State House,94,REP,State Representative Jeffrey Wardlaw,252,164,3,85
+Drew,Ward 2,State House,94,REP,State Representative Jeffrey Wardlaw,436,280,15,141
+Drew,Ward 3,State House,94,REP,State Representative Jeffrey Wardlaw,211,128,5,78
+Drew,Ward 4,State House,94,REP,State Representative Jeffrey Wardlaw,278,199,14,65
+Drew,Collins,State House,94,REP,State Representative Jeffrey Wardlaw,60,40,3,17
+Drew,Enon,State House,94,REP,State Representative Jeffrey Wardlaw,99,64,7,28
+Drew,Jerome,State House,94,REP,State Representative Jeffrey Wardlaw,9,6,0,3
+Drew,Lacey,State House,94,REP,State Representative Jeffrey Wardlaw,165,104,1,60
+Drew,Mar N Box 1,State House,94,REP,State Representative Jeffrey Wardlaw,457,307,7,143
+Drew,Mar N Box 2,State House,94,REP,State Representative Jeffrey Wardlaw,273,164,2,107
+Drew,Marion South,State House,94,REP,State Representative Jeffrey Wardlaw,387,200,1,186
+Drew,Ozment,State House,94,REP,State Representative Jeffrey Wardlaw,97,36,2,59
+Drew,Selma,State House,94,REP,State Representative Jeffrey Wardlaw,165,89,1,75
+Drew,Tillar,State House,94,REP,State Representative Jeffrey Wardlaw,42,7,0,35
+Drew,Wilmar,State House,94,REP,State Representative Jeffrey Wardlaw,240,146,3,91
+Drew,Winchester,State House,94,REP,State Representative Jeffrey Wardlaw,21,6,0,15
+Drew,Ward 2,Justice of the Peace District 4,,IND,IND Sheila Maxwell,0,0,0,0
+Drew,Ward 3,Justice of the Peace District 4,,IND,IND Sheila Maxwell,9,6,0,3
+Drew,Ward 4,Justice of the Peace District 4,,IND,IND Sheila Maxwell,214,141,7,66
+Drew,Marion South,Justice of the Peace District 4,,IND,IND Sheila Maxwell,0,0,0,0
+Drew,Ward 2,Justice of the Peace District 4,,REP,REP Heath Loveless,1,1,0,0
+Drew,Ward 3,Justice of the Peace District 4,,REP,REP Heath Loveless,4,3,0,1
+Drew,Ward 4,Justice of the Peace District 4,,REP,REP Heath Loveless,185,126,8,51
+Drew,Marion South,Justice of the Peace District 4,,REP,REP Heath Loveless,0,0,0,0
+Drew,Ward 1,Justice of the Peace District 9,,IND,IND Rene Knowles,1,1,0,0
+Drew,Ward 3,Justice of the Peace District 9,,IND,IND Rene Knowles,65,37,1,27
+Drew,Collins,Justice of the Peace District 9,,IND,IND Rene Knowles,1,1,0,0
+Drew,Enon,Justice of the Peace District 9,,IND,IND Rene Knowles,4,1,1,2
+Drew,Lacey,Justice of the Peace District 9,,IND,IND Rene Knowles,91,54,5,32
+Drew,Marion South,Justice of the Peace District 9,,IND,IND Rene Knowles,65,44,1,20
+Drew,Ozment,Justice of the Peace District 9,,IND,IND Rene Knowles,36,12,1,23
+Drew,Ward 1,Justice of the Peace District 9,,REP,REP Zachary Hill,0,0,0,0
+Drew,Ward 3,Justice of the Peace District 9,,REP,REP Zachary Hill,48,29,0,19
+Drew,Collins,Justice of the Peace District 9,,REP,REP Zachary Hill,1,1,0,0
+Drew,Enon,Justice of the Peace District 9,,REP,REP Zachary Hill,7,1,2,4
+Drew,Lacey,Justice of the Peace District 9,,REP,REP Zachary Hill,119,71,0,48
+Drew,Marion South,Justice of the Peace District 9,,REP,REP Zachary Hill,97,52,0,45
+Drew,Ozment,Justice of the Peace District 9,,REP,REP Zachary Hill,27,12,1,14
+Drew,Ward 1,Circuit Clerk,,DEM,DEM Beverly Burks,541,340,6,195
+Drew,Ward 2,Circuit Clerk,,DEM,DEM Beverly Burks,585,383,16,186
+Drew,Ward 3,Circuit Clerk,,DEM,DEM Beverly Burks,433,276,16,141
+Drew,Ward 4,Circuit Clerk,,DEM,DEM Beverly Burks,426,285,13,128
+Drew,Collins,Circuit Clerk,,DEM,DEM Beverly Burks,61,42,6,13
+Drew,Enon,Circuit Clerk,,DEM,DEM Beverly Burks,104,65,7,32
+Drew,Jerome,Circuit Clerk,,DEM,DEM Beverly Burks,9,6,0,3
+Drew,Lacey,Circuit Clerk,,DEM,DEM Beverly Burks,181,106,5,70
+Drew,Mar N Box 1,Circuit Clerk,,DEM,DEM Beverly Burks,563,387,11,165
+Drew,Mar N Box 2,Circuit Clerk,,DEM,DEM Beverly Burks,293,179,4,110
+Drew,Marion South,Circuit Clerk,,DEM,DEM Beverly Burks,403,219,2,182
+Drew,Ozment,Circuit Clerk,,DEM,DEM Beverly Burks,104,42,2,60
+Drew,Plantersville,Circuit Clerk,,DEM,DEM Beverly Burks,151,92,3,56
+Drew,Selma,Circuit Clerk,,DEM,DEM Beverly Burks,199,114,5,80
+Drew,Tillar,Circuit Clerk,,DEM,DEM Beverly Burks,48,12,0,36
+Drew,Wilmar,Circuit Clerk,,DEM,DEM Beverly Burks,388,183,5,200
+Drew,Winchester,Circuit Clerk,,DEM,DEM Beverly Burks,92,41,0,51
+Drew,Ward 1,Sheriff,,IND,IND Tim Nichols,318,196,0,122
+Drew,Ward 2,Sheriff,,IND,IND Tim Nichols,275,174,4,97
+Drew,Ward 3,Sheriff,,IND,IND Tim Nichols,255,161,8,86
+Drew,Ward 4,Sheriff,,IND,IND Tim Nichols,206,134,3,69
+Drew,Collins,Sheriff,,IND,IND Tim Nichols,20,13,0,7
+Drew,Enon,Sheriff,,IND,IND Tim Nichols,53,31,5,17
+Drew,Jerome,Sheriff,,IND,IND Tim Nichols,3,1,0,2
+Drew,Lacey,Sheriff,,IND,IND Tim Nichols,56,35,1,20
+Drew,Mar N Box 1,Sheriff,,IND,IND Tim Nichols,276,183,8,85
+Drew,Mar N Box 2,Sheriff,,IND,IND Tim Nichols,114,71,1,42
+Drew,Marion South,Sheriff,,IND,IND Tim Nichols,172,88,2,82
+Drew,Ozment,Sheriff,,IND,IND Tim Nichols,33,16,0,17
+Drew,Plantersville,Sheriff,,IND,IND Tim Nichols,83,53,2,28
+Drew,Selma,Sheriff,,IND,IND Tim Nichols,83,58,2,23
+Drew,Tillar,Sheriff,,IND,IND Tim Nichols,20,1,0,19
+Drew,Wilmar,Sheriff,,IND,IND Tim Nichols,193,72,3,118
+Drew,Winchester,Sheriff,,IND,IND Tim Nichols,29,15,0,14
+Drew,Ward 1,Sheriff,,DEM,DEM Mark Gober,133,83,4,46
+Drew,Ward 2,Sheriff,,DEM,DEM Mark Gober,160,117,7,36
+Drew,Ward 3,Sheriff,,DEM,DEM Mark Gober,123,83,4,36
+Drew,Ward 4,Sheriff,,DEM,DEM Mark Gober,131,92,6,33
+Drew,Collins,Sheriff,,DEM,DEM Mark Gober,30,16,5,9
+Drew,Enon,Sheriff,,DEM,DEM Mark Gober,31,20,4,7
+Drew,Jerome,Sheriff,,DEM,DEM Mark Gober,2,2,0,0
+Drew,Lacey,Sheriff,,DEM,DEM Mark Gober,60,38,3,19
+Drew,Mar N Box 1,Sheriff,,DEM,DEM Mark Gober,129,86,4,39
+Drew,Mar N Box 2,Sheriff,,DEM,DEM Mark Gober,82,54,2,26
+Drew,Marion South,Sheriff,,DEM,DEM Mark Gober,121,74,0,47
+Drew,Ozment,Sheriff,,DEM,DEM Mark Gober,44,17,2,25
+Drew,Plantersville,Sheriff,,DEM,DEM Mark Gober,40,20,1,19
+Drew,Selma,Sheriff,,DEM,DEM Mark Gober,59,28,3,28
+Drew,Tillar,Sheriff,,DEM,DEM Mark Gober,11,6,0,5
+Drew,Wilmar,Sheriff,,DEM,DEM Mark Gober,112,64,1,47
+Drew,Winchester,Sheriff,,DEM,DEM Mark Gober,37,21,0,16
+Drew,Ward 1,Sheriff,,REP,REP James Slaughter,138,97,3,38
+Drew,Ward 2,Sheriff,,REP,REP James Slaughter,224,139,10,75
+Drew,Ward 3,Sheriff,,REP,REP James Slaughter,118,69,4,45
+Drew,Ward 4,Sheriff,,REP,REP James Slaughter,161,112,7,42
+Drew,Collins,Sheriff,,REP,REP James Slaughter,27,23,1,3
+Drew,Enon,Sheriff,,REP,REP James Slaughter,34,23,0,11
+Drew,Jerome,Sheriff,,REP,REP James Slaughter,6,5,0,1
+Drew,Lacey,Sheriff,,REP,REP James Slaughter,106,62,1,43
+Drew,Mar N Box 1,Sheriff,,REP,REP James Slaughter,252,178,2,72
+Drew,Mar N Box 2,Sheriff,,REP,REP James Slaughter,152,92,1,59
+Drew,Marion South,Sheriff,,REP,REP James Slaughter,204,103,0,101
+Drew,Ozment,Sheriff,,REP,REP James Slaughter,41,15,0,26
+Drew,Plantersville,Sheriff,,REP,REP James Slaughter,63,41,0,22
+Drew,Selma,Sheriff,,REP,REP James Slaughter,94,49,0,45
+Drew,Tillar,Sheriff,,REP,REP James Slaughter,21,5,0,16
+Drew,Wilmar,Sheriff,,REP,REP James Slaughter,131,76,3,52
+Drew,Winchester,Sheriff,,REP,REP James Slaughter,31,6,0,25
+Drew,Ward 1,City of Monticello Mayor,,NON,Joe Rogers,140,89,2,49
+Drew,Ward 2,City of Monticello Mayor,,NON,Joe Rogers,91,68,3,20
+Drew,Ward 3,City of Monticello Mayor,,NON,Joe Rogers,107,71,2,34
+Drew,Ward 4,City of Monticello Mayor,,NON,Joe Rogers,76,50,1,25
+Drew,Ward 1,City of Monticello Mayor,,NON,Bart Gregory,83,48,0,35
+Drew,Ward 2,City of Monticello Mayor,,NON,Bart Gregory,77,43,2,32
+Drew,Ward 3,City of Monticello Mayor,,NON,Bart Gregory,120,75,7,38
+Drew,Ward 4,City of Monticello Mayor,,NON,Bart Gregory,66,41,1,24
+Drew,Ward 1,City of Monticello Mayor,,NON,Jason Akers,361,235,4,122
+Drew,Ward 2,City of Monticello Mayor,,NON,Jason Akers,487,312,16,159
+Drew,Ward 3,City of Monticello Mayor,,NON,Jason Akers,262,164,7,91
+Drew,Ward 4,City of Monticello Mayor,,NON,Jason Akers,351,243,13,95
+Drew,Wilmar,City of Wilmar Mayor,,DEM,DEM Toni A. Perry,134,40,3,91
+Drew,Winchester,City of Winchester Mayor,,NON,LeVorn Cotton,25,6,0,19
+Drew,Winchester,City of Winchester Mayor,,NON,Demetrous Trotter,62,33,0,29
+Drew,Winchester,City of Winchester City Council,,NON,Matilda Chaney,52,33,0,19
+Drew,Winchester,City of Winchester City Council,,NON,Michael Haynes,33,5,0,28
+Drew,Ward 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,214,130,4,80
+Drew,Ward 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,256,171,9,76
+Drew,Ward 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,220,135,11,74
+Drew,Ward 4,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,182,127,4,51
+Drew,Collins,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,40,24,4,12
+Drew,Enon,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,39,25,3,11
+Drew,Jerome,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,6,6,0,0
+Drew,Lacey,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,69,40,4,25
+Drew,Mar N Box 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,239,154,8,77
+Drew,Mar N Box 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,134,82,2,50
+Drew,Marion South,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,160,90,2,68
+Drew,Ozment,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,32,13,1,18
+Drew,Plantersville,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,61,41,1,19
+Drew,Selma,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,78,45,0,33
+Drew,Tillar,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,23,7,0,16
+Drew,Wilmar,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,167,83,2,82
+Drew,Winchester,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,47,19,0,28
+Drew,Ward 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,335,222,1,112
+Drew,Ward 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,372,237,11,124
+Drew,Ward 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,248,160,5,83
+Drew,Ward 4,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,281,185,10,86
+Drew,Collins,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,33,25,2,6
+Drew,Enon,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,73,46,3,24
+Drew,Jerome,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,5,2,0,3
+Drew,Lacey,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,140,82,1,57
+Drew,Mar N Box 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,382,268,4,110
+Drew,Mar N Box 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,198,122,2,74
+Drew,Marion South,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,297,158,0,139
+Drew,Ozment,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,83,34,1,48
+Drew,Plantersville,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,114,65,2,47
+Drew,Selma,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,143,83,3,57
+Drew,Tillar,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,26,3,0,23
+Drew,Wilmar,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,234,118,3,113
+Drew,Winchester,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,44,19,0,25
+Drew,Ward 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,218,122,4,92
+Drew,Ward 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,293,189,7,97
+Drew,Ward 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,207,120,8,79
+Drew,Ward 4,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,197,130,6,61
+Drew,Collins,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,46,27,3,16
+Drew,Enon,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,42,23,3,16
+Drew,Jerome,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,8,5,0,3
+Drew,Lacey,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,91,53,4,34
+Drew,Mar N Box 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,260,174,5,81
+Drew,Mar N Box 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,141,89,0,52
+Drew,Marion South,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,215,114,1,100
+Drew,Ozment,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,46,17,1,28
+Drew,Plantersville,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,57,36,1,20
+Drew,Selma,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,92,54,0,38
+Drew,Tillar,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,24,6,0,18
+Drew,Wilmar,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,161,87,0,74
+Drew,Winchester,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,46,21,0,25
+Drew,Ward 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,326,224,1,101
+Drew,Ward 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,333,216,13,104
+Drew,Ward 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,266,177,8,81
+Drew,Ward 4,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,269,188,8,73
+Drew,Collins,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,25,20,3,2
+Drew,Enon,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,72,49,4,19
+Drew,Jerome,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,2,2,0,0
+Drew,Lacey,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,123,72,1,50
+Drew,Mar N Box 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,367,250,7,110
+Drew,Mar N Box 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,192,114,4,74
+Drew,Marion South,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,245,132,1,112
+Drew,Ozment,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,69,30,1,38
+Drew,Plantersville,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,114,66,2,46
+Drew,Selma,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,124,70,3,51
+Drew,Tillar,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,27,6,0,21
+Drew,Wilmar,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,244,115,6,123
+Drew,Winchester,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,47,19,0,28
+Drew,Ward 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,299,183,4,112
+Drew,Ward 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,350,227,8,115
+Drew,Ward 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,274,167,6,101
+Drew,Ward 4,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,257,173,9,75
+Drew,Collins,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,50,31,5,14
+Drew,Enon,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,55,32,3,20
+Drew,Jerome,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,6,4,0,2
+Drew,Lacey,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,108,61,3,44
+Drew,Mar N Box 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,354,241,7,106
+Drew,Mar N Box 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,179,106,2,71
+Drew,Marion South,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,249,135,1,113
+Drew,Ozment,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,60,23,2,35
+Drew,Plantersville,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,83,54,2,27
+Drew,Selma,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,135,77,1,57
+Drew,Tillar,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,25,3,0,22
+Drew,Wilmar,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,227,107,4,116
+Drew,Winchester,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,53,22,0,31
+Drew,Ward 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,249,172,1,76
+Drew,Ward 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,294,191,11,92
+Drew,Ward 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,201,131,10,60
+Drew,Ward 4,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,219,150,7,62
+Drew,Collins,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,24,19,1,4
+Drew,Enon,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,60,42,3,15
+Drew,Jerome,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,5,4,0,1
+Drew,Lacey,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,108,66,2,40
+Drew,Mar N Box 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,276,188,5,83
+Drew,Mar N Box 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,160,101,2,57
+Drew,Marion South,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,221,121,1,99
+Drew,Ozment,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,56,24,0,32
+Drew,Plantersville,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,92,53,1,38
+Drew,Selma,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,90,53,4,33
+Drew,Tillar,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,24,8,0,16
+Drew,Wilmar,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,181,94,3,84
+Drew,Winchester,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,41,18,0,23
+Drew,Ward 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,294,174,4,116
+Drew,Ward 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,233,143,5,85
+Drew,Ward 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,298,187,12,99
+Drew,Ward 4,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,216,130,5,81
+Drew,Collins,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,28,21,0,7
+Drew,Enon,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,35,19,4,12
+Drew,Jerome,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,4,4,0,0
+Drew,Lacey,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,56,30,3,23
+Drew,Mar N Box 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,247,159,8,80
+Drew,Mar N Box 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,113,68,2,43
+Drew,Marion South,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,166,88,1,77
+Drew,Ozment,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,36,17,1,18
+Drew,Plantersville,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,54,34,1,19
+Drew,Selma,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,90,42,5,43
+Drew,Tillar,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,12,6,0,6
+Drew,Wilmar,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,185,64,2,119
+Drew,Winchester,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,65,33,0,32
+Drew,Ward 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,288,197,2,89
+Drew,Ward 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,423,282,17,124
+Drew,Ward 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,192,121,4,67
+Drew,Ward 4,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,273,202,11,60
+Drew,Collins,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,50,32,6,12
+Drew,Enon,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,83,55,5,23
+Drew,Jerome,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,7,4,0,3
+Drew,Lacey,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,165,103,2,60
+Drew,Mar N Box 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,400,279,5,116
+Drew,Mar N Box 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,235,148,2,85
+Drew,Marion South,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,326,173,1,152
+Drew,Ozment,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,79,30,1,48
+Drew,Plantersville,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,132,80,2,50
+Drew,Selma,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,144,91,0,53
+Drew,Tillar,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,41,6,0,35
+Drew,Wilmar,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,242,146,5,91
+Drew,Winchester,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,35,10,0,25

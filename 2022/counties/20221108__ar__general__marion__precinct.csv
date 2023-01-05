@@ -1,0 +1,1157 @@
+county,precinct,office,district,party,candidate,votes,early_vote,absentee,election_day
+Marion,Precinct 0001,U.S. Senate,,LIB,Kenneth Cates,2,2,0,0
+Marion,Precinct 0002,U.S. Senate,,LIB,Kenneth Cates,3,0,0,3
+Marion,Precinct 0003,U.S. Senate,,LIB,Kenneth Cates,7,1,0,6
+Marion,Precinct 0004,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0
+Marion,Precinct 0005,U.S. Senate,,LIB,Kenneth Cates,2,0,0,2
+Marion,Precinct 0006,U.S. Senate,,LIB,Kenneth Cates,25,13,0,12
+Marion,Precinct 0007,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0
+Marion,Precinct 0008,U.S. Senate,,LIB,Kenneth Cates,30,14,0,16
+Marion,Precinct 0009,U.S. Senate,,LIB,Kenneth Cates,23,9,0,14
+Marion,Precinct 0010,U.S. Senate,,LIB,Kenneth Cates,9,6,0,3
+Marion,Precinct 0011,U.S. Senate,,LIB,Kenneth Cates,2,1,0,1
+Marion,Precinct 0012,U.S. Senate,,LIB,Kenneth Cates,1,1,0,0
+Marion,Precinct 0013,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0
+Marion,Precinct 0014,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0
+Marion,Precinct 0015,U.S. Senate,,LIB,Kenneth Cates,2,1,0,1
+Marion,Precinct 0016,U.S. Senate,,LIB,Kenneth Cates,18,14,0,4
+Marion,Precinct 0017,U.S. Senate,,LIB,Kenneth Cates,11,3,1,7
+Marion,Precinct 0018,U.S. Senate,,LIB,Kenneth Cates,3,1,0,2
+Marion,Precinct 0019,U.S. Senate,,LIB,Kenneth Cates,7,2,0,5
+Marion,Precinct 0020,U.S. Senate,,LIB,Kenneth Cates,8,3,0,5
+Marion,Precinct 0021,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0
+Marion,Precinct 0022,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0
+Marion,Precinct 0023,U.S. Senate,,LIB,Kenneth Cates,9,2,0,7
+Marion,Precinct 0024,U.S. Senate,,LIB,Kenneth Cates,7,5,0,2
+Marion,Precinct 0025,U.S. Senate,,LIB,Kenneth Cates,10,6,1,3
+Marion,Precinct 0026,U.S. Senate,,LIB,Kenneth Cates,12,4,0,8
+Marion,Precinct 0027,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0
+Marion,Precinct 0028,U.S. Senate,,LIB,Kenneth Cates,5,3,0,2
+Marion,Precinct 0029,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0
+Marion,Precinct 0030,U.S. Senate,,LIB,Kenneth Cates,7,5,0,2
+Marion,Precinct 0031,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0
+Marion,Precinct 0001,U.S. Senate,,REP,Senator John Boozman,79,70,2,7
+Marion,Precinct 0002,U.S. Senate,,REP,Senator John Boozman,249,51,7,191
+Marion,Precinct 0003,U.S. Senate,,REP,Senator John Boozman,186,98,1,87
+Marion,Precinct 0004,U.S. Senate,,REP,Senator John Boozman,69,37,0,32
+Marion,Precinct 0005,U.S. Senate,,REP,Senator John Boozman,63,2,1,60
+Marion,Precinct 0006,U.S. Senate,,REP,Senator John Boozman,604,456,17,131
+Marion,Precinct 0007,U.S. Senate,,REP,Senator John Boozman,39,29,0,10
+Marion,Precinct 0008,U.S. Senate,,REP,Senator John Boozman,614,409,4,201
+Marion,Precinct 0009,U.S. Senate,,REP,Senator John Boozman,336,113,3,220
+Marion,Precinct 0010,U.S. Senate,,REP,Senator John Boozman,66,25,0,41
+Marion,Precinct 0011,U.S. Senate,,REP,Senator John Boozman,41,15,0,26
+Marion,Precinct 0012,U.S. Senate,,REP,Senator John Boozman,11,9,0,2
+Marion,Precinct 0013,U.S. Senate,,REP,Senator John Boozman,19,8,1,10
+Marion,Precinct 0014,U.S. Senate,,REP,Senator John Boozman,18,13,0,5
+Marion,Precinct 0015,U.S. Senate,,REP,Senator John Boozman,56,43,0,13
+Marion,Precinct 0016,U.S. Senate,,REP,Senator John Boozman,433,266,6,161
+Marion,Precinct 0017,U.S. Senate,,REP,Senator John Boozman,231,97,9,125
+Marion,Precinct 0018,U.S. Senate,,REP,Senator John Boozman,123,52,0,71
+Marion,Precinct 0019,U.S. Senate,,REP,Senator John Boozman,173,100,4,69
+Marion,Precinct 0020,U.S. Senate,,REP,Senator John Boozman,201,119,0,82
+Marion,Precinct 0021,U.S. Senate,,REP,Senator John Boozman,32,13,0,19
+Marion,Precinct 0022,U.S. Senate,,REP,Senator John Boozman,10,4,1,5
+Marion,Precinct 0023,U.S. Senate,,REP,Senator John Boozman,141,44,1,96
+Marion,Precinct 0024,U.S. Senate,,REP,Senator John Boozman,108,71,2,35
+Marion,Precinct 0025,U.S. Senate,,REP,Senator John Boozman,239,134,2,103
+Marion,Precinct 0026,U.S. Senate,,REP,Senator John Boozman,279,100,1,178
+Marion,Precinct 0027,U.S. Senate,,REP,Senator John Boozman,1,0,0,1
+Marion,Precinct 0028,U.S. Senate,,REP,Senator John Boozman,87,47,0,40
+Marion,Precinct 0029,U.S. Senate,,REP,Senator John Boozman,11,8,0,3
+Marion,Precinct 0030,U.S. Senate,,REP,Senator John Boozman,247,139,9,99
+Marion,Precinct 0031,U.S. Senate,,REP,Senator John Boozman,0,0,0,0
+Marion,Precinct 0001,U.S. Senate,,DEM,Natalie James,25,25,0,0
+Marion,Precinct 0002,U.S. Senate,,DEM,Natalie James,57,17,1,39
+Marion,Precinct 0003,U.S. Senate,,DEM,Natalie James,34,10,1,23
+Marion,Precinct 0004,U.S. Senate,,DEM,Natalie James,33,25,1,7
+Marion,Precinct 0005,U.S. Senate,,DEM,Natalie James,21,4,0,17
+Marion,Precinct 0006,U.S. Senate,,DEM,Natalie James,180,149,0,31
+Marion,Precinct 0007,U.S. Senate,,DEM,Natalie James,13,13,0,0
+Marion,Precinct 0008,U.S. Senate,,DEM,Natalie James,92,64,4,24
+Marion,Precinct 0009,U.S. Senate,,DEM,Natalie James,61,23,3,35
+Marion,Precinct 0010,U.S. Senate,,DEM,Natalie James,9,6,0,3
+Marion,Precinct 0011,U.S. Senate,,DEM,Natalie James,11,6,0,5
+Marion,Precinct 0012,U.S. Senate,,DEM,Natalie James,5,5,0,0
+Marion,Precinct 0013,U.S. Senate,,DEM,Natalie James,7,5,0,2
+Marion,Precinct 0014,U.S. Senate,,DEM,Natalie James,3,3,0,0
+Marion,Precinct 0015,U.S. Senate,,DEM,Natalie James,14,10,1,3
+Marion,Precinct 0016,U.S. Senate,,DEM,Natalie James,99,74,2,23
+Marion,Precinct 0017,U.S. Senate,,DEM,Natalie James,41,14,4,23
+Marion,Precinct 0018,U.S. Senate,,DEM,Natalie James,20,10,1,9
+Marion,Precinct 0019,U.S. Senate,,DEM,Natalie James,47,30,0,17
+Marion,Precinct 0020,U.S. Senate,,DEM,Natalie James,22,12,3,7
+Marion,Precinct 0021,U.S. Senate,,DEM,Natalie James,4,1,0,3
+Marion,Precinct 0022,U.S. Senate,,DEM,Natalie James,3,3,0,0
+Marion,Precinct 0023,U.S. Senate,,DEM,Natalie James,27,14,1,12
+Marion,Precinct 0024,U.S. Senate,,DEM,Natalie James,13,8,0,5
+Marion,Precinct 0025,U.S. Senate,,DEM,Natalie James,50,39,2,9
+Marion,Precinct 0026,U.S. Senate,,DEM,Natalie James,39,21,1,17
+Marion,Precinct 0027,U.S. Senate,,DEM,Natalie James,0,0,0,0
+Marion,Precinct 0028,U.S. Senate,,DEM,Natalie James,24,21,0,3
+Marion,Precinct 0029,U.S. Senate,,DEM,Natalie James,5,4,0,1
+Marion,Precinct 0030,U.S. Senate,,DEM,Natalie James,56,35,3,18
+Marion,Precinct 0031,U.S. Senate,,DEM,Natalie James,0,0,0,0
+Marion,Precinct 0001,U.S. Congress District 01,,REP,Congressman Rick Crawford,81,72,2,7
+Marion,Precinct 0002,U.S. Congress District 01,,REP,Congressman Rick Crawford,245,50,7,188
+Marion,Precinct 0003,U.S. Congress District 01,,REP,Congressman Rick Crawford,189,95,1,93
+Marion,Precinct 0004,U.S. Congress District 01,,REP,Congressman Rick Crawford,67,36,0,31
+Marion,Precinct 0005,U.S. Congress District 01,,REP,Congressman Rick Crawford,61,2,1,58
+Marion,Precinct 0006,U.S. Congress District 01,,REP,Congressman Rick Crawford,611,454,17,140
+Marion,Precinct 0007,U.S. Congress District 01,,REP,Congressman Rick Crawford,37,27,0,10
+Marion,Precinct 0008,U.S. Congress District 01,,REP,Congressman Rick Crawford,627,411,4,212
+Marion,Precinct 0009,U.S. Congress District 01,,REP,Congressman Rick Crawford,349,117,3,229
+Marion,Precinct 0010,U.S. Congress District 01,,REP,Congressman Rick Crawford,72,31,0,41
+Marion,Precinct 0011,U.S. Congress District 01,,REP,Congressman Rick Crawford,43,16,0,27
+Marion,Precinct 0012,U.S. Congress District 01,,REP,Congressman Rick Crawford,12,10,0,2
+Marion,Precinct 0013,U.S. Congress District 01,,REP,Congressman Rick Crawford,19,9,1,9
+Marion,Precinct 0014,U.S. Congress District 01,,REP,Congressman Rick Crawford,19,13,0,6
+Marion,Precinct 0015,U.S. Congress District 01,,REP,Congressman Rick Crawford,56,43,0,13
+Marion,Precinct 0016,U.S. Congress District 01,,REP,Congressman Rick Crawford,441,275,6,160
+Marion,Precinct 0017,U.S. Congress District 01,,REP,Congressman Rick Crawford,242,100,9,133
+Marion,Precinct 0018,U.S. Congress District 01,,REP,Congressman Rick Crawford,125,54,0,71
+Marion,Precinct 0019,U.S. Congress District 01,,REP,Congressman Rick Crawford,176,102,4,70
+Marion,Precinct 0020,U.S. Congress District 01,,REP,Congressman Rick Crawford,203,116,0,87
+Marion,Precinct 0021,U.S. Congress District 01,,REP,Congressman Rick Crawford,32,13,0,19
+Marion,Precinct 0022,U.S. Congress District 01,,REP,Congressman Rick Crawford,10,4,1,5
+Marion,Precinct 0023,U.S. Congress District 01,,REP,Congressman Rick Crawford,145,44,1,100
+Marion,Precinct 0024,U.S. Congress District 01,,REP,Congressman Rick Crawford,108,71,2,35
+Marion,Precinct 0025,U.S. Congress District 01,,REP,Congressman Rick Crawford,242,137,3,102
+Marion,Precinct 0026,U.S. Congress District 01,,REP,Congressman Rick Crawford,285,103,1,181
+Marion,Precinct 0027,U.S. Congress District 01,,REP,Congressman Rick Crawford,1,0,0,1
+Marion,Precinct 0028,U.S. Congress District 01,,REP,Congressman Rick Crawford,87,46,0,41
+Marion,Precinct 0029,U.S. Congress District 01,,REP,Congressman Rick Crawford,11,8,0,3
+Marion,Precinct 0030,U.S. Congress District 01,,REP,Congressman Rick Crawford,248,142,8,98
+Marion,Precinct 0031,U.S. Congress District 01,,REP,Congressman Rick Crawford,0,0,0,0
+Marion,Precinct 0001,U.S. Congress District 01,,DEM,Representative Monte Hodges,25,25,0,0
+Marion,Precinct 0002,U.S. Congress District 01,,DEM,Representative Monte Hodges,57,17,1,39
+Marion,Precinct 0003,U.S. Congress District 01,,DEM,Representative Monte Hodges,36,13,1,22
+Marion,Precinct 0004,U.S. Congress District 01,,DEM,Representative Monte Hodges,35,25,1,9
+Marion,Precinct 0005,U.S. Congress District 01,,DEM,Representative Monte Hodges,23,3,0,20
+Marion,Precinct 0006,U.S. Congress District 01,,DEM,Representative Monte Hodges,192,158,0,34
+Marion,Precinct 0007,U.S. Congress District 01,,DEM,Representative Monte Hodges,13,13,0,0
+Marion,Precinct 0008,U.S. Congress District 01,,DEM,Representative Monte Hodges,99,70,4,25
+Marion,Precinct 0009,U.S. Congress District 01,,DEM,Representative Monte Hodges,64,26,3,35
+Marion,Precinct 0010,U.S. Congress District 01,,DEM,Representative Monte Hodges,12,6,0,6
+Marion,Precinct 0011,U.S. Congress District 01,,DEM,Representative Monte Hodges,12,6,0,6
+Marion,Precinct 0012,U.S. Congress District 01,,DEM,Representative Monte Hodges,5,5,0,0
+Marion,Precinct 0013,U.S. Congress District 01,,DEM,Representative Monte Hodges,7,4,0,3
+Marion,Precinct 0014,U.S. Congress District 01,,DEM,Representative Monte Hodges,3,3,0,0
+Marion,Precinct 0015,U.S. Congress District 01,,DEM,Representative Monte Hodges,15,11,1,3
+Marion,Precinct 0016,U.S. Congress District 01,,DEM,Representative Monte Hodges,104,77,2,25
+Marion,Precinct 0017,U.S. Congress District 01,,DEM,Representative Monte Hodges,40,13,5,22
+Marion,Precinct 0018,U.S. Congress District 01,,DEM,Representative Monte Hodges,21,9,1,11
+Marion,Precinct 0019,U.S. Congress District 01,,DEM,Representative Monte Hodges,47,27,0,20
+Marion,Precinct 0020,U.S. Congress District 01,,DEM,Representative Monte Hodges,24,13,3,8
+Marion,Precinct 0021,U.S. Congress District 01,,DEM,Representative Monte Hodges,4,1,0,3
+Marion,Precinct 0022,U.S. Congress District 01,,DEM,Representative Monte Hodges,3,3,0,0
+Marion,Precinct 0023,U.S. Congress District 01,,DEM,Representative Monte Hodges,30,15,1,14
+Marion,Precinct 0024,U.S. Congress District 01,,DEM,Representative Monte Hodges,13,9,0,4
+Marion,Precinct 0025,U.S. Congress District 01,,DEM,Representative Monte Hodges,54,41,2,11
+Marion,Precinct 0026,U.S. Congress District 01,,DEM,Representative Monte Hodges,42,20,1,21
+Marion,Precinct 0027,U.S. Congress District 01,,DEM,Representative Monte Hodges,0,0,0,0
+Marion,Precinct 0028,U.S. Congress District 01,,DEM,Representative Monte Hodges,27,24,0,3
+Marion,Precinct 0029,U.S. Congress District 01,,DEM,Representative Monte Hodges,5,4,0,1
+Marion,Precinct 0030,U.S. Congress District 01,,DEM,Representative Monte Hodges,57,36,4,17
+Marion,Precinct 0031,U.S. Congress District 01,,DEM,Representative Monte Hodges,0,0,0,0
+Marion,Precinct 0001,Attorney General,,DEM,Jesse Gibson,26,26,0,0
+Marion,Precinct 0002,Attorney General,,DEM,Jesse Gibson,58,18,1,39
+Marion,Precinct 0003,Attorney General,,DEM,Jesse Gibson,40,12,1,27
+Marion,Precinct 0004,Attorney General,,DEM,Jesse Gibson,33,24,1,8
+Marion,Precinct 0005,Attorney General,,DEM,Jesse Gibson,27,4,0,23
+Marion,Precinct 0006,Attorney General,,DEM,Jesse Gibson,198,164,0,34
+Marion,Precinct 0007,Attorney General,,DEM,Jesse Gibson,13,13,0,0
+Marion,Precinct 0008,Attorney General,,DEM,Jesse Gibson,106,77,4,25
+Marion,Precinct 0009,Attorney General,,DEM,Jesse Gibson,80,29,3,48
+Marion,Precinct 0010,Attorney General,,DEM,Jesse Gibson,11,6,0,5
+Marion,Precinct 0011,Attorney General,,DEM,Jesse Gibson,13,6,0,7
+Marion,Precinct 0012,Attorney General,,DEM,Jesse Gibson,5,5,0,0
+Marion,Precinct 0013,Attorney General,,DEM,Jesse Gibson,6,3,0,3
+Marion,Precinct 0014,Attorney General,,DEM,Jesse Gibson,4,4,0,0
+Marion,Precinct 0015,Attorney General,,DEM,Jesse Gibson,14,10,1,3
+Marion,Precinct 0016,Attorney General,,DEM,Jesse Gibson,108,78,2,28
+Marion,Precinct 0017,Attorney General,,DEM,Jesse Gibson,44,18,5,21
+Marion,Precinct 0018,Attorney General,,DEM,Jesse Gibson,25,11,1,13
+Marion,Precinct 0019,Attorney General,,DEM,Jesse Gibson,49,30,0,19
+Marion,Precinct 0020,Attorney General,,DEM,Jesse Gibson,26,12,3,11
+Marion,Precinct 0021,Attorney General,,DEM,Jesse Gibson,5,1,0,4
+Marion,Precinct 0022,Attorney General,,DEM,Jesse Gibson,3,3,0,0
+Marion,Precinct 0023,Attorney General,,DEM,Jesse Gibson,29,15,1,13
+Marion,Precinct 0024,Attorney General,,DEM,Jesse Gibson,13,9,0,4
+Marion,Precinct 0025,Attorney General,,DEM,Jesse Gibson,58,43,2,13
+Marion,Precinct 0026,Attorney General,,DEM,Jesse Gibson,43,22,1,20
+Marion,Precinct 0027,Attorney General,,DEM,Jesse Gibson,0,0,0,0
+Marion,Precinct 0028,Attorney General,,DEM,Jesse Gibson,27,23,0,4
+Marion,Precinct 0029,Attorney General,,DEM,Jesse Gibson,6,4,0,2
+Marion,Precinct 0030,Attorney General,,DEM,Jesse Gibson,60,38,5,17
+Marion,Precinct 0031,Attorney General,,DEM,Jesse Gibson,0,0,0,0
+Marion,Precinct 0001,Attorney General,,REP,Lieutenant Governor Tim Griffin,81,72,2,7
+Marion,Precinct 0002,Attorney General,,REP,Lieutenant Governor Tim Griffin,247,48,7,192
+Marion,Precinct 0003,Attorney General,,REP,Lieutenant Governor Tim Griffin,187,98,1,88
+Marion,Precinct 0004,Attorney General,,REP,Lieutenant Governor Tim Griffin,68,36,0,32
+Marion,Precinct 0005,Attorney General,,REP,Lieutenant Governor Tim Griffin,58,2,1,55
+Marion,Precinct 0006,Attorney General,,REP,Lieutenant Governor Tim Griffin,605,451,17,137
+Marion,Precinct 0007,Attorney General,,REP,Lieutenant Governor Tim Griffin,40,30,0,10
+Marion,Precinct 0008,Attorney General,,REP,Lieutenant Governor Tim Griffin,625,409,4,212
+Marion,Precinct 0009,Attorney General,,REP,Lieutenant Governor Tim Griffin,338,115,3,220
+Marion,Precinct 0010,Attorney General,,REP,Lieutenant Governor Tim Griffin,72,31,0,41
+Marion,Precinct 0011,Attorney General,,REP,Lieutenant Governor Tim Griffin,42,16,0,26
+Marion,Precinct 0012,Attorney General,,REP,Lieutenant Governor Tim Griffin,12,10,0,2
+Marion,Precinct 0013,Attorney General,,REP,Lieutenant Governor Tim Griffin,20,10,1,9
+Marion,Precinct 0014,Attorney General,,REP,Lieutenant Governor Tim Griffin,19,13,0,6
+Marion,Precinct 0015,Attorney General,,REP,Lieutenant Governor Tim Griffin,57,44,0,13
+Marion,Precinct 0016,Attorney General,,REP,Lieutenant Governor Tim Griffin,442,277,6,159
+Marion,Precinct 0017,Attorney General,,REP,Lieutenant Governor Tim Griffin,236,96,9,131
+Marion,Precinct 0018,Attorney General,,REP,Lieutenant Governor Tim Griffin,121,52,0,69
+Marion,Precinct 0019,Attorney General,,REP,Lieutenant Governor Tim Griffin,176,101,4,71
+Marion,Precinct 0020,Attorney General,,REP,Lieutenant Governor Tim Griffin,204,120,0,84
+Marion,Precinct 0021,Attorney General,,REP,Lieutenant Governor Tim Griffin,31,13,0,18
+Marion,Precinct 0022,Attorney General,,REP,Lieutenant Governor Tim Griffin,10,4,1,5
+Marion,Precinct 0023,Attorney General,,REP,Lieutenant Governor Tim Griffin,145,44,1,100
+Marion,Precinct 0024,Attorney General,,REP,Lieutenant Governor Tim Griffin,112,73,2,37
+Marion,Precinct 0025,Attorney General,,REP,Lieutenant Governor Tim Griffin,240,135,3,102
+Marion,Precinct 0026,Attorney General,,REP,Lieutenant Governor Tim Griffin,289,103,1,185
+Marion,Precinct 0027,Attorney General,,REP,Lieutenant Governor Tim Griffin,1,0,0,1
+Marion,Precinct 0028,Attorney General,,REP,Lieutenant Governor Tim Griffin,87,48,0,39
+Marion,Precinct 0029,Attorney General,,REP,Lieutenant Governor Tim Griffin,10,8,0,2
+Marion,Precinct 0030,Attorney General,,REP,Lieutenant Governor Tim Griffin,244,140,7,97
+Marion,Precinct 0031,Attorney General,,REP,Lieutenant Governor Tim Griffin,0,0,0,0
+Marion,Precinct 0001,Auditor of State,,DEM,Diamond Arnold-Johnson,23,23,0,0
+Marion,Precinct 0002,Auditor of State,,DEM,Diamond Arnold-Johnson,50,14,1,35
+Marion,Precinct 0003,Auditor of State,,DEM,Diamond Arnold-Johnson,35,14,1,20
+Marion,Precinct 0004,Auditor of State,,DEM,Diamond Arnold-Johnson,31,22,1,8
+Marion,Precinct 0005,Auditor of State,,DEM,Diamond Arnold-Johnson,22,4,0,18
+Marion,Precinct 0006,Auditor of State,,DEM,Diamond Arnold-Johnson,172,143,0,29
+Marion,Precinct 0007,Auditor of State,,DEM,Diamond Arnold-Johnson,11,11,0,0
+Marion,Precinct 0008,Auditor of State,,DEM,Diamond Arnold-Johnson,82,59,4,19
+Marion,Precinct 0009,Auditor of State,,DEM,Diamond Arnold-Johnson,56,20,3,33
+Marion,Precinct 0010,Auditor of State,,DEM,Diamond Arnold-Johnson,10,6,0,4
+Marion,Precinct 0011,Auditor of State,,DEM,Diamond Arnold-Johnson,12,6,0,6
+Marion,Precinct 0012,Auditor of State,,DEM,Diamond Arnold-Johnson,5,5,0,0
+Marion,Precinct 0013,Auditor of State,,DEM,Diamond Arnold-Johnson,6,3,0,3
+Marion,Precinct 0014,Auditor of State,,DEM,Diamond Arnold-Johnson,3,3,0,0
+Marion,Precinct 0015,Auditor of State,,DEM,Diamond Arnold-Johnson,13,9,1,3
+Marion,Precinct 0016,Auditor of State,,DEM,Diamond Arnold-Johnson,97,71,2,24
+Marion,Precinct 0017,Auditor of State,,DEM,Diamond Arnold-Johnson,35,15,3,17
+Marion,Precinct 0018,Auditor of State,,DEM,Diamond Arnold-Johnson,21,10,1,10
+Marion,Precinct 0019,Auditor of State,,DEM,Diamond Arnold-Johnson,44,28,0,16
+Marion,Precinct 0020,Auditor of State,,DEM,Diamond Arnold-Johnson,23,12,3,8
+Marion,Precinct 0021,Auditor of State,,DEM,Diamond Arnold-Johnson,4,1,0,3
+Marion,Precinct 0022,Auditor of State,,DEM,Diamond Arnold-Johnson,3,3,0,0
+Marion,Precinct 0023,Auditor of State,,DEM,Diamond Arnold-Johnson,28,13,1,14
+Marion,Precinct 0024,Auditor of State,,DEM,Diamond Arnold-Johnson,13,9,0,4
+Marion,Precinct 0025,Auditor of State,,DEM,Diamond Arnold-Johnson,50,38,2,10
+Marion,Precinct 0026,Auditor of State,,DEM,Diamond Arnold-Johnson,37,19,1,17
+Marion,Precinct 0027,Auditor of State,,DEM,Diamond Arnold-Johnson,0,0,0,0
+Marion,Precinct 0028,Auditor of State,,DEM,Diamond Arnold-Johnson,23,19,0,4
+Marion,Precinct 0029,Auditor of State,,DEM,Diamond Arnold-Johnson,4,3,0,1
+Marion,Precinct 0030,Auditor of State,,DEM,Diamond Arnold-Johnson,52,34,4,14
+Marion,Precinct 0031,Auditor of State,,DEM,Diamond Arnold-Johnson,0,0,0,0
+Marion,Precinct 0001,Auditor of State,,LIB,Simeon Snow,2,2,0,0
+Marion,Precinct 0002,Auditor of State,,LIB,Simeon Snow,13,4,0,9
+Marion,Precinct 0003,Auditor of State,,LIB,Simeon Snow,4,0,0,4
+Marion,Precinct 0004,Auditor of State,,LIB,Simeon Snow,2,0,0,2
+Marion,Precinct 0005,Auditor of State,,LIB,Simeon Snow,3,0,0,3
+Marion,Precinct 0006,Auditor of State,,LIB,Simeon Snow,41,30,0,11
+Marion,Precinct 0007,Auditor of State,,LIB,Simeon Snow,2,2,0,0
+Marion,Precinct 0008,Auditor of State,,LIB,Simeon Snow,38,21,0,17
+Marion,Precinct 0009,Auditor of State,,LIB,Simeon Snow,9,4,0,5
+Marion,Precinct 0010,Auditor of State,,LIB,Simeon Snow,11,7,0,4
+Marion,Precinct 0011,Auditor of State,,LIB,Simeon Snow,3,0,0,3
+Marion,Precinct 0012,Auditor of State,,LIB,Simeon Snow,0,0,0,0
+Marion,Precinct 0013,Auditor of State,,LIB,Simeon Snow,1,1,0,0
+Marion,Precinct 0014,Auditor of State,,LIB,Simeon Snow,0,0,0,0
+Marion,Precinct 0015,Auditor of State,,LIB,Simeon Snow,1,0,0,1
+Marion,Precinct 0016,Auditor of State,,LIB,Simeon Snow,20,12,0,8
+Marion,Precinct 0017,Auditor of State,,LIB,Simeon Snow,10,5,1,4
+Marion,Precinct 0018,Auditor of State,,LIB,Simeon Snow,4,1,0,3
+Marion,Precinct 0019,Auditor of State,,LIB,Simeon Snow,8,4,0,4
+Marion,Precinct 0020,Auditor of State,,LIB,Simeon Snow,8,2,0,6
+Marion,Precinct 0021,Auditor of State,,LIB,Simeon Snow,1,1,0,0
+Marion,Precinct 0022,Auditor of State,,LIB,Simeon Snow,0,0,0,0
+Marion,Precinct 0023,Auditor of State,,LIB,Simeon Snow,13,2,0,11
+Marion,Precinct 0024,Auditor of State,,LIB,Simeon Snow,6,4,0,2
+Marion,Precinct 0025,Auditor of State,,LIB,Simeon Snow,11,7,0,4
+Marion,Precinct 0026,Auditor of State,,LIB,Simeon Snow,14,4,0,10
+Marion,Precinct 0027,Auditor of State,,LIB,Simeon Snow,1,0,0,1
+Marion,Precinct 0028,Auditor of State,,LIB,Simeon Snow,6,5,0,1
+Marion,Precinct 0029,Auditor of State,,LIB,Simeon Snow,0,0,0,0
+Marion,Precinct 0030,Auditor of State,,LIB,Simeon Snow,8,4,1,3
+Marion,Precinct 0031,Auditor of State,,LIB,Simeon Snow,0,0,0,0
+Marion,Precinct 0001,Auditor of State,,REP,Treasurer of State Dennis Milligan,81,72,2,7
+Marion,Precinct 0002,Auditor of State,,REP,Treasurer of State Dennis Milligan,240,46,7,187
+Marion,Precinct 0003,Auditor of State,,REP,Treasurer of State Dennis Milligan,188,96,1,91
+Marion,Precinct 0004,Auditor of State,,REP,Treasurer of State Dennis Milligan,64,34,0,30
+Marion,Precinct 0005,Auditor of State,,REP,Treasurer of State Dennis Milligan,60,2,1,57
+Marion,Precinct 0006,Auditor of State,,REP,Treasurer of State Dennis Milligan,584,435,17,132
+Marion,Precinct 0007,Auditor of State,,REP,Treasurer of State Dennis Milligan,38,28,0,10
+Marion,Precinct 0008,Auditor of State,,REP,Treasurer of State Dennis Milligan,612,404,4,204
+Marion,Precinct 0009,Auditor of State,,REP,Treasurer of State Dennis Milligan,352,119,3,230
+Marion,Precinct 0010,Auditor of State,,REP,Treasurer of State Dennis Milligan,62,24,0,38
+Marion,Precinct 0011,Auditor of State,,REP,Treasurer of State Dennis Milligan,40,16,0,24
+Marion,Precinct 0012,Auditor of State,,REP,Treasurer of State Dennis Milligan,12,10,0,2
+Marion,Precinct 0013,Auditor of State,,REP,Treasurer of State Dennis Milligan,19,9,1,9
+Marion,Precinct 0014,Auditor of State,,REP,Treasurer of State Dennis Milligan,20,14,0,6
+Marion,Precinct 0015,Auditor of State,,REP,Treasurer of State Dennis Milligan,58,45,0,13
+Marion,Precinct 0016,Auditor of State,,REP,Treasurer of State Dennis Milligan,431,271,6,154
+Marion,Precinct 0017,Auditor of State,,REP,Treasurer of State Dennis Milligan,234,94,10,130
+Marion,Precinct 0018,Auditor of State,,REP,Treasurer of State Dennis Milligan,121,52,0,69
+Marion,Precinct 0019,Auditor of State,,REP,Treasurer of State Dennis Milligan,173,97,4,72
+Marion,Precinct 0020,Auditor of State,,REP,Treasurer of State Dennis Milligan,198,117,0,81
+Marion,Precinct 0021,Auditor of State,,REP,Treasurer of State Dennis Milligan,31,12,0,19
+Marion,Precinct 0022,Auditor of State,,REP,Treasurer of State Dennis Milligan,10,4,1,5
+Marion,Precinct 0023,Auditor of State,,REP,Treasurer of State Dennis Milligan,136,44,1,91
+Marion,Precinct 0024,Auditor of State,,REP,Treasurer of State Dennis Milligan,108,70,2,36
+Marion,Precinct 0025,Auditor of State,,REP,Treasurer of State Dennis Milligan,239,135,3,101
+Marion,Precinct 0026,Auditor of State,,REP,Treasurer of State Dennis Milligan,278,102,1,175
+Marion,Precinct 0027,Auditor of State,,REP,Treasurer of State Dennis Milligan,0,0,0,0
+Marion,Precinct 0028,Auditor of State,,REP,Treasurer of State Dennis Milligan,86,47,0,39
+Marion,Precinct 0029,Auditor of State,,REP,Treasurer of State Dennis Milligan,12,9,0,3
+Marion,Precinct 0030,Auditor of State,,REP,Treasurer of State Dennis Milligan,246,139,7,100
+Marion,Precinct 0031,Auditor of State,,REP,Treasurer of State Dennis Milligan,0,0,0,0
+Marion,Precinct 0001,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,24,24,0,0
+Marion,Precinct 0002,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,56,17,1,38
+Marion,Precinct 0003,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,37,13,1,23
+Marion,Precinct 0004,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,32,23,1,8
+Marion,Precinct 0005,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,24,4,0,20
+Marion,Precinct 0006,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,196,162,0,34
+Marion,Precinct 0007,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,13,13,0,0
+Marion,Precinct 0008,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,96,69,4,23
+Marion,Precinct 0009,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,61,26,3,32
+Marion,Precinct 0010,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,12,7,0,5
+Marion,Precinct 0011,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,12,6,0,6
+Marion,Precinct 0012,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,4,4,0,0
+Marion,Precinct 0013,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,6,5,0,1
+Marion,Precinct 0014,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,3,3,0,0
+Marion,Precinct 0015,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,14,11,1,2
+Marion,Precinct 0016,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,107,80,2,25
+Marion,Precinct 0017,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,41,17,5,19
+Marion,Precinct 0018,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,22,10,1,11
+Marion,Precinct 0019,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,47,29,0,18
+Marion,Precinct 0020,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,26,13,3,10
+Marion,Precinct 0021,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,4,1,0,3
+Marion,Precinct 0022,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,3,3,0,0
+Marion,Precinct 0023,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,32,15,1,16
+Marion,Precinct 0024,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,14,10,0,4
+Marion,Precinct 0025,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,59,45,2,12
+Marion,Precinct 0026,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,41,23,1,17
+Marion,Precinct 0027,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,0,0,0,0
+Marion,Precinct 0028,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,26,22,0,4
+Marion,Precinct 0029,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,5,4,0,1
+Marion,Precinct 0030,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,59,35,5,19
+Marion,Precinct 0031,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,0,0,0,0
+Marion,Precinct 0001,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,81,72,2,7
+Marion,Precinct 0002,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,247,49,7,191
+Marion,Precinct 0003,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,189,97,1,91
+Marion,Precinct 0004,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,67,35,0,32
+Marion,Precinct 0005,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,60,2,1,57
+Marion,Precinct 0006,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,602,447,17,138
+Marion,Precinct 0007,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,39,29,0,10
+Marion,Precinct 0008,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,634,414,4,216
+Marion,Precinct 0009,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,356,118,3,235
+Marion,Precinct 0010,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,71,30,0,41
+Marion,Precinct 0011,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,42,15,0,27
+Marion,Precinct 0012,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,12,10,0,2
+Marion,Precinct 0013,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,19,8,1,10
+Marion,Precinct 0014,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,20,14,0,6
+Marion,Precinct 0015,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,56,42,0,14
+Marion,Precinct 0016,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,435,270,6,159
+Marion,Precinct 0017,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,239,97,9,133
+Marion,Precinct 0018,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,120,50,0,70
+Marion,Precinct 0019,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,179,102,4,73
+Marion,Precinct 0020,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,203,118,0,85
+Marion,Precinct 0021,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,32,13,0,19
+Marion,Precinct 0022,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,10,4,1,5
+Marion,Precinct 0023,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,143,44,1,98
+Marion,Precinct 0024,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,108,69,2,37
+Marion,Precinct 0025,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,238,133,3,102
+Marion,Precinct 0026,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,288,102,1,185
+Marion,Precinct 0027,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,1,0,0,1
+Marion,Precinct 0028,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,89,49,0,40
+Marion,Precinct 0029,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,11,8,0,3
+Marion,Precinct 0030,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,244,143,7,94
+Marion,Precinct 0031,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,0,0,0,0
+Marion,Precinct 0001,Governor,,DEM,Chris Jones,27,27,0,0
+Marion,Precinct 0002,Governor,,DEM,Chris Jones,56,14,1,41
+Marion,Precinct 0003,Governor,,DEM,Chris Jones,37,16,1,20
+Marion,Precinct 0004,Governor,,DEM,Chris Jones,34,25,1,8
+Marion,Precinct 0005,Governor,,DEM,Chris Jones,25,4,0,21
+Marion,Precinct 0006,Governor,,DEM,Chris Jones,193,159,1,33
+Marion,Precinct 0007,Governor,,DEM,Chris Jones,12,12,0,0
+Marion,Precinct 0008,Governor,,DEM,Chris Jones,105,75,4,26
+Marion,Precinct 0009,Governor,,DEM,Chris Jones,55,22,3,30
+Marion,Precinct 0010,Governor,,DEM,Chris Jones,11,6,0,5
+Marion,Precinct 0011,Governor,,DEM,Chris Jones,13,7,0,6
+Marion,Precinct 0012,Governor,,DEM,Chris Jones,5,5,0,0
+Marion,Precinct 0013,Governor,,DEM,Chris Jones,8,5,0,3
+Marion,Precinct 0014,Governor,,DEM,Chris Jones,4,4,0,0
+Marion,Precinct 0015,Governor,,DEM,Chris Jones,15,11,1,3
+Marion,Precinct 0016,Governor,,DEM,Chris Jones,117,87,2,28
+Marion,Precinct 0017,Governor,,DEM,Chris Jones,49,21,4,24
+Marion,Precinct 0018,Governor,,DEM,Chris Jones,24,12,1,11
+Marion,Precinct 0019,Governor,,DEM,Chris Jones,50,31,0,19
+Marion,Precinct 0020,Governor,,DEM,Chris Jones,24,13,3,8
+Marion,Precinct 0021,Governor,,DEM,Chris Jones,4,1,0,3
+Marion,Precinct 0022,Governor,,DEM,Chris Jones,2,2,0,0
+Marion,Precinct 0023,Governor,,DEM,Chris Jones,36,17,2,17
+Marion,Precinct 0024,Governor,,DEM,Chris Jones,13,9,0,4
+Marion,Precinct 0025,Governor,,DEM,Chris Jones,61,45,2,14
+Marion,Precinct 0026,Governor,,DEM,Chris Jones,43,21,1,21
+Marion,Precinct 0027,Governor,,DEM,Chris Jones,0,0,0,0
+Marion,Precinct 0028,Governor,,DEM,Chris Jones,25,20,0,5
+Marion,Precinct 0029,Governor,,DEM,Chris Jones,5,4,0,1
+Marion,Precinct 0030,Governor,,DEM,Chris Jones,66,44,3,19
+Marion,Precinct 0031,Governor,,DEM,Chris Jones,0,0,0,0
+Marion,Precinct 0001,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,2,0,0
+Marion,Precinct 0002,Governor,,LIB,"Ricky Dale Harrington, Jr.",6,1,0,5
+Marion,Precinct 0003,Governor,,LIB,"Ricky Dale Harrington, Jr.",4,0,0,4
+Marion,Precinct 0004,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Marion,Precinct 0005,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Marion,Precinct 0006,Governor,,LIB,"Ricky Dale Harrington, Jr.",20,13,0,7
+Marion,Precinct 0007,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,1,0,0
+Marion,Precinct 0008,Governor,,LIB,"Ricky Dale Harrington, Jr.",17,7,0,10
+Marion,Precinct 0009,Governor,,LIB,"Ricky Dale Harrington, Jr.",10,3,0,7
+Marion,Precinct 0010,Governor,,LIB,"Ricky Dale Harrington, Jr.",7,3,0,4
+Marion,Precinct 0011,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,1,0,0
+Marion,Precinct 0012,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,1,0,0
+Marion,Precinct 0013,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Marion,Precinct 0014,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Marion,Precinct 0015,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Marion,Precinct 0016,Governor,,LIB,"Ricky Dale Harrington, Jr.",19,13,0,6
+Marion,Precinct 0017,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,0,1,1
+Marion,Precinct 0018,Governor,,LIB,"Ricky Dale Harrington, Jr.",4,2,0,2
+Marion,Precinct 0019,Governor,,LIB,"Ricky Dale Harrington, Jr.",8,3,0,5
+Marion,Precinct 0020,Governor,,LIB,"Ricky Dale Harrington, Jr.",4,1,0,3
+Marion,Precinct 0021,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Marion,Precinct 0022,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Marion,Precinct 0023,Governor,,LIB,"Ricky Dale Harrington, Jr.",8,1,0,7
+Marion,Precinct 0024,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,3,0,0
+Marion,Precinct 0025,Governor,,LIB,"Ricky Dale Harrington, Jr.",6,0,2,4
+Marion,Precinct 0026,Governor,,LIB,"Ricky Dale Harrington, Jr.",7,1,0,6
+Marion,Precinct 0027,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Marion,Precinct 0028,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,1,0,0
+Marion,Precinct 0029,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Marion,Precinct 0030,Governor,,LIB,"Ricky Dale Harrington, Jr.",7,2,1,4
+Marion,Precinct 0031,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Marion,Precinct 0001,Governor,,REP,Sarah Huckabee Sanders,77,68,2,7
+Marion,Precinct 0002,Governor,,REP,Sarah Huckabee Sanders,245,52,7,186
+Marion,Precinct 0003,Governor,,REP,Sarah Huckabee Sanders,189,94,1,94
+Marion,Precinct 0004,Governor,,REP,Sarah Huckabee Sanders,69,37,0,32
+Marion,Precinct 0005,Governor,,REP,Sarah Huckabee Sanders,60,2,1,57
+Marion,Precinct 0006,Governor,,REP,Sarah Huckabee Sanders,602,450,16,136
+Marion,Precinct 0007,Governor,,REP,Sarah Huckabee Sanders,39,30,0,9
+Marion,Precinct 0008,Governor,,REP,Sarah Huckabee Sanders,614,405,4,205
+Marion,Precinct 0009,Governor,,REP,Sarah Huckabee Sanders,355,119,2,234
+Marion,Precinct 0010,Governor,,REP,Sarah Huckabee Sanders,66,28,0,38
+Marion,Precinct 0011,Governor,,REP,Sarah Huckabee Sanders,41,14,0,27
+Marion,Precinct 0012,Governor,,REP,Sarah Huckabee Sanders,12,10,0,2
+Marion,Precinct 0013,Governor,,REP,Sarah Huckabee Sanders,17,8,1,8
+Marion,Precinct 0014,Governor,,REP,Sarah Huckabee Sanders,19,13,0,6
+Marion,Precinct 0015,Governor,,REP,Sarah Huckabee Sanders,57,44,0,13
+Marion,Precinct 0016,Governor,,REP,Sarah Huckabee Sanders,418,255,6,157
+Marion,Precinct 0017,Governor,,REP,Sarah Huckabee Sanders,232,94,9,129
+Marion,Precinct 0018,Governor,,REP,Sarah Huckabee Sanders,118,49,0,69
+Marion,Precinct 0019,Governor,,REP,Sarah Huckabee Sanders,170,98,4,68
+Marion,Precinct 0020,Governor,,REP,Sarah Huckabee Sanders,204,121,0,83
+Marion,Precinct 0021,Governor,,REP,Sarah Huckabee Sanders,32,13,0,19
+Marion,Precinct 0022,Governor,,REP,Sarah Huckabee Sanders,10,4,1,5
+Marion,Precinct 0023,Governor,,REP,Sarah Huckabee Sanders,134,42,0,92
+Marion,Precinct 0024,Governor,,REP,Sarah Huckabee Sanders,110,72,2,36
+Marion,Precinct 0025,Governor,,REP,Sarah Huckabee Sanders,234,136,1,97
+Marion,Precinct 0026,Governor,,REP,Sarah Huckabee Sanders,280,102,1,177
+Marion,Precinct 0027,Governor,,REP,Sarah Huckabee Sanders,1,0,0,1
+Marion,Precinct 0028,Governor,,REP,Sarah Huckabee Sanders,90,50,0,40
+Marion,Precinct 0029,Governor,,REP,Sarah Huckabee Sanders,11,8,0,3
+Marion,Precinct 0030,Governor,,REP,Sarah Huckabee Sanders,238,133,8,97
+Marion,Precinct 0031,Governor,,REP,Sarah Huckabee Sanders,0,0,0,0
+Marion,Precinct 0001,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,78,69,2,7
+Marion,Precinct 0002,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,240,46,7,187
+Marion,Precinct 0003,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,181,93,1,87
+Marion,Precinct 0004,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,68,36,0,32
+Marion,Precinct 0005,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,62,2,1,59
+Marion,Precinct 0006,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,594,446,17,131
+Marion,Precinct 0007,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,41,31,0,10
+Marion,Precinct 0008,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,614,404,4,206
+Marion,Precinct 0009,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,347,115,3,229
+Marion,Precinct 0010,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,61,27,0,34
+Marion,Precinct 0011,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,40,16,0,24
+Marion,Precinct 0012,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,11,9,0,2
+Marion,Precinct 0013,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,20,10,1,9
+Marion,Precinct 0014,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,18,13,0,5
+Marion,Precinct 0015,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,57,44,0,13
+Marion,Precinct 0016,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,429,266,6,157
+Marion,Precinct 0017,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,234,95,9,130
+Marion,Precinct 0018,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,119,53,0,66
+Marion,Precinct 0019,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,173,98,4,71
+Marion,Precinct 0020,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,202,120,0,82
+Marion,Precinct 0021,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,32,13,0,19
+Marion,Precinct 0022,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,10,4,1,5
+Marion,Precinct 0023,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,141,44,1,96
+Marion,Precinct 0024,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,111,71,2,38
+Marion,Precinct 0025,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,240,139,3,98
+Marion,Precinct 0026,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,275,98,1,176
+Marion,Precinct 0027,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,1,0,0,1
+Marion,Precinct 0028,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,87,47,0,40
+Marion,Precinct 0029,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,11,8,0,3
+Marion,Precinct 0030,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,242,141,8,93
+Marion,Precinct 0031,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,0,0,0,0
+Marion,Precinct 0001,Lieutenant Governor,,LIB,Frank Gilbert,2,2,0,0
+Marion,Precinct 0002,Lieutenant Governor,,LIB,Frank Gilbert,10,4,0,6
+Marion,Precinct 0003,Lieutenant Governor,,LIB,Frank Gilbert,5,1,0,4
+Marion,Precinct 0004,Lieutenant Governor,,LIB,Frank Gilbert,1,1,0,0
+Marion,Precinct 0005,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0
+Marion,Precinct 0006,Lieutenant Governor,,LIB,Frank Gilbert,39,30,0,9
+Marion,Precinct 0007,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0
+Marion,Precinct 0008,Lieutenant Governor,,LIB,Frank Gilbert,31,20,0,11
+Marion,Precinct 0009,Lieutenant Governor,,LIB,Frank Gilbert,12,6,0,6
+Marion,Precinct 0010,Lieutenant Governor,,LIB,Frank Gilbert,12,4,0,8
+Marion,Precinct 0011,Lieutenant Governor,,LIB,Frank Gilbert,3,0,0,3
+Marion,Precinct 0012,Lieutenant Governor,,LIB,Frank Gilbert,1,1,0,0
+Marion,Precinct 0013,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0
+Marion,Precinct 0014,Lieutenant Governor,,LIB,Frank Gilbert,1,0,0,1
+Marion,Precinct 0015,Lieutenant Governor,,LIB,Frank Gilbert,2,1,0,1
+Marion,Precinct 0016,Lieutenant Governor,,LIB,Frank Gilbert,21,15,0,6
+Marion,Precinct 0017,Lieutenant Governor,,LIB,Frank Gilbert,10,3,1,6
+Marion,Precinct 0018,Lieutenant Governor,,LIB,Frank Gilbert,5,0,0,5
+Marion,Precinct 0019,Lieutenant Governor,,LIB,Frank Gilbert,4,2,0,2
+Marion,Precinct 0020,Lieutenant Governor,,LIB,Frank Gilbert,5,0,0,5
+Marion,Precinct 0021,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0
+Marion,Precinct 0022,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0
+Marion,Precinct 0023,Lieutenant Governor,,LIB,Frank Gilbert,8,2,0,6
+Marion,Precinct 0024,Lieutenant Governor,,LIB,Frank Gilbert,7,5,0,2
+Marion,Precinct 0025,Lieutenant Governor,,LIB,Frank Gilbert,10,3,0,7
+Marion,Precinct 0026,Lieutenant Governor,,LIB,Frank Gilbert,8,2,0,6
+Marion,Precinct 0027,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0
+Marion,Precinct 0028,Lieutenant Governor,,LIB,Frank Gilbert,4,3,0,1
+Marion,Precinct 0029,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0
+Marion,Precinct 0030,Lieutenant Governor,,LIB,Frank Gilbert,11,4,1,6
+Marion,Precinct 0031,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0
+Marion,Precinct 0001,Lieutenant Governor,,DEM,Kelly Ross Krout,27,27,0,0
+Marion,Precinct 0002,Lieutenant Governor,,DEM,Kelly Ross Krout,54,15,1,38
+Marion,Precinct 0003,Lieutenant Governor,,DEM,Kelly Ross Krout,38,14,1,23
+Marion,Precinct 0004,Lieutenant Governor,,DEM,Kelly Ross Krout,32,23,1,8
+Marion,Precinct 0005,Lieutenant Governor,,DEM,Kelly Ross Krout,22,4,0,18
+Marion,Precinct 0006,Lieutenant Governor,,DEM,Kelly Ross Krout,174,141,0,33
+Marion,Precinct 0007,Lieutenant Governor,,DEM,Kelly Ross Krout,12,12,0,0
+Marion,Precinct 0008,Lieutenant Governor,,DEM,Kelly Ross Krout,90,64,4,22
+Marion,Precinct 0009,Lieutenant Governor,,DEM,Kelly Ross Krout,59,23,3,33
+Marion,Precinct 0010,Lieutenant Governor,,DEM,Kelly Ross Krout,10,6,0,4
+Marion,Precinct 0011,Lieutenant Governor,,DEM,Kelly Ross Krout,12,6,0,6
+Marion,Precinct 0012,Lieutenant Governor,,DEM,Kelly Ross Krout,5,5,0,0
+Marion,Precinct 0013,Lieutenant Governor,,DEM,Kelly Ross Krout,5,3,0,2
+Marion,Precinct 0014,Lieutenant Governor,,DEM,Kelly Ross Krout,4,4,0,0
+Marion,Precinct 0015,Lieutenant Governor,,DEM,Kelly Ross Krout,14,10,1,3
+Marion,Precinct 0016,Lieutenant Governor,,DEM,Kelly Ross Krout,98,73,2,23
+Marion,Precinct 0017,Lieutenant Governor,,DEM,Kelly Ross Krout,40,17,4,19
+Marion,Precinct 0018,Lieutenant Governor,,DEM,Kelly Ross Krout,22,10,1,11
+Marion,Precinct 0019,Lieutenant Governor,,DEM,Kelly Ross Krout,50,31,0,19
+Marion,Precinct 0020,Lieutenant Governor,,DEM,Kelly Ross Krout,24,13,3,8
+Marion,Precinct 0021,Lieutenant Governor,,DEM,Kelly Ross Krout,4,1,0,3
+Marion,Precinct 0022,Lieutenant Governor,,DEM,Kelly Ross Krout,3,3,0,0
+Marion,Precinct 0023,Lieutenant Governor,,DEM,Kelly Ross Krout,28,14,1,13
+Marion,Precinct 0024,Lieutenant Governor,,DEM,Kelly Ross Krout,10,8,0,2
+Marion,Precinct 0025,Lieutenant Governor,,DEM,Kelly Ross Krout,50,38,2,10
+Marion,Precinct 0026,Lieutenant Governor,,DEM,Kelly Ross Krout,43,23,1,19
+Marion,Precinct 0027,Lieutenant Governor,,DEM,Kelly Ross Krout,0,0,0,0
+Marion,Precinct 0028,Lieutenant Governor,,DEM,Kelly Ross Krout,24,21,0,3
+Marion,Precinct 0029,Lieutenant Governor,,DEM,Kelly Ross Krout,5,4,0,1
+Marion,Precinct 0030,Lieutenant Governor,,DEM,Kelly Ross Krout,57,35,3,19
+Marion,Precinct 0031,Lieutenant Governor,,DEM,Kelly Ross Krout,0,0,0,0
+Marion,Precinct 0001,Secretary of State,,REP,Secretary of State John Thurston,81,72,2,7
+Marion,Precinct 0002,Secretary of State,,REP,Secretary of State John Thurston,246,50,7,189
+Marion,Precinct 0003,Secretary of State,,REP,Secretary of State John Thurston,189,94,1,94
+Marion,Precinct 0004,Secretary of State,,REP,Secretary of State John Thurston,67,35,0,32
+Marion,Precinct 0005,Secretary of State,,REP,Secretary of State John Thurston,62,2,1,59
+Marion,Precinct 0006,Secretary of State,,REP,Secretary of State John Thurston,609,451,17,141
+Marion,Precinct 0007,Secretary of State,,REP,Secretary of State John Thurston,41,31,0,10
+Marion,Precinct 0008,Secretary of State,,REP,Secretary of State John Thurston,636,419,4,213
+Marion,Precinct 0009,Secretary of State,,REP,Secretary of State John Thurston,356,118,3,235
+Marion,Precinct 0010,Secretary of State,,REP,Secretary of State John Thurston,71,30,0,41
+Marion,Precinct 0011,Secretary of State,,REP,Secretary of State John Thurston,44,16,0,28
+Marion,Precinct 0012,Secretary of State,,REP,Secretary of State John Thurston,11,9,0,2
+Marion,Precinct 0013,Secretary of State,,REP,Secretary of State John Thurston,20,9,1,10
+Marion,Precinct 0014,Secretary of State,,REP,Secretary of State John Thurston,20,14,0,6
+Marion,Precinct 0015,Secretary of State,,REP,Secretary of State John Thurston,57,44,0,13
+Marion,Precinct 0016,Secretary of State,,REP,Secretary of State John Thurston,447,279,6,162
+Marion,Precinct 0017,Secretary of State,,REP,Secretary of State John Thurston,243,99,10,134
+Marion,Precinct 0018,Secretary of State,,REP,Secretary of State John Thurston,124,53,0,71
+Marion,Precinct 0019,Secretary of State,,REP,Secretary of State John Thurston,177,102,4,71
+Marion,Precinct 0020,Secretary of State,,REP,Secretary of State John Thurston,205,121,0,84
+Marion,Precinct 0021,Secretary of State,,REP,Secretary of State John Thurston,32,13,0,19
+Marion,Precinct 0022,Secretary of State,,REP,Secretary of State John Thurston,10,4,1,5
+Marion,Precinct 0023,Secretary of State,,REP,Secretary of State John Thurston,145,45,1,99
+Marion,Precinct 0024,Secretary of State,,REP,Secretary of State John Thurston,112,73,2,37
+Marion,Precinct 0025,Secretary of State,,REP,Secretary of State John Thurston,249,141,3,105
+Marion,Precinct 0026,Secretary of State,,REP,Secretary of State John Thurston,281,100,1,180
+Marion,Precinct 0027,Secretary of State,,REP,Secretary of State John Thurston,1,0,0,1
+Marion,Precinct 0028,Secretary of State,,REP,Secretary of State John Thurston,92,50,0,42
+Marion,Precinct 0029,Secretary of State,,REP,Secretary of State John Thurston,12,9,0,3
+Marion,Precinct 0030,Secretary of State,,REP,Secretary of State John Thurston,249,141,8,100
+Marion,Precinct 0031,Secretary of State,,REP,Secretary of State John Thurston,0,0,0,0
+Marion,Precinct 0001,Secretary of State,,DEM,Anna Beth Gorman,25,25,0,0
+Marion,Precinct 0002,Secretary of State,,DEM,Anna Beth Gorman,60,17,1,42
+Marion,Precinct 0003,Secretary of State,,DEM,Anna Beth Gorman,36,16,1,19
+Marion,Precinct 0004,Secretary of State,,DEM,Anna Beth Gorman,33,24,1,8
+Marion,Precinct 0005,Secretary of State,,DEM,Anna Beth Gorman,23,4,0,19
+Marion,Precinct 0006,Secretary of State,,DEM,Anna Beth Gorman,193,162,0,31
+Marion,Precinct 0007,Secretary of State,,DEM,Anna Beth Gorman,12,12,0,0
+Marion,Precinct 0008,Secretary of State,,DEM,Anna Beth Gorman,94,65,4,25
+Marion,Precinct 0009,Secretary of State,,DEM,Anna Beth Gorman,61,25,2,34
+Marion,Precinct 0010,Secretary of State,,DEM,Anna Beth Gorman,13,7,0,6
+Marion,Precinct 0011,Secretary of State,,DEM,Anna Beth Gorman,11,6,0,5
+Marion,Precinct 0012,Secretary of State,,DEM,Anna Beth Gorman,5,5,0,0
+Marion,Precinct 0013,Secretary of State,,DEM,Anna Beth Gorman,6,4,0,2
+Marion,Precinct 0014,Secretary of State,,DEM,Anna Beth Gorman,3,3,0,0
+Marion,Precinct 0015,Secretary of State,,DEM,Anna Beth Gorman,14,10,1,3
+Marion,Precinct 0016,Secretary of State,,DEM,Anna Beth Gorman,100,73,2,25
+Marion,Precinct 0017,Secretary of State,,DEM,Anna Beth Gorman,38,16,4,18
+Marion,Precinct 0018,Secretary of State,,DEM,Anna Beth Gorman,22,10,1,11
+Marion,Precinct 0019,Secretary of State,,DEM,Anna Beth Gorman,50,29,0,21
+Marion,Precinct 0020,Secretary of State,,DEM,Anna Beth Gorman,26,12,3,11
+Marion,Precinct 0021,Secretary of State,,DEM,Anna Beth Gorman,4,1,0,3
+Marion,Precinct 0022,Secretary of State,,DEM,Anna Beth Gorman,3,3,0,0
+Marion,Precinct 0023,Secretary of State,,DEM,Anna Beth Gorman,30,14,1,15
+Marion,Precinct 0024,Secretary of State,,DEM,Anna Beth Gorman,13,9,0,4
+Marion,Precinct 0025,Secretary of State,,DEM,Anna Beth Gorman,50,38,2,10
+Marion,Precinct 0026,Secretary of State,,DEM,Anna Beth Gorman,47,23,1,23
+Marion,Precinct 0027,Secretary of State,,DEM,Anna Beth Gorman,0,0,0,0
+Marion,Precinct 0028,Secretary of State,,DEM,Anna Beth Gorman,23,21,0,2
+Marion,Precinct 0029,Secretary of State,,DEM,Anna Beth Gorman,4,3,0,1
+Marion,Precinct 0030,Secretary of State,,DEM,Anna Beth Gorman,59,38,4,17
+Marion,Precinct 0031,Secretary of State,,DEM,Anna Beth Gorman,0,0,0,0
+Marion,Precinct 0001,State Treasurer,,DEM,Pam Whitaker,27,27,0,0
+Marion,Precinct 0002,State Treasurer,,DEM,Pam Whitaker,58,19,1,38
+Marion,Precinct 0003,State Treasurer,,DEM,Pam Whitaker,40,16,1,23
+Marion,Precinct 0004,State Treasurer,,DEM,Pam Whitaker,34,25,1,8
+Marion,Precinct 0005,State Treasurer,,DEM,Pam Whitaker,24,4,0,20
+Marion,Precinct 0006,State Treasurer,,DEM,Pam Whitaker,198,164,0,34
+Marion,Precinct 0007,State Treasurer,,DEM,Pam Whitaker,13,13,0,0
+Marion,Precinct 0008,State Treasurer,,DEM,Pam Whitaker,105,71,4,30
+Marion,Precinct 0009,State Treasurer,,DEM,Pam Whitaker,68,32,3,33
+Marion,Precinct 0010,State Treasurer,,DEM,Pam Whitaker,11,7,0,4
+Marion,Precinct 0011,State Treasurer,,DEM,Pam Whitaker,12,6,0,6
+Marion,Precinct 0012,State Treasurer,,DEM,Pam Whitaker,5,5,0,0
+Marion,Precinct 0013,State Treasurer,,DEM,Pam Whitaker,7,4,0,3
+Marion,Precinct 0014,State Treasurer,,DEM,Pam Whitaker,4,4,0,0
+Marion,Precinct 0015,State Treasurer,,DEM,Pam Whitaker,15,11,1,3
+Marion,Precinct 0016,State Treasurer,,DEM,Pam Whitaker,108,80,2,26
+Marion,Precinct 0017,State Treasurer,,DEM,Pam Whitaker,48,21,5,22
+Marion,Precinct 0018,State Treasurer,,DEM,Pam Whitaker,23,11,1,11
+Marion,Precinct 0019,State Treasurer,,DEM,Pam Whitaker,45,26,0,19
+Marion,Precinct 0020,State Treasurer,,DEM,Pam Whitaker,32,17,3,12
+Marion,Precinct 0021,State Treasurer,,DEM,Pam Whitaker,5,1,0,4
+Marion,Precinct 0022,State Treasurer,,DEM,Pam Whitaker,3,3,0,0
+Marion,Precinct 0023,State Treasurer,,DEM,Pam Whitaker,31,14,1,16
+Marion,Precinct 0024,State Treasurer,,DEM,Pam Whitaker,12,9,0,3
+Marion,Precinct 0025,State Treasurer,,DEM,Pam Whitaker,55,41,2,12
+Marion,Precinct 0026,State Treasurer,,DEM,Pam Whitaker,46,23,1,22
+Marion,Precinct 0027,State Treasurer,,DEM,Pam Whitaker,0,0,0,0
+Marion,Precinct 0028,State Treasurer,,DEM,Pam Whitaker,29,24,0,5
+Marion,Precinct 0029,State Treasurer,,DEM,Pam Whitaker,6,4,0,2
+Marion,Precinct 0030,State Treasurer,,DEM,Pam Whitaker,63,41,4,18
+Marion,Precinct 0031,State Treasurer,,DEM,Pam Whitaker,0,0,0,0
+Marion,Precinct 0001,State Treasurer,,REP,State Representative Mark Lowery,79,70,2,7
+Marion,Precinct 0002,State Treasurer,,REP,State Representative Mark Lowery,248,47,7,194
+Marion,Precinct 0003,State Treasurer,,REP,State Representative Mark Lowery,187,93,1,93
+Marion,Precinct 0004,State Treasurer,,REP,State Representative Mark Lowery,66,35,0,31
+Marion,Precinct 0005,State Treasurer,,REP,State Representative Mark Lowery,61,2,1,58
+Marion,Precinct 0006,State Treasurer,,REP,State Representative Mark Lowery,604,450,17,137
+Marion,Precinct 0007,State Treasurer,,REP,State Representative Mark Lowery,39,29,0,10
+Marion,Precinct 0008,State Treasurer,,REP,State Representative Mark Lowery,624,411,4,209
+Marion,Precinct 0009,State Treasurer,,REP,State Representative Mark Lowery,346,111,3,232
+Marion,Precinct 0010,State Treasurer,,REP,State Representative Mark Lowery,72,29,0,43
+Marion,Precinct 0011,State Treasurer,,REP,State Representative Mark Lowery,42,16,0,26
+Marion,Precinct 0012,State Treasurer,,REP,State Representative Mark Lowery,12,10,0,2
+Marion,Precinct 0013,State Treasurer,,REP,State Representative Mark Lowery,19,9,1,9
+Marion,Precinct 0014,State Treasurer,,REP,State Representative Mark Lowery,19,13,0,6
+Marion,Precinct 0015,State Treasurer,,REP,State Representative Mark Lowery,57,44,0,13
+Marion,Precinct 0016,State Treasurer,,REP,State Representative Mark Lowery,441,273,6,162
+Marion,Precinct 0017,State Treasurer,,REP,State Representative Mark Lowery,233,93,9,131
+Marion,Precinct 0018,State Treasurer,,REP,State Representative Mark Lowery,123,52,0,71
+Marion,Precinct 0019,State Treasurer,,REP,State Representative Mark Lowery,179,102,4,73
+Marion,Precinct 0020,State Treasurer,,REP,State Representative Mark Lowery,201,119,0,82
+Marion,Precinct 0021,State Treasurer,,REP,State Representative Mark Lowery,31,13,0,18
+Marion,Precinct 0022,State Treasurer,,REP,State Representative Mark Lowery,10,4,1,5
+Marion,Precinct 0023,State Treasurer,,REP,State Representative Mark Lowery,144,45,1,98
+Marion,Precinct 0024,State Treasurer,,REP,State Representative Mark Lowery,110,72,2,36
+Marion,Precinct 0025,State Treasurer,,REP,State Representative Mark Lowery,245,140,3,102
+Marion,Precinct 0026,State Treasurer,,REP,State Representative Mark Lowery,282,101,1,180
+Marion,Precinct 0027,State Treasurer,,REP,State Representative Mark Lowery,1,0,0,1
+Marion,Precinct 0028,State Treasurer,,REP,State Representative Mark Lowery,87,47,0,40
+Marion,Precinct 0029,State Treasurer,,REP,State Representative Mark Lowery,10,8,0,2
+Marion,Precinct 0030,State Treasurer,,REP,State Representative Mark Lowery,243,137,8,98
+Marion,Precinct 0031,State Treasurer,,REP,State Representative Mark Lowery,0,0,0,0
+Marion,Precinct 0001,State Senate,23,DEM,Derek Huber,28,28,0,0
+Marion,Precinct 0002,State Senate,23,DEM,Derek Huber,59,17,2,40
+Marion,Precinct 0003,State Senate,23,DEM,Derek Huber,37,15,1,21
+Marion,Precinct 0004,State Senate,23,DEM,Derek Huber,35,26,1,8
+Marion,Precinct 0005,State Senate,23,DEM,Derek Huber,26,4,0,22
+Marion,Precinct 0006,State Senate,23,DEM,Derek Huber,201,161,0,40
+Marion,Precinct 0007,State Senate,23,DEM,Derek Huber,13,13,0,0
+Marion,Precinct 0008,State Senate,23,DEM,Derek Huber,110,77,4,29
+Marion,Precinct 0009,State Senate,23,DEM,Derek Huber,64,27,3,34
+Marion,Precinct 0010,State Senate,23,DEM,Derek Huber,17,8,0,9
+Marion,Precinct 0011,State Senate,23,DEM,Derek Huber,12,6,0,6
+Marion,Precinct 0012,State Senate,23,DEM,Derek Huber,5,5,0,0
+Marion,Precinct 0013,State Senate,23,DEM,Derek Huber,7,5,0,2
+Marion,Precinct 0014,State Senate,23,DEM,Derek Huber,4,4,0,0
+Marion,Precinct 0015,State Senate,23,DEM,Derek Huber,16,11,1,4
+Marion,Precinct 0016,State Senate,23,DEM,Derek Huber,112,82,2,28
+Marion,Precinct 0017,State Senate,23,DEM,Derek Huber,46,18,5,23
+Marion,Precinct 0018,State Senate,23,DEM,Derek Huber,27,14,1,12
+Marion,Precinct 0019,State Senate,23,DEM,Derek Huber,54,32,0,22
+Marion,Precinct 0020,State Senate,23,DEM,Derek Huber,30,17,3,10
+Marion,Precinct 0021,State Senate,23,DEM,Derek Huber,5,1,0,4
+Marion,Precinct 0022,State Senate,23,DEM,Derek Huber,3,3,0,0
+Marion,Precinct 0023,State Senate,23,DEM,Derek Huber,31,15,1,15
+Marion,Precinct 0024,State Senate,23,DEM,Derek Huber,13,9,0,4
+Marion,Precinct 0025,State Senate,23,DEM,Derek Huber,58,43,2,13
+Marion,Precinct 0026,State Senate,23,DEM,Derek Huber,45,22,1,22
+Marion,Precinct 0027,State Senate,23,DEM,Derek Huber,0,0,0,0
+Marion,Precinct 0028,State Senate,23,DEM,Derek Huber,24,22,0,2
+Marion,Precinct 0029,State Senate,23,DEM,Derek Huber,5,4,0,1
+Marion,Precinct 0030,State Senate,23,DEM,Derek Huber,67,44,4,19
+Marion,Precinct 0031,State Senate,23,DEM,Derek Huber,0,0,0,0
+Marion,Precinct 0001,State Senate,23,REP,Senator Scott Flippo,79,70,2,7
+Marion,Precinct 0002,State Senate,23,REP,Senator Scott Flippo,246,49,6,191
+Marion,Precinct 0003,State Senate,23,REP,Senator Scott Flippo,186,93,1,92
+Marion,Precinct 0004,State Senate,23,REP,Senator Scott Flippo,66,34,0,32
+Marion,Precinct 0005,State Senate,23,REP,Senator Scott Flippo,60,2,1,57
+Marion,Precinct 0006,State Senate,23,REP,Senator Scott Flippo,612,462,17,133
+Marion,Precinct 0007,State Senate,23,REP,Senator Scott Flippo,40,30,0,10
+Marion,Precinct 0008,State Senate,23,REP,Senator Scott Flippo,619,406,4,209
+Marion,Precinct 0009,State Senate,23,REP,Senator Scott Flippo,352,117,3,232
+Marion,Precinct 0010,State Senate,23,REP,Senator Scott Flippo,67,29,0,38
+Marion,Precinct 0011,State Senate,23,REP,Senator Scott Flippo,41,16,0,25
+Marion,Precinct 0012,State Senate,23,REP,Senator Scott Flippo,12,10,0,2
+Marion,Precinct 0013,State Senate,23,REP,Senator Scott Flippo,19,8,1,10
+Marion,Precinct 0014,State Senate,23,REP,Senator Scott Flippo,19,13,0,6
+Marion,Precinct 0015,State Senate,23,REP,Senator Scott Flippo,56,44,0,12
+Marion,Precinct 0016,State Senate,23,REP,Senator Scott Flippo,436,271,6,159
+Marion,Precinct 0017,State Senate,23,REP,Senator Scott Flippo,235,95,9,131
+Marion,Precinct 0018,State Senate,23,REP,Senator Scott Flippo,119,49,0,70
+Marion,Precinct 0019,State Senate,23,REP,Senator Scott Flippo,174,100,4,70
+Marion,Precinct 0020,State Senate,23,REP,Senator Scott Flippo,203,118,0,85
+Marion,Precinct 0021,State Senate,23,REP,Senator Scott Flippo,31,13,0,18
+Marion,Precinct 0022,State Senate,23,REP,Senator Scott Flippo,10,4,1,5
+Marion,Precinct 0023,State Senate,23,REP,Senator Scott Flippo,142,43,1,98
+Marion,Precinct 0024,State Senate,23,REP,Senator Scott Flippo,111,72,2,37
+Marion,Precinct 0025,State Senate,23,REP,Senator Scott Flippo,236,134,1,101
+Marion,Precinct 0026,State Senate,23,REP,Senator Scott Flippo,280,100,1,179
+Marion,Precinct 0027,State Senate,23,REP,Senator Scott Flippo,1,0,0,1
+Marion,Precinct 0028,State Senate,23,REP,Senator Scott Flippo,90,48,0,42
+Marion,Precinct 0029,State Senate,23,REP,Senator Scott Flippo,11,8,0,3
+Marion,Precinct 0030,State Senate,23,REP,Senator Scott Flippo,237,133,8,96
+Marion,Precinct 0031,State Senate,23,REP,Senator Scott Flippo,0,0,0,0
+Marion,Precinct 0001,State House,04,REP,Representative Jack Fortner,97,88,2,7
+Marion,Precinct 0002,State House,04,REP,Representative Jack Fortner,264,49,6,209
+Marion,Precinct 0003,State House,04,REP,Representative Jack Fortner,204,100,2,102
+Marion,Precinct 0004,State House,04,REP,Representative Jack Fortner,80,44,1,35
+Marion,Precinct 0005,State House,04,REP,Representative Jack Fortner,75,4,1,70
+Marion,Precinct 0006,State House,04,REP,Representative Jack Fortner,707,539,17,151
+Marion,Precinct 0007,State House,04,REP,Representative Jack Fortner,47,37,0,10
+Marion,Precinct 0008,State House,04,REP,Representative Jack Fortner,679,449,5,225
+Marion,Precinct 0009,State House,04,REP,Representative Jack Fortner,373,129,3,241
+Marion,Precinct 0010,State House,04,REP,Representative Jack Fortner,76,32,0,44
+Marion,Precinct 0011,State House,04,REP,Representative Jack Fortner,49,20,0,29
+Marion,Precinct 0012,State House,04,REP,Representative Jack Fortner,13,11,0,2
+Marion,Precinct 0013,State House,04,REP,Representative Jack Fortner,25,13,1,11
+Marion,Precinct 0014,State House,04,REP,Representative Jack Fortner,22,16,0,6
+Marion,Precinct 0015,State House,04,REP,Representative Jack Fortner,67,52,1,14
+Marion,Precinct 0016,State House,04,REP,Representative Jack Fortner,485,307,4,174
+Marion,Precinct 0017,State House,04,REP,Representative Jack Fortner,261,103,10,148
+Marion,Precinct 0018,State House,04,REP,Representative Jack Fortner,133,57,0,76
+Marion,Precinct 0019,State House,04,REP,Representative Jack Fortner,201,112,4,85
+Marion,Precinct 0020,State House,04,REP,Representative Jack Fortner,218,124,2,92
+Marion,Precinct 0021,State House,04,REP,Representative Jack Fortner,32,12,0,20
+Marion,Precinct 0022,State House,04,REP,Representative Jack Fortner,11,6,1,4
+Marion,Precinct 0023,State House,04,REP,Representative Jack Fortner,153,48,1,104
+Marion,Precinct 0024,State House,04,REP,Representative Jack Fortner,118,77,2,39
+Marion,Precinct 0025,State House,04,REP,Representative Jack Fortner,263,157,2,104
+Marion,Precinct 0026,State House,04,REP,Representative Jack Fortner,302,111,1,190
+Marion,Precinct 0027,State House,04,REP,Representative Jack Fortner,1,0,0,1
+Marion,Precinct 0028,State House,04,REP,Representative Jack Fortner,105,61,0,44
+Marion,Precinct 0029,State House,04,REP,Representative Jack Fortner,13,9,0,4
+Marion,Precinct 0030,State House,04,REP,Representative Jack Fortner,294,168,10,116
+Marion,Precinct 0031,State House,04,REP,Representative Jack Fortner,0,0,0,0
+Marion,Precinct 0001,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,35,33,0,2
+Marion,Precinct 0002,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,128,29,2,97
+Marion,Precinct 0003,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,83,49,0,34
+Marion,Precinct 0004,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,44,24,0,20
+Marion,Precinct 0005,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,36,3,1,32
+Marion,Precinct 0006,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,389,296,7,86
+Marion,Precinct 0007,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,17,11,0,6
+Marion,Precinct 0008,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,330,220,2,108
+Marion,Precinct 0009,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,165,53,2,110
+Marion,Precinct 0010,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,28,14,0,14
+Marion,Precinct 0011,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,31,15,0,16
+Marion,Precinct 0012,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,7,6,0,1
+Marion,Precinct 0013,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,11,6,1,4
+Marion,Precinct 0014,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,13,10,0,3
+Marion,Precinct 0015,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,41,34,0,7
+Marion,Precinct 0016,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,233,139,1,93
+Marion,Precinct 0017,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,141,59,8,74
+Marion,Precinct 0018,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,65,29,0,36
+Marion,Precinct 0019,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,116,70,2,44
+Marion,Precinct 0020,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,103,61,0,42
+Marion,Precinct 0021,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,12,6,0,6
+Marion,Precinct 0022,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,8,4,0,4
+Marion,Precinct 0023,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,84,28,0,56
+Marion,Precinct 0024,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,58,39,0,19
+Marion,Precinct 0025,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,138,80,2,56
+Marion,Precinct 0026,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,154,50,1,103
+Marion,Precinct 0027,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,0,0,0,0
+Marion,Precinct 0028,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,53,34,0,19
+Marion,Precinct 0029,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,8,5,0,3
+Marion,Precinct 0030,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,143,86,4,53
+Marion,Precinct 0031,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,0,0,0,0
+Marion,Precinct 0001,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,55,51,2,2
+Marion,Precinct 0002,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,134,30,4,100
+Marion,Precinct 0003,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,103,40,1,62
+Marion,Precinct 0004,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,38,26,1,11
+Marion,Precinct 0005,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,39,3,0,36
+Marion,Precinct 0006,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,324,248,9,67
+Marion,Precinct 0007,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,23,21,0,2
+Marion,Precinct 0008,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,310,203,5,102
+Marion,Precinct 0009,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,177,70,4,103
+Marion,Precinct 0010,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,38,19,0,19
+Marion,Precinct 0011,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,20,7,0,13
+Marion,Precinct 0012,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,6,6,0,0
+Marion,Precinct 0013,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,11,6,0,5
+Marion,Precinct 0014,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,10,7,0,3
+Marion,Precinct 0015,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,22,15,1,6
+Marion,Precinct 0016,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,236,159,2,75
+Marion,Precinct 0017,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,113,40,5,68
+Marion,Precinct 0018,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,67,27,0,40
+Marion,Precinct 0019,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,79,41,0,38
+Marion,Precinct 0020,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,95,51,3,41
+Marion,Precinct 0021,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,21,7,0,14
+Marion,Precinct 0022,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,5,3,1,1
+Marion,Precinct 0023,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,71,23,1,47
+Marion,Precinct 0024,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,48,34,0,14
+Marion,Precinct 0025,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,127,74,1,52
+Marion,Precinct 0026,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,122,52,1,69
+Marion,Precinct 0027,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,0,0,0,0
+Marion,Precinct 0028,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,47,28,0,19
+Marion,Precinct 0029,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,7,6,0,1
+Marion,Precinct 0030,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,129,73,8,48
+Marion,Precinct 0031,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,0,0,0,0
+Marion,Precinct 0001,County and Circuit Clerk, Marion County,REP,REP Dawn Moffet,100,91,2,7
+Marion,Precinct 0002,County and Circuit Clerk, Marion County,REP,REP Dawn Moffet,271,57,7,207
+Marion,Precinct 0003,County and Circuit Clerk, Marion County,REP,REP Dawn Moffet,205,99,2,104
+Marion,Precinct 0004,County and Circuit Clerk, Marion County,REP,REP Dawn Moffet,88,50,1,37
+Marion,Precinct 0005,County and Circuit Clerk, Marion County,REP,REP Dawn Moffet,75,5,1,69
+Marion,Precinct 0006,County and Circuit Clerk, Marion County,REP,REP Dawn Moffet,725,547,17,161
+Marion,Precinct 0007,County and Circuit Clerk, Marion County,REP,REP Dawn Moffet,46,36,0,10
+Marion,Precinct 0008,County and Circuit Clerk, Marion County,REP,REP Dawn Moffet,693,458,7,228
+Marion,Precinct 0009,County and Circuit Clerk, Marion County,REP,REP Dawn Moffet,380,133,5,242
+Marion,Precinct 0010,County and Circuit Clerk, Marion County,REP,REP Dawn Moffet,77,34,0,43
+Marion,Precinct 0011,County and Circuit Clerk, Marion County,REP,REP Dawn Moffet,52,22,0,30
+Marion,Precinct 0012,County and Circuit Clerk, Marion County,REP,REP Dawn Moffet,17,15,0,2
+Marion,Precinct 0013,County and Circuit Clerk, Marion County,REP,REP Dawn Moffet,26,13,1,12
+Marion,Precinct 0014,County and Circuit Clerk, Marion County,REP,REP Dawn Moffet,23,17,0,6
+Marion,Precinct 0015,County and Circuit Clerk, Marion County,REP,REP Dawn Moffet,69,54,1,14
+Marion,Precinct 0016,County and Circuit Clerk, Marion County,REP,REP Dawn Moffet,499,312,8,179
+Marion,Precinct 0017,County and Circuit Clerk, Marion County,REP,REP Dawn Moffet,261,104,10,147
+Marion,Precinct 0018,County and Circuit Clerk, Marion County,REP,REP Dawn Moffet,141,60,1,80
+Marion,Precinct 0019,County and Circuit Clerk, Marion County,REP,REP Dawn Moffet,205,115,4,86
+Marion,Precinct 0020,County and Circuit Clerk, Marion County,REP,REP Dawn Moffet,219,124,3,92
+Marion,Precinct 0021,County and Circuit Clerk, Marion County,REP,REP Dawn Moffet,35,13,0,22
+Marion,Precinct 0022,County and Circuit Clerk, Marion County,REP,REP Dawn Moffet,11,6,1,4
+Marion,Precinct 0023,County and Circuit Clerk, Marion County,REP,REP Dawn Moffet,164,54,1,109
+Marion,Precinct 0024,County and Circuit Clerk, Marion County,REP,REP Dawn Moffet,119,77,2,40
+Marion,Precinct 0025,County and Circuit Clerk, Marion County,REP,REP Dawn Moffet,274,161,4,109
+Marion,Precinct 0026,County and Circuit Clerk, Marion County,REP,REP Dawn Moffet,306,115,1,190
+Marion,Precinct 0027,County and Circuit Clerk, Marion County,REP,REP Dawn Moffet,1,0,0,1
+Marion,Precinct 0028,County and Circuit Clerk, Marion County,REP,REP Dawn Moffet,107,63,0,44
+Marion,Precinct 0029,County and Circuit Clerk, Marion County,REP,REP Dawn Moffet,11,7,0,4
+Marion,Precinct 0030,County and Circuit Clerk, Marion County,REP,REP Dawn Moffet,296,169,11,116
+Marion,Precinct 0031,County and Circuit Clerk, Marion County,REP,REP Dawn Moffet,0,0,0,0
+Marion,Precinct 0017,Justice of the Peace District 4, Marion County,DEM,DEM Carl McBee Jr.,90,38,6,46
+Marion,Precinct 0018,Justice of the Peace District 4, Marion County,DEM,DEM Carl McBee Jr.,53,27,1,25
+Marion,Precinct 0017,Justice of the Peace District 4, Marion County,REP,REP Rick White,192,76,8,108
+Marion,Precinct 0018,Justice of the Peace District 4, Marion County,REP,REP Rick White,91,35,0,56
+Marion,Precinct 0028,Justice of the Peace District 8, Marion County,REP,REP Claudia Brigham,82,43,0,39
+Marion,Precinct 0029,Justice of the Peace District 8, Marion County,REP,REP Claudia Brigham,12,9,0,3
+Marion,Precinct 0030,Justice of the Peace District 8, Marion County,REP,REP Claudia Brigham,232,137,5,90
+Marion,Precinct 0031,Justice of the Peace District 8, Marion County,REP,REP Claudia Brigham,0,0,0,0
+Marion,Precinct 0028,Justice of the Peace District 8, Marion County,DEM,DEM Elizabeth Casteel,32,27,0,5
+Marion,Precinct 0029,Justice of the Peace District 8, Marion County,DEM,DEM Elizabeth Casteel,3,2,0,1
+Marion,Precinct 0030,Justice of the Peace District 8, Marion County,DEM,DEM Elizabeth Casteel,73,43,7,23
+Marion,Precinct 0031,Justice of the Peace District 8, Marion County,DEM,DEM Elizabeth Casteel,0,0,0,0
+Marion,Precinct 0006,Mayor of Bull Shoals,,NON,Ed Martin,134,101,3,30
+Marion,Precinct 0007,Mayor of Bull Shoals,,NON,Ed Martin,15,14,0,1
+Marion,Precinct 0006,Mayor of Bull Shoals,,NON,David L. Nixon,335,262,7,66
+Marion,Precinct 0007,Mayor of Bull Shoals,,NON,David L. Nixon,17,13,0,4
+Marion,Precinct 0006,Mayor of Bull Shoals,,NON,Michael Savu,338,257,7,74
+Marion,Precinct 0007,Mayor of Bull Shoals,,NON,Michael Savu,17,13,0,4
+Marion,Precinct 0006,Bull Shoals City Council, Ward 1 Position 1,NON,Roderick E. Schmitt,281,222,2,57
+Marion,Precinct 0007,Bull Shoals City Council, Ward 1 Position 1,NON,Roderick E. Schmitt,15,13,0,2
+Marion,Precinct 0006,Bull Shoals City Council, Ward 1 Position 1,NON,Daryl J. Lindman,465,349,14,102
+Marion,Precinct 0007,Bull Shoals City Council, Ward 1 Position 1,NON,Daryl J. Lindman,31,24,0,7
+Marion,Precinct 0006,Bull Shoals City Council, Ward 2 Position 1,NON,Michael Castagna,392,305,5,82
+Marion,Precinct 0007,Bull Shoals City Council, Ward 2 Position 1,NON,Michael Castagna,18,13,0,5
+Marion,Precinct 0006,Bull Shoals City Council, Ward 2 Position 1,NON,Russell Meinking,315,239,10,66
+Marion,Precinct 0007,Bull Shoals City Council, Ward 2 Position 1,NON,Russell Meinking,23,20,0,3
+Marion,Precinct 0006,Bull Shoals City Council, Ward 2 Position 2,NON,Brenna Ferrell,326,249,8,69
+Marion,Precinct 0007,Bull Shoals City Council, Ward 2 Position 2,NON,Brenna Ferrell,16,13,0,3
+Marion,Precinct 0006,Bull Shoals City Council, Ward 2 Position 2,NON,Dino Giannini,444,346,8,90
+Marion,Precinct 0007,Bull Shoals City Council, Ward 2 Position 2,NON,Dino Giannini,29,23,0,6
+Marion,Precinct 0006,Bull Shoals City Council, Ward 3 Position 1,NON,Wesley Phelan,407,320,9,78
+Marion,Precinct 0007,Bull Shoals City Council, Ward 3 Position 1,NON,Wesley Phelan,19,14,0,5
+Marion,Precinct 0006,Bull Shoals City Council, Ward 3 Position 1,NON,William S. Stahlman Jr.,355,269,8,78
+Marion,Precinct 0007,Bull Shoals City Council, Ward 3 Position 1,NON,William S. Stahlman Jr.,24,20,0,4
+Marion,Precinct 0017,Mayor of Flippin,,NON,Heith Hogan,257,103,11,143
+Marion,Precinct 0017,Flippin City Council, Ward 1 Position 1,NON,Danna Hunt,117,50,6,61
+Marion,Precinct 0017,Flippin City Council, Ward 1 Position 1,NON,Lacie Ott Bettencourt,146,57,4,85
+Marion,Precinct 0011,Mayor of Pyatt,,NON,Cynthia St. Clair,48,22,0,26
+Marion,Precinct 0028,Mayor of Summit,,NON,Tobey Norberg,108,65,0,43
+Marion,Precinct 0030,Mayor of Yellville,,NON,Shawn Lane,294,169,11,114
+Marion,Precinct 0001,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,57,53,0,4
+Marion,Precinct 0002,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,164,30,8,126
+Marion,Precinct 0003,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,98,44,1,53
+Marion,Precinct 0004,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,46,27,0,19
+Marion,Precinct 0005,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,37,4,1,32
+Marion,Precinct 0006,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,416,308,14,94
+Marion,Precinct 0007,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,27,21,0,6
+Marion,Precinct 0008,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,331,206,5,120
+Marion,Precinct 0009,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,175,61,1,113
+Marion,Precinct 0010,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,41,18,0,23
+Marion,Precinct 0011,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,28,11,0,17
+Marion,Precinct 0012,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,7,6,0,1
+Marion,Precinct 0013,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,8,3,0,5
+Marion,Precinct 0014,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,3,2,0,1
+Marion,Precinct 0015,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,32,26,0,6
+Marion,Precinct 0016,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,208,128,3,77
+Marion,Precinct 0017,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,146,62,9,75
+Marion,Precinct 0018,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,53,23,1,29
+Marion,Precinct 0019,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,105,57,1,47
+Marion,Precinct 0020,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,102,61,0,41
+Marion,Precinct 0021,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,16,6,0,10
+Marion,Precinct 0022,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,6,3,1,2
+Marion,Precinct 0023,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,84,23,0,61
+Marion,Precinct 0024,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,62,37,0,25
+Marion,Precinct 0025,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,102,67,1,34
+Marion,Precinct 0026,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,119,51,0,68
+Marion,Precinct 0027,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,0,0,0,0
+Marion,Precinct 0028,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,52,31,0,21
+Marion,Precinct 0029,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,9,6,0,3
+Marion,Precinct 0030,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,131,79,9,43
+Marion,Precinct 0031,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,0,0,0,0
+Marion,Precinct 0001,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,38,35,2,1
+Marion,Precinct 0002,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,127,33,0,94
+Marion,Precinct 0003,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,121,59,1,61
+Marion,Precinct 0004,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,49,28,1,20
+Marion,Precinct 0005,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,45,2,0,43
+Marion,Precinct 0006,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,331,264,1,66
+Marion,Precinct 0007,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,20,17,0,3
+Marion,Precinct 0008,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,360,251,3,106
+Marion,Precinct 0009,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,229,79,4,146
+Marion,Precinct 0010,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,39,19,0,20
+Marion,Precinct 0011,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,24,11,0,13
+Marion,Precinct 0012,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,9,8,0,1
+Marion,Precinct 0013,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,17,10,1,6
+Marion,Precinct 0014,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,20,15,0,5
+Marion,Precinct 0015,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,36,26,1,9
+Marion,Precinct 0016,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,311,211,1,99
+Marion,Precinct 0017,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,128,51,4,73
+Marion,Precinct 0018,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,85,36,0,49
+Marion,Precinct 0019,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,108,67,1,40
+Marion,Precinct 0020,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,120,68,3,49
+Marion,Precinct 0021,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,19,7,0,12
+Marion,Precinct 0022,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,7,4,0,3
+Marion,Precinct 0023,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,83,33,1,49
+Marion,Precinct 0024,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,59,41,2,16
+Marion,Precinct 0025,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,170,94,4,72
+Marion,Precinct 0026,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,191,61,2,128
+Marion,Precinct 0027,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,0,0,0,0
+Marion,Precinct 0028,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,63,40,0,23
+Marion,Precinct 0029,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,6,6,0,0
+Marion,Precinct 0030,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,158,91,3,64
+Marion,Precinct 0031,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,0,0,0,0
+Marion,Precinct 0001,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,51,49,0,2
+Marion,Precinct 0002,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,172,34,7,131
+Marion,Precinct 0003,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,116,50,0,66
+Marion,Precinct 0004,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,53,28,0,25
+Marion,Precinct 0005,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,44,3,0,41
+Marion,Precinct 0006,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,425,320,16,89
+Marion,Precinct 0007,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,27,21,0,6
+Marion,Precinct 0008,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,368,251,5,112
+Marion,Precinct 0009,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,222,72,2,148
+Marion,Precinct 0010,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,39,18,0,21
+Marion,Precinct 0011,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,29,11,0,18
+Marion,Precinct 0012,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,8,7,0,1
+Marion,Precinct 0013,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,15,7,0,8
+Marion,Precinct 0014,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,7,6,0,1
+Marion,Precinct 0015,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,33,26,0,7
+Marion,Precinct 0016,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,242,154,3,85
+Marion,Precinct 0017,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,150,66,6,78
+Marion,Precinct 0018,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,60,28,1,31
+Marion,Precinct 0019,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,127,72,1,54
+Marion,Precinct 0020,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,122,66,3,53
+Marion,Precinct 0021,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,21,9,0,12
+Marion,Precinct 0022,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,6,4,0,2
+Marion,Precinct 0023,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,95,21,0,74
+Marion,Precinct 0024,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,67,39,2,26
+Marion,Precinct 0025,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,132,75,1,56
+Marion,Precinct 0026,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,147,56,0,91
+Marion,Precinct 0027,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,0,0,0,0
+Marion,Precinct 0028,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,56,34,0,22
+Marion,Precinct 0029,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,8,5,0,3
+Marion,Precinct 0030,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,161,93,8,60
+Marion,Precinct 0031,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,0,0,0,0
+Marion,Precinct 0001,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,45,39,2,4
+Marion,Precinct 0002,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,118,29,1,88
+Marion,Precinct 0003,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,102,52,1,49
+Marion,Precinct 0004,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,44,29,1,14
+Marion,Precinct 0005,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,37,3,1,33
+Marion,Precinct 0006,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,338,264,1,73
+Marion,Precinct 0007,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,19,16,0,3
+Marion,Precinct 0008,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,327,211,3,113
+Marion,Precinct 0009,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,188,69,4,115
+Marion,Precinct 0010,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,43,19,0,24
+Marion,Precinct 0011,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,25,11,0,14
+Marion,Precinct 0012,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,10,9,0,1
+Marion,Precinct 0013,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,11,6,1,4
+Marion,Precinct 0014,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,15,10,0,5
+Marion,Precinct 0015,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,38,27,1,10
+Marion,Precinct 0016,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,275,185,1,89
+Marion,Precinct 0017,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,122,46,6,70
+Marion,Precinct 0018,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,79,31,0,48
+Marion,Precinct 0019,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,91,55,2,34
+Marion,Precinct 0020,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,104,66,0,38
+Marion,Precinct 0021,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,14,4,0,10
+Marion,Precinct 0022,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,7,3,1,3
+Marion,Precinct 0023,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,75,34,2,39
+Marion,Precinct 0024,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,54,38,0,16
+Marion,Precinct 0025,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,151,94,4,53
+Marion,Precinct 0026,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,170,60,2,108
+Marion,Precinct 0027,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,0,0,0,0
+Marion,Precinct 0028,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,59,36,0,23
+Marion,Precinct 0029,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,6,6,0,0
+Marion,Precinct 0030,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,133,78,4,51
+Marion,Precinct 0031,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,0,0,0,0
+Marion,Precinct 0001,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,61,56,0,5
+Marion,Precinct 0002,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,185,36,5,144
+Marion,Precinct 0003,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,124,67,2,55
+Marion,Precinct 0004,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,48,23,0,25
+Marion,Precinct 0005,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,37,3,0,34
+Marion,Precinct 0006,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,458,348,12,98
+Marion,Precinct 0007,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,30,24,0,6
+Marion,Precinct 0008,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,397,271,2,124
+Marion,Precinct 0009,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,240,81,2,157
+Marion,Precinct 0010,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,44,23,0,21
+Marion,Precinct 0011,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,31,11,0,20
+Marion,Precinct 0012,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,8,7,0,1
+Marion,Precinct 0013,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,8,2,1,5
+Marion,Precinct 0014,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,7,6,0,1
+Marion,Precinct 0015,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,36,29,0,7
+Marion,Precinct 0016,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,263,165,7,91
+Marion,Precinct 0017,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,158,59,9,90
+Marion,Precinct 0018,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,62,28,0,34
+Marion,Precinct 0019,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,125,70,1,54
+Marion,Precinct 0020,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,131,82,0,49
+Marion,Precinct 0021,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,22,9,0,13
+Marion,Precinct 0022,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,5,3,0,2
+Marion,Precinct 0023,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,99,27,1,71
+Marion,Precinct 0024,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,77,47,0,30
+Marion,Precinct 0025,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,128,76,3,49
+Marion,Precinct 0026,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,167,65,1,101
+Marion,Precinct 0027,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,0,0,0,0
+Marion,Precinct 0028,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,62,38,0,24
+Marion,Precinct 0029,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,5,3,0,2
+Marion,Precinct 0030,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,157,87,5,65
+Marion,Precinct 0031,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,0,0,0,0
+Marion,Precinct 0001,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,40,36,2,2
+Marion,Precinct 0002,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,110,27,3,80
+Marion,Precinct 0003,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,98,38,0,60
+Marion,Precinct 0004,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,50,35,1,14
+Marion,Precinct 0005,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,48,3,1,44
+Marion,Precinct 0006,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,311,241,4,66
+Marion,Precinct 0007,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,17,14,0,3
+Marion,Precinct 0008,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,312,201,6,105
+Marion,Precinct 0009,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,173,61,4,108
+Marion,Precinct 0010,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,37,14,0,23
+Marion,Precinct 0011,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,23,11,0,12
+Marion,Precinct 0012,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,8,7,0,1
+Marion,Precinct 0013,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,16,11,0,5
+Marion,Precinct 0014,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,16,11,0,5
+Marion,Precinct 0015,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,35,25,1,9
+Marion,Precinct 0016,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,267,176,1,90
+Marion,Precinct 0017,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,120,55,4,61
+Marion,Precinct 0018,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,78,32,1,45
+Marion,Precinct 0019,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,96,56,3,37
+Marion,Precinct 0020,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,92,48,3,41
+Marion,Precinct 0021,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,13,4,0,9
+Marion,Precinct 0022,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,8,4,1,3
+Marion,Precinct 0023,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,73,29,1,43
+Marion,Precinct 0024,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,44,31,2,11
+Marion,Precinct 0025,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,157,95,2,60
+Marion,Precinct 0026,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,156,55,1,100
+Marion,Precinct 0027,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,0,0,0,0
+Marion,Precinct 0028,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,53,33,0,20
+Marion,Precinct 0029,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,10,9,0,1
+Marion,Precinct 0030,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,139,86,7,46
+Marion,Precinct 0031,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,0,0,0,0
+Marion,Precinct 0001,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,59,59,0,0
+Marion,Precinct 0002,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,156,33,3,120
+Marion,Precinct 0003,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,85,37,2,46
+Marion,Precinct 0004,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,50,34,1,15
+Marion,Precinct 0005,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,35,4,0,31
+Marion,Precinct 0006,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,441,328,7,106
+Marion,Precinct 0007,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,29,23,0,6
+Marion,Precinct 0008,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,342,221,5,116
+Marion,Precinct 0009,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,199,66,3,130
+Marion,Precinct 0010,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,41,22,0,19
+Marion,Precinct 0011,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,28,8,0,20
+Marion,Precinct 0012,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,9,7,0,2
+Marion,Precinct 0013,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,8,3,0,5
+Marion,Precinct 0014,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,6,4,0,2
+Marion,Precinct 0015,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,33,24,1,8
+Marion,Precinct 0016,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,250,153,5,92
+Marion,Precinct 0017,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,136,50,5,81
+Marion,Precinct 0018,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,66,20,1,45
+Marion,Precinct 0019,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,103,52,0,51
+Marion,Precinct 0020,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,113,59,3,51
+Marion,Precinct 0021,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,27,13,0,14
+Marion,Precinct 0022,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,5,3,0,2
+Marion,Precinct 0023,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,86,21,2,63
+Marion,Precinct 0024,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,47,24,0,23
+Marion,Precinct 0025,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,119,69,4,46
+Marion,Precinct 0026,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,124,54,0,70
+Marion,Precinct 0027,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,1,0,0,1
+Marion,Precinct 0028,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,81,47,0,34
+Marion,Precinct 0029,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,9,5,0,4
+Marion,Precinct 0030,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,130,68,5,57
+Marion,Precinct 0031,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,0,0,0,0
+Marion,Precinct 0001,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,46,38,2,6
+Marion,Precinct 0002,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,151,35,5,111
+Marion,Precinct 0003,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,142,70,0,72
+Marion,Precinct 0004,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,53,28,0,25
+Marion,Precinct 0005,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,52,2,1,49
+Marion,Precinct 0006,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,356,278,10,68
+Marion,Precinct 0007,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,19,16,0,3
+Marion,Precinct 0008,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,384,262,2,120
+Marion,Precinct 0009,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,219,78,3,138
+Marion,Precinct 0010,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,43,15,0,28
+Marion,Precinct 0011,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,27,14,0,13
+Marion,Precinct 0012,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,9,9,0,0
+Marion,Precinct 0013,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,18,10,1,7
+Marion,Precinct 0014,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,17,13,0,4
+Marion,Precinct 0015,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,39,30,0,9
+Marion,Precinct 0016,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,298,198,3,97
+Marion,Precinct 0017,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,145,65,9,71
+Marion,Precinct 0018,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,77,41,0,36
+Marion,Precinct 0019,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,120,77,3,40
+Marion,Precinct 0020,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,116,73,0,43
+Marion,Precinct 0021,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,9,1,0,8
+Marion,Precinct 0022,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,8,4,1,3
+Marion,Precinct 0023,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,92,38,0,54
+Marion,Precinct 0024,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,77,57,2,18
+Marion,Precinct 0025,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,179,109,1,69
+Marion,Precinct 0026,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,206,71,2,133
+Marion,Precinct 0027,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,0,0,0,0
+Marion,Precinct 0028,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,35,24,0,11
+Marion,Precinct 0029,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,7,7,0,0
+Marion,Precinct 0030,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,180,111,7,62
+Marion,Precinct 0031,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,0,0,0,0

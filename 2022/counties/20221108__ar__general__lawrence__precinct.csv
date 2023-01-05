@@ -1,0 +1,1170 @@
+county,precinct,office,district,party,candidate,votes,early_vote,absentee,election_day
+Lawrence,ANNIEVILLE,U.S. Senate,,REP,Senator John Boozman,100,40,0,60
+Lawrence,ASHLAND,U.S. Senate,,REP,Senator John Boozman,58,18,0,40
+Lawrence,BLACK RIVER,U.S. Senate,,REP,Senator John Boozman,139,61,1,77
+Lawrence,BLACK ROCK,U.S. Senate,,REP,Senator John Boozman,309,106,6,197
+Lawrence,BOAS 1,U.S. Senate,,REP,Senator John Boozman,186,104,1,81
+Lawrence,BOAS 2,U.S. Senate,,REP,Senator John Boozman,154,65,4,85
+Lawrence,BOAS 3,U.S. Senate,,REP,Senator John Boozman,138,69,4,65
+Lawrence,CACHE,U.S. Senate,,REP,Senator John Boozman,35,13,0,22
+Lawrence,CAMPBELL 1,U.S. Senate,,REP,Senator John Boozman,310,218,5,87
+Lawrence,CAMPBELL 2,U.S. Senate,,REP,Senator John Boozman,343,234,5,104
+Lawrence,CAMPBELL 3,U.S. Senate,,REP,Senator John Boozman,190,131,1,58
+Lawrence,CAMPBELL 4,U.S. Senate,,REP,Senator John Boozman,334,222,4,108
+Lawrence,DENT,U.S. Senate,,REP,Senator John Boozman,229,70,2,157
+Lawrence,DOWELL,U.S. Senate,,REP,Senator John Boozman,32,16,3,13
+Lawrence,DUTY,U.S. Senate,,REP,Senator John Boozman,98,33,0,65
+Lawrence,EATON,U.S. Senate,,REP,Senator John Boozman,88,34,0,54
+Lawrence,FLAT CREEK,U.S. Senate,,REP,Senator John Boozman,32,8,2,22
+Lawrence,JESUP,U.S. Senate,,REP,Senator John Boozman,42,13,0,29
+Lawrence,LAWRENCE,U.S. Senate,,REP,Senator John Boozman,37,5,0,32
+Lawrence,MARION,U.S. Senate,,REP,Senator John Boozman,39,21,0,18
+Lawrence,MORGAN,U.S. Senate,,REP,Senator John Boozman,161,43,0,118
+Lawrence,PROMISED LAND,U.S. Senate,,REP,Senator John Boozman,84,59,0,25
+Lawrence,REED'S CREEK SAFFELL,U.S. Senate,,REP,Senator John Boozman,101,17,3,81
+Lawrence,REED'S CREEK STRAWBERRY,U.S. Senate,,REP,Senator John Boozman,129,17,3,109
+Lawrence,RICHWOODS,U.S. Senate,,REP,Senator John Boozman,30,17,2,11
+Lawrence,SPRING RIVER,U.S. Senate,,REP,Senator John Boozman,97,21,3,73
+Lawrence,STRAWBERRY,U.S. Senate,,REP,Senator John Boozman,123,28,0,95
+Lawrence,THACKER,U.S. Senate,,REP,Senator John Boozman,74,8,0,66
+Lawrence,ANNIEVILLE,U.S. Senate,,LIB,Kenneth Cates,2,1,0,1
+Lawrence,ASHLAND,U.S. Senate,,LIB,Kenneth Cates,3,2,0,1
+Lawrence,BLACK RIVER,U.S. Senate,,LIB,Kenneth Cates,5,1,0,4
+Lawrence,BLACK ROCK,U.S. Senate,,LIB,Kenneth Cates,6,3,0,3
+Lawrence,BOAS 1,U.S. Senate,,LIB,Kenneth Cates,5,3,0,2
+Lawrence,BOAS 2,U.S. Senate,,LIB,Kenneth Cates,8,6,0,2
+Lawrence,BOAS 3,U.S. Senate,,LIB,Kenneth Cates,10,2,0,8
+Lawrence,CACHE,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0
+Lawrence,CAMPBELL 1,U.S. Senate,,LIB,Kenneth Cates,20,15,1,4
+Lawrence,CAMPBELL 2,U.S. Senate,,LIB,Kenneth Cates,10,8,0,2
+Lawrence,CAMPBELL 3,U.S. Senate,,LIB,Kenneth Cates,11,6,0,5
+Lawrence,CAMPBELL 4,U.S. Senate,,LIB,Kenneth Cates,12,8,0,4
+Lawrence,DENT,U.S. Senate,,LIB,Kenneth Cates,19,6,1,12
+Lawrence,DOWELL,U.S. Senate,,LIB,Kenneth Cates,1,1,0,0
+Lawrence,DUTY,U.S. Senate,,LIB,Kenneth Cates,2,0,0,2
+Lawrence,EATON,U.S. Senate,,LIB,Kenneth Cates,4,1,0,3
+Lawrence,FLAT CREEK,U.S. Senate,,LIB,Kenneth Cates,2,0,0,2
+Lawrence,JESUP,U.S. Senate,,LIB,Kenneth Cates,1,0,0,1
+Lawrence,LAWRENCE,U.S. Senate,,LIB,Kenneth Cates,3,1,0,2
+Lawrence,MARION,U.S. Senate,,LIB,Kenneth Cates,4,1,0,3
+Lawrence,MORGAN,U.S. Senate,,LIB,Kenneth Cates,3,1,0,2
+Lawrence,PROMISED LAND,U.S. Senate,,LIB,Kenneth Cates,1,0,0,1
+Lawrence,REED'S CREEK SAFFELL,U.S. Senate,,LIB,Kenneth Cates,3,1,0,2
+Lawrence,REED'S CREEK STRAWBERRY,U.S. Senate,,LIB,Kenneth Cates,5,0,0,5
+Lawrence,RICHWOODS,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0
+Lawrence,SPRING RIVER,U.S. Senate,,LIB,Kenneth Cates,3,1,0,2
+Lawrence,STRAWBERRY,U.S. Senate,,LIB,Kenneth Cates,9,0,0,9
+Lawrence,THACKER,U.S. Senate,,LIB,Kenneth Cates,3,1,0,2
+Lawrence,ANNIEVILLE,U.S. Senate,,DEM,Natalie James,10,3,0,7
+Lawrence,ASHLAND,U.S. Senate,,DEM,Natalie James,8,1,0,7
+Lawrence,BLACK RIVER,U.S. Senate,,DEM,Natalie James,28,17,0,11
+Lawrence,BLACK ROCK,U.S. Senate,,DEM,Natalie James,49,25,0,24
+Lawrence,BOAS 1,U.S. Senate,,DEM,Natalie James,37,17,1,19
+Lawrence,BOAS 2,U.S. Senate,,DEM,Natalie James,37,19,0,18
+Lawrence,BOAS 3,U.S. Senate,,DEM,Natalie James,23,15,0,8
+Lawrence,CACHE,U.S. Senate,,DEM,Natalie James,2,1,0,1
+Lawrence,CAMPBELL 1,U.S. Senate,,DEM,Natalie James,94,62,5,27
+Lawrence,CAMPBELL 2,U.S. Senate,,DEM,Natalie James,83,54,8,21
+Lawrence,CAMPBELL 3,U.S. Senate,,DEM,Natalie James,51,32,1,18
+Lawrence,CAMPBELL 4,U.S. Senate,,DEM,Natalie James,71,49,3,19
+Lawrence,DENT,U.S. Senate,,DEM,Natalie James,43,17,0,26
+Lawrence,DOWELL,U.S. Senate,,DEM,Natalie James,6,4,0,2
+Lawrence,DUTY,U.S. Senate,,DEM,Natalie James,33,7,1,25
+Lawrence,EATON,U.S. Senate,,DEM,Natalie James,6,2,0,4
+Lawrence,FLAT CREEK,U.S. Senate,,DEM,Natalie James,6,1,2,3
+Lawrence,JESUP,U.S. Senate,,DEM,Natalie James,2,0,0,2
+Lawrence,LAWRENCE,U.S. Senate,,DEM,Natalie James,9,4,0,5
+Lawrence,MARION,U.S. Senate,,DEM,Natalie James,11,4,1,6
+Lawrence,MORGAN,U.S. Senate,,DEM,Natalie James,28,4,1,23
+Lawrence,PROMISED LAND,U.S. Senate,,DEM,Natalie James,15,14,0,1
+Lawrence,REED'S CREEK SAFFELL,U.S. Senate,,DEM,Natalie James,7,0,0,7
+Lawrence,REED'S CREEK STRAWBERRY,U.S. Senate,,DEM,Natalie James,19,2,0,17
+Lawrence,RICHWOODS,U.S. Senate,,DEM,Natalie James,2,1,0,1
+Lawrence,SPRING RIVER,U.S. Senate,,DEM,Natalie James,18,8,1,9
+Lawrence,STRAWBERRY,U.S. Senate,,DEM,Natalie James,15,8,0,7
+Lawrence,THACKER,U.S. Senate,,DEM,Natalie James,16,4,0,12
+Lawrence,ANNIEVILLE,U.S. Congress District 01,,DEM,Representative Monte Hodges,10,5,0,5
+Lawrence,ASHLAND,U.S. Congress District 01,,DEM,Representative Monte Hodges,11,3,0,8
+Lawrence,BLACK RIVER,U.S. Congress District 01,,DEM,Representative Monte Hodges,30,17,1,12
+Lawrence,BLACK ROCK,U.S. Congress District 01,,DEM,Representative Monte Hodges,57,30,0,27
+Lawrence,BOAS 1,U.S. Congress District 01,,DEM,Representative Monte Hodges,44,20,1,23
+Lawrence,BOAS 2,U.S. Congress District 01,,DEM,Representative Monte Hodges,44,22,0,22
+Lawrence,BOAS 3,U.S. Congress District 01,,DEM,Representative Monte Hodges,26,15,0,11
+Lawrence,CACHE,U.S. Congress District 01,,DEM,Representative Monte Hodges,2,1,0,1
+Lawrence,CAMPBELL 1,U.S. Congress District 01,,DEM,Representative Monte Hodges,106,72,4,30
+Lawrence,CAMPBELL 2,U.S. Congress District 01,,DEM,Representative Monte Hodges,82,57,7,18
+Lawrence,CAMPBELL 3,U.S. Congress District 01,,DEM,Representative Monte Hodges,56,34,1,21
+Lawrence,CAMPBELL 4,U.S. Congress District 01,,DEM,Representative Monte Hodges,81,54,3,24
+Lawrence,DENT,U.S. Congress District 01,,DEM,Representative Monte Hodges,46,21,0,25
+Lawrence,DOWELL,U.S. Congress District 01,,DEM,Representative Monte Hodges,7,5,0,2
+Lawrence,DUTY,U.S. Congress District 01,,DEM,Representative Monte Hodges,33,8,1,24
+Lawrence,EATON,U.S. Congress District 01,,DEM,Representative Monte Hodges,7,3,0,4
+Lawrence,FLAT CREEK,U.S. Congress District 01,,DEM,Representative Monte Hodges,9,1,1,7
+Lawrence,JESUP,U.S. Congress District 01,,DEM,Representative Monte Hodges,2,0,0,2
+Lawrence,LAWRENCE,U.S. Congress District 01,,DEM,Representative Monte Hodges,13,6,0,7
+Lawrence,MARION,U.S. Congress District 01,,DEM,Representative Monte Hodges,9,3,1,5
+Lawrence,MORGAN,U.S. Congress District 01,,DEM,Representative Monte Hodges,26,4,1,21
+Lawrence,PROMISED LAND,U.S. Congress District 01,,DEM,Representative Monte Hodges,16,15,0,1
+Lawrence,REED'S CREEK SAFFELL,U.S. Congress District 01,,DEM,Representative Monte Hodges,7,0,0,7
+Lawrence,REED'S CREEK STRAWBERRY,U.S. Congress District 01,,DEM,Representative Monte Hodges,21,2,1,18
+Lawrence,RICHWOODS,U.S. Congress District 01,,DEM,Representative Monte Hodges,2,1,0,1
+Lawrence,SPRING RIVER,U.S. Congress District 01,,DEM,Representative Monte Hodges,20,8,2,10
+Lawrence,STRAWBERRY,U.S. Congress District 01,,DEM,Representative Monte Hodges,15,7,0,8
+Lawrence,THACKER,U.S. Congress District 01,,DEM,Representative Monte Hodges,20,4,0,16
+Lawrence,ANNIEVILLE,U.S. Congress District 01,,REP,Congressman Rick Crawford,103,40,0,63
+Lawrence,ASHLAND,U.S. Congress District 01,,REP,Congressman Rick Crawford,56,16,0,40
+Lawrence,BLACK RIVER,U.S. Congress District 01,,REP,Congressman Rick Crawford,137,60,0,77
+Lawrence,BLACK ROCK,U.S. Congress District 01,,REP,Congressman Rick Crawford,305,104,6,195
+Lawrence,BOAS 1,U.S. Congress District 01,,REP,Congressman Rick Crawford,185,104,1,80
+Lawrence,BOAS 2,U.S. Congress District 01,,REP,Congressman Rick Crawford,154,64,4,86
+Lawrence,BOAS 3,U.S. Congress District 01,,REP,Congressman Rick Crawford,143,69,4,70
+Lawrence,CACHE,U.S. Congress District 01,,REP,Congressman Rick Crawford,35,12,0,23
+Lawrence,CAMPBELL 1,U.S. Congress District 01,,REP,Congressman Rick Crawford,316,221,7,88
+Lawrence,CAMPBELL 2,U.S. Congress District 01,,REP,Congressman Rick Crawford,356,241,6,109
+Lawrence,CAMPBELL 3,U.S. Congress District 01,,REP,Congressman Rick Crawford,199,136,1,62
+Lawrence,CAMPBELL 4,U.S. Congress District 01,,REP,Congressman Rick Crawford,334,224,4,106
+Lawrence,DENT,U.S. Congress District 01,,REP,Congressman Rick Crawford,244,73,3,168
+Lawrence,DOWELL,U.S. Congress District 01,,REP,Congressman Rick Crawford,32,16,3,13
+Lawrence,DUTY,U.S. Congress District 01,,REP,Congressman Rick Crawford,99,33,0,66
+Lawrence,EATON,U.S. Congress District 01,,REP,Congressman Rick Crawford,92,35,0,57
+Lawrence,FLAT CREEK,U.S. Congress District 01,,REP,Congressman Rick Crawford,30,8,2,20
+Lawrence,JESUP,U.S. Congress District 01,,REP,Congressman Rick Crawford,45,13,0,32
+Lawrence,LAWRENCE,U.S. Congress District 01,,REP,Congressman Rick Crawford,36,4,0,32
+Lawrence,MARION,U.S. Congress District 01,,REP,Congressman Rick Crawford,44,23,0,21
+Lawrence,MORGAN,U.S. Congress District 01,,REP,Congressman Rick Crawford,161,43,0,118
+Lawrence,PROMISED LAND,U.S. Congress District 01,,REP,Congressman Rick Crawford,84,57,0,27
+Lawrence,REED'S CREEK SAFFELL,U.S. Congress District 01,,REP,Congressman Rick Crawford,100,17,3,80
+Lawrence,REED'S CREEK STRAWBERRY,U.S. Congress District 01,,REP,Congressman Rick Crawford,131,16,2,113
+Lawrence,RICHWOODS,U.S. Congress District 01,,REP,Congressman Rick Crawford,30,17,2,11
+Lawrence,SPRING RIVER,U.S. Congress District 01,,REP,Congressman Rick Crawford,96,22,2,72
+Lawrence,STRAWBERRY,U.S. Congress District 01,,REP,Congressman Rick Crawford,132,29,0,103
+Lawrence,THACKER,U.S. Congress District 01,,REP,Congressman Rick Crawford,75,9,0,66
+Lawrence,ANNIEVILLE,Governor,,REP,Sarah Huckabee Sanders,101,41,0,60
+Lawrence,ASHLAND,Governor,,REP,Sarah Huckabee Sanders,56,17,0,39
+Lawrence,BLACK RIVER,Governor,,REP,Sarah Huckabee Sanders,138,58,0,80
+Lawrence,BLACK ROCK,Governor,,REP,Sarah Huckabee Sanders,295,104,6,185
+Lawrence,BOAS 1,Governor,,REP,Sarah Huckabee Sanders,172,100,0,72
+Lawrence,BOAS 2,Governor,,REP,Sarah Huckabee Sanders,153,65,4,84
+Lawrence,BOAS 3,Governor,,REP,Sarah Huckabee Sanders,139,65,4,70
+Lawrence,CACHE,Governor,,REP,Sarah Huckabee Sanders,34,12,0,22
+Lawrence,CAMPBELL 1,Governor,,REP,Sarah Huckabee Sanders,313,221,5,87
+Lawrence,CAMPBELL 2,Governor,,REP,Sarah Huckabee Sanders,338,238,4,96
+Lawrence,CAMPBELL 3,Governor,,REP,Sarah Huckabee Sanders,186,127,1,58
+Lawrence,CAMPBELL 4,Governor,,REP,Sarah Huckabee Sanders,324,217,3,104
+Lawrence,DENT,Governor,,REP,Sarah Huckabee Sanders,231,75,2,154
+Lawrence,DOWELL,Governor,,REP,Sarah Huckabee Sanders,32,16,3,13
+Lawrence,DUTY,Governor,,REP,Sarah Huckabee Sanders,99,36,0,63
+Lawrence,EATON,Governor,,REP,Sarah Huckabee Sanders,90,37,0,53
+Lawrence,FLAT CREEK,Governor,,REP,Sarah Huckabee Sanders,30,7,2,21
+Lawrence,JESUP,Governor,,REP,Sarah Huckabee Sanders,42,12,0,30
+Lawrence,LAWRENCE,Governor,,REP,Sarah Huckabee Sanders,39,5,0,34
+Lawrence,MARION,Governor,,REP,Sarah Huckabee Sanders,40,21,0,19
+Lawrence,MORGAN,Governor,,REP,Sarah Huckabee Sanders,166,41,0,125
+Lawrence,PROMISED LAND,Governor,,REP,Sarah Huckabee Sanders,81,56,0,25
+Lawrence,REED'S CREEK SAFFELL,Governor,,REP,Sarah Huckabee Sanders,106,17,3,86
+Lawrence,REED'S CREEK STRAWBERRY,Governor,,REP,Sarah Huckabee Sanders,127,16,3,108
+Lawrence,RICHWOODS,Governor,,REP,Sarah Huckabee Sanders,30,17,2,11
+Lawrence,SPRING RIVER,Governor,,REP,Sarah Huckabee Sanders,90,18,2,70
+Lawrence,STRAWBERRY,Governor,,REP,Sarah Huckabee Sanders,127,28,0,99
+Lawrence,THACKER,Governor,,REP,Sarah Huckabee Sanders,76,9,0,67
+Lawrence,ANNIEVILLE,Governor,,DEM,Chris Jones,11,4,0,7
+Lawrence,ASHLAND,Governor,,DEM,Chris Jones,13,4,0,9
+Lawrence,BLACK RIVER,Governor,,DEM,Chris Jones,31,20,1,10
+Lawrence,BLACK ROCK,Governor,,DEM,Chris Jones,63,29,0,34
+Lawrence,BOAS 1,Governor,,DEM,Chris Jones,54,24,2,28
+Lawrence,BOAS 2,Governor,,DEM,Chris Jones,45,21,0,24
+Lawrence,BOAS 3,Governor,,DEM,Chris Jones,27,17,0,10
+Lawrence,CACHE,Governor,,DEM,Chris Jones,3,2,0,1
+Lawrence,CAMPBELL 1,Governor,,DEM,Chris Jones,108,72,6,30
+Lawrence,CAMPBELL 2,Governor,,DEM,Chris Jones,93,56,8,29
+Lawrence,CAMPBELL 3,Governor,,DEM,Chris Jones,60,36,1,23
+Lawrence,CAMPBELL 4,Governor,,DEM,Chris Jones,89,63,4,22
+Lawrence,DENT,Governor,,DEM,Chris Jones,57,20,0,37
+Lawrence,DOWELL,Governor,,DEM,Chris Jones,7,5,0,2
+Lawrence,DUTY,Governor,,DEM,Chris Jones,38,7,1,30
+Lawrence,EATON,Governor,,DEM,Chris Jones,8,2,0,6
+Lawrence,FLAT CREEK,Governor,,DEM,Chris Jones,10,2,2,6
+Lawrence,JESUP,Governor,,DEM,Chris Jones,4,1,0,3
+Lawrence,LAWRENCE,Governor,,DEM,Chris Jones,10,4,0,6
+Lawrence,MARION,Governor,,DEM,Chris Jones,12,5,1,6
+Lawrence,MORGAN,Governor,,DEM,Chris Jones,27,5,1,21
+Lawrence,PROMISED LAND,Governor,,DEM,Chris Jones,20,18,0,2
+Lawrence,REED'S CREEK SAFFELL,Governor,,DEM,Chris Jones,6,0,0,6
+Lawrence,REED'S CREEK STRAWBERRY,Governor,,DEM,Chris Jones,23,3,0,20
+Lawrence,RICHWOODS,Governor,,DEM,Chris Jones,2,1,0,1
+Lawrence,SPRING RIVER,Governor,,DEM,Chris Jones,23,10,2,11
+Lawrence,STRAWBERRY,Governor,,DEM,Chris Jones,14,6,0,8
+Lawrence,THACKER,Governor,,DEM,Chris Jones,18,4,0,14
+Lawrence,ANNIEVILLE,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,0,0,2
+Lawrence,ASHLAND,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,1,0,0
+Lawrence,BLACK RIVER,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,1,0,1
+Lawrence,BLACK ROCK,Governor,,LIB,"Ricky Dale Harrington, Jr.",13,3,0,10
+Lawrence,BOAS 1,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,1,0,2
+Lawrence,BOAS 2,Governor,,LIB,"Ricky Dale Harrington, Jr.",7,6,0,1
+Lawrence,BOAS 3,Governor,,LIB,"Ricky Dale Harrington, Jr.",6,4,0,2
+Lawrence,CACHE,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Lawrence,CAMPBELL 1,Governor,,LIB,"Ricky Dale Harrington, Jr.",8,6,0,2
+Lawrence,CAMPBELL 2,Governor,,LIB,"Ricky Dale Harrington, Jr.",11,8,1,2
+Lawrence,CAMPBELL 3,Governor,,LIB,"Ricky Dale Harrington, Jr.",8,7,0,1
+Lawrence,CAMPBELL 4,Governor,,LIB,"Ricky Dale Harrington, Jr.",8,3,0,5
+Lawrence,DENT,Governor,,LIB,"Ricky Dale Harrington, Jr.",11,2,1,8
+Lawrence,DOWELL,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Lawrence,DUTY,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Lawrence,EATON,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,0,0,2
+Lawrence,FLAT CREEK,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Lawrence,JESUP,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Lawrence,LAWRENCE,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,2,0,0
+Lawrence,MARION,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,0,0,2
+Lawrence,MORGAN,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Lawrence,PROMISED LAND,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Lawrence,REED'S CREEK SAFFELL,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,1,0,1
+Lawrence,REED'S CREEK STRAWBERRY,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,0,0,5
+Lawrence,RICHWOODS,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Lawrence,SPRING RIVER,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,2,0,3
+Lawrence,STRAWBERRY,Governor,,LIB,"Ricky Dale Harrington, Jr.",6,2,0,4
+Lawrence,THACKER,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,0,0,3
+Lawrence,ANNIEVILLE,Lieutenant Governor,,DEM,Kelly Ross Krout,9,4,0,5
+Lawrence,ASHLAND,Lieutenant Governor,,DEM,Kelly Ross Krout,10,2,0,8
+Lawrence,BLACK RIVER,Lieutenant Governor,,DEM,Kelly Ross Krout,32,19,1,12
+Lawrence,BLACK ROCK,Lieutenant Governor,,DEM,Kelly Ross Krout,44,21,0,23
+Lawrence,BOAS 1,Lieutenant Governor,,DEM,Kelly Ross Krout,44,20,1,23
+Lawrence,BOAS 2,Lieutenant Governor,,DEM,Kelly Ross Krout,37,18,0,19
+Lawrence,BOAS 3,Lieutenant Governor,,DEM,Kelly Ross Krout,22,13,0,9
+Lawrence,CACHE,Lieutenant Governor,,DEM,Kelly Ross Krout,1,0,0,1
+Lawrence,CAMPBELL 1,Lieutenant Governor,,DEM,Kelly Ross Krout,92,63,5,24
+Lawrence,CAMPBELL 2,Lieutenant Governor,,DEM,Kelly Ross Krout,83,52,9,22
+Lawrence,CAMPBELL 3,Lieutenant Governor,,DEM,Kelly Ross Krout,53,31,1,21
+Lawrence,CAMPBELL 4,Lieutenant Governor,,DEM,Kelly Ross Krout,79,58,3,18
+Lawrence,DENT,Lieutenant Governor,,DEM,Kelly Ross Krout,43,17,0,26
+Lawrence,DOWELL,Lieutenant Governor,,DEM,Kelly Ross Krout,7,5,0,2
+Lawrence,DUTY,Lieutenant Governor,,DEM,Kelly Ross Krout,32,8,1,23
+Lawrence,EATON,Lieutenant Governor,,DEM,Kelly Ross Krout,7,3,0,4
+Lawrence,FLAT CREEK,Lieutenant Governor,,DEM,Kelly Ross Krout,3,0,1,2
+Lawrence,JESUP,Lieutenant Governor,,DEM,Kelly Ross Krout,3,0,0,3
+Lawrence,LAWRENCE,Lieutenant Governor,,DEM,Kelly Ross Krout,12,5,0,7
+Lawrence,MARION,Lieutenant Governor,,DEM,Kelly Ross Krout,10,4,1,5
+Lawrence,MORGAN,Lieutenant Governor,,DEM,Kelly Ross Krout,23,4,0,19
+Lawrence,PROMISED LAND,Lieutenant Governor,,DEM,Kelly Ross Krout,12,11,0,1
+Lawrence,REED'S CREEK SAFFELL,Lieutenant Governor,,DEM,Kelly Ross Krout,6,0,0,6
+Lawrence,REED'S CREEK STRAWBERRY,Lieutenant Governor,,DEM,Kelly Ross Krout,20,1,0,19
+Lawrence,RICHWOODS,Lieutenant Governor,,DEM,Kelly Ross Krout,2,1,0,1
+Lawrence,SPRING RIVER,Lieutenant Governor,,DEM,Kelly Ross Krout,17,8,2,7
+Lawrence,STRAWBERRY,Lieutenant Governor,,DEM,Kelly Ross Krout,16,8,0,8
+Lawrence,THACKER,Lieutenant Governor,,DEM,Kelly Ross Krout,14,4,0,10
+Lawrence,ANNIEVILLE,Lieutenant Governor,,LIB,Frank Gilbert,4,1,0,3
+Lawrence,ASHLAND,Lieutenant Governor,,LIB,Frank Gilbert,1,1,0,0
+Lawrence,BLACK RIVER,Lieutenant Governor,,LIB,Frank Gilbert,4,1,0,3
+Lawrence,BLACK ROCK,Lieutenant Governor,,LIB,Frank Gilbert,16,5,0,11
+Lawrence,BOAS 1,Lieutenant Governor,,LIB,Frank Gilbert,10,5,0,5
+Lawrence,BOAS 2,Lieutenant Governor,,LIB,Frank Gilbert,6,4,0,2
+Lawrence,BOAS 3,Lieutenant Governor,,LIB,Frank Gilbert,10,3,0,7
+Lawrence,CACHE,Lieutenant Governor,,LIB,Frank Gilbert,2,1,0,1
+Lawrence,CAMPBELL 1,Lieutenant Governor,,LIB,Frank Gilbert,22,13,1,8
+Lawrence,CAMPBELL 2,Lieutenant Governor,,LIB,Frank Gilbert,11,8,0,3
+Lawrence,CAMPBELL 3,Lieutenant Governor,,LIB,Frank Gilbert,13,7,0,6
+Lawrence,CAMPBELL 4,Lieutenant Governor,,LIB,Frank Gilbert,13,8,0,5
+Lawrence,DENT,Lieutenant Governor,,LIB,Frank Gilbert,13,2,0,11
+Lawrence,DOWELL,Lieutenant Governor,,LIB,Frank Gilbert,1,1,0,0
+Lawrence,DUTY,Lieutenant Governor,,LIB,Frank Gilbert,4,0,0,4
+Lawrence,EATON,Lieutenant Governor,,LIB,Frank Gilbert,3,1,0,2
+Lawrence,FLAT CREEK,Lieutenant Governor,,LIB,Frank Gilbert,4,0,0,4
+Lawrence,JESUP,Lieutenant Governor,,LIB,Frank Gilbert,1,0,0,1
+Lawrence,LAWRENCE,Lieutenant Governor,,LIB,Frank Gilbert,3,1,0,2
+Lawrence,MARION,Lieutenant Governor,,LIB,Frank Gilbert,1,0,0,1
+Lawrence,MORGAN,Lieutenant Governor,,LIB,Frank Gilbert,7,1,1,5
+Lawrence,PROMISED LAND,Lieutenant Governor,,LIB,Frank Gilbert,5,3,0,2
+Lawrence,REED'S CREEK SAFFELL,Lieutenant Governor,,LIB,Frank Gilbert,2,0,0,2
+Lawrence,REED'S CREEK STRAWBERRY,Lieutenant Governor,,LIB,Frank Gilbert,4,0,0,4
+Lawrence,RICHWOODS,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0
+Lawrence,SPRING RIVER,Lieutenant Governor,,LIB,Frank Gilbert,8,2,0,6
+Lawrence,STRAWBERRY,Lieutenant Governor,,LIB,Frank Gilbert,9,2,0,7
+Lawrence,THACKER,Lieutenant Governor,,LIB,Frank Gilbert,2,0,0,2
+Lawrence,ANNIEVILLE,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,98,39,0,59
+Lawrence,ASHLAND,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,58,18,0,40
+Lawrence,BLACK RIVER,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,131,55,0,76
+Lawrence,BLACK ROCK,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,303,109,6,188
+Lawrence,BOAS 1,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,172,96,1,75
+Lawrence,BOAS 2,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,159,68,4,87
+Lawrence,BOAS 3,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,139,69,4,66
+Lawrence,CACHE,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,35,13,0,22
+Lawrence,CAMPBELL 1,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,305,215,5,85
+Lawrence,CAMPBELL 2,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,336,232,4,100
+Lawrence,CAMPBELL 3,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,184,129,1,54
+Lawrence,CAMPBELL 4,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,322,211,3,108
+Lawrence,DENT,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,234,74,3,157
+Lawrence,DOWELL,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,31,15,3,13
+Lawrence,DUTY,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,95,33,0,62
+Lawrence,EATON,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,87,34,0,53
+Lawrence,FLAT CREEK,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,33,9,3,21
+Lawrence,JESUP,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,42,13,0,29
+Lawrence,LAWRENCE,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,35,4,0,31
+Lawrence,MARION,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,41,21,0,20
+Lawrence,MORGAN,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,161,43,0,118
+Lawrence,PROMISED LAND,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,83,58,0,25
+Lawrence,REED'S CREEK SAFFELL,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,101,17,3,81
+Lawrence,REED'S CREEK STRAWBERRY,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,127,17,3,107
+Lawrence,RICHWOODS,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,30,17,2,11
+Lawrence,SPRING RIVER,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,89,20,2,67
+Lawrence,STRAWBERRY,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,122,25,0,97
+Lawrence,THACKER,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,76,9,0,67
+Lawrence,ANNIEVILLE,Attorney General,,DEM,Jesse Gibson,10,4,0,6
+Lawrence,ASHLAND,Attorney General,,DEM,Jesse Gibson,10,2,0,8
+Lawrence,BLACK RIVER,Attorney General,,DEM,Jesse Gibson,32,18,1,13
+Lawrence,BLACK ROCK,Attorney General,,DEM,Jesse Gibson,53,26,0,27
+Lawrence,BOAS 1,Attorney General,,DEM,Jesse Gibson,45,21,1,23
+Lawrence,BOAS 2,Attorney General,,DEM,Jesse Gibson,42,21,0,21
+Lawrence,BOAS 3,Attorney General,,DEM,Jesse Gibson,29,17,0,12
+Lawrence,CACHE,Attorney General,,DEM,Jesse Gibson,1,0,0,1
+Lawrence,CAMPBELL 1,Attorney General,,DEM,Jesse Gibson,105,73,5,27
+Lawrence,CAMPBELL 2,Attorney General,,DEM,Jesse Gibson,80,54,7,19
+Lawrence,CAMPBELL 3,Attorney General,,DEM,Jesse Gibson,55,35,1,19
+Lawrence,CAMPBELL 4,Attorney General,,DEM,Jesse Gibson,77,56,3,18
+Lawrence,DENT,Attorney General,,DEM,Jesse Gibson,50,20,0,30
+Lawrence,DOWELL,Attorney General,,DEM,Jesse Gibson,7,5,0,2
+Lawrence,DUTY,Attorney General,,DEM,Jesse Gibson,38,8,1,29
+Lawrence,EATON,Attorney General,,DEM,Jesse Gibson,7,3,0,4
+Lawrence,FLAT CREEK,Attorney General,,DEM,Jesse Gibson,8,0,2,6
+Lawrence,JESUP,Attorney General,,DEM,Jesse Gibson,3,0,0,3
+Lawrence,LAWRENCE,Attorney General,,DEM,Jesse Gibson,13,6,0,7
+Lawrence,MARION,Attorney General,,DEM,Jesse Gibson,12,6,1,5
+Lawrence,MORGAN,Attorney General,,DEM,Jesse Gibson,28,5,1,22
+Lawrence,PROMISED LAND,Attorney General,,DEM,Jesse Gibson,12,11,0,1
+Lawrence,REED'S CREEK SAFFELL,Attorney General,,DEM,Jesse Gibson,6,0,0,6
+Lawrence,REED'S CREEK STRAWBERRY,Attorney General,,DEM,Jesse Gibson,24,2,0,22
+Lawrence,RICHWOODS,Attorney General,,DEM,Jesse Gibson,2,1,0,1
+Lawrence,SPRING RIVER,Attorney General,,DEM,Jesse Gibson,20,8,2,10
+Lawrence,STRAWBERRY,Attorney General,,DEM,Jesse Gibson,13,6,0,7
+Lawrence,THACKER,Attorney General,,DEM,Jesse Gibson,18,4,0,14
+Lawrence,ANNIEVILLE,Attorney General,,REP,Lieutenant Governor Tim Griffin,104,41,0,63
+Lawrence,ASHLAND,Attorney General,,REP,Lieutenant Governor Tim Griffin,58,19,0,39
+Lawrence,BLACK RIVER,Attorney General,,REP,Lieutenant Governor Tim Griffin,138,60,0,78
+Lawrence,BLACK ROCK,Attorney General,,REP,Lieutenant Governor Tim Griffin,308,108,6,194
+Lawrence,BOAS 1,Attorney General,,REP,Lieutenant Governor Tim Griffin,184,102,1,81
+Lawrence,BOAS 2,Attorney General,,REP,Lieutenant Governor Tim Griffin,158,68,4,86
+Lawrence,BOAS 3,Attorney General,,REP,Lieutenant Governor Tim Griffin,142,69,4,69
+Lawrence,CACHE,Attorney General,,REP,Lieutenant Governor Tim Griffin,37,14,0,23
+Lawrence,CAMPBELL 1,Attorney General,,REP,Lieutenant Governor Tim Griffin,317,221,5,91
+Lawrence,CAMPBELL 2,Attorney General,,REP,Lieutenant Governor Tim Griffin,354,243,5,106
+Lawrence,CAMPBELL 3,Attorney General,,REP,Lieutenant Governor Tim Griffin,195,131,1,63
+Lawrence,CAMPBELL 4,Attorney General,,REP,Lieutenant Governor Tim Griffin,336,223,3,110
+Lawrence,DENT,Attorney General,,REP,Lieutenant Governor Tim Griffin,243,75,2,166
+Lawrence,DOWELL,Attorney General,,REP,Lieutenant Governor Tim Griffin,32,16,3,13
+Lawrence,DUTY,Attorney General,,REP,Lieutenant Governor Tim Griffin,95,32,0,63
+Lawrence,EATON,Attorney General,,REP,Lieutenant Governor Tim Griffin,89,33,0,56
+Lawrence,FLAT CREEK,Attorney General,,REP,Lieutenant Governor Tim Griffin,32,9,2,21
+Lawrence,JESUP,Attorney General,,REP,Lieutenant Governor Tim Griffin,42,13,0,29
+Lawrence,LAWRENCE,Attorney General,,REP,Lieutenant Governor Tim Griffin,37,5,0,32
+Lawrence,MARION,Attorney General,,REP,Lieutenant Governor Tim Griffin,41,20,0,21
+Lawrence,MORGAN,Attorney General,,REP,Lieutenant Governor Tim Griffin,165,42,0,123
+Lawrence,PROMISED LAND,Attorney General,,REP,Lieutenant Governor Tim Griffin,88,63,0,25
+Lawrence,REED'S CREEK SAFFELL,Attorney General,,REP,Lieutenant Governor Tim Griffin,107,17,3,87
+Lawrence,REED'S CREEK STRAWBERRY,Attorney General,,REP,Lieutenant Governor Tim Griffin,129,17,3,109
+Lawrence,RICHWOODS,Attorney General,,REP,Lieutenant Governor Tim Griffin,30,17,2,11
+Lawrence,SPRING RIVER,Attorney General,,REP,Lieutenant Governor Tim Griffin,96,22,2,72
+Lawrence,STRAWBERRY,Attorney General,,REP,Lieutenant Governor Tim Griffin,133,30,0,103
+Lawrence,THACKER,Attorney General,,REP,Lieutenant Governor Tim Griffin,79,9,0,70
+Lawrence,ANNIEVILLE,Secretary of State,,REP,Secretary of State John Thurston,103,41,0,62
+Lawrence,ASHLAND,Secretary of State,,REP,Secretary of State John Thurston,56,18,0,38
+Lawrence,BLACK RIVER,Secretary of State,,REP,Secretary of State John Thurston,137,57,0,80
+Lawrence,BLACK ROCK,Secretary of State,,REP,Secretary of State John Thurston,306,107,5,194
+Lawrence,BOAS 1,Secretary of State,,REP,Secretary of State John Thurston,183,103,0,80
+Lawrence,BOAS 2,Secretary of State,,REP,Secretary of State John Thurston,156,70,4,82
+Lawrence,BOAS 3,Secretary of State,,REP,Secretary of State John Thurston,141,69,4,68
+Lawrence,CACHE,Secretary of State,,REP,Secretary of State John Thurston,36,13,0,23
+Lawrence,CAMPBELL 1,Secretary of State,,REP,Secretary of State John Thurston,323,225,7,91
+Lawrence,CAMPBELL 2,Secretary of State,,REP,Secretary of State John Thurston,348,239,3,106
+Lawrence,CAMPBELL 3,Secretary of State,,REP,Secretary of State John Thurston,197,133,1,63
+Lawrence,CAMPBELL 4,Secretary of State,,REP,Secretary of State John Thurston,338,224,3,111
+Lawrence,DENT,Secretary of State,,REP,Secretary of State John Thurston,245,73,3,169
+Lawrence,DOWELL,Secretary of State,,REP,Secretary of State John Thurston,32,17,3,12
+Lawrence,DUTY,Secretary of State,,REP,Secretary of State John Thurston,100,34,0,66
+Lawrence,EATON,Secretary of State,,REP,Secretary of State John Thurston,92,35,0,57
+Lawrence,FLAT CREEK,Secretary of State,,REP,Secretary of State John Thurston,31,8,2,21
+Lawrence,JESUP,Secretary of State,,REP,Secretary of State John Thurston,42,13,0,29
+Lawrence,LAWRENCE,Secretary of State,,REP,Secretary of State John Thurston,40,6,0,34
+Lawrence,MARION,Secretary of State,,REP,Secretary of State John Thurston,40,21,0,19
+Lawrence,MORGAN,Secretary of State,,REP,Secretary of State John Thurston,164,42,0,122
+Lawrence,PROMISED LAND,Secretary of State,,REP,Secretary of State John Thurston,84,59,0,25
+Lawrence,REED'S CREEK SAFFELL,Secretary of State,,REP,Secretary of State John Thurston,102,16,3,83
+Lawrence,REED'S CREEK STRAWBERRY,Secretary of State,,REP,Secretary of State John Thurston,131,17,3,111
+Lawrence,RICHWOODS,Secretary of State,,REP,Secretary of State John Thurston,30,17,2,11
+Lawrence,SPRING RIVER,Secretary of State,,REP,Secretary of State John Thurston,94,22,2,70
+Lawrence,STRAWBERRY,Secretary of State,,REP,Secretary of State John Thurston,134,31,0,103
+Lawrence,THACKER,Secretary of State,,REP,Secretary of State John Thurston,74,9,0,65
+Lawrence,ANNIEVILLE,Secretary of State,,DEM,Anna Beth Gorman,11,4,0,7
+Lawrence,ASHLAND,Secretary of State,,DEM,Anna Beth Gorman,13,3,0,10
+Lawrence,BLACK RIVER,Secretary of State,,DEM,Anna Beth Gorman,30,18,1,11
+Lawrence,BLACK ROCK,Secretary of State,,DEM,Anna Beth Gorman,52,26,0,26
+Lawrence,BOAS 1,Secretary of State,,DEM,Anna Beth Gorman,43,18,2,23
+Lawrence,BOAS 2,Secretary of State,,DEM,Anna Beth Gorman,43,19,0,24
+Lawrence,BOAS 3,Secretary of State,,DEM,Anna Beth Gorman,27,15,0,12
+Lawrence,CACHE,Secretary of State,,DEM,Anna Beth Gorman,2,1,0,1
+Lawrence,CAMPBELL 1,Secretary of State,,DEM,Anna Beth Gorman,97,68,2,27
+Lawrence,CAMPBELL 2,Secretary of State,,DEM,Anna Beth Gorman,84,55,10,19
+Lawrence,CAMPBELL 3,Secretary of State,,DEM,Anna Beth Gorman,57,37,1,19
+Lawrence,CAMPBELL 4,Secretary of State,,DEM,Anna Beth Gorman,77,54,3,20
+Lawrence,DENT,Secretary of State,,DEM,Anna Beth Gorman,48,22,0,26
+Lawrence,DOWELL,Secretary of State,,DEM,Anna Beth Gorman,7,4,0,3
+Lawrence,DUTY,Secretary of State,,DEM,Anna Beth Gorman,34,8,1,25
+Lawrence,EATON,Secretary of State,,DEM,Anna Beth Gorman,7,3,0,4
+Lawrence,FLAT CREEK,Secretary of State,,DEM,Anna Beth Gorman,9,1,2,6
+Lawrence,JESUP,Secretary of State,,DEM,Anna Beth Gorman,3,0,0,3
+Lawrence,LAWRENCE,Secretary of State,,DEM,Anna Beth Gorman,10,5,0,5
+Lawrence,MARION,Secretary of State,,DEM,Anna Beth Gorman,11,4,1,6
+Lawrence,MORGAN,Secretary of State,,DEM,Anna Beth Gorman,28,4,1,23
+Lawrence,PROMISED LAND,Secretary of State,,DEM,Anna Beth Gorman,16,14,0,2
+Lawrence,REED'S CREEK SAFFELL,Secretary of State,,DEM,Anna Beth Gorman,5,0,0,5
+Lawrence,REED'S CREEK STRAWBERRY,Secretary of State,,DEM,Anna Beth Gorman,23,1,0,22
+Lawrence,RICHWOODS,Secretary of State,,DEM,Anna Beth Gorman,2,1,0,1
+Lawrence,SPRING RIVER,Secretary of State,,DEM,Anna Beth Gorman,18,8,2,8
+Lawrence,STRAWBERRY,Secretary of State,,DEM,Anna Beth Gorman,11,5,0,6
+Lawrence,THACKER,Secretary of State,,DEM,Anna Beth Gorman,19,4,0,15
+Lawrence,ANNIEVILLE,State Treasurer,,REP,State Representative Mark Lowery,96,39,0,57
+Lawrence,ASHLAND,State Treasurer,,REP,State Representative Mark Lowery,59,19,0,40
+Lawrence,BLACK RIVER,State Treasurer,,REP,State Representative Mark Lowery,136,59,0,77
+Lawrence,BLACK ROCK,State Treasurer,,REP,State Representative Mark Lowery,306,107,6,193
+Lawrence,BOAS 1,State Treasurer,,REP,State Representative Mark Lowery,184,104,0,80
+Lawrence,BOAS 2,State Treasurer,,REP,State Representative Mark Lowery,156,68,4,84
+Lawrence,BOAS 3,State Treasurer,,REP,State Representative Mark Lowery,140,67,4,69
+Lawrence,CACHE,State Treasurer,,REP,State Representative Mark Lowery,36,13,0,23
+Lawrence,CAMPBELL 1,State Treasurer,,REP,State Representative Mark Lowery,317,224,5,88
+Lawrence,CAMPBELL 2,State Treasurer,,REP,State Representative Mark Lowery,347,237,3,107
+Lawrence,CAMPBELL 3,State Treasurer,,REP,State Representative Mark Lowery,190,129,1,60
+Lawrence,CAMPBELL 4,State Treasurer,,REP,State Representative Mark Lowery,336,222,4,110
+Lawrence,DENT,State Treasurer,,REP,State Representative Mark Lowery,240,73,3,164
+Lawrence,DOWELL,State Treasurer,,REP,State Representative Mark Lowery,31,15,3,13
+Lawrence,DUTY,State Treasurer,,REP,State Representative Mark Lowery,100,34,0,66
+Lawrence,EATON,State Treasurer,,REP,State Representative Mark Lowery,90,34,0,56
+Lawrence,FLAT CREEK,State Treasurer,,REP,State Representative Mark Lowery,31,8,2,21
+Lawrence,JESUP,State Treasurer,,REP,State Representative Mark Lowery,40,13,0,27
+Lawrence,LAWRENCE,State Treasurer,,REP,State Representative Mark Lowery,37,5,0,32
+Lawrence,MARION,State Treasurer,,REP,State Representative Mark Lowery,41,21,0,20
+Lawrence,MORGAN,State Treasurer,,REP,State Representative Mark Lowery,162,42,0,120
+Lawrence,PROMISED LAND,State Treasurer,,REP,State Representative Mark Lowery,83,58,0,25
+Lawrence,REED'S CREEK SAFFELL,State Treasurer,,REP,State Representative Mark Lowery,102,16,3,83
+Lawrence,REED'S CREEK STRAWBERRY,State Treasurer,,REP,State Representative Mark Lowery,126,17,3,106
+Lawrence,RICHWOODS,State Treasurer,,REP,State Representative Mark Lowery,30,17,2,11
+Lawrence,SPRING RIVER,State Treasurer,,REP,State Representative Mark Lowery,94,22,2,70
+Lawrence,STRAWBERRY,State Treasurer,,REP,State Representative Mark Lowery,134,30,0,104
+Lawrence,THACKER,State Treasurer,,REP,State Representative Mark Lowery,74,9,0,65
+Lawrence,ANNIEVILLE,State Treasurer,,DEM,Pam Whitaker,17,5,0,12
+Lawrence,ASHLAND,State Treasurer,,DEM,Pam Whitaker,10,2,0,8
+Lawrence,BLACK RIVER,State Treasurer,,DEM,Pam Whitaker,30,18,1,11
+Lawrence,BLACK ROCK,State Treasurer,,DEM,Pam Whitaker,53,25,0,28
+Lawrence,BOAS 1,State Treasurer,,DEM,Pam Whitaker,46,20,2,24
+Lawrence,BOAS 2,State Treasurer,,DEM,Pam Whitaker,44,21,0,23
+Lawrence,BOAS 3,State Treasurer,,DEM,Pam Whitaker,30,16,0,14
+Lawrence,CACHE,State Treasurer,,DEM,Pam Whitaker,2,1,0,1
+Lawrence,CAMPBELL 1,State Treasurer,,DEM,Pam Whitaker,104,69,5,30
+Lawrence,CAMPBELL 2,State Treasurer,,DEM,Pam Whitaker,91,62,10,19
+Lawrence,CAMPBELL 3,State Treasurer,,DEM,Pam Whitaker,59,38,1,20
+Lawrence,CAMPBELL 4,State Treasurer,,DEM,Pam Whitaker,82,59,3,20
+Lawrence,DENT,State Treasurer,,DEM,Pam Whitaker,52,21,0,31
+Lawrence,DOWELL,State Treasurer,,DEM,Pam Whitaker,7,5,0,2
+Lawrence,DUTY,State Treasurer,,DEM,Pam Whitaker,33,8,1,24
+Lawrence,EATON,State Treasurer,,DEM,Pam Whitaker,8,4,0,4
+Lawrence,FLAT CREEK,State Treasurer,,DEM,Pam Whitaker,9,1,2,6
+Lawrence,JESUP,State Treasurer,,DEM,Pam Whitaker,4,0,0,4
+Lawrence,LAWRENCE,State Treasurer,,DEM,Pam Whitaker,14,6,0,8
+Lawrence,MARION,State Treasurer,,DEM,Pam Whitaker,11,5,1,5
+Lawrence,MORGAN,State Treasurer,,DEM,Pam Whitaker,32,5,1,26
+Lawrence,PROMISED LAND,State Treasurer,,DEM,Pam Whitaker,18,16,0,2
+Lawrence,REED'S CREEK SAFFELL,State Treasurer,,DEM,Pam Whitaker,6,0,0,6
+Lawrence,REED'S CREEK STRAWBERRY,State Treasurer,,DEM,Pam Whitaker,24,1,0,23
+Lawrence,RICHWOODS,State Treasurer,,DEM,Pam Whitaker,2,1,0,1
+Lawrence,SPRING RIVER,State Treasurer,,DEM,Pam Whitaker,20,8,2,10
+Lawrence,STRAWBERRY,State Treasurer,,DEM,Pam Whitaker,12,6,0,6
+Lawrence,THACKER,State Treasurer,,DEM,Pam Whitaker,20,4,0,16
+Lawrence,ANNIEVILLE,Auditor of State,,DEM,Diamond Arnold-Johnson,11,3,0,8
+Lawrence,ASHLAND,Auditor of State,,DEM,Diamond Arnold-Johnson,8,1,0,7
+Lawrence,BLACK RIVER,Auditor of State,,DEM,Diamond Arnold-Johnson,28,16,1,11
+Lawrence,BLACK ROCK,Auditor of State,,DEM,Diamond Arnold-Johnson,54,26,0,28
+Lawrence,BOAS 1,Auditor of State,,DEM,Diamond Arnold-Johnson,44,19,1,24
+Lawrence,BOAS 2,Auditor of State,,DEM,Diamond Arnold-Johnson,42,20,0,22
+Lawrence,BOAS 3,Auditor of State,,DEM,Diamond Arnold-Johnson,26,15,0,11
+Lawrence,CACHE,Auditor of State,,DEM,Diamond Arnold-Johnson,3,2,0,1
+Lawrence,CAMPBELL 1,Auditor of State,,DEM,Diamond Arnold-Johnson,100,67,4,29
+Lawrence,CAMPBELL 2,Auditor of State,,DEM,Diamond Arnold-Johnson,81,56,8,17
+Lawrence,CAMPBELL 3,Auditor of State,,DEM,Diamond Arnold-Johnson,55,35,1,19
+Lawrence,CAMPBELL 4,Auditor of State,,DEM,Diamond Arnold-Johnson,77,56,4,17
+Lawrence,DENT,Auditor of State,,DEM,Diamond Arnold-Johnson,41,19,0,22
+Lawrence,DOWELL,Auditor of State,,DEM,Diamond Arnold-Johnson,7,5,0,2
+Lawrence,DUTY,Auditor of State,,DEM,Diamond Arnold-Johnson,32,8,1,23
+Lawrence,EATON,Auditor of State,,DEM,Diamond Arnold-Johnson,6,3,0,3
+Lawrence,FLAT CREEK,Auditor of State,,DEM,Diamond Arnold-Johnson,6,0,2,4
+Lawrence,JESUP,Auditor of State,,DEM,Diamond Arnold-Johnson,1,0,0,1
+Lawrence,LAWRENCE,Auditor of State,,DEM,Diamond Arnold-Johnson,9,4,0,5
+Lawrence,MARION,Auditor of State,,DEM,Diamond Arnold-Johnson,8,3,1,4
+Lawrence,MORGAN,Auditor of State,,DEM,Diamond Arnold-Johnson,27,5,1,21
+Lawrence,PROMISED LAND,Auditor of State,,DEM,Diamond Arnold-Johnson,15,14,0,1
+Lawrence,REED'S CREEK SAFFELL,Auditor of State,,DEM,Diamond Arnold-Johnson,6,0,0,6
+Lawrence,REED'S CREEK STRAWBERRY,Auditor of State,,DEM,Diamond Arnold-Johnson,27,2,0,25
+Lawrence,RICHWOODS,Auditor of State,,DEM,Diamond Arnold-Johnson,2,1,0,1
+Lawrence,SPRING RIVER,Auditor of State,,DEM,Diamond Arnold-Johnson,19,7,2,10
+Lawrence,STRAWBERRY,Auditor of State,,DEM,Diamond Arnold-Johnson,13,6,0,7
+Lawrence,THACKER,Auditor of State,,DEM,Diamond Arnold-Johnson,15,4,0,11
+Lawrence,ANNIEVILLE,Auditor of State,,REP,Treasurer of State Dennis Milligan,100,41,0,59
+Lawrence,ASHLAND,Auditor of State,,REP,Treasurer of State Dennis Milligan,58,17,0,41
+Lawrence,BLACK RIVER,Auditor of State,,REP,Treasurer of State Dennis Milligan,137,59,0,78
+Lawrence,BLACK ROCK,Auditor of State,,REP,Treasurer of State Dennis Milligan,302,106,6,190
+Lawrence,BOAS 1,Auditor of State,,REP,Treasurer of State Dennis Milligan,179,100,1,78
+Lawrence,BOAS 2,Auditor of State,,REP,Treasurer of State Dennis Milligan,149,65,4,80
+Lawrence,BOAS 3,Auditor of State,,REP,Treasurer of State Dennis Milligan,137,69,4,64
+Lawrence,CACHE,Auditor of State,,REP,Treasurer of State Dennis Milligan,35,12,0,23
+Lawrence,CAMPBELL 1,Auditor of State,,REP,Treasurer of State Dennis Milligan,304,217,5,82
+Lawrence,CAMPBELL 2,Auditor of State,,REP,Treasurer of State Dennis Milligan,348,239,4,105
+Lawrence,CAMPBELL 3,Auditor of State,,REP,Treasurer of State Dennis Milligan,186,127,1,58
+Lawrence,CAMPBELL 4,Auditor of State,,REP,Treasurer of State Dennis Milligan,332,219,3,110
+Lawrence,DENT,Auditor of State,,REP,Treasurer of State Dennis Milligan,245,74,3,168
+Lawrence,DOWELL,Auditor of State,,REP,Treasurer of State Dennis Milligan,31,16,3,12
+Lawrence,DUTY,Auditor of State,,REP,Treasurer of State Dennis Milligan,96,34,0,62
+Lawrence,EATON,Auditor of State,,REP,Treasurer of State Dennis Milligan,90,33,0,57
+Lawrence,FLAT CREEK,Auditor of State,,REP,Treasurer of State Dennis Milligan,33,9,2,22
+Lawrence,JESUP,Auditor of State,,REP,Treasurer of State Dennis Milligan,42,13,0,29
+Lawrence,LAWRENCE,Auditor of State,,REP,Treasurer of State Dennis Milligan,38,6,0,32
+Lawrence,MARION,Auditor of State,,REP,Treasurer of State Dennis Milligan,41,21,0,20
+Lawrence,MORGAN,Auditor of State,,REP,Treasurer of State Dennis Milligan,161,41,0,120
+Lawrence,PROMISED LAND,Auditor of State,,REP,Treasurer of State Dennis Milligan,82,58,0,24
+Lawrence,REED'S CREEK SAFFELL,Auditor of State,,REP,Treasurer of State Dennis Milligan,100,16,3,81
+Lawrence,REED'S CREEK STRAWBERRY,Auditor of State,,REP,Treasurer of State Dennis Milligan,120,17,3,100
+Lawrence,RICHWOODS,Auditor of State,,REP,Treasurer of State Dennis Milligan,30,17,2,11
+Lawrence,SPRING RIVER,Auditor of State,,REP,Treasurer of State Dennis Milligan,95,22,2,71
+Lawrence,STRAWBERRY,Auditor of State,,REP,Treasurer of State Dennis Milligan,122,29,0,93
+Lawrence,THACKER,Auditor of State,,REP,Treasurer of State Dennis Milligan,78,9,0,69
+Lawrence,ANNIEVILLE,Auditor of State,,LIB,Simeon Snow,1,0,0,1
+Lawrence,ASHLAND,Auditor of State,,LIB,Simeon Snow,3,3,0,0
+Lawrence,BLACK RIVER,Auditor of State,,LIB,Simeon Snow,3,3,0,0
+Lawrence,BLACK ROCK,Auditor of State,,LIB,Simeon Snow,10,3,0,7
+Lawrence,BOAS 1,Auditor of State,,LIB,Simeon Snow,6,4,0,2
+Lawrence,BOAS 2,Auditor of State,,LIB,Simeon Snow,9,4,0,5
+Lawrence,BOAS 3,Auditor of State,,LIB,Simeon Snow,9,4,0,5
+Lawrence,CACHE,Auditor of State,,LIB,Simeon Snow,0,0,0,0
+Lawrence,CAMPBELL 1,Auditor of State,,LIB,Simeon Snow,15,7,1,7
+Lawrence,CAMPBELL 2,Auditor of State,,LIB,Simeon Snow,10,4,1,5
+Lawrence,CAMPBELL 3,Auditor of State,,LIB,Simeon Snow,11,7,0,4
+Lawrence,CAMPBELL 4,Auditor of State,,LIB,Simeon Snow,9,6,0,3
+Lawrence,DENT,Auditor of State,,LIB,Simeon Snow,9,3,0,6
+Lawrence,DOWELL,Auditor of State,,LIB,Simeon Snow,1,0,0,1
+Lawrence,DUTY,Auditor of State,,LIB,Simeon Snow,3,0,0,3
+Lawrence,EATON,Auditor of State,,LIB,Simeon Snow,2,1,0,1
+Lawrence,FLAT CREEK,Auditor of State,,LIB,Simeon Snow,0,0,0,0
+Lawrence,JESUP,Auditor of State,,LIB,Simeon Snow,1,0,0,1
+Lawrence,LAWRENCE,Auditor of State,,LIB,Simeon Snow,3,1,0,2
+Lawrence,MARION,Auditor of State,,LIB,Simeon Snow,4,2,0,2
+Lawrence,MORGAN,Auditor of State,,LIB,Simeon Snow,3,1,0,2
+Lawrence,PROMISED LAND,Auditor of State,,LIB,Simeon Snow,3,1,0,2
+Lawrence,REED'S CREEK SAFFELL,Auditor of State,,LIB,Simeon Snow,3,1,0,2
+Lawrence,REED'S CREEK STRAWBERRY,Auditor of State,,LIB,Simeon Snow,5,0,0,5
+Lawrence,RICHWOODS,Auditor of State,,LIB,Simeon Snow,0,0,0,0
+Lawrence,SPRING RIVER,Auditor of State,,LIB,Simeon Snow,2,1,0,1
+Lawrence,STRAWBERRY,Auditor of State,,LIB,Simeon Snow,12,1,0,11
+Lawrence,THACKER,Auditor of State,,LIB,Simeon Snow,2,0,0,2
+Lawrence,ANNIEVILLE,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,100,40,0,60
+Lawrence,ASHLAND,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,57,19,0,38
+Lawrence,BLACK RIVER,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,144,64,0,80
+Lawrence,BLACK ROCK,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,317,115,6,196
+Lawrence,BOAS 1,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,184,100,1,83
+Lawrence,BOAS 2,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,162,71,4,87
+Lawrence,BOAS 3,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,140,69,4,67
+Lawrence,CACHE,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,36,13,0,23
+Lawrence,CAMPBELL 1,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,322,226,5,91
+Lawrence,CAMPBELL 2,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,357,243,4,110
+Lawrence,CAMPBELL 3,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,199,135,1,63
+Lawrence,CAMPBELL 4,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,343,227,4,112
+Lawrence,DENT,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,250,77,3,170
+Lawrence,DOWELL,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,33,17,3,13
+Lawrence,DUTY,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,101,34,0,67
+Lawrence,EATON,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,89,34,0,55
+Lawrence,FLAT CREEK,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,36,9,2,25
+Lawrence,JESUP,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,41,13,0,28
+Lawrence,LAWRENCE,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,39,8,0,31
+Lawrence,MARION,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,40,21,0,19
+Lawrence,MORGAN,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,166,43,0,123
+Lawrence,PROMISED LAND,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,87,61,0,26
+Lawrence,REED'S CREEK SAFFELL,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,103,16,3,84
+Lawrence,REED'S CREEK STRAWBERRY,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,129,17,3,109
+Lawrence,RICHWOODS,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,30,17,2,11
+Lawrence,SPRING RIVER,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,94,20,2,72
+Lawrence,STRAWBERRY,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,135,30,0,105
+Lawrence,THACKER,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,79,9,0,70
+Lawrence,ANNIEVILLE,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,12,4,0,8
+Lawrence,ASHLAND,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,12,2,0,10
+Lawrence,BLACK RIVER,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,23,14,1,8
+Lawrence,BLACK ROCK,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,43,22,0,21
+Lawrence,BOAS 1,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,43,23,1,19
+Lawrence,BOAS 2,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,38,18,0,20
+Lawrence,BOAS 3,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,33,18,0,15
+Lawrence,CACHE,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,2,1,0,1
+Lawrence,CAMPBELL 1,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,97,65,5,27
+Lawrence,CAMPBELL 2,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,77,52,8,17
+Lawrence,CAMPBELL 3,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,52,34,1,17
+Lawrence,CAMPBELL 4,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,67,47,3,17
+Lawrence,DENT,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,44,19,0,25
+Lawrence,DOWELL,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,6,4,0,2
+Lawrence,DUTY,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,31,7,1,23
+Lawrence,EATON,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,7,3,0,4
+Lawrence,FLAT CREEK,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,4,0,2,2
+Lawrence,JESUP,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,3,0,0,3
+Lawrence,LAWRENCE,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,10,3,0,7
+Lawrence,MARION,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,11,4,1,6
+Lawrence,MORGAN,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,26,4,1,21
+Lawrence,PROMISED LAND,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,14,13,0,1
+Lawrence,REED'S CREEK SAFFELL,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,6,0,0,6
+Lawrence,REED'S CREEK STRAWBERRY,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,24,1,0,23
+Lawrence,RICHWOODS,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,2,1,0,1
+Lawrence,SPRING RIVER,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,20,9,2,9
+Lawrence,STRAWBERRY,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,10,5,0,5
+Lawrence,THACKER,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,17,4,0,13
+Lawrence,BOAS 1,State Senate,21,REP,State Senator Blake Johnson,95,57,0,38
+Lawrence,BOAS 3,State Senate,21,REP,State Senator Blake Johnson,140,66,4,70
+Lawrence,CACHE,State Senate,21,REP,State Senator Blake Johnson,37,14,0,23
+Lawrence,CAMPBELL 1,State Senate,21,REP,State Senator Blake Johnson,333,236,7,90
+Lawrence,CAMPBELL 2,State Senate,21,REP,State Senator Blake Johnson,368,253,5,110
+Lawrence,CAMPBELL 3,State Senate,21,REP,State Senator Blake Johnson,205,141,1,63
+Lawrence,CAMPBELL 4,State Senate,21,REP,State Senator Blake Johnson,342,226,4,112
+Lawrence,DUTY,State Senate,21,REP,State Senator Blake Johnson,0,0,0,0
+Lawrence,PROMISED LAND,State Senate,21,REP,State Senator Blake Johnson,18,11,0,7
+Lawrence,RICHWOODS,State Senate,21,REP,State Senator Blake Johnson,29,16,2,11
+Lawrence,BOAS 1,State Senate,21,LIB,"Alfred Jefferson Holland, III",21,11,0,10
+Lawrence,BOAS 3,State Senate,21,LIB,"Alfred Jefferson Holland, III",23,13,0,10
+Lawrence,CACHE,State Senate,21,LIB,"Alfred Jefferson Holland, III",1,0,0,1
+Lawrence,CAMPBELL 1,State Senate,21,LIB,"Alfred Jefferson Holland, III",76,46,3,27
+Lawrence,CAMPBELL 2,State Senate,21,LIB,"Alfred Jefferson Holland, III",62,43,7,12
+Lawrence,CAMPBELL 3,State Senate,21,LIB,"Alfred Jefferson Holland, III",45,27,0,18
+Lawrence,CAMPBELL 4,State Senate,21,LIB,"Alfred Jefferson Holland, III",60,43,1,16
+Lawrence,DUTY,State Senate,21,LIB,"Alfred Jefferson Holland, III",0,0,0,0
+Lawrence,PROMISED LAND,State Senate,21,LIB,"Alfred Jefferson Holland, III",0,0,0,0
+Lawrence,RICHWOODS,State Senate,21,LIB,"Alfred Jefferson Holland, III",2,1,0,1
+Lawrence,ANNIEVILLE,State Senate,22,REP,Representative John Payton,106,43,0,63
+Lawrence,ASHLAND,State Senate,22,REP,Representative John Payton,64,19,0,45
+Lawrence,BLACK RIVER,State Senate,22,REP,Representative John Payton,154,74,1,79
+Lawrence,BLACK ROCK,State Senate,22,REP,Representative John Payton,338,120,6,212
+Lawrence,BOAS 1,State Senate,22,REP,Representative John Payton,99,48,0,51
+Lawrence,BOAS 2,State Senate,22,REP,Representative John Payton,181,79,4,98
+Lawrence,BOAS 3,State Senate,22,REP,Representative John Payton,7,6,0,1
+Lawrence,DENT,State Senate,22,REP,Representative John Payton,266,79,3,184
+Lawrence,DOWELL,State Senate,22,REP,Representative John Payton,35,17,3,15
+Lawrence,DUTY,State Senate,22,REP,Representative John Payton,112,34,0,78
+Lawrence,EATON,State Senate,22,REP,Representative John Payton,93,36,0,57
+Lawrence,FLAT CREEK,State Senate,22,REP,Representative John Payton,37,9,4,24
+Lawrence,JESUP,State Senate,22,REP,Representative John Payton,43,13,0,30
+Lawrence,LAWRENCE,State Senate,22,REP,Representative John Payton,46,10,0,36
+Lawrence,MARION,State Senate,22,REP,Representative John Payton,49,24,1,24
+Lawrence,MORGAN,State Senate,22,REP,Representative John Payton,176,44,1,131
+Lawrence,PROMISED LAND,State Senate,22,REP,Representative John Payton,71,51,0,20
+Lawrence,REED'S CREEK SAFFELL,State Senate,22,REP,Representative John Payton,101,16,3,82
+Lawrence,REED'S CREEK STRAWBERRY,State Senate,22,REP,Representative John Payton,139,16,3,120
+Lawrence,SPRING RIVER,State Senate,22,REP,Representative John Payton,103,25,4,74
+Lawrence,STRAWBERRY,State Senate,22,REP,Representative John Payton,138,33,0,105
+Lawrence,THACKER,State Senate,22,REP,Representative John Payton,82,10,0,72
+Lawrence,ANNIEVILLE,State House,28,REP,Bart Schulz,100,40,0,60
+Lawrence,ASHLAND,State House,28,REP,Bart Schulz,62,20,0,42
+Lawrence,BLACK RIVER,State House,28,REP,Bart Schulz,146,68,1,77
+Lawrence,BLACK ROCK,State House,28,REP,Bart Schulz,327,116,6,205
+Lawrence,BOAS 1,State House,28,REP,Bart Schulz,99,49,0,50
+Lawrence,BOAS 2,State House,28,REP,Bart Schulz,179,79,4,96
+Lawrence,DENT,State House,28,REP,Bart Schulz,259,73,3,183
+Lawrence,DOWELL,State House,28,REP,Bart Schulz,35,18,2,15
+Lawrence,DUTY,State House,28,REP,Bart Schulz,109,32,0,77
+Lawrence,EATON,State House,28,REP,Bart Schulz,90,34,0,56
+Lawrence,FLAT CREEK,State House,28,REP,Bart Schulz,37,9,4,24
+Lawrence,JESUP,State House,28,REP,Bart Schulz,41,12,0,29
+Lawrence,LAWRENCE,State House,28,REP,Bart Schulz,45,9,0,36
+Lawrence,MARION,State House,28,REP,Bart Schulz,47,23,1,23
+Lawrence,MORGAN,State House,28,REP,Bart Schulz,171,46,1,124
+Lawrence,PROMISED LAND,State House,28,REP,Bart Schulz,70,54,0,16
+Lawrence,REED'S CREEK SAFFELL,State House,28,REP,Bart Schulz,105,16,2,87
+Lawrence,REED'S CREEK STRAWBERRY,State House,28,REP,Bart Schulz,134,17,3,114
+Lawrence,SPRING RIVER,State House,28,REP,Bart Schulz,100,23,3,74
+Lawrence,STRAWBERRY,State House,28,REP,Bart Schulz,132,32,0,100
+Lawrence,THACKER,State House,28,REP,Bart Schulz,76,8,0,68
+Lawrence,BOAS 1,State House,30,LIB,Cheryl Primm,20,11,0,9
+Lawrence,BOAS 3,State House,30,LIB,Cheryl Primm,37,19,2,16
+Lawrence,CACHE,State House,30,LIB,Cheryl Primm,3,2,0,1
+Lawrence,CAMPBELL 1,State House,30,LIB,Cheryl Primm,90,62,6,22
+Lawrence,CAMPBELL 2,State House,30,LIB,Cheryl Primm,82,68,1,13
+Lawrence,CAMPBELL 3,State House,30,LIB,Cheryl Primm,50,32,0,18
+Lawrence,CAMPBELL 4,State House,30,LIB,Cheryl Primm,83,55,2,26
+Lawrence,DUTY,State House,30,LIB,Cheryl Primm,0,0,0,0
+Lawrence,PROMISED LAND,State House,30,LIB,Cheryl Primm,2,2,0,0
+Lawrence,RICHWOODS,State House,30,LIB,Cheryl Primm,3,1,0,2
+Lawrence,BOAS 1,State House,30,REP,Representative Fran Cavenaugh,98,59,0,39
+Lawrence,BOAS 3,State House,30,REP,Representative Fran Cavenaugh,134,66,2,66
+Lawrence,CACHE,State House,30,REP,Representative Fran Cavenaugh,35,12,0,23
+Lawrence,CAMPBELL 1,State House,30,REP,Representative Fran Cavenaugh,328,229,4,95
+Lawrence,CAMPBELL 2,State House,30,REP,Representative Fran Cavenaugh,352,230,12,110
+Lawrence,CAMPBELL 3,State House,30,REP,Representative Fran Cavenaugh,202,136,2,64
+Lawrence,CAMPBELL 4,State House,30,REP,Representative Fran Cavenaugh,326,218,5,103
+Lawrence,DUTY,State House,30,REP,Representative Fran Cavenaugh,0,0,0,0
+Lawrence,PROMISED LAND,State House,30,REP,Representative Fran Cavenaugh,17,9,0,8
+Lawrence,RICHWOODS,State House,30,REP,Representative Fran Cavenaugh,28,17,2,9
+Lawrence,ANNIEVILLE,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,64,24,0,40
+Lawrence,ASHLAND,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,33,14,0,19
+Lawrence,BLACK RIVER,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,81,36,0,45
+Lawrence,BLACK ROCK,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,201,63,5,133
+Lawrence,BOAS 1,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,121,66,0,55
+Lawrence,BOAS 2,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,105,48,1,56
+Lawrence,BOAS 3,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,109,52,2,55
+Lawrence,CACHE,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,21,6,0,15
+Lawrence,CAMPBELL 1,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,217,145,6,66
+Lawrence,CAMPBELL 2,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,230,148,6,76
+Lawrence,CAMPBELL 3,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,142,94,1,47
+Lawrence,CAMPBELL 4,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,229,155,4,70
+Lawrence,DENT,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,154,47,1,106
+Lawrence,DOWELL,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,24,15,2,7
+Lawrence,DUTY,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,63,19,1,43
+Lawrence,EATON,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,51,21,0,30
+Lawrence,FLAT CREEK,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,24,7,0,17
+Lawrence,JESUP,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,22,4,0,18
+Lawrence,LAWRENCE,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,19,4,0,15
+Lawrence,MARION,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,28,14,1,13
+Lawrence,MORGAN,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,104,32,0,72
+Lawrence,PROMISED LAND,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,46,34,0,12
+Lawrence,REED'S CREEK SAFFELL,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,62,12,1,49
+Lawrence,REED'S CREEK STRAWBERRY,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,77,11,1,65
+Lawrence,RICHWOODS,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,14,9,0,5
+Lawrence,SPRING RIVER,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,58,18,2,38
+Lawrence,STRAWBERRY,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,81,23,0,58
+Lawrence,THACKER,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,38,7,0,31
+Lawrence,ANNIEVILLE,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,44,18,0,26
+Lawrence,ASHLAND,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,31,7,0,24
+Lawrence,BLACK RIVER,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,60,31,1,28
+Lawrence,BLACK ROCK,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,132,56,1,75
+Lawrence,BOAS 1,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,89,49,1,39
+Lawrence,BOAS 2,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,84,36,2,46
+Lawrence,BOAS 3,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,52,28,1,23
+Lawrence,CACHE,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,17,8,0,9
+Lawrence,CAMPBELL 1,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,163,118,3,42
+Lawrence,CAMPBELL 2,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,171,126,6,39
+Lawrence,CAMPBELL 3,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,95,68,1,26
+Lawrence,CAMPBELL 4,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,143,91,2,50
+Lawrence,DENT,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,113,31,1,81
+Lawrence,DOWELL,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,11,3,1,7
+Lawrence,DUTY,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,53,16,0,37
+Lawrence,EATON,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,31,12,0,19
+Lawrence,FLAT CREEK,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,14,2,4,8
+Lawrence,JESUP,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,16,6,0,10
+Lawrence,LAWRENCE,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,25,6,0,19
+Lawrence,MARION,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,21,9,0,12
+Lawrence,MORGAN,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,57,10,1,46
+Lawrence,PROMISED LAND,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,50,36,0,14
+Lawrence,REED'S CREEK SAFFELL,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,35,4,0,31
+Lawrence,REED'S CREEK STRAWBERRY,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,64,4,1,59
+Lawrence,RICHWOODS,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,14,7,2,5
+Lawrence,SPRING RIVER,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,32,9,2,21
+Lawrence,STRAWBERRY,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,50,9,0,41
+Lawrence,THACKER,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,38,2,0,36
+Lawrence,ANNIEVILLE,SHERIFF,,REP,REP Richy Thatcher,82,26,0,56
+Lawrence,ASHLAND,SHERIFF,,REP,REP Richy Thatcher,41,10,0,31
+Lawrence,BLACK RIVER,SHERIFF,,REP,REP Richy Thatcher,102,47,0,55
+Lawrence,BLACK ROCK,SHERIFF,,REP,REP Richy Thatcher,210,79,3,128
+Lawrence,BOAS 1,SHERIFF,,REP,REP Richy Thatcher,102,57,0,45
+Lawrence,BOAS 2,SHERIFF,,REP,REP Richy Thatcher,75,30,3,42
+Lawrence,BOAS 3,SHERIFF,,REP,REP Richy Thatcher,65,35,1,29
+Lawrence,CACHE,SHERIFF,,REP,REP Richy Thatcher,14,4,0,10
+Lawrence,CAMPBELL 1,SHERIFF,,REP,REP Richy Thatcher,153,102,3,48
+Lawrence,CAMPBELL 2,SHERIFF,,REP,REP Richy Thatcher,157,109,5,43
+Lawrence,CAMPBELL 3,SHERIFF,,REP,REP Richy Thatcher,90,64,1,25
+Lawrence,CAMPBELL 4,SHERIFF,,REP,REP Richy Thatcher,136,86,0,50
+Lawrence,DENT,SHERIFF,,REP,REP Richy Thatcher,162,50,3,109
+Lawrence,DOWELL,SHERIFF,,REP,REP Richy Thatcher,20,8,3,9
+Lawrence,DUTY,SHERIFF,,REP,REP Richy Thatcher,67,24,0,43
+Lawrence,EATON,SHERIFF,,REP,REP Richy Thatcher,43,18,0,25
+Lawrence,FLAT CREEK,SHERIFF,,REP,REP Richy Thatcher,19,1,2,16
+Lawrence,JESUP,SHERIFF,,REP,REP Richy Thatcher,30,10,0,20
+Lawrence,LAWRENCE,SHERIFF,,REP,REP Richy Thatcher,22,8,0,14
+Lawrence,MARION,SHERIFF,,REP,REP Richy Thatcher,36,20,0,16
+Lawrence,MORGAN,SHERIFF,,REP,REP Richy Thatcher,86,22,0,64
+Lawrence,PROMISED LAND,SHERIFF,,REP,REP Richy Thatcher,45,30,0,15
+Lawrence,REED'S CREEK SAFFELL,SHERIFF,,REP,REP Richy Thatcher,59,12,3,44
+Lawrence,REED'S CREEK STRAWBERRY,SHERIFF,,REP,REP Richy Thatcher,87,6,3,78
+Lawrence,RICHWOODS,SHERIFF,,REP,REP Richy Thatcher,14,9,2,3
+Lawrence,SPRING RIVER,SHERIFF,,REP,REP Richy Thatcher,85,19,3,63
+Lawrence,STRAWBERRY,SHERIFF,,REP,REP Richy Thatcher,75,14,0,61
+Lawrence,THACKER,SHERIFF,,REP,REP Richy Thatcher,45,4,0,41
+Lawrence,ANNIEVILLE,SHERIFF,,IND,IND Tony Waldrupe,32,19,0,13
+Lawrence,ASHLAND,SHERIFF,,IND,IND Tony Waldrupe,29,12,0,17
+Lawrence,BLACK RIVER,SHERIFF,,IND,IND Tony Waldrupe,70,33,1,36
+Lawrence,BLACK ROCK,SHERIFF,,IND,IND Tony Waldrupe,160,53,3,104
+Lawrence,BOAS 1,SHERIFF,,IND,IND Tony Waldrupe,128,68,2,58
+Lawrence,BOAS 2,SHERIFF,,IND,IND Tony Waldrupe,130,62,1,67
+Lawrence,BOAS 3,SHERIFF,,IND,IND Tony Waldrupe,110,53,3,54
+Lawrence,CACHE,SHERIFF,,IND,IND Tony Waldrupe,24,10,0,14
+Lawrence,CAMPBELL 1,SHERIFF,,IND,IND Tony Waldrupe,270,193,7,70
+Lawrence,CAMPBELL 2,SHERIFF,,IND,IND Tony Waldrupe,280,190,8,82
+Lawrence,CAMPBELL 3,SHERIFF,,IND,IND Tony Waldrupe,167,108,1,58
+Lawrence,CAMPBELL 4,SHERIFF,,IND,IND Tony Waldrupe,282,194,7,81
+Lawrence,DENT,SHERIFF,,IND,IND Tony Waldrupe,130,43,0,87
+Lawrence,DOWELL,SHERIFF,,IND,IND Tony Waldrupe,19,13,0,6
+Lawrence,DUTY,SHERIFF,,IND,IND Tony Waldrupe,68,18,1,49
+Lawrence,EATON,SHERIFF,,IND,IND Tony Waldrupe,56,21,0,35
+Lawrence,FLAT CREEK,SHERIFF,,IND,IND Tony Waldrupe,22,8,2,12
+Lawrence,JESUP,SHERIFF,,IND,IND Tony Waldrupe,17,3,0,14
+Lawrence,LAWRENCE,SHERIFF,,IND,IND Tony Waldrupe,28,3,0,25
+Lawrence,MARION,SHERIFF,,IND,IND Tony Waldrupe,17,6,1,10
+Lawrence,MORGAN,SHERIFF,,IND,IND Tony Waldrupe,107,26,2,79
+Lawrence,PROMISED LAND,SHERIFF,,IND,IND Tony Waldrupe,57,44,0,13
+Lawrence,REED'S CREEK SAFFELL,SHERIFF,,IND,IND Tony Waldrupe,54,6,0,48
+Lawrence,REED'S CREEK STRAWBERRY,SHERIFF,,IND,IND Tony Waldrupe,66,12,0,54
+Lawrence,RICHWOODS,SHERIFF,,IND,IND Tony Waldrupe,18,9,0,9
+Lawrence,SPRING RIVER,SHERIFF,,IND,IND Tony Waldrupe,32,11,1,20
+Lawrence,STRAWBERRY,SHERIFF,,IND,IND Tony Waldrupe,72,21,0,51
+Lawrence,THACKER,SHERIFF,,IND,IND Tony Waldrupe,51,9,0,42
+Lawrence,ANNIEVILLE,CIRCUIT CLERK,,IND,IND Michelle Evans,100,39,0,61
+Lawrence,ASHLAND,CIRCUIT CLERK,,IND,IND Michelle Evans,67,22,0,45
+Lawrence,BLACK RIVER,CIRCUIT CLERK,,IND,IND Michelle Evans,153,70,1,82
+Lawrence,BLACK ROCK,CIRCUIT CLERK,,IND,IND Michelle Evans,336,123,6,207
+Lawrence,BOAS 1,CIRCUIT CLERK,,IND,IND Michelle Evans,210,114,2,94
+Lawrence,BOAS 2,CIRCUIT CLERK,,IND,IND Michelle Evans,189,82,4,103
+Lawrence,BOAS 3,CIRCUIT CLERK,,IND,IND Michelle Evans,164,81,4,79
+Lawrence,CACHE,CIRCUIT CLERK,,IND,IND Michelle Evans,36,13,0,23
+Lawrence,CAMPBELL 1,CIRCUIT CLERK,,IND,IND Michelle Evans,387,268,7,112
+Lawrence,CAMPBELL 2,CIRCUIT CLERK,,IND,IND Michelle Evans,394,270,11,113
+Lawrence,CAMPBELL 3,CIRCUIT CLERK,,IND,IND Michelle Evans,238,164,2,72
+Lawrence,CAMPBELL 4,CIRCUIT CLERK,,IND,IND Michelle Evans,385,256,7,122
+Lawrence,DENT,CIRCUIT CLERK,,IND,IND Michelle Evans,269,82,3,184
+Lawrence,DOWELL,CIRCUIT CLERK,,IND,IND Michelle Evans,34,19,2,13
+Lawrence,DUTY,CIRCUIT CLERK,,IND,IND Michelle Evans,115,30,1,84
+Lawrence,EATON,CIRCUIT CLERK,,IND,IND Michelle Evans,91,36,0,55
+Lawrence,FLAT CREEK,CIRCUIT CLERK,,IND,IND Michelle Evans,38,9,4,25
+Lawrence,JESUP,CIRCUIT CLERK,,IND,IND Michelle Evans,42,10,0,32
+Lawrence,LAWRENCE,CIRCUIT CLERK,,IND,IND Michelle Evans,46,10,0,36
+Lawrence,MARION,CIRCUIT CLERK,,IND,IND Michelle Evans,50,24,1,25
+Lawrence,MORGAN,CIRCUIT CLERK,,IND,IND Michelle Evans,186,45,2,139
+Lawrence,PROMISED LAND,CIRCUIT CLERK,,IND,IND Michelle Evans,95,70,0,25
+Lawrence,REED'S CREEK SAFFELL,CIRCUIT CLERK,,IND,IND Michelle Evans,98,15,1,82
+Lawrence,REED'S CREEK STRAWBERRY,CIRCUIT CLERK,,IND,IND Michelle Evans,141,18,3,120
+Lawrence,RICHWOODS,CIRCUIT CLERK,,IND,IND Michelle Evans,28,15,2,11
+Lawrence,SPRING RIVER,CIRCUIT CLERK,,IND,IND Michelle Evans,93,27,4,62
+Lawrence,STRAWBERRY,CIRCUIT CLERK,,IND,IND Michelle Evans,136,32,0,104
+Lawrence,THACKER,CIRCUIT CLERK,,IND,IND Michelle Evans,75,12,0,63
+Lawrence,ANNIEVILLE,JUSTICE OF PEACE, DISTRICT 1,REP,REP Ricky Benson,42,21,0,21
+Lawrence,DENT,JUSTICE OF PEACE, DISTRICT 1,REP,REP Ricky Benson,206,56,3,147
+Lawrence,SPRING RIVER,JUSTICE OF PEACE, DISTRICT 1,REP,REP Ricky Benson,44,7,1,36
+Lawrence,THACKER,JUSTICE OF PEACE, DISTRICT 1,REP,REP Ricky Benson,36,5,0,31
+Lawrence,ANNIEVILLE,JUSTICE OF PEACE, DISTRICT 1,IND,IND Dave Lawrence,9,2,0,7
+Lawrence,DENT,JUSTICE OF PEACE, DISTRICT 1,IND,IND Dave Lawrence,34,9,0,25
+Lawrence,SPRING RIVER,JUSTICE OF PEACE, DISTRICT 1,IND,IND Dave Lawrence,16,1,0,15
+Lawrence,THACKER,JUSTICE OF PEACE, DISTRICT 1,IND,IND Dave Lawrence,27,3,0,24
+Lawrence,ANNIEVILLE,JUSTICE OF PEACE, DISTRICT 1,DEM,DEM Tina Stowers,7,3,0,4
+Lawrence,DENT,JUSTICE OF PEACE, DISTRICT 1,DEM,DEM Tina Stowers,39,22,0,17
+Lawrence,SPRING RIVER,JUSTICE OF PEACE, DISTRICT 1,DEM,DEM Tina Stowers,27,10,3,14
+Lawrence,THACKER,JUSTICE OF PEACE, DISTRICT 1,DEM,DEM Tina Stowers,34,5,0,29
+Lawrence,BOAS 1,JUSTICE OF PEACE, DISTRICT 5,DEM,DEM Ernest (Junior) Briner,30,12,2,16
+Lawrence,BOAS 2,JUSTICE OF PEACE, DISTRICT 5,DEM,DEM Ernest (Junior) Briner,14,9,0,5
+Lawrence,CAMPBELL 2,JUSTICE OF PEACE, DISTRICT 5,DEM,DEM Ernest (Junior) Briner,107,77,7,23
+Lawrence,BOAS 1,JUSTICE OF PEACE, DISTRICT 5,REP,REP Frank Binkley,79,40,0,39
+Lawrence,BOAS 2,JUSTICE OF PEACE, DISTRICT 5,REP,REP Frank Binkley,20,8,2,10
+Lawrence,CAMPBELL 2,JUSTICE OF PEACE, DISTRICT 5,REP,REP Frank Binkley,186,147,5,34
+Lawrence,BOAS 1,BOAS CONSTABLE,,DEM,DEM Phillip Diggs,51,25,2,24
+Lawrence,BOAS 2,BOAS CONSTABLE,,DEM,DEM Phillip Diggs,55,25,1,29
+Lawrence,BOAS 3,BOAS CONSTABLE,,DEM,DEM Phillip Diggs,36,19,0,17
+Lawrence,BOAS 1,BOAS CONSTABLE,,REP,REP Steven Robertson,176,98,0,78
+Lawrence,BOAS 2,BOAS CONSTABLE,,REP,REP Steven Robertson,146,64,3,79
+Lawrence,BOAS 3,BOAS CONSTABLE,,REP,REP Steven Robertson,135,67,4,64
+Lawrence,CAMPBELL 1,CAMPBELL CONSTABLE,,REP,REP Kenneth Cole,285,199,5,81
+Lawrence,CAMPBELL 2,CAMPBELL CONSTABLE,,REP,REP Kenneth Cole,296,199,4,93
+Lawrence,CAMPBELL 3,CAMPBELL CONSTABLE,,REP,REP Kenneth Cole,174,118,1,55
+Lawrence,CAMPBELL 4,CAMPBELL CONSTABLE,,REP,REP Kenneth Cole,294,191,2,101
+Lawrence,CAMPBELL 1,CAMPBELL CONSTABLE,,DEM,DEM Kenneth Fears,137,96,5,36
+Lawrence,CAMPBELL 2,CAMPBELL CONSTABLE,,DEM,DEM Kenneth Fears,134,94,9,31
+Lawrence,CAMPBELL 3,CAMPBELL CONSTABLE,,DEM,DEM Kenneth Fears,74,49,1,24
+Lawrence,CAMPBELL 4,CAMPBELL CONSTABLE,,DEM,DEM Kenneth Fears,119,87,5,27
+Lawrence,DOWELL,DOWELL CONSTABLE,,DEM,DEM Richard Alls,15,8,1,6
+Lawrence,DOWELL,DOWELL CONSTABLE,,REP,REP Chris Parnell,24,13,2,9
+Lawrence,REED'S CREEK SAFFELL,REEDS CREEK CONSTABLE,,REP,REP Jason Bristow,55,13,3,39
+Lawrence,REED'S CREEK STRAWBERRY,REEDS CREEK CONSTABLE,,REP,REP Jason Bristow,51,6,2,43
+Lawrence,REED'S CREEK SAFFELL,REEDS CREEK CONSTABLE,,IND,IND Hunter Durham,58,5,0,53
+Lawrence,REED'S CREEK STRAWBERRY,REEDS CREEK CONSTABLE,,IND,IND Hunter Durham,104,13,1,90
+Lawrence,MARION,ALICIA MAYOR,,NON,Melba Verke,23,13,1,9
+Lawrence,BLACK ROCK,BLACK ROCK MAYOR,,NON,Zach Wilson,158,59,5,94
+Lawrence,BLACK ROCK,BLACK ROCK MAYOR,,NON,Michael Adams,10,1,0,9
+Lawrence,BLACK ROCK,BLACK ROCK MAYOR,,NON,LaDonna Maxie,41,13,1,27
+Lawrence,BOAS 1,HOXIE MAYOR HOXIE,,NON,Dennis Coggins,194,106,2,86
+Lawrence,BOAS 2,HOXIE MAYOR HOXIE,,NON,Dennis Coggins,147,62,4,81
+Lawrence,BOAS 3,HOXIE MAYOR HOXIE,,NON,Dennis Coggins,135,66,2,67
+Lawrence,DENT,IMBODEN MAYOR,,NON,Chris Jones,139,37,1,101
+Lawrence,MORGAN,LYNN MAYOR,,NON,Johnathan Scott Allen,7,3,0,4
+Lawrence,MORGAN,LYNN MAYOR,,NON,Brenda Voyles,37,5,0,32
+Lawrence,MORGAN,LYNN MAYOR,,NON,Van D. Doyle,43,7,0,36
+Lawrence,ASHLAND,MINTURN MAYOR,,NON,Wilma Jones,22,4,0,18
+Lawrence,DUTY,PORTIA MAYOR,,NON,Blythe Sloan,113,28,1,84
+Lawrence,BLACK RIVER,POWHATAN MAYOR,,NON,Eric Smith,40,13,0,27
+Lawrence,SPRING RIVER,RAVENDEN MAYOR,,NON,Tim McComas,9,2,1,6
+Lawrence,THACKER,RAVENDEN MAYOR,,NON,Tim McComas,85,11,0,74
+Lawrence,PROMISED LAND,SEDGWICK MAYOR,,NON,Stanley Debow,32,25,0,7
+Lawrence,REED'S CREEK STRAWBERRY,STRAWBERRY MAYOR,,NON,Gregg Cooper,76,7,1,68
+Lawrence,CAMPBELL 1,WALNUT RIDGE MAYOR,,NON,Charles E. Snapp,384,266,7,111
+Lawrence,CAMPBELL 2,WALNUT RIDGE MAYOR,,NON,Charles E. Snapp,405,278,13,114
+Lawrence,CAMPBELL 3,WALNUT RIDGE MAYOR,,NON,Charles E. Snapp,195,143,1,51
+Lawrence,CAMPBELL 4,WALNUT RIDGE MAYOR,,NON,Charles E. Snapp,339,226,6,107
+Lawrence,BOAS 1,HOXIE ALDERMAN WARD1 POSITION 2,,NON,Tim Taylor,126,73,2,51
+Lawrence,BOAS 2,HOXIE ALDERMAN WARD1 POSITION 2,,NON,Tim Taylor,105,46,1,58
+Lawrence,BOAS 3,HOXIE ALDERMAN WARD1 POSITION 2,,NON,Tim Taylor,91,43,2,46
+Lawrence,BOAS 1,HOXIE ALDERMAN WARD1 POSITION 2,,NON,Tyler Combs,99,49,0,50
+Lawrence,BOAS 2,HOXIE ALDERMAN WARD1 POSITION 2,,NON,Tyler Combs,66,26,1,39
+Lawrence,BOAS 3,HOXIE ALDERMAN WARD1 POSITION 2,,NON,Tyler Combs,56,31,0,25
+Lawrence,BOAS 1,HOXIE ALDERMAN WARD 2 POSITION 1,,NON,Geneva Waldrupe,95,52,1,42
+Lawrence,BOAS 2,HOXIE ALDERMAN WARD 2 POSITION 1,,NON,Geneva Waldrupe,65,23,1,41
+Lawrence,BOAS 3,HOXIE ALDERMAN WARD 2 POSITION 1,,NON,Geneva Waldrupe,52,26,1,25
+Lawrence,BOAS 1,HOXIE ALDERMAN WARD 2 POSITION 1,,NON,Larry Couch,53,33,0,20
+Lawrence,BOAS 2,HOXIE ALDERMAN WARD 2 POSITION 1,,NON,Larry Couch,60,29,0,31
+Lawrence,BOAS 3,HOXIE ALDERMAN WARD 2 POSITION 1,,NON,Larry Couch,63,31,0,32
+Lawrence,BOAS 1,HOXIE ALDERMAN WARD 2 POSITION 1,,NON,Bobby Hatfield,75,36,1,38
+Lawrence,BOAS 2,HOXIE ALDERMAN WARD 2 POSITION 1,,NON,Bobby Hatfield,47,21,1,25
+Lawrence,BOAS 3,HOXIE ALDERMAN WARD 2 POSITION 1,,NON,Bobby Hatfield,35,19,1,15
+Lawrence,BOAS 1,HOXIE ALDERMAN WARD 3 POSITION 2,,NON,Mike W. Stroud,74,47,1,26
+Lawrence,BOAS 2,HOXIE ALDERMAN WARD 3 POSITION 2,,NON,Mike W. Stroud,52,17,0,35
+Lawrence,BOAS 3,HOXIE ALDERMAN WARD 3 POSITION 2,,NON,Mike W. Stroud,40,23,1,16
+Lawrence,BOAS 1,HOXIE ALDERMAN WARD 3 POSITION 2,,NON,Jerry Decker,151,77,1,73
+Lawrence,BOAS 2,HOXIE ALDERMAN WARD 3 POSITION 2,,NON,Jerry Decker,119,56,2,61
+Lawrence,BOAS 3,HOXIE ALDERMAN WARD 3 POSITION 2,,NON,Jerry Decker,106,50,1,55
+Lawrence,REED'S CREEK STRAWBERRY,STRAWBERRY ALDERMAN POSITION 3,,NON,Robert Hendrickson,29,2,0,27
+Lawrence,REED'S CREEK STRAWBERRY,STRAWBERRY ALDERMAN POSITION 3,,NON,Thomas Polston,43,2,1,40
+Lawrence,CAMPBELL 1,ALDERMAN WARD 4 POSITION 2,,NON,Drake Martin,294,201,8,85
+Lawrence,CAMPBELL 2,ALDERMAN WARD 4 POSITION 2,,NON,Drake Martin,278,182,4,92
+Lawrence,CAMPBELL 3,ALDERMAN WARD 4 POSITION 2,,NON,Drake Martin,148,111,1,36
+Lawrence,CAMPBELL 4,ALDERMAN WARD 4 POSITION 2,,NON,Drake Martin,260,178,4,78
+Lawrence,CAMPBELL 1,ALDERMAN WARD 4 POSITION 2,,NON,Jonathan Bennett,97,68,2,27
+Lawrence,CAMPBELL 2,ALDERMAN WARD 4 POSITION 2,,NON,Jonathan Bennett,125,91,9,25
+Lawrence,CAMPBELL 3,ALDERMAN WARD 4 POSITION 2,,NON,Jonathan Bennett,46,33,0,13
+Lawrence,CAMPBELL 4,ALDERMAN WARD 4 POSITION 2,,NON,Jonathan Bennett,88,58,3,27
+Lawrence,CAMPBELL 1,CAMPBELL CITY CLERK CAMPBELL CITY,,NON,Sharon Davis Henson,380,262,7,111
+Lawrence,CAMPBELL 2,CAMPBELL CITY CLERK CAMPBELL CITY,,NON,Sharon Davis Henson,383,266,10,107
+Lawrence,CAMPBELL 3,CAMPBELL CITY CLERK CAMPBELL CITY,,NON,Sharon Davis Henson,187,139,1,47
+Lawrence,CAMPBELL 4,CAMPBELL CITY CLERK CAMPBELL CITY,,NON,Sharon Davis Henson,342,228,7,107
+Lawrence,BOAS 1,HOXIE CITY CLERK,,NON,Verna Coats,206,115,2,89
+Lawrence,BOAS 2,HOXIE CITY CLERK,,NON,Verna Coats,160,66,2,92
+Lawrence,BOAS 3,HOXIE CITY CLERK,,NON,Verna Coats,141,70,2,69
+Lawrence,MARION,ALICIA RECORDER TREASURER,,NON,Bill Teague,28,18,1,9
+Lawrence,DENT,IMBODEN RECORDER TREASURER,,NON,Belinda Chappell,144,38,2,104
+Lawrence,MORGAN,LYNN RECORDER TREASURER,,NON,Mica Vance,81,16,0,65
+Lawrence,ASHLAND,MINTURN RECORDER TREASURER,,NON,Brenda Bullard,22,4,0,18
+Lawrence,DUTY,PORTIA RECORDER TREASURER,,NON,Pashia Ridge,111,26,1,84
+Lawrence,SPRING RIVER,RAVENDEN RECORDER TREASURER,,NON,Wanda Dail,8,2,1,5
+Lawrence,THACKER,RAVENDEN RECORDER TREASURER,,NON,Wanda Dail,88,13,0,75
+Lawrence,PROMISED LAND,SEDGWICK RECORDER TREASURER,,NON,Krystal Debow,32,25,0,7
+Lawrence,ANNIEVILLE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,47,20,0,27
+Lawrence,ASHLAND,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,24,9,0,15
+Lawrence,BLACK RIVER,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,56,27,0,29
+Lawrence,BLACK ROCK,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,132,51,2,79
+Lawrence,BOAS 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,91,50,1,40
+Lawrence,BOAS 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,80,33,4,43
+Lawrence,BOAS 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,82,43,0,39
+Lawrence,CACHE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,15,5,0,10
+Lawrence,CAMPBELL 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,169,125,4,40
+Lawrence,CAMPBELL 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,170,119,6,45
+Lawrence,CAMPBELL 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,98,66,0,32
+Lawrence,CAMPBELL 4,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,160,107,1,52
+Lawrence,DENT,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,110,45,0,65
+Lawrence,DOWELL,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,14,8,2,4
+Lawrence,DUTY,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,46,17,0,29
+Lawrence,EATON,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,28,10,0,18
+Lawrence,FLAT CREEK,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,13,3,4,6
+Lawrence,JESUP,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,15,4,0,11
+Lawrence,LAWRENCE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,17,3,0,14
+Lawrence,MARION,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,15,9,0,6
+Lawrence,MORGAN,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,60,23,1,36
+Lawrence,PROMISED LAND,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,36,31,0,5
+Lawrence,REED'S CREEK SAFFELL,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,29,5,0,24
+Lawrence,REED'S CREEK STRAWBERRY,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,56,12,0,44
+Lawrence,RICHWOODS,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,17,8,2,7
+Lawrence,SPRING RIVER,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,36,3,3,30
+Lawrence,STRAWBERRY,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,41,18,0,23
+Lawrence,THACKER,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,26,4,0,22
+Lawrence,ANNIEVILLE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,64,23,0,41
+Lawrence,ASHLAND,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,41,11,0,30
+Lawrence,BLACK RIVER,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,110,51,1,58
+Lawrence,BLACK ROCK,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,224,78,3,143
+Lawrence,BOAS 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,127,66,1,60
+Lawrence,BOAS 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,113,52,0,61
+Lawrence,BOAS 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,87,41,3,43
+Lawrence,CACHE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,23,9,0,14
+Lawrence,CAMPBELL 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,240,160,4,76
+Lawrence,CAMPBELL 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,247,162,6,79
+Lawrence,CAMPBELL 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,145,93,2,50
+Lawrence,CAMPBELL 4,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,242,162,6,74
+Lawrence,DENT,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,183,47,3,133
+Lawrence,DOWELL,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,24,12,1,11
+Lawrence,DUTY,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,78,21,0,57
+Lawrence,EATON,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,68,25,0,43
+Lawrence,FLAT CREEK,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,26,6,0,20
+Lawrence,JESUP,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,28,7,0,21
+Lawrence,LAWRENCE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,34,8,0,26
+Lawrence,MARION,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,36,16,1,19
+Lawrence,MORGAN,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,125,21,0,104
+Lawrence,PROMISED LAND,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,64,41,0,23
+Lawrence,REED'S CREEK SAFFELL,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,80,12,3,65
+Lawrence,REED'S CREEK STRAWBERRY,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,89,4,2,83
+Lawrence,RICHWOODS,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,14,10,0,4
+Lawrence,SPRING RIVER,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,72,26,1,45
+Lawrence,STRAWBERRY,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,98,13,0,85
+Lawrence,THACKER,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,65,9,0,56
+Lawrence,ANNIEVILLE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,52,23,0,29
+Lawrence,ASHLAND,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,27,8,0,19
+Lawrence,BLACK RIVER,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,60,30,0,30
+Lawrence,BLACK ROCK,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,137,47,3,87
+Lawrence,BOAS 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,95,57,0,38
+Lawrence,BOAS 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,85,38,3,44
+Lawrence,BOAS 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,65,36,2,27
+Lawrence,CACHE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,23,9,0,14
+Lawrence,CAMPBELL 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,162,115,6,41
+Lawrence,CAMPBELL 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,174,113,8,53
+Lawrence,CAMPBELL 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,102,71,0,31
+Lawrence,CAMPBELL 4,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,181,120,1,60
+Lawrence,DENT,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,118,44,1,73
+Lawrence,DOWELL,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,18,9,3,6
+Lawrence,DUTY,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,47,15,0,32
+Lawrence,EATON,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,34,9,0,25
+Lawrence,FLAT CREEK,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,14,3,3,8
+Lawrence,JESUP,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,20,6,0,14
+Lawrence,LAWRENCE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,22,5,0,17
+Lawrence,MARION,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,22,10,0,12
+Lawrence,MORGAN,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,81,26,0,55
+Lawrence,PROMISED LAND,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,41,34,0,7
+Lawrence,REED'S CREEK SAFFELL,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,43,5,0,38
+Lawrence,REED'S CREEK STRAWBERRY,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,70,10,2,58
+Lawrence,RICHWOODS,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,14,7,0,7
+Lawrence,SPRING RIVER,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,41,7,3,31
+Lawrence,STRAWBERRY,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,58,14,0,44
+Lawrence,THACKER,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,33,3,0,30
+Lawrence,ANNIEVILLE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,61,21,0,40
+Lawrence,ASHLAND,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,40,13,0,27
+Lawrence,BLACK RIVER,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,109,48,1,60
+Lawrence,BLACK ROCK,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,219,83,3,133
+Lawrence,BOAS 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,127,62,2,63
+Lawrence,BOAS 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,109,46,0,63
+Lawrence,BOAS 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,102,48,2,52
+Lawrence,CACHE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,14,5,0,9
+Lawrence,CAMPBELL 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,251,175,2,74
+Lawrence,CAMPBELL 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,251,173,5,73
+Lawrence,CAMPBELL 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,148,95,2,51
+Lawrence,CAMPBELL 4,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,227,153,6,68
+Lawrence,DENT,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,174,50,2,122
+Lawrence,DOWELL,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,21,12,0,9
+Lawrence,DUTY,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,82,23,1,58
+Lawrence,EATON,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,61,26,0,35
+Lawrence,FLAT CREEK,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,25,6,1,18
+Lawrence,JESUP,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,23,5,0,18
+Lawrence,LAWRENCE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,29,6,0,23
+Lawrence,MARION,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,29,15,1,13
+Lawrence,MORGAN,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,110,20,1,89
+Lawrence,PROMISED LAND,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,59,38,0,21
+Lawrence,REED'S CREEK SAFFELL,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,68,12,3,53
+Lawrence,REED'S CREEK STRAWBERRY,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,77,5,1,71
+Lawrence,RICHWOODS,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,17,11,2,4
+Lawrence,SPRING RIVER,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,73,22,1,50
+Lawrence,STRAWBERRY,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,83,17,0,66
+Lawrence,THACKER,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,58,10,0,48
+Lawrence,ANNIEVILLE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,67,26,0,41
+Lawrence,ASHLAND,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,32,9,0,23
+Lawrence,BLACK RIVER,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,73,40,0,33
+Lawrence,BLACK ROCK,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,189,65,4,120
+Lawrence,BOAS 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,133,79,1,53
+Lawrence,BOAS 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,113,50,3,60
+Lawrence,BOAS 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,99,55,2,42
+Lawrence,CACHE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,21,7,0,14
+Lawrence,CAMPBELL 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,199,145,4,50
+Lawrence,CAMPBELL 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,229,151,10,68
+Lawrence,CAMPBELL 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,122,87,1,34
+Lawrence,CAMPBELL 4,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,212,142,2,68
+Lawrence,DENT,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,133,50,0,83
+Lawrence,DOWELL,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,24,11,3,10
+Lawrence,DUTY,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,66,18,0,48
+Lawrence,EATON,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,37,13,0,24
+Lawrence,FLAT CREEK,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,14,4,4,6
+Lawrence,JESUP,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,22,5,0,17
+Lawrence,LAWRENCE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,20,3,0,17
+Lawrence,MARION,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,28,15,0,13
+Lawrence,MORGAN,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,82,27,0,55
+Lawrence,PROMISED LAND,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,52,37,0,15
+Lawrence,REED'S CREEK SAFFELL,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,47,8,0,39
+Lawrence,REED'S CREEK STRAWBERRY,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,76,11,3,62
+Lawrence,RICHWOODS,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,19,11,0,8
+Lawrence,SPRING RIVER,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,58,10,3,45
+Lawrence,STRAWBERRY,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,65,20,0,45
+Lawrence,THACKER,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,46,4,0,42
+Lawrence,ANNIEVILLE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,43,16,0,27
+Lawrence,ASHLAND,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,36,12,0,24
+Lawrence,BLACK RIVER,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,96,38,1,57
+Lawrence,BLACK ROCK,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,170,65,2,103
+Lawrence,BOAS 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,92,42,1,49
+Lawrence,BOAS 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,83,35,1,47
+Lawrence,BOAS 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,71,30,1,40
+Lawrence,CACHE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,17,7,0,10
+Lawrence,CAMPBELL 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,222,149,6,67
+Lawrence,CAMPBELL 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,200,140,2,58
+Lawrence,CAMPBELL 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,128,79,1,48
+Lawrence,CAMPBELL 4,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,199,132,5,62
+Lawrence,DENT,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,162,44,3,115
+Lawrence,DOWELL,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,15,10,0,5
+Lawrence,DUTY,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,59,19,1,39
+Lawrence,EATON,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,59,22,0,37
+Lawrence,FLAT CREEK,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,26,5,0,21
+Lawrence,JESUP,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,23,8,0,15
+Lawrence,LAWRENCE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,31,8,0,23
+Lawrence,MARION,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,24,11,1,12
+Lawrence,MORGAN,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,104,19,1,84
+Lawrence,PROMISED LAND,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,49,36,0,13
+Lawrence,REED'S CREEK SAFFELL,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,65,10,3,52
+Lawrence,REED'S CREEK STRAWBERRY,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,72,6,0,66
+Lawrence,RICHWOODS,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,12,7,2,3
+Lawrence,SPRING RIVER,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,55,20,1,34
+Lawrence,STRAWBERRY,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,77,11,0,66
+Lawrence,THACKER,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,49,9,0,40
+Lawrence,ANNIEVILLE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,39,13,0,26
+Lawrence,ASHLAND,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,24,9,0,15
+Lawrence,BLACK RIVER,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,61,29,1,31
+Lawrence,BLACK ROCK,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,158,68,3,87
+Lawrence,BOAS 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,91,57,1,33
+Lawrence,BOAS 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,86,39,0,47
+Lawrence,BOAS 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,82,39,4,39
+Lawrence,CACHE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,9,3,0,6
+Lawrence,CAMPBELL 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,171,119,5,47
+Lawrence,CAMPBELL 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,150,95,6,49
+Lawrence,CAMPBELL 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,97,60,0,37
+Lawrence,CAMPBELL 4,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,138,87,1,50
+Lawrence,DENT,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,96,32,0,64
+Lawrence,DOWELL,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,19,8,2,9
+Lawrence,DUTY,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,63,21,0,42
+Lawrence,EATON,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,30,12,0,18
+Lawrence,FLAT CREEK,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,11,3,4,4
+Lawrence,JESUP,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,12,6,0,6
+Lawrence,LAWRENCE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,23,6,0,17
+Lawrence,MARION,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,27,16,0,11
+Lawrence,MORGAN,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,35,14,2,19
+Lawrence,PROMISED LAND,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,29,17,0,12
+Lawrence,REED'S CREEK SAFFELL,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,20,4,0,16
+Lawrence,REED'S CREEK STRAWBERRY,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,43,9,0,34
+Lawrence,RICHWOODS,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,13,5,2,6
+Lawrence,SPRING RIVER,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,54,15,0,39
+Lawrence,STRAWBERRY,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,53,14,0,39
+Lawrence,THACKER,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,36,6,0,30
+Lawrence,ANNIEVILLE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,74,31,0,43
+Lawrence,ASHLAND,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,46,13,0,33
+Lawrence,BLACK RIVER,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,111,50,0,61
+Lawrence,BLACK ROCK,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,213,68,3,142
+Lawrence,BOAS 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,137,65,1,71
+Lawrence,BOAS 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,116,52,4,60
+Lawrence,BOAS 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,92,48,0,44
+Lawrence,CACHE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,29,11,0,18
+Lawrence,CAMPBELL 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,253,177,6,70
+Lawrence,CAMPBELL 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,287,203,7,77
+Lawrence,CAMPBELL 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,156,107,2,47
+Lawrence,CAMPBELL 4,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,280,192,6,82
+Lawrence,DENT,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,204,66,3,135
+Lawrence,DOWELL,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,20,13,1,6
+Lawrence,DUTY,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,71,20,1,50
+Lawrence,EATON,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,68,25,0,43
+Lawrence,FLAT CREEK,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,30,6,0,24
+Lawrence,JESUP,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,34,7,0,27
+Lawrence,LAWRENCE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,28,5,0,23
+Lawrence,MARION,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,25,10,1,14
+Lawrence,MORGAN,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,160,33,0,127
+Lawrence,PROMISED LAND,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,71,55,0,16
+Lawrence,REED'S CREEK SAFFELL,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,93,14,3,76
+Lawrence,REED'S CREEK STRAWBERRY,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,110,9,3,98
+Lawrence,RICHWOODS,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,18,12,0,6
+Lawrence,SPRING RIVER,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,61,13,4,44
+Lawrence,STRAWBERRY,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,91,18,0,73
+Lawrence,THACKER,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,60,7,0,53

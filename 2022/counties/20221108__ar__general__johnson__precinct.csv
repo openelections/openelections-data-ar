@@ -1,0 +1,473 @@
+county,precinct,office,district,party,candidate,votes,early_vote,absentee,election_day
+Johnson,PRECINCT 1,U.S. Senate,,REP,Senator John Boozman,562,287,8,267
+Johnson,PRECINCT 2,U.S. Senate,,REP,Senator John Boozman,699,260,8,431
+Johnson,PRECINCT 3,U.S. Senate,,REP,Senator John Boozman,504,241,5,258
+Johnson,PRECINCT 4,U.S. Senate,,REP,Senator John Boozman,575,216,14,345
+Johnson,PRECINCT 5,U.S. Senate,,REP,Senator John Boozman,458,195,4,259
+Johnson,PRECINCT 6,U.S. Senate,,REP,Senator John Boozman,462,310,12,140
+Johnson,PRECINCT 7,U.S. Senate,,REP,Senator John Boozman,465,288,4,173
+Johnson,PRECINCT 8,U.S. Senate,,REP,Senator John Boozman,394,247,24,123
+Johnson,PRECINCT 9,U.S. Senate,,REP,Senator John Boozman,266,157,15,94
+Johnson,PRECINCT 10,U.S. Senate,,REP,Senator John Boozman,590,270,7,313
+Johnson,PRECINCT 11,U.S. Senate,,REP,Senator John Boozman,312,207,8,97
+Johnson,PRECINCT 1,U.S. Senate,,LIB,Kenneth Cates,22,6,1,15
+Johnson,PRECINCT 2,U.S. Senate,,LIB,Kenneth Cates,26,11,0,15
+Johnson,PRECINCT 3,U.S. Senate,,LIB,Kenneth Cates,21,8,0,13
+Johnson,PRECINCT 4,U.S. Senate,,LIB,Kenneth Cates,22,7,1,14
+Johnson,PRECINCT 5,U.S. Senate,,LIB,Kenneth Cates,27,9,0,18
+Johnson,PRECINCT 6,U.S. Senate,,LIB,Kenneth Cates,31,22,1,8
+Johnson,PRECINCT 7,U.S. Senate,,LIB,Kenneth Cates,11,6,0,5
+Johnson,PRECINCT 8,U.S. Senate,,LIB,Kenneth Cates,16,9,0,7
+Johnson,PRECINCT 9,U.S. Senate,,LIB,Kenneth Cates,23,14,1,8
+Johnson,PRECINCT 10,U.S. Senate,,LIB,Kenneth Cates,24,4,1,19
+Johnson,PRECINCT 11,U.S. Senate,,LIB,Kenneth Cates,19,12,3,4
+Johnson,PRECINCT 1,U.S. Senate,,DEM,Natalie James,131,85,5,41
+Johnson,PRECINCT 2,U.S. Senate,,DEM,Natalie James,134,81,5,48
+Johnson,PRECINCT 3,U.S. Senate,,DEM,Natalie James,122,61,8,53
+Johnson,PRECINCT 4,U.S. Senate,,DEM,Natalie James,129,56,3,70
+Johnson,PRECINCT 5,U.S. Senate,,DEM,Natalie James,119,50,2,67
+Johnson,PRECINCT 6,U.S. Senate,,DEM,Natalie James,175,111,10,54
+Johnson,PRECINCT 7,U.S. Senate,,DEM,Natalie James,110,75,4,31
+Johnson,PRECINCT 8,U.S. Senate,,DEM,Natalie James,164,120,4,40
+Johnson,PRECINCT 9,U.S. Senate,,DEM,Natalie James,132,88,3,41
+Johnson,PRECINCT 10,U.S. Senate,,DEM,Natalie James,155,79,5,71
+Johnson,PRECINCT 11,U.S. Senate,,DEM,Natalie James,87,51,0,36
+Johnson,PRECINCT 1,U.S. Congress District 04,,LIB,Gregory Maxwell,16,10,1,5
+Johnson,PRECINCT 2,U.S. Congress District 04,,LIB,Gregory Maxwell,32,12,1,19
+Johnson,PRECINCT 3,U.S. Congress District 04,,LIB,Gregory Maxwell,21,6,0,15
+Johnson,PRECINCT 4,U.S. Congress District 04,,LIB,Gregory Maxwell,25,8,1,16
+Johnson,PRECINCT 5,U.S. Congress District 04,,LIB,Gregory Maxwell,21,6,0,15
+Johnson,PRECINCT 6,U.S. Congress District 04,,LIB,Gregory Maxwell,30,18,0,12
+Johnson,PRECINCT 7,U.S. Congress District 04,,LIB,Gregory Maxwell,12,9,0,3
+Johnson,PRECINCT 8,U.S. Congress District 04,,LIB,Gregory Maxwell,15,9,0,6
+Johnson,PRECINCT 9,U.S. Congress District 04,,LIB,Gregory Maxwell,28,19,1,8
+Johnson,PRECINCT 10,U.S. Congress District 04,,LIB,Gregory Maxwell,21,4,1,16
+Johnson,PRECINCT 11,U.S. Congress District 04,,LIB,Gregory Maxwell,21,15,1,5
+Johnson,PRECINCT 1,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,562,283,7,272
+Johnson,PRECINCT 2,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,687,258,6,423
+Johnson,PRECINCT 3,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,505,248,5,252
+Johnson,PRECINCT 4,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,581,220,14,347
+Johnson,PRECINCT 5,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,470,200,3,267
+Johnson,PRECINCT 6,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,454,305,13,136
+Johnson,PRECINCT 7,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,465,281,5,179
+Johnson,PRECINCT 8,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,381,239,23,119
+Johnson,PRECINCT 9,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,265,158,13,94
+Johnson,PRECINCT 10,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,598,282,7,309
+Johnson,PRECINCT 11,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,305,204,8,93
+Johnson,PRECINCT 1,U.S. Congress District 04,,DEM,John White,130,82,6,42
+Johnson,PRECINCT 2,U.S. Congress District 04,,DEM,John White,130,76,5,49
+Johnson,PRECINCT 3,U.S. Congress District 04,,DEM,John White,120,58,8,54
+Johnson,PRECINCT 4,U.S. Congress District 04,,DEM,John White,116,51,0,65
+Johnson,PRECINCT 5,U.S. Congress District 04,,DEM,John White,110,47,3,60
+Johnson,PRECINCT 6,U.S. Congress District 04,,DEM,John White,174,114,9,51
+Johnson,PRECINCT 7,U.S. Congress District 04,,DEM,John White,107,77,3,27
+Johnson,PRECINCT 8,U.S. Congress District 04,,DEM,John White,173,124,5,44
+Johnson,PRECINCT 9,U.S. Congress District 04,,DEM,John White,128,84,4,40
+Johnson,PRECINCT 10,U.S. Congress District 04,,DEM,John White,147,67,5,75
+Johnson,PRECINCT 11,U.S. Congress District 04,,DEM,John White,89,49,2,38
+Johnson,PRECINCT 1,Attorney General,,DEM,Jesse Gibson,149,91,6,52
+Johnson,PRECINCT 2,Attorney General,,DEM,Jesse Gibson,143,79,7,57
+Johnson,PRECINCT 3,Attorney General,,DEM,Jesse Gibson,138,65,8,65
+Johnson,PRECINCT 4,Attorney General,,DEM,Jesse Gibson,148,63,3,82
+Johnson,PRECINCT 5,Attorney General,,DEM,Jesse Gibson,127,52,3,72
+Johnson,PRECINCT 6,Attorney General,,DEM,Jesse Gibson,202,131,10,61
+Johnson,PRECINCT 7,Attorney General,,DEM,Jesse Gibson,112,82,3,27
+Johnson,PRECINCT 8,Attorney General,,DEM,Jesse Gibson,178,125,6,47
+Johnson,PRECINCT 9,Attorney General,,DEM,Jesse Gibson,149,97,5,47
+Johnson,PRECINCT 10,Attorney General,,DEM,Jesse Gibson,167,77,6,84
+Johnson,PRECINCT 11,Attorney General,,DEM,Jesse Gibson,104,59,3,42
+Johnson,PRECINCT 1,Attorney General,,REP,Lieutenant Governor Tim Griffin,560,284,8,268
+Johnson,PRECINCT 2,Attorney General,,REP,Lieutenant Governor Tim Griffin,710,271,6,433
+Johnson,PRECINCT 3,Attorney General,,REP,Lieutenant Governor Tim Griffin,511,246,8,257
+Johnson,PRECINCT 4,Attorney General,,REP,Lieutenant Governor Tim Griffin,577,215,15,347
+Johnson,PRECINCT 5,Attorney General,,REP,Lieutenant Governor Tim Griffin,474,201,3,270
+Johnson,PRECINCT 6,Attorney General,,REP,Lieutenant Governor Tim Griffin,466,312,13,141
+Johnson,PRECINCT 7,Attorney General,,REP,Lieutenant Governor Tim Griffin,469,284,5,180
+Johnson,PRECINCT 8,Attorney General,,REP,Lieutenant Governor Tim Griffin,395,250,22,123
+Johnson,PRECINCT 9,Attorney General,,REP,Lieutenant Governor Tim Griffin,270,163,14,93
+Johnson,PRECINCT 10,Attorney General,,REP,Lieutenant Governor Tim Griffin,600,274,7,319
+Johnson,PRECINCT 11,Attorney General,,REP,Lieutenant Governor Tim Griffin,310,208,8,94
+Johnson,PRECINCT 1,Auditor of State,,DEM,Diamond Arnold-Johnson,138,81,7,50
+Johnson,PRECINCT 2,Auditor of State,,DEM,Diamond Arnold-Johnson,130,79,4,47
+Johnson,PRECINCT 3,Auditor of State,,DEM,Diamond Arnold-Johnson,119,54,8,57
+Johnson,PRECINCT 4,Auditor of State,,DEM,Diamond Arnold-Johnson,116,50,3,63
+Johnson,PRECINCT 5,Auditor of State,,DEM,Diamond Arnold-Johnson,120,53,3,64
+Johnson,PRECINCT 6,Auditor of State,,DEM,Diamond Arnold-Johnson,173,119,8,46
+Johnson,PRECINCT 7,Auditor of State,,DEM,Diamond Arnold-Johnson,96,69,2,25
+Johnson,PRECINCT 8,Auditor of State,,DEM,Diamond Arnold-Johnson,165,115,6,44
+Johnson,PRECINCT 9,Auditor of State,,DEM,Diamond Arnold-Johnson,122,80,4,38
+Johnson,PRECINCT 10,Auditor of State,,DEM,Diamond Arnold-Johnson,146,67,4,75
+Johnson,PRECINCT 11,Auditor of State,,DEM,Diamond Arnold-Johnson,101,55,3,43
+Johnson,PRECINCT 1,Auditor of State,,LIB,Simeon Snow,25,12,0,13
+Johnson,PRECINCT 2,Auditor of State,,LIB,Simeon Snow,32,14,0,18
+Johnson,PRECINCT 3,Auditor of State,,LIB,Simeon Snow,22,11,0,11
+Johnson,PRECINCT 4,Auditor of State,,LIB,Simeon Snow,42,13,3,26
+Johnson,PRECINCT 5,Auditor of State,,LIB,Simeon Snow,27,8,0,19
+Johnson,PRECINCT 6,Auditor of State,,LIB,Simeon Snow,33,20,3,10
+Johnson,PRECINCT 7,Auditor of State,,LIB,Simeon Snow,16,8,0,8
+Johnson,PRECINCT 8,Auditor of State,,LIB,Simeon Snow,26,16,0,10
+Johnson,PRECINCT 9,Auditor of State,,LIB,Simeon Snow,28,17,1,10
+Johnson,PRECINCT 10,Auditor of State,,LIB,Simeon Snow,31,7,2,22
+Johnson,PRECINCT 11,Auditor of State,,LIB,Simeon Snow,22,15,0,7
+Johnson,PRECINCT 1,Auditor of State,,REP,Treasurer of State Dennis Milligan,540,279,7,254
+Johnson,PRECINCT 2,Auditor of State,,REP,Treasurer of State Dennis Milligan,688,257,7,424
+Johnson,PRECINCT 3,Auditor of State,,REP,Treasurer of State Dennis Milligan,504,247,5,252
+Johnson,PRECINCT 4,Auditor of State,,REP,Treasurer of State Dennis Milligan,559,211,12,336
+Johnson,PRECINCT 5,Auditor of State,,REP,Treasurer of State Dennis Milligan,447,188,2,257
+Johnson,PRECINCT 6,Auditor of State,,REP,Treasurer of State Dennis Milligan,451,301,11,139
+Johnson,PRECINCT 7,Auditor of State,,REP,Treasurer of State Dennis Milligan,468,289,6,173
+Johnson,PRECINCT 8,Auditor of State,,REP,Treasurer of State Dennis Milligan,376,239,22,115
+Johnson,PRECINCT 9,Auditor of State,,REP,Treasurer of State Dennis Milligan,267,161,13,93
+Johnson,PRECINCT 10,Auditor of State,,REP,Treasurer of State Dennis Milligan,587,277,7,303
+Johnson,PRECINCT 11,Auditor of State,,REP,Treasurer of State Dennis Milligan,292,198,8,86
+Johnson,PRECINCT 1,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,139,87,6,46
+Johnson,PRECINCT 2,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,141,81,6,54
+Johnson,PRECINCT 3,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,129,63,7,59
+Johnson,PRECINCT 4,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,136,58,3,75
+Johnson,PRECINCT 5,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,128,50,3,75
+Johnson,PRECINCT 6,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,186,125,10,51
+Johnson,PRECINCT 7,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,108,74,4,30
+Johnson,PRECINCT 8,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,186,133,7,46
+Johnson,PRECINCT 9,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,141,94,5,42
+Johnson,PRECINCT 10,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,162,76,5,81
+Johnson,PRECINCT 11,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,103,60,3,40
+Johnson,PRECINCT 1,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,570,289,8,273
+Johnson,PRECINCT 2,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,708,266,5,437
+Johnson,PRECINCT 3,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,512,247,5,260
+Johnson,PRECINCT 4,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,581,217,15,349
+Johnson,PRECINCT 5,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,466,199,2,265
+Johnson,PRECINCT 6,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,475,316,12,147
+Johnson,PRECINCT 7,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,471,290,4,177
+Johnson,PRECINCT 8,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,383,239,21,123
+Johnson,PRECINCT 9,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,274,163,13,98
+Johnson,PRECINCT 10,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,600,275,8,317
+Johnson,PRECINCT 11,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,312,209,8,95
+Johnson,PRECINCT 1,Governor,,DEM,Chris Jones,177,107,7,63
+Johnson,PRECINCT 2,Governor,,DEM,Chris Jones,171,95,5,71
+Johnson,PRECINCT 3,Governor,,DEM,Chris Jones,138,69,6,63
+Johnson,PRECINCT 4,Governor,,DEM,Chris Jones,138,57,3,78
+Johnson,PRECINCT 5,Governor,,DEM,Chris Jones,142,57,3,82
+Johnson,PRECINCT 6,Governor,,DEM,Chris Jones,237,159,11,67
+Johnson,PRECINCT 7,Governor,,DEM,Chris Jones,137,93,4,40
+Johnson,PRECINCT 8,Governor,,DEM,Chris Jones,199,139,4,56
+Johnson,PRECINCT 9,Governor,,DEM,Chris Jones,163,106,5,52
+Johnson,PRECINCT 10,Governor,,DEM,Chris Jones,177,86,5,86
+Johnson,PRECINCT 11,Governor,,DEM,Chris Jones,112,62,5,45
+Johnson,PRECINCT 1,Governor,,REP,Sarah Huckabee Sanders,528,272,7,249
+Johnson,PRECINCT 2,Governor,,REP,Sarah Huckabee Sanders,680,255,8,417
+Johnson,PRECINCT 3,Governor,,REP,Sarah Huckabee Sanders,498,240,6,252
+Johnson,PRECINCT 4,Governor,,REP,Sarah Huckabee Sanders,566,213,14,339
+Johnson,PRECINCT 5,Governor,,REP,Sarah Huckabee Sanders,455,194,3,258
+Johnson,PRECINCT 6,Governor,,REP,Sarah Huckabee Sanders,416,272,12,132
+Johnson,PRECINCT 7,Governor,,REP,Sarah Huckabee Sanders,442,273,4,165
+Johnson,PRECINCT 8,Governor,,REP,Sarah Huckabee Sanders,369,233,24,112
+Johnson,PRECINCT 9,Governor,,REP,Sarah Huckabee Sanders,243,145,13,85
+Johnson,PRECINCT 10,Governor,,REP,Sarah Huckabee Sanders,575,265,7,303
+Johnson,PRECINCT 11,Governor,,REP,Sarah Huckabee Sanders,299,203,6,90
+Johnson,PRECINCT 1,Governor,,LIB,"Ricky Dale Harrington, Jr.",15,3,0,12
+Johnson,PRECINCT 2,Governor,,LIB,"Ricky Dale Harrington, Jr.",11,4,0,7
+Johnson,PRECINCT 3,Governor,,LIB,"Ricky Dale Harrington, Jr.",13,3,1,9
+Johnson,PRECINCT 4,Governor,,LIB,"Ricky Dale Harrington, Jr.",23,8,1,14
+Johnson,PRECINCT 5,Governor,,LIB,"Ricky Dale Harrington, Jr.",12,5,0,7
+Johnson,PRECINCT 6,Governor,,LIB,"Ricky Dale Harrington, Jr.",20,13,1,6
+Johnson,PRECINCT 7,Governor,,LIB,"Ricky Dale Harrington, Jr.",7,4,0,3
+Johnson,PRECINCT 8,Governor,,LIB,"Ricky Dale Harrington, Jr.",8,3,0,5
+Johnson,PRECINCT 9,Governor,,LIB,"Ricky Dale Harrington, Jr.",13,7,1,5
+Johnson,PRECINCT 10,Governor,,LIB,"Ricky Dale Harrington, Jr.",17,2,0,15
+Johnson,PRECINCT 11,Governor,,LIB,"Ricky Dale Harrington, Jr.",9,8,0,1
+Johnson,PRECINCT 1,Lieutenant Governor,,LIB,Frank Gilbert,28,8,2,18
+Johnson,PRECINCT 2,Lieutenant Governor,,LIB,Frank Gilbert,30,9,0,21
+Johnson,PRECINCT 3,Lieutenant Governor,,LIB,Frank Gilbert,23,11,0,12
+Johnson,PRECINCT 4,Lieutenant Governor,,LIB,Frank Gilbert,46,13,5,28
+Johnson,PRECINCT 5,Lieutenant Governor,,LIB,Frank Gilbert,31,14,0,17
+Johnson,PRECINCT 6,Lieutenant Governor,,LIB,Frank Gilbert,33,18,1,14
+Johnson,PRECINCT 7,Lieutenant Governor,,LIB,Frank Gilbert,14,9,0,5
+Johnson,PRECINCT 8,Lieutenant Governor,,LIB,Frank Gilbert,22,15,0,7
+Johnson,PRECINCT 9,Lieutenant Governor,,LIB,Frank Gilbert,22,14,0,8
+Johnson,PRECINCT 10,Lieutenant Governor,,LIB,Frank Gilbert,35,5,1,29
+Johnson,PRECINCT 11,Lieutenant Governor,,LIB,Frank Gilbert,20,14,0,6
+Johnson,PRECINCT 1,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,540,282,7,251
+Johnson,PRECINCT 2,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,689,262,6,421
+Johnson,PRECINCT 3,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,501,241,5,255
+Johnson,PRECINCT 4,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,556,214,10,332
+Johnson,PRECINCT 5,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,445,184,3,258
+Johnson,PRECINCT 6,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,443,297,12,134
+Johnson,PRECINCT 7,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,454,279,4,171
+Johnson,PRECINCT 8,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,374,236,23,115
+Johnson,PRECINCT 9,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,261,156,15,90
+Johnson,PRECINCT 10,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,574,265,8,301
+Johnson,PRECINCT 11,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,296,199,8,89
+Johnson,PRECINCT 1,Lieutenant Governor,,DEM,Kelly Ross Krout,143,88,5,50
+Johnson,PRECINCT 2,Lieutenant Governor,,DEM,Kelly Ross Krout,138,78,7,53
+Johnson,PRECINCT 3,Lieutenant Governor,,DEM,Kelly Ross Krout,125,60,8,57
+Johnson,PRECINCT 4,Lieutenant Governor,,DEM,Kelly Ross Krout,123,51,3,69
+Johnson,PRECINCT 5,Lieutenant Governor,,DEM,Kelly Ross Krout,127,55,3,69
+Johnson,PRECINCT 6,Lieutenant Governor,,DEM,Kelly Ross Krout,191,128,10,53
+Johnson,PRECINCT 7,Lieutenant Governor,,DEM,Kelly Ross Krout,118,81,4,33
+Johnson,PRECINCT 8,Lieutenant Governor,,DEM,Kelly Ross Krout,178,124,5,49
+Johnson,PRECINCT 9,Lieutenant Governor,,DEM,Kelly Ross Krout,135,90,4,41
+Johnson,PRECINCT 10,Lieutenant Governor,,DEM,Kelly Ross Krout,156,80,5,71
+Johnson,PRECINCT 11,Lieutenant Governor,,DEM,Kelly Ross Krout,102,58,3,41
+Johnson,PRECINCT 1,Secretary of State,,DEM,Anna Beth Gorman,145,88,8,49
+Johnson,PRECINCT 2,Secretary of State,,DEM,Anna Beth Gorman,149,81,7,61
+Johnson,PRECINCT 3,Secretary of State,,DEM,Anna Beth Gorman,137,65,8,64
+Johnson,PRECINCT 4,Secretary of State,,DEM,Anna Beth Gorman,145,63,3,79
+Johnson,PRECINCT 5,Secretary of State,,DEM,Anna Beth Gorman,143,56,3,84
+Johnson,PRECINCT 6,Secretary of State,,DEM,Anna Beth Gorman,204,130,12,62
+Johnson,PRECINCT 7,Secretary of State,,DEM,Anna Beth Gorman,116,84,3,29
+Johnson,PRECINCT 8,Secretary of State,,DEM,Anna Beth Gorman,190,136,5,49
+Johnson,PRECINCT 9,Secretary of State,,DEM,Anna Beth Gorman,156,99,5,52
+Johnson,PRECINCT 10,Secretary of State,,DEM,Anna Beth Gorman,168,77,6,85
+Johnson,PRECINCT 11,Secretary of State,,DEM,Anna Beth Gorman,104,60,3,41
+Johnson,PRECINCT 1,Secretary of State,,REP,Secretary of State John Thurston,565,288,6,271
+Johnson,PRECINCT 2,Secretary of State,,REP,Secretary of State John Thurston,706,269,6,431
+Johnson,PRECINCT 3,Secretary of State,,REP,Secretary of State John Thurston,510,246,5,259
+Johnson,PRECINCT 4,Secretary of State,,REP,Secretary of State John Thurston,578,215,15,348
+Johnson,PRECINCT 5,Secretary of State,,REP,Secretary of State John Thurston,461,198,3,260
+Johnson,PRECINCT 6,Secretary of State,,REP,Secretary of State John Thurston,461,312,11,138
+Johnson,PRECINCT 7,Secretary of State,,REP,Secretary of State John Thurston,468,285,5,178
+Johnson,PRECINCT 8,Secretary of State,,REP,Secretary of State John Thurston,379,238,23,118
+Johnson,PRECINCT 9,Secretary of State,,REP,Secretary of State John Thurston,264,161,14,89
+Johnson,PRECINCT 10,Secretary of State,,REP,Secretary of State John Thurston,597,274,7,316
+Johnson,PRECINCT 11,Secretary of State,,REP,Secretary of State John Thurston,308,207,8,93
+Johnson,PRECINCT 1,State Treasurer,,DEM,Pam Whitaker,157,92,8,57
+Johnson,PRECINCT 2,State Treasurer,,DEM,Pam Whitaker,151,88,6,57
+Johnson,PRECINCT 3,State Treasurer,,DEM,Pam Whitaker,142,70,8,64
+Johnson,PRECINCT 4,State Treasurer,,DEM,Pam Whitaker,147,67,3,77
+Johnson,PRECINCT 5,State Treasurer,,DEM,Pam Whitaker,148,57,3,88
+Johnson,PRECINCT 6,State Treasurer,,DEM,Pam Whitaker,211,142,12,57
+Johnson,PRECINCT 7,State Treasurer,,DEM,Pam Whitaker,127,88,4,35
+Johnson,PRECINCT 8,State Treasurer,,DEM,Pam Whitaker,201,144,6,51
+Johnson,PRECINCT 9,State Treasurer,,DEM,Pam Whitaker,155,98,5,52
+Johnson,PRECINCT 10,State Treasurer,,DEM,Pam Whitaker,176,81,6,89
+Johnson,PRECINCT 11,State Treasurer,,DEM,Pam Whitaker,112,61,3,48
+Johnson,PRECINCT 1,State Treasurer,,REP,State Representative Mark Lowery,551,280,6,265
+Johnson,PRECINCT 2,State Treasurer,,REP,State Representative Mark Lowery,699,260,6,433
+Johnson,PRECINCT 3,State Treasurer,,REP,State Representative Mark Lowery,505,241,5,259
+Johnson,PRECINCT 4,State Treasurer,,REP,State Representative Mark Lowery,574,211,15,348
+Johnson,PRECINCT 5,State Treasurer,,REP,State Representative Mark Lowery,452,195,3,254
+Johnson,PRECINCT 6,State Treasurer,,REP,State Representative Mark Lowery,449,299,11,139
+Johnson,PRECINCT 7,State Treasurer,,REP,State Representative Mark Lowery,456,280,4,172
+Johnson,PRECINCT 8,State Treasurer,,REP,State Representative Mark Lowery,369,229,22,118
+Johnson,PRECINCT 9,State Treasurer,,REP,State Representative Mark Lowery,263,161,13,89
+Johnson,PRECINCT 10,State Treasurer,,REP,State Representative Mark Lowery,588,269,7,312
+Johnson,PRECINCT 11,State Treasurer,,REP,State Representative Mark Lowery,302,206,8,88
+Johnson,PRECINCT 1,State Senate,26,LIB,Gabriel Andreuccetti,51,31,2,18
+Johnson,PRECINCT 2,State Senate,26,LIB,Gabriel Andreuccetti,99,56,4,39
+Johnson,PRECINCT 3,State Senate,26,LIB,Gabriel Andreuccetti,99,50,5,44
+Johnson,PRECINCT 4,State Senate,26,LIB,Gabriel Andreuccetti,26,7,4,15
+Johnson,PRECINCT 5,State Senate,26,LIB,Gabriel Andreuccetti,95,40,1,54
+Johnson,PRECINCT 6,State Senate,26,LIB,Gabriel Andreuccetti,152,100,5,47
+Johnson,PRECINCT 7,State Senate,26,LIB,Gabriel Andreuccetti,81,51,2,28
+Johnson,PRECINCT 8,State Senate,26,LIB,Gabriel Andreuccetti,139,103,2,34
+Johnson,PRECINCT 9,State Senate,26,LIB,Gabriel Andreuccetti,126,87,6,33
+Johnson,PRECINCT 10,State Senate,26,LIB,Gabriel Andreuccetti,143,66,5,72
+Johnson,PRECINCT 11,State Senate,26,LIB,Gabriel Andreuccetti,80,48,3,29
+Johnson,PRECINCT 1,State Senate,26,REP,Senator Gary Stubblefield,210,124,5,81
+Johnson,PRECINCT 2,State Senate,26,REP,Senator Gary Stubblefield,549,233,5,311
+Johnson,PRECINCT 3,State Senate,26,REP,Senator Gary Stubblefield,532,255,6,271
+Johnson,PRECINCT 4,State Senate,26,REP,Senator Gary Stubblefield,120,33,4,83
+Johnson,PRECINCT 5,State Senate,26,REP,Senator Gary Stubblefield,490,206,4,280
+Johnson,PRECINCT 6,State Senate,26,REP,Senator Gary Stubblefield,476,326,16,134
+Johnson,PRECINCT 7,State Senate,26,REP,Senator Gary Stubblefield,497,311,6,180
+Johnson,PRECINCT 8,State Senate,26,REP,Senator Gary Stubblefield,415,262,25,128
+Johnson,PRECINCT 9,State Senate,26,REP,Senator Gary Stubblefield,282,165,12,105
+Johnson,PRECINCT 10,State Senate,26,REP,Senator Gary Stubblefield,617,283,9,325
+Johnson,PRECINCT 11,State Senate,26,REP,Senator Gary Stubblefield,301,202,8,91
+Johnson,PRECINCT 1,State Senate,28,REP,Bryan B. King,351,168,2,181
+Johnson,PRECINCT 2,State Senate,28,REP,Bryan B. King,164,38,1,125
+Johnson,PRECINCT 4,State Senate,28,REP,Bryan B. King,463,190,11,262
+Johnson,PRECINCT 6,State Senate,28,REP,Bryan B. King,18,5,0,13
+Johnson,PRECINCT 11,State Senate,28,REP,Bryan B. King,14,11,0,3
+Johnson,PRECINCT 1,State Senate,28,DEM,Jim Wallace,94,50,4,40
+Johnson,PRECINCT 2,State Senate,28,DEM,Jim Wallace,29,11,1,17
+Johnson,PRECINCT 4,State Senate,28,DEM,Jim Wallace,113,47,0,66
+Johnson,PRECINCT 6,State Senate,28,DEM,Jim Wallace,5,5,0,0
+Johnson,PRECINCT 11,State Senate,28,DEM,Jim Wallace,13,3,0,10
+Johnson,PRECINCT 1,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,274,158,6,110
+Johnson,PRECINCT 2,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,299,129,1,169
+Johnson,PRECINCT 3,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,245,119,3,123
+Johnson,PRECINCT 4,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,286,107,7,172
+Johnson,PRECINCT 5,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,195,78,1,116
+Johnson,PRECINCT 6,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,241,162,8,71
+Johnson,PRECINCT 7,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,198,126,2,70
+Johnson,PRECINCT 8,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,211,124,15,72
+Johnson,PRECINCT 9,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,160,103,4,53
+Johnson,PRECINCT 10,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,284,137,7,140
+Johnson,PRECINCT 11,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,166,102,6,58
+Johnson,PRECINCT 1,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,375,181,8,186
+Johnson,PRECINCT 2,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,475,180,10,285
+Johnson,PRECINCT 3,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,335,162,8,165
+Johnson,PRECINCT 4,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,367,145,10,212
+Johnson,PRECINCT 5,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,363,152,2,209
+Johnson,PRECINCT 6,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,369,246,12,111
+Johnson,PRECINCT 7,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,352,218,5,129
+Johnson,PRECINCT 8,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,316,226,12,78
+Johnson,PRECINCT 9,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,230,141,12,77
+Johnson,PRECINCT 10,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,408,181,4,223
+Johnson,PRECINCT 11,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,224,152,5,67
+Johnson,PRECINCT 1,JOHNSON COUNTY CIRCUIT CLERK,,REP,REP MONICA KING,679,356,11,312
+Johnson,PRECINCT 2,JOHNSON COUNTY CIRCUIT CLERK,,REP,REP MONICA KING,793,309,9,475
+Johnson,PRECINCT 3,JOHNSON COUNTY CIRCUIT CLERK,,REP,REP MONICA KING,606,295,10,301
+Johnson,PRECINCT 4,JOHNSON COUNTY CIRCUIT CLERK,,REP,REP MONICA KING,687,268,16,403
+Johnson,PRECINCT 5,JOHNSON COUNTY CIRCUIT CLERK,,REP,REP MONICA KING,573,240,4,329
+Johnson,PRECINCT 6,JOHNSON COUNTY CIRCUIT CLERK,,REP,REP MONICA KING,635,424,19,192
+Johnson,PRECINCT 7,JOHNSON COUNTY CIRCUIT CLERK,,REP,REP MONICA KING,555,348,5,202
+Johnson,PRECINCT 8,JOHNSON COUNTY CIRCUIT CLERK,,REP,REP MONICA KING,529,343,26,160
+Johnson,PRECINCT 9,JOHNSON COUNTY CIRCUIT CLERK,,REP,REP MONICA KING,394,244,18,132
+Johnson,PRECINCT 10,JOHNSON COUNTY CIRCUIT CLERK,,REP,REP MONICA KING,725,336,14,375
+Johnson,PRECINCT 11,JOHNSON COUNTY CIRCUIT CLERK,,REP,REP MONICA KING,393,257,10,126
+Johnson,PRECINCT 3,JUSTICE OF THE PEACE #3,,REP,REP VAN ALAN HILL,376,179,4,193
+Johnson,PRECINCT 3,JUSTICE OF THE PEACE #3,,DEM,DEM DAVID WYLES,270,130,9,131
+Johnson,PRECINCT 4,JUSTICE OF THE PEACE #4,,DEM,DEM JUSTIN NOWOTNY,141,60,2,79
+Johnson,PRECINCT 4,JUSTICE OF THE PEACE #4,,REP,REP BETHANY BEAN,581,218,16,347
+Johnson,PRECINCT 10,CONSTABLE,,IND,IND LOGAN THOMAS,164,65,5,94
+Johnson,PRECINCT 10,CONSTABLE,,REP,"REP TIMOTHY ""BUD"" HARMON",592,283,9,300
+Johnson,PRECINCT 3,CONSTABLE,,DEM,DEM JEFF ROBERSON,223,105,10,108
+Johnson,PRECINCT 3,CONSTABLE,,REP,REP RONNIE BUTLER,420,203,3,214
+Johnson,PRECINCT 1,MAYOR,,NON,ROBERT (BOB) CHARLTON,17,15,0,2
+Johnson,PRECINCT 6,MAYOR,,NON,ROBERT (BOB) CHARLTON,45,28,1,16
+Johnson,PRECINCT 7,MAYOR,,NON,ROBERT (BOB) CHARLTON,3,3,0,0
+Johnson,PRECINCT 8,MAYOR,,NON,ROBERT (BOB) CHARLTON,53,24,3,26
+Johnson,PRECINCT 9,MAYOR,,NON,ROBERT (BOB) CHARLTON,53,27,3,23
+Johnson,PRECINCT 11,MAYOR,,NON,ROBERT (BOB) CHARLTON,19,13,0,6
+Johnson,PRECINCT 1,MAYOR,,NON,DAVID J REIDER,84,50,3,31
+Johnson,PRECINCT 6,MAYOR,,NON,DAVID J REIDER,312,207,11,94
+Johnson,PRECINCT 7,MAYOR,,NON,DAVID J REIDER,41,30,0,11
+Johnson,PRECINCT 8,MAYOR,,NON,DAVID J REIDER,254,159,21,74
+Johnson,PRECINCT 9,MAYOR,,NON,DAVID J REIDER,219,135,6,78
+Johnson,PRECINCT 11,MAYOR,,NON,DAVID J REIDER,126,87,2,37
+Johnson,PRECINCT 1,MAYOR,,NON,GREG DONALDSON,41,26,3,12
+Johnson,PRECINCT 6,MAYOR,,NON,GREG DONALDSON,211,152,9,50
+Johnson,PRECINCT 7,MAYOR,,NON,GREG DONALDSON,26,14,0,12
+Johnson,PRECINCT 8,MAYOR,,NON,GREG DONALDSON,205,151,4,50
+Johnson,PRECINCT 9,MAYOR,,NON,GREG DONALDSON,147,96,9,42
+Johnson,PRECINCT 11,MAYOR,,NON,GREG DONALDSON,84,52,3,29
+Johnson,PRECINCT 1,WARD 2 POSITION 2,,NON,JONATHAN HOWARD,43,28,3,12
+Johnson,PRECINCT 6,WARD 2 POSITION 2,,NON,JONATHAN HOWARD,147,103,2,42
+Johnson,PRECINCT 7,WARD 2 POSITION 2,,NON,JONATHAN HOWARD,19,16,0,3
+Johnson,PRECINCT 8,WARD 2 POSITION 2,,NON,JONATHAN HOWARD,122,77,5,40
+Johnson,PRECINCT 9,WARD 2 POSITION 2,,NON,JONATHAN HOWARD,100,58,2,40
+Johnson,PRECINCT 11,WARD 2 POSITION 2,,NON,JONATHAN HOWARD,76,52,4,20
+Johnson,PRECINCT 1,WARD 2 POSITION 2,,NON,"PATRICK ""SLICK"" BAKER",33,24,0,9
+Johnson,PRECINCT 6,WARD 2 POSITION 2,,NON,"PATRICK ""SLICK"" BAKER",185,124,6,55
+Johnson,PRECINCT 7,WARD 2 POSITION 2,,NON,"PATRICK ""SLICK"" BAKER",23,11,0,12
+Johnson,PRECINCT 8,WARD 2 POSITION 2,,NON,"PATRICK ""SLICK"" BAKER",162,94,7,61
+Johnson,PRECINCT 9,WARD 2 POSITION 2,,NON,"PATRICK ""SLICK"" BAKER",153,92,7,54
+Johnson,PRECINCT 11,WARD 2 POSITION 2,,NON,"PATRICK ""SLICK"" BAKER",76,50,1,25
+Johnson,PRECINCT 1,WARD 2 POSITION 2,,NON,JUDY WEAVER,65,40,3,22
+Johnson,PRECINCT 6,WARD 2 POSITION 2,,NON,JUDY WEAVER,221,161,11,49
+Johnson,PRECINCT 7,WARD 2 POSITION 2,,NON,JUDY WEAVER,26,19,0,7
+Johnson,PRECINCT 8,WARD 2 POSITION 2,,NON,JUDY WEAVER,221,162,15,44
+Johnson,PRECINCT 9,WARD 2 POSITION 2,,NON,JUDY WEAVER,157,103,9,45
+Johnson,PRECINCT 11,WARD 2 POSITION 2,,NON,JUDY WEAVER,68,46,0,22
+Johnson,PRECINCT 1,WARD 3 POSITION 2,,NON,TINA SHARPS,44,25,2,17
+Johnson,PRECINCT 6,WARD 3 POSITION 2,,NON,TINA SHARPS,189,133,7,49
+Johnson,PRECINCT 7,WARD 3 POSITION 2,,NON,TINA SHARPS,16,11,0,5
+Johnson,PRECINCT 8,WARD 3 POSITION 2,,NON,TINA SHARPS,182,127,10,45
+Johnson,PRECINCT 9,WARD 3 POSITION 2,,NON,TINA SHARPS,150,97,7,46
+Johnson,PRECINCT 11,WARD 3 POSITION 2,,NON,TINA SHARPS,75,50,1,24
+Johnson,PRECINCT 1,WARD 3 POSITION 2,,NON,ROB RISINGER,93,64,3,26
+Johnson,PRECINCT 6,WARD 3 POSITION 2,,NON,ROB RISINGER,351,244,12,95
+Johnson,PRECINCT 7,WARD 3 POSITION 2,,NON,ROB RISINGER,52,35,0,17
+Johnson,PRECINCT 8,WARD 3 POSITION 2,,NON,ROB RISINGER,311,201,16,94
+Johnson,PRECINCT 9,WARD 3 POSITION 2,,NON,ROB RISINGER,252,153,10,89
+Johnson,PRECINCT 11,WARD 3 POSITION 2,,NON,ROB RISINGER,144,96,4,44
+Johnson,PRECINCT 3,MAYOR MAYOR2,,NON,JERRY BOEN,293,150,0,143
+Johnson,PRECINCT 10,MAYOR MAYOR3,,NON,JOHN TYSON,181,66,3,112
+Johnson,PRECINCT 5,MAYOR MAYOR4,,NON,RONNIE GARNER,188,58,2,128
+Johnson,PRECINCT 5,MAYOR MAYOR5,,NON,JACKIE WEATHERS,118,46,1,71
+Johnson,PRECINCT 1,CITY CLERK/TREASURER,,NON,BARBARA BLACKARD,130,87,0,43
+Johnson,PRECINCT 6,CITY CLERK/TREASURER,,NON,BARBARA BLACKARD,520,359,14,147
+Johnson,PRECINCT 7,CITY CLERK/TREASURER,,NON,BARBARA BLACKARD,63,42,0,21
+Johnson,PRECINCT 8,CITY CLERK/TREASURER,,NON,BARBARA BLACKARD,478,311,27,140
+Johnson,PRECINCT 9,CITY CLERK/TREASURER,,NON,BARBARA BLACKARD,396,246,16,134
+Johnson,PRECINCT 11,CITY CLERK/TREASURER,,NON,BARBARA BLACKARD,214,143,5,66
+Johnson,PRECINCT 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,252,126,3,123
+Johnson,PRECINCT 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,257,100,6,151
+Johnson,PRECINCT 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,209,89,4,116
+Johnson,PRECINCT 4,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,253,92,11,150
+Johnson,PRECINCT 5,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,188,76,2,110
+Johnson,PRECINCT 6,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,246,159,11,76
+Johnson,PRECINCT 7,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,206,136,1,69
+Johnson,PRECINCT 8,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,221,133,13,75
+Johnson,PRECINCT 9,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,175,112,11,52
+Johnson,PRECINCT 10,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,272,135,4,133
+Johnson,PRECINCT 11,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,159,104,3,52
+Johnson,PRECINCT 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,435,236,10,189
+Johnson,PRECINCT 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,575,240,5,330
+Johnson,PRECINCT 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,411,215,7,189
+Johnson,PRECINCT 4,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,435,171,7,257
+Johnson,PRECINCT 5,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,400,170,4,226
+Johnson,PRECINCT 6,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,400,272,12,116
+Johnson,PRECINCT 7,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,362,224,7,131
+Johnson,PRECINCT 8,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,333,232,11,90
+Johnson,PRECINCT 9,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,237,143,6,88
+Johnson,PRECINCT 10,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,471,208,8,255
+Johnson,PRECINCT 11,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,245,158,8,79
+Johnson,PRECINCT 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,280,146,4,130
+Johnson,PRECINCT 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,278,100,3,175
+Johnson,PRECINCT 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,227,104,3,120
+Johnson,PRECINCT 4,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,278,95,6,177
+Johnson,PRECINCT 5,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,235,104,2,129
+Johnson,PRECINCT 6,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,267,176,11,80
+Johnson,PRECINCT 7,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,234,148,2,84
+Johnson,PRECINCT 8,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,230,141,15,74
+Johnson,PRECINCT 9,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,175,111,7,57
+Johnson,PRECINCT 10,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,273,136,3,134
+Johnson,PRECINCT 11,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,158,107,4,47
+Johnson,PRECINCT 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,420,222,9,189
+Johnson,PRECINCT 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,562,241,8,313
+Johnson,PRECINCT 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,400,201,8,191
+Johnson,PRECINCT 4,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,432,175,12,245
+Johnson,PRECINCT 5,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,362,144,4,214
+Johnson,PRECINCT 6,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,386,262,10,114
+Johnson,PRECINCT 7,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,338,214,6,118
+Johnson,PRECINCT 8,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,331,229,9,93
+Johnson,PRECINCT 9,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,238,144,10,84
+Johnson,PRECINCT 10,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,476,208,9,259
+Johnson,PRECINCT 11,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,248,157,7,84
+Johnson,PRECINCT 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,347,168,4,175
+Johnson,PRECINCT 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,347,130,5,212
+Johnson,PRECINCT 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,299,143,2,154
+Johnson,PRECINCT 4,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,327,121,10,196
+Johnson,PRECINCT 5,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,275,116,1,158
+Johnson,PRECINCT 6,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,292,193,10,89
+Johnson,PRECINCT 7,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,273,168,1,104
+Johnson,PRECINCT 8,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,259,166,15,78
+Johnson,PRECINCT 9,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,199,126,10,63
+Johnson,PRECINCT 10,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,322,159,8,155
+Johnson,PRECINCT 11,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,201,128,5,68
+Johnson,PRECINCT 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,353,202,9,142
+Johnson,PRECINCT 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,492,214,6,272
+Johnson,PRECINCT 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,334,163,11,160
+Johnson,PRECINCT 4,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,382,150,8,224
+Johnson,PRECINCT 5,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,318,130,5,183
+Johnson,PRECINCT 6,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,364,246,12,106
+Johnson,PRECINCT 7,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,301,195,7,99
+Johnson,PRECINCT 8,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,301,202,10,89
+Johnson,PRECINCT 9,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,213,130,7,76
+Johnson,PRECINCT 10,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,425,185,3,237
+Johnson,PRECINCT 11,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,206,137,6,63
+Johnson,PRECINCT 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,332,172,1,159
+Johnson,PRECINCT 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,319,129,6,184
+Johnson,PRECINCT 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,282,122,7,153
+Johnson,PRECINCT 4,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,310,113,6,191
+Johnson,PRECINCT 5,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,275,114,2,159
+Johnson,PRECINCT 6,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,303,196,3,104
+Johnson,PRECINCT 7,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,259,164,1,94
+Johnson,PRECINCT 8,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,273,175,10,88
+Johnson,PRECINCT 9,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,215,135,6,74
+Johnson,PRECINCT 10,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,360,155,5,200
+Johnson,PRECINCT 11,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,206,135,3,68
+Johnson,PRECINCT 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,379,204,13,162
+Johnson,PRECINCT 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,535,222,7,306
+Johnson,PRECINCT 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,359,188,6,165
+Johnson,PRECINCT 4,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,413,162,12,239
+Johnson,PRECINCT 5,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,331,140,4,187
+Johnson,PRECINCT 6,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,369,248,21,100
+Johnson,PRECINCT 7,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,326,206,7,113
+Johnson,PRECINCT 8,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,300,200,17,83
+Johnson,PRECINCT 9,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,209,128,12,69
+Johnson,PRECINCT 10,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,406,197,9,200
+Johnson,PRECINCT 11,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,211,136,8,67

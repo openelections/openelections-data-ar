@@ -1,0 +1,464 @@
+county,precinct,office,district,party,candidate,votes,absentee,election_day,early_voting
+Baxter,1,U.S. Senate,,REP,Senator John Boozman,1267,21,554,692
+Baxter,2,U.S. Senate,,REP,Senator John Boozman,1300,25,459,816
+Baxter,3,U.S. Senate,,REP,Senator John Boozman,1243,14,357,872
+Baxter,4,U.S. Senate,,REP,Senator John Boozman,952,18,303,631
+Baxter,5,U.S. Senate,,REP,Senator John Boozman,700,12,262,426
+Baxter,6,U.S. Senate,,REP,Senator John Boozman,1042,32,318,692
+Baxter,7,U.S. Senate,,REP,Senator John Boozman,1111,34,322,755
+Baxter,8,U.S. Senate,,REP,Senator John Boozman,1171,32,363,776
+Baxter,9,U.S. Senate,,REP,Senator John Boozman,1259,20,503,736
+Baxter,10,U.S. Senate,,REP,Senator John Boozman,891,19,413,459
+Baxter,11,U.S. Senate,,REP,Senator John Boozman,1271,11,698,562
+Baxter,1,U.S. Senate,,DEM,Natalie James,263,14,117,132
+Baxter,2,U.S. Senate,,DEM,Natalie James,250,9,55,186
+Baxter,3,U.S. Senate,,DEM,Natalie James,274,7,64,203
+Baxter,4,U.S. Senate,,DEM,Natalie James,254,17,61,176
+Baxter,5,U.S. Senate,,DEM,Natalie James,283,17,85,181
+Baxter,6,U.S. Senate,,DEM,Natalie James,270,15,55,200
+Baxter,7,U.S. Senate,,DEM,Natalie James,302,14,64,224
+Baxter,8,U.S. Senate,,DEM,Natalie James,248,15,54,179
+Baxter,9,U.S. Senate,,DEM,Natalie James,297,17,91,189
+Baxter,10,U.S. Senate,,DEM,Natalie James,204,14,68,122
+Baxter,11,U.S. Senate,,DEM,Natalie James,295,5,127,163
+Baxter,1,U.S. Senate,,LIB,Kenneth Cates,46,1,26,19
+Baxter,2,U.S. Senate,,LIB,Kenneth Cates,40,0,16,24
+Baxter,3,U.S. Senate,,LIB,Kenneth Cates,42,0,12,30
+Baxter,4,U.S. Senate,,LIB,Kenneth Cates,29,0,15,14
+Baxter,5,U.S. Senate,,LIB,Kenneth Cates,49,0,22,27
+Baxter,6,U.S. Senate,,LIB,Kenneth Cates,37,1,12,24
+Baxter,7,U.S. Senate,,LIB,Kenneth Cates,31,0,12,19
+Baxter,8,U.S. Senate,,LIB,Kenneth Cates,44,1,16,27
+Baxter,9,U.S. Senate,,LIB,Kenneth Cates,40,0,14,26
+Baxter,10,U.S. Senate,,LIB,Kenneth Cates,36,2,15,19
+Baxter,11,U.S. Senate,,LIB,Kenneth Cates,49,0,27,22
+Baxter,1,U.S. Congress District 01,,REP,Congressman Rick Crawford,1281,21,565,695
+Baxter,2,U.S. Congress District 01,,REP,Congressman Rick Crawford,1324,25,472,827
+Baxter,3,U.S. Congress District 01,,REP,Congressman Rick Crawford,1267,14,366,887
+Baxter,4,U.S. Congress District 01,,REP,Congressman Rick Crawford,960,18,313,629
+Baxter,5,U.S. Congress District 01,,REP,Congressman Rick Crawford,731,13,282,436
+Baxter,6,U.S. Congress District 01,,REP,Congressman Rick Crawford,1035,32,313,690
+Baxter,7,U.S. Congress District 01,,REP,Congressman Rick Crawford,1100,32,321,747
+Baxter,8,U.S. Congress District 01,,REP,Congressman Rick Crawford,1192,29,373,790
+Baxter,9,U.S. Congress District 01,,REP,Congressman Rick Crawford,1277,19,507,751
+Baxter,10,U.S. Congress District 01,,REP,Congressman Rick Crawford,901,19,415,467
+Baxter,11,U.S. Congress District 01,,REP,Congressman Rick Crawford,1305,11,714,580
+Baxter,1,U.S. Congress District 01,,DEM,Representative Monte Hodges,270,14,124,132
+Baxter,2,U.S. Congress District 01,,DEM,Representative Monte Hodges,261,9,57,195
+Baxter,3,U.S. Congress District 01,,DEM,Representative Monte Hodges,288,7,65,216
+Baxter,4,U.S. Congress District 01,,DEM,Representative Monte Hodges,258,17,62,179
+Baxter,5,U.S. Congress District 01,,DEM,Representative Monte Hodges,290,16,88,186
+Baxter,6,U.S. Congress District 01,,DEM,Representative Monte Hodges,299,16,66,217
+Baxter,7,U.S. Congress District 01,,DEM,Representative Monte Hodges,324,15,74,235
+Baxter,8,U.S. Congress District 01,,DEM,Representative Monte Hodges,268,19,58,191
+Baxter,9,U.S. Congress District 01,,DEM,Representative Monte Hodges,306,18,95,193
+Baxter,10,U.S. Congress District 01,,DEM,Representative Monte Hodges,224,16,78,130
+Baxter,11,U.S. Congress District 01,,DEM,Representative Monte Hodges,301,5,131,165
+Baxter,1,Governor,,DEM,Chris Jones,274,14,122,138
+Baxter,2,Governor,,DEM,Chris Jones,268,9,59,200
+Baxter,3,Governor,,DEM,Chris Jones,299,7,73,219
+Baxter,4,Governor,,DEM,Chris Jones,288,17,76,195
+Baxter,5,Governor,,DEM,Chris Jones,314,18,94,202
+Baxter,6,Governor,,DEM,Chris Jones,323,17,67,239
+Baxter,7,Governor,,DEM,Chris Jones,349,14,70,265
+Baxter,8,Governor,,DEM,Chris Jones,290,19,64,207
+Baxter,9,Governor,,DEM,Chris Jones,325,18,99,208
+Baxter,10,Governor,,DEM,Chris Jones,236,16,81,139
+Baxter,11,Governor,,DEM,Chris Jones,327,5,144,178
+Baxter,1,Governor,,REP,Sarah Huckabee Sanders,1284,22,565,697
+Baxter,2,Governor,,REP,Sarah Huckabee Sanders,1292,25,451,816
+Baxter,3,Governor,,REP,Sarah Huckabee Sanders,1245,14,355,876
+Baxter,4,Governor,,REP,Sarah Huckabee Sanders,932,18,298,616
+Baxter,5,Governor,,REP,Sarah Huckabee Sanders,697,12,266,419
+Baxter,6,Governor,,REP,Sarah Huckabee Sanders,1013,32,313,668
+Baxter,7,Governor,,REP,Sarah Huckabee Sanders,1074,34,319,721
+Baxter,8,Governor,,REP,Sarah Huckabee Sanders,1162,28,364,770
+Baxter,9,Governor,,REP,Sarah Huckabee Sanders,1247,20,497,730
+Baxter,10,Governor,,REP,Sarah Huckabee Sanders,883,19,410,454
+Baxter,11,Governor,,REP,Sarah Huckabee Sanders,1269,11,693,565
+Baxter,1,Governor,,LIB,"Ricky Dale Harrington, Jr.",26,0,13,13
+Baxter,2,Governor,,LIB,"Ricky Dale Harrington, Jr.",35,0,20,15
+Baxter,3,Governor,,LIB,"Ricky Dale Harrington, Jr.",23,0,9,14
+Baxter,4,Governor,,LIB,"Ricky Dale Harrington, Jr.",16,0,8,8
+Baxter,5,Governor,,LIB,"Ricky Dale Harrington, Jr.",30,0,14,16
+Baxter,6,Governor,,LIB,"Ricky Dale Harrington, Jr.",24,0,8,16
+Baxter,7,Governor,,LIB,"Ricky Dale Harrington, Jr.",23,0,12,11
+Baxter,8,Governor,,LIB,"Ricky Dale Harrington, Jr.",24,1,11,12
+Baxter,9,Governor,,LIB,"Ricky Dale Harrington, Jr.",29,0,12,17
+Baxter,10,Governor,,LIB,"Ricky Dale Harrington, Jr.",22,1,10,11
+Baxter,11,Governor,,LIB,"Ricky Dale Harrington, Jr.",25,0,18,7
+Baxter,1,Lieutenant Governor,,DEM,Kelly Ross Krout,257,14,112,131
+Baxter,2,Lieutenant Governor,,DEM,Kelly Ross Krout,248,9,54,185
+Baxter,3,Lieutenant Governor,,DEM,Kelly Ross Krout,276,7,65,204
+Baxter,4,Lieutenant Governor,,DEM,Kelly Ross Krout,265,16,68,181
+Baxter,5,Lieutenant Governor,,DEM,Kelly Ross Krout,277,17,82,178
+Baxter,6,Lieutenant Governor,,DEM,Kelly Ross Krout,291,15,61,215
+Baxter,7,Lieutenant Governor,,DEM,Kelly Ross Krout,310,14,67,229
+Baxter,8,Lieutenant Governor,,DEM,Kelly Ross Krout,261,19,57,185
+Baxter,9,Lieutenant Governor,,DEM,Kelly Ross Krout,310,18,93,199
+Baxter,10,Lieutenant Governor,,DEM,Kelly Ross Krout,215,15,79,121
+Baxter,11,Lieutenant Governor,,DEM,Kelly Ross Krout,303,5,132,166
+Baxter,1,Lieutenant Governor,,LIB,Frank Gilbert,59,1,24,34
+Baxter,2,Lieutenant Governor,,LIB,Frank Gilbert,59,2,30,27
+Baxter,3,Lieutenant Governor,,LIB,Frank Gilbert,61,0,19,42
+Baxter,4,Lieutenant Governor,,LIB,Frank Gilbert,50,0,24,26
+Baxter,5,Lieutenant Governor,,LIB,Frank Gilbert,53,0,25,28
+Baxter,6,Lieutenant Governor,,LIB,Frank Gilbert,49,0,20,29
+Baxter,7,Lieutenant Governor,,LIB,Frank Gilbert,51,0,23,28
+Baxter,8,Lieutenant Governor,,LIB,Frank Gilbert,60,1,22,37
+Baxter,9,Lieutenant Governor,,LIB,Frank Gilbert,54,2,21,31
+Baxter,10,Lieutenant Governor,,LIB,Frank Gilbert,41,2,14,25
+Baxter,11,Lieutenant Governor,,LIB,Frank Gilbert,55,0,30,25
+Baxter,1,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,1251,21,558,672
+Baxter,2,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,1274,23,441,810
+Baxter,3,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,1224,14,347,863
+Baxter,4,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,914,19,288,607
+Baxter,5,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,691,13,260,418
+Baxter,6,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,999,34,302,663
+Baxter,7,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,1073,34,308,731
+Baxter,8,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,1138,28,353,757
+Baxter,9,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,1218,18,486,714
+Baxter,10,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,873,19,402,452
+Baxter,11,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,1259,11,688,560
+Baxter,1,Secretary of State,,DEM,Anna Beth Gorman,276,15,120,141
+Baxter,2,Secretary of State,,DEM,Anna Beth Gorman,269,10,64,195
+Baxter,3,Secretary of State,,DEM,Anna Beth Gorman,290,7,68,215
+Baxter,4,Secretary of State,,DEM,Anna Beth Gorman,270,17,68,185
+Baxter,5,Secretary of State,,DEM,Anna Beth Gorman,301,18,91,192
+Baxter,6,Secretary of State,,DEM,Anna Beth Gorman,299,15,61,223
+Baxter,7,Secretary of State,,DEM,Anna Beth Gorman,331,14,72,245
+Baxter,8,Secretary of State,,DEM,Anna Beth Gorman,276,18,63,195
+Baxter,9,Secretary of State,,DEM,Anna Beth Gorman,311,18,96,197
+Baxter,10,Secretary of State,,DEM,Anna Beth Gorman,229,16,85,128
+Baxter,11,Secretary of State,,DEM,Anna Beth Gorman,316,5,137,174
+Baxter,1,Secretary of State,,REP,Secretary of State John Thurston,1278,21,569,688
+Baxter,2,Secretary of State,,REP,Secretary of State John Thurston,1299,24,459,816
+Baxter,3,Secretary of State,,REP,Secretary of State John Thurston,1260,14,360,886
+Baxter,4,Secretary of State,,REP,Secretary of State John Thurston,941,18,302,621
+Baxter,5,Secretary of State,,REP,Secretary of State John Thurston,707,11,267,429
+Baxter,6,Secretary of State,,REP,Secretary of State John Thurston,1031,33,319,679
+Baxter,7,Secretary of State,,REP,Secretary of State John Thurston,1085,33,321,731
+Baxter,8,Secretary of State,,REP,Secretary of State John Thurston,1175,30,364,781
+Baxter,9,Secretary of State,,REP,Secretary of State John Thurston,1260,20,500,740
+Baxter,10,Secretary of State,,REP,Secretary of State John Thurston,892,20,408,464
+Baxter,11,Secretary of State,,REP,Secretary of State John Thurston,1287,11,706,570
+Baxter,1,Attorney General,,REP,Lieutenant Governor Tim Griffin,1307,21,575,711
+Baxter,2,Attorney General,,REP,Lieutenant Governor Tim Griffin,1319,25,463,831
+Baxter,3,Attorney General,,REP,Lieutenant Governor Tim Griffin,1278,14,365,899
+Baxter,4,Attorney General,,REP,Lieutenant Governor Tim Griffin,957,19,304,634
+Baxter,5,Attorney General,,REP,Lieutenant Governor Tim Griffin,723,12,273,438
+Baxter,6,Attorney General,,REP,Lieutenant Governor Tim Griffin,1052,33,318,701
+Baxter,7,Attorney General,,REP,Lieutenant Governor Tim Griffin,1107,33,326,748
+Baxter,8,Attorney General,,REP,Lieutenant Governor Tim Griffin,1186,30,367,789
+Baxter,9,Attorney General,,REP,Lieutenant Governor Tim Griffin,1283,20,510,753
+Baxter,10,Attorney General,,REP,Lieutenant Governor Tim Griffin,901,19,410,472
+Baxter,11,Attorney General,,REP,Lieutenant Governor Tim Griffin,1297,11,713,573
+Baxter,1,Attorney General,,DEM,Jesse Gibson,267,15,119,133
+Baxter,2,Attorney General,,DEM,Jesse Gibson,263,9,62,192
+Baxter,3,Attorney General,,DEM,Jesse Gibson,291,7,70,214
+Baxter,4,Attorney General,,DEM,Jesse Gibson,271,16,74,181
+Baxter,5,Attorney General,,DEM,Jesse Gibson,300,16,95,189
+Baxter,6,Attorney General,,DEM,Jesse Gibson,296,15,66,215
+Baxter,7,Attorney General,,DEM,Jesse Gibson,329,13,72,244
+Baxter,8,Attorney General,,DEM,Jesse Gibson,279,18,65,196
+Baxter,9,Attorney General,,DEM,Jesse Gibson,309,18,94,197
+Baxter,10,Attorney General,,DEM,Jesse Gibson,230,17,84,129
+Baxter,11,Attorney General,,DEM,Jesse Gibson,319,5,138,176
+Baxter,1,Auditor of State,,LIB,Simeon Snow,45,1,22,22
+Baxter,2,Auditor of State,,LIB,Simeon Snow,58,0,28,30
+Baxter,3,Auditor of State,,LIB,Simeon Snow,56,0,19,37
+Baxter,4,Auditor of State,,LIB,Simeon Snow,27,0,14,13
+Baxter,5,Auditor of State,,LIB,Simeon Snow,55,0,30,25
+Baxter,6,Auditor of State,,LIB,Simeon Snow,41,0,13,28
+Baxter,7,Auditor of State,,LIB,Simeon Snow,51,0,18,33
+Baxter,8,Auditor of State,,LIB,Simeon Snow,49,1,21,27
+Baxter,9,Auditor of State,,LIB,Simeon Snow,55,2,21,32
+Baxter,10,Auditor of State,,LIB,Simeon Snow,41,2,18,21
+Baxter,11,Auditor of State,,LIB,Simeon Snow,60,0,26,34
+Baxter,1,Auditor of State,,DEM,Diamond Arnold-Johnson,240,14,107,119
+Baxter,2,Auditor of State,,DEM,Diamond Arnold-Johnson,240,8,49,183
+Baxter,3,Auditor of State,,DEM,Diamond Arnold-Johnson,271,7,60,204
+Baxter,4,Auditor of State,,DEM,Diamond Arnold-Johnson,246,17,60,169
+Baxter,5,Auditor of State,,DEM,Diamond Arnold-Johnson,262,17,76,169
+Baxter,6,Auditor of State,,DEM,Diamond Arnold-Johnson,262,15,50,197
+Baxter,7,Auditor of State,,DEM,Diamond Arnold-Johnson,301,14,63,224
+Baxter,8,Auditor of State,,DEM,Diamond Arnold-Johnson,245,15,49,181
+Baxter,9,Auditor of State,,DEM,Diamond Arnold-Johnson,276,14,90,172
+Baxter,10,Auditor of State,,DEM,Diamond Arnold-Johnson,208,15,76,117
+Baxter,11,Auditor of State,,DEM,Diamond Arnold-Johnson,284,5,123,156
+Baxter,1,Auditor of State,,REP,Treasurer of State Dennis Milligan,1281,22,560,699
+Baxter,2,Auditor of State,,REP,Treasurer of State Dennis Milligan,1285,26,447,812
+Baxter,3,Auditor of State,,REP,Treasurer of State Dennis Milligan,1231,14,354,863
+Baxter,4,Auditor of State,,REP,Treasurer of State Dennis Milligan,949,18,301,630
+Baxter,5,Auditor of State,,REP,Treasurer of State Dennis Milligan,706,11,261,434
+Baxter,6,Auditor of State,,REP,Treasurer of State Dennis Milligan,1034,32,320,682
+Baxter,7,Auditor of State,,REP,Treasurer of State Dennis Milligan,1070,33,317,720
+Baxter,8,Auditor of State,,REP,Treasurer of State Dennis Milligan,1158,32,362,764
+Baxter,9,Auditor of State,,REP,Treasurer of State Dennis Milligan,1259,22,492,745
+Baxter,10,Auditor of State,,REP,Treasurer of State Dennis Milligan,878,19,401,458
+Baxter,11,Auditor of State,,REP,Treasurer of State Dennis Milligan,1267,11,697,559
+Baxter,1,State Treasurer,,DEM,Pam Whitaker,284,15,131,138
+Baxter,2,State Treasurer,,DEM,Pam Whitaker,278,9,72,197
+Baxter,3,State Treasurer,,DEM,Pam Whitaker,305,8,73,224
+Baxter,4,State Treasurer,,DEM,Pam Whitaker,279,17,72,190
+Baxter,5,State Treasurer,,DEM,Pam Whitaker,309,17,95,197
+Baxter,6,State Treasurer,,DEM,Pam Whitaker,322,15,70,237
+Baxter,7,State Treasurer,,DEM,Pam Whitaker,340,14,72,254
+Baxter,8,State Treasurer,,DEM,Pam Whitaker,301,19,66,216
+Baxter,9,State Treasurer,,DEM,Pam Whitaker,322,17,96,209
+Baxter,10,State Treasurer,,DEM,Pam Whitaker,240,16,89,135
+Baxter,11,State Treasurer,,DEM,Pam Whitaker,321,5,139,177
+Baxter,1,State Treasurer,,REP,State Representative Mark Lowery,1280,22,564,694
+Baxter,2,State Treasurer,,REP,State Representative Mark Lowery,1303,25,454,824
+Baxter,3,State Treasurer,,REP,State Representative Mark Lowery,1252,13,357,882
+Baxter,4,State Treasurer,,REP,State Representative Mark Lowery,940,18,301,621
+Baxter,5,State Treasurer,,REP,State Representative Mark Lowery,710,11,268,431
+Baxter,6,State Treasurer,,REP,State Representative Mark Lowery,1015,33,313,669
+Baxter,7,State Treasurer,,REP,State Representative Mark Lowery,1089,33,327,729
+Baxter,8,State Treasurer,,REP,State Representative Mark Lowery,1158,29,367,762
+Baxter,9,State Treasurer,,REP,State Representative Mark Lowery,1263,20,504,739
+Baxter,10,State Treasurer,,REP,State Representative Mark Lowery,888,19,407,462
+Baxter,11,State Treasurer,,REP,State Representative Mark Lowery,1293,11,710,572
+Baxter,1,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,260,15,118,127
+Baxter,2,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,255,9,60,186
+Baxter,3,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,286,7,66,213
+Baxter,4,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,255,17,68,170
+Baxter,5,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,284,16,87,181
+Baxter,6,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,277,15,58,204
+Baxter,7,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,311,14,67,230
+Baxter,8,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,258,17,56,185
+Baxter,9,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,298,17,91,190
+Baxter,10,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,216,16,82,118
+Baxter,11,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,318,5,140,173
+Baxter,1,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,1302,22,574,706
+Baxter,2,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,1324,24,463,837
+Baxter,3,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,1276,14,365,897
+Baxter,4,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,958,18,304,636
+Baxter,5,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,731,12,277,442
+Baxter,6,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,1059,32,323,704
+Baxter,7,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,1117,33,333,751
+Baxter,8,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,1195,31,370,794
+Baxter,9,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,1286,20,509,757
+Baxter,10,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,913,20,413,480
+Baxter,11,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,1291,11,704,576
+Baxter,1,State Senate,23,REP,Senator Scott Flippo,1273,22,557,694
+Baxter,2,State Senate,23,REP,Senator Scott Flippo,1294,25,457,812
+Baxter,3,State Senate,23,REP,Senator Scott Flippo,1241,13,360,868
+Baxter,4,State Senate,23,REP,Senator Scott Flippo,928,18,299,611
+Baxter,5,State Senate,23,REP,Senator Scott Flippo,713,15,269,429
+Baxter,6,State Senate,23,REP,Senator Scott Flippo,985,33,298,654
+Baxter,7,State Senate,23,REP,Senator Scott Flippo,1071,33,313,725
+Baxter,8,State Senate,23,REP,Senator Scott Flippo,1144,31,354,759
+Baxter,9,State Senate,23,REP,Senator Scott Flippo,1248,20,492,736
+Baxter,10,State Senate,23,REP,Senator Scott Flippo,874,17,403,454
+Baxter,11,State Senate,23,REP,Senator Scott Flippo,1264,11,689,564
+Baxter,1,State Senate,23,DEM,Derek Huber,292,14,132,146
+Baxter,2,State Senate,23,DEM,Derek Huber,287,9,71,207
+Baxter,3,State Senate,23,DEM,Derek Huber,316,7,71,238
+Baxter,4,State Senate,23,DEM,Derek Huber,291,17,79,195
+Baxter,5,State Senate,23,DEM,Derek Huber,308,15,99,194
+Baxter,6,State Senate,23,DEM,Derek Huber,350,15,79,256
+Baxter,7,State Senate,23,DEM,Derek Huber,347,14,82,251
+Baxter,8,State Senate,23,DEM,Derek Huber,311,17,77,217
+Baxter,9,State Senate,23,DEM,Derek Huber,341,17,109,215
+Baxter,10,State Senate,23,DEM,Derek Huber,260,19,95,146
+Baxter,11,State Senate,23,DEM,Derek Huber,342,5,161,176
+Baxter,1,State House,03,REP,Stetson Painter,1067,19,504,544
+Baxter,2,State House,03,REP,Stetson Painter,1316,25,454,837
+Baxter,3,State House,03,REP,Stetson Painter,1277,15,358,904
+Baxter,4,State House,03,REP,Stetson Painter,974,20,306,648
+Baxter,5,State House,03,REP,Stetson Painter,743,14,278,451
+Baxter,6,State House,03,REP,Stetson Painter,724,23,197,504
+Baxter,7,State House,03,REP,Stetson Painter,1116,36,324,756
+Baxter,8,State House,03,REP,Stetson Painter,237,18,62,157
+Baxter,9,State House,03,REP,Stetson Painter,1032,15,346,671
+Baxter,1,State House,03,LIB,Steven Gene Parsons,206,12,101,93
+Baxter,2,State House,03,LIB,Steven Gene Parsons,236,7,67,162
+Baxter,3,State House,03,LIB,Steven Gene Parsons,258,6,66,186
+Baxter,4,State House,03,LIB,Steven Gene Parsons,217,13,64,140
+Baxter,5,State House,03,LIB,Steven Gene Parsons,230,11,73,146
+Baxter,6,State House,03,LIB,Steven Gene Parsons,159,10,26,123
+Baxter,7,State House,03,LIB,Steven Gene Parsons,267,10,66,191
+Baxter,8,State House,03,LIB,Steven Gene Parsons,49,11,7,31
+Baxter,9,State House,03,LIB,Steven Gene Parsons,213,10,59,144
+Baxter,1,State House,04,REP,Representative Jack Fortner,254,3,71,180
+Baxter,6,State House,04,REP,Representative Jack Fortner,395,11,141,243
+Baxter,8,State House,04,REP,Representative Jack Fortner,1070,14,334,722
+Baxter,9,State House,04,REP,Representative Jack Fortner,291,10,186,95
+Baxter,10,State House,04,REP,Representative Jack Fortner,1019,23,462,534
+Baxter,11,State House,04,REP,Representative Jack Fortner,1393,10,728,655
+Baxter,11,State House,27,REP,Steven Walker,59,2,57,0
+Baxter,1,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,814,14,358,442
+Baxter,2,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,810,23,247,540
+Baxter,3,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,806,11,212,583
+Baxter,4,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,594,10,185,399
+Baxter,5,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,504,13,180,311
+Baxter,6,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,648,22,184,442
+Baxter,7,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,682,16,197,469
+Baxter,8,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,713,21,211,481
+Baxter,9,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,841,15,331,495
+Baxter,10,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,570,15,249,306
+Baxter,11,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,794,6,404,384
+Baxter,1,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,565,15,263,287
+Baxter,2,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,562,6,203,353
+Baxter,3,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,573,10,165,398
+Baxter,4,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,456,20,138,298
+Baxter,5,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,388,11,141,236
+Baxter,6,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,518,23,151,344
+Baxter,7,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,535,26,148,361
+Baxter,8,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,543,19,149,375
+Baxter,9,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,538,13,206,319
+Baxter,10,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,419,15,186,218
+Baxter,11,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,579,7,315,257
+Baxter,1,Baxter County Circuit/County Clerk,,REP,REP Canda J. Reese,1481,35,646,800
+Baxter,2,Baxter County Circuit/County Clerk,,REP,REP Canda J. Reese,1473,28,504,941
+Baxter,3,Baxter County Circuit/County Clerk,,REP,REP Canda J. Reese,1456,20,403,1033
+Baxter,4,Baxter County Circuit/County Clerk,,REP,REP Canda J. Reese,1145,29,355,761
+Baxter,5,Baxter County Circuit/County Clerk,,REP,REP Canda J. Reese,914,21,332,561
+Baxter,6,Baxter County Circuit/County Clerk,,REP,REP Canda J. Reese,1238,44,355,839
+Baxter,7,Baxter County Circuit/County Clerk,,REP,REP Canda J. Reese,1307,43,369,895
+Baxter,8,Baxter County Circuit/County Clerk,,REP,REP Canda J. Reese,1369,42,409,918
+Baxter,9,Baxter County Circuit/County Clerk,,REP,REP Canda J. Reese,1470,30,579,861
+Baxter,10,Baxter County Circuit/County Clerk,,REP,REP Canda J. Reese,1032,28,462,542
+Baxter,11,Baxter County Circuit/County Clerk,,REP,REP Canda J. Reese,1484,14,794,676
+Baxter,2,Baxter County Justice of the Peace District 2,,REP,REP Angela DeGroote,1290,23,449,818
+Baxter,2,Baxter County Justice of the Peace District 2,,DEM,DEM Johnny Rickman,281,10,73,198
+Baxter,3,Baxter County Justice of the Peace District 3,,DEM,DEM Donnie Huffine,293,7,70,216
+Baxter,3,Baxter County Justice of the Peace District 3,,REP,REP Rick Steiner,1254,15,355,884
+Baxter,3,Baxter County Constable District 3,,REP,REP Kaleb Johnson,1195,12,338,845
+Baxter,3,Baxter County Constable District 3,,IND,IND Dale Jones,341,7,88,246
+Baxter,11,City of Big Flat Mayor,,NON,Casey McClanahan,5,0,5,0
+Baxter,11,City of Big Flat Mayor,,NON,Charles Schmitt,12,0,12,0
+Baxter,11,City of Big Flat Mayor,,NON,Glenda Wiseman,16,0,16,0
+Baxter,9,City of Briarcliff Mayor,,NON,Michael Keith Lewis,65,2,27,36
+Baxter,10,City of Cotter Mayor,,NON,Phillip McGeorge Caradine,296,4,127,165
+Baxter,10,City of Gassville Mayor,,NON,Jeff Braim,477,5,221,251
+Baxter,1,City of Lakeview Mayor,,NON,Dennis Behling,318,7,182,129
+Baxter,4,City of Mountain Home Mayor,,NON,Mayor Hillrey Adams,785,22,256,507
+Baxter,5,City of Mountain Home Mayor,,NON,Mayor Hillrey Adams,851,21,306,524
+Baxter,6,City of Mountain Home Mayor,,NON,Mayor Hillrey Adams,648,31,141,476
+Baxter,7,City of Mountain Home Mayor,,NON,Mayor Hillrey Adams,1027,36,266,725
+Baxter,8,City of Mountain Home Mayor,,NON,Mayor Hillrey Adams,222,28,42,152
+Baxter,11,City of Norfork Mayor,,NON,Lisa L. Harrison,146,0,107,39
+Baxter,4,City of Mountain Home Clerk,,NON,Billy D. Austin,310,9,99,202
+Baxter,5,City of Mountain Home Clerk,,NON,Billy D. Austin,327,9,125,193
+Baxter,6,City of Mountain Home Clerk,,NON,Billy D. Austin,298,16,66,216
+Baxter,7,City of Mountain Home Clerk,,NON,Billy D. Austin,411,17,109,285
+Baxter,8,City of Mountain Home Clerk,,NON,Billy D. Austin,86,14,14,58
+Baxter,4,City of Mountain Home Clerk,,NON,Scott Liles,488,15,152,321
+Baxter,5,City of Mountain Home Clerk,,NON,Scott Liles,576,11,201,364
+Baxter,6,City of Mountain Home Clerk,,NON,Scott Liles,364,14,78,272
+Baxter,7,City of Mountain Home Clerk,,NON,Scott Liles,653,22,165,466
+Baxter,8,City of Mountain Home Clerk,,NON,Scott Liles,136,14,23,99
+Baxter,4,Mountain Home Council Ward 2 Position 1,,NON,Jennifer Baker,447,13,146,288
+Baxter,5,Mountain Home Council Ward 2 Position 1,,NON,Jennifer Baker,572,12,191,369
+Baxter,6,Mountain Home Council Ward 2 Position 1,,NON,Jennifer Baker,388,15,81,292
+Baxter,7,Mountain Home Council Ward 2 Position 1,,NON,Jennifer Baker,652,29,167,456
+Baxter,8,Mountain Home Council Ward 2 Position 1,,NON,Jennifer Baker,140,17,23,100
+Baxter,4,Mountain Home Council Ward 2 Position 1,,NON,Jay Volkman,359,11,109,239
+Baxter,5,Mountain Home Council Ward 2 Position 1,,NON,Jay Volkman,356,9,147,200
+Baxter,6,Mountain Home Council Ward 2 Position 1,,NON,Jay Volkman,278,14,64,200
+Baxter,7,Mountain Home Council Ward 2 Position 1,,NON,Jay Volkman,421,10,108,303
+Baxter,8,Mountain Home Council Ward 2 Position 1,,NON,Jay Volkman,84,9,16,59
+Baxter,4,Mountain Home Council Ward 3 Position 1,,NON,Paige Dillard Evans,554,17,186,351
+Baxter,5,Mountain Home Council Ward 3 Position 1,,NON,Paige Dillard Evans,643,17,253,373
+Baxter,6,Mountain Home Council Ward 3 Position 1,,NON,Paige Dillard Evans,447,22,100,325
+Baxter,7,Mountain Home Council Ward 3 Position 1,,NON,Paige Dillard Evans,728,23,197,508
+Baxter,8,Mountain Home Council Ward 3 Position 1,,NON,Paige Dillard Evans,143,13,31,99
+Baxter,4,Mountain Home Council Ward 3 Position 1,,NON,Marshella J. Norell,239,5,69,165
+Baxter,5,Mountain Home Council Ward 3 Position 1,,NON,Marshella J. Norell,272,6,72,194
+Baxter,6,Mountain Home Council Ward 3 Position 1,,NON,Marshella J. Norell,211,8,45,158
+Baxter,7,Mountain Home Council Ward 3 Position 1,,NON,Marshella J. Norell,321,13,74,234
+Baxter,8,Mountain Home Council Ward 3 Position 1,,NON,Marshella J. Norell,77,11,8,58
+Baxter,11,Norfork City Council Ward 1 Position 1,,NON,Ian W. Vickery,89,0,65,24
+Baxter,11,Norfork City Council Ward 1 Position 1,,NON,Rick Coker,60,0,44,16
+Baxter,9,City of Salesville Mayor,,NON,Qicha VanLandingham,55,2,39,14
+Baxter,9,City of Salesville Mayor,,NON,Tim D. Mayfield,110,0,89,21
+Baxter,1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,758,21,314,423
+Baxter,2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,727,18,254,455
+Baxter,3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,662,11,187,464
+Baxter,4,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,579,22,184,373
+Baxter,5,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,420,14,147,259
+Baxter,6,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,614,32,171,411
+Baxter,7,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,615,25,184,406
+Baxter,8,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,656,31,187,438
+Baxter,9,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,736,9,284,443
+Baxter,10,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,514,13,220,281
+Baxter,11,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,678,6,362,310
+Baxter,1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,728,12,346,370
+Baxter,2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,772,14,238,520
+Baxter,3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,811,9,219,583
+Baxter,4,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,587,11,176,400
+Baxter,5,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,548,15,203,330
+Baxter,6,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,660,13,193,454
+Baxter,7,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,711,18,185,508
+Baxter,8,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,731,15,213,503
+Baxter,9,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,761,22,298,441
+Baxter,10,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,564,21,262,281
+Baxter,11,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,853,10,445,398
+Baxter,1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,859,21,377,461
+Baxter,2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,780,16,280,484
+Baxter,3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,771,8,233,530
+Baxter,4,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,630,17,200,413
+Baxter,5,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,476,18,175,283
+Baxter,6,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,683,28,186,469
+Baxter,7,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,673,16,196,461
+Baxter,8,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,718,30,208,480
+Baxter,9,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,784,13,305,466
+Baxter,10,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,526,12,237,277
+Baxter,11,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,817,8,438,371
+Baxter,1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,636,11,289,336
+Baxter,2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,728,17,221,490
+Baxter,3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,715,12,178,525
+Baxter,4,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,546,14,170,362
+Baxter,5,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,506,12,177,317
+Baxter,6,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,597,16,180,401
+Baxter,7,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,666,26,176,464
+Baxter,8,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,677,15,201,461
+Baxter,9,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,714,18,271,425
+Baxter,10,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,553,22,248,283
+Baxter,11,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,732,7,383,342
+Baxter,1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,912,24,407,481
+Baxter,2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,853,16,294,543
+Baxter,3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,815,8,221,586
+Baxter,4,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,641,17,200,424
+Baxter,5,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,498,13,187,298
+Baxter,6,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,731,28,199,504
+Baxter,7,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,713,19,220,474
+Baxter,8,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,754,22,219,513
+Baxter,9,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,837,12,313,512
+Baxter,10,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,597,9,274,314
+Baxter,11,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,840,9,438,393
+Baxter,1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,603,8,269,326
+Baxter,2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,682,17,217,448
+Baxter,3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,690,12,198,480
+Baxter,4,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,552,16,174,362
+Baxter,5,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,490,17,170,303
+Baxter,6,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,574,19,171,384
+Baxter,7,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,648,21,162,465
+Baxter,8,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,654,22,197,435
+Baxter,9,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,688,21,274,393
+Baxter,10,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,505,25,217,263
+Baxter,11,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,728,6,391,331
+Baxter,1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,699,18,316,365
+Baxter,2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,719,21,260,438
+Baxter,3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,690,11,210,469
+Baxter,4,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,512,18,189,305
+Baxter,5,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,537,18,225,294
+Baxter,6,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,529,17,184,328
+Baxter,7,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,582,12,192,378
+Baxter,8,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,577,18,193,366
+Baxter,9,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,698,18,287,393
+Baxter,10,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,499,17,224,258
+Baxter,11,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,750,4,406,340
+Baxter,1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,871,17,384,470
+Baxter,2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,860,13,269,578
+Baxter,3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,861,10,216,635
+Baxter,4,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,713,16,194,503
+Baxter,5,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,485,12,146,327
+Baxter,6,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,807,32,196,579
+Baxter,7,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,827,33,199,595
+Baxter,8,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,876,29,239,608
+Baxter,9,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,879,19,317,543
+Baxter,10,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,627,18,274,335
+Baxter,11,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,861,12,444,405

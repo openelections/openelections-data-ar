@@ -1,0 +1,1260 @@
+county,precinct,office,district,party,candidate,votes,early_vote,absentee,election_day
+Conway,AUSTIN,U.S. Senate,,REP,Senator John Boozman,83,9,2,72
+Conway,BENTLEY CITY,U.S. Senate,,REP,Senator John Boozman,215,75,1,139
+Conway,WELBOURNE WEST,U.S. Senate,,REP,Senator John Boozman,167,76,2,89
+Conway,ST. VINCENT,U.S. Senate,,REP,Senator John Boozman,192,71,5,116
+Conway,STEELE,U.S. Senate,,REP,Senator John Boozman,164,40,3,121
+Conway,MENIFEE CITY,U.S. Senate,,REP,Senator John Boozman,21,10,2,9
+Conway,HOWARD CITY,U.S. Senate,,REP,Senator John Boozman,161,41,4,116
+Conway,HIGGINS,U.S. Senate,,REP,Senator John Boozman,21,5,0,16
+Conway,CEDAR FALLS,U.S. Senate,,REP,Senator John Boozman,107,25,2,80
+Conway,GREGORY,U.S. Senate,,REP,Senator John Boozman,102,50,1,51
+Conway,GRIFFIN,U.S. Senate,,REP,Senator John Boozman,109,39,0,70
+Conway,LICK MTN.,U.S. Senate,,REP,Senator John Boozman,179,39,2,138
+Conway,WASHINGTON EAST,U.S. Senate,,REP,Senator John Boozman,315,128,7,180
+Conway,MCCLAREN,U.S. Senate,,REP,Senator John Boozman,66,28,0,38
+Conway,HOWARD RURAL,U.S. Senate,,REP,Senator John Boozman,135,57,3,75
+Conway,WHITE EAGLE,U.S. Senate,,REP,Senator John Boozman,11,3,0,8
+Conway,WARD 3,U.S. Senate,,REP,Senator John Boozman,264,145,6,113
+Conway,WARD 4,U.S. Senate,,REP,Senator John Boozman,363,251,7,105
+Conway,MARTIN,U.S. Senate,,REP,Senator John Boozman,35,17,0,18
+Conway,WARD 2,U.S. Senate,,REP,Senator John Boozman,232,141,6,85
+Conway,UNION,U.S. Senate,,REP,Senator John Boozman,202,34,0,168
+Conway,BENTLEY RURAL,U.S. Senate,,REP,Senator John Boozman,128,58,3,67
+Conway,WASHINGTON WEST,U.S. Senate,,REP,Senator John Boozman,118,80,0,38
+Conway,BIRD,U.S. Senate,,REP,Senator John Boozman,194,54,0,140
+Conway,CATHOLIC POINT,U.S. Senate,,REP,Senator John Boozman,113,37,0,76
+Conway,PETIT JEAN,U.S. Senate,,REP,Senator John Boozman,28,7,0,21
+Conway,NICHOLS,U.S. Senate,,REP,Senator John Boozman,163,44,6,113
+Conway,OLD HICKORY,U.S. Senate,,REP,Senator John Boozman,54,8,1,45
+Conway,WARD 1,U.S. Senate,,REP,Senator John Boozman,278,171,6,101
+Conway,WELBOURNE EAST,U.S. Senate,,REP,Senator John Boozman,392,255,3,134
+Conway,MENIFEE RURAL,U.S. Senate,,REP,Senator John Boozman,36,14,0,22
+Conway,AUSTIN,U.S. Senate,,LIB,Kenneth Cates,6,0,0,6
+Conway,BENTLEY CITY,U.S. Senate,,LIB,Kenneth Cates,6,1,0,5
+Conway,WELBOURNE WEST,U.S. Senate,,LIB,Kenneth Cates,8,3,0,5
+Conway,ST. VINCENT,U.S. Senate,,LIB,Kenneth Cates,6,3,0,3
+Conway,STEELE,U.S. Senate,,LIB,Kenneth Cates,4,3,0,1
+Conway,MENIFEE CITY,U.S. Senate,,LIB,Kenneth Cates,3,2,0,1
+Conway,HOWARD CITY,U.S. Senate,,LIB,Kenneth Cates,5,3,0,2
+Conway,HIGGINS,U.S. Senate,,LIB,Kenneth Cates,1,0,0,1
+Conway,CEDAR FALLS,U.S. Senate,,LIB,Kenneth Cates,6,3,0,3
+Conway,GREGORY,U.S. Senate,,LIB,Kenneth Cates,6,2,0,4
+Conway,GRIFFIN,U.S. Senate,,LIB,Kenneth Cates,4,2,0,2
+Conway,LICK MTN.,U.S. Senate,,LIB,Kenneth Cates,5,2,0,3
+Conway,WASHINGTON EAST,U.S. Senate,,LIB,Kenneth Cates,19,6,0,13
+Conway,MCCLAREN,U.S. Senate,,LIB,Kenneth Cates,1,0,0,1
+Conway,HOWARD RURAL,U.S. Senate,,LIB,Kenneth Cates,2,1,0,1
+Conway,WHITE EAGLE,U.S. Senate,,LIB,Kenneth Cates,1,1,0,0
+Conway,WARD 3,U.S. Senate,,LIB,Kenneth Cates,15,7,0,8
+Conway,WARD 4,U.S. Senate,,LIB,Kenneth Cates,22,15,0,7
+Conway,MARTIN,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0
+Conway,WARD 2,U.S. Senate,,LIB,Kenneth Cates,16,8,0,8
+Conway,UNION,U.S. Senate,,LIB,Kenneth Cates,6,2,0,4
+Conway,BENTLEY RURAL,U.S. Senate,,LIB,Kenneth Cates,8,3,0,5
+Conway,WASHINGTON WEST,U.S. Senate,,LIB,Kenneth Cates,4,3,0,1
+Conway,BIRD,U.S. Senate,,LIB,Kenneth Cates,7,0,1,6
+Conway,CATHOLIC POINT,U.S. Senate,,LIB,Kenneth Cates,6,3,0,3
+Conway,PETIT JEAN,U.S. Senate,,LIB,Kenneth Cates,2,0,1,1
+Conway,NICHOLS,U.S. Senate,,LIB,Kenneth Cates,9,4,0,5
+Conway,OLD HICKORY,U.S. Senate,,LIB,Kenneth Cates,2,1,0,1
+Conway,WARD 1,U.S. Senate,,LIB,Kenneth Cates,15,11,0,4
+Conway,WELBOURNE EAST,U.S. Senate,,LIB,Kenneth Cates,14,9,0,5
+Conway,MENIFEE RURAL,U.S. Senate,,LIB,Kenneth Cates,3,1,0,2
+Conway,AUSTIN,U.S. Senate,,DEM,Natalie James,8,4,0,4
+Conway,BENTLEY CITY,U.S. Senate,,DEM,Natalie James,40,19,1,20
+Conway,WELBOURNE WEST,U.S. Senate,,DEM,Natalie James,46,31,0,15
+Conway,ST. VINCENT,U.S. Senate,,DEM,Natalie James,51,23,9,19
+Conway,STEELE,U.S. Senate,,DEM,Natalie James,23,10,2,11
+Conway,MENIFEE CITY,U.S. Senate,,DEM,Natalie James,102,24,10,68
+Conway,HOWARD CITY,U.S. Senate,,DEM,Natalie James,109,36,31,42
+Conway,HIGGINS,U.S. Senate,,DEM,Natalie James,1,0,0,1
+Conway,CEDAR FALLS,U.S. Senate,,DEM,Natalie James,47,21,2,24
+Conway,GREGORY,U.S. Senate,,DEM,Natalie James,18,10,0,8
+Conway,GRIFFIN,U.S. Senate,,DEM,Natalie James,29,17,2,10
+Conway,LICK MTN.,U.S. Senate,,DEM,Natalie James,43,15,1,27
+Conway,WASHINGTON EAST,U.S. Senate,,DEM,Natalie James,75,41,3,31
+Conway,MCCLAREN,U.S. Senate,,DEM,Natalie James,6,0,4,2
+Conway,HOWARD RURAL,U.S. Senate,,DEM,Natalie James,76,37,25,14
+Conway,WHITE EAGLE,U.S. Senate,,DEM,Natalie James,4,3,0,1
+Conway,WARD 3,U.S. Senate,,DEM,Natalie James,164,92,19,53
+Conway,WARD 4,U.S. Senate,,DEM,Natalie James,187,136,16,35
+Conway,MARTIN,U.S. Senate,,DEM,Natalie James,2,2,0,0
+Conway,WARD 2,U.S. Senate,,DEM,Natalie James,165,98,22,45
+Conway,UNION,U.S. Senate,,DEM,Natalie James,78,34,7,37
+Conway,BENTLEY RURAL,U.S. Senate,,DEM,Natalie James,31,15,0,16
+Conway,WASHINGTON WEST,U.S. Senate,,DEM,Natalie James,40,22,5,13
+Conway,BIRD,U.S. Senate,,DEM,Natalie James,49,23,2,24
+Conway,CATHOLIC POINT,U.S. Senate,,DEM,Natalie James,43,22,2,19
+Conway,PETIT JEAN,U.S. Senate,,DEM,Natalie James,11,6,1,4
+Conway,NICHOLS,U.S. Senate,,DEM,Natalie James,44,18,4,22
+Conway,OLD HICKORY,U.S. Senate,,DEM,Natalie James,15,5,3,7
+Conway,WARD 1,U.S. Senate,,DEM,Natalie James,178,112,28,38
+Conway,WELBOURNE EAST,U.S. Senate,,DEM,Natalie James,151,112,9,30
+Conway,MENIFEE RURAL,U.S. Senate,,DEM,Natalie James,20,10,0,10
+Conway,AUSTIN,U.S. Congress District 02,,REP,Congressman French Hill,86,9,2,75
+Conway,BENTLEY CITY,U.S. Congress District 02,,REP,Congressman French Hill,205,71,1,133
+Conway,WELBOURNE WEST,U.S. Congress District 02,,REP,Congressman French Hill,166,77,2,87
+Conway,ST. VINCENT,U.S. Congress District 02,,REP,Congressman French Hill,192,70,5,117
+Conway,STEELE,U.S. Congress District 02,,REP,Congressman French Hill,158,36,4,118
+Conway,MENIFEE CITY,U.S. Congress District 02,,REP,Congressman French Hill,21,9,2,10
+Conway,HOWARD CITY,U.S. Congress District 02,,REP,Congressman French Hill,153,39,4,110
+Conway,HIGGINS,U.S. Congress District 02,,REP,Congressman French Hill,19,5,0,14
+Conway,CEDAR FALLS,U.S. Congress District 02,,REP,Congressman French Hill,105,26,2,77
+Conway,GREGORY,U.S. Congress District 02,,REP,Congressman French Hill,101,51,1,49
+Conway,GRIFFIN,U.S. Congress District 02,,REP,Congressman French Hill,104,41,0,63
+Conway,LICK MTN.,U.S. Congress District 02,,REP,Congressman French Hill,180,42,3,135
+Conway,WASHINGTON EAST,U.S. Congress District 02,,REP,Congressman French Hill,305,125,7,173
+Conway,MCCLAREN,U.S. Congress District 02,,REP,Congressman French Hill,61,28,0,33
+Conway,HOWARD RURAL,U.S. Congress District 02,,REP,Congressman French Hill,127,53,3,71
+Conway,WHITE EAGLE,U.S. Congress District 02,,REP,Congressman French Hill,11,3,0,8
+Conway,WARD 3,U.S. Congress District 02,,REP,Congressman French Hill,257,139,5,113
+Conway,WARD 4,U.S. Congress District 02,,REP,Congressman French Hill,364,255,7,102
+Conway,MARTIN,U.S. Congress District 02,,REP,Congressman French Hill,34,16,0,18
+Conway,WARD 2,U.S. Congress District 02,,REP,Congressman French Hill,234,141,7,86
+Conway,UNION,U.S. Congress District 02,,REP,Congressman French Hill,197,34,0,163
+Conway,BENTLEY RURAL,U.S. Congress District 02,,REP,Congressman French Hill,125,56,3,66
+Conway,WASHINGTON WEST,U.S. Congress District 02,,REP,Congressman French Hill,112,80,0,32
+Conway,BIRD,U.S. Congress District 02,,REP,Congressman French Hill,191,53,0,138
+Conway,CATHOLIC POINT,U.S. Congress District 02,,REP,Congressman French Hill,111,39,0,72
+Conway,PETIT JEAN,U.S. Congress District 02,,REP,Congressman French Hill,27,7,0,20
+Conway,NICHOLS,U.S. Congress District 02,,REP,Congressman French Hill,162,43,6,113
+Conway,OLD HICKORY,U.S. Congress District 02,,REP,Congressman French Hill,55,8,2,45
+Conway,WARD 1,U.S. Congress District 02,,REP,Congressman French Hill,266,167,6,93
+Conway,WELBOURNE EAST,U.S. Congress District 02,,REP,Congressman French Hill,398,261,3,134
+Conway,MENIFEE RURAL,U.S. Congress District 02,,REP,Congressman French Hill,36,14,0,22
+Conway,AUSTIN,U.S. Congress District 02,,DEM,Quintessa Hathaway,9,4,0,5
+Conway,BENTLEY CITY,U.S. Congress District 02,,DEM,Quintessa Hathaway,34,16,1,17
+Conway,WELBOURNE WEST,U.S. Congress District 02,,DEM,Quintessa Hathaway,46,30,0,16
+Conway,ST. VINCENT,U.S. Congress District 02,,DEM,Quintessa Hathaway,49,24,9,16
+Conway,STEELE,U.S. Congress District 02,,DEM,Quintessa Hathaway,21,9,1,11
+Conway,MENIFEE CITY,U.S. Congress District 02,,DEM,Quintessa Hathaway,104,24,10,70
+Conway,HOWARD CITY,U.S. Congress District 02,,DEM,Quintessa Hathaway,107,38,30,39
+Conway,HIGGINS,U.S. Congress District 02,,DEM,Quintessa Hathaway,2,0,0,2
+Conway,CEDAR FALLS,U.S. Congress District 02,,DEM,Quintessa Hathaway,46,20,2,24
+Conway,GREGORY,U.S. Congress District 02,,DEM,Quintessa Hathaway,13,6,0,7
+Conway,GRIFFIN,U.S. Congress District 02,,DEM,Quintessa Hathaway,30,18,2,10
+Conway,LICK MTN.,U.S. Congress District 02,,DEM,Quintessa Hathaway,36,11,0,25
+Conway,WASHINGTON EAST,U.S. Congress District 02,,DEM,Quintessa Hathaway,75,42,3,30
+Conway,MCCLAREN,U.S. Congress District 02,,DEM,Quintessa Hathaway,8,0,4,4
+Conway,HOWARD RURAL,U.S. Congress District 02,,DEM,Quintessa Hathaway,71,34,25,12
+Conway,WHITE EAGLE,U.S. Congress District 02,,DEM,Quintessa Hathaway,4,3,0,1
+Conway,WARD 3,U.S. Congress District 02,,DEM,Quintessa Hathaway,160,91,20,49
+Conway,WARD 4,U.S. Congress District 02,,DEM,Quintessa Hathaway,172,121,16,35
+Conway,MARTIN,U.S. Congress District 02,,DEM,Quintessa Hathaway,1,1,0,0
+Conway,WARD 2,U.S. Congress District 02,,DEM,Quintessa Hathaway,160,98,20,42
+Conway,UNION,U.S. Congress District 02,,DEM,Quintessa Hathaway,75,32,7,36
+Conway,BENTLEY RURAL,U.S. Congress District 02,,DEM,Quintessa Hathaway,31,15,0,16
+Conway,WASHINGTON WEST,U.S. Congress District 02,,DEM,Quintessa Hathaway,37,20,5,12
+Conway,BIRD,U.S. Congress District 02,,DEM,Quintessa Hathaway,43,20,2,21
+Conway,CATHOLIC POINT,U.S. Congress District 02,,DEM,Quintessa Hathaway,43,24,2,17
+Conway,PETIT JEAN,U.S. Congress District 02,,DEM,Quintessa Hathaway,11,6,2,3
+Conway,NICHOLS,U.S. Congress District 02,,DEM,Quintessa Hathaway,41,17,4,20
+Conway,OLD HICKORY,U.S. Congress District 02,,DEM,Quintessa Hathaway,13,5,2,6
+Conway,WARD 1,U.S. Congress District 02,,DEM,Quintessa Hathaway,172,107,28,37
+Conway,WELBOURNE EAST,U.S. Congress District 02,,DEM,Quintessa Hathaway,131,96,9,26
+Conway,MENIFEE RURAL,U.S. Congress District 02,,DEM,Quintessa Hathaway,22,12,0,10
+Conway,AUSTIN,U.S. Congress District 02,,LIB,Michael White,2,0,0,2
+Conway,BENTLEY CITY,U.S. Congress District 02,,LIB,Michael White,17,7,0,10
+Conway,WELBOURNE WEST,U.S. Congress District 02,,LIB,Michael White,10,4,0,6
+Conway,ST. VINCENT,U.S. Congress District 02,,LIB,Michael White,4,2,0,2
+Conway,STEELE,U.S. Congress District 02,,LIB,Michael White,9,6,0,3
+Conway,MENIFEE CITY,U.S. Congress District 02,,LIB,Michael White,0,0,0,0
+Conway,HOWARD CITY,U.S. Congress District 02,,LIB,Michael White,9,3,1,5
+Conway,HIGGINS,U.S. Congress District 02,,LIB,Michael White,1,0,0,1
+Conway,CEDAR FALLS,U.S. Congress District 02,,LIB,Michael White,6,2,0,4
+Conway,GREGORY,U.S. Congress District 02,,LIB,Michael White,11,4,0,7
+Conway,GRIFFIN,U.S. Congress District 02,,LIB,Michael White,6,0,0,6
+Conway,LICK MTN.,U.S. Congress District 02,,LIB,Michael White,6,1,0,5
+Conway,WASHINGTON EAST,U.S. Congress District 02,,LIB,Michael White,20,5,0,15
+Conway,MCCLAREN,U.S. Congress District 02,,LIB,Michael White,2,0,0,2
+Conway,HOWARD RURAL,U.S. Congress District 02,,LIB,Michael White,10,8,0,2
+Conway,WHITE EAGLE,U.S. Congress District 02,,LIB,Michael White,1,1,0,0
+Conway,WARD 3,U.S. Congress District 02,,LIB,Michael White,14,6,0,8
+Conway,WARD 4,U.S. Congress District 02,,LIB,Michael White,31,22,0,9
+Conway,MARTIN,U.S. Congress District 02,,LIB,Michael White,0,0,0,0
+Conway,WARD 2,U.S. Congress District 02,,LIB,Michael White,18,6,1,11
+Conway,UNION,U.S. Congress District 02,,LIB,Michael White,10,3,0,7
+Conway,BENTLEY RURAL,U.S. Congress District 02,,LIB,Michael White,7,2,0,5
+Conway,WASHINGTON WEST,U.S. Congress District 02,,LIB,Michael White,6,4,0,2
+Conway,BIRD,U.S. Congress District 02,,LIB,Michael White,10,4,1,5
+Conway,CATHOLIC POINT,U.S. Congress District 02,,LIB,Michael White,5,0,0,5
+Conway,PETIT JEAN,U.S. Congress District 02,,LIB,Michael White,2,0,0,2
+Conway,NICHOLS,U.S. Congress District 02,,LIB,Michael White,9,4,0,5
+Conway,OLD HICKORY,U.S. Congress District 02,,LIB,Michael White,1,0,0,1
+Conway,WARD 1,U.S. Congress District 02,,LIB,Michael White,20,12,0,8
+Conway,WELBOURNE EAST,U.S. Congress District 02,,LIB,Michael White,18,13,0,5
+Conway,MENIFEE RURAL,U.S. Congress District 02,,LIB,Michael White,2,0,0,2
+Conway,AUSTIN,Attorney General,,DEM,Jesse Gibson,10,4,0,6
+Conway,BENTLEY CITY,Attorney General,,DEM,Jesse Gibson,39,17,1,21
+Conway,WELBOURNE WEST,Attorney General,,DEM,Jesse Gibson,49,31,0,18
+Conway,ST. VINCENT,Attorney General,,DEM,Jesse Gibson,58,24,10,24
+Conway,STEELE,Attorney General,,DEM,Jesse Gibson,27,12,2,13
+Conway,MENIFEE CITY,Attorney General,,DEM,Jesse Gibson,103,24,10,69
+Conway,HOWARD CITY,Attorney General,,DEM,Jesse Gibson,122,40,31,51
+Conway,HIGGINS,Attorney General,,DEM,Jesse Gibson,2,0,0,2
+Conway,CEDAR FALLS,Attorney General,,DEM,Jesse Gibson,52,22,2,28
+Conway,GREGORY,Attorney General,,DEM,Jesse Gibson,14,9,0,5
+Conway,GRIFFIN,Attorney General,,DEM,Jesse Gibson,26,15,2,9
+Conway,LICK MTN.,Attorney General,,DEM,Jesse Gibson,46,13,2,31
+Conway,WASHINGTON EAST,Attorney General,,DEM,Jesse Gibson,91,47,4,40
+Conway,MCCLAREN,Attorney General,,DEM,Jesse Gibson,8,0,4,4
+Conway,HOWARD RURAL,Attorney General,,DEM,Jesse Gibson,78,39,25,14
+Conway,WHITE EAGLE,Attorney General,,DEM,Jesse Gibson,4,3,0,1
+Conway,WARD 3,Attorney General,,DEM,Jesse Gibson,180,101,20,59
+Conway,WARD 4,Attorney General,,DEM,Jesse Gibson,192,135,17,40
+Conway,MARTIN,Attorney General,,DEM,Jesse Gibson,2,2,0,0
+Conway,WARD 2,Attorney General,,DEM,Jesse Gibson,176,105,21,50
+Conway,UNION,Attorney General,,DEM,Jesse Gibson,83,36,6,41
+Conway,BENTLEY RURAL,Attorney General,,DEM,Jesse Gibson,36,17,0,19
+Conway,WASHINGTON WEST,Attorney General,,DEM,Jesse Gibson,44,26,5,13
+Conway,BIRD,Attorney General,,DEM,Jesse Gibson,55,24,3,28
+Conway,CATHOLIC POINT,Attorney General,,DEM,Jesse Gibson,44,21,2,21
+Conway,PETIT JEAN,Attorney General,,DEM,Jesse Gibson,11,6,1,4
+Conway,NICHOLS,Attorney General,,DEM,Jesse Gibson,51,20,4,27
+Conway,OLD HICKORY,Attorney General,,DEM,Jesse Gibson,15,4,3,8
+Conway,WARD 1,Attorney General,,DEM,Jesse Gibson,179,112,28,39
+Conway,WELBOURNE EAST,Attorney General,,DEM,Jesse Gibson,151,111,9,31
+Conway,MENIFEE RURAL,Attorney General,,DEM,Jesse Gibson,23,12,0,11
+Conway,AUSTIN,Attorney General,,REP,Lieutenant Governor Tim Griffin,86,9,2,75
+Conway,BENTLEY CITY,Attorney General,,REP,Lieutenant Governor Tim Griffin,220,78,1,141
+Conway,WELBOURNE WEST,Attorney General,,REP,Lieutenant Governor Tim Griffin,172,78,2,92
+Conway,ST. VINCENT,Attorney General,,REP,Lieutenant Governor Tim Griffin,189,72,4,113
+Conway,STEELE,Attorney General,,REP,Lieutenant Governor Tim Griffin,165,41,3,121
+Conway,MENIFEE CITY,Attorney General,,REP,Lieutenant Governor Tim Griffin,22,10,2,10
+Conway,HOWARD CITY,Attorney General,,REP,Lieutenant Governor Tim Griffin,153,41,4,108
+Conway,HIGGINS,Attorney General,,REP,Lieutenant Governor Tim Griffin,21,5,0,16
+Conway,CEDAR FALLS,Attorney General,,REP,Lieutenant Governor Tim Griffin,107,26,2,79
+Conway,GREGORY,Attorney General,,REP,Lieutenant Governor Tim Griffin,110,54,1,55
+Conway,GRIFFIN,Attorney General,,REP,Lieutenant Governor Tim Griffin,112,41,0,71
+Conway,LICK MTN.,Attorney General,,REP,Lieutenant Governor Tim Griffin,180,41,1,138
+Conway,WASHINGTON EAST,Attorney General,,REP,Lieutenant Governor Tim Griffin,315,126,7,182
+Conway,MCCLAREN,Attorney General,,REP,Lieutenant Governor Tim Griffin,65,28,0,37
+Conway,HOWARD RURAL,Attorney General,,REP,Lieutenant Governor Tim Griffin,135,56,3,76
+Conway,WHITE EAGLE,Attorney General,,REP,Lieutenant Governor Tim Griffin,12,4,0,8
+Conway,WARD 3,Attorney General,,REP,Lieutenant Governor Tim Griffin,260,141,5,114
+Conway,WARD 4,Attorney General,,REP,Lieutenant Governor Tim Griffin,380,269,6,105
+Conway,MARTIN,Attorney General,,REP,Lieutenant Governor Tim Griffin,35,17,0,18
+Conway,WARD 2,Attorney General,,REP,Lieutenant Governor Tim Griffin,238,143,7,88
+Conway,UNION,Attorney General,,REP,Lieutenant Governor Tim Griffin,205,35,0,170
+Conway,BENTLEY RURAL,Attorney General,,REP,Lieutenant Governor Tim Griffin,131,59,3,69
+Conway,WASHINGTON WEST,Attorney General,,REP,Lieutenant Governor Tim Griffin,117,79,0,38
+Conway,BIRD,Attorney General,,REP,Lieutenant Governor Tim Griffin,197,54,0,143
+Conway,CATHOLIC POINT,Attorney General,,REP,Lieutenant Governor Tim Griffin,117,41,0,76
+Conway,PETIT JEAN,Attorney General,,REP,Lieutenant Governor Tim Griffin,30,7,1,22
+Conway,NICHOLS,Attorney General,,REP,Lieutenant Governor Tim Griffin,166,46,6,114
+Conway,OLD HICKORY,Attorney General,,REP,Lieutenant Governor Tim Griffin,55,9,1,45
+Conway,WARD 1,Attorney General,,REP,Lieutenant Governor Tim Griffin,291,181,6,104
+Conway,WELBOURNE EAST,Attorney General,,REP,Lieutenant Governor Tim Griffin,406,265,3,138
+Conway,MENIFEE RURAL,Attorney General,,REP,Lieutenant Governor Tim Griffin,37,14,0,23
+Conway,AUSTIN,Auditor of State,,LIB,Simeon Snow,1,0,0,1
+Conway,BENTLEY CITY,Auditor of State,,LIB,Simeon Snow,12,5,0,7
+Conway,WELBOURNE WEST,Auditor of State,,LIB,Simeon Snow,9,4,0,5
+Conway,ST. VINCENT,Auditor of State,,LIB,Simeon Snow,8,2,0,6
+Conway,STEELE,Auditor of State,,LIB,Simeon Snow,5,2,0,3
+Conway,MENIFEE CITY,Auditor of State,,LIB,Simeon Snow,5,2,0,3
+Conway,HOWARD CITY,Auditor of State,,LIB,Simeon Snow,10,3,0,7
+Conway,HIGGINS,Auditor of State,,LIB,Simeon Snow,1,0,0,1
+Conway,CEDAR FALLS,Auditor of State,,LIB,Simeon Snow,8,2,0,6
+Conway,GREGORY,Auditor of State,,LIB,Simeon Snow,4,1,0,3
+Conway,GRIFFIN,Auditor of State,,LIB,Simeon Snow,4,1,0,3
+Conway,LICK MTN.,Auditor of State,,LIB,Simeon Snow,6,3,0,3
+Conway,WASHINGTON EAST,Auditor of State,,LIB,Simeon Snow,18,11,0,7
+Conway,MCCLAREN,Auditor of State,,LIB,Simeon Snow,0,0,0,0
+Conway,HOWARD RURAL,Auditor of State,,LIB,Simeon Snow,8,4,0,4
+Conway,WHITE EAGLE,Auditor of State,,LIB,Simeon Snow,0,0,0,0
+Conway,WARD 3,Auditor of State,,LIB,Simeon Snow,29,14,0,15
+Conway,WARD 4,Auditor of State,,LIB,Simeon Snow,24,13,0,11
+Conway,MARTIN,Auditor of State,,LIB,Simeon Snow,0,0,0,0
+Conway,WARD 2,Auditor of State,,LIB,Simeon Snow,24,12,0,12
+Conway,UNION,Auditor of State,,LIB,Simeon Snow,10,2,0,8
+Conway,BENTLEY RURAL,Auditor of State,,LIB,Simeon Snow,6,1,0,5
+Conway,WASHINGTON WEST,Auditor of State,,LIB,Simeon Snow,5,2,0,3
+Conway,BIRD,Auditor of State,,LIB,Simeon Snow,10,2,1,7
+Conway,CATHOLIC POINT,Auditor of State,,LIB,Simeon Snow,7,2,0,5
+Conway,PETIT JEAN,Auditor of State,,LIB,Simeon Snow,3,1,2,0
+Conway,NICHOLS,Auditor of State,,LIB,Simeon Snow,9,5,0,4
+Conway,OLD HICKORY,Auditor of State,,LIB,Simeon Snow,3,0,0,3
+Conway,WARD 1,Auditor of State,,LIB,Simeon Snow,17,12,1,4
+Conway,WELBOURNE EAST,Auditor of State,,LIB,Simeon Snow,18,11,0,7
+Conway,MENIFEE RURAL,Auditor of State,,LIB,Simeon Snow,3,0,0,3
+Conway,AUSTIN,Auditor of State,,DEM,Diamond Arnold-Johnson,13,4,0,9
+Conway,BENTLEY CITY,Auditor of State,,DEM,Diamond Arnold-Johnson,30,14,1,15
+Conway,WELBOURNE WEST,Auditor of State,,DEM,Diamond Arnold-Johnson,47,31,0,16
+Conway,ST. VINCENT,Auditor of State,,DEM,Diamond Arnold-Johnson,53,23,9,21
+Conway,STEELE,Auditor of State,,DEM,Diamond Arnold-Johnson,25,11,2,12
+Conway,MENIFEE CITY,Auditor of State,,DEM,Diamond Arnold-Johnson,96,21,10,65
+Conway,HOWARD CITY,Auditor of State,,DEM,Diamond Arnold-Johnson,114,37,31,46
+Conway,HIGGINS,Auditor of State,,DEM,Diamond Arnold-Johnson,2,0,0,2
+Conway,CEDAR FALLS,Auditor of State,,DEM,Diamond Arnold-Johnson,46,20,2,24
+Conway,GREGORY,Auditor of State,,DEM,Diamond Arnold-Johnson,19,8,0,11
+Conway,GRIFFIN,Auditor of State,,DEM,Diamond Arnold-Johnson,28,15,2,11
+Conway,LICK MTN.,Auditor of State,,DEM,Diamond Arnold-Johnson,41,12,2,27
+Conway,WASHINGTON EAST,Auditor of State,,DEM,Diamond Arnold-Johnson,80,39,4,37
+Conway,MCCLAREN,Auditor of State,,DEM,Diamond Arnold-Johnson,8,0,4,4
+Conway,HOWARD RURAL,Auditor of State,,DEM,Diamond Arnold-Johnson,76,35,25,16
+Conway,WHITE EAGLE,Auditor of State,,DEM,Diamond Arnold-Johnson,4,3,0,1
+Conway,WARD 3,Auditor of State,,DEM,Diamond Arnold-Johnson,161,91,20,50
+Conway,WARD 4,Auditor of State,,DEM,Diamond Arnold-Johnson,176,129,16,31
+Conway,MARTIN,Auditor of State,,DEM,Diamond Arnold-Johnson,2,2,0,0
+Conway,WARD 2,Auditor of State,,DEM,Diamond Arnold-Johnson,153,92,21,40
+Conway,UNION,Auditor of State,,DEM,Diamond Arnold-Johnson,73,32,7,34
+Conway,BENTLEY RURAL,Auditor of State,,DEM,Diamond Arnold-Johnson,28,13,0,15
+Conway,WASHINGTON WEST,Auditor of State,,DEM,Diamond Arnold-Johnson,44,24,5,15
+Conway,BIRD,Auditor of State,,DEM,Diamond Arnold-Johnson,45,20,2,23
+Conway,CATHOLIC POINT,Auditor of State,,DEM,Diamond Arnold-Johnson,46,20,2,24
+Conway,PETIT JEAN,Auditor of State,,DEM,Diamond Arnold-Johnson,10,5,0,5
+Conway,NICHOLS,Auditor of State,,DEM,Diamond Arnold-Johnson,42,16,4,22
+Conway,OLD HICKORY,Auditor of State,,DEM,Diamond Arnold-Johnson,16,6,3,7
+Conway,WARD 1,Auditor of State,,DEM,Diamond Arnold-Johnson,175,105,27,43
+Conway,WELBOURNE EAST,Auditor of State,,DEM,Diamond Arnold-Johnson,137,105,9,23
+Conway,MENIFEE RURAL,Auditor of State,,DEM,Diamond Arnold-Johnson,21,12,0,9
+Conway,AUSTIN,Auditor of State,,REP,Treasurer of State Dennis Milligan,81,9,2,70
+Conway,BENTLEY CITY,Auditor of State,,REP,Treasurer of State Dennis Milligan,216,76,1,139
+Conway,WELBOURNE WEST,Auditor of State,,REP,Treasurer of State Dennis Milligan,166,74,2,90
+Conway,ST. VINCENT,Auditor of State,,REP,Treasurer of State Dennis Milligan,186,72,5,109
+Conway,STEELE,Auditor of State,,REP,Treasurer of State Dennis Milligan,161,40,3,118
+Conway,MENIFEE CITY,Auditor of State,,REP,Treasurer of State Dennis Milligan,17,10,0,7
+Conway,HOWARD CITY,Auditor of State,,REP,Treasurer of State Dennis Milligan,144,40,4,100
+Conway,HIGGINS,Auditor of State,,REP,Treasurer of State Dennis Milligan,19,5,0,14
+Conway,CEDAR FALLS,Auditor of State,,REP,Treasurer of State Dennis Milligan,105,27,2,76
+Conway,GREGORY,Auditor of State,,REP,Treasurer of State Dennis Milligan,103,53,1,49
+Conway,GRIFFIN,Auditor of State,,REP,Treasurer of State Dennis Milligan,106,40,0,66
+Conway,LICK MTN.,Auditor of State,,REP,Treasurer of State Dennis Milligan,174,40,1,133
+Conway,WASHINGTON EAST,Auditor of State,,REP,Treasurer of State Dennis Milligan,307,123,7,177
+Conway,MCCLAREN,Auditor of State,,REP,Treasurer of State Dennis Milligan,66,28,0,38
+Conway,HOWARD RURAL,Auditor of State,,REP,Treasurer of State Dennis Milligan,127,57,3,67
+Conway,WHITE EAGLE,Auditor of State,,REP,Treasurer of State Dennis Milligan,12,4,0,8
+Conway,WARD 3,Auditor of State,,REP,Treasurer of State Dennis Milligan,250,137,5,108
+Conway,WARD 4,Auditor of State,,REP,Treasurer of State Dennis Milligan,366,256,7,103
+Conway,MARTIN,Auditor of State,,REP,Treasurer of State Dennis Milligan,35,17,0,18
+Conway,WARD 2,Auditor of State,,REP,Treasurer of State Dennis Milligan,229,139,7,83
+Conway,UNION,Auditor of State,,REP,Treasurer of State Dennis Milligan,199,35,0,164
+Conway,BENTLEY RURAL,Auditor of State,,REP,Treasurer of State Dennis Milligan,127,59,3,65
+Conway,WASHINGTON WEST,Auditor of State,,REP,Treasurer of State Dennis Milligan,111,77,0,34
+Conway,BIRD,Auditor of State,,REP,Treasurer of State Dennis Milligan,193,56,0,137
+Conway,CATHOLIC POINT,Auditor of State,,REP,Treasurer of State Dennis Milligan,107,41,0,66
+Conway,PETIT JEAN,Auditor of State,,REP,Treasurer of State Dennis Milligan,27,7,0,20
+Conway,NICHOLS,Auditor of State,,REP,Treasurer of State Dennis Milligan,160,43,6,111
+Conway,OLD HICKORY,Auditor of State,,REP,Treasurer of State Dennis Milligan,49,8,1,40
+Conway,WARD 1,Auditor of State,,REP,Treasurer of State Dennis Milligan,271,171,6,94
+Conway,WELBOURNE EAST,Auditor of State,,REP,Treasurer of State Dennis Milligan,393,253,3,137
+Conway,MENIFEE RURAL,Auditor of State,,REP,Treasurer of State Dennis Milligan,36,14,0,22
+Conway,AUSTIN,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,86,10,2,74
+Conway,BENTLEY CITY,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,216,74,0,142
+Conway,WELBOURNE WEST,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,175,78,2,95
+Conway,ST. VINCENT,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,191,73,5,113
+Conway,STEELE,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,158,42,3,113
+Conway,MENIFEE CITY,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,20,10,0,10
+Conway,HOWARD CITY,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,159,42,4,113
+Conway,HIGGINS,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,21,5,0,16
+Conway,CEDAR FALLS,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,112,28,2,82
+Conway,GREGORY,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,107,54,1,52
+Conway,GRIFFIN,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,110,40,0,70
+Conway,LICK MTN.,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,177,43,1,133
+Conway,WASHINGTON EAST,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,315,124,7,184
+Conway,MCCLAREN,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,64,28,0,36
+Conway,HOWARD RURAL,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,132,57,3,72
+Conway,WHITE EAGLE,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,12,4,0,8
+Conway,WARD 3,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,269,147,6,116
+Conway,WARD 4,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,377,268,5,104
+Conway,MARTIN,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,34,17,0,17
+Conway,WARD 2,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,231,138,7,86
+Conway,UNION,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,200,37,0,163
+Conway,BENTLEY RURAL,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,132,59,3,70
+Conway,WASHINGTON WEST,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,115,79,0,36
+Conway,BIRD,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,195,55,1,139
+Conway,CATHOLIC POINT,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,110,38,0,72
+Conway,PETIT JEAN,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,26,7,0,19
+Conway,NICHOLS,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,166,44,6,116
+Conway,OLD HICKORY,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,50,7,1,42
+Conway,WARD 1,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,287,177,7,103
+Conway,WELBOURNE EAST,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,404,264,3,137
+Conway,MENIFEE RURAL,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,38,14,0,24
+Conway,AUSTIN,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,9,3,0,6
+Conway,BENTLEY CITY,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,39,18,2,19
+Conway,WELBOURNE WEST,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,45,30,0,15
+Conway,ST. VINCENT,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,49,22,9,18
+Conway,STEELE,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,28,10,2,16
+Conway,MENIFEE CITY,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,101,25,12,64
+Conway,HOWARD CITY,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,110,39,31,40
+Conway,HIGGINS,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,2,0,0,2
+Conway,CEDAR FALLS,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,45,21,2,22
+Conway,GREGORY,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,17,7,0,10
+Conway,GRIFFIN,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,28,16,2,10
+Conway,LICK MTN.,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,41,11,2,28
+Conway,WASHINGTON EAST,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,81,42,4,35
+Conway,MCCLAREN,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,8,0,4,4
+Conway,HOWARD RURAL,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,79,38,25,16
+Conway,WHITE EAGLE,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,4,3,0,1
+Conway,WARD 3,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,166,92,19,55
+Conway,WARD 4,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,190,132,18,40
+Conway,MARTIN,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,2,1,0,1
+Conway,WARD 2,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,171,102,21,48
+Conway,UNION,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,75,28,7,40
+Conway,BENTLEY RURAL,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,31,15,0,16
+Conway,WASHINGTON WEST,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,45,25,5,15
+Conway,BIRD,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,50,20,2,28
+Conway,CATHOLIC POINT,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,47,23,1,23
+Conway,PETIT JEAN,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,12,6,2,4
+Conway,NICHOLS,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,43,19,4,20
+Conway,OLD HICKORY,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,17,6,3,8
+Conway,WARD 1,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,174,110,27,37
+Conway,WELBOURNE EAST,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,137,101,9,27
+Conway,MENIFEE RURAL,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,22,12,0,10
+Conway,AUSTIN,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,0,0,3
+Conway,BENTLEY CITY,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,1,0,4
+Conway,WELBOURNE WEST,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,1,0,2
+Conway,ST. VINCENT,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,1,0,1
+Conway,STEELE,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,3,0,0
+Conway,MENIFEE CITY,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Conway,HOWARD CITY,Governor,,LIB,"Ricky Dale Harrington, Jr.",4,2,0,2
+Conway,HIGGINS,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Conway,CEDAR FALLS,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Conway,GREGORY,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Conway,GRIFFIN,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,0,0,3
+Conway,LICK MTN.,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,1,0,2
+Conway,WASHINGTON EAST,Governor,,LIB,"Ricky Dale Harrington, Jr.",11,2,0,9
+Conway,MCCLAREN,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,0,0,2
+Conway,HOWARD RURAL,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,1,0,0
+Conway,WHITE EAGLE,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Conway,WARD 3,Governor,,LIB,"Ricky Dale Harrington, Jr.",14,5,0,9
+Conway,WARD 4,Governor,,LIB,"Ricky Dale Harrington, Jr.",10,5,0,5
+Conway,MARTIN,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,1,0,0
+Conway,WARD 2,Governor,,LIB,"Ricky Dale Harrington, Jr.",6,3,0,3
+Conway,UNION,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,0,0,2
+Conway,BENTLEY RURAL,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,1,0,1
+Conway,WASHINGTON WEST,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,2,0,1
+Conway,BIRD,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,0,1,2
+Conway,CATHOLIC POINT,Governor,,LIB,"Ricky Dale Harrington, Jr.",4,1,0,3
+Conway,PETIT JEAN,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Conway,NICHOLS,Governor,,LIB,"Ricky Dale Harrington, Jr.",4,2,0,2
+Conway,OLD HICKORY,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Conway,WARD 1,Governor,,LIB,"Ricky Dale Harrington, Jr.",7,4,0,3
+Conway,WELBOURNE EAST,Governor,,LIB,"Ricky Dale Harrington, Jr.",7,4,0,3
+Conway,MENIFEE RURAL,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Conway,AUSTIN,Governor,,REP,Sarah Huckabee Sanders,84,9,2,73
+Conway,BENTLEY CITY,Governor,,REP,Sarah Huckabee Sanders,213,74,1,138
+Conway,WELBOURNE WEST,Governor,,REP,Sarah Huckabee Sanders,157,70,2,85
+Conway,ST. VINCENT,Governor,,REP,Sarah Huckabee Sanders,181,67,3,111
+Conway,STEELE,Governor,,REP,Sarah Huckabee Sanders,161,40,3,118
+Conway,MENIFEE CITY,Governor,,REP,Sarah Huckabee Sanders,17,10,0,7
+Conway,HOWARD CITY,Governor,,REP,Sarah Huckabee Sanders,152,36,4,112
+Conway,HIGGINS,Governor,,REP,Sarah Huckabee Sanders,19,5,0,14
+Conway,CEDAR FALLS,Governor,,REP,Sarah Huckabee Sanders,104,25,2,77
+Conway,GREGORY,Governor,,REP,Sarah Huckabee Sanders,105,53,1,51
+Conway,GRIFFIN,Governor,,REP,Sarah Huckabee Sanders,108,39,0,69
+Conway,LICK MTN.,Governor,,REP,Sarah Huckabee Sanders,181,41,3,137
+Conway,WASHINGTON EAST,Governor,,REP,Sarah Huckabee Sanders,303,126,7,170
+Conway,MCCLAREN,Governor,,REP,Sarah Huckabee Sanders,64,27,0,37
+Conway,HOWARD RURAL,Governor,,REP,Sarah Huckabee Sanders,133,58,3,72
+Conway,WHITE EAGLE,Governor,,REP,Sarah Huckabee Sanders,11,4,0,7
+Conway,WARD 3,Governor,,REP,Sarah Huckabee Sanders,249,137,5,107
+Conway,WARD 4,Governor,,REP,Sarah Huckabee Sanders,340,237,6,97
+Conway,MARTIN,Governor,,REP,Sarah Huckabee Sanders,35,17,0,18
+Conway,WARD 2,Governor,,REP,Sarah Huckabee Sanders,227,133,6,88
+Conway,UNION,Governor,,REP,Sarah Huckabee Sanders,199,34,0,165
+Conway,BENTLEY RURAL,Governor,,REP,Sarah Huckabee Sanders,128,54,3,71
+Conway,WASHINGTON WEST,Governor,,REP,Sarah Huckabee Sanders,110,73,0,37
+Conway,BIRD,Governor,,REP,Sarah Huckabee Sanders,196,55,0,141
+Conway,CATHOLIC POINT,Governor,,REP,Sarah Huckabee Sanders,103,36,0,67
+Conway,PETIT JEAN,Governor,,REP,Sarah Huckabee Sanders,25,6,0,19
+Conway,NICHOLS,Governor,,REP,Sarah Huckabee Sanders,155,42,6,107
+Conway,OLD HICKORY,Governor,,REP,Sarah Huckabee Sanders,51,9,0,42
+Conway,WARD 1,Governor,,REP,Sarah Huckabee Sanders,257,157,5,95
+Conway,WELBOURNE EAST,Governor,,REP,Sarah Huckabee Sanders,376,240,3,133
+Conway,MENIFEE RURAL,Governor,,REP,Sarah Huckabee Sanders,37,14,0,23
+Conway,AUSTIN,Governor,,DEM,Chris Jones,11,4,0,7
+Conway,BENTLEY CITY,Governor,,DEM,Chris Jones,44,21,1,22
+Conway,WELBOURNE WEST,Governor,,DEM,Chris Jones,64,40,0,24
+Conway,ST. VINCENT,Governor,,DEM,Chris Jones,65,29,11,25
+Conway,STEELE,Governor,,DEM,Chris Jones,28,10,2,16
+Conway,MENIFEE CITY,Governor,,DEM,Chris Jones,109,26,12,71
+Conway,HOWARD CITY,Governor,,DEM,Chris Jones,121,43,31,47
+Conway,HIGGINS,Governor,,DEM,Chris Jones,4,0,0,4
+Conway,CEDAR FALLS,Governor,,DEM,Chris Jones,56,24,2,30
+Conway,GREGORY,Governor,,DEM,Chris Jones,22,10,0,12
+Conway,GRIFFIN,Governor,,DEM,Chris Jones,32,19,2,11
+Conway,LICK MTN.,Governor,,DEM,Chris Jones,46,15,0,31
+Conway,WASHINGTON EAST,Governor,,DEM,Chris Jones,101,50,4,47
+Conway,MCCLAREN,Governor,,DEM,Chris Jones,8,1,4,3
+Conway,HOWARD RURAL,Governor,,DEM,Chris Jones,82,38,25,19
+Conway,WHITE EAGLE,Governor,,DEM,Chris Jones,5,3,0,2
+Conway,WARD 3,Governor,,DEM,Chris Jones,181,102,20,59
+Conway,WARD 4,Governor,,DEM,Chris Jones,229,168,17,44
+Conway,MARTIN,Governor,,DEM,Chris Jones,1,1,0,0
+Conway,WARD 2,Governor,,DEM,Chris Jones,184,115,22,47
+Conway,UNION,Governor,,DEM,Chris Jones,89,37,7,45
+Conway,BENTLEY RURAL,Governor,,DEM,Chris Jones,36,21,0,15
+Conway,WASHINGTON WEST,Governor,,DEM,Chris Jones,49,30,5,14
+Conway,BIRD,Governor,,DEM,Chris Jones,56,24,2,30
+Conway,CATHOLIC POINT,Governor,,DEM,Chris Jones,56,26,2,28
+Conway,PETIT JEAN,Governor,,DEM,Chris Jones,15,7,2,6
+Conway,NICHOLS,Governor,,DEM,Chris Jones,61,21,4,36
+Conway,OLD HICKORY,Governor,,DEM,Chris Jones,17,5,2,10
+Conway,WARD 1,Governor,,DEM,Chris Jones,206,133,29,44
+Conway,WELBOURNE EAST,Governor,,DEM,Chris Jones,174,130,9,35
+Conway,MENIFEE RURAL,Governor,,DEM,Chris Jones,24,12,0,12
+Conway,AUSTIN,Lieutenant Governor,,DEM,Kelly Ross Krout,8,4,0,4
+Conway,BENTLEY CITY,Lieutenant Governor,,DEM,Kelly Ross Krout,43,19,1,23
+Conway,WELBOURNE WEST,Lieutenant Governor,,DEM,Kelly Ross Krout,58,37,0,21
+Conway,ST. VINCENT,Lieutenant Governor,,DEM,Kelly Ross Krout,60,27,10,23
+Conway,STEELE,Lieutenant Governor,,DEM,Kelly Ross Krout,27,10,3,14
+Conway,MENIFEE CITY,Lieutenant Governor,,DEM,Kelly Ross Krout,103,25,10,68
+Conway,HOWARD CITY,Lieutenant Governor,,DEM,Kelly Ross Krout,112,37,31,44
+Conway,HIGGINS,Lieutenant Governor,,DEM,Kelly Ross Krout,2,0,0,2
+Conway,CEDAR FALLS,Lieutenant Governor,,DEM,Kelly Ross Krout,51,24,2,25
+Conway,GREGORY,Lieutenant Governor,,DEM,Kelly Ross Krout,17,8,0,9
+Conway,GRIFFIN,Lieutenant Governor,,DEM,Kelly Ross Krout,27,17,2,8
+Conway,LICK MTN.,Lieutenant Governor,,DEM,Kelly Ross Krout,43,14,0,29
+Conway,WASHINGTON EAST,Lieutenant Governor,,DEM,Kelly Ross Krout,84,46,3,35
+Conway,MCCLAREN,Lieutenant Governor,,DEM,Kelly Ross Krout,8,0,4,4
+Conway,HOWARD RURAL,Lieutenant Governor,,DEM,Kelly Ross Krout,79,38,25,16
+Conway,WHITE EAGLE,Lieutenant Governor,,DEM,Kelly Ross Krout,4,3,0,1
+Conway,WARD 3,Lieutenant Governor,,DEM,Kelly Ross Krout,173,98,19,56
+Conway,WARD 4,Lieutenant Governor,,DEM,Kelly Ross Krout,199,143,16,40
+Conway,MARTIN,Lieutenant Governor,,DEM,Kelly Ross Krout,3,2,0,1
+Conway,WARD 2,Lieutenant Governor,,DEM,Kelly Ross Krout,176,105,21,50
+Conway,UNION,Lieutenant Governor,,DEM,Kelly Ross Krout,83,32,7,44
+Conway,BENTLEY RURAL,Lieutenant Governor,,DEM,Kelly Ross Krout,32,16,0,16
+Conway,WASHINGTON WEST,Lieutenant Governor,,DEM,Kelly Ross Krout,42,24,4,14
+Conway,BIRD,Lieutenant Governor,,DEM,Kelly Ross Krout,48,20,2,26
+Conway,CATHOLIC POINT,Lieutenant Governor,,DEM,Kelly Ross Krout,45,21,2,22
+Conway,PETIT JEAN,Lieutenant Governor,,DEM,Kelly Ross Krout,11,6,0,5
+Conway,NICHOLS,Lieutenant Governor,,DEM,Kelly Ross Krout,44,17,4,23
+Conway,OLD HICKORY,Lieutenant Governor,,DEM,Kelly Ross Krout,16,4,3,9
+Conway,WARD 1,Lieutenant Governor,,DEM,Kelly Ross Krout,185,112,28,45
+Conway,WELBOURNE EAST,Lieutenant Governor,,DEM,Kelly Ross Krout,151,115,9,27
+Conway,MENIFEE RURAL,Lieutenant Governor,,DEM,Kelly Ross Krout,21,12,0,9
+Conway,AUSTIN,Lieutenant Governor,,LIB,Frank Gilbert,6,2,0,4
+Conway,BENTLEY CITY,Lieutenant Governor,,LIB,Frank Gilbert,12,6,0,6
+Conway,WELBOURNE WEST,Lieutenant Governor,,LIB,Frank Gilbert,13,3,0,10
+Conway,ST. VINCENT,Lieutenant Governor,,LIB,Frank Gilbert,7,3,0,4
+Conway,STEELE,Lieutenant Governor,,LIB,Frank Gilbert,7,5,0,2
+Conway,MENIFEE CITY,Lieutenant Governor,,LIB,Frank Gilbert,1,1,0,0
+Conway,HOWARD CITY,Lieutenant Governor,,LIB,Frank Gilbert,9,1,0,8
+Conway,HIGGINS,Lieutenant Governor,,LIB,Frank Gilbert,1,0,0,1
+Conway,CEDAR FALLS,Lieutenant Governor,,LIB,Frank Gilbert,7,0,0,7
+Conway,GREGORY,Lieutenant Governor,,LIB,Frank Gilbert,4,1,0,3
+Conway,GRIFFIN,Lieutenant Governor,,LIB,Frank Gilbert,6,0,0,6
+Conway,LICK MTN.,Lieutenant Governor,,LIB,Frank Gilbert,12,5,2,5
+Conway,WASHINGTON EAST,Lieutenant Governor,,LIB,Frank Gilbert,20,6,0,14
+Conway,MCCLAREN,Lieutenant Governor,,LIB,Frank Gilbert,4,1,0,3
+Conway,HOWARD RURAL,Lieutenant Governor,,LIB,Frank Gilbert,2,2,0,0
+Conway,WHITE EAGLE,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0
+Conway,WARD 3,Lieutenant Governor,,LIB,Frank Gilbert,17,9,0,8
+Conway,WARD 4,Lieutenant Governor,,LIB,Frank Gilbert,28,22,0,6
+Conway,MARTIN,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0
+Conway,WARD 2,Lieutenant Governor,,LIB,Frank Gilbert,10,5,0,5
+Conway,UNION,Lieutenant Governor,,LIB,Frank Gilbert,12,3,0,9
+Conway,BENTLEY RURAL,Lieutenant Governor,,LIB,Frank Gilbert,4,2,0,2
+Conway,WASHINGTON WEST,Lieutenant Governor,,LIB,Frank Gilbert,3,1,0,2
+Conway,BIRD,Lieutenant Governor,,LIB,Frank Gilbert,14,4,1,9
+Conway,CATHOLIC POINT,Lieutenant Governor,,LIB,Frank Gilbert,8,2,0,6
+Conway,PETIT JEAN,Lieutenant Governor,,LIB,Frank Gilbert,4,0,2,2
+Conway,NICHOLS,Lieutenant Governor,,LIB,Frank Gilbert,7,4,0,3
+Conway,OLD HICKORY,Lieutenant Governor,,LIB,Frank Gilbert,1,1,0,0
+Conway,WARD 1,Lieutenant Governor,,LIB,Frank Gilbert,22,19,0,3
+Conway,WELBOURNE EAST,Lieutenant Governor,,LIB,Frank Gilbert,20,12,0,8
+Conway,MENIFEE RURAL,Lieutenant Governor,,LIB,Frank Gilbert,1,0,0,1
+Conway,AUSTIN,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,83,7,2,74
+Conway,BENTLEY CITY,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,204,69,1,134
+Conway,WELBOURNE WEST,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,152,70,2,80
+Conway,ST. VINCENT,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,180,67,4,109
+Conway,STEELE,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,154,38,2,114
+Conway,MENIFEE CITY,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,22,9,2,11
+Conway,HOWARD CITY,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,155,43,4,108
+Conway,HIGGINS,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,20,5,0,15
+Conway,CEDAR FALLS,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,103,25,2,76
+Conway,GREGORY,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,105,53,1,51
+Conway,GRIFFIN,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,109,40,0,69
+Conway,LICK MTN.,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,170,38,1,131
+Conway,WASHINGTON EAST,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,307,122,8,177
+Conway,MCCLAREN,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,62,27,0,35
+Conway,HOWARD RURAL,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,131,53,3,75
+Conway,WHITE EAGLE,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,12,4,0,8
+Conway,WARD 3,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,253,136,6,111
+Conway,WARD 4,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,347,239,7,101
+Conway,MARTIN,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,34,17,0,17
+Conway,WARD 2,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,224,135,7,82
+Conway,UNION,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,191,35,0,156
+Conway,BENTLEY RURAL,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,131,57,3,71
+Conway,WASHINGTON WEST,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,116,80,1,35
+Conway,BIRD,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,191,55,0,136
+Conway,CATHOLIC POINT,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,109,40,0,69
+Conway,PETIT JEAN,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,25,7,0,18
+Conway,NICHOLS,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,165,44,6,115
+Conway,OLD HICKORY,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,51,7,1,43
+Conway,WARD 1,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,262,162,6,94
+Conway,WELBOURNE EAST,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,380,244,3,133
+Conway,MENIFEE RURAL,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,38,14,0,24
+Conway,AUSTIN,Secretary of State,,REP,Secretary of State John Thurston,84,9,2,73
+Conway,BENTLEY CITY,Secretary of State,,REP,Secretary of State John Thurston,217,75,0,142
+Conway,WELBOURNE WEST,Secretary of State,,REP,Secretary of State John Thurston,176,79,2,95
+Conway,ST. VINCENT,Secretary of State,,REP,Secretary of State John Thurston,190,71,5,114
+Conway,STEELE,Secretary of State,,REP,Secretary of State John Thurston,162,42,2,118
+Conway,MENIFEE CITY,Secretary of State,,REP,Secretary of State John Thurston,16,11,0,5
+Conway,HOWARD CITY,Secretary of State,,REP,Secretary of State John Thurston,159,42,4,113
+Conway,HIGGINS,Secretary of State,,REP,Secretary of State John Thurston,20,5,0,15
+Conway,CEDAR FALLS,Secretary of State,,REP,Secretary of State John Thurston,110,29,2,79
+Conway,GREGORY,Secretary of State,,REP,Secretary of State John Thurston,106,53,1,52
+Conway,GRIFFIN,Secretary of State,,REP,Secretary of State John Thurston,109,39,0,70
+Conway,LICK MTN.,Secretary of State,,REP,Secretary of State John Thurston,178,41,3,134
+Conway,WASHINGTON EAST,Secretary of State,,REP,Secretary of State John Thurston,313,126,8,179
+Conway,MCCLAREN,Secretary of State,,REP,Secretary of State John Thurston,61,28,0,33
+Conway,HOWARD RURAL,Secretary of State,,REP,Secretary of State John Thurston,130,55,3,72
+Conway,WHITE EAGLE,Secretary of State,,REP,Secretary of State John Thurston,12,4,0,8
+Conway,WARD 3,Secretary of State,,REP,Secretary of State John Thurston,269,146,6,117
+Conway,WARD 4,Secretary of State,,REP,Secretary of State John Thurston,364,250,5,109
+Conway,MARTIN,Secretary of State,,REP,Secretary of State John Thurston,35,17,0,18
+Conway,WARD 2,Secretary of State,,REP,Secretary of State John Thurston,232,137,7,88
+Conway,UNION,Secretary of State,,REP,Secretary of State John Thurston,206,38,0,168
+Conway,BENTLEY RURAL,Secretary of State,,REP,Secretary of State John Thurston,133,60,3,70
+Conway,WASHINGTON WEST,Secretary of State,,REP,Secretary of State John Thurston,115,78,0,37
+Conway,BIRD,Secretary of State,,REP,Secretary of State John Thurston,194,54,0,140
+Conway,CATHOLIC POINT,Secretary of State,,REP,Secretary of State John Thurston,109,36,0,73
+Conway,PETIT JEAN,Secretary of State,,REP,Secretary of State John Thurston,27,7,0,20
+Conway,NICHOLS,Secretary of State,,REP,Secretary of State John Thurston,162,44,6,112
+Conway,OLD HICKORY,Secretary of State,,REP,Secretary of State John Thurston,50,9,1,40
+Conway,WARD 1,Secretary of State,,REP,Secretary of State John Thurston,277,171,6,100
+Conway,WELBOURNE EAST,Secretary of State,,REP,Secretary of State John Thurston,395,256,3,136
+Conway,MENIFEE RURAL,Secretary of State,,REP,Secretary of State John Thurston,39,14,0,25
+Conway,AUSTIN,Secretary of State,,DEM,Anna Beth Gorman,10,4,0,6
+Conway,BENTLEY CITY,Secretary of State,,DEM,Anna Beth Gorman,43,20,2,21
+Conway,WELBOURNE WEST,Secretary of State,,DEM,Anna Beth Gorman,46,30,0,16
+Conway,ST. VINCENT,Secretary of State,,DEM,Anna Beth Gorman,55,25,9,21
+Conway,STEELE,Secretary of State,,DEM,Anna Beth Gorman,26,11,3,12
+Conway,MENIFEE CITY,Secretary of State,,DEM,Anna Beth Gorman,106,25,11,70
+Conway,HOWARD CITY,Secretary of State,,DEM,Anna Beth Gorman,113,39,31,43
+Conway,HIGGINS,Secretary of State,,DEM,Anna Beth Gorman,3,0,0,3
+Conway,CEDAR FALLS,Secretary of State,,DEM,Anna Beth Gorman,50,20,2,28
+Conway,GREGORY,Secretary of State,,DEM,Anna Beth Gorman,17,6,0,11
+Conway,GRIFFIN,Secretary of State,,DEM,Anna Beth Gorman,32,18,2,12
+Conway,LICK MTN.,Secretary of State,,DEM,Anna Beth Gorman,41,12,0,29
+Conway,WASHINGTON EAST,Secretary of State,,DEM,Anna Beth Gorman,90,43,3,44
+Conway,MCCLAREN,Secretary of State,,DEM,Anna Beth Gorman,10,0,4,6
+Conway,HOWARD RURAL,Secretary of State,,DEM,Anna Beth Gorman,80,39,25,16
+Conway,WHITE EAGLE,Secretary of State,,DEM,Anna Beth Gorman,4,3,0,1
+Conway,WARD 3,Secretary of State,,DEM,Anna Beth Gorman,169,96,19,54
+Conway,WARD 4,Secretary of State,,DEM,Anna Beth Gorman,202,149,18,35
+Conway,MARTIN,Secretary of State,,DEM,Anna Beth Gorman,1,1,0,0
+Conway,WARD 2,Secretary of State,,DEM,Anna Beth Gorman,170,101,21,48
+Conway,UNION,Secretary of State,,DEM,Anna Beth Gorman,77,31,7,39
+Conway,BENTLEY RURAL,Secretary of State,,DEM,Anna Beth Gorman,32,14,0,18
+Conway,WASHINGTON WEST,Secretary of State,,DEM,Anna Beth Gorman,45,26,5,14
+Conway,BIRD,Secretary of State,,DEM,Anna Beth Gorman,54,24,3,27
+Conway,CATHOLIC POINT,Secretary of State,,DEM,Anna Beth Gorman,52,26,2,24
+Conway,PETIT JEAN,Secretary of State,,DEM,Anna Beth Gorman,13,6,2,5
+Conway,NICHOLS,Secretary of State,,DEM,Anna Beth Gorman,50,19,4,27
+Conway,OLD HICKORY,Secretary of State,,DEM,Anna Beth Gorman,19,5,3,11
+Conway,WARD 1,Secretary of State,,DEM,Anna Beth Gorman,184,115,28,41
+Conway,WELBOURNE EAST,Secretary of State,,DEM,Anna Beth Gorman,149,114,9,26
+Conway,MENIFEE RURAL,Secretary of State,,DEM,Anna Beth Gorman,22,12,0,10
+Conway,AUSTIN,State Treasurer,,REP,State Representative Mark Lowery,85,9,2,74
+Conway,BENTLEY CITY,State Treasurer,,REP,State Representative Mark Lowery,216,72,1,143
+Conway,WELBOURNE WEST,State Treasurer,,REP,State Representative Mark Lowery,162,73,2,87
+Conway,ST. VINCENT,State Treasurer,,REP,State Representative Mark Lowery,178,71,3,104
+Conway,STEELE,State Treasurer,,REP,State Representative Mark Lowery,163,41,2,120
+Conway,MENIFEE CITY,State Treasurer,,REP,State Representative Mark Lowery,18,10,0,8
+Conway,HOWARD CITY,State Treasurer,,REP,State Representative Mark Lowery,151,43,4,104
+Conway,HIGGINS,State Treasurer,,REP,State Representative Mark Lowery,20,4,0,16
+Conway,CEDAR FALLS,State Treasurer,,REP,State Representative Mark Lowery,104,27,2,75
+Conway,GREGORY,State Treasurer,,REP,State Representative Mark Lowery,109,53,1,55
+Conway,GRIFFIN,State Treasurer,,REP,State Representative Mark Lowery,108,38,0,70
+Conway,LICK MTN.,State Treasurer,,REP,State Representative Mark Lowery,175,40,3,132
+Conway,WASHINGTON EAST,State Treasurer,,REP,State Representative Mark Lowery,314,127,7,180
+Conway,MCCLAREN,State Treasurer,,REP,State Representative Mark Lowery,62,28,0,34
+Conway,HOWARD RURAL,State Treasurer,,REP,State Representative Mark Lowery,130,54,3,73
+Conway,WHITE EAGLE,State Treasurer,,REP,State Representative Mark Lowery,12,4,0,8
+Conway,WARD 3,State Treasurer,,REP,State Representative Mark Lowery,264,145,5,114
+Conway,WARD 4,State Treasurer,,REP,State Representative Mark Lowery,350,243,5,102
+Conway,MARTIN,State Treasurer,,REP,State Representative Mark Lowery,35,17,0,18
+Conway,WARD 2,State Treasurer,,REP,State Representative Mark Lowery,233,140,6,87
+Conway,UNION,State Treasurer,,REP,State Representative Mark Lowery,198,37,0,161
+Conway,BENTLEY RURAL,State Treasurer,,REP,State Representative Mark Lowery,131,60,3,68
+Conway,WASHINGTON WEST,State Treasurer,,REP,State Representative Mark Lowery,110,74,0,36
+Conway,BIRD,State Treasurer,,REP,State Representative Mark Lowery,194,55,0,139
+Conway,CATHOLIC POINT,State Treasurer,,REP,State Representative Mark Lowery,107,36,1,70
+Conway,PETIT JEAN,State Treasurer,,REP,State Representative Mark Lowery,27,7,0,20
+Conway,NICHOLS,State Treasurer,,REP,State Representative Mark Lowery,163,44,6,113
+Conway,OLD HICKORY,State Treasurer,,REP,State Representative Mark Lowery,49,8,0,41
+Conway,WARD 1,State Treasurer,,REP,State Representative Mark Lowery,268,161,6,101
+Conway,WELBOURNE EAST,State Treasurer,,REP,State Representative Mark Lowery,382,242,3,137
+Conway,MENIFEE RURAL,State Treasurer,,REP,State Representative Mark Lowery,38,15,0,23
+Conway,AUSTIN,State Treasurer,,DEM,Pam Whitaker,12,4,0,8
+Conway,BENTLEY CITY,State Treasurer,,DEM,Pam Whitaker,40,21,1,18
+Conway,WELBOURNE WEST,State Treasurer,,DEM,Pam Whitaker,59,37,0,22
+Conway,ST. VINCENT,State Treasurer,,DEM,Pam Whitaker,63,26,11,26
+Conway,STEELE,State Treasurer,,DEM,Pam Whitaker,27,11,3,13
+Conway,MENIFEE CITY,State Treasurer,,DEM,Pam Whitaker,107,26,10,71
+Conway,HOWARD CITY,State Treasurer,,DEM,Pam Whitaker,119,38,31,50
+Conway,HIGGINS,State Treasurer,,DEM,Pam Whitaker,2,0,0,2
+Conway,CEDAR FALLS,State Treasurer,,DEM,Pam Whitaker,57,22,2,33
+Conway,GREGORY,State Treasurer,,DEM,Pam Whitaker,18,9,0,9
+Conway,GRIFFIN,State Treasurer,,DEM,Pam Whitaker,32,18,2,12
+Conway,LICK MTN.,State Treasurer,,DEM,Pam Whitaker,45,14,0,31
+Conway,WASHINGTON EAST,State Treasurer,,DEM,Pam Whitaker,87,43,4,40
+Conway,MCCLAREN,State Treasurer,,DEM,Pam Whitaker,11,0,4,7
+Conway,HOWARD RURAL,State Treasurer,,DEM,Pam Whitaker,80,41,25,14
+Conway,WHITE EAGLE,State Treasurer,,DEM,Pam Whitaker,4,3,0,1
+Conway,WARD 3,State Treasurer,,DEM,Pam Whitaker,177,99,20,58
+Conway,WARD 4,State Treasurer,,DEM,Pam Whitaker,218,156,18,44
+Conway,MARTIN,State Treasurer,,DEM,Pam Whitaker,2,2,0,0
+Conway,WARD 2,State Treasurer,,DEM,Pam Whitaker,179,104,22,53
+Conway,UNION,State Treasurer,,DEM,Pam Whitaker,84,34,7,43
+Conway,BENTLEY RURAL,State Treasurer,,DEM,Pam Whitaker,35,16,0,19
+Conway,WASHINGTON WEST,State Treasurer,,DEM,Pam Whitaker,50,30,5,15
+Conway,BIRD,State Treasurer,,DEM,Pam Whitaker,55,23,3,29
+Conway,CATHOLIC POINT,State Treasurer,,DEM,Pam Whitaker,52,26,1,25
+Conway,PETIT JEAN,State Treasurer,,DEM,Pam Whitaker,12,6,2,4
+Conway,NICHOLS,State Treasurer,,DEM,Pam Whitaker,48,20,4,24
+Conway,OLD HICKORY,State Treasurer,,DEM,Pam Whitaker,19,5,4,10
+Conway,WARD 1,State Treasurer,,DEM,Pam Whitaker,199,131,28,40
+Conway,WELBOURNE EAST,State Treasurer,,DEM,Pam Whitaker,164,125,9,30
+Conway,MENIFEE RURAL,State Treasurer,,DEM,Pam Whitaker,21,11,0,10
+Conway,AUSTIN,State Senate,25,REP,State Senator Breanne Davis,84,9,2,73
+Conway,BENTLEY CITY,State Senate,25,REP,State Senator Breanne Davis,234,85,1,148
+Conway,WELBOURNE WEST,State Senate,25,REP,State Senator Breanne Davis,193,91,2,100
+Conway,ST. VINCENT,State Senate,25,REP,State Senator Breanne Davis,201,76,6,119
+Conway,STEELE,State Senate,25,REP,State Senator Breanne Davis,160,46,4,110
+Conway,MENIFEE CITY,State Senate,25,REP,State Senator Breanne Davis,45,14,1,30
+Conway,HOWARD CITY,State Senate,25,REP,State Senator Breanne Davis,179,50,5,124
+Conway,GREGORY,State Senate,25,REP,State Senator Breanne Davis,107,53,1,53
+Conway,GRIFFIN,State Senate,25,REP,State Senator Breanne Davis,127,50,2,75
+Conway,LICK MTN.,State Senate,25,REP,State Senator Breanne Davis,189,50,2,137
+Conway,WASHINGTON EAST,State Senate,25,REP,State Senator Breanne Davis,339,137,9,193
+Conway,MCCLAREN,State Senate,25,REP,State Senator Breanne Davis,64,27,0,37
+Conway,HOWARD RURAL,State Senate,25,REP,State Senator Breanne Davis,148,70,11,67
+Conway,WARD 3,State Senate,25,REP,State Senator Breanne Davis,344,194,11,139
+Conway,WARD 4,State Senate,25,REP,State Senator Breanne Davis,446,308,14,124
+Conway,WARD 2,State Senate,25,REP,State Senator Breanne Davis,293,170,11,112
+Conway,UNION,State Senate,25,REP,State Senator Breanne Davis,216,41,0,175
+Conway,BENTLEY RURAL,State Senate,25,REP,State Senator Breanne Davis,146,64,3,79
+Conway,WASHINGTON WEST,State Senate,25,REP,State Senator Breanne Davis,129,86,2,41
+Conway,BIRD,State Senate,25,REP,State Senator Breanne Davis,210,61,1,148
+Conway,CATHOLIC POINT,State Senate,25,REP,State Senator Breanne Davis,129,44,1,84
+Conway,NICHOLS,State Senate,25,REP,State Senator Breanne Davis,171,50,8,113
+Conway,OLD HICKORY,State Senate,25,REP,State Senator Breanne Davis,53,6,1,46
+Conway,WARD 1,State Senate,25,REP,State Senator Breanne Davis,335,205,14,116
+Conway,WELBOURNE EAST,State Senate,25,REP,State Senator Breanne Davis,449,293,7,149
+Conway,MENIFEE RURAL,State Senate,25,REP,State Senator Breanne Davis,46,18,0,28
+Conway,HIGGINS,State Senate,05,REP,Senator Terry Rice,20,4,0,16
+Conway,CEDAR FALLS,State Senate,05,REP,Senator Terry Rice,123,29,3,91
+Conway,WHITE EAGLE,State Senate,05,REP,Senator Terry Rice,12,5,0,7
+Conway,MARTIN,State Senate,05,REP,Senator Terry Rice,35,17,0,18
+Conway,PETIT JEAN,State Senate,05,REP,Senator Terry Rice,28,9,0,19
+Conway,AUSTIN,State House,43,REP,State Representative Rick Beck,89,11,1,77
+Conway,BENTLEY CITY,State House,43,REP,State Representative Rick Beck,243,89,1,153
+Conway,WELBOURNE WEST,State House,43,REP,State Representative Rick Beck,203,97,2,104
+Conway,ST. VINCENT,State House,43,REP,State Representative Rick Beck,210,80,7,123
+Conway,STEELE,State House,43,REP,State Representative Rick Beck,178,47,4,127
+Conway,MENIFEE CITY,State House,43,REP,State Representative Rick Beck,54,18,1,35
+Conway,HOWARD CITY,State House,43,REP,State Representative Rick Beck,191,54,5,132
+Conway,HIGGINS,State House,43,REP,State Representative Rick Beck,20,5,0,15
+Conway,CEDAR FALLS,State House,43,REP,State Representative Rick Beck,121,29,3,89
+Conway,GREGORY,State House,43,REP,State Representative Rick Beck,118,56,1,61
+Conway,GRIFFIN,State House,43,REP,State Representative Rick Beck,130,51,2,77
+Conway,LICK MTN.,State House,43,REP,State Representative Rick Beck,203,48,3,152
+Conway,WASHINGTON EAST,State House,43,REP,State Representative Rick Beck,362,150,9,203
+Conway,MCCLAREN,State House,43,REP,State Representative Rick Beck,65,28,0,37
+Conway,HOWARD RURAL,State House,43,REP,State Representative Rick Beck,153,67,10,76
+Conway,WHITE EAGLE,State House,43,REP,State Representative Rick Beck,14,6,0,8
+Conway,WARD 3,State House,43,REP,State Representative Rick Beck,353,195,12,146
+Conway,WARD 4,State House,43,REP,State Representative Rick Beck,470,329,14,127
+Conway,MARTIN,State House,43,REP,State Representative Rick Beck,36,17,0,19
+Conway,WARD 2,State House,43,REP,State Representative Rick Beck,308,180,12,116
+Conway,UNION,State House,43,REP,State Representative Rick Beck,229,45,0,184
+Conway,BENTLEY RURAL,State House,43,REP,State Representative Rick Beck,149,66,3,80
+Conway,WASHINGTON WEST,State House,43,REP,State Representative Rick Beck,140,95,2,43
+Conway,BIRD,State House,43,REP,State Representative Rick Beck,225,68,1,156
+Conway,CATHOLIC POINT,State House,43,REP,State Representative Rick Beck,128,45,1,82
+Conway,PETIT JEAN,State House,43,REP,State Representative Rick Beck,29,7,2,20
+Conway,NICHOLS,State House,43,REP,State Representative Rick Beck,182,54,9,119
+Conway,OLD HICKORY,State House,43,REP,State Representative Rick Beck,61,9,2,50
+Conway,WARD 1,State House,43,REP,State Representative Rick Beck,361,223,15,123
+Conway,WELBOURNE EAST,State House,43,REP,State Representative Rick Beck,469,308,7,154
+Conway,MENIFEE RURAL,State House,43,REP,State Representative Rick Beck,46,18,0,28
+Conway,AUSTIN,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,47,5,1,41
+Conway,BENTLEY CITY,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,130,40,1,89
+Conway,WELBOURNE WEST,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,123,54,0,69
+Conway,ST. VINCENT,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,149,58,5,86
+Conway,STEELE,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,93,23,4,66
+Conway,MENIFEE CITY,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,69,15,10,44
+Conway,HOWARD CITY,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,145,47,21,77
+Conway,HIGGINS,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,11,3,0,8
+Conway,CEDAR FALLS,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,75,19,3,53
+Conway,GREGORY,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,58,29,0,29
+Conway,GRIFFIN,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,86,30,2,54
+Conway,LICK MTN.,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,106,24,1,81
+Conway,WASHINGTON EAST,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,186,91,5,90
+Conway,MCCLAREN,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,40,15,0,25
+Conway,HOWARD RURAL,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,99,37,19,43
+Conway,WHITE EAGLE,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,6,2,0,4
+Conway,WARD 3,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,235,120,13,102
+Conway,WARD 4,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,313,206,21,86
+Conway,MARTIN,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,20,9,0,11
+Conway,WARD 2,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,199,110,21,68
+Conway,UNION,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,141,35,6,100
+Conway,BENTLEY RURAL,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,72,32,1,39
+Conway,WASHINGTON WEST,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,86,60,1,25
+Conway,BIRD,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,130,44,0,86
+Conway,CATHOLIC POINT,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,67,25,1,41
+Conway,PETIT JEAN,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,15,6,0,9
+Conway,NICHOLS,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,108,34,5,69
+Conway,OLD HICKORY,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,41,8,3,30
+Conway,WARD 1,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,234,148,20,66
+Conway,WELBOURNE EAST,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,267,193,9,65
+Conway,MENIFEE RURAL,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,27,10,0,17
+Conway,AUSTIN,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,34,5,1,28
+Conway,BENTLEY CITY,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,106,50,1,55
+Conway,WELBOURNE WEST,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,78,44,2,32
+Conway,ST. VINCENT,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,68,31,3,34
+Conway,STEELE,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,64,22,1,41
+Conway,MENIFEE CITY,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,36,14,0,22
+Conway,HOWARD CITY,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,90,22,8,60
+Conway,HIGGINS,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,8,1,0,7
+Conway,CEDAR FALLS,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,57,16,0,41
+Conway,GREGORY,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,51,24,1,26
+Conway,GRIFFIN,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,40,20,0,20
+Conway,LICK MTN.,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,92,27,2,63
+Conway,WASHINGTON EAST,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,182,70,5,107
+Conway,MCCLAREN,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,24,11,3,10
+Conway,HOWARD RURAL,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,82,47,7,28
+Conway,WHITE EAGLE,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,8,5,0,3
+Conway,WARD 3,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,167,104,10,53
+Conway,WARD 4,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,188,142,2,44
+Conway,MARTIN,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,14,6,0,8
+Conway,WARD 2,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,154,90,6,58
+Conway,UNION,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,105,21,1,83
+Conway,BENTLEY RURAL,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,73,34,2,37
+Conway,WASHINGTON WEST,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,61,37,4,20
+Conway,BIRD,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,93,25,1,67
+Conway,CATHOLIC POINT,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,66,25,1,40
+Conway,PETIT JEAN,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,21,7,2,12
+Conway,NICHOLS,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,81,23,3,55
+Conway,OLD HICKORY,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,22,3,0,19
+Conway,WARD 1,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,171,108,10,53
+Conway,WELBOURNE EAST,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,219,135,2,82
+Conway,MENIFEE RURAL,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,17,6,0,11
+Conway,AUSTIN,CIRCUIT CLERK,,DEM,DEM DARLENE MASSINGILL,63,6,2,55
+Conway,BENTLEY CITY,CIRCUIT CLERK,,DEM,DEM DARLENE MASSINGILL,195,75,2,118
+Conway,WELBOURNE WEST,CIRCUIT CLERK,,DEM,DEM DARLENE MASSINGILL,183,93,0,90
+Conway,ST. VINCENT,CIRCUIT CLERK,,DEM,DEM DARLENE MASSINGILL,217,86,12,119
+Conway,STEELE,CIRCUIT CLERK,,DEM,DEM DARLENE MASSINGILL,131,37,5,89
+Conway,MENIFEE CITY,CIRCUIT CLERK,,DEM,DEM DARLENE MASSINGILL,117,30,12,75
+Conway,HOWARD CITY,CIRCUIT CLERK,,DEM,DEM DARLENE MASSINGILL,232,70,32,130
+Conway,HIGGINS,CIRCUIT CLERK,,DEM,DEM DARLENE MASSINGILL,17,4,0,13
+Conway,CEDAR FALLS,CIRCUIT CLERK,,DEM,DEM DARLENE MASSINGILL,118,34,2,82
+Conway,GREGORY,CIRCUIT CLERK,,DEM,DEM DARLENE MASSINGILL,103,48,1,54
+Conway,GRIFFIN,CIRCUIT CLERK,,DEM,DEM DARLENE MASSINGILL,114,45,2,67
+Conway,LICK MTN.,CIRCUIT CLERK,,DEM,DEM DARLENE MASSINGILL,170,43,2,125
+Conway,WASHINGTON EAST,CIRCUIT CLERK,,DEM,DEM DARLENE MASSINGILL,330,145,8,177
+Conway,MCCLAREN,CIRCUIT CLERK,,DEM,DEM DARLENE MASSINGILL,55,21,4,30
+Conway,HOWARD RURAL,CIRCUIT CLERK,,DEM,DEM DARLENE MASSINGILL,177,82,24,71
+Conway,WHITE EAGLE,CIRCUIT CLERK,,DEM,DEM DARLENE MASSINGILL,13,5,0,8
+Conway,WARD 3,CIRCUIT CLERK,,DEM,DEM DARLENE MASSINGILL,377,204,24,149
+Conway,WARD 4,CIRCUIT CLERK,,DEM,DEM DARLENE MASSINGILL,510,356,23,131
+Conway,MARTIN,CIRCUIT CLERK,,DEM,DEM DARLENE MASSINGILL,29,14,0,15
+Conway,WARD 2,CIRCUIT CLERK,,DEM,DEM DARLENE MASSINGILL,337,202,26,109
+Conway,UNION,CIRCUIT CLERK,,DEM,DEM DARLENE MASSINGILL,234,61,7,166
+Conway,BENTLEY RURAL,CIRCUIT CLERK,,DEM,DEM DARLENE MASSINGILL,140,60,3,77
+Conway,WASHINGTON WEST,CIRCUIT CLERK,,DEM,DEM DARLENE MASSINGILL,134,90,5,39
+Conway,BIRD,CIRCUIT CLERK,,DEM,DEM DARLENE MASSINGILL,202,65,2,135
+Conway,CATHOLIC POINT,CIRCUIT CLERK,,DEM,DEM DARLENE MASSINGILL,131,55,2,74
+Conway,PETIT JEAN,CIRCUIT CLERK,,DEM,DEM DARLENE MASSINGILL,31,12,0,19
+Conway,NICHOLS,CIRCUIT CLERK,,DEM,DEM DARLENE MASSINGILL,159,45,6,108
+Conway,OLD HICKORY,CIRCUIT CLERK,,DEM,DEM DARLENE MASSINGILL,55,11,4,40
+Conway,WARD 1,CIRCUIT CLERK,,DEM,DEM DARLENE MASSINGILL,395,249,30,116
+Conway,WELBOURNE EAST,CIRCUIT CLERK,,DEM,DEM DARLENE MASSINGILL,448,306,12,130
+Conway,MENIFEE RURAL,CIRCUIT CLERK,,DEM,DEM DARLENE MASSINGILL,44,20,0,24
+Conway,AUSTIN,CORONER,,IND,IND KEITH DAVIS,17,3,0,14
+Conway,BENTLEY CITY,CORONER,,IND,IND KEITH DAVIS,87,32,2,53
+Conway,WELBOURNE WEST,CORONER,,IND,IND KEITH DAVIS,92,50,0,42
+Conway,ST. VINCENT,CORONER,,IND,IND KEITH DAVIS,82,35,8,39
+Conway,STEELE,CORONER,,IND,IND KEITH DAVIS,46,14,2,30
+Conway,MENIFEE CITY,CORONER,,IND,IND KEITH DAVIS,76,20,8,48
+Conway,HOWARD CITY,CORONER,,IND,IND KEITH DAVIS,108,31,25,52
+Conway,HIGGINS,CORONER,,IND,IND KEITH DAVIS,4,1,0,3
+Conway,CEDAR FALLS,CORONER,,IND,IND KEITH DAVIS,52,24,2,26
+Conway,GREGORY,CORONER,,IND,IND KEITH DAVIS,35,16,0,19
+Conway,GRIFFIN,CORONER,,IND,IND KEITH DAVIS,29,13,2,14
+Conway,LICK MTN.,CORONER,,IND,IND KEITH DAVIS,69,18,2,49
+Conway,WASHINGTON EAST,CORONER,,IND,IND KEITH DAVIS,113,59,5,49
+Conway,MCCLAREN,CORONER,,IND,IND KEITH DAVIS,15,2,3,10
+Conway,HOWARD RURAL,CORONER,,IND,IND KEITH DAVIS,82,38,20,24
+Conway,WHITE EAGLE,CORONER,,IND,IND KEITH DAVIS,4,3,0,1
+Conway,WARD 3,CORONER,,IND,IND KEITH DAVIS,208,105,16,87
+Conway,WARD 4,CORONER,,IND,IND KEITH DAVIS,252,177,16,59
+Conway,MARTIN,CORONER,,IND,IND KEITH DAVIS,10,6,0,4
+Conway,WARD 2,CORONER,,IND,IND KEITH DAVIS,168,99,11,58
+Conway,UNION,CORONER,,IND,IND KEITH DAVIS,88,30,3,55
+Conway,BENTLEY RURAL,CORONER,,IND,IND KEITH DAVIS,67,34,1,32
+Conway,WASHINGTON WEST,CORONER,,IND,IND KEITH DAVIS,59,38,4,17
+Conway,BIRD,CORONER,,IND,IND KEITH DAVIS,86,29,2,55
+Conway,CATHOLIC POINT,CORONER,,IND,IND KEITH DAVIS,58,22,2,34
+Conway,PETIT JEAN,CORONER,,IND,IND KEITH DAVIS,11,6,1,4
+Conway,NICHOLS,CORONER,,IND,IND KEITH DAVIS,82,23,4,55
+Conway,OLD HICKORY,CORONER,,IND,IND KEITH DAVIS,27,6,3,18
+Conway,WARD 1,CORONER,,IND,IND KEITH DAVIS,198,134,21,43
+Conway,WELBOURNE EAST,CORONER,,IND,IND KEITH DAVIS,192,143,6,43
+Conway,MENIFEE RURAL,CORONER,,IND,IND KEITH DAVIS,20,10,0,10
+Conway,AUSTIN,CORONER,,REP,REP DENNIS B. DECKER,74,9,2,63
+Conway,BENTLEY CITY,CORONER,,REP,REP DENNIS B. DECKER,169,59,0,110
+Conway,WELBOURNE WEST,CORONER,,REP,REP DENNIS B. DECKER,120,53,1,66
+Conway,ST. VINCENT,CORONER,,REP,REP DENNIS B. DECKER,151,53,4,94
+Conway,STEELE,CORONER,,REP,REP DENNIS B. DECKER,137,37,3,97
+Conway,MENIFEE CITY,CORONER,,REP,REP DENNIS B. DECKER,17,9,1,7
+Conway,HOWARD CITY,CORONER,,REP,REP DENNIS B. DECKER,135,36,5,94
+Conway,HIGGINS,CORONER,,REP,REP DENNIS B. DECKER,18,4,0,14
+Conway,CEDAR FALLS,CORONER,,REP,REP DENNIS B. DECKER,101,22,2,77
+Conway,GREGORY,CORONER,,REP,REP DENNIS B. DECKER,87,43,1,43
+Conway,GRIFFIN,CORONER,,REP,REP DENNIS B. DECKER,106,40,0,66
+Conway,LICK MTN.,CORONER,,REP,REP DENNIS B. DECKER,144,35,1,108
+Conway,WASHINGTON EAST,CORONER,,REP,REP DENNIS B. DECKER,283,111,6,166
+Conway,MCCLAREN,CORONER,,REP,REP DENNIS B. DECKER,57,26,0,31
+Conway,HOWARD RURAL,CORONER,,REP,REP DENNIS B. DECKER,112,49,3,60
+Conway,WHITE EAGLE,CORONER,,REP,REP DENNIS B. DECKER,12,4,0,8
+Conway,WARD 3,CORONER,,REP,REP DENNIS B. DECKER,203,121,4,78
+Conway,WARD 4,CORONER,,REP,REP DENNIS B. DECKER,284,198,7,79
+Conway,MARTIN,CORONER,,REP,REP DENNIS B. DECKER,27,12,0,15
+Conway,WARD 2,CORONER,,REP,REP DENNIS B. DECKER,201,121,9,71
+Conway,UNION,CORONER,,REP,REP DENNIS B. DECKER,173,32,0,141
+Conway,BENTLEY RURAL,CORONER,,REP,REP DENNIS B. DECKER,90,36,2,52
+Conway,WASHINGTON WEST,CORONER,,REP,REP DENNIS B. DECKER,95,62,1,32
+Conway,BIRD,CORONER,,REP,REP DENNIS B. DECKER,156,44,0,112
+Conway,CATHOLIC POINT,CORONER,,REP,REP DENNIS B. DECKER,93,34,0,59
+Conway,PETIT JEAN,CORONER,,REP,REP DENNIS B. DECKER,25,7,0,18
+Conway,NICHOLS,CORONER,,REP,REP DENNIS B. DECKER,122,36,6,80
+Conway,OLD HICKORY,CORONER,,REP,REP DENNIS B. DECKER,41,7,1,33
+Conway,WARD 1,CORONER,,REP,REP DENNIS B. DECKER,227,133,8,86
+Conway,WELBOURNE EAST,CORONER,,REP,REP DENNIS B. DECKER,322,202,6,114
+Conway,MENIFEE RURAL,CORONER,,REP,REP DENNIS B. DECKER,38,14,0,24
+Conway,ST. VINCENT,JP DIST. 3 DISTRICT 3,,DEM,DEM JP RONNY CAMPBELL,5,2,0,3
+Conway,GRIFFIN,JP DIST. 3 DISTRICT 3,,DEM,DEM JP RONNY CAMPBELL,60,30,2,28
+Conway,LICK MTN.,JP DIST. 3 DISTRICT 3,,DEM,DEM JP RONNY CAMPBELL,1,1,0,0
+Conway,MCCLAREN,JP DIST. 3 DISTRICT 3,,DEM,DEM JP RONNY CAMPBELL,25,6,2,17
+Conway,BIRD,JP DIST. 3 DISTRICT 3,,DEM,DEM JP RONNY CAMPBELL,8,3,0,5
+Conway,NICHOLS,JP DIST. 3 DISTRICT 3,,DEM,DEM JP RONNY CAMPBELL,92,26,4,62
+Conway,OLD HICKORY,JP DIST. 3 DISTRICT 3,,DEM,DEM JP RONNY CAMPBELL,29,7,4,18
+Conway,ST. VINCENT,JP DIST. 3 DISTRICT 3,,REP,REP STEVEN DAVENPORT,4,0,0,4
+Conway,GRIFFIN,JP DIST. 3 DISTRICT 3,,REP,REP STEVEN DAVENPORT,82,28,0,54
+Conway,LICK MTN.,JP DIST. 3 DISTRICT 3,,REP,REP STEVEN DAVENPORT,12,6,0,6
+Conway,MCCLAREN,JP DIST. 3 DISTRICT 3,,REP,REP STEVEN DAVENPORT,47,21,2,24
+Conway,BIRD,JP DIST. 3 DISTRICT 3,,REP,REP STEVEN DAVENPORT,27,10,0,17
+Conway,NICHOLS,JP DIST. 3 DISTRICT 3,,REP,REP STEVEN DAVENPORT,124,36,5,83
+Conway,OLD HICKORY,JP DIST. 3 DISTRICT 3,,REP,REP STEVEN DAVENPORT,41,6,0,35
+Conway,HOWARD CITY,JP DIST. 6 DISTRICT 6,,REP,REP BRIGHAM JONES,126,29,3,94
+Conway,HOWARD RURAL,JP DIST. 6 DISTRICT 6,,REP,REP BRIGHAM JONES,10,7,0,3
+Conway,WELBOURNE EAST,JP DIST. 6 DISTRICT 6,,REP,REP BRIGHAM JONES,352,231,3,118
+Conway,HOWARD CITY,JP DIST. 6 DISTRICT 6,,DEM,DEM BILLY F. DEAVER,150,51,32,67
+Conway,HOWARD RURAL,JP DIST. 6 DISTRICT 6,,DEM,DEM BILLY F. DEAVER,21,7,9,5
+Conway,WELBOURNE EAST,JP DIST. 6 DISTRICT 6,,DEM,DEM BILLY F. DEAVER,105,86,2,17
+Conway,WARD 4,JP DIST. 7 DISTRICT 7,,REP,REP JOHNATHAN TRAFFORD,3,1,0,2
+Conway,WARD 2,JP DIST. 7 DISTRICT 7,,REP,REP JOHNATHAN TRAFFORD,6,4,0,2
+Conway,WARD 1,JP DIST. 7 DISTRICT 7,,REP,REP JOHNATHAN TRAFFORD,232,140,6,86
+Conway,WARD 4,JP DIST. 7 DISTRICT 7,,DEM,DEM JASON EDGAR ROBISON,2,0,0,2
+Conway,WARD 2,JP DIST. 7 DISTRICT 7,,DEM,DEM JASON EDGAR ROBISON,5,4,0,1
+Conway,WARD 1,JP DIST. 7 DISTRICT 7,,DEM,DEM JASON EDGAR ROBISON,232,149,28,55
+Conway,BENTLEY CITY,JP DIST. 9 DISTRICT 9,,DEM,DEM JOHN D. TRAFFORD,8,2,0,6
+Conway,WARD 4,JP DIST. 9 DISTRICT 9,,DEM,DEM JOHN D. TRAFFORD,255,184,19,52
+Conway,BENTLEY RURAL,JP DIST. 9 DISTRICT 9,,DEM,DEM JOHN D. TRAFFORD,0,0,0,0
+Conway,WELBOURNE EAST,JP DIST. 9 DISTRICT 9,,DEM,DEM JOHN D. TRAFFORD,65,38,7,20
+Conway,BENTLEY CITY,JP DIST. 9 DISTRICT 9,,IND,IND SCOTT KEETON,23,12,0,11
+Conway,WARD 4,JP DIST. 9 DISTRICT 9,,IND,IND SCOTT KEETON,239,166,1,72
+Conway,BENTLEY RURAL,JP DIST. 9 DISTRICT 9,,IND,IND SCOTT KEETON,0,0,0,0
+Conway,WELBOURNE EAST,JP DIST. 9 DISTRICT 9,,IND,IND SCOTT KEETON,30,18,0,12
+Conway,WARD 3,JP DIST. 10 DISTRICT 10,,REP,REP LESLIE GRIFFITHS,3,2,0,1
+Conway,WARD 4,JP DIST. 10 DISTRICT 10,,REP,REP LESLIE GRIFFITHS,28,20,1,7
+Conway,WARD 2,JP DIST. 10 DISTRICT 10,,REP,REP LESLIE GRIFFITHS,198,115,6,77
+Conway,WARD 3,JP DIST. 10 DISTRICT 10,,DEM,DEM J.P. TERRY ALVEY,0,0,0,0
+Conway,WARD 4,JP DIST. 10 DISTRICT 10,,DEM,DEM J.P. TERRY ALVEY,29,20,2,7
+Conway,WARD 2,JP DIST. 10 DISTRICT 10,,DEM,DEM J.P. TERRY ALVEY,198,121,20,57
+Conway,WARD 3,MORRILTON MAYOR MORRILTON,,IND,IND MAYOR ALLEN LIPSMEYER,398,219,25,154
+Conway,WARD 4,MORRILTON MAYOR MORRILTON,,IND,IND MAYOR ALLEN LIPSMEYER,519,359,23,137
+Conway,WARD 2,MORRILTON MAYOR MORRILTON,,IND,IND MAYOR ALLEN LIPSMEYER,358,210,27,121
+Conway,WARD 1,MORRILTON MAYOR MORRILTON,,IND,IND MAYOR ALLEN LIPSMEYER,404,254,28,122
+Conway,WARD 3,MORRILTON CITY CLERK MORRILTON,,IND,IND SHERRY CODY,373,206,19,148
+Conway,WARD 4,MORRILTON CITY CLERK MORRILTON,,IND,IND SHERRY CODY,481,328,22,131
+Conway,WARD 2,MORRILTON CITY CLERK MORRILTON,,IND,IND SHERRY CODY,312,182,19,111
+Conway,WARD 1,MORRILTON CITY CLERK MORRILTON,,IND,IND SHERRY CODY,366,231,22,113
+Conway,WARD 3,MORRILTON WARD 2 POS 2 MORRILTON,,REP,REP ISAAC A. DECKER,236,128,2,106
+Conway,WARD 4,MORRILTON WARD 2 POS 2 MORRILTON,,REP,REP ISAAC A. DECKER,298,205,4,89
+Conway,WARD 2,MORRILTON WARD 2 POS 2 MORRILTON,,REP,REP ISAAC A. DECKER,207,123,6,78
+Conway,WARD 1,MORRILTON WARD 2 POS 2 MORRILTON,,REP,REP ISAAC A. DECKER,229,140,6,83
+Conway,WARD 3,MORRILTON WARD 2 POS 2 MORRILTON,,DEM,DEM DIANE BARNES,197,109,21,67
+Conway,WARD 4,MORRILTON WARD 2 POS 2 MORRILTON,,DEM,DEM DIANE BARNES,262,190,19,53
+Conway,WARD 2,MORRILTON WARD 2 POS 2 MORRILTON,,DEM,DEM DIANE BARNES,196,115,22,59
+Conway,WARD 1,MORRILTON WARD 2 POS 2 MORRILTON,,DEM,DEM DIANE BARNES,227,145,28,54
+Conway,WARD 3,MORRILTON WARD 3 POS. 1 MORRILTON,,REP,REP RICHARD DELUCA,235,132,2,101
+Conway,WARD 4,MORRILTON WARD 3 POS. 1 MORRILTON,,REP,REP RICHARD DELUCA,330,231,4,95
+Conway,WARD 2,MORRILTON WARD 3 POS. 1 MORRILTON,,REP,REP RICHARD DELUCA,218,139,6,73
+Conway,WARD 1,MORRILTON WARD 3 POS. 1 MORRILTON,,REP,REP RICHARD DELUCA,245,152,4,89
+Conway,WARD 3,MORRILTON WARD 3 POS. 1 MORRILTON,,DEM,DEM LINDA EVERETTE-WILLIAMS,201,109,22,70
+Conway,WARD 4,MORRILTON WARD 3 POS. 1 MORRILTON,,DEM,DEM LINDA EVERETTE-WILLIAMS,231,162,19,50
+Conway,WARD 2,MORRILTON WARD 3 POS. 1 MORRILTON,,DEM,DEM LINDA EVERETTE-WILLIAMS,186,104,22,60
+Conway,WARD 1,MORRILTON WARD 3 POS. 1 MORRILTON,,DEM,DEM LINDA EVERETTE-WILLIAMS,212,135,29,48
+Conway,WARD 3,MORRILTON WARD 4 POS. 2 MORRILTON,,REP,REP JAMES R. BLACKWOOD,224,128,2,94
+Conway,WARD 4,MORRILTON WARD 4 POS. 2 MORRILTON,,REP,REP JAMES R. BLACKWOOD,275,184,4,87
+Conway,WARD 2,MORRILTON WARD 4 POS. 2 MORRILTON,,REP,REP JAMES R. BLACKWOOD,200,122,5,73
+Conway,WARD 1,MORRILTON WARD 4 POS. 2 MORRILTON,,REP,REP JAMES R. BLACKWOOD,221,128,5,88
+Conway,WARD 3,MORRILTON WARD 4 POS. 2 MORRILTON,,DEM,DEM FRED E HILL,213,113,21,79
+Conway,WARD 4,MORRILTON WARD 4 POS. 2 MORRILTON,,DEM,DEM FRED E HILL,280,207,19,54
+Conway,WARD 2,MORRILTON WARD 4 POS. 2 MORRILTON,,DEM,DEM FRED E HILL,201,120,21,60
+Conway,WARD 1,MORRILTON WARD 4 POS. 2 MORRILTON,,DEM,DEM FRED E HILL,234,156,28,50
+Conway,HOWARD CITY,PLUMERVILLE MAYOR PLUMERVILLE,,DEM,DEM PATSY JOHNSON,245,72,34,139
+Conway,HOWARD CITY,PLUMERVILLE ALD. WARD 1 POS. 2 PLUMERVILLE,,REP,REP GEOFFREY WILSON,130,33,2,95
+Conway,HOWARD CITY,PLUMERVILLE ALD. WARD 1 POS. 2 PLUMERVILLE,,DEM,DEM JOHN SIMS,141,45,32,64
+Conway,MENIFEE CITY,MENIFEE MAYOR MENIFEE,,DEM,DEM TERRY COLEMAN,109,23,10,76
+Conway,MENIFEE CITY,MENIFEE RECORDER / TREAS. MENIFEE,,DEM,DEM PAMELA COLEMAN,115,28,10,77
+Conway,MENIFEE CITY,MENIFEE ALDERMAN POS. 3 MENIFEE,,DEM,DEM TERRY BINNS III,63,16,9,38
+Conway,MENIFEE CITY,MENIFEE ALDERMAN POS. 3 MENIFEE,,REP,REP RITA DAVIS,61,19,3,39
+Conway,BENTLEY CITY,OPPELO MAYOR OPPELO,,REP,REP JOSHUA A. YOUNG,220,82,0,138
+Conway,BENTLEY CITY,OPPELO MAYOR OPPELO,,IND,IND KENNETH EUGENE HAUPT,39,13,2,24
+Conway,AUSTIN,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,27,3,1,23
+Conway,BENTLEY CITY,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,85,39,0,46
+Conway,WELBOURNE WEST,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,69,31,1,37
+Conway,ST. VINCENT,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,75,25,5,45
+Conway,STEELE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,60,17,1,42
+Conway,MENIFEE CITY,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,45,22,0,23
+Conway,HOWARD CITY,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,80,25,7,48
+Conway,HIGGINS,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,4,3,0,1
+Conway,CEDAR FALLS,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,59,14,2,43
+Conway,GREGORY,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,39,19,1,19
+Conway,GRIFFIN,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,44,19,0,25
+Conway,LICK MTN.,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,62,14,1,47
+Conway,WASHINGTON EAST,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,150,55,4,91
+Conway,MCCLAREN,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,28,13,0,15
+Conway,HOWARD RURAL,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,61,30,5,26
+Conway,WHITE EAGLE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,5,2,0,3
+Conway,WARD 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,177,99,6,72
+Conway,WARD 4,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,211,146,6,59
+Conway,MARTIN,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,17,9,0,8
+Conway,WARD 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,148,81,6,61
+Conway,UNION,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,90,18,0,72
+Conway,BENTLEY RURAL,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,48,29,1,18
+Conway,WASHINGTON WEST,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,61,40,1,20
+Conway,BIRD,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,89,27,2,60
+Conway,CATHOLIC POINT,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,55,23,0,32
+Conway,PETIT JEAN,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,7,1,0,6
+Conway,NICHOLS,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,55,18,6,31
+Conway,OLD HICKORY,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,22,6,1,15
+Conway,WARD 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,142,87,6,49
+Conway,WELBOURNE EAST,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,176,110,5,61
+Conway,MENIFEE RURAL,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,26,11,0,15
+Conway,AUSTIN,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,68,9,1,58
+Conway,BENTLEY CITY,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,163,53,2,108
+Conway,WELBOURNE WEST,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,146,74,1,71
+Conway,ST. VINCENT,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,168,71,7,90
+Conway,STEELE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,124,32,4,88
+Conway,MENIFEE CITY,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,70,11,9,50
+Conway,HOWARD CITY,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,177,52,22,103
+Conway,HIGGINS,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,16,2,0,14
+Conway,CEDAR FALLS,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,97,34,2,61
+Conway,GREGORY,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,83,41,0,42
+Conway,GRIFFIN,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,92,38,2,52
+Conway,LICK MTN.,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,155,40,1,114
+Conway,WASHINGTON EAST,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,251,117,6,128
+Conway,MCCLAREN,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,44,14,4,26
+Conway,HOWARD RURAL,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,142,65,20,57
+Conway,WHITE EAGLE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,11,5,0,6
+Conway,WARD 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,254,139,16,99
+Conway,WARD 4,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,341,246,11,84
+Conway,MARTIN,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,18,8,0,10
+Conway,WARD 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,246,155,21,70
+Conway,UNION,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,182,47,7,128
+Conway,BENTLEY RURAL,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,110,41,2,67
+Conway,WASHINGTON WEST,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,97,61,4,32
+Conway,BIRD,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,155,46,1,108
+Conway,CATHOLIC POINT,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,105,37,2,66
+Conway,PETIT JEAN,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,33,12,2,19
+Conway,NICHOLS,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,152,45,2,105
+Conway,OLD HICKORY,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,47,7,2,38
+Conway,WARD 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,305,197,23,85
+Conway,WELBOURNE EAST,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,353,253,6,94
+Conway,MENIFEE RURAL,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,33,13,0,20
+Conway,AUSTIN,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,32,3,0,29
+Conway,BENTLEY CITY,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,94,35,1,58
+Conway,WELBOURNE WEST,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,71,35,1,35
+Conway,ST. VINCENT,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,95,39,2,54
+Conway,STEELE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,70,19,1,50
+Conway,MENIFEE CITY,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,39,17,0,22
+Conway,HOWARD CITY,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,94,32,10,52
+Conway,HIGGINS,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,12,3,0,9
+Conway,CEDAR FALLS,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,63,15,2,46
+Conway,GREGORY,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,39,21,1,17
+Conway,GRIFFIN,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,46,24,0,22
+Conway,LICK MTN.,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,78,18,1,59
+Conway,WASHINGTON EAST,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,173,70,1,102
+Conway,MCCLAREN,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,28,9,0,19
+Conway,HOWARD RURAL,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,56,24,5,27
+Conway,WHITE EAGLE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,5,1,0,4
+Conway,WARD 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,173,98,8,67
+Conway,WARD 4,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,187,134,2,51
+Conway,MARTIN,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,21,11,0,10
+Conway,WARD 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,137,78,4,55
+Conway,UNION,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,95,18,0,77
+Conway,BENTLEY RURAL,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,55,21,1,33
+Conway,WASHINGTON WEST,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,66,45,0,21
+Conway,BIRD,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,92,31,0,61
+Conway,CATHOLIC POINT,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,60,18,0,42
+Conway,PETIT JEAN,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,10,2,0,8
+Conway,NICHOLS,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,81,23,7,51
+Conway,OLD HICKORY,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,20,3,3,14
+Conway,WARD 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,161,102,8,51
+Conway,WELBOURNE EAST,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,195,142,2,51
+Conway,MENIFEE RURAL,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,25,8,0,17
+Conway,AUSTIN,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,64,9,2,53
+Conway,BENTLEY CITY,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,160,58,1,101
+Conway,WELBOURNE WEST,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,145,70,1,74
+Conway,ST. VINCENT,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,151,58,10,83
+Conway,STEELE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,114,31,3,80
+Conway,MENIFEE CITY,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,81,16,12,53
+Conway,HOWARD CITY,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,169,45,19,105
+Conway,HIGGINS,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,11,2,0,9
+Conway,CEDAR FALLS,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,95,34,2,59
+Conway,GREGORY,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,86,40,0,46
+Conway,GRIFFIN,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,94,33,2,59
+Conway,LICK MTN.,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,145,37,2,106
+Conway,WASHINGTON EAST,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,235,104,9,122
+Conway,MCCLAREN,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,44,18,4,22
+Conway,HOWARD RURAL,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,149,69,20,60
+Conway,WHITE EAGLE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,11,6,0,5
+Conway,WARD 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,261,143,16,102
+Conway,WARD 4,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,366,260,15,91
+Conway,MARTIN,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,15,6,0,9
+Conway,WARD 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,263,162,24,77
+Conway,UNION,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,187,49,6,132
+Conway,BENTLEY RURAL,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,106,51,2,53
+Conway,WASHINGTON WEST,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,94,58,5,31
+Conway,BIRD,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,157,45,3,109
+Conway,CATHOLIC POINT,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,102,44,2,56
+Conway,PETIT JEAN,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,31,11,2,18
+Conway,NICHOLS,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,133,41,3,89
+Conway,OLD HICKORY,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,49,10,0,39
+Conway,WARD 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,299,186,24,89
+Conway,WELBOURNE EAST,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,345,226,10,109
+Conway,MENIFEE RURAL,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,33,15,0,18
+Conway,AUSTIN,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,40,4,1,35
+Conway,BENTLEY CITY,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,129,59,1,69
+Conway,WELBOURNE WEST,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,98,48,2,48
+Conway,ST. VINCENT,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,107,40,3,64
+Conway,STEELE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,93,30,2,61
+Conway,MENIFEE CITY,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,56,19,3,34
+Conway,HOWARD CITY,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,130,36,17,77
+Conway,HIGGINS,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,12,3,0,9
+Conway,CEDAR FALLS,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,56,17,0,39
+Conway,GREGORY,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,55,27,1,27
+Conway,GRIFFIN,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,67,27,0,40
+Conway,LICK MTN.,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,87,22,3,62
+Conway,WASHINGTON EAST,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,214,88,4,122
+Conway,MCCLAREN,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,35,13,0,22
+Conway,HOWARD RURAL,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,111,47,14,50
+Conway,WHITE EAGLE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,6,3,0,3
+Conway,WARD 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,250,133,17,100
+Conway,WARD 4,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,284,187,13,84
+Conway,MARTIN,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,23,12,0,11
+Conway,WARD 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,189,104,12,73
+Conway,UNION,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,131,29,0,102
+Conway,BENTLEY RURAL,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,79,35,0,44
+Conway,WASHINGTON WEST,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,99,63,5,31
+Conway,BIRD,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,128,36,2,90
+Conway,CATHOLIC POINT,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,67,28,0,39
+Conway,PETIT JEAN,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,11,2,0,9
+Conway,NICHOLS,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,96,30,7,59
+Conway,OLD HICKORY,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,36,8,2,26
+Conway,WARD 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,233,143,16,74
+Conway,WELBOURNE EAST,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,264,190,4,70
+Conway,MENIFEE RURAL,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,29,12,0,17
+Conway,AUSTIN,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,58,9,1,48
+Conway,BENTLEY CITY,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,130,37,1,92
+Conway,WELBOURNE WEST,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,122,61,0,61
+Conway,ST. VINCENT,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,139,57,9,73
+Conway,STEELE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,90,20,3,67
+Conway,MENIFEE CITY,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,62,15,7,40
+Conway,HOWARD CITY,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,130,39,11,80
+Conway,HIGGINS,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,11,2,0,9
+Conway,CEDAR FALLS,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,100,32,4,64
+Conway,GREGORY,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,71,34,0,37
+Conway,GRIFFIN,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,74,30,2,42
+Conway,LICK MTN.,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,135,33,0,102
+Conway,WASHINGTON EAST,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,193,86,6,101
+Conway,MCCLAREN,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,36,14,3,19
+Conway,HOWARD RURAL,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,95,48,11,36
+Conway,WHITE EAGLE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,10,4,0,6
+Conway,WARD 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,185,107,7,71
+Conway,WARD 4,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,281,212,6,63
+Conway,MARTIN,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,13,5,0,8
+Conway,WARD 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,210,135,14,61
+Conway,UNION,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,149,39,7,103
+Conway,BENTLEY RURAL,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,82,36,3,43
+Conway,WASHINGTON WEST,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,63,41,0,22
+Conway,BIRD,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,120,39,1,80
+Conway,CATHOLIC POINT,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,93,32,2,59
+Conway,PETIT JEAN,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,29,11,2,16
+Conway,NICHOLS,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,117,33,3,81
+Conway,OLD HICKORY,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,34,6,1,27
+Conway,WARD 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,217,144,12,61
+Conway,WELBOURNE EAST,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,272,176,8,88
+Conway,MENIFEE RURAL,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,30,12,0,18
+Conway,AUSTIN,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,27,5,0,22
+Conway,BENTLEY CITY,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,112,34,1,77
+Conway,WELBOURNE WEST,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,79,39,0,40
+Conway,ST. VINCENT,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,80,23,9,48
+Conway,STEELE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,58,19,2,37
+Conway,MENIFEE CITY,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,70,17,7,46
+Conway,HOWARD CITY,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,142,44,24,74
+Conway,HIGGINS,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,12,0,0,12
+Conway,CEDAR FALLS,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,62,23,2,37
+Conway,GREGORY,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,35,16,0,19
+Conway,GRIFFIN,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,81,38,2,41
+Conway,LICK MTN.,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,69,15,0,54
+Conway,WASHINGTON EAST,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,146,60,3,83
+Conway,MCCLAREN,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,31,12,2,17
+Conway,HOWARD RURAL,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,88,42,20,26
+Conway,WHITE EAGLE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,5,2,0,3
+Conway,WARD 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,231,117,12,102
+Conway,WARD 4,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,258,178,7,73
+Conway,MARTIN,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,7,4,0,3
+Conway,WARD 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,202,114,14,74
+Conway,UNION,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,106,29,6,71
+Conway,BENTLEY RURAL,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,61,25,0,36
+Conway,WASHINGTON WEST,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,70,37,5,28
+Conway,BIRD,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,91,26,0,65
+Conway,CATHOLIC POINT,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,66,30,2,34
+Conway,PETIT JEAN,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,9,1,0,8
+Conway,NICHOLS,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,76,23,3,50
+Conway,OLD HICKORY,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,27,6,1,20
+Conway,WARD 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,221,127,24,70
+Conway,WELBOURNE EAST,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,208,132,4,72
+Conway,MENIFEE RURAL,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,27,12,0,15
+Conway,AUSTIN,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,70,8,2,60
+Conway,BENTLEY CITY,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,147,62,1,84
+Conway,WELBOURNE WEST,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,141,71,2,68
+Conway,ST. VINCENT,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,169,74,5,90
+Conway,STEELE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,133,34,3,96
+Conway,MENIFEE CITY,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,57,18,5,34
+Conway,HOWARD CITY,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,134,36,10,88
+Conway,HIGGINS,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,11,5,0,6
+Conway,CEDAR FALLS,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,99,26,2,71
+Conway,GREGORY,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,93,47,1,45
+Conway,GRIFFIN,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,64,21,0,43
+Conway,LICK MTN.,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,161,42,3,116
+Conway,WASHINGTON EAST,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,265,116,7,142
+Conway,MCCLAREN,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,42,16,2,24
+Conway,HOWARD RURAL,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,125,55,7,63
+Conway,WHITE EAGLE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,10,4,0,6
+Conway,WARD 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,209,124,12,73
+Conway,WARD 4,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,316,227,15,74
+Conway,MARTIN,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,30,14,0,16
+Conway,WARD 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,207,130,13,64
+Conway,UNION,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,184,41,1,142
+Conway,BENTLEY RURAL,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,106,51,3,52
+Conway,WASHINGTON WEST,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,92,68,0,24
+Conway,BIRD,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,162,52,3,107
+Conway,CATHOLIC POINT,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,95,33,0,62
+Conway,PETIT JEAN,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,32,12,2,18
+Conway,NICHOLS,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,143,42,7,94
+Conway,OLD HICKORY,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,42,8,2,32
+Conway,WARD 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,250,168,9,73
+Conway,WELBOURNE EAST,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,352,244,8,100
+Conway,MENIFEE RURAL,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,33,13,0,20

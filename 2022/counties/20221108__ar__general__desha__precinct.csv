@@ -1,0 +1,996 @@
+county,precinct,office,district,party,candidate,votes,early_vote,absentee,election_day
+Desha,Bowie W1,U.S. Senate,,LIB,Kenneth Cates,6,2,0,4
+Desha,Bowie W2,U.S. Senate,,LIB,Kenneth Cates,7,4,1,2
+Desha,Bowie W3,U.S. Senate,,LIB,Kenneth Cates,1,0,0,1
+Desha,Bowie Rural,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0
+Desha,Clayton McArthur,U.S. Senate,,LIB,Kenneth Cates,3,2,0,1
+Desha,Clayton Reed,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0
+Desha,Clayton Tillar,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0
+Desha,Franklin,U.S. Senate,,LIB,Kenneth Cates,1,1,0,0
+Desha,Halley,U.S. Senate,,LIB,Kenneth Cates,1,0,0,1
+Desha,Jefferson,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0
+Desha,Mississippi,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0
+Desha,Mitchellville,U.S. Senate,,LIB,Kenneth Cates,2,0,0,2
+Desha,Randolph W1,U.S. Senate,,LIB,Kenneth Cates,4,4,0,0
+Desha,Randolph W2,U.S. Senate,,LIB,Kenneth Cates,9,6,0,3
+Desha,Randolph W3,U.S. Senate,,LIB,Kenneth Cates,17,10,2,5
+Desha,Randolph W4,U.S. Senate,,LIB,Kenneth Cates,2,2,0,0
+Desha,Randolph Rural,U.S. Senate,,LIB,Kenneth Cates,2,2,0,0
+Desha,Redfork,U.S. Senate,,LIB,Kenneth Cates,7,5,0,2
+Desha,Richland,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0
+Desha,Silverlake,U.S. Senate,,LIB,Kenneth Cates,7,4,1,2
+Desha,Walnut Lake,U.S. Senate,,LIB,Kenneth Cates,2,1,0,1
+Desha,Bowie W1,U.S. Senate,,DEM,Natalie James,80,50,2,28
+Desha,Bowie W2,U.S. Senate,,DEM,Natalie James,141,71,11,59
+Desha,Bowie W3,U.S. Senate,,DEM,Natalie James,142,95,4,43
+Desha,Bowie Rural,U.S. Senate,,DEM,Natalie James,12,11,0,1
+Desha,Clayton McArthur,U.S. Senate,,DEM,Natalie James,43,32,1,10
+Desha,Clayton Reed,U.S. Senate,,DEM,Natalie James,45,23,2,20
+Desha,Clayton Tillar,U.S. Senate,,DEM,Natalie James,2,0,0,2
+Desha,Franklin,U.S. Senate,,DEM,Natalie James,58,37,2,19
+Desha,Halley,U.S. Senate,,DEM,Natalie James,15,10,1,4
+Desha,Jefferson,U.S. Senate,,DEM,Natalie James,9,5,3,1
+Desha,Mississippi,U.S. Senate,,DEM,Natalie James,1,0,1,0
+Desha,Mitchellville,U.S. Senate,,DEM,Natalie James,53,20,0,33
+Desha,Randolph W1,U.S. Senate,,DEM,Natalie James,148,98,6,44
+Desha,Randolph W2,U.S. Senate,,DEM,Natalie James,200,121,6,73
+Desha,Randolph W3,U.S. Senate,,DEM,Natalie James,98,64,4,30
+Desha,Randolph W4,U.S. Senate,,DEM,Natalie James,152,111,3,38
+Desha,Randolph Rural,U.S. Senate,,DEM,Natalie James,10,4,2,4
+Desha,Redfork,U.S. Senate,,DEM,Natalie James,42,27,0,15
+Desha,Richland,U.S. Senate,,DEM,Natalie James,8,4,1,3
+Desha,Silverlake,U.S. Senate,,DEM,Natalie James,27,16,1,10
+Desha,Walnut Lake,U.S. Senate,,DEM,Natalie James,10,9,0,1
+Desha,Bowie W1,U.S. Senate,,REP,Senator John Boozman,310,208,2,100
+Desha,Bowie W2,U.S. Senate,,REP,Senator John Boozman,247,164,2,81
+Desha,Bowie W3,U.S. Senate,,REP,Senator John Boozman,52,39,1,12
+Desha,Bowie Rural,U.S. Senate,,REP,Senator John Boozman,23,18,0,5
+Desha,Clayton McArthur,U.S. Senate,,REP,Senator John Boozman,59,42,0,17
+Desha,Clayton Reed,U.S. Senate,,REP,Senator John Boozman,2,1,0,1
+Desha,Clayton Tillar,U.S. Senate,,REP,Senator John Boozman,6,4,0,2
+Desha,Franklin,U.S. Senate,,REP,Senator John Boozman,69,46,2,21
+Desha,Halley,U.S. Senate,,REP,Senator John Boozman,48,31,0,17
+Desha,Jefferson,U.S. Senate,,REP,Senator John Boozman,53,38,1,14
+Desha,Mississippi,U.S. Senate,,REP,Senator John Boozman,4,3,0,1
+Desha,Mitchellville,U.S. Senate,,REP,Senator John Boozman,5,3,0,2
+Desha,Randolph W1,U.S. Senate,,REP,Senator John Boozman,111,84,6,21
+Desha,Randolph W2,U.S. Senate,,REP,Senator John Boozman,46,28,3,15
+Desha,Randolph W3,U.S. Senate,,REP,Senator John Boozman,165,110,6,49
+Desha,Randolph W4,U.S. Senate,,REP,Senator John Boozman,113,64,3,46
+Desha,Randolph Rural,U.S. Senate,,REP,Senator John Boozman,19,13,0,6
+Desha,Redfork,U.S. Senate,,REP,Senator John Boozman,119,49,2,68
+Desha,Richland,U.S. Senate,,REP,Senator John Boozman,77,48,2,27
+Desha,Silverlake,U.S. Senate,,REP,Senator John Boozman,85,60,3,22
+Desha,Walnut Lake,U.S. Senate,,REP,Senator John Boozman,34,25,0,9
+Desha,Bowie W1,U.S. Congress District 01,,DEM,Representative Monte Hodges,84,48,3,33
+Desha,Bowie W2,U.S. Congress District 01,,DEM,Representative Monte Hodges,138,68,11,59
+Desha,Bowie W3,U.S. Congress District 01,,DEM,Representative Monte Hodges,135,90,4,41
+Desha,Bowie Rural,U.S. Congress District 01,,DEM,Representative Monte Hodges,12,11,0,1
+Desha,Clayton McArthur,U.S. Congress District 01,,DEM,Representative Monte Hodges,45,34,1,10
+Desha,Clayton Reed,U.S. Congress District 01,,DEM,Representative Monte Hodges,38,21,2,15
+Desha,Clayton Tillar,U.S. Congress District 01,,DEM,Representative Monte Hodges,2,0,0,2
+Desha,Franklin,U.S. Congress District 01,,DEM,Representative Monte Hodges,53,34,2,17
+Desha,Halley,U.S. Congress District 01,,DEM,Representative Monte Hodges,15,10,1,4
+Desha,Jefferson,U.S. Congress District 01,,DEM,Representative Monte Hodges,11,7,3,1
+Desha,Mississippi,U.S. Congress District 01,,DEM,Representative Monte Hodges,1,0,1,0
+Desha,Mitchellville,U.S. Congress District 01,,DEM,Representative Monte Hodges,52,19,0,33
+Desha,Randolph W1,U.S. Congress District 01,,DEM,Representative Monte Hodges,133,88,5,40
+Desha,Randolph W2,U.S. Congress District 01,,DEM,Representative Monte Hodges,190,113,5,72
+Desha,Randolph W3,U.S. Congress District 01,,DEM,Representative Monte Hodges,103,67,5,31
+Desha,Randolph W4,U.S. Congress District 01,,DEM,Representative Monte Hodges,146,107,3,36
+Desha,Randolph Rural,U.S. Congress District 01,,DEM,Representative Monte Hodges,11,5,2,4
+Desha,Redfork,U.S. Congress District 01,,DEM,Representative Monte Hodges,47,28,0,19
+Desha,Richland,U.S. Congress District 01,,DEM,Representative Monte Hodges,7,3,1,3
+Desha,Silverlake,U.S. Congress District 01,,DEM,Representative Monte Hodges,31,19,1,11
+Desha,Walnut Lake,U.S. Congress District 01,,DEM,Representative Monte Hodges,11,10,0,1
+Desha,Bowie W1,U.S. Congress District 01,,REP,Congressman Rick Crawford,300,206,1,93
+Desha,Bowie W2,U.S. Congress District 01,,REP,Congressman Rick Crawford,242,161,3,78
+Desha,Bowie W3,U.S. Congress District 01,,REP,Congressman Rick Crawford,51,37,1,13
+Desha,Bowie Rural,U.S. Congress District 01,,REP,Congressman Rick Crawford,21,17,0,4
+Desha,Clayton McArthur,U.S. Congress District 01,,REP,Congressman Rick Crawford,60,42,0,18
+Desha,Clayton Reed,U.S. Congress District 01,,REP,Congressman Rick Crawford,1,0,0,1
+Desha,Clayton Tillar,U.S. Congress District 01,,REP,Congressman Rick Crawford,6,4,0,2
+Desha,Franklin,U.S. Congress District 01,,REP,Congressman Rick Crawford,68,47,2,19
+Desha,Halley,U.S. Congress District 01,,REP,Congressman Rick Crawford,40,26,0,14
+Desha,Jefferson,U.S. Congress District 01,,REP,Congressman Rick Crawford,51,37,1,13
+Desha,Mississippi,U.S. Congress District 01,,REP,Congressman Rick Crawford,4,3,0,1
+Desha,Mitchellville,U.S. Congress District 01,,REP,Congressman Rick Crawford,4,3,0,1
+Desha,Randolph W1,U.S. Congress District 01,,REP,Congressman Rick Crawford,104,78,6,20
+Desha,Randolph W2,U.S. Congress District 01,,REP,Congressman Rick Crawford,48,27,3,18
+Desha,Randolph W3,U.S. Congress District 01,,REP,Congressman Rick Crawford,160,108,7,45
+Desha,Randolph W4,U.S. Congress District 01,,REP,Congressman Rick Crawford,109,63,3,43
+Desha,Randolph Rural,U.S. Congress District 01,,REP,Congressman Rick Crawford,18,12,0,6
+Desha,Redfork,U.S. Congress District 01,,REP,Congressman Rick Crawford,116,50,2,64
+Desha,Richland,U.S. Congress District 01,,REP,Congressman Rick Crawford,75,47,2,26
+Desha,Silverlake,U.S. Congress District 01,,REP,Congressman Rick Crawford,87,61,4,22
+Desha,Walnut Lake,U.S. Congress District 01,,REP,Congressman Rick Crawford,34,24,0,10
+Desha,Bowie W1,Governor,,DEM,Chris Jones,98,61,2,35
+Desha,Bowie W2,Governor,,DEM,Chris Jones,149,77,10,62
+Desha,Bowie W3,Governor,,DEM,Chris Jones,149,102,4,43
+Desha,Bowie Rural,Governor,,DEM,Chris Jones,14,13,0,1
+Desha,Clayton McArthur,Governor,,DEM,Chris Jones,48,34,1,13
+Desha,Clayton Reed,Governor,,DEM,Chris Jones,49,26,2,21
+Desha,Clayton Tillar,Governor,,DEM,Chris Jones,2,0,0,2
+Desha,Franklin,Governor,,DEM,Chris Jones,62,39,2,21
+Desha,Halley,Governor,,DEM,Chris Jones,19,10,1,8
+Desha,Jefferson,Governor,,DEM,Chris Jones,13,8,3,2
+Desha,Mississippi,Governor,,DEM,Chris Jones,1,0,1,0
+Desha,Mitchellville,Governor,,DEM,Chris Jones,61,22,0,39
+Desha,Randolph W1,Governor,,DEM,Chris Jones,173,119,6,48
+Desha,Randolph W2,Governor,,DEM,Chris Jones,230,139,8,83
+Desha,Randolph W3,Governor,,DEM,Chris Jones,113,73,3,37
+Desha,Randolph W4,Governor,,DEM,Chris Jones,162,120,4,38
+Desha,Randolph Rural,Governor,,DEM,Chris Jones,11,5,2,4
+Desha,Redfork,Governor,,DEM,Chris Jones,52,36,0,16
+Desha,Richland,Governor,,DEM,Chris Jones,13,7,1,5
+Desha,Silverlake,Governor,,DEM,Chris Jones,30,18,1,11
+Desha,Walnut Lake,Governor,,DEM,Chris Jones,15,11,0,4
+Desha,Bowie W1,Governor,,REP,Sarah Huckabee Sanders,300,200,1,99
+Desha,Bowie W2,Governor,,REP,Sarah Huckabee Sanders,245,162,3,80
+Desha,Bowie W3,Governor,,REP,Sarah Huckabee Sanders,50,36,1,13
+Desha,Bowie Rural,Governor,,REP,Sarah Huckabee Sanders,22,17,0,5
+Desha,Clayton McArthur,Governor,,REP,Sarah Huckabee Sanders,59,44,0,15
+Desha,Clayton Reed,Governor,,REP,Sarah Huckabee Sanders,0,0,0,0
+Desha,Clayton Tillar,Governor,,REP,Sarah Huckabee Sanders,6,4,0,2
+Desha,Franklin,Governor,,REP,Sarah Huckabee Sanders,69,45,2,22
+Desha,Halley,Governor,,REP,Sarah Huckabee Sanders,46,31,0,15
+Desha,Jefferson,Governor,,REP,Sarah Huckabee Sanders,52,37,1,14
+Desha,Mississippi,Governor,,REP,Sarah Huckabee Sanders,4,3,0,1
+Desha,Mitchellville,Governor,,REP,Sarah Huckabee Sanders,2,1,0,1
+Desha,Randolph W1,Governor,,REP,Sarah Huckabee Sanders,98,75,6,17
+Desha,Randolph W2,Governor,,REP,Sarah Huckabee Sanders,41,27,1,13
+Desha,Randolph W3,Governor,,REP,Sarah Huckabee Sanders,166,111,6,49
+Desha,Randolph W4,Governor,,REP,Sarah Huckabee Sanders,113,66,2,45
+Desha,Randolph Rural,Governor,,REP,Sarah Huckabee Sanders,19,13,0,6
+Desha,Redfork,Governor,,REP,Sarah Huckabee Sanders,124,48,2,74
+Desha,Richland,Governor,,REP,Sarah Huckabee Sanders,72,46,1,25
+Desha,Silverlake,Governor,,REP,Sarah Huckabee Sanders,91,64,4,23
+Desha,Walnut Lake,Governor,,REP,Sarah Huckabee Sanders,32,24,0,8
+Desha,Bowie W1,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,1,1,1
+Desha,Bowie W2,Governor,,LIB,"Ricky Dale Harrington, Jr.",6,3,1,2
+Desha,Bowie W3,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,1,0,1
+Desha,Bowie Rural,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Desha,Clayton McArthur,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Desha,Clayton Reed,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,1,0,1
+Desha,Clayton Tillar,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Desha,Franklin,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,1,0,1
+Desha,Halley,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Desha,Jefferson,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Desha,Mississippi,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Desha,Mitchellville,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,2,0,0
+Desha,Randolph W1,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,0,0,2
+Desha,Randolph W2,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,1,0
+Desha,Randolph W3,Governor,,LIB,"Ricky Dale Harrington, Jr.",10,5,3,2
+Desha,Randolph W4,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,0,0,2
+Desha,Randolph Rural,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,1,0,0
+Desha,Redfork,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Desha,Richland,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Desha,Silverlake,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,1,0,0
+Desha,Walnut Lake,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Desha,Bowie W1,Lieutenant Governor,,LIB,Frank Gilbert,8,7,0,1
+Desha,Bowie W2,Lieutenant Governor,,LIB,Frank Gilbert,19,12,1,6
+Desha,Bowie W3,Lieutenant Governor,,LIB,Frank Gilbert,7,5,0,2
+Desha,Bowie Rural,Lieutenant Governor,,LIB,Frank Gilbert,1,1,0,0
+Desha,Clayton McArthur,Lieutenant Governor,,LIB,Frank Gilbert,5,4,0,1
+Desha,Clayton Reed,Lieutenant Governor,,LIB,Frank Gilbert,1,1,0,0
+Desha,Clayton Tillar,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0
+Desha,Franklin,Lieutenant Governor,,LIB,Frank Gilbert,5,3,0,2
+Desha,Halley,Lieutenant Governor,,LIB,Frank Gilbert,2,1,0,1
+Desha,Jefferson,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0
+Desha,Mississippi,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0
+Desha,Mitchellville,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0
+Desha,Randolph W1,Lieutenant Governor,,LIB,Frank Gilbert,12,4,5,3
+Desha,Randolph W2,Lieutenant Governor,,LIB,Frank Gilbert,11,6,1,4
+Desha,Randolph W3,Lieutenant Governor,,LIB,Frank Gilbert,13,8,1,4
+Desha,Randolph W4,Lieutenant Governor,,LIB,Frank Gilbert,10,8,0,2
+Desha,Randolph Rural,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0
+Desha,Redfork,Lieutenant Governor,,LIB,Frank Gilbert,5,1,0,4
+Desha,Richland,Lieutenant Governor,,LIB,Frank Gilbert,3,1,0,2
+Desha,Silverlake,Lieutenant Governor,,LIB,Frank Gilbert,7,5,0,2
+Desha,Walnut Lake,Lieutenant Governor,,LIB,Frank Gilbert,3,3,0,0
+Desha,Bowie W1,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,306,202,2,102
+Desha,Bowie W2,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,247,160,2,85
+Desha,Bowie W3,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,53,41,0,12
+Desha,Bowie Rural,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,21,18,0,3
+Desha,Clayton McArthur,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,62,43,0,19
+Desha,Clayton Reed,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,1,1,0,0
+Desha,Clayton Tillar,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,6,4,0,2
+Desha,Franklin,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,65,42,2,21
+Desha,Halley,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,43,28,0,15
+Desha,Jefferson,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,52,37,1,14
+Desha,Mississippi,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,4,3,0,1
+Desha,Mitchellville,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,5,2,0,3
+Desha,Randolph W1,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,106,82,1,23
+Desha,Randolph W2,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,48,27,2,19
+Desha,Randolph W3,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,160,108,6,46
+Desha,Randolph W4,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,112,64,3,45
+Desha,Randolph Rural,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,19,13,0,6
+Desha,Redfork,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,114,47,2,65
+Desha,Richland,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,71,45,2,24
+Desha,Silverlake,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,86,59,4,23
+Desha,Walnut Lake,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,34,23,0,11
+Desha,Bowie W1,Lieutenant Governor,,DEM,Kelly Ross Krout,71,44,2,25
+Desha,Bowie W2,Lieutenant Governor,,DEM,Kelly Ross Krout,126,67,12,47
+Desha,Bowie W3,Lieutenant Governor,,DEM,Kelly Ross Krout,126,83,5,38
+Desha,Bowie Rural,Lieutenant Governor,,DEM,Kelly Ross Krout,12,10,0,2
+Desha,Clayton McArthur,Lieutenant Governor,,DEM,Kelly Ross Krout,38,29,1,8
+Desha,Clayton Reed,Lieutenant Governor,,DEM,Kelly Ross Krout,37,18,2,17
+Desha,Clayton Tillar,Lieutenant Governor,,DEM,Kelly Ross Krout,2,0,0,2
+Desha,Franklin,Lieutenant Governor,,DEM,Kelly Ross Krout,55,37,2,16
+Desha,Halley,Lieutenant Governor,,DEM,Kelly Ross Krout,15,10,1,4
+Desha,Jefferson,Lieutenant Governor,,DEM,Kelly Ross Krout,12,7,3,2
+Desha,Mississippi,Lieutenant Governor,,DEM,Kelly Ross Krout,1,0,1,0
+Desha,Mitchellville,Lieutenant Governor,,DEM,Kelly Ross Krout,54,23,0,31
+Desha,Randolph W1,Lieutenant Governor,,DEM,Kelly Ross Krout,128,87,5,36
+Desha,Randolph W2,Lieutenant Governor,,DEM,Kelly Ross Krout,181,106,7,68
+Desha,Randolph W3,Lieutenant Governor,,DEM,Kelly Ross Krout,99,66,4,29
+Desha,Randolph W4,Lieutenant Governor,,DEM,Kelly Ross Krout,138,103,3,32
+Desha,Randolph Rural,Lieutenant Governor,,DEM,Kelly Ross Krout,10,4,2,4
+Desha,Redfork,Lieutenant Governor,,DEM,Kelly Ross Krout,48,31,0,17
+Desha,Richland,Lieutenant Governor,,DEM,Kelly Ross Krout,8,5,1,2
+Desha,Silverlake,Lieutenant Governor,,DEM,Kelly Ross Krout,27,17,1,9
+Desha,Walnut Lake,Lieutenant Governor,,DEM,Kelly Ross Krout,8,8,0,0
+Desha,Bowie W1,Secretary of State,,DEM,Anna Beth Gorman,85,52,1,32
+Desha,Bowie W2,Secretary of State,,DEM,Anna Beth Gorman,136,67,11,58
+Desha,Bowie W3,Secretary of State,,DEM,Anna Beth Gorman,136,90,4,42
+Desha,Bowie Rural,Secretary of State,,DEM,Anna Beth Gorman,13,11,0,2
+Desha,Clayton McArthur,Secretary of State,,DEM,Anna Beth Gorman,44,31,1,12
+Desha,Clayton Reed,Secretary of State,,DEM,Anna Beth Gorman,41,21,2,18
+Desha,Clayton Tillar,Secretary of State,,DEM,Anna Beth Gorman,2,0,0,2
+Desha,Franklin,Secretary of State,,DEM,Anna Beth Gorman,57,35,2,20
+Desha,Halley,Secretary of State,,DEM,Anna Beth Gorman,17,11,1,5
+Desha,Jefferson,Secretary of State,,DEM,Anna Beth Gorman,11,8,3,0
+Desha,Mississippi,Secretary of State,,DEM,Anna Beth Gorman,1,0,1,0
+Desha,Mitchellville,Secretary of State,,DEM,Anna Beth Gorman,56,22,0,34
+Desha,Randolph W1,Secretary of State,,DEM,Anna Beth Gorman,136,92,5,39
+Desha,Randolph W2,Secretary of State,,DEM,Anna Beth Gorman,188,110,6,72
+Desha,Randolph W3,Secretary of State,,DEM,Anna Beth Gorman,105,68,4,33
+Desha,Randolph W4,Secretary of State,,DEM,Anna Beth Gorman,145,108,3,34
+Desha,Randolph Rural,Secretary of State,,DEM,Anna Beth Gorman,10,5,2,3
+Desha,Redfork,Secretary of State,,DEM,Anna Beth Gorman,46,29,0,17
+Desha,Richland,Secretary of State,,DEM,Anna Beth Gorman,7,4,1,2
+Desha,Silverlake,Secretary of State,,DEM,Anna Beth Gorman,28,18,1,9
+Desha,Walnut Lake,Secretary of State,,DEM,Anna Beth Gorman,14,13,0,1
+Desha,Bowie W1,Secretary of State,,REP,Secretary of State John Thurston,297,200,3,94
+Desha,Bowie W2,Secretary of State,,REP,Secretary of State John Thurston,249,165,4,80
+Desha,Bowie W3,Secretary of State,,REP,Secretary of State John Thurston,46,34,1,11
+Desha,Bowie Rural,Secretary of State,,REP,Secretary of State John Thurston,21,18,0,3
+Desha,Clayton McArthur,Secretary of State,,REP,Secretary of State John Thurston,60,44,0,16
+Desha,Clayton Reed,Secretary of State,,REP,Secretary of State John Thurston,0,0,0,0
+Desha,Clayton Tillar,Secretary of State,,REP,Secretary of State John Thurston,6,4,0,2
+Desha,Franklin,Secretary of State,,REP,Secretary of State John Thurston,64,44,2,18
+Desha,Halley,Secretary of State,,REP,Secretary of State John Thurston,42,27,0,15
+Desha,Jefferson,Secretary of State,,REP,Secretary of State John Thurston,48,34,1,13
+Desha,Mississippi,Secretary of State,,REP,Secretary of State John Thurston,4,3,0,1
+Desha,Mitchellville,Secretary of State,,REP,Secretary of State John Thurston,4,3,0,1
+Desha,Randolph W1,Secretary of State,,REP,Secretary of State John Thurston,103,76,6,21
+Desha,Randolph W2,Secretary of State,,REP,Secretary of State John Thurston,43,24,4,15
+Desha,Randolph W3,Secretary of State,,REP,Secretary of State John Thurston,156,102,7,47
+Desha,Randolph W4,Secretary of State,,REP,Secretary of State John Thurston,111,65,3,43
+Desha,Randolph Rural,Secretary of State,,REP,Secretary of State John Thurston,18,12,0,6
+Desha,Redfork,Secretary of State,,REP,Secretary of State John Thurston,113,49,2,62
+Desha,Richland,Secretary of State,,REP,Secretary of State John Thurston,76,48,2,26
+Desha,Silverlake,Secretary of State,,REP,Secretary of State John Thurston,88,61,4,23
+Desha,Walnut Lake,Secretary of State,,REP,Secretary of State John Thurston,32,22,0,10
+Desha,Bowie W1,Attorney General,,DEM,Jesse Gibson,81,51,2,28
+Desha,Bowie W2,Attorney General,,DEM,Jesse Gibson,145,73,13,59
+Desha,Bowie W3,Attorney General,,DEM,Jesse Gibson,145,97,4,44
+Desha,Bowie Rural,Attorney General,,DEM,Jesse Gibson,14,12,0,2
+Desha,Clayton McArthur,Attorney General,,DEM,Jesse Gibson,46,32,1,13
+Desha,Clayton Reed,Attorney General,,DEM,Jesse Gibson,39,20,1,18
+Desha,Clayton Tillar,Attorney General,,DEM,Jesse Gibson,2,0,0,2
+Desha,Franklin,Attorney General,,DEM,Jesse Gibson,56,35,2,19
+Desha,Halley,Attorney General,,DEM,Jesse Gibson,17,11,1,5
+Desha,Jefferson,Attorney General,,DEM,Jesse Gibson,10,6,3,1
+Desha,Mississippi,Attorney General,,DEM,Jesse Gibson,1,0,1,0
+Desha,Mitchellville,Attorney General,,DEM,Jesse Gibson,59,23,0,36
+Desha,Randolph W1,Attorney General,,DEM,Jesse Gibson,143,95,5,43
+Desha,Randolph W2,Attorney General,,DEM,Jesse Gibson,209,126,7,76
+Desha,Randolph W3,Attorney General,,DEM,Jesse Gibson,106,65,4,37
+Desha,Randolph W4,Attorney General,,DEM,Jesse Gibson,160,119,3,38
+Desha,Randolph Rural,Attorney General,,DEM,Jesse Gibson,10,4,2,4
+Desha,Redfork,Attorney General,,DEM,Jesse Gibson,49,33,0,16
+Desha,Richland,Attorney General,,DEM,Jesse Gibson,9,4,1,4
+Desha,Silverlake,Attorney General,,DEM,Jesse Gibson,27,17,1,9
+Desha,Walnut Lake,Attorney General,,DEM,Jesse Gibson,13,12,0,1
+Desha,Bowie W1,Attorney General,,REP,Lieutenant Governor Tim Griffin,309,205,2,102
+Desha,Bowie W2,Attorney General,,REP,Lieutenant Governor Tim Griffin,250,166,2,82
+Desha,Bowie W3,Attorney General,,REP,Lieutenant Governor Tim Griffin,52,39,1,12
+Desha,Bowie Rural,Attorney General,,REP,Lieutenant Governor Tim Griffin,22,18,0,4
+Desha,Clayton McArthur,Attorney General,,REP,Lieutenant Governor Tim Griffin,60,45,0,15
+Desha,Clayton Reed,Attorney General,,REP,Lieutenant Governor Tim Griffin,2,1,1,0
+Desha,Clayton Tillar,Attorney General,,REP,Lieutenant Governor Tim Griffin,6,4,0,2
+Desha,Franklin,Attorney General,,REP,Lieutenant Governor Tim Griffin,72,48,2,22
+Desha,Halley,Attorney General,,REP,Lieutenant Governor Tim Griffin,47,29,0,18
+Desha,Jefferson,Attorney General,,REP,Lieutenant Governor Tim Griffin,52,37,1,14
+Desha,Mississippi,Attorney General,,REP,Lieutenant Governor Tim Griffin,4,3,0,1
+Desha,Mitchellville,Attorney General,,REP,Lieutenant Governor Tim Griffin,4,3,0,1
+Desha,Randolph W1,Attorney General,,REP,Lieutenant Governor Tim Griffin,113,86,6,21
+Desha,Randolph W2,Attorney General,,REP,Lieutenant Governor Tim Griffin,42,23,3,16
+Desha,Randolph W3,Attorney General,,REP,Lieutenant Governor Tim Griffin,177,120,7,50
+Desha,Randolph W4,Attorney General,,REP,Lieutenant Governor Tim Griffin,111,62,3,46
+Desha,Randolph Rural,Attorney General,,REP,Lieutenant Governor Tim Griffin,20,14,0,6
+Desha,Redfork,Attorney General,,REP,Lieutenant Governor Tim Griffin,124,51,2,71
+Desha,Richland,Attorney General,,REP,Lieutenant Governor Tim Griffin,74,48,1,25
+Desha,Silverlake,Attorney General,,REP,Lieutenant Governor Tim Griffin,94,65,4,25
+Desha,Walnut Lake,Attorney General,,REP,Lieutenant Governor Tim Griffin,33,23,0,10
+Desha,Bowie W1,State Treasurer,,DEM,Pam Whitaker,99,62,3,34
+Desha,Bowie W2,State Treasurer,,DEM,Pam Whitaker,149,75,12,62
+Desha,Bowie W3,State Treasurer,,DEM,Pam Whitaker,144,97,4,43
+Desha,Bowie Rural,State Treasurer,,DEM,Pam Whitaker,11,10,0,1
+Desha,Clayton McArthur,State Treasurer,,DEM,Pam Whitaker,45,34,1,10
+Desha,Clayton Reed,State Treasurer,,DEM,Pam Whitaker,44,23,2,19
+Desha,Clayton Tillar,State Treasurer,,DEM,Pam Whitaker,2,0,0,2
+Desha,Franklin,State Treasurer,,DEM,Pam Whitaker,56,35,2,19
+Desha,Halley,State Treasurer,,DEM,Pam Whitaker,17,10,1,6
+Desha,Jefferson,State Treasurer,,DEM,Pam Whitaker,12,8,3,1
+Desha,Mississippi,State Treasurer,,DEM,Pam Whitaker,1,0,1,0
+Desha,Mitchellville,State Treasurer,,DEM,Pam Whitaker,56,23,0,33
+Desha,Randolph W1,State Treasurer,,DEM,Pam Whitaker,147,98,6,43
+Desha,Randolph W2,State Treasurer,,DEM,Pam Whitaker,205,120,8,77
+Desha,Randolph W3,State Treasurer,,DEM,Pam Whitaker,113,73,5,35
+Desha,Randolph W4,State Treasurer,,DEM,Pam Whitaker,160,118,3,39
+Desha,Randolph Rural,State Treasurer,,DEM,Pam Whitaker,12,6,2,4
+Desha,Redfork,State Treasurer,,DEM,Pam Whitaker,49,30,0,19
+Desha,Richland,State Treasurer,,DEM,Pam Whitaker,9,5,1,3
+Desha,Silverlake,State Treasurer,,DEM,Pam Whitaker,28,17,1,10
+Desha,Walnut Lake,State Treasurer,,DEM,Pam Whitaker,11,10,0,1
+Desha,Bowie W1,State Treasurer,,REP,State Representative Mark Lowery,290,193,1,96
+Desha,Bowie W2,State Treasurer,,REP,State Representative Mark Lowery,245,166,2,77
+Desha,Bowie W3,State Treasurer,,REP,State Representative Mark Lowery,48,36,1,11
+Desha,Bowie Rural,State Treasurer,,REP,State Representative Mark Lowery,23,19,0,4
+Desha,Clayton McArthur,State Treasurer,,REP,State Representative Mark Lowery,58,42,0,16
+Desha,Clayton Reed,State Treasurer,,REP,State Representative Mark Lowery,1,1,0,0
+Desha,Clayton Tillar,State Treasurer,,REP,State Representative Mark Lowery,6,4,0,2
+Desha,Franklin,State Treasurer,,REP,State Representative Mark Lowery,71,48,2,21
+Desha,Halley,State Treasurer,,REP,State Representative Mark Lowery,44,29,0,15
+Desha,Jefferson,State Treasurer,,REP,State Representative Mark Lowery,49,35,1,13
+Desha,Mississippi,State Treasurer,,REP,State Representative Mark Lowery,4,3,0,1
+Desha,Mitchellville,State Treasurer,,REP,State Representative Mark Lowery,3,1,0,2
+Desha,Randolph W1,State Treasurer,,REP,State Representative Mark Lowery,92,68,6,18
+Desha,Randolph W2,State Treasurer,,REP,State Representative Mark Lowery,39,22,2,15
+Desha,Randolph W3,State Treasurer,,REP,State Representative Mark Lowery,161,110,6,45
+Desha,Randolph W4,State Treasurer,,REP,State Representative Mark Lowery,105,58,3,44
+Desha,Randolph Rural,State Treasurer,,REP,State Representative Mark Lowery,19,13,0,6
+Desha,Redfork,State Treasurer,,REP,State Representative Mark Lowery,114,47,2,65
+Desha,Richland,State Treasurer,,REP,State Representative Mark Lowery,75,47,2,26
+Desha,Silverlake,State Treasurer,,REP,State Representative Mark Lowery,90,63,4,23
+Desha,Walnut Lake,State Treasurer,,REP,State Representative Mark Lowery,35,25,0,10
+Desha,Bowie W1,Auditor of State,,REP,Treasurer of State Dennis Milligan,308,209,2,97
+Desha,Bowie W2,Auditor of State,,REP,Treasurer of State Dennis Milligan,255,170,5,80
+Desha,Bowie W3,Auditor of State,,REP,Treasurer of State Dennis Milligan,49,37,1,11
+Desha,Bowie Rural,Auditor of State,,REP,Treasurer of State Dennis Milligan,21,17,0,4
+Desha,Clayton McArthur,Auditor of State,,REP,Treasurer of State Dennis Milligan,63,45,0,18
+Desha,Clayton Reed,Auditor of State,,REP,Treasurer of State Dennis Milligan,0,0,0,0
+Desha,Clayton Tillar,Auditor of State,,REP,Treasurer of State Dennis Milligan,6,4,0,2
+Desha,Franklin,Auditor of State,,REP,Treasurer of State Dennis Milligan,71,48,2,21
+Desha,Halley,Auditor of State,,REP,Treasurer of State Dennis Milligan,43,29,0,14
+Desha,Jefferson,Auditor of State,,REP,Treasurer of State Dennis Milligan,50,34,2,14
+Desha,Mississippi,Auditor of State,,REP,Treasurer of State Dennis Milligan,4,3,0,1
+Desha,Mitchellville,Auditor of State,,REP,Treasurer of State Dennis Milligan,5,3,0,2
+Desha,Randolph W1,Auditor of State,,REP,Treasurer of State Dennis Milligan,104,79,6,19
+Desha,Randolph W2,Auditor of State,,REP,Treasurer of State Dennis Milligan,46,27,3,16
+Desha,Randolph W3,Auditor of State,,REP,Treasurer of State Dennis Milligan,165,112,6,47
+Desha,Randolph W4,Auditor of State,,REP,Treasurer of State Dennis Milligan,114,63,3,48
+Desha,Randolph Rural,Auditor of State,,REP,Treasurer of State Dennis Milligan,19,13,0,6
+Desha,Redfork,Auditor of State,,REP,Treasurer of State Dennis Milligan,119,49,2,68
+Desha,Richland,Auditor of State,,REP,Treasurer of State Dennis Milligan,75,49,2,24
+Desha,Silverlake,Auditor of State,,REP,Treasurer of State Dennis Milligan,90,63,4,23
+Desha,Walnut Lake,Auditor of State,,REP,Treasurer of State Dennis Milligan,34,24,0,10
+Desha,Bowie W1,Auditor of State,,LIB,Simeon Snow,5,1,0,4
+Desha,Bowie W2,Auditor of State,,LIB,Simeon Snow,8,3,0,5
+Desha,Bowie W3,Auditor of State,,LIB,Simeon Snow,8,5,0,3
+Desha,Bowie Rural,Auditor of State,,LIB,Simeon Snow,0,0,0,0
+Desha,Clayton McArthur,Auditor of State,,LIB,Simeon Snow,3,2,0,1
+Desha,Clayton Reed,Auditor of State,,LIB,Simeon Snow,2,2,0,0
+Desha,Clayton Tillar,Auditor of State,,LIB,Simeon Snow,0,0,0,0
+Desha,Franklin,Auditor of State,,LIB,Simeon Snow,3,2,0,1
+Desha,Halley,Auditor of State,,LIB,Simeon Snow,1,0,0,1
+Desha,Jefferson,Auditor of State,,LIB,Simeon Snow,2,2,0,0
+Desha,Mississippi,Auditor of State,,LIB,Simeon Snow,0,0,0,0
+Desha,Mitchellville,Auditor of State,,LIB,Simeon Snow,1,0,0,1
+Desha,Randolph W1,Auditor of State,,LIB,Simeon Snow,7,5,0,2
+Desha,Randolph W2,Auditor of State,,LIB,Simeon Snow,6,5,0,1
+Desha,Randolph W3,Auditor of State,,LIB,Simeon Snow,14,8,2,4
+Desha,Randolph W4,Auditor of State,,LIB,Simeon Snow,4,3,0,1
+Desha,Randolph Rural,Auditor of State,,LIB,Simeon Snow,1,1,0,0
+Desha,Redfork,Auditor of State,,LIB,Simeon Snow,2,1,0,1
+Desha,Richland,Auditor of State,,LIB,Simeon Snow,1,0,0,1
+Desha,Silverlake,Auditor of State,,LIB,Simeon Snow,4,2,0,2
+Desha,Walnut Lake,Auditor of State,,LIB,Simeon Snow,2,2,0,0
+Desha,Bowie W1,Auditor of State,,DEM,Diamond Arnold-Johnson,77,46,2,29
+Desha,Bowie W2,Auditor of State,,DEM,Diamond Arnold-Johnson,126,61,10,55
+Desha,Bowie W3,Auditor of State,,DEM,Diamond Arnold-Johnson,142,96,4,42
+Desha,Bowie Rural,Auditor of State,,DEM,Diamond Arnold-Johnson,13,12,0,1
+Desha,Clayton McArthur,Auditor of State,,DEM,Diamond Arnold-Johnson,38,29,1,8
+Desha,Clayton Reed,Auditor of State,,DEM,Diamond Arnold-Johnson,42,20,2,20
+Desha,Clayton Tillar,Auditor of State,,DEM,Diamond Arnold-Johnson,2,0,0,2
+Desha,Franklin,Auditor of State,,DEM,Diamond Arnold-Johnson,49,30,2,17
+Desha,Halley,Auditor of State,,DEM,Diamond Arnold-Johnson,18,10,1,7
+Desha,Jefferson,Auditor of State,,DEM,Diamond Arnold-Johnson,8,6,2,0
+Desha,Mississippi,Auditor of State,,DEM,Diamond Arnold-Johnson,1,0,1,0
+Desha,Mitchellville,Auditor of State,,DEM,Diamond Arnold-Johnson,54,22,0,32
+Desha,Randolph W1,Auditor of State,,DEM,Diamond Arnold-Johnson,137,93,5,39
+Desha,Randolph W2,Auditor of State,,DEM,Diamond Arnold-Johnson,198,114,7,77
+Desha,Randolph W3,Auditor of State,,DEM,Diamond Arnold-Johnson,95,62,3,30
+Desha,Randolph W4,Auditor of State,,DEM,Diamond Arnold-Johnson,144,109,3,32
+Desha,Randolph Rural,Auditor of State,,DEM,Diamond Arnold-Johnson,10,4,2,4
+Desha,Redfork,Auditor of State,,DEM,Diamond Arnold-Johnson,44,30,0,14
+Desha,Richland,Auditor of State,,DEM,Diamond Arnold-Johnson,6,2,1,3
+Desha,Silverlake,Auditor of State,,DEM,Diamond Arnold-Johnson,26,16,1,9
+Desha,Walnut Lake,Auditor of State,,DEM,Diamond Arnold-Johnson,10,9,0,1
+Desha,Bowie W1,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,312,213,2,97
+Desha,Bowie W2,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,266,174,3,89
+Desha,Bowie W3,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,53,39,1,13
+Desha,Bowie Rural,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,22,17,0,5
+Desha,Clayton McArthur,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,68,48,0,20
+Desha,Clayton Reed,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,0,0,0,0
+Desha,Clayton Tillar,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,6,4,0,2
+Desha,Franklin,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,69,47,2,20
+Desha,Halley,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,47,30,0,17
+Desha,Jefferson,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,49,35,1,13
+Desha,Mississippi,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,4,3,0,1
+Desha,Mitchellville,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,4,3,0,1
+Desha,Randolph W1,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,113,87,6,20
+Desha,Randolph W2,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,51,29,3,19
+Desha,Randolph W3,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,174,117,8,49
+Desha,Randolph W4,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,114,64,3,47
+Desha,Randolph Rural,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,20,14,0,6
+Desha,Redfork,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,122,53,2,67
+Desha,Richland,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,80,51,2,27
+Desha,Silverlake,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,95,64,4,27
+Desha,Walnut Lake,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,33,24,0,9
+Desha,Bowie W1,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,80,45,2,33
+Desha,Bowie W2,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,131,66,11,54
+Desha,Bowie W3,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,143,96,4,43
+Desha,Bowie Rural,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,13,12,0,1
+Desha,Clayton McArthur,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,37,28,1,8
+Desha,Clayton Reed,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,43,22,2,19
+Desha,Clayton Tillar,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,2,0,0,2
+Desha,Franklin,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,55,35,2,18
+Desha,Halley,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,15,10,1,4
+Desha,Jefferson,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,13,9,3,1
+Desha,Mississippi,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,1,0,1,0
+Desha,Mitchellville,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,56,21,0,35
+Desha,Randolph W1,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,137,92,5,40
+Desha,Randolph W2,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,196,115,7,74
+Desha,Randolph W3,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,102,65,3,34
+Desha,Randolph W4,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,150,113,3,34
+Desha,Randolph Rural,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,10,4,2,4
+Desha,Redfork,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,42,25,0,17
+Desha,Richland,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,5,2,1,2
+Desha,Silverlake,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,24,16,1,7
+Desha,Walnut Lake,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,12,11,0,1
+Desha,Bowie W1,State Senate,08,LIB,David Dinwiddie,143,103,0,40
+Desha,Bowie W2,State Senate,08,LIB,David Dinwiddie,124,74,2,48
+Desha,Bowie W3,State Senate,08,LIB,David Dinwiddie,30,19,0,11
+Desha,Bowie Rural,State Senate,08,LIB,David Dinwiddie,8,7,0,1
+Desha,Clayton McArthur,State Senate,08,LIB,David Dinwiddie,30,23,0,7
+Desha,Clayton Reed,State Senate,08,LIB,David Dinwiddie,0,0,0,0
+Desha,Clayton Tillar,State Senate,08,LIB,David Dinwiddie,1,1,0,0
+Desha,Franklin,State Senate,08,LIB,David Dinwiddie,27,17,0,10
+Desha,Halley,State Senate,08,LIB,David Dinwiddie,25,17,0,8
+Desha,Jefferson,State Senate,08,LIB,David Dinwiddie,22,16,0,6
+Desha,Mississippi,State Senate,08,LIB,David Dinwiddie,0,0,0,0
+Desha,Mitchellville,State Senate,08,LIB,David Dinwiddie,2,1,0,1
+Desha,Randolph W1,State Senate,08,LIB,David Dinwiddie,38,24,6,8
+Desha,Randolph W2,State Senate,08,LIB,David Dinwiddie,28,14,3,11
+Desha,Randolph W3,State Senate,08,LIB,David Dinwiddie,81,54,5,22
+Desha,Randolph W4,State Senate,08,LIB,David Dinwiddie,51,34,0,17
+Desha,Randolph Rural,State Senate,08,LIB,David Dinwiddie,9,6,0,3
+Desha,Redfork,State Senate,08,LIB,David Dinwiddie,55,20,2,33
+Desha,Richland,State Senate,08,LIB,David Dinwiddie,31,25,0,6
+Desha,Silverlake,State Senate,08,LIB,David Dinwiddie,53,37,3,13
+Desha,Walnut Lake,State Senate,08,LIB,David Dinwiddie,22,18,0,4
+Desha,Bowie W1,State Senate,08,DEM,Senator Stephanie Flowers,194,113,4,77
+Desha,Bowie W2,State Senate,08,DEM,Senator Stephanie Flowers,222,128,12,82
+Desha,Bowie W3,State Senate,08,DEM,Senator Stephanie Flowers,151,104,5,42
+Desha,Bowie Rural,State Senate,08,DEM,Senator Stephanie Flowers,23,19,0,4
+Desha,Clayton McArthur,State Senate,08,DEM,Senator Stephanie Flowers,59,43,1,15
+Desha,Clayton Reed,State Senate,08,DEM,Senator Stephanie Flowers,43,22,2,19
+Desha,Clayton Tillar,State Senate,08,DEM,Senator Stephanie Flowers,7,3,0,4
+Desha,Franklin,State Senate,08,DEM,Senator Stephanie Flowers,75,47,4,24
+Desha,Halley,State Senate,08,DEM,Senator Stephanie Flowers,23,16,1,6
+Desha,Jefferson,State Senate,08,DEM,Senator Stephanie Flowers,29,21,3,5
+Desha,Mississippi,State Senate,08,DEM,Senator Stephanie Flowers,2,0,1,1
+Desha,Mitchellville,State Senate,08,DEM,Senator Stephanie Flowers,58,23,0,35
+Desha,Randolph W1,State Senate,08,DEM,Senator Stephanie Flowers,203,148,5,50
+Desha,Randolph W2,State Senate,08,DEM,Senator Stephanie Flowers,211,127,7,77
+Desha,Randolph W3,State Senate,08,DEM,Senator Stephanie Flowers,162,107,5,50
+Desha,Randolph W4,State Senate,08,DEM,Senator Stephanie Flowers,199,141,6,52
+Desha,Randolph Rural,State Senate,08,DEM,Senator Stephanie Flowers,16,9,2,5
+Desha,Redfork,State Senate,08,DEM,Senator Stephanie Flowers,76,42,0,34
+Desha,Richland,State Senate,08,DEM,Senator Stephanie Flowers,34,18,3,13
+Desha,Silverlake,State Senate,08,DEM,Senator Stephanie Flowers,52,37,2,13
+Desha,Walnut Lake,State Senate,08,DEM,Senator Stephanie Flowers,20,16,0,4
+Desha,Franklin,State House,62,DEM,Dexter R. Miller,48,32,2,14
+Desha,Jefferson,State House,62,DEM,Dexter R. Miller,12,9,2,1
+Desha,Mississippi,State House,62,DEM,Dexter R. Miller,1,0,1,0
+Desha,Redfork,State House,62,DEM,Dexter R. Miller,41,27,1,13
+Desha,Richland,State House,62,DEM,Dexter R. Miller,4,3,1,0
+Desha,Silverlake,State House,62,DEM,Dexter R. Miller,0,0,0,0
+Desha,Franklin,State House,62,REP,Representative Mark D. McElroy,74,48,2,24
+Desha,Jefferson,State House,62,REP,Representative Mark D. McElroy,52,36,2,14
+Desha,Mississippi,State House,62,REP,Representative Mark D. McElroy,4,3,0,1
+Desha,Redfork,State House,62,REP,Representative Mark D. McElroy,130,52,1,77
+Desha,Richland,State House,62,REP,Representative Mark D. McElroy,80,49,2,29
+Desha,Silverlake,State House,62,REP,Representative Mark D. McElroy,0,0,0,0
+Desha,Mitchellville,State House,64,DEM,Representative Ken Ferguson,57,23,0,34
+Desha,Randolph W1,State House,64,DEM,Representative Ken Ferguson,198,137,10,51
+Desha,Randolph W2,State House,64,DEM,Representative Ken Ferguson,214,124,9,81
+Desha,Randolph W3,State House,64,DEM,Representative Ken Ferguson,196,129,9,58
+Desha,Randolph W4,State House,64,DEM,Representative Ken Ferguson,223,158,6,59
+Desha,Randolph Rural,State House,64,DEM,Representative Ken Ferguson,20,10,2,8
+Desha,Silverlake,State House,64,DEM,Representative Ken Ferguson,77,54,4,19
+Desha,Bowie W1,State House,94,REP,State Representative Jeffrey Wardlaw,307,208,0,99
+Desha,Bowie W2,State House,94,REP,State Representative Jeffrey Wardlaw,253,169,3,81
+Desha,Bowie W3,State House,94,REP,State Representative Jeffrey Wardlaw,51,37,1,13
+Desha,Bowie Rural,State House,94,REP,State Representative Jeffrey Wardlaw,21,17,0,4
+Desha,Clayton McArthur,State House,94,REP,State Representative Jeffrey Wardlaw,60,41,0,19
+Desha,Clayton Reed,State House,94,REP,State Representative Jeffrey Wardlaw,0,0,0,0
+Desha,Clayton Tillar,State House,94,REP,State Representative Jeffrey Wardlaw,6,4,0,2
+Desha,Halley,State House,94,REP,State Representative Jeffrey Wardlaw,44,31,0,13
+Desha,Walnut Lake,State House,94,REP,State Representative Jeffrey Wardlaw,34,24,0,10
+Desha,Bowie W1,State House,94,DEM,Curley Jackson,84,47,3,34
+Desha,Bowie W2,State House,94,DEM,Curley Jackson,135,64,12,59
+Desha,Bowie W3,State House,94,DEM,Curley Jackson,143,95,4,44
+Desha,Bowie Rural,State House,94,DEM,Curley Jackson,14,13,0,1
+Desha,Clayton McArthur,State House,94,DEM,Curley Jackson,44,35,1,8
+Desha,Clayton Reed,State House,94,DEM,Curley Jackson,45,25,2,18
+Desha,Clayton Tillar,State House,94,DEM,Curley Jackson,2,0,0,2
+Desha,Halley,State House,94,DEM,Curley Jackson,14,9,1,4
+Desha,Walnut Lake,State House,94,DEM,Curley Jackson,11,10,0,1
+Desha,Bowie W1,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,151,86,1,64
+Desha,Bowie W2,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,133,76,4,53
+Desha,Bowie W3,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,86,61,0,25
+Desha,Bowie Rural,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,10,10,0,0
+Desha,Clayton McArthur,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,40,30,0,10
+Desha,Clayton Reed,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,12,6,0,6
+Desha,Clayton Tillar,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,1,1,0,0
+Desha,Franklin,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,44,28,2,14
+Desha,Halley,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,26,17,1,8
+Desha,Jefferson,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,13,10,0,3
+Desha,Mississippi,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,4,3,0,1
+Desha,Mitchellville,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,29,10,0,19
+Desha,Randolph W1,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,56,33,2,21
+Desha,Randolph W2,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,102,54,2,46
+Desha,Randolph W3,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,93,66,0,27
+Desha,Randolph W4,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,104,69,2,33
+Desha,Randolph Rural,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,12,7,1,4
+Desha,Redfork,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,56,25,0,31
+Desha,Richland,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,31,22,1,8
+Desha,Silverlake,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,34,24,2,8
+Desha,Walnut Lake,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,11,9,0,2
+Desha,Bowie W1,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,193,141,1,51
+Desha,Bowie W2,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,214,133,9,72
+Desha,Bowie W3,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,75,50,3,22
+Desha,Bowie Rural,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,17,13,0,4
+Desha,Clayton McArthur,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,45,30,1,14
+Desha,Clayton Reed,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,19,11,2,6
+Desha,Clayton Tillar,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,6,3,0,3
+Desha,Franklin,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,53,33,2,18
+Desha,Halley,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,25,17,0,8
+Desha,Jefferson,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,33,26,3,4
+Desha,Mississippi,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,1,0,1,0
+Desha,Mitchellville,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,25,11,0,14
+Desha,Randolph W1,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,153,114,8,31
+Desha,Randolph W2,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,104,65,7,32
+Desha,Randolph W3,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,137,87,10,40
+Desha,Randolph W4,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,115,81,3,31
+Desha,Randolph Rural,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,14,8,1,5
+Desha,Redfork,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,75,37,2,36
+Desha,Richland,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,41,26,2,13
+Desha,Silverlake,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,67,44,3,20
+Desha,Walnut Lake,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,31,23,0,8
+Desha,Bowie W1,Desha County Clerk,,REP,REP Renee Baxter,197,124,0,73
+Desha,Bowie W2,Desha County Clerk,,REP,REP Renee Baxter,173,111,2,60
+Desha,Bowie W3,Desha County Clerk,,REP,REP Renee Baxter,39,27,1,11
+Desha,Bowie Rural,Desha County Clerk,,REP,REP Renee Baxter,20,16,0,4
+Desha,Clayton McArthur,Desha County Clerk,,REP,REP Renee Baxter,32,26,0,6
+Desha,Clayton Reed,Desha County Clerk,,REP,REP Renee Baxter,1,0,0,1
+Desha,Clayton Tillar,Desha County Clerk,,REP,REP Renee Baxter,4,2,0,2
+Desha,Franklin,Desha County Clerk,,REP,REP Renee Baxter,45,32,0,13
+Desha,Halley,Desha County Clerk,,REP,REP Renee Baxter,38,25,0,13
+Desha,Jefferson,Desha County Clerk,,REP,REP Renee Baxter,27,17,0,10
+Desha,Mississippi,Desha County Clerk,,REP,REP Renee Baxter,1,0,0,1
+Desha,Mitchellville,Desha County Clerk,,REP,REP Renee Baxter,1,1,0,0
+Desha,Randolph W1,Desha County Clerk,,REP,REP Renee Baxter,49,40,0,9
+Desha,Randolph W2,Desha County Clerk,,REP,REP Renee Baxter,26,8,2,16
+Desha,Randolph W3,Desha County Clerk,,REP,REP Renee Baxter,76,43,4,29
+Desha,Randolph W4,Desha County Clerk,,REP,REP Renee Baxter,62,36,0,26
+Desha,Randolph Rural,Desha County Clerk,,REP,REP Renee Baxter,6,2,0,4
+Desha,Redfork,Desha County Clerk,,REP,REP Renee Baxter,87,36,2,49
+Desha,Richland,Desha County Clerk,,REP,REP Renee Baxter,49,32,1,16
+Desha,Silverlake,Desha County Clerk,,REP,REP Renee Baxter,54,37,3,14
+Desha,Walnut Lake,Desha County Clerk,,REP,REP Renee Baxter,22,15,0,7
+Desha,Bowie W1,Desha County Clerk,,DEM,"DEM County Clerk, Valerie Donaldson",203,138,4,61
+Desha,Bowie W2,Desha County Clerk,,DEM,"DEM County Clerk, Valerie Donaldson",224,128,12,84
+Desha,Bowie W3,Desha County Clerk,,DEM,"DEM County Clerk, Valerie Donaldson",159,109,4,46
+Desha,Bowie Rural,Desha County Clerk,,DEM,"DEM County Clerk, Valerie Donaldson",16,14,0,2
+Desha,Clayton McArthur,Desha County Clerk,,DEM,"DEM County Clerk, Valerie Donaldson",72,50,1,21
+Desha,Clayton Reed,Desha County Clerk,,DEM,"DEM County Clerk, Valerie Donaldson",45,23,2,20
+Desha,Clayton Tillar,Desha County Clerk,,DEM,"DEM County Clerk, Valerie Donaldson",4,2,0,2
+Desha,Franklin,Desha County Clerk,,DEM,"DEM County Clerk, Valerie Donaldson",80,49,4,27
+Desha,Halley,Desha County Clerk,,DEM,"DEM County Clerk, Valerie Donaldson",26,16,1,9
+Desha,Jefferson,Desha County Clerk,,DEM,"DEM County Clerk, Valerie Donaldson",38,28,4,6
+Desha,Mississippi,Desha County Clerk,,DEM,"DEM County Clerk, Valerie Donaldson",4,3,1,0
+Desha,Mitchellville,Desha County Clerk,,DEM,"DEM County Clerk, Valerie Donaldson",61,24,0,37
+Desha,Randolph W1,Desha County Clerk,,DEM,"DEM County Clerk, Valerie Donaldson",216,150,11,55
+Desha,Randolph W2,Desha County Clerk,,DEM,"DEM County Clerk, Valerie Donaldson",239,154,8,77
+Desha,Randolph W3,Desha County Clerk,,DEM,"DEM County Clerk, Valerie Donaldson",213,148,7,58
+Desha,Randolph W4,Desha County Clerk,,DEM,"DEM County Clerk, Valerie Donaldson",213,149,6,58
+Desha,Randolph Rural,Desha County Clerk,,DEM,"DEM County Clerk, Valerie Donaldson",24,16,2,6
+Desha,Redfork,Desha County Clerk,,DEM,"DEM County Clerk, Valerie Donaldson",83,44,0,39
+Desha,Richland,Desha County Clerk,,DEM,"DEM County Clerk, Valerie Donaldson",34,20,1,13
+Desha,Silverlake,Desha County Clerk,,DEM,"DEM County Clerk, Valerie Donaldson",66,45,2,19
+Desha,Walnut Lake,Desha County Clerk,,DEM,"DEM County Clerk, Valerie Donaldson",25,20,0,5
+Desha,Bowie W1,Desha County Treasurer,,REP,REP Faye Ann Moreland,119,72,1,46
+Desha,Bowie W2,Desha County Treasurer,,REP,REP Faye Ann Moreland,107,65,2,40
+Desha,Bowie W3,Desha County Treasurer,,REP,REP Faye Ann Moreland,30,21,0,9
+Desha,Bowie Rural,Desha County Treasurer,,REP,REP Faye Ann Moreland,10,8,0,2
+Desha,Clayton McArthur,Desha County Treasurer,,REP,REP Faye Ann Moreland,12,10,0,2
+Desha,Clayton Reed,Desha County Treasurer,,REP,REP Faye Ann Moreland,0,0,0,0
+Desha,Clayton Tillar,Desha County Treasurer,,REP,REP Faye Ann Moreland,4,2,0,2
+Desha,Franklin,Desha County Treasurer,,REP,REP Faye Ann Moreland,24,18,0,6
+Desha,Halley,Desha County Treasurer,,REP,REP Faye Ann Moreland,26,17,0,9
+Desha,Jefferson,Desha County Treasurer,,REP,REP Faye Ann Moreland,30,19,0,11
+Desha,Mississippi,Desha County Treasurer,,REP,REP Faye Ann Moreland,1,0,0,1
+Desha,Mitchellville,Desha County Treasurer,,REP,REP Faye Ann Moreland,5,0,0,5
+Desha,Randolph W1,Desha County Treasurer,,REP,REP Faye Ann Moreland,90,71,0,19
+Desha,Randolph W2,Desha County Treasurer,,REP,REP Faye Ann Moreland,48,31,2,15
+Desha,Randolph W3,Desha County Treasurer,,REP,REP Faye Ann Moreland,128,74,5,49
+Desha,Randolph W4,Desha County Treasurer,,REP,REP Faye Ann Moreland,115,74,0,41
+Desha,Randolph Rural,Desha County Treasurer,,REP,REP Faye Ann Moreland,11,7,0,4
+Desha,Redfork,Desha County Treasurer,,REP,REP Faye Ann Moreland,81,28,2,51
+Desha,Richland,Desha County Treasurer,,REP,REP Faye Ann Moreland,32,16,0,16
+Desha,Silverlake,Desha County Treasurer,,REP,REP Faye Ann Moreland,75,47,3,25
+Desha,Walnut Lake,Desha County Treasurer,,REP,REP Faye Ann Moreland,25,20,0,5
+Desha,Bowie W1,Desha County Treasurer,,DEM,"DEM Treasurer, Shirley Snow Kozubski",280,189,3,88
+Desha,Bowie W2,Desha County Treasurer,,DEM,"DEM Treasurer, Shirley Snow Kozubski",291,177,13,101
+Desha,Bowie W3,Desha County Treasurer,,DEM,"DEM Treasurer, Shirley Snow Kozubski",160,109,5,46
+Desha,Bowie Rural,Desha County Treasurer,,DEM,"DEM Treasurer, Shirley Snow Kozubski",25,22,0,3
+Desha,Clayton McArthur,Desha County Treasurer,,DEM,"DEM Treasurer, Shirley Snow Kozubski",93,67,1,25
+Desha,Clayton Reed,Desha County Treasurer,,DEM,"DEM Treasurer, Shirley Snow Kozubski",44,24,2,18
+Desha,Clayton Tillar,Desha County Treasurer,,DEM,"DEM Treasurer, Shirley Snow Kozubski",4,2,0,2
+Desha,Franklin,Desha County Treasurer,,DEM,"DEM Treasurer, Shirley Snow Kozubski",102,64,4,34
+Desha,Halley,Desha County Treasurer,,DEM,"DEM Treasurer, Shirley Snow Kozubski",37,24,1,12
+Desha,Jefferson,Desha County Treasurer,,DEM,"DEM Treasurer, Shirley Snow Kozubski",35,26,4,5
+Desha,Mississippi,Desha County Treasurer,,DEM,"DEM Treasurer, Shirley Snow Kozubski",4,3,1,0
+Desha,Mitchellville,Desha County Treasurer,,DEM,"DEM Treasurer, Shirley Snow Kozubski",56,23,0,33
+Desha,Randolph W1,Desha County Treasurer,,DEM,"DEM Treasurer, Shirley Snow Kozubski",164,111,11,42
+Desha,Randolph W2,Desha County Treasurer,,DEM,"DEM Treasurer, Shirley Snow Kozubski",201,117,8,76
+Desha,Randolph W3,Desha County Treasurer,,DEM,"DEM Treasurer, Shirley Snow Kozubski",154,111,7,36
+Desha,Randolph W4,Desha County Treasurer,,DEM,"DEM Treasurer, Shirley Snow Kozubski",155,108,6,41
+Desha,Randolph Rural,Desha County Treasurer,,DEM,"DEM Treasurer, Shirley Snow Kozubski",19,11,2,6
+Desha,Redfork,Desha County Treasurer,,DEM,"DEM Treasurer, Shirley Snow Kozubski",91,52,0,39
+Desha,Richland,Desha County Treasurer,,DEM,"DEM Treasurer, Shirley Snow Kozubski",53,37,2,14
+Desha,Silverlake,Desha County Treasurer,,DEM,"DEM Treasurer, Shirley Snow Kozubski",44,34,2,8
+Desha,Walnut Lake,Desha County Treasurer,,DEM,"DEM Treasurer, Shirley Snow Kozubski",22,15,0,7
+Desha,Bowie W1,Desha County Circuit Clerk,,DEM,"DEM Circuit Clerk, Kristin N. Christ",337,215,3,119
+Desha,Bowie W2,Desha County Circuit Clerk,,DEM,"DEM Circuit Clerk, Kristin N. Christ",347,204,14,129
+Desha,Bowie W3,Desha County Circuit Clerk,,DEM,"DEM Circuit Clerk, Kristin N. Christ",177,119,5,53
+Desha,Bowie Rural,Desha County Circuit Clerk,,DEM,"DEM Circuit Clerk, Kristin N. Christ",33,28,0,5
+Desha,Clayton McArthur,Desha County Circuit Clerk,,DEM,"DEM Circuit Clerk, Kristin N. Christ",92,67,1,24
+Desha,Clayton Reed,Desha County Circuit Clerk,,DEM,"DEM Circuit Clerk, Kristin N. Christ",38,19,2,17
+Desha,Clayton Tillar,Desha County Circuit Clerk,,DEM,"DEM Circuit Clerk, Kristin N. Christ",7,3,0,4
+Desha,Franklin,Desha County Circuit Clerk,,DEM,"DEM Circuit Clerk, Kristin N. Christ",104,67,4,33
+Desha,Halley,Desha County Circuit Clerk,,DEM,"DEM Circuit Clerk, Kristin N. Christ",48,30,1,17
+Desha,Jefferson,Desha County Circuit Clerk,,DEM,"DEM Circuit Clerk, Kristin N. Christ",56,40,4,12
+Desha,Mississippi,Desha County Circuit Clerk,,DEM,"DEM Circuit Clerk, Kristin N. Christ",2,0,1,1
+Desha,Mitchellville,Desha County Circuit Clerk,,DEM,"DEM Circuit Clerk, Kristin N. Christ",54,22,0,32
+Desha,Randolph W1,Desha County Circuit Clerk,,DEM,"DEM Circuit Clerk, Kristin N. Christ",217,153,11,53
+Desha,Randolph W2,Desha County Circuit Clerk,,DEM,"DEM Circuit Clerk, Kristin N. Christ",219,127,9,83
+Desha,Randolph W3,Desha County Circuit Clerk,,DEM,"DEM Circuit Clerk, Kristin N. Christ",229,153,10,66
+Desha,Randolph W4,Desha County Circuit Clerk,,DEM,"DEM Circuit Clerk, Kristin N. Christ",235,168,6,61
+Desha,Randolph Rural,Desha County Circuit Clerk,,DEM,"DEM Circuit Clerk, Kristin N. Christ",23,14,2,7
+Desha,Redfork,Desha County Circuit Clerk,,DEM,"DEM Circuit Clerk, Kristin N. Christ",130,61,2,67
+Desha,Richland,Desha County Circuit Clerk,,DEM,"DEM Circuit Clerk, Kristin N. Christ",68,44,3,21
+Desha,Silverlake,Desha County Circuit Clerk,,DEM,"DEM Circuit Clerk, Kristin N. Christ",98,63,5,30
+Desha,Walnut Lake,Desha County Circuit Clerk,,DEM,"DEM Circuit Clerk, Kristin N. Christ",41,31,0,10
+Desha,Bowie W1,Desha County Sheriff,,REP,REP Clint Bradberry,171,117,1,53
+Desha,Bowie W2,Desha County Sheriff,,REP,REP Clint Bradberry,162,106,3,53
+Desha,Bowie W3,Desha County Sheriff,,REP,REP Clint Bradberry,45,35,0,10
+Desha,Bowie Rural,Desha County Sheriff,,REP,REP Clint Bradberry,15,13,0,2
+Desha,Clayton McArthur,Desha County Sheriff,,REP,REP Clint Bradberry,49,36,1,12
+Desha,Clayton Reed,Desha County Sheriff,,REP,REP Clint Bradberry,8,4,0,4
+Desha,Clayton Tillar,Desha County Sheriff,,REP,REP Clint Bradberry,0,0,0,0
+Desha,Franklin,Desha County Sheriff,,REP,REP Clint Bradberry,50,36,0,14
+Desha,Halley,Desha County Sheriff,,REP,REP Clint Bradberry,37,26,0,11
+Desha,Jefferson,Desha County Sheriff,,REP,REP Clint Bradberry,13,7,2,4
+Desha,Mississippi,Desha County Sheriff,,REP,REP Clint Bradberry,1,0,0,1
+Desha,Mitchellville,Desha County Sheriff,,REP,REP Clint Bradberry,9,3,0,6
+Desha,Randolph W1,Desha County Sheriff,,REP,REP Clint Bradberry,58,46,0,12
+Desha,Randolph W2,Desha County Sheriff,,REP,REP Clint Bradberry,51,28,3,20
+Desha,Randolph W3,Desha County Sheriff,,REP,REP Clint Bradberry,83,51,4,28
+Desha,Randolph W4,Desha County Sheriff,,REP,REP Clint Bradberry,87,52,3,32
+Desha,Randolph Rural,Desha County Sheriff,,REP,REP Clint Bradberry,7,4,0,3
+Desha,Redfork,Desha County Sheriff,,REP,REP Clint Bradberry,60,25,2,33
+Desha,Richland,Desha County Sheriff,,REP,REP Clint Bradberry,39,22,2,15
+Desha,Silverlake,Desha County Sheriff,,REP,REP Clint Bradberry,45,26,3,16
+Desha,Walnut Lake,Desha County Sheriff,,REP,REP Clint Bradberry,19,13,0,6
+Desha,Bowie W1,Desha County Sheriff,,DEM,DEM Mitch Grant,228,145,3,80
+Desha,Bowie W2,Desha County Sheriff,,DEM,DEM Mitch Grant,241,138,12,91
+Desha,Bowie W3,Desha County Sheriff,,DEM,DEM Mitch Grant,153,102,4,47
+Desha,Bowie Rural,Desha County Sheriff,,DEM,DEM Mitch Grant,20,17,0,3
+Desha,Clayton McArthur,Desha County Sheriff,,DEM,DEM Mitch Grant,58,42,0,16
+Desha,Clayton Reed,Desha County Sheriff,,DEM,DEM Mitch Grant,40,21,2,17
+Desha,Clayton Tillar,Desha County Sheriff,,DEM,DEM Mitch Grant,8,4,0,4
+Desha,Franklin,Desha County Sheriff,,DEM,DEM Mitch Grant,80,47,4,29
+Desha,Halley,Desha County Sheriff,,DEM,DEM Mitch Grant,27,14,1,12
+Desha,Jefferson,Desha County Sheriff,,DEM,DEM Mitch Grant,51,37,2,12
+Desha,Mississippi,Desha County Sheriff,,DEM,DEM Mitch Grant,4,3,1,0
+Desha,Mitchellville,Desha County Sheriff,,DEM,DEM Mitch Grant,55,23,0,32
+Desha,Randolph W1,Desha County Sheriff,,DEM,DEM Mitch Grant,201,138,12,51
+Desha,Randolph W2,Desha County Sheriff,,DEM,DEM Mitch Grant,198,122,7,69
+Desha,Randolph W3,Desha County Sheriff,,DEM,DEM Mitch Grant,197,134,8,55
+Desha,Randolph W4,Desha County Sheriff,,DEM,DEM Mitch Grant,179,129,3,47
+Desha,Randolph Rural,Desha County Sheriff,,DEM,DEM Mitch Grant,23,14,2,7
+Desha,Redfork,Desha County Sheriff,,DEM,DEM Mitch Grant,113,57,0,56
+Desha,Richland,Desha County Sheriff,,DEM,DEM Mitch Grant,46,30,1,15
+Desha,Silverlake,Desha County Sheriff,,DEM,DEM Mitch Grant,76,56,2,18
+Desha,Walnut Lake,Desha County Sheriff,,DEM,DEM Mitch Grant,28,22,0,6
+Desha,Mississippi,Desha County Justice of the Peace,5,DEM,DEM Ricky Cantrell,1,0,1,0
+Desha,Redfork,Desha County Justice of the Peace,5,DEM,DEM Ricky Cantrell,58,36,0,22
+Desha,Richland,Desha County Justice of the Peace,5,DEM,DEM Ricky Cantrell,13,6,1,6
+Desha,Silverlake,Desha County Justice of the Peace,5,DEM,DEM Ricky Cantrell,17,11,2,4
+Desha,Mississippi,Desha County Justice of the Peace,5,REP,REP Hollis Mankin,4,3,0,1
+Desha,Redfork,Desha County Justice of the Peace,5,REP,REP Hollis Mankin,115,46,2,67
+Desha,Richland,Desha County Justice of the Peace,5,REP,REP Hollis Mankin,71,47,1,23
+Desha,Silverlake,Desha County Justice of the Peace,5,REP,REP Hollis Mankin,52,33,3,16
+Desha,Bowie W1,Desha County Justice of the Peace,6,REP,"REP Ken Holt, Jr.",43,36,0,7
+Desha,Bowie W2,Desha County Justice of the Peace,6,REP,"REP Ken Holt, Jr.",0,0,0,0
+Desha,Bowie Rural,Desha County Justice of the Peace,6,REP,"REP Ken Holt, Jr.",2,2,0,0
+Desha,Clayton McArthur,Desha County Justice of the Peace,6,REP,"REP Ken Holt, Jr.",63,45,0,18
+Desha,Clayton Reed,Desha County Justice of the Peace,6,REP,"REP Ken Holt, Jr.",5,1,0,4
+Desha,Clayton Tillar,Desha County Justice of the Peace,6,REP,"REP Ken Holt, Jr.",6,4,0,2
+Desha,Franklin,Desha County Justice of the Peace,6,REP,"REP Ken Holt, Jr.",73,48,2,23
+Desha,Halley,Desha County Justice of the Peace,6,REP,"REP Ken Holt, Jr.",8,5,0,3
+Desha,Jefferson,Desha County Justice of the Peace,6,REP,"REP Ken Holt, Jr.",52,36,1,15
+Desha,Bowie W1,Desha County Justice of the Peace,6,DEM,DEM Richard C. Smith,6,3,0,3
+Desha,Bowie W2,Desha County Justice of the Peace,6,DEM,DEM Richard C. Smith,0,0,0,0
+Desha,Bowie Rural,Desha County Justice of the Peace,6,DEM,DEM Richard C. Smith,2,2,0,0
+Desha,Clayton McArthur,Desha County Justice of the Peace,6,DEM,DEM Richard C. Smith,44,33,1,10
+Desha,Clayton Reed,Desha County Justice of the Peace,6,DEM,DEM Richard C. Smith,47,26,2,19
+Desha,Clayton Tillar,Desha County Justice of the Peace,6,DEM,DEM Richard C. Smith,2,0,0,2
+Desha,Franklin,Desha County Justice of the Peace,6,DEM,DEM Richard C. Smith,53,35,2,16
+Desha,Halley,Desha County Justice of the Peace,6,DEM,DEM Richard C. Smith,8,6,1,1
+Desha,Jefferson,Desha County Justice of the Peace,6,DEM,DEM Richard C. Smith,12,8,3,1
+Desha,Bowie W2,Desha County Justice of the Peace,8,DEM,DEM Dollie A. Wilson,71,32,10,29
+Desha,Bowie W3,Desha County Justice of the Peace,8,DEM,DEM Dollie A. Wilson,79,55,2,22
+Desha,Bowie Rural,Desha County Justice of the Peace,8,DEM,DEM Dollie A. Wilson,15,14,0,1
+Desha,Bowie W2,Desha County Justice of the Peace,8,REP,REP Lynn Bliss,105,62,0,43
+Desha,Bowie W3,Desha County Justice of the Peace,8,REP,REP Lynn Bliss,26,23,0,3
+Desha,Bowie Rural,Desha County Justice of the Peace,8,REP,REP Lynn Bliss,16,11,0,5
+Desha,Randolph W1,City of Dumas Mayor,,NON,"Mayor, Flora J. Simon",103,75,1,27
+Desha,Randolph W2,City of Dumas Mayor,,NON,"Mayor, Flora J. Simon",123,66,6,51
+Desha,Randolph W3,City of Dumas Mayor,,NON,"Mayor, Flora J. Simon",65,46,2,17
+Desha,Randolph W4,City of Dumas Mayor,,NON,"Mayor, Flora J. Simon",96,68,0,28
+Desha,Randolph W1,City of Dumas Mayor,,NON,"Arthur L. Hunt, Jr",19,10,2,7
+Desha,Randolph W2,City of Dumas Mayor,,NON,"Arthur L. Hunt, Jr",19,10,2,7
+Desha,Randolph W3,City of Dumas Mayor,,NON,"Arthur L. Hunt, Jr",9,5,0,4
+Desha,Randolph W4,City of Dumas Mayor,,NON,"Arthur L. Hunt, Jr",13,10,0,3
+Desha,Randolph W1,City of Dumas Mayor,,NON,"Price ""Bubba"" Boney",150,109,9,32
+Desha,Randolph W2,City of Dumas Mayor,,NON,"Price ""Bubba"" Boney",131,90,2,39
+Desha,Randolph W3,City of Dumas Mayor,,NON,"Price ""Bubba"" Boney",217,140,10,67
+Desha,Randolph W4,City of Dumas Mayor,,NON,"Price ""Bubba"" Boney",168,108,6,54
+Desha,Randolph W1,City of Dumas, City Clerk/Treasurer,NON,Norma Jean Miles-Eldridge,208,147,11,50
+Desha,Randolph W2,City of Dumas, City Clerk/Treasurer,NON,Norma Jean Miles-Eldridge,212,125,8,79
+Desha,Randolph W3,City of Dumas, City Clerk/Treasurer,NON,Norma Jean Miles-Eldridge,218,144,9,65
+Desha,Randolph W4,City of Dumas, City Clerk/Treasurer,NON,Norma Jean Miles-Eldridge,224,155,6,63
+Desha,Randolph W1,City of Dumas, Alderman,NON,LERONE THOMAS,95,61,3,31
+Desha,Randolph W2,City of Dumas, Alderman,NON,LERONE THOMAS,173,112,7,54
+Desha,Randolph W3,City of Dumas, Alderman,NON,LERONE THOMAS,77,57,1,19
+Desha,Randolph W4,City of Dumas, Alderman,NON,LERONE THOMAS,97,76,1,20
+Desha,Randolph W1,City of Dumas, Alderman,NON,LINDA WEATHERFORD,167,126,8,33
+Desha,Randolph W2,City of Dumas, Alderman,NON,LINDA WEATHERFORD,91,51,3,37
+Desha,Randolph W3,City of Dumas, Alderman,NON,LINDA WEATHERFORD,209,130,11,68
+Desha,Randolph W4,City of Dumas, Alderman,NON,LINDA WEATHERFORD,172,107,5,60
+Desha,Randolph W1,City of Dumas, Alderman,NON,Aaron Joseph,9,5,0,4
+Desha,Randolph W2,City of Dumas, Alderman,NON,Aaron Joseph,12,5,0,7
+Desha,Randolph W3,City of Dumas, Alderman,NON,Aaron Joseph,8,6,0,2
+Desha,Randolph W4,City of Dumas, Alderman,NON,Aaron Joseph,9,5,0,4
+Desha,Randolph W1,City of Dumas, Alderman,NON,Tironeka Brown,115,79,3,33
+Desha,Randolph W2,City of Dumas, Alderman,NON,Tironeka Brown,176,104,7,65
+Desha,Randolph W3,City of Dumas, Alderman,NON,Tironeka Brown,79,46,3,30
+Desha,Randolph W4,City of Dumas, Alderman,NON,Tironeka Brown,116,86,1,29
+Desha,Randolph W1,City of Dumas, Alderman,NON,Ross Wayne Martin,75,58,5,12
+Desha,Randolph W2,City of Dumas, Alderman,NON,Ross Wayne Martin,40,28,3,9
+Desha,Randolph W3,City of Dumas, Alderman,NON,Ross Wayne Martin,98,66,3,29
+Desha,Randolph W4,City of Dumas, Alderman,NON,Ross Wayne Martin,90,58,5,27
+Desha,Randolph W1,City of Dumas, Alderman,NON,Franklin Healey,61,46,3,12
+Desha,Randolph W2,City of Dumas, Alderman,NON,Franklin Healey,32,19,0,13
+Desha,Randolph W3,City of Dumas, Alderman,NON,Franklin Healey,99,67,6,26
+Desha,Randolph W4,City of Dumas, Alderman,NON,Franklin Healey,52,32,0,20
+Desha,Randolph W1,City of Dumas, Alderman,NON,Kenneth R. Daniels,151,106,5,40
+Desha,Randolph W2,City of Dumas, Alderman,NON,Kenneth R. Daniels,137,71,5,61
+Desha,Randolph W3,City of Dumas, Alderman,NON,Kenneth R. Daniels,175,110,7,58
+Desha,Randolph W4,City of Dumas, Alderman,NON,Kenneth R. Daniels,162,109,2,51
+Desha,Randolph W1,City of Dumas, Alderman,NON,Lonzell Dodds,109,79,6,24
+Desha,Randolph W2,City of Dumas, Alderman,NON,Lonzell Dodds,132,94,4,34
+Desha,Randolph W3,City of Dumas, Alderman,NON,Lonzell Dodds,98,69,4,25
+Desha,Randolph W4,City of Dumas, Alderman,NON,Lonzell Dodds,106,75,4,27
+Desha,Bowie W1,City of McGehee Mayor,,NON,Mayor Jeff Owyoung,337,220,2,115
+Desha,Bowie W2,City of McGehee Mayor,,NON,Mayor Jeff Owyoung,321,200,9,112
+Desha,Bowie W3,City of McGehee Mayor,,NON,Mayor Jeff Owyoung,107,73,2,32
+Desha,Bowie W1,City of McGehee Mayor,,NON,"Ollie L. Reddick, Jr",61,40,2,19
+Desha,Bowie W2,City of McGehee Mayor,,NON,"Ollie L. Reddick, Jr",74,41,4,29
+Desha,Bowie W3,City of McGehee Mayor,,NON,"Ollie L. Reddick, Jr",85,59,2,24
+Desha,Bowie W1,City of McGehee City Clerk,,NON,Marcia Massey,366,238,3,125
+Desha,Bowie W2,City of McGehee City Clerk,,NON,Marcia Massey,367,224,14,129
+Desha,Bowie W3,City of McGehee City Clerk,,NON,Marcia Massey,166,112,4,50
+Desha,Franklin,City of Arkansas City Mayor,,NON,Darlene King,54,33,0,21
+Desha,Franklin,City of Arkansas City Mayor,,NON,Carolyne Blissitt,68,45,4,19
+Desha,Mitchellville,City of Mitchellville, Mayor,NON,Mayor Carl Griswold,60,25,0,35
+Desha,Clayton Reed,City of Reed, Mayor,NON,George E. Barnes,6,2,0,4
+Desha,Clayton Reed,City of Reed, Mayor,NON,"Lawrence E. Barnes, Sr",45,28,2,15
+Desha,Redfork,City of Watson, Mayor,NON,Mayor Harold Dean Douthit,56,27,0,29
+Desha,Franklin,AC 2% Sales & Use Tax,,NON,FOR adoption of a 2% local sales and,59,44,2,13
+Desha,Franklin,AC 2% Sales & Use Tax,,NON,AGAINST adoption of a 2% local sales,56,29,2,25
+Desha,Bowie W1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,161,103,0,58
+Desha,Bowie W2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,158,84,9,65
+Desha,Bowie W3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,81,56,3,22
+Desha,Bowie Rural,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,14,13,0,1
+Desha,Clayton McArthur,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,39,28,1,10
+Desha,Clayton Reed,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,25,17,0,8
+Desha,Clayton Tillar,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,3,0,0,3
+Desha,Franklin,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,45,25,2,18
+Desha,Halley,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,25,16,1,8
+Desha,Jefferson,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,17,11,1,5
+Desha,Mississippi,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,1,0,1,0
+Desha,Mitchellville,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,25,8,0,17
+Desha,Randolph W1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,99,71,4,24
+Desha,Randolph W2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,100,58,6,36
+Desha,Randolph W3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,97,62,9,26
+Desha,Randolph W4,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,114,79,3,32
+Desha,Randolph Rural,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,13,7,0,6
+Desha,Redfork,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,61,30,2,29
+Desha,Richland,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,38,21,2,15
+Desha,Silverlake,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,40,27,1,12
+Desha,Walnut Lake,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,16,11,0,5
+Desha,Bowie W1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,210,140,1,69
+Desha,Bowie W2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,213,140,4,69
+Desha,Bowie W3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,96,64,2,30
+Desha,Bowie Rural,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,18,14,0,4
+Desha,Clayton McArthur,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,57,42,0,15
+Desha,Clayton Reed,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,17,6,2,9
+Desha,Clayton Tillar,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,4,4,0,0
+Desha,Franklin,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,67,46,2,19
+Desha,Halley,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,37,24,0,13
+Desha,Jefferson,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,37,30,1,6
+Desha,Mississippi,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,4,3,0,1
+Desha,Mitchellville,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,32,15,0,17
+Desha,Randolph W1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,141,104,5,32
+Desha,Randolph W2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,126,73,4,49
+Desha,Randolph W3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,164,109,2,53
+Desha,Randolph W4,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,126,79,2,45
+Desha,Randolph Rural,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,17,12,2,3
+Desha,Redfork,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,96,45,0,51
+Desha,Richland,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,44,30,1,13
+Desha,Silverlake,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,71,48,3,20
+Desha,Walnut Lake,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,27,23,0,4
+Desha,Bowie W1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,175,118,0,57
+Desha,Bowie W2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,178,99,6,73
+Desha,Bowie W3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,92,67,2,23
+Desha,Bowie Rural,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,14,13,0,1
+Desha,Clayton McArthur,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,42,30,0,12
+Desha,Clayton Reed,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,16,7,1,8
+Desha,Clayton Tillar,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,1,0,0,1
+Desha,Franklin,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,39,22,1,16
+Desha,Halley,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,20,11,0,9
+Desha,Jefferson,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,22,16,1,5
+Desha,Mississippi,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,4,3,0,1
+Desha,Mitchellville,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,24,9,0,15
+Desha,Randolph W1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,111,80,3,28
+Desha,Randolph W2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,98,63,3,32
+Desha,Randolph W3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,110,65,9,36
+Desha,Randolph W4,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,120,78,2,40
+Desha,Randolph Rural,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,11,7,1,3
+Desha,Redfork,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,59,32,1,26
+Desha,Richland,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,39,25,2,12
+Desha,Silverlake,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,37,26,0,11
+Desha,Walnut Lake,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,13,8,0,5
+Desha,Bowie W1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,203,127,2,74
+Desha,Bowie W2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,200,126,7,67
+Desha,Bowie W3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,99,64,3,32
+Desha,Bowie Rural,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,19,15,0,4
+Desha,Clayton McArthur,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,57,42,1,14
+Desha,Clayton Reed,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,25,16,1,8
+Desha,Clayton Tillar,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,6,4,0,2
+Desha,Franklin,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,77,51,3,23
+Desha,Halley,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,41,28,1,12
+Desha,Jefferson,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,35,26,1,8
+Desha,Mississippi,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,1,0,1,0
+Desha,Mitchellville,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,39,15,0,24
+Desha,Randolph W1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,136,100,7,29
+Desha,Randolph W2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,138,76,7,55
+Desha,Randolph W3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,160,112,2,46
+Desha,Randolph W4,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,135,92,3,40
+Desha,Randolph Rural,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,18,11,1,6
+Desha,Redfork,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,103,43,1,59
+Desha,Richland,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,44,27,1,16
+Desha,Silverlake,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,75,49,4,22
+Desha,Walnut Lake,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,31,26,0,5
+Desha,Bowie W1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,211,136,0,75
+Desha,Bowie W2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,215,117,7,91
+Desha,Bowie W3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,113,77,2,34
+Desha,Bowie Rural,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,19,16,0,3
+Desha,Clayton McArthur,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,52,36,0,16
+Desha,Clayton Reed,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,21,13,1,7
+Desha,Clayton Tillar,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,4,1,0,3
+Desha,Franklin,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,65,41,2,22
+Desha,Halley,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,36,19,1,16
+Desha,Jefferson,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,27,18,2,7
+Desha,Mississippi,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,0,0,0,0
+Desha,Mitchellville,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,33,14,0,19
+Desha,Randolph W1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,133,91,5,37
+Desha,Randolph W2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,131,77,5,49
+Desha,Randolph W3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,173,113,9,51
+Desha,Randolph W4,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,152,107,1,44
+Desha,Randolph Rural,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,14,9,0,5
+Desha,Redfork,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,81,43,2,36
+Desha,Richland,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,45,25,3,17
+Desha,Silverlake,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,50,33,4,13
+Desha,Walnut Lake,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,20,16,0,4
+Desha,Bowie W1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,172,116,2,54
+Desha,Bowie W2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,166,111,6,49
+Desha,Bowie W3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,76,52,3,21
+Desha,Bowie Rural,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,13,11,0,2
+Desha,Clayton McArthur,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,45,33,1,11
+Desha,Clayton Reed,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,20,9,1,10
+Desha,Clayton Tillar,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,3,3,0,0
+Desha,Franklin,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,50,34,2,14
+Desha,Halley,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,24,19,0,5
+Desha,Jefferson,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,31,24,1,6
+Desha,Mississippi,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,5,3,1,1
+Desha,Mitchellville,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,25,9,0,16
+Desha,Randolph W1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,115,90,5,20
+Desha,Randolph W2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,116,69,5,42
+Desha,Randolph W3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,108,71,2,35
+Desha,Randolph W4,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,112,71,4,37
+Desha,Randolph Rural,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,15,9,2,4
+Desha,Redfork,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,81,33,0,48
+Desha,Richland,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,38,27,0,11
+Desha,Silverlake,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,64,43,1,20
+Desha,Walnut Lake,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,24,18,0,6
+Desha,Bowie W1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,165,101,2,62
+Desha,Bowie W2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,183,104,6,73
+Desha,Bowie W3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,119,70,4,45
+Desha,Bowie Rural,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,15,14,0,1
+Desha,Clayton McArthur,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,47,34,1,12
+Desha,Clayton Reed,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,39,20,1,18
+Desha,Clayton Tillar,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,4,0,0,4
+Desha,Franklin,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,81,50,1,30
+Desha,Halley,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,27,17,0,10
+Desha,Jefferson,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,23,14,3,6
+Desha,Mississippi,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,0,0,0,0
+Desha,Mitchellville,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,35,14,0,21
+Desha,Randolph W1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,107,64,6,37
+Desha,Randolph W2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,138,81,4,53
+Desha,Randolph W3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,120,66,10,44
+Desha,Randolph W4,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,130,86,4,40
+Desha,Randolph Rural,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,9,2,2,5
+Desha,Redfork,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,64,33,0,31
+Desha,Richland,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,26,12,2,12
+Desha,Silverlake,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,52,35,1,16
+Desha,Walnut Lake,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,20,15,0,5
+Desha,Bowie W1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,233,161,2,70
+Desha,Bowie W2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,213,135,7,71
+Desha,Bowie W3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,77,66,1,10
+Desha,Bowie Rural,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,21,16,0,5
+Desha,Clayton McArthur,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,60,45,0,15
+Desha,Clayton Reed,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,10,5,1,4
+Desha,Clayton Tillar,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,4,4,0,0
+Desha,Franklin,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,48,32,3,13
+Desha,Halley,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,38,24,1,13
+Desha,Jefferson,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,40,31,1,8
+Desha,Mississippi,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,4,2,1,1
+Desha,Mitchellville,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,25,10,0,15
+Desha,Randolph W1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,154,123,4,27
+Desha,Randolph W2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,119,74,6,39
+Desha,Randolph W3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,161,119,1,41
+Desha,Randolph W4,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,140,96,2,42
+Desha,Randolph Rural,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,20,16,0,4
+Desha,Redfork,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,110,49,2,59
+Desha,Richland,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,59,40,1,18
+Desha,Silverlake,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,65,43,4,18
+Desha,Walnut Lake,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,26,19,0,7

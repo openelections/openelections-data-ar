@@ -1,0 +1,420 @@
+county,precinct,office,district,party,candidate,votes,early_vote,absentee,election_day
+Dallas,JP 1,U.S. Senate,,LIB,Kenneth Cates,1,0,0,1
+Dallas,JP 2,U.S. Senate,,LIB,Kenneth Cates,5,3,0,2
+Dallas,JP 3,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0
+Dallas,JP 4,U.S. Senate,,LIB,Kenneth Cates,6,5,0,1
+Dallas,JP 5,U.S. Senate,,LIB,Kenneth Cates,9,4,0,5
+Dallas,JP 6,U.S. Senate,,LIB,Kenneth Cates,6,4,0,2
+Dallas,JP 7,U.S. Senate,,LIB,Kenneth Cates,7,0,0,7
+Dallas,JP 8,U.S. Senate,,LIB,Kenneth Cates,11,3,0,8
+Dallas,JP 9,U.S. Senate,,LIB,Kenneth Cates,13,7,0,6
+Dallas,JP 1,U.S. Senate,,REP,Senator John Boozman,20,11,0,9
+Dallas,JP 2,U.S. Senate,,REP,Senator John Boozman,53,33,2,18
+Dallas,JP 3,U.S. Senate,,REP,Senator John Boozman,53,33,2,18
+Dallas,JP 4,U.S. Senate,,REP,Senator John Boozman,161,117,7,37
+Dallas,JP 5,U.S. Senate,,REP,Senator John Boozman,210,154,4,52
+Dallas,JP 6,U.S. Senate,,REP,Senator John Boozman,139,66,0,73
+Dallas,JP 7,U.S. Senate,,REP,Senator John Boozman,165,16,0,149
+Dallas,JP 8,U.S. Senate,,REP,Senator John Boozman,252,52,2,198
+Dallas,JP 9,U.S. Senate,,REP,Senator John Boozman,313,160,5,148
+Dallas,JP 1,U.S. Senate,,DEM,Natalie James,93,69,0,24
+Dallas,JP 2,U.S. Senate,,DEM,Natalie James,113,75,0,38
+Dallas,JP 3,U.S. Senate,,DEM,Natalie James,78,57,2,19
+Dallas,JP 4,U.S. Senate,,DEM,Natalie James,57,37,0,20
+Dallas,JP 5,U.S. Senate,,DEM,Natalie James,55,41,1,13
+Dallas,JP 6,U.S. Senate,,DEM,Natalie James,107,28,11,68
+Dallas,JP 7,U.S. Senate,,DEM,Natalie James,66,12,1,53
+Dallas,JP 8,U.S. Senate,,DEM,Natalie James,28,8,0,20
+Dallas,JP 9,U.S. Senate,,DEM,Natalie James,33,22,0,11
+Dallas,JP 1,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,17,10,0,7
+Dallas,JP 2,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,48,28,2,18
+Dallas,JP 3,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,52,33,2,17
+Dallas,JP 4,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,167,120,7,40
+Dallas,JP 5,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,203,147,5,51
+Dallas,JP 6,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,140,67,1,72
+Dallas,JP 7,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,155,16,0,139
+Dallas,JP 8,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,256,55,2,199
+Dallas,JP 9,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,316,163,5,148
+Dallas,JP 1,U.S. Congress District 04,,LIB,Gregory Maxwell,1,0,0,1
+Dallas,JP 2,U.S. Congress District 04,,LIB,Gregory Maxwell,5,2,0,3
+Dallas,JP 3,U.S. Congress District 04,,LIB,Gregory Maxwell,1,1,0,0
+Dallas,JP 4,U.S. Congress District 04,,LIB,Gregory Maxwell,4,3,0,1
+Dallas,JP 5,U.S. Congress District 04,,LIB,Gregory Maxwell,9,4,0,5
+Dallas,JP 6,U.S. Congress District 04,,LIB,Gregory Maxwell,4,1,0,3
+Dallas,JP 7,U.S. Congress District 04,,LIB,Gregory Maxwell,9,2,0,7
+Dallas,JP 8,U.S. Congress District 04,,LIB,Gregory Maxwell,5,0,0,5
+Dallas,JP 9,U.S. Congress District 04,,LIB,Gregory Maxwell,14,8,0,6
+Dallas,JP 1,U.S. Congress District 04,,DEM,John White,98,72,0,26
+Dallas,JP 2,U.S. Congress District 04,,DEM,John White,115,78,0,37
+Dallas,JP 3,U.S. Congress District 04,,DEM,John White,79,57,2,20
+Dallas,JP 4,U.S. Congress District 04,,DEM,John White,50,33,0,17
+Dallas,JP 5,U.S. Congress District 04,,DEM,John White,59,45,0,14
+Dallas,JP 6,U.S. Congress District 04,,DEM,John White,109,32,10,67
+Dallas,JP 7,U.S. Congress District 04,,DEM,John White,70,8,1,61
+Dallas,JP 8,U.S. Congress District 04,,DEM,John White,25,8,0,17
+Dallas,JP 9,U.S. Congress District 04,,DEM,John White,28,19,0,9
+Dallas,JP 1,Attorney General,,REP,Lieutenant Governor Tim Griffin,21,12,0,9
+Dallas,JP 2,Attorney General,,REP,Lieutenant Governor Tim Griffin,52,33,2,17
+Dallas,JP 3,Attorney General,,REP,Lieutenant Governor Tim Griffin,53,31,3,19
+Dallas,JP 4,Attorney General,,REP,Lieutenant Governor Tim Griffin,164,121,7,36
+Dallas,JP 5,Attorney General,,REP,Lieutenant Governor Tim Griffin,208,151,4,53
+Dallas,JP 6,Attorney General,,REP,Lieutenant Governor Tim Griffin,147,69,0,78
+Dallas,JP 7,Attorney General,,REP,Lieutenant Governor Tim Griffin,160,16,0,144
+Dallas,JP 8,Attorney General,,REP,Lieutenant Governor Tim Griffin,263,56,2,205
+Dallas,JP 9,Attorney General,,REP,Lieutenant Governor Tim Griffin,327,168,5,154
+Dallas,JP 1,Attorney General,,DEM,Jesse Gibson,94,70,0,24
+Dallas,JP 2,Attorney General,,DEM,Jesse Gibson,117,76,0,41
+Dallas,JP 3,Attorney General,,DEM,Jesse Gibson,80,61,1,18
+Dallas,JP 4,Attorney General,,DEM,Jesse Gibson,58,36,0,22
+Dallas,JP 5,Attorney General,,DEM,Jesse Gibson,64,47,1,16
+Dallas,JP 6,Attorney General,,DEM,Jesse Gibson,108,31,11,66
+Dallas,JP 7,Attorney General,,DEM,Jesse Gibson,79,12,1,66
+Dallas,JP 8,Attorney General,,DEM,Jesse Gibson,28,7,0,21
+Dallas,JP 9,Attorney General,,DEM,Jesse Gibson,31,21,0,10
+Dallas,JP 1,Auditor of State,,LIB,Simeon Snow,4,1,0,3
+Dallas,JP 2,Auditor of State,,LIB,Simeon Snow,4,3,0,1
+Dallas,JP 3,Auditor of State,,LIB,Simeon Snow,5,3,0,2
+Dallas,JP 4,Auditor of State,,LIB,Simeon Snow,7,3,0,4
+Dallas,JP 5,Auditor of State,,LIB,Simeon Snow,9,6,0,3
+Dallas,JP 6,Auditor of State,,LIB,Simeon Snow,9,4,0,5
+Dallas,JP 7,Auditor of State,,LIB,Simeon Snow,9,1,0,8
+Dallas,JP 8,Auditor of State,,LIB,Simeon Snow,3,0,0,3
+Dallas,JP 9,Auditor of State,,LIB,Simeon Snow,13,7,0,6
+Dallas,JP 1,Auditor of State,,REP,Treasurer of State Dennis Milligan,15,7,0,8
+Dallas,JP 2,Auditor of State,,REP,Treasurer of State Dennis Milligan,54,33,2,19
+Dallas,JP 3,Auditor of State,,REP,Treasurer of State Dennis Milligan,49,28,3,18
+Dallas,JP 4,Auditor of State,,REP,Treasurer of State Dennis Milligan,158,115,7,36
+Dallas,JP 5,Auditor of State,,REP,Treasurer of State Dennis Milligan,197,140,4,53
+Dallas,JP 6,Auditor of State,,REP,Treasurer of State Dennis Milligan,136,65,0,71
+Dallas,JP 7,Auditor of State,,REP,Treasurer of State Dennis Milligan,150,16,0,134
+Dallas,JP 8,Auditor of State,,REP,Treasurer of State Dennis Milligan,257,55,2,200
+Dallas,JP 9,Auditor of State,,REP,Treasurer of State Dennis Milligan,314,160,5,149
+Dallas,JP 1,Auditor of State,,DEM,Diamond Arnold-Johnson,96,73,0,23
+Dallas,JP 2,Auditor of State,,DEM,Diamond Arnold-Johnson,111,74,0,37
+Dallas,JP 3,Auditor of State,,DEM,Diamond Arnold-Johnson,78,60,1,17
+Dallas,JP 4,Auditor of State,,DEM,Diamond Arnold-Johnson,54,37,0,17
+Dallas,JP 5,Auditor of State,,DEM,Diamond Arnold-Johnson,63,48,1,14
+Dallas,JP 6,Auditor of State,,DEM,Diamond Arnold-Johnson,104,30,11,63
+Dallas,JP 7,Auditor of State,,DEM,Diamond Arnold-Johnson,75,10,1,64
+Dallas,JP 8,Auditor of State,,DEM,Diamond Arnold-Johnson,28,8,0,20
+Dallas,JP 9,Auditor of State,,DEM,Diamond Arnold-Johnson,27,20,0,7
+Dallas,JP 1,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,21,11,0,10
+Dallas,JP 2,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,58,39,2,17
+Dallas,JP 3,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,55,36,2,17
+Dallas,JP 4,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,171,123,7,41
+Dallas,JP 5,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,209,147,5,57
+Dallas,JP 6,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,145,69,0,76
+Dallas,JP 7,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,161,17,0,144
+Dallas,JP 8,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,259,56,2,201
+Dallas,JP 9,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,326,170,5,151
+Dallas,JP 1,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,94,70,0,24
+Dallas,JP 2,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,109,71,0,38
+Dallas,JP 3,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,76,54,2,20
+Dallas,JP 4,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,47,31,0,16
+Dallas,JP 5,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,62,49,0,13
+Dallas,JP 6,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,103,30,11,62
+Dallas,JP 7,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,71,10,1,60
+Dallas,JP 8,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,29,7,0,22
+Dallas,JP 9,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,30,19,0,11
+Dallas,JP 1,Governor,,REP,Sarah Huckabee Sanders,15,6,0,9
+Dallas,JP 2,Governor,,REP,Sarah Huckabee Sanders,48,30,2,16
+Dallas,JP 3,Governor,,REP,Sarah Huckabee Sanders,48,28,2,18
+Dallas,JP 4,Governor,,REP,Sarah Huckabee Sanders,152,110,7,35
+Dallas,JP 5,Governor,,REP,Sarah Huckabee Sanders,198,146,2,50
+Dallas,JP 6,Governor,,REP,Sarah Huckabee Sanders,140,67,0,73
+Dallas,JP 7,Governor,,REP,Sarah Huckabee Sanders,154,14,0,140
+Dallas,JP 8,Governor,,REP,Sarah Huckabee Sanders,259,58,2,199
+Dallas,JP 9,Governor,,REP,Sarah Huckabee Sanders,317,163,5,149
+Dallas,JP 1,Governor,,DEM,Chris Jones,104,78,0,26
+Dallas,JP 2,Governor,,DEM,Chris Jones,122,81,0,41
+Dallas,JP 3,Governor,,DEM,Chris Jones,88,67,2,19
+Dallas,JP 4,Governor,,DEM,Chris Jones,71,48,0,23
+Dallas,JP 5,Governor,,DEM,Chris Jones,79,57,3,19
+Dallas,JP 6,Governor,,DEM,Chris Jones,117,34,11,72
+Dallas,JP 7,Governor,,DEM,Chris Jones,83,13,1,69
+Dallas,JP 8,Governor,,DEM,Chris Jones,29,6,0,23
+Dallas,JP 9,Governor,,DEM,Chris Jones,39,27,0,12
+Dallas,JP 1,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Dallas,JP 2,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,2,0,1
+Dallas,JP 3,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Dallas,JP 4,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,2,0,1
+Dallas,JP 5,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,1,0,1
+Dallas,JP 6,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Dallas,JP 7,Governor,,LIB,"Ricky Dale Harrington, Jr.",6,1,0,5
+Dallas,JP 8,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,0,0,5
+Dallas,JP 9,Governor,,LIB,"Ricky Dale Harrington, Jr.",6,2,0,4
+Dallas,JP 1,Lieutenant Governor,,DEM,Kelly Ross Krout,94,69,0,25
+Dallas,JP 2,Lieutenant Governor,,DEM,Kelly Ross Krout,109,73,0,36
+Dallas,JP 3,Lieutenant Governor,,DEM,Kelly Ross Krout,71,52,2,17
+Dallas,JP 4,Lieutenant Governor,,DEM,Kelly Ross Krout,59,38,0,21
+Dallas,JP 5,Lieutenant Governor,,DEM,Kelly Ross Krout,64,50,0,14
+Dallas,JP 6,Lieutenant Governor,,DEM,Kelly Ross Krout,94,30,11,53
+Dallas,JP 7,Lieutenant Governor,,DEM,Kelly Ross Krout,72,11,1,60
+Dallas,JP 8,Lieutenant Governor,,DEM,Kelly Ross Krout,24,6,0,18
+Dallas,JP 9,Lieutenant Governor,,DEM,Kelly Ross Krout,32,23,0,9
+Dallas,JP 1,Lieutenant Governor,,LIB,Frank Gilbert,1,0,0,1
+Dallas,JP 2,Lieutenant Governor,,LIB,Frank Gilbert,6,4,0,2
+Dallas,JP 3,Lieutenant Governor,,LIB,Frank Gilbert,3,2,0,1
+Dallas,JP 4,Lieutenant Governor,,LIB,Frank Gilbert,5,3,0,2
+Dallas,JP 5,Lieutenant Governor,,LIB,Frank Gilbert,8,4,0,4
+Dallas,JP 6,Lieutenant Governor,,LIB,Frank Gilbert,4,1,0,3
+Dallas,JP 7,Lieutenant Governor,,LIB,Frank Gilbert,15,2,0,13
+Dallas,JP 8,Lieutenant Governor,,LIB,Frank Gilbert,11,1,0,10
+Dallas,JP 9,Lieutenant Governor,,LIB,Frank Gilbert,9,3,0,6
+Dallas,JP 1,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,21,13,0,8
+Dallas,JP 2,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,55,33,2,20
+Dallas,JP 3,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,56,34,2,20
+Dallas,JP 4,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,163,120,7,36
+Dallas,JP 5,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,201,144,5,52
+Dallas,JP 6,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,154,69,0,85
+Dallas,JP 7,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,148,15,0,133
+Dallas,JP 8,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,253,56,2,195
+Dallas,JP 9,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,313,162,5,146
+Dallas,JP 1,Secretary of State,,DEM,Anna Beth Gorman,95,72,0,23
+Dallas,JP 2,Secretary of State,,DEM,Anna Beth Gorman,115,76,0,39
+Dallas,JP 3,Secretary of State,,DEM,Anna Beth Gorman,78,55,2,21
+Dallas,JP 4,Secretary of State,,DEM,Anna Beth Gorman,60,35,0,25
+Dallas,JP 5,Secretary of State,,DEM,Anna Beth Gorman,68,48,1,19
+Dallas,JP 6,Secretary of State,,DEM,Anna Beth Gorman,108,33,10,65
+Dallas,JP 7,Secretary of State,,DEM,Anna Beth Gorman,72,11,1,60
+Dallas,JP 8,Secretary of State,,DEM,Anna Beth Gorman,31,8,0,23
+Dallas,JP 9,Secretary of State,,DEM,Anna Beth Gorman,36,22,0,14
+Dallas,JP 1,Secretary of State,,REP,Secretary of State John Thurston,20,9,0,11
+Dallas,JP 2,Secretary of State,,REP,Secretary of State John Thurston,54,35,2,17
+Dallas,JP 3,Secretary of State,,REP,Secretary of State John Thurston,53,35,2,16
+Dallas,JP 4,Secretary of State,,REP,Secretary of State John Thurston,164,123,7,34
+Dallas,JP 5,Secretary of State,,REP,Secretary of State John Thurston,203,148,4,51
+Dallas,JP 6,Secretary of State,,REP,Secretary of State John Thurston,140,66,1,73
+Dallas,JP 7,Secretary of State,,REP,Secretary of State John Thurston,162,17,0,145
+Dallas,JP 8,Secretary of State,,REP,Secretary of State John Thurston,258,55,2,201
+Dallas,JP 9,Secretary of State,,REP,Secretary of State John Thurston,319,165,5,149
+Dallas,JP 1,State Treasurer,,DEM,Pam Whitaker,99,74,0,25
+Dallas,JP 2,State Treasurer,,DEM,Pam Whitaker,123,81,0,42
+Dallas,JP 3,State Treasurer,,DEM,Pam Whitaker,84,61,2,21
+Dallas,JP 4,State Treasurer,,DEM,Pam Whitaker,63,42,0,21
+Dallas,JP 5,State Treasurer,,DEM,Pam Whitaker,70,51,3,16
+Dallas,JP 6,State Treasurer,,DEM,Pam Whitaker,112,32,11,69
+Dallas,JP 7,State Treasurer,,DEM,Pam Whitaker,80,12,1,67
+Dallas,JP 8,State Treasurer,,DEM,Pam Whitaker,31,7,0,24
+Dallas,JP 9,State Treasurer,,DEM,Pam Whitaker,39,26,0,13
+Dallas,JP 1,State Treasurer,,REP,State Representative Mark Lowery,14,6,0,8
+Dallas,JP 2,State Treasurer,,REP,State Representative Mark Lowery,46,28,2,16
+Dallas,JP 3,State Treasurer,,REP,State Representative Mark Lowery,48,29,2,17
+Dallas,JP 4,State Treasurer,,REP,State Representative Mark Lowery,159,115,7,37
+Dallas,JP 5,State Treasurer,,REP,State Representative Mark Lowery,204,148,2,54
+Dallas,JP 6,State Treasurer,,REP,State Representative Mark Lowery,141,68,0,73
+Dallas,JP 7,State Treasurer,,REP,State Representative Mark Lowery,158,16,0,142
+Dallas,JP 8,State Treasurer,,REP,State Representative Mark Lowery,260,56,2,202
+Dallas,JP 9,State Treasurer,,REP,State Representative Mark Lowery,320,165,5,150
+Dallas,JP 1,State Senate,02,REP,Matt Stone,17,9,0,8
+Dallas,JP 2,State Senate,02,REP,Matt Stone,55,34,2,19
+Dallas,JP 3,State Senate,02,REP,Matt Stone,50,32,2,16
+Dallas,JP 4,State Senate,02,REP,Matt Stone,156,114,6,36
+Dallas,JP 5,State Senate,02,REP,Matt Stone,199,148,2,49
+Dallas,JP 6,State Senate,02,REP,Matt Stone,138,66,0,72
+Dallas,JP 7,State Senate,02,REP,Matt Stone,162,15,0,147
+Dallas,JP 8,State Senate,02,REP,Matt Stone,254,54,2,198
+Dallas,JP 9,State Senate,02,REP,Matt Stone,318,161,5,152
+Dallas,JP 1,State Senate,02,DEM,Garry L. Smith,96,70,0,26
+Dallas,JP 2,State Senate,02,DEM,Garry L. Smith,112,75,0,37
+Dallas,JP 3,State Senate,02,DEM,Garry L. Smith,83,60,2,21
+Dallas,JP 4,State Senate,02,DEM,Garry L. Smith,67,45,1,21
+Dallas,JP 5,State Senate,02,DEM,Garry L. Smith,76,53,3,20
+Dallas,JP 6,State Senate,02,DEM,Garry L. Smith,113,32,11,70
+Dallas,JP 7,State Senate,02,DEM,Garry L. Smith,77,13,1,63
+Dallas,JP 8,State Senate,02,DEM,Garry L. Smith,33,9,0,24
+Dallas,JP 9,State Senate,02,DEM,Garry L. Smith,41,28,0,13
+Dallas,JP 1,State House,96,REP,State Representative Sonia Barker,60,41,0,19
+Dallas,JP 2,State House,96,REP,State Representative Sonia Barker,117,79,2,36
+Dallas,JP 3,State House,96,REP,State Representative Sonia Barker,89,58,3,28
+Dallas,JP 4,State House,96,REP,State Representative Sonia Barker,187,132,6,49
+Dallas,JP 5,State House,96,REP,State Representative Sonia Barker,233,164,3,66
+Dallas,JP 6,State House,96,REP,State Representative Sonia Barker,176,76,6,94
+Dallas,JP 7,State House,96,REP,State Representative Sonia Barker,181,22,0,159
+Dallas,JP 8,State House,96,REP,State Representative Sonia Barker,273,59,2,212
+Dallas,JP 9,State House,96,REP,State Representative Sonia Barker,334,175,5,154
+Dallas,JP 1,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,24,15,0,9
+Dallas,JP 2,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,51,35,2,14
+Dallas,JP 3,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,30,19,2,9
+Dallas,JP 4,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,55,40,2,13
+Dallas,JP 5,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,75,55,0,20
+Dallas,JP 6,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,71,23,3,45
+Dallas,JP 7,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,77,9,1,67
+Dallas,JP 8,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,99,19,0,80
+Dallas,JP 9,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,91,50,1,40
+Dallas,JP 1,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,83,63,0,20
+Dallas,JP 2,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,111,74,0,37
+Dallas,JP 3,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,93,64,2,27
+Dallas,JP 4,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,163,116,5,42
+Dallas,JP 5,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,193,139,5,49
+Dallas,JP 6,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,154,69,7,78
+Dallas,JP 7,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,129,17,0,112
+Dallas,JP 8,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,180,43,2,135
+Dallas,JP 9,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,254,129,4,121
+Dallas,JP 1,Dallas County Judge,,REP,REP Clark Brent,30,22,0,8
+Dallas,JP 2,Dallas County Judge,,REP,REP Clark Brent,46,26,2,18
+Dallas,JP 3,Dallas County Judge,,REP,REP Clark Brent,34,23,2,9
+Dallas,JP 4,Dallas County Judge,,REP,REP Clark Brent,101,75,3,23
+Dallas,JP 5,Dallas County Judge,,REP,REP Clark Brent,112,86,1,25
+Dallas,JP 6,Dallas County Judge,,REP,REP Clark Brent,118,51,4,63
+Dallas,JP 7,Dallas County Judge,,REP,REP Clark Brent,116,15,0,101
+Dallas,JP 8,Dallas County Judge,,REP,REP Clark Brent,111,17,2,92
+Dallas,JP 9,Dallas County Judge,,REP,REP Clark Brent,114,70,2,42
+Dallas,JP 1,Dallas County Judge,,IND,IND Chris Stanfield,86,62,0,24
+Dallas,JP 2,Dallas County Judge,,IND,IND Chris Stanfield,124,86,0,38
+Dallas,JP 3,Dallas County Judge,,IND,IND Chris Stanfield,96,66,2,28
+Dallas,JP 4,Dallas County Judge,,IND,IND Chris Stanfield,124,85,4,35
+Dallas,JP 5,Dallas County Judge,,IND,IND Chris Stanfield,168,119,4,45
+Dallas,JP 6,Dallas County Judge,,IND,IND Chris Stanfield,137,49,6,82
+Dallas,JP 7,Dallas County Judge,,IND,IND Chris Stanfield,115,13,1,101
+Dallas,JP 8,Dallas County Judge,,IND,IND Chris Stanfield,182,47,0,135
+Dallas,JP 9,Dallas County Judge,,IND,IND Chris Stanfield,249,122,3,124
+Dallas,JP 1,County Sheriff,,REP,REP Mike Knoedl,39,24,0,15
+Dallas,JP 2,County Sheriff,,REP,REP Mike Knoedl,60,35,1,24
+Dallas,JP 3,County Sheriff,,REP,REP Mike Knoedl,51,33,1,17
+Dallas,JP 4,County Sheriff,,REP,REP Mike Knoedl,117,86,5,26
+Dallas,JP 5,County Sheriff,,REP,REP Mike Knoedl,142,105,2,35
+Dallas,JP 6,County Sheriff,,REP,REP Mike Knoedl,140,55,3,82
+Dallas,JP 7,County Sheriff,,REP,REP Mike Knoedl,135,10,0,125
+Dallas,JP 8,County Sheriff,,REP,REP Mike Knoedl,228,51,2,175
+Dallas,JP 9,County Sheriff,,REP,REP Mike Knoedl,270,133,2,135
+Dallas,JP 1,County Sheriff,,DEM,DEM Stan McGahee,79,61,0,18
+Dallas,JP 2,County Sheriff,,DEM,DEM Stan McGahee,111,78,1,32
+Dallas,JP 3,County Sheriff,,DEM,DEM Stan McGahee,81,58,2,21
+Dallas,JP 4,County Sheriff,,DEM,DEM Stan McGahee,107,74,2,31
+Dallas,JP 5,County Sheriff,,DEM,DEM Stan McGahee,138,100,3,35
+Dallas,JP 6,County Sheriff,,DEM,DEM Stan McGahee,117,46,8,63
+Dallas,JP 7,County Sheriff,,DEM,DEM Stan McGahee,104,17,1,86
+Dallas,JP 8,County Sheriff,,DEM,DEM Stan McGahee,62,13,0,49
+Dallas,JP 9,County Sheriff,,DEM,DEM Stan McGahee,87,57,3,27
+Dallas,JP 1,Dallas County and Circuit Clerk,,REP,REP Dori Keeton,74,52,0,22
+Dallas,JP 2,Dallas County and Circuit Clerk,,REP,REP Dori Keeton,119,79,2,38
+Dallas,JP 3,Dallas County and Circuit Clerk,,REP,REP Dori Keeton,92,61,3,28
+Dallas,JP 4,Dallas County and Circuit Clerk,,REP,REP Dori Keeton,190,136,6,48
+Dallas,JP 5,Dallas County and Circuit Clerk,,REP,REP Dori Keeton,254,180,4,70
+Dallas,JP 6,Dallas County and Circuit Clerk,,REP,REP Dori Keeton,188,80,7,101
+Dallas,JP 7,Dallas County and Circuit Clerk,,REP,REP Dori Keeton,185,20,0,165
+Dallas,JP 8,Dallas County and Circuit Clerk,,REP,REP Dori Keeton,277,61,1,215
+Dallas,JP 9,Dallas County and Circuit Clerk,,REP,REP Dori Keeton,344,176,5,163
+Dallas,JP 1,Dallas County Collector,,REP,REP Crystal Stroud,91,65,0,26
+Dallas,JP 2,Dallas County Collector,,REP,REP Crystal Stroud,128,83,1,44
+Dallas,JP 3,Dallas County Collector,,REP,REP Crystal Stroud,86,61,2,23
+Dallas,JP 4,Dallas County Collector,,REP,REP Crystal Stroud,160,111,5,44
+Dallas,JP 5,Dallas County Collector,,REP,REP Crystal Stroud,162,118,2,42
+Dallas,JP 6,Dallas County Collector,,REP,REP Crystal Stroud,163,60,6,97
+Dallas,JP 7,Dallas County Collector,,REP,REP Crystal Stroud,183,20,0,163
+Dallas,JP 8,Dallas County Collector,,REP,REP Crystal Stroud,234,52,2,180
+Dallas,JP 9,Dallas County Collector,,REP,REP Crystal Stroud,229,112,4,113
+Dallas,JP 1,Dallas County Collector,,IND,IND Shawna May,22,15,0,7
+Dallas,JP 2,Dallas County Collector,,IND,IND Shawna May,41,29,1,11
+Dallas,JP 3,Dallas County Collector,,IND,IND Shawna May,49,32,2,15
+Dallas,JP 4,Dallas County Collector,,IND,IND Shawna May,66,50,2,14
+Dallas,JP 5,Dallas County Collector,,IND,IND Shawna May,116,86,3,27
+Dallas,JP 6,Dallas County Collector,,IND,IND Shawna May,84,38,3,43
+Dallas,JP 7,Dallas County Collector,,IND,IND Shawna May,44,7,1,36
+Dallas,JP 8,Dallas County Collector,,IND,IND Shawna May,54,11,0,43
+Dallas,JP 9,Dallas County Collector,,IND,IND Shawna May,130,79,1,50
+Dallas,JP 2,Dallas County JP Dist. 2,,IND,IND Mark Garrett,60,40,1,19
+Dallas,JP 2,Dallas County JP Dist. 2,,DEM,DEM Duane W. Brewer,107,69,1,37
+Dallas,JP 5,Dallas County JP Dist. 5,,DEM,DEM Gordon Hornaday,152,117,5,30
+Dallas,JP 5,Dallas County JP Dist. 5,,REP,REP Todd Roark,127,87,0,40
+Dallas,JP 4,Dallas County JP Dist. 4,,DEM,DEM John B. Meador,116,84,2,30
+Dallas,JP 4,Dallas County JP Dist. 4,,IND,IND Tracy Scott Graves,105,72,5,28
+Dallas,JP 1,Mayor, City of Fordyce,IND,IND Andreal Ellison Sr.,41,31,0,10
+Dallas,JP 2,Mayor, City of Fordyce,IND,IND Andreal Ellison Sr.,70,48,0,22
+Dallas,JP 3,Mayor, City of Fordyce,IND,IND Andreal Ellison Sr.,58,40,2,16
+Dallas,JP 4,Mayor, City of Fordyce,IND,IND Andreal Ellison Sr.,63,47,2,14
+Dallas,JP 5,Mayor, City of Fordyce,IND,IND Andreal Ellison Sr.,53,35,2,16
+Dallas,JP 1,Mayor, City of Fordyce,DEM,DEM John MacNichol,76,54,0,22
+Dallas,JP 2,Mayor, City of Fordyce,DEM,DEM John MacNichol,101,66,2,33
+Dallas,JP 3,Mayor, City of Fordyce,DEM,DEM John MacNichol,79,55,2,22
+Dallas,JP 4,Mayor, City of Fordyce,DEM,DEM John MacNichol,160,110,5,45
+Dallas,JP 5,Mayor, City of Fordyce,DEM,DEM John MacNichol,138,105,3,30
+Dallas,JP 1,Clerk, City of Fordyce,DEM,DEM Kyle Nichols,102,74,0,28
+Dallas,JP 2,Clerk, City of Fordyce,DEM,DEM Kyle Nichols,159,105,2,52
+Dallas,JP 3,Clerk, City of Fordyce,DEM,DEM Kyle Nichols,118,82,3,33
+Dallas,JP 4,Clerk, City of Fordyce,DEM,DEM Kyle Nichols,196,136,7,53
+Dallas,JP 5,Clerk, City of Fordyce,DEM,DEM Kyle Nichols,178,131,3,44
+Dallas,JP 2,W3P1, City of Fordyce,IND,IND Yolanda Sumler Collins,83,54,0,29
+Dallas,JP 3,W3P1, City of Fordyce,IND,IND Yolanda Sumler Collins,0,0,0,0
+Dallas,JP 5,W3P1, City of Fordyce,IND,IND Yolanda Sumler Collins,64,45,1,18
+Dallas,JP 2,W3P1, City of Fordyce,DEM,DEM Melissa Vaughan,52,38,1,13
+Dallas,JP 3,W3P1, City of Fordyce,DEM,DEM Melissa Vaughan,1,0,0,1
+Dallas,JP 5,W3P1, City of Fordyce,DEM,DEM Melissa Vaughan,112,85,4,23
+Dallas,JP 6,Mayor, City of Carthage,IND,IND Shawn Randall,34,4,2,28
+Dallas,JP 7,Mayor, City of Sparkman,DEM,DEM Rickey L. Craig,43,4,1,38
+Dallas,JP 7,Mayor, City of Sparkman,REP,REP Bobby Story,69,7,0,62
+Dallas,JP 6,Sales Tax City of Carthage,,NON,For,43,6,1,36
+Dallas,JP 6,Sales Tax City of Carthage,,NON,Aganist,21,4,1,16
+Dallas,JP 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,49,36,0,13
+Dallas,JP 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,69,46,2,21
+Dallas,JP 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,55,34,3,18
+Dallas,JP 4,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,69,47,1,21
+Dallas,JP 5,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,81,55,3,23
+Dallas,JP 6,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,73,24,4,45
+Dallas,JP 7,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,76,11,0,65
+Dallas,JP 8,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,84,20,1,63
+Dallas,JP 9,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,101,50,2,49
+Dallas,JP 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,55,38,0,17
+Dallas,JP 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,93,59,0,34
+Dallas,JP 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,63,45,1,17
+Dallas,JP 4,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,143,104,6,33
+Dallas,JP 5,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,180,132,2,46
+Dallas,JP 6,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,162,68,6,88
+Dallas,JP 7,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,164,17,1,146
+Dallas,JP 8,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,202,42,1,159
+Dallas,JP 9,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,245,132,3,110
+Dallas,JP 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,39,31,0,8
+Dallas,JP 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,65,40,2,23
+Dallas,JP 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,55,33,1,21
+Dallas,JP 4,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,70,45,3,22
+Dallas,JP 5,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,96,70,3,23
+Dallas,JP 6,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,99,34,4,61
+Dallas,JP 7,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,99,14,0,85
+Dallas,JP 8,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,124,21,0,103
+Dallas,JP 9,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,120,53,2,65
+Dallas,JP 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,69,45,0,24
+Dallas,JP 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,101,67,0,34
+Dallas,JP 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,70,53,3,14
+Dallas,JP 4,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,144,105,4,35
+Dallas,JP 5,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,170,122,2,46
+Dallas,JP 6,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,146,60,7,79
+Dallas,JP 7,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,140,12,1,127
+Dallas,JP 8,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,167,42,2,123
+Dallas,JP 9,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,231,131,3,97
+Dallas,JP 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,62,45,0,17
+Dallas,JP 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,93,56,0,37
+Dallas,JP 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,77,51,2,24
+Dallas,JP 4,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,101,71,3,27
+Dallas,JP 5,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,123,83,3,37
+Dallas,JP 6,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,109,38,4,67
+Dallas,JP 7,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,104,12,0,92
+Dallas,JP 8,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,143,27,2,114
+Dallas,JP 9,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,151,72,3,76
+Dallas,JP 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,46,32,0,14
+Dallas,JP 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,73,52,1,20
+Dallas,JP 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,49,36,2,11
+Dallas,JP 4,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,114,81,3,30
+Dallas,JP 5,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,142,109,2,31
+Dallas,JP 6,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,129,55,7,67
+Dallas,JP 7,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,133,15,1,117
+Dallas,JP 8,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,143,35,0,108
+Dallas,JP 9,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,195,107,2,86
+Dallas,JP 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,73,47,0,26
+Dallas,JP 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,90,56,0,34
+Dallas,JP 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,77,56,2,19
+Dallas,JP 4,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,62,40,0,22
+Dallas,JP 5,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,94,65,1,28
+Dallas,JP 6,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,103,36,8,59
+Dallas,JP 7,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,98,15,1,82
+Dallas,JP 8,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,63,13,0,50
+Dallas,JP 9,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,86,38,0,48
+Dallas,JP 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,43,34,0,9
+Dallas,JP 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,79,54,2,23
+Dallas,JP 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,58,38,2,18
+Dallas,JP 4,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,163,121,7,35
+Dallas,JP 5,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,184,138,4,42
+Dallas,JP 6,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,156,64,3,89
+Dallas,JP 7,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,142,12,0,130
+Dallas,JP 8,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,230,51,2,177
+Dallas,JP 9,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,276,154,5,117

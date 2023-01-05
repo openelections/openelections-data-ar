@@ -1,0 +1,538 @@
+county,precinct,office,district,party,candidate,votes,early_vote,absentee,election_day
+Greene,JP01--Bula,U.S. Senate,,LIB,Kenneth Cates,20,12,0,8
+Greene,JP02--Bula,U.S. Senate,,LIB,Kenneth Cates,29,18,0,11
+Greene,JP03--Bula,U.S. Senate,,LIB,Kenneth Cates,49,33,0,16
+Greene,JP04--Bula,U.S. Senate,,LIB,Kenneth Cates,46,32,0,14
+Greene,JP05--Bula,U.S. Senate,,LIB,Kenneth Cates,33,20,1,12
+Greene,JP06--Bula,U.S. Senate,,LIB,Kenneth Cates,37,23,0,14
+Greene,JP07--Rush Island,U.S. Senate,,LIB,Kenneth Cates,41,23,0,18
+Greene,JP08--Bagwell Lake,U.S. Senate,,LIB,Kenneth Cates,33,22,0,11
+Greene,JP09--Campground,U.S. Senate,,LIB,Kenneth Cates,42,25,0,17
+Greene,JP10--Dalton,U.S. Senate,,LIB,Kenneth Cates,43,21,0,22
+Greene,JP11--Crowley's Ridge,U.S. Senate,,LIB,Kenneth Cates,56,19,0,37
+Greene,JP01--Bula,U.S. Senate,,DEM,Natalie James,136,89,0,47
+Greene,JP02--Bula,U.S. Senate,,DEM,Natalie James,193,148,7,38
+Greene,JP03--Bula,U.S. Senate,,DEM,Natalie James,250,186,11,53
+Greene,JP04--Bula,U.S. Senate,,DEM,Natalie James,191,126,3,62
+Greene,JP05--Bula,U.S. Senate,,DEM,Natalie James,216,162,3,51
+Greene,JP06--Bula,U.S. Senate,,DEM,Natalie James,237,174,7,56
+Greene,JP07--Rush Island,U.S. Senate,,DEM,Natalie James,159,112,3,44
+Greene,JP08--Bagwell Lake,U.S. Senate,,DEM,Natalie James,145,91,1,53
+Greene,JP09--Campground,U.S. Senate,,DEM,Natalie James,171,107,2,62
+Greene,JP10--Dalton,U.S. Senate,,DEM,Natalie James,171,66,1,104
+Greene,JP11--Crowley's Ridge,U.S. Senate,,DEM,Natalie James,158,68,2,88
+Greene,JP01--Bula,U.S. Senate,,REP,Senator John Boozman,385,272,4,109
+Greene,JP02--Bula,U.S. Senate,,REP,Senator John Boozman,451,319,8,124
+Greene,JP03--Bula,U.S. Senate,,REP,Senator John Boozman,1072,786,18,268
+Greene,JP04--Bula,U.S. Senate,,REP,Senator John Boozman,975,605,6,364
+Greene,JP05--Bula,U.S. Senate,,REP,Senator John Boozman,963,699,11,253
+Greene,JP06--Bula,U.S. Senate,,REP,Senator John Boozman,683,491,4,188
+Greene,JP07--Rush Island,U.S. Senate,,REP,Senator John Boozman,829,526,2,301
+Greene,JP08--Bagwell Lake,U.S. Senate,,REP,Senator John Boozman,706,475,2,229
+Greene,JP09--Campground,U.S. Senate,,REP,Senator John Boozman,947,572,5,370
+Greene,JP10--Dalton,U.S. Senate,,REP,Senator John Boozman,944,369,3,572
+Greene,JP11--Crowley's Ridge,U.S. Senate,,REP,Senator John Boozman,1095,493,4,598
+Greene,JP01--Bula,U.S. Congress District 01,,DEM,Representative Monte Hodges,143,92,0,51
+Greene,JP02--Bula,U.S. Congress District 01,,DEM,Representative Monte Hodges,206,152,7,47
+Greene,JP03--Bula,U.S. Congress District 01,,DEM,Representative Monte Hodges,261,199,12,50
+Greene,JP04--Bula,U.S. Congress District 01,,DEM,Representative Monte Hodges,203,131,3,69
+Greene,JP05--Bula,U.S. Congress District 01,,DEM,Representative Monte Hodges,228,171,3,54
+Greene,JP06--Bula,U.S. Congress District 01,,DEM,Representative Monte Hodges,251,184,6,61
+Greene,JP07--Rush Island,U.S. Congress District 01,,DEM,Representative Monte Hodges,172,119,3,50
+Greene,JP08--Bagwell Lake,U.S. Congress District 01,,DEM,Representative Monte Hodges,151,98,1,52
+Greene,JP09--Campground,U.S. Congress District 01,,DEM,Representative Monte Hodges,178,116,2,60
+Greene,JP10--Dalton,U.S. Congress District 01,,DEM,Representative Monte Hodges,174,70,1,103
+Greene,JP11--Crowley's Ridge,U.S. Congress District 01,,DEM,Representative Monte Hodges,173,74,3,96
+Greene,JP01--Bula,U.S. Congress District 01,,REP,Congressman Rick Crawford,396,279,4,113
+Greene,JP02--Bula,U.S. Congress District 01,,REP,Congressman Rick Crawford,465,329,8,128
+Greene,JP03--Bula,U.S. Congress District 01,,REP,Congressman Rick Crawford,1102,801,17,284
+Greene,JP04--Bula,U.S. Congress District 01,,REP,Congressman Rick Crawford,1007,635,6,366
+Greene,JP05--Bula,U.S. Congress District 01,,REP,Congressman Rick Crawford,983,709,12,262
+Greene,JP06--Bula,U.S. Congress District 01,,REP,Congressman Rick Crawford,707,503,5,199
+Greene,JP07--Rush Island,U.S. Congress District 01,,REP,Congressman Rick Crawford,857,543,1,313
+Greene,JP08--Bagwell Lake,U.S. Congress District 01,,REP,Congressman Rick Crawford,727,485,2,240
+Greene,JP09--Campground,U.S. Congress District 01,,REP,Congressman Rick Crawford,984,587,6,391
+Greene,JP10--Dalton,U.S. Congress District 01,,REP,Congressman Rick Crawford,979,383,3,593
+Greene,JP11--Crowley's Ridge,U.S. Congress District 01,,REP,Congressman Rick Crawford,1124,500,3,621
+Greene,JP01--Bula,Attorney General,,REP,Lieutenant Governor Tim Griffin,400,287,4,109
+Greene,JP02--Bula,Attorney General,,REP,Lieutenant Governor Tim Griffin,463,331,6,126
+Greene,JP03--Bula,Attorney General,,REP,Lieutenant Governor Tim Griffin,1111,816,17,278
+Greene,JP04--Bula,Attorney General,,REP,Lieutenant Governor Tim Griffin,1006,629,6,371
+Greene,JP05--Bula,Attorney General,,REP,Lieutenant Governor Tim Griffin,979,706,12,261
+Greene,JP06--Bula,Attorney General,,REP,Lieutenant Governor Tim Griffin,710,510,4,196
+Greene,JP07--Rush Island,Attorney General,,REP,Lieutenant Governor Tim Griffin,857,547,2,308
+Greene,JP08--Bagwell Lake,Attorney General,,REP,Lieutenant Governor Tim Griffin,724,484,2,238
+Greene,JP09--Campground,Attorney General,,REP,Lieutenant Governor Tim Griffin,987,592,5,390
+Greene,JP10--Dalton,Attorney General,,REP,Lieutenant Governor Tim Griffin,981,386,3,592
+Greene,JP11--Crowley's Ridge,Attorney General,,REP,Lieutenant Governor Tim Griffin,1123,502,3,618
+Greene,JP01--Bula,Attorney General,,DEM,Jesse Gibson,140,85,0,55
+Greene,JP02--Bula,Attorney General,,DEM,Jesse Gibson,203,148,9,46
+Greene,JP03--Bula,Attorney General,,DEM,Jesse Gibson,252,184,11,57
+Greene,JP04--Bula,Attorney General,,DEM,Jesse Gibson,206,134,3,69
+Greene,JP05--Bula,Attorney General,,DEM,Jesse Gibson,227,170,3,54
+Greene,JP06--Bula,Attorney General,,DEM,Jesse Gibson,251,182,7,62
+Greene,JP07--Rush Island,Attorney General,,DEM,Jesse Gibson,177,117,3,57
+Greene,JP08--Bagwell Lake,Attorney General,,DEM,Jesse Gibson,158,104,1,53
+Greene,JP09--Campground,Attorney General,,DEM,Jesse Gibson,172,112,2,58
+Greene,JP10--Dalton,Attorney General,,DEM,Jesse Gibson,170,68,1,101
+Greene,JP11--Crowley's Ridge,Attorney General,,DEM,Jesse Gibson,174,73,3,98
+Greene,JP01--Bula,Auditor of State,,REP,Treasurer of State Dennis Milligan,393,286,4,103
+Greene,JP02--Bula,Auditor of State,,REP,Treasurer of State Dennis Milligan,450,319,7,124
+Greene,JP03--Bula,Auditor of State,,REP,Treasurer of State Dennis Milligan,1090,803,19,268
+Greene,JP04--Bula,Auditor of State,,REP,Treasurer of State Dennis Milligan,987,621,6,360
+Greene,JP05--Bula,Auditor of State,,REP,Treasurer of State Dennis Milligan,961,699,11,251
+Greene,JP06--Bula,Auditor of State,,REP,Treasurer of State Dennis Milligan,695,496,5,194
+Greene,JP07--Rush Island,Auditor of State,,REP,Treasurer of State Dennis Milligan,834,535,2,297
+Greene,JP08--Bagwell Lake,Auditor of State,,REP,Treasurer of State Dennis Milligan,719,483,2,234
+Greene,JP09--Campground,Auditor of State,,REP,Treasurer of State Dennis Milligan,966,578,6,382
+Greene,JP10--Dalton,Auditor of State,,REP,Treasurer of State Dennis Milligan,947,372,3,572
+Greene,JP11--Crowley's Ridge,Auditor of State,,REP,Treasurer of State Dennis Milligan,1105,498,3,604
+Greene,JP01--Bula,Auditor of State,,DEM,Diamond Arnold-Johnson,119,75,0,44
+Greene,JP02--Bula,Auditor of State,,DEM,Diamond Arnold-Johnson,180,135,8,37
+Greene,JP03--Bula,Auditor of State,,DEM,Diamond Arnold-Johnson,210,158,10,42
+Greene,JP04--Bula,Auditor of State,,DEM,Diamond Arnold-Johnson,175,117,3,55
+Greene,JP05--Bula,Auditor of State,,DEM,Diamond Arnold-Johnson,199,151,3,45
+Greene,JP06--Bula,Auditor of State,,DEM,Diamond Arnold-Johnson,211,159,5,47
+Greene,JP07--Rush Island,Auditor of State,,DEM,Diamond Arnold-Johnson,154,102,3,49
+Greene,JP08--Bagwell Lake,Auditor of State,,DEM,Diamond Arnold-Johnson,131,85,1,45
+Greene,JP09--Campground,Auditor of State,,DEM,Diamond Arnold-Johnson,148,98,2,48
+Greene,JP10--Dalton,Auditor of State,,DEM,Diamond Arnold-Johnson,155,61,1,93
+Greene,JP11--Crowley's Ridge,Auditor of State,,DEM,Diamond Arnold-Johnson,151,60,2,89
+Greene,JP01--Bula,Auditor of State,,LIB,Simeon Snow,28,12,0,16
+Greene,JP02--Bula,Auditor of State,,LIB,Simeon Snow,38,26,0,12
+Greene,JP03--Bula,Auditor of State,,LIB,Simeon Snow,59,36,0,23
+Greene,JP04--Bula,Auditor of State,,LIB,Simeon Snow,50,28,0,22
+Greene,JP05--Bula,Auditor of State,,LIB,Simeon Snow,49,29,1,19
+Greene,JP06--Bula,Auditor of State,,LIB,Simeon Snow,52,33,1,18
+Greene,JP07--Rush Island,Auditor of State,,LIB,Simeon Snow,41,26,0,15
+Greene,JP08--Bagwell Lake,Auditor of State,,LIB,Simeon Snow,33,21,0,12
+Greene,JP09--Campground,Auditor of State,,LIB,Simeon Snow,40,22,0,18
+Greene,JP10--Dalton,Auditor of State,,LIB,Simeon Snow,46,18,0,28
+Greene,JP11--Crowley's Ridge,Auditor of State,,LIB,Simeon Snow,44,17,1,26
+Greene,JP01--Bula,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,148,95,0,53
+Greene,JP02--Bula,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,197,145,6,46
+Greene,JP03--Bula,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,238,174,10,54
+Greene,JP04--Bula,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,193,127,3,63
+Greene,JP05--Bula,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,216,163,3,50
+Greene,JP06--Bula,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,234,173,6,55
+Greene,JP07--Rush Island,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,162,110,3,49
+Greene,JP08--Bagwell Lake,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,143,92,1,50
+Greene,JP09--Campground,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,177,109,2,66
+Greene,JP10--Dalton,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,175,67,1,107
+Greene,JP11--Crowley's Ridge,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,173,69,2,102
+Greene,JP01--Bula,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,390,276,4,110
+Greene,JP02--Bula,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,473,337,9,127
+Greene,JP03--Bula,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,1126,825,19,282
+Greene,JP04--Bula,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,1013,633,6,374
+Greene,JP05--Bula,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,987,712,12,263
+Greene,JP06--Bula,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,725,517,5,203
+Greene,JP07--Rush Island,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,863,551,2,310
+Greene,JP08--Bagwell Lake,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,736,493,2,241
+Greene,JP09--Campground,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,970,589,6,375
+Greene,JP10--Dalton,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,966,384,3,579
+Greene,JP11--Crowley's Ridge,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,1126,505,4,617
+Greene,JP01--Bula,Governor,,REP,Sarah Huckabee Sanders,398,284,4,110
+Greene,JP02--Bula,Governor,,REP,Sarah Huckabee Sanders,438,320,6,112
+Greene,JP03--Bula,Governor,,REP,Sarah Huckabee Sanders,1034,761,17,256
+Greene,JP04--Bula,Governor,,REP,Sarah Huckabee Sanders,963,610,5,348
+Greene,JP05--Bula,Governor,,REP,Sarah Huckabee Sanders,951,686,11,254
+Greene,JP06--Bula,Governor,,REP,Sarah Huckabee Sanders,675,477,4,194
+Greene,JP07--Rush Island,Governor,,REP,Sarah Huckabee Sanders,833,528,2,303
+Greene,JP08--Bagwell Lake,Governor,,REP,Sarah Huckabee Sanders,706,477,1,228
+Greene,JP09--Campground,Governor,,REP,Sarah Huckabee Sanders,951,569,6,376
+Greene,JP10--Dalton,Governor,,REP,Sarah Huckabee Sanders,940,369,3,568
+Greene,JP11--Crowley's Ridge,Governor,,REP,Sarah Huckabee Sanders,1093,491,3,599
+Greene,JP01--Bula,Governor,,LIB,"Ricky Dale Harrington, Jr.",13,7,0,6
+Greene,JP02--Bula,Governor,,LIB,"Ricky Dale Harrington, Jr.",20,9,0,11
+Greene,JP03--Bula,Governor,,LIB,"Ricky Dale Harrington, Jr.",24,15,0,9
+Greene,JP04--Bula,Governor,,LIB,"Ricky Dale Harrington, Jr.",37,21,0,16
+Greene,JP05--Bula,Governor,,LIB,"Ricky Dale Harrington, Jr.",19,10,1,8
+Greene,JP06--Bula,Governor,,LIB,"Ricky Dale Harrington, Jr.",20,16,0,4
+Greene,JP07--Rush Island,Governor,,LIB,"Ricky Dale Harrington, Jr.",13,5,0,8
+Greene,JP08--Bagwell Lake,Governor,,LIB,"Ricky Dale Harrington, Jr.",22,9,0,13
+Greene,JP09--Campground,Governor,,LIB,"Ricky Dale Harrington, Jr.",22,10,0,12
+Greene,JP10--Dalton,Governor,,LIB,"Ricky Dale Harrington, Jr.",28,11,0,17
+Greene,JP11--Crowley's Ridge,Governor,,LIB,"Ricky Dale Harrington, Jr.",32,10,0,22
+Greene,JP01--Bula,Governor,,DEM,Chris Jones,136,87,0,49
+Greene,JP02--Bula,Governor,,DEM,Chris Jones,219,159,9,51
+Greene,JP03--Bula,Governor,,DEM,Chris Jones,314,230,12,72
+Greene,JP04--Bula,Governor,,DEM,Chris Jones,222,141,3,78
+Greene,JP05--Bula,Governor,,DEM,Chris Jones,251,190,3,58
+Greene,JP06--Bula,Governor,,DEM,Chris Jones,272,202,7,63
+Greene,JP07--Rush Island,Governor,,DEM,Chris Jones,188,128,3,57
+Greene,JP08--Bagwell Lake,Governor,,DEM,Chris Jones,165,108,2,55
+Greene,JP09--Campground,Governor,,DEM,Chris Jones,185,124,2,59
+Greene,JP10--Dalton,Governor,,DEM,Chris Jones,194,76,1,117
+Greene,JP11--Crowley's Ridge,Governor,,DEM,Chris Jones,184,79,3,102
+Greene,JP01--Bula,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,394,281,4,109
+Greene,JP02--Bula,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,454,326,6,122
+Greene,JP03--Bula,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,1075,786,18,271
+Greene,JP04--Bula,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,984,618,6,360
+Greene,JP05--Bula,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,958,689,12,257
+Greene,JP06--Bula,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,695,495,4,196
+Greene,JP07--Rush Island,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,850,542,2,306
+Greene,JP08--Bagwell Lake,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,718,484,1,233
+Greene,JP09--Campground,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,957,580,4,373
+Greene,JP10--Dalton,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,972,378,3,591
+Greene,JP11--Crowley's Ridge,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,1106,499,4,603
+Greene,JP01--Bula,Lieutenant Governor,,LIB,Frank Gilbert,28,17,0,11
+Greene,JP02--Bula,Lieutenant Governor,,LIB,Frank Gilbert,30,21,0,9
+Greene,JP03--Bula,Lieutenant Governor,,LIB,Frank Gilbert,45,31,1,13
+Greene,JP04--Bula,Lieutenant Governor,,LIB,Frank Gilbert,45,28,0,17
+Greene,JP05--Bula,Lieutenant Governor,,LIB,Frank Gilbert,35,24,0,11
+Greene,JP06--Bula,Lieutenant Governor,,LIB,Frank Gilbert,34,24,0,10
+Greene,JP07--Rush Island,Lieutenant Governor,,LIB,Frank Gilbert,25,18,0,7
+Greene,JP08--Bagwell Lake,Lieutenant Governor,,LIB,Frank Gilbert,27,19,0,8
+Greene,JP09--Campground,Lieutenant Governor,,LIB,Frank Gilbert,30,16,1,13
+Greene,JP10--Dalton,Lieutenant Governor,,LIB,Frank Gilbert,33,13,0,20
+Greene,JP11--Crowley's Ridge,Lieutenant Governor,,LIB,Frank Gilbert,48,18,0,30
+Greene,JP01--Bula,Lieutenant Governor,,DEM,Kelly Ross Krout,122,77,0,45
+Greene,JP02--Bula,Lieutenant Governor,,DEM,Kelly Ross Krout,190,139,8,43
+Greene,JP03--Bula,Lieutenant Governor,,DEM,Kelly Ross Krout,244,184,10,50
+Greene,JP04--Bula,Lieutenant Governor,,DEM,Kelly Ross Krout,184,120,2,62
+Greene,JP05--Bula,Lieutenant Governor,,DEM,Kelly Ross Krout,218,166,3,49
+Greene,JP06--Bula,Lieutenant Governor,,DEM,Kelly Ross Krout,233,172,7,54
+Greene,JP07--Rush Island,Lieutenant Governor,,DEM,Kelly Ross Krout,158,106,3,49
+Greene,JP08--Bagwell Lake,Lieutenant Governor,,DEM,Kelly Ross Krout,145,91,2,52
+Greene,JP09--Campground,Lieutenant Governor,,DEM,Kelly Ross Krout,169,106,2,61
+Greene,JP10--Dalton,Lieutenant Governor,,DEM,Kelly Ross Krout,154,65,1,88
+Greene,JP11--Crowley's Ridge,Lieutenant Governor,,DEM,Kelly Ross Krout,155,64,2,89
+Greene,JP01--Bula,Secretary of State,,DEM,Anna Beth Gorman,148,93,0,55
+Greene,JP02--Bula,Secretary of State,,DEM,Anna Beth Gorman,206,152,7,47
+Greene,JP03--Bula,Secretary of State,,DEM,Anna Beth Gorman,264,192,12,60
+Greene,JP04--Bula,Secretary of State,,DEM,Anna Beth Gorman,218,146,3,69
+Greene,JP05--Bula,Secretary of State,,DEM,Anna Beth Gorman,244,185,3,56
+Greene,JP06--Bula,Secretary of State,,DEM,Anna Beth Gorman,262,196,6,60
+Greene,JP07--Rush Island,Secretary of State,,DEM,Anna Beth Gorman,184,122,3,59
+Greene,JP08--Bagwell Lake,Secretary of State,,DEM,Anna Beth Gorman,155,99,2,54
+Greene,JP09--Campground,Secretary of State,,DEM,Anna Beth Gorman,185,117,2,66
+Greene,JP10--Dalton,Secretary of State,,DEM,Anna Beth Gorman,173,69,1,103
+Greene,JP11--Crowley's Ridge,Secretary of State,,DEM,Anna Beth Gorman,179,69,2,108
+Greene,JP01--Bula,Secretary of State,,REP,Secretary of State John Thurston,392,279,4,109
+Greene,JP02--Bula,Secretary of State,,REP,Secretary of State John Thurston,463,330,8,125
+Greene,JP03--Bula,Secretary of State,,REP,Secretary of State John Thurston,1100,808,17,275
+Greene,JP04--Bula,Secretary of State,,REP,Secretary of State John Thurston,992,618,6,368
+Greene,JP05--Bula,Secretary of State,,REP,Secretary of State John Thurston,962,690,12,260
+Greene,JP06--Bula,Secretary of State,,REP,Secretary of State John Thurston,696,493,5,198
+Greene,JP07--Rush Island,Secretary of State,,REP,Secretary of State John Thurston,847,543,2,302
+Greene,JP08--Bagwell Lake,Secretary of State,,REP,Secretary of State John Thurston,728,488,1,239
+Greene,JP09--Campground,Secretary of State,,REP,Secretary of State John Thurston,967,582,6,379
+Greene,JP10--Dalton,Secretary of State,,REP,Secretary of State John Thurston,977,385,3,589
+Greene,JP11--Crowley's Ridge,Secretary of State,,REP,Secretary of State John Thurston,1121,507,4,610
+Greene,JP01--Bula,State Treasurer,,REP,State Representative Mark Lowery,399,284,4,111
+Greene,JP02--Bula,State Treasurer,,REP,State Representative Mark Lowery,467,334,7,126
+Greene,JP03--Bula,State Treasurer,,REP,State Representative Mark Lowery,1094,798,18,278
+Greene,JP04--Bula,State Treasurer,,REP,State Representative Mark Lowery,1004,632,5,367
+Greene,JP05--Bula,State Treasurer,,REP,State Representative Mark Lowery,975,705,12,258
+Greene,JP06--Bula,State Treasurer,,REP,State Representative Mark Lowery,708,507,5,196
+Greene,JP07--Rush Island,State Treasurer,,REP,State Representative Mark Lowery,856,549,2,305
+Greene,JP08--Bagwell Lake,State Treasurer,,REP,State Representative Mark Lowery,724,488,1,235
+Greene,JP09--Campground,State Treasurer,,REP,State Representative Mark Lowery,965,582,6,377
+Greene,JP10--Dalton,State Treasurer,,REP,State Representative Mark Lowery,970,383,3,584
+Greene,JP11--Crowley's Ridge,State Treasurer,,REP,State Representative Mark Lowery,1122,502,4,616
+Greene,JP01--Bula,State Treasurer,,DEM,Pam Whitaker,142,88,0,54
+Greene,JP02--Bula,State Treasurer,,DEM,Pam Whitaker,206,151,8,47
+Greene,JP03--Bula,State Treasurer,,DEM,Pam Whitaker,269,201,11,57
+Greene,JP04--Bula,State Treasurer,,DEM,Pam Whitaker,207,132,4,71
+Greene,JP05--Bula,State Treasurer,,DEM,Pam Whitaker,235,174,3,58
+Greene,JP06--Bula,State Treasurer,,DEM,Pam Whitaker,251,183,6,62
+Greene,JP07--Rush Island,State Treasurer,,DEM,Pam Whitaker,176,115,3,58
+Greene,JP08--Bagwell Lake,State Treasurer,,DEM,Pam Whitaker,157,100,2,55
+Greene,JP09--Campground,State Treasurer,,DEM,Pam Whitaker,186,116,2,68
+Greene,JP10--Dalton,State Treasurer,,DEM,Pam Whitaker,182,69,1,112
+Greene,JP11--Crowley's Ridge,State Treasurer,,DEM,Pam Whitaker,177,74,2,101
+Greene,JP01--Bula,State Senate,21,LIB,"Alfred Jefferson Holland, III",115,68,0,47
+Greene,JP02--Bula,State Senate,21,LIB,"Alfred Jefferson Holland, III",183,129,8,46
+Greene,JP03--Bula,State Senate,21,LIB,"Alfred Jefferson Holland, III",231,162,10,59
+Greene,JP04--Bula,State Senate,21,LIB,"Alfred Jefferson Holland, III",174,105,3,66
+Greene,JP05--Bula,State Senate,21,LIB,"Alfred Jefferson Holland, III",204,149,4,51
+Greene,JP06--Bula,State Senate,21,LIB,"Alfred Jefferson Holland, III",219,156,4,59
+Greene,JP07--Rush Island,State Senate,21,LIB,"Alfred Jefferson Holland, III",145,97,3,45
+Greene,JP08--Bagwell Lake,State Senate,21,LIB,"Alfred Jefferson Holland, III",133,83,0,50
+Greene,JP09--Campground,State Senate,21,LIB,"Alfred Jefferson Holland, III",153,98,3,52
+Greene,JP10--Dalton,State Senate,21,LIB,"Alfred Jefferson Holland, III",164,71,2,91
+Greene,JP11--Crowley's Ridge,State Senate,21,LIB,"Alfred Jefferson Holland, III",160,66,2,92
+Greene,JP01--Bula,State Senate,21,REP,State Senator Blake Johnson,416,299,4,113
+Greene,JP02--Bula,State Senate,21,REP,State Senator Blake Johnson,472,339,7,126
+Greene,JP03--Bula,State Senate,21,REP,State Senator Blake Johnson,1109,816,18,275
+Greene,JP04--Bula,State Senate,21,REP,State Senator Blake Johnson,1016,645,5,366
+Greene,JP05--Bula,State Senate,21,REP,State Senator Blake Johnson,989,711,11,267
+Greene,JP06--Bula,State Senate,21,REP,State Senator Blake Johnson,726,524,6,196
+Greene,JP07--Rush Island,State Senate,21,REP,State Senator Blake Johnson,870,554,2,314
+Greene,JP08--Bagwell Lake,State Senate,21,REP,State Senator Blake Johnson,741,502,2,237
+Greene,JP09--Campground,State Senate,21,REP,State Senator Blake Johnson,993,598,4,391
+Greene,JP10--Dalton,State Senate,21,REP,State Senator Blake Johnson,974,383,2,589
+Greene,JP11--Crowley's Ridge,State Senate,21,REP,State Senator Blake Johnson,1131,508,4,619
+Greene,JP04--Bula,State House,01,REP,Jeremy Wooldridge Justice of the Peace,260,171,0,89
+Greene,JP07--Rush Island,State House,01,REP,Jeremy Wooldridge Justice of the Peace,66,50,0,16
+Greene,JP08--Bagwell Lake,State House,01,REP,Jeremy Wooldridge Justice of the Peace,501,322,1,178
+Greene,JP09--Campground,State House,01,REP,Jeremy Wooldridge Justice of the Peace,655,354,3,298
+Greene,JP10--Dalton,State House,01,REP,Jeremy Wooldridge Justice of the Peace,972,385,3,584
+Greene,JP11--Crowley's Ridge,State House,01,REP,Jeremy Wooldridge Justice of the Peace,2,2,0,0
+Greene,JP04--Bula,State House,01,DEM,Teresa L. Roofe,46,28,1,17
+Greene,JP07--Rush Island,State House,01,DEM,Teresa L. Roofe,5,5,0,0
+Greene,JP08--Bagwell Lake,State House,01,DEM,Teresa L. Roofe,118,68,1,49
+Greene,JP09--Campground,State House,01,DEM,Teresa L. Roofe,117,70,3,44
+Greene,JP10--Dalton,State House,01,DEM,Teresa L. Roofe,185,70,1,114
+Greene,JP11--Crowley's Ridge,State House,01,DEM,Teresa L. Roofe,0,0,0,0
+Greene,JP11--Crowley's Ridge,State House,30,REP,Representative Fran Cavenaugh,1128,501,4,623
+Greene,JP11--Crowley's Ridge,State House,30,LIB,Cheryl Primm,151,68,2,81
+Greene,JP01--Bula,State House,31,REP,State Representative Jimmy Gazaway,506,351,4,151
+Greene,JP02--Bula,State House,31,REP,State Representative Jimmy Gazaway,602,432,13,157
+Greene,JP03--Bula,State House,31,REP,State Representative Jimmy Gazaway,1279,928,25,326
+Greene,JP04--Bula,State House,31,REP,State Representative Jimmy Gazaway,847,524,6,317
+Greene,JP05--Bula,State House,31,REP,State Representative Jimmy Gazaway,1143,822,15,306
+Greene,JP06--Bula,State House,31,REP,State Representative Jimmy Gazaway,884,631,5,248
+Greene,JP07--Rush Island,State House,31,REP,State Representative Jimmy Gazaway,890,558,4,328
+Greene,JP08--Bagwell Lake,State House,31,REP,State Representative Jimmy Gazaway,248,182,1,65
+Greene,JP09--Campground,State House,31,REP,State Representative Jimmy Gazaway,352,252,0,100
+Greene,JP01--Bula,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,292,192,3,97
+Greene,JP02--Bula,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,372,268,6,98
+Greene,JP03--Bula,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,774,551,19,204
+Greene,JP04--Bula,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,668,420,1,247
+Greene,JP05--Bula,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,674,477,9,188
+Greene,JP06--Bula,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,520,380,4,136
+Greene,JP07--Rush Island,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,568,345,3,220
+Greene,JP08--Bagwell Lake,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,500,323,2,175
+Greene,JP09--Campground,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,645,394,4,247
+Greene,JP10--Dalton,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,662,247,2,413
+Greene,JP11--Crowley's Ridge,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,683,317,4,362
+Greene,JP01--Bula,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,206,151,1,54
+Greene,JP02--Bula,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,234,162,8,64
+Greene,JP03--Bula,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,457,347,9,101
+Greene,JP04--Bula,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,412,261,6,145
+Greene,JP05--Bula,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,424,313,6,105
+Greene,JP06--Bula,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,347,246,5,96
+Greene,JP07--Rush Island,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,357,244,2,111
+Greene,JP08--Bagwell Lake,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,292,202,0,90
+Greene,JP09--Campground,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,415,248,3,164
+Greene,JP10--Dalton,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,380,153,2,225
+Greene,JP11--Crowley's Ridge,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,467,194,1,272
+Greene,JP01--Bula,Prosecuting Attorney,02,NON,Sonia Fonticiella,359,243,4,112
+Greene,JP02--Bula,Prosecuting Attorney,02,NON,Sonia Fonticiella,493,356,11,126
+Greene,JP03--Bula,Prosecuting Attorney,02,NON,Sonia Fonticiella,1033,765,24,244
+Greene,JP04--Bula,Prosecuting Attorney,02,NON,Sonia Fonticiella,823,514,6,303
+Greene,JP05--Bula,Prosecuting Attorney,02,NON,Sonia Fonticiella,834,605,8,221
+Greene,JP06--Bula,Prosecuting Attorney,02,NON,Sonia Fonticiella,676,487,10,179
+Greene,JP07--Rush Island,Prosecuting Attorney,02,NON,Sonia Fonticiella,681,423,4,254
+Greene,JP08--Bagwell Lake,Prosecuting Attorney,02,NON,Sonia Fonticiella,590,373,2,215
+Greene,JP09--Campground,Prosecuting Attorney,02,NON,Sonia Fonticiella,791,474,2,315
+Greene,JP10--Dalton,Prosecuting Attorney,02,NON,Sonia Fonticiella,796,310,4,482
+Greene,JP11--Crowley's Ridge,Prosecuting Attorney,02,NON,Sonia Fonticiella,822,364,2,456
+Greene,JP01--Bula,Prosecuting Attorney,02,NON,Martin E. Lilly,167,119,0,48
+Greene,JP02--Bula,Prosecuting Attorney,02,NON,Martin E. Lilly,164,113,3,48
+Greene,JP03--Bula,Prosecuting Attorney,02,NON,Martin E. Lilly,311,221,4,86
+Greene,JP04--Bula,Prosecuting Attorney,02,NON,Martin E. Lilly,345,225,3,117
+Greene,JP05--Bula,Prosecuting Attorney,02,NON,Martin E. Lilly,346,251,6,89
+Greene,JP06--Bula,Prosecuting Attorney,02,NON,Martin E. Lilly,247,178,0,69
+Greene,JP07--Rush Island,Prosecuting Attorney,02,NON,Martin E. Lilly,323,220,1,102
+Greene,JP08--Bagwell Lake,Prosecuting Attorney,02,NON,Martin E. Lilly,263,190,1,72
+Greene,JP09--Campground,Prosecuting Attorney,02,NON,Martin E. Lilly,331,211,5,115
+Greene,JP10--Dalton,Prosecuting Attorney,02,NON,Martin E. Lilly,311,125,0,186
+Greene,JP11--Crowley's Ridge,Prosecuting Attorney,02,NON,Martin E. Lilly,421,189,3,229
+Greene,JP01--Bula,County Judge,,DEM,DEM Jerry Poe Shipman,105,67,0,38
+Greene,JP02--Bula,County Judge,,DEM,DEM Jerry Poe Shipman,114,75,4,35
+Greene,JP03--Bula,County Judge,,DEM,DEM Jerry Poe Shipman,131,87,6,38
+Greene,JP04--Bula,County Judge,,DEM,DEM Jerry Poe Shipman,111,71,3,37
+Greene,JP05--Bula,County Judge,,DEM,DEM Jerry Poe Shipman,132,95,2,35
+Greene,JP06--Bula,County Judge,,DEM,DEM Jerry Poe Shipman,155,112,4,39
+Greene,JP07--Rush Island,County Judge,,DEM,DEM Jerry Poe Shipman,115,73,2,40
+Greene,JP08--Bagwell Lake,County Judge,,DEM,DEM Jerry Poe Shipman,109,69,1,39
+Greene,JP09--Campground,County Judge,,DEM,DEM Jerry Poe Shipman,101,65,2,34
+Greene,JP10--Dalton,County Judge,,DEM,DEM Jerry Poe Shipman,145,62,2,81
+Greene,JP11--Crowley's Ridge,County Judge,,DEM,DEM Jerry Poe Shipman,153,59,3,91
+Greene,JP01--Bula,County Judge,,REP,REP Rusty A. McMillon,361,257,4,100
+Greene,JP02--Bula,County Judge,,REP,REP Rusty A. McMillon,472,349,7,116
+Greene,JP03--Bula,County Judge,,REP,REP Rusty A. McMillon,1119,833,21,265
+Greene,JP04--Bula,County Judge,,REP,REP Rusty A. McMillon,940,589,3,348
+Greene,JP05--Bula,County Judge,,REP,REP Rusty A. McMillon,916,656,12,248
+Greene,JP06--Bula,County Judge,,REP,REP Rusty A. McMillon,693,508,5,180
+Greene,JP07--Rush Island,County Judge,,REP,REP Rusty A. McMillon,761,483,3,275
+Greene,JP08--Bagwell Lake,County Judge,,REP,REP Rusty A. McMillon,562,383,1,178
+Greene,JP09--Campground,County Judge,,REP,REP Rusty A. McMillon,763,471,4,288
+Greene,JP10--Dalton,County Judge,,REP,REP Rusty A. McMillon,742,284,1,457
+Greene,JP11--Crowley's Ridge,County Judge,,REP,REP Rusty A. McMillon,887,410,2,475
+Greene,JP01--Bula,County Judge,,IND,IND Kim Reeves,79,52,0,27
+Greene,JP02--Bula,County Judge,,IND,IND Kim Reeves,86,58,4,24
+Greene,JP03--Bula,County Judge,,IND,IND Kim Reeves,120,83,2,35
+Greene,JP04--Bula,County Judge,,IND,IND Kim Reeves,168,112,3,53
+Greene,JP05--Bula,County Judge,,IND,IND Kim Reeves,168,129,1,38
+Greene,JP06--Bula,County Judge,,IND,IND Kim Reeves,113,72,2,39
+Greene,JP07--Rush Island,County Judge,,IND,IND Kim Reeves,154,104,0,50
+Greene,JP08--Bagwell Lake,County Judge,,IND,IND Kim Reeves,215,137,1,77
+Greene,JP09--Campground,County Judge,,IND,IND Kim Reeves,299,171,2,126
+Greene,JP10--Dalton,County Judge,,IND,IND Kim Reeves,269,109,1,159
+Greene,JP11--Crowley's Ridge,County Judge,,IND,IND Kim Reeves,264,111,1,152
+Greene,JP01--Bula,Circuit Clerk,,REP,REP Lesa Gramling,503,349,4,150
+Greene,JP02--Bula,Circuit Clerk,,REP,REP Lesa Gramling,607,436,12,159
+Greene,JP03--Bula,Circuit Clerk,,REP,REP Lesa Gramling,1266,919,25,322
+Greene,JP04--Bula,Circuit Clerk,,REP,REP Lesa Gramling,1151,722,7,422
+Greene,JP05--Bula,Circuit Clerk,,REP,REP Lesa Gramling,1143,826,15,302
+Greene,JP06--Bula,Circuit Clerk,,REP,REP Lesa Gramling,884,631,5,248
+Greene,JP07--Rush Island,Circuit Clerk,,REP,REP Lesa Gramling,965,612,4,349
+Greene,JP08--Bagwell Lake,Circuit Clerk,,REP,REP Lesa Gramling,834,552,2,280
+Greene,JP09--Campground,Circuit Clerk,,REP,REP Lesa Gramling,1087,654,6,427
+Greene,JP10--Dalton,Circuit Clerk,,REP,REP Lesa Gramling,1084,434,3,647
+Greene,JP11--Crowley's Ridge,Circuit Clerk,,REP,REP Lesa Gramling,1222,545,5,672
+Greene,JP05--Bula,Justice of the Peace,5,DEM,DEM Barry Wayne Wilkins,223,165,3,55
+Greene,JP05--Bula,Justice of the Peace,5,REP,REP Michele Boling,972,700,12,260
+Greene,JP01--Bula,Paragould Mayor,,IND,IND Josh Agee,484,332,4,148
+Greene,JP02--Bula,Paragould Mayor,,IND,IND Josh Agee,595,422,14,159
+Greene,JP03--Bula,Paragould Mayor,,IND,IND Josh Agee,1200,874,26,300
+Greene,JP04--Bula,Paragould Mayor,,IND,IND Josh Agee,758,470,6,282
+Greene,JP05--Bula,Paragould Mayor,,IND,IND Josh Agee,1034,737,14,283
+Greene,JP06--Bula,Paragould Mayor,,IND,IND Josh Agee,841,603,8,230
+Greene,JP07--Rush Island,Paragould Mayor,,IND,IND Josh Agee,497,329,3,165
+Greene,JP08--Bagwell Lake,Paragould Mayor,,IND,IND Josh Agee,221,166,1,54
+Greene,JP09--Campground,Paragould Mayor,,IND,IND Josh Agee,320,228,1,91
+Greene,JP01--Bula,City Clerk,,IND,IND Andrea Williams,470,323,4,143
+Greene,JP02--Bula,City Clerk,,IND,IND Andrea Williams,584,415,13,156
+Greene,JP03--Bula,City Clerk,,IND,IND Andrea Williams,1203,876,27,300
+Greene,JP04--Bula,City Clerk,,IND,IND Andrea Williams,782,489,5,288
+Greene,JP05--Bula,City Clerk,,IND,IND Andrea Williams,1082,778,14,290
+Greene,JP06--Bula,City Clerk,,IND,IND Andrea Williams,875,625,8,242
+Greene,JP07--Rush Island,City Clerk,,IND,IND Andrea Williams,484,316,3,165
+Greene,JP08--Bagwell Lake,City Clerk,,IND,IND Andrea Williams,220,164,1,55
+Greene,JP09--Campground,City Clerk,,IND,IND Andrea Williams,321,228,1,92
+Greene,JP01--Bula,Paragould City Council, Ward 2,IND,IND Pat Austin,123,92,0,31
+Greene,JP02--Bula,Paragould City Council, Ward 2,IND,IND Pat Austin,337,252,8,77
+Greene,JP03--Bula,Paragould City Council, Ward 2,IND,IND Pat Austin,298,215,4,79
+Greene,JP05--Bula,Paragould City Council, Ward 2,IND,IND Pat Austin,43,37,1,5
+Greene,JP06--Bula,Paragould City Council, Ward 2,IND,IND Pat Austin,36,26,0,10
+Greene,JP09--Campground,Paragould City Council, Ward 2,IND,IND Pat Austin,248,178,1,69
+Greene,JP01--Bula,Paragould City Council, Ward 2,IND,IND Jessie Huffine Blevens,94,58,3,33
+Greene,JP02--Bula,Paragould City Council, Ward 2,IND,IND Jessie Huffine Blevens,189,128,5,56
+Greene,JP03--Bula,Paragould City Council, Ward 2,IND,IND Jessie Huffine Blevens,207,154,0,53
+Greene,JP05--Bula,Paragould City Council, Ward 2,IND,IND Jessie Huffine Blevens,23,19,2,2
+Greene,JP06--Bula,Paragould City Council, Ward 2,IND,IND Jessie Huffine Blevens,37,22,0,15
+Greene,JP09--Campground,Paragould City Council, Ward 2,IND,IND Jessie Huffine Blevens,122,92,1,29
+Greene,JP01--Bula,Paragould City Council, Ward 3,IND,IND Jackie Branch,178,129,1,48
+Greene,JP02--Bula,Paragould City Council, Ward 3,IND,IND Jackie Branch,64,41,2,21
+Greene,JP06--Bula,Paragould City Council, Ward 3,IND,IND Jackie Branch,8,7,0,1
+Greene,JP07--Rush Island,Paragould City Council, Ward 3,IND,IND Jackie Branch,56,37,0,19
+Greene,JP08--Bagwell Lake,Paragould City Council, Ward 3,IND,IND Jackie Branch,145,117,1,27
+Greene,JP01--Bula,Paragould City Council, Ward 3,IND,IND Lindsey Boggs,123,83,0,40
+Greene,JP02--Bula,Paragould City Council, Ward 3,IND,IND Lindsey Boggs,55,40,0,15
+Greene,JP06--Bula,Paragould City Council, Ward 3,IND,IND Lindsey Boggs,4,2,0,2
+Greene,JP07--Rush Island,Paragould City Council, Ward 3,IND,IND Lindsey Boggs,32,27,0,5
+Greene,JP08--Bagwell Lake,Paragould City Council, Ward 3,IND,IND Lindsey Boggs,99,69,0,30
+Greene,JP10--Dalton,Marmaduke Mayor,,IND,IND Ronnie Floyd,118,29,0,89
+Greene,JP10--Dalton,Marmaduke Mayor,,IND,IND Jerrimy Farmer,124,34,1,89
+Greene,JP10--Dalton,Marmaduke Mayor,,IND,IND Roger Forbs Jr,26,7,0,19
+Greene,JP09--Campground,Oak Grove Heights Mayor,,IND,IND Rudy Garner,196,116,4,76
+Greene,JP09--Campground,Oak Grove Heights Mayor,,IND,IND Eric White,118,55,0,63
+Greene,JP09--Campground,Oak Grove City Council, Ward 2,IND,IND Joe Vincent,155,91,4,60
+Greene,JP09--Campground,Oak Grove City Council, Ward 2,IND,IND Michael A. Robinson,147,72,0,75
+Greene,JP09--Campground,Oak Grove City Council, Ward 2,IND,IND Coy Rollins,160,95,4,61
+Greene,JP09--Campground,Oak Grove City Council, Ward 2,IND,IND Kim Bailey,149,73,0,76
+Greene,JP09--Campground,Oak Grove City Council, Ward 3,IND,IND Rebecca Book,167,80,1,86
+Greene,JP09--Campground,Oak Grove City Council, Ward 3,IND,IND Roger West,140,87,3,50
+Greene,JP10--Dalton,Delaplaine Mayor,,IND,IND Emily Sisco,31,4,0,27
+Greene,JP10--Dalton,Lafe Mayor,,IND,IND Ralph Oglesby Jr,81,32,0,49
+Greene,JP10--Dalton,Lafe Recorder/Treasurer,,IND,IND Denise C. Knuckles,81,34,0,47
+Greene,JP01--Bula,AMENDMENT TO THE MUNICIPAL CODE OF THE CITY OF PA,,NON,For,317,222,3,92
+Greene,JP02--Bula,AMENDMENT TO THE MUNICIPAL CODE OF THE CITY OF PA,,NON,For,348,245,9,94
+Greene,JP03--Bula,AMENDMENT TO THE MUNICIPAL CODE OF THE CITY OF PA,,NON,For,688,509,17,162
+Greene,JP04--Bula,AMENDMENT TO THE MUNICIPAL CODE OF THE CITY OF PA,,NON,For,488,308,4,176
+Greene,JP05--Bula,AMENDMENT TO THE MUNICIPAL CODE OF THE CITY OF PA,,NON,For,700,510,10,180
+Greene,JP06--Bula,AMENDMENT TO THE MUNICIPAL CODE OF THE CITY OF PA,,NON,For,517,371,3,143
+Greene,JP07--Rush Island,AMENDMENT TO THE MUNICIPAL CODE OF THE CITY OF PA,,NON,For,337,227,3,107
+Greene,JP08--Bagwell Lake,AMENDMENT TO THE MUNICIPAL CODE OF THE CITY OF PA,,NON,For,147,117,0,30
+Greene,JP09--Campground,AMENDMENT TO THE MUNICIPAL CODE OF THE CITY OF PA,,NON,For,242,179,1,62
+Greene,JP01--Bula,AMENDMENT TO THE MUNICIPAL CODE OF THE CITY OF PA,,NON,Against,218,147,1,70
+Greene,JP02--Bula,AMENDMENT TO THE MUNICIPAL CODE OF THE CITY OF PA,,NON,Against,316,231,6,79
+Greene,JP03--Bula,AMENDMENT TO THE MUNICIPAL CODE OF THE CITY OF PA,,NON,Against,650,478,11,161
+Greene,JP04--Bula,AMENDMENT TO THE MUNICIPAL CODE OF THE CITY OF PA,,NON,Against,384,240,3,141
+Greene,JP05--Bula,AMENDMENT TO THE MUNICIPAL CODE OF THE CITY OF PA,,NON,Against,497,362,4,131
+Greene,JP06--Bula,AMENDMENT TO THE MUNICIPAL CODE OF THE CITY OF PA,,NON,Against,433,314,6,113
+Greene,JP07--Rush Island,AMENDMENT TO THE MUNICIPAL CODE OF THE CITY OF PA,,NON,Against,219,148,0,71
+Greene,JP08--Bagwell Lake,AMENDMENT TO THE MUNICIPAL CODE OF THE CITY OF PA,,NON,Against,112,74,1,37
+Greene,JP09--Campground,AMENDMENT TO THE MUNICIPAL CODE OF THE CITY OF PA,,NON,Against,139,102,1,36
+Greene,JP01--Bula,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,245,171,4,70
+Greene,JP02--Bula,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,256,173,6,77
+Greene,JP03--Bula,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,524,358,15,151
+Greene,JP04--Bula,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,528,333,3,192
+Greene,JP05--Bula,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,468,320,9,139
+Greene,JP06--Bula,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,403,276,5,122
+Greene,JP07--Rush Island,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,424,256,5,163
+Greene,JP08--Bagwell Lake,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,338,226,0,112
+Greene,JP09--Campground,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,415,254,1,160
+Greene,JP10--Dalton,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,421,169,1,251
+Greene,JP11--Crowley's Ridge,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,467,229,1,237
+Greene,JP01--Bula,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,274,188,0,86
+Greene,JP02--Bula,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,389,291,9,89
+Greene,JP03--Bula,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,780,597,14,169
+Greene,JP04--Bula,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,641,401,5,235
+Greene,JP05--Bula,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,685,516,3,166
+Greene,JP06--Bula,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,512,381,4,127
+Greene,JP07--Rush Island,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,555,373,0,182
+Greene,JP08--Bagwell Lake,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,502,332,3,167
+Greene,JP09--Campground,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,695,424,5,266
+Greene,JP10--Dalton,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,692,269,3,420
+Greene,JP11--Crowley's Ridge,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,786,330,3,453
+Greene,JP01--Bula,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,253,179,1,73
+Greene,JP02--Bula,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,265,183,7,75
+Greene,JP03--Bula,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,550,385,14,151
+Greene,JP04--Bula,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,507,314,3,190
+Greene,JP05--Bula,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,508,347,9,152
+Greene,JP06--Bula,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,371,256,3,112
+Greene,JP07--Rush Island,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,460,294,2,164
+Greene,JP08--Bagwell Lake,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,373,252,1,120
+Greene,JP09--Campground,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,466,285,3,178
+Greene,JP10--Dalton,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,484,187,2,295
+Greene,JP11--Crowley's Ridge,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,536,230,4,302
+Greene,JP01--Bula,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,270,182,3,85
+Greene,JP02--Bula,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,389,286,8,95
+Greene,JP03--Bula,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,766,581,14,171
+Greene,JP04--Bula,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,674,432,5,237
+Greene,JP05--Bula,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,661,503,4,154
+Greene,JP06--Bula,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,557,413,6,138
+Greene,JP07--Rush Island,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,539,347,3,189
+Greene,JP08--Bagwell Lake,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,478,314,2,162
+Greene,JP09--Campground,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,661,399,5,257
+Greene,JP10--Dalton,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,640,252,2,386
+Greene,JP11--Crowley's Ridge,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,731,332,2,397
+Greene,JP01--Bula,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,294,199,3,92
+Greene,JP02--Bula,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,334,229,8,97
+Greene,JP03--Bula,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,674,471,16,187
+Greene,JP04--Bula,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,655,408,4,243
+Greene,JP05--Bula,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,639,466,12,161
+Greene,JP06--Bula,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,493,345,3,145
+Greene,JP07--Rush Island,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,534,329,3,202
+Greene,JP08--Bagwell Lake,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,484,325,2,157
+Greene,JP09--Campground,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,595,369,1,225
+Greene,JP10--Dalton,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,592,226,1,365
+Greene,JP11--Crowley's Ridge,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,675,302,3,370
+Greene,JP01--Bula,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,239,169,1,69
+Greene,JP02--Bula,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,327,247,7,73
+Greene,JP03--Bula,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,655,503,12,140
+Greene,JP04--Bula,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,536,344,4,188
+Greene,JP05--Bula,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,538,386,3,149
+Greene,JP06--Bula,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,445,333,6,106
+Greene,JP07--Rush Island,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,465,311,2,152
+Greene,JP08--Bagwell Lake,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,384,250,1,133
+Greene,JP09--Campground,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,538,316,6,216
+Greene,JP10--Dalton,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,535,219,3,313
+Greene,JP11--Crowley's Ridge,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,592,264,3,325
+Greene,JP01--Bula,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,293,188,2,103
+Greene,JP02--Bula,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,328,226,6,96
+Greene,JP03--Bula,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,511,337,15,159
+Greene,JP04--Bula,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,455,279,2,174
+Greene,JP05--Bula,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,434,302,4,128
+Greene,JP06--Bula,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,407,283,3,121
+Greene,JP07--Rush Island,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,391,221,3,167
+Greene,JP08--Bagwell Lake,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,375,244,1,130
+Greene,JP09--Campground,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,488,300,4,184
+Greene,JP10--Dalton,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,480,177,2,301
+Greene,JP11--Crowley's Ridge,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,443,194,3,246
+Greene,JP01--Bula,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,249,187,2,60
+Greene,JP02--Bula,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,347,258,9,80
+Greene,JP03--Bula,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,858,667,14,177
+Greene,JP04--Bula,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,758,490,6,262
+Greene,JP05--Bula,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,782,579,11,192
+Greene,JP06--Bula,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,553,407,8,138
+Greene,JP07--Rush Island,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,636,437,2,197
+Greene,JP08--Bagwell Lake,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,508,344,2,162
+Greene,JP09--Campground,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,668,406,4,258
+Greene,JP10--Dalton,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,678,279,2,397
+Greene,JP11--Crowley's Ridge,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,850,381,3,466

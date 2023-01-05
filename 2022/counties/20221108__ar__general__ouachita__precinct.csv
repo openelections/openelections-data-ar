@@ -1,0 +1,879 @@
+county,precinct,office,district,party,candidate,votes,early_vote,absentee,election_day
+Ouachita,001_Camden,U.S. Senate,,DEM,Natalie James,428,323,14,91
+Ouachita,002_Camden,U.S. Senate,,DEM,Natalie James,330,249,10,71
+Ouachita,003_Camden,U.S. Senate,,DEM,Natalie James,420,283,27,110
+Ouachita,004_Camden,U.S. Senate,,DEM,Natalie James,318,229,9,80
+Ouachita,005_Bearden,U.S. Senate,,DEM,Natalie James,109,38,1,70
+Ouachita,006_Chidester,U.S. Senate,,DEM,Natalie James,55,14,2,39
+Ouachita,007_East Camden,U.S. Senate,,DEM,Natalie James,57,35,2,20
+Ouachita,008_Louann,U.S. Senate,,DEM,Natalie James,12,2,0,10
+Ouachita,009_Stephens,U.S. Senate,,DEM,Natalie James,128,50,2,76
+Ouachita,010_County 001,U.S. Senate,,DEM,Natalie James,105,58,1,46
+Ouachita,011_County 002,U.S. Senate,,DEM,Natalie James,75,49,1,25
+Ouachita,012_County 003,U.S. Senate,,DEM,Natalie James,128,72,8,48
+Ouachita,013_County 004,U.S. Senate,,DEM,Natalie James,140,94,7,39
+Ouachita,014_County 005,U.S. Senate,,DEM,Natalie James,185,90,7,88
+Ouachita,015_County 007,U.S. Senate,,DEM,Natalie James,78,55,2,21
+Ouachita,016_County 008,U.S. Senate,,DEM,Natalie James,27,19,2,6
+Ouachita,017_County 010,U.S. Senate,,DEM,Natalie James,0,0,0,0
+Ouachita,018_County 011,U.S. Senate,,DEM,Natalie James,68,56,2,10
+Ouachita,001_Camden,U.S. Senate,,LIB,Kenneth Cates,24,8,0,16
+Ouachita,002_Camden,U.S. Senate,,LIB,Kenneth Cates,12,7,1,4
+Ouachita,003_Camden,U.S. Senate,,LIB,Kenneth Cates,9,4,0,5
+Ouachita,004_Camden,U.S. Senate,,LIB,Kenneth Cates,24,13,0,11
+Ouachita,005_Bearden,U.S. Senate,,LIB,Kenneth Cates,4,0,0,4
+Ouachita,006_Chidester,U.S. Senate,,LIB,Kenneth Cates,1,0,0,1
+Ouachita,007_East Camden,U.S. Senate,,LIB,Kenneth Cates,3,2,0,1
+Ouachita,008_Louann,U.S. Senate,,LIB,Kenneth Cates,1,0,0,1
+Ouachita,009_Stephens,U.S. Senate,,LIB,Kenneth Cates,4,0,0,4
+Ouachita,010_County 001,U.S. Senate,,LIB,Kenneth Cates,9,4,0,5
+Ouachita,011_County 002,U.S. Senate,,LIB,Kenneth Cates,13,7,0,6
+Ouachita,012_County 003,U.S. Senate,,LIB,Kenneth Cates,21,6,0,15
+Ouachita,013_County 004,U.S. Senate,,LIB,Kenneth Cates,9,6,0,3
+Ouachita,014_County 005,U.S. Senate,,LIB,Kenneth Cates,18,9,0,9
+Ouachita,015_County 007,U.S. Senate,,LIB,Kenneth Cates,9,4,0,5
+Ouachita,016_County 008,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0
+Ouachita,017_County 010,U.S. Senate,,LIB,Kenneth Cates,1,1,0,0
+Ouachita,018_County 011,U.S. Senate,,LIB,Kenneth Cates,6,5,0,1
+Ouachita,001_Camden,U.S. Senate,,REP,Senator John Boozman,449,324,14,111
+Ouachita,002_Camden,U.S. Senate,,REP,Senator John Boozman,107,72,3,32
+Ouachita,003_Camden,U.S. Senate,,REP,Senator John Boozman,124,68,3,53
+Ouachita,004_Camden,U.S. Senate,,REP,Senator John Boozman,593,404,13,176
+Ouachita,005_Bearden,U.S. Senate,,REP,Senator John Boozman,108,28,2,78
+Ouachita,006_Chidester,U.S. Senate,,REP,Senator John Boozman,44,4,0,40
+Ouachita,007_East Camden,U.S. Senate,,REP,Senator John Boozman,115,43,2,70
+Ouachita,008_Louann,U.S. Senate,,REP,Senator John Boozman,24,6,2,16
+Ouachita,009_Stephens,U.S. Senate,,REP,Senator John Boozman,75,21,2,52
+Ouachita,010_County 001,U.S. Senate,,REP,Senator John Boozman,286,140,3,143
+Ouachita,011_County 002,U.S. Senate,,REP,Senator John Boozman,418,174,4,240
+Ouachita,012_County 003,U.S. Senate,,REP,Senator John Boozman,575,316,12,247
+Ouachita,013_County 004,U.S. Senate,,REP,Senator John Boozman,289,162,5,122
+Ouachita,014_County 005,U.S. Senate,,REP,Senator John Boozman,388,178,5,205
+Ouachita,015_County 007,U.S. Senate,,REP,Senator John Boozman,328,222,7,99
+Ouachita,016_County 008,U.S. Senate,,REP,Senator John Boozman,9,5,0,4
+Ouachita,017_County 010,U.S. Senate,,REP,Senator John Boozman,18,9,1,8
+Ouachita,018_County 011,U.S. Senate,,REP,Senator John Boozman,213,149,8,56
+Ouachita,001_Camden,U.S. Congress District 04,,DEM,John White,406,303,14,89
+Ouachita,002_Camden,U.S. Congress District 04,,DEM,John White,329,245,10,74
+Ouachita,003_Camden,U.S. Congress District 04,,DEM,John White,414,286,26,102
+Ouachita,004_Camden,U.S. Congress District 04,,DEM,John White,305,217,9,79
+Ouachita,005_Bearden,U.S. Congress District 04,,DEM,John White,105,38,1,66
+Ouachita,006_Chidester,U.S. Congress District 04,,DEM,John White,51,14,2,35
+Ouachita,007_East Camden,U.S. Congress District 04,,DEM,John White,51,31,1,19
+Ouachita,008_Louann,U.S. Congress District 04,,DEM,John White,12,2,0,10
+Ouachita,009_Stephens,U.S. Congress District 04,,DEM,John White,122,47,1,74
+Ouachita,010_County 001,U.S. Congress District 04,,DEM,John White,103,59,1,43
+Ouachita,011_County 002,U.S. Congress District 04,,DEM,John White,76,47,2,27
+Ouachita,012_County 003,U.S. Congress District 04,,DEM,John White,122,72,7,43
+Ouachita,013_County 004,U.S. Congress District 04,,DEM,John White,133,89,7,37
+Ouachita,014_County 005,U.S. Congress District 04,,DEM,John White,183,91,7,85
+Ouachita,015_County 007,U.S. Congress District 04,,DEM,John White,70,51,3,16
+Ouachita,016_County 008,U.S. Congress District 04,,DEM,John White,30,21,2,7
+Ouachita,017_County 010,U.S. Congress District 04,,DEM,John White,0,0,0,0
+Ouachita,018_County 011,U.S. Congress District 04,,DEM,John White,71,56,2,13
+Ouachita,001_Camden,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,464,334,14,116
+Ouachita,002_Camden,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,103,70,4,29
+Ouachita,003_Camden,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,118,60,4,54
+Ouachita,004_Camden,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,603,409,13,181
+Ouachita,005_Bearden,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,104,25,2,77
+Ouachita,006_Chidester,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,47,4,0,43
+Ouachita,007_East Camden,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,117,47,2,68
+Ouachita,008_Louann,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,24,6,2,16
+Ouachita,009_Stephens,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,76,22,2,52
+Ouachita,010_County 001,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,288,138,3,147
+Ouachita,011_County 002,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,424,181,3,240
+Ouachita,012_County 003,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,581,313,13,255
+Ouachita,013_County 004,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,288,161,5,122
+Ouachita,014_County 005,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,387,176,5,206
+Ouachita,015_County 007,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,327,220,6,101
+Ouachita,016_County 008,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,7,5,0,2
+Ouachita,017_County 010,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,18,9,1,8
+Ouachita,018_County 011,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,209,149,7,53
+Ouachita,001_Camden,U.S. Congress District 04,,LIB,Gregory Maxwell,25,13,0,12
+Ouachita,002_Camden,U.S. Congress District 04,,LIB,Gregory Maxwell,17,12,0,5
+Ouachita,003_Camden,U.S. Congress District 04,,LIB,Gregory Maxwell,15,6,0,9
+Ouachita,004_Camden,U.S. Congress District 04,,LIB,Gregory Maxwell,19,13,0,6
+Ouachita,005_Bearden,U.S. Congress District 04,,LIB,Gregory Maxwell,9,2,0,7
+Ouachita,006_Chidester,U.S. Congress District 04,,LIB,Gregory Maxwell,1,0,0,1
+Ouachita,007_East Camden,U.S. Congress District 04,,LIB,Gregory Maxwell,4,1,0,3
+Ouachita,008_Louann,U.S. Congress District 04,,LIB,Gregory Maxwell,1,0,0,1
+Ouachita,009_Stephens,U.S. Congress District 04,,LIB,Gregory Maxwell,6,2,1,3
+Ouachita,010_County 001,U.S. Congress District 04,,LIB,Gregory Maxwell,6,4,0,2
+Ouachita,011_County 002,U.S. Congress District 04,,LIB,Gregory Maxwell,7,4,0,3
+Ouachita,012_County 003,U.S. Congress District 04,,LIB,Gregory Maxwell,14,4,0,10
+Ouachita,013_County 004,U.S. Congress District 04,,LIB,Gregory Maxwell,11,7,0,4
+Ouachita,014_County 005,U.S. Congress District 04,,LIB,Gregory Maxwell,17,8,0,9
+Ouachita,015_County 007,U.S. Congress District 04,,LIB,Gregory Maxwell,11,5,0,6
+Ouachita,016_County 008,U.S. Congress District 04,,LIB,Gregory Maxwell,0,0,0,0
+Ouachita,017_County 010,U.S. Congress District 04,,LIB,Gregory Maxwell,0,0,0,0
+Ouachita,018_County 011,U.S. Congress District 04,,LIB,Gregory Maxwell,7,5,1,1
+Ouachita,001_Camden,Attorney General,,DEM,Jesse Gibson,427,317,13,97
+Ouachita,002_Camden,Attorney General,,DEM,Jesse Gibson,341,254,10,77
+Ouachita,003_Camden,Attorney General,,DEM,Jesse Gibson,421,282,27,112
+Ouachita,004_Camden,Attorney General,,DEM,Jesse Gibson,327,237,9,81
+Ouachita,005_Bearden,Attorney General,,DEM,Jesse Gibson,107,39,1,67
+Ouachita,006_Chidester,Attorney General,,DEM,Jesse Gibson,52,13,2,37
+Ouachita,007_East Camden,Attorney General,,DEM,Jesse Gibson,57,34,2,21
+Ouachita,008_Louann,Attorney General,,DEM,Jesse Gibson,12,2,0,10
+Ouachita,009_Stephens,Attorney General,,DEM,Jesse Gibson,125,50,2,73
+Ouachita,010_County 001,Attorney General,,DEM,Jesse Gibson,105,60,1,44
+Ouachita,011_County 002,Attorney General,,DEM,Jesse Gibson,77,49,2,26
+Ouachita,012_County 003,Attorney General,,DEM,Jesse Gibson,138,77,8,53
+Ouachita,013_County 004,Attorney General,,DEM,Jesse Gibson,146,101,7,38
+Ouachita,014_County 005,Attorney General,,DEM,Jesse Gibson,202,95,7,100
+Ouachita,015_County 007,Attorney General,,DEM,Jesse Gibson,73,50,3,20
+Ouachita,016_County 008,Attorney General,,DEM,Jesse Gibson,28,20,2,6
+Ouachita,017_County 010,Attorney General,,DEM,Jesse Gibson,0,0,0,0
+Ouachita,018_County 011,Attorney General,,DEM,Jesse Gibson,71,60,2,9
+Ouachita,001_Camden,Attorney General,,REP,Lieutenant Governor Tim Griffin,472,338,15,119
+Ouachita,002_Camden,Attorney General,,REP,Lieutenant Governor Tim Griffin,111,75,4,32
+Ouachita,003_Camden,Attorney General,,REP,Lieutenant Governor Tim Griffin,122,63,3,56
+Ouachita,004_Camden,Attorney General,,REP,Lieutenant Governor Tim Griffin,600,402,13,185
+Ouachita,005_Bearden,Attorney General,,REP,Lieutenant Governor Tim Griffin,113,27,2,84
+Ouachita,006_Chidester,Attorney General,,REP,Lieutenant Governor Tim Griffin,46,5,0,41
+Ouachita,007_East Camden,Attorney General,,REP,Lieutenant Governor Tim Griffin,116,44,2,70
+Ouachita,008_Louann,Attorney General,,REP,Lieutenant Governor Tim Griffin,25,6,2,17
+Ouachita,009_Stephens,Attorney General,,REP,Lieutenant Governor Tim Griffin,79,21,2,56
+Ouachita,010_County 001,Attorney General,,REP,Lieutenant Governor Tim Griffin,297,144,3,150
+Ouachita,011_County 002,Attorney General,,REP,Lieutenant Governor Tim Griffin,430,183,3,244
+Ouachita,012_County 003,Attorney General,,REP,Lieutenant Governor Tim Griffin,581,314,12,255
+Ouachita,013_County 004,Attorney General,,REP,Lieutenant Governor Tim Griffin,293,163,5,125
+Ouachita,014_County 005,Attorney General,,REP,Lieutenant Governor Tim Griffin,384,178,5,201
+Ouachita,015_County 007,Attorney General,,REP,Lieutenant Governor Tim Griffin,340,229,6,105
+Ouachita,016_County 008,Attorney General,,REP,Lieutenant Governor Tim Griffin,8,5,0,3
+Ouachita,017_County 010,Attorney General,,REP,Lieutenant Governor Tim Griffin,19,10,1,8
+Ouachita,018_County 011,Attorney General,,REP,Lieutenant Governor Tim Griffin,216,150,8,58
+Ouachita,001_Camden,Auditor of State,,REP,Treasurer of State Dennis Milligan,453,326,13,114
+Ouachita,002_Camden,Auditor of State,,REP,Treasurer of State Dennis Milligan,102,69,4,29
+Ouachita,003_Camden,Auditor of State,,REP,Treasurer of State Dennis Milligan,113,58,4,51
+Ouachita,004_Camden,Auditor of State,,REP,Treasurer of State Dennis Milligan,599,409,13,177
+Ouachita,005_Bearden,Auditor of State,,REP,Treasurer of State Dennis Milligan,111,29,2,80
+Ouachita,006_Chidester,Auditor of State,,REP,Treasurer of State Dennis Milligan,43,4,0,39
+Ouachita,007_East Camden,Auditor of State,,REP,Treasurer of State Dennis Milligan,113,44,2,67
+Ouachita,008_Louann,Auditor of State,,REP,Treasurer of State Dennis Milligan,25,6,2,17
+Ouachita,009_Stephens,Auditor of State,,REP,Treasurer of State Dennis Milligan,77,22,1,54
+Ouachita,010_County 001,Auditor of State,,REP,Treasurer of State Dennis Milligan,295,144,3,148
+Ouachita,011_County 002,Auditor of State,,REP,Treasurer of State Dennis Milligan,428,181,3,244
+Ouachita,012_County 003,Auditor of State,,REP,Treasurer of State Dennis Milligan,583,317,12,254
+Ouachita,013_County 004,Auditor of State,,REP,Treasurer of State Dennis Milligan,295,166,5,124
+Ouachita,014_County 005,Auditor of State,,REP,Treasurer of State Dennis Milligan,389,178,5,206
+Ouachita,015_County 007,Auditor of State,,REP,Treasurer of State Dennis Milligan,336,225,6,105
+Ouachita,016_County 008,Auditor of State,,REP,Treasurer of State Dennis Milligan,8,5,0,3
+Ouachita,017_County 010,Auditor of State,,REP,Treasurer of State Dennis Milligan,18,9,1,8
+Ouachita,018_County 011,Auditor of State,,REP,Treasurer of State Dennis Milligan,206,148,8,50
+Ouachita,001_Camden,Auditor of State,,DEM,Diamond Arnold-Johnson,413,309,14,90
+Ouachita,002_Camden,Auditor of State,,DEM,Diamond Arnold-Johnson,333,250,10,73
+Ouachita,003_Camden,Auditor of State,,DEM,Diamond Arnold-Johnson,423,289,26,108
+Ouachita,004_Camden,Auditor of State,,DEM,Diamond Arnold-Johnson,299,210,9,80
+Ouachita,005_Bearden,Auditor of State,,DEM,Diamond Arnold-Johnson,105,37,1,67
+Ouachita,006_Chidester,Auditor of State,,DEM,Diamond Arnold-Johnson,50,13,2,35
+Ouachita,007_East Camden,Auditor of State,,DEM,Diamond Arnold-Johnson,56,34,2,20
+Ouachita,008_Louann,Auditor of State,,DEM,Diamond Arnold-Johnson,12,2,0,10
+Ouachita,009_Stephens,Auditor of State,,DEM,Diamond Arnold-Johnson,126,47,2,77
+Ouachita,010_County 001,Auditor of State,,DEM,Diamond Arnold-Johnson,98,55,1,42
+Ouachita,011_County 002,Auditor of State,,DEM,Diamond Arnold-Johnson,72,47,1,24
+Ouachita,012_County 003,Auditor of State,,DEM,Diamond Arnold-Johnson,117,69,8,40
+Ouachita,013_County 004,Auditor of State,,DEM,Diamond Arnold-Johnson,135,89,7,39
+Ouachita,014_County 005,Auditor of State,,DEM,Diamond Arnold-Johnson,185,91,7,87
+Ouachita,015_County 007,Auditor of State,,DEM,Diamond Arnold-Johnson,68,51,3,14
+Ouachita,016_County 008,Auditor of State,,DEM,Diamond Arnold-Johnson,29,20,2,7
+Ouachita,017_County 010,Auditor of State,,DEM,Diamond Arnold-Johnson,0,0,0,0
+Ouachita,018_County 011,Auditor of State,,DEM,Diamond Arnold-Johnson,70,56,2,12
+Ouachita,001_Camden,Auditor of State,,LIB,Simeon Snow,25,13,0,12
+Ouachita,002_Camden,Auditor of State,,LIB,Simeon Snow,14,7,0,7
+Ouachita,003_Camden,Auditor of State,,LIB,Simeon Snow,13,5,0,8
+Ouachita,004_Camden,Auditor of State,,LIB,Simeon Snow,27,19,0,8
+Ouachita,005_Bearden,Auditor of State,,LIB,Simeon Snow,5,0,0,5
+Ouachita,006_Chidester,Auditor of State,,LIB,Simeon Snow,5,0,0,5
+Ouachita,007_East Camden,Auditor of State,,LIB,Simeon Snow,4,1,0,3
+Ouachita,008_Louann,Auditor of State,,LIB,Simeon Snow,0,0,0,0
+Ouachita,009_Stephens,Auditor of State,,LIB,Simeon Snow,3,2,0,1
+Ouachita,010_County 001,Auditor of State,,LIB,Simeon Snow,9,5,0,4
+Ouachita,011_County 002,Auditor of State,,LIB,Simeon Snow,7,4,1,2
+Ouachita,012_County 003,Auditor of State,,LIB,Simeon Snow,21,6,0,15
+Ouachita,013_County 004,Auditor of State,,LIB,Simeon Snow,5,4,0,1
+Ouachita,014_County 005,Auditor of State,,LIB,Simeon Snow,15,7,0,8
+Ouachita,015_County 007,Auditor of State,,LIB,Simeon Snow,9,4,0,5
+Ouachita,016_County 008,Auditor of State,,LIB,Simeon Snow,0,0,0,0
+Ouachita,017_County 010,Auditor of State,,LIB,Simeon Snow,0,0,0,0
+Ouachita,018_County 011,Auditor of State,,LIB,Simeon Snow,8,5,0,3
+Ouachita,001_Camden,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,475,334,15,126
+Ouachita,002_Camden,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,113,75,4,34
+Ouachita,003_Camden,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,117,61,3,53
+Ouachita,004_Camden,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,613,418,13,182
+Ouachita,005_Bearden,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,115,27,2,86
+Ouachita,006_Chidester,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,47,6,0,41
+Ouachita,007_East Camden,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,113,44,2,67
+Ouachita,008_Louann,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,26,7,2,17
+Ouachita,009_Stephens,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,79,22,2,55
+Ouachita,010_County 001,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,303,148,3,152
+Ouachita,011_County 002,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,439,187,4,248
+Ouachita,012_County 003,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,595,323,12,260
+Ouachita,013_County 004,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,301,170,5,126
+Ouachita,014_County 005,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,403,185,5,213
+Ouachita,015_County 007,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,334,221,6,107
+Ouachita,016_County 008,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,12,6,1,5
+Ouachita,017_County 010,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,18,9,1,8
+Ouachita,018_County 011,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,217,156,8,53
+Ouachita,001_Camden,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,418,315,13,90
+Ouachita,002_Camden,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,332,248,10,74
+Ouachita,003_Camden,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,429,290,27,112
+Ouachita,004_Camden,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,313,220,9,84
+Ouachita,005_Bearden,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,101,37,1,63
+Ouachita,006_Chidester,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,48,10,2,36
+Ouachita,007_East Camden,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,59,34,2,23
+Ouachita,008_Louann,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,11,1,0,10
+Ouachita,009_Stephens,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,126,49,2,75
+Ouachita,010_County 001,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,100,56,1,43
+Ouachita,011_County 002,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,69,45,1,23
+Ouachita,012_County 003,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,121,65,8,48
+Ouachita,013_County 004,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,138,93,7,38
+Ouachita,014_County 005,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,185,91,7,87
+Ouachita,015_County 007,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,77,56,3,18
+Ouachita,016_County 008,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,24,19,1,4
+Ouachita,017_County 010,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,0,0,0,0
+Ouachita,018_County 011,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,67,53,2,12
+Ouachita,001_Camden,Governor,,DEM,Chris Jones,468,355,15,98
+Ouachita,002_Camden,Governor,,DEM,Chris Jones,345,263,10,72
+Ouachita,003_Camden,Governor,,DEM,Chris Jones,444,303,27,114
+Ouachita,004_Camden,Governor,,DEM,Chris Jones,342,240,9,93
+Ouachita,005_Bearden,Governor,,DEM,Chris Jones,112,42,1,69
+Ouachita,006_Chidester,Governor,,DEM,Chris Jones,55,15,2,38
+Ouachita,007_East Camden,Governor,,DEM,Chris Jones,62,37,2,23
+Ouachita,008_Louann,Governor,,DEM,Chris Jones,14,4,0,10
+Ouachita,009_Stephens,Governor,,DEM,Chris Jones,130,49,2,79
+Ouachita,010_County 001,Governor,,DEM,Chris Jones,113,64,1,48
+Ouachita,011_County 002,Governor,,DEM,Chris Jones,87,50,3,34
+Ouachita,012_County 003,Governor,,DEM,Chris Jones,141,78,10,53
+Ouachita,013_County 004,Governor,,DEM,Chris Jones,147,102,7,38
+Ouachita,014_County 005,Governor,,DEM,Chris Jones,197,100,8,89
+Ouachita,015_County 007,Governor,,DEM,Chris Jones,84,60,3,21
+Ouachita,016_County 008,Governor,,DEM,Chris Jones,31,21,2,8
+Ouachita,017_County 010,Governor,,DEM,Chris Jones,2,1,0,1
+Ouachita,018_County 011,Governor,,DEM,Chris Jones,89,74,2,13
+Ouachita,001_Camden,Governor,,LIB,"Ricky Dale Harrington, Jr.",13,6,0,7
+Ouachita,002_Camden,Governor,,LIB,"Ricky Dale Harrington, Jr.",11,6,0,5
+Ouachita,003_Camden,Governor,,LIB,"Ricky Dale Harrington, Jr.",7,2,0,5
+Ouachita,004_Camden,Governor,,LIB,"Ricky Dale Harrington, Jr.",12,7,0,5
+Ouachita,005_Bearden,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,0,0,3
+Ouachita,006_Chidester,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Ouachita,007_East Camden,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Ouachita,008_Louann,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Ouachita,009_Stephens,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,1,0,0
+Ouachita,010_County 001,Governor,,LIB,"Ricky Dale Harrington, Jr.",6,3,0,3
+Ouachita,011_County 002,Governor,,LIB,"Ricky Dale Harrington, Jr.",7,5,0,2
+Ouachita,012_County 003,Governor,,LIB,"Ricky Dale Harrington, Jr.",7,0,1,6
+Ouachita,013_County 004,Governor,,LIB,"Ricky Dale Harrington, Jr.",6,4,0,2
+Ouachita,014_County 005,Governor,,LIB,"Ricky Dale Harrington, Jr.",14,4,0,10
+Ouachita,015_County 007,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,2,0,1
+Ouachita,016_County 008,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Ouachita,017_County 010,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Ouachita,018_County 011,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,3,0,2
+Ouachita,001_Camden,Governor,,REP,Sarah Huckabee Sanders,424,297,13,114
+Ouachita,002_Camden,Governor,,REP,Sarah Huckabee Sanders,105,68,4,33
+Ouachita,003_Camden,Governor,,REP,Sarah Huckabee Sanders,106,54,3,49
+Ouachita,004_Camden,Governor,,REP,Sarah Huckabee Sanders,577,394,13,170
+Ouachita,005_Bearden,Governor,,REP,Sarah Huckabee Sanders,108,26,2,80
+Ouachita,006_Chidester,Governor,,REP,Sarah Huckabee Sanders,45,4,0,41
+Ouachita,007_East Camden,Governor,,REP,Sarah Huckabee Sanders,112,42,2,68
+Ouachita,008_Louann,Governor,,REP,Sarah Huckabee Sanders,24,4,3,17
+Ouachita,009_Stephens,Governor,,REP,Sarah Huckabee Sanders,77,21,2,54
+Ouachita,010_County 001,Governor,,REP,Sarah Huckabee Sanders,285,137,3,145
+Ouachita,011_County 002,Governor,,REP,Sarah Huckabee Sanders,414,177,2,235
+Ouachita,012_County 003,Governor,,REP,Sarah Huckabee Sanders,570,313,9,248
+Ouachita,013_County 004,Governor,,REP,Sarah Huckabee Sanders,290,159,5,126
+Ouachita,014_County 005,Governor,,REP,Sarah Huckabee Sanders,384,175,4,205
+Ouachita,015_County 007,Governor,,REP,Sarah Huckabee Sanders,331,220,7,104
+Ouachita,016_County 008,Governor,,REP,Sarah Huckabee Sanders,7,5,0,2
+Ouachita,017_County 010,Governor,,REP,Sarah Huckabee Sanders,17,9,1,7
+Ouachita,018_County 011,Governor,,REP,Sarah Huckabee Sanders,189,130,8,51
+Ouachita,001_Camden,Lieutenant Governor,,LIB,Frank Gilbert,33,17,0,16
+Ouachita,002_Camden,Lieutenant Governor,,LIB,Frank Gilbert,11,7,0,4
+Ouachita,003_Camden,Lieutenant Governor,,LIB,Frank Gilbert,20,12,0,8
+Ouachita,004_Camden,Lieutenant Governor,,LIB,Frank Gilbert,24,15,0,9
+Ouachita,005_Bearden,Lieutenant Governor,,LIB,Frank Gilbert,7,1,0,6
+Ouachita,006_Chidester,Lieutenant Governor,,LIB,Frank Gilbert,5,1,0,4
+Ouachita,007_East Camden,Lieutenant Governor,,LIB,Frank Gilbert,1,0,0,1
+Ouachita,008_Louann,Lieutenant Governor,,LIB,Frank Gilbert,3,0,0,3
+Ouachita,009_Stephens,Lieutenant Governor,,LIB,Frank Gilbert,8,0,1,7
+Ouachita,010_County 001,Lieutenant Governor,,LIB,Frank Gilbert,7,4,0,3
+Ouachita,011_County 002,Lieutenant Governor,,LIB,Frank Gilbert,12,7,0,5
+Ouachita,012_County 003,Lieutenant Governor,,LIB,Frank Gilbert,22,6,1,15
+Ouachita,013_County 004,Lieutenant Governor,,LIB,Frank Gilbert,9,6,0,3
+Ouachita,014_County 005,Lieutenant Governor,,LIB,Frank Gilbert,19,11,1,7
+Ouachita,015_County 007,Lieutenant Governor,,LIB,Frank Gilbert,20,12,0,8
+Ouachita,016_County 008,Lieutenant Governor,,LIB,Frank Gilbert,3,0,0,3
+Ouachita,017_County 010,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0
+Ouachita,018_County 011,Lieutenant Governor,,LIB,Frank Gilbert,10,8,0,2
+Ouachita,001_Camden,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,438,310,16,112
+Ouachita,002_Camden,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,109,72,4,33
+Ouachita,003_Camden,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,125,67,3,55
+Ouachita,004_Camden,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,598,410,13,175
+Ouachita,005_Bearden,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,113,27,2,84
+Ouachita,006_Chidester,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,42,5,0,37
+Ouachita,007_East Camden,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,116,46,2,68
+Ouachita,008_Louann,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,25,7,3,15
+Ouachita,009_Stephens,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,74,22,1,51
+Ouachita,010_County 001,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,292,141,3,148
+Ouachita,011_County 002,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,417,176,3,238
+Ouachita,012_County 003,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,571,315,11,245
+Ouachita,013_County 004,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,293,162,5,126
+Ouachita,014_County 005,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,383,173,4,206
+Ouachita,015_County 007,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,322,218,7,97
+Ouachita,016_County 008,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,7,5,0,2
+Ouachita,017_County 010,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,19,10,1,8
+Ouachita,018_County 011,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,199,137,8,54
+Ouachita,001_Camden,Lieutenant Governor,,DEM,Kelly Ross Krout,429,328,12,89
+Ouachita,002_Camden,Lieutenant Governor,,DEM,Kelly Ross Krout,331,249,10,72
+Ouachita,003_Camden,Lieutenant Governor,,DEM,Kelly Ross Krout,410,276,27,107
+Ouachita,004_Camden,Lieutenant Governor,,DEM,Kelly Ross Krout,309,216,9,84
+Ouachita,005_Bearden,Lieutenant Governor,,DEM,Kelly Ross Krout,103,39,1,63
+Ouachita,006_Chidester,Lieutenant Governor,,DEM,Kelly Ross Krout,48,11,2,35
+Ouachita,007_East Camden,Lieutenant Governor,,DEM,Kelly Ross Krout,57,33,2,22
+Ouachita,008_Louann,Lieutenant Governor,,DEM,Kelly Ross Krout,11,1,0,10
+Ouachita,009_Stephens,Lieutenant Governor,,DEM,Kelly Ross Krout,124,49,2,73
+Ouachita,010_County 001,Lieutenant Governor,,DEM,Kelly Ross Krout,104,59,1,44
+Ouachita,011_County 002,Lieutenant Governor,,DEM,Kelly Ross Krout,79,49,2,28
+Ouachita,012_County 003,Lieutenant Governor,,DEM,Kelly Ross Krout,128,72,8,48
+Ouachita,013_County 004,Lieutenant Governor,,DEM,Kelly Ross Krout,137,96,7,34
+Ouachita,014_County 005,Lieutenant Governor,,DEM,Kelly Ross Krout,188,92,7,89
+Ouachita,015_County 007,Lieutenant Governor,,DEM,Kelly Ross Krout,72,51,3,18
+Ouachita,016_County 008,Lieutenant Governor,,DEM,Kelly Ross Krout,27,20,2,5
+Ouachita,017_County 010,Lieutenant Governor,,DEM,Kelly Ross Krout,0,0,0,0
+Ouachita,018_County 011,Lieutenant Governor,,DEM,Kelly Ross Krout,76,63,2,11
+Ouachita,001_Camden,Secretary of State,,DEM,Anna Beth Gorman,445,335,14,96
+Ouachita,002_Camden,Secretary of State,,DEM,Anna Beth Gorman,337,249,10,78
+Ouachita,003_Camden,Secretary of State,,DEM,Anna Beth Gorman,419,282,26,111
+Ouachita,004_Camden,Secretary of State,,DEM,Anna Beth Gorman,333,234,8,91
+Ouachita,005_Bearden,Secretary of State,,DEM,Anna Beth Gorman,107,38,1,68
+Ouachita,006_Chidester,Secretary of State,,DEM,Anna Beth Gorman,50,14,2,34
+Ouachita,007_East Camden,Secretary of State,,DEM,Anna Beth Gorman,56,33,2,21
+Ouachita,008_Louann,Secretary of State,,DEM,Anna Beth Gorman,13,2,0,11
+Ouachita,009_Stephens,Secretary of State,,DEM,Anna Beth Gorman,130,49,2,79
+Ouachita,010_County 001,Secretary of State,,DEM,Anna Beth Gorman,103,58,1,44
+Ouachita,011_County 002,Secretary of State,,DEM,Anna Beth Gorman,83,50,3,30
+Ouachita,012_County 003,Secretary of State,,DEM,Anna Beth Gorman,144,82,8,54
+Ouachita,013_County 004,Secretary of State,,DEM,Anna Beth Gorman,146,100,7,39
+Ouachita,014_County 005,Secretary of State,,DEM,Anna Beth Gorman,202,96,7,99
+Ouachita,015_County 007,Secretary of State,,DEM,Anna Beth Gorman,81,58,3,20
+Ouachita,016_County 008,Secretary of State,,DEM,Anna Beth Gorman,28,20,2,6
+Ouachita,017_County 010,Secretary of State,,DEM,Anna Beth Gorman,0,0,0,0
+Ouachita,018_County 011,Secretary of State,,DEM,Anna Beth Gorman,72,59,2,11
+Ouachita,001_Camden,Secretary of State,,REP,Secretary of State John Thurston,452,317,14,121
+Ouachita,002_Camden,Secretary of State,,REP,Secretary of State John Thurston,112,78,4,30
+Ouachita,003_Camden,Secretary of State,,REP,Secretary of State John Thurston,128,68,4,56
+Ouachita,004_Camden,Secretary of State,,REP,Secretary of State John Thurston,592,403,14,175
+Ouachita,005_Bearden,Secretary of State,,REP,Secretary of State John Thurston,113,27,2,84
+Ouachita,006_Chidester,Secretary of State,,REP,Secretary of State John Thurston,45,4,0,41
+Ouachita,007_East Camden,Secretary of State,,REP,Secretary of State John Thurston,116,44,2,70
+Ouachita,008_Louann,Secretary of State,,REP,Secretary of State John Thurston,25,6,2,17
+Ouachita,009_Stephens,Secretary of State,,REP,Secretary of State John Thurston,76,22,2,52
+Ouachita,010_County 001,Secretary of State,,REP,Secretary of State John Thurston,299,146,3,150
+Ouachita,011_County 002,Secretary of State,,REP,Secretary of State John Thurston,419,179,1,239
+Ouachita,012_County 003,Secretary of State,,REP,Secretary of State John Thurston,572,306,12,254
+Ouachita,013_County 004,Secretary of State,,REP,Secretary of State John Thurston,293,163,5,125
+Ouachita,014_County 005,Secretary of State,,REP,Secretary of State John Thurston,385,179,5,201
+Ouachita,015_County 007,Secretary of State,,REP,Secretary of State John Thurston,332,221,6,105
+Ouachita,016_County 008,Secretary of State,,REP,Secretary of State John Thurston,9,5,0,4
+Ouachita,017_County 010,Secretary of State,,REP,Secretary of State John Thurston,18,9,1,8
+Ouachita,018_County 011,Secretary of State,,REP,Secretary of State John Thurston,213,150,8,55
+Ouachita,001_Camden,State Treasurer,,DEM,Pam Whitaker,455,343,14,98
+Ouachita,002_Camden,State Treasurer,,DEM,Pam Whitaker,343,252,11,80
+Ouachita,003_Camden,State Treasurer,,DEM,Pam Whitaker,432,291,27,114
+Ouachita,004_Camden,State Treasurer,,DEM,Pam Whitaker,337,239,9,89
+Ouachita,005_Bearden,State Treasurer,,DEM,Pam Whitaker,109,40,1,68
+Ouachita,006_Chidester,State Treasurer,,DEM,Pam Whitaker,51,13,2,36
+Ouachita,007_East Camden,State Treasurer,,DEM,Pam Whitaker,62,38,2,22
+Ouachita,008_Louann,State Treasurer,,DEM,Pam Whitaker,13,2,0,11
+Ouachita,009_Stephens,State Treasurer,,DEM,Pam Whitaker,131,51,2,78
+Ouachita,010_County 001,State Treasurer,,DEM,Pam Whitaker,109,62,1,46
+Ouachita,011_County 002,State Treasurer,,DEM,Pam Whitaker,79,50,3,26
+Ouachita,012_County 003,State Treasurer,,DEM,Pam Whitaker,152,84,9,59
+Ouachita,013_County 004,State Treasurer,,DEM,Pam Whitaker,146,99,7,40
+Ouachita,014_County 005,State Treasurer,,DEM,Pam Whitaker,206,101,7,98
+Ouachita,015_County 007,State Treasurer,,DEM,Pam Whitaker,86,65,3,18
+Ouachita,016_County 008,State Treasurer,,DEM,Pam Whitaker,29,20,2,7
+Ouachita,017_County 010,State Treasurer,,DEM,Pam Whitaker,0,0,0,0
+Ouachita,018_County 011,State Treasurer,,DEM,Pam Whitaker,80,65,3,12
+Ouachita,001_Camden,State Treasurer,,REP,State Representative Mark Lowery,444,312,13,119
+Ouachita,002_Camden,State Treasurer,,REP,State Representative Mark Lowery,106,74,3,29
+Ouachita,003_Camden,State Treasurer,,REP,State Representative Mark Lowery,116,61,2,53
+Ouachita,004_Camden,State Treasurer,,REP,State Representative Mark Lowery,590,401,13,176
+Ouachita,005_Bearden,State Treasurer,,REP,State Representative Mark Lowery,111,27,2,82
+Ouachita,006_Chidester,State Treasurer,,REP,State Representative Mark Lowery,44,4,0,40
+Ouachita,007_East Camden,State Treasurer,,REP,State Representative Mark Lowery,111,40,2,69
+Ouachita,008_Louann,State Treasurer,,REP,State Representative Mark Lowery,26,6,3,17
+Ouachita,009_Stephens,State Treasurer,,REP,State Representative Mark Lowery,75,20,2,53
+Ouachita,010_County 001,State Treasurer,,REP,State Representative Mark Lowery,292,140,3,149
+Ouachita,011_County 002,State Treasurer,,REP,State Representative Mark Lowery,425,180,2,243
+Ouachita,012_County 003,State Treasurer,,REP,State Representative Mark Lowery,568,308,10,250
+Ouachita,013_County 004,State Treasurer,,REP,State Representative Mark Lowery,291,162,5,124
+Ouachita,014_County 005,State Treasurer,,REP,State Representative Mark Lowery,382,175,5,202
+Ouachita,015_County 007,State Treasurer,,REP,State Representative Mark Lowery,328,214,7,107
+Ouachita,016_County 008,State Treasurer,,REP,State Representative Mark Lowery,8,5,0,3
+Ouachita,017_County 010,State Treasurer,,REP,State Representative Mark Lowery,18,9,1,8
+Ouachita,018_County 011,State Treasurer,,REP,State Representative Mark Lowery,204,143,7,54
+Ouachita,001_Camden,State Senate,02,DEM,Garry L. Smith,476,357,12,107
+Ouachita,002_Camden,State Senate,02,DEM,Garry L. Smith,351,263,11,77
+Ouachita,003_Camden,State Senate,02,DEM,Garry L. Smith,444,299,27,118
+Ouachita,004_Camden,State Senate,02,DEM,Garry L. Smith,357,248,9,100
+Ouachita,005_Bearden,State Senate,02,DEM,Garry L. Smith,124,42,1,81
+Ouachita,006_Chidester,State Senate,02,DEM,Garry L. Smith,57,15,2,40
+Ouachita,007_East Camden,State Senate,02,DEM,Garry L. Smith,66,39,2,25
+Ouachita,008_Louann,State Senate,02,DEM,Garry L. Smith,16,3,1,12
+Ouachita,009_Stephens,State Senate,02,DEM,Garry L. Smith,131,49,2,80
+Ouachita,010_County 001,State Senate,02,DEM,Garry L. Smith,135,76,1,58
+Ouachita,011_County 002,State Senate,02,DEM,Garry L. Smith,99,58,1,40
+Ouachita,012_County 003,State Senate,02,DEM,Garry L. Smith,169,99,8,62
+Ouachita,013_County 004,State Senate,02,DEM,Garry L. Smith,164,111,9,44
+Ouachita,014_County 005,State Senate,02,DEM,Garry L. Smith,208,101,8,99
+Ouachita,015_County 007,State Senate,02,DEM,Garry L. Smith,105,74,6,25
+Ouachita,016_County 008,State Senate,02,DEM,Garry L. Smith,30,20,2,8
+Ouachita,017_County 010,State Senate,02,DEM,Garry L. Smith,2,2,0,0
+Ouachita,018_County 011,State Senate,02,DEM,Garry L. Smith,96,72,3,21
+Ouachita,001_Camden,State Senate,02,REP,Matt Stone,424,295,16,113
+Ouachita,002_Camden,State Senate,02,REP,Matt Stone,99,65,3,31
+Ouachita,003_Camden,State Senate,02,REP,Matt Stone,107,53,3,51
+Ouachita,004_Camden,State Senate,02,REP,Matt Stone,569,388,13,168
+Ouachita,005_Bearden,State Senate,02,REP,Matt Stone,98,25,2,71
+Ouachita,006_Chidester,State Senate,02,REP,Matt Stone,42,4,0,38
+Ouachita,007_East Camden,State Senate,02,REP,Matt Stone,106,40,2,64
+Ouachita,008_Louann,State Senate,02,REP,Matt Stone,23,5,2,16
+Ouachita,009_Stephens,State Senate,02,REP,Matt Stone,76,22,2,52
+Ouachita,010_County 001,State Senate,02,REP,Matt Stone,266,128,3,135
+Ouachita,011_County 002,State Senate,02,REP,Matt Stone,401,170,4,227
+Ouachita,012_County 003,State Senate,02,REP,Matt Stone,553,294,12,247
+Ouachita,013_County 004,State Senate,02,REP,Matt Stone,274,151,3,120
+Ouachita,014_County 005,State Senate,02,REP,Matt Stone,380,173,4,203
+Ouachita,015_County 007,State Senate,02,REP,Matt Stone,310,205,4,101
+Ouachita,016_County 008,State Senate,02,REP,Matt Stone,8,6,0,2
+Ouachita,017_County 010,State Senate,02,REP,Matt Stone,16,7,1,8
+Ouachita,018_County 011,State Senate,02,REP,Matt Stone,186,136,7,43
+Ouachita,001_Camden,State House,98,REP,Wade Andrews,448,312,16,120
+Ouachita,002_Camden,State House,98,REP,Wade Andrews,99,65,3,31
+Ouachita,003_Camden,State House,98,REP,Wade Andrews,112,55,2,55
+Ouachita,004_Camden,State House,98,REP,Wade Andrews,586,401,12,173
+Ouachita,006_Chidester,State House,98,REP,Wade Andrews,41,4,0,37
+Ouachita,007_East Camden,State House,98,REP,Wade Andrews,105,38,2,65
+Ouachita,009_Stephens,State House,98,REP,Wade Andrews,73,21,1,51
+Ouachita,010_County 001,State House,98,REP,Wade Andrews,139,85,0,54
+Ouachita,011_County 002,State House,98,REP,Wade Andrews,413,175,4,234
+Ouachita,013_County 004,State House,98,REP,Wade Andrews,281,157,3,121
+Ouachita,014_County 005,State House,98,REP,Wade Andrews,333,158,4,171
+Ouachita,015_County 007,State House,98,REP,Wade Andrews,329,217,6,106
+Ouachita,016_County 008,State House,98,REP,Wade Andrews,7,5,0,2
+Ouachita,017_County 010,State House,98,REP,Wade Andrews,17,8,1,8
+Ouachita,018_County 011,State House,98,REP,Wade Andrews,204,144,8,52
+Ouachita,001_Camden,State House,98,DEM,State Representative David Fielding,456,346,12,98
+Ouachita,002_Camden,State House,98,DEM,State Representative David Fielding,354,265,11,78
+Ouachita,003_Camden,State House,98,DEM,State Representative David Fielding,445,304,28,113
+Ouachita,004_Camden,State House,98,DEM,State Representative David Fielding,344,237,10,97
+Ouachita,006_Chidester,State House,98,DEM,State Representative David Fielding,57,15,2,40
+Ouachita,007_East Camden,State House,98,DEM,State Representative David Fielding,67,40,2,25
+Ouachita,009_Stephens,State House,98,DEM,State Representative David Fielding,135,50,3,82
+Ouachita,010_County 001,State House,98,DEM,State Representative David Fielding,42,32,0,10
+Ouachita,011_County 002,State House,98,DEM,State Representative David Fielding,89,57,1,31
+Ouachita,013_County 004,State House,98,DEM,State Representative David Fielding,156,105,9,42
+Ouachita,014_County 005,State House,98,DEM,State Representative David Fielding,166,85,7,74
+Ouachita,015_County 007,State House,98,DEM,State Representative David Fielding,83,62,3,18
+Ouachita,016_County 008,State House,98,DEM,State Representative David Fielding,30,20,2,8
+Ouachita,017_County 010,State House,98,DEM,State Representative David Fielding,1,1,0,0
+Ouachita,018_County 011,State House,98,DEM,State Representative David Fielding,81,64,2,15
+Ouachita,001_Camden,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,317,235,7,75
+Ouachita,002_Camden,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,181,124,8,49
+Ouachita,003_Camden,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,215,128,15,72
+Ouachita,004_Camden,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,332,227,5,100
+Ouachita,005_Bearden,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,66,13,0,53
+Ouachita,006_Chidester,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,37,6,2,29
+Ouachita,007_East Camden,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,56,27,2,27
+Ouachita,008_Louann,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,16,3,0,13
+Ouachita,009_Stephens,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,93,31,2,60
+Ouachita,010_County 001,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,126,60,1,65
+Ouachita,011_County 002,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,175,80,3,92
+Ouachita,012_County 003,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,261,152,2,107
+Ouachita,013_County 004,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,165,96,2,67
+Ouachita,014_County 005,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,238,110,3,125
+Ouachita,015_County 007,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,133,90,2,41
+Ouachita,016_County 008,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,13,6,1,6
+Ouachita,017_County 010,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,5,1,0,4
+Ouachita,018_County 011,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,97,72,5,20
+Ouachita,001_Camden,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,522,372,20,130
+Ouachita,002_Camden,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,220,163,6,51
+Ouachita,003_Camden,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,272,177,12,83
+Ouachita,004_Camden,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,524,357,17,150
+Ouachita,005_Bearden,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,128,43,2,83
+Ouachita,006_Chidester,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,48,9,0,39
+Ouachita,007_East Camden,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,109,49,2,58
+Ouachita,008_Louann,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,17,5,2,10
+Ouachita,009_Stephens,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,90,33,2,55
+Ouachita,010_County 001,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,234,121,3,110
+Ouachita,011_County 002,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,289,134,2,153
+Ouachita,012_County 003,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,388,204,15,169
+Ouachita,013_County 004,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,222,134,10,78
+Ouachita,014_County 005,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,301,149,7,145
+Ouachita,015_County 007,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,250,171,5,74
+Ouachita,016_County 008,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,19,14,1,4
+Ouachita,017_County 010,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,11,7,1,3
+Ouachita,018_County 011,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,173,129,4,40
+Ouachita,001_Camden,Ouachita County Coroner,,DEM,DEM Sylvester Smith,451,334,11,106
+Ouachita,002_Camden,Ouachita County Coroner,,DEM,DEM Sylvester Smith,346,260,8,78
+Ouachita,003_Camden,Ouachita County Coroner,,DEM,DEM Sylvester Smith,443,299,29,115
+Ouachita,004_Camden,Ouachita County Coroner,,DEM,DEM Sylvester Smith,317,231,10,76
+Ouachita,005_Bearden,Ouachita County Coroner,,DEM,DEM Sylvester Smith,116,39,1,76
+Ouachita,006_Chidester,Ouachita County Coroner,,DEM,DEM Sylvester Smith,54,13,2,39
+Ouachita,007_East Camden,Ouachita County Coroner,,DEM,DEM Sylvester Smith,66,37,2,27
+Ouachita,008_Louann,Ouachita County Coroner,,DEM,DEM Sylvester Smith,15,3,1,11
+Ouachita,009_Stephens,Ouachita County Coroner,,DEM,DEM Sylvester Smith,135,50,2,83
+Ouachita,010_County 001,Ouachita County Coroner,,DEM,DEM Sylvester Smith,133,75,3,55
+Ouachita,011_County 002,Ouachita County Coroner,,DEM,DEM Sylvester Smith,90,51,1,38
+Ouachita,012_County 003,Ouachita County Coroner,,DEM,DEM Sylvester Smith,144,79,12,53
+Ouachita,013_County 004,Ouachita County Coroner,,DEM,DEM Sylvester Smith,158,108,7,43
+Ouachita,014_County 005,Ouachita County Coroner,,DEM,DEM Sylvester Smith,206,104,7,95
+Ouachita,015_County 007,Ouachita County Coroner,,DEM,DEM Sylvester Smith,90,66,4,20
+Ouachita,016_County 008,Ouachita County Coroner,,DEM,DEM Sylvester Smith,31,21,2,8
+Ouachita,017_County 010,Ouachita County Coroner,,DEM,DEM Sylvester Smith,5,2,1,2
+Ouachita,018_County 011,Ouachita County Coroner,,DEM,DEM Sylvester Smith,94,77,3,14
+Ouachita,001_Camden,Ouachita County Coroner,,REP,REP Todd McAteer,454,326,16,112
+Ouachita,002_Camden,Ouachita County Coroner,,REP,REP Todd McAteer,116,77,6,33
+Ouachita,003_Camden,Ouachita County Coroner,,REP,REP Todd McAteer,115,60,1,54
+Ouachita,004_Camden,Ouachita County Coroner,,REP,REP Todd McAteer,615,409,12,194
+Ouachita,005_Bearden,Ouachita County Coroner,,REP,REP Todd McAteer,105,28,2,75
+Ouachita,006_Chidester,Ouachita County Coroner,,REP,REP Todd McAteer,42,4,0,38
+Ouachita,007_East Camden,Ouachita County Coroner,,REP,REP Todd McAteer,108,42,2,64
+Ouachita,008_Louann,Ouachita County Coroner,,REP,REP Todd McAteer,24,5,2,17
+Ouachita,009_Stephens,Ouachita County Coroner,,REP,REP Todd McAteer,72,21,2,49
+Ouachita,010_County 001,Ouachita County Coroner,,REP,REP Todd McAteer,270,130,1,139
+Ouachita,011_County 002,Ouachita County Coroner,,REP,REP Todd McAteer,419,182,4,233
+Ouachita,012_County 003,Ouachita County Coroner,,REP,REP Todd McAteer,577,311,8,258
+Ouachita,013_County 004,Ouachita County Coroner,,REP,REP Todd McAteer,278,152,5,121
+Ouachita,014_County 005,Ouachita County Coroner,,REP,REP Todd McAteer,385,174,5,206
+Ouachita,015_County 007,Ouachita County Coroner,,REP,REP Todd McAteer,325,213,6,106
+Ouachita,016_County 008,Ouachita County Coroner,,REP,REP Todd McAteer,6,4,0,2
+Ouachita,017_County 010,Ouachita County Coroner,,REP,REP Todd McAteer,14,8,0,6
+Ouachita,018_County 011,Ouachita County Coroner,,REP,REP Todd McAteer,193,133,7,53
+Ouachita,001_Camden,Ouachita County Treasurer,,REP,"REP Melinda ""Missy"" Chambers",505,359,18,128
+Ouachita,002_Camden,Ouachita County Treasurer,,REP,"REP Melinda ""Missy"" Chambers",164,110,5,49
+Ouachita,003_Camden,Ouachita County Treasurer,,REP,"REP Melinda ""Missy"" Chambers",195,124,6,65
+Ouachita,004_Camden,Ouachita County Treasurer,,REP,"REP Melinda ""Missy"" Chambers",598,403,13,182
+Ouachita,005_Bearden,Ouachita County Treasurer,,REP,"REP Melinda ""Missy"" Chambers",104,25,2,77
+Ouachita,006_Chidester,Ouachita County Treasurer,,REP,"REP Melinda ""Missy"" Chambers",47,6,0,41
+Ouachita,007_East Camden,Ouachita County Treasurer,,REP,"REP Melinda ""Missy"" Chambers",109,43,2,64
+Ouachita,008_Louann,Ouachita County Treasurer,,REP,"REP Melinda ""Missy"" Chambers",23,7,2,14
+Ouachita,009_Stephens,Ouachita County Treasurer,,REP,"REP Melinda ""Missy"" Chambers",81,23,2,56
+Ouachita,010_County 001,Ouachita County Treasurer,,REP,"REP Melinda ""Missy"" Chambers",279,140,3,136
+Ouachita,011_County 002,Ouachita County Treasurer,,REP,"REP Melinda ""Missy"" Chambers",385,168,4,213
+Ouachita,012_County 003,Ouachita County Treasurer,,REP,"REP Melinda ""Missy"" Chambers",490,264,11,215
+Ouachita,013_County 004,Ouachita County Treasurer,,REP,"REP Melinda ""Missy"" Chambers",274,159,3,112
+Ouachita,014_County 005,Ouachita County Treasurer,,REP,"REP Melinda ""Missy"" Chambers",381,167,6,208
+Ouachita,015_County 007,Ouachita County Treasurer,,REP,"REP Melinda ""Missy"" Chambers",304,202,7,95
+Ouachita,016_County 008,Ouachita County Treasurer,,REP,"REP Melinda ""Missy"" Chambers",10,7,0,3
+Ouachita,017_County 010,Ouachita County Treasurer,,REP,"REP Melinda ""Missy"" Chambers",12,8,1,3
+Ouachita,018_County 011,Ouachita County Treasurer,,REP,"REP Melinda ""Missy"" Chambers",200,146,8,46
+Ouachita,001_Camden,Ouachita County Treasurer,,IND,IND Amy Varner Hughes,375,278,10,87
+Ouachita,002_Camden,Ouachita County Treasurer,,IND,IND Amy Varner Hughes,259,196,8,55
+Ouachita,003_Camden,Ouachita County Treasurer,,IND,IND Amy Varner Hughes,324,202,24,98
+Ouachita,004_Camden,Ouachita County Treasurer,,IND,IND Amy Varner Hughes,321,230,9,82
+Ouachita,005_Bearden,Ouachita County Treasurer,,IND,IND Amy Varner Hughes,109,36,1,72
+Ouachita,006_Chidester,Ouachita County Treasurer,,IND,IND Amy Varner Hughes,44,8,2,34
+Ouachita,007_East Camden,Ouachita County Treasurer,,IND,IND Amy Varner Hughes,59,33,2,24
+Ouachita,008_Louann,Ouachita County Treasurer,,IND,IND Amy Varner Hughes,14,1,0,13
+Ouachita,009_Stephens,Ouachita County Treasurer,,IND,IND Amy Varner Hughes,110,42,2,66
+Ouachita,010_County 001,Ouachita County Treasurer,,IND,IND Amy Varner Hughes,113,58,1,54
+Ouachita,011_County 002,Ouachita County Treasurer,,IND,IND Amy Varner Hughes,112,58,1,53
+Ouachita,012_County 003,Ouachita County Treasurer,,IND,IND Amy Varner Hughes,220,121,9,90
+Ouachita,013_County 004,Ouachita County Treasurer,,IND,IND Amy Varner Hughes,144,91,9,44
+Ouachita,014_County 005,Ouachita County Treasurer,,IND,IND Amy Varner Hughes,194,99,6,89
+Ouachita,015_County 007,Ouachita County Treasurer,,IND,IND Amy Varner Hughes,102,73,2,27
+Ouachita,016_County 008,Ouachita County Treasurer,,IND,IND Amy Varner Hughes,24,15,2,7
+Ouachita,017_County 010,Ouachita County Treasurer,,IND,IND Amy Varner Hughes,7,2,0,5
+Ouachita,018_County 011,Ouachita County Treasurer,,IND,IND Amy Varner Hughes,80,59,2,19
+Ouachita,001_Camden,Ouachita County Clerk,,IND,IND Sherri Hunter,510,362,17,131
+Ouachita,002_Camden,Ouachita County Clerk,,IND,IND Sherri Hunter,129,96,5,28
+Ouachita,003_Camden,Ouachita County Clerk,,IND,IND Sherri Hunter,140,72,4,64
+Ouachita,004_Camden,Ouachita County Clerk,,IND,IND Sherri Hunter,625,442,10,173
+Ouachita,005_Bearden,Ouachita County Clerk,,IND,IND Sherri Hunter,85,19,2,64
+Ouachita,006_Chidester,Ouachita County Clerk,,IND,IND Sherri Hunter,42,4,0,38
+Ouachita,007_East Camden,Ouachita County Clerk,,IND,IND Sherri Hunter,116,46,2,68
+Ouachita,008_Louann,Ouachita County Clerk,,IND,IND Sherri Hunter,23,7,2,14
+Ouachita,009_Stephens,Ouachita County Clerk,,IND,IND Sherri Hunter,105,33,2,70
+Ouachita,010_County 001,Ouachita County Clerk,,IND,IND Sherri Hunter,252,127,1,124
+Ouachita,011_County 002,Ouachita County Clerk,,IND,IND Sherri Hunter,398,173,3,222
+Ouachita,012_County 003,Ouachita County Clerk,,IND,IND Sherri Hunter,565,309,10,246
+Ouachita,013_County 004,Ouachita County Clerk,,IND,IND Sherri Hunter,298,174,7,117
+Ouachita,014_County 005,Ouachita County Clerk,,IND,IND Sherri Hunter,381,178,5,198
+Ouachita,015_County 007,Ouachita County Clerk,,IND,IND Sherri Hunter,332,219,7,106
+Ouachita,016_County 008,Ouachita County Clerk,,IND,IND Sherri Hunter,11,7,0,4
+Ouachita,017_County 010,Ouachita County Clerk,,IND,IND Sherri Hunter,16,8,0,8
+Ouachita,018_County 011,Ouachita County Clerk,,IND,IND Sherri Hunter,212,151,8,53
+Ouachita,001_Camden,Ouachita County Clerk,,DEM,"DEM Nancy ""Cookie"" Collins",370,278,10,82
+Ouachita,002_Camden,Ouachita County Clerk,,DEM,"DEM Nancy ""Cookie"" Collins",319,230,9,80
+Ouachita,003_Camden,Ouachita County Clerk,,DEM,"DEM Nancy ""Cookie"" Collins",404,275,26,103
+Ouachita,004_Camden,Ouachita County Clerk,,DEM,"DEM Nancy ""Cookie"" Collins",287,185,12,90
+Ouachita,005_Bearden,Ouachita County Clerk,,DEM,"DEM Nancy ""Cookie"" Collins",135,47,1,87
+Ouachita,006_Chidester,Ouachita County Clerk,,DEM,"DEM Nancy ""Cookie"" Collins",53,14,2,37
+Ouachita,007_East Camden,Ouachita County Clerk,,DEM,"DEM Nancy ""Cookie"" Collins",54,31,2,21
+Ouachita,008_Louann,Ouachita County Clerk,,DEM,"DEM Nancy ""Cookie"" Collins",14,1,0,13
+Ouachita,009_Stephens,Ouachita County Clerk,,DEM,"DEM Nancy ""Cookie"" Collins",97,37,2,58
+Ouachita,010_County 001,Ouachita County Clerk,,DEM,"DEM Nancy ""Cookie"" Collins",143,73,3,67
+Ouachita,011_County 002,Ouachita County Clerk,,DEM,"DEM Nancy ""Cookie"" Collins",89,52,2,35
+Ouachita,012_County 003,Ouachita County Clerk,,DEM,"DEM Nancy ""Cookie"" Collins",136,72,9,55
+Ouachita,013_County 004,Ouachita County Clerk,,DEM,"DEM Nancy ""Cookie"" Collins",134,88,5,41
+Ouachita,014_County 005,Ouachita County Clerk,,DEM,"DEM Nancy ""Cookie"" Collins",195,91,7,97
+Ouachita,015_County 007,Ouachita County Clerk,,DEM,"DEM Nancy ""Cookie"" Collins",73,53,2,18
+Ouachita,016_County 008,Ouachita County Clerk,,DEM,"DEM Nancy ""Cookie"" Collins",27,19,2,6
+Ouachita,017_County 010,Ouachita County Clerk,,DEM,"DEM Nancy ""Cookie"" Collins",1,0,1,0
+Ouachita,018_County 011,Ouachita County Clerk,,DEM,"DEM Nancy ""Cookie"" Collins",68,55,2,11
+Ouachita,001_Camden,Ouachita County Assessor,,DEM,DEM Tonya McKenzie,360,266,9,85
+Ouachita,002_Camden,Ouachita County Assessor,,DEM,DEM Tonya McKenzie,319,239,8,72
+Ouachita,003_Camden,Ouachita County Assessor,,DEM,DEM Tonya McKenzie,417,282,27,108
+Ouachita,004_Camden,Ouachita County Assessor,,DEM,DEM Tonya McKenzie,280,193,8,79
+Ouachita,005_Bearden,Ouachita County Assessor,,DEM,DEM Tonya McKenzie,95,38,1,56
+Ouachita,006_Chidester,Ouachita County Assessor,,DEM,DEM Tonya McKenzie,58,14,2,42
+Ouachita,007_East Camden,Ouachita County Assessor,,DEM,DEM Tonya McKenzie,50,28,2,20
+Ouachita,008_Louann,Ouachita County Assessor,,DEM,DEM Tonya McKenzie,13,4,0,9
+Ouachita,009_Stephens,Ouachita County Assessor,,DEM,DEM Tonya McKenzie,115,46,2,67
+Ouachita,010_County 001,Ouachita County Assessor,,DEM,DEM Tonya McKenzie,92,52,1,39
+Ouachita,011_County 002,Ouachita County Assessor,,DEM,DEM Tonya McKenzie,70,42,1,27
+Ouachita,012_County 003,Ouachita County Assessor,,DEM,DEM Tonya McKenzie,119,71,7,41
+Ouachita,013_County 004,Ouachita County Assessor,,DEM,DEM Tonya McKenzie,125,83,7,35
+Ouachita,014_County 005,Ouachita County Assessor,,DEM,DEM Tonya McKenzie,180,90,7,83
+Ouachita,015_County 007,Ouachita County Assessor,,DEM,DEM Tonya McKenzie,63,43,2,18
+Ouachita,016_County 008,Ouachita County Assessor,,DEM,DEM Tonya McKenzie,29,19,2,8
+Ouachita,017_County 010,Ouachita County Assessor,,DEM,DEM Tonya McKenzie,1,1,0,0
+Ouachita,018_County 011,Ouachita County Assessor,,DEM,DEM Tonya McKenzie,48,39,0,9
+Ouachita,001_Camden,Ouachita County Assessor,,REP,REP Stephanie Olds,305,211,10,84
+Ouachita,002_Camden,Ouachita County Assessor,,REP,REP Stephanie Olds,71,47,2,22
+Ouachita,003_Camden,Ouachita County Assessor,,REP,REP Stephanie Olds,84,43,1,40
+Ouachita,004_Camden,Ouachita County Assessor,,REP,REP Stephanie Olds,471,315,10,146
+Ouachita,005_Bearden,Ouachita County Assessor,,REP,REP Stephanie Olds,97,25,2,70
+Ouachita,006_Chidester,Ouachita County Assessor,,REP,REP Stephanie Olds,32,3,0,29
+Ouachita,007_East Camden,Ouachita County Assessor,,REP,REP Stephanie Olds,85,25,1,59
+Ouachita,008_Louann,Ouachita County Assessor,,REP,REP Stephanie Olds,23,4,2,17
+Ouachita,009_Stephens,Ouachita County Assessor,,REP,REP Stephanie Olds,66,16,1,49
+Ouachita,010_County 001,Ouachita County Assessor,,REP,REP Stephanie Olds,271,130,3,138
+Ouachita,011_County 002,Ouachita County Assessor,,REP,REP Stephanie Olds,354,153,2,199
+Ouachita,012_County 003,Ouachita County Assessor,,REP,REP Stephanie Olds,504,271,10,223
+Ouachita,013_County 004,Ouachita County Assessor,,REP,REP Stephanie Olds,219,122,2,95
+Ouachita,014_County 005,Ouachita County Assessor,,REP,REP Stephanie Olds,320,143,4,173
+Ouachita,015_County 007,Ouachita County Assessor,,REP,REP Stephanie Olds,277,182,6,89
+Ouachita,016_County 008,Ouachita County Assessor,,REP,REP Stephanie Olds,6,4,0,2
+Ouachita,017_County 010,Ouachita County Assessor,,REP,REP Stephanie Olds,14,5,1,8
+Ouachita,018_County 011,Ouachita County Assessor,,REP,REP Stephanie Olds,119,79,6,34
+Ouachita,001_Camden,Ouachita County Assessor,,IND,IND Margaret Pace,230,173,9,48
+Ouachita,002_Camden,Ouachita County Assessor,,IND,IND Margaret Pace,61,42,4,15
+Ouachita,003_Camden,Ouachita County Assessor,,IND,IND Margaret Pace,52,32,2,18
+Ouachita,004_Camden,Ouachita County Assessor,,IND,IND Margaret Pace,182,135,4,43
+Ouachita,005_Bearden,Ouachita County Assessor,,IND,IND Margaret Pace,29,4,0,25
+Ouachita,006_Chidester,Ouachita County Assessor,,IND,IND Margaret Pace,10,1,0,9
+Ouachita,007_East Camden,Ouachita County Assessor,,IND,IND Margaret Pace,39,26,1,12
+Ouachita,008_Louann,Ouachita County Assessor,,IND,IND Margaret Pace,2,0,0,2
+Ouachita,009_Stephens,Ouachita County Assessor,,IND,IND Margaret Pace,24,9,0,15
+Ouachita,010_County 001,Ouachita County Assessor,,IND,IND Margaret Pace,38,22,0,16
+Ouachita,011_County 002,Ouachita County Assessor,,IND,IND Margaret Pace,77,33,2,42
+Ouachita,012_County 003,Ouachita County Assessor,,IND,IND Margaret Pace,96,50,3,43
+Ouachita,013_County 004,Ouachita County Assessor,,IND,IND Margaret Pace,95,59,3,33
+Ouachita,014_County 005,Ouachita County Assessor,,IND,IND Margaret Pace,89,44,1,44
+Ouachita,015_County 007,Ouachita County Assessor,,IND,IND Margaret Pace,72,52,1,19
+Ouachita,016_County 008,Ouachita County Assessor,,IND,IND Margaret Pace,3,3,0,0
+Ouachita,017_County 010,Ouachita County Assessor,,IND,IND Margaret Pace,3,3,0,0
+Ouachita,018_County 011,Ouachita County Assessor,,IND,IND Margaret Pace,116,90,3,23
+Ouachita,005_Bearden,Bdn Mayor,,IND,IND Rayford Wright,103,30,1,72
+Ouachita,005_Bearden,Bdn Mayor,,IND,IND Ginger Bailey,120,38,2,80
+Ouachita,005_Bearden,Bearden Alderman Ward 2, Pos 1,IND,IND Ronnie D Quarles,88,24,2,62
+Ouachita,005_Bearden,Bearden Alderman Ward 2, Pos 1,IND,IND Melvia Buckley,130,42,1,87
+Ouachita,001_Camden,Mayor City of Camden,,IND,IND Cecil C. McDonald,160,118,7,35
+Ouachita,002_Camden,Mayor City of Camden,,IND,IND Cecil C. McDonald,83,60,0,23
+Ouachita,003_Camden,Mayor City of Camden,,IND,IND Cecil C. McDonald,96,56,5,35
+Ouachita,004_Camden,Mayor City of Camden,,IND,IND Cecil C. McDonald,97,66,1,30
+Ouachita,001_Camden,Mayor City of Camden,,IND,IND Mayor Julian Lott,280,204,8,68
+Ouachita,002_Camden,Mayor City of Camden,,IND,IND Mayor Julian Lott,247,186,7,54
+Ouachita,003_Camden,Mayor City of Camden,,IND,IND Mayor Julian Lott,346,238,22,86
+Ouachita,004_Camden,Mayor City of Camden,,IND,IND Mayor Julian Lott,215,157,6,52
+Ouachita,001_Camden,Mayor City of Camden,,IND,IND Charlotte Young,459,331,13,115
+Ouachita,002_Camden,Mayor City of Camden,,IND,IND Charlotte Young,124,86,7,31
+Ouachita,003_Camden,Mayor City of Camden,,IND,IND Charlotte Young,111,62,3,46
+Ouachita,004_Camden,Mayor City of Camden,,IND,IND Charlotte Young,620,418,15,187
+Ouachita,001_Camden,Camden Alderman Ward 1, Pos 1,IND,IND Edward Winters,430,314,10,106
+Ouachita,001_Camden,Camden Alderman Ward 1, Pos 1,IND,IND James Bell,417,297,17,103
+Ouachita,004_Camden,Camden Alderman Ward 4, Pos 1,IND,"IND Anthony ""Andy"" Simpson",309,211,6,92
+Ouachita,004_Camden,Camden Alderman Ward 4, Pos 1,IND,IND Gerald Castleberry,587,401,16,170
+Ouachita,006_Chidester,Mayor City of Chidester,,NON,Bobby Box,90,16,2,72
+Ouachita,009_Stephens,Mayor City of Stephens,,NON,Harry Brown,171,65,4,102
+Ouachita,007_East Camden,Mayor City of E Camden,,NON,Angie McAdoo,159,72,4,83
+Ouachita,008_Louann,Mayor Town of Louann,,NON,Melvin R. McDonald,33,7,3,23
+Ouachita,008_Louann,Recorder Treasurer Town of Louann,,NON,Stephanie Boothe,37,8,3,26
+Ouachita,005_Bearden,State House,96,NON,State Representative Sonia Barker,179,49,2,128
+Ouachita,008_Louann,State House,96,NON,State Representative Sonia Barker,37,8,3,26
+Ouachita,010_County 001,State House,96,NON,State Representative Sonia Barker,190,75,4,111
+Ouachita,012_County 003,State House,96,NON,State Representative Sonia Barker,654,361,18,275
+Ouachita,014_County 005,State House,96,NON,State Representative Sonia Barker,2,0,1,1
+Ouachita,001_Camden,Ouachita County Circuit Clerk,,NON,Gladys Nettles,846,613,26,207
+Ouachita,002_Camden,Ouachita County Circuit Clerk,,NON,Gladys Nettles,427,313,12,102
+Ouachita,003_Camden,Ouachita County Circuit Clerk,,NON,Gladys Nettles,520,332,28,160
+Ouachita,004_Camden,Ouachita County Circuit Clerk,,NON,Gladys Nettles,867,595,20,252
+Ouachita,005_Bearden,Ouachita County Circuit Clerk,,NON,Gladys Nettles,195,58,3,134
+Ouachita,006_Chidester,Ouachita County Circuit Clerk,,NON,Gladys Nettles,87,16,2,69
+Ouachita,007_East Camden,Ouachita County Circuit Clerk,,NON,Gladys Nettles,158,73,4,81
+Ouachita,008_Louann,Ouachita County Circuit Clerk,,NON,Gladys Nettles,33,8,2,23
+Ouachita,009_Stephens,Ouachita County Circuit Clerk,,NON,Gladys Nettles,174,61,4,109
+Ouachita,010_County 001,Ouachita County Circuit Clerk,,NON,Gladys Nettles,352,180,4,168
+Ouachita,011_County 002,Ouachita County Circuit Clerk,,NON,Gladys Nettles,432,196,4,232
+Ouachita,012_County 003,Ouachita County Circuit Clerk,,NON,Gladys Nettles,648,360,18,270
+Ouachita,013_County 004,Ouachita County Circuit Clerk,,NON,Gladys Nettles,371,222,11,138
+Ouachita,014_County 005,Ouachita County Circuit Clerk,,NON,Gladys Nettles,508,235,12,261
+Ouachita,015_County 007,Ouachita County Circuit Clerk,,NON,Gladys Nettles,367,252,8,107
+Ouachita,016_County 008,Ouachita County Circuit Clerk,,NON,Gladys Nettles,36,24,2,10
+Ouachita,017_County 010,Ouachita County Circuit Clerk,,NON,Gladys Nettles,17,8,1,8
+Ouachita,018_County 011,Ouachita County Circuit Clerk,,NON,Gladys Nettles,255,190,10,55
+Ouachita,001_Camden,City of Camden A and P Tax,,NON,For,354,247,9,98
+Ouachita,002_Camden,City of Camden A and P Tax,,NON,For,170,121,2,47
+Ouachita,003_Camden,City of Camden A and P Tax,,NON,For,200,118,15,67
+Ouachita,004_Camden,City of Camden A and P Tax,,NON,For,369,247,6,116
+Ouachita,001_Camden,City of Camden A and P Tax,,NON,Against,547,406,19,122
+Ouachita,002_Camden,City of Camden A and P Tax,,NON,Against,271,202,11,58
+Ouachita,003_Camden,City of Camden A and P Tax,,NON,Against,336,229,13,94
+Ouachita,004_Camden,City of Camden A and P Tax,,NON,Against,553,386,15,152
+Ouachita,001_Camden,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,338,236,15,87
+Ouachita,002_Camden,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,205,149,8,48
+Ouachita,003_Camden,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,188,115,7,66
+Ouachita,004_Camden,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,346,236,9,101
+Ouachita,005_Bearden,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,80,24,0,56
+Ouachita,006_Chidester,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,27,6,0,21
+Ouachita,007_East Camden,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,71,28,2,41
+Ouachita,008_Louann,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,16,3,2,11
+Ouachita,009_Stephens,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,87,26,1,60
+Ouachita,010_County 001,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,134,71,1,62
+Ouachita,011_County 002,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,191,79,1,111
+Ouachita,012_County 003,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,281,143,13,125
+Ouachita,013_County 004,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,150,80,10,60
+Ouachita,014_County 005,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,189,93,5,91
+Ouachita,015_County 007,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,160,97,4,59
+Ouachita,016_County 008,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,16,10,0,6
+Ouachita,017_County 010,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,7,5,1,1
+Ouachita,018_County 011,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,105,75,5,25
+Ouachita,001_Camden,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,528,389,13,126
+Ouachita,002_Camden,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,209,152,4,53
+Ouachita,003_Camden,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,325,216,23,86
+Ouachita,004_Camden,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,547,375,13,159
+Ouachita,005_Bearden,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,131,40,3,88
+Ouachita,006_Chidester,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,66,10,2,54
+Ouachita,007_East Camden,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,98,48,2,48
+Ouachita,008_Louann,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,21,5,1,15
+Ouachita,009_Stephens,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,108,40,3,65
+Ouachita,010_County 001,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,254,126,3,125
+Ouachita,011_County 002,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,301,142,4,155
+Ouachita,012_County 003,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,413,232,6,175
+Ouachita,013_County 004,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,256,161,2,93
+Ouachita,014_County 005,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,368,168,6,194
+Ouachita,015_County 007,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,235,166,6,63
+Ouachita,016_County 008,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,19,13,2,4
+Ouachita,017_County 010,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,12,5,0,7
+Ouachita,018_County 011,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,165,125,5,35
+Ouachita,001_Camden,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,352,241,15,96
+Ouachita,002_Camden,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,179,124,5,50
+Ouachita,003_Camden,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,192,121,10,61
+Ouachita,004_Camden,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,361,241,7,113
+Ouachita,005_Bearden,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,88,28,1,59
+Ouachita,006_Chidester,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,32,2,0,30
+Ouachita,007_East Camden,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,75,32,0,43
+Ouachita,008_Louann,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,16,3,2,11
+Ouachita,009_Stephens,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,82,29,0,53
+Ouachita,010_County 001,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,171,92,4,75
+Ouachita,011_County 002,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,237,93,2,142
+Ouachita,012_County 003,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,340,186,10,144
+Ouachita,013_County 004,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,173,97,10,66
+Ouachita,014_County 005,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,228,93,5,130
+Ouachita,015_County 007,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,176,117,4,55
+Ouachita,016_County 008,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,12,7,1,4
+Ouachita,017_County 010,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,8,6,1,1
+Ouachita,018_County 011,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,103,81,3,19
+Ouachita,001_Camden,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,522,391,13,118
+Ouachita,002_Camden,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,247,183,7,57
+Ouachita,003_Camden,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,334,214,20,100
+Ouachita,004_Camden,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,541,375,15,151
+Ouachita,005_Bearden,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,121,36,2,83
+Ouachita,006_Chidester,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,60,13,2,45
+Ouachita,007_East Camden,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,95,45,4,46
+Ouachita,008_Louann,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,20,4,1,15
+Ouachita,009_Stephens,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,118,36,4,78
+Ouachita,010_County 001,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,216,107,0,109
+Ouachita,011_County 002,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,253,127,3,123
+Ouachita,012_County 003,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,364,197,9,158
+Ouachita,013_County 004,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,245,154,1,90
+Ouachita,014_County 005,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,337,168,6,163
+Ouachita,015_County 007,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,225,152,6,67
+Ouachita,016_County 008,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,24,17,1,6
+Ouachita,017_County 010,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,11,4,0,7
+Ouachita,018_County 011,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,171,123,6,42
+Ouachita,001_Camden,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,449,302,19,128
+Ouachita,002_Camden,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,247,170,7,70
+Ouachita,003_Camden,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,298,175,20,103
+Ouachita,004_Camden,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,505,347,10,148
+Ouachita,005_Bearden,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,114,37,1,76
+Ouachita,006_Chidester,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,48,12,0,36
+Ouachita,007_East Camden,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,94,39,4,51
+Ouachita,008_Louann,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,14,3,0,11
+Ouachita,009_Stephens,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,90,27,1,62
+Ouachita,010_County 001,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,205,89,3,113
+Ouachita,011_County 002,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,287,125,1,161
+Ouachita,012_County 003,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,406,212,12,182
+Ouachita,013_County 004,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,213,124,6,83
+Ouachita,014_County 005,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,276,126,8,142
+Ouachita,015_County 007,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,227,150,6,71
+Ouachita,016_County 008,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,21,13,0,8
+Ouachita,017_County 010,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,8,8,0,0
+Ouachita,018_County 011,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,131,93,5,33
+Ouachita,001_Camden,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,444,345,8,91
+Ouachita,002_Camden,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,178,138,6,34
+Ouachita,003_Camden,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,234,162,10,62
+Ouachita,004_Camden,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,404,277,12,115
+Ouachita,005_Bearden,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,97,27,1,69
+Ouachita,006_Chidester,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,47,5,2,40
+Ouachita,007_East Camden,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,75,36,0,39
+Ouachita,008_Louann,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,24,5,3,16
+Ouachita,009_Stephens,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,105,38,3,64
+Ouachita,010_County 001,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,187,110,1,76
+Ouachita,011_County 002,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,209,100,3,106
+Ouachita,012_County 003,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,298,170,7,121
+Ouachita,013_County 004,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,209,130,4,75
+Ouachita,014_County 005,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,295,141,4,150
+Ouachita,015_County 007,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,178,123,4,51
+Ouachita,016_County 008,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,14,10,2,2
+Ouachita,017_County 010,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,11,2,1,8
+Ouachita,018_County 011,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,146,113,3,30
+Ouachita,001_Camden,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,395,284,12,99
+Ouachita,002_Camden,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,280,209,6,65
+Ouachita,003_Camden,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,312,189,18,105
+Ouachita,004_Camden,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,350,227,4,119
+Ouachita,005_Bearden,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,95,31,1,63
+Ouachita,006_Chidester,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,45,4,0,41
+Ouachita,007_East Camden,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,72,42,3,27
+Ouachita,008_Louann,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,14,2,0,12
+Ouachita,009_Stephens,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,109,38,0,71
+Ouachita,010_County 001,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,131,71,2,58
+Ouachita,011_County 002,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,140,73,1,66
+Ouachita,012_County 003,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,229,127,6,96
+Ouachita,013_County 004,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,142,83,5,54
+Ouachita,014_County 005,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,233,98,4,131
+Ouachita,015_County 007,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,135,71,3,61
+Ouachita,016_County 008,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,25,14,2,9
+Ouachita,017_County 010,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,1,1,0,0
+Ouachita,018_County 011,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,96,67,4,25
+Ouachita,001_Camden,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,509,372,16,121
+Ouachita,002_Camden,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,168,119,7,42
+Ouachita,003_Camden,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,239,165,12,62
+Ouachita,004_Camden,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,582,413,18,151
+Ouachita,005_Bearden,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,121,35,2,84
+Ouachita,006_Chidester,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,53,13,2,38
+Ouachita,007_East Camden,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,102,37,1,64
+Ouachita,008_Louann,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,25,6,3,16
+Ouachita,009_Stephens,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,96,29,4,63
+Ouachita,010_County 001,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,267,132,2,133
+Ouachita,011_County 002,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,367,158,4,205
+Ouachita,012_County 003,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,488,265,14,209
+Ouachita,013_County 004,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,296,180,7,109
+Ouachita,014_County 005,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,354,175,8,171
+Ouachita,015_County 007,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,278,205,7,66
+Ouachita,016_County 008,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,11,10,0,1
+Ouachita,017_County 010,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,18,9,1,8
+Ouachita,018_County 011,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,190,142,6,42

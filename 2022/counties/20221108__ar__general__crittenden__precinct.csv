@@ -1,0 +1,903 @@
+county,precinct,office,district,party,candidate,votes,provisional,early_vote,absentee,election_day
+Crittenden,1ST BAPTIST CHURCH WMPH,U.S. Senate,,REP,Senator John Boozman,510,0,409,7,94
+Crittenden,WM HIGH SCHOOL,U.S. Senate,,REP,Senator John Boozman,1083,3,821,22,237
+Crittenden,CIVIC CENTER,U.S. Senate,,REP,Senator John Boozman,105,2,57,0,46
+Crittenden,JACKSON NEIGHBORHOOD CENTER,U.S. Senate,,REP,Senator John Boozman,19,0,7,1,11
+Crittenden,CALVARY WMPH,U.S. Senate,,REP,Senator John Boozman,161,0,93,2,66
+Crittenden,7TH STREET CHURCH WMPH,U.S. Senate,,REP,Senator John Boozman,64,0,33,2,29
+Crittenden,WONDER BOYS CLUB,U.S. Senate,,REP,Senator John Boozman,53,0,36,0,17
+Crittenden,EDMONDSON,U.S. Senate,,REP,Senator John Boozman,97,0,44,3,50
+Crittenden,GILMORE,U.S. Senate,,REP,Senator John Boozman,26,0,3,0,23
+Crittenden,TURRELL FIRE STATION,U.S. Senate,,REP,Senator John Boozman,89,0,35,0,54
+Crittenden,EARLE,U.S. Senate,,REP,Senator John Boozman,152,0,50,11,91
+Crittenden,CRAWFORDSVILLE,U.S. Senate,,REP,Senator John Boozman,271,0,107,1,163
+Crittenden,MARION SCHOOL,U.S. Senate,,REP,Senator John Boozman,1236,1,950,20,265
+Crittenden,MARION CHURCH OF GOD,U.S. Senate,,REP,Senator John Boozman,701,1,534,7,159
+Crittenden,TABERNACLE OF GOD CHURCH,U.S. Senate,,REP,Senator John Boozman,531,0,368,8,155
+Crittenden,HORSESHOE LAKE,U.S. Senate,,REP,Senator John Boozman,193,3,31,1,158
+Crittenden,JERICHO CITY HALL,U.S. Senate,,REP,Senator John Boozman,143,0,100,0,43
+Crittenden,ANTHONYVILLE CITY HALL,U.S. Senate,,REP,Senator John Boozman,2,0,0,0,2
+Crittenden,1ST BAPTIST CHURCH WMPH,U.S. Senate,,DEM,Natalie James,199,0,134,4,61
+Crittenden,WM HIGH SCHOOL,U.S. Senate,,DEM,Natalie James,802,5,561,16,220
+Crittenden,CIVIC CENTER,U.S. Senate,,DEM,Natalie James,539,0,277,22,240
+Crittenden,JACKSON NEIGHBORHOOD CENTER,U.S. Senate,,DEM,Natalie James,454,7,214,31,202
+Crittenden,CALVARY WMPH,U.S. Senate,,DEM,Natalie James,103,0,52,0,51
+Crittenden,7TH STREET CHURCH WMPH,U.S. Senate,,DEM,Natalie James,515,0,275,14,226
+Crittenden,WONDER BOYS CLUB,U.S. Senate,,DEM,Natalie James,197,1,96,16,84
+Crittenden,EDMONDSON,U.S. Senate,,DEM,Natalie James,76,0,18,2,56
+Crittenden,GILMORE,U.S. Senate,,DEM,Natalie James,41,0,6,0,35
+Crittenden,TURRELL FIRE STATION,U.S. Senate,,DEM,Natalie James,121,0,21,6,94
+Crittenden,EARLE,U.S. Senate,,DEM,Natalie James,406,1,80,12,313
+Crittenden,CRAWFORDSVILLE,U.S. Senate,,DEM,Natalie James,113,0,30,1,82
+Crittenden,MARION SCHOOL,U.S. Senate,,DEM,Natalie James,602,0,426,16,160
+Crittenden,MARION CHURCH OF GOD,U.S. Senate,,DEM,Natalie James,264,0,156,9,99
+Crittenden,TABERNACLE OF GOD CHURCH,U.S. Senate,,DEM,Natalie James,465,0,300,5,160
+Crittenden,HORSESHOE LAKE,U.S. Senate,,DEM,Natalie James,26,1,6,0,19
+Crittenden,JERICHO CITY HALL,U.S. Senate,,DEM,Natalie James,41,0,14,1,26
+Crittenden,ANTHONYVILLE CITY HALL,U.S. Senate,,DEM,Natalie James,35,0,1,0,34
+Crittenden,1ST BAPTIST CHURCH WMPH,U.S. Senate,,LIB,Kenneth Cates,16,0,10,0,6
+Crittenden,WM HIGH SCHOOL,U.S. Senate,,LIB,Kenneth Cates,32,0,24,0,8
+Crittenden,CIVIC CENTER,U.S. Senate,,LIB,Kenneth Cates,13,0,7,0,6
+Crittenden,JACKSON NEIGHBORHOOD CENTER,U.S. Senate,,LIB,Kenneth Cates,5,0,3,0,2
+Crittenden,CALVARY WMPH,U.S. Senate,,LIB,Kenneth Cates,5,0,2,0,3
+Crittenden,7TH STREET CHURCH WMPH,U.S. Senate,,LIB,Kenneth Cates,14,0,8,0,6
+Crittenden,WONDER BOYS CLUB,U.S. Senate,,LIB,Kenneth Cates,4,0,2,0,2
+Crittenden,EDMONDSON,U.S. Senate,,LIB,Kenneth Cates,2,0,0,0,2
+Crittenden,GILMORE,U.S. Senate,,LIB,Kenneth Cates,1,0,0,0,1
+Crittenden,TURRELL FIRE STATION,U.S. Senate,,LIB,Kenneth Cates,5,0,3,0,2
+Crittenden,EARLE,U.S. Senate,,LIB,Kenneth Cates,15,0,2,0,13
+Crittenden,CRAWFORDSVILLE,U.S. Senate,,LIB,Kenneth Cates,6,0,1,0,5
+Crittenden,MARION SCHOOL,U.S. Senate,,LIB,Kenneth Cates,36,0,24,0,12
+Crittenden,MARION CHURCH OF GOD,U.S. Senate,,LIB,Kenneth Cates,28,0,16,0,12
+Crittenden,TABERNACLE OF GOD CHURCH,U.S. Senate,,LIB,Kenneth Cates,22,0,14,0,8
+Crittenden,HORSESHOE LAKE,U.S. Senate,,LIB,Kenneth Cates,4,0,0,0,4
+Crittenden,JERICHO CITY HALL,U.S. Senate,,LIB,Kenneth Cates,1,0,0,0,1
+Crittenden,ANTHONYVILLE CITY HALL,U.S. Senate,,LIB,Kenneth Cates,1,0,0,0,1
+Crittenden,1ST BAPTIST CHURCH WMPH,U.S. Congress District 01,,REP,Congressman Rick Crawford,506,0,402,7,97
+Crittenden,WM HIGH SCHOOL,U.S. Congress District 01,,REP,Congressman Rick Crawford,1086,3,828,22,233
+Crittenden,CIVIC CENTER,U.S. Congress District 01,,REP,Congressman Rick Crawford,102,2,54,0,46
+Crittenden,JACKSON NEIGHBORHOOD CENTER,U.S. Congress District 01,,REP,Congressman Rick Crawford,23,0,10,0,13
+Crittenden,CALVARY WMPH,U.S. Congress District 01,,REP,Congressman Rick Crawford,163,0,93,2,68
+Crittenden,7TH STREET CHURCH WMPH,U.S. Congress District 01,,REP,Congressman Rick Crawford,62,0,28,2,32
+Crittenden,WONDER BOYS CLUB,U.S. Congress District 01,,REP,Congressman Rick Crawford,58,0,40,0,18
+Crittenden,EDMONDSON,U.S. Congress District 01,,REP,Congressman Rick Crawford,100,0,44,3,53
+Crittenden,GILMORE,U.S. Congress District 01,,REP,Congressman Rick Crawford,27,0,3,0,24
+Crittenden,TURRELL FIRE STATION,U.S. Congress District 01,,REP,Congressman Rick Crawford,94,0,35,0,59
+Crittenden,EARLE,U.S. Congress District 01,,REP,Congressman Rick Crawford,150,0,47,8,95
+Crittenden,CRAWFORDSVILLE,U.S. Congress District 01,,REP,Congressman Rick Crawford,274,0,108,1,165
+Crittenden,MARION SCHOOL,U.S. Congress District 01,,REP,Congressman Rick Crawford,1241,1,948,20,272
+Crittenden,MARION CHURCH OF GOD,U.S. Congress District 01,,REP,Congressman Rick Crawford,699,1,530,7,161
+Crittenden,TABERNACLE OF GOD CHURCH,U.S. Congress District 01,,REP,Congressman Rick Crawford,535,0,369,7,159
+Crittenden,HORSESHOE LAKE,U.S. Congress District 01,,REP,Congressman Rick Crawford,194,3,31,1,159
+Crittenden,JERICHO CITY HALL,U.S. Congress District 01,,REP,Congressman Rick Crawford,144,0,101,0,43
+Crittenden,ANTHONYVILLE CITY HALL,U.S. Congress District 01,,REP,Congressman Rick Crawford,1,0,0,0,1
+Crittenden,1ST BAPTIST CHURCH WMPH,U.S. Congress District 01,,DEM,Representative Monte Hodges,217,0,149,3,65
+Crittenden,WM HIGH SCHOOL,U.S. Congress District 01,,DEM,Representative Monte Hodges,823,5,572,16,230
+Crittenden,CIVIC CENTER,U.S. Congress District 01,,DEM,Representative Monte Hodges,545,0,282,22,241
+Crittenden,JACKSON NEIGHBORHOOD CENTER,U.S. Congress District 01,,DEM,Representative Monte Hodges,443,7,209,29,198
+Crittenden,CALVARY WMPH,U.S. Congress District 01,,DEM,Representative Monte Hodges,105,0,53,0,52
+Crittenden,7TH STREET CHURCH WMPH,U.S. Congress District 01,,DEM,Representative Monte Hodges,517,0,279,14,224
+Crittenden,WONDER BOYS CLUB,U.S. Congress District 01,,DEM,Representative Monte Hodges,200,1,97,16,86
+Crittenden,EDMONDSON,U.S. Congress District 01,,DEM,Representative Monte Hodges,75,0,18,2,55
+Crittenden,GILMORE,U.S. Congress District 01,,DEM,Representative Monte Hodges,40,0,6,0,34
+Crittenden,TURRELL FIRE STATION,U.S. Congress District 01,,DEM,Representative Monte Hodges,124,0,24,6,94
+Crittenden,EARLE,U.S. Congress District 01,,DEM,Representative Monte Hodges,425,1,87,12,325
+Crittenden,CRAWFORDSVILLE,U.S. Congress District 01,,DEM,Representative Monte Hodges,118,0,31,1,86
+Crittenden,MARION SCHOOL,U.S. Congress District 01,,DEM,Representative Monte Hodges,621,0,444,16,161
+Crittenden,MARION CHURCH OF GOD,U.S. Congress District 01,,DEM,Representative Monte Hodges,287,0,171,8,108
+Crittenden,TABERNACLE OF GOD CHURCH,U.S. Congress District 01,,DEM,Representative Monte Hodges,478,0,308,6,164
+Crittenden,HORSESHOE LAKE,U.S. Congress District 01,,DEM,Representative Monte Hodges,26,1,6,0,19
+Crittenden,JERICHO CITY HALL,U.S. Congress District 01,,DEM,Representative Monte Hodges,42,0,15,1,26
+Crittenden,ANTHONYVILLE CITY HALL,U.S. Congress District 01,,DEM,Representative Monte Hodges,37,0,1,0,36
+Crittenden,1ST BAPTIST CHURCH WMPH,Governor,,DEM,Chris Jones,232,0,160,5,67
+Crittenden,WM HIGH SCHOOL,Governor,,DEM,Chris Jones,848,5,602,16,225
+Crittenden,CIVIC CENTER,Governor,,DEM,Chris Jones,575,0,300,22,253
+Crittenden,JACKSON NEIGHBORHOOD CENTER,Governor,,DEM,Chris Jones,465,6,222,31,206
+Crittenden,CALVARY WMPH,Governor,,DEM,Chris Jones,101,0,52,0,49
+Crittenden,7TH STREET CHURCH WMPH,Governor,,DEM,Chris Jones,532,0,292,13,227
+Crittenden,WONDER BOYS CLUB,Governor,,DEM,Chris Jones,211,1,110,16,84
+Crittenden,EDMONDSON,Governor,,DEM,Chris Jones,79,0,18,2,59
+Crittenden,GILMORE,Governor,,DEM,Chris Jones,39,0,5,0,34
+Crittenden,TURRELL FIRE STATION,Governor,,DEM,Chris Jones,129,0,24,6,99
+Crittenden,EARLE,Governor,,DEM,Chris Jones,422,1,89,14,318
+Crittenden,CRAWFORDSVILLE,Governor,,DEM,Chris Jones,125,0,35,0,90
+Crittenden,MARION SCHOOL,Governor,,DEM,Chris Jones,648,0,456,17,175
+Crittenden,MARION CHURCH OF GOD,Governor,,DEM,Chris Jones,306,0,186,8,112
+Crittenden,TABERNACLE OF GOD CHURCH,Governor,,DEM,Chris Jones,477,0,310,5,162
+Crittenden,HORSESHOE LAKE,Governor,,DEM,Chris Jones,26,1,6,0,19
+Crittenden,JERICHO CITY HALL,Governor,,DEM,Chris Jones,43,0,15,1,27
+Crittenden,ANTHONYVILLE CITY HALL,Governor,,DEM,Chris Jones,36,0,1,0,35
+Crittenden,1ST BAPTIST CHURCH WMPH,Governor,,REP,Sarah Huckabee Sanders,490,0,392,6,92
+Crittenden,WM HIGH SCHOOL,Governor,,REP,Sarah Huckabee Sanders,1063,3,804,22,234
+Crittenden,CIVIC CENTER,Governor,,REP,Sarah Huckabee Sanders,89,2,48,0,39
+Crittenden,JACKSON NEIGHBORHOOD CENTER,Governor,,REP,Sarah Huckabee Sanders,21,0,8,0,13
+Crittenden,CALVARY WMPH,Governor,,REP,Sarah Huckabee Sanders,161,0,92,2,67
+Crittenden,7TH STREET CHURCH WMPH,Governor,,REP,Sarah Huckabee Sanders,62,0,29,2,31
+Crittenden,WONDER BOYS CLUB,Governor,,REP,Sarah Huckabee Sanders,46,0,29,0,17
+Crittenden,EDMONDSON,Governor,,REP,Sarah Huckabee Sanders,97,0,45,2,50
+Crittenden,GILMORE,Governor,,REP,Sarah Huckabee Sanders,28,0,3,0,25
+Crittenden,TURRELL FIRE STATION,Governor,,REP,Sarah Huckabee Sanders,85,0,35,0,50
+Crittenden,EARLE,Governor,,REP,Sarah Huckabee Sanders,143,0,44,9,90
+Crittenden,CRAWFORDSVILLE,Governor,,REP,Sarah Huckabee Sanders,268,0,105,0,163
+Crittenden,MARION SCHOOL,Governor,,REP,Sarah Huckabee Sanders,1199,1,922,19,257
+Crittenden,MARION CHURCH OF GOD,Governor,,REP,Sarah Huckabee Sanders,670,1,509,7,153
+Crittenden,TABERNACLE OF GOD CHURCH,Governor,,REP,Sarah Huckabee Sanders,531,0,365,8,158
+Crittenden,HORSESHOE LAKE,Governor,,REP,Sarah Huckabee Sanders,196,3,31,1,161
+Crittenden,JERICHO CITY HALL,Governor,,REP,Sarah Huckabee Sanders,145,0,102,0,43
+Crittenden,ANTHONYVILLE CITY HALL,Governor,,REP,Sarah Huckabee Sanders,1,0,0,0,1
+Crittenden,1ST BAPTIST CHURCH WMPH,Governor,,LIB,"Ricky Dale Harrington, Jr.",9,0,6,0,3
+Crittenden,WM HIGH SCHOOL,Governor,,LIB,"Ricky Dale Harrington, Jr.",22,0,17,0,5
+Crittenden,CIVIC CENTER,Governor,,LIB,"Ricky Dale Harrington, Jr.",8,0,3,0,5
+Crittenden,JACKSON NEIGHBORHOOD CENTER,Governor,,LIB,"Ricky Dale Harrington, Jr.",8,0,6,0,2
+Crittenden,CALVARY WMPH,Governor,,LIB,"Ricky Dale Harrington, Jr.",8,0,4,0,4
+Crittenden,7TH STREET CHURCH WMPH,Governor,,LIB,"Ricky Dale Harrington, Jr.",12,0,6,0,6
+Crittenden,WONDER BOYS CLUB,Governor,,LIB,"Ricky Dale Harrington, Jr.",4,0,2,0,2
+Crittenden,EDMONDSON,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,0,0,0,3
+Crittenden,GILMORE,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,0,1,0,1
+Crittenden,TURRELL FIRE STATION,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,0,0,0,5
+Crittenden,EARLE,Governor,,LIB,"Ricky Dale Harrington, Jr.",16,0,2,0,14
+Crittenden,CRAWFORDSVILLE,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,0,1,1,3
+Crittenden,MARION SCHOOL,Governor,,LIB,"Ricky Dale Harrington, Jr.",32,0,26,0,6
+Crittenden,MARION CHURCH OF GOD,Governor,,LIB,"Ricky Dale Harrington, Jr.",14,0,9,0,5
+Crittenden,TABERNACLE OF GOD CHURCH,Governor,,LIB,"Ricky Dale Harrington, Jr.",13,0,10,0,3
+Crittenden,HORSESHOE LAKE,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,0,1
+Crittenden,JERICHO CITY HALL,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0,0
+Crittenden,ANTHONYVILLE CITY HALL,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,0,1
+Crittenden,1ST BAPTIST CHURCH WMPH,Lieutenant Governor,,LIB,Frank Gilbert,19,0,14,0,5
+Crittenden,WM HIGH SCHOOL,Lieutenant Governor,,LIB,Frank Gilbert,41,0,32,0,9
+Crittenden,CIVIC CENTER,Lieutenant Governor,,LIB,Frank Gilbert,31,0,17,0,14
+Crittenden,JACKSON NEIGHBORHOOD CENTER,Lieutenant Governor,,LIB,Frank Gilbert,6,0,3,0,3
+Crittenden,CALVARY WMPH,Lieutenant Governor,,LIB,Frank Gilbert,9,0,4,0,5
+Crittenden,7TH STREET CHURCH WMPH,Lieutenant Governor,,LIB,Frank Gilbert,20,0,11,0,9
+Crittenden,WONDER BOYS CLUB,Lieutenant Governor,,LIB,Frank Gilbert,6,0,5,0,1
+Crittenden,EDMONDSON,Lieutenant Governor,,LIB,Frank Gilbert,3,0,1,0,2
+Crittenden,GILMORE,Lieutenant Governor,,LIB,Frank Gilbert,1,0,0,0,1
+Crittenden,TURRELL FIRE STATION,Lieutenant Governor,,LIB,Frank Gilbert,8,0,2,0,6
+Crittenden,EARLE,Lieutenant Governor,,LIB,Frank Gilbert,27,0,10,2,15
+Crittenden,CRAWFORDSVILLE,Lieutenant Governor,,LIB,Frank Gilbert,10,0,3,0,7
+Crittenden,MARION SCHOOL,Lieutenant Governor,,LIB,Frank Gilbert,40,0,24,0,16
+Crittenden,MARION CHURCH OF GOD,Lieutenant Governor,,LIB,Frank Gilbert,27,0,15,0,12
+Crittenden,TABERNACLE OF GOD CHURCH,Lieutenant Governor,,LIB,Frank Gilbert,27,0,20,0,7
+Crittenden,HORSESHOE LAKE,Lieutenant Governor,,LIB,Frank Gilbert,5,0,0,0,5
+Crittenden,JERICHO CITY HALL,Lieutenant Governor,,LIB,Frank Gilbert,5,0,2,0,3
+Crittenden,ANTHONYVILLE CITY HALL,Lieutenant Governor,,LIB,Frank Gilbert,1,0,0,0,1
+Crittenden,1ST BAPTIST CHURCH WMPH,Lieutenant Governor,,DEM,Kelly Ross Krout,214,0,146,4,64
+Crittenden,WM HIGH SCHOOL,Lieutenant Governor,,DEM,Kelly Ross Krout,806,5,568,16,217
+Crittenden,CIVIC CENTER,Lieutenant Governor,,DEM,Kelly Ross Krout,529,0,272,22,235
+Crittenden,JACKSON NEIGHBORHOOD CENTER,Lieutenant Governor,,DEM,Kelly Ross Krout,442,7,208,29,198
+Crittenden,CALVARY WMPH,Lieutenant Governor,,DEM,Kelly Ross Krout,102,0,53,0,49
+Crittenden,7TH STREET CHURCH WMPH,Lieutenant Governor,,DEM,Kelly Ross Krout,512,0,276,13,223
+Crittenden,WONDER BOYS CLUB,Lieutenant Governor,,DEM,Kelly Ross Krout,193,1,95,16,81
+Crittenden,EDMONDSON,Lieutenant Governor,,DEM,Kelly Ross Krout,72,0,16,2,54
+Crittenden,GILMORE,Lieutenant Governor,,DEM,Kelly Ross Krout,43,0,6,0,37
+Crittenden,TURRELL FIRE STATION,Lieutenant Governor,,DEM,Kelly Ross Krout,120,0,22,6,92
+Crittenden,EARLE,Lieutenant Governor,,DEM,Kelly Ross Krout,410,1,81,12,316
+Crittenden,CRAWFORDSVILLE,Lieutenant Governor,,DEM,Kelly Ross Krout,115,0,30,1,84
+Crittenden,MARION SCHOOL,Lieutenant Governor,,DEM,Kelly Ross Krout,611,0,440,16,155
+Crittenden,MARION CHURCH OF GOD,Lieutenant Governor,,DEM,Kelly Ross Krout,287,0,177,9,101
+Crittenden,TABERNACLE OF GOD CHURCH,Lieutenant Governor,,DEM,Kelly Ross Krout,470,0,305,5,160
+Crittenden,HORSESHOE LAKE,Lieutenant Governor,,DEM,Kelly Ross Krout,27,1,6,0,20
+Crittenden,JERICHO CITY HALL,Lieutenant Governor,,DEM,Kelly Ross Krout,44,0,14,1,29
+Crittenden,ANTHONYVILLE CITY HALL,Lieutenant Governor,,DEM,Kelly Ross Krout,36,0,1,0,35
+Crittenden,1ST BAPTIST CHURCH WMPH,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,493,0,393,7,93
+Crittenden,WM HIGH SCHOOL,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,1066,3,802,22,239
+Crittenden,CIVIC CENTER,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,90,2,47,0,41
+Crittenden,JACKSON NEIGHBORHOOD CENTER,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,21,0,9,0,12
+Crittenden,CALVARY WMPH,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,157,0,89,2,66
+Crittenden,7TH STREET CHURCH WMPH,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,63,0,32,2,29
+Crittenden,WONDER BOYS CLUB,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,56,0,37,0,19
+Crittenden,EDMONDSON,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,99,0,44,3,52
+Crittenden,GILMORE,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,23,0,3,0,20
+Crittenden,TURRELL FIRE STATION,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,86,0,35,0,51
+Crittenden,EARLE,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,136,0,43,9,84
+Crittenden,CRAWFORDSVILLE,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,270,0,107,0,163
+Crittenden,MARION SCHOOL,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,1223,1,935,20,267
+Crittenden,MARION CHURCH OF GOD,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,677,1,514,7,155
+Crittenden,TABERNACLE OF GOD CHURCH,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,516,0,353,8,155
+Crittenden,HORSESHOE LAKE,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,190,3,31,1,155
+Crittenden,JERICHO CITY HALL,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,138,0,100,0,38
+Crittenden,ANTHONYVILLE CITY HALL,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,1,0,0,0,1
+Crittenden,1ST BAPTIST CHURCH WMPH,Attorney General,,DEM,Jesse Gibson,217,0,151,4,62
+Crittenden,WM HIGH SCHOOL,Attorney General,,DEM,Jesse Gibson,828,4,582,16,226
+Crittenden,CIVIC CENTER,Attorney General,,DEM,Jesse Gibson,558,0,286,22,250
+Crittenden,JACKSON NEIGHBORHOOD CENTER,Attorney General,,DEM,Jesse Gibson,452,7,213,30,202
+Crittenden,CALVARY WMPH,Attorney General,,DEM,Jesse Gibson,102,0,50,0,52
+Crittenden,7TH STREET CHURCH WMPH,Attorney General,,DEM,Jesse Gibson,527,0,282,14,231
+Crittenden,WONDER BOYS CLUB,Attorney General,,DEM,Jesse Gibson,203,1,101,16,85
+Crittenden,EDMONDSON,Attorney General,,DEM,Jesse Gibson,79,0,20,2,57
+Crittenden,GILMORE,Attorney General,,DEM,Jesse Gibson,43,0,6,0,37
+Crittenden,TURRELL FIRE STATION,Attorney General,,DEM,Jesse Gibson,130,0,24,6,100
+Crittenden,EARLE,Attorney General,,DEM,Jesse Gibson,429,1,88,12,328
+Crittenden,CRAWFORDSVILLE,Attorney General,,DEM,Jesse Gibson,118,0,32,1,85
+Crittenden,MARION SCHOOL,Attorney General,,DEM,Jesse Gibson,624,0,443,17,164
+Crittenden,MARION CHURCH OF GOD,Attorney General,,DEM,Jesse Gibson,292,0,176,9,107
+Crittenden,TABERNACLE OF GOD CHURCH,Attorney General,,DEM,Jesse Gibson,476,0,309,5,162
+Crittenden,HORSESHOE LAKE,Attorney General,,DEM,Jesse Gibson,27,1,6,0,20
+Crittenden,JERICHO CITY HALL,Attorney General,,DEM,Jesse Gibson,41,0,14,1,26
+Crittenden,ANTHONYVILLE CITY HALL,Attorney General,,DEM,Jesse Gibson,36,0,1,0,35
+Crittenden,1ST BAPTIST CHURCH WMPH,Attorney General,,REP,Lieutenant Governor Tim Griffin,505,0,398,7,100
+Crittenden,WM HIGH SCHOOL,Attorney General,,REP,Lieutenant Governor Tim Griffin,1080,4,818,22,236
+Crittenden,CIVIC CENTER,Attorney General,,REP,Lieutenant Governor Tim Griffin,91,2,50,0,39
+Crittenden,JACKSON NEIGHBORHOOD CENTER,Attorney General,,REP,Lieutenant Governor Tim Griffin,17,0,6,0,11
+Crittenden,CALVARY WMPH,Attorney General,,REP,Lieutenant Governor Tim Griffin,164,0,95,2,67
+Crittenden,7TH STREET CHURCH WMPH,Attorney General,,REP,Lieutenant Governor Tim Griffin,64,0,32,2,30
+Crittenden,WONDER BOYS CLUB,Attorney General,,REP,Lieutenant Governor Tim Griffin,51,0,35,0,16
+Crittenden,EDMONDSON,Attorney General,,REP,Lieutenant Governor Tim Griffin,95,0,42,2,51
+Crittenden,GILMORE,Attorney General,,REP,Lieutenant Governor Tim Griffin,25,0,3,0,22
+Crittenden,TURRELL FIRE STATION,Attorney General,,REP,Lieutenant Governor Tim Griffin,88,0,36,0,52
+Crittenden,EARLE,Attorney General,,REP,Lieutenant Governor Tim Griffin,144,0,44,11,89
+Crittenden,CRAWFORDSVILLE,Attorney General,,REP,Lieutenant Governor Tim Griffin,274,0,107,0,167
+Crittenden,MARION SCHOOL,Attorney General,,REP,Lieutenant Governor Tim Griffin,1242,1,949,19,273
+Crittenden,MARION CHURCH OF GOD,Attorney General,,REP,Lieutenant Governor Tim Griffin,700,1,529,7,163
+Crittenden,TABERNACLE OF GOD CHURCH,Attorney General,,REP,Lieutenant Governor Tim Griffin,537,0,370,8,159
+Crittenden,HORSESHOE LAKE,Attorney General,,REP,Lieutenant Governor Tim Griffin,194,3,31,1,159
+Crittenden,JERICHO CITY HALL,Attorney General,,REP,Lieutenant Governor Tim Griffin,145,0,101,0,44
+Crittenden,ANTHONYVILLE CITY HALL,Attorney General,,REP,Lieutenant Governor Tim Griffin,2,0,0,0,2
+Crittenden,1ST BAPTIST CHURCH WMPH,Secretary of State,,DEM,Anna Beth Gorman,224,0,152,4,68
+Crittenden,WM HIGH SCHOOL,Secretary of State,,DEM,Anna Beth Gorman,818,4,574,17,223
+Crittenden,CIVIC CENTER,Secretary of State,,DEM,Anna Beth Gorman,558,0,288,22,248
+Crittenden,JACKSON NEIGHBORHOOD CENTER,Secretary of State,,DEM,Anna Beth Gorman,459,7,217,31,204
+Crittenden,CALVARY WMPH,Secretary of State,,DEM,Anna Beth Gorman,104,0,51,0,53
+Crittenden,7TH STREET CHURCH WMPH,Secretary of State,,DEM,Anna Beth Gorman,521,0,276,14,231
+Crittenden,WONDER BOYS CLUB,Secretary of State,,DEM,Anna Beth Gorman,197,1,99,16,81
+Crittenden,EDMONDSON,Secretary of State,,DEM,Anna Beth Gorman,77,0,17,2,58
+Crittenden,GILMORE,Secretary of State,,DEM,Anna Beth Gorman,43,0,6,0,37
+Crittenden,TURRELL FIRE STATION,Secretary of State,,DEM,Anna Beth Gorman,127,0,24,6,97
+Crittenden,EARLE,Secretary of State,,DEM,Anna Beth Gorman,425,1,85,12,327
+Crittenden,CRAWFORDSVILLE,Secretary of State,,DEM,Anna Beth Gorman,121,0,30,1,90
+Crittenden,MARION SCHOOL,Secretary of State,,DEM,Anna Beth Gorman,632,0,447,18,167
+Crittenden,MARION CHURCH OF GOD,Secretary of State,,DEM,Anna Beth Gorman,294,0,175,9,110
+Crittenden,TABERNACLE OF GOD CHURCH,Secretary of State,,DEM,Anna Beth Gorman,476,0,313,5,158
+Crittenden,HORSESHOE LAKE,Secretary of State,,DEM,Anna Beth Gorman,26,1,6,0,19
+Crittenden,JERICHO CITY HALL,Secretary of State,,DEM,Anna Beth Gorman,44,0,15,1,28
+Crittenden,ANTHONYVILLE CITY HALL,Secretary of State,,DEM,Anna Beth Gorman,36,0,1,0,35
+Crittenden,1ST BAPTIST CHURCH WMPH,Secretary of State,,REP,Secretary of State John Thurston,505,0,404,7,94
+Crittenden,WM HIGH SCHOOL,Secretary of State,,REP,Secretary of State John Thurston,1093,4,826,21,242
+Crittenden,CIVIC CENTER,Secretary of State,,REP,Secretary of State John Thurston,95,2,52,0,41
+Crittenden,JACKSON NEIGHBORHOOD CENTER,Secretary of State,,REP,Secretary of State John Thurston,21,0,6,0,15
+Crittenden,CALVARY WMPH,Secretary of State,,REP,Secretary of State John Thurston,162,0,94,2,66
+Crittenden,7TH STREET CHURCH WMPH,Secretary of State,,REP,Secretary of State John Thurston,68,0,34,2,32
+Crittenden,WONDER BOYS CLUB,Secretary of State,,REP,Secretary of State John Thurston,59,0,37,0,22
+Crittenden,EDMONDSON,Secretary of State,,REP,Secretary of State John Thurston,100,0,44,3,53
+Crittenden,GILMORE,Secretary of State,,REP,Secretary of State John Thurston,25,0,3,0,22
+Crittenden,TURRELL FIRE STATION,Secretary of State,,REP,Secretary of State John Thurston,88,0,36,0,52
+Crittenden,EARLE,Secretary of State,,REP,Secretary of State John Thurston,152,0,50,10,92
+Crittenden,CRAWFORDSVILLE,Secretary of State,,REP,Secretary of State John Thurston,272,0,108,0,164
+Crittenden,MARION SCHOOL,Secretary of State,,REP,Secretary of State John Thurston,1231,1,945,18,267
+Crittenden,MARION CHURCH OF GOD,Secretary of State,,REP,Secretary of State John Thurston,694,1,525,7,161
+Crittenden,TABERNACLE OF GOD CHURCH,Secretary of State,,REP,Secretary of State John Thurston,537,0,366,8,163
+Crittenden,HORSESHOE LAKE,Secretary of State,,REP,Secretary of State John Thurston,194,3,31,1,159
+Crittenden,JERICHO CITY HALL,Secretary of State,,REP,Secretary of State John Thurston,142,0,100,0,42
+Crittenden,ANTHONYVILLE CITY HALL,Secretary of State,,REP,Secretary of State John Thurston,2,0,0,0,2
+Crittenden,1ST BAPTIST CHURCH WMPH,State Treasurer,,DEM,Pam Whitaker,220,0,152,4,64
+Crittenden,WM HIGH SCHOOL,State Treasurer,,DEM,Pam Whitaker,831,5,587,16,223
+Crittenden,CIVIC CENTER,State Treasurer,,DEM,Pam Whitaker,563,0,290,22,251
+Crittenden,JACKSON NEIGHBORHOOD CENTER,State Treasurer,,DEM,Pam Whitaker,456,7,212,31,206
+Crittenden,CALVARY WMPH,State Treasurer,,DEM,Pam Whitaker,103,0,53,0,50
+Crittenden,7TH STREET CHURCH WMPH,State Treasurer,,DEM,Pam Whitaker,531,0,289,14,228
+Crittenden,WONDER BOYS CLUB,State Treasurer,,DEM,Pam Whitaker,198,1,100,14,83
+Crittenden,EDMONDSON,State Treasurer,,DEM,Pam Whitaker,80,0,18,2,60
+Crittenden,GILMORE,State Treasurer,,DEM,Pam Whitaker,42,0,6,0,36
+Crittenden,TURRELL FIRE STATION,State Treasurer,,DEM,Pam Whitaker,124,0,24,6,94
+Crittenden,EARLE,State Treasurer,,DEM,Pam Whitaker,426,1,87,12,326
+Crittenden,CRAWFORDSVILLE,State Treasurer,,DEM,Pam Whitaker,124,0,33,1,90
+Crittenden,MARION SCHOOL,State Treasurer,,DEM,Pam Whitaker,624,0,439,17,168
+Crittenden,MARION CHURCH OF GOD,State Treasurer,,DEM,Pam Whitaker,293,0,176,9,108
+Crittenden,TABERNACLE OF GOD CHURCH,State Treasurer,,DEM,Pam Whitaker,478,0,312,5,161
+Crittenden,HORSESHOE LAKE,State Treasurer,,DEM,Pam Whitaker,29,1,6,0,22
+Crittenden,JERICHO CITY HALL,State Treasurer,,DEM,Pam Whitaker,43,0,15,1,27
+Crittenden,ANTHONYVILLE CITY HALL,State Treasurer,,DEM,Pam Whitaker,34,0,1,0,33
+Crittenden,1ST BAPTIST CHURCH WMPH,State Treasurer,,REP,State Representative Mark Lowery,505,0,400,7,98
+Crittenden,WM HIGH SCHOOL,State Treasurer,,REP,State Representative Mark Lowery,1071,3,807,22,239
+Crittenden,CIVIC CENTER,State Treasurer,,REP,State Representative Mark Lowery,89,2,50,0,37
+Crittenden,JACKSON NEIGHBORHOOD CENTER,State Treasurer,,REP,State Representative Mark Lowery,21,0,7,0,14
+Crittenden,CALVARY WMPH,State Treasurer,,REP,State Representative Mark Lowery,166,0,95,2,69
+Crittenden,7TH STREET CHURCH WMPH,State Treasurer,,REP,State Representative Mark Lowery,61,0,27,2,32
+Crittenden,WONDER BOYS CLUB,State Treasurer,,REP,State Representative Mark Lowery,56,0,35,0,21
+Crittenden,EDMONDSON,State Treasurer,,REP,State Representative Mark Lowery,97,0,43,3,51
+Crittenden,GILMORE,State Treasurer,,REP,State Representative Mark Lowery,25,0,3,0,22
+Crittenden,TURRELL FIRE STATION,State Treasurer,,REP,State Representative Mark Lowery,91,0,36,0,55
+Crittenden,EARLE,State Treasurer,,REP,State Representative Mark Lowery,150,0,48,11,91
+Crittenden,CRAWFORDSVILLE,State Treasurer,,REP,State Representative Mark Lowery,268,0,106,0,162
+Crittenden,MARION SCHOOL,State Treasurer,,REP,State Representative Mark Lowery,1236,1,949,19,267
+Crittenden,MARION CHURCH OF GOD,State Treasurer,,REP,State Representative Mark Lowery,695,1,526,7,161
+Crittenden,TABERNACLE OF GOD CHURCH,State Treasurer,,REP,State Representative Mark Lowery,537,0,368,8,161
+Crittenden,HORSESHOE LAKE,State Treasurer,,REP,State Representative Mark Lowery,194,3,31,1,159
+Crittenden,JERICHO CITY HALL,State Treasurer,,REP,State Representative Mark Lowery,144,0,101,0,43
+Crittenden,ANTHONYVILLE CITY HALL,State Treasurer,,REP,State Representative Mark Lowery,2,0,0,0,2
+Crittenden,1ST BAPTIST CHURCH WMPH,Auditor of State,,REP,Treasurer of State Dennis Milligan,504,0,402,6,96
+Crittenden,WM HIGH SCHOOL,Auditor of State,,REP,Treasurer of State Dennis Milligan,1071,3,813,22,233
+Crittenden,CIVIC CENTER,Auditor of State,,REP,Treasurer of State Dennis Milligan,95,2,51,0,42
+Crittenden,JACKSON NEIGHBORHOOD CENTER,Auditor of State,,REP,Treasurer of State Dennis Milligan,19,0,7,0,12
+Crittenden,CALVARY WMPH,Auditor of State,,REP,Treasurer of State Dennis Milligan,160,0,92,2,66
+Crittenden,7TH STREET CHURCH WMPH,Auditor of State,,REP,Treasurer of State Dennis Milligan,60,0,27,2,31
+Crittenden,WONDER BOYS CLUB,Auditor of State,,REP,Treasurer of State Dennis Milligan,52,0,33,0,19
+Crittenden,EDMONDSON,Auditor of State,,REP,Treasurer of State Dennis Milligan,100,0,44,4,52
+Crittenden,GILMORE,Auditor of State,,REP,Treasurer of State Dennis Milligan,25,0,3,0,22
+Crittenden,TURRELL FIRE STATION,Auditor of State,,REP,Treasurer of State Dennis Milligan,84,0,34,0,50
+Crittenden,EARLE,Auditor of State,,REP,Treasurer of State Dennis Milligan,142,0,48,11,83
+Crittenden,CRAWFORDSVILLE,Auditor of State,,REP,Treasurer of State Dennis Milligan,270,0,107,0,163
+Crittenden,MARION SCHOOL,Auditor of State,,REP,Treasurer of State Dennis Milligan,1242,1,952,20,269
+Crittenden,MARION CHURCH OF GOD,Auditor of State,,REP,Treasurer of State Dennis Milligan,687,1,525,7,154
+Crittenden,TABERNACLE OF GOD CHURCH,Auditor of State,,REP,Treasurer of State Dennis Milligan,531,0,367,8,156
+Crittenden,HORSESHOE LAKE,Auditor of State,,REP,Treasurer of State Dennis Milligan,190,3,31,1,155
+Crittenden,JERICHO CITY HALL,Auditor of State,,REP,Treasurer of State Dennis Milligan,144,0,102,0,42
+Crittenden,ANTHONYVILLE CITY HALL,Auditor of State,,REP,Treasurer of State Dennis Milligan,3,0,0,0,3
+Crittenden,1ST BAPTIST CHURCH WMPH,Auditor of State,,DEM,Diamond Arnold-Johnson,198,0,134,4,60
+Crittenden,WM HIGH SCHOOL,Auditor of State,,DEM,Diamond Arnold-Johnson,783,4,544,16,219
+Crittenden,CIVIC CENTER,Auditor of State,,DEM,Diamond Arnold-Johnson,551,0,285,22,244
+Crittenden,JACKSON NEIGHBORHOOD CENTER,Auditor of State,,DEM,Diamond Arnold-Johnson,455,7,214,30,204
+Crittenden,CALVARY WMPH,Auditor of State,,DEM,Diamond Arnold-Johnson,98,0,51,0,47
+Crittenden,7TH STREET CHURCH WMPH,Auditor of State,,DEM,Diamond Arnold-Johnson,525,0,287,14,224
+Crittenden,WONDER BOYS CLUB,Auditor of State,,DEM,Diamond Arnold-Johnson,203,1,103,16,83
+Crittenden,EDMONDSON,Auditor of State,,DEM,Diamond Arnold-Johnson,75,0,17,1,57
+Crittenden,GILMORE,Auditor of State,,DEM,Diamond Arnold-Johnson,42,0,6,0,36
+Crittenden,TURRELL FIRE STATION,Auditor of State,,DEM,Diamond Arnold-Johnson,124,0,22,6,96
+Crittenden,EARLE,Auditor of State,,DEM,Diamond Arnold-Johnson,421,1,83,11,326
+Crittenden,CRAWFORDSVILLE,Auditor of State,,DEM,Diamond Arnold-Johnson,117,0,30,1,86
+Crittenden,MARION SCHOOL,Auditor of State,,DEM,Diamond Arnold-Johnson,575,0,413,16,146
+Crittenden,MARION CHURCH OF GOD,Auditor of State,,DEM,Diamond Arnold-Johnson,268,0,160,9,99
+Crittenden,TABERNACLE OF GOD CHURCH,Auditor of State,,DEM,Diamond Arnold-Johnson,449,0,290,5,154
+Crittenden,HORSESHOE LAKE,Auditor of State,,DEM,Diamond Arnold-Johnson,26,1,6,0,19
+Crittenden,JERICHO CITY HALL,Auditor of State,,DEM,Diamond Arnold-Johnson,39,0,13,1,25
+Crittenden,ANTHONYVILLE CITY HALL,Auditor of State,,DEM,Diamond Arnold-Johnson,35,0,1,0,34
+Crittenden,1ST BAPTIST CHURCH WMPH,Auditor of State,,LIB,Simeon Snow,19,0,12,1,6
+Crittenden,WM HIGH SCHOOL,Auditor of State,,LIB,Simeon Snow,45,1,33,0,11
+Crittenden,CIVIC CENTER,Auditor of State,,LIB,Simeon Snow,8,0,6,0,2
+Crittenden,JACKSON NEIGHBORHOOD CENTER,Auditor of State,,LIB,Simeon Snow,5,0,2,1,2
+Crittenden,CALVARY WMPH,Auditor of State,,LIB,Simeon Snow,8,0,1,0,7
+Crittenden,7TH STREET CHURCH WMPH,Auditor of State,,LIB,Simeon Snow,10,0,4,0,6
+Crittenden,WONDER BOYS CLUB,Auditor of State,,LIB,Simeon Snow,4,0,3,0,1
+Crittenden,EDMONDSON,Auditor of State,,LIB,Simeon Snow,2,0,1,0,1
+Crittenden,GILMORE,Auditor of State,,LIB,Simeon Snow,0,0,0,0,0
+Crittenden,TURRELL FIRE STATION,Auditor of State,,LIB,Simeon Snow,6,0,3,0,3
+Crittenden,EARLE,Auditor of State,,LIB,Simeon Snow,14,0,3,0,11
+Crittenden,CRAWFORDSVILLE,Auditor of State,,LIB,Simeon Snow,7,0,2,0,5
+Crittenden,MARION SCHOOL,Auditor of State,,LIB,Simeon Snow,46,0,27,0,19
+Crittenden,MARION CHURCH OF GOD,Auditor of State,,LIB,Simeon Snow,25,0,12,0,13
+Crittenden,TABERNACLE OF GOD CHURCH,Auditor of State,,LIB,Simeon Snow,33,0,22,0,11
+Crittenden,HORSESHOE LAKE,Auditor of State,,LIB,Simeon Snow,6,0,0,0,6
+Crittenden,JERICHO CITY HALL,Auditor of State,,LIB,Simeon Snow,4,0,1,0,3
+Crittenden,ANTHONYVILLE CITY HALL,Auditor of State,,LIB,Simeon Snow,0,0,0,0,0
+Crittenden,1ST BAPTIST CHURCH WMPH,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,515,0,413,7,95
+Crittenden,WM HIGH SCHOOL,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,1106,3,835,23,245
+Crittenden,CIVIC CENTER,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,102,2,58,0,42
+Crittenden,JACKSON NEIGHBORHOOD CENTER,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,22,0,5,1,16
+Crittenden,CALVARY WMPH,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,163,0,94,2,67
+Crittenden,7TH STREET CHURCH WMPH,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,64,0,30,2,32
+Crittenden,WONDER BOYS CLUB,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,58,0,37,0,21
+Crittenden,EDMONDSON,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,100,0,44,2,54
+Crittenden,GILMORE,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,27,0,3,0,24
+Crittenden,TURRELL FIRE STATION,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,91,0,37,0,54
+Crittenden,EARLE,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,153,0,49,10,94
+Crittenden,CRAWFORDSVILLE,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,280,0,111,0,169
+Crittenden,MARION SCHOOL,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,1273,1,974,19,279
+Crittenden,MARION CHURCH OF GOD,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,709,1,540,7,161
+Crittenden,TABERNACLE OF GOD CHURCH,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,544,0,371,8,165
+Crittenden,HORSESHOE LAKE,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,197,3,31,1,162
+Crittenden,JERICHO CITY HALL,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,148,0,104,0,44
+Crittenden,ANTHONYVILLE CITY HALL,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,0,0,0,0,0
+Crittenden,1ST BAPTIST CHURCH WMPH,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,208,0,137,4,67
+Crittenden,WM HIGH SCHOOL,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,802,5,561,15,221
+Crittenden,CIVIC CENTER,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,549,0,280,22,247
+Crittenden,JACKSON NEIGHBORHOOD CENTER,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,459,7,217,31,204
+Crittenden,CALVARY WMPH,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,105,0,53,0,52
+Crittenden,7TH STREET CHURCH WMPH,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,533,0,290,14,229
+Crittenden,WONDER BOYS CLUB,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,200,1,102,16,81
+Crittenden,EDMONDSON,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,76,0,18,2,56
+Crittenden,GILMORE,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,41,0,6,0,35
+Crittenden,TURRELL FIRE STATION,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,123,0,23,6,94
+Crittenden,EARLE,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,426,1,86,12,327
+Crittenden,CRAWFORDSVILLE,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,114,0,28,1,85
+Crittenden,MARION SCHOOL,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,592,0,421,17,154
+Crittenden,MARION CHURCH OF GOD,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,278,0,162,9,107
+Crittenden,TABERNACLE OF GOD CHURCH,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,470,0,308,5,157
+Crittenden,HORSESHOE LAKE,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,26,1,6,0,19
+Crittenden,JERICHO CITY HALL,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,39,0,12,1,26
+Crittenden,ANTHONYVILLE CITY HALL,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,38,0,1,0,37
+Crittenden,1ST BAPTIST CHURCH WMPH,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,456,0,336,5,115
+Crittenden,WM HIGH SCHOOL,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,1130,4,805,20,301
+Crittenden,CIVIC CENTER,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,364,1,170,13,180
+Crittenden,JACKSON NEIGHBORHOOD CENTER,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,237,5,102,14,116
+Crittenden,CALVARY WMPH,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,164,0,83,2,79
+Crittenden,7TH STREET CHURCH WMPH,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,334,0,167,11,156
+Crittenden,WONDER BOYS CLUB,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,155,0,83,14,58
+Crittenden,EDMONDSON,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,88,0,39,1,48
+Crittenden,GILMORE,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,39,0,7,0,32
+Crittenden,TURRELL FIRE STATION,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,117,0,42,2,73
+Crittenden,EARLE,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,298,1,69,11,217
+Crittenden,CRAWFORDSVILLE,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,205,0,84,0,121
+Crittenden,MARION SCHOOL,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,1128,0,850,20,258
+Crittenden,MARION CHURCH OF GOD,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,600,0,424,10,166
+Crittenden,TABERNACLE OF GOD CHURCH,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,655,0,430,10,215
+Crittenden,HORSESHOE LAKE,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,123,1,21,0,101
+Crittenden,JERICHO CITY HALL,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,115,0,70,1,44
+Crittenden,ANTHONYVILLE CITY HALL,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,24,0,1,0,23
+Crittenden,1ST BAPTIST CHURCH WMPH,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,189,0,151,1,37
+Crittenden,WM HIGH SCHOOL,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,553,3,410,9,131
+Crittenden,CIVIC CENTER,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,170,0,93,4,73
+Crittenden,JACKSON NEIGHBORHOOD CENTER,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,132,1,59,7,65
+Crittenden,CALVARY WMPH,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,81,0,46,0,35
+Crittenden,7TH STREET CHURCH WMPH,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,161,0,82,2,77
+Crittenden,WONDER BOYS CLUB,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,65,1,35,2,27
+Crittenden,EDMONDSON,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,55,0,12,1,42
+Crittenden,GILMORE,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,14,0,0,0,14
+Crittenden,TURRELL FIRE STATION,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,59,0,12,4,43
+Crittenden,EARLE,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,191,0,44,7,140
+Crittenden,CRAWFORDSVILLE,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,116,0,35,0,81
+Crittenden,MARION SCHOOL,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,524,1,378,12,133
+Crittenden,MARION CHURCH OF GOD,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,278,1,195,5,77
+Crittenden,TABERNACLE OF GOD CHURCH,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,281,0,188,2,91
+Crittenden,HORSESHOE LAKE,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,68,2,16,1,49
+Crittenden,JERICHO CITY HALL,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,53,0,32,0,21
+Crittenden,ANTHONYVILLE CITY HALL,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,8,0,0,0,8
+Crittenden,1ST BAPTIST CHURCH WMPH,State Senate,09,REP,Terry Fuller,500,0,396,7,97
+Crittenden,WM HIGH SCHOOL,State Senate,09,REP,Terry Fuller,1080,3,826,21,230
+Crittenden,CIVIC CENTER,State Senate,09,REP,Terry Fuller,108,2,56,0,50
+Crittenden,JACKSON NEIGHBORHOOD CENTER,State Senate,09,REP,Terry Fuller,29,0,11,0,18
+Crittenden,CALVARY WMPH,State Senate,09,REP,Terry Fuller,164,0,92,2,70
+Crittenden,7TH STREET CHURCH WMPH,State Senate,09,REP,Terry Fuller,70,0,37,2,31
+Crittenden,WONDER BOYS CLUB,State Senate,09,REP,Terry Fuller,54,0,33,0,21
+Crittenden,EDMONDSON,State Senate,09,REP,Terry Fuller,95,0,45,3,47
+Crittenden,GILMORE,State Senate,09,REP,Terry Fuller,26,0,3,0,23
+Crittenden,TURRELL FIRE STATION,State Senate,09,REP,Terry Fuller,90,0,38,0,52
+Crittenden,EARLE,State Senate,09,REP,Terry Fuller,153,0,43,10,100
+Crittenden,CRAWFORDSVILLE,State Senate,09,REP,Terry Fuller,263,0,104,0,159
+Crittenden,MARION SCHOOL,State Senate,09,REP,Terry Fuller,1197,1,919,17,260
+Crittenden,MARION CHURCH OF GOD,State Senate,09,REP,Terry Fuller,676,1,508,7,160
+Crittenden,TABERNACLE OF GOD CHURCH,State Senate,09,REP,Terry Fuller,546,0,378,8,160
+Crittenden,HORSESHOE LAKE,State Senate,09,REP,Terry Fuller,194,3,31,1,159
+Crittenden,JERICHO CITY HALL,State Senate,09,REP,Terry Fuller,138,0,99,0,39
+Crittenden,ANTHONYVILLE CITY HALL,State Senate,09,REP,Terry Fuller,1,0,0,0,1
+Crittenden,1ST BAPTIST CHURCH WMPH,State Senate,09,DEM,State Representative Reginald Murdock,227,0,158,4,65
+Crittenden,WM HIGH SCHOOL,State Senate,09,DEM,State Representative Reginald Murdock,839,5,581,17,236
+Crittenden,CIVIC CENTER,State Senate,09,DEM,State Representative Reginald Murdock,554,0,288,21,245
+Crittenden,JACKSON NEIGHBORHOOD CENTER,State Senate,09,DEM,State Representative Reginald Murdock,467,7,219,31,210
+Crittenden,CALVARY WMPH,State Senate,09,DEM,State Representative Reginald Murdock,102,0,53,0,49
+Crittenden,7TH STREET CHURCH WMPH,State Senate,09,DEM,State Representative Reginald Murdock,533,0,288,14,231
+Crittenden,WONDER BOYS CLUB,State Senate,09,DEM,State Representative Reginald Murdock,208,1,110,16,81
+Crittenden,EDMONDSON,State Senate,09,DEM,State Representative Reginald Murdock,85,0,18,2,65
+Crittenden,GILMORE,State Senate,09,DEM,State Representative Reginald Murdock,43,0,6,0,37
+Crittenden,TURRELL FIRE STATION,State Senate,09,DEM,State Representative Reginald Murdock,124,0,22,6,96
+Crittenden,EARLE,State Senate,09,DEM,State Representative Reginald Murdock,421,1,91,13,316
+Crittenden,CRAWFORDSVILLE,State Senate,09,DEM,State Representative Reginald Murdock,132,0,37,1,94
+Crittenden,MARION SCHOOL,State Senate,09,DEM,State Representative Reginald Murdock,672,0,478,19,175
+Crittenden,MARION CHURCH OF GOD,State Senate,09,DEM,State Representative Reginald Murdock,312,0,194,8,110
+Crittenden,TABERNACLE OF GOD CHURCH,State Senate,09,DEM,State Representative Reginald Murdock,473,0,304,5,164
+Crittenden,HORSESHOE LAKE,State Senate,09,DEM,State Representative Reginald Murdock,29,1,6,0,22
+Crittenden,JERICHO CITY HALL,State Senate,09,DEM,State Representative Reginald Murdock,47,0,16,1,30
+Crittenden,ANTHONYVILLE CITY HALL,State Senate,09,DEM,State Representative Reginald Murdock,37,0,1,0,36
+Crittenden,1ST BAPTIST CHURCH WMPH,Prosecuting Attorney,02,NON,Sonia Fonticiella,415,0,319,9,87
+Crittenden,WM HIGH SCHOOL,Prosecuting Attorney,02,NON,Sonia Fonticiella,1142,5,834,17,286
+Crittenden,CIVIC CENTER,Prosecuting Attorney,02,NON,Sonia Fonticiella,410,0,206,18,186
+Crittenden,JACKSON NEIGHBORHOOD CENTER,Prosecuting Attorney,02,NON,Sonia Fonticiella,320,4,153,22,141
+Crittenden,CALVARY WMPH,Prosecuting Attorney,02,NON,Sonia Fonticiella,154,0,88,0,66
+Crittenden,7TH STREET CHURCH WMPH,Prosecuting Attorney,02,NON,Sonia Fonticiella,359,0,185,10,164
+Crittenden,WONDER BOYS CLUB,Prosecuting Attorney,02,NON,Sonia Fonticiella,176,0,95,15,66
+Crittenden,EDMONDSON,Prosecuting Attorney,02,NON,Sonia Fonticiella,96,0,36,1,59
+Crittenden,GILMORE,Prosecuting Attorney,02,NON,Sonia Fonticiella,29,0,7,0,22
+Crittenden,TURRELL FIRE STATION,Prosecuting Attorney,02,NON,Sonia Fonticiella,114,0,31,5,78
+Crittenden,EARLE,Prosecuting Attorney,02,NON,Sonia Fonticiella,333,1,68,16,248
+Crittenden,CRAWFORDSVILLE,Prosecuting Attorney,02,NON,Sonia Fonticiella,210,0,77,0,133
+Crittenden,MARION SCHOOL,Prosecuting Attorney,02,NON,Sonia Fonticiella,1176,1,892,25,258
+Crittenden,MARION CHURCH OF GOD,Prosecuting Attorney,02,NON,Sonia Fonticiella,616,0,449,12,155
+Crittenden,TABERNACLE OF GOD CHURCH,Prosecuting Attorney,02,NON,Sonia Fonticiella,626,0,415,6,205
+Crittenden,HORSESHOE LAKE,Prosecuting Attorney,02,NON,Sonia Fonticiella,89,1,16,1,71
+Crittenden,JERICHO CITY HALL,Prosecuting Attorney,02,NON,Sonia Fonticiella,101,0,64,0,37
+Crittenden,ANTHONYVILLE CITY HALL,Prosecuting Attorney,02,NON,Sonia Fonticiella,29,0,1,0,28
+Crittenden,1ST BAPTIST CHURCH WMPH,Prosecuting Attorney,02,NON,Martin E. Lilly,244,0,180,0,64
+Crittenden,WM HIGH SCHOOL,Prosecuting Attorney,02,NON,Martin E. Lilly,575,2,410,15,148
+Crittenden,CIVIC CENTER,Prosecuting Attorney,02,NON,Martin E. Lilly,148,1,74,1,72
+Crittenden,JACKSON NEIGHBORHOOD CENTER,Prosecuting Attorney,02,NON,Martin E. Lilly,84,2,30,4,48
+Crittenden,CALVARY WMPH,Prosecuting Attorney,02,NON,Martin E. Lilly,98,0,48,2,48
+Crittenden,7TH STREET CHURCH WMPH,Prosecuting Attorney,02,NON,Martin E. Lilly,157,0,80,2,75
+Crittenden,WONDER BOYS CLUB,Prosecuting Attorney,02,NON,Martin E. Lilly,57,1,30,1,25
+Crittenden,EDMONDSON,Prosecuting Attorney,02,NON,Martin E. Lilly,59,0,17,3,39
+Crittenden,GILMORE,Prosecuting Attorney,02,NON,Martin E. Lilly,24,0,0,0,24
+Crittenden,TURRELL FIRE STATION,Prosecuting Attorney,02,NON,Martin E. Lilly,67,0,22,1,44
+Crittenden,EARLE,Prosecuting Attorney,02,NON,Martin E. Lilly,165,0,43,4,118
+Crittenden,CRAWFORDSVILLE,Prosecuting Attorney,02,NON,Martin E. Lilly,131,0,50,0,81
+Crittenden,MARION SCHOOL,Prosecuting Attorney,02,NON,Martin E. Lilly,525,0,376,9,140
+Crittenden,MARION CHURCH OF GOD,Prosecuting Attorney,02,NON,Martin E. Lilly,286,1,191,3,91
+Crittenden,TABERNACLE OF GOD CHURCH,Prosecuting Attorney,02,NON,Martin E. Lilly,325,0,214,5,106
+Crittenden,HORSESHOE LAKE,Prosecuting Attorney,02,NON,Martin E. Lilly,110,3,21,0,86
+Crittenden,JERICHO CITY HALL,Prosecuting Attorney,02,NON,Martin E. Lilly,66,0,40,0,26
+Crittenden,ANTHONYVILLE CITY HALL,Prosecuting Attorney,02,NON,Martin E. Lilly,6,0,0,0,6
+Crittenden,WM HIGH SCHOOL,State House,35,DEM,Rep. Milton Nicks Jr.,0,0,0,0,0
+Crittenden,CIVIC CENTER,State House,35,DEM,Rep. Milton Nicks Jr.,15,0,8,0,7
+Crittenden,JACKSON NEIGHBORHOOD CENTER,State House,35,DEM,Rep. Milton Nicks Jr.,242,4,102,22,114
+Crittenden,7TH STREET CHURCH WMPH,State House,35,DEM,Rep. Milton Nicks Jr.,542,0,287,14,241
+Crittenden,WONDER BOYS CLUB,State House,35,DEM,Rep. Milton Nicks Jr.,240,1,130,15,94
+Crittenden,GILMORE,State House,35,DEM,Rep. Milton Nicks Jr.,57,0,9,0,48
+Crittenden,TURRELL FIRE STATION,State House,35,DEM,Rep. Milton Nicks Jr.,180,0,44,5,131
+Crittenden,EARLE,State House,35,DEM,Rep. Milton Nicks Jr.,555,1,125,23,406
+Crittenden,CRAWFORDSVILLE,State House,35,DEM,Rep. Milton Nicks Jr.,306,0,101,1,204
+Crittenden,MARION SCHOOL,State House,35,DEM,Rep. Milton Nicks Jr.,1544,0,1151,29,364
+Crittenden,MARION CHURCH OF GOD,State House,35,DEM,Rep. Milton Nicks Jr.,804,1,555,15,233
+Crittenden,TABERNACLE OF GOD CHURCH,State House,35,DEM,Rep. Milton Nicks Jr.,875,0,580,9,286
+Crittenden,JERICHO CITY HALL,State House,35,DEM,Rep. Milton Nicks Jr.,143,0,87,1,55
+Crittenden,1ST BAPTIST CHURCH WMPH,State House,63,DEM,Representative Deborah Ferguson,578,0,427,9,142
+Crittenden,WM HIGH SCHOOL,State House,63,DEM,Representative Deborah Ferguson,1630,6,1179,32,413
+Crittenden,CIVIC CENTER,State House,63,DEM,Representative Deborah Ferguson,587,1,306,21,259
+Crittenden,JACKSON NEIGHBORHOOD CENTER,State House,63,DEM,Representative Deborah Ferguson,200,2,99,7,92
+Crittenden,CALVARY WMPH,State House,63,DEM,Representative Deborah Ferguson,218,0,113,0,105
+Crittenden,EDMONDSON,State House,63,DEM,Representative Deborah Ferguson,137,0,43,5,89
+Crittenden,HORSESHOE LAKE,State House,63,DEM,Representative Deborah Ferguson,147,3,25,0,119
+Crittenden,ANTHONYVILLE CITY HALL,State House,63,DEM,Representative Deborah Ferguson,36,0,1,0,35
+Crittenden,1ST BAPTIST CHURCH WMPH,CIRCUIT CLERK,,DEM,DEM TERRY HAWKINS,581,0,425,9,147
+Crittenden,WM HIGH SCHOOL,CIRCUIT CLERK,,DEM,DEM TERRY HAWKINS,1584,6,1140,33,405
+Crittenden,CIVIC CENTER,CIRCUIT CLERK,,DEM,DEM TERRY HAWKINS,589,1,306,20,262
+Crittenden,JACKSON NEIGHBORHOOD CENTER,CIRCUIT CLERK,,DEM,DEM TERRY HAWKINS,453,7,206,32,208
+Crittenden,CALVARY WMPH,CIRCUIT CLERK,,DEM,DEM TERRY HAWKINS,220,0,113,0,107
+Crittenden,7TH STREET CHURCH WMPH,CIRCUIT CLERK,,DEM,DEM TERRY HAWKINS,553,0,290,16,247
+Crittenden,WONDER BOYS CLUB,CIRCUIT CLERK,,DEM,DEM TERRY HAWKINS,243,1,133,14,95
+Crittenden,EDMONDSON,CIRCUIT CLERK,,DEM,DEM TERRY HAWKINS,137,0,42,4,91
+Crittenden,GILMORE,CIRCUIT CLERK,,DEM,DEM TERRY HAWKINS,57,0,9,0,48
+Crittenden,TURRELL FIRE STATION,CIRCUIT CLERK,,DEM,DEM TERRY HAWKINS,177,0,45,6,126
+Crittenden,EARLE,CIRCUIT CLERK,,DEM,DEM TERRY HAWKINS,530,1,116,22,391
+Crittenden,CRAWFORDSVILLE,CIRCUIT CLERK,,DEM,DEM TERRY HAWKINS,298,0,104,1,193
+Crittenden,MARION SCHOOL,CIRCUIT CLERK,,DEM,DEM TERRY HAWKINS,1525,0,1132,29,364
+Crittenden,MARION CHURCH OF GOD,CIRCUIT CLERK,,DEM,DEM TERRY HAWKINS,794,1,550,13,230
+Crittenden,TABERNACLE OF GOD CHURCH,CIRCUIT CLERK,,DEM,DEM TERRY HAWKINS,881,0,579,9,293
+Crittenden,HORSESHOE LAKE,CIRCUIT CLERK,,DEM,DEM TERRY HAWKINS,147,3,23,1,120
+Crittenden,JERICHO CITY HALL,CIRCUIT CLERK,,DEM,DEM TERRY HAWKINS,142,0,87,1,54
+Crittenden,ANTHONYVILLE CITY HALL,CIRCUIT CLERK,,DEM,DEM TERRY HAWKINS,34,0,1,0,33
+Crittenden,1ST BAPTIST CHURCH WMPH,COUNTY CLERK, CRITTENDEN COUNTY,REP,REP LINDA FRITZ,422,0,337,4,81
+Crittenden,WM HIGH SCHOOL,COUNTY CLERK, CRITTENDEN COUNTY,REP,REP LINDA FRITZ,903,3,684,11,205
+Crittenden,CIVIC CENTER,COUNTY CLERK, CRITTENDEN COUNTY,REP,REP LINDA FRITZ,78,2,46,0,30
+Crittenden,JACKSON NEIGHBORHOOD CENTER,COUNTY CLERK, CRITTENDEN COUNTY,REP,REP LINDA FRITZ,10,0,2,0,8
+Crittenden,CALVARY WMPH,COUNTY CLERK, CRITTENDEN COUNTY,REP,REP LINDA FRITZ,132,0,75,2,55
+Crittenden,7TH STREET CHURCH WMPH,COUNTY CLERK, CRITTENDEN COUNTY,REP,REP LINDA FRITZ,41,0,21,1,19
+Crittenden,WONDER BOYS CLUB,COUNTY CLERK, CRITTENDEN COUNTY,REP,REP LINDA FRITZ,43,0,27,0,16
+Crittenden,EDMONDSON,COUNTY CLERK, CRITTENDEN COUNTY,REP,REP LINDA FRITZ,88,0,39,2,47
+Crittenden,GILMORE,COUNTY CLERK, CRITTENDEN COUNTY,REP,REP LINDA FRITZ,19,0,3,0,16
+Crittenden,TURRELL FIRE STATION,COUNTY CLERK, CRITTENDEN COUNTY,REP,REP LINDA FRITZ,80,0,31,0,49
+Crittenden,EARLE,COUNTY CLERK, CRITTENDEN COUNTY,REP,REP LINDA FRITZ,120,0,43,3,74
+Crittenden,CRAWFORDSVILLE,COUNTY CLERK, CRITTENDEN COUNTY,REP,REP LINDA FRITZ,239,0,95,0,144
+Crittenden,MARION SCHOOL,COUNTY CLERK, CRITTENDEN COUNTY,REP,REP LINDA FRITZ,1067,1,812,13,241
+Crittenden,MARION CHURCH OF GOD,COUNTY CLERK, CRITTENDEN COUNTY,REP,REP LINDA FRITZ,601,1,451,6,143
+Crittenden,TABERNACLE OF GOD CHURCH,COUNTY CLERK, CRITTENDEN COUNTY,REP,REP LINDA FRITZ,486,0,330,8,148
+Crittenden,HORSESHOE LAKE,COUNTY CLERK, CRITTENDEN COUNTY,REP,REP LINDA FRITZ,153,3,24,0,126
+Crittenden,JERICHO CITY HALL,COUNTY CLERK, CRITTENDEN COUNTY,REP,REP LINDA FRITZ,127,0,92,0,35
+Crittenden,ANTHONYVILLE CITY HALL,COUNTY CLERK, CRITTENDEN COUNTY,REP,REP LINDA FRITZ,1,0,0,0,1
+Crittenden,1ST BAPTIST CHURCH WMPH,COUNTY CLERK, CRITTENDEN COUNTY,DEM,DEM PAULA BROWN,305,0,216,7,82
+Crittenden,WM HIGH SCHOOL,COUNTY CLERK, CRITTENDEN COUNTY,DEM,DEM PAULA BROWN,1003,5,713,28,257
+Crittenden,CIVIC CENTER,COUNTY CLERK, CRITTENDEN COUNTY,DEM,DEM PAULA BROWN,575,0,297,22,256
+Crittenden,JACKSON NEIGHBORHOOD CENTER,COUNTY CLERK, CRITTENDEN COUNTY,DEM,DEM PAULA BROWN,483,7,229,33,214
+Crittenden,CALVARY WMPH,COUNTY CLERK, CRITTENDEN COUNTY,DEM,DEM PAULA BROWN,131,0,69,0,62
+Crittenden,7TH STREET CHURCH WMPH,COUNTY CLERK, CRITTENDEN COUNTY,DEM,DEM PAULA BROWN,554,0,298,15,241
+Crittenden,WONDER BOYS CLUB,COUNTY CLERK, CRITTENDEN COUNTY,DEM,DEM PAULA BROWN,222,1,117,16,88
+Crittenden,EDMONDSON,COUNTY CLERK, CRITTENDEN COUNTY,DEM,DEM PAULA BROWN,91,0,23,3,65
+Crittenden,GILMORE,COUNTY CLERK, CRITTENDEN COUNTY,DEM,DEM PAULA BROWN,49,0,6,0,43
+Crittenden,TURRELL FIRE STATION,COUNTY CLERK, CRITTENDEN COUNTY,DEM,DEM PAULA BROWN,135,0,26,6,103
+Crittenden,EARLE,COUNTY CLERK, CRITTENDEN COUNTY,DEM,DEM PAULA BROWN,462,1,93,20,348
+Crittenden,CRAWFORDSVILLE,COUNTY CLERK, CRITTENDEN COUNTY,DEM,DEM PAULA BROWN,149,0,45,1,103
+Crittenden,MARION SCHOOL,COUNTY CLERK, CRITTENDEN COUNTY,DEM,DEM PAULA BROWN,795,0,578,23,194
+Crittenden,MARION CHURCH OF GOD,COUNTY CLERK, CRITTENDEN COUNTY,DEM,DEM PAULA BROWN,384,0,249,10,125
+Crittenden,TABERNACLE OF GOD CHURCH,COUNTY CLERK, CRITTENDEN COUNTY,DEM,DEM PAULA BROWN,535,0,355,5,175
+Crittenden,HORSESHOE LAKE,COUNTY CLERK, CRITTENDEN COUNTY,DEM,DEM PAULA BROWN,67,1,12,1,53
+Crittenden,JERICHO CITY HALL,COUNTY CLERK, CRITTENDEN COUNTY,DEM,DEM PAULA BROWN,59,0,23,1,35
+Crittenden,ANTHONYVILLE CITY HALL,COUNTY CLERK, CRITTENDEN COUNTY,DEM,DEM PAULA BROWN,37,0,1,0,36
+Crittenden,1ST BAPTIST CHURCH WMPH,CORONER, CRITTENDEN COUNTY,REP,REP GREG SHEA,403,0,318,2,83
+Crittenden,WM HIGH SCHOOL,CORONER, CRITTENDEN COUNTY,REP,REP GREG SHEA,860,3,645,13,199
+Crittenden,CIVIC CENTER,CORONER, CRITTENDEN COUNTY,REP,REP GREG SHEA,70,2,43,0,25
+Crittenden,JACKSON NEIGHBORHOOD CENTER,CORONER, CRITTENDEN COUNTY,REP,REP GREG SHEA,18,0,6,2,10
+Crittenden,CALVARY WMPH,CORONER, CRITTENDEN COUNTY,REP,REP GREG SHEA,144,0,78,2,64
+Crittenden,7TH STREET CHURCH WMPH,CORONER, CRITTENDEN COUNTY,REP,REP GREG SHEA,40,0,23,3,14
+Crittenden,WONDER BOYS CLUB,CORONER, CRITTENDEN COUNTY,REP,REP GREG SHEA,38,0,24,0,14
+Crittenden,EDMONDSON,CORONER, CRITTENDEN COUNTY,REP,REP GREG SHEA,79,0,35,2,42
+Crittenden,GILMORE,CORONER, CRITTENDEN COUNTY,REP,REP GREG SHEA,22,0,2,0,20
+Crittenden,TURRELL FIRE STATION,CORONER, CRITTENDEN COUNTY,REP,REP GREG SHEA,75,0,28,0,47
+Crittenden,EARLE,CORONER, CRITTENDEN COUNTY,REP,REP GREG SHEA,110,0,34,6,70
+Crittenden,CRAWFORDSVILLE,CORONER, CRITTENDEN COUNTY,REP,REP GREG SHEA,220,0,78,0,142
+Crittenden,MARION SCHOOL,CORONER, CRITTENDEN COUNTY,REP,REP GREG SHEA,944,1,703,12,228
+Crittenden,MARION CHURCH OF GOD,CORONER, CRITTENDEN COUNTY,REP,REP GREG SHEA,537,1,396,6,134
+Crittenden,TABERNACLE OF GOD CHURCH,CORONER, CRITTENDEN COUNTY,REP,REP GREG SHEA,449,0,304,5,140
+Crittenden,HORSESHOE LAKE,CORONER, CRITTENDEN COUNTY,REP,REP GREG SHEA,187,3,30,1,153
+Crittenden,JERICHO CITY HALL,CORONER, CRITTENDEN COUNTY,REP,REP GREG SHEA,126,0,87,0,39
+Crittenden,ANTHONYVILLE CITY HALL,CORONER, CRITTENDEN COUNTY,REP,REP GREG SHEA,4,0,1,0,3
+Crittenden,1ST BAPTIST CHURCH WMPH,CORONER, CRITTENDEN COUNTY,DEM,DEM WILLIAM L. WOLFE,317,0,228,9,80
+Crittenden,WM HIGH SCHOOL,CORONER, CRITTENDEN COUNTY,DEM,DEM WILLIAM L. WOLFE,1047,5,755,23,264
+Crittenden,CIVIC CENTER,CORONER, CRITTENDEN COUNTY,DEM,DEM WILLIAM L. WOLFE,595,0,308,21,266
+Crittenden,JACKSON NEIGHBORHOOD CENTER,CORONER, CRITTENDEN COUNTY,DEM,DEM WILLIAM L. WOLFE,485,7,226,31,221
+Crittenden,CALVARY WMPH,CORONER, CRITTENDEN COUNTY,DEM,DEM WILLIAM L. WOLFE,124,0,70,0,54
+Crittenden,7TH STREET CHURCH WMPH,CORONER, CRITTENDEN COUNTY,DEM,DEM WILLIAM L. WOLFE,557,0,295,13,249
+Crittenden,WONDER BOYS CLUB,CORONER, CRITTENDEN COUNTY,DEM,DEM WILLIAM L. WOLFE,225,1,120,15,89
+Crittenden,EDMONDSON,CORONER, CRITTENDEN COUNTY,DEM,DEM WILLIAM L. WOLFE,99,0,26,3,70
+Crittenden,GILMORE,CORONER, CRITTENDEN COUNTY,DEM,DEM WILLIAM L. WOLFE,47,0,7,0,40
+Crittenden,TURRELL FIRE STATION,CORONER, CRITTENDEN COUNTY,DEM,DEM WILLIAM L. WOLFE,140,0,31,6,103
+Crittenden,EARLE,CORONER, CRITTENDEN COUNTY,DEM,DEM WILLIAM L. WOLFE,465,1,102,17,345
+Crittenden,CRAWFORDSVILLE,CORONER, CRITTENDEN COUNTY,DEM,DEM WILLIAM L. WOLFE,169,0,62,1,106
+Crittenden,MARION SCHOOL,CORONER, CRITTENDEN COUNTY,DEM,DEM WILLIAM L. WOLFE,916,0,684,24,208
+Crittenden,MARION CHURCH OF GOD,CORONER, CRITTENDEN COUNTY,DEM,DEM WILLIAM L. WOLFE,450,0,307,10,133
+Crittenden,TABERNACLE OF GOD CHURCH,CORONER, CRITTENDEN COUNTY,DEM,DEM WILLIAM L. WOLFE,572,0,381,8,183
+Crittenden,HORSESHOE LAKE,CORONER, CRITTENDEN COUNTY,DEM,DEM WILLIAM L. WOLFE,34,1,7,0,26
+Crittenden,JERICHO CITY HALL,CORONER, CRITTENDEN COUNTY,DEM,DEM WILLIAM L. WOLFE,60,0,28,1,31
+Crittenden,ANTHONYVILLE CITY HALL,CORONER, CRITTENDEN COUNTY,DEM,DEM WILLIAM L. WOLFE,33,0,0,0,33
+Crittenden,MARION SCHOOL,JUSTICE OF THE PEACE JP 8,,DEM,DEM VANESSA BASEMORE,279,0,197,5,77
+Crittenden,TABERNACLE OF GOD CHURCH,JUSTICE OF THE PEACE JP 8,,DEM,DEM VANESSA BASEMORE,114,0,75,2,37
+Crittenden,MARION SCHOOL,JUSTICE OF THE PEACE JP 8,,REP,"REP ROBERT THORNE, JR.",512,0,376,8,128
+Crittenden,TABERNACLE OF GOD CHURCH,JUSTICE OF THE PEACE JP 8,,REP,"REP ROBERT THORNE, JR.",268,0,198,3,67
+Crittenden,ANTHONYVILLE CITY HALL,MAYOR, CITY OF ANTHONYVILLE,NON,"LEROY C. WRIGHT, SR",38,0,1,0,37
+Crittenden,JERICHO CITY HALL,MAYOR, CITY OF CLARKEDALE,NON,"SAMUEL H STUCKEY, JR",108,0,76,1,31
+Crittenden,CRAWFORDSVILLE,MAYOR, CITY OF CRAWFORDSVILLE,NON,JOE MAROTTI,141,0,44,0,97
+Crittenden,EARLE,MAYOR, CITY OF EARLE,NON,RAMONDA HENDERSON,13,0,3,0,10
+Crittenden,EARLE,MAYOR, CITY OF EARLE,NON,"NEMI MATTHEWS, SR.",171,1,42,13,115
+Crittenden,EARLE,MAYOR, CITY OF EARLE,NON,DONALD R STONE,120,0,30,8,82
+Crittenden,EARLE,MAYOR, CITY OF EARLE,NON,BARBARA A. BOOKER-ADKINS,15,0,3,0,12
+Crittenden,EARLE,MAYOR, CITY OF EARLE,NON,JAYLEN SMITH,205,0,29,1,175
+Crittenden,EARLE,CITY CLERK, CITY OF EARLE,NON,CYNTHIA L CONNER,489,1,102,21,365
+Crittenden,EARLE,POSITION WARD 2-1, CITY OF EARLE,NON,ANN PICKERING-PHILYAW,37,0,10,5,22
+Crittenden,EARLE,POSITION WARD 2-1, CITY OF EARLE,NON,CLAUDIE M. FORREST,129,0,30,5,94
+Crittenden,EARLE,POSITION WARD 4-1, CITY OF EARLE,NON,ANGELA R. JONES,75,0,12,5,58
+Crittenden,EARLE,POSITION WARD 4-1, CITY OF EARLE,NON,"DEMETRIS JOHNSON, SR.",59,0,3,0,56
+Crittenden,EDMONDSON,MAYOR, CITY OF EDMONDSON,NON,COLT L BOYD,39,0,19,1,19
+Crittenden,EDMONDSON,MAYOR, CITY OF EDMONDSON,NON,SIDNEY THOMAS PRACKETT,55,0,11,1,43
+Crittenden,EDMONDSON,MAYOR, CITY OF EDMONDSON,NON,"ART GILLARD, JR.",18,0,5,0,13
+Crittenden,EDMONDSON,RECORDER/TREASURER, CITY OF EDMONDSON,NON,"HAYWARD SHAW, JR",62,0,13,2,47
+Crittenden,EDMONDSON,RECORDER/TREASURER, CITY OF EDMONDSON,NON,LARRY MOORE,46,0,23,0,23
+Crittenden,EDMONDSON,POSITION 2, CITY OF EDMONDSON,NON,OSCAR MATTHEW,53,0,10,2,41
+Crittenden,EDMONDSON,POSITION 2, CITY OF EDMONDSON,NON,GARY CORDELL,56,0,26,0,30
+Crittenden,EDMONDSON,POSITION 4, CITY OF EDMONDSON,NON,SONA JOHNSON,30,0,12,2,16
+Crittenden,EDMONDSON,POSITION 4, CITY OF EDMONDSON,NON,TRAVIS TATE,68,0,20,0,48
+Crittenden,GILMORE,MAYOR, CITY OF GILMORE,NON,BRUCE DELANEY,61,0,8,0,53
+Crittenden,GILMORE,POSITION 1, CITY OF GILMORE,NON,"CECIL ELMORE, JR",38,0,5,0,33
+Crittenden,GILMORE,POSITION 1, CITY OF GILMORE,NON,KYLE KLINE,23,0,4,0,19
+Crittenden,HORSESHOE LAKE,MAYOR, CITY OF HORSESHOE,NON,GARRY HAHNE,86,2,15,1,68
+Crittenden,CRAWFORDSVILLE,MAYOR, CITY OF JENNETTE,NON,"JAMES HENDERSON, JR",29,0,4,0,25
+Crittenden,JERICHO CITY HALL,MAYOR, CITY OF JERICHO,NON,IDA SHUMPERT,32,0,7,0,25
+Crittenden,JERICHO CITY HALL,POSITION 2, CITY OF JERICHO,NON,BETTY POLLARD,15,0,2,0,13
+Crittenden,JERICHO CITY HALL,POSITION 2, CITY OF JERICHO,NON,JUANITA EDWARDS,22,0,9,0,13
+Crittenden,JERICHO CITY HALL,POSITION 3, CITY OF JERICHO,NON,DON PAYNE,18,0,7,0,11
+Crittenden,JERICHO CITY HALL,POSITION 3, CITY OF JERICHO,NON,TANYA WITT,19,0,4,0,15
+Crittenden,MARION SCHOOL,MAYOR, CITY OF MARION,NON,TRACY BRICK,1460,1,1101,24,334
+Crittenden,MARION CHURCH OF GOD,MAYOR, CITY OF MARION,NON,TRACY BRICK,791,1,564,13,213
+Crittenden,TABERNACLE OF GOD CHURCH,MAYOR, CITY OF MARION,NON,TRACY BRICK,883,0,591,9,283
+Crittenden,MARION SCHOOL,CITY CLERK, CITY OF MARION,NON,PATTY JAMES,1359,1,1020,22,316
+Crittenden,MARION CHURCH OF GOD,CITY CLERK, CITY OF MARION,NON,PATTY JAMES,750,1,524,14,211
+Crittenden,TABERNACLE OF GOD CHURCH,CITY CLERK, CITY OF MARION,NON,PATTY JAMES,847,0,558,9,280
+Crittenden,MARION SCHOOL,CITY ATTORNEY, CITY OF MARION,NON,RACHAEL VAUGHN,653,0,473,12,168
+Crittenden,MARION CHURCH OF GOD,CITY ATTORNEY, CITY OF MARION,NON,RACHAEL VAUGHN,350,0,216,13,121
+Crittenden,TABERNACLE OF GOD CHURCH,CITY ATTORNEY, CITY OF MARION,NON,RACHAEL VAUGHN,515,0,324,5,186
+Crittenden,MARION SCHOOL,CITY ATTORNEY, CITY OF MARION,NON,CHRISTOPHER HALE CRAIN,829,1,639,12,177
+Crittenden,MARION CHURCH OF GOD,CITY ATTORNEY, CITY OF MARION,NON,CHRISTOPHER HALE CRAIN,471,1,370,3,97
+Crittenden,TABERNACLE OF GOD CHURCH,CITY ATTORNEY, CITY OF MARION,NON,CHRISTOPHER HALE CRAIN,383,0,288,5,90
+Crittenden,MARION SCHOOL,POSITION WARD 1-2, CITY OF MARION,NON,ADAM CUPPLES,1031,1,753,15,262
+Crittenden,MARION CHURCH OF GOD,POSITION WARD 1-2, CITY OF MARION,NON,ADAM CUPPLES,507,1,351,6,149
+Crittenden,TABERNACLE OF GOD CHURCH,POSITION WARD 1-2, CITY OF MARION,NON,ADAM CUPPLES,613,0,424,6,183
+Crittenden,MARION SCHOOL,POSITION WARD 1-2, CITY OF MARION,NON,BRAD MOORE,192,0,144,2,46
+Crittenden,MARION CHURCH OF GOD,POSITION WARD 1-2, CITY OF MARION,NON,BRAD MOORE,113,0,78,5,30
+Crittenden,TABERNACLE OF GOD CHURCH,POSITION WARD 1-2, CITY OF MARION,NON,BRAD MOORE,142,0,90,2,50
+Crittenden,MARION SCHOOL,POSITION WARD 1-2, CITY OF MARION,NON,COUNCILMAN DAVID BIGGER,319,0,264,8,47
+Crittenden,MARION CHURCH OF GOD,POSITION WARD 1-2, CITY OF MARION,NON,COUNCILMAN DAVID BIGGER,230,0,178,4,48
+Crittenden,TABERNACLE OF GOD CHURCH,POSITION WARD 1-2, CITY OF MARION,NON,COUNCILMAN DAVID BIGGER,165,0,113,3,49
+Crittenden,MARION SCHOOL,POSITION WARD 3-2, CITY OF MARION,NON,RAY NASSAR,595,1,442,7,145
+Crittenden,MARION CHURCH OF GOD,POSITION WARD 3-2, CITY OF MARION,NON,RAY NASSAR,320,0,240,1,79
+Crittenden,TABERNACLE OF GOD CHURCH,POSITION WARD 3-2, CITY OF MARION,NON,RAY NASSAR,299,0,203,3,93
+Crittenden,MARION SCHOOL,POSITION WARD 3-2, CITY OF MARION,NON,L. MICHELLE SCHWARTZ,511,0,397,11,103
+Crittenden,MARION CHURCH OF GOD,POSITION WARD 3-2, CITY OF MARION,NON,L. MICHELLE SCHWARTZ,277,0,214,4,59
+Crittenden,TABERNACLE OF GOD CHURCH,POSITION WARD 3-2, CITY OF MARION,NON,L. MICHELLE SCHWARTZ,195,0,130,1,64
+Crittenden,MARION SCHOOL,POSITION WARD 3-2, CITY OF MARION,NON,SHERRY HOLLIMAN,422,0,311,7,104
+Crittenden,MARION CHURCH OF GOD,POSITION WARD 3-2, CITY OF MARION,NON,SHERRY HOLLIMAN,229,1,138,10,80
+Crittenden,TABERNACLE OF GOD CHURCH,POSITION WARD 3-2, CITY OF MARION,NON,SHERRY HOLLIMAN,413,0,279,7,127
+Crittenden,MARION SCHOOL,MAYOR, CITY OF SUNSET,NON,ERICA PARKER,7,0,5,0,2
+Crittenden,MARION SCHOOL,MAYOR, CITY OF SUNSET,NON,R. LYNN BROWN,5,0,2,0,3
+Crittenden,MARION SCHOOL,MAYOR, CITY OF SUNSET,NON,LENSEY HAYES,40,0,24,6,10
+Crittenden,TURRELL FIRE STATION,MAYOR, CITY OF TURRELL,NON,DOROTHY DYSON COOPER,34,0,5,0,29
+Crittenden,TURRELL FIRE STATION,MAYOR, CITY OF TURRELL,NON,CHARLES EDWARD WEBSTER,134,0,26,6,102
+Crittenden,1ST BAPTIST CHURCH WMPH,MAYOR, CITY OF WEST MEMPHIS,NON,MARCO MCCLENDON,257,0,178,3,76
+Crittenden,WM HIGH SCHOOL,MAYOR, CITY OF WEST MEMPHIS,NON,MARCO MCCLENDON,820,4,566,17,233
+Crittenden,CIVIC CENTER,MAYOR, CITY OF WEST MEMPHIS,NON,MARCO MCCLENDON,561,0,286,20,255
+Crittenden,JACKSON NEIGHBORHOOD CENTER,MAYOR, CITY OF WEST MEMPHIS,NON,MARCO MCCLENDON,433,7,198,22,206
+Crittenden,CALVARY WMPH,MAYOR, CITY OF WEST MEMPHIS,NON,MARCO MCCLENDON,123,0,74,0,49
+Crittenden,7TH STREET CHURCH WMPH,MAYOR, CITY OF WEST MEMPHIS,NON,MARCO MCCLENDON,536,0,276,16,244
+Crittenden,WONDER BOYS CLUB,MAYOR, CITY OF WEST MEMPHIS,NON,MARCO MCCLENDON,217,1,111,16,89
+Crittenden,1ST BAPTIST CHURCH WMPH,MAYOR, CITY OF WEST MEMPHIS,NON,WAYNE CROOM,432,0,348,6,78
+Crittenden,WM HIGH SCHOOL,MAYOR, CITY OF WEST MEMPHIS,NON,WAYNE CROOM,716,3,576,10,127
+Crittenden,CIVIC CENTER,MAYOR, CITY OF WEST MEMPHIS,NON,WAYNE CROOM,53,2,29,0,22
+Crittenden,JACKSON NEIGHBORHOOD CENTER,MAYOR, CITY OF WEST MEMPHIS,NON,WAYNE CROOM,10,0,3,0,7
+Crittenden,CALVARY WMPH,MAYOR, CITY OF WEST MEMPHIS,NON,WAYNE CROOM,129,0,68,2,59
+Crittenden,7TH STREET CHURCH WMPH,MAYOR, CITY OF WEST MEMPHIS,NON,WAYNE CROOM,26,0,20,0,6
+Crittenden,WONDER BOYS CLUB,MAYOR, CITY OF WEST MEMPHIS,NON,WAYNE CROOM,32,0,26,0,6
+Crittenden,1ST BAPTIST CHURCH WMPH,MAYOR, CITY OF WEST MEMPHIS,NON,JAMES PULLIAUM,39,0,29,1,9
+Crittenden,WM HIGH SCHOOL,MAYOR, CITY OF WEST MEMPHIS,NON,JAMES PULLIAUM,119,0,86,4,29
+Crittenden,CIVIC CENTER,MAYOR, CITY OF WEST MEMPHIS,NON,JAMES PULLIAUM,53,0,34,2,17
+Crittenden,JACKSON NEIGHBORHOOD CENTER,MAYOR, CITY OF WEST MEMPHIS,NON,JAMES PULLIAUM,81,0,44,11,26
+Crittenden,CALVARY WMPH,MAYOR, CITY OF WEST MEMPHIS,NON,JAMES PULLIAUM,15,0,5,0,10
+Crittenden,7TH STREET CHURCH WMPH,MAYOR, CITY OF WEST MEMPHIS,NON,JAMES PULLIAUM,52,0,35,0,17
+Crittenden,WONDER BOYS CLUB,MAYOR, CITY OF WEST MEMPHIS,NON,JAMES PULLIAUM,25,0,13,0,12
+Crittenden,1ST BAPTIST CHURCH WMPH,CITY CLERK, CITY OF WEST MEMPHIS,NON,PATRICIA A. JOPLIN,589,0,436,7,146
+Crittenden,WM HIGH SCHOOL,CITY CLERK, CITY OF WEST MEMPHIS,NON,PATRICIA A. JOPLIN,1393,6,1007,27,353
+Crittenden,CIVIC CENTER,CITY CLERK, CITY OF WEST MEMPHIS,NON,PATRICIA A. JOPLIN,576,1,293,22,260
+Crittenden,JACKSON NEIGHBORHOOD CENTER,CITY CLERK, CITY OF WEST MEMPHIS,NON,PATRICIA A. JOPLIN,441,7,197,31,206
+Crittenden,CALVARY WMPH,CITY CLERK, CITY OF WEST MEMPHIS,NON,PATRICIA A. JOPLIN,229,0,119,2,108
+Crittenden,7TH STREET CHURCH WMPH,CITY CLERK, CITY OF WEST MEMPHIS,NON,PATRICIA A. JOPLIN,523,0,277,15,231
+Crittenden,WONDER BOYS CLUB,CITY CLERK, CITY OF WEST MEMPHIS,NON,PATRICIA A. JOPLIN,227,1,124,16,86
+Crittenden,1ST BAPTIST CHURCH WMPH,CITY TREASURER, CITY OF WEST MEMPHIS,NON,HUBERT BASS,230,0,161,3,66
+Crittenden,WM HIGH SCHOOL,CITY TREASURER, CITY OF WEST MEMPHIS,NON,HUBERT BASS,557,1,397,10,149
+Crittenden,CIVIC CENTER,CITY TREASURER, CITY OF WEST MEMPHIS,NON,HUBERT BASS,380,1,186,4,189
+Crittenden,JACKSON NEIGHBORHOOD CENTER,CITY TREASURER, CITY OF WEST MEMPHIS,NON,HUBERT BASS,297,2,139,13,143
+Crittenden,CALVARY WMPH,CITY TREASURER, CITY OF WEST MEMPHIS,NON,HUBERT BASS,112,0,56,0,56
+Crittenden,7TH STREET CHURCH WMPH,CITY TREASURER, CITY OF WEST MEMPHIS,NON,HUBERT BASS,359,0,191,6,162
+Crittenden,WONDER BOYS CLUB,CITY TREASURER, CITY OF WEST MEMPHIS,NON,HUBERT BASS,158,1,93,6,58
+Crittenden,1ST BAPTIST CHURCH WMPH,CITY TREASURER, CITY OF WEST MEMPHIS,NON,"CHARLES L SUITER, JR",460,0,364,7,89
+Crittenden,WM HIGH SCHOOL,CITY TREASURER, CITY OF WEST MEMPHIS,NON,"CHARLES L SUITER, JR",1019,6,773,21,219
+Crittenden,CIVIC CENTER,CITY TREASURER, CITY OF WEST MEMPHIS,NON,"CHARLES L SUITER, JR",231,0,131,15,85
+Crittenden,JACKSON NEIGHBORHOOD CENTER,CITY TREASURER, CITY OF WEST MEMPHIS,NON,"CHARLES L SUITER, JR",155,5,66,20,64
+Crittenden,CALVARY WMPH,CITY TREASURER, CITY OF WEST MEMPHIS,NON,"CHARLES L SUITER, JR",141,0,84,2,55
+Crittenden,7TH STREET CHURCH WMPH,CITY TREASURER, CITY OF WEST MEMPHIS,NON,"CHARLES L SUITER, JR",207,0,109,10,88
+Crittenden,WONDER BOYS CLUB,CITY TREASURER, CITY OF WEST MEMPHIS,NON,"CHARLES L SUITER, JR",91,0,44,9,38
+Crittenden,CIVIC CENTER,POSITION WARD 2-1, CITY OF WEST MEMPHIS,NON,DR. GHERIC E. BRUCE,336,1,185,8,142
+Crittenden,JACKSON NEIGHBORHOOD CENTER,POSITION WARD 2-1, CITY OF WEST MEMPHIS,NON,DR. GHERIC E. BRUCE,161,1,86,5,69
+Crittenden,CIVIC CENTER,POSITION WARD 2-1, CITY OF WEST MEMPHIS,NON,JUSTIN STOKES,111,0,53,1,57
+Crittenden,JACKSON NEIGHBORHOOD CENTER,POSITION WARD 2-1, CITY OF WEST MEMPHIS,NON,JUSTIN STOKES,32,1,19,0,12
+Crittenden,CIVIC CENTER,POSITION WARD 2-1, CITY OF WEST MEMPHIS,NON,"JAIMIE ""JP"" PATTERSON",178,0,86,12,80
+Crittenden,JACKSON NEIGHBORHOOD CENTER,POSITION WARD 2-1, CITY OF WEST MEMPHIS,NON,"JAIMIE ""JP"" PATTERSON",87,1,37,2,47
+Crittenden,WM HIGH SCHOOL,POSITION WARD 3-1, CITY OF WEST MEMPHIS,NON,JAY HOLDER,187,1,130,1,55
+Crittenden,CALVARY WMPH,POSITION WARD 3-1, CITY OF WEST MEMPHIS,NON,JAY HOLDER,92,0,50,0,42
+Crittenden,WM HIGH SCHOOL,POSITION WARD 3-1, CITY OF WEST MEMPHIS,NON,CHARLES WHEELESS,591,2,453,10,126
+Crittenden,CALVARY WMPH,POSITION WARD 3-1, CITY OF WEST MEMPHIS,NON,CHARLES WHEELESS,163,0,92,2,69
+Crittenden,JACKSON NEIGHBORHOOD CENTER,POSITION WARD 5-1, CITY OF WEST MEMPHIS,NON,JOYCE GRAY,76,0,34,7,35
+Crittenden,WONDER BOYS CLUB,POSITION WARD 5-1, CITY OF WEST MEMPHIS,NON,JOYCE GRAY,101,0,69,3,29
+Crittenden,JACKSON NEIGHBORHOOD CENTER,POSITION WARD 5-1, CITY OF WEST MEMPHIS,NON,ANGELA EASON,26,0,8,2,16
+Crittenden,WONDER BOYS CLUB,POSITION WARD 5-1, CITY OF WEST MEMPHIS,NON,ANGELA EASON,61,0,21,0,40
+Crittenden,JACKSON NEIGHBORHOOD CENTER,POSITION WARD 5-1, CITY OF WEST MEMPHIS,NON,HELEN HARRIS,124,4,49,15,56
+Crittenden,WONDER BOYS CLUB,POSITION WARD 5-1, CITY OF WEST MEMPHIS,NON,HELEN HARRIS,98,1,51,13,33
+Crittenden,1ST BAPTIST CHURCH WMPH,WEST MEMPHIS CITY ORDINANCE,,NON,FOR,385,0,274,4,107
+Crittenden,WM HIGH SCHOOL,WEST MEMPHIS CITY ORDINANCE,,NON,FOR,962,4,693,21,244
+Crittenden,CIVIC CENTER,WEST MEMPHIS CITY ORDINANCE,,NON,FOR,451,2,222,17,210
+Crittenden,JACKSON NEIGHBORHOOD CENTER,WEST MEMPHIS CITY ORDINANCE,,NON,FOR,341,6,145,20,170
+Crittenden,CALVARY WMPH,WEST MEMPHIS CITY ORDINANCE,,NON,FOR,158,0,80,2,76
+Crittenden,7TH STREET CHURCH WMPH,WEST MEMPHIS CITY ORDINANCE,,NON,FOR,411,0,221,13,177
+Crittenden,WONDER BOYS CLUB,WEST MEMPHIS CITY ORDINANCE,,NON,FOR,179,1,88,16,74
+Crittenden,1ST BAPTIST CHURCH WMPH,WEST MEMPHIS CITY ORDINANCE,,NON,AGAINST,330,0,268,7,55
+Crittenden,WM HIGH SCHOOL,WEST MEMPHIS CITY ORDINANCE,,NON,AGAINST,635,1,488,10,136
+Crittenden,CIVIC CENTER,WEST MEMPHIS CITY ORDINANCE,,NON,AGAINST,168,0,97,4,67
+Crittenden,JACKSON NEIGHBORHOOD CENTER,WEST MEMPHIS CITY ORDINANCE,,NON,AGAINST,117,0,68,10,39
+Crittenden,CALVARY WMPH,WEST MEMPHIS CITY ORDINANCE,,NON,AGAINST,102,0,59,0,43
+Crittenden,7TH STREET CHURCH WMPH,WEST MEMPHIS CITY ORDINANCE,,NON,AGAINST,170,0,89,1,80
+Crittenden,WONDER BOYS CLUB,WEST MEMPHIS CITY ORDINANCE,,NON,AGAINST,70,0,44,0,26
+Crittenden,1ST BAPTIST CHURCH WMPH,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,333,0,243,2,88
+Crittenden,WM HIGH SCHOOL,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,931,2,649,11,269
+Crittenden,CIVIC CENTER,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,373,1,186,6,180
+Crittenden,JACKSON NEIGHBORHOOD CENTER,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,240,5,95,15,125
+Crittenden,CALVARY WMPH,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,134,0,71,0,63
+Crittenden,7TH STREET CHURCH WMPH,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,358,0,183,8,167
+Crittenden,WONDER BOYS CLUB,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,129,0,65,8,56
+Crittenden,EDMONDSON,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,78,0,34,2,42
+Crittenden,GILMORE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,25,0,1,0,24
+Crittenden,TURRELL FIRE STATION,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,101,0,25,2,74
+Crittenden,EARLE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,290,0,63,9,218
+Crittenden,CRAWFORDSVILLE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,167,0,52,0,115
+Crittenden,MARION SCHOOL,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,934,1,672,18,243
+Crittenden,MARION CHURCH OF GOD,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,469,1,320,9,139
+Crittenden,TABERNACLE OF GOD CHURCH,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,547,0,362,6,179
+Crittenden,HORSESHOE LAKE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,96,2,18,1,75
+Crittenden,JERICHO CITY HALL,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,69,0,43,1,25
+Crittenden,ANTHONYVILLE CITY HALL,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,23,0,1,0,22
+Crittenden,1ST BAPTIST CHURCH WMPH,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,362,0,285,8,69
+Crittenden,WM HIGH SCHOOL,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,845,4,649,20,172
+Crittenden,CIVIC CENTER,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,195,1,110,6,78
+Crittenden,JACKSON NEIGHBORHOOD CENTER,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,166,1,90,8,67
+Crittenden,CALVARY WMPH,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,113,0,63,2,48
+Crittenden,7TH STREET CHURCH WMPH,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,177,0,100,2,75
+Crittenden,WONDER BOYS CLUB,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,100,1,56,6,37
+Crittenden,EDMONDSON,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,79,0,24,1,54
+Crittenden,GILMORE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,38,0,8,0,30
+Crittenden,TURRELL FIRE STATION,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,80,0,32,1,47
+Crittenden,EARLE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,226,0,64,10,152
+Crittenden,CRAWFORDSVILLE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,195,0,76,0,119
+Crittenden,MARION SCHOOL,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,837,0,649,14,174
+Crittenden,MARION CHURCH OF GOD,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,468,0,345,7,116
+Crittenden,TABERNACLE OF GOD CHURCH,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,420,0,281,6,133
+Crittenden,HORSESHOE LAKE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,111,2,16,0,93
+Crittenden,JERICHO CITY HALL,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,105,0,63,0,42
+Crittenden,ANTHONYVILLE CITY HALL,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,13,0,0,0,13
+Crittenden,1ST BAPTIST CHURCH WMPH,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,363,0,266,2,95
+Crittenden,WM HIGH SCHOOL,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,979,1,701,17,260
+Crittenden,CIVIC CENTER,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,414,0,209,7,198
+Crittenden,JACKSON NEIGHBORHOOD CENTER,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,285,5,116,15,149
+Crittenden,CALVARY WMPH,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,148,0,79,2,67
+Crittenden,7TH STREET CHURCH WMPH,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,366,0,202,8,156
+Crittenden,WONDER BOYS CLUB,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,140,0,69,10,61
+Crittenden,EDMONDSON,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,88,0,31,1,56
+Crittenden,GILMORE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,36,0,5,0,31
+Crittenden,TURRELL FIRE STATION,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,112,0,28,3,81
+Crittenden,EARLE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,303,1,69,8,225
+Crittenden,CRAWFORDSVILLE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,196,0,64,0,132
+Crittenden,MARION SCHOOL,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,957,1,690,17,249
+Crittenden,MARION CHURCH OF GOD,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,519,0,371,4,144
+Crittenden,TABERNACLE OF GOD CHURCH,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,598,0,393,8,197
+Crittenden,HORSESHOE LAKE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,104,3,16,1,84
+Crittenden,JERICHO CITY HALL,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,106,0,70,0,36
+Crittenden,ANTHONYVILLE CITY HALL,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,22,0,1,0,21
+Crittenden,1ST BAPTIST CHURCH WMPH,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,332,0,259,8,65
+Crittenden,WM HIGH SCHOOL,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,800,7,596,15,182
+Crittenden,CIVIC CENTER,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,165,2,95,6,62
+Crittenden,JACKSON NEIGHBORHOOD CENTER,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,139,1,73,11,54
+Crittenden,CALVARY WMPH,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,104,0,58,0,46
+Crittenden,7TH STREET CHURCH WMPH,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,179,0,86,4,89
+Crittenden,WONDER BOYS CLUB,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,97,1,58,4,34
+Crittenden,EDMONDSON,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,73,0,26,2,45
+Crittenden,GILMORE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,24,0,3,0,21
+Crittenden,TURRELL FIRE STATION,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,67,0,29,0,38
+Crittenden,EARLE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,211,0,54,12,145
+Crittenden,CRAWFORDSVILLE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,169,0,65,1,103
+Crittenden,MARION SCHOOL,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,813,0,630,15,168
+Crittenden,MARION CHURCH OF GOD,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,424,1,298,10,115
+Crittenden,TABERNACLE OF GOD CHURCH,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,380,0,256,5,119
+Crittenden,HORSESHOE LAKE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,100,1,18,0,81
+Crittenden,JERICHO CITY HALL,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,67,0,36,1,30
+Crittenden,ANTHONYVILLE CITY HALL,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,13,0,0,0,13
+Crittenden,1ST BAPTIST CHURCH WMPH,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,411,0,294,2,115
+Crittenden,WM HIGH SCHOOL,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,1144,4,818,16,306
+Crittenden,CIVIC CENTER,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,448,1,225,4,218
+Crittenden,JACKSON NEIGHBORHOOD CENTER,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,320,5,128,16,171
+Crittenden,CALVARY WMPH,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,175,0,95,0,80
+Crittenden,7TH STREET CHURCH WMPH,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,406,0,209,11,186
+Crittenden,WONDER BOYS CLUB,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,165,1,85,8,71
+Crittenden,EDMONDSON,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,100,0,40,0,60
+Crittenden,GILMORE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,42,0,7,0,35
+Crittenden,TURRELL FIRE STATION,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,127,0,35,2,90
+Crittenden,EARLE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,372,1,68,9,294
+Crittenden,CRAWFORDSVILLE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,217,0,73,0,144
+Crittenden,MARION SCHOOL,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,1139,1,813,22,303
+Crittenden,MARION CHURCH OF GOD,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,600,1,420,11,168
+Crittenden,TABERNACLE OF GOD CHURCH,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,675,0,428,8,239
+Crittenden,HORSESHOE LAKE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,135,3,25,1,106
+Crittenden,JERICHO CITY HALL,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,118,0,78,0,40
+Crittenden,ANTHONYVILLE CITY HALL,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,31,0,1,0,30
+Crittenden,1ST BAPTIST CHURCH WMPH,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,292,0,238,6,48
+Crittenden,WM HIGH SCHOOL,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,674,4,508,15,147
+Crittenden,CIVIC CENTER,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,146,0,88,8,50
+Crittenden,JACKSON NEIGHBORHOOD CENTER,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,107,1,64,9,33
+Crittenden,CALVARY WMPH,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,86,0,48,2,36
+Crittenden,7TH STREET CHURCH WMPH,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,153,0,92,1,60
+Crittenden,WONDER BOYS CLUB,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,70,0,42,2,26
+Crittenden,EDMONDSON,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,64,0,18,3,43
+Crittenden,GILMORE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,21,0,2,0,19
+Crittenden,TURRELL FIRE STATION,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,57,0,23,0,34
+Crittenden,EARLE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,162,0,62,9,91
+Crittenden,CRAWFORDSVILLE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,161,0,63,1,97
+Crittenden,MARION SCHOOL,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,668,0,533,11,124
+Crittenden,MARION CHURCH OF GOD,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,358,0,260,5,93
+Crittenden,TABERNACLE OF GOD CHURCH,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,319,0,234,4,81
+Crittenden,HORSESHOE LAKE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,76,1,12,0,63
+Crittenden,JERICHO CITY HALL,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,62,0,33,1,28
+Crittenden,ANTHONYVILLE CITY HALL,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,6,0,0,0,6
+Crittenden,1ST BAPTIST CHURCH WMPH,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,325,0,215,5,105
+Crittenden,WM HIGH SCHOOL,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,1039,5,712,14,308
+Crittenden,CIVIC CENTER,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,452,0,217,9,226
+Crittenden,JACKSON NEIGHBORHOOD CENTER,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,344,5,139,16,184
+Crittenden,CALVARY WMPH,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,155,0,79,0,76
+Crittenden,7TH STREET CHURCH WMPH,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,442,0,228,10,204
+Crittenden,WONDER BOYS CLUB,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,185,0,93,10,82
+Crittenden,EDMONDSON,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,105,0,30,1,74
+Crittenden,GILMORE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,39,0,2,0,37
+Crittenden,TURRELL FIRE STATION,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,116,0,25,2,89
+Crittenden,EARLE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,370,0,70,12,288
+Crittenden,CRAWFORDSVILLE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,173,0,48,1,124
+Crittenden,MARION SCHOOL,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,908,1,630,12,265
+Crittenden,MARION CHURCH OF GOD,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,478,0,305,8,165
+Crittenden,TABERNACLE OF GOD CHURCH,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,594,0,370,4,220
+Crittenden,HORSESHOE LAKE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,122,2,18,1,101
+Crittenden,JERICHO CITY HALL,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,71,0,43,1,27
+Crittenden,ANTHONYVILLE CITY HALL,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,28,0,1,0,27
+Crittenden,1ST BAPTIST CHURCH WMPH,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,400,0,336,5,59
+Crittenden,WM HIGH SCHOOL,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,858,3,680,20,155
+Crittenden,CIVIC CENTER,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,172,2,108,4,58
+Crittenden,JACKSON NEIGHBORHOOD CENTER,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,113,2,66,11,34
+Crittenden,CALVARY WMPH,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,109,0,65,2,42
+Crittenden,7TH STREET CHURCH WMPH,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,147,0,85,4,58
+Crittenden,WONDER BOYS CLUB,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,70,1,44,4,21
+Crittenden,EDMONDSON,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,68,0,30,3,35
+Crittenden,GILMORE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,28,0,6,0,22
+Crittenden,TURRELL FIRE STATION,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,78,0,35,1,42
+Crittenden,EARLE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,197,1,64,11,121
+Crittenden,CRAWFORDSVILLE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,216,0,90,0,126
+Crittenden,MARION SCHOOL,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,945,0,754,22,169
+Crittenden,MARION CHURCH OF GOD,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,505,1,392,8,104
+Crittenden,TABERNACLE OF GOD CHURCH,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,413,0,303,8,102
+Crittenden,HORSESHOE LAKE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,98,2,18,0,78
+Crittenden,JERICHO CITY HALL,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,112,0,72,0,40
+Crittenden,ANTHONYVILLE CITY HALL,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,9,0,0,0,9

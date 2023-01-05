@@ -1,0 +1,423 @@
+county,precinct,office,district,party,candidate,votes,early_vote,absentee,election_day
+Sevier,De Queen North,U.S. Senate,,DEM,Natalie James,77,45,3,29
+Sevier,De Queen East,U.S. Senate,,DEM,Natalie James,53,24,4,25
+Sevier,De Queen South,U.S. Senate,,DEM,Natalie James,66,38,0,28
+Sevier,Bear Creek,U.S. Senate,,DEM,Natalie James,64,42,1,21
+Sevier,Clear Creek,U.S. Senate,,DEM,Natalie James,57,29,2,26
+Sevier,Mineral,U.S. Senate,,DEM,Natalie James,87,39,6,42
+Sevier,Monroe,U.S. Senate,,DEM,Natalie James,63,34,0,29
+Sevier,Paraclifta,U.S. Senate,,DEM,Natalie James,93,26,2,65
+Sevier,Red Colony,U.S. Senate,,DEM,Natalie James,65,25,1,39
+Sevier,De Queen North,U.S. Senate,,REP,Senator John Boozman,221,118,4,99
+Sevier,De Queen East,U.S. Senate,,REP,Senator John Boozman,109,67,0,42
+Sevier,De Queen South,U.S. Senate,,REP,Senator John Boozman,74,43,0,31
+Sevier,Bear Creek,U.S. Senate,,REP,Senator John Boozman,325,206,3,116
+Sevier,Clear Creek,U.S. Senate,,REP,Senator John Boozman,347,167,3,177
+Sevier,Mineral,U.S. Senate,,REP,Senator John Boozman,462,257,1,204
+Sevier,Monroe,U.S. Senate,,REP,Senator John Boozman,348,180,2,166
+Sevier,Paraclifta,U.S. Senate,,REP,Senator John Boozman,510,209,5,296
+Sevier,Red Colony,U.S. Senate,,REP,Senator John Boozman,492,152,8,332
+Sevier,De Queen North,U.S. Senate,,LIB,Kenneth Cates,6,3,0,3
+Sevier,De Queen East,U.S. Senate,,LIB,Kenneth Cates,6,3,1,2
+Sevier,De Queen South,U.S. Senate,,LIB,Kenneth Cates,3,0,0,3
+Sevier,Bear Creek,U.S. Senate,,LIB,Kenneth Cates,17,9,0,8
+Sevier,Clear Creek,U.S. Senate,,LIB,Kenneth Cates,15,12,0,3
+Sevier,Mineral,U.S. Senate,,LIB,Kenneth Cates,28,14,0,14
+Sevier,Monroe,U.S. Senate,,LIB,Kenneth Cates,11,6,0,5
+Sevier,Paraclifta,U.S. Senate,,LIB,Kenneth Cates,12,3,0,9
+Sevier,Red Colony,U.S. Senate,,LIB,Kenneth Cates,12,4,0,8
+Sevier,De Queen North,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,222,125,4,93
+Sevier,De Queen East,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,112,67,1,44
+Sevier,De Queen South,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,76,46,0,30
+Sevier,Bear Creek,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,337,212,3,122
+Sevier,Clear Creek,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,347,170,3,174
+Sevier,Mineral,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,466,259,1,206
+Sevier,Monroe,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,345,181,2,162
+Sevier,Paraclifta,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,509,207,5,297
+Sevier,Red Colony,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,488,151,9,328
+Sevier,De Queen North,U.S. Congress District 04,,LIB,Gregory Maxwell,11,5,0,6
+Sevier,De Queen East,U.S. Congress District 04,,LIB,Gregory Maxwell,11,6,1,4
+Sevier,De Queen South,U.S. Congress District 04,,LIB,Gregory Maxwell,3,1,0,2
+Sevier,Bear Creek,U.S. Congress District 04,,LIB,Gregory Maxwell,10,4,0,6
+Sevier,Clear Creek,U.S. Congress District 04,,LIB,Gregory Maxwell,11,9,0,2
+Sevier,Mineral,U.S. Congress District 04,,LIB,Gregory Maxwell,22,10,0,12
+Sevier,Monroe,U.S. Congress District 04,,LIB,Gregory Maxwell,9,4,0,5
+Sevier,Paraclifta,U.S. Congress District 04,,LIB,Gregory Maxwell,13,4,0,9
+Sevier,Red Colony,U.S. Congress District 04,,LIB,Gregory Maxwell,14,4,0,10
+Sevier,De Queen North,U.S. Congress District 04,,DEM,John White,63,32,3,28
+Sevier,De Queen East,U.S. Congress District 04,,DEM,John White,41,17,3,21
+Sevier,De Queen South,U.S. Congress District 04,,DEM,John White,62,34,0,28
+Sevier,Bear Creek,U.S. Congress District 04,,DEM,John White,51,34,1,16
+Sevier,Clear Creek,U.S. Congress District 04,,DEM,John White,47,22,2,23
+Sevier,Mineral,U.S. Congress District 04,,DEM,John White,70,30,6,34
+Sevier,Monroe,U.S. Congress District 04,,DEM,John White,61,30,0,31
+Sevier,Paraclifta,U.S. Congress District 04,,DEM,John White,79,25,2,52
+Sevier,Red Colony,U.S. Congress District 04,,DEM,John White,55,23,0,32
+Sevier,De Queen North,Attorney General,,DEM,Jesse Gibson,86,48,3,35
+Sevier,De Queen East,Attorney General,,DEM,Jesse Gibson,53,24,4,25
+Sevier,De Queen South,Attorney General,,DEM,Jesse Gibson,71,38,0,33
+Sevier,Bear Creek,Attorney General,,DEM,Jesse Gibson,75,46,1,28
+Sevier,Clear Creek,Attorney General,,DEM,Jesse Gibson,71,38,2,31
+Sevier,Mineral,Attorney General,,DEM,Jesse Gibson,90,43,6,41
+Sevier,Monroe,Attorney General,,DEM,Jesse Gibson,73,37,0,36
+Sevier,Paraclifta,Attorney General,,DEM,Jesse Gibson,95,28,2,65
+Sevier,Red Colony,Attorney General,,DEM,Jesse Gibson,65,27,1,37
+Sevier,De Queen North,Attorney General,,REP,Lieutenant Governor Tim Griffin,221,119,4,98
+Sevier,De Queen East,Attorney General,,REP,Lieutenant Governor Tim Griffin,111,68,0,43
+Sevier,De Queen South,Attorney General,,REP,Lieutenant Governor Tim Griffin,75,44,0,31
+Sevier,Bear Creek,Attorney General,,REP,Lieutenant Governor Tim Griffin,330,209,3,118
+Sevier,Clear Creek,Attorney General,,REP,Lieutenant Governor Tim Griffin,352,171,3,178
+Sevier,Mineral,Attorney General,,REP,Lieutenant Governor Tim Griffin,481,264,1,216
+Sevier,Monroe,Attorney General,,REP,Lieutenant Governor Tim Griffin,355,186,2,167
+Sevier,Paraclifta,Attorney General,,REP,Lieutenant Governor Tim Griffin,522,212,5,305
+Sevier,Red Colony,Attorney General,,REP,Lieutenant Governor Tim Griffin,502,152,8,342
+Sevier,De Queen North,Auditor of State,,DEM,Diamond Arnold-Johnson,77,42,2,33
+Sevier,De Queen East,Auditor of State,,DEM,Diamond Arnold-Johnson,48,20,3,25
+Sevier,De Queen South,Auditor of State,,DEM,Diamond Arnold-Johnson,64,38,0,26
+Sevier,Bear Creek,Auditor of State,,DEM,Diamond Arnold-Johnson,61,38,1,22
+Sevier,Clear Creek,Auditor of State,,DEM,Diamond Arnold-Johnson,63,33,2,28
+Sevier,Mineral,Auditor of State,,DEM,Diamond Arnold-Johnson,78,33,6,39
+Sevier,Monroe,Auditor of State,,DEM,Diamond Arnold-Johnson,61,30,0,31
+Sevier,Paraclifta,Auditor of State,,DEM,Diamond Arnold-Johnson,95,31,2,62
+Sevier,Red Colony,Auditor of State,,DEM,Diamond Arnold-Johnson,63,27,0,36
+Sevier,De Queen North,Auditor of State,,REP,Treasurer of State Dennis Milligan,216,118,4,94
+Sevier,De Queen East,Auditor of State,,REP,Treasurer of State Dennis Milligan,110,67,1,42
+Sevier,De Queen South,Auditor of State,,REP,Treasurer of State Dennis Milligan,76,44,0,32
+Sevier,Bear Creek,Auditor of State,,REP,Treasurer of State Dennis Milligan,323,208,3,112
+Sevier,Clear Creek,Auditor of State,,REP,Treasurer of State Dennis Milligan,339,163,3,173
+Sevier,Mineral,Auditor of State,,REP,Treasurer of State Dennis Milligan,477,265,1,211
+Sevier,Monroe,Auditor of State,,REP,Treasurer of State Dennis Milligan,353,185,2,166
+Sevier,Paraclifta,Auditor of State,,REP,Treasurer of State Dennis Milligan,512,206,5,301
+Sevier,Red Colony,Auditor of State,,REP,Treasurer of State Dennis Milligan,496,149,9,338
+Sevier,De Queen North,Auditor of State,,LIB,Simeon Snow,10,5,0,5
+Sevier,De Queen East,Auditor of State,,LIB,Simeon Snow,7,4,1,2
+Sevier,De Queen South,Auditor of State,,LIB,Simeon Snow,5,1,0,4
+Sevier,Bear Creek,Auditor of State,,LIB,Simeon Snow,17,7,0,10
+Sevier,Clear Creek,Auditor of State,,LIB,Simeon Snow,12,8,0,4
+Sevier,Mineral,Auditor of State,,LIB,Simeon Snow,19,12,0,7
+Sevier,Monroe,Auditor of State,,LIB,Simeon Snow,8,4,0,4
+Sevier,Paraclifta,Auditor of State,,LIB,Simeon Snow,9,2,0,7
+Sevier,Red Colony,Auditor of State,,LIB,Simeon Snow,5,2,0,3
+Sevier,De Queen North,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,225,123,4,98
+Sevier,De Queen East,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,113,70,1,42
+Sevier,De Queen South,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,76,43,0,33
+Sevier,Bear Creek,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,336,209,3,124
+Sevier,Clear Creek,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,345,168,3,174
+Sevier,Mineral,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,478,266,2,210
+Sevier,Monroe,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,356,186,2,168
+Sevier,Paraclifta,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,512,206,5,301
+Sevier,Red Colony,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,493,153,9,331
+Sevier,De Queen North,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,77,45,2,30
+Sevier,De Queen East,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,46,18,3,25
+Sevier,De Queen South,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,66,36,0,30
+Sevier,Bear Creek,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,60,41,1,18
+Sevier,Clear Creek,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,59,31,2,26
+Sevier,Mineral,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,83,39,5,39
+Sevier,Monroe,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,60,31,0,29
+Sevier,Paraclifta,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,90,28,2,60
+Sevier,Red Colony,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,57,24,0,33
+Sevier,De Queen North,Governor,,LIB,"Ricky Dale Harrington, Jr.",4,2,0,2
+Sevier,De Queen East,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,2,0,1
+Sevier,De Queen South,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,0,0,3
+Sevier,Bear Creek,Governor,,LIB,"Ricky Dale Harrington, Jr.",6,4,0,2
+Sevier,Clear Creek,Governor,,LIB,"Ricky Dale Harrington, Jr.",6,5,0,1
+Sevier,Mineral,Governor,,LIB,"Ricky Dale Harrington, Jr.",15,5,0,10
+Sevier,Monroe,Governor,,LIB,"Ricky Dale Harrington, Jr.",8,3,0,5
+Sevier,Paraclifta,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,0,0,5
+Sevier,Red Colony,Governor,,LIB,"Ricky Dale Harrington, Jr.",4,2,0,2
+Sevier,De Queen North,Governor,,DEM,Chris Jones,107,56,2,49
+Sevier,De Queen East,Governor,,DEM,Chris Jones,65,28,5,32
+Sevier,De Queen South,Governor,,DEM,Chris Jones,73,43,0,30
+Sevier,Bear Creek,Governor,,DEM,Chris Jones,82,50,1,31
+Sevier,Clear Creek,Governor,,DEM,Chris Jones,82,39,2,41
+Sevier,Mineral,Governor,,DEM,Chris Jones,116,61,6,49
+Sevier,Monroe,Governor,,DEM,Chris Jones,80,39,0,41
+Sevier,Paraclifta,Governor,,DEM,Chris Jones,111,39,2,70
+Sevier,Red Colony,Governor,,DEM,Chris Jones,68,30,0,38
+Sevier,De Queen North,Governor,,REP,Sarah Huckabee Sanders,198,111,4,83
+Sevier,De Queen East,Governor,,REP,Sarah Huckabee Sanders,98,61,0,37
+Sevier,De Queen South,Governor,,REP,Sarah Huckabee Sanders,74,43,0,31
+Sevier,Bear Creek,Governor,,REP,Sarah Huckabee Sanders,323,207,3,113
+Sevier,Clear Creek,Governor,,REP,Sarah Huckabee Sanders,339,166,3,170
+Sevier,Mineral,Governor,,REP,Sarah Huckabee Sanders,449,245,1,203
+Sevier,Monroe,Governor,,REP,Sarah Huckabee Sanders,340,182,2,156
+Sevier,Paraclifta,Governor,,REP,Sarah Huckabee Sanders,503,202,5,296
+Sevier,Red Colony,Governor,,REP,Sarah Huckabee Sanders,501,150,9,342
+Sevier,De Queen North,Lieutenant Governor,,DEM,Kelly Ross Krout,87,50,3,34
+Sevier,De Queen East,Lieutenant Governor,,DEM,Kelly Ross Krout,53,24,4,25
+Sevier,De Queen South,Lieutenant Governor,,DEM,Kelly Ross Krout,66,40,0,26
+Sevier,Bear Creek,Lieutenant Governor,,DEM,Kelly Ross Krout,62,39,1,22
+Sevier,Clear Creek,Lieutenant Governor,,DEM,Kelly Ross Krout,66,33,2,31
+Sevier,Mineral,Lieutenant Governor,,DEM,Kelly Ross Krout,89,45,5,39
+Sevier,Monroe,Lieutenant Governor,,DEM,Kelly Ross Krout,65,31,0,34
+Sevier,Paraclifta,Lieutenant Governor,,DEM,Kelly Ross Krout,98,32,2,64
+Sevier,Red Colony,Lieutenant Governor,,DEM,Kelly Ross Krout,63,28,0,35
+Sevier,De Queen North,Lieutenant Governor,,LIB,Frank Gilbert,8,3,0,5
+Sevier,De Queen East,Lieutenant Governor,,LIB,Frank Gilbert,10,3,1,6
+Sevier,De Queen South,Lieutenant Governor,,LIB,Frank Gilbert,9,3,0,6
+Sevier,Bear Creek,Lieutenant Governor,,LIB,Frank Gilbert,14,8,0,6
+Sevier,Clear Creek,Lieutenant Governor,,LIB,Frank Gilbert,11,9,0,2
+Sevier,Mineral,Lieutenant Governor,,LIB,Frank Gilbert,19,10,0,9
+Sevier,Monroe,Lieutenant Governor,,LIB,Frank Gilbert,11,5,0,6
+Sevier,Paraclifta,Lieutenant Governor,,LIB,Frank Gilbert,21,7,0,14
+Sevier,Red Colony,Lieutenant Governor,,LIB,Frank Gilbert,14,2,0,12
+Sevier,De Queen North,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,213,115,4,94
+Sevier,De Queen East,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,102,64,0,38
+Sevier,De Queen South,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,70,38,0,32
+Sevier,Bear Creek,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,331,209,3,119
+Sevier,Clear Creek,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,345,165,3,177
+Sevier,Mineral,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,470,257,2,211
+Sevier,Monroe,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,352,187,2,163
+Sevier,Paraclifta,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,500,202,5,293
+Sevier,Red Colony,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,494,151,9,334
+Sevier,De Queen North,Secretary of State,,DEM,Anna Beth Gorman,88,52,3,33
+Sevier,De Queen East,Secretary of State,,DEM,Anna Beth Gorman,60,29,5,26
+Sevier,De Queen South,Secretary of State,,DEM,Anna Beth Gorman,71,40,0,31
+Sevier,Bear Creek,Secretary of State,,DEM,Anna Beth Gorman,74,44,1,29
+Sevier,Clear Creek,Secretary of State,,DEM,Anna Beth Gorman,74,41,2,31
+Sevier,Mineral,Secretary of State,,DEM,Anna Beth Gorman,98,49,6,43
+Sevier,Monroe,Secretary of State,,DEM,Anna Beth Gorman,72,34,0,38
+Sevier,Paraclifta,Secretary of State,,DEM,Anna Beth Gorman,100,30,2,68
+Sevier,Red Colony,Secretary of State,,DEM,Anna Beth Gorman,67,27,1,39
+Sevier,De Queen North,Secretary of State,,REP,Secretary of State John Thurston,218,115,4,99
+Sevier,De Queen East,Secretary of State,,REP,Secretary of State John Thurston,101,60,0,41
+Sevier,De Queen South,Secretary of State,,REP,Secretary of State John Thurston,71,41,0,30
+Sevier,Bear Creek,Secretary of State,,REP,Secretary of State John Thurston,329,209,3,117
+Sevier,Clear Creek,Secretary of State,,REP,Secretary of State John Thurston,342,166,3,173
+Sevier,Mineral,Secretary of State,,REP,Secretary of State John Thurston,475,260,1,214
+Sevier,Monroe,Secretary of State,,REP,Secretary of State John Thurston,350,185,2,163
+Sevier,Paraclifta,Secretary of State,,REP,Secretary of State John Thurston,513,206,5,302
+Sevier,Red Colony,Secretary of State,,REP,Secretary of State John Thurston,497,153,8,336
+Sevier,De Queen North,State Treasurer,,REP,State Representative Mark Lowery,220,120,4,96
+Sevier,De Queen East,State Treasurer,,REP,State Representative Mark Lowery,117,72,1,44
+Sevier,De Queen South,State Treasurer,,REP,State Representative Mark Lowery,83,48,0,35
+Sevier,Bear Creek,State Treasurer,,REP,State Representative Mark Lowery,334,215,3,116
+Sevier,Clear Creek,State Treasurer,,REP,State Representative Mark Lowery,352,167,3,182
+Sevier,Mineral,State Treasurer,,REP,State Representative Mark Lowery,470,257,1,212
+Sevier,Monroe,State Treasurer,,REP,State Representative Mark Lowery,359,189,2,168
+Sevier,Paraclifta,State Treasurer,,REP,State Representative Mark Lowery,514,205,5,304
+Sevier,Red Colony,State Treasurer,,REP,State Representative Mark Lowery,498,148,8,342
+Sevier,De Queen North,State Treasurer,,DEM,Pam Whitaker,84,48,3,33
+Sevier,De Queen East,State Treasurer,,DEM,Pam Whitaker,50,21,4,25
+Sevier,De Queen South,State Treasurer,,DEM,Pam Whitaker,66,37,0,29
+Sevier,Bear Creek,State Treasurer,,DEM,Pam Whitaker,68,40,1,27
+Sevier,Clear Creek,State Treasurer,,DEM,Pam Whitaker,61,34,2,25
+Sevier,Mineral,State Treasurer,,DEM,Pam Whitaker,103,52,6,45
+Sevier,Monroe,State Treasurer,,DEM,Pam Whitaker,66,32,0,34
+Sevier,Paraclifta,State Treasurer,,DEM,Pam Whitaker,98,33,2,63
+Sevier,Red Colony,State Treasurer,,DEM,Pam Whitaker,67,31,1,35
+Sevier,De Queen North,State Senate,04,IND,Lonny M. Goodwin,60,33,3,24
+Sevier,De Queen East,State Senate,04,IND,Lonny M. Goodwin,43,17,3,23
+Sevier,De Queen South,State Senate,04,IND,Lonny M. Goodwin,56,31,0,25
+Sevier,Bear Creek,State Senate,04,IND,Lonny M. Goodwin,56,34,1,21
+Sevier,Clear Creek,State Senate,04,IND,Lonny M. Goodwin,60,40,2,18
+Sevier,Mineral,State Senate,04,IND,Lonny M. Goodwin,88,41,4,43
+Sevier,Monroe,State Senate,04,IND,Lonny M. Goodwin,53,25,0,28
+Sevier,Paraclifta,State Senate,04,IND,Lonny M. Goodwin,88,32,2,54
+Sevier,Red Colony,State Senate,04,IND,Lonny M. Goodwin,75,31,0,44
+Sevier,De Queen North,State Senate,04,REP,"Senator Jimmy Hickey, JR.",234,128,4,102
+Sevier,De Queen East,State Senate,04,REP,"Senator Jimmy Hickey, JR.",120,72,2,46
+Sevier,De Queen South,State Senate,04,REP,"Senator Jimmy Hickey, JR.",79,43,0,36
+Sevier,Bear Creek,State Senate,04,REP,"Senator Jimmy Hickey, JR.",343,215,3,125
+Sevier,Clear Creek,State Senate,04,REP,"Senator Jimmy Hickey, JR.",346,160,3,183
+Sevier,Mineral,State Senate,04,REP,"Senator Jimmy Hickey, JR.",474,261,3,210
+Sevier,Monroe,State Senate,04,REP,"Senator Jimmy Hickey, JR.",353,185,2,166
+Sevier,Paraclifta,State Senate,04,REP,"Senator Jimmy Hickey, JR.",504,201,5,298
+Sevier,Red Colony,State Senate,04,REP,"Senator Jimmy Hickey, JR.",471,140,9,322
+Sevier,De Queen North,State House,87,LIB,Marc Rosson,13,5,0,8
+Sevier,De Queen East,State House,87,LIB,Marc Rosson,7,2,1,4
+Sevier,De Queen South,State House,87,LIB,Marc Rosson,4,2,0,2
+Sevier,Bear Creek,State House,87,LIB,Marc Rosson,6,3,0,3
+Sevier,Clear Creek,State House,87,LIB,Marc Rosson,10,6,0,4
+Sevier,Mineral,State House,87,LIB,Marc Rosson,39,15,0,24
+Sevier,Monroe,State House,87,LIB,Marc Rosson,14,6,0,8
+Sevier,Paraclifta,State House,87,LIB,Marc Rosson,29,7,1,21
+Sevier,Red Colony,State House,87,LIB,Marc Rosson,22,10,1,11
+Sevier,De Queen North,State House,87,REP,State Representative DeAnn Vaught,214,121,3,90
+Sevier,De Queen East,State House,87,REP,State Representative DeAnn Vaught,103,63,0,40
+Sevier,De Queen South,State House,87,REP,State Representative DeAnn Vaught,71,43,0,28
+Sevier,Bear Creek,State House,87,REP,State Representative DeAnn Vaught,315,198,2,115
+Sevier,Clear Creek,State House,87,REP,State Representative DeAnn Vaught,323,149,3,171
+Sevier,Mineral,State House,87,REP,State Representative DeAnn Vaught,427,232,3,192
+Sevier,Monroe,State House,87,REP,State Representative DeAnn Vaught,320,162,2,156
+Sevier,Paraclifta,State House,87,REP,State Representative DeAnn Vaught,490,200,3,287
+Sevier,Red Colony,State House,87,REP,State Representative DeAnn Vaught,464,135,8,321
+Sevier,De Queen North,State House,87,DEM,Chris Wolcott,79,42,3,34
+Sevier,De Queen East,State House,87,DEM,Chris Wolcott,57,28,4,25
+Sevier,De Queen South,State House,87,DEM,Chris Wolcott,74,41,0,33
+Sevier,Bear Creek,State House,87,DEM,Chris Wolcott,87,57,2,28
+Sevier,Clear Creek,State House,87,DEM,Chris Wolcott,93,56,2,35
+Sevier,Mineral,State House,87,DEM,Chris Wolcott,109,60,4,45
+Sevier,Monroe,State House,87,DEM,Chris Wolcott,89,51,0,38
+Sevier,Paraclifta,State House,87,DEM,Chris Wolcott,100,33,3,64
+Sevier,Red Colony,State House,87,DEM,Chris Wolcott,86,38,0,48
+Sevier,De Queen North,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,101,54,2,45
+Sevier,De Queen East,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,70,35,3,32
+Sevier,De Queen South,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,63,37,0,26
+Sevier,Bear Creek,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,121,82,0,39
+Sevier,Clear Creek,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,132,65,2,65
+Sevier,Mineral,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,201,107,1,93
+Sevier,Monroe,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,127,67,0,60
+Sevier,Paraclifta,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,238,98,3,137
+Sevier,Red Colony,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,217,75,0,142
+Sevier,De Queen North,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,170,97,4,69
+Sevier,De Queen East,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,85,49,2,34
+Sevier,De Queen South,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,71,39,0,32
+Sevier,Bear Creek,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,249,153,3,93
+Sevier,Clear Creek,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,234,128,3,103
+Sevier,Mineral,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,309,165,4,140
+Sevier,Monroe,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,243,126,2,115
+Sevier,Paraclifta,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,306,119,4,183
+Sevier,Red Colony,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,278,80,3,195
+Sevier,De Queen North,Sevier County Circuit Clerk,,DEM,DEM Kathy Smith,262,142,6,114
+Sevier,De Queen East,Sevier County Circuit Clerk,,DEM,DEM Kathy Smith,139,75,4,60
+Sevier,De Queen South,Sevier County Circuit Clerk,,DEM,DEM Kathy Smith,135,77,0,58
+Sevier,Bear Creek,Sevier County Circuit Clerk,,DEM,DEM Kathy Smith,342,213,4,125
+Sevier,Clear Creek,Sevier County Circuit Clerk,,DEM,DEM Kathy Smith,318,160,5,153
+Sevier,Mineral,Sevier County Circuit Clerk,,DEM,DEM Kathy Smith,452,240,6,206
+Sevier,Monroe,Sevier County Circuit Clerk,,DEM,DEM Kathy Smith,331,170,2,159
+Sevier,Paraclifta,Sevier County Circuit Clerk,,DEM,DEM Kathy Smith,474,185,4,285
+Sevier,Red Colony,Sevier County Circuit Clerk,,DEM,DEM Kathy Smith,427,144,4,279
+Sevier,De Queen North,Sevier County Clerk,,REP,REP Renea Bailey,187,105,3,79
+Sevier,De Queen East,Sevier County Clerk,,REP,REP Renea Bailey,88,57,2,29
+Sevier,De Queen South,Sevier County Clerk,,REP,REP Renea Bailey,78,47,0,31
+Sevier,Bear Creek,Sevier County Clerk,,REP,REP Renea Bailey,269,175,3,91
+Sevier,Clear Creek,Sevier County Clerk,,REP,REP Renea Bailey,287,143,3,141
+Sevier,Mineral,Sevier County Clerk,,REP,REP Renea Bailey,394,208,4,182
+Sevier,Monroe,Sevier County Clerk,,REP,REP Renea Bailey,276,152,1,123
+Sevier,Paraclifta,Sevier County Clerk,,REP,REP Renea Bailey,429,160,4,265
+Sevier,Red Colony,Sevier County Clerk,,REP,REP Renea Bailey,402,111,8,283
+Sevier,De Queen North,Sevier County Clerk,,IND,IND Jeff Wahls,112,60,4,48
+Sevier,De Queen East,Sevier County Clerk,,IND,IND Jeff Wahls,77,34,3,40
+Sevier,De Queen South,Sevier County Clerk,,IND,IND Jeff Wahls,59,31,0,28
+Sevier,Bear Creek,Sevier County Clerk,,IND,IND Jeff Wahls,135,80,1,54
+Sevier,Clear Creek,Sevier County Clerk,,IND,IND Jeff Wahls,130,65,2,63
+Sevier,Mineral,Sevier County Clerk,,IND,IND Jeff Wahls,176,99,3,74
+Sevier,Monroe,Sevier County Clerk,,IND,IND Jeff Wahls,138,63,1,74
+Sevier,Paraclifta,Sevier County Clerk,,IND,IND Jeff Wahls,160,74,2,84
+Sevier,Red Colony,Sevier County Clerk,,IND,IND Jeff Wahls,157,65,0,92
+Sevier,De Queen North,Sevier County Sheriff and Collector,,DEM,DEM Robert Gentry,205,118,7,80
+Sevier,De Queen East,Sevier County Sheriff and Collector,,DEM,DEM Robert Gentry,106,58,4,44
+Sevier,De Queen South,Sevier County Sheriff and Collector,,DEM,DEM Robert Gentry,109,58,0,51
+Sevier,Bear Creek,Sevier County Sheriff and Collector,,DEM,DEM Robert Gentry,249,156,3,90
+Sevier,Clear Creek,Sevier County Sheriff and Collector,,DEM,DEM Robert Gentry,216,108,2,106
+Sevier,Mineral,Sevier County Sheriff and Collector,,DEM,DEM Robert Gentry,304,174,5,125
+Sevier,Monroe,Sevier County Sheriff and Collector,,DEM,DEM Robert Gentry,228,120,1,107
+Sevier,Paraclifta,Sevier County Sheriff and Collector,,DEM,DEM Robert Gentry,275,108,4,163
+Sevier,Red Colony,Sevier County Sheriff and Collector,,DEM,DEM Robert Gentry,257,82,2,173
+Sevier,De Queen North,Sevier County Sheriff and Collector,,REP,REP Johnny P. Cooke,100,49,0,51
+Sevier,De Queen East,Sevier County Sheriff and Collector,,REP,REP Johnny P. Cooke,61,37,1,23
+Sevier,De Queen South,Sevier County Sheriff and Collector,,REP,REP Johnny P. Cooke,40,27,0,13
+Sevier,Bear Creek,Sevier County Sheriff and Collector,,REP,REP Johnny P. Cooke,159,102,1,56
+Sevier,Clear Creek,Sevier County Sheriff and Collector,,REP,REP Johnny P. Cooke,209,104,3,102
+Sevier,Mineral,Sevier County Sheriff and Collector,,REP,REP Johnny P. Cooke,273,138,2,133
+Sevier,Monroe,Sevier County Sheriff and Collector,,REP,REP Johnny P. Cooke,197,101,1,95
+Sevier,Paraclifta,Sevier County Sheriff and Collector,,REP,REP Johnny P. Cooke,343,132,3,208
+Sevier,Red Colony,Sevier County Sheriff and Collector,,REP,REP Johnny P. Cooke,317,99,6,212
+Sevier,De Queen North,Justice of the Peace District 1,,DEM,DEM Earl A. Battiest,83,51,4,28
+Sevier,De Queen North,Justice of the Peace District 1,,REP,REP Michael Barnes,161,90,3,68
+Sevier,De Queen North,Justice of the Peace District 1,,IND,IND Veronica Ozura,60,25,0,35
+Sevier,Bear Creek,Justice of the Peace District 4,,REP,REP Callie Miller,287,184,1,102
+Sevier,Bear Creek,Justice of the Peace District 4,,DEM,"DEM David A. Wright, Sr.",117,71,3,43
+Sevier,De Queen North,Mayor City of De Queen,,NON,Jeff Brown,292,161,7,124
+Sevier,De Queen East,Mayor City of De Queen,,NON,Jeff Brown,160,88,5,67
+Sevier,De Queen South,Mayor City of De Queen,,NON,Jeff Brown,138,79,0,59
+Sevier,Bear Creek,Mayor City of De Queen,,NON,Jeff Brown,47,31,0,16
+Sevier,Monroe,Mayor City of De Queen,,NON,Jeff Brown,34,13,0,21
+Sevier,De Queen North,De Queen Alderman Ward 3,,NON,Ron Huckaby,111,55,4,52
+Sevier,De Queen East,De Queen Alderman Ward 3,,NON,Ron Huckaby,56,33,3,20
+Sevier,De Queen South,De Queen Alderman Ward 3,,NON,Ron Huckaby,60,31,0,29
+Sevier,Bear Creek,De Queen Alderman Ward 3,,NON,Ron Huckaby,23,16,0,7
+Sevier,Monroe,De Queen Alderman Ward 3,,NON,Ron Huckaby,11,4,0,7
+Sevier,De Queen North,De Queen Alderman Ward 3,,NON,Troy Cravens,189,110,3,76
+Sevier,De Queen East,De Queen Alderman Ward 3,,NON,Troy Cravens,103,54,2,47
+Sevier,De Queen South,De Queen Alderman Ward 3,,NON,Troy Cravens,81,54,0,27
+Sevier,Bear Creek,De Queen Alderman Ward 3,,NON,Troy Cravens,21,12,0,9
+Sevier,Monroe,De Queen Alderman Ward 3,,NON,Troy Cravens,21,9,0,12
+Sevier,De Queen North,De Queen City Clerk Treasurer,,NON,Donna Jo Jones,288,159,6,123
+Sevier,De Queen East,De Queen City Clerk Treasurer,,NON,Donna Jo Jones,155,83,5,67
+Sevier,De Queen South,De Queen City Clerk Treasurer,,NON,Donna Jo Jones,140,81,0,59
+Sevier,Bear Creek,De Queen City Clerk Treasurer,,NON,Donna Jo Jones,44,29,0,15
+Sevier,Monroe,De Queen City Clerk Treasurer,,NON,Donna Jo Jones,34,13,0,21
+Sevier,Clear Creek,Mayor City of Horatio,,NON,Randy Barnett,50,21,3,26
+Sevier,Monroe,Mayor City of Horatio,,NON,Randy Barnett,26,8,0,18
+Sevier,Clear Creek,Mayor City of Horatio,,NON,Borden Neel,65,32,0,33
+Sevier,Monroe,Mayor City of Horatio,,NON,Borden Neel,18,10,0,8
+Sevier,Red Colony,Mayor City of Lockesurg,,NON,Danny R. Ruth,94,20,0,74
+Sevier,Red Colony,Mayor City of Lockesurg,,NON,Randy Pickett,85,33,0,52
+Sevier,Paraclifta,Mayor City of Ben Lomond,,NON,Ronald (Shorty) Smith,60,7,0,53
+Sevier,Paraclifta,Ben Lomond City Clerk Treasurer,,NON,Glenda Tinkes,58,7,0,51
+Sevier,Mineral,Mayor City of Gillham,,NON,Lester Overturf,75,45,0,30
+Sevier,Mineral,Gillham City Clerk Treasurer,,NON,Cretta Jane Whisenhunt,74,44,0,30
+Sevier,De Queen North,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,132,70,2,60
+Sevier,De Queen East,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,78,42,2,34
+Sevier,De Queen South,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,67,34,0,33
+Sevier,Bear Creek,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,154,96,3,55
+Sevier,Clear Creek,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,168,79,2,87
+Sevier,Mineral,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,218,126,3,89
+Sevier,Monroe,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,155,91,0,64
+Sevier,Paraclifta,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,216,84,6,126
+Sevier,Red Colony,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,213,72,6,135
+Sevier,De Queen North,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,168,94,5,69
+Sevier,De Queen East,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,81,45,3,33
+Sevier,De Queen South,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,81,51,0,30
+Sevier,Bear Creek,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,247,156,1,90
+Sevier,Clear Creek,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,236,126,2,108
+Sevier,Mineral,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,332,171,3,158
+Sevier,Monroe,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,238,112,2,124
+Sevier,Paraclifta,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,368,147,0,221
+Sevier,Red Colony,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,342,102,1,239
+Sevier,De Queen North,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,140,74,2,64
+Sevier,De Queen East,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,72,44,1,27
+Sevier,De Queen South,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,73,37,0,36
+Sevier,Bear Creek,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,178,104,0,74
+Sevier,Clear Creek,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,183,81,3,99
+Sevier,Mineral,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,245,137,4,104
+Sevier,Monroe,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,181,101,0,80
+Sevier,Paraclifta,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,289,116,4,169
+Sevier,Red Colony,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,211,63,3,145
+Sevier,De Queen North,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,159,89,4,66
+Sevier,De Queen East,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,89,46,4,39
+Sevier,De Queen South,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,73,46,0,27
+Sevier,Bear Creek,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,221,146,4,71
+Sevier,Clear Creek,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,222,126,2,94
+Sevier,Mineral,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,314,162,3,149
+Sevier,Monroe,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,215,103,2,110
+Sevier,Paraclifta,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,301,112,2,187
+Sevier,Red Colony,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,347,112,4,231
+Sevier,De Queen North,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,157,81,3,73
+Sevier,De Queen East,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,92,56,2,34
+Sevier,De Queen South,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,85,44,0,41
+Sevier,Bear Creek,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,198,124,3,71
+Sevier,Clear Creek,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,200,96,1,103
+Sevier,Mineral,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,252,132,2,118
+Sevier,Monroe,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,198,109,1,88
+Sevier,Paraclifta,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,304,108,4,192
+Sevier,Red Colony,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,283,81,5,197
+Sevier,De Queen North,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,145,84,4,57
+Sevier,De Queen East,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,72,35,3,34
+Sevier,De Queen South,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,63,41,0,22
+Sevier,Bear Creek,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,205,129,1,75
+Sevier,Clear Creek,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,213,114,4,95
+Sevier,Mineral,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,312,170,5,137
+Sevier,Monroe,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,206,99,1,106
+Sevier,Paraclifta,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,294,125,2,167
+Sevier,Red Colony,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,280,96,2,182
+Sevier,De Queen North,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,113,53,1,59
+Sevier,De Queen East,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,82,44,3,35
+Sevier,De Queen South,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,73,37,0,36
+Sevier,Bear Creek,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,152,96,0,56
+Sevier,Clear Creek,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,167,76,2,89
+Sevier,Mineral,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,189,92,5,92
+Sevier,Monroe,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,155,72,0,83
+Sevier,Paraclifta,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,269,80,4,185
+Sevier,Red Colony,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,181,57,0,124
+Sevier,De Queen North,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,193,114,6,73
+Sevier,De Queen East,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,87,50,2,35
+Sevier,De Queen South,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,78,50,0,28
+Sevier,Bear Creek,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,258,163,4,91
+Sevier,Clear Creek,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,258,136,3,119
+Sevier,Mineral,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,388,216,2,170
+Sevier,Monroe,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,263,146,2,115
+Sevier,Paraclifta,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,343,157,2,184
+Sevier,Red Colony,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,389,123,9,257

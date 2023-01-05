@@ -1,0 +1,479 @@
+county,precinct,office,district,party,candidate,votes,early_vote,absentee,election_day
+Pike,Antoine,U.S. Senate,,DEM,Natalie James,47,21,3,23
+Pike,Daisy,U.S. Senate,,DEM,Natalie James,26,21,2,3
+Pike,Delight,U.S. Senate,,DEM,Natalie James,37,17,2,18
+Pike,Glenwood North,U.S. Senate,,DEM,Natalie James,55,35,3,17
+Pike,Glenwood South,U.S. Senate,,DEM,Natalie James,51,39,0,12
+Pike,Kirby,U.S. Senate,,DEM,Natalie James,39,18,0,21
+Pike,Langley/Lodi,U.S. Senate,,DEM,Natalie James,9,4,2,3
+Pike,Murfreesboro East,U.S. Senate,,DEM,Natalie James,93,76,2,15
+Pike,Murfreesboro West,U.S. Senate,,DEM,Natalie James,90,72,6,12
+Pike,Newhope,U.S. Senate,,DEM,Natalie James,10,8,0,2
+Pike,Pisgah,U.S. Senate,,DEM,Natalie James,15,5,0,10
+Pike,Antoine,U.S. Senate,,LIB,Kenneth Cates,1,1,0,0
+Pike,Daisy,U.S. Senate,,LIB,Kenneth Cates,8,4,0,4
+Pike,Delight,U.S. Senate,,LIB,Kenneth Cates,13,6,1,6
+Pike,Glenwood North,U.S. Senate,,LIB,Kenneth Cates,7,4,1,2
+Pike,Glenwood South,U.S. Senate,,LIB,Kenneth Cates,10,6,0,4
+Pike,Kirby,U.S. Senate,,LIB,Kenneth Cates,4,4,0,0
+Pike,Langley/Lodi,U.S. Senate,,LIB,Kenneth Cates,5,5,0,0
+Pike,Murfreesboro East,U.S. Senate,,LIB,Kenneth Cates,14,9,0,5
+Pike,Murfreesboro West,U.S. Senate,,LIB,Kenneth Cates,24,18,0,6
+Pike,Newhope,U.S. Senate,,LIB,Kenneth Cates,6,4,0,2
+Pike,Pisgah,U.S. Senate,,LIB,Kenneth Cates,6,4,0,2
+Pike,Antoine,U.S. Senate,,REP,Senator John Boozman,42,14,1,27
+Pike,Daisy,U.S. Senate,,REP,Senator John Boozman,212,94,5,113
+Pike,Delight,U.S. Senate,,REP,Senator John Boozman,327,147,2,178
+Pike,Glenwood North,U.S. Senate,,REP,Senator John Boozman,257,166,4,87
+Pike,Glenwood South,U.S. Senate,,REP,Senator John Boozman,405,256,11,138
+Pike,Kirby,U.S. Senate,,REP,Senator John Boozman,390,159,6,225
+Pike,Langley/Lodi,U.S. Senate,,REP,Senator John Boozman,184,88,3,93
+Pike,Murfreesboro East,U.S. Senate,,REP,Senator John Boozman,427,321,7,99
+Pike,Murfreesboro West,U.S. Senate,,REP,Senator John Boozman,564,410,8,146
+Pike,Newhope,U.S. Senate,,REP,Senator John Boozman,144,56,6,82
+Pike,Pisgah,U.S. Senate,,REP,Senator John Boozman,181,90,0,91
+Pike,Antoine,U.S. Congress District 04,,DEM,John White,45,19,3,23
+Pike,Daisy,U.S. Congress District 04,,DEM,John White,22,18,0,4
+Pike,Delight,U.S. Congress District 04,,DEM,John White,37,17,3,17
+Pike,Glenwood North,U.S. Congress District 04,,DEM,John White,54,34,2,18
+Pike,Glenwood South,U.S. Congress District 04,,DEM,John White,44,34,0,10
+Pike,Kirby,U.S. Congress District 04,,DEM,John White,38,16,0,22
+Pike,Langley/Lodi,U.S. Congress District 04,,DEM,John White,7,5,2,0
+Pike,Murfreesboro East,U.S. Congress District 04,,DEM,John White,87,74,1,12
+Pike,Murfreesboro West,U.S. Congress District 04,,DEM,John White,93,74,6,13
+Pike,Newhope,U.S. Congress District 04,,DEM,John White,10,10,0,0
+Pike,Pisgah,U.S. Congress District 04,,DEM,John White,13,6,0,7
+Pike,Antoine,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,43,16,1,26
+Pike,Daisy,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,215,98,5,112
+Pike,Delight,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,327,149,2,176
+Pike,Glenwood North,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,257,169,5,83
+Pike,Glenwood South,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,405,261,11,133
+Pike,Kirby,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,391,161,7,223
+Pike,Langley/Lodi,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,185,90,3,92
+Pike,Murfreesboro East,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,435,324,8,103
+Pike,Murfreesboro West,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,559,407,8,144
+Pike,Newhope,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,149,57,6,86
+Pike,Pisgah,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,185,92,0,93
+Pike,Antoine,U.S. Congress District 04,,LIB,Gregory Maxwell,2,1,0,1
+Pike,Daisy,U.S. Congress District 04,,LIB,Gregory Maxwell,10,4,2,4
+Pike,Delight,U.S. Congress District 04,,LIB,Gregory Maxwell,12,6,0,6
+Pike,Glenwood North,U.S. Congress District 04,,LIB,Gregory Maxwell,6,2,0,4
+Pike,Glenwood South,U.S. Congress District 04,,LIB,Gregory Maxwell,17,7,0,10
+Pike,Kirby,U.S. Congress District 04,,LIB,Gregory Maxwell,3,3,0,0
+Pike,Langley/Lodi,U.S. Congress District 04,,LIB,Gregory Maxwell,6,2,0,4
+Pike,Murfreesboro East,U.S. Congress District 04,,LIB,Gregory Maxwell,12,9,0,3
+Pike,Murfreesboro West,U.S. Congress District 04,,LIB,Gregory Maxwell,19,15,0,4
+Pike,Newhope,U.S. Congress District 04,,LIB,Gregory Maxwell,2,1,0,1
+Pike,Pisgah,U.S. Congress District 04,,LIB,Gregory Maxwell,3,1,0,2
+Pike,Antoine,Attorney General,,DEM,Jesse Gibson,45,20,3,22
+Pike,Daisy,Attorney General,,DEM,Jesse Gibson,25,19,2,4
+Pike,Delight,Attorney General,,DEM,Jesse Gibson,40,21,3,16
+Pike,Glenwood North,Attorney General,,DEM,Jesse Gibson,60,40,2,18
+Pike,Glenwood South,Attorney General,,DEM,Jesse Gibson,61,43,0,18
+Pike,Kirby,Attorney General,,DEM,Jesse Gibson,40,17,1,22
+Pike,Langley/Lodi,Attorney General,,DEM,Jesse Gibson,9,6,2,1
+Pike,Murfreesboro East,Attorney General,,DEM,Jesse Gibson,98,84,1,13
+Pike,Murfreesboro West,Attorney General,,DEM,Jesse Gibson,100,81,6,13
+Pike,Newhope,Attorney General,,DEM,Jesse Gibson,9,8,0,1
+Pike,Pisgah,Attorney General,,DEM,Jesse Gibson,13,6,0,7
+Pike,Antoine,Attorney General,,REP,Lieutenant Governor Tim Griffin,45,16,1,28
+Pike,Daisy,Attorney General,,REP,Lieutenant Governor Tim Griffin,222,101,5,116
+Pike,Delight,Attorney General,,REP,Lieutenant Governor Tim Griffin,334,151,2,181
+Pike,Glenwood North,Attorney General,,REP,Lieutenant Governor Tim Griffin,255,163,5,87
+Pike,Glenwood South,Attorney General,,REP,Lieutenant Governor Tim Griffin,403,258,11,134
+Pike,Kirby,Attorney General,,REP,Lieutenant Governor Tim Griffin,390,161,6,223
+Pike,Langley/Lodi,Attorney General,,REP,Lieutenant Governor Tim Griffin,189,91,3,95
+Pike,Murfreesboro East,Attorney General,,REP,Lieutenant Governor Tim Griffin,432,320,7,105
+Pike,Murfreesboro West,Attorney General,,REP,Lieutenant Governor Tim Griffin,575,419,7,149
+Pike,Newhope,Attorney General,,REP,Lieutenant Governor Tim Griffin,151,59,6,86
+Pike,Pisgah,Attorney General,,REP,Lieutenant Governor Tim Griffin,188,93,0,95
+Pike,Antoine,Auditor of State,,DEM,Diamond Arnold-Johnson,48,21,2,25
+Pike,Daisy,Auditor of State,,DEM,Diamond Arnold-Johnson,29,24,2,3
+Pike,Delight,Auditor of State,,DEM,Diamond Arnold-Johnson,26,10,2,14
+Pike,Glenwood North,Auditor of State,,DEM,Diamond Arnold-Johnson,53,38,3,12
+Pike,Glenwood South,Auditor of State,,DEM,Diamond Arnold-Johnson,59,44,0,15
+Pike,Kirby,Auditor of State,,DEM,Diamond Arnold-Johnson,34,17,0,17
+Pike,Langley/Lodi,Auditor of State,,DEM,Diamond Arnold-Johnson,8,4,2,2
+Pike,Murfreesboro East,Auditor of State,,DEM,Diamond Arnold-Johnson,80,64,1,15
+Pike,Murfreesboro West,Auditor of State,,DEM,Diamond Arnold-Johnson,89,73,6,10
+Pike,Newhope,Auditor of State,,DEM,Diamond Arnold-Johnson,11,9,0,2
+Pike,Pisgah,Auditor of State,,DEM,Diamond Arnold-Johnson,12,6,0,6
+Pike,Antoine,Auditor of State,,LIB,Simeon Snow,1,0,1,0
+Pike,Daisy,Auditor of State,,LIB,Simeon Snow,5,1,0,4
+Pike,Delight,Auditor of State,,LIB,Simeon Snow,14,8,1,5
+Pike,Glenwood North,Auditor of State,,LIB,Simeon Snow,8,3,0,5
+Pike,Glenwood South,Auditor of State,,LIB,Simeon Snow,10,4,0,6
+Pike,Kirby,Auditor of State,,LIB,Simeon Snow,5,3,0,2
+Pike,Langley/Lodi,Auditor of State,,LIB,Simeon Snow,7,4,0,3
+Pike,Murfreesboro East,Auditor of State,,LIB,Simeon Snow,16,13,0,3
+Pike,Murfreesboro West,Auditor of State,,LIB,Simeon Snow,20,16,0,4
+Pike,Newhope,Auditor of State,,LIB,Simeon Snow,1,1,0,0
+Pike,Pisgah,Auditor of State,,LIB,Simeon Snow,2,0,0,2
+Pike,Antoine,Auditor of State,,REP,Treasurer of State Dennis Milligan,41,15,1,25
+Pike,Daisy,Auditor of State,,REP,Treasurer of State Dennis Milligan,212,95,4,113
+Pike,Delight,Auditor of State,,REP,Treasurer of State Dennis Milligan,333,151,1,181
+Pike,Glenwood North,Auditor of State,,REP,Treasurer of State Dennis Milligan,254,162,5,87
+Pike,Glenwood South,Auditor of State,,REP,Treasurer of State Dennis Milligan,396,253,11,132
+Pike,Kirby,Auditor of State,,REP,Treasurer of State Dennis Milligan,390,159,7,224
+Pike,Langley/Lodi,Auditor of State,,REP,Treasurer of State Dennis Milligan,183,89,3,91
+Pike,Murfreesboro East,Auditor of State,,REP,Treasurer of State Dennis Milligan,432,326,7,99
+Pike,Murfreesboro West,Auditor of State,,REP,Treasurer of State Dennis Milligan,564,409,8,147
+Pike,Newhope,Auditor of State,,REP,Treasurer of State Dennis Milligan,147,56,6,85
+Pike,Pisgah,Auditor of State,,REP,Treasurer of State Dennis Milligan,184,91,0,93
+Pike,Antoine,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,46,21,3,22
+Pike,Daisy,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,28,22,2,4
+Pike,Delight,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,38,21,3,14
+Pike,Glenwood North,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,60,40,3,17
+Pike,Glenwood South,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,57,39,0,18
+Pike,Kirby,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,39,19,0,20
+Pike,Langley/Lodi,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,11,8,2,1
+Pike,Murfreesboro East,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,99,83,1,15
+Pike,Murfreesboro West,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,97,77,7,13
+Pike,Newhope,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,11,9,0,2
+Pike,Pisgah,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,15,8,0,7
+Pike,Antoine,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,42,15,1,26
+Pike,Daisy,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,217,97,4,116
+Pike,Delight,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,334,149,2,183
+Pike,Glenwood North,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,257,164,5,88
+Pike,Glenwood South,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,404,261,11,132
+Pike,Kirby,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,387,158,7,222
+Pike,Langley/Lodi,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,187,89,3,95
+Pike,Murfreesboro East,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,431,321,8,102
+Pike,Murfreesboro West,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,575,419,7,149
+Pike,Newhope,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,149,58,6,85
+Pike,Pisgah,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,187,90,0,97
+Pike,Antoine,Governor,,REP,Sarah Huckabee Sanders,37,14,1,22
+Pike,Daisy,Governor,,REP,Sarah Huckabee Sanders,224,104,5,115
+Pike,Delight,Governor,,REP,Sarah Huckabee Sanders,334,151,2,181
+Pike,Glenwood North,Governor,,REP,Sarah Huckabee Sanders,245,161,6,78
+Pike,Glenwood South,Governor,,REP,Sarah Huckabee Sanders,400,256,9,135
+Pike,Kirby,Governor,,REP,Sarah Huckabee Sanders,382,159,7,216
+Pike,Langley/Lodi,Governor,,REP,Sarah Huckabee Sanders,180,84,3,93
+Pike,Murfreesboro East,Governor,,REP,Sarah Huckabee Sanders,420,311,8,101
+Pike,Murfreesboro West,Governor,,REP,Sarah Huckabee Sanders,559,407,8,144
+Pike,Newhope,Governor,,REP,Sarah Huckabee Sanders,151,59,6,86
+Pike,Pisgah,Governor,,REP,Sarah Huckabee Sanders,189,95,0,94
+Pike,Antoine,Governor,,DEM,Chris Jones,52,21,3,28
+Pike,Daisy,Governor,,DEM,Chris Jones,24,18,2,4
+Pike,Delight,Governor,,DEM,Chris Jones,39,20,3,16
+Pike,Glenwood North,Governor,,DEM,Chris Jones,71,45,2,24
+Pike,Glenwood South,Governor,,DEM,Chris Jones,64,44,2,18
+Pike,Kirby,Governor,,DEM,Chris Jones,50,21,0,29
+Pike,Langley/Lodi,Governor,,DEM,Chris Jones,13,11,0,2
+Pike,Murfreesboro East,Governor,,DEM,Chris Jones,107,88,1,18
+Pike,Murfreesboro West,Governor,,DEM,Chris Jones,108,85,6,17
+Pike,Newhope,Governor,,DEM,Chris Jones,10,8,0,2
+Pike,Pisgah,Governor,,DEM,Chris Jones,14,4,0,10
+Pike,Antoine,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,1,0,0
+Pike,Daisy,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Pike,Delight,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,2,0,3
+Pike,Glenwood North,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,0,0,3
+Pike,Glenwood South,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,3,0,2
+Pike,Kirby,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,2,0,1
+Pike,Langley/Lodi,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,2,2,1
+Pike,Murfreesboro East,Governor,,LIB,"Ricky Dale Harrington, Jr.",10,7,0,3
+Pike,Murfreesboro West,Governor,,LIB,"Ricky Dale Harrington, Jr.",16,13,0,3
+Pike,Newhope,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,1,0,0
+Pike,Pisgah,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Pike,Antoine,Lieutenant Governor,,DEM,Kelly Ross Krout,45,19,3,23
+Pike,Daisy,Lieutenant Governor,,DEM,Kelly Ross Krout,27,21,2,4
+Pike,Delight,Lieutenant Governor,,DEM,Kelly Ross Krout,34,17,3,14
+Pike,Glenwood North,Lieutenant Governor,,DEM,Kelly Ross Krout,62,39,3,20
+Pike,Glenwood South,Lieutenant Governor,,DEM,Kelly Ross Krout,54,39,1,14
+Pike,Kirby,Lieutenant Governor,,DEM,Kelly Ross Krout,41,17,0,24
+Pike,Langley/Lodi,Lieutenant Governor,,DEM,Kelly Ross Krout,11,6,2,3
+Pike,Murfreesboro East,Lieutenant Governor,,DEM,Kelly Ross Krout,93,80,1,12
+Pike,Murfreesboro West,Lieutenant Governor,,DEM,Kelly Ross Krout,98,81,5,12
+Pike,Newhope,Lieutenant Governor,,DEM,Kelly Ross Krout,8,7,0,1
+Pike,Pisgah,Lieutenant Governor,,DEM,Kelly Ross Krout,17,7,0,10
+Pike,Antoine,Lieutenant Governor,,LIB,Frank Gilbert,2,1,0,1
+Pike,Daisy,Lieutenant Governor,,LIB,Frank Gilbert,5,0,1,4
+Pike,Delight,Lieutenant Governor,,LIB,Frank Gilbert,14,6,0,8
+Pike,Glenwood North,Lieutenant Governor,,LIB,Frank Gilbert,8,4,0,4
+Pike,Glenwood South,Lieutenant Governor,,LIB,Frank Gilbert,19,10,2,7
+Pike,Kirby,Lieutenant Governor,,LIB,Frank Gilbert,10,4,0,6
+Pike,Langley/Lodi,Lieutenant Governor,,LIB,Frank Gilbert,11,7,0,4
+Pike,Murfreesboro East,Lieutenant Governor,,LIB,Frank Gilbert,12,7,0,5
+Pike,Murfreesboro West,Lieutenant Governor,,LIB,Frank Gilbert,18,15,0,3
+Pike,Newhope,Lieutenant Governor,,LIB,Frank Gilbert,1,1,0,0
+Pike,Pisgah,Lieutenant Governor,,LIB,Frank Gilbert,2,1,0,1
+Pike,Antoine,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,43,16,1,26
+Pike,Daisy,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,216,100,4,112
+Pike,Delight,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,326,147,2,177
+Pike,Glenwood North,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,246,162,5,79
+Pike,Glenwood South,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,395,255,8,132
+Pike,Kirby,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,383,160,7,216
+Pike,Langley/Lodi,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,176,84,3,89
+Pike,Murfreesboro East,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,431,321,8,102
+Pike,Murfreesboro West,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,562,406,9,147
+Pike,Newhope,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,151,59,6,86
+Pike,Pisgah,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,184,91,0,93
+Pike,Antoine,Secretary of State,,REP,Secretary of State John Thurston,44,16,0,28
+Pike,Daisy,Secretary of State,,REP,Secretary of State John Thurston,219,98,4,117
+Pike,Delight,Secretary of State,,REP,Secretary of State John Thurston,333,148,2,183
+Pike,Glenwood North,Secretary of State,,REP,Secretary of State John Thurston,254,164,4,86
+Pike,Glenwood South,Secretary of State,,REP,Secretary of State John Thurston,403,260,11,132
+Pike,Kirby,Secretary of State,,REP,Secretary of State John Thurston,391,161,7,223
+Pike,Langley/Lodi,Secretary of State,,REP,Secretary of State John Thurston,184,89,3,92
+Pike,Murfreesboro East,Secretary of State,,REP,Secretary of State John Thurston,437,327,7,103
+Pike,Murfreesboro West,Secretary of State,,REP,Secretary of State John Thurston,572,416,8,148
+Pike,Newhope,Secretary of State,,REP,Secretary of State John Thurston,149,58,5,86
+Pike,Pisgah,Secretary of State,,REP,Secretary of State John Thurston,190,92,0,98
+Pike,Antoine,Secretary of State,,DEM,Anna Beth Gorman,46,20,4,22
+Pike,Daisy,Secretary of State,,DEM,Anna Beth Gorman,26,21,2,3
+Pike,Delight,Secretary of State,,DEM,Anna Beth Gorman,39,22,3,14
+Pike,Glenwood North,Secretary of State,,DEM,Anna Beth Gorman,62,39,4,19
+Pike,Glenwood South,Secretary of State,,DEM,Anna Beth Gorman,61,42,0,19
+Pike,Kirby,Secretary of State,,DEM,Anna Beth Gorman,37,17,0,20
+Pike,Langley/Lodi,Secretary of State,,DEM,Anna Beth Gorman,12,7,1,4
+Pike,Murfreesboro East,Secretary of State,,DEM,Anna Beth Gorman,93,78,1,14
+Pike,Murfreesboro West,Secretary of State,,DEM,Anna Beth Gorman,103,83,6,14
+Pike,Newhope,Secretary of State,,DEM,Anna Beth Gorman,11,10,0,1
+Pike,Pisgah,Secretary of State,,DEM,Anna Beth Gorman,12,6,0,6
+Pike,Antoine,State Treasurer,,DEM,Pam Whitaker,48,21,4,23
+Pike,Daisy,State Treasurer,,DEM,Pam Whitaker,25,20,2,3
+Pike,Delight,State Treasurer,,DEM,Pam Whitaker,43,23,3,17
+Pike,Glenwood North,State Treasurer,,DEM,Pam Whitaker,65,41,6,18
+Pike,Glenwood South,State Treasurer,,DEM,Pam Whitaker,61,43,0,18
+Pike,Kirby,State Treasurer,,DEM,Pam Whitaker,43,19,0,24
+Pike,Langley/Lodi,State Treasurer,,DEM,Pam Whitaker,11,7,2,2
+Pike,Murfreesboro East,State Treasurer,,DEM,Pam Whitaker,99,81,1,17
+Pike,Murfreesboro West,State Treasurer,,DEM,Pam Whitaker,103,83,7,13
+Pike,Newhope,State Treasurer,,DEM,Pam Whitaker,12,10,0,2
+Pike,Pisgah,State Treasurer,,DEM,Pam Whitaker,13,6,0,7
+Pike,Antoine,State Treasurer,,REP,State Representative Mark Lowery,40,15,0,25
+Pike,Daisy,State Treasurer,,REP,State Representative Mark Lowery,220,98,5,117
+Pike,Delight,State Treasurer,,REP,State Representative Mark Lowery,332,148,2,182
+Pike,Glenwood North,State Treasurer,,REP,State Representative Mark Lowery,251,162,2,87
+Pike,Glenwood South,State Treasurer,,REP,State Representative Mark Lowery,403,258,11,134
+Pike,Kirby,State Treasurer,,REP,State Representative Mark Lowery,386,161,7,218
+Pike,Langley/Lodi,State Treasurer,,REP,State Representative Mark Lowery,187,90,3,94
+Pike,Murfreesboro East,State Treasurer,,REP,State Representative Mark Lowery,431,322,8,101
+Pike,Murfreesboro West,State Treasurer,,REP,State Representative Mark Lowery,571,416,7,148
+Pike,Newhope,State Treasurer,,REP,State Representative Mark Lowery,148,57,6,85
+Pike,Pisgah,State Treasurer,,REP,State Representative Mark Lowery,187,92,0,95
+Pike,Antoine,State Senate,03,REP,Alderman Steve Crowell,57,23,0,34
+Pike,Delight,State Senate,03,REP,Alderman Steve Crowell,335,159,1,175
+Pike,Murfreesboro East,State Senate,03,REP,Alderman Steve Crowell,480,362,8,110
+Pike,Murfreesboro West,State Senate,03,REP,Alderman Steve Crowell,631,466,11,154
+Pike,Pisgah,State Senate,03,REP,Alderman Steve Crowell,190,93,0,97
+Pike,Daisy,State Senate,05,REP,Senator Terry Rice,221,102,4,115
+Pike,Glenwood North,State Senate,05,REP,Senator Terry Rice,267,171,5,91
+Pike,Glenwood South,State Senate,05,REP,Senator Terry Rice,418,271,9,138
+Pike,Kirby,State Senate,05,REP,Senator Terry Rice,378,152,7,219
+Pike,Langley/Lodi,State Senate,05,REP,Senator Terry Rice,182,88,4,90
+Pike,Newhope,State Senate,05,REP,Senator Terry Rice,148,59,6,83
+Pike,Antoine,State House,89,REP,State Representative Justin Gonzales,62,27,0,35
+Pike,Daisy,State House,89,REP,State Representative Justin Gonzales,218,104,3,111
+Pike,Delight,State House,89,REP,State Representative Justin Gonzales,350,161,1,188
+Pike,Glenwood North,State House,89,REP,State Representative Justin Gonzales,262,171,5,86
+Pike,Glenwood South,State House,89,REP,State Representative Justin Gonzales,415,266,9,140
+Pike,Kirby,State House,89,REP,State Representative Justin Gonzales,390,164,6,220
+Pike,Langley/Lodi,State House,89,REP,State Representative Justin Gonzales,186,91,4,91
+Pike,Murfreesboro East,State House,89,REP,State Representative Justin Gonzales,479,362,8,109
+Pike,Murfreesboro West,State House,89,REP,State Representative Justin Gonzales,632,466,10,156
+Pike,Newhope,State House,89,REP,State Representative Justin Gonzales,145,58,6,81
+Pike,Pisgah,State House,89,REP,State Representative Justin Gonzales,191,93,0,98
+Pike,Antoine,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,39,16,1,22
+Pike,Daisy,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,91,41,1,49
+Pike,Delight,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,152,71,3,78
+Pike,Glenwood North,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,105,68,1,36
+Pike,Glenwood South,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,175,110,4,61
+Pike,Kirby,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,177,72,3,102
+Pike,Langley/Lodi,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,66,33,1,32
+Pike,Murfreesboro East,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,235,185,4,46
+Pike,Murfreesboro West,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,253,180,8,65
+Pike,Newhope,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,59,24,4,31
+Pike,Pisgah,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,79,37,0,42
+Pike,Antoine,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,35,15,2,18
+Pike,Daisy,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,115,57,5,53
+Pike,Delight,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,170,76,0,94
+Pike,Glenwood North,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,139,93,4,42
+Pike,Glenwood South,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,226,151,7,68
+Pike,Kirby,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,189,83,3,103
+Pike,Langley/Lodi,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,99,53,3,43
+Pike,Murfreesboro East,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,251,192,4,55
+Pike,Murfreesboro West,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,343,255,2,86
+Pike,Newhope,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,79,27,2,50
+Pike,Pisgah,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,85,46,0,39
+Pike,Antoine,Pike County Judge,,DEM,DEM Dewight Mack,31,14,3,14
+Pike,Daisy,Pike County Judge,,DEM,DEM Dewight Mack,79,50,2,27
+Pike,Delight,Pike County Judge,,DEM,DEM Dewight Mack,50,25,1,24
+Pike,Glenwood North,Pike County Judge,,DEM,DEM Dewight Mack,151,108,7,36
+Pike,Glenwood South,Pike County Judge,,DEM,DEM Dewight Mack,178,116,5,57
+Pike,Kirby,Pike County Judge,,DEM,DEM Dewight Mack,140,51,4,85
+Pike,Langley/Lodi,Pike County Judge,,DEM,DEM Dewight Mack,86,42,4,40
+Pike,Murfreesboro East,Pike County Judge,,DEM,DEM Dewight Mack,144,114,4,26
+Pike,Murfreesboro West,Pike County Judge,,DEM,DEM Dewight Mack,167,137,5,25
+Pike,Newhope,Pike County Judge,,DEM,DEM Dewight Mack,61,25,1,35
+Pike,Pisgah,Pike County Judge,,DEM,DEM Dewight Mack,19,12,0,7
+Pike,Antoine,Pike County Judge,,REP,REP Eddie Howard,58,22,1,35
+Pike,Daisy,Pike County Judge,,REP,REP Eddie Howard,168,70,5,93
+Pike,Delight,Pike County Judge,,REP,REP Eddie Howard,328,147,4,177
+Pike,Glenwood North,Pike County Judge,,REP,REP Eddie Howard,165,94,1,70
+Pike,Glenwood South,Pike County Judge,,REP,REP Eddie Howard,290,187,6,97
+Pike,Kirby,Pike County Judge,,REP,REP Eddie Howard,296,131,3,162
+Pike,Langley/Lodi,Pike County Judge,,REP,REP Eddie Howard,112,55,1,56
+Pike,Murfreesboro East,Pike County Judge,,REP,REP Eddie Howard,394,295,5,94
+Pike,Murfreesboro West,Pike County Judge,,REP,REP Eddie Howard,519,370,9,140
+Pike,Newhope,Pike County Judge,,REP,REP Eddie Howard,100,43,5,52
+Pike,Pisgah,Pike County Judge,,REP,REP Eddie Howard,185,87,0,98
+Pike,Antoine,Pike County Assessor,,REP,REP Staci Stewart,31,12,0,19
+Pike,Daisy,Pike County Assessor,,REP,REP Staci Stewart,201,92,6,103
+Pike,Delight,Pike County Assessor,,REP,REP Staci Stewart,270,114,1,155
+Pike,Glenwood North,Pike County Assessor,,REP,REP Staci Stewart,240,154,5,81
+Pike,Glenwood South,Pike County Assessor,,REP,REP Staci Stewart,367,235,10,122
+Pike,Kirby,Pike County Assessor,,REP,REP Staci Stewart,371,152,5,214
+Pike,Langley/Lodi,Pike County Assessor,,REP,REP Staci Stewart,176,83,3,90
+Pike,Murfreesboro East,Pike County Assessor,,REP,REP Staci Stewart,313,239,0,74
+Pike,Murfreesboro West,Pike County Assessor,,REP,REP Staci Stewart,390,286,3,101
+Pike,Newhope,Pike County Assessor,,REP,REP Staci Stewart,140,52,5,83
+Pike,Pisgah,Pike County Assessor,,REP,REP Staci Stewart,158,73,0,85
+Pike,Antoine,Pike County Assessor,,IND,IND Jennifer Watson,54,21,4,29
+Pike,Daisy,Pike County Assessor,,IND,IND Jennifer Watson,45,29,0,16
+Pike,Delight,Pike County Assessor,,IND,IND Jennifer Watson,100,52,4,44
+Pike,Glenwood North,Pike County Assessor,,IND,IND Jennifer Watson,68,43,3,22
+Pike,Glenwood South,Pike County Assessor,,IND,IND Jennifer Watson,98,66,1,31
+Pike,Kirby,Pike County Assessor,,IND,IND Jennifer Watson,61,27,1,33
+Pike,Langley/Lodi,Pike County Assessor,,IND,IND Jennifer Watson,21,14,2,5
+Pike,Murfreesboro East,Pike County Assessor,,IND,IND Jennifer Watson,210,159,7,44
+Pike,Murfreesboro West,Pike County Assessor,,IND,IND Jennifer Watson,284,211,10,63
+Pike,Newhope,Pike County Assessor,,IND,IND Jennifer Watson,21,15,1,5
+Pike,Pisgah,Pike County Assessor,,IND,IND Jennifer Watson,42,22,0,20
+Pike,Antoine,Pike County Circuit Clerk,,REP,REP Sabrina Williams,66,29,1,36
+Pike,Daisy,Pike County Circuit Clerk,,REP,REP Sabrina Williams,222,106,5,111
+Pike,Delight,Pike County Circuit Clerk,,REP,REP Sabrina Williams,350,161,1,188
+Pike,Glenwood North,Pike County Circuit Clerk,,REP,REP Sabrina Williams,270,174,5,91
+Pike,Glenwood South,Pike County Circuit Clerk,,REP,REP Sabrina Williams,436,282,9,145
+Pike,Kirby,Pike County Circuit Clerk,,REP,REP Sabrina Williams,405,169,7,229
+Pike,Langley/Lodi,Pike County Circuit Clerk,,REP,REP Sabrina Williams,187,91,5,91
+Pike,Murfreesboro East,Pike County Circuit Clerk,,REP,REP Sabrina Williams,504,380,9,115
+Pike,Murfreesboro West,Pike County Circuit Clerk,,REP,REP Sabrina Williams,642,474,11,157
+Pike,Newhope,Pike County Circuit Clerk,,REP,REP Sabrina Williams,151,60,6,85
+Pike,Pisgah,Pike County Circuit Clerk,,REP,REP Sabrina Williams,192,94,0,98
+Pike,Daisy,Mayor of Daisy,,IND,IND Lisa Cogburn,35,20,1,14
+Pike,Daisy,Daisy Recorder/Treasurer,,IND,IND Missy Jones,36,20,1,15
+Pike,Delight,Mayor of Delight,,IND,IND Lee Gatliff,73,31,0,42
+Pike,Delight,Delight Recorder/Treasurer,,IND,IND Chris Gibbons,73,30,0,43
+Pike,Glenwood North,Mayor of Glenwood,,IND,IND John R. Powell,205,122,6,77
+Pike,Glenwood South,Mayor of Glenwood,,IND,IND John R. Powell,163,107,3,53
+Pike,Murfreesboro East,Mayor of Murfreesboro,,IND,IND Jack Bonds,65,55,2,8
+Pike,Murfreesboro West,Mayor of Murfreesboro,,IND,IND Jack Bonds,52,39,3,10
+Pike,Murfreesboro East,Mayor of Murfreesboro,,IND,IND Jim O'Neal,171,130,1,40
+Pike,Murfreesboro West,Mayor of Murfreesboro,,IND,IND Jim O'Neal,204,156,7,41
+Pike,Murfreesboro East,Mayor of Murfreesboro,,IND,"IND Randy ""Flick"" Hignight",35,25,0,10
+Pike,Murfreesboro West,Mayor of Murfreesboro,,IND,"IND Randy ""Flick"" Hignight",48,38,1,9
+Pike,Murfreesboro East,Murfreesboro Alderman,,IND,IND Lance Bridgeman,113,93,2,18
+Pike,Murfreesboro West,Murfreesboro Alderman,,IND,IND Lance Bridgeman,111,89,6,16
+Pike,Murfreesboro East,Murfreesboro Alderman,,IND,IND Kirk J. Stone,148,111,1,36
+Pike,Murfreesboro West,Murfreesboro Alderman,,IND,IND Kirk J. Stone,184,139,5,40
+Pike,Antoine,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,25,11,1,13
+Pike,Daisy,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,94,48,2,44
+Pike,Delight,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,130,71,3,56
+Pike,Glenwood North,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,131,78,3,50
+Pike,Glenwood South,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,173,120,4,49
+Pike,Kirby,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,156,65,2,89
+Pike,Langley/Lodi,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,77,40,3,34
+Pike,Murfreesboro East,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,205,154,3,48
+Pike,Murfreesboro West,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,241,174,8,59
+Pike,Newhope,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,54,24,5,25
+Pike,Pisgah,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,61,35,0,26
+Pike,Antoine,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,58,23,3,32
+Pike,Daisy,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,139,66,4,69
+Pike,Delight,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,222,93,1,128
+Pike,Glenwood North,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,166,111,4,51
+Pike,Glenwood South,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,267,162,7,98
+Pike,Kirby,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,265,107,5,153
+Pike,Langley/Lodi,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,115,56,2,57
+Pike,Murfreesboro East,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,308,238,4,66
+Pike,Murfreesboro West,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,402,302,5,95
+Pike,Newhope,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,95,35,1,59
+Pike,Pisgah,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,132,59,0,73
+Pike,Antoine,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,26,7,0,19
+Pike,Daisy,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,98,54,1,43
+Pike,Delight,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,151,65,1,85
+Pike,Glenwood North,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,112,67,2,43
+Pike,Glenwood South,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,184,123,5,56
+Pike,Kirby,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,169,74,0,95
+Pike,Langley/Lodi,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,78,36,4,38
+Pike,Murfreesboro East,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,231,172,5,54
+Pike,Murfreesboro West,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,279,204,4,71
+Pike,Newhope,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,58,27,5,26
+Pike,Pisgah,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,81,50,0,31
+Pike,Antoine,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,58,28,3,27
+Pike,Daisy,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,141,63,5,73
+Pike,Delight,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,214,100,4,110
+Pike,Glenwood North,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,185,123,4,58
+Pike,Glenwood South,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,262,165,6,91
+Pike,Kirby,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,253,104,6,143
+Pike,Langley/Lodi,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,116,61,1,54
+Pike,Murfreesboro East,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,284,222,4,58
+Pike,Murfreesboro West,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,377,283,8,86
+Pike,Newhope,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,96,37,0,59
+Pike,Pisgah,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,111,45,0,66
+Pike,Antoine,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,36,12,2,22
+Pike,Daisy,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,114,55,3,56
+Pike,Delight,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,169,77,1,91
+Pike,Glenwood North,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,149,92,2,55
+Pike,Glenwood South,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,225,150,5,70
+Pike,Kirby,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,191,90,3,98
+Pike,Langley/Lodi,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,106,58,1,47
+Pike,Murfreesboro East,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,273,204,5,64
+Pike,Murfreesboro West,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,330,246,8,76
+Pike,Newhope,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,73,35,4,34
+Pike,Pisgah,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,82,46,0,36
+Pike,Antoine,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,51,23,2,26
+Pike,Daisy,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,128,62,4,62
+Pike,Delight,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,197,91,4,102
+Pike,Glenwood North,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,154,101,4,49
+Pike,Glenwood South,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,228,140,6,82
+Pike,Kirby,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,235,87,3,145
+Pike,Langley/Lodi,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,88,39,4,45
+Pike,Murfreesboro East,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,248,194,3,51
+Pike,Murfreesboro West,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,331,244,6,81
+Pike,Newhope,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,83,30,2,51
+Pike,Pisgah,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,116,50,0,66
+Pike,Antoine,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,40,18,1,21
+Pike,Daisy,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,90,46,1,43
+Pike,Delight,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,148,66,1,81
+Pike,Glenwood North,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,120,75,1,44
+Pike,Glenwood South,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,174,107,5,62
+Pike,Kirby,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,132,46,3,83
+Pike,Langley/Lodi,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,48,22,3,23
+Pike,Murfreesboro East,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,215,147,3,65
+Pike,Murfreesboro West,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,262,193,4,65
+Pike,Newhope,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,51,25,0,26
+Pike,Pisgah,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,64,34,0,30
+Pike,Antoine,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,49,18,3,28
+Pike,Daisy,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,154,75,5,74
+Pike,Delight,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,228,107,4,117
+Pike,Glenwood North,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,198,132,7,59
+Pike,Glenwood South,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,295,196,6,93
+Pike,Kirby,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,305,136,4,165
+Pike,Langley/Lodi,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,150,75,2,73
+Pike,Murfreesboro East,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,321,259,6,56
+Pike,Murfreesboro West,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,418,312,9,97
+Pike,Newhope,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,108,42,6,60
+Pike,Pisgah,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,139,64,0,75
+Pike,Antoine,Local Option Question (Wet/Dry Question),,NON,FOR the Manufacture or Sale of Intox,50,21,1,28
+Pike,Daisy,Local Option Question (Wet/Dry Question),,NON,FOR the Manufacture or Sale of Intox,124,71,1,52
+Pike,Delight,Local Option Question (Wet/Dry Question),,NON,FOR the Manufacture or Sale of Intox,181,80,3,98
+Pike,Glenwood North,Local Option Question (Wet/Dry Question),,NON,FOR the Manufacture or Sale of Intox,154,93,1,60
+Pike,Glenwood South,Local Option Question (Wet/Dry Question),,NON,FOR the Manufacture or Sale of Intox,218,141,6,71
+Pike,Kirby,Local Option Question (Wet/Dry Question),,NON,FOR the Manufacture or Sale of Intox,193,70,4,119
+Pike,Langley/Lodi,Local Option Question (Wet/Dry Question),,NON,FOR the Manufacture or Sale of Intox,65,29,3,33
+Pike,Murfreesboro East,Local Option Question (Wet/Dry Question),,NON,FOR the Manufacture or Sale of Intox,313,233,8,72
+Pike,Murfreesboro West,Local Option Question (Wet/Dry Question),,NON,FOR the Manufacture or Sale of Intox,386,291,8,87
+Pike,Newhope,Local Option Question (Wet/Dry Question),,NON,FOR the Manufacture or Sale of Intox,75,38,3,34
+Pike,Pisgah,Local Option Question (Wet/Dry Question),,NON,FOR the Manufacture or Sale of Intox,93,50,0,43
+Pike,Antoine,Local Option Question (Wet/Dry Question),,NON,AGAINST the Manufacture or Sale of I,39,15,3,21
+Pike,Daisy,Local Option Question (Wet/Dry Question),,NON,AGAINST the Manufacture or Sale of I,122,50,6,66
+Pike,Delight,Local Option Question (Wet/Dry Question),,NON,AGAINST the Manufacture or Sale of I,195,92,2,101
+Pike,Glenwood North,Local Option Question (Wet/Dry Question),,NON,AGAINST the Manufacture or Sale of I,162,109,7,46
+Pike,Glenwood South,Local Option Question (Wet/Dry Question),,NON,AGAINST the Manufacture or Sale of I,247,159,5,83
+Pike,Kirby,Local Option Question (Wet/Dry Question),,NON,AGAINST the Manufacture or Sale of I,247,113,3,131
+Pike,Langley/Lodi,Local Option Question (Wet/Dry Question),,NON,AGAINST the Manufacture or Sale of I,133,68,2,63
+Pike,Murfreesboro East,Local Option Question (Wet/Dry Question),,NON,AGAINST the Manufacture or Sale of I,222,172,1,49
+Pike,Murfreesboro West,Local Option Question (Wet/Dry Question),,NON,AGAINST the Manufacture or Sale of I,297,214,6,77
+Pike,Newhope,Local Option Question (Wet/Dry Question),,NON,AGAINST the Manufacture or Sale of I,86,29,3,54
+Pike,Pisgah,Local Option Question (Wet/Dry Question),,NON,AGAINST the Manufacture or Sale of I,108,47,0,61

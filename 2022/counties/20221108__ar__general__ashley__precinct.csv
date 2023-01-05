@@ -1,0 +1,1262 @@
+county,precinct,office,district,party,candidate,votes,provisional,early_voting,absentee,election_day
+Ashley,CW1,U.S. Senate,,REP,Senator John Boozman,147,0,94,3,50
+Ashley,CW2,U.S. Senate,,REP,Senator John Boozman,211,0,123,15,73
+Ashley,CW3,U.S. Senate,,REP,Senator John Boozman,481,0,310,7,164
+Ashley,NCE,U.S. Senate,,REP,Senator John Boozman,276,1,141,5,129
+Ashley,NCW,U.S. Senate,,REP,Senator John Boozman,157,0,81,5,71
+Ashley,WCR,U.S. Senate,,REP,Senator John Boozman,269,0,161,1,107
+Ashley,VOTECH,U.S. Senate,,REP,Senator John Boozman,153,0,79,0,74
+Ashley,COOTER,U.S. Senate,,REP,Senator John Boozman,140,0,47,1,92
+Ashley,HICKORY GROVE,U.S. Senate,,REP,Senator John Boozman,328,0,225,3,100
+Ashley,CROSSROADS,U.S. Senate,,REP,Senator John Boozman,267,0,133,2,132
+Ashley,HW3,U.S. Senate,,REP,Senator John Boozman,240,0,148,4,88
+Ashley,HW2,U.S. Senate,,REP,Senator John Boozman,148,1,94,3,50
+Ashley,HW1,U.S. Senate,,REP,Senator John Boozman,34,0,17,0,17
+Ashley,HAMBURG RURAL,U.S. Senate,,REP,Senator John Boozman,386,0,257,10,119
+Ashley,MT ZION,U.S. Senate,,REP,Senator John Boozman,106,0,69,3,34
+Ashley,MILO,U.S. Senate,,REP,Senator John Boozman,240,0,113,5,122
+Ashley,BEECH CREEK,U.S. Senate,,REP,Senator John Boozman,16,0,7,0,9
+Ashley,MIST,U.S. Senate,,REP,Senator John Boozman,55,1,38,0,16
+Ashley,FOUNTAIN HILL CITY,U.S. Senate,,REP,Senator John Boozman,27,1,6,0,20
+Ashley,FOUNTAIN HILL RURAL,U.S. Senate,,REP,Senator John Boozman,169,0,58,3,108
+Ashley,PORTLAND CITY,U.S. Senate,,REP,Senator John Boozman,87,0,15,4,68
+Ashley,PORTLAND RURAL,U.S. Senate,,REP,Senator John Boozman,15,0,2,0,13
+Ashley,BOYDELL,U.S. Senate,,REP,Senator John Boozman,4,0,2,0,2
+Ashley,SNYDER / TRAFALGAR,U.S. Senate,,REP,Senator John Boozman,32,0,22,1,9
+Ashley,MONTROSE CITY,U.S. Senate,,REP,Senator John Boozman,20,0,4,0,16
+Ashley,MONTROSE RURAL,U.S. Senate,,REP,Senator John Boozman,2,0,0,0,2
+Ashley,PARKDALE CITY,U.S. Senate,,REP,Senator John Boozman,18,0,8,1,9
+Ashley,PARKDALE RURAL,U.S. Senate,,REP,Senator John Boozman,4,0,2,0,2
+Ashley,WILMOT CITY,U.S. Senate,,REP,Senator John Boozman,33,0,17,0,16
+Ashley,WILMOT RURAL,U.S. Senate,,REP,Senator John Boozman,38,0,13,1,24
+Ashley,CW1,U.S. Senate,,DEM,Natalie James,177,3,123,10,41
+Ashley,CW2,U.S. Senate,,DEM,Natalie James,191,0,120,4,67
+Ashley,CW3,U.S. Senate,,DEM,Natalie James,115,0,77,3,35
+Ashley,NCE,U.S. Senate,,DEM,Natalie James,45,0,28,0,17
+Ashley,NCW,U.S. Senate,,DEM,Natalie James,30,0,12,1,17
+Ashley,WCR,U.S. Senate,,DEM,Natalie James,92,0,55,3,34
+Ashley,VOTECH,U.S. Senate,,DEM,Natalie James,39,1,25,2,11
+Ashley,COOTER,U.S. Senate,,DEM,Natalie James,18,0,9,0,9
+Ashley,HICKORY GROVE,U.S. Senate,,DEM,Natalie James,21,0,15,1,5
+Ashley,CROSSROADS,U.S. Senate,,DEM,Natalie James,29,0,21,0,8
+Ashley,HW3,U.S. Senate,,DEM,Natalie James,35,0,20,3,12
+Ashley,HW2,U.S. Senate,,DEM,Natalie James,39,0,22,0,17
+Ashley,HW1,U.S. Senate,,DEM,Natalie James,79,2,48,1,28
+Ashley,HAMBURG RURAL,U.S. Senate,,DEM,Natalie James,42,0,30,0,12
+Ashley,MT ZION,U.S. Senate,,DEM,Natalie James,2,0,2,0,0
+Ashley,MILO,U.S. Senate,,DEM,Natalie James,23,0,12,1,10
+Ashley,BEECH CREEK,U.S. Senate,,DEM,Natalie James,0,0,0,0,0
+Ashley,MIST,U.S. Senate,,DEM,Natalie James,5,0,4,0,1
+Ashley,FOUNTAIN HILL CITY,U.S. Senate,,DEM,Natalie James,16,0,6,0,10
+Ashley,FOUNTAIN HILL RURAL,U.S. Senate,,DEM,Natalie James,16,0,3,2,11
+Ashley,PORTLAND CITY,U.S. Senate,,DEM,Natalie James,64,0,3,1,60
+Ashley,PORTLAND RURAL,U.S. Senate,,DEM,Natalie James,6,0,0,0,6
+Ashley,BOYDELL,U.S. Senate,,DEM,Natalie James,3,0,0,0,3
+Ashley,SNYDER / TRAFALGAR,U.S. Senate,,DEM,Natalie James,3,0,3,0,0
+Ashley,MONTROSE CITY,U.S. Senate,,DEM,Natalie James,38,0,5,0,33
+Ashley,MONTROSE RURAL,U.S. Senate,,DEM,Natalie James,1,0,0,0,1
+Ashley,PARKDALE CITY,U.S. Senate,,DEM,Natalie James,34,0,5,0,29
+Ashley,PARKDALE RURAL,U.S. Senate,,DEM,Natalie James,2,0,0,0,2
+Ashley,WILMOT CITY,U.S. Senate,,DEM,Natalie James,78,0,9,6,63
+Ashley,WILMOT RURAL,U.S. Senate,,DEM,Natalie James,8,0,4,0,4
+Ashley,CW1,U.S. Senate,,LBT,Kenneth Cates,7,0,3,0,4
+Ashley,CW2,U.S. Senate,,LBT,Kenneth Cates,8,0,5,0,3
+Ashley,CW3,U.S. Senate,,LBT,Kenneth Cates,6,0,3,0,3
+Ashley,NCE,U.S. Senate,,LBT,Kenneth Cates,3,0,2,0,1
+Ashley,NCW,U.S. Senate,,LBT,Kenneth Cates,5,0,2,0,3
+Ashley,WCR,U.S. Senate,,LBT,Kenneth Cates,8,0,5,0,3
+Ashley,VOTECH,U.S. Senate,,LBT,Kenneth Cates,1,0,1,0,0
+Ashley,COOTER,U.S. Senate,,LBT,Kenneth Cates,4,0,1,0,3
+Ashley,HICKORY GROVE,U.S. Senate,,LBT,Kenneth Cates,7,0,3,0,4
+Ashley,CROSSROADS,U.S. Senate,,LBT,Kenneth Cates,4,0,2,0,2
+Ashley,HW3,U.S. Senate,,LBT,Kenneth Cates,2,0,1,0,1
+Ashley,HW2,U.S. Senate,,LBT,Kenneth Cates,3,0,3,0,0
+Ashley,HW1,U.S. Senate,,LBT,Kenneth Cates,2,0,2,0,0
+Ashley,HAMBURG RURAL,U.S. Senate,,LBT,Kenneth Cates,5,0,3,0,2
+Ashley,MT ZION,U.S. Senate,,LBT,Kenneth Cates,1,0,0,0,1
+Ashley,MILO,U.S. Senate,,LBT,Kenneth Cates,4,0,3,0,1
+Ashley,BEECH CREEK,U.S. Senate,,LBT,Kenneth Cates,0,0,0,0,0
+Ashley,MIST,U.S. Senate,,LBT,Kenneth Cates,0,0,0,0,0
+Ashley,FOUNTAIN HILL CITY,U.S. Senate,,LBT,Kenneth Cates,0,0,0,0,0
+Ashley,FOUNTAIN HILL RURAL,U.S. Senate,,LBT,Kenneth Cates,2,0,2,0,0
+Ashley,PORTLAND CITY,U.S. Senate,,LBT,Kenneth Cates,3,0,0,2,1
+Ashley,PORTLAND RURAL,U.S. Senate,,LBT,Kenneth Cates,1,0,0,0,1
+Ashley,BOYDELL,U.S. Senate,,LBT,Kenneth Cates,0,0,0,0,0
+Ashley,SNYDER / TRAFALGAR,U.S. Senate,,LBT,Kenneth Cates,0,0,0,0,0
+Ashley,MONTROSE CITY,U.S. Senate,,LBT,Kenneth Cates,1,0,0,0,1
+Ashley,MONTROSE RURAL,U.S. Senate,,LBT,Kenneth Cates,0,0,0,0,0
+Ashley,PARKDALE CITY,U.S. Senate,,LBT,Kenneth Cates,1,0,0,0,1
+Ashley,PARKDALE RURAL,U.S. Senate,,LBT,Kenneth Cates,0,0,0,0,0
+Ashley,WILMOT CITY,U.S. Senate,,LBT,Kenneth Cates,2,0,0,0,2
+Ashley,WILMOT RURAL,U.S. Senate,,LBT,Kenneth Cates,0,0,0,0,0
+Ashley,CW1,U.S. Congress District 04,,DEM,John White,178,3,123,10,42
+Ashley,CW2,U.S. Congress District 04,,DEM,John White,189,0,116,4,69
+Ashley,CW3,U.S. Congress District 04,,DEM,John White,109,0,73,1,35
+Ashley,NCE,U.S. Congress District 04,,DEM,John White,47,0,30,0,17
+Ashley,NCW,U.S. Congress District 04,,DEM,John White,30,0,11,1,18
+Ashley,WCR,U.S. Congress District 04,,DEM,John White,89,0,54,3,32
+Ashley,VOTECH,U.S. Congress District 04,,DEM,John White,38,1,24,2,11
+Ashley,COOTER,U.S. Congress District 04,,DEM,John White,17,0,10,0,7
+Ashley,HICKORY GROVE,U.S. Congress District 04,,DEM,John White,24,0,17,1,6
+Ashley,CROSSROADS,U.S. Congress District 04,,DEM,John White,29,0,21,0,8
+Ashley,HW3,U.S. Congress District 04,,DEM,John White,34,0,21,2,11
+Ashley,HW2,U.S. Congress District 04,,DEM,John White,42,0,25,0,17
+Ashley,HW1,U.S. Congress District 04,,DEM,John White,80,2,48,1,29
+Ashley,HAMBURG RURAL,U.S. Congress District 04,,DEM,John White,37,0,29,0,8
+Ashley,MT ZION,U.S. Congress District 04,,DEM,John White,3,0,3,0,0
+Ashley,MILO,U.S. Congress District 04,,DEM,John White,25,0,11,2,12
+Ashley,BEECH CREEK,U.S. Congress District 04,,DEM,John White,0,0,0,0,0
+Ashley,MIST,U.S. Congress District 04,,DEM,John White,4,0,3,0,1
+Ashley,FOUNTAIN HILL CITY,U.S. Congress District 04,,DEM,John White,17,0,7,0,10
+Ashley,FOUNTAIN HILL RURAL,U.S. Congress District 04,,DEM,John White,17,0,3,1,13
+Ashley,PORTLAND CITY,U.S. Congress District 04,,DEM,John White,64,0,4,1,59
+Ashley,PORTLAND RURAL,U.S. Congress District 04,,DEM,John White,7,0,0,0,7
+Ashley,BOYDELL,U.S. Congress District 04,,DEM,John White,4,0,1,0,3
+Ashley,SNYDER / TRAFALGAR,U.S. Congress District 04,,DEM,John White,2,0,2,0,0
+Ashley,MONTROSE CITY,U.S. Congress District 04,,DEM,John White,32,0,4,0,28
+Ashley,MONTROSE RURAL,U.S. Congress District 04,,DEM,John White,0,0,0,0,0
+Ashley,PARKDALE CITY,U.S. Congress District 04,,DEM,John White,35,0,5,0,30
+Ashley,PARKDALE RURAL,U.S. Congress District 04,,DEM,John White,3,0,0,0,3
+Ashley,WILMOT CITY,U.S. Congress District 04,,DEM,John White,78,0,10,6,62
+Ashley,WILMOT RURAL,U.S. Congress District 04,,DEM,John White,9,0,5,0,4
+Ashley,CW1,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,138,0,87,3,48
+Ashley,CW2,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,216,0,132,15,69
+Ashley,CW3,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,480,0,307,9,164
+Ashley,NCE,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,275,1,141,5,128
+Ashley,NCW,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,157,0,81,5,71
+Ashley,WCR,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,282,0,171,1,110
+Ashley,VOTECH,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,146,0,73,0,73
+Ashley,COOTER,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,137,0,46,1,90
+Ashley,HICKORY GROVE,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,322,0,219,3,100
+Ashley,CROSSROADS,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,264,0,133,2,129
+Ashley,HW3,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,239,0,149,5,85
+Ashley,HW2,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,147,1,93,3,50
+Ashley,HW1,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,30,0,15,0,15
+Ashley,HAMBURG RURAL,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,392,0,260,10,122
+Ashley,MT ZION,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,104,0,68,3,33
+Ashley,MILO,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,242,0,116,4,122
+Ashley,BEECH CREEK,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,16,0,7,0,9
+Ashley,MIST,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,54,1,38,0,15
+Ashley,FOUNTAIN HILL CITY,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,26,1,5,0,20
+Ashley,FOUNTAIN HILL RURAL,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,167,0,58,4,105
+Ashley,PORTLAND CITY,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,83,0,14,4,65
+Ashley,PORTLAND RURAL,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,15,0,2,0,13
+Ashley,BOYDELL,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,4,0,1,0,3
+Ashley,SNYDER / TRAFALGAR,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,32,0,22,1,9
+Ashley,MONTROSE CITY,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,21,0,5,0,16
+Ashley,MONTROSE RURAL,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,3,0,0,0,3
+Ashley,PARKDALE CITY,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,14,0,6,1,7
+Ashley,PARKDALE RURAL,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,3,0,2,0,1
+Ashley,WILMOT CITY,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,30,0,16,0,14
+Ashley,WILMOT RURAL,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,37,0,13,1,23
+Ashley,CW1,U.S. Congress District 04,,LBT,Gregory Maxwell,11,0,7,0,4
+Ashley,CW2,U.S. Congress District 04,,LBT,Gregory Maxwell,9,0,3,0,6
+Ashley,CW3,U.S. Congress District 04,,LBT,Gregory Maxwell,8,0,6,0,2
+Ashley,NCE,U.S. Congress District 04,,LBT,Gregory Maxwell,4,0,1,0,3
+Ashley,NCW,U.S. Congress District 04,,LBT,Gregory Maxwell,5,0,3,0,2
+Ashley,WCR,U.S. Congress District 04,,LBT,Gregory Maxwell,4,0,2,0,2
+Ashley,VOTECH,U.S. Congress District 04,,LBT,Gregory Maxwell,6,0,5,0,1
+Ashley,COOTER,U.S. Congress District 04,,LBT,Gregory Maxwell,5,0,1,0,4
+Ashley,HICKORY GROVE,U.S. Congress District 04,,LBT,Gregory Maxwell,8,0,5,0,3
+Ashley,CROSSROADS,U.S. Congress District 04,,LBT,Gregory Maxwell,4,0,1,0,3
+Ashley,HW3,U.S. Congress District 04,,LBT,Gregory Maxwell,4,0,0,0,4
+Ashley,HW2,U.S. Congress District 04,,LBT,Gregory Maxwell,2,0,2,0,0
+Ashley,HW1,U.S. Congress District 04,,LBT,Gregory Maxwell,4,0,2,0,2
+Ashley,HAMBURG RURAL,U.S. Congress District 04,,LBT,Gregory Maxwell,5,0,2,0,3
+Ashley,MT ZION,U.S. Congress District 04,,LBT,Gregory Maxwell,2,0,0,0,2
+Ashley,MILO,U.S. Congress District 04,,LBT,Gregory Maxwell,2,0,2,0,0
+Ashley,BEECH CREEK,U.S. Congress District 04,,LBT,Gregory Maxwell,0,0,0,0,0
+Ashley,MIST,U.S. Congress District 04,,LBT,Gregory Maxwell,1,0,0,0,1
+Ashley,FOUNTAIN HILL CITY,U.S. Congress District 04,,LBT,Gregory Maxwell,0,0,0,0,0
+Ashley,FOUNTAIN HILL RURAL,U.S. Congress District 04,,LBT,Gregory Maxwell,0,0,0,0,0
+Ashley,PORTLAND CITY,U.S. Congress District 04,,LBT,Gregory Maxwell,5,0,0,2,3
+Ashley,PORTLAND RURAL,U.S. Congress District 04,,LBT,Gregory Maxwell,0,0,0,0,0
+Ashley,BOYDELL,U.S. Congress District 04,,LBT,Gregory Maxwell,0,0,0,0,0
+Ashley,SNYDER / TRAFALGAR,U.S. Congress District 04,,LBT,Gregory Maxwell,1,0,1,0,0
+Ashley,MONTROSE CITY,U.S. Congress District 04,,LBT,Gregory Maxwell,1,0,0,0,1
+Ashley,MONTROSE RURAL,U.S. Congress District 04,,LBT,Gregory Maxwell,0,0,0,0,0
+Ashley,PARKDALE CITY,U.S. Congress District 04,,LBT,Gregory Maxwell,3,0,0,0,3
+Ashley,PARKDALE RURAL,U.S. Congress District 04,,LBT,Gregory Maxwell,0,0,0,0,0
+Ashley,WILMOT CITY,U.S. Congress District 04,,LBT,Gregory Maxwell,6,0,0,0,6
+Ashley,WILMOT RURAL,U.S. Congress District 04,,LBT,Gregory Maxwell,1,0,0,0,1
+Ashley,CW1,Attorney General,,REP,Lieutenant Governor Tim Griffin,149,1,94,3,51
+Ashley,CW2,Attorney General,,REP,Lieutenant Governor Tim Griffin,222,0,134,15,73
+Ashley,CW3,Attorney General,,REP,Lieutenant Governor Tim Griffin,475,0,307,7,161
+Ashley,NCE,Attorney General,,REP,Lieutenant Governor Tim Griffin,274,1,139,5,129
+Ashley,NCW,Attorney General,,REP,Lieutenant Governor Tim Griffin,160,0,83,5,72
+Ashley,WCR,Attorney General,,REP,Lieutenant Governor Tim Griffin,280,0,170,1,109
+Ashley,VOTECH,Attorney General,,REP,Lieutenant Governor Tim Griffin,156,0,81,0,75
+Ashley,COOTER,Attorney General,,REP,Lieutenant Governor Tim Griffin,141,0,46,1,94
+Ashley,HICKORY GROVE,Attorney General,,REP,Lieutenant Governor Tim Griffin,331,0,227,3,101
+Ashley,CROSSROADS,Attorney General,,REP,Lieutenant Governor Tim Griffin,266,0,135,2,129
+Ashley,HW3,Attorney General,,REP,Lieutenant Governor Tim Griffin,242,0,152,4,86
+Ashley,HW2,Attorney General,,REP,Lieutenant Governor Tim Griffin,152,1,97,3,51
+Ashley,HW1,Attorney General,,REP,Lieutenant Governor Tim Griffin,36,0,21,0,15
+Ashley,HAMBURG RURAL,Attorney General,,REP,Lieutenant Governor Tim Griffin,398,0,267,10,121
+Ashley,MT ZION,Attorney General,,REP,Lieutenant Governor Tim Griffin,105,0,68,3,34
+Ashley,MILO,Attorney General,,REP,Lieutenant Governor Tim Griffin,244,0,116,5,123
+Ashley,BEECH CREEK,Attorney General,,REP,Lieutenant Governor Tim Griffin,16,0,7,0,9
+Ashley,MIST,Attorney General,,REP,Lieutenant Governor Tim Griffin,55,1,38,0,16
+Ashley,FOUNTAIN HILL CITY,Attorney General,,REP,Lieutenant Governor Tim Griffin,27,1,5,0,21
+Ashley,FOUNTAIN HILL RURAL,Attorney General,,REP,Lieutenant Governor Tim Griffin,169,0,59,3,107
+Ashley,PORTLAND CITY,Attorney General,,REP,Lieutenant Governor Tim Griffin,86,0,15,4,67
+Ashley,PORTLAND RURAL,Attorney General,,REP,Lieutenant Governor Tim Griffin,16,0,2,0,14
+Ashley,BOYDELL,Attorney General,,REP,Lieutenant Governor Tim Griffin,4,0,2,0,2
+Ashley,SNYDER / TRAFALGAR,Attorney General,,REP,Lieutenant Governor Tim Griffin,32,0,22,1,9
+Ashley,MONTROSE CITY,Attorney General,,REP,Lieutenant Governor Tim Griffin,19,0,4,0,15
+Ashley,MONTROSE RURAL,Attorney General,,REP,Lieutenant Governor Tim Griffin,3,0,0,0,3
+Ashley,PARKDALE CITY,Attorney General,,REP,Lieutenant Governor Tim Griffin,16,0,6,1,9
+Ashley,PARKDALE RURAL,Attorney General,,REP,Lieutenant Governor Tim Griffin,3,0,2,0,1
+Ashley,WILMOT CITY,Attorney General,,REP,Lieutenant Governor Tim Griffin,31,0,17,0,14
+Ashley,WILMOT RURAL,Attorney General,,REP,Lieutenant Governor Tim Griffin,37,0,13,1,23
+Ashley,CW1,Attorney General,,DEM,Jesse Gibson,179,2,122,11,44
+Ashley,CW2,Attorney General,,DEM,Jesse Gibson,191,0,116,4,71
+Ashley,CW3,Attorney General,,DEM,Jesse Gibson,124,0,83,2,39
+Ashley,NCE,Attorney General,,DEM,Jesse Gibson,48,0,30,0,18
+Ashley,NCW,Attorney General,,DEM,Jesse Gibson,33,0,12,1,20
+Ashley,WCR,Attorney General,,DEM,Jesse Gibson,92,0,56,3,33
+Ashley,VOTECH,Attorney General,,DEM,Jesse Gibson,36,1,24,1,10
+Ashley,COOTER,Attorney General,,DEM,Jesse Gibson,20,0,11,0,9
+Ashley,HICKORY GROVE,Attorney General,,DEM,Jesse Gibson,26,0,16,1,9
+Ashley,CROSSROADS,Attorney General,,DEM,Jesse Gibson,31,0,20,0,11
+Ashley,HW3,Attorney General,,DEM,Jesse Gibson,37,0,19,3,15
+Ashley,HW2,Attorney General,,DEM,Jesse Gibson,40,0,23,0,17
+Ashley,HW1,Attorney General,,DEM,Jesse Gibson,77,2,45,1,29
+Ashley,HAMBURG RURAL,Attorney General,,DEM,Jesse Gibson,36,0,26,0,10
+Ashley,MT ZION,Attorney General,,DEM,Jesse Gibson,4,0,3,0,1
+Ashley,MILO,Attorney General,,DEM,Jesse Gibson,24,0,12,1,11
+Ashley,BEECH CREEK,Attorney General,,DEM,Jesse Gibson,0,0,0,0,0
+Ashley,MIST,Attorney General,,DEM,Jesse Gibson,5,0,4,0,1
+Ashley,FOUNTAIN HILL CITY,Attorney General,,DEM,Jesse Gibson,17,0,7,0,10
+Ashley,FOUNTAIN HILL RURAL,Attorney General,,DEM,Jesse Gibson,17,0,3,2,12
+Ashley,PORTLAND CITY,Attorney General,,DEM,Jesse Gibson,67,0,3,3,61
+Ashley,PORTLAND RURAL,Attorney General,,DEM,Jesse Gibson,6,0,0,0,6
+Ashley,BOYDELL,Attorney General,,DEM,Jesse Gibson,3,0,0,0,3
+Ashley,SNYDER / TRAFALGAR,Attorney General,,DEM,Jesse Gibson,3,0,3,0,0
+Ashley,MONTROSE CITY,Attorney General,,DEM,Jesse Gibson,38,0,5,0,33
+Ashley,MONTROSE RURAL,Attorney General,,DEM,Jesse Gibson,0,0,0,0,0
+Ashley,PARKDALE CITY,Attorney General,,DEM,Jesse Gibson,41,0,8,0,33
+Ashley,PARKDALE RURAL,Attorney General,,DEM,Jesse Gibson,3,0,0,0,3
+Ashley,WILMOT CITY,Attorney General,,DEM,Jesse Gibson,83,0,9,6,68
+Ashley,WILMOT RURAL,Attorney General,,DEM,Jesse Gibson,9,0,4,0,5
+Ashley,CW1,Auditor of State,,LBT,Simeon Snow,13,0,9,0,4
+Ashley,CW2,Auditor of State,,LBT,Simeon Snow,8,0,4,0,4
+Ashley,CW3,Auditor of State,,LBT,Simeon Snow,10,0,6,0,4
+Ashley,NCE,Auditor of State,,LBT,Simeon Snow,7,0,3,0,4
+Ashley,NCW,Auditor of State,,LBT,Simeon Snow,4,0,2,0,2
+Ashley,WCR,Auditor of State,,LBT,Simeon Snow,12,0,5,0,7
+Ashley,VOTECH,Auditor of State,,LBT,Simeon Snow,2,0,2,0,0
+Ashley,COOTER,Auditor of State,,LBT,Simeon Snow,8,0,1,0,7
+Ashley,HICKORY GROVE,Auditor of State,,LBT,Simeon Snow,5,0,3,0,2
+Ashley,CROSSROADS,Auditor of State,,LBT,Simeon Snow,3,0,0,0,3
+Ashley,HW3,Auditor of State,,LBT,Simeon Snow,5,0,1,1,3
+Ashley,HW2,Auditor of State,,LBT,Simeon Snow,3,0,2,0,1
+Ashley,HW1,Auditor of State,,LBT,Simeon Snow,2,0,2,0,0
+Ashley,HAMBURG RURAL,Auditor of State,,LBT,Simeon Snow,7,0,5,0,2
+Ashley,MT ZION,Auditor of State,,LBT,Simeon Snow,4,0,3,0,1
+Ashley,MILO,Auditor of State,,LBT,Simeon Snow,5,0,1,0,4
+Ashley,BEECH CREEK,Auditor of State,,LBT,Simeon Snow,0,0,0,0,0
+Ashley,MIST,Auditor of State,,LBT,Simeon Snow,0,0,0,0,0
+Ashley,FOUNTAIN HILL CITY,Auditor of State,,LBT,Simeon Snow,2,0,2,0,0
+Ashley,FOUNTAIN HILL RURAL,Auditor of State,,LBT,Simeon Snow,1,0,0,0,1
+Ashley,PORTLAND CITY,Auditor of State,,LBT,Simeon Snow,2,0,0,0,2
+Ashley,PORTLAND RURAL,Auditor of State,,LBT,Simeon Snow,0,0,0,0,0
+Ashley,BOYDELL,Auditor of State,,LBT,Simeon Snow,0,0,0,0,0
+Ashley,SNYDER / TRAFALGAR,Auditor of State,,LBT,Simeon Snow,1,0,1,0,0
+Ashley,MONTROSE CITY,Auditor of State,,LBT,Simeon Snow,0,0,0,0,0
+Ashley,MONTROSE RURAL,Auditor of State,,LBT,Simeon Snow,0,0,0,0,0
+Ashley,PARKDALE CITY,Auditor of State,,LBT,Simeon Snow,0,0,0,0,0
+Ashley,PARKDALE RURAL,Auditor of State,,LBT,Simeon Snow,1,0,0,0,1
+Ashley,WILMOT CITY,Auditor of State,,LBT,Simeon Snow,0,0,0,0,0
+Ashley,WILMOT RURAL,Auditor of State,,LBT,Simeon Snow,0,0,0,0,0
+Ashley,CW1,Auditor of State,,REP,Treasurer of State Dennis Milligan,142,0,88,3,51
+Ashley,CW2,Auditor of State,,REP,Treasurer of State Dennis Milligan,215,0,130,15,70
+Ashley,CW3,Auditor of State,,REP,Treasurer of State Dennis Milligan,484,0,313,8,163
+Ashley,NCE,Auditor of State,,REP,Treasurer of State Dennis Milligan,272,1,139,5,127
+Ashley,NCW,Auditor of State,,REP,Treasurer of State Dennis Milligan,161,0,83,5,73
+Ashley,WCR,Auditor of State,,REP,Treasurer of State Dennis Milligan,270,0,164,1,105
+Ashley,VOTECH,Auditor of State,,REP,Treasurer of State Dennis Milligan,154,0,78,0,76
+Ashley,COOTER,Auditor of State,,REP,Treasurer of State Dennis Milligan,135,0,47,1,87
+Ashley,HICKORY GROVE,Auditor of State,,REP,Treasurer of State Dennis Milligan,331,0,226,3,102
+Ashley,CROSSROADS,Auditor of State,,REP,Treasurer of State Dennis Milligan,270,0,137,2,131
+Ashley,HW3,Auditor of State,,REP,Treasurer of State Dennis Milligan,238,0,148,4,86
+Ashley,HW2,Auditor of State,,REP,Treasurer of State Dennis Milligan,151,1,94,3,53
+Ashley,HW1,Auditor of State,,REP,Treasurer of State Dennis Milligan,29,0,14,0,15
+Ashley,HAMBURG RURAL,Auditor of State,,REP,Treasurer of State Dennis Milligan,389,0,259,9,121
+Ashley,MT ZION,Auditor of State,,REP,Treasurer of State Dennis Milligan,102,0,65,3,34
+Ashley,MILO,Auditor of State,,REP,Treasurer of State Dennis Milligan,238,0,115,4,119
+Ashley,BEECH CREEK,Auditor of State,,REP,Treasurer of State Dennis Milligan,16,0,7,0,9
+Ashley,MIST,Auditor of State,,REP,Treasurer of State Dennis Milligan,56,1,39,0,16
+Ashley,FOUNTAIN HILL CITY,Auditor of State,,REP,Treasurer of State Dennis Milligan,27,1,5,0,21
+Ashley,FOUNTAIN HILL RURAL,Auditor of State,,REP,Treasurer of State Dennis Milligan,166,0,58,3,105
+Ashley,PORTLAND CITY,Auditor of State,,REP,Treasurer of State Dennis Milligan,84,0,14,5,65
+Ashley,PORTLAND RURAL,Auditor of State,,REP,Treasurer of State Dennis Milligan,15,0,2,0,13
+Ashley,BOYDELL,Auditor of State,,REP,Treasurer of State Dennis Milligan,4,0,2,0,2
+Ashley,SNYDER / TRAFALGAR,Auditor of State,,REP,Treasurer of State Dennis Milligan,32,0,22,1,9
+Ashley,MONTROSE CITY,Auditor of State,,REP,Treasurer of State Dennis Milligan,19,0,4,0,15
+Ashley,MONTROSE RURAL,Auditor of State,,REP,Treasurer of State Dennis Milligan,3,0,0,0,3
+Ashley,PARKDALE CITY,Auditor of State,,REP,Treasurer of State Dennis Milligan,16,0,6,1,9
+Ashley,PARKDALE RURAL,Auditor of State,,REP,Treasurer of State Dennis Milligan,3,0,2,0,1
+Ashley,WILMOT CITY,Auditor of State,,REP,Treasurer of State Dennis Milligan,30,0,16,0,14
+Ashley,WILMOT RURAL,Auditor of State,,REP,Treasurer of State Dennis Milligan,38,0,13,1,24
+Ashley,CW1,Auditor of State,,DEM,Diamond Arnold-Johnson,176,3,123,11,39
+Ashley,CW2,Auditor of State,,DEM,Diamond Arnold-Johnson,190,0,117,4,69
+Ashley,CW3,Auditor of State,,DEM,Diamond Arnold-Johnson,103,0,68,1,34
+Ashley,NCE,Auditor of State,,DEM,Diamond Arnold-Johnson,45,0,29,0,16
+Ashley,NCW,Auditor of State,,DEM,Diamond Arnold-Johnson,27,0,10,1,16
+Ashley,WCR,Auditor of State,,DEM,Diamond Arnold-Johnson,87,0,54,3,30
+Ashley,VOTECH,Auditor of State,,DEM,Diamond Arnold-Johnson,37,1,25,2,9
+Ashley,COOTER,Auditor of State,,DEM,Diamond Arnold-Johnson,16,0,8,0,8
+Ashley,HICKORY GROVE,Auditor of State,,DEM,Diamond Arnold-Johnson,19,0,13,1,5
+Ashley,CROSSROADS,Auditor of State,,DEM,Diamond Arnold-Johnson,25,0,19,0,6
+Ashley,HW3,Auditor of State,,DEM,Diamond Arnold-Johnson,35,0,21,2,12
+Ashley,HW2,Auditor of State,,DEM,Diamond Arnold-Johnson,37,0,23,0,14
+Ashley,HW1,Auditor of State,,DEM,Diamond Arnold-Johnson,83,2,49,1,31
+Ashley,HAMBURG RURAL,Auditor of State,,DEM,Diamond Arnold-Johnson,38,0,27,1,10
+Ashley,MT ZION,Auditor of State,,DEM,Diamond Arnold-Johnson,2,0,2,0,0
+Ashley,MILO,Auditor of State,,DEM,Diamond Arnold-Johnson,24,0,11,2,11
+Ashley,BEECH CREEK,Auditor of State,,DEM,Diamond Arnold-Johnson,0,0,0,0,0
+Ashley,MIST,Auditor of State,,DEM,Diamond Arnold-Johnson,4,0,3,0,1
+Ashley,FOUNTAIN HILL CITY,Auditor of State,,DEM,Diamond Arnold-Johnson,15,0,5,0,10
+Ashley,FOUNTAIN HILL RURAL,Auditor of State,,DEM,Diamond Arnold-Johnson,16,0,3,2,11
+Ashley,PORTLAND CITY,Auditor of State,,DEM,Diamond Arnold-Johnson,68,0,4,2,62
+Ashley,PORTLAND RURAL,Auditor of State,,DEM,Diamond Arnold-Johnson,7,0,0,0,7
+Ashley,BOYDELL,Auditor of State,,DEM,Diamond Arnold-Johnson,4,0,0,0,4
+Ashley,SNYDER / TRAFALGAR,Auditor of State,,DEM,Diamond Arnold-Johnson,2,0,2,0,0
+Ashley,MONTROSE CITY,Auditor of State,,DEM,Diamond Arnold-Johnson,38,0,5,0,33
+Ashley,MONTROSE RURAL,Auditor of State,,DEM,Diamond Arnold-Johnson,0,0,0,0,0
+Ashley,PARKDALE CITY,Auditor of State,,DEM,Diamond Arnold-Johnson,36,0,5,0,31
+Ashley,PARKDALE RURAL,Auditor of State,,DEM,Diamond Arnold-Johnson,2,0,0,0,2
+Ashley,WILMOT CITY,Auditor of State,,DEM,Diamond Arnold-Johnson,84,0,10,6,68
+Ashley,WILMOT RURAL,Auditor of State,,DEM,Diamond Arnold-Johnson,9,0,4,0,5
+Ashley,CW1,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,151,1,94,3,53
+Ashley,CW2,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,217,0,132,15,70
+Ashley,CW3,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,489,0,314,7,168
+Ashley,NCE,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,279,1,143,5,130
+Ashley,NCW,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,165,0,85,5,75
+Ashley,WCR,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,283,0,173,1,109
+Ashley,VOTECH,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,156,0,81,0,75
+Ashley,COOTER,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,144,0,48,1,95
+Ashley,HICKORY GROVE,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,333,0,227,3,103
+Ashley,CROSSROADS,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,272,0,137,2,133
+Ashley,HW3,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,243,0,152,4,87
+Ashley,HW2,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,150,1,95,3,51
+Ashley,HW1,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,35,0,18,0,17
+Ashley,HAMBURG RURAL,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,392,0,261,10,121
+Ashley,MT ZION,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,105,0,69,3,33
+Ashley,MILO,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,244,0,116,5,123
+Ashley,BEECH CREEK,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,16,0,7,0,9
+Ashley,MIST,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,55,1,39,0,15
+Ashley,FOUNTAIN HILL CITY,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,28,1,6,0,21
+Ashley,FOUNTAIN HILL RURAL,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,169,0,58,3,108
+Ashley,PORTLAND CITY,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,91,0,16,4,71
+Ashley,PORTLAND RURAL,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,15,0,2,0,13
+Ashley,BOYDELL,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,5,0,2,0,3
+Ashley,SNYDER / TRAFALGAR,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,33,0,23,1,9
+Ashley,MONTROSE CITY,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,21,0,4,0,17
+Ashley,MONTROSE RURAL,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,3,0,0,0,3
+Ashley,PARKDALE CITY,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,15,0,6,1,8
+Ashley,PARKDALE RURAL,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,4,0,2,0,2
+Ashley,WILMOT CITY,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,32,0,17,0,15
+Ashley,WILMOT RURAL,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,38,0,13,1,24
+Ashley,CW1,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,179,2,124,11,42
+Ashley,CW2,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,194,0,118,4,72
+Ashley,CW3,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,111,0,75,2,34
+Ashley,NCE,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,45,0,29,0,16
+Ashley,NCW,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,27,0,10,1,16
+Ashley,WCR,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,90,0,54,3,33
+Ashley,VOTECH,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,36,1,24,2,9
+Ashley,COOTER,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,18,0,9,0,9
+Ashley,HICKORY GROVE,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,23,0,16,1,6
+Ashley,CROSSROADS,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,26,0,19,0,7
+Ashley,HW3,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,36,0,19,3,14
+Ashley,HW2,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,40,0,23,0,17
+Ashley,HW1,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,81,2,49,1,29
+Ashley,HAMBURG RURAL,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,43,0,31,0,12
+Ashley,MT ZION,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,3,0,2,0,1
+Ashley,MILO,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,24,0,12,1,11
+Ashley,BEECH CREEK,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,0,0,0,0,0
+Ashley,MIST,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,4,0,3,0,1
+Ashley,FOUNTAIN HILL CITY,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,15,0,6,0,9
+Ashley,FOUNTAIN HILL RURAL,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,15,0,3,2,10
+Ashley,PORTLAND CITY,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,62,0,2,3,57
+Ashley,PORTLAND RURAL,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,7,0,0,0,7
+Ashley,BOYDELL,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,2,0,0,0,2
+Ashley,SNYDER / TRAFALGAR,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,2,0,2,0,0
+Ashley,MONTROSE CITY,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,34,0,5,0,29
+Ashley,MONTROSE RURAL,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,0,0,0,0,0
+Ashley,PARKDALE CITY,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,39,0,6,0,33
+Ashley,PARKDALE RURAL,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,2,0,0,0,2
+Ashley,WILMOT CITY,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,82,0,9,6,67
+Ashley,WILMOT RURAL,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,9,0,4,0,5
+Ashley,CW1,Governor,,REP,Sarah Huckabee Sanders,138,1,92,2,43
+Ashley,CW2,Governor,,REP,Sarah Huckabee Sanders,206,0,123,14,69
+Ashley,CW3,Governor,,REP,Sarah Huckabee Sanders,466,0,299,7,160
+Ashley,NCE,Governor,,REP,Sarah Huckabee Sanders,271,1,143,5,122
+Ashley,NCW,Governor,,REP,Sarah Huckabee Sanders,158,0,80,5,73
+Ashley,WCR,Governor,,REP,Sarah Huckabee Sanders,267,0,161,1,105
+Ashley,VOTECH,Governor,,REP,Sarah Huckabee Sanders,153,0,80,0,73
+Ashley,COOTER,Governor,,REP,Sarah Huckabee Sanders,134,0,43,1,90
+Ashley,HICKORY GROVE,Governor,,REP,Sarah Huckabee Sanders,328,0,224,3,101
+Ashley,CROSSROADS,Governor,,REP,Sarah Huckabee Sanders,262,0,132,2,128
+Ashley,HW3,Governor,,REP,Sarah Huckabee Sanders,234,0,146,4,84
+Ashley,HW2,Governor,,REP,Sarah Huckabee Sanders,142,1,92,3,46
+Ashley,HW1,Governor,,REP,Sarah Huckabee Sanders,31,0,15,0,16
+Ashley,HAMBURG RURAL,Governor,,REP,Sarah Huckabee Sanders,382,0,255,10,117
+Ashley,MT ZION,Governor,,REP,Sarah Huckabee Sanders,100,0,63,3,34
+Ashley,MILO,Governor,,REP,Sarah Huckabee Sanders,240,0,114,4,122
+Ashley,BEECH CREEK,Governor,,REP,Sarah Huckabee Sanders,16,0,7,0,9
+Ashley,MIST,Governor,,REP,Sarah Huckabee Sanders,55,1,38,0,16
+Ashley,FOUNTAIN HILL CITY,Governor,,REP,Sarah Huckabee Sanders,26,1,5,0,20
+Ashley,FOUNTAIN HILL RURAL,Governor,,REP,Sarah Huckabee Sanders,168,0,60,3,105
+Ashley,PORTLAND CITY,Governor,,REP,Sarah Huckabee Sanders,78,0,13,4,61
+Ashley,PORTLAND RURAL,Governor,,REP,Sarah Huckabee Sanders,15,0,2,0,13
+Ashley,BOYDELL,Governor,,REP,Sarah Huckabee Sanders,5,0,2,0,3
+Ashley,SNYDER / TRAFALGAR,Governor,,REP,Sarah Huckabee Sanders,33,0,23,1,9
+Ashley,MONTROSE CITY,Governor,,REP,Sarah Huckabee Sanders,15,0,2,0,13
+Ashley,MONTROSE RURAL,Governor,,REP,Sarah Huckabee Sanders,3,0,0,0,3
+Ashley,PARKDALE CITY,Governor,,REP,Sarah Huckabee Sanders,17,0,7,1,9
+Ashley,PARKDALE RURAL,Governor,,REP,Sarah Huckabee Sanders,3,0,2,0,1
+Ashley,WILMOT CITY,Governor,,REP,Sarah Huckabee Sanders,30,0,16,0,14
+Ashley,WILMOT RURAL,Governor,,REP,Sarah Huckabee Sanders,36,0,13,1,22
+Ashley,CW1,Governor,,LBT,"Ricky Dale Harrington, Jr.",4,0,1,0,3
+Ashley,CW2,Governor,,LBT,"Ricky Dale Harrington, Jr.",5,0,4,0,1
+Ashley,CW3,Governor,,LBT,"Ricky Dale Harrington, Jr.",3,0,3,0,0
+Ashley,NCE,Governor,,LBT,"Ricky Dale Harrington, Jr.",6,0,3,1,2
+Ashley,NCW,Governor,,LBT,"Ricky Dale Harrington, Jr.",5,0,2,0,3
+Ashley,WCR,Governor,,LBT,"Ricky Dale Harrington, Jr.",5,0,2,0,3
+Ashley,VOTECH,Governor,,LBT,"Ricky Dale Harrington, Jr.",3,0,2,0,1
+Ashley,COOTER,Governor,,LBT,"Ricky Dale Harrington, Jr.",5,0,1,0,4
+Ashley,HICKORY GROVE,Governor,,LBT,"Ricky Dale Harrington, Jr.",3,0,2,0,1
+Ashley,CROSSROADS,Governor,,LBT,"Ricky Dale Harrington, Jr.",2,0,1,0,1
+Ashley,HW3,Governor,,LBT,"Ricky Dale Harrington, Jr.",2,0,0,0,2
+Ashley,HW2,Governor,,LBT,"Ricky Dale Harrington, Jr.",0,0,0,0,0
+Ashley,HW1,Governor,,LBT,"Ricky Dale Harrington, Jr.",3,0,2,0,1
+Ashley,HAMBURG RURAL,Governor,,LBT,"Ricky Dale Harrington, Jr.",5,0,4,0,1
+Ashley,MT ZION,Governor,,LBT,"Ricky Dale Harrington, Jr.",2,0,2,0,0
+Ashley,MILO,Governor,,LBT,"Ricky Dale Harrington, Jr.",2,0,1,1,0
+Ashley,BEECH CREEK,Governor,,LBT,"Ricky Dale Harrington, Jr.",0,0,0,0,0
+Ashley,MIST,Governor,,LBT,"Ricky Dale Harrington, Jr.",1,0,1,0,0
+Ashley,FOUNTAIN HILL CITY,Governor,,LBT,"Ricky Dale Harrington, Jr.",1,0,0,0,1
+Ashley,FOUNTAIN HILL RURAL,Governor,,LBT,"Ricky Dale Harrington, Jr.",2,0,0,0,2
+Ashley,PORTLAND CITY,Governor,,LBT,"Ricky Dale Harrington, Jr.",2,0,0,0,2
+Ashley,PORTLAND RURAL,Governor,,LBT,"Ricky Dale Harrington, Jr.",0,0,0,0,0
+Ashley,BOYDELL,Governor,,LBT,"Ricky Dale Harrington, Jr.",0,0,0,0,0
+Ashley,SNYDER / TRAFALGAR,Governor,,LBT,"Ricky Dale Harrington, Jr.",0,0,0,0,0
+Ashley,MONTROSE CITY,Governor,,LBT,"Ricky Dale Harrington, Jr.",1,0,0,0,1
+Ashley,MONTROSE RURAL,Governor,,LBT,"Ricky Dale Harrington, Jr.",0,0,0,0,0
+Ashley,PARKDALE CITY,Governor,,LBT,"Ricky Dale Harrington, Jr.",0,0,0,0,0
+Ashley,PARKDALE RURAL,Governor,,LBT,"Ricky Dale Harrington, Jr.",0,0,0,0,0
+Ashley,WILMOT CITY,Governor,,LBT,"Ricky Dale Harrington, Jr.",1,0,0,0,1
+Ashley,WILMOT RURAL,Governor,,LBT,"Ricky Dale Harrington, Jr.",0,0,0,0,0
+Ashley,CW1,Governor,,DEM,Chris Jones,188,2,126,12,48
+Ashley,CW2,Governor,,DEM,Chris Jones,203,0,124,5,74
+Ashley,CW3,Governor,,DEM,Chris Jones,136,0,91,3,42
+Ashley,NCE,Governor,,DEM,Chris Jones,49,0,27,0,22
+Ashley,NCW,Governor,,DEM,Chris Jones,30,0,13,1,16
+Ashley,WCR,Governor,,DEM,Chris Jones,100,0,62,3,35
+Ashley,VOTECH,Governor,,DEM,Chris Jones,37,1,23,2,11
+Ashley,COOTER,Governor,,DEM,Chris Jones,22,0,13,0,9
+Ashley,HICKORY GROVE,Governor,,DEM,Chris Jones,26,0,17,1,8
+Ashley,CROSSROADS,Governor,,DEM,Chris Jones,32,0,22,0,10
+Ashley,HW3,Governor,,DEM,Chris Jones,42,0,24,3,15
+Ashley,HW2,Governor,,DEM,Chris Jones,48,0,28,0,20
+Ashley,HW1,Governor,,DEM,Chris Jones,82,2,50,1,29
+Ashley,HAMBURG RURAL,Governor,,DEM,Chris Jones,49,0,34,0,15
+Ashley,MT ZION,Governor,,DEM,Chris Jones,7,0,6,0,1
+Ashley,MILO,Governor,,DEM,Chris Jones,26,0,12,1,13
+Ashley,BEECH CREEK,Governor,,DEM,Chris Jones,0,0,0,0,0
+Ashley,MIST,Governor,,DEM,Chris Jones,4,0,3,0,1
+Ashley,FOUNTAIN HILL CITY,Governor,,DEM,Chris Jones,18,0,7,0,11
+Ashley,FOUNTAIN HILL RURAL,Governor,,DEM,Chris Jones,18,0,3,2,13
+Ashley,PORTLAND CITY,Governor,,DEM,Chris Jones,72,0,5,3,64
+Ashley,PORTLAND RURAL,Governor,,DEM,Chris Jones,7,0,0,0,7
+Ashley,BOYDELL,Governor,,DEM,Chris Jones,3,0,0,0,3
+Ashley,SNYDER / TRAFALGAR,Governor,,DEM,Chris Jones,2,0,2,0,0
+Ashley,MONTROSE CITY,Governor,,DEM,Chris Jones,45,0,7,0,38
+Ashley,MONTROSE RURAL,Governor,,DEM,Chris Jones,0,0,0,0,0
+Ashley,PARKDALE CITY,Governor,,DEM,Chris Jones,39,0,6,0,33
+Ashley,PARKDALE RURAL,Governor,,DEM,Chris Jones,3,0,0,0,3
+Ashley,WILMOT CITY,Governor,,DEM,Chris Jones,86,0,10,6,70
+Ashley,WILMOT RURAL,Governor,,DEM,Chris Jones,12,0,5,0,7
+Ashley,CW1,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,148,0,94,3,51
+Ashley,CW2,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,214,0,132,14,68
+Ashley,CW3,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,476,0,304,7,165
+Ashley,NCE,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,274,1,141,4,128
+Ashley,NCW,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,153,0,79,5,69
+Ashley,WCR,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,272,0,167,1,104
+Ashley,VOTECH,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,153,0,79,0,74
+Ashley,COOTER,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,136,0,44,1,91
+Ashley,HICKORY GROVE,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,325,0,222,2,101
+Ashley,CROSSROADS,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,269,0,135,2,132
+Ashley,HW3,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,237,0,148,5,84
+Ashley,HW2,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,149,1,94,3,51
+Ashley,HW1,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,30,0,16,0,14
+Ashley,HAMBURG RURAL,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,389,0,259,10,120
+Ashley,MT ZION,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,101,0,64,3,34
+Ashley,MILO,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,240,0,117,4,119
+Ashley,BEECH CREEK,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,16,0,7,0,9
+Ashley,MIST,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,55,1,38,0,16
+Ashley,FOUNTAIN HILL CITY,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,27,1,5,0,21
+Ashley,FOUNTAIN HILL RURAL,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,166,0,58,3,105
+Ashley,PORTLAND CITY,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,84,0,13,4,67
+Ashley,PORTLAND RURAL,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,15,0,2,0,13
+Ashley,BOYDELL,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,4,0,2,0,2
+Ashley,SNYDER / TRAFALGAR,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,33,0,23,1,9
+Ashley,MONTROSE CITY,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,18,0,4,0,14
+Ashley,MONTROSE RURAL,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,3,0,0,0,3
+Ashley,PARKDALE CITY,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,18,0,8,1,9
+Ashley,PARKDALE RURAL,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,3,0,2,0,1
+Ashley,WILMOT CITY,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,32,0,17,0,15
+Ashley,WILMOT RURAL,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,34,0,14,1,19
+Ashley,CW1,Lieutenant Governor,,LBT,Frank Gilbert,9,1,5,0,3
+Ashley,CW2,Lieutenant Governor,,LBT,Frank Gilbert,17,0,11,0,6
+Ashley,CW3,Lieutenant Governor,,LBT,Frank Gilbert,10,0,9,0,1
+Ashley,NCE,Lieutenant Governor,,LBT,Frank Gilbert,4,0,2,1,1
+Ashley,NCW,Lieutenant Governor,,LBT,Frank Gilbert,7,0,3,0,4
+Ashley,WCR,Lieutenant Governor,,LBT,Frank Gilbert,11,0,4,0,7
+Ashley,VOTECH,Lieutenant Governor,,LBT,Frank Gilbert,2,0,1,0,1
+Ashley,COOTER,Lieutenant Governor,,LBT,Frank Gilbert,5,0,1,0,4
+Ashley,HICKORY GROVE,Lieutenant Governor,,LBT,Frank Gilbert,8,0,4,0,4
+Ashley,CROSSROADS,Lieutenant Governor,,LBT,Frank Gilbert,4,0,2,0,2
+Ashley,HW3,Lieutenant Governor,,LBT,Frank Gilbert,3,0,1,0,2
+Ashley,HW2,Lieutenant Governor,,LBT,Frank Gilbert,2,0,2,0,0
+Ashley,HW1,Lieutenant Governor,,LBT,Frank Gilbert,6,0,5,0,1
+Ashley,HAMBURG RURAL,Lieutenant Governor,,LBT,Frank Gilbert,7,0,6,0,1
+Ashley,MT ZION,Lieutenant Governor,,LBT,Frank Gilbert,3,0,2,0,1
+Ashley,MILO,Lieutenant Governor,,LBT,Frank Gilbert,4,0,0,0,4
+Ashley,BEECH CREEK,Lieutenant Governor,,LBT,Frank Gilbert,0,0,0,0,0
+Ashley,MIST,Lieutenant Governor,,LBT,Frank Gilbert,0,0,0,0,0
+Ashley,FOUNTAIN HILL CITY,Lieutenant Governor,,LBT,Frank Gilbert,2,0,1,0,1
+Ashley,FOUNTAIN HILL RURAL,Lieutenant Governor,,LBT,Frank Gilbert,5,0,1,0,4
+Ashley,PORTLAND CITY,Lieutenant Governor,,LBT,Frank Gilbert,10,0,1,2,7
+Ashley,PORTLAND RURAL,Lieutenant Governor,,LBT,Frank Gilbert,0,0,0,0,0
+Ashley,BOYDELL,Lieutenant Governor,,LBT,Frank Gilbert,0,0,0,0,0
+Ashley,SNYDER / TRAFALGAR,Lieutenant Governor,,LBT,Frank Gilbert,0,0,0,0,0
+Ashley,MONTROSE CITY,Lieutenant Governor,,LBT,Frank Gilbert,1,0,0,0,1
+Ashley,MONTROSE RURAL,Lieutenant Governor,,LBT,Frank Gilbert,0,0,0,0,0
+Ashley,PARKDALE CITY,Lieutenant Governor,,LBT,Frank Gilbert,3,0,0,0,3
+Ashley,PARKDALE RURAL,Lieutenant Governor,,LBT,Frank Gilbert,0,0,0,0,0
+Ashley,WILMOT CITY,Lieutenant Governor,,LBT,Frank Gilbert,3,0,0,0,3
+Ashley,WILMOT RURAL,Lieutenant Governor,,LBT,Frank Gilbert,4,0,0,0,4
+Ashley,CW1,Lieutenant Governor,,DEM,Kelly Ross Krout,175,2,121,11,41
+Ashley,CW2,Lieutenant Governor,,DEM,Kelly Ross Krout,182,0,108,5,69
+Ashley,CW3,Lieutenant Governor,,DEM,Kelly Ross Krout,118,0,79,3,36
+Ashley,NCE,Lieutenant Governor,,DEM,Kelly Ross Krout,45,0,28,0,17
+Ashley,NCW,Lieutenant Governor,,DEM,Kelly Ross Krout,31,0,13,1,17
+Ashley,WCR,Lieutenant Governor,,DEM,Kelly Ross Krout,90,0,54,3,33
+Ashley,VOTECH,Lieutenant Governor,,DEM,Kelly Ross Krout,36,1,24,1,10
+Ashley,COOTER,Lieutenant Governor,,DEM,Kelly Ross Krout,20,0,11,0,9
+Ashley,HICKORY GROVE,Lieutenant Governor,,DEM,Kelly Ross Krout,23,0,17,1,5
+Ashley,CROSSROADS,Lieutenant Governor,,DEM,Kelly Ross Krout,25,0,19,0,6
+Ashley,HW3,Lieutenant Governor,,DEM,Kelly Ross Krout,37,0,21,2,14
+Ashley,HW2,Lieutenant Governor,,DEM,Kelly Ross Krout,41,0,24,0,17
+Ashley,HW1,Lieutenant Governor,,DEM,Kelly Ross Krout,78,2,46,1,29
+Ashley,HAMBURG RURAL,Lieutenant Governor,,DEM,Kelly Ross Krout,39,0,28,0,11
+Ashley,MT ZION,Lieutenant Governor,,DEM,Kelly Ross Krout,4,0,4,0,0
+Ashley,MILO,Lieutenant Governor,,DEM,Kelly Ross Krout,23,0,12,2,9
+Ashley,BEECH CREEK,Lieutenant Governor,,DEM,Kelly Ross Krout,0,0,0,0,0
+Ashley,MIST,Lieutenant Governor,,DEM,Kelly Ross Krout,5,0,4,0,1
+Ashley,FOUNTAIN HILL CITY,Lieutenant Governor,,DEM,Kelly Ross Krout,15,0,7,0,8
+Ashley,FOUNTAIN HILL RURAL,Lieutenant Governor,,DEM,Kelly Ross Krout,14,0,2,2,10
+Ashley,PORTLAND CITY,Lieutenant Governor,,DEM,Kelly Ross Krout,61,0,4,1,56
+Ashley,PORTLAND RURAL,Lieutenant Governor,,DEM,Kelly Ross Krout,7,0,0,0,7
+Ashley,BOYDELL,Lieutenant Governor,,DEM,Kelly Ross Krout,3,0,0,0,3
+Ashley,SNYDER / TRAFALGAR,Lieutenant Governor,,DEM,Kelly Ross Krout,2,0,2,0,0
+Ashley,MONTROSE CITY,Lieutenant Governor,,DEM,Kelly Ross Krout,40,0,5,0,35
+Ashley,MONTROSE RURAL,Lieutenant Governor,,DEM,Kelly Ross Krout,0,0,0,0,0
+Ashley,PARKDALE CITY,Lieutenant Governor,,DEM,Kelly Ross Krout,34,0,5,0,29
+Ashley,PARKDALE RURAL,Lieutenant Governor,,DEM,Kelly Ross Krout,3,0,0,0,3
+Ashley,WILMOT CITY,Lieutenant Governor,,DEM,Kelly Ross Krout,80,0,9,6,65
+Ashley,WILMOT RURAL,Lieutenant Governor,,DEM,Kelly Ross Krout,9,0,3,0,6
+Ashley,CW1,Secretary of State,,DEM,Anna Beth Gorman,178,2,122,10,44
+Ashley,CW2,Secretary of State,,DEM,Anna Beth Gorman,199,0,122,4,73
+Ashley,CW3,Secretary of State,,DEM,Anna Beth Gorman,128,0,86,3,39
+Ashley,NCE,Secretary of State,,DEM,Anna Beth Gorman,49,0,30,0,19
+Ashley,NCW,Secretary of State,,DEM,Anna Beth Gorman,33,0,16,1,16
+Ashley,WCR,Secretary of State,,DEM,Anna Beth Gorman,95,0,59,3,33
+Ashley,VOTECH,Secretary of State,,DEM,Anna Beth Gorman,36,1,25,1,9
+Ashley,COOTER,Secretary of State,,DEM,Anna Beth Gorman,23,0,11,0,12
+Ashley,HICKORY GROVE,Secretary of State,,DEM,Anna Beth Gorman,23,0,15,1,7
+Ashley,CROSSROADS,Secretary of State,,DEM,Anna Beth Gorman,34,0,22,0,12
+Ashley,HW3,Secretary of State,,DEM,Anna Beth Gorman,42,0,25,3,14
+Ashley,HW2,Secretary of State,,DEM,Anna Beth Gorman,46,0,27,0,19
+Ashley,HW1,Secretary of State,,DEM,Anna Beth Gorman,80,2,48,1,29
+Ashley,HAMBURG RURAL,Secretary of State,,DEM,Anna Beth Gorman,48,0,34,0,14
+Ashley,MT ZION,Secretary of State,,DEM,Anna Beth Gorman,6,0,6,0,0
+Ashley,MILO,Secretary of State,,DEM,Anna Beth Gorman,27,0,15,2,10
+Ashley,BEECH CREEK,Secretary of State,,DEM,Anna Beth Gorman,0,0,0,0,0
+Ashley,MIST,Secretary of State,,DEM,Anna Beth Gorman,5,0,4,0,1
+Ashley,FOUNTAIN HILL CITY,Secretary of State,,DEM,Anna Beth Gorman,16,0,8,0,8
+Ashley,FOUNTAIN HILL RURAL,Secretary of State,,DEM,Anna Beth Gorman,21,0,4,2,15
+Ashley,PORTLAND CITY,Secretary of State,,DEM,Anna Beth Gorman,69,0,4,1,64
+Ashley,PORTLAND RURAL,Secretary of State,,DEM,Anna Beth Gorman,7,0,0,0,7
+Ashley,BOYDELL,Secretary of State,,DEM,Anna Beth Gorman,4,0,1,0,3
+Ashley,SNYDER / TRAFALGAR,Secretary of State,,DEM,Anna Beth Gorman,4,0,4,0,0
+Ashley,MONTROSE CITY,Secretary of State,,DEM,Anna Beth Gorman,41,0,5,0,36
+Ashley,MONTROSE RURAL,Secretary of State,,DEM,Anna Beth Gorman,0,0,0,0,0
+Ashley,PARKDALE CITY,Secretary of State,,DEM,Anna Beth Gorman,38,0,6,0,32
+Ashley,PARKDALE RURAL,Secretary of State,,DEM,Anna Beth Gorman,3,0,0,0,3
+Ashley,WILMOT CITY,Secretary of State,,DEM,Anna Beth Gorman,82,0,10,6,66
+Ashley,WILMOT RURAL,Secretary of State,,DEM,Anna Beth Gorman,9,0,4,0,5
+Ashley,CW1,Secretary of State,,REP,Secretary of State John Thurston,146,1,93,3,49
+Ashley,CW2,Secretary of State,,REP,Secretary of State John Thurston,214,0,130,14,70
+Ashley,CW3,Secretary of State,,REP,Secretary of State John Thurston,471,0,303,7,161
+Ashley,NCE,Secretary of State,,REP,Secretary of State John Thurston,276,1,142,5,128
+Ashley,NCW,Secretary of State,,REP,Secretary of State John Thurston,159,0,79,5,75
+Ashley,WCR,Secretary of State,,REP,Secretary of State John Thurston,278,0,167,1,110
+Ashley,VOTECH,Secretary of State,,REP,Secretary of State John Thurston,154,0,79,0,75
+Ashley,COOTER,Secretary of State,,REP,Secretary of State John Thurston,138,0,45,1,92
+Ashley,HICKORY GROVE,Secretary of State,,REP,Secretary of State John Thurston,332,0,228,2,102
+Ashley,CROSSROADS,Secretary of State,,REP,Secretary of State John Thurston,265,0,133,2,130
+Ashley,HW3,Secretary of State,,REP,Secretary of State John Thurston,235,0,146,4,85
+Ashley,HW2,Secretary of State,,REP,Secretary of State John Thurston,145,1,92,3,49
+Ashley,HW1,Secretary of State,,REP,Secretary of State John Thurston,31,0,16,0,15
+Ashley,HAMBURG RURAL,Secretary of State,,REP,Secretary of State John Thurston,385,0,257,10,118
+Ashley,MT ZION,Secretary of State,,REP,Secretary of State John Thurston,102,0,64,3,35
+Ashley,MILO,Secretary of State,,REP,Secretary of State John Thurston,240,0,112,4,124
+Ashley,BEECH CREEK,Secretary of State,,REP,Secretary of State John Thurston,16,0,7,0,9
+Ashley,MIST,Secretary of State,,REP,Secretary of State John Thurston,55,1,38,0,16
+Ashley,FOUNTAIN HILL CITY,Secretary of State,,REP,Secretary of State John Thurston,27,1,5,0,21
+Ashley,FOUNTAIN HILL RURAL,Secretary of State,,REP,Secretary of State John Thurston,160,0,56,3,101
+Ashley,PORTLAND CITY,Secretary of State,,REP,Secretary of State John Thurston,85,0,14,6,65
+Ashley,PORTLAND RURAL,Secretary of State,,REP,Secretary of State John Thurston,15,0,2,0,13
+Ashley,BOYDELL,Secretary of State,,REP,Secretary of State John Thurston,3,0,1,0,2
+Ashley,SNYDER / TRAFALGAR,Secretary of State,,REP,Secretary of State John Thurston,31,0,21,1,9
+Ashley,MONTROSE CITY,Secretary of State,,REP,Secretary of State John Thurston,17,0,4,0,13
+Ashley,MONTROSE RURAL,Secretary of State,,REP,Secretary of State John Thurston,3,0,0,0,3
+Ashley,PARKDALE CITY,Secretary of State,,REP,Secretary of State John Thurston,17,0,7,1,9
+Ashley,PARKDALE RURAL,Secretary of State,,REP,Secretary of State John Thurston,3,0,2,0,1
+Ashley,WILMOT CITY,Secretary of State,,REP,Secretary of State John Thurston,31,0,16,0,15
+Ashley,WILMOT RURAL,Secretary of State,,REP,Secretary of State John Thurston,38,0,13,1,24
+Ashley,CW1,State Treasurer,,REP,State Representative Mark Lowery,147,1,92,3,51
+Ashley,CW2,State Treasurer,,REP,State Representative Mark Lowery,209,0,125,13,71
+Ashley,CW3,State Treasurer,,REP,State Representative Mark Lowery,477,0,306,7,164
+Ashley,NCE,State Treasurer,,REP,State Representative Mark Lowery,279,1,143,5,130
+Ashley,NCW,State Treasurer,,REP,State Representative Mark Lowery,157,0,81,5,71
+Ashley,WCR,State Treasurer,,REP,State Representative Mark Lowery,276,0,166,1,109
+Ashley,VOTECH,State Treasurer,,REP,State Representative Mark Lowery,157,0,81,0,76
+Ashley,COOTER,State Treasurer,,REP,State Representative Mark Lowery,137,0,45,1,91
+Ashley,HICKORY GROVE,State Treasurer,,REP,State Representative Mark Lowery,331,0,226,2,103
+Ashley,CROSSROADS,State Treasurer,,REP,State Representative Mark Lowery,266,0,134,2,130
+Ashley,HW3,State Treasurer,,REP,State Representative Mark Lowery,235,0,146,4,85
+Ashley,HW2,State Treasurer,,REP,State Representative Mark Lowery,152,1,97,3,51
+Ashley,HW1,State Treasurer,,REP,State Representative Mark Lowery,35,0,18,0,17
+Ashley,HAMBURG RURAL,State Treasurer,,REP,State Representative Mark Lowery,387,0,258,10,119
+Ashley,MT ZION,State Treasurer,,REP,State Representative Mark Lowery,106,0,69,3,34
+Ashley,MILO,State Treasurer,,REP,State Representative Mark Lowery,238,0,114,4,120
+Ashley,BEECH CREEK,State Treasurer,,REP,State Representative Mark Lowery,16,0,7,0,9
+Ashley,MIST,State Treasurer,,REP,State Representative Mark Lowery,56,1,39,0,16
+Ashley,FOUNTAIN HILL CITY,State Treasurer,,REP,State Representative Mark Lowery,30,1,7,0,22
+Ashley,FOUNTAIN HILL RURAL,State Treasurer,,REP,State Representative Mark Lowery,165,0,57,3,105
+Ashley,PORTLAND CITY,State Treasurer,,REP,State Representative Mark Lowery,84,0,14,4,66
+Ashley,PORTLAND RURAL,State Treasurer,,REP,State Representative Mark Lowery,15,0,2,0,13
+Ashley,BOYDELL,State Treasurer,,REP,State Representative Mark Lowery,4,0,2,0,2
+Ashley,SNYDER / TRAFALGAR,State Treasurer,,REP,State Representative Mark Lowery,32,0,22,1,9
+Ashley,MONTROSE CITY,State Treasurer,,REP,State Representative Mark Lowery,18,0,4,0,14
+Ashley,MONTROSE RURAL,State Treasurer,,REP,State Representative Mark Lowery,3,0,0,0,3
+Ashley,PARKDALE CITY,State Treasurer,,REP,State Representative Mark Lowery,18,0,6,1,11
+Ashley,PARKDALE RURAL,State Treasurer,,REP,State Representative Mark Lowery,3,0,2,0,1
+Ashley,WILMOT CITY,State Treasurer,,REP,State Representative Mark Lowery,32,0,17,0,15
+Ashley,WILMOT RURAL,State Treasurer,,REP,State Representative Mark Lowery,38,0,13,1,24
+Ashley,CW1,State Treasurer,,DEM,Pam Whitaker,183,2,127,11,43
+Ashley,CW2,State Treasurer,,DEM,Pam Whitaker,204,0,127,5,72
+Ashley,CW3,State Treasurer,,DEM,Pam Whitaker,123,0,83,3,37
+Ashley,NCE,State Treasurer,,DEM,Pam Whitaker,46,0,30,0,16
+Ashley,NCW,State Treasurer,,DEM,Pam Whitaker,33,0,14,1,18
+Ashley,WCR,State Treasurer,,DEM,Pam Whitaker,97,0,60,3,34
+Ashley,VOTECH,State Treasurer,,DEM,Pam Whitaker,36,1,24,2,9
+Ashley,COOTER,State Treasurer,,DEM,Pam Whitaker,22,0,10,0,12
+Ashley,HICKORY GROVE,State Treasurer,,DEM,Pam Whitaker,25,0,17,1,7
+Ashley,CROSSROADS,State Treasurer,,DEM,Pam Whitaker,31,0,21,0,10
+Ashley,HW3,State Treasurer,,DEM,Pam Whitaker,40,0,24,3,13
+Ashley,HW2,State Treasurer,,DEM,Pam Whitaker,40,0,23,0,17
+Ashley,HW1,State Treasurer,,DEM,Pam Whitaker,79,2,49,1,27
+Ashley,HAMBURG RURAL,State Treasurer,,DEM,Pam Whitaker,46,0,34,0,12
+Ashley,MT ZION,State Treasurer,,DEM,Pam Whitaker,3,0,2,0,1
+Ashley,MILO,State Treasurer,,DEM,Pam Whitaker,26,0,13,2,11
+Ashley,BEECH CREEK,State Treasurer,,DEM,Pam Whitaker,0,0,0,0,0
+Ashley,MIST,State Treasurer,,DEM,Pam Whitaker,4,0,3,0,1
+Ashley,FOUNTAIN HILL CITY,State Treasurer,,DEM,Pam Whitaker,15,0,6,0,9
+Ashley,FOUNTAIN HILL RURAL,State Treasurer,,DEM,Pam Whitaker,17,0,2,2,13
+Ashley,PORTLAND CITY,State Treasurer,,DEM,Pam Whitaker,71,0,4,3,64
+Ashley,PORTLAND RURAL,State Treasurer,,DEM,Pam Whitaker,6,0,0,0,6
+Ashley,BOYDELL,State Treasurer,,DEM,Pam Whitaker,3,0,0,0,3
+Ashley,SNYDER / TRAFALGAR,State Treasurer,,DEM,Pam Whitaker,3,0,3,0,0
+Ashley,MONTROSE CITY,State Treasurer,,DEM,Pam Whitaker,40,0,5,0,35
+Ashley,MONTROSE RURAL,State Treasurer,,DEM,Pam Whitaker,0,0,0,0,0
+Ashley,PARKDALE CITY,State Treasurer,,DEM,Pam Whitaker,38,0,7,0,31
+Ashley,PARKDALE RURAL,State Treasurer,,DEM,Pam Whitaker,3,0,0,0,3
+Ashley,WILMOT CITY,State Treasurer,,DEM,Pam Whitaker,84,0,9,6,69
+Ashley,WILMOT RURAL,State Treasurer,,DEM,Pam Whitaker,10,0,5,0,5
+Ashley,CW1,State Senate,01,REP,Senator Ben Gilmore,237,2,148,9,78
+Ashley,CW2,State Senate,01,REP,Senator Ben Gilmore,330,0,202,14,114
+Ashley,CW3,State Senate,01,REP,Senator Ben Gilmore,535,0,344,7,184
+Ashley,NCE,State Senate,01,REP,Senator Ben Gilmore,297,1,157,5,134
+Ashley,NCW,State Senate,01,REP,Senator Ben Gilmore,176,0,88,6,82
+Ashley,WCR,State Senate,01,REP,Senator Ben Gilmore,319,0,191,3,125
+Ashley,VOTECH,State Senate,01,REP,Senator Ben Gilmore,169,1,91,1,76
+Ashley,COOTER,State Senate,01,REP,Senator Ben Gilmore,148,0,52,1,95
+Ashley,HICKORY GROVE,State Senate,01,REP,Senator Ben Gilmore,338,0,228,4,106
+Ashley,CROSSROADS,State Senate,01,REP,Senator Ben Gilmore,275,0,142,2,131
+Ashley,HW3,State Senate,01,REP,Senator Ben Gilmore,253,0,157,5,91
+Ashley,HW2,State Senate,01,REP,Senator Ben Gilmore,170,1,107,3,59
+Ashley,HW1,State Senate,01,REP,Senator Ben Gilmore,67,2,38,1,26
+Ashley,HAMBURG RURAL,State Senate,01,REP,Senator Ben Gilmore,404,0,274,9,121
+Ashley,MT ZION,State Senate,01,REP,Senator Ben Gilmore,106,0,69,3,34
+Ashley,MILO,State Senate,01,REP,Senator Ben Gilmore,250,0,124,6,120
+Ashley,BEECH CREEK,State Senate,01,REP,Senator Ben Gilmore,16,0,7,0,9
+Ashley,MIST,State Senate,01,REP,Senator Ben Gilmore,57,0,42,0,15
+Ashley,FOUNTAIN HILL CITY,State Senate,01,REP,Senator Ben Gilmore,33,1,7,0,25
+Ashley,FOUNTAIN HILL RURAL,State Senate,01,REP,Senator Ben Gilmore,166,0,55,4,107
+Ashley,PORTLAND CITY,State Senate,01,REP,Senator Ben Gilmore,124,0,17,5,102
+Ashley,PORTLAND RURAL,State Senate,01,REP,Senator Ben Gilmore,17,0,2,0,15
+Ashley,BOYDELL,State Senate,01,REP,Senator Ben Gilmore,6,0,2,0,4
+Ashley,SNYDER / TRAFALGAR,State Senate,01,REP,Senator Ben Gilmore,35,0,25,1,9
+Ashley,MONTROSE CITY,State Senate,01,REP,Senator Ben Gilmore,33,0,5,0,28
+Ashley,MONTROSE RURAL,State Senate,01,REP,Senator Ben Gilmore,3,0,0,0,3
+Ashley,PARKDALE CITY,State Senate,01,REP,Senator Ben Gilmore,29,0,7,1,21
+Ashley,PARKDALE RURAL,State Senate,01,REP,Senator Ben Gilmore,5,0,2,0,3
+Ashley,WILMOT CITY,State Senate,01,REP,Senator Ben Gilmore,68,0,20,5,43
+Ashley,WILMOT RURAL,State Senate,01,REP,Senator Ben Gilmore,42,0,16,1,25
+Ashley,CW1,State House,95,REP,"Representative Howard M. Beaty, Jr.",227,2,145,8,72
+Ashley,CW2,State House,95,REP,"Representative Howard M. Beaty, Jr.",324,0,201,13,110
+Ashley,CW3,State House,95,REP,"Representative Howard M. Beaty, Jr.",539,0,346,7,186
+Ashley,NCE,State House,95,REP,"Representative Howard M. Beaty, Jr.",295,1,155,5,134
+Ashley,NCW,State House,95,REP,"Representative Howard M. Beaty, Jr.",178,0,90,6,82
+Ashley,WCR,State House,95,REP,"Representative Howard M. Beaty, Jr.",311,0,190,3,118
+Ashley,VOTECH,State House,95,REP,"Representative Howard M. Beaty, Jr.",171,0,90,1,80
+Ashley,COOTER,State House,95,REP,"Representative Howard M. Beaty, Jr.",151,0,54,1,96
+Ashley,HICKORY GROVE,State House,95,REP,"Representative Howard M. Beaty, Jr.",335,0,226,4,105
+Ashley,CROSSROADS,State House,95,REP,"Representative Howard M. Beaty, Jr.",275,0,141,2,132
+Ashley,HW3,State House,95,REP,"Representative Howard M. Beaty, Jr.",253,0,159,5,89
+Ashley,HW2,State House,95,REP,"Representative Howard M. Beaty, Jr.",170,0,106,3,61
+Ashley,HW1,State House,95,REP,"Representative Howard M. Beaty, Jr.",67,2,40,0,25
+Ashley,HAMBURG RURAL,State House,95,REP,"Representative Howard M. Beaty, Jr.",401,0,269,10,122
+Ashley,MT ZION,State House,95,REP,"Representative Howard M. Beaty, Jr.",107,0,69,3,35
+Ashley,MILO,State House,95,REP,"Representative Howard M. Beaty, Jr.",242,0,117,6,119
+Ashley,BEECH CREEK,State House,95,REP,"Representative Howard M. Beaty, Jr.",16,0,7,0,9
+Ashley,MIST,State House,95,REP,"Representative Howard M. Beaty, Jr.",58,1,40,0,17
+Ashley,FOUNTAIN HILL CITY,State House,95,REP,"Representative Howard M. Beaty, Jr.",37,1,9,0,27
+Ashley,FOUNTAIN HILL RURAL,State House,95,REP,"Representative Howard M. Beaty, Jr.",166,0,57,5,104
+Ashley,PORTLAND CITY,State House,95,REP,"Representative Howard M. Beaty, Jr.",122,0,16,6,100
+Ashley,PORTLAND RURAL,State House,95,REP,"Representative Howard M. Beaty, Jr.",16,0,2,0,14
+Ashley,BOYDELL,State House,95,REP,"Representative Howard M. Beaty, Jr.",6,0,2,0,4
+Ashley,SNYDER / TRAFALGAR,State House,95,REP,"Representative Howard M. Beaty, Jr.",32,0,22,1,9
+Ashley,MONTROSE CITY,State House,95,REP,"Representative Howard M. Beaty, Jr.",31,0,6,0,25
+Ashley,MONTROSE RURAL,State House,95,REP,"Representative Howard M. Beaty, Jr.",3,0,0,0,3
+Ashley,PARKDALE CITY,State House,95,REP,"Representative Howard M. Beaty, Jr.",31,0,8,1,22
+Ashley,PARKDALE RURAL,State House,95,REP,"Representative Howard M. Beaty, Jr.",5,0,2,0,3
+Ashley,WILMOT CITY,State House,95,REP,"Representative Howard M. Beaty, Jr.",69,0,19,5,45
+Ashley,WILMOT RURAL,State House,95,REP,"Representative Howard M. Beaty, Jr.",42,0,16,1,25
+Ashley,CW1,State Supreme Court Associate Justice Position 2,,NPT,Judge Chris Carnahan,127,2,76,4,45
+Ashley,CW2,State Supreme Court Associate Justice Position 2,,NPT,Judge Chris Carnahan,153,0,94,7,52
+Ashley,CW3,State Supreme Court Associate Justice Position 2,,NPT,Judge Chris Carnahan,219,0,144,2,73
+Ashley,NCE,State Supreme Court Associate Justice Position 2,,NPT,Judge Chris Carnahan,118,1,57,0,60
+Ashley,NCW,State Supreme Court Associate Justice Position 2,,NPT,Judge Chris Carnahan,68,0,28,0,40
+Ashley,WCR,State Supreme Court Associate Justice Position 2,,NPT,Judge Chris Carnahan,155,0,96,0,59
+Ashley,VOTECH,State Supreme Court Associate Justice Position 2,,NPT,Judge Chris Carnahan,71,0,44,0,27
+Ashley,COOTER,State Supreme Court Associate Justice Position 2,,NPT,Judge Chris Carnahan,65,0,16,1,48
+Ashley,HICKORY GROVE,State Supreme Court Associate Justice Position 2,,NPT,Judge Chris Carnahan,146,0,97,0,49
+Ashley,CROSSROADS,State Supreme Court Associate Justice Position 2,,NPT,Judge Chris Carnahan,105,0,64,0,41
+Ashley,HW3,State Supreme Court Associate Justice Position 2,,NPT,Judge Chris Carnahan,106,0,60,3,43
+Ashley,HW2,State Supreme Court Associate Justice Position 2,,NPT,Judge Chris Carnahan,58,1,40,0,17
+Ashley,HW1,State Supreme Court Associate Justice Position 2,,NPT,Judge Chris Carnahan,30,1,17,0,12
+Ashley,HAMBURG RURAL,State Supreme Court Associate Justice Position 2,,NPT,Judge Chris Carnahan,159,0,102,5,52
+Ashley,MT ZION,State Supreme Court Associate Justice Position 2,,NPT,Judge Chris Carnahan,36,0,20,0,16
+Ashley,MILO,State Supreme Court Associate Justice Position 2,,NPT,Judge Chris Carnahan,112,0,51,2,59
+Ashley,BEECH CREEK,State Supreme Court Associate Justice Position 2,,NPT,Judge Chris Carnahan,10,0,5,0,5
+Ashley,MIST,State Supreme Court Associate Justice Position 2,,NPT,Judge Chris Carnahan,24,0,13,0,11
+Ashley,FOUNTAIN HILL CITY,State Supreme Court Associate Justice Position 2,,NPT,Judge Chris Carnahan,13,0,2,0,11
+Ashley,FOUNTAIN HILL RURAL,State Supreme Court Associate Justice Position 2,,NPT,Judge Chris Carnahan,75,0,22,2,51
+Ashley,PORTLAND CITY,State Supreme Court Associate Justice Position 2,,NPT,Judge Chris Carnahan,56,0,4,0,52
+Ashley,PORTLAND RURAL,State Supreme Court Associate Justice Position 2,,NPT,Judge Chris Carnahan,12,0,0,0,12
+Ashley,BOYDELL,State Supreme Court Associate Justice Position 2,,NPT,Judge Chris Carnahan,2,0,1,0,1
+Ashley,SNYDER / TRAFALGAR,State Supreme Court Associate Justice Position 2,,NPT,Judge Chris Carnahan,14,0,10,0,4
+Ashley,MONTROSE CITY,State Supreme Court Associate Justice Position 2,,NPT,Judge Chris Carnahan,13,0,1,0,12
+Ashley,MONTROSE RURAL,State Supreme Court Associate Justice Position 2,,NPT,Judge Chris Carnahan,1,0,0,0,1
+Ashley,PARKDALE CITY,State Supreme Court Associate Justice Position 2,,NPT,Judge Chris Carnahan,21,0,6,1,14
+Ashley,PARKDALE RURAL,State Supreme Court Associate Justice Position 2,,NPT,Judge Chris Carnahan,4,0,2,0,2
+Ashley,WILMOT CITY,State Supreme Court Associate Justice Position 2,,NPT,Judge Chris Carnahan,39,0,9,1,29
+Ashley,WILMOT RURAL,State Supreme Court Associate Justice Position 2,,NPT,Judge Chris Carnahan,20,0,6,0,14
+Ashley,CW1,State Supreme Court Associate Justice Position 2,,NPT,Supreme Court Associate Justice Robin Wynne,161,1,112,8,40
+Ashley,CW2,State Supreme Court Associate Justice Position 2,,NPT,Supreme Court Associate Justice Robin Wynne,222,0,137,9,76
+Ashley,CW3,State Supreme Court Associate Justice Position 2,,NPT,Supreme Court Associate Justice Robin Wynne,314,0,203,8,103
+Ashley,NCE,State Supreme Court Associate Justice Position 2,,NPT,Supreme Court Associate Justice Robin Wynne,163,0,92,4,67
+Ashley,NCW,State Supreme Court Associate Justice Position 2,,NPT,Supreme Court Associate Justice Robin Wynne,96,0,54,6,36
+Ashley,WCR,State Supreme Court Associate Justice Position 2,,NPT,Supreme Court Associate Justice Robin Wynne,169,0,99,4,66
+Ashley,VOTECH,State Supreme Court Associate Justice Position 2,,NPT,Supreme Court Associate Justice Robin Wynne,92,1,44,2,45
+Ashley,COOTER,State Supreme Court Associate Justice Position 2,,NPT,Supreme Court Associate Justice Robin Wynne,83,0,32,0,51
+Ashley,HICKORY GROVE,State Supreme Court Associate Justice Position 2,,NPT,Supreme Court Associate Justice Robin Wynne,160,0,114,2,44
+Ashley,CROSSROADS,State Supreme Court Associate Justice Position 2,,NPT,Supreme Court Associate Justice Robin Wynne,152,0,72,1,79
+Ashley,HW3,State Supreme Court Associate Justice Position 2,,NPT,Supreme Court Associate Justice Robin Wynne,143,0,96,3,44
+Ashley,HW2,State Supreme Court Associate Justice Position 2,,NPT,Supreme Court Associate Justice Robin Wynne,112,0,66,3,43
+Ashley,HW1,State Supreme Court Associate Justice Position 2,,NPT,Supreme Court Associate Justice Robin Wynne,60,1,36,0,23
+Ashley,HAMBURG RURAL,State Supreme Court Associate Justice Position 2,,NPT,Supreme Court Associate Justice Robin Wynne,222,0,153,5,64
+Ashley,MT ZION,State Supreme Court Associate Justice Position 2,,NPT,Supreme Court Associate Justice Robin Wynne,59,0,43,3,13
+Ashley,MILO,State Supreme Court Associate Justice Position 2,,NPT,Supreme Court Associate Justice Robin Wynne,116,0,58,3,55
+Ashley,BEECH CREEK,State Supreme Court Associate Justice Position 2,,NPT,Supreme Court Associate Justice Robin Wynne,6,0,2,0,4
+Ashley,MIST,State Supreme Court Associate Justice Position 2,,NPT,Supreme Court Associate Justice Robin Wynne,33,1,27,0,5
+Ashley,FOUNTAIN HILL CITY,State Supreme Court Associate Justice Position 2,,NPT,Supreme Court Associate Justice Robin Wynne,23,1,8,0,14
+Ashley,FOUNTAIN HILL RURAL,State Supreme Court Associate Justice Position 2,,NPT,Supreme Court Associate Justice Robin Wynne,77,0,30,3,44
+Ashley,PORTLAND CITY,State Supreme Court Associate Justice Position 2,,NPT,Supreme Court Associate Justice Robin Wynne,73,0,12,5,56
+Ashley,PORTLAND RURAL,State Supreme Court Associate Justice Position 2,,NPT,Supreme Court Associate Justice Robin Wynne,8,0,1,0,7
+Ashley,BOYDELL,State Supreme Court Associate Justice Position 2,,NPT,Supreme Court Associate Justice Robin Wynne,4,0,0,0,4
+Ashley,SNYDER / TRAFALGAR,State Supreme Court Associate Justice Position 2,,NPT,Supreme Court Associate Justice Robin Wynne,17,0,12,1,4
+Ashley,MONTROSE CITY,State Supreme Court Associate Justice Position 2,,NPT,Supreme Court Associate Justice Robin Wynne,28,0,8,0,20
+Ashley,MONTROSE RURAL,State Supreme Court Associate Justice Position 2,,NPT,Supreme Court Associate Justice Robin Wynne,2,0,0,0,2
+Ashley,PARKDALE CITY,State Supreme Court Associate Justice Position 2,,NPT,Supreme Court Associate Justice Robin Wynne,23,0,5,0,18
+Ashley,PARKDALE RURAL,State Supreme Court Associate Justice Position 2,,NPT,Supreme Court Associate Justice Robin Wynne,2,0,0,0,2
+Ashley,WILMOT CITY,State Supreme Court Associate Justice Position 2,,NPT,Supreme Court Associate Justice Robin Wynne,52,0,12,5,35
+Ashley,WILMOT RURAL,State Supreme Court Associate Justice Position 2,,NPT,Supreme Court Associate Justice Robin Wynne,18,0,8,1,9
+Ashley,CW1,ASHLEY COUNTY CIRCUIT CLERK,,REP,REP VICKIE RILEY STELL,263,2,167,11,83
+Ashley,CW2,ASHLEY COUNTY CIRCUIT CLERK,,REP,REP VICKIE RILEY STELL,352,0,213,15,124
+Ashley,CW3,ASHLEY COUNTY CIRCUIT CLERK,,REP,REP VICKIE RILEY STELL,563,0,363,8,192
+Ashley,NCE,ASHLEY COUNTY CIRCUIT CLERK,,REP,REP VICKIE RILEY STELL,308,1,163,5,139
+Ashley,NCW,ASHLEY COUNTY CIRCUIT CLERK,,REP,REP VICKIE RILEY STELL,182,0,91,6,85
+Ashley,WCR,ASHLEY COUNTY CIRCUIT CLERK,,REP,REP VICKIE RILEY STELL,341,0,207,4,130
+Ashley,VOTECH,ASHLEY COUNTY CIRCUIT CLERK,,REP,REP VICKIE RILEY STELL,176,1,91,2,82
+Ashley,COOTER,ASHLEY COUNTY CIRCUIT CLERK,,REP,REP VICKIE RILEY STELL,152,0,52,1,99
+Ashley,HICKORY GROVE,ASHLEY COUNTY CIRCUIT CLERK,,REP,REP VICKIE RILEY STELL,346,0,237,4,105
+Ashley,CROSSROADS,ASHLEY COUNTY CIRCUIT CLERK,,REP,REP VICKIE RILEY STELL,282,0,145,2,135
+Ashley,HW3,ASHLEY COUNTY CIRCUIT CLERK,,REP,REP VICKIE RILEY STELL,267,0,165,6,96
+Ashley,HW2,ASHLEY COUNTY CIRCUIT CLERK,,REP,REP VICKIE RILEY STELL,178,1,113,3,61
+Ashley,HW1,ASHLEY COUNTY CIRCUIT CLERK,,REP,REP VICKIE RILEY STELL,89,2,51,0,36
+Ashley,HAMBURG RURAL,ASHLEY COUNTY CIRCUIT CLERK,,REP,REP VICKIE RILEY STELL,423,0,288,10,125
+Ashley,MT ZION,ASHLEY COUNTY CIRCUIT CLERK,,REP,REP VICKIE RILEY STELL,107,0,69,3,35
+Ashley,MILO,ASHLEY COUNTY CIRCUIT CLERK,,REP,REP VICKIE RILEY STELL,262,0,125,6,131
+Ashley,BEECH CREEK,ASHLEY COUNTY CIRCUIT CLERK,,REP,REP VICKIE RILEY STELL,16,0,7,0,9
+Ashley,MIST,ASHLEY COUNTY CIRCUIT CLERK,,REP,REP VICKIE RILEY STELL,60,1,42,0,17
+Ashley,FOUNTAIN HILL CITY,ASHLEY COUNTY CIRCUIT CLERK,,REP,REP VICKIE RILEY STELL,40,1,10,0,29
+Ashley,FOUNTAIN HILL RURAL,ASHLEY COUNTY CIRCUIT CLERK,,REP,REP VICKIE RILEY STELL,179,0,61,5,113
+Ashley,PORTLAND CITY,ASHLEY COUNTY CIRCUIT CLERK,,REP,REP VICKIE RILEY STELL,129,0,18,6,105
+Ashley,PORTLAND RURAL,ASHLEY COUNTY CIRCUIT CLERK,,REP,REP VICKIE RILEY STELL,20,0,2,0,18
+Ashley,BOYDELL,ASHLEY COUNTY CIRCUIT CLERK,,REP,REP VICKIE RILEY STELL,7,0,2,0,5
+Ashley,SNYDER / TRAFALGAR,ASHLEY COUNTY CIRCUIT CLERK,,REP,REP VICKIE RILEY STELL,35,0,25,1,9
+Ashley,MONTROSE CITY,ASHLEY COUNTY CIRCUIT CLERK,,REP,REP VICKIE RILEY STELL,43,0,8,0,35
+Ashley,MONTROSE RURAL,ASHLEY COUNTY CIRCUIT CLERK,,REP,REP VICKIE RILEY STELL,3,0,0,0,3
+Ashley,PARKDALE CITY,ASHLEY COUNTY CIRCUIT CLERK,,REP,REP VICKIE RILEY STELL,40,0,10,1,29
+Ashley,PARKDALE RURAL,ASHLEY COUNTY CIRCUIT CLERK,,REP,REP VICKIE RILEY STELL,5,0,2,0,3
+Ashley,WILMOT CITY,ASHLEY COUNTY CIRCUIT CLERK,,REP,REP VICKIE RILEY STELL,86,0,22,6,58
+Ashley,WILMOT RURAL,ASHLEY COUNTY CIRCUIT CLERK,,REP,REP VICKIE RILEY STELL,44,0,16,1,27
+Ashley,CW1,ASHLEY COUNTY CORONER,,IND,IND RYAN KNIGHT,127,2,80,5,40
+Ashley,CW2,ASHLEY COUNTY CORONER,,IND,IND RYAN KNIGHT,174,0,106,4,64
+Ashley,CW3,ASHLEY COUNTY CORONER,,IND,IND RYAN KNIGHT,176,0,116,0,60
+Ashley,NCE,ASHLEY COUNTY CORONER,,IND,IND RYAN KNIGHT,77,0,39,0,38
+Ashley,NCW,ASHLEY COUNTY CORONER,,IND,IND RYAN KNIGHT,49,0,17,1,31
+Ashley,WCR,ASHLEY COUNTY CORONER,,IND,IND RYAN KNIGHT,97,0,61,1,35
+Ashley,VOTECH,ASHLEY COUNTY CORONER,,IND,IND RYAN KNIGHT,60,1,34,2,23
+Ashley,COOTER,ASHLEY COUNTY CORONER,,IND,IND RYAN KNIGHT,38,0,13,0,25
+Ashley,HICKORY GROVE,ASHLEY COUNTY CORONER,,IND,IND RYAN KNIGHT,71,0,43,0,28
+Ashley,CROSSROADS,ASHLEY COUNTY CORONER,,IND,IND RYAN KNIGHT,122,0,67,0,55
+Ashley,HW3,ASHLEY COUNTY CORONER,,IND,IND RYAN KNIGHT,195,0,117,7,71
+Ashley,HW2,ASHLEY COUNTY CORONER,,IND,IND RYAN KNIGHT,130,1,79,3,47
+Ashley,HW1,ASHLEY COUNTY CORONER,,IND,IND RYAN KNIGHT,77,1,43,1,32
+Ashley,HAMBURG RURAL,ASHLEY COUNTY CORONER,,IND,IND RYAN KNIGHT,297,0,201,5,91
+Ashley,MT ZION,ASHLEY COUNTY CORONER,,IND,IND RYAN KNIGHT,47,0,28,3,16
+Ashley,MILO,ASHLEY COUNTY CORONER,,IND,IND RYAN KNIGHT,146,0,78,5,63
+Ashley,BEECH CREEK,ASHLEY COUNTY CORONER,,IND,IND RYAN KNIGHT,9,0,2,0,7
+Ashley,MIST,ASHLEY COUNTY CORONER,,IND,IND RYAN KNIGHT,36,1,28,0,7
+Ashley,FOUNTAIN HILL CITY,ASHLEY COUNTY CORONER,,IND,IND RYAN KNIGHT,26,1,7,0,18
+Ashley,FOUNTAIN HILL RURAL,ASHLEY COUNTY CORONER,,IND,IND RYAN KNIGHT,113,0,42,0,71
+Ashley,PORTLAND CITY,ASHLEY COUNTY CORONER,,IND,IND RYAN KNIGHT,101,0,13,0,88
+Ashley,PORTLAND RURAL,ASHLEY COUNTY CORONER,,IND,IND RYAN KNIGHT,17,0,1,0,16
+Ashley,BOYDELL,ASHLEY COUNTY CORONER,,IND,IND RYAN KNIGHT,4,0,1,0,3
+Ashley,SNYDER / TRAFALGAR,ASHLEY COUNTY CORONER,,IND,IND RYAN KNIGHT,19,0,13,1,5
+Ashley,MONTROSE CITY,ASHLEY COUNTY CORONER,,IND,IND RYAN KNIGHT,38,0,8,0,30
+Ashley,MONTROSE RURAL,ASHLEY COUNTY CORONER,,IND,IND RYAN KNIGHT,2,0,0,0,2
+Ashley,PARKDALE CITY,ASHLEY COUNTY CORONER,,IND,IND RYAN KNIGHT,37,0,9,1,27
+Ashley,PARKDALE RURAL,ASHLEY COUNTY CORONER,,IND,IND RYAN KNIGHT,4,0,1,0,3
+Ashley,WILMOT CITY,ASHLEY COUNTY CORONER,,IND,IND RYAN KNIGHT,68,0,9,5,54
+Ashley,WILMOT RURAL,ASHLEY COUNTY CORONER,,IND,IND RYAN KNIGHT,25,0,10,1,14
+Ashley,CW1,ASHLEY COUNTY CORONER,,REP,REP KEITH MEDDERS,185,1,123,8,53
+Ashley,CW2,ASHLEY COUNTY CORONER,,REP,REP KEITH MEDDERS,225,0,138,15,72
+Ashley,CW3,ASHLEY COUNTY CORONER,,REP,REP KEITH MEDDERS,417,0,268,10,139
+Ashley,NCE,ASHLEY COUNTY CORONER,,REP,REP KEITH MEDDERS,247,1,132,6,108
+Ashley,NCW,ASHLEY COUNTY CORONER,,REP,REP KEITH MEDDERS,141,0,76,5,60
+Ashley,WCR,ASHLEY COUNTY CORONER,,REP,REP KEITH MEDDERS,270,0,163,3,104
+Ashley,VOTECH,ASHLEY COUNTY CORONER,,REP,REP KEITH MEDDERS,132,0,70,0,62
+Ashley,COOTER,ASHLEY COUNTY CORONER,,REP,REP KEITH MEDDERS,121,0,42,1,78
+Ashley,HICKORY GROVE,ASHLEY COUNTY CORONER,,REP,REP KEITH MEDDERS,283,0,199,4,80
+Ashley,CROSSROADS,ASHLEY COUNTY CORONER,,REP,REP KEITH MEDDERS,172,0,83,2,87
+Ashley,HW3,ASHLEY COUNTY CORONER,,REP,REP KEITH MEDDERS,79,0,49,0,30
+Ashley,HW2,ASHLEY COUNTY CORONER,,REP,REP KEITH MEDDERS,58,0,38,0,20
+Ashley,HW1,ASHLEY COUNTY CORONER,,REP,REP KEITH MEDDERS,26,1,15,0,10
+Ashley,HAMBURG RURAL,ASHLEY COUNTY CORONER,,REP,REP KEITH MEDDERS,134,0,90,4,40
+Ashley,MT ZION,ASHLEY COUNTY CORONER,,REP,REP KEITH MEDDERS,59,0,40,0,19
+Ashley,MILO,ASHLEY COUNTY CORONER,,REP,REP KEITH MEDDERS,121,0,50,1,70
+Ashley,BEECH CREEK,ASHLEY COUNTY CORONER,,REP,REP KEITH MEDDERS,7,0,5,0,2
+Ashley,MIST,ASHLEY COUNTY CORONER,,REP,REP KEITH MEDDERS,23,0,14,0,9
+Ashley,FOUNTAIN HILL CITY,ASHLEY COUNTY CORONER,,REP,REP KEITH MEDDERS,15,0,4,0,11
+Ashley,FOUNTAIN HILL RURAL,ASHLEY COUNTY CORONER,,REP,REP KEITH MEDDERS,70,0,20,5,45
+Ashley,PORTLAND CITY,ASHLEY COUNTY CORONER,,REP,REP KEITH MEDDERS,46,0,5,6,35
+Ashley,PORTLAND RURAL,ASHLEY COUNTY CORONER,,REP,REP KEITH MEDDERS,4,0,1,0,3
+Ashley,BOYDELL,ASHLEY COUNTY CORONER,,REP,REP KEITH MEDDERS,3,0,0,0,3
+Ashley,SNYDER / TRAFALGAR,ASHLEY COUNTY CORONER,,REP,REP KEITH MEDDERS,16,0,12,0,4
+Ashley,MONTROSE CITY,ASHLEY COUNTY CORONER,,REP,REP KEITH MEDDERS,13,0,1,0,12
+Ashley,MONTROSE RURAL,ASHLEY COUNTY CORONER,,REP,REP KEITH MEDDERS,1,0,0,0,1
+Ashley,PARKDALE CITY,ASHLEY COUNTY CORONER,,REP,REP KEITH MEDDERS,11,0,4,0,7
+Ashley,PARKDALE RURAL,ASHLEY COUNTY CORONER,,REP,REP KEITH MEDDERS,2,0,1,0,1
+Ashley,WILMOT CITY,ASHLEY COUNTY CORONER,,REP,REP KEITH MEDDERS,31,0,15,0,16
+Ashley,WILMOT RURAL,ASHLEY COUNTY CORONER,,REP,REP KEITH MEDDERS,21,0,7,0,14
+Ashley,CW1,ASHLEY COUNTY JUDGE,,REP,REP JIM HUDSON,166,0,102,5,59
+Ashley,CW2,ASHLEY COUNTY JUDGE,,REP,REP JIM HUDSON,215,0,124,14,77
+Ashley,CW3,ASHLEY COUNTY JUDGE,,REP,REP JIM HUDSON,438,0,297,9,132
+Ashley,NCE,ASHLEY COUNTY JUDGE,,REP,REP JIM HUDSON,270,0,137,6,127
+Ashley,NCW,ASHLEY COUNTY JUDGE,,REP,REP JIM HUDSON,151,0,76,5,70
+Ashley,WCR,ASHLEY COUNTY JUDGE,,REP,REP JIM HUDSON,265,0,152,2,111
+Ashley,VOTECH,ASHLEY COUNTY JUDGE,,REP,REP JIM HUDSON,144,0,76,1,67
+Ashley,COOTER,ASHLEY COUNTY JUDGE,,REP,REP JIM HUDSON,118,0,41,1,76
+Ashley,HICKORY GROVE,ASHLEY COUNTY JUDGE,,REP,REP JIM HUDSON,286,0,196,4,86
+Ashley,CROSSROADS,ASHLEY COUNTY JUDGE,,REP,REP JIM HUDSON,228,0,114,1,113
+Ashley,HW3,ASHLEY COUNTY JUDGE,,REP,REP JIM HUDSON,174,0,106,4,64
+Ashley,HW2,ASHLEY COUNTY JUDGE,,REP,REP JIM HUDSON,115,0,79,2,34
+Ashley,HW1,ASHLEY COUNTY JUDGE,,REP,REP JIM HUDSON,43,1,25,0,17
+Ashley,HAMBURG RURAL,ASHLEY COUNTY JUDGE,,REP,REP JIM HUDSON,279,0,182,6,91
+Ashley,MT ZION,ASHLEY COUNTY JUDGE,,REP,REP JIM HUDSON,60,0,38,0,22
+Ashley,MILO,ASHLEY COUNTY JUDGE,,REP,REP JIM HUDSON,220,0,103,6,111
+Ashley,BEECH CREEK,ASHLEY COUNTY JUDGE,,REP,REP JIM HUDSON,10,0,4,0,6
+Ashley,MIST,ASHLEY COUNTY JUDGE,,REP,REP JIM HUDSON,47,1,31,0,15
+Ashley,FOUNTAIN HILL CITY,ASHLEY COUNTY JUDGE,,REP,REP JIM HUDSON,32,1,6,0,25
+Ashley,FOUNTAIN HILL RURAL,ASHLEY COUNTY JUDGE,,REP,REP JIM HUDSON,135,0,48,3,84
+Ashley,PORTLAND CITY,ASHLEY COUNTY JUDGE,,REP,REP JIM HUDSON,77,0,13,4,60
+Ashley,PORTLAND RURAL,ASHLEY COUNTY JUDGE,,REP,REP JIM HUDSON,11,0,1,0,10
+Ashley,BOYDELL,ASHLEY COUNTY JUDGE,,REP,REP JIM HUDSON,5,0,2,0,3
+Ashley,SNYDER / TRAFALGAR,ASHLEY COUNTY JUDGE,,REP,REP JIM HUDSON,26,0,19,1,6
+Ashley,MONTROSE CITY,ASHLEY COUNTY JUDGE,,REP,REP JIM HUDSON,23,0,5,0,18
+Ashley,MONTROSE RURAL,ASHLEY COUNTY JUDGE,,REP,REP JIM HUDSON,2,0,0,0,2
+Ashley,PARKDALE CITY,ASHLEY COUNTY JUDGE,,REP,REP JIM HUDSON,24,0,7,1,16
+Ashley,PARKDALE RURAL,ASHLEY COUNTY JUDGE,,REP,REP JIM HUDSON,5,0,2,0,3
+Ashley,WILMOT CITY,ASHLEY COUNTY JUDGE,,REP,REP JIM HUDSON,53,0,15,1,37
+Ashley,WILMOT RURAL,ASHLEY COUNTY JUDGE,,REP,REP JIM HUDSON,40,0,18,1,21
+Ashley,CW1,ASHLEY COUNTY JUDGE,,IND,"IND DENNIS F. HOLLAND, SR.",147,3,104,7,33
+Ashley,CW2,ASHLEY COUNTY JUDGE,,IND,"IND DENNIS F. HOLLAND, SR.",191,0,121,5,65
+Ashley,CW3,ASHLEY COUNTY JUDGE,,IND,"IND DENNIS F. HOLLAND, SR.",164,0,94,1,69
+Ashley,NCE,ASHLEY COUNTY JUDGE,,IND,"IND DENNIS F. HOLLAND, SR.",56,1,35,0,20
+Ashley,NCW,ASHLEY COUNTY JUDGE,,IND,"IND DENNIS F. HOLLAND, SR.",42,0,18,1,23
+Ashley,WCR,ASHLEY COUNTY JUDGE,,IND,"IND DENNIS F. HOLLAND, SR.",99,0,68,2,29
+Ashley,VOTECH,ASHLEY COUNTY JUDGE,,IND,"IND DENNIS F. HOLLAND, SR.",45,1,25,1,18
+Ashley,COOTER,ASHLEY COUNTY JUDGE,,IND,"IND DENNIS F. HOLLAND, SR.",42,0,14,0,28
+Ashley,HICKORY GROVE,ASHLEY COUNTY JUDGE,,IND,"IND DENNIS F. HOLLAND, SR.",63,0,41,0,22
+Ashley,CROSSROADS,ASHLEY COUNTY JUDGE,,IND,"IND DENNIS F. HOLLAND, SR.",64,0,38,1,25
+Ashley,HW3,ASHLEY COUNTY JUDGE,,IND,"IND DENNIS F. HOLLAND, SR.",100,0,60,3,37
+Ashley,HW2,ASHLEY COUNTY JUDGE,,IND,"IND DENNIS F. HOLLAND, SR.",76,1,41,1,33
+Ashley,HW1,ASHLEY COUNTY JUDGE,,IND,"IND DENNIS F. HOLLAND, SR.",69,1,39,1,28
+Ashley,HAMBURG RURAL,ASHLEY COUNTY JUDGE,,IND,"IND DENNIS F. HOLLAND, SR.",153,0,109,4,40
+Ashley,MT ZION,ASHLEY COUNTY JUDGE,,IND,"IND DENNIS F. HOLLAND, SR.",48,0,32,3,13
+Ashley,MILO,ASHLEY COUNTY JUDGE,,IND,"IND DENNIS F. HOLLAND, SR.",47,0,25,0,22
+Ashley,BEECH CREEK,ASHLEY COUNTY JUDGE,,IND,"IND DENNIS F. HOLLAND, SR.",6,0,3,0,3
+Ashley,MIST,ASHLEY COUNTY JUDGE,,IND,"IND DENNIS F. HOLLAND, SR.",11,0,9,0,2
+Ashley,FOUNTAIN HILL CITY,ASHLEY COUNTY JUDGE,,IND,"IND DENNIS F. HOLLAND, SR.",12,0,6,0,6
+Ashley,FOUNTAIN HILL RURAL,ASHLEY COUNTY JUDGE,,IND,"IND DENNIS F. HOLLAND, SR.",54,0,15,2,37
+Ashley,PORTLAND CITY,ASHLEY COUNTY JUDGE,,IND,"IND DENNIS F. HOLLAND, SR.",72,0,5,2,65
+Ashley,PORTLAND RURAL,ASHLEY COUNTY JUDGE,,IND,"IND DENNIS F. HOLLAND, SR.",9,0,1,0,8
+Ashley,BOYDELL,ASHLEY COUNTY JUDGE,,IND,"IND DENNIS F. HOLLAND, SR.",3,0,0,0,3
+Ashley,SNYDER / TRAFALGAR,ASHLEY COUNTY JUDGE,,IND,"IND DENNIS F. HOLLAND, SR.",9,0,6,0,3
+Ashley,MONTROSE CITY,ASHLEY COUNTY JUDGE,,IND,"IND DENNIS F. HOLLAND, SR.",33,0,4,0,29
+Ashley,MONTROSE RURAL,ASHLEY COUNTY JUDGE,,IND,"IND DENNIS F. HOLLAND, SR.",1,0,0,0,1
+Ashley,PARKDALE CITY,ASHLEY COUNTY JUDGE,,IND,"IND DENNIS F. HOLLAND, SR.",27,0,5,0,22
+Ashley,PARKDALE RURAL,ASHLEY COUNTY JUDGE,,IND,"IND DENNIS F. HOLLAND, SR.",1,0,0,0,1
+Ashley,WILMOT CITY,ASHLEY COUNTY JUDGE,,IND,"IND DENNIS F. HOLLAND, SR.",53,0,10,5,38
+Ashley,WILMOT RURAL,ASHLEY COUNTY JUDGE,,IND,"IND DENNIS F. HOLLAND, SR.",8,0,0,0,8
+Ashley,HAMBURG RURAL,JUSTICE OF PEACE DISTRICT #1,,IND,IND RON MILLER,71,0,41,0,30
+Ashley,MT ZION,JUSTICE OF PEACE DISTRICT #1,,IND,IND RON MILLER,6,0,5,0,1
+Ashley,BEECH CREEK,JUSTICE OF PEACE DISTRICT #1,,IND,IND RON MILLER,13,0,6,0,7
+Ashley,MIST,JUSTICE OF PEACE DISTRICT #1,,IND,IND RON MILLER,33,0,25,0,8
+Ashley,FOUNTAIN HILL RURAL,JUSTICE OF PEACE DISTRICT #1,,IND,IND RON MILLER,0,0,0,0,0
+Ashley,PORTLAND CITY,JUSTICE OF PEACE DISTRICT #1,,IND,IND RON MILLER,70,0,10,5,55
+Ashley,PORTLAND RURAL,JUSTICE OF PEACE DISTRICT #1,,IND,IND RON MILLER,17,0,2,0,15
+Ashley,BOYDELL,JUSTICE OF PEACE DISTRICT #1,,IND,IND RON MILLER,3,0,2,0,1
+Ashley,SNYDER / TRAFALGAR,JUSTICE OF PEACE DISTRICT #1,,IND,IND RON MILLER,23,0,18,0,5
+Ashley,MONTROSE CITY,JUSTICE OF PEACE DISTRICT #1,,IND,IND RON MILLER,13,0,3,0,10
+Ashley,MONTROSE RURAL,JUSTICE OF PEACE DISTRICT #1,,IND,IND RON MILLER,2,0,0,0,2
+Ashley,PARKDALE CITY,JUSTICE OF PEACE DISTRICT #1,,IND,IND RON MILLER,25,0,9,1,15
+Ashley,PARKDALE RURAL,JUSTICE OF PEACE DISTRICT #1,,IND,IND RON MILLER,5,0,2,0,3
+Ashley,WILMOT CITY,JUSTICE OF PEACE DISTRICT #1,,IND,IND RON MILLER,77,0,19,6,52
+Ashley,WILMOT RURAL,JUSTICE OF PEACE DISTRICT #1,,IND,IND RON MILLER,45,0,18,1,26
+Ashley,HAMBURG RURAL,JUSTICE OF PEACE DISTRICT #1,,DEM,DEM BEN CARLTON LAWRENCE,25,0,19,0,6
+Ashley,MT ZION,JUSTICE OF PEACE DISTRICT #1,,DEM,DEM BEN CARLTON LAWRENCE,3,0,3,0,0
+Ashley,BEECH CREEK,JUSTICE OF PEACE DISTRICT #1,,DEM,DEM BEN CARLTON LAWRENCE,3,0,1,0,2
+Ashley,MIST,JUSTICE OF PEACE DISTRICT #1,,DEM,DEM BEN CARLTON LAWRENCE,12,1,8,0,3
+Ashley,FOUNTAIN HILL RURAL,JUSTICE OF PEACE DISTRICT #1,,DEM,DEM BEN CARLTON LAWRENCE,0,0,0,0,0
+Ashley,PORTLAND CITY,JUSTICE OF PEACE DISTRICT #1,,DEM,DEM BEN CARLTON LAWRENCE,83,0,8,2,73
+Ashley,PORTLAND RURAL,JUSTICE OF PEACE DISTRICT #1,,DEM,DEM BEN CARLTON LAWRENCE,5,0,0,0,5
+Ashley,BOYDELL,JUSTICE OF PEACE DISTRICT #1,,DEM,DEM BEN CARLTON LAWRENCE,4,0,0,0,4
+Ashley,SNYDER / TRAFALGAR,JUSTICE OF PEACE DISTRICT #1,,DEM,DEM BEN CARLTON LAWRENCE,12,0,7,1,4
+Ashley,MONTROSE CITY,JUSTICE OF PEACE DISTRICT #1,,DEM,DEM BEN CARLTON LAWRENCE,44,0,6,0,38
+Ashley,MONTROSE RURAL,JUSTICE OF PEACE DISTRICT #1,,DEM,DEM BEN CARLTON LAWRENCE,1,0,0,0,1
+Ashley,PARKDALE CITY,JUSTICE OF PEACE DISTRICT #1,,DEM,DEM BEN CARLTON LAWRENCE,31,0,5,0,26
+Ashley,PARKDALE RURAL,JUSTICE OF PEACE DISTRICT #1,,DEM,DEM BEN CARLTON LAWRENCE,1,0,0,0,1
+Ashley,WILMOT CITY,JUSTICE OF PEACE DISTRICT #1,,DEM,DEM BEN CARLTON LAWRENCE,38,0,7,0,31
+Ashley,WILMOT RURAL,JUSTICE OF PEACE DISTRICT #1,,DEM,DEM BEN CARLTON LAWRENCE,3,0,0,0,3
+Ashley,CW1,CROSSETT CITY MAYOR,,IND,IND CRYSTAL MARSHALL,301,2,199,14,86
+Ashley,CW2,CROSSETT CITY MAYOR,,IND,IND CRYSTAL MARSHALL,391,0,236,18,137
+Ashley,CW3,CROSSETT CITY MAYOR,,IND,IND CRYSTAL MARSHALL,569,0,368,9,192
+Ashley,CW1,CROSSETT CITY CLERK / TREASURER,,IND,IND CLARK W. TERRELL,288,2,183,13,90
+Ashley,CW2,CROSSETT CITY CLERK / TREASURER,,IND,IND CLARK W. TERRELL,379,0,232,17,130
+Ashley,CW3,CROSSETT CITY CLERK / TREASURER,,IND,IND CLARK W. TERRELL,560,0,362,9,189
+Ashley,CW1,CROSSETT ALDERMAN WARD 3 POSITION 2,,IND,IND ALYSSIA LE-WISE,135,0,91,6,38
+Ashley,CW2,CROSSETT ALDERMAN WARD 3 POSITION 2,,IND,IND ALYSSIA LE-WISE,174,0,100,8,66
+Ashley,CW3,CROSSETT ALDERMAN WARD 3 POSITION 2,,IND,IND ALYSSIA LE-WISE,201,0,123,2,76
+Ashley,CW1,CROSSETT ALDERMAN WARD 3 POSITION 2,,IND,IND JAMES KNIGHT,173,3,111,8,51
+Ashley,CW2,CROSSETT ALDERMAN WARD 3 POSITION 2,,IND,IND JAMES KNIGHT,215,0,136,10,69
+Ashley,CW3,CROSSETT ALDERMAN WARD 3 POSITION 2,,IND,IND JAMES KNIGHT,371,0,249,8,114
+Ashley,FOUNTAIN HILL CITY,FOUNTAIN HILL CITY MAYOR,,IND,IND ULRICA MCHENRY TROTTER,37,1,8,0,28
+Ashley,FOUNTAIN HILL CITY,FOUNTAIN HILL CITY TREASURER / RECORDER,,IND,IND LINDA RILEY,36,1,8,0,27
+Ashley,HW3,HAMBURG CITY MAYOR,,IND,IND DAVID STREETER,263,0,162,6,95
+Ashley,HW2,HAMBURG CITY MAYOR,,IND,IND DAVID STREETER,183,1,116,3,63
+Ashley,HW1,HAMBURG CITY MAYOR,,IND,IND DAVID STREETER,94,2,54,0,38
+Ashley,HW3,HAMBURG CITY CLERK / TREASURER,,IND,IND MELISSA K. CARPENTER,259,0,160,6,93
+Ashley,HW2,HAMBURG CITY CLERK / TREASURER,,IND,IND MELISSA K. CARPENTER,182,1,111,3,67
+Ashley,HW1,HAMBURG CITY CLERK / TREASURER,,IND,IND MELISSA K. CARPENTER,101,2,61,1,37
+Ashley,MONTROSE CITY,MONTROSE CITY MAYOR,,IND,IND JOSEPH L. CARLTON,52,0,7,0,45
+Ashley,PORTLAND CITY,PORTLAND CITY MAYOR,,IND,IND THOMAS FRAZER,78,0,14,4,60
+Ashley,PORTLAND CITY,PORTLAND CITY MAYOR,,IND,IND MICHELLE SANDERS DUNBAR,76,0,4,3,69
+Ashley,PORTLAND CITY,PORTLAND CITY TREASURER / RECORDER,,IND,IND AMBER SPAULDING,131,0,17,5,109
+Ashley,PORTLAND CITY,PORTLAND ALDERMAN WARD 1 POSITION 1,,IND,IND MARY ASHLEY WOODS,76,0,4,4,68
+Ashley,PORTLAND CITY,PORTLAND ALDERMAN WARD 1 POSITION 1,,IND,IND ROBERT TAYLOR SPAULDING,75,0,14,3,58
+Ashley,PORTLAND CITY,PORTLAND ALDERMAN WARD 1 POSITION 2,,IND,IND MARILYN WOODS-WEBB,75,0,4,3,68
+Ashley,PORTLAND CITY,PORTLAND ALDERMAN WARD 1 POSITION 2,,IND,IND JERAD SELBY,77,0,14,4,59
+Ashley,PARKDALE CITY,PARKDALE CITY MAYOR,,IND,"IND ROBERT BO PALMER, II",26,0,10,1,15
+Ashley,PARKDALE CITY,PARKDALE CITY MAYOR,,IND,IND LATREACE TAYLOR,30,0,4,0,26
+Ashley,WILMOT CITY,WILMOT CITY MAYOR,,IND,IND CAROLYN E. HARRIS,94,0,19,5,70
+Ashley,CW1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,FOR,133,1,90,8,34
+Ashley,CW2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,FOR,150,0,82,8,60
+Ashley,CW3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,FOR,220,0,141,4,75
+Ashley,NCE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,FOR,120,1,63,3,53
+Ashley,NCW,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,FOR,87,0,38,6,43
+Ashley,WCR,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,FOR,132,0,84,0,48
+Ashley,VOTECH,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,FOR,66,1,38,1,26
+Ashley,COOTER,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,FOR,44,0,14,0,30
+Ashley,HICKORY GROVE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,FOR,122,0,73,2,47
+Ashley,CROSSROADS,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,FOR,92,0,55,0,37
+Ashley,HW3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,FOR,110,0,65,2,43
+Ashley,HW2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,FOR,80,0,48,0,32
+Ashley,HW1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,FOR,41,1,20,0,20
+Ashley,HAMBURG RURAL,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,FOR,159,0,94,7,58
+Ashley,MT ZION,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,FOR,45,0,26,2,17
+Ashley,MILO,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,FOR,86,0,47,5,34
+Ashley,BEECH CREEK,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,FOR,6,0,5,0,1
+Ashley,MIST,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,FOR,26,0,15,0,11
+Ashley,FOUNTAIN HILL CITY,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,FOR,12,0,1,0,11
+Ashley,FOUNTAIN HILL RURAL,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,FOR,63,0,21,2,40
+Ashley,PORTLAND CITY,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,FOR,59,0,4,4,51
+Ashley,PORTLAND RURAL,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,FOR,11,0,1,0,10
+Ashley,BOYDELL,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,FOR,3,0,1,0,2
+Ashley,SNYDER / TRAFALGAR,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,FOR,13,0,8,0,5
+Ashley,MONTROSE CITY,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,FOR,21,0,5,0,16
+Ashley,MONTROSE RURAL,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,FOR,1,0,0,0,1
+Ashley,PARKDALE CITY,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,FOR,17,0,3,0,14
+Ashley,PARKDALE RURAL,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,FOR,4,0,0,0,4
+Ashley,WILMOT CITY,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,FOR,48,0,12,2,34
+Ashley,WILMOT RURAL,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,FOR,7,0,3,0,4
+Ashley,CW1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,AGAINST,167,1,111,6,49
+Ashley,CW2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,AGAINST,240,0,157,10,73
+Ashley,CW3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,AGAINST,359,0,237,6,116
+Ashley,NCE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,AGAINST,192,0,105,3,84
+Ashley,NCW,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,AGAINST,96,0,52,0,44
+Ashley,WCR,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,AGAINST,219,0,130,4,85
+Ashley,VOTECH,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,AGAINST,118,0,61,1,56
+Ashley,COOTER,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,AGAINST,115,0,42,1,72
+Ashley,HICKORY GROVE,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,AGAINST,220,0,158,2,60
+Ashley,CROSSROADS,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,AGAINST,198,0,95,2,101
+Ashley,HW3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,AGAINST,163,0,102,5,56
+Ashley,HW2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,AGAINST,94,0,63,3,28
+Ashley,HW1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,AGAINST,61,1,39,0,21
+Ashley,HAMBURG RURAL,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,AGAINST,261,0,189,3,69
+Ashley,MT ZION,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,AGAINST,62,0,43,1,18
+Ashley,MILO,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,AGAINST,176,0,79,1,96
+Ashley,BEECH CREEK,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,AGAINST,10,0,2,0,8
+Ashley,MIST,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,AGAINST,32,1,25,0,6
+Ashley,FOUNTAIN HILL CITY,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,AGAINST,30,1,11,0,18
+Ashley,FOUNTAIN HILL RURAL,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,AGAINST,113,0,39,2,72
+Ashley,PORTLAND CITY,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,AGAINST,89,0,14,1,74
+Ashley,PORTLAND RURAL,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,AGAINST,9,0,1,0,8
+Ashley,BOYDELL,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,AGAINST,4,0,1,0,3
+Ashley,SNYDER / TRAFALGAR,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,AGAINST,19,0,14,1,4
+Ashley,MONTROSE CITY,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,AGAINST,29,0,4,0,25
+Ashley,MONTROSE RURAL,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,AGAINST,2,0,0,0,2
+Ashley,PARKDALE CITY,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,AGAINST,23,0,7,1,15
+Ashley,PARKDALE RURAL,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,AGAINST,2,0,2,0,0
+Ashley,WILMOT CITY,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,AGAINST,43,0,12,3,28
+Ashley,WILMOT RURAL,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NPT,AGAINST,37,0,13,1,23
+Ashley,CW1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,FOR,158,1,99,9,49
+Ashley,CW2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,FOR,175,0,95,12,68
+Ashley,CW3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,FOR,278,0,180,5,93
+Ashley,NCE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,FOR,151,1,72,2,76
+Ashley,NCW,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,FOR,84,0,39,5,40
+Ashley,WCR,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,FOR,166,0,108,0,58
+Ashley,VOTECH,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,FOR,87,1,44,1,41
+Ashley,COOTER,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,FOR,53,0,15,0,38
+Ashley,HICKORY GROVE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,FOR,178,0,120,1,57
+Ashley,CROSSROADS,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,FOR,109,0,59,0,50
+Ashley,HW3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,FOR,122,0,72,3,47
+Ashley,HW2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,FOR,78,0,50,0,28
+Ashley,HW1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,FOR,49,0,27,0,22
+Ashley,HAMBURG RURAL,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,FOR,176,0,101,6,69
+Ashley,MT ZION,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,FOR,53,0,28,1,24
+Ashley,MILO,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,FOR,103,0,40,4,59
+Ashley,BEECH CREEK,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,FOR,7,0,4,0,3
+Ashley,MIST,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,FOR,28,0,18,0,10
+Ashley,FOUNTAIN HILL CITY,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,FOR,14,0,3,0,11
+Ashley,FOUNTAIN HILL RURAL,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,FOR,77,0,24,2,51
+Ashley,PORTLAND CITY,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,FOR,81,0,7,2,72
+Ashley,PORTLAND RURAL,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,FOR,10,0,1,0,9
+Ashley,BOYDELL,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,FOR,1,0,0,0,1
+Ashley,SNYDER / TRAFALGAR,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,FOR,14,0,11,0,3
+Ashley,MONTROSE CITY,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,FOR,29,0,6,0,23
+Ashley,MONTROSE RURAL,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,FOR,0,0,0,0,0
+Ashley,PARKDALE CITY,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,FOR,32,0,9,0,23
+Ashley,PARKDALE RURAL,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,FOR,4,0,0,0,4
+Ashley,WILMOT CITY,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,FOR,56,0,10,2,44
+Ashley,WILMOT RURAL,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,FOR,17,0,3,0,14
+Ashley,CW1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,AGAINST,152,1,107,5,39
+Ashley,CW2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,AGAINST,224,0,148,6,70
+Ashley,CW3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,AGAINST,307,0,200,5,102
+Ashley,NCE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,AGAINST,168,0,98,4,66
+Ashley,NCW,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,AGAINST,99,0,53,1,45
+Ashley,WCR,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,AGAINST,189,0,107,4,78
+Ashley,VOTECH,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,AGAINST,100,0,56,1,43
+Ashley,COOTER,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,AGAINST,107,0,40,1,66
+Ashley,HICKORY GROVE,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,AGAINST,168,0,117,3,48
+Ashley,CROSSROADS,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,AGAINST,186,0,93,2,91
+Ashley,HW3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,AGAINST,146,0,92,4,50
+Ashley,HW2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,AGAINST,102,0,64,3,35
+Ashley,HW1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,AGAINST,57,2,34,0,21
+Ashley,HAMBURG RURAL,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,AGAINST,246,0,182,4,60
+Ashley,MT ZION,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,AGAINST,51,0,39,1,11
+Ashley,MILO,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,AGAINST,157,0,84,2,71
+Ashley,BEECH CREEK,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,AGAINST,8,0,3,0,5
+Ashley,MIST,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,AGAINST,31,1,23,0,7
+Ashley,FOUNTAIN HILL CITY,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,AGAINST,28,1,9,0,18
+Ashley,FOUNTAIN HILL RURAL,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,AGAINST,98,0,36,2,60
+Ashley,PORTLAND CITY,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,AGAINST,68,0,11,3,54
+Ashley,PORTLAND RURAL,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,AGAINST,11,0,1,0,10
+Ashley,BOYDELL,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,AGAINST,5,0,1,0,4
+Ashley,SNYDER / TRAFALGAR,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,AGAINST,20,0,13,1,6
+Ashley,MONTROSE CITY,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,AGAINST,29,0,3,0,26
+Ashley,MONTROSE RURAL,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,AGAINST,3,0,0,0,3
+Ashley,PARKDALE CITY,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,AGAINST,19,0,4,1,14
+Ashley,PARKDALE RURAL,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,AGAINST,2,0,2,0,0
+Ashley,WILMOT CITY,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,AGAINST,50,0,14,4,32
+Ashley,WILMOT RURAL,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NPT,AGAINST,29,0,14,1,14
+Ashley,CW1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,FOR,191,2,125,12,52
+Ashley,CW2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,FOR,209,0,120,8,81
+Ashley,CW3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,FOR,322,0,205,5,112
+Ashley,NCE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,FOR,164,1,79,3,81
+Ashley,NCW,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,FOR,118,0,56,3,59
+Ashley,WCR,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,FOR,192,0,119,1,72
+Ashley,VOTECH,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,FOR,93,1,46,1,45
+Ashley,COOTER,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,FOR,76,0,22,0,54
+Ashley,HICKORY GROVE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,FOR,187,0,133,2,52
+Ashley,CROSSROADS,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,FOR,155,0,85,1,69
+Ashley,HW3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,FOR,135,0,82,2,51
+Ashley,HW2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,FOR,105,0,69,2,34
+Ashley,HW1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,FOR,57,0,30,0,27
+Ashley,HAMBURG RURAL,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,FOR,226,0,144,9,73
+Ashley,MT ZION,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,FOR,63,0,36,2,25
+Ashley,MILO,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,FOR,123,0,62,4,57
+Ashley,BEECH CREEK,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,FOR,7,0,3,0,4
+Ashley,MIST,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,FOR,38,1,25,0,12
+Ashley,FOUNTAIN HILL CITY,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,FOR,18,0,1,0,17
+Ashley,FOUNTAIN HILL RURAL,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,FOR,104,0,38,5,61
+Ashley,PORTLAND CITY,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,FOR,88,0,8,3,77
+Ashley,PORTLAND RURAL,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,FOR,12,0,0,0,12
+Ashley,BOYDELL,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,FOR,2,0,0,0,2
+Ashley,SNYDER / TRAFALGAR,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,FOR,19,0,15,0,4
+Ashley,MONTROSE CITY,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,FOR,36,0,6,0,30
+Ashley,MONTROSE RURAL,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,FOR,2,0,0,0,2
+Ashley,PARKDALE CITY,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,FOR,37,0,10,1,26
+Ashley,PARKDALE RURAL,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,FOR,4,0,0,0,4
+Ashley,WILMOT CITY,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,FOR,60,0,11,2,47
+Ashley,WILMOT RURAL,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,FOR,17,0,3,0,14
+Ashley,CW1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,AGAINST,126,0,86,2,38
+Ashley,CW2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,AGAINST,190,0,123,9,58
+Ashley,CW3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,AGAINST,267,0,179,5,83
+Ashley,NCE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,AGAINST,157,0,91,3,63
+Ashley,NCW,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,AGAINST,70,0,38,3,29
+Ashley,WCR,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,AGAINST,173,0,102,3,68
+Ashley,VOTECH,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,AGAINST,97,0,57,1,39
+Ashley,COOTER,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,AGAINST,85,0,34,1,50
+Ashley,HICKORY GROVE,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,AGAINST,161,0,103,2,56
+Ashley,CROSSROADS,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,AGAINST,136,0,66,1,69
+Ashley,HW3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,AGAINST,137,0,84,5,48
+Ashley,HW2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,AGAINST,80,0,49,1,30
+Ashley,HW1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,AGAINST,51,2,32,0,17
+Ashley,HAMBURG RURAL,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,AGAINST,201,0,143,1,57
+Ashley,MT ZION,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,AGAINST,43,0,32,1,10
+Ashley,MILO,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,AGAINST,144,0,66,2,76
+Ashley,BEECH CREEK,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,AGAINST,9,0,4,0,5
+Ashley,MIST,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,AGAINST,22,0,17,0,5
+Ashley,FOUNTAIN HILL CITY,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,AGAINST,23,1,10,0,12
+Ashley,FOUNTAIN HILL RURAL,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,AGAINST,76,0,24,0,52
+Ashley,PORTLAND CITY,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,AGAINST,61,0,10,3,48
+Ashley,PORTLAND RURAL,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,AGAINST,10,0,2,0,8
+Ashley,BOYDELL,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,AGAINST,4,0,1,0,3
+Ashley,SNYDER / TRAFALGAR,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,AGAINST,15,0,9,1,5
+Ashley,MONTROSE CITY,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,AGAINST,19,0,3,0,16
+Ashley,MONTROSE RURAL,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,AGAINST,1,0,0,0,1
+Ashley,PARKDALE CITY,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,AGAINST,11,0,2,0,9
+Ashley,PARKDALE RURAL,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,AGAINST,2,0,2,0,0
+Ashley,WILMOT CITY,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,AGAINST,47,0,13,4,30
+Ashley,WILMOT RURAL,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NPT,AGAINST,28,0,13,1,14
+Ashley,CW1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,FOR,169,1,108,7,53
+Ashley,CW2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,FOR,196,0,121,5,70
+Ashley,CW3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,FOR,194,0,115,3,76
+Ashley,NCE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,FOR,117,1,47,0,69
+Ashley,NCW,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,FOR,77,0,32,1,44
+Ashley,WCR,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,FOR,159,0,83,3,73
+Ashley,VOTECH,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,FOR,77,1,39,1,36
+Ashley,COOTER,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,FOR,55,0,19,0,36
+Ashley,HICKORY GROVE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,FOR,124,0,81,1,42
+Ashley,CROSSROADS,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,FOR,89,0,40,1,48
+Ashley,HW3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,FOR,88,0,57,2,29
+Ashley,HW2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,FOR,72,0,41,0,31
+Ashley,HW1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,FOR,69,1,43,1,24
+Ashley,HAMBURG RURAL,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,FOR,147,0,103,5,39
+Ashley,MT ZION,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,FOR,27,0,16,0,11
+Ashley,MILO,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,FOR,89,0,43,2,44
+Ashley,BEECH CREEK,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,FOR,7,0,5,0,2
+Ashley,MIST,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,FOR,26,0,13,0,13
+Ashley,FOUNTAIN HILL CITY,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,FOR,16,0,2,0,14
+Ashley,FOUNTAIN HILL RURAL,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,FOR,53,0,21,2,30
+Ashley,PORTLAND CITY,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,FOR,70,0,3,4,63
+Ashley,PORTLAND RURAL,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,FOR,5,0,0,0,5
+Ashley,BOYDELL,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,FOR,4,0,0,0,4
+Ashley,SNYDER / TRAFALGAR,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,FOR,18,0,11,1,6
+Ashley,MONTROSE CITY,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,FOR,33,0,3,0,30
+Ashley,MONTROSE RURAL,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,FOR,2,0,0,0,2
+Ashley,PARKDALE CITY,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,FOR,34,0,5,0,29
+Ashley,PARKDALE RURAL,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,FOR,3,0,0,0,3
+Ashley,WILMOT CITY,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,FOR,63,0,8,3,52
+Ashley,WILMOT RURAL,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,FOR,8,0,2,0,6
+Ashley,CW1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,AGAINST,156,1,109,7,39
+Ashley,CW2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,AGAINST,212,0,129,14,69
+Ashley,CW3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,AGAINST,404,0,274,7,123
+Ashley,NCE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,AGAINST,207,0,122,6,79
+Ashley,NCW,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,AGAINST,115,0,63,5,47
+Ashley,WCR,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,AGAINST,209,0,140,1,68
+Ashley,VOTECH,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,AGAINST,115,0,65,1,49
+Ashley,COOTER,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,AGAINST,106,0,38,1,67
+Ashley,HICKORY GROVE,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,AGAINST,228,0,158,3,67
+Ashley,CROSSROADS,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,AGAINST,206,0,112,1,93
+Ashley,HW3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,AGAINST,186,0,110,5,71
+Ashley,HW2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,AGAINST,113,0,76,3,34
+Ashley,HW1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,AGAINST,44,1,22,0,21
+Ashley,HAMBURG RURAL,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,AGAINST,280,0,185,5,90
+Ashley,MT ZION,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,AGAINST,81,0,54,3,24
+Ashley,MILO,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,AGAINST,175,0,83,4,88
+Ashley,BEECH CREEK,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,AGAINST,9,0,2,0,7
+Ashley,MIST,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,AGAINST,34,1,29,0,4
+Ashley,FOUNTAIN HILL CITY,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,AGAINST,27,1,10,0,16
+Ashley,FOUNTAIN HILL RURAL,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,AGAINST,131,0,41,3,87
+Ashley,PORTLAND CITY,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,AGAINST,82,0,15,2,65
+Ashley,PORTLAND RURAL,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,AGAINST,17,0,2,0,15
+Ashley,BOYDELL,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,AGAINST,2,0,1,0,1
+Ashley,SNYDER / TRAFALGAR,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,AGAINST,17,0,14,0,3
+Ashley,MONTROSE CITY,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,AGAINST,27,0,6,0,21
+Ashley,MONTROSE RURAL,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,AGAINST,1,0,0,0,1
+Ashley,PARKDALE CITY,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,AGAINST,15,0,7,1,7
+Ashley,PARKDALE RURAL,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,AGAINST,3,0,2,0,1
+Ashley,WILMOT CITY,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,AGAINST,45,0,16,3,26
+Ashley,WILMOT RURAL,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NPT,AGAINST,39,0,16,1,22

@@ -1,0 +1,570 @@
+county,precinct,office,district,party,candidate,votes,early_vote,absentee,election_day
+Chicot,Carlton 1 & 2,U.S. Senate,,REP,Senator John Boozman,175,129,9,37
+Chicot,Carlton 3,U.S. Senate,,REP,Senator John Boozman,212,145,16,51
+Chicot,Carlton Rural,U.S. Senate,,REP,Senator John Boozman,763,519,26,218
+Chicot,Planters 1,U.S. Senate,,REP,Senator John Boozman,23,11,4,8
+Chicot,Planters 2,U.S. Senate,,REP,Senator John Boozman,29,8,4,17
+Chicot,Planters 3,U.S. Senate,,REP,Senator John Boozman,9,6,0,3
+Chicot,Planters 4,U.S. Senate,,REP,Senator John Boozman,8,3,1,4
+Chicot,Planters Rural,U.S. Senate,,REP,Senator John Boozman,267,151,19,97
+Chicot,Bowie 1,U.S. Senate,,REP,Senator John Boozman,33,11,1,21
+Chicot,Bowie 2,U.S. Senate,,REP,Senator John Boozman,43,13,4,26
+Chicot,Bowie 3,U.S. Senate,,REP,Senator John Boozman,65,16,7,42
+Chicot,Bowie Rural,U.S. Senate,,REP,Senator John Boozman,60,31,2,27
+Chicot,Carlton 1 & 2,U.S. Senate,,DEM,Natalie James,464,266,55,143
+Chicot,Carlton 3,U.S. Senate,,DEM,Natalie James,123,55,6,62
+Chicot,Carlton Rural,U.S. Senate,,DEM,Natalie James,145,70,14,61
+Chicot,Planters 1,U.S. Senate,,DEM,Natalie James,85,24,5,56
+Chicot,Planters 2,U.S. Senate,,DEM,Natalie James,121,37,4,80
+Chicot,Planters 3,U.S. Senate,,DEM,Natalie James,93,24,3,66
+Chicot,Planters 4,U.S. Senate,,DEM,Natalie James,93,31,3,59
+Chicot,Planters Rural,U.S. Senate,,DEM,Natalie James,69,26,1,42
+Chicot,Bowie 1,U.S. Senate,,DEM,Natalie James,138,26,6,106
+Chicot,Bowie 2,U.S. Senate,,DEM,Natalie James,156,49,7,100
+Chicot,Bowie 3,U.S. Senate,,DEM,Natalie James,147,23,5,119
+Chicot,Bowie Rural,U.S. Senate,,DEM,Natalie James,19,9,0,10
+Chicot,Carlton 1 & 2,U.S. Senate,,LIB,Kenneth Cates,9,8,0,1
+Chicot,Carlton 3,U.S. Senate,,LIB,Kenneth Cates,5,3,0,2
+Chicot,Carlton Rural,U.S. Senate,,LIB,Kenneth Cates,8,4,0,4
+Chicot,Planters 1,U.S. Senate,,LIB,Kenneth Cates,1,1,0,0
+Chicot,Planters 2,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0
+Chicot,Planters 3,U.S. Senate,,LIB,Kenneth Cates,5,1,0,4
+Chicot,Planters 4,U.S. Senate,,LIB,Kenneth Cates,2,0,0,2
+Chicot,Planters Rural,U.S. Senate,,LIB,Kenneth Cates,3,1,0,2
+Chicot,Bowie 1,U.S. Senate,,LIB,Kenneth Cates,2,1,0,1
+Chicot,Bowie 2,U.S. Senate,,LIB,Kenneth Cates,5,0,1,4
+Chicot,Bowie 3,U.S. Senate,,LIB,Kenneth Cates,1,0,0,1
+Chicot,Bowie Rural,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0
+Chicot,Carlton 1 & 2,U.S. Congress District 01,,REP,Congressman Rick Crawford,169,126,8,35
+Chicot,Carlton 3,U.S. Congress District 01,,REP,Congressman Rick Crawford,212,141,18,53
+Chicot,Carlton Rural,U.S. Congress District 01,,REP,Congressman Rick Crawford,754,513,24,217
+Chicot,Planters 1,U.S. Congress District 01,,REP,Congressman Rick Crawford,23,11,4,8
+Chicot,Planters 2,U.S. Congress District 01,,REP,Congressman Rick Crawford,21,4,3,14
+Chicot,Planters 3,U.S. Congress District 01,,REP,Congressman Rick Crawford,7,5,0,2
+Chicot,Planters 4,U.S. Congress District 01,,REP,Congressman Rick Crawford,10,4,1,5
+Chicot,Planters Rural,U.S. Congress District 01,,REP,Congressman Rick Crawford,264,149,19,96
+Chicot,Bowie 1,U.S. Congress District 01,,REP,Congressman Rick Crawford,34,12,1,21
+Chicot,Bowie 2,U.S. Congress District 01,,REP,Congressman Rick Crawford,34,9,3,22
+Chicot,Bowie 3,U.S. Congress District 01,,REP,Congressman Rick Crawford,62,16,6,40
+Chicot,Bowie Rural,U.S. Congress District 01,,REP,Congressman Rick Crawford,58,31,1,26
+Chicot,Carlton 1 & 2,U.S. Congress District 01,,DEM,Representative Monte Hodges,467,270,55,142
+Chicot,Carlton 3,U.S. Congress District 01,,DEM,Representative Monte Hodges,126,59,4,63
+Chicot,Carlton Rural,U.S. Congress District 01,,DEM,Representative Monte Hodges,148,70,14,64
+Chicot,Planters 1,U.S. Congress District 01,,DEM,Representative Monte Hodges,87,25,5,57
+Chicot,Planters 2,U.S. Congress District 01,,DEM,Representative Monte Hodges,125,39,5,81
+Chicot,Planters 3,U.S. Congress District 01,,DEM,Representative Monte Hodges,98,25,3,70
+Chicot,Planters 4,U.S. Congress District 01,,DEM,Representative Monte Hodges,90,30,3,57
+Chicot,Planters Rural,U.S. Congress District 01,,DEM,Representative Monte Hodges,70,27,1,42
+Chicot,Bowie 1,U.S. Congress District 01,,DEM,Representative Monte Hodges,137,26,6,105
+Chicot,Bowie 2,U.S. Congress District 01,,DEM,Representative Monte Hodges,165,50,9,106
+Chicot,Bowie 3,U.S. Congress District 01,,DEM,Representative Monte Hodges,143,22,4,117
+Chicot,Bowie Rural,U.S. Congress District 01,,DEM,Representative Monte Hodges,20,9,0,11
+Chicot,Carlton 1 & 2,Governor,,DEM,Chris Jones,494,290,55,149
+Chicot,Carlton 3,Governor,,DEM,Chris Jones,129,59,5,65
+Chicot,Carlton Rural,Governor,,DEM,Chris Jones,155,73,16,66
+Chicot,Planters 1,Governor,,DEM,Chris Jones,88,24,5,59
+Chicot,Planters 2,Governor,,DEM,Chris Jones,130,40,5,85
+Chicot,Planters 3,Governor,,DEM,Chris Jones,104,30,3,71
+Chicot,Planters 4,Governor,,DEM,Chris Jones,95,30,3,62
+Chicot,Planters Rural,Governor,,DEM,Chris Jones,85,32,3,50
+Chicot,Bowie 1,Governor,,DEM,Chris Jones,152,28,6,118
+Chicot,Bowie 2,Governor,,DEM,Chris Jones,175,51,9,115
+Chicot,Bowie 3,Governor,,DEM,Chris Jones,155,25,5,125
+Chicot,Bowie Rural,Governor,,DEM,Chris Jones,20,9,0,11
+Chicot,Carlton 1 & 2,Governor,,REP,Sarah Huckabee Sanders,155,115,9,31
+Chicot,Carlton 3,Governor,,REP,Sarah Huckabee Sanders,208,142,17,49
+Chicot,Carlton Rural,Governor,,REP,Sarah Huckabee Sanders,762,521,23,218
+Chicot,Planters 1,Governor,,REP,Sarah Huckabee Sanders,22,12,4,6
+Chicot,Planters 2,Governor,,REP,Sarah Huckabee Sanders,20,5,3,12
+Chicot,Planters 3,Governor,,REP,Sarah Huckabee Sanders,3,0,0,3
+Chicot,Planters 4,Governor,,REP,Sarah Huckabee Sanders,8,4,1,3
+Chicot,Planters Rural,Governor,,REP,Sarah Huckabee Sanders,259,149,17,93
+Chicot,Bowie 1,Governor,,REP,Sarah Huckabee Sanders,21,10,1,10
+Chicot,Bowie 2,Governor,,REP,Sarah Huckabee Sanders,28,11,3,14
+Chicot,Bowie 3,Governor,,REP,Sarah Huckabee Sanders,55,15,6,34
+Chicot,Bowie Rural,Governor,,REP,Sarah Huckabee Sanders,60,32,2,26
+Chicot,Carlton 1 & 2,Governor,,LIB,"Ricky Dale Harrington, Jr.",7,5,0,2
+Chicot,Carlton 3,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,3,0,2
+Chicot,Carlton Rural,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,2,0,0
+Chicot,Planters 1,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Chicot,Planters 2,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Chicot,Planters 3,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,2,0,0
+Chicot,Planters 4,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,1,0,1
+Chicot,Planters Rural,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Chicot,Bowie 1,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Chicot,Bowie 2,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,0,0,3
+Chicot,Bowie 3,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,0,0,2
+Chicot,Bowie Rural,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Chicot,Carlton 1 & 2,Lieutenant Governor,,DEM,Kelly Ross Krout,469,272,54,143
+Chicot,Carlton 3,Lieutenant Governor,,DEM,Kelly Ross Krout,127,59,5,63
+Chicot,Carlton Rural,Lieutenant Governor,,DEM,Kelly Ross Krout,154,72,16,66
+Chicot,Planters 1,Lieutenant Governor,,DEM,Kelly Ross Krout,82,22,5,55
+Chicot,Planters 2,Lieutenant Governor,,DEM,Kelly Ross Krout,124,39,4,81
+Chicot,Planters 3,Lieutenant Governor,,DEM,Kelly Ross Krout,104,29,3,72
+Chicot,Planters 4,Lieutenant Governor,,DEM,Kelly Ross Krout,88,28,3,57
+Chicot,Planters Rural,Lieutenant Governor,,DEM,Kelly Ross Krout,76,30,1,45
+Chicot,Bowie 1,Lieutenant Governor,,DEM,Kelly Ross Krout,135,24,6,105
+Chicot,Bowie 2,Lieutenant Governor,,DEM,Kelly Ross Krout,160,45,7,108
+Chicot,Bowie 3,Lieutenant Governor,,DEM,Kelly Ross Krout,147,21,5,121
+Chicot,Bowie Rural,Lieutenant Governor,,DEM,Kelly Ross Krout,19,9,0,10
+Chicot,Carlton 1 & 2,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,170,123,10,37
+Chicot,Carlton 3,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,207,140,17,50
+Chicot,Carlton Rural,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,752,512,24,216
+Chicot,Planters 1,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,25,12,4,9
+Chicot,Planters 2,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,25,5,4,16
+Chicot,Planters 3,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,3,2,0,1
+Chicot,Planters 4,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,10,6,1,3
+Chicot,Planters Rural,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,261,147,19,95
+Chicot,Bowie 1,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,36,14,1,21
+Chicot,Bowie 2,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,39,14,4,21
+Chicot,Bowie 3,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,62,17,7,38
+Chicot,Bowie Rural,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,59,30,2,27
+Chicot,Carlton 1 & 2,Lieutenant Governor,,LIB,Frank Gilbert,11,9,0,2
+Chicot,Carlton 3,Lieutenant Governor,,LIB,Frank Gilbert,5,3,0,2
+Chicot,Carlton Rural,Lieutenant Governor,,LIB,Frank Gilbert,12,10,0,2
+Chicot,Planters 1,Lieutenant Governor,,LIB,Frank Gilbert,2,1,0,1
+Chicot,Planters 2,Lieutenant Governor,,LIB,Frank Gilbert,2,1,0,1
+Chicot,Planters 3,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0
+Chicot,Planters 4,Lieutenant Governor,,LIB,Frank Gilbert,4,0,0,4
+Chicot,Planters Rural,Lieutenant Governor,,LIB,Frank Gilbert,5,3,0,2
+Chicot,Bowie 1,Lieutenant Governor,,LIB,Frank Gilbert,1,0,0,1
+Chicot,Bowie 2,Lieutenant Governor,,LIB,Frank Gilbert,7,2,1,4
+Chicot,Bowie 3,Lieutenant Governor,,LIB,Frank Gilbert,4,1,0,3
+Chicot,Bowie Rural,Lieutenant Governor,,LIB,Frank Gilbert,1,1,0,0
+Chicot,Carlton 1 & 2,Attorney General,,DEM,Jesse Gibson,485,285,54,146
+Chicot,Carlton 3,Attorney General,,DEM,Jesse Gibson,133,61,7,65
+Chicot,Carlton Rural,Attorney General,,DEM,Jesse Gibson,158,79,15,64
+Chicot,Planters 1,Attorney General,,DEM,Jesse Gibson,84,23,5,56
+Chicot,Planters 2,Attorney General,,DEM,Jesse Gibson,133,41,5,87
+Chicot,Planters 3,Attorney General,,DEM,Jesse Gibson,105,29,3,73
+Chicot,Planters 4,Attorney General,,DEM,Jesse Gibson,95,30,3,62
+Chicot,Planters Rural,Attorney General,,DEM,Jesse Gibson,83,31,2,50
+Chicot,Bowie 1,Attorney General,,DEM,Jesse Gibson,143,27,6,110
+Chicot,Bowie 2,Attorney General,,DEM,Jesse Gibson,166,46,8,112
+Chicot,Bowie 3,Attorney General,,DEM,Jesse Gibson,152,23,5,124
+Chicot,Bowie Rural,Attorney General,,DEM,Jesse Gibson,19,8,0,11
+Chicot,Carlton 1 & 2,Attorney General,,REP,Lieutenant Governor Tim Griffin,158,114,10,34
+Chicot,Carlton 3,Attorney General,,REP,Lieutenant Governor Tim Griffin,204,140,15,49
+Chicot,Carlton Rural,Attorney General,,REP,Lieutenant Governor Tim Griffin,757,513,25,219
+Chicot,Planters 1,Attorney General,,REP,Lieutenant Governor Tim Griffin,25,12,4,9
+Chicot,Planters 2,Attorney General,,REP,Lieutenant Governor Tim Griffin,16,4,3,9
+Chicot,Planters 3,Attorney General,,REP,Lieutenant Governor Tim Griffin,3,2,0,1
+Chicot,Planters 4,Attorney General,,REP,Lieutenant Governor Tim Griffin,8,4,1,3
+Chicot,Planters Rural,Attorney General,,REP,Lieutenant Governor Tim Griffin,256,149,18,89
+Chicot,Bowie 1,Attorney General,,REP,Lieutenant Governor Tim Griffin,29,11,1,17
+Chicot,Bowie 2,Attorney General,,REP,Lieutenant Governor Tim Griffin,38,14,4,20
+Chicot,Bowie 3,Attorney General,,REP,Lieutenant Governor Tim Griffin,58,15,6,37
+Chicot,Bowie Rural,Attorney General,,REP,Lieutenant Governor Tim Griffin,59,32,1,26
+Chicot,Carlton 1 & 2,Auditor of State,,DEM,Diamond Arnold-Johnson,475,276,55,144
+Chicot,Carlton 3,Auditor of State,,DEM,Diamond Arnold-Johnson,123,56,6,61
+Chicot,Carlton Rural,Auditor of State,,DEM,Diamond Arnold-Johnson,144,67,14,63
+Chicot,Planters 1,Auditor of State,,DEM,Diamond Arnold-Johnson,85,23,5,57
+Chicot,Planters 2,Auditor of State,,DEM,Diamond Arnold-Johnson,131,39,5,87
+Chicot,Planters 3,Auditor of State,,DEM,Diamond Arnold-Johnson,103,30,2,71
+Chicot,Planters 4,Auditor of State,,DEM,Diamond Arnold-Johnson,95,31,3,61
+Chicot,Planters Rural,Auditor of State,,DEM,Diamond Arnold-Johnson,79,29,1,49
+Chicot,Bowie 1,Auditor of State,,DEM,Diamond Arnold-Johnson,141,26,6,109
+Chicot,Bowie 2,Auditor of State,,DEM,Diamond Arnold-Johnson,166,47,7,112
+Chicot,Bowie 3,Auditor of State,,DEM,Diamond Arnold-Johnson,151,23,5,123
+Chicot,Bowie Rural,Auditor of State,,DEM,Diamond Arnold-Johnson,20,9,0,11
+Chicot,Carlton 1 & 2,Auditor of State,,REP,Treasurer of State Dennis Milligan,160,117,9,34
+Chicot,Carlton 3,Auditor of State,,REP,Treasurer of State Dennis Milligan,207,142,15,50
+Chicot,Carlton Rural,Auditor of State,,REP,Treasurer of State Dennis Milligan,760,516,26,218
+Chicot,Planters 1,Auditor of State,,REP,Treasurer of State Dennis Milligan,24,12,4,8
+Chicot,Planters 2,Auditor of State,,REP,Treasurer of State Dennis Milligan,20,5,3,12
+Chicot,Planters 3,Auditor of State,,REP,Treasurer of State Dennis Milligan,4,1,1,2
+Chicot,Planters 4,Auditor of State,,REP,Treasurer of State Dennis Milligan,6,3,1,2
+Chicot,Planters Rural,Auditor of State,,REP,Treasurer of State Dennis Milligan,256,147,19,90
+Chicot,Bowie 1,Auditor of State,,REP,Treasurer of State Dennis Milligan,29,11,1,17
+Chicot,Bowie 2,Auditor of State,,REP,Treasurer of State Dennis Milligan,32,14,3,15
+Chicot,Bowie 3,Auditor of State,,REP,Treasurer of State Dennis Milligan,58,15,7,36
+Chicot,Bowie Rural,Auditor of State,,REP,Treasurer of State Dennis Milligan,59,31,2,26
+Chicot,Carlton 1 & 2,Auditor of State,,LIB,Simeon Snow,10,6,0,4
+Chicot,Carlton 3,Auditor of State,,LIB,Simeon Snow,7,4,1,2
+Chicot,Carlton Rural,Auditor of State,,LIB,Simeon Snow,8,7,0,1
+Chicot,Planters 1,Auditor of State,,LIB,Simeon Snow,1,1,0,0
+Chicot,Planters 2,Auditor of State,,LIB,Simeon Snow,1,1,0,0
+Chicot,Planters 3,Auditor of State,,LIB,Simeon Snow,2,1,0,1
+Chicot,Planters 4,Auditor of State,,LIB,Simeon Snow,2,1,0,1
+Chicot,Planters Rural,Auditor of State,,LIB,Simeon Snow,4,3,0,1
+Chicot,Bowie 1,Auditor of State,,LIB,Simeon Snow,2,1,0,1
+Chicot,Bowie 2,Auditor of State,,LIB,Simeon Snow,5,1,1,3
+Chicot,Bowie 3,Auditor of State,,LIB,Simeon Snow,4,1,0,3
+Chicot,Bowie Rural,Auditor of State,,LIB,Simeon Snow,0,0,0,0
+Chicot,Carlton 1 & 2,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,170,125,10,35
+Chicot,Carlton 3,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,212,145,15,52
+Chicot,Carlton Rural,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,775,527,27,221
+Chicot,Planters 1,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,27,13,4,10
+Chicot,Planters 2,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,19,5,4,10
+Chicot,Planters 3,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,9,4,0,5
+Chicot,Planters 4,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,8,4,1,3
+Chicot,Planters Rural,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,263,152,19,92
+Chicot,Bowie 1,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,32,13,1,18
+Chicot,Bowie 2,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,31,14,3,14
+Chicot,Bowie 3,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,62,16,7,39
+Chicot,Bowie Rural,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,61,33,2,26
+Chicot,Carlton 1 & 2,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,482,282,53,147
+Chicot,Carlton 3,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,124,56,7,61
+Chicot,Carlton Rural,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,142,66,13,63
+Chicot,Planters 1,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,82,23,5,54
+Chicot,Planters 2,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,131,39,4,88
+Chicot,Planters 3,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,101,28,3,70
+Chicot,Planters 4,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,96,31,3,62
+Chicot,Planters Rural,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,77,28,1,48
+Chicot,Bowie 1,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,140,25,6,109
+Chicot,Bowie 2,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,176,47,9,120
+Chicot,Bowie 3,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,152,23,5,124
+Chicot,Bowie Rural,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,18,7,0,11
+Chicot,Carlton 1 & 2,Secretary of State,,REP,Secretary of State John Thurston,176,128,9,39
+Chicot,Carlton 3,Secretary of State,,REP,Secretary of State John Thurston,210,145,16,49
+Chicot,Carlton Rural,Secretary of State,,REP,Secretary of State John Thurston,764,514,23,227
+Chicot,Planters 1,Secretary of State,,REP,Secretary of State John Thurston,28,12,4,12
+Chicot,Planters 2,Secretary of State,,REP,Secretary of State John Thurston,19,5,3,11
+Chicot,Planters 3,Secretary of State,,REP,Secretary of State John Thurston,6,4,0,2
+Chicot,Planters 4,Secretary of State,,REP,Secretary of State John Thurston,10,4,1,5
+Chicot,Planters Rural,Secretary of State,,REP,Secretary of State John Thurston,260,149,18,93
+Chicot,Bowie 1,Secretary of State,,REP,Secretary of State John Thurston,29,12,1,16
+Chicot,Bowie 2,Secretary of State,,REP,Secretary of State John Thurston,39,14,6,19
+Chicot,Bowie 3,Secretary of State,,REP,Secretary of State John Thurston,66,17,7,42
+Chicot,Bowie Rural,Secretary of State,,REP,Secretary of State John Thurston,58,31,2,25
+Chicot,Carlton 1 & 2,Secretary of State,,DEM,Anna Beth Gorman,471,273,55,143
+Chicot,Carlton 3,Secretary of State,,DEM,Anna Beth Gorman,127,56,6,65
+Chicot,Carlton Rural,Secretary of State,,DEM,Anna Beth Gorman,159,78,15,66
+Chicot,Planters 1,Secretary of State,,DEM,Anna Beth Gorman,81,24,5,52
+Chicot,Planters 2,Secretary of State,,DEM,Anna Beth Gorman,128,40,5,83
+Chicot,Planters 3,Secretary of State,,DEM,Anna Beth Gorman,99,26,3,70
+Chicot,Planters 4,Secretary of State,,DEM,Anna Beth Gorman,93,31,3,59
+Chicot,Planters Rural,Secretary of State,,DEM,Anna Beth Gorman,81,31,2,48
+Chicot,Bowie 1,Secretary of State,,DEM,Anna Beth Gorman,142,26,6,110
+Chicot,Bowie 2,Secretary of State,,DEM,Anna Beth Gorman,166,48,6,112
+Chicot,Bowie 3,Secretary of State,,DEM,Anna Beth Gorman,146,22,5,119
+Chicot,Bowie Rural,Secretary of State,,DEM,Anna Beth Gorman,21,9,0,12
+Chicot,Carlton 1 & 2,State Treasurer,,DEM,Pam Whitaker,491,288,55,148
+Chicot,Carlton 3,State Treasurer,,DEM,Pam Whitaker,130,58,8,64
+Chicot,Carlton Rural,State Treasurer,,DEM,Pam Whitaker,169,87,14,68
+Chicot,Planters 1,State Treasurer,,DEM,Pam Whitaker,85,23,5,57
+Chicot,Planters 2,State Treasurer,,DEM,Pam Whitaker,132,40,5,87
+Chicot,Planters 3,State Treasurer,,DEM,Pam Whitaker,103,30,3,70
+Chicot,Planters 4,State Treasurer,,DEM,Pam Whitaker,95,30,3,62
+Chicot,Planters Rural,State Treasurer,,DEM,Pam Whitaker,86,34,1,51
+Chicot,Bowie 1,State Treasurer,,DEM,Pam Whitaker,145,26,6,113
+Chicot,Bowie 2,State Treasurer,,DEM,Pam Whitaker,172,50,9,113
+Chicot,Bowie 3,State Treasurer,,DEM,Pam Whitaker,155,24,5,126
+Chicot,Bowie Rural,State Treasurer,,DEM,Pam Whitaker,21,10,0,11
+Chicot,Carlton 1 & 2,State Treasurer,,REP,State Representative Mark Lowery,154,113,9,32
+Chicot,Carlton 3,State Treasurer,,REP,State Representative Mark Lowery,206,142,14,50
+Chicot,Carlton Rural,State Treasurer,,REP,State Representative Mark Lowery,746,506,24,216
+Chicot,Planters 1,State Treasurer,,REP,State Representative Mark Lowery,24,12,4,8
+Chicot,Planters 2,State Treasurer,,REP,State Representative Mark Lowery,19,4,3,12
+Chicot,Planters 3,State Treasurer,,REP,State Representative Mark Lowery,5,2,0,3
+Chicot,Planters 4,State Treasurer,,REP,State Representative Mark Lowery,8,4,1,3
+Chicot,Planters Rural,State Treasurer,,REP,State Representative Mark Lowery,255,146,19,90
+Chicot,Bowie 1,State Treasurer,,REP,State Representative Mark Lowery,25,11,1,13
+Chicot,Bowie 2,State Treasurer,,REP,State Representative Mark Lowery,34,11,3,20
+Chicot,Bowie 3,State Treasurer,,REP,State Representative Mark Lowery,56,15,7,34
+Chicot,Bowie Rural,State Treasurer,,REP,State Representative Mark Lowery,58,30,2,26
+Chicot,Carlton 1 & 2,State Senate,01,REP,Senator Ben Gilmore,464,286,47,131
+Chicot,Carlton 3,State Senate,01,REP,Senator Ben Gilmore,296,177,20,99
+Chicot,Carlton Rural,State Senate,01,REP,Senator Ben Gilmore,837,554,31,252
+Chicot,Planters 1,State Senate,01,REP,Senator Ben Gilmore,80,29,8,43
+Chicot,Planters 2,State Senate,01,REP,Senator Ben Gilmore,98,31,5,62
+Chicot,Planters 3,State Senate,01,REP,Senator Ben Gilmore,62,22,1,39
+Chicot,Planters 4,State Senate,01,REP,Senator Ben Gilmore,67,25,3,39
+Chicot,Planters Rural,State Senate,01,REP,Senator Ben Gilmore,291,162,20,109
+Chicot,Bowie 1,State Senate,01,REP,Senator Ben Gilmore,115,30,4,81
+Chicot,Bowie 2,State Senate,01,REP,Senator Ben Gilmore,133,42,6,85
+Chicot,Bowie 3,State Senate,01,REP,Senator Ben Gilmore,134,24,7,103
+Chicot,Bowie Rural,State Senate,01,REP,Senator Ben Gilmore,70,36,2,32
+Chicot,Carlton 1 & 2,State House,95,REP,"Representative Howard M. Beaty, Jr.",454,277,46,131
+Chicot,Carlton 3,State House,95,REP,"Representative Howard M. Beaty, Jr.",293,177,20,96
+Chicot,Carlton Rural,State House,95,REP,"Representative Howard M. Beaty, Jr.",831,546,33,252
+Chicot,Planters 1,State House,95,REP,"Representative Howard M. Beaty, Jr.",76,27,9,40
+Chicot,Planters 2,State House,95,REP,"Representative Howard M. Beaty, Jr.",89,29,4,56
+Chicot,Planters 3,State House,95,REP,"Representative Howard M. Beaty, Jr.",60,20,1,39
+Chicot,Planters 4,State House,95,REP,"Representative Howard M. Beaty, Jr.",60,23,3,34
+Chicot,Planters Rural,State House,95,REP,"Representative Howard M. Beaty, Jr.",287,160,20,107
+Chicot,Bowie 1,State House,95,REP,"Representative Howard M. Beaty, Jr.",107,29,4,74
+Chicot,Bowie 2,State House,95,REP,"Representative Howard M. Beaty, Jr.",130,39,7,84
+Chicot,Bowie 3,State House,95,REP,"Representative Howard M. Beaty, Jr.",130,23,8,99
+Chicot,Bowie Rural,State House,95,REP,"Representative Howard M. Beaty, Jr.",70,36,2,32
+Chicot,Carlton 1 & 2,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,289,191,20,78
+Chicot,Carlton 3,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,139,90,3,46
+Chicot,Carlton Rural,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,382,248,11,123
+Chicot,Planters 1,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,55,16,6,33
+Chicot,Planters 2,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,70,23,3,44
+Chicot,Planters 3,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,54,16,1,37
+Chicot,Planters 4,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,53,18,2,33
+Chicot,Planters Rural,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,154,92,8,54
+Chicot,Bowie 1,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,60,13,2,45
+Chicot,Bowie 2,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,91,23,6,62
+Chicot,Bowie 3,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,82,12,3,67
+Chicot,Bowie Rural,State Supreme Court Associate Justice Position 2,,NPJ,Judge Chris Carnahan,28,18,0,10
+Chicot,Carlton 1 & 2,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,250,147,33,70
+Chicot,Carlton 3,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,166,90,17,59
+Chicot,Carlton Rural,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,431,287,23,121
+Chicot,Planters 1,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,37,15,3,19
+Chicot,Planters 2,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,56,18,5,33
+Chicot,Planters 3,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,37,12,2,23
+Chicot,Planters 4,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,35,11,2,22
+Chicot,Planters Rural,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,128,60,9,59
+Chicot,Bowie 1,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,88,24,3,61
+Chicot,Bowie 2,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,87,33,6,48
+Chicot,Bowie 3,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,88,20,6,62
+Chicot,Bowie Rural,State Supreme Court Associate Justice Position 2,,NPJ,Supreme Court Associate Justice Robin Wynne,36,17,0,19
+Chicot,Carlton 1 & 2,County Judge,,DEM,DEM Tom Mosley,252,174,16,62
+Chicot,Carlton 3,County Judge,,DEM,DEM Tom Mosley,246,159,17,70
+Chicot,Carlton Rural,County Judge,,DEM,DEM Tom Mosley,744,510,27,207
+Chicot,Planters 1,County Judge,,DEM,DEM Tom Mosley,64,20,6,38
+Chicot,Planters 2,County Judge,,DEM,DEM Tom Mosley,99,27,6,66
+Chicot,Planters 3,County Judge,,DEM,DEM Tom Mosley,60,16,2,42
+Chicot,Planters 4,County Judge,,DEM,DEM Tom Mosley,55,18,4,33
+Chicot,Planters Rural,County Judge,,DEM,DEM Tom Mosley,290,161,16,113
+Chicot,Bowie 1,County Judge,,DEM,DEM Tom Mosley,112,21,3,88
+Chicot,Bowie 2,County Judge,,DEM,DEM Tom Mosley,123,39,9,75
+Chicot,Bowie 3,County Judge,,DEM,DEM Tom Mosley,135,25,6,104
+Chicot,Bowie Rural,County Judge,,DEM,DEM Tom Mosley,57,32,0,25
+Chicot,Carlton 1 & 2,County Judge,,IND,"IND Roy Porter, Sr.",404,238,47,119
+Chicot,Carlton 3,County Judge,,IND,"IND Roy Porter, Sr.",96,46,5,45
+Chicot,Carlton Rural,County Judge,,IND,"IND Roy Porter, Sr.",166,81,12,73
+Chicot,Planters 1,County Judge,,IND,"IND Roy Porter, Sr.",44,15,3,26
+Chicot,Planters 2,County Judge,,IND,"IND Roy Porter, Sr.",51,17,2,32
+Chicot,Planters 3,County Judge,,IND,"IND Roy Porter, Sr.",50,16,1,33
+Chicot,Planters 4,County Judge,,IND,"IND Roy Porter, Sr.",49,17,0,32
+Chicot,Planters Rural,County Judge,,IND,"IND Roy Porter, Sr.",51,19,4,28
+Chicot,Bowie 1,County Judge,,IND,"IND Roy Porter, Sr.",61,17,4,40
+Chicot,Bowie 2,County Judge,,IND,"IND Roy Porter, Sr.",84,23,3,58
+Chicot,Bowie 3,County Judge,,IND,"IND Roy Porter, Sr.",76,14,5,57
+Chicot,Bowie Rural,County Judge,,IND,"IND Roy Porter, Sr.",20,8,2,10
+Chicot,Carlton 1 & 2,Collector,,DEM,"DEM Jolecia ""Lisa"" Manning",399,253,44,102
+Chicot,Carlton 3,Collector,,DEM,"DEM Jolecia ""Lisa"" Manning",245,146,22,77
+Chicot,Carlton Rural,Collector,,DEM,"DEM Jolecia ""Lisa"" Manning",553,366,26,161
+Chicot,Planters 1,Collector,,DEM,"DEM Jolecia ""Lisa"" Manning",52,17,6,29
+Chicot,Planters 2,Collector,,DEM,"DEM Jolecia ""Lisa"" Manning",61,24,4,33
+Chicot,Planters 3,Collector,,DEM,"DEM Jolecia ""Lisa"" Manning",49,16,3,30
+Chicot,Planters 4,Collector,,DEM,"DEM Jolecia ""Lisa"" Manning",48,16,2,30
+Chicot,Planters Rural,Collector,,DEM,"DEM Jolecia ""Lisa"" Manning",168,98,11,59
+Chicot,Bowie 1,Collector,,DEM,"DEM Jolecia ""Lisa"" Manning",119,24,7,88
+Chicot,Bowie 2,Collector,,DEM,"DEM Jolecia ""Lisa"" Manning",142,37,11,94
+Chicot,Bowie 3,Collector,,DEM,"DEM Jolecia ""Lisa"" Manning",147,29,8,110
+Chicot,Bowie Rural,Collector,,DEM,"DEM Jolecia ""Lisa"" Manning",36,18,0,18
+Chicot,Carlton 1 & 2,Collector,,IND,IND Tiffany Dixon,251,152,19,80
+Chicot,Carlton 3,Collector,,IND,IND Tiffany Dixon,91,53,0,38
+Chicot,Carlton Rural,Collector,,IND,IND Tiffany Dixon,340,214,12,114
+Chicot,Planters 1,Collector,,IND,IND Tiffany Dixon,58,19,3,36
+Chicot,Planters 2,Collector,,IND,IND Tiffany Dixon,88,21,3,64
+Chicot,Planters 3,Collector,,IND,IND Tiffany Dixon,59,15,0,44
+Chicot,Planters 4,Collector,,IND,IND Tiffany Dixon,57,19,2,36
+Chicot,Planters Rural,Collector,,IND,IND Tiffany Dixon,159,75,7,77
+Chicot,Bowie 1,Collector,,IND,IND Tiffany Dixon,52,14,0,38
+Chicot,Bowie 2,Collector,,IND,IND Tiffany Dixon,65,25,1,39
+Chicot,Bowie 3,Collector,,IND,IND Tiffany Dixon,61,9,4,48
+Chicot,Bowie Rural,Collector,,IND,IND Tiffany Dixon,40,21,2,17
+Chicot,Carlton 1 & 2,Treasurer,,IND,IND Marshay Bell,406,240,43,123
+Chicot,Carlton 3,Treasurer,,IND,IND Marshay Bell,102,43,3,56
+Chicot,Carlton Rural,Treasurer,,IND,IND Marshay Bell,179,95,10,74
+Chicot,Planters 1,Treasurer,,IND,IND Marshay Bell,67,23,2,42
+Chicot,Planters 2,Treasurer,,IND,IND Marshay Bell,98,25,6,67
+Chicot,Planters 3,Treasurer,,IND,IND Marshay Bell,75,21,2,52
+Chicot,Planters 4,Treasurer,,IND,IND Marshay Bell,74,24,3,47
+Chicot,Planters Rural,Treasurer,,IND,IND Marshay Bell,79,22,5,52
+Chicot,Bowie 1,Treasurer,,IND,IND Marshay Bell,103,22,6,75
+Chicot,Bowie 2,Treasurer,,IND,IND Marshay Bell,109,36,4,69
+Chicot,Bowie 3,Treasurer,,IND,IND Marshay Bell,110,10,6,94
+Chicot,Bowie Rural,Treasurer,,IND,IND Marshay Bell,23,13,0,10
+Chicot,Carlton 1 & 2,Treasurer,,IND,IND Shanna Hayes,237,160,19,58
+Chicot,Carlton 3,Treasurer,,IND,IND Shanna Hayes,228,152,19,57
+Chicot,Carlton Rural,Treasurer,,IND,IND Shanna Hayes,700,475,29,196
+Chicot,Planters 1,Treasurer,,IND,IND Shanna Hayes,37,12,7,18
+Chicot,Planters 2,Treasurer,,IND,IND Shanna Hayes,48,15,2,31
+Chicot,Planters 3,Treasurer,,IND,IND Shanna Hayes,26,9,1,16
+Chicot,Planters 4,Treasurer,,IND,IND Shanna Hayes,23,10,1,12
+Chicot,Planters Rural,Treasurer,,IND,IND Shanna Hayes,245,149,13,83
+Chicot,Bowie 1,Treasurer,,IND,IND Shanna Hayes,64,14,1,49
+Chicot,Bowie 2,Treasurer,,IND,IND Shanna Hayes,91,24,7,60
+Chicot,Bowie 3,Treasurer,,IND,IND Shanna Hayes,82,25,4,53
+Chicot,Bowie Rural,Treasurer,,IND,IND Shanna Hayes,48,23,2,23
+Chicot,Carlton 1 & 2,Circuit Clerk,,DEM,DEM Josephine Griffin-Taylor,585,361,56,168
+Chicot,Carlton 3,Circuit Clerk,,DEM,DEM Josephine Griffin-Taylor,310,178,21,111
+Chicot,Carlton Rural,Circuit Clerk,,DEM,DEM Josephine Griffin-Taylor,781,509,30,242
+Chicot,Planters 1,Circuit Clerk,,DEM,DEM Josephine Griffin-Taylor,102,35,8,59
+Chicot,Planters 2,Circuit Clerk,,DEM,DEM Josephine Griffin-Taylor,144,44,7,93
+Chicot,Planters 3,Circuit Clerk,,DEM,DEM Josephine Griffin-Taylor,102,30,3,69
+Chicot,Planters 4,Circuit Clerk,,DEM,DEM Josephine Griffin-Taylor,91,31,3,57
+Chicot,Planters Rural,Circuit Clerk,,DEM,DEM Josephine Griffin-Taylor,293,154,18,121
+Chicot,Bowie 1,Circuit Clerk,,DEM,DEM Josephine Griffin-Taylor,162,35,6,121
+Chicot,Bowie 2,Circuit Clerk,,DEM,DEM Josephine Griffin-Taylor,188,56,12,120
+Chicot,Bowie 3,Circuit Clerk,,DEM,DEM Josephine Griffin-Taylor,208,37,8,163
+Chicot,Bowie Rural,Circuit Clerk,,DEM,DEM Josephine Griffin-Taylor,61,31,0,30
+Chicot,Planters 1,Mayor, City of Eudora,IND,IND Tomeka Butler,97,30,8,59
+Chicot,Planters 2,Mayor, City of Eudora,IND,IND Tomeka Butler,135,41,7,87
+Chicot,Planters 3,Mayor, City of Eudora,IND,IND Tomeka Butler,89,25,3,61
+Chicot,Planters 4,Mayor, City of Eudora,IND,IND Tomeka Butler,87,26,4,57
+Chicot,Carlton 1 & 2,Lake Village City Clerk,,IND,IND Jean Wiley,545,334,57,154
+Chicot,Carlton 3,Lake Village City Clerk,,IND,IND Jean Wiley,282,168,20,94
+Chicot,Bowie 1,Dermott City Clerk,,IND,IND Renita Robinson,160,36,6,118
+Chicot,Bowie 2,Dermott City Clerk,,IND,IND Renita Robinson,169,51,10,108
+Chicot,Bowie 3,Dermott City Clerk,,IND,IND Renita Robinson,173,32,4,137
+Chicot,Carlton 1 & 2,Mayor, City of Lake Village,IND,IND Antonio Rucker,379,235,29,115
+Chicot,Carlton 3,Mayor, City of Lake Village,IND,IND Antonio Rucker,94,41,4,49
+Chicot,Carlton 1 & 2,Mayor, City of Lake Village,IND,IND Eddy K Bush,281,179,35,67
+Chicot,Carlton 3,Mayor, City of Lake Village,IND,IND Eddy K Bush,250,165,18,67
+Chicot,Carlton 1 & 2,Lake Village City Council, Ward 1,IND,IND Mary Lisa Toney,363,230,33,100
+Chicot,Carlton 3,Lake Village City Council, Ward 1,IND,IND Mary Lisa Toney,97,45,6,46
+Chicot,Carlton 1 & 2,Lake Village City Council, Ward 1,IND,"IND Sam E. ""Sammy"" Angel, II",291,180,31,80
+Chicot,Carlton 3,Lake Village City Council, Ward 1,IND,"IND Sam E. ""Sammy"" Angel, II",244,157,16,71
+Chicot,Carlton 1 & 2,Lake Village City Council, Ward 2,IND,IND Delorse Dixon,340,220,24,96
+Chicot,Carlton 3,Lake Village City Council, Ward 2,IND,IND Delorse Dixon,122,64,6,52
+Chicot,Carlton 1 & 2,Lake Village City Council, Ward 2,IND,IND Sharon Walker,314,189,40,85
+Chicot,Carlton 3,Lake Village City Council, Ward 2,IND,IND Sharon Walker,213,135,16,62
+Chicot,Carlton 1 & 2,Lake Village City Council, Ward 3,IND,IND Cherrettia A Pope,210,132,24,54
+Chicot,Carlton 3,Lake Village City Council, Ward 3,IND,IND Cherrettia A Pope,227,149,20,58
+Chicot,Carlton 1 & 2,Lake Village City Council, Ward 3,IND,IND Adrian Wilson-Clark,442,275,40,127
+Chicot,Carlton 3,Lake Village City Council, Ward 3,IND,IND Adrian Wilson-Clark,114,55,2,57
+Chicot,Planters 1,Eudora City Clerk,,IND,IND LaPorsha Gayfield Stanton,52,10,6,36
+Chicot,Planters 2,Eudora City Clerk,,IND,IND LaPorsha Gayfield Stanton,74,19,1,54
+Chicot,Planters 3,Eudora City Clerk,,IND,IND LaPorsha Gayfield Stanton,54,13,1,40
+Chicot,Planters 4,Eudora City Clerk,,IND,IND LaPorsha Gayfield Stanton,63,24,3,36
+Chicot,Planters 1,Eudora City Clerk,,IND,IND Juanita Weston Burton,55,26,2,27
+Chicot,Planters 2,Eudora City Clerk,,IND,IND Juanita Weston Burton,73,25,6,42
+Chicot,Planters 3,Eudora City Clerk,,IND,IND Juanita Weston Burton,50,18,2,30
+Chicot,Planters 4,Eudora City Clerk,,IND,IND Juanita Weston Burton,37,9,1,27
+Chicot,Planters 3,Eudora City Council, Ward 3,IND,IND LaQuinda Alexander,67,21,1,45
+Chicot,Planters 3,Eudora City Council, Ward 3,IND,IND Lovell White,38,11,2,25
+Chicot,Bowie 1,Mayor, City of Dermott,IND,"IND Walter Jordan, Jr.",53,12,1,40
+Chicot,Bowie 2,Mayor, City of Dermott,IND,"IND Walter Jordan, Jr.",74,16,6,52
+Chicot,Bowie 3,Mayor, City of Dermott,IND,"IND Walter Jordan, Jr.",80,18,7,55
+Chicot,Bowie 1,Mayor, City of Dermott,IND,IND Evelyn Wimbley,45,17,5,23
+Chicot,Bowie 2,Mayor, City of Dermott,IND,IND Evelyn Wimbley,61,23,5,33
+Chicot,Bowie 3,Mayor, City of Dermott,IND,IND Evelyn Wimbley,51,12,0,39
+Chicot,Bowie 1,Mayor, City of Dermott,IND,IND Anthony Scott,11,3,0,8
+Chicot,Bowie 2,Mayor, City of Dermott,IND,IND Anthony Scott,8,2,0,6
+Chicot,Bowie 3,Mayor, City of Dermott,IND,IND Anthony Scott,9,2,0,7
+Chicot,Bowie 1,Mayor, City of Dermott,IND,"IND Clinton Hampton, Sr.",64,7,0,57
+Chicot,Bowie 2,Mayor, City of Dermott,IND,"IND Clinton Hampton, Sr.",62,20,0,42
+Chicot,Bowie 3,Mayor, City of Dermott,IND,"IND Clinton Hampton, Sr.",66,7,0,59
+Chicot,Bowie 1,Dermott City Council, Ward 1,IND,IND Tanya Broadnax,88,19,4,65
+Chicot,Bowie 2,Dermott City Council, Ward 1,IND,IND Tanya Broadnax,126,43,9,74
+Chicot,Bowie 3,Dermott City Council, Ward 1,IND,IND Tanya Broadnax,105,23,3,79
+Chicot,Bowie 1,Dermott City Council, Ward 1,IND,IND Sharron Hawkins,83,19,2,62
+Chicot,Bowie 2,Dermott City Council, Ward 1,IND,IND Sharron Hawkins,75,17,2,56
+Chicot,Bowie 3,Dermott City Council, Ward 1,IND,IND Sharron Hawkins,107,17,3,87
+Chicot,Bowie 1,Dermott City Council, Ward 1,IND,IND Tonya Allen,71,16,1,54
+Chicot,Bowie 2,Dermott City Council, Ward 1,IND,IND Tonya Allen,93,28,8,57
+Chicot,Bowie 3,Dermott City Council, Ward 1,IND,IND Tonya Allen,89,20,5,64
+Chicot,Bowie 1,Dermott City Council, Ward 1,IND,IND Jimmy Hampton,43,11,2,30
+Chicot,Bowie 2,Dermott City Council, Ward 1,IND,IND Jimmy Hampton,32,13,0,19
+Chicot,Bowie 3,Dermott City Council, Ward 1,IND,IND Jimmy Hampton,49,4,2,43
+Chicot,Bowie 1,Dermott City Council, Ward 1,IND,IND Keuntae Evans,59,12,3,44
+Chicot,Bowie 2,Dermott City Council, Ward 1,IND,IND Keuntae Evans,79,21,3,55
+Chicot,Bowie 3,Dermott City Council, Ward 1,IND,IND Keuntae Evans,63,14,0,49
+Chicot,Bowie 1,Dermott City Council, Ward 2,IND,IND India Donald Ford,70,17,4,49
+Chicot,Bowie 2,Dermott City Council, Ward 2,IND,IND India Donald Ford,83,22,7,54
+Chicot,Bowie 3,Dermott City Council, Ward 2,IND,IND India Donald Ford,83,18,2,63
+Chicot,Bowie 1,Dermott City Council, Ward 2,IND,IND Chris Akins,97,21,2,74
+Chicot,Bowie 2,Dermott City Council, Ward 2,IND,IND Chris Akins,121,39,4,78
+Chicot,Bowie 3,Dermott City Council, Ward 2,IND,IND Chris Akins,118,21,3,94
+Chicot,Bowie 1,Dermott City Council, Ward 3,IND,IND Virgil Jordan,43,12,0,31
+Chicot,Bowie 2,Dermott City Council, Ward 3,IND,IND Virgil Jordan,56,13,5,38
+Chicot,Bowie 3,Dermott City Council, Ward 3,IND,IND Virgil Jordan,68,8,3,57
+Chicot,Bowie 1,Dermott City Council, Ward 3,IND,IND Mary Laura Courtney,33,10,2,21
+Chicot,Bowie 2,Dermott City Council, Ward 3,IND,IND Mary Laura Courtney,56,22,3,31
+Chicot,Bowie 3,Dermott City Council, Ward 3,IND,IND Mary Laura Courtney,50,14,3,33
+Chicot,Bowie 1,Dermott City Council, Ward 3,IND,"IND Lucan Hargraves, Sr.",98,17,5,76
+Chicot,Bowie 2,Dermott City Council, Ward 3,IND,"IND Lucan Hargraves, Sr.",95,27,3,65
+Chicot,Bowie 3,Dermott City Council, Ward 3,IND,"IND Lucan Hargraves, Sr.",84,17,1,66
+Chicot,Carlton 1 & 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,314,178,42,94
+Chicot,Carlton 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,149,90,9,50
+Chicot,Carlton Rural,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,370,234,11,125
+Chicot,Planters 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,48,20,3,25
+Chicot,Planters 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,74,21,5,48
+Chicot,Planters 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,49,15,0,34
+Chicot,Planters 4,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,56,18,2,36
+Chicot,Planters Rural,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,134,70,5,59
+Chicot,Bowie 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,74,13,1,60
+Chicot,Bowie 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,103,28,8,67
+Chicot,Bowie 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,90,13,7,70
+Chicot,Bowie Rural,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,24,13,0,11
+Chicot,Carlton 1 & 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,267,179,19,69
+Chicot,Carlton 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,171,100,10,61
+Chicot,Carlton Rural,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,495,328,25,142
+Chicot,Planters 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,52,10,6,36
+Chicot,Planters 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,64,22,3,39
+Chicot,Planters 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,43,14,3,26
+Chicot,Planters 4,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,37,14,2,21
+Chicot,Planters Rural,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,180,96,13,71
+Chicot,Bowie 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,82,20,5,57
+Chicot,Bowie 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,91,31,4,56
+Chicot,Bowie 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,98,23,2,73
+Chicot,Bowie Rural,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,50,24,2,24
+Chicot,Carlton 1 & 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,277,170,38,69
+Chicot,Carlton 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,159,93,12,54
+Chicot,Carlton Rural,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,453,300,15,138
+Chicot,Planters 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,52,21,4,27
+Chicot,Planters 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,78,23,5,50
+Chicot,Planters 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,46,13,1,32
+Chicot,Planters 4,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,47,18,1,28
+Chicot,Planters Rural,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,159,82,8,69
+Chicot,Bowie 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,73,13,0,60
+Chicot,Bowie 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,90,24,7,59
+Chicot,Bowie 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,80,14,8,58
+Chicot,Bowie Rural,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,45,21,0,24
+Chicot,Carlton 1 & 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,319,196,23,100
+Chicot,Carlton 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,169,104,9,56
+Chicot,Carlton Rural,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,440,286,23,131
+Chicot,Planters 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,53,11,5,37
+Chicot,Planters 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,64,21,2,41
+Chicot,Planters 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,48,16,2,30
+Chicot,Planters 4,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,46,13,3,30
+Chicot,Planters Rural,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,159,89,11,59
+Chicot,Bowie 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,82,19,5,58
+Chicot,Bowie 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,104,34,5,65
+Chicot,Bowie 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,114,22,2,90
+Chicot,Bowie Rural,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,31,17,2,12
+Chicot,Carlton 1 & 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,327,200,35,92
+Chicot,Carlton 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,168,90,10,68
+Chicot,Carlton Rural,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,500,333,16,151
+Chicot,Planters 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,63,21,6,36
+Chicot,Planters 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,85,27,7,51
+Chicot,Planters 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,64,19,1,44
+Chicot,Planters 4,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,66,25,2,39
+Chicot,Planters Rural,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,189,104,8,77
+Chicot,Bowie 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,96,20,2,74
+Chicot,Bowie 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,115,32,6,77
+Chicot,Bowie 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,122,12,7,103
+Chicot,Bowie Rural,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,47,25,0,22
+Chicot,Carlton 1 & 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,261,162,23,76
+Chicot,Carlton 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,151,99,11,41
+Chicot,Carlton Rural,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,385,245,20,120
+Chicot,Planters 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,39,11,3,25
+Chicot,Planters 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,53,15,1,37
+Chicot,Planters 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,29,10,2,17
+Chicot,Planters 4,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,24,6,2,16
+Chicot,Planters Rural,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,133,66,11,56
+Chicot,Bowie 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,56,13,4,39
+Chicot,Bowie 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,76,27,6,43
+Chicot,Bowie 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,72,25,3,44
+Chicot,Bowie Rural,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,31,14,2,15
+Chicot,Carlton 1 & 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,387,214,45,128
+Chicot,Carlton 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,152,76,10,66
+Chicot,Carlton Rural,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,352,208,15,129
+Chicot,Planters 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,72,16,6,50
+Chicot,Planters 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,95,24,4,67
+Chicot,Planters 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,73,27,1,45
+Chicot,Planters 4,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,76,28,0,48
+Chicot,Planters Rural,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,114,52,2,60
+Chicot,Bowie 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,100,18,0,82
+Chicot,Bowie 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,106,28,3,75
+Chicot,Bowie 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,140,17,6,117
+Chicot,Bowie Rural,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,20,9,0,11
+Chicot,Carlton 1 & 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,233,169,18,46
+Chicot,Carlton 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,184,125,12,47
+Chicot,Carlton Rural,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,556,379,25,152
+Chicot,Planters 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,35,17,3,15
+Chicot,Planters 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,52,21,4,27
+Chicot,Planters 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,27,4,2,21
+Chicot,Planters 4,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,24,6,4,14
+Chicot,Planters Rural,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,218,123,18,77
+Chicot,Bowie 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,58,17,6,35
+Chicot,Bowie 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,87,30,9,48
+Chicot,Bowie 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,61,20,5,36
+Chicot,Bowie Rural,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,58,30,2,26

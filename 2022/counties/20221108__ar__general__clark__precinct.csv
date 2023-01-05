@@ -1,0 +1,874 @@
+county,precinct,office,district,party,candidate,votes,early_vote,absentee,election_day
+Clark,Amity City,U.S. Senate,,LIB,Kenneth Cates,4,0,0,4
+Clark,Arkadelphia Ward 1,U.S. Senate,,LIB,Kenneth Cates,11,6,0,5
+Clark,Arkadelphia Ward 2,U.S. Senate,,LIB,Kenneth Cates,25,16,0,9
+Clark,Arkadelphia Ward 3,U.S. Senate,,LIB,Kenneth Cates,9,6,0,3
+Clark,Arkadelphia Ward 4,U.S. Senate,,LIB,Kenneth Cates,10,6,0,4
+Clark,Central 1,U.S. Senate,,LIB,Kenneth Cates,5,3,0,2
+Clark,Curtis 1,U.S. Senate,,LIB,Kenneth Cates,4,3,0,1
+Clark,Caddo Valley Ward 1.2.3,U.S. Senate,,LIB,Kenneth Cates,3,1,0,2
+Clark,East County 1,U.S. Senate,,LIB,Kenneth Cates,13,5,2,6
+Clark,Gurdon General 1,U.S. Senate,,LIB,Kenneth Cates,5,4,0,1
+Clark,Gum Springs 1.,U.S. Senate,,LIB,Kenneth Cates,4,2,0,2
+Clark,Gurdon Wards 1.2.3.4,U.S. Senate,,LIB,Kenneth Cates,12,1,0,11
+Clark,Gurdon Ward 5,U.S. Senate,,LIB,Kenneth Cates,1,0,0,1
+Clark,Hollywood 1,U.S. Senate,,LIB,Kenneth Cates,1,0,0,1
+Clark,North County,U.S. Senate,,LIB,Kenneth Cates,12,5,0,7
+Clark,North East County,U.S. Senate,,LIB,Kenneth Cates,10,6,0,4
+Clark,Okolona City 1,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0
+Clark,South County 1,U.S. Senate,,LIB,Kenneth Cates,5,1,0,4
+Clark,West County 1,U.S. Senate,,LIB,Kenneth Cates,7,3,0,4
+Clark,Whelen Springs 1,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0
+Clark,Arkadelphia Ward 5,U.S. Senate,,LIB,Kenneth Cates,12,11,0,1
+Clark,Amity City,U.S. Senate,,DEM,Natalie James,17,1,1,15
+Clark,Arkadelphia Ward 1,U.S. Senate,,DEM,Natalie James,81,58,5,18
+Clark,Arkadelphia Ward 2,U.S. Senate,,DEM,Natalie James,395,271,15,109
+Clark,Arkadelphia Ward 3,U.S. Senate,,DEM,Natalie James,183,112,11,60
+Clark,Arkadelphia Ward 4,U.S. Senate,,DEM,Natalie James,256,169,10,77
+Clark,Central 1,U.S. Senate,,DEM,Natalie James,88,65,8,15
+Clark,Curtis 1,U.S. Senate,,DEM,Natalie James,53,36,1,16
+Clark,Caddo Valley Ward 1.2.3,U.S. Senate,,DEM,Natalie James,73,41,3,29
+Clark,East County 1,U.S. Senate,,DEM,Natalie James,189,100,2,87
+Clark,Gurdon General 1,U.S. Senate,,DEM,Natalie James,38,15,1,22
+Clark,Gum Springs 1.,U.S. Senate,,DEM,Natalie James,76,43,2,31
+Clark,Gurdon Wards 1.2.3.4,U.S. Senate,,DEM,Natalie James,149,43,8,98
+Clark,Gurdon Ward 5,U.S. Senate,,DEM,Natalie James,35,7,4,24
+Clark,Hollywood 1,U.S. Senate,,DEM,Natalie James,28,21,1,6
+Clark,North County,U.S. Senate,,DEM,Natalie James,53,26,2,25
+Clark,North East County,U.S. Senate,,DEM,Natalie James,123,92,6,25
+Clark,Okolona City 1,U.S. Senate,,DEM,Natalie James,11,1,0,10
+Clark,South County 1,U.S. Senate,,DEM,Natalie James,27,13,1,13
+Clark,West County 1,U.S. Senate,,DEM,Natalie James,86,51,5,30
+Clark,Whelen Springs 1,U.S. Senate,,DEM,Natalie James,4,2,0,2
+Clark,Arkadelphia Ward 5,U.S. Senate,,DEM,Natalie James,302,205,12,85
+Clark,Amity City,U.S. Senate,,REP,Senator John Boozman,135,10,5,120
+Clark,Arkadelphia Ward 1,U.S. Senate,,REP,Senator John Boozman,115,67,2,46
+Clark,Arkadelphia Ward 2,U.S. Senate,,REP,Senator John Boozman,334,224,4,106
+Clark,Arkadelphia Ward 3,U.S. Senate,,REP,Senator John Boozman,96,50,1,45
+Clark,Arkadelphia Ward 4,U.S. Senate,,REP,Senator John Boozman,130,71,6,53
+Clark,Central 1,U.S. Senate,,REP,Senator John Boozman,294,201,6,87
+Clark,Curtis 1,U.S. Senate,,REP,Senator John Boozman,152,84,0,68
+Clark,Caddo Valley Ward 1.2.3,U.S. Senate,,REP,Senator John Boozman,101,26,4,71
+Clark,East County 1,U.S. Senate,,REP,Senator John Boozman,198,86,3,109
+Clark,Gurdon General 1,U.S. Senate,,REP,Senator John Boozman,169,60,2,107
+Clark,Gum Springs 1.,U.S. Senate,,REP,Senator John Boozman,146,80,1,65
+Clark,Gurdon Wards 1.2.3.4,U.S. Senate,,REP,Senator John Boozman,181,58,1,122
+Clark,Gurdon Ward 5,U.S. Senate,,REP,Senator John Boozman,25,6,0,19
+Clark,Hollywood 1,U.S. Senate,,REP,Senator John Boozman,84,53,0,31
+Clark,North County,U.S. Senate,,REP,Senator John Boozman,335,97,0,238
+Clark,North East County,U.S. Senate,,REP,Senator John Boozman,429,264,12,153
+Clark,Okolona City 1,U.S. Senate,,REP,Senator John Boozman,30,6,0,24
+Clark,South County 1,U.S. Senate,,REP,Senator John Boozman,145,42,0,103
+Clark,West County 1,U.S. Senate,,REP,Senator John Boozman,167,82,4,81
+Clark,Whelen Springs 1,U.S. Senate,,REP,Senator John Boozman,15,1,0,14
+Clark,Arkadelphia Ward 5,U.S. Senate,,REP,Senator John Boozman,404,273,7,124
+Clark,Amity City,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,139,10,5,124
+Clark,Arkadelphia Ward 1,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,126,76,1,49
+Clark,Arkadelphia Ward 2,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,350,232,6,112
+Clark,Arkadelphia Ward 3,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,100,52,1,47
+Clark,Arkadelphia Ward 4,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,134,74,8,52
+Clark,Central 1,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,303,205,6,92
+Clark,Curtis 1,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,147,81,0,66
+Clark,Caddo Valley Ward 1.2.3,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,110,32,4,74
+Clark,East County 1,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,202,87,5,110
+Clark,Gurdon General 1,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,164,60,2,102
+Clark,Gum Springs 1.,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,144,79,2,63
+Clark,Gurdon Wards 1.2.3.4,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,181,56,2,123
+Clark,Gurdon Ward 5,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,24,6,0,18
+Clark,Hollywood 1,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,85,54,0,31
+Clark,North County,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,325,96,0,229
+Clark,North East County,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,431,267,10,154
+Clark,Okolona City 1,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,27,6,0,21
+Clark,South County 1,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,145,41,0,104
+Clark,West County 1,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,164,81,4,79
+Clark,Whelen Springs 1,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,15,1,0,14
+Clark,Arkadelphia Ward 5,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,405,274,7,124
+Clark,Amity City,U.S. Congress District 04,,DEM,John White,17,1,1,15
+Clark,Arkadelphia Ward 1,U.S. Congress District 04,,DEM,John White,69,47,6,16
+Clark,Arkadelphia Ward 2,U.S. Congress District 04,,DEM,John White,369,258,13,98
+Clark,Arkadelphia Ward 3,U.S. Congress District 04,,DEM,John White,170,107,11,52
+Clark,Arkadelphia Ward 4,U.S. Congress District 04,,DEM,John White,237,158,7,72
+Clark,Central 1,U.S. Congress District 04,,DEM,John White,73,55,8,10
+Clark,Curtis 1,U.S. Congress District 04,,DEM,John White,55,37,1,17
+Clark,Caddo Valley Ward 1.2.3,U.S. Congress District 04,,DEM,John White,66,35,3,28
+Clark,East County 1,U.S. Congress District 04,,DEM,John White,173,88,2,83
+Clark,Gurdon General 1,U.S. Congress District 04,,DEM,John White,37,15,1,21
+Clark,Gum Springs 1.,U.S. Congress District 04,,DEM,John White,71,42,1,28
+Clark,Gurdon Wards 1.2.3.4,U.S. Congress District 04,,DEM,John White,141,39,7,95
+Clark,Gurdon Ward 5,U.S. Congress District 04,,DEM,John White,35,7,4,24
+Clark,Hollywood 1,U.S. Congress District 04,,DEM,John White,26,19,1,6
+Clark,North County,U.S. Congress District 04,,DEM,John White,46,23,1,22
+Clark,North East County,U.S. Congress District 04,,DEM,John White,104,75,3,26
+Clark,Okolona City 1,U.S. Congress District 04,,DEM,John White,11,1,0,10
+Clark,South County 1,U.S. Congress District 04,,DEM,John White,27,14,1,12
+Clark,West County 1,U.S. Congress District 04,,DEM,John White,84,48,3,33
+Clark,Whelen Springs 1,U.S. Congress District 04,,DEM,John White,4,2,0,2
+Clark,Arkadelphia Ward 5,U.S. Congress District 04,,DEM,John White,276,192,11,73
+Clark,Amity City,U.S. Congress District 04,,LIB,Gregory Maxwell,2,0,0,2
+Clark,Arkadelphia Ward 1,U.S. Congress District 04,,LIB,Gregory Maxwell,13,7,0,6
+Clark,Arkadelphia Ward 2,U.S. Congress District 04,,LIB,Gregory Maxwell,28,18,0,10
+Clark,Arkadelphia Ward 3,U.S. Congress District 04,,LIB,Gregory Maxwell,5,1,0,4
+Clark,Arkadelphia Ward 4,U.S. Congress District 04,,LIB,Gregory Maxwell,12,6,1,5
+Clark,Central 1,U.S. Congress District 04,,LIB,Gregory Maxwell,8,6,0,2
+Clark,Curtis 1,U.S. Congress District 04,,LIB,Gregory Maxwell,3,2,0,1
+Clark,Caddo Valley Ward 1.2.3,U.S. Congress District 04,,LIB,Gregory Maxwell,1,0,0,1
+Clark,East County 1,U.S. Congress District 04,,LIB,Gregory Maxwell,7,2,0,5
+Clark,Gurdon General 1,U.S. Congress District 04,,LIB,Gregory Maxwell,7,3,0,4
+Clark,Gum Springs 1.,U.S. Congress District 04,,LIB,Gregory Maxwell,6,2,0,4
+Clark,Gurdon Wards 1.2.3.4,U.S. Congress District 04,,LIB,Gregory Maxwell,13,6,0,7
+Clark,Gurdon Ward 5,U.S. Congress District 04,,LIB,Gregory Maxwell,0,0,0,0
+Clark,Hollywood 1,U.S. Congress District 04,,LIB,Gregory Maxwell,1,0,0,1
+Clark,North County,U.S. Congress District 04,,LIB,Gregory Maxwell,15,5,1,9
+Clark,North East County,U.S. Congress District 04,,LIB,Gregory Maxwell,15,10,3,2
+Clark,Okolona City 1,U.S. Congress District 04,,LIB,Gregory Maxwell,1,0,0,1
+Clark,South County 1,U.S. Congress District 04,,LIB,Gregory Maxwell,3,1,0,2
+Clark,West County 1,U.S. Congress District 04,,LIB,Gregory Maxwell,13,7,2,4
+Clark,Whelen Springs 1,U.S. Congress District 04,,LIB,Gregory Maxwell,0,0,0,0
+Clark,Arkadelphia Ward 5,U.S. Congress District 04,,LIB,Gregory Maxwell,17,11,1,5
+Clark,Amity City,Attorney General,,REP,Lieutenant Governor Tim Griffin,140,10,5,125
+Clark,Arkadelphia Ward 1,Attorney General,,REP,Lieutenant Governor Tim Griffin,114,68,1,45
+Clark,Arkadelphia Ward 2,Attorney General,,REP,Lieutenant Governor Tim Griffin,353,236,5,112
+Clark,Arkadelphia Ward 3,Attorney General,,REP,Lieutenant Governor Tim Griffin,105,52,3,50
+Clark,Arkadelphia Ward 4,Attorney General,,REP,Lieutenant Governor Tim Griffin,135,74,6,55
+Clark,Central 1,Attorney General,,REP,Lieutenant Governor Tim Griffin,301,211,6,84
+Clark,Curtis 1,Attorney General,,REP,Lieutenant Governor Tim Griffin,153,86,0,67
+Clark,Caddo Valley Ward 1.2.3,Attorney General,,REP,Lieutenant Governor Tim Griffin,107,31,4,72
+Clark,East County 1,Attorney General,,REP,Lieutenant Governor Tim Griffin,200,88,3,109
+Clark,Gurdon General 1,Attorney General,,REP,Lieutenant Governor Tim Griffin,173,62,2,109
+Clark,Gum Springs 1.,Attorney General,,REP,Lieutenant Governor Tim Griffin,150,81,1,68
+Clark,Gurdon Wards 1.2.3.4,Attorney General,,REP,Lieutenant Governor Tim Griffin,191,63,1,127
+Clark,Gurdon Ward 5,Attorney General,,REP,Lieutenant Governor Tim Griffin,27,6,0,21
+Clark,Hollywood 1,Attorney General,,REP,Lieutenant Governor Tim Griffin,86,56,0,30
+Clark,North County,Attorney General,,REP,Lieutenant Governor Tim Griffin,342,102,0,240
+Clark,North East County,Attorney General,,REP,Lieutenant Governor Tim Griffin,430,266,9,155
+Clark,Okolona City 1,Attorney General,,REP,Lieutenant Governor Tim Griffin,28,6,0,22
+Clark,South County 1,Attorney General,,REP,Lieutenant Governor Tim Griffin,149,41,0,108
+Clark,West County 1,Attorney General,,REP,Lieutenant Governor Tim Griffin,172,84,4,84
+Clark,Whelen Springs 1,Attorney General,,REP,Lieutenant Governor Tim Griffin,16,1,0,15
+Clark,Arkadelphia Ward 5,Attorney General,,REP,Lieutenant Governor Tim Griffin,411,274,7,130
+Clark,Amity City,Attorney General,,DEM,Jesse Gibson,18,1,1,16
+Clark,Arkadelphia Ward 1,Attorney General,,DEM,Jesse Gibson,93,64,6,23
+Clark,Arkadelphia Ward 2,Attorney General,,DEM,Jesse Gibson,401,277,14,110
+Clark,Arkadelphia Ward 3,Attorney General,,DEM,Jesse Gibson,178,112,9,57
+Clark,Arkadelphia Ward 4,Attorney General,,DEM,Jesse Gibson,256,170,10,76
+Clark,Central 1,Attorney General,,DEM,Jesse Gibson,87,59,8,20
+Clark,Curtis 1,Attorney General,,DEM,Jesse Gibson,53,34,1,18
+Clark,Caddo Valley Ward 1.2.3,Attorney General,,DEM,Jesse Gibson,69,36,3,30
+Clark,East County 1,Attorney General,,DEM,Jesse Gibson,195,101,4,90
+Clark,Gurdon General 1,Attorney General,,DEM,Jesse Gibson,38,17,1,20
+Clark,Gum Springs 1.,Attorney General,,DEM,Jesse Gibson,74,43,2,29
+Clark,Gurdon Wards 1.2.3.4,Attorney General,,DEM,Jesse Gibson,156,43,8,105
+Clark,Gurdon Ward 5,Attorney General,,DEM,Jesse Gibson,34,7,4,23
+Clark,Hollywood 1,Attorney General,,DEM,Jesse Gibson,28,19,1,8
+Clark,North County,Attorney General,,DEM,Jesse Gibson,53,25,2,26
+Clark,North East County,Attorney General,,DEM,Jesse Gibson,130,95,7,28
+Clark,Okolona City 1,Attorney General,,DEM,Jesse Gibson,13,1,0,12
+Clark,South County 1,Attorney General,,DEM,Jesse Gibson,28,15,1,12
+Clark,West County 1,Attorney General,,DEM,Jesse Gibson,90,53,5,32
+Clark,Whelen Springs 1,Attorney General,,DEM,Jesse Gibson,3,2,0,1
+Clark,Arkadelphia Ward 5,Attorney General,,DEM,Jesse Gibson,306,213,12,81
+Clark,Amity City,Auditor of State,,LIB,Simeon Snow,4,0,0,4
+Clark,Arkadelphia Ward 1,Auditor of State,,LIB,Simeon Snow,11,7,0,4
+Clark,Arkadelphia Ward 2,Auditor of State,,LIB,Simeon Snow,35,26,0,9
+Clark,Arkadelphia Ward 3,Auditor of State,,LIB,Simeon Snow,11,2,0,9
+Clark,Arkadelphia Ward 4,Auditor of State,,LIB,Simeon Snow,19,13,0,6
+Clark,Central 1,Auditor of State,,LIB,Simeon Snow,9,6,0,3
+Clark,Curtis 1,Auditor of State,,LIB,Simeon Snow,1,0,0,1
+Clark,Caddo Valley Ward 1.2.3,Auditor of State,,LIB,Simeon Snow,7,3,0,4
+Clark,East County 1,Auditor of State,,LIB,Simeon Snow,13,3,2,8
+Clark,Gurdon General 1,Auditor of State,,LIB,Simeon Snow,4,1,0,3
+Clark,Gum Springs 1.,Auditor of State,,LIB,Simeon Snow,10,6,0,4
+Clark,Gurdon Wards 1.2.3.4,Auditor of State,,LIB,Simeon Snow,15,1,1,13
+Clark,Gurdon Ward 5,Auditor of State,,LIB,Simeon Snow,1,0,0,1
+Clark,Hollywood 1,Auditor of State,,LIB,Simeon Snow,2,2,0,0
+Clark,North County,Auditor of State,,LIB,Simeon Snow,10,3,1,6
+Clark,North East County,Auditor of State,,LIB,Simeon Snow,19,8,3,8
+Clark,Okolona City 1,Auditor of State,,LIB,Simeon Snow,3,0,0,3
+Clark,South County 1,Auditor of State,,LIB,Simeon Snow,4,1,0,3
+Clark,West County 1,Auditor of State,,LIB,Simeon Snow,12,6,0,6
+Clark,Whelen Springs 1,Auditor of State,,LIB,Simeon Snow,0,0,0,0
+Clark,Arkadelphia Ward 5,Auditor of State,,LIB,Simeon Snow,18,13,1,4
+Clark,Amity City,Auditor of State,,DEM,Diamond Arnold-Johnson,20,1,1,18
+Clark,Arkadelphia Ward 1,Auditor of State,,DEM,Diamond Arnold-Johnson,69,48,6,15
+Clark,Arkadelphia Ward 2,Auditor of State,,DEM,Diamond Arnold-Johnson,380,260,14,106
+Clark,Arkadelphia Ward 3,Auditor of State,,DEM,Diamond Arnold-Johnson,167,105,9,53
+Clark,Arkadelphia Ward 4,Auditor of State,,DEM,Diamond Arnold-Johnson,240,160,9,71
+Clark,Central 1,Auditor of State,,DEM,Diamond Arnold-Johnson,83,59,8,16
+Clark,Curtis 1,Auditor of State,,DEM,Diamond Arnold-Johnson,58,40,1,17
+Clark,Caddo Valley Ward 1.2.3,Auditor of State,,DEM,Diamond Arnold-Johnson,61,31,3,27
+Clark,East County 1,Auditor of State,,DEM,Diamond Arnold-Johnson,188,103,2,83
+Clark,Gurdon General 1,Auditor of State,,DEM,Diamond Arnold-Johnson,39,17,1,21
+Clark,Gum Springs 1.,Auditor of State,,DEM,Diamond Arnold-Johnson,65,39,2,24
+Clark,Gurdon Wards 1.2.3.4,Auditor of State,,DEM,Diamond Arnold-Johnson,144,42,7,95
+Clark,Gurdon Ward 5,Auditor of State,,DEM,Diamond Arnold-Johnson,33,7,4,22
+Clark,Hollywood 1,Auditor of State,,DEM,Diamond Arnold-Johnson,27,18,1,8
+Clark,North County,Auditor of State,,DEM,Diamond Arnold-Johnson,56,29,0,27
+Clark,North East County,Auditor of State,,DEM,Diamond Arnold-Johnson,115,86,4,25
+Clark,Okolona City 1,Auditor of State,,DEM,Diamond Arnold-Johnson,11,1,0,10
+Clark,South County 1,Auditor of State,,DEM,Diamond Arnold-Johnson,25,14,1,10
+Clark,West County 1,Auditor of State,,DEM,Diamond Arnold-Johnson,81,47,5,29
+Clark,Whelen Springs 1,Auditor of State,,DEM,Diamond Arnold-Johnson,4,2,0,2
+Clark,Arkadelphia Ward 5,Auditor of State,,DEM,Diamond Arnold-Johnson,292,206,12,74
+Clark,Amity City,Auditor of State,,REP,Treasurer of State Dennis Milligan,130,10,5,115
+Clark,Arkadelphia Ward 1,Auditor of State,,REP,Treasurer of State Dennis Milligan,121,75,1,45
+Clark,Arkadelphia Ward 2,Auditor of State,,REP,Treasurer of State Dennis Milligan,324,216,5,103
+Clark,Arkadelphia Ward 3,Auditor of State,,REP,Treasurer of State Dennis Milligan,98,52,3,43
+Clark,Arkadelphia Ward 4,Auditor of State,,REP,Treasurer of State Dennis Milligan,128,70,7,51
+Clark,Central 1,Auditor of State,,REP,Treasurer of State Dennis Milligan,291,200,5,86
+Clark,Curtis 1,Auditor of State,,REP,Treasurer of State Dennis Milligan,146,81,0,65
+Clark,Caddo Valley Ward 1.2.3,Auditor of State,,REP,Treasurer of State Dennis Milligan,106,31,4,71
+Clark,East County 1,Auditor of State,,REP,Treasurer of State Dennis Milligan,185,81,3,101
+Clark,Gurdon General 1,Auditor of State,,REP,Treasurer of State Dennis Milligan,164,60,2,102
+Clark,Gum Springs 1.,Auditor of State,,REP,Treasurer of State Dennis Milligan,141,73,1,67
+Clark,Gurdon Wards 1.2.3.4,Auditor of State,,REP,Treasurer of State Dennis Milligan,176,61,1,114
+Clark,Gurdon Ward 5,Auditor of State,,REP,Treasurer of State Dennis Milligan,26,6,0,20
+Clark,Hollywood 1,Auditor of State,,REP,Treasurer of State Dennis Milligan,82,52,0,30
+Clark,North County,Auditor of State,,REP,Treasurer of State Dennis Milligan,321,91,1,229
+Clark,North East County,Auditor of State,,REP,Treasurer of State Dennis Milligan,418,261,8,149
+Clark,Okolona City 1,Auditor of State,,REP,Treasurer of State Dennis Milligan,25,6,0,19
+Clark,South County 1,Auditor of State,,REP,Treasurer of State Dennis Milligan,144,40,0,104
+Clark,West County 1,Auditor of State,,REP,Treasurer of State Dennis Milligan,162,81,4,77
+Clark,Whelen Springs 1,Auditor of State,,REP,Treasurer of State Dennis Milligan,15,1,0,14
+Clark,Arkadelphia Ward 5,Auditor of State,,REP,Treasurer of State Dennis Milligan,391,261,6,124
+Clark,Amity City,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,22,1,1,20
+Clark,Arkadelphia Ward 1,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,82,57,6,19
+Clark,Arkadelphia Ward 2,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,408,283,15,110
+Clark,Arkadelphia Ward 3,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,177,111,9,57
+Clark,Arkadelphia Ward 4,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,251,169,10,72
+Clark,Central 1,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,84,61,8,15
+Clark,Curtis 1,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,54,36,1,17
+Clark,Caddo Valley Ward 1.2.3,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,68,35,3,30
+Clark,East County 1,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,183,96,2,85
+Clark,Gurdon General 1,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,39,15,1,23
+Clark,Gum Springs 1.,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,72,44,2,26
+Clark,Gurdon Wards 1.2.3.4,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,150,42,6,102
+Clark,Gurdon Ward 5,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,33,7,4,22
+Clark,Hollywood 1,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,28,19,1,8
+Clark,North County,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,49,26,1,22
+Clark,North East County,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,123,94,6,23
+Clark,Okolona City 1,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,12,1,0,11
+Clark,South County 1,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,27,14,1,12
+Clark,West County 1,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,87,54,5,28
+Clark,Whelen Springs 1,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,4,2,0,2
+Clark,Arkadelphia Ward 5,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,306,211,12,83
+Clark,Amity City,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,134,10,5,119
+Clark,Arkadelphia Ward 1,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,118,72,1,45
+Clark,Arkadelphia Ward 2,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,334,223,4,107
+Clark,Arkadelphia Ward 3,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,103,51,3,49
+Clark,Arkadelphia Ward 4,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,135,71,6,58
+Clark,Central 1,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,291,200,5,86
+Clark,Curtis 1,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,151,84,0,67
+Clark,Caddo Valley Ward 1.2.3,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,108,29,4,75
+Clark,East County 1,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,200,86,5,109
+Clark,Gurdon General 1,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,165,60,2,103
+Clark,Gum Springs 1.,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,144,77,0,67
+Clark,Gurdon Wards 1.2.3.4,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,177,60,2,115
+Clark,Gurdon Ward 5,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,25,6,0,19
+Clark,Hollywood 1,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,83,53,0,30
+Clark,North County,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,328,95,1,232
+Clark,North East County,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,429,265,9,155
+Clark,Okolona City 1,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,27,6,0,21
+Clark,South County 1,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,146,40,0,106
+Clark,West County 1,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,165,81,4,80
+Clark,Whelen Springs 1,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,15,1,0,14
+Clark,Arkadelphia Ward 5,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,391,262,7,122
+Clark,Amity City,Governor,,REP,Sarah Huckabee Sanders,131,10,4,117
+Clark,Arkadelphia Ward 1,Governor,,REP,Sarah Huckabee Sanders,93,52,1,40
+Clark,Arkadelphia Ward 2,Governor,,REP,Sarah Huckabee Sanders,299,199,4,96
+Clark,Arkadelphia Ward 3,Governor,,REP,Sarah Huckabee Sanders,91,48,1,42
+Clark,Arkadelphia Ward 4,Governor,,REP,Sarah Huckabee Sanders,119,64,7,48
+Clark,Central 1,Governor,,REP,Sarah Huckabee Sanders,284,191,5,88
+Clark,Curtis 1,Governor,,REP,Sarah Huckabee Sanders,154,86,0,68
+Clark,Caddo Valley Ward 1.2.3,Governor,,REP,Sarah Huckabee Sanders,104,28,4,72
+Clark,East County 1,Governor,,REP,Sarah Huckabee Sanders,184,80,3,101
+Clark,Gurdon General 1,Governor,,REP,Sarah Huckabee Sanders,162,57,2,103
+Clark,Gum Springs 1.,Governor,,REP,Sarah Huckabee Sanders,146,76,1,69
+Clark,Gurdon Wards 1.2.3.4,Governor,,REP,Sarah Huckabee Sanders,174,59,1,114
+Clark,Gurdon Ward 5,Governor,,REP,Sarah Huckabee Sanders,24,5,0,19
+Clark,Hollywood 1,Governor,,REP,Sarah Huckabee Sanders,82,53,0,29
+Clark,North County,Governor,,REP,Sarah Huckabee Sanders,334,96,0,238
+Clark,North East County,Governor,,REP,Sarah Huckabee Sanders,402,252,11,139
+Clark,Okolona City 1,Governor,,REP,Sarah Huckabee Sanders,30,6,0,24
+Clark,South County 1,Governor,,REP,Sarah Huckabee Sanders,147,42,0,105
+Clark,West County 1,Governor,,REP,Sarah Huckabee Sanders,170,81,4,85
+Clark,Whelen Springs 1,Governor,,REP,Sarah Huckabee Sanders,16,1,0,15
+Clark,Arkadelphia Ward 5,Governor,,REP,Sarah Huckabee Sanders,346,227,6,113
+Clark,Amity City,Governor,,LIB,"Ricky Dale Harrington, Jr.",6,0,1,5
+Clark,Arkadelphia Ward 1,Governor,,LIB,"Ricky Dale Harrington, Jr.",4,3,0,1
+Clark,Arkadelphia Ward 2,Governor,,LIB,"Ricky Dale Harrington, Jr.",14,8,0,6
+Clark,Arkadelphia Ward 3,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Clark,Arkadelphia Ward 4,Governor,,LIB,"Ricky Dale Harrington, Jr.",8,4,1,3
+Clark,Central 1,Governor,,LIB,"Ricky Dale Harrington, Jr.",4,3,0,1
+Clark,Curtis 1,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,1,0,0
+Clark,Caddo Valley Ward 1.2.3,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Clark,East County 1,Governor,,LIB,"Ricky Dale Harrington, Jr.",9,3,0,6
+Clark,Gurdon General 1,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,1,0,1
+Clark,Gum Springs 1.,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Clark,Gurdon Wards 1.2.3.4,Governor,,LIB,"Ricky Dale Harrington, Jr.",8,0,0,8
+Clark,Gurdon Ward 5,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Clark,Hollywood 1,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,1,0,1
+Clark,North County,Governor,,LIB,"Ricky Dale Harrington, Jr.",9,4,0,5
+Clark,North East County,Governor,,LIB,"Ricky Dale Harrington, Jr.",4,1,1,2
+Clark,Okolona City 1,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Clark,South County 1,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Clark,West County 1,Governor,,LIB,"Ricky Dale Harrington, Jr.",4,2,0,2
+Clark,Whelen Springs 1,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Clark,Arkadelphia Ward 5,Governor,,LIB,"Ricky Dale Harrington, Jr.",8,5,0,3
+Clark,Amity City,Governor,,DEM,Chris Jones,22,1,1,20
+Clark,Arkadelphia Ward 1,Governor,,DEM,Chris Jones,114,77,6,31
+Clark,Arkadelphia Ward 2,Governor,,DEM,Chris Jones,448,310,15,123
+Clark,Arkadelphia Ward 3,Governor,,DEM,Chris Jones,197,120,11,66
+Clark,Arkadelphia Ward 4,Governor,,DEM,Chris Jones,275,184,8,83
+Clark,Central 1,Governor,,DEM,Chris Jones,102,75,9,18
+Clark,Curtis 1,Governor,,DEM,Chris Jones,59,39,1,19
+Clark,Caddo Valley Ward 1.2.3,Governor,,DEM,Chris Jones,77,41,3,33
+Clark,East County 1,Governor,,DEM,Chris Jones,213,111,4,98
+Clark,Gurdon General 1,Governor,,DEM,Chris Jones,47,20,1,26
+Clark,Gum Springs 1.,Governor,,DEM,Chris Jones,79,49,2,28
+Clark,Gurdon Wards 1.2.3.4,Governor,,DEM,Chris Jones,167,48,8,111
+Clark,Gurdon Ward 5,Governor,,DEM,Chris Jones,38,8,4,26
+Clark,Hollywood 1,Governor,,DEM,Chris Jones,29,20,1,8
+Clark,North County,Governor,,DEM,Chris Jones,59,29,2,28
+Clark,North East County,Governor,,DEM,Chris Jones,158,111,5,42
+Clark,Okolona City 1,Governor,,DEM,Chris Jones,11,1,0,10
+Clark,South County 1,Governor,,DEM,Chris Jones,29,14,1,14
+Clark,West County 1,Governor,,DEM,Chris Jones,92,55,5,32
+Clark,Whelen Springs 1,Governor,,DEM,Chris Jones,3,2,0,1
+Clark,Arkadelphia Ward 5,Governor,,DEM,Chris Jones,370,261,13,96
+Clark,Amity City,Lieutenant Governor,,DEM,Kelly Ross Krout,20,1,1,18
+Clark,Arkadelphia Ward 1,Lieutenant Governor,,DEM,Kelly Ross Krout,95,67,6,22
+Clark,Arkadelphia Ward 2,Lieutenant Governor,,DEM,Kelly Ross Krout,407,282,14,111
+Clark,Arkadelphia Ward 3,Lieutenant Governor,,DEM,Kelly Ross Krout,185,115,11,59
+Clark,Arkadelphia Ward 4,Lieutenant Governor,,DEM,Kelly Ross Krout,258,170,10,78
+Clark,Central 1,Lieutenant Governor,,DEM,Kelly Ross Krout,93,69,8,16
+Clark,Curtis 1,Lieutenant Governor,,DEM,Kelly Ross Krout,58,40,1,17
+Clark,Caddo Valley Ward 1.2.3,Lieutenant Governor,,DEM,Kelly Ross Krout,71,36,3,32
+Clark,East County 1,Lieutenant Governor,,DEM,Kelly Ross Krout,188,101,4,83
+Clark,Gurdon General 1,Lieutenant Governor,,DEM,Kelly Ross Krout,42,18,1,23
+Clark,Gum Springs 1.,Lieutenant Governor,,DEM,Kelly Ross Krout,70,41,2,27
+Clark,Gurdon Wards 1.2.3.4,Lieutenant Governor,,DEM,Kelly Ross Krout,153,44,7,102
+Clark,Gurdon Ward 5,Lieutenant Governor,,DEM,Kelly Ross Krout,33,7,4,22
+Clark,Hollywood 1,Lieutenant Governor,,DEM,Kelly Ross Krout,27,18,1,8
+Clark,North County,Lieutenant Governor,,DEM,Kelly Ross Krout,52,25,2,25
+Clark,North East County,Lieutenant Governor,,DEM,Kelly Ross Krout,133,93,5,35
+Clark,Okolona City 1,Lieutenant Governor,,DEM,Kelly Ross Krout,11,1,0,10
+Clark,South County 1,Lieutenant Governor,,DEM,Kelly Ross Krout,25,13,1,11
+Clark,West County 1,Lieutenant Governor,,DEM,Kelly Ross Krout,83,52,3,28
+Clark,Whelen Springs 1,Lieutenant Governor,,DEM,Kelly Ross Krout,3,2,0,1
+Clark,Arkadelphia Ward 5,Lieutenant Governor,,DEM,Kelly Ross Krout,319,224,13,82
+Clark,Amity City,Lieutenant Governor,,LIB,Frank Gilbert,7,0,0,7
+Clark,Arkadelphia Ward 1,Lieutenant Governor,,LIB,Frank Gilbert,8,6,0,2
+Clark,Arkadelphia Ward 2,Lieutenant Governor,,LIB,Frank Gilbert,26,16,0,10
+Clark,Arkadelphia Ward 3,Lieutenant Governor,,LIB,Frank Gilbert,11,6,0,5
+Clark,Arkadelphia Ward 4,Lieutenant Governor,,LIB,Frank Gilbert,13,8,0,5
+Clark,Central 1,Lieutenant Governor,,LIB,Frank Gilbert,11,7,1,3
+Clark,Curtis 1,Lieutenant Governor,,LIB,Frank Gilbert,6,4,0,2
+Clark,Caddo Valley Ward 1.2.3,Lieutenant Governor,,LIB,Frank Gilbert,5,2,0,3
+Clark,East County 1,Lieutenant Governor,,LIB,Frank Gilbert,15,7,0,8
+Clark,Gurdon General 1,Lieutenant Governor,,LIB,Frank Gilbert,2,0,0,2
+Clark,Gum Springs 1.,Lieutenant Governor,,LIB,Frank Gilbert,7,3,0,4
+Clark,Gurdon Wards 1.2.3.4,Lieutenant Governor,,LIB,Frank Gilbert,14,1,0,13
+Clark,Gurdon Ward 5,Lieutenant Governor,,LIB,Frank Gilbert,1,0,0,1
+Clark,Hollywood 1,Lieutenant Governor,,LIB,Frank Gilbert,2,1,0,1
+Clark,North County,Lieutenant Governor,,LIB,Frank Gilbert,19,6,0,13
+Clark,North East County,Lieutenant Governor,,LIB,Frank Gilbert,15,9,0,6
+Clark,Okolona City 1,Lieutenant Governor,,LIB,Frank Gilbert,3,0,0,3
+Clark,South County 1,Lieutenant Governor,,LIB,Frank Gilbert,6,2,0,4
+Clark,West County 1,Lieutenant Governor,,LIB,Frank Gilbert,5,3,0,2
+Clark,Whelen Springs 1,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0
+Clark,Arkadelphia Ward 5,Lieutenant Governor,,LIB,Frank Gilbert,17,12,0,5
+Clark,Amity City,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,131,10,5,116
+Clark,Arkadelphia Ward 1,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,104,58,1,45
+Clark,Arkadelphia Ward 2,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,315,209,5,101
+Clark,Arkadelphia Ward 3,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,86,44,1,41
+Clark,Arkadelphia Ward 4,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,120,65,6,49
+Clark,Central 1,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,283,192,5,86
+Clark,Curtis 1,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,142,78,0,64
+Clark,Caddo Valley Ward 1.2.3,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,103,28,4,71
+Clark,East County 1,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,187,78,3,106
+Clark,Gurdon General 1,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,167,60,2,105
+Clark,Gum Springs 1.,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,143,78,1,64
+Clark,Gurdon Wards 1.2.3.4,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,172,59,2,111
+Clark,Gurdon Ward 5,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,25,6,0,19
+Clark,Hollywood 1,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,84,55,0,29
+Clark,North County,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,316,93,0,223
+Clark,North East County,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,408,255,11,142
+Clark,Okolona City 1,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,24,5,0,19
+Clark,South County 1,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,144,41,0,103
+Clark,West County 1,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,173,82,6,85
+Clark,Whelen Springs 1,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,16,1,0,15
+Clark,Arkadelphia Ward 5,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,377,249,6,122
+Clark,Amity City,Secretary of State,,DEM,Anna Beth Gorman,22,1,1,20
+Clark,Arkadelphia Ward 1,Secretary of State,,DEM,Anna Beth Gorman,92,63,6,23
+Clark,Arkadelphia Ward 2,Secretary of State,,DEM,Anna Beth Gorman,416,291,15,110
+Clark,Arkadelphia Ward 3,Secretary of State,,DEM,Anna Beth Gorman,188,114,10,64
+Clark,Arkadelphia Ward 4,Secretary of State,,DEM,Anna Beth Gorman,260,170,11,79
+Clark,Central 1,Secretary of State,,DEM,Anna Beth Gorman,92,68,9,15
+Clark,Curtis 1,Secretary of State,,DEM,Anna Beth Gorman,56,35,1,20
+Clark,Caddo Valley Ward 1.2.3,Secretary of State,,DEM,Anna Beth Gorman,67,35,3,29
+Clark,East County 1,Secretary of State,,DEM,Anna Beth Gorman,201,104,4,93
+Clark,Gurdon General 1,Secretary of State,,DEM,Anna Beth Gorman,44,17,1,26
+Clark,Gum Springs 1.,Secretary of State,,DEM,Anna Beth Gorman,72,42,2,28
+Clark,Gurdon Wards 1.2.3.4,Secretary of State,,DEM,Anna Beth Gorman,163,46,7,110
+Clark,Gurdon Ward 5,Secretary of State,,DEM,Anna Beth Gorman,36,7,4,25
+Clark,Hollywood 1,Secretary of State,,DEM,Anna Beth Gorman,28,19,1,8
+Clark,North County,Secretary of State,,DEM,Anna Beth Gorman,52,28,1,23
+Clark,North East County,Secretary of State,,DEM,Anna Beth Gorman,135,96,7,32
+Clark,Okolona City 1,Secretary of State,,DEM,Anna Beth Gorman,11,1,0,10
+Clark,South County 1,Secretary of State,,DEM,Anna Beth Gorman,31,16,1,14
+Clark,West County 1,Secretary of State,,DEM,Anna Beth Gorman,87,53,5,29
+Clark,Whelen Springs 1,Secretary of State,,DEM,Anna Beth Gorman,4,2,0,2
+Clark,Arkadelphia Ward 5,Secretary of State,,DEM,Anna Beth Gorman,337,236,12,89
+Clark,Amity City,Secretary of State,,REP,Secretary of State John Thurston,134,10,5,119
+Clark,Arkadelphia Ward 1,Secretary of State,,REP,Secretary of State John Thurston,116,70,1,45
+Clark,Arkadelphia Ward 2,Secretary of State,,REP,Secretary of State John Thurston,330,216,4,110
+Clark,Arkadelphia Ward 3,Secretary of State,,REP,Secretary of State John Thurston,94,50,2,42
+Clark,Arkadelphia Ward 4,Secretary of State,,REP,Secretary of State John Thurston,127,68,5,54
+Clark,Central 1,Secretary of State,,REP,Secretary of State John Thurston,293,199,5,89
+Clark,Curtis 1,Secretary of State,,REP,Secretary of State John Thurston,147,83,0,64
+Clark,Caddo Valley Ward 1.2.3,Secretary of State,,REP,Secretary of State John Thurston,106,29,4,73
+Clark,East County 1,Secretary of State,,REP,Secretary of State John Thurston,188,82,3,103
+Clark,Gurdon General 1,Secretary of State,,REP,Secretary of State John Thurston,166,61,2,103
+Clark,Gum Springs 1.,Secretary of State,,REP,Secretary of State John Thurston,147,79,1,67
+Clark,Gurdon Wards 1.2.3.4,Secretary of State,,REP,Secretary of State John Thurston,179,60,2,117
+Clark,Gurdon Ward 5,Secretary of State,,REP,Secretary of State John Thurston,23,5,0,18
+Clark,Hollywood 1,Secretary of State,,REP,Secretary of State John Thurston,83,53,0,30
+Clark,North County,Secretary of State,,REP,Secretary of State John Thurston,334,96,1,237
+Clark,North East County,Secretary of State,,REP,Secretary of State John Thurston,420,262,10,148
+Clark,Okolona City 1,Secretary of State,,REP,Secretary of State John Thurston,28,6,0,22
+Clark,South County 1,Secretary of State,,REP,Secretary of State John Thurston,145,40,0,105
+Clark,West County 1,Secretary of State,,REP,Secretary of State John Thurston,171,85,4,82
+Clark,Whelen Springs 1,Secretary of State,,REP,Secretary of State John Thurston,15,1,0,14
+Clark,Arkadelphia Ward 5,Secretary of State,,REP,Secretary of State John Thurston,377,250,7,120
+Clark,Amity City,State Treasurer,,DEM,Pam Whitaker,20,1,1,18
+Clark,Arkadelphia Ward 1,State Treasurer,,DEM,Pam Whitaker,97,68,6,23
+Clark,Arkadelphia Ward 2,State Treasurer,,DEM,Pam Whitaker,436,302,15,119
+Clark,Arkadelphia Ward 3,State Treasurer,,DEM,Pam Whitaker,184,112,11,61
+Clark,Arkadelphia Ward 4,State Treasurer,,DEM,Pam Whitaker,270,181,11,78
+Clark,Central 1,State Treasurer,,DEM,Pam Whitaker,102,75,9,18
+Clark,Curtis 1,State Treasurer,,DEM,Pam Whitaker,61,40,1,20
+Clark,Caddo Valley Ward 1.2.3,State Treasurer,,DEM,Pam Whitaker,75,39,3,33
+Clark,East County 1,State Treasurer,,DEM,Pam Whitaker,209,109,4,96
+Clark,Gurdon General 1,State Treasurer,,DEM,Pam Whitaker,44,17,1,26
+Clark,Gum Springs 1.,State Treasurer,,DEM,Pam Whitaker,82,49,2,31
+Clark,Gurdon Wards 1.2.3.4,State Treasurer,,DEM,Pam Whitaker,163,46,8,109
+Clark,Gurdon Ward 5,State Treasurer,,DEM,Pam Whitaker,35,7,4,24
+Clark,Hollywood 1,State Treasurer,,DEM,Pam Whitaker,31,21,1,9
+Clark,North County,State Treasurer,,DEM,Pam Whitaker,58,30,1,27
+Clark,North East County,State Treasurer,,DEM,Pam Whitaker,143,104,6,33
+Clark,Okolona City 1,State Treasurer,,DEM,Pam Whitaker,14,1,0,13
+Clark,South County 1,State Treasurer,,DEM,Pam Whitaker,28,15,1,12
+Clark,West County 1,State Treasurer,,DEM,Pam Whitaker,95,56,5,34
+Clark,Whelen Springs 1,State Treasurer,,DEM,Pam Whitaker,4,2,0,2
+Clark,Arkadelphia Ward 5,State Treasurer,,DEM,Pam Whitaker,339,230,13,96
+Clark,Amity City,State Treasurer,,REP,State Representative Mark Lowery,136,10,5,121
+Clark,Arkadelphia Ward 1,State Treasurer,,REP,State Representative Mark Lowery,107,63,1,43
+Clark,Arkadelphia Ward 2,State Treasurer,,REP,State Representative Mark Lowery,317,211,4,102
+Clark,Arkadelphia Ward 3,State Treasurer,,REP,State Representative Mark Lowery,97,50,1,46
+Clark,Arkadelphia Ward 4,State Treasurer,,REP,State Representative Mark Lowery,127,68,5,54
+Clark,Central 1,State Treasurer,,REP,State Representative Mark Lowery,284,193,5,86
+Clark,Curtis 1,State Treasurer,,REP,State Representative Mark Lowery,148,83,0,65
+Clark,Caddo Valley Ward 1.2.3,State Treasurer,,REP,State Representative Mark Lowery,103,28,4,71
+Clark,East County 1,State Treasurer,,REP,State Representative Mark Lowery,190,80,3,107
+Clark,Gurdon General 1,State Treasurer,,REP,State Representative Mark Lowery,168,62,2,104
+Clark,Gum Springs 1.,State Treasurer,,REP,State Representative Mark Lowery,139,74,1,64
+Clark,Gurdon Wards 1.2.3.4,State Treasurer,,REP,State Representative Mark Lowery,175,57,1,117
+Clark,Gurdon Ward 5,State Treasurer,,REP,State Representative Mark Lowery,25,5,0,20
+Clark,Hollywood 1,State Treasurer,,REP,State Representative Mark Lowery,82,53,0,29
+Clark,North County,State Treasurer,,REP,State Representative Mark Lowery,335,97,1,237
+Clark,North East County,State Treasurer,,REP,State Representative Mark Lowery,416,257,10,149
+Clark,Okolona City 1,State Treasurer,,REP,State Representative Mark Lowery,26,6,0,20
+Clark,South County 1,State Treasurer,,REP,State Representative Mark Lowery,146,39,0,107
+Clark,West County 1,State Treasurer,,REP,State Representative Mark Lowery,166,80,4,82
+Clark,Whelen Springs 1,State Treasurer,,REP,State Representative Mark Lowery,15,1,0,14
+Clark,Arkadelphia Ward 5,State Treasurer,,REP,State Representative Mark Lowery,375,255,6,114
+Clark,Amity City,State Senate,03,REP,Alderman Steve Crowell,142,10,5,127
+Clark,Arkadelphia Ward 1,State Senate,03,REP,Alderman Steve Crowell,142,84,4,54
+Clark,Arkadelphia Ward 2,State Senate,03,REP,Alderman Steve Crowell,522,341,11,170
+Clark,Arkadelphia Ward 3,State Senate,03,REP,Alderman Steve Crowell,181,102,4,75
+Clark,Arkadelphia Ward 4,State Senate,03,REP,Alderman Steve Crowell,238,129,13,96
+Clark,Central 1,State Senate,03,REP,Alderman Steve Crowell,326,224,7,95
+Clark,Curtis 1,State Senate,03,REP,Alderman Steve Crowell,161,93,0,68
+Clark,Caddo Valley Ward 1.2.3,State Senate,03,REP,Alderman Steve Crowell,134,43,4,87
+Clark,East County 1,State Senate,03,REP,Alderman Steve Crowell,257,119,6,132
+Clark,Gurdon General 1,State Senate,03,REP,Alderman Steve Crowell,183,67,3,113
+Clark,Gum Springs 1.,State Senate,03,REP,Alderman Steve Crowell,172,95,2,75
+Clark,Gurdon Wards 1.2.3.4,State Senate,03,REP,Alderman Steve Crowell,252,74,6,172
+Clark,Gurdon Ward 5,State Senate,03,REP,Alderman Steve Crowell,41,8,4,29
+Clark,Hollywood 1,State Senate,03,REP,Alderman Steve Crowell,88,56,1,31
+Clark,North County,State Senate,03,REP,Alderman Steve Crowell,338,105,2,231
+Clark,North East County,State Senate,03,REP,Alderman Steve Crowell,447,284,9,154
+Clark,Okolona City 1,State Senate,03,REP,Alderman Steve Crowell,34,7,0,27
+Clark,South County 1,State Senate,03,REP,Alderman Steve Crowell,155,51,1,103
+Clark,West County 1,State Senate,03,REP,Alderman Steve Crowell,197,103,5,89
+Clark,Whelen Springs 1,State Senate,03,REP,Alderman Steve Crowell,18,3,0,15
+Clark,Arkadelphia Ward 5,State Senate,03,REP,Alderman Steve Crowell,540,359,13,168
+Clark,Amity City,State House,89,REP,State Representative Justin Gonzales,143,11,5,127
+Clark,Central 1,State House,89,REP,State Representative Justin Gonzales,332,228,7,97
+Clark,Curtis 1,State House,89,REP,State Representative Justin Gonzales,176,101,1,74
+Clark,East County 1,State House,89,REP,State Representative Justin Gonzales,267,122,6,139
+Clark,Gurdon General 1,State House,89,REP,State Representative Justin Gonzales,186,70,3,113
+Clark,Gum Springs 1.,State House,89,REP,State Representative Justin Gonzales,173,93,2,78
+Clark,Gurdon Wards 1.2.3.4,State House,89,REP,State Representative Justin Gonzales,261,76,6,179
+Clark,Gurdon Ward 5,State House,89,REP,State Representative Justin Gonzales,38,6,2,30
+Clark,Hollywood 1,State House,89,REP,State Representative Justin Gonzales,95,62,1,32
+Clark,North County,State House,89,REP,State Representative Justin Gonzales,350,107,2,241
+Clark,Okolona City 1,State House,89,REP,State Representative Justin Gonzales,36,7,0,29
+Clark,South County 1,State House,89,REP,State Representative Justin Gonzales,162,51,1,110
+Clark,West County 1,State House,89,REP,State Representative Justin Gonzales,211,106,7,98
+Clark,Whelen Springs 1,State House,89,REP,State Representative Justin Gonzales,17,2,0,15
+Clark,Arkadelphia Ward 1,State House,90,REP,Representative Richard Womack,147,91,3,53
+Clark,Arkadelphia Ward 2,State House,90,REP,Representative Richard Womack,539,352,10,177
+Clark,Arkadelphia Ward 3,State House,90,REP,Representative Richard Womack,184,104,4,76
+Clark,Arkadelphia Ward 4,State House,90,REP,Representative Richard Womack,255,142,12,101
+Clark,Caddo Valley Ward 1.2.3,State House,90,REP,Representative Richard Womack,142,47,4,91
+Clark,North East County,State House,90,REP,Representative Richard Womack,473,297,12,164
+Clark,Arkadelphia Ward 5,State House,90,REP,Representative Richard Womack,562,372,13,177
+Clark,Amity City,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,55,3,0,52
+Clark,Arkadelphia Ward 1,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,66,37,3,26
+Clark,Arkadelphia Ward 2,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,281,195,6,80
+Clark,Arkadelphia Ward 3,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,111,62,4,45
+Clark,Arkadelphia Ward 4,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,146,86,5,55
+Clark,Central 1,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,149,99,5,45
+Clark,Curtis 1,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,71,37,1,33
+Clark,Caddo Valley Ward 1.2.3,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,59,17,1,41
+Clark,East County 1,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,133,62,3,68
+Clark,Gurdon General 1,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,82,33,0,49
+Clark,Gum Springs 1.,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,86,54,1,31
+Clark,Gurdon Wards 1.2.3.4,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,108,33,2,73
+Clark,Gurdon Ward 5,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,21,4,0,17
+Clark,Hollywood 1,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,38,19,0,19
+Clark,North County,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,147,44,1,102
+Clark,North East County,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,232,147,7,78
+Clark,Okolona City 1,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,20,3,0,17
+Clark,South County 1,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,76,26,0,50
+Clark,West County 1,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,99,45,6,48
+Clark,Whelen Springs 1,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,5,2,0,3
+Clark,Arkadelphia Ward 5,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,257,182,6,69
+Clark,Amity City,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,79,7,6,66
+Clark,Arkadelphia Ward 1,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,106,72,2,32
+Clark,Arkadelphia Ward 2,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,356,233,13,110
+Clark,Arkadelphia Ward 3,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,128,79,5,44
+Clark,Arkadelphia Ward 4,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,179,109,8,62
+Clark,Central 1,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,193,143,6,44
+Clark,Curtis 1,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,109,65,0,44
+Clark,Caddo Valley Ward 1.2.3,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,90,37,2,51
+Clark,East County 1,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,187,87,4,96
+Clark,Gurdon General 1,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,105,35,3,67
+Clark,Gum Springs 1.,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,108,60,0,48
+Clark,Gurdon Wards 1.2.3.4,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,180,53,4,123
+Clark,Gurdon Ward 5,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,30,7,4,19
+Clark,Hollywood 1,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,54,38,1,15
+Clark,North County,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,196,65,1,130
+Clark,North East County,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,264,174,5,85
+Clark,Okolona City 1,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,15,2,0,13
+Clark,South County 1,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,85,26,1,58
+Clark,West County 1,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,122,68,2,52
+Clark,Whelen Springs 1,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,11,1,0,10
+Clark,Arkadelphia Ward 5,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,370,248,8,114
+Clark,Amity City,County Clerk,,REP,REP Tracy Rider,130,8,5,117
+Clark,Arkadelphia Ward 1,County Clerk,,REP,REP Tracy Rider,110,66,1,43
+Clark,Arkadelphia Ward 2,County Clerk,,REP,REP Tracy Rider,312,205,4,103
+Clark,Arkadelphia Ward 3,County Clerk,,REP,REP Tracy Rider,102,52,4,46
+Clark,Arkadelphia Ward 4,County Clerk,,REP,REP Tracy Rider,126,66,5,55
+Clark,Central 1,County Clerk,,REP,REP Tracy Rider,278,189,4,85
+Clark,Curtis 1,County Clerk,,REP,REP Tracy Rider,145,80,0,65
+Clark,Caddo Valley Ward 1.2.3,County Clerk,,REP,REP Tracy Rider,97,28,4,65
+Clark,East County 1,County Clerk,,REP,REP Tracy Rider,185,81,3,101
+Clark,Gurdon General 1,County Clerk,,REP,REP Tracy Rider,163,60,2,101
+Clark,Gum Springs 1.,County Clerk,,REP,REP Tracy Rider,138,72,1,65
+Clark,Gurdon Wards 1.2.3.4,County Clerk,,REP,REP Tracy Rider,166,54,2,110
+Clark,Gurdon Ward 5,County Clerk,,REP,REP Tracy Rider,26,7,0,19
+Clark,Hollywood 1,County Clerk,,REP,REP Tracy Rider,82,53,0,29
+Clark,North County,County Clerk,,REP,REP Tracy Rider,335,96,0,239
+Clark,North East County,County Clerk,,REP,REP Tracy Rider,398,246,9,143
+Clark,Okolona City 1,County Clerk,,REP,REP Tracy Rider,25,5,0,20
+Clark,South County 1,County Clerk,,REP,REP Tracy Rider,142,42,0,100
+Clark,West County 1,County Clerk,,REP,REP Tracy Rider,167,79,4,84
+Clark,Whelen Springs 1,County Clerk,,REP,REP Tracy Rider,14,1,0,13
+Clark,Arkadelphia Ward 5,County Clerk,,REP,REP Tracy Rider,358,242,5,111
+Clark,Amity City,County Clerk,,DEM,DEM Tina Johnson,27,3,1,23
+Clark,Arkadelphia Ward 1,County Clerk,,DEM,DEM Tina Johnson,94,64,6,24
+Clark,Arkadelphia Ward 2,County Clerk,,DEM,DEM Tina Johnson,440,306,15,119
+Clark,Arkadelphia Ward 3,County Clerk,,DEM,DEM Tina Johnson,181,114,8,59
+Clark,Arkadelphia Ward 4,County Clerk,,DEM,DEM Tina Johnson,271,183,11,77
+Clark,Central 1,County Clerk,,DEM,DEM Tina Johnson,108,79,10,19
+Clark,Curtis 1,County Clerk,,DEM,DEM Tina Johnson,67,45,1,21
+Clark,Caddo Valley Ward 1.2.3,County Clerk,,DEM,DEM Tina Johnson,80,38,3,39
+Clark,East County 1,County Clerk,,DEM,DEM Tina Johnson,217,109,4,104
+Clark,Gurdon General 1,County Clerk,,DEM,DEM Tina Johnson,49,19,1,29
+Clark,Gum Springs 1.,County Clerk,,DEM,DEM Tina Johnson,86,51,2,33
+Clark,Gurdon Wards 1.2.3.4,County Clerk,,DEM,DEM Tina Johnson,175,51,7,117
+Clark,Gurdon Ward 5,County Clerk,,DEM,DEM Tina Johnson,34,6,4,24
+Clark,Hollywood 1,County Clerk,,DEM,DEM Tina Johnson,31,21,1,9
+Clark,North County,County Clerk,,DEM,DEM Tina Johnson,60,30,2,28
+Clark,North East County,County Clerk,,DEM,DEM Tina Johnson,164,116,9,39
+Clark,Okolona City 1,County Clerk,,DEM,DEM Tina Johnson,15,2,0,13
+Clark,South County 1,County Clerk,,DEM,DEM Tina Johnson,32,13,1,18
+Clark,West County 1,County Clerk,,DEM,DEM Tina Johnson,98,58,5,35
+Clark,Whelen Springs 1,County Clerk,,DEM,DEM Tina Johnson,5,2,0,3
+Clark,Arkadelphia Ward 5,County Clerk,,DEM,DEM Tina Johnson,357,242,14,101
+Clark,Amity City,Circuit Clerk,,REP,REP Brian Daniel,148,11,5,132
+Clark,Arkadelphia Ward 1,Circuit Clerk,,REP,REP Brian Daniel,151,94,3,54
+Clark,Arkadelphia Ward 2,Circuit Clerk,,REP,REP Brian Daniel,545,356,11,178
+Clark,Arkadelphia Ward 3,Circuit Clerk,,REP,REP Brian Daniel,194,110,5,79
+Clark,Arkadelphia Ward 4,Circuit Clerk,,REP,REP Brian Daniel,251,140,14,97
+Clark,Central 1,Circuit Clerk,,REP,REP Brian Daniel,344,238,7,99
+Clark,Curtis 1,Circuit Clerk,,REP,REP Brian Daniel,175,99,0,76
+Clark,Caddo Valley Ward 1.2.3,Circuit Clerk,,REP,REP Brian Daniel,142,45,4,93
+Clark,East County 1,Circuit Clerk,,REP,REP Brian Daniel,278,123,6,149
+Clark,Gurdon General 1,Circuit Clerk,,REP,REP Brian Daniel,185,69,3,113
+Clark,Gum Springs 1.,Circuit Clerk,,REP,REP Brian Daniel,179,97,2,80
+Clark,Gurdon Wards 1.2.3.4,Circuit Clerk,,REP,REP Brian Daniel,263,79,5,179
+Clark,Gurdon Ward 5,Circuit Clerk,,REP,REP Brian Daniel,40,7,3,30
+Clark,Hollywood 1,Circuit Clerk,,REP,REP Brian Daniel,97,61,1,35
+Clark,North County,Circuit Clerk,,REP,REP Brian Daniel,359,107,2,250
+Clark,North East County,Circuit Clerk,,REP,REP Brian Daniel,482,307,11,164
+Clark,Okolona City 1,Circuit Clerk,,REP,REP Brian Daniel,36,7,0,29
+Clark,South County 1,Circuit Clerk,,REP,REP Brian Daniel,165,51,1,113
+Clark,West County 1,Circuit Clerk,,REP,REP Brian Daniel,212,102,7,103
+Clark,Whelen Springs 1,Circuit Clerk,,REP,REP Brian Daniel,19,3,0,16
+Clark,Arkadelphia Ward 5,Circuit Clerk,,REP,REP Brian Daniel,576,388,13,175
+Clark,Amity City,Constable,,REP,REP George Hawthorn,131,9,5,117
+Clark,Arkadelphia Ward 1,Constable,,REP,REP George Hawthorn,107,64,1,42
+Clark,Arkadelphia Ward 2,Constable,,REP,REP George Hawthorn,322,216,4,102
+Clark,Arkadelphia Ward 3,Constable,,REP,REP George Hawthorn,91,47,2,42
+Clark,Arkadelphia Ward 4,Constable,,REP,REP George Hawthorn,130,68,6,56
+Clark,Central 1,Constable,,REP,REP George Hawthorn,285,197,6,82
+Clark,Curtis 1,Constable,,REP,REP George Hawthorn,142,81,0,61
+Clark,Caddo Valley Ward 1.2.3,Constable,,REP,REP George Hawthorn,103,28,4,71
+Clark,East County 1,Constable,,REP,REP George Hawthorn,196,84,4,108
+Clark,Gurdon General 1,Constable,,REP,REP George Hawthorn,168,63,2,103
+Clark,Gum Springs 1.,Constable,,REP,REP George Hawthorn,138,74,2,62
+Clark,Gurdon Wards 1.2.3.4,Constable,,REP,REP George Hawthorn,182,58,4,120
+Clark,Gurdon Ward 5,Constable,,REP,REP George Hawthorn,25,5,0,20
+Clark,Hollywood 1,Constable,,REP,REP George Hawthorn,78,50,0,28
+Clark,North County,Constable,,REP,REP George Hawthorn,329,97,1,231
+Clark,North East County,Constable,,REP,REP George Hawthorn,425,267,10,148
+Clark,Okolona City 1,Constable,,REP,REP George Hawthorn,27,6,0,21
+Clark,South County 1,Constable,,REP,REP George Hawthorn,142,39,0,103
+Clark,West County 1,Constable,,REP,REP George Hawthorn,170,84,4,82
+Clark,Whelen Springs 1,Constable,,REP,REP George Hawthorn,14,1,0,13
+Clark,Arkadelphia Ward 5,Constable,,REP,REP George Hawthorn,387,262,7,118
+Clark,Amity City,Constable,,DEM,DEM Zack Garrett,24,1,1,22
+Clark,Arkadelphia Ward 1,Constable,,DEM,DEM Zack Garrett,90,62,6,22
+Clark,Arkadelphia Ward 2,Constable,,DEM,DEM Zack Garrett,411,281,14,116
+Clark,Arkadelphia Ward 3,Constable,,DEM,DEM Zack Garrett,188,115,10,63
+Clark,Arkadelphia Ward 4,Constable,,DEM,DEM Zack Garrett,255,171,10,74
+Clark,Central 1,Constable,,DEM,DEM Zack Garrett,97,69,8,20
+Clark,Curtis 1,Constable,,DEM,DEM Zack Garrett,63,40,1,22
+Clark,Caddo Valley Ward 1.2.3,Constable,,DEM,DEM Zack Garrett,72,38,3,31
+Clark,East County 1,Constable,,DEM,DEM Zack Garrett,196,101,3,92
+Clark,Gurdon General 1,Constable,,DEM,DEM Zack Garrett,42,16,1,25
+Clark,Gum Springs 1.,Constable,,DEM,DEM Zack Garrett,79,48,1,30
+Clark,Gurdon Wards 1.2.3.4,Constable,,DEM,DEM Zack Garrett,146,41,5,100
+Clark,Gurdon Ward 5,Constable,,DEM,DEM Zack Garrett,34,8,4,22
+Clark,Hollywood 1,Constable,,DEM,DEM Zack Garrett,33,23,1,9
+Clark,North County,Constable,,DEM,DEM Zack Garrett,55,27,1,27
+Clark,North East County,Constable,,DEM,DEM Zack Garrett,127,89,5,33
+Clark,Okolona City 1,Constable,,DEM,DEM Zack Garrett,12,1,0,11
+Clark,South County 1,Constable,,DEM,DEM Zack Garrett,31,16,1,14
+Clark,West County 1,Constable,,DEM,DEM Zack Garrett,89,51,5,33
+Clark,Whelen Springs 1,Constable,,DEM,DEM Zack Garrett,4,2,0,2
+Clark,Arkadelphia Ward 5,Constable,,DEM,DEM Zack Garrett,321,217,12,92
+Clark,Arkadelphia Ward 1,Justice of Peace 1,,DEM,DEM Zach Bledsoe,104,73,6,25
+Clark,Arkadelphia Ward 1,Justice of Peace 1,,REP,REP Matthew M. Taylor,99,56,1,42
+Clark,Arkadelphia Ward 2,Justice of Peace 2,,DEM,DEM Michael L. Ankton,403,274,14,115
+Clark,Arkadelphia Ward 2,Justice of Peace 2,,REP,"REP Darin ""Spud"" Buscher",332,229,5,98
+Clark,Arkadelphia Ward 3,Justice of Peace 3,,DEM,DEM Vanilla Hannah,184,117,8,59
+Clark,Arkadelphia Ward 3,Justice of Peace 3,,REP,REP Nick Stover,99,48,4,47
+Clark,Amity City,Justice of Peace 8,,REP,REP Garry (B.J.) Johns,139,11,5,123
+Clark,North County,Justice of Peace 8,,REP,REP Garry (B.J.) Johns,320,84,1,235
+Clark,Amity City,Justice of Peace 8,,IND,IND Amelia May Johnson,12,0,1,11
+Clark,North County,Justice of Peace 8,,IND,IND Amelia May Johnson,40,20,1,19
+Clark,Gurdon General 1,Justice of Peace 9,,REP,REP Andrea Angle,16,9,0,7
+Clark,Gurdon Wards 1.2.3.4,Justice of Peace 9,,REP,REP Andrea Angle,182,62,1,119
+Clark,Gurdon Ward 5,Justice of Peace 9,,REP,REP Andrea Angle,16,3,0,13
+Clark,South County 1,Justice of Peace 9,,REP,REP Andrea Angle,3,0,0,3
+Clark,West County 1,Justice of Peace 9,,REP,REP Andrea Angle,35,13,2,20
+Clark,Gurdon General 1,Justice of Peace 9,,DEM,DEM Valerie Johnson,1,0,0,1
+Clark,Gurdon Wards 1.2.3.4,Justice of Peace 9,,DEM,DEM Valerie Johnson,156,43,8,105
+Clark,Gurdon Ward 5,Justice of Peace 9,,DEM,DEM Valerie Johnson,15,4,2,9
+Clark,South County 1,Justice of Peace 9,,DEM,DEM Valerie Johnson,1,1,0,0
+Clark,West County 1,Justice of Peace 9,,DEM,DEM Valerie Johnson,18,14,0,4
+Clark,Arkadelphia Ward 1,Arkadelphia Mayor,,NON,Scott Byrd,178,112,4,62
+Clark,Arkadelphia Ward 2,Arkadelphia Mayor,,NON,Scott Byrd,653,436,18,199
+Clark,Arkadelphia Ward 3,Arkadelphia Mayor,,NON,Scott Byrd,234,138,8,88
+Clark,Arkadelphia Ward 4,Arkadelphia Mayor,,NON,Scott Byrd,328,196,14,118
+Clark,Arkadelphia Ward 5,Arkadelphia Mayor,,NON,Scott Byrd,655,445,15,195
+Clark,Amity City,Amity Mayor,,NON,Johnny McAnally,149,11,6,132
+Clark,Gum Springs 1.,Gum Springs Mayor,,NON,Meldene Ivory,37,18,2,17
+Clark,Gurdon Wards 1.2.3.4,Gurdon Mayor,,NON,Larry Roy Thomerson,328,98,7,223
+Clark,Gurdon Ward 5,Gurdon Mayor,,NON,Larry Roy Thomerson,58,12,3,43
+Clark,Okolona City 1,Okolona Mayor,,NON,Sara Cox,39,6,0,33
+Clark,Whelen Springs 1,Whelen Springs Mayor,,NON,Glen F. Hughes,19,3,0,16
+Clark,Amity City,For Referred Ordinance No. 2022-002, Against Refe,NON,For,104,6,5,93
+Clark,Amity City,For Referred Ordinance No. 2022-002, Against Refe,NON,Against,47,5,1,41
+Clark,Amity City,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,69,0,5,64
+Clark,Arkadelphia Ward 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,82,52,1,29
+Clark,Arkadelphia Ward 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,302,196,10,96
+Clark,Arkadelphia Ward 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,119,66,4,49
+Clark,Arkadelphia Ward 4,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,155,81,9,65
+Clark,Central 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,123,80,4,39
+Clark,Curtis 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,72,40,0,32
+Clark,Caddo Valley Ward 1.2.3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,70,20,4,46
+Clark,East County 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,134,57,6,71
+Clark,Gurdon General 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,71,15,2,54
+Clark,Gum Springs 1.,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,88,50,1,37
+Clark,Gurdon Wards 1.2.3.4,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,134,37,4,93
+Clark,Gurdon Ward 5,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,30,6,0,24
+Clark,Hollywood 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,38,26,0,12
+Clark,North County,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,130,40,1,89
+Clark,North East County,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,184,120,5,59
+Clark,Okolona City 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,14,3,0,11
+Clark,South County 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,75,23,1,51
+Clark,West County 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,88,45,0,43
+Clark,Whelen Springs 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,8,2,0,6
+Clark,Arkadelphia Ward 5,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,244,151,4,89
+Clark,Amity City,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,85,10,1,74
+Clark,Arkadelphia Ward 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,118,74,4,40
+Clark,Arkadelphia Ward 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,428,303,9,116
+Clark,Arkadelphia Ward 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,156,94,7,55
+Clark,Arkadelphia Ward 4,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,228,155,7,66
+Clark,Central 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,253,185,9,59
+Clark,Curtis 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,128,78,1,49
+Clark,Caddo Valley Ward 1.2.3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,95,40,2,53
+Clark,East County 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,241,119,1,121
+Clark,Gurdon General 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,133,58,1,74
+Clark,Gum Springs 1.,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,133,73,1,59
+Clark,Gurdon Wards 1.2.3.4,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,201,66,5,130
+Clark,Gurdon Ward 5,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,30,7,4,19
+Clark,Hollywood 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,69,45,1,23
+Clark,North County,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,254,86,1,167
+Clark,North East County,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,358,229,10,119
+Clark,Okolona City 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,25,4,0,21
+Clark,South County 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,96,29,0,67
+Clark,West County 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,165,89,9,67
+Clark,Whelen Springs 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,9,1,0,8
+Clark,Arkadelphia Ward 5,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,452,324,13,115
+Clark,Amity City,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,68,3,4,61
+Clark,Arkadelphia Ward 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,75,45,2,28
+Clark,Arkadelphia Ward 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,276,180,11,85
+Clark,Arkadelphia Ward 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,103,60,3,40
+Clark,Arkadelphia Ward 4,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,136,77,5,54
+Clark,Central 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,158,104,6,48
+Clark,Curtis 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,73,40,0,33
+Clark,Caddo Valley Ward 1.2.3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,52,14,1,37
+Clark,East County 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,123,55,3,65
+Clark,Gurdon General 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,96,27,3,66
+Clark,Gum Springs 1.,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,94,57,1,36
+Clark,Gurdon Wards 1.2.3.4,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,131,40,4,87
+Clark,Gurdon Ward 5,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,31,6,2,23
+Clark,Hollywood 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,41,26,1,14
+Clark,North County,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,177,58,1,118
+Clark,North East County,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,233,145,7,81
+Clark,Okolona City 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,16,3,0,13
+Clark,South County 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,87,29,1,57
+Clark,West County 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,104,48,2,54
+Clark,Whelen Springs 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,4,0,0,4
+Clark,Arkadelphia Ward 5,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,273,168,8,97
+Clark,Amity City,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,89,8,2,79
+Clark,Arkadelphia Ward 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,125,82,3,40
+Clark,Arkadelphia Ward 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,463,327,8,128
+Clark,Arkadelphia Ward 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,177,103,8,66
+Clark,Arkadelphia Ward 4,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,252,166,11,75
+Clark,Central 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,221,162,7,52
+Clark,Curtis 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,130,81,1,48
+Clark,Caddo Valley Ward 1.2.3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,115,47,6,62
+Clark,East County 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,267,131,4,132
+Clark,Gurdon General 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,111,47,0,64
+Clark,Gum Springs 1.,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,130,68,1,61
+Clark,Gurdon Wards 1.2.3.4,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,208,64,5,139
+Clark,Gurdon Ward 5,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,30,6,2,22
+Clark,Hollywood 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,67,45,0,22
+Clark,North County,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,212,67,1,144
+Clark,North East County,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,318,211,8,99
+Clark,Okolona City 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,25,4,0,21
+Clark,South County 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,87,27,0,60
+Clark,West County 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,153,87,7,59
+Clark,Whelen Springs 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,14,3,0,11
+Clark,Arkadelphia Ward 5,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,430,311,9,110
+Clark,Amity City,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,76,2,5,69
+Clark,Arkadelphia Ward 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,84,51,2,31
+Clark,Arkadelphia Ward 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,357,234,11,112
+Clark,Arkadelphia Ward 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,125,70,3,52
+Clark,Arkadelphia Ward 4,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,193,117,11,65
+Clark,Central 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,190,129,7,54
+Clark,Curtis 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,106,59,0,47
+Clark,Caddo Valley Ward 1.2.3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,83,27,3,53
+Clark,East County 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,184,90,3,91
+Clark,Gurdon General 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,102,29,2,71
+Clark,Gum Springs 1.,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,108,69,2,37
+Clark,Gurdon Wards 1.2.3.4,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,169,48,4,117
+Clark,Gurdon Ward 5,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,37,8,0,29
+Clark,Hollywood 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,43,30,1,12
+Clark,North County,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,174,57,1,116
+Clark,North East County,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,266,170,7,89
+Clark,Okolona City 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,24,4,0,20
+Clark,South County 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,105,33,1,71
+Clark,West County 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,125,66,3,56
+Clark,Whelen Springs 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,8,1,0,7
+Clark,Arkadelphia Ward 5,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,314,202,10,102
+Clark,Amity City,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,81,9,1,71
+Clark,Arkadelphia Ward 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,123,79,5,39
+Clark,Arkadelphia Ward 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,378,267,8,103
+Clark,Arkadelphia Ward 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,154,92,8,54
+Clark,Arkadelphia Ward 4,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,195,125,5,65
+Clark,Central 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,192,138,6,48
+Clark,Curtis 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,101,64,1,36
+Clark,Caddo Valley Ward 1.2.3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,86,36,4,46
+Clark,East County 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,208,94,4,110
+Clark,Gurdon General 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,104,47,0,57
+Clark,Gum Springs 1.,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,116,55,1,60
+Clark,Gurdon Wards 1.2.3.4,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,167,56,4,107
+Clark,Gurdon Ward 5,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,23,4,4,15
+Clark,Hollywood 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,66,41,0,25
+Clark,North County,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,216,70,1,145
+Clark,North East County,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,283,186,8,89
+Clark,Okolona City 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,17,3,0,14
+Clark,South County 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,70,23,0,47
+Clark,West County 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,133,68,6,59
+Clark,Whelen Springs 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,10,2,0,8
+Clark,Arkadelphia Ward 5,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,385,275,7,103
+Clark,Amity City,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,69,3,3,63
+Clark,Arkadelphia Ward 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,84,54,2,28
+Clark,Arkadelphia Ward 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,356,242,5,109
+Clark,Arkadelphia Ward 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,165,93,6,66
+Clark,Arkadelphia Ward 4,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,237,154,9,74
+Clark,Central 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,120,73,9,38
+Clark,Curtis 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,78,38,1,39
+Clark,Caddo Valley Ward 1.2.3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,95,45,2,48
+Clark,East County 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,198,94,1,103
+Clark,Gurdon General 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,79,27,3,49
+Clark,Gum Springs 1.,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,105,56,2,47
+Clark,Gurdon Wards 1.2.3.4,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,175,43,6,126
+Clark,Gurdon Ward 5,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,40,5,2,33
+Clark,Hollywood 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,37,22,1,14
+Clark,North County,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,152,42,2,108
+Clark,North East County,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,183,118,8,57
+Clark,Okolona City 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,16,4,0,12
+Clark,South County 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,56,23,0,33
+Clark,West County 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,105,51,3,51
+Clark,Whelen Springs 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,4,0,0,4
+Clark,Arkadelphia Ward 5,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,284,191,7,86
+Clark,Amity City,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,92,8,3,81
+Clark,Arkadelphia Ward 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,126,79,5,42
+Clark,Arkadelphia Ward 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,400,273,14,113
+Clark,Arkadelphia Ward 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,121,73,6,42
+Clark,Arkadelphia Ward 4,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,158,92,7,59
+Clark,Central 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,269,197,5,67
+Clark,Curtis 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,134,86,0,48
+Clark,Caddo Valley Ward 1.2.3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,81,20,5,56
+Clark,East County 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,205,98,6,101
+Clark,Gurdon General 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,134,52,0,82
+Clark,Gum Springs 1.,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,122,70,1,51
+Clark,Gurdon Wards 1.2.3.4,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,169,64,2,103
+Clark,Gurdon Ward 5,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,19,6,2,11
+Clark,Hollywood 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,76,52,0,24
+Clark,North County,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,247,87,0,160
+Clark,North East County,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,380,244,10,126
+Clark,Okolona City 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,25,3,0,22
+Clark,South County 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,121,33,1,87
+Clark,West County 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,158,83,6,69
+Clark,Whelen Springs 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,15,3,0,12
+Clark,Arkadelphia Ward 5,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,437,299,12,126

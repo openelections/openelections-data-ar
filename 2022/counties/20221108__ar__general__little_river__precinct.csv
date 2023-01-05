@@ -1,0 +1,870 @@
+county,precinct,office,district,party,candidate,votes,early_vote,absentee,election_day
+Little River,Arden,U.S. Senate,,DEM,Natalie James,22,11,1,10
+Little River,Arkinda,U.S. Senate,,DEM,Natalie James,11,4,0,7
+Little River,Ashdown Ward 1,U.S. Senate,,DEM,Natalie James,128,73,8,47
+Little River,Ashdown Ward 2,U.S. Senate,,DEM,Natalie James,144,89,6,49
+Little River,Ashdown Ward 3,U.S. Senate,,DEM,Natalie James,104,64,1,39
+Little River,Burke,U.S. Senate,,DEM,Natalie James,13,7,0,6
+Little River,Cleveland,U.S. Senate,,DEM,Natalie James,60,30,0,30
+Little River,Caney,U.S. Senate,,DEM,Natalie James,11,2,0,9
+Little River,Franklin,U.S. Senate,,DEM,Natalie James,32,26,1,5
+Little River,Foreman Ward 1,U.S. Senate,,DEM,Natalie James,18,4,0,14
+Little River,Foreman Ward 2,U.S. Senate,,DEM,Natalie James,21,3,0,18
+Little River,Foreman Ward 3,U.S. Senate,,DEM,Natalie James,30,11,0,19
+Little River,Jefferson,U.S. Senate,,DEM,Natalie James,35,24,0,11
+Little River,Jewell,U.S. Senate,,DEM,Natalie James,4,0,0,4
+Little River,Johnson,U.S. Senate,,DEM,Natalie James,58,12,2,44
+Little River,Jackson,U.S. Senate,,DEM,Natalie James,20,7,1,12
+Little River,Lick Creek,U.S. Senate,,DEM,Natalie James,13,6,0,7
+Little River,Little River,U.S. Senate,,DEM,Natalie James,10,4,1,5
+Little River,Red River,U.S. Senate,,DEM,Natalie James,22,14,2,6
+Little River,Wallace and Richland,U.S. Senate,,DEM,Natalie James,42,16,3,23
+Little River,Arden,U.S. Senate,,REP,Senator John Boozman,119,84,1,34
+Little River,Arkinda,U.S. Senate,,REP,Senator John Boozman,9,2,0,7
+Little River,Ashdown Ward 1,U.S. Senate,,REP,Senator John Boozman,444,293,13,138
+Little River,Ashdown Ward 2,U.S. Senate,,REP,Senator John Boozman,146,91,2,53
+Little River,Ashdown Ward 3,U.S. Senate,,REP,Senator John Boozman,159,103,1,55
+Little River,Burke,U.S. Senate,,REP,Senator John Boozman,75,33,3,39
+Little River,Cleveland,U.S. Senate,,REP,Senator John Boozman,200,107,2,91
+Little River,Caney,U.S. Senate,,REP,Senator John Boozman,80,19,2,59
+Little River,Franklin,U.S. Senate,,REP,Senator John Boozman,284,224,3,57
+Little River,Foreman Ward 1,U.S. Senate,,REP,Senator John Boozman,24,4,0,20
+Little River,Foreman Ward 2,U.S. Senate,,REP,Senator John Boozman,93,16,1,76
+Little River,Foreman Ward 3,U.S. Senate,,REP,Senator John Boozman,85,21,1,63
+Little River,Jefferson,U.S. Senate,,REP,Senator John Boozman,190,134,1,55
+Little River,Jewell,U.S. Senate,,REP,Senator John Boozman,53,4,0,49
+Little River,Johnson,U.S. Senate,,REP,Senator John Boozman,103,20,1,82
+Little River,Jackson,U.S. Senate,,REP,Senator John Boozman,227,66,0,161
+Little River,Lick Creek,U.S. Senate,,REP,Senator John Boozman,132,74,1,57
+Little River,Little River,U.S. Senate,,REP,Senator John Boozman,161,32,2,127
+Little River,Red River,U.S. Senate,,REP,Senator John Boozman,188,116,0,72
+Little River,Wallace and Richland,U.S. Senate,,REP,Senator John Boozman,107,33,0,74
+Little River,Arden,U.S. Senate,,LIB,Kenneth Cates,1,1,0,0
+Little River,Arkinda,U.S. Senate,,LIB,Kenneth Cates,2,0,0,2
+Little River,Ashdown Ward 1,U.S. Senate,,LIB,Kenneth Cates,10,4,0,6
+Little River,Ashdown Ward 2,U.S. Senate,,LIB,Kenneth Cates,12,6,0,6
+Little River,Ashdown Ward 3,U.S. Senate,,LIB,Kenneth Cates,9,8,0,1
+Little River,Burke,U.S. Senate,,LIB,Kenneth Cates,7,1,0,6
+Little River,Cleveland,U.S. Senate,,LIB,Kenneth Cates,6,1,0,5
+Little River,Caney,U.S. Senate,,LIB,Kenneth Cates,5,1,0,4
+Little River,Franklin,U.S. Senate,,LIB,Kenneth Cates,14,10,0,4
+Little River,Foreman Ward 1,U.S. Senate,,LIB,Kenneth Cates,2,0,0,2
+Little River,Foreman Ward 2,U.S. Senate,,LIB,Kenneth Cates,1,0,0,1
+Little River,Foreman Ward 3,U.S. Senate,,LIB,Kenneth Cates,5,0,0,5
+Little River,Jefferson,U.S. Senate,,LIB,Kenneth Cates,1,1,0,0
+Little River,Jewell,U.S. Senate,,LIB,Kenneth Cates,5,2,0,3
+Little River,Johnson,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0
+Little River,Jackson,U.S. Senate,,LIB,Kenneth Cates,7,1,0,6
+Little River,Lick Creek,U.S. Senate,,LIB,Kenneth Cates,6,1,0,5
+Little River,Little River,U.S. Senate,,LIB,Kenneth Cates,8,1,0,7
+Little River,Red River,U.S. Senate,,LIB,Kenneth Cates,8,6,0,2
+Little River,Wallace and Richland,U.S. Senate,,LIB,Kenneth Cates,3,0,0,3
+Little River,Arden,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,121,86,1,34
+Little River,Arkinda,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,12,4,0,8
+Little River,Ashdown Ward 1,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,448,291,13,144
+Little River,Ashdown Ward 2,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,145,94,2,49
+Little River,Ashdown Ward 3,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,163,106,1,56
+Little River,Burke,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,76,33,3,40
+Little River,Cleveland,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,197,105,2,90
+Little River,Caney,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,80,19,2,59
+Little River,Franklin,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,284,224,3,57
+Little River,Foreman Ward 1,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,24,5,0,19
+Little River,Foreman Ward 2,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,89,16,1,72
+Little River,Foreman Ward 3,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,86,22,1,63
+Little River,Jefferson,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,192,137,1,54
+Little River,Jewell,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,56,4,0,52
+Little River,Johnson,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,100,20,1,79
+Little River,Jackson,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,224,66,0,158
+Little River,Lick Creek,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,133,75,1,57
+Little River,Little River,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,159,33,2,124
+Little River,Red River,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,191,118,0,73
+Little River,Wallace and Richland,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,106,34,0,72
+Little River,Arden,U.S. Congress District 04,,DEM,John White,20,9,1,10
+Little River,Arkinda,U.S. Congress District 04,,DEM,John White,7,2,0,5
+Little River,Ashdown Ward 1,U.S. Congress District 04,,DEM,John White,121,72,7,42
+Little River,Ashdown Ward 2,U.S. Congress District 04,,DEM,John White,139,85,5,49
+Little River,Ashdown Ward 3,U.S. Congress District 04,,DEM,John White,101,63,1,37
+Little River,Burke,U.S. Congress District 04,,DEM,John White,12,7,0,5
+Little River,Cleveland,U.S. Congress District 04,,DEM,John White,58,27,0,31
+Little River,Caney,U.S. Congress District 04,,DEM,John White,11,2,0,9
+Little River,Franklin,U.S. Congress District 04,,DEM,John White,32,26,1,5
+Little River,Foreman Ward 1,U.S. Congress District 04,,DEM,John White,16,3,0,13
+Little River,Foreman Ward 2,U.S. Congress District 04,,DEM,John White,23,3,0,20
+Little River,Foreman Ward 3,U.S. Congress District 04,,DEM,John White,31,10,0,21
+Little River,Jefferson,U.S. Congress District 04,,DEM,John White,34,22,0,12
+Little River,Jewell,U.S. Congress District 04,,DEM,John White,4,0,0,4
+Little River,Johnson,U.S. Congress District 04,,DEM,John White,57,12,2,43
+Little River,Jackson,U.S. Congress District 04,,DEM,John White,21,6,1,14
+Little River,Lick Creek,U.S. Congress District 04,,DEM,John White,14,6,0,8
+Little River,Little River,U.S. Congress District 04,,DEM,John White,10,3,1,6
+Little River,Red River,U.S. Congress District 04,,DEM,John White,24,15,2,7
+Little River,Wallace and Richland,U.S. Congress District 04,,DEM,John White,42,15,3,24
+Little River,Arden,U.S. Congress District 04,,LIB,Gregory Maxwell,0,0,0,0
+Little River,Arkinda,U.S. Congress District 04,,LIB,Gregory Maxwell,2,0,0,2
+Little River,Ashdown Ward 1,U.S. Congress District 04,,LIB,Gregory Maxwell,10,5,0,5
+Little River,Ashdown Ward 2,U.S. Congress District 04,,LIB,Gregory Maxwell,15,8,0,7
+Little River,Ashdown Ward 3,U.S. Congress District 04,,LIB,Gregory Maxwell,6,5,0,1
+Little River,Burke,U.S. Congress District 04,,LIB,Gregory Maxwell,5,0,0,5
+Little River,Cleveland,U.S. Congress District 04,,LIB,Gregory Maxwell,8,4,0,4
+Little River,Caney,U.S. Congress District 04,,LIB,Gregory Maxwell,5,1,0,4
+Little River,Franklin,U.S. Congress District 04,,LIB,Gregory Maxwell,14,10,0,4
+Little River,Foreman Ward 1,U.S. Congress District 04,,LIB,Gregory Maxwell,3,0,0,3
+Little River,Foreman Ward 2,U.S. Congress District 04,,LIB,Gregory Maxwell,2,0,0,2
+Little River,Foreman Ward 3,U.S. Congress District 04,,LIB,Gregory Maxwell,3,0,0,3
+Little River,Jefferson,U.S. Congress District 04,,LIB,Gregory Maxwell,1,1,0,0
+Little River,Jewell,U.S. Congress District 04,,LIB,Gregory Maxwell,4,2,0,2
+Little River,Johnson,U.S. Congress District 04,,LIB,Gregory Maxwell,2,0,0,2
+Little River,Jackson,U.S. Congress District 04,,LIB,Gregory Maxwell,6,1,0,5
+Little River,Lick Creek,U.S. Congress District 04,,LIB,Gregory Maxwell,3,0,0,3
+Little River,Little River,U.S. Congress District 04,,LIB,Gregory Maxwell,6,1,0,5
+Little River,Red River,U.S. Congress District 04,,LIB,Gregory Maxwell,6,6,0,0
+Little River,Wallace and Richland,U.S. Congress District 04,,LIB,Gregory Maxwell,4,0,0,4
+Little River,Arden,Attorney General,,REP,Lieutenant Governor Tim Griffin,121,85,1,35
+Little River,Arkinda,Attorney General,,REP,Lieutenant Governor Tim Griffin,10,2,0,8
+Little River,Ashdown Ward 1,Attorney General,,REP,Lieutenant Governor Tim Griffin,460,298,14,148
+Little River,Ashdown Ward 2,Attorney General,,REP,Lieutenant Governor Tim Griffin,149,92,2,55
+Little River,Ashdown Ward 3,Attorney General,,REP,Lieutenant Governor Tim Griffin,165,107,1,57
+Little River,Burke,Attorney General,,REP,Lieutenant Governor Tim Griffin,80,32,3,45
+Little River,Cleveland,Attorney General,,REP,Lieutenant Governor Tim Griffin,200,107,2,91
+Little River,Caney,Attorney General,,REP,Lieutenant Governor Tim Griffin,86,21,2,63
+Little River,Franklin,Attorney General,,REP,Lieutenant Governor Tim Griffin,295,230,4,61
+Little River,Foreman Ward 1,Attorney General,,REP,Lieutenant Governor Tim Griffin,23,4,0,19
+Little River,Foreman Ward 2,Attorney General,,REP,Lieutenant Governor Tim Griffin,92,15,1,76
+Little River,Foreman Ward 3,Attorney General,,REP,Lieutenant Governor Tim Griffin,84,21,1,62
+Little River,Jefferson,Attorney General,,REP,Lieutenant Governor Tim Griffin,193,138,1,54
+Little River,Jewell,Attorney General,,REP,Lieutenant Governor Tim Griffin,59,6,0,53
+Little River,Johnson,Attorney General,,REP,Lieutenant Governor Tim Griffin,103,21,1,81
+Little River,Jackson,Attorney General,,REP,Lieutenant Governor Tim Griffin,225,63,0,162
+Little River,Lick Creek,Attorney General,,REP,Lieutenant Governor Tim Griffin,137,75,1,61
+Little River,Little River,Attorney General,,REP,Lieutenant Governor Tim Griffin,168,34,2,132
+Little River,Red River,Attorney General,,REP,Lieutenant Governor Tim Griffin,193,123,0,70
+Little River,Wallace and Richland,Attorney General,,REP,Lieutenant Governor Tim Griffin,110,34,0,76
+Little River,Arden,Attorney General,,DEM,Jesse Gibson,19,9,1,9
+Little River,Arkinda,Attorney General,,DEM,Jesse Gibson,12,4,0,8
+Little River,Ashdown Ward 1,Attorney General,,DEM,Jesse Gibson,123,74,7,42
+Little River,Ashdown Ward 2,Attorney General,,DEM,Jesse Gibson,154,95,6,53
+Little River,Ashdown Ward 3,Attorney General,,DEM,Jesse Gibson,106,67,1,38
+Little River,Burke,Attorney General,,DEM,Jesse Gibson,14,8,0,6
+Little River,Cleveland,Attorney General,,DEM,Jesse Gibson,61,27,0,34
+Little River,Caney,Attorney General,,DEM,Jesse Gibson,12,1,0,11
+Little River,Franklin,Attorney General,,DEM,Jesse Gibson,33,28,0,5
+Little River,Foreman Ward 1,Attorney General,,DEM,Jesse Gibson,21,4,0,17
+Little River,Foreman Ward 2,Attorney General,,DEM,Jesse Gibson,22,3,0,19
+Little River,Foreman Ward 3,Attorney General,,DEM,Jesse Gibson,35,10,0,25
+Little River,Jefferson,Attorney General,,DEM,Jesse Gibson,33,22,0,11
+Little River,Jewell,Attorney General,,DEM,Jesse Gibson,4,0,0,4
+Little River,Johnson,Attorney General,,DEM,Jesse Gibson,59,12,2,45
+Little River,Jackson,Attorney General,,DEM,Jesse Gibson,23,9,1,13
+Little River,Lick Creek,Attorney General,,DEM,Jesse Gibson,13,6,0,7
+Little River,Little River,Attorney General,,DEM,Jesse Gibson,9,3,1,5
+Little River,Red River,Attorney General,,DEM,Jesse Gibson,27,15,2,10
+Little River,Wallace and Richland,Attorney General,,DEM,Jesse Gibson,43,14,3,26
+Little River,Arden,Auditor of State,,LIB,Simeon Snow,2,1,0,1
+Little River,Arkinda,Auditor of State,,LIB,Simeon Snow,4,1,0,3
+Little River,Ashdown Ward 1,Auditor of State,,LIB,Simeon Snow,11,6,0,5
+Little River,Ashdown Ward 2,Auditor of State,,LIB,Simeon Snow,13,4,1,8
+Little River,Ashdown Ward 3,Auditor of State,,LIB,Simeon Snow,9,6,0,3
+Little River,Burke,Auditor of State,,LIB,Simeon Snow,5,1,0,4
+Little River,Cleveland,Auditor of State,,LIB,Simeon Snow,7,3,0,4
+Little River,Caney,Auditor of State,,LIB,Simeon Snow,5,1,0,4
+Little River,Franklin,Auditor of State,,LIB,Simeon Snow,13,10,0,3
+Little River,Foreman Ward 1,Auditor of State,,LIB,Simeon Snow,2,1,0,1
+Little River,Foreman Ward 2,Auditor of State,,LIB,Simeon Snow,5,1,0,4
+Little River,Foreman Ward 3,Auditor of State,,LIB,Simeon Snow,3,0,0,3
+Little River,Jefferson,Auditor of State,,LIB,Simeon Snow,4,3,0,1
+Little River,Jewell,Auditor of State,,LIB,Simeon Snow,1,0,0,1
+Little River,Johnson,Auditor of State,,LIB,Simeon Snow,3,0,0,3
+Little River,Jackson,Auditor of State,,LIB,Simeon Snow,7,0,0,7
+Little River,Lick Creek,Auditor of State,,LIB,Simeon Snow,7,3,0,4
+Little River,Little River,Auditor of State,,LIB,Simeon Snow,5,0,0,5
+Little River,Red River,Auditor of State,,LIB,Simeon Snow,10,9,0,1
+Little River,Wallace and Richland,Auditor of State,,LIB,Simeon Snow,3,0,0,3
+Little River,Arden,Auditor of State,,DEM,Diamond Arnold-Johnson,17,9,1,7
+Little River,Arkinda,Auditor of State,,DEM,Diamond Arnold-Johnson,7,2,0,5
+Little River,Ashdown Ward 1,Auditor of State,,DEM,Diamond Arnold-Johnson,127,76,7,44
+Little River,Ashdown Ward 2,Auditor of State,,DEM,Diamond Arnold-Johnson,145,92,5,48
+Little River,Ashdown Ward 3,Auditor of State,,DEM,Diamond Arnold-Johnson,105,67,1,37
+Little River,Burke,Auditor of State,,DEM,Diamond Arnold-Johnson,15,7,0,8
+Little River,Cleveland,Auditor of State,,DEM,Diamond Arnold-Johnson,61,28,0,33
+Little River,Caney,Auditor of State,,DEM,Diamond Arnold-Johnson,11,2,0,9
+Little River,Franklin,Auditor of State,,DEM,Diamond Arnold-Johnson,28,24,0,4
+Little River,Foreman Ward 1,Auditor of State,,DEM,Diamond Arnold-Johnson,15,3,0,12
+Little River,Foreman Ward 2,Auditor of State,,DEM,Diamond Arnold-Johnson,23,3,0,20
+Little River,Foreman Ward 3,Auditor of State,,DEM,Diamond Arnold-Johnson,33,11,0,22
+Little River,Jefferson,Auditor of State,,DEM,Diamond Arnold-Johnson,32,20,0,12
+Little River,Jewell,Auditor of State,,DEM,Diamond Arnold-Johnson,2,0,0,2
+Little River,Johnson,Auditor of State,,DEM,Diamond Arnold-Johnson,60,13,2,45
+Little River,Jackson,Auditor of State,,DEM,Diamond Arnold-Johnson,19,6,1,12
+Little River,Lick Creek,Auditor of State,,DEM,Diamond Arnold-Johnson,14,7,0,7
+Little River,Little River,Auditor of State,,DEM,Diamond Arnold-Johnson,11,3,1,7
+Little River,Red River,Auditor of State,,DEM,Diamond Arnold-Johnson,24,12,2,10
+Little River,Wallace and Richland,Auditor of State,,DEM,Diamond Arnold-Johnson,38,15,2,21
+Little River,Arden,Auditor of State,,REP,Treasurer of State Dennis Milligan,121,84,1,36
+Little River,Arkinda,Auditor of State,,REP,Treasurer of State Dennis Milligan,10,3,0,7
+Little River,Ashdown Ward 1,Auditor of State,,REP,Treasurer of State Dennis Milligan,443,288,13,142
+Little River,Ashdown Ward 2,Auditor of State,,REP,Treasurer of State Dennis Milligan,143,89,2,52
+Little River,Ashdown Ward 3,Auditor of State,,REP,Treasurer of State Dennis Milligan,154,98,1,55
+Little River,Burke,Auditor of State,,REP,Treasurer of State Dennis Milligan,73,32,3,38
+Little River,Cleveland,Auditor of State,,REP,Treasurer of State Dennis Milligan,194,104,2,88
+Little River,Caney,Auditor of State,,REP,Treasurer of State Dennis Milligan,81,19,2,60
+Little River,Franklin,Auditor of State,,REP,Treasurer of State Dennis Milligan,288,226,4,58
+Little River,Foreman Ward 1,Auditor of State,,REP,Treasurer of State Dennis Milligan,27,4,0,23
+Little River,Foreman Ward 2,Auditor of State,,REP,Treasurer of State Dennis Milligan,87,15,1,71
+Little River,Foreman Ward 3,Auditor of State,,REP,Treasurer of State Dennis Milligan,84,21,1,62
+Little River,Jefferson,Auditor of State,,REP,Treasurer of State Dennis Milligan,189,135,1,53
+Little River,Jewell,Auditor of State,,REP,Treasurer of State Dennis Milligan,59,6,0,53
+Little River,Johnson,Auditor of State,,REP,Treasurer of State Dennis Milligan,100,20,1,79
+Little River,Jackson,Auditor of State,,REP,Treasurer of State Dennis Milligan,224,68,0,156
+Little River,Lick Creek,Auditor of State,,REP,Treasurer of State Dennis Milligan,125,69,1,55
+Little River,Little River,Auditor of State,,REP,Treasurer of State Dennis Milligan,159,34,1,124
+Little River,Red River,Auditor of State,,REP,Treasurer of State Dennis Milligan,186,117,0,69
+Little River,Wallace and Richland,Auditor of State,,REP,Treasurer of State Dennis Milligan,111,33,1,77
+Little River,Arden,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,19,10,1,8
+Little River,Arkinda,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,10,4,0,6
+Little River,Ashdown Ward 1,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,128,74,8,46
+Little River,Ashdown Ward 2,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,149,93,6,50
+Little River,Ashdown Ward 3,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,107,68,1,38
+Little River,Burke,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,17,8,0,9
+Little River,Cleveland,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,64,28,0,36
+Little River,Caney,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,12,2,0,10
+Little River,Franklin,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,35,28,1,6
+Little River,Foreman Ward 1,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,19,4,0,15
+Little River,Foreman Ward 2,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,24,4,0,20
+Little River,Foreman Ward 3,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,34,11,0,23
+Little River,Jefferson,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,35,23,0,12
+Little River,Jewell,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,3,0,0,3
+Little River,Johnson,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,64,13,2,49
+Little River,Jackson,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,23,7,1,15
+Little River,Lick Creek,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,14,5,0,9
+Little River,Little River,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,9,3,1,5
+Little River,Red River,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,23,13,2,8
+Little River,Wallace and Richland,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,39,14,3,22
+Little River,Arden,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,119,83,1,35
+Little River,Arkinda,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,12,2,0,10
+Little River,Ashdown Ward 1,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,451,295,13,143
+Little River,Ashdown Ward 2,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,151,93,2,56
+Little River,Ashdown Ward 3,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,161,104,1,56
+Little River,Burke,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,74,31,3,40
+Little River,Cleveland,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,200,109,2,89
+Little River,Caney,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,85,20,2,63
+Little River,Franklin,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,290,229,3,58
+Little River,Foreman Ward 1,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,25,4,0,21
+Little River,Foreman Ward 2,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,88,13,1,74
+Little River,Foreman Ward 3,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,85,21,1,63
+Little River,Jefferson,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,190,135,1,54
+Little River,Jewell,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,58,6,0,52
+Little River,Johnson,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,97,19,1,77
+Little River,Jackson,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,224,65,0,159
+Little River,Lick Creek,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,129,72,1,56
+Little River,Little River,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,166,34,2,130
+Little River,Red River,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,196,124,0,72
+Little River,Wallace and Richland,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,112,35,0,77
+Little River,Arden,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Little River,Arkinda,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Little River,Ashdown Ward 1,Governor,,LIB,"Ricky Dale Harrington, Jr.",9,3,1,5
+Little River,Ashdown Ward 2,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,3,0,2
+Little River,Ashdown Ward 3,Governor,,LIB,"Ricky Dale Harrington, Jr.",7,3,0,4
+Little River,Burke,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,0,0,3
+Little River,Cleveland,Governor,,LIB,"Ricky Dale Harrington, Jr.",4,2,0,2
+Little River,Caney,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,2,0,1
+Little River,Franklin,Governor,,LIB,"Ricky Dale Harrington, Jr.",11,8,1,2
+Little River,Foreman Ward 1,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,0,0,3
+Little River,Foreman Ward 2,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,0,0,2
+Little River,Foreman Ward 3,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Little River,Jefferson,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,2,0,0
+Little River,Jewell,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Little River,Johnson,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Little River,Jackson,Governor,,LIB,"Ricky Dale Harrington, Jr.",6,1,0,5
+Little River,Lick Creek,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,0,0,2
+Little River,Little River,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,0,0,5
+Little River,Red River,Governor,,LIB,"Ricky Dale Harrington, Jr.",7,5,0,2
+Little River,Wallace and Richland,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,0,0,2
+Little River,Arden,Governor,,REP,Sarah Huckabee Sanders,119,82,1,36
+Little River,Arkinda,Governor,,REP,Sarah Huckabee Sanders,11,2,0,9
+Little River,Ashdown Ward 1,Governor,,REP,Sarah Huckabee Sanders,451,297,14,140
+Little River,Ashdown Ward 2,Governor,,REP,Sarah Huckabee Sanders,147,93,2,52
+Little River,Ashdown Ward 3,Governor,,REP,Sarah Huckabee Sanders,159,103,1,55
+Little River,Burke,Governor,,REP,Sarah Huckabee Sanders,82,35,3,44
+Little River,Cleveland,Governor,,REP,Sarah Huckabee Sanders,203,107,2,94
+Little River,Caney,Governor,,REP,Sarah Huckabee Sanders,80,16,2,62
+Little River,Franklin,Governor,,REP,Sarah Huckabee Sanders,294,230,3,61
+Little River,Foreman Ward 1,Governor,,REP,Sarah Huckabee Sanders,25,4,0,21
+Little River,Foreman Ward 2,Governor,,REP,Sarah Huckabee Sanders,90,15,1,74
+Little River,Foreman Ward 3,Governor,,REP,Sarah Huckabee Sanders,85,21,1,63
+Little River,Jefferson,Governor,,REP,Sarah Huckabee Sanders,189,135,1,53
+Little River,Jewell,Governor,,REP,Sarah Huckabee Sanders,60,6,0,54
+Little River,Johnson,Governor,,REP,Sarah Huckabee Sanders,99,20,1,78
+Little River,Jackson,Governor,,REP,Sarah Huckabee Sanders,214,60,0,154
+Little River,Lick Creek,Governor,,REP,Sarah Huckabee Sanders,134,73,1,60
+Little River,Little River,Governor,,REP,Sarah Huckabee Sanders,165,35,2,128
+Little River,Red River,Governor,,REP,Sarah Huckabee Sanders,188,120,0,68
+Little River,Wallace and Richland,Governor,,REP,Sarah Huckabee Sanders,111,34,0,77
+Little River,Arden,Governor,,DEM,Chris Jones,22,12,1,9
+Little River,Arkinda,Governor,,DEM,Chris Jones,10,4,0,6
+Little River,Ashdown Ward 1,Governor,,DEM,Chris Jones,127,74,6,47
+Little River,Ashdown Ward 2,Governor,,DEM,Chris Jones,154,93,6,55
+Little River,Ashdown Ward 3,Governor,,DEM,Chris Jones,107,70,1,36
+Little River,Burke,Governor,,DEM,Chris Jones,9,6,0,3
+Little River,Cleveland,Governor,,DEM,Chris Jones,60,29,0,31
+Little River,Caney,Governor,,DEM,Chris Jones,16,3,0,13
+Little River,Franklin,Governor,,DEM,Chris Jones,29,26,0,3
+Little River,Foreman Ward 1,Governor,,DEM,Chris Jones,16,4,0,12
+Little River,Foreman Ward 2,Governor,,DEM,Chris Jones,24,4,0,20
+Little River,Foreman Ward 3,Governor,,DEM,Chris Jones,35,11,0,24
+Little River,Jefferson,Governor,,DEM,Chris Jones,34,22,0,12
+Little River,Jewell,Governor,,DEM,Chris Jones,4,0,0,4
+Little River,Johnson,Governor,,DEM,Chris Jones,63,14,2,47
+Little River,Jackson,Governor,,DEM,Chris Jones,32,14,1,17
+Little River,Lick Creek,Governor,,DEM,Chris Jones,14,7,0,7
+Little River,Little River,Governor,,DEM,Chris Jones,11,3,1,7
+Little River,Red River,Governor,,DEM,Chris Jones,27,15,2,10
+Little River,Wallace and Richland,Governor,,DEM,Chris Jones,41,15,3,23
+Little River,Arden,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,117,83,1,33
+Little River,Arkinda,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,10,3,0,7
+Little River,Ashdown Ward 1,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,457,297,13,147
+Little River,Ashdown Ward 2,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,149,95,2,52
+Little River,Ashdown Ward 3,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,161,104,1,56
+Little River,Burke,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,78,35,3,40
+Little River,Cleveland,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,201,110,2,89
+Little River,Caney,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,81,19,2,60
+Little River,Franklin,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,292,230,2,60
+Little River,Foreman Ward 1,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,23,4,0,19
+Little River,Foreman Ward 2,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,89,16,1,72
+Little River,Foreman Ward 3,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,85,21,1,63
+Little River,Jefferson,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,188,134,1,53
+Little River,Jewell,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,52,5,0,47
+Little River,Johnson,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,103,20,1,82
+Little River,Jackson,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,217,60,0,157
+Little River,Lick Creek,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,130,72,1,57
+Little River,Little River,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,163,34,2,127
+Little River,Red River,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,188,118,0,70
+Little River,Wallace and Richland,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,111,34,0,77
+Little River,Arden,Lieutenant Governor,,DEM,Kelly Ross Krout,20,11,1,8
+Little River,Arkinda,Lieutenant Governor,,DEM,Kelly Ross Krout,10,3,0,7
+Little River,Ashdown Ward 1,Lieutenant Governor,,DEM,Kelly Ross Krout,123,74,7,42
+Little River,Ashdown Ward 2,Lieutenant Governor,,DEM,Kelly Ross Krout,146,88,6,52
+Little River,Ashdown Ward 3,Lieutenant Governor,,DEM,Kelly Ross Krout,103,67,1,35
+Little River,Burke,Lieutenant Governor,,DEM,Kelly Ross Krout,10,5,0,5
+Little River,Cleveland,Lieutenant Governor,,DEM,Kelly Ross Krout,60,28,0,32
+Little River,Caney,Lieutenant Governor,,DEM,Kelly Ross Krout,13,2,0,11
+Little River,Franklin,Lieutenant Governor,,DEM,Kelly Ross Krout,29,25,0,4
+Little River,Foreman Ward 1,Lieutenant Governor,,DEM,Kelly Ross Krout,19,4,0,15
+Little River,Foreman Ward 2,Lieutenant Governor,,DEM,Kelly Ross Krout,24,3,0,21
+Little River,Foreman Ward 3,Lieutenant Governor,,DEM,Kelly Ross Krout,29,11,0,18
+Little River,Jefferson,Lieutenant Governor,,DEM,Kelly Ross Krout,36,24,0,12
+Little River,Jewell,Lieutenant Governor,,DEM,Kelly Ross Krout,5,0,0,5
+Little River,Johnson,Lieutenant Governor,,DEM,Kelly Ross Krout,57,13,2,42
+Little River,Jackson,Lieutenant Governor,,DEM,Kelly Ross Krout,26,12,1,13
+Little River,Lick Creek,Lieutenant Governor,,DEM,Kelly Ross Krout,16,8,0,8
+Little River,Little River,Lieutenant Governor,,DEM,Kelly Ross Krout,10,3,1,6
+Little River,Red River,Lieutenant Governor,,DEM,Kelly Ross Krout,25,14,2,9
+Little River,Wallace and Richland,Lieutenant Governor,,DEM,Kelly Ross Krout,43,15,3,25
+Little River,Arden,Lieutenant Governor,,LIB,Frank Gilbert,3,1,0,2
+Little River,Arkinda,Lieutenant Governor,,LIB,Frank Gilbert,2,0,0,2
+Little River,Ashdown Ward 1,Lieutenant Governor,,LIB,Frank Gilbert,5,3,0,2
+Little River,Ashdown Ward 2,Lieutenant Governor,,LIB,Frank Gilbert,8,4,0,4
+Little River,Ashdown Ward 3,Lieutenant Governor,,LIB,Frank Gilbert,6,4,0,2
+Little River,Burke,Lieutenant Governor,,LIB,Frank Gilbert,5,0,0,5
+Little River,Cleveland,Lieutenant Governor,,LIB,Frank Gilbert,5,1,0,4
+Little River,Caney,Lieutenant Governor,,LIB,Frank Gilbert,5,1,0,4
+Little River,Franklin,Lieutenant Governor,,LIB,Frank Gilbert,12,8,2,2
+Little River,Foreman Ward 1,Lieutenant Governor,,LIB,Frank Gilbert,2,0,0,2
+Little River,Foreman Ward 2,Lieutenant Governor,,LIB,Frank Gilbert,3,0,0,3
+Little River,Foreman Ward 3,Lieutenant Governor,,LIB,Frank Gilbert,4,0,0,4
+Little River,Jefferson,Lieutenant Governor,,LIB,Frank Gilbert,3,2,0,1
+Little River,Jewell,Lieutenant Governor,,LIB,Frank Gilbert,6,1,0,5
+Little River,Johnson,Lieutenant Governor,,LIB,Frank Gilbert,2,0,0,2
+Little River,Jackson,Lieutenant Governor,,LIB,Frank Gilbert,5,0,0,5
+Little River,Lick Creek,Lieutenant Governor,,LIB,Frank Gilbert,3,1,0,2
+Little River,Little River,Lieutenant Governor,,LIB,Frank Gilbert,5,0,0,5
+Little River,Red River,Lieutenant Governor,,LIB,Frank Gilbert,7,6,0,1
+Little River,Wallace and Richland,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0
+Little River,Arden,Secretary of State,,REP,Secretary of State John Thurston,119,85,1,33
+Little River,Arkinda,Secretary of State,,REP,Secretary of State John Thurston,9,2,0,7
+Little River,Ashdown Ward 1,Secretary of State,,REP,Secretary of State John Thurston,449,294,14,141
+Little River,Ashdown Ward 2,Secretary of State,,REP,Secretary of State John Thurston,149,94,2,53
+Little River,Ashdown Ward 3,Secretary of State,,REP,Secretary of State John Thurston,160,102,1,57
+Little River,Burke,Secretary of State,,REP,Secretary of State John Thurston,80,33,3,44
+Little River,Cleveland,Secretary of State,,REP,Secretary of State John Thurston,201,109,2,90
+Little River,Caney,Secretary of State,,REP,Secretary of State John Thurston,84,20,2,62
+Little River,Franklin,Secretary of State,,REP,Secretary of State John Thurston,297,232,3,62
+Little River,Foreman Ward 1,Secretary of State,,REP,Secretary of State John Thurston,23,4,0,19
+Little River,Foreman Ward 2,Secretary of State,,REP,Secretary of State John Thurston,89,15,1,73
+Little River,Foreman Ward 3,Secretary of State,,REP,Secretary of State John Thurston,84,21,1,62
+Little River,Jefferson,Secretary of State,,REP,Secretary of State John Thurston,191,136,1,54
+Little River,Jewell,Secretary of State,,REP,Secretary of State John Thurston,58,6,0,52
+Little River,Johnson,Secretary of State,,REP,Secretary of State John Thurston,103,21,1,81
+Little River,Jackson,Secretary of State,,REP,Secretary of State John Thurston,227,66,0,161
+Little River,Lick Creek,Secretary of State,,REP,Secretary of State John Thurston,134,72,1,61
+Little River,Little River,Secretary of State,,REP,Secretary of State John Thurston,165,33,2,130
+Little River,Red River,Secretary of State,,REP,Secretary of State John Thurston,197,124,0,73
+Little River,Wallace and Richland,Secretary of State,,REP,Secretary of State John Thurston,111,34,0,77
+Little River,Arden,Secretary of State,,DEM,Anna Beth Gorman,21,9,1,11
+Little River,Arkinda,Secretary of State,,DEM,Anna Beth Gorman,13,4,0,9
+Little River,Ashdown Ward 1,Secretary of State,,DEM,Anna Beth Gorman,136,79,7,50
+Little River,Ashdown Ward 2,Secretary of State,,DEM,Anna Beth Gorman,148,90,6,52
+Little River,Ashdown Ward 3,Secretary of State,,DEM,Anna Beth Gorman,112,73,1,38
+Little River,Burke,Secretary of State,,DEM,Anna Beth Gorman,14,7,0,7
+Little River,Cleveland,Secretary of State,,DEM,Anna Beth Gorman,64,30,0,34
+Little River,Caney,Secretary of State,,DEM,Anna Beth Gorman,13,2,0,11
+Little River,Franklin,Secretary of State,,DEM,Anna Beth Gorman,34,29,1,4
+Little River,Foreman Ward 1,Secretary of State,,DEM,Anna Beth Gorman,21,4,0,17
+Little River,Foreman Ward 2,Secretary of State,,DEM,Anna Beth Gorman,25,4,0,21
+Little River,Foreman Ward 3,Secretary of State,,DEM,Anna Beth Gorman,36,11,0,25
+Little River,Jefferson,Secretary of State,,DEM,Anna Beth Gorman,36,24,0,12
+Little River,Jewell,Secretary of State,,DEM,Anna Beth Gorman,5,0,0,5
+Little River,Johnson,Secretary of State,,DEM,Anna Beth Gorman,61,13,2,46
+Little River,Jackson,Secretary of State,,DEM,Anna Beth Gorman,24,9,1,14
+Little River,Lick Creek,Secretary of State,,DEM,Anna Beth Gorman,15,7,0,8
+Little River,Little River,Secretary of State,,DEM,Anna Beth Gorman,11,3,1,7
+Little River,Red River,Secretary of State,,DEM,Anna Beth Gorman,23,14,2,7
+Little River,Wallace and Richland,Secretary of State,,DEM,Anna Beth Gorman,43,15,3,25
+Little River,Arden,State Treasurer,,DEM,Pam Whitaker,20,11,1,8
+Little River,Arkinda,State Treasurer,,DEM,Pam Whitaker,10,4,0,6
+Little River,Ashdown Ward 1,State Treasurer,,DEM,Pam Whitaker,130,81,7,42
+Little River,Ashdown Ward 2,State Treasurer,,DEM,Pam Whitaker,151,95,5,51
+Little River,Ashdown Ward 3,State Treasurer,,DEM,Pam Whitaker,108,73,0,35
+Little River,Burke,State Treasurer,,DEM,Pam Whitaker,14,7,0,7
+Little River,Cleveland,State Treasurer,,DEM,Pam Whitaker,66,30,0,36
+Little River,Caney,State Treasurer,,DEM,Pam Whitaker,13,3,0,10
+Little River,Franklin,State Treasurer,,DEM,Pam Whitaker,38,33,0,5
+Little River,Foreman Ward 1,State Treasurer,,DEM,Pam Whitaker,20,4,0,16
+Little River,Foreman Ward 2,State Treasurer,,DEM,Pam Whitaker,26,4,0,22
+Little River,Foreman Ward 3,State Treasurer,,DEM,Pam Whitaker,35,11,0,24
+Little River,Jefferson,State Treasurer,,DEM,Pam Whitaker,39,27,0,12
+Little River,Jewell,State Treasurer,,DEM,Pam Whitaker,5,0,0,5
+Little River,Johnson,State Treasurer,,DEM,Pam Whitaker,62,13,2,47
+Little River,Jackson,State Treasurer,,DEM,Pam Whitaker,26,9,1,16
+Little River,Lick Creek,State Treasurer,,DEM,Pam Whitaker,16,6,0,10
+Little River,Little River,State Treasurer,,DEM,Pam Whitaker,11,3,1,7
+Little River,Red River,State Treasurer,,DEM,Pam Whitaker,25,15,2,8
+Little River,Wallace and Richland,State Treasurer,,DEM,Pam Whitaker,44,16,2,26
+Little River,Arden,State Treasurer,,REP,State Representative Mark Lowery,121,84,1,36
+Little River,Arkinda,State Treasurer,,REP,State Representative Mark Lowery,12,2,0,10
+Little River,Ashdown Ward 1,State Treasurer,,REP,State Representative Mark Lowery,449,290,13,146
+Little River,Ashdown Ward 2,State Treasurer,,REP,State Representative Mark Lowery,149,91,2,56
+Little River,Ashdown Ward 3,State Treasurer,,REP,State Representative Mark Lowery,160,100,1,59
+Little River,Burke,State Treasurer,,REP,State Representative Mark Lowery,78,32,3,43
+Little River,Cleveland,State Treasurer,,REP,State Representative Mark Lowery,197,106,2,89
+Little River,Caney,State Treasurer,,REP,State Representative Mark Lowery,84,19,2,63
+Little River,Franklin,State Treasurer,,REP,State Representative Mark Lowery,293,228,4,61
+Little River,Foreman Ward 1,State Treasurer,,REP,State Representative Mark Lowery,23,4,0,19
+Little River,Foreman Ward 2,State Treasurer,,REP,State Representative Mark Lowery,89,15,1,73
+Little River,Foreman Ward 3,State Treasurer,,REP,State Representative Mark Lowery,83,21,1,61
+Little River,Jefferson,State Treasurer,,REP,State Representative Mark Lowery,186,132,1,53
+Little River,Jewell,State Treasurer,,REP,State Representative Mark Lowery,58,6,0,52
+Little River,Johnson,State Treasurer,,REP,State Representative Mark Lowery,101,20,1,80
+Little River,Jackson,State Treasurer,,REP,State Representative Mark Lowery,225,66,0,159
+Little River,Lick Creek,State Treasurer,,REP,State Representative Mark Lowery,131,73,1,57
+Little River,Little River,State Treasurer,,REP,State Representative Mark Lowery,167,33,2,132
+Little River,Red River,State Treasurer,,REP,State Representative Mark Lowery,195,123,0,72
+Little River,Wallace and Richland,State Treasurer,,REP,State Representative Mark Lowery,107,33,1,73
+Little River,Arden,State Senate,04,REP,"Senator Jimmy Hickey, JR.",117,82,1,34
+Little River,Arkinda,State Senate,04,REP,"Senator Jimmy Hickey, JR.",15,5,0,10
+Little River,Ashdown Ward 1,State Senate,04,REP,"Senator Jimmy Hickey, JR.",462,299,16,147
+Little River,Ashdown Ward 2,State Senate,04,REP,"Senator Jimmy Hickey, JR.",160,106,2,52
+Little River,Ashdown Ward 3,State Senate,04,REP,"Senator Jimmy Hickey, JR.",174,115,1,58
+Little River,Burke,State Senate,04,REP,"Senator Jimmy Hickey, JR.",77,33,3,41
+Little River,Cleveland,State Senate,04,REP,"Senator Jimmy Hickey, JR.",202,108,2,92
+Little River,Caney,State Senate,04,REP,"Senator Jimmy Hickey, JR.",88,20,2,66
+Little River,Franklin,State Senate,04,REP,"Senator Jimmy Hickey, JR.",288,224,3,61
+Little River,Foreman Ward 1,State Senate,04,REP,"Senator Jimmy Hickey, JR.",30,5,0,25
+Little River,Foreman Ward 2,State Senate,04,REP,"Senator Jimmy Hickey, JR.",88,15,1,72
+Little River,Foreman Ward 3,State Senate,04,REP,"Senator Jimmy Hickey, JR.",92,26,1,65
+Little River,Jefferson,State Senate,04,REP,"Senator Jimmy Hickey, JR.",194,139,1,54
+Little River,Jewell,State Senate,04,REP,"Senator Jimmy Hickey, JR.",53,4,0,49
+Little River,Johnson,State Senate,04,REP,"Senator Jimmy Hickey, JR.",102,23,1,78
+Little River,Jackson,State Senate,04,REP,"Senator Jimmy Hickey, JR.",231,67,0,164
+Little River,Lick Creek,State Senate,04,REP,"Senator Jimmy Hickey, JR.",133,72,1,60
+Little River,Little River,State Senate,04,REP,"Senator Jimmy Hickey, JR.",155,36,1,118
+Little River,Red River,State Senate,04,REP,"Senator Jimmy Hickey, JR.",193,125,0,68
+Little River,Wallace and Richland,State Senate,04,REP,"Senator Jimmy Hickey, JR.",111,36,1,74
+Little River,Arden,State Senate,04,IND,Lonny M. Goodwin,23,13,1,9
+Little River,Arkinda,State Senate,04,IND,Lonny M. Goodwin,4,1,0,3
+Little River,Ashdown Ward 1,State Senate,04,IND,Lonny M. Goodwin,109,66,4,39
+Little River,Ashdown Ward 2,State Senate,04,IND,Lonny M. Goodwin,129,77,5,47
+Little River,Ashdown Ward 3,State Senate,04,IND,Lonny M. Goodwin,84,53,0,31
+Little River,Burke,State Senate,04,IND,Lonny M. Goodwin,18,7,0,11
+Little River,Cleveland,State Senate,04,IND,Lonny M. Goodwin,54,24,0,30
+Little River,Caney,State Senate,04,IND,Lonny M. Goodwin,9,2,0,7
+Little River,Franklin,State Senate,04,IND,Lonny M. Goodwin,42,36,1,5
+Little River,Foreman Ward 1,State Senate,04,IND,Lonny M. Goodwin,10,2,0,8
+Little River,Foreman Ward 2,State Senate,04,IND,Lonny M. Goodwin,23,4,0,19
+Little River,Foreman Ward 3,State Senate,04,IND,Lonny M. Goodwin,24,4,0,20
+Little River,Jefferson,State Senate,04,IND,Lonny M. Goodwin,28,18,0,10
+Little River,Jewell,State Senate,04,IND,Lonny M. Goodwin,9,2,0,7
+Little River,Johnson,State Senate,04,IND,Lonny M. Goodwin,51,7,2,42
+Little River,Jackson,State Senate,04,IND,Lonny M. Goodwin,19,8,1,10
+Little River,Lick Creek,State Senate,04,IND,Lonny M. Goodwin,17,9,0,8
+Little River,Little River,State Senate,04,IND,Lonny M. Goodwin,20,2,2,16
+Little River,Red River,State Senate,04,IND,Lonny M. Goodwin,26,13,2,11
+Little River,Wallace and Richland,State Senate,04,IND,Lonny M. Goodwin,36,11,2,23
+Little River,Arden,State House,87,LIB,Marc Rosson,3,2,0,1
+Little River,Arkinda,State House,87,LIB,Marc Rosson,3,0,0,3
+Little River,Ashdown Ward 1,State House,87,LIB,Marc Rosson,9,8,0,1
+Little River,Ashdown Ward 2,State House,87,LIB,Marc Rosson,13,7,0,6
+Little River,Ashdown Ward 3,State House,87,LIB,Marc Rosson,12,7,0,5
+Little River,Burke,State House,87,LIB,Marc Rosson,3,0,0,3
+Little River,Cleveland,State House,87,LIB,Marc Rosson,5,4,0,1
+Little River,Caney,State House,87,LIB,Marc Rosson,6,1,0,5
+Little River,Franklin,State House,87,LIB,Marc Rosson,11,8,0,3
+Little River,Foreman Ward 1,State House,87,LIB,Marc Rosson,1,0,0,1
+Little River,Foreman Ward 2,State House,87,LIB,Marc Rosson,5,1,0,4
+Little River,Foreman Ward 3,State House,87,LIB,Marc Rosson,6,0,0,6
+Little River,Jefferson,State House,87,LIB,Marc Rosson,11,7,0,4
+Little River,Jewell,State House,87,LIB,Marc Rosson,3,0,0,3
+Little River,Johnson,State House,87,LIB,Marc Rosson,2,0,0,2
+Little River,Jackson,State House,87,LIB,Marc Rosson,10,1,0,9
+Little River,Lick Creek,State House,87,LIB,Marc Rosson,6,4,0,2
+Little River,Little River,State House,87,LIB,Marc Rosson,8,0,1,7
+Little River,Red River,State House,87,LIB,Marc Rosson,4,2,0,2
+Little River,Wallace and Richland,State House,87,LIB,Marc Rosson,3,0,0,3
+Little River,Arden,State House,87,DEM,Chris Wolcott,17,11,1,5
+Little River,Arkinda,State House,87,DEM,Chris Wolcott,7,4,0,3
+Little River,Ashdown Ward 1,State House,87,DEM,Chris Wolcott,108,62,6,40
+Little River,Ashdown Ward 2,State House,87,DEM,Chris Wolcott,137,82,6,49
+Little River,Ashdown Ward 3,State House,87,DEM,Chris Wolcott,100,65,1,34
+Little River,Burke,State House,87,DEM,Chris Wolcott,8,4,0,4
+Little River,Cleveland,State House,87,DEM,Chris Wolcott,57,25,0,32
+Little River,Caney,State House,87,DEM,Chris Wolcott,10,2,0,8
+Little River,Franklin,State House,87,DEM,Chris Wolcott,28,24,0,4
+Little River,Foreman Ward 1,State House,87,DEM,Chris Wolcott,16,4,0,12
+Little River,Foreman Ward 2,State House,87,DEM,Chris Wolcott,21,2,0,19
+Little River,Foreman Ward 3,State House,87,DEM,Chris Wolcott,26,9,0,17
+Little River,Jefferson,State House,87,DEM,Chris Wolcott,29,20,0,9
+Little River,Jewell,State House,87,DEM,Chris Wolcott,3,1,0,2
+Little River,Johnson,State House,87,DEM,Chris Wolcott,57,12,2,43
+Little River,Jackson,State House,87,DEM,Chris Wolcott,19,7,1,11
+Little River,Lick Creek,State House,87,DEM,Chris Wolcott,13,7,0,6
+Little River,Little River,State House,87,DEM,Chris Wolcott,13,3,1,9
+Little River,Red River,State House,87,DEM,Chris Wolcott,20,13,1,6
+Little River,Wallace and Richland,State House,87,DEM,Chris Wolcott,37,14,3,20
+Little River,Arden,State House,87,REP,State Representative DeAnn Vaught,122,82,1,39
+Little River,Arkinda,State House,87,REP,State Representative DeAnn Vaught,11,2,0,9
+Little River,Ashdown Ward 1,State House,87,REP,State Representative DeAnn Vaught,467,302,15,150
+Little River,Ashdown Ward 2,State House,87,REP,State Representative DeAnn Vaught,153,100,2,51
+Little River,Ashdown Ward 3,State House,87,REP,State Representative DeAnn Vaught,159,103,1,55
+Little River,Burke,State House,87,REP,State Representative DeAnn Vaught,84,37,3,44
+Little River,Cleveland,State House,87,REP,State Representative DeAnn Vaught,203,108,2,93
+Little River,Caney,State House,87,REP,State Representative DeAnn Vaught,83,19,2,62
+Little River,Franklin,State House,87,REP,State Representative DeAnn Vaught,297,234,4,59
+Little River,Foreman Ward 1,State House,87,REP,State Representative DeAnn Vaught,27,4,0,23
+Little River,Foreman Ward 2,State House,87,REP,State Representative DeAnn Vaught,90,16,1,73
+Little River,Foreman Ward 3,State House,87,REP,State Representative DeAnn Vaught,86,22,1,63
+Little River,Jefferson,State House,87,REP,State Representative DeAnn Vaught,185,132,1,52
+Little River,Jewell,State House,87,REP,State Representative DeAnn Vaught,59,5,0,54
+Little River,Johnson,State House,87,REP,State Representative DeAnn Vaught,103,21,1,81
+Little River,Jackson,State House,87,REP,State Representative DeAnn Vaught,226,67,0,159
+Little River,Lick Creek,State House,87,REP,State Representative DeAnn Vaught,134,71,1,62
+Little River,Little River,State House,87,REP,State Representative DeAnn Vaught,161,35,1,125
+Little River,Red River,State House,87,REP,State Representative DeAnn Vaught,196,123,1,72
+Little River,Wallace and Richland,State House,87,REP,State Representative DeAnn Vaught,114,35,0,79
+Little River,Arden,State Supreme Court Associate Justice Position 2,,IND,Supreme Court Associate Justice Robin Wynne,90,62,1,27
+Little River,Arkinda,State Supreme Court Associate Justice Position 2,,IND,Supreme Court Associate Justice Robin Wynne,13,5,0,8
+Little River,Ashdown Ward 1,State Supreme Court Associate Justice Position 2,,IND,Supreme Court Associate Justice Robin Wynne,366,230,15,121
+Little River,Ashdown Ward 2,State Supreme Court Associate Justice Position 2,,IND,Supreme Court Associate Justice Robin Wynne,151,97,7,47
+Little River,Ashdown Ward 3,State Supreme Court Associate Justice Position 2,,IND,Supreme Court Associate Justice Robin Wynne,157,100,0,57
+Little River,Burke,State Supreme Court Associate Justice Position 2,,IND,Supreme Court Associate Justice Robin Wynne,60,29,1,30
+Little River,Cleveland,State Supreme Court Associate Justice Position 2,,IND,Supreme Court Associate Justice Robin Wynne,155,79,2,74
+Little River,Caney,State Supreme Court Associate Justice Position 2,,IND,Supreme Court Associate Justice Robin Wynne,68,13,2,53
+Little River,Franklin,State Supreme Court Associate Justice Position 2,,IND,Supreme Court Associate Justice Robin Wynne,209,166,3,40
+Little River,Foreman Ward 1,State Supreme Court Associate Justice Position 2,,IND,Supreme Court Associate Justice Robin Wynne,21,4,0,17
+Little River,Foreman Ward 2,State Supreme Court Associate Justice Position 2,,IND,Supreme Court Associate Justice Robin Wynne,64,13,1,50
+Little River,Foreman Ward 3,State Supreme Court Associate Justice Position 2,,IND,Supreme Court Associate Justice Robin Wynne,62,18,1,43
+Little River,Jefferson,State Supreme Court Associate Justice Position 2,,IND,Supreme Court Associate Justice Robin Wynne,133,94,1,38
+Little River,Jewell,State Supreme Court Associate Justice Position 2,,IND,Supreme Court Associate Justice Robin Wynne,33,4,0,29
+Little River,Johnson,State Supreme Court Associate Justice Position 2,,IND,Supreme Court Associate Justice Robin Wynne,81,17,1,63
+Little River,Jackson,State Supreme Court Associate Justice Position 2,,IND,Supreme Court Associate Justice Robin Wynne,161,49,1,111
+Little River,Lick Creek,State Supreme Court Associate Justice Position 2,,IND,Supreme Court Associate Justice Robin Wynne,93,59,1,33
+Little River,Little River,State Supreme Court Associate Justice Position 2,,IND,Supreme Court Associate Justice Robin Wynne,110,26,2,82
+Little River,Red River,State Supreme Court Associate Justice Position 2,,IND,Supreme Court Associate Justice Robin Wynne,130,80,0,50
+Little River,Wallace and Richland,State Supreme Court Associate Justice Position 2,,IND,Supreme Court Associate Justice Robin Wynne,81,30,1,50
+Little River,Arden,State Supreme Court Associate Justice Position 2,,IND,Judge Chris Carnahan,39,25,1,13
+Little River,Arkinda,State Supreme Court Associate Justice Position 2,,IND,Judge Chris Carnahan,5,1,0,4
+Little River,Ashdown Ward 1,State Supreme Court Associate Justice Position 2,,IND,Judge Chris Carnahan,162,100,4,58
+Little River,Ashdown Ward 2,State Supreme Court Associate Justice Position 2,,IND,Judge Chris Carnahan,121,73,1,47
+Little River,Ashdown Ward 3,State Supreme Court Associate Justice Position 2,,IND,Judge Chris Carnahan,84,58,1,25
+Little River,Burke,State Supreme Court Associate Justice Position 2,,IND,Judge Chris Carnahan,28,8,1,19
+Little River,Cleveland,State Supreme Court Associate Justice Position 2,,IND,Judge Chris Carnahan,83,42,0,41
+Little River,Caney,State Supreme Court Associate Justice Position 2,,IND,Judge Chris Carnahan,24,8,0,16
+Little River,Franklin,State Supreme Court Associate Justice Position 2,,IND,Judge Chris Carnahan,81,62,1,18
+Little River,Foreman Ward 1,State Supreme Court Associate Justice Position 2,,IND,Judge Chris Carnahan,18,4,0,14
+Little River,Foreman Ward 2,State Supreme Court Associate Justice Position 2,,IND,Judge Chris Carnahan,42,5,0,37
+Little River,Foreman Ward 3,State Supreme Court Associate Justice Position 2,,IND,Judge Chris Carnahan,44,6,0,38
+Little River,Jefferson,State Supreme Court Associate Justice Position 2,,IND,Judge Chris Carnahan,70,50,0,20
+Little River,Jewell,State Supreme Court Associate Justice Position 2,,IND,Judge Chris Carnahan,20,2,0,18
+Little River,Johnson,State Supreme Court Associate Justice Position 2,,IND,Judge Chris Carnahan,58,11,2,45
+Little River,Jackson,State Supreme Court Associate Justice Position 2,,IND,Judge Chris Carnahan,65,18,0,47
+Little River,Lick Creek,State Supreme Court Associate Justice Position 2,,IND,Judge Chris Carnahan,37,14,0,23
+Little River,Little River,State Supreme Court Associate Justice Position 2,,IND,Judge Chris Carnahan,44,7,1,36
+Little River,Red River,State Supreme Court Associate Justice Position 2,,IND,Judge Chris Carnahan,68,43,2,23
+Little River,Wallace and Richland,State Supreme Court Associate Justice Position 2,,IND,Judge Chris Carnahan,56,13,0,43
+Little River,Arden,LITTLE RIVER COUNTY JUDGE,,DEM,DEM ELBERT BRADLEY JR,37,25,1,11
+Little River,Arkinda,LITTLE RIVER COUNTY JUDGE,,DEM,DEM ELBERT BRADLEY JR,4,0,0,4
+Little River,Ashdown Ward 1,LITTLE RIVER COUNTY JUDGE,,DEM,DEM ELBERT BRADLEY JR,123,70,8,45
+Little River,Ashdown Ward 2,LITTLE RIVER COUNTY JUDGE,,DEM,DEM ELBERT BRADLEY JR,155,95,6,54
+Little River,Ashdown Ward 3,LITTLE RIVER COUNTY JUDGE,,DEM,DEM ELBERT BRADLEY JR,106,69,1,36
+Little River,Burke,LITTLE RIVER COUNTY JUDGE,,DEM,DEM ELBERT BRADLEY JR,14,6,0,8
+Little River,Cleveland,LITTLE RIVER COUNTY JUDGE,,DEM,DEM ELBERT BRADLEY JR,71,33,0,38
+Little River,Caney,LITTLE RIVER COUNTY JUDGE,,DEM,DEM ELBERT BRADLEY JR,16,3,0,13
+Little River,Franklin,LITTLE RIVER COUNTY JUDGE,,DEM,DEM ELBERT BRADLEY JR,49,42,0,7
+Little River,Foreman Ward 1,LITTLE RIVER COUNTY JUDGE,,DEM,DEM ELBERT BRADLEY JR,18,5,0,13
+Little River,Foreman Ward 2,LITTLE RIVER COUNTY JUDGE,,DEM,DEM ELBERT BRADLEY JR,25,3,0,22
+Little River,Foreman Ward 3,LITTLE RIVER COUNTY JUDGE,,DEM,DEM ELBERT BRADLEY JR,27,8,0,19
+Little River,Jefferson,LITTLE RIVER COUNTY JUDGE,,DEM,DEM ELBERT BRADLEY JR,39,25,0,14
+Little River,Jewell,LITTLE RIVER COUNTY JUDGE,,DEM,DEM ELBERT BRADLEY JR,15,2,0,13
+Little River,Johnson,LITTLE RIVER COUNTY JUDGE,,DEM,DEM ELBERT BRADLEY JR,59,14,2,43
+Little River,Jackson,LITTLE RIVER COUNTY JUDGE,,DEM,DEM ELBERT BRADLEY JR,17,6,1,10
+Little River,Lick Creek,LITTLE RIVER COUNTY JUDGE,,DEM,DEM ELBERT BRADLEY JR,19,8,0,11
+Little River,Little River,LITTLE RIVER COUNTY JUDGE,,DEM,DEM ELBERT BRADLEY JR,28,5,1,22
+Little River,Red River,LITTLE RIVER COUNTY JUDGE,,DEM,DEM ELBERT BRADLEY JR,45,26,2,17
+Little River,Wallace and Richland,LITTLE RIVER COUNTY JUDGE,,DEM,DEM ELBERT BRADLEY JR,38,14,2,22
+Little River,Arden,LITTLE RIVER COUNTY JUDGE,,REP,REP LARRY COWLING,105,70,1,34
+Little River,Arkinda,LITTLE RIVER COUNTY JUDGE,,REP,REP LARRY COWLING,18,6,0,12
+Little River,Ashdown Ward 1,LITTLE RIVER COUNTY JUDGE,,REP,REP LARRY COWLING,456,298,12,146
+Little River,Ashdown Ward 2,LITTLE RIVER COUNTY JUDGE,,REP,REP LARRY COWLING,149,93,2,54
+Little River,Ashdown Ward 3,LITTLE RIVER COUNTY JUDGE,,REP,REP LARRY COWLING,165,105,1,59
+Little River,Burke,LITTLE RIVER COUNTY JUDGE,,REP,REP LARRY COWLING,82,35,3,44
+Little River,Cleveland,LITTLE RIVER COUNTY JUDGE,,REP,REP LARRY COWLING,190,103,2,85
+Little River,Caney,LITTLE RIVER COUNTY JUDGE,,REP,REP LARRY COWLING,81,18,2,61
+Little River,Franklin,LITTLE RIVER COUNTY JUDGE,,REP,REP LARRY COWLING,283,220,4,59
+Little River,Foreman Ward 1,LITTLE RIVER COUNTY JUDGE,,REP,REP LARRY COWLING,28,4,0,24
+Little River,Foreman Ward 2,LITTLE RIVER COUNTY JUDGE,,REP,REP LARRY COWLING,92,16,1,75
+Little River,Foreman Ward 3,LITTLE RIVER COUNTY JUDGE,,REP,REP LARRY COWLING,93,24,1,68
+Little River,Jefferson,LITTLE RIVER COUNTY JUDGE,,REP,REP LARRY COWLING,187,134,1,52
+Little River,Jewell,LITTLE RIVER COUNTY JUDGE,,REP,REP LARRY COWLING,50,4,0,46
+Little River,Johnson,LITTLE RIVER COUNTY JUDGE,,REP,REP LARRY COWLING,105,20,1,84
+Little River,Jackson,LITTLE RIVER COUNTY JUDGE,,REP,REP LARRY COWLING,232,67,0,165
+Little River,Lick Creek,LITTLE RIVER COUNTY JUDGE,,REP,REP LARRY COWLING,132,72,1,59
+Little River,Little River,LITTLE RIVER COUNTY JUDGE,,REP,REP LARRY COWLING,149,33,2,114
+Little River,Red River,LITTLE RIVER COUNTY JUDGE,,REP,REP LARRY COWLING,177,114,0,63
+Little River,Wallace and Richland,LITTLE RIVER COUNTY JUDGE,,REP,REP LARRY COWLING,117,35,1,81
+Little River,Arden,LITTLE RIVER CIRCUIT CLERK LITTLE RIVER CIRCUIT C,,NON,LAUREN ABNEY,126,86,1,39
+Little River,Arkinda,LITTLE RIVER CIRCUIT CLERK LITTLE RIVER CIRCUIT C,,NON,LAUREN ABNEY,16,5,0,11
+Little River,Ashdown Ward 1,LITTLE RIVER CIRCUIT CLERK LITTLE RIVER CIRCUIT C,,NON,LAUREN ABNEY,514,324,19,171
+Little River,Ashdown Ward 2,LITTLE RIVER CIRCUIT CLERK LITTLE RIVER CIRCUIT C,,NON,LAUREN ABNEY,268,171,7,90
+Little River,Ashdown Ward 3,LITTLE RIVER CIRCUIT CLERK LITTLE RIVER CIRCUIT C,,NON,LAUREN ABNEY,221,144,1,76
+Little River,Burke,LITTLE RIVER CIRCUIT CLERK LITTLE RIVER CIRCUIT C,,NON,LAUREN ABNEY,87,37,3,47
+Little River,Cleveland,LITTLE RIVER CIRCUIT CLERK LITTLE RIVER CIRCUIT C,,NON,LAUREN ABNEY,228,114,2,112
+Little River,Caney,LITTLE RIVER CIRCUIT CLERK LITTLE RIVER CIRCUIT C,,NON,LAUREN ABNEY,90,22,2,66
+Little River,Franklin,LITTLE RIVER CIRCUIT CLERK LITTLE RIVER CIRCUIT C,,NON,LAUREN ABNEY,280,217,4,59
+Little River,Foreman Ward 1,LITTLE RIVER CIRCUIT CLERK LITTLE RIVER CIRCUIT C,,NON,LAUREN ABNEY,40,8,0,32
+Little River,Foreman Ward 2,LITTLE RIVER CIRCUIT CLERK LITTLE RIVER CIRCUIT C,,NON,LAUREN ABNEY,102,19,1,82
+Little River,Foreman Ward 3,LITTLE RIVER CIRCUIT CLERK LITTLE RIVER CIRCUIT C,,NON,LAUREN ABNEY,100,27,1,72
+Little River,Jefferson,LITTLE RIVER CIRCUIT CLERK LITTLE RIVER CIRCUIT C,,NON,LAUREN ABNEY,199,139,1,59
+Little River,Jewell,LITTLE RIVER CIRCUIT CLERK LITTLE RIVER CIRCUIT C,,NON,LAUREN ABNEY,52,6,0,46
+Little River,Johnson,LITTLE RIVER CIRCUIT CLERK LITTLE RIVER CIRCUIT C,,NON,LAUREN ABNEY,139,28,3,108
+Little River,Jackson,LITTLE RIVER CIRCUIT CLERK LITTLE RIVER CIRCUIT C,,NON,LAUREN ABNEY,223,65,1,157
+Little River,Lick Creek,LITTLE RIVER CIRCUIT CLERK LITTLE RIVER CIRCUIT C,,NON,LAUREN ABNEY,134,69,1,64
+Little River,Little River,LITTLE RIVER CIRCUIT CLERK LITTLE RIVER CIRCUIT C,,NON,LAUREN ABNEY,142,34,3,105
+Little River,Red River,LITTLE RIVER CIRCUIT CLERK LITTLE RIVER CIRCUIT C,,NON,LAUREN ABNEY,192,119,2,71
+Little River,Wallace and Richland,LITTLE RIVER CIRCUIT CLERK LITTLE RIVER CIRCUIT C,,NON,LAUREN ABNEY,128,42,3,83
+Little River,Arden,JUSTICE OF THE PEACE POS 2 POS 2,,REP,REP LISA HEARN,116,81,1,34
+Little River,Arkinda,JUSTICE OF THE PEACE POS 2 POS 2,,REP,REP LISA HEARN,0,0,0,0
+Little River,Jackson,JUSTICE OF THE PEACE POS 2 POS 2,,REP,REP LISA HEARN,59,17,0,42
+Little River,Red River,JUSTICE OF THE PEACE POS 2 POS 2,,REP,REP LISA HEARN,32,20,0,12
+Little River,Wallace and Richland,JUSTICE OF THE PEACE POS 2 POS 2,,REP,REP LISA HEARN,61,17,1,43
+Little River,Arden,JUSTICE OF THE PEACE POS 2 POS 2,,IND,IND DONTE WEED,22,13,1,8
+Little River,Arkinda,JUSTICE OF THE PEACE POS 2 POS 2,,IND,IND DONTE WEED,0,0,0,0
+Little River,Jackson,JUSTICE OF THE PEACE POS 2 POS 2,,IND,IND DONTE WEED,54,19,0,35
+Little River,Red River,JUSTICE OF THE PEACE POS 2 POS 2,,IND,IND DONTE WEED,18,9,0,9
+Little River,Wallace and Richland,JUSTICE OF THE PEACE POS 2 POS 2,,IND,IND DONTE WEED,87,31,2,54
+Little River,Ashdown Ward 1,JUSTICE OF THE PEACE POS 4 POS 4,,REP,REP LINDA BRIGGS MCALLESTER,0,0,0,0
+Little River,Cleveland,JUSTICE OF THE PEACE POS 4 POS 4,,REP,REP LINDA BRIGGS MCALLESTER,100,53,0,47
+Little River,Jefferson,JUSTICE OF THE PEACE POS 4 POS 4,,REP,REP LINDA BRIGGS MCALLESTER,30,24,0,6
+Little River,Lick Creek,JUSTICE OF THE PEACE POS 4 POS 4,,REP,REP LINDA BRIGGS MCALLESTER,62,27,1,34
+Little River,Ashdown Ward 1,JUSTICE OF THE PEACE POS 4 POS 4,,IND,IND MARK ARDWIN,0,0,0,0
+Little River,Cleveland,JUSTICE OF THE PEACE POS 4 POS 4,,IND,IND MARK ARDWIN,158,81,2,75
+Little River,Jefferson,JUSTICE OF THE PEACE POS 4 POS 4,,IND,IND MARK ARDWIN,14,8,0,6
+Little River,Lick Creek,JUSTICE OF THE PEACE POS 4 POS 4,,IND,IND MARK ARDWIN,92,55,0,37
+Little River,Ashdown Ward 1,JUSTICE OF THE PEACE POS 5 POS 5,,IND,IND TYLER DAVIS,186,125,4,57
+Little River,Jefferson,JUSTICE OF THE PEACE POS 5 POS 5,,IND,IND TYLER DAVIS,53,36,0,17
+Little River,Johnson,JUSTICE OF THE PEACE POS 5 POS 5,,IND,IND TYLER DAVIS,12,4,0,8
+Little River,Red River,JUSTICE OF THE PEACE POS 5 POS 5,,IND,IND TYLER DAVIS,83,51,2,30
+Little River,Ashdown Ward 1,JUSTICE OF THE PEACE POS 5 POS 5,,REP,REP BRANDON KENNEMORE,93,61,3,29
+Little River,Jefferson,JUSTICE OF THE PEACE POS 5 POS 5,,REP,REP BRANDON KENNEMORE,31,19,0,12
+Little River,Johnson,JUSTICE OF THE PEACE POS 5 POS 5,,REP,REP BRANDON KENNEMORE,18,8,0,10
+Little River,Red River,JUSTICE OF THE PEACE POS 5 POS 5,,REP,REP BRANDON KENNEMORE,84,58,0,26
+Little River,Franklin,FRANKLIN CONSTABLE FRANKLIN,,IND,IND WILLIE KERSTEN,247,188,3,56
+Little River,Franklin,FRANKLIN CONSTABLE FRANKLIN,,DEM,DEM CHARLES DORSE,54,47,1,6
+Little River,Little River,LITTLE RIVER CONSTABLE LITTLE RIVER CONSTABLE,,REP,REP KEVIN SANDERS,163,33,2,128
+Little River,Little River,LITTLE RIVER CONSTABLE LITTLE RIVER CONSTABLE,,IND,IND ANDREW CHAPA,15,4,1,10
+Little River,Ashdown Ward 1,ASHDOWN MAYOR,,NON,TREY COBB,387,250,12,125
+Little River,Ashdown Ward 2,ASHDOWN MAYOR,,NON,TREY COBB,172,108,3,61
+Little River,Ashdown Ward 3,ASHDOWN MAYOR,,NON,TREY COBB,171,103,1,67
+Little River,Ashdown Ward 1,ASHDOWN MAYOR,,NON,BOBBY FREEZE,65,40,5,20
+Little River,Ashdown Ward 2,ASHDOWN MAYOR,,NON,BOBBY FREEZE,42,23,3,16
+Little River,Ashdown Ward 3,ASHDOWN MAYOR,,NON,BOBBY FREEZE,31,22,0,9
+Little River,Ashdown Ward 1,ASHDOWN MAYOR,,NON,JAMES SUTTON,125,77,4,44
+Little River,Ashdown Ward 2,ASHDOWN MAYOR,,NON,JAMES SUTTON,85,55,2,28
+Little River,Ashdown Ward 3,ASHDOWN MAYOR,,NON,JAMES SUTTON,66,47,1,18
+Little River,Foreman Ward 1,FOREMAN MAYOR,,NON,WILLIAM (BILL) HARP,37,8,0,29
+Little River,Foreman Ward 2,FOREMAN MAYOR,,NON,WILLIAM (BILL) HARP,100,19,1,80
+Little River,Foreman Ward 3,FOREMAN MAYOR,,NON,WILLIAM (BILL) HARP,96,24,1,71
+Little River,Johnson,OGDEN MAYOR OGDEN,,NON,JULIE FURLOW,53,1,0,52
+Little River,Cleveland,WILTON MAYOR WILTON,,NON,RHYMOND FRENCH,63,19,0,44
+Little River,Ashdown Ward 1,ASHDOWN CLERK/TREASURER ASHDOWN,,NON,KIRK MOUNTS,532,336,20,176
+Little River,Ashdown Ward 2,ASHDOWN CLERK/TREASURER ASHDOWN,,NON,KIRK MOUNTS,283,182,6,95
+Little River,Ashdown Ward 3,ASHDOWN CLERK/TREASURER ASHDOWN,,NON,KIRK MOUNTS,247,159,1,87
+Little River,Ashdown Ward 1,ASHDOWN ALDERMAN W1 P2 ASHDOWN WARD 1,,NON,GLEN RAY BOWMAN,407,253,11,143
+Little River,Ashdown Ward 1,ASHDOWN ALDERMAN W1 P2 ASHDOWN WARD 1,,NON,PERRY SMITH,164,109,10,45
+Little River,Arden,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,60,34,1,25
+Little River,Arkinda,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,5,1,0,4
+Little River,Ashdown Ward 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,259,163,11,85
+Little River,Ashdown Ward 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,128,77,2,49
+Little River,Ashdown Ward 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,112,69,2,41
+Little River,Burke,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,31,14,0,17
+Little River,Cleveland,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,95,38,2,55
+Little River,Caney,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,32,5,2,25
+Little River,Franklin,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,134,109,3,22
+Little River,Foreman Ward 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,23,6,0,17
+Little River,Foreman Ward 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,49,9,0,40
+Little River,Foreman Ward 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,39,11,1,27
+Little River,Jefferson,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,82,60,1,21
+Little River,Jewell,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,17,3,0,14
+Little River,Johnson,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,61,9,1,51
+Little River,Jackson,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,94,26,0,68
+Little River,Lick Creek,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,54,28,1,25
+Little River,Little River,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,65,16,2,47
+Little River,Red River,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,75,48,2,25
+Little River,Wallace and Richland,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,61,23,0,38
+Little River,Arden,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,73,55,1,17
+Little River,Arkinda,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,15,5,0,10
+Little River,Ashdown Ward 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,290,187,5,98
+Little River,Ashdown Ward 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,155,101,5,49
+Little River,Ashdown Ward 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,142,96,0,46
+Little River,Burke,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,54,23,0,31
+Little River,Cleveland,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,163,94,0,69
+Little River,Caney,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,61,15,0,46
+Little River,Franklin,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,174,134,1,39
+Little River,Foreman Ward 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,18,2,0,16
+Little River,Foreman Ward 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,61,10,1,50
+Little River,Foreman Ward 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,74,20,0,54
+Little River,Jefferson,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,132,90,0,42
+Little River,Jewell,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,45,3,0,42
+Little River,Johnson,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,90,23,2,65
+Little River,Jackson,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,147,43,1,103
+Little River,Lick Creek,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,91,52,0,39
+Little River,Little River,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,103,20,0,83
+Little River,Red River,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,136,83,0,53
+Little River,Wallace and Richland,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,85,26,2,57
+Little River,Arden,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,55,28,2,25
+Little River,Arkinda,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,7,2,0,5
+Little River,Ashdown Ward 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,260,149,10,101
+Little River,Ashdown Ward 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,132,80,2,50
+Little River,Ashdown Ward 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,124,84,2,38
+Little River,Burke,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,36,13,0,23
+Little River,Cleveland,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,108,46,2,60
+Little River,Caney,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,34,5,2,27
+Little River,Franklin,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,152,121,2,29
+Little River,Foreman Ward 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,20,4,0,16
+Little River,Foreman Ward 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,52,8,0,44
+Little River,Foreman Ward 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,43,12,1,30
+Little River,Jefferson,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,101,74,1,26
+Little River,Jewell,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,21,4,0,17
+Little River,Johnson,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,74,14,1,59
+Little River,Jackson,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,115,28,1,86
+Little River,Lick Creek,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,83,44,1,38
+Little River,Little River,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,82,22,2,58
+Little River,Red River,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,103,67,2,34
+Little River,Wallace and Richland,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,70,19,2,49
+Little River,Arden,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,81,62,0,19
+Little River,Arkinda,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,14,4,0,10
+Little River,Ashdown Ward 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,299,206,8,85
+Little River,Ashdown Ward 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,153,98,4,51
+Little River,Ashdown Ward 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,132,82,0,50
+Little River,Burke,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,53,26,0,27
+Little River,Cleveland,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,153,88,0,65
+Little River,Caney,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,59,14,0,45
+Little River,Franklin,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,158,125,2,31
+Little River,Foreman Ward 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,20,4,0,16
+Little River,Foreman Ward 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,60,11,1,48
+Little River,Foreman Ward 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,70,19,0,51
+Little River,Jefferson,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,113,76,0,37
+Little River,Jewell,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,44,2,0,42
+Little River,Johnson,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,80,18,2,60
+Little River,Jackson,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,128,41,0,87
+Little River,Lick Creek,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,64,36,0,28
+Little River,Little River,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,91,15,0,76
+Little River,Red River,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,107,64,0,43
+Little River,Wallace and Richland,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,81,30,1,50
+Little River,Arden,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,71,38,2,31
+Little River,Arkinda,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,9,3,0,6
+Little River,Ashdown Ward 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,316,190,13,113
+Little River,Ashdown Ward 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,163,100,2,61
+Little River,Ashdown Ward 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,149,96,2,51
+Little River,Burke,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,40,17,0,23
+Little River,Cleveland,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,138,63,2,73
+Little River,Caney,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,36,6,0,30
+Little River,Franklin,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,178,142,4,32
+Little River,Foreman Ward 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,28,6,0,22
+Little River,Foreman Ward 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,71,8,0,63
+Little River,Foreman Ward 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,48,10,1,37
+Little River,Jefferson,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,103,72,1,30
+Little River,Jewell,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,19,3,0,16
+Little River,Johnson,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,79,18,1,60
+Little River,Jackson,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,120,32,1,87
+Little River,Lick Creek,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,82,48,0,34
+Little River,Little River,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,87,21,2,64
+Little River,Red River,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,108,69,2,37
+Little River,Wallace and Richland,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,66,22,2,42
+Little River,Arden,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,64,50,0,14
+Little River,Arkinda,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,11,3,0,8
+Little River,Ashdown Ward 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,244,166,5,73
+Little River,Ashdown Ward 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,128,81,5,42
+Little River,Ashdown Ward 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,113,74,0,39
+Little River,Burke,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,50,23,0,27
+Little River,Cleveland,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,119,69,0,50
+Little River,Caney,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,57,13,2,42
+Little River,Franklin,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,138,107,0,31
+Little River,Foreman Ward 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,14,2,0,12
+Little River,Foreman Ward 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,42,11,1,30
+Little River,Foreman Ward 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,66,20,0,46
+Little River,Jefferson,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,114,80,0,34
+Little River,Jewell,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,45,3,0,42
+Little River,Johnson,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,73,13,2,58
+Little River,Jackson,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,125,38,0,87
+Little River,Lick Creek,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,66,32,1,33
+Little River,Little River,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,89,17,0,72
+Little River,Red River,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,105,62,0,43
+Little River,Wallace and Richland,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,83,27,1,55
+Little River,Arden,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,46,21,0,25
+Little River,Arkinda,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,12,4,0,8
+Little River,Ashdown Ward 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,224,133,6,85
+Little River,Ashdown Ward 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,158,82,2,74
+Little River,Ashdown Ward 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,150,97,2,51
+Little River,Burke,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,28,8,0,20
+Little River,Cleveland,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,98,42,0,56
+Little River,Caney,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,30,2,0,28
+Little River,Franklin,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,124,88,2,34
+Little River,Foreman Ward 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,23,3,0,20
+Little River,Foreman Ward 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,48,6,0,42
+Little River,Foreman Ward 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,39,8,0,31
+Little River,Jefferson,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,85,59,0,26
+Little River,Jewell,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,15,1,0,14
+Little River,Johnson,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,81,14,1,66
+Little River,Jackson,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,85,21,1,63
+Little River,Lick Creek,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,55,29,0,26
+Little River,Little River,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,67,18,2,47
+Little River,Red River,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,75,44,0,31
+Little River,Wallace and Richland,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,50,9,2,39
+Little River,Arden,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,94,72,2,20
+Little River,Arkinda,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,9,2,0,7
+Little River,Ashdown Ward 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,354,235,12,107
+Little River,Ashdown Ward 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,134,100,5,29
+Little River,Ashdown Ward 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,120,77,0,43
+Little River,Burke,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,64,31,0,33
+Little River,Cleveland,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,168,97,2,69
+Little River,Caney,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,70,20,2,48
+Little River,Franklin,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,203,171,2,30
+Little River,Foreman Ward 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,20,5,0,15
+Little River,Foreman Ward 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,67,13,1,53
+Little River,Foreman Ward 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,79,22,1,56
+Little River,Jefferson,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,136,96,1,39
+Little River,Jewell,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,50,5,0,45
+Little River,Johnson,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,74,18,2,54
+Little River,Jackson,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,166,52,0,114
+Little River,Lick Creek,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,99,53,1,45
+Little River,Little River,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,113,20,1,92
+Little River,Red River,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,144,93,2,49
+Little River,Wallace and Richland,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,102,40,1,61

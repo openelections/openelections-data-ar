@@ -1,0 +1,760 @@
+county,precinct,office,district,party,candidate,votes,early_vote,absentee,election_day
+Monroe,Brinkley Ward 1,U.S. Senate,,REP,Senator John Boozman,148,55,1,92
+Monroe,Brinkley Ward 2,U.S. Senate,,REP,Senator John Boozman,104,32,6,66
+Monroe,Brinkley Ward 3,U.S. Senate,,REP,Senator John Boozman,127,46,1,80
+Monroe,Clarendon Ward 1,U.S. Senate,,REP,Senator John Boozman,77,52,0,25
+Monroe,Clarendon Ward 2,U.S. Senate,,REP,Senator John Boozman,113,74,1,38
+Monroe,Clarendon Ward 3,U.S. Senate,,REP,Senator John Boozman,102,60,1,41
+Monroe,Brinkley/Dixon,U.S. Senate,,REP,Senator John Boozman,132,42,4,86
+Monroe,Cache,U.S. Senate,,REP,Senator John Boozman,41,31,0,10
+Monroe,Keevil,U.S. Senate,,REP,Senator John Boozman,51,20,1,30
+Monroe,Holly Grove,U.S. Senate,,REP,Senator John Boozman,22,9,0,13
+Monroe,Duncan,U.S. Senate,,REP,Senator John Boozman,36,16,0,20
+Monroe,Rich/Greenfield/Fargo,U.S. Senate,,REP,Senator John Boozman,61,14,2,45
+Monroe,Cypress Ridge,U.S. Senate,,REP,Senator John Boozman,70,39,4,27
+Monroe,Hindman/Pine Ridge/Raymond,U.S. Senate,,REP,Senator John Boozman,48,29,0,19
+Monroe,Jackson/Cleburne/Mont./Smalley,U.S. Senate,,REP,Senator John Boozman,70,38,0,32
+Monroe,Roc Roe,U.S. Senate,,REP,Senator John Boozman,93,23,2,68
+Monroe,Brinkley Ward 1,U.S. Senate,,LIB,Kenneth Cates,12,3,0,9
+Monroe,Brinkley Ward 2,U.S. Senate,,LIB,Kenneth Cates,4,2,0,2
+Monroe,Brinkley Ward 3,U.S. Senate,,LIB,Kenneth Cates,2,0,0,2
+Monroe,Clarendon Ward 1,U.S. Senate,,LIB,Kenneth Cates,5,3,0,2
+Monroe,Clarendon Ward 2,U.S. Senate,,LIB,Kenneth Cates,5,4,0,1
+Monroe,Clarendon Ward 3,U.S. Senate,,LIB,Kenneth Cates,2,1,0,1
+Monroe,Brinkley/Dixon,U.S. Senate,,LIB,Kenneth Cates,5,2,0,3
+Monroe,Cache,U.S. Senate,,LIB,Kenneth Cates,2,1,0,1
+Monroe,Keevil,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0
+Monroe,Holly Grove,U.S. Senate,,LIB,Kenneth Cates,4,1,0,3
+Monroe,Duncan,U.S. Senate,,LIB,Kenneth Cates,1,0,0,1
+Monroe,Rich/Greenfield/Fargo,U.S. Senate,,LIB,Kenneth Cates,2,0,0,2
+Monroe,Cypress Ridge,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0
+Monroe,Hindman/Pine Ridge/Raymond,U.S. Senate,,LIB,Kenneth Cates,1,0,0,1
+Monroe,Jackson/Cleburne/Mont./Smalley,U.S. Senate,,LIB,Kenneth Cates,0,0,0,0
+Monroe,Roc Roe,U.S. Senate,,LIB,Kenneth Cates,2,1,0,1
+Monroe,Brinkley Ward 1,U.S. Senate,,DEM,Natalie James,103,48,4,51
+Monroe,Brinkley Ward 2,U.S. Senate,,DEM,Natalie James,126,52,2,72
+Monroe,Brinkley Ward 3,U.S. Senate,,DEM,Natalie James,129,47,3,79
+Monroe,Clarendon Ward 1,U.S. Senate,,DEM,Natalie James,84,55,1,28
+Monroe,Clarendon Ward 2,U.S. Senate,,DEM,Natalie James,63,37,1,25
+Monroe,Clarendon Ward 3,U.S. Senate,,DEM,Natalie James,63,40,0,23
+Monroe,Brinkley/Dixon,U.S. Senate,,DEM,Natalie James,32,10,4,18
+Monroe,Cache,U.S. Senate,,DEM,Natalie James,7,7,0,0
+Monroe,Keevil,U.S. Senate,,DEM,Natalie James,8,6,0,2
+Monroe,Holly Grove,U.S. Senate,,DEM,Natalie James,176,72,2,102
+Monroe,Duncan,U.S. Senate,,DEM,Natalie James,26,12,0,14
+Monroe,Rich/Greenfield/Fargo,U.S. Senate,,DEM,Natalie James,27,9,0,18
+Monroe,Cypress Ridge,U.S. Senate,,DEM,Natalie James,8,4,0,4
+Monroe,Hindman/Pine Ridge/Raymond,U.S. Senate,,DEM,Natalie James,11,6,0,5
+Monroe,Jackson/Cleburne/Mont./Smalley,U.S. Senate,,DEM,Natalie James,20,11,0,9
+Monroe,Roc Roe,U.S. Senate,,DEM,Natalie James,8,4,0,4
+Monroe,Brinkley Ward 1,U.S. Congress District 01,,REP,Congressman Rick Crawford,152,56,1,95
+Monroe,Brinkley Ward 2,U.S. Congress District 01,,REP,Congressman Rick Crawford,97,30,6,61
+Monroe,Brinkley Ward 3,U.S. Congress District 01,,REP,Congressman Rick Crawford,121,39,1,81
+Monroe,Clarendon Ward 1,U.S. Congress District 01,,REP,Congressman Rick Crawford,69,44,0,25
+Monroe,Clarendon Ward 2,U.S. Congress District 01,,REP,Congressman Rick Crawford,102,72,1,29
+Monroe,Clarendon Ward 3,U.S. Congress District 01,,REP,Congressman Rick Crawford,98,61,1,36
+Monroe,Brinkley/Dixon,U.S. Congress District 01,,REP,Congressman Rick Crawford,130,42,5,83
+Monroe,Cache,U.S. Congress District 01,,REP,Congressman Rick Crawford,39,31,0,8
+Monroe,Keevil,U.S. Congress District 01,,REP,Congressman Rick Crawford,47,17,1,29
+Monroe,Holly Grove,U.S. Congress District 01,,REP,Congressman Rick Crawford,14,8,0,6
+Monroe,Duncan,U.S. Congress District 01,,REP,Congressman Rick Crawford,37,18,0,19
+Monroe,Rich/Greenfield/Fargo,U.S. Congress District 01,,REP,Congressman Rick Crawford,60,14,2,44
+Monroe,Cypress Ridge,U.S. Congress District 01,,REP,Congressman Rick Crawford,59,32,4,23
+Monroe,Hindman/Pine Ridge/Raymond,U.S. Congress District 01,,REP,Congressman Rick Crawford,44,27,0,17
+Monroe,Jackson/Cleburne/Mont./Smalley,U.S. Congress District 01,,REP,Congressman Rick Crawford,64,35,0,29
+Monroe,Roc Roe,U.S. Congress District 01,,REP,Congressman Rick Crawford,90,23,2,65
+Monroe,Brinkley Ward 1,U.S. Congress District 01,,DEM,Representative Monte Hodges,96,45,4,47
+Monroe,Brinkley Ward 2,U.S. Congress District 01,,DEM,Representative Monte Hodges,128,58,2,68
+Monroe,Brinkley Ward 3,U.S. Congress District 01,,DEM,Representative Monte Hodges,121,49,3,69
+Monroe,Clarendon Ward 1,U.S. Congress District 01,,DEM,Representative Monte Hodges,85,57,1,27
+Monroe,Clarendon Ward 2,U.S. Congress District 01,,DEM,Representative Monte Hodges,64,33,1,30
+Monroe,Clarendon Ward 3,U.S. Congress District 01,,DEM,Representative Monte Hodges,60,35,0,25
+Monroe,Brinkley/Dixon,U.S. Congress District 01,,DEM,Representative Monte Hodges,31,9,3,19
+Monroe,Cache,U.S. Congress District 01,,DEM,Representative Monte Hodges,5,5,0,0
+Monroe,Keevil,U.S. Congress District 01,,DEM,Representative Monte Hodges,10,7,0,3
+Monroe,Holly Grove,U.S. Congress District 01,,DEM,Representative Monte Hodges,162,63,2,97
+Monroe,Duncan,U.S. Congress District 01,,DEM,Representative Monte Hodges,24,10,0,14
+Monroe,Rich/Greenfield/Fargo,U.S. Congress District 01,,DEM,Representative Monte Hodges,26,9,0,17
+Monroe,Cypress Ridge,U.S. Congress District 01,,DEM,Representative Monte Hodges,9,6,0,3
+Monroe,Hindman/Pine Ridge/Raymond,U.S. Congress District 01,,DEM,Representative Monte Hodges,10,6,0,4
+Monroe,Jackson/Cleburne/Mont./Smalley,U.S. Congress District 01,,DEM,Representative Monte Hodges,17,9,0,8
+Monroe,Roc Roe,U.S. Congress District 01,,DEM,Representative Monte Hodges,8,4,0,4
+Monroe,Brinkley Ward 1,Attorney General,,REP,Lieutenant Governor Tim Griffin,154,60,1,93
+Monroe,Brinkley Ward 2,Attorney General,,REP,Lieutenant Governor Tim Griffin,108,35,5,68
+Monroe,Brinkley Ward 3,Attorney General,,REP,Lieutenant Governor Tim Griffin,122,41,1,80
+Monroe,Clarendon Ward 1,Attorney General,,REP,Lieutenant Governor Tim Griffin,73,50,0,23
+Monroe,Clarendon Ward 2,Attorney General,,REP,Lieutenant Governor Tim Griffin,117,77,1,39
+Monroe,Clarendon Ward 3,Attorney General,,REP,Lieutenant Governor Tim Griffin,105,63,1,41
+Monroe,Brinkley/Dixon,Attorney General,,REP,Lieutenant Governor Tim Griffin,131,43,4,84
+Monroe,Cache,Attorney General,,REP,Lieutenant Governor Tim Griffin,41,30,0,11
+Monroe,Keevil,Attorney General,,REP,Lieutenant Governor Tim Griffin,52,21,1,30
+Monroe,Holly Grove,Attorney General,,REP,Lieutenant Governor Tim Griffin,13,7,0,6
+Monroe,Duncan,Attorney General,,REP,Lieutenant Governor Tim Griffin,36,15,0,21
+Monroe,Rich/Greenfield/Fargo,Attorney General,,REP,Lieutenant Governor Tim Griffin,61,14,2,45
+Monroe,Cypress Ridge,Attorney General,,REP,Lieutenant Governor Tim Griffin,71,38,4,29
+Monroe,Hindman/Pine Ridge/Raymond,Attorney General,,REP,Lieutenant Governor Tim Griffin,47,27,0,20
+Monroe,Jackson/Cleburne/Mont./Smalley,Attorney General,,REP,Lieutenant Governor Tim Griffin,70,39,0,31
+Monroe,Roc Roe,Attorney General,,REP,Lieutenant Governor Tim Griffin,96,25,2,69
+Monroe,Brinkley Ward 1,Attorney General,,DEM,Jesse Gibson,110,47,4,59
+Monroe,Brinkley Ward 2,Attorney General,,DEM,Jesse Gibson,125,50,3,72
+Monroe,Brinkley Ward 3,Attorney General,,DEM,Jesse Gibson,133,51,3,79
+Monroe,Clarendon Ward 1,Attorney General,,DEM,Jesse Gibson,94,61,1,32
+Monroe,Clarendon Ward 2,Attorney General,,DEM,Jesse Gibson,62,36,1,25
+Monroe,Clarendon Ward 3,Attorney General,,DEM,Jesse Gibson,61,37,0,24
+Monroe,Brinkley/Dixon,Attorney General,,DEM,Jesse Gibson,36,9,4,23
+Monroe,Cache,Attorney General,,DEM,Jesse Gibson,8,8,0,0
+Monroe,Keevil,Attorney General,,DEM,Jesse Gibson,8,5,0,3
+Monroe,Holly Grove,Attorney General,,DEM,Jesse Gibson,181,74,1,106
+Monroe,Duncan,Attorney General,,DEM,Jesse Gibson,26,12,0,14
+Monroe,Rich/Greenfield/Fargo,Attorney General,,DEM,Jesse Gibson,29,9,0,20
+Monroe,Cypress Ridge,Attorney General,,DEM,Jesse Gibson,7,5,0,2
+Monroe,Hindman/Pine Ridge/Raymond,Attorney General,,DEM,Jesse Gibson,13,8,0,5
+Monroe,Jackson/Cleburne/Mont./Smalley,Attorney General,,DEM,Jesse Gibson,18,9,0,9
+Monroe,Roc Roe,Attorney General,,DEM,Jesse Gibson,6,3,0,3
+Monroe,Brinkley Ward 1,Auditor of State,,DEM,Diamond Arnold-Johnson,109,47,4,58
+Monroe,Brinkley Ward 2,Auditor of State,,DEM,Diamond Arnold-Johnson,129,53,2,74
+Monroe,Brinkley Ward 3,Auditor of State,,DEM,Diamond Arnold-Johnson,130,50,3,77
+Monroe,Clarendon Ward 1,Auditor of State,,DEM,Diamond Arnold-Johnson,87,57,1,29
+Monroe,Clarendon Ward 2,Auditor of State,,DEM,Diamond Arnold-Johnson,59,32,1,26
+Monroe,Clarendon Ward 3,Auditor of State,,DEM,Diamond Arnold-Johnson,61,37,0,24
+Monroe,Brinkley/Dixon,Auditor of State,,DEM,Diamond Arnold-Johnson,39,12,4,23
+Monroe,Cache,Auditor of State,,DEM,Diamond Arnold-Johnson,5,5,0,0
+Monroe,Keevil,Auditor of State,,DEM,Diamond Arnold-Johnson,10,8,0,2
+Monroe,Holly Grove,Auditor of State,,DEM,Diamond Arnold-Johnson,178,73,2,103
+Monroe,Duncan,Auditor of State,,DEM,Diamond Arnold-Johnson,24,10,0,14
+Monroe,Rich/Greenfield/Fargo,Auditor of State,,DEM,Diamond Arnold-Johnson,27,9,0,18
+Monroe,Cypress Ridge,Auditor of State,,DEM,Diamond Arnold-Johnson,10,5,0,5
+Monroe,Hindman/Pine Ridge/Raymond,Auditor of State,,DEM,Diamond Arnold-Johnson,10,5,0,5
+Monroe,Jackson/Cleburne/Mont./Smalley,Auditor of State,,DEM,Diamond Arnold-Johnson,16,10,0,6
+Monroe,Roc Roe,Auditor of State,,DEM,Diamond Arnold-Johnson,7,4,0,3
+Monroe,Brinkley Ward 1,Auditor of State,,LIB,Simeon Snow,10,2,0,8
+Monroe,Brinkley Ward 2,Auditor of State,,LIB,Simeon Snow,6,5,0,1
+Monroe,Brinkley Ward 3,Auditor of State,,LIB,Simeon Snow,5,2,0,3
+Monroe,Clarendon Ward 1,Auditor of State,,LIB,Simeon Snow,6,3,0,3
+Monroe,Clarendon Ward 2,Auditor of State,,LIB,Simeon Snow,10,5,0,5
+Monroe,Clarendon Ward 3,Auditor of State,,LIB,Simeon Snow,2,1,0,1
+Monroe,Brinkley/Dixon,Auditor of State,,LIB,Simeon Snow,0,0,0,0
+Monroe,Cache,Auditor of State,,LIB,Simeon Snow,2,1,0,1
+Monroe,Keevil,Auditor of State,,LIB,Simeon Snow,2,1,0,1
+Monroe,Holly Grove,Auditor of State,,LIB,Simeon Snow,9,3,0,6
+Monroe,Duncan,Auditor of State,,LIB,Simeon Snow,1,0,0,1
+Monroe,Rich/Greenfield/Fargo,Auditor of State,,LIB,Simeon Snow,2,0,0,2
+Monroe,Cypress Ridge,Auditor of State,,LIB,Simeon Snow,1,0,0,1
+Monroe,Hindman/Pine Ridge/Raymond,Auditor of State,,LIB,Simeon Snow,0,0,0,0
+Monroe,Jackson/Cleburne/Mont./Smalley,Auditor of State,,LIB,Simeon Snow,2,1,0,1
+Monroe,Roc Roe,Auditor of State,,LIB,Simeon Snow,2,1,0,1
+Monroe,Brinkley Ward 1,Auditor of State,,REP,Treasurer of State Dennis Milligan,144,56,1,87
+Monroe,Brinkley Ward 2,Auditor of State,,REP,Treasurer of State Dennis Milligan,98,30,6,62
+Monroe,Brinkley Ward 3,Auditor of State,,REP,Treasurer of State Dennis Milligan,118,39,1,78
+Monroe,Clarendon Ward 1,Auditor of State,,REP,Treasurer of State Dennis Milligan,68,48,0,20
+Monroe,Clarendon Ward 2,Auditor of State,,REP,Treasurer of State Dennis Milligan,105,74,1,30
+Monroe,Clarendon Ward 3,Auditor of State,,REP,Treasurer of State Dennis Milligan,99,60,1,38
+Monroe,Brinkley/Dixon,Auditor of State,,REP,Treasurer of State Dennis Milligan,124,39,4,81
+Monroe,Cache,Auditor of State,,REP,Treasurer of State Dennis Milligan,42,33,0,9
+Monroe,Keevil,Auditor of State,,REP,Treasurer of State Dennis Milligan,47,17,1,29
+Monroe,Holly Grove,Auditor of State,,REP,Treasurer of State Dennis Milligan,8,6,0,2
+Monroe,Duncan,Auditor of State,,REP,Treasurer of State Dennis Milligan,36,16,0,20
+Monroe,Rich/Greenfield/Fargo,Auditor of State,,REP,Treasurer of State Dennis Milligan,60,14,2,44
+Monroe,Cypress Ridge,Auditor of State,,REP,Treasurer of State Dennis Milligan,66,37,4,25
+Monroe,Hindman/Pine Ridge/Raymond,Auditor of State,,REP,Treasurer of State Dennis Milligan,46,28,0,18
+Monroe,Jackson/Cleburne/Mont./Smalley,Auditor of State,,REP,Treasurer of State Dennis Milligan,68,38,0,30
+Monroe,Roc Roe,Auditor of State,,REP,Treasurer of State Dennis Milligan,91,22,2,67
+Monroe,Brinkley Ward 1,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,148,55,1,92
+Monroe,Brinkley Ward 2,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,103,32,6,65
+Monroe,Brinkley Ward 3,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,129,43,1,85
+Monroe,Clarendon Ward 1,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,77,53,0,24
+Monroe,Clarendon Ward 2,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,114,74,1,39
+Monroe,Clarendon Ward 3,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,103,65,1,37
+Monroe,Brinkley/Dixon,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,127,42,4,81
+Monroe,Cache,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,41,32,0,9
+Monroe,Keevil,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,50,20,1,29
+Monroe,Holly Grove,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,19,13,0,6
+Monroe,Duncan,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,37,16,0,21
+Monroe,Rich/Greenfield/Fargo,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,64,14,2,48
+Monroe,Cypress Ridge,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,68,38,4,26
+Monroe,Hindman/Pine Ridge/Raymond,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,48,29,0,19
+Monroe,Jackson/Cleburne/Mont./Smalley,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,68,38,0,30
+Monroe,Roc Roe,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,85,22,2,61
+Monroe,Brinkley Ward 1,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,103,45,4,54
+Monroe,Brinkley Ward 2,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,123,51,2,70
+Monroe,Brinkley Ward 3,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,119,46,3,70
+Monroe,Clarendon Ward 1,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,80,49,1,30
+Monroe,Clarendon Ward 2,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,58,33,1,24
+Monroe,Clarendon Ward 3,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,52,32,0,20
+Monroe,Brinkley/Dixon,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,33,8,4,21
+Monroe,Cache,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,4,4,0,0
+Monroe,Keevil,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,7,5,0,2
+Monroe,Holly Grove,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,161,64,2,95
+Monroe,Duncan,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,24,11,0,13
+Monroe,Rich/Greenfield/Fargo,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,24,9,0,15
+Monroe,Cypress Ridge,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,8,5,0,3
+Monroe,Hindman/Pine Ridge/Raymond,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,9,4,0,5
+Monroe,Jackson/Cleburne/Mont./Smalley,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,17,9,0,8
+Monroe,Roc Roe,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,7,3,0,4
+Monroe,Brinkley Ward 1,Governor,,DEM,Chris Jones,113,48,4,61
+Monroe,Brinkley Ward 2,Governor,,DEM,Chris Jones,145,60,2,83
+Monroe,Brinkley Ward 3,Governor,,DEM,Chris Jones,142,52,3,87
+Monroe,Clarendon Ward 1,Governor,,DEM,Chris Jones,94,59,1,34
+Monroe,Clarendon Ward 2,Governor,,DEM,Chris Jones,68,37,1,30
+Monroe,Clarendon Ward 3,Governor,,DEM,Chris Jones,63,39,0,24
+Monroe,Brinkley/Dixon,Governor,,DEM,Chris Jones,42,13,6,23
+Monroe,Cache,Governor,,DEM,Chris Jones,9,7,0,2
+Monroe,Keevil,Governor,,DEM,Chris Jones,10,6,0,4
+Monroe,Holly Grove,Governor,,DEM,Chris Jones,181,73,2,106
+Monroe,Duncan,Governor,,DEM,Chris Jones,26,12,0,14
+Monroe,Rich/Greenfield/Fargo,Governor,,DEM,Chris Jones,32,9,0,23
+Monroe,Cypress Ridge,Governor,,DEM,Chris Jones,9,6,0,3
+Monroe,Hindman/Pine Ridge/Raymond,Governor,,DEM,Chris Jones,13,9,0,4
+Monroe,Jackson/Cleburne/Mont./Smalley,Governor,,DEM,Chris Jones,19,10,0,9
+Monroe,Roc Roe,Governor,,DEM,Chris Jones,11,6,0,5
+Monroe,Brinkley Ward 1,Governor,,REP,Sarah Huckabee Sanders,143,56,1,86
+Monroe,Brinkley Ward 2,Governor,,REP,Sarah Huckabee Sanders,95,30,6,59
+Monroe,Brinkley Ward 3,Governor,,REP,Sarah Huckabee Sanders,115,42,1,72
+Monroe,Clarendon Ward 1,Governor,,REP,Sarah Huckabee Sanders,70,49,0,21
+Monroe,Clarendon Ward 2,Governor,,REP,Sarah Huckabee Sanders,108,73,2,33
+Monroe,Clarendon Ward 3,Governor,,REP,Sarah Huckabee Sanders,102,60,1,41
+Monroe,Brinkley/Dixon,Governor,,REP,Sarah Huckabee Sanders,127,41,2,84
+Monroe,Cache,Governor,,REP,Sarah Huckabee Sanders,41,32,0,9
+Monroe,Keevil,Governor,,REP,Sarah Huckabee Sanders,48,20,1,27
+Monroe,Holly Grove,Governor,,REP,Sarah Huckabee Sanders,17,6,0,11
+Monroe,Duncan,Governor,,REP,Sarah Huckabee Sanders,34,14,0,20
+Monroe,Rich/Greenfield/Fargo,Governor,,REP,Sarah Huckabee Sanders,59,14,2,43
+Monroe,Cypress Ridge,Governor,,REP,Sarah Huckabee Sanders,68,37,4,27
+Monroe,Hindman/Pine Ridge/Raymond,Governor,,REP,Sarah Huckabee Sanders,47,26,0,21
+Monroe,Jackson/Cleburne/Mont./Smalley,Governor,,REP,Sarah Huckabee Sanders,70,39,0,31
+Monroe,Roc Roe,Governor,,REP,Sarah Huckabee Sanders,89,20,2,67
+Monroe,Brinkley Ward 1,Governor,,LIB,"Ricky Dale Harrington, Jr.",7,2,0,5
+Monroe,Brinkley Ward 2,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Monroe,Brinkley Ward 3,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,0,0,2
+Monroe,Clarendon Ward 1,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,2,0,0
+Monroe,Clarendon Ward 2,Governor,,LIB,"Ricky Dale Harrington, Jr.",4,3,0,1
+Monroe,Clarendon Ward 3,Governor,,LIB,"Ricky Dale Harrington, Jr.",4,2,0,2
+Monroe,Brinkley/Dixon,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Monroe,Cache,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Monroe,Keevil,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Monroe,Holly Grove,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,3,0,2
+Monroe,Duncan,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,2,0,1
+Monroe,Rich/Greenfield/Fargo,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Monroe,Cypress Ridge,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Monroe,Hindman/Pine Ridge/Raymond,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Monroe,Jackson/Cleburne/Mont./Smalley,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Monroe,Roc Roe,Governor,,LIB,"Ricky Dale Harrington, Jr.",4,2,0,2
+Monroe,Brinkley Ward 1,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,150,57,1,92
+Monroe,Brinkley Ward 2,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,103,35,6,62
+Monroe,Brinkley Ward 3,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,122,42,1,79
+Monroe,Clarendon Ward 1,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,74,52,0,22
+Monroe,Clarendon Ward 2,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,114,75,2,37
+Monroe,Clarendon Ward 3,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,98,59,1,38
+Monroe,Brinkley/Dixon,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,125,38,4,83
+Monroe,Cache,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,41,31,0,10
+Monroe,Keevil,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,48,18,1,29
+Monroe,Holly Grove,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,15,10,0,5
+Monroe,Duncan,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,36,15,0,21
+Monroe,Rich/Greenfield/Fargo,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,60,14,2,44
+Monroe,Cypress Ridge,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,68,39,4,25
+Monroe,Hindman/Pine Ridge/Raymond,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,45,25,0,20
+Monroe,Jackson/Cleburne/Mont./Smalley,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,69,38,0,31
+Monroe,Roc Roe,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,95,24,2,69
+Monroe,Brinkley Ward 1,Lieutenant Governor,,DEM,Kelly Ross Krout,104,45,4,55
+Monroe,Brinkley Ward 2,Lieutenant Governor,,DEM,Kelly Ross Krout,131,52,2,77
+Monroe,Brinkley Ward 3,Lieutenant Governor,,DEM,Kelly Ross Krout,131,49,3,79
+Monroe,Clarendon Ward 1,Lieutenant Governor,,DEM,Kelly Ross Krout,87,56,1,30
+Monroe,Clarendon Ward 2,Lieutenant Governor,,DEM,Kelly Ross Krout,57,33,1,23
+Monroe,Clarendon Ward 3,Lieutenant Governor,,DEM,Kelly Ross Krout,66,39,0,27
+Monroe,Brinkley/Dixon,Lieutenant Governor,,DEM,Kelly Ross Krout,38,11,4,23
+Monroe,Cache,Lieutenant Governor,,DEM,Kelly Ross Krout,8,8,0,0
+Monroe,Keevil,Lieutenant Governor,,DEM,Kelly Ross Krout,10,8,0,2
+Monroe,Holly Grove,Lieutenant Governor,,DEM,Kelly Ross Krout,180,72,2,106
+Monroe,Duncan,Lieutenant Governor,,DEM,Kelly Ross Krout,25,11,0,14
+Monroe,Rich/Greenfield/Fargo,Lieutenant Governor,,DEM,Kelly Ross Krout,31,9,0,22
+Monroe,Cypress Ridge,Lieutenant Governor,,DEM,Kelly Ross Krout,9,4,0,5
+Monroe,Hindman/Pine Ridge/Raymond,Lieutenant Governor,,DEM,Kelly Ross Krout,15,10,0,5
+Monroe,Jackson/Cleburne/Mont./Smalley,Lieutenant Governor,,DEM,Kelly Ross Krout,19,10,0,9
+Monroe,Roc Roe,Lieutenant Governor,,DEM,Kelly Ross Krout,7,4,0,3
+Monroe,Brinkley Ward 1,Lieutenant Governor,,LIB,Frank Gilbert,7,3,0,4
+Monroe,Brinkley Ward 2,Lieutenant Governor,,LIB,Frank Gilbert,4,2,0,2
+Monroe,Brinkley Ward 3,Lieutenant Governor,,LIB,Frank Gilbert,4,1,0,3
+Monroe,Clarendon Ward 1,Lieutenant Governor,,LIB,Frank Gilbert,3,0,0,3
+Monroe,Clarendon Ward 2,Lieutenant Governor,,LIB,Frank Gilbert,7,5,0,2
+Monroe,Clarendon Ward 3,Lieutenant Governor,,LIB,Frank Gilbert,4,2,0,2
+Monroe,Brinkley/Dixon,Lieutenant Governor,,LIB,Frank Gilbert,5,3,0,2
+Monroe,Cache,Lieutenant Governor,,LIB,Frank Gilbert,1,0,0,1
+Monroe,Keevil,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0
+Monroe,Holly Grove,Lieutenant Governor,,LIB,Frank Gilbert,3,0,0,3
+Monroe,Duncan,Lieutenant Governor,,LIB,Frank Gilbert,1,1,0,0
+Monroe,Rich/Greenfield/Fargo,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0
+Monroe,Cypress Ridge,Lieutenant Governor,,LIB,Frank Gilbert,1,0,0,1
+Monroe,Hindman/Pine Ridge/Raymond,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0
+Monroe,Jackson/Cleburne/Mont./Smalley,Lieutenant Governor,,LIB,Frank Gilbert,1,1,0,0
+Monroe,Roc Roe,Lieutenant Governor,,LIB,Frank Gilbert,1,0,0,1
+Monroe,Brinkley Ward 1,Secretary of State,,DEM,Anna Beth Gorman,116,50,4,62
+Monroe,Brinkley Ward 2,Secretary of State,,DEM,Anna Beth Gorman,133,55,2,76
+Monroe,Brinkley Ward 3,Secretary of State,,DEM,Anna Beth Gorman,141,52,3,86
+Monroe,Clarendon Ward 1,Secretary of State,,DEM,Anna Beth Gorman,84,55,1,28
+Monroe,Clarendon Ward 2,Secretary of State,,DEM,Anna Beth Gorman,70,38,1,31
+Monroe,Clarendon Ward 3,Secretary of State,,DEM,Anna Beth Gorman,61,36,0,25
+Monroe,Brinkley/Dixon,Secretary of State,,DEM,Anna Beth Gorman,40,13,4,23
+Monroe,Cache,Secretary of State,,DEM,Anna Beth Gorman,8,8,0,0
+Monroe,Keevil,Secretary of State,,DEM,Anna Beth Gorman,13,8,0,5
+Monroe,Holly Grove,Secretary of State,,DEM,Anna Beth Gorman,180,74,2,104
+Monroe,Duncan,Secretary of State,,DEM,Anna Beth Gorman,25,12,0,13
+Monroe,Rich/Greenfield/Fargo,Secretary of State,,DEM,Anna Beth Gorman,28,9,0,19
+Monroe,Cypress Ridge,Secretary of State,,DEM,Anna Beth Gorman,15,9,0,6
+Monroe,Hindman/Pine Ridge/Raymond,Secretary of State,,DEM,Anna Beth Gorman,12,7,0,5
+Monroe,Jackson/Cleburne/Mont./Smalley,Secretary of State,,DEM,Anna Beth Gorman,18,10,0,8
+Monroe,Roc Roe,Secretary of State,,DEM,Anna Beth Gorman,10,6,0,4
+Monroe,Brinkley Ward 1,Secretary of State,,REP,Secretary of State John Thurston,143,56,1,86
+Monroe,Brinkley Ward 2,Secretary of State,,REP,Secretary of State John Thurston,100,31,6,63
+Monroe,Brinkley Ward 3,Secretary of State,,REP,Secretary of State John Thurston,116,41,1,74
+Monroe,Clarendon Ward 1,Secretary of State,,REP,Secretary of State John Thurston,76,50,0,26
+Monroe,Clarendon Ward 2,Secretary of State,,REP,Secretary of State John Thurston,107,74,1,32
+Monroe,Clarendon Ward 3,Secretary of State,,REP,Secretary of State John Thurston,102,62,1,39
+Monroe,Brinkley/Dixon,Secretary of State,,REP,Secretary of State John Thurston,122,38,4,80
+Monroe,Cache,Secretary of State,,REP,Secretary of State John Thurston,42,31,0,11
+Monroe,Keevil,Secretary of State,,REP,Secretary of State John Thurston,46,18,1,27
+Monroe,Holly Grove,Secretary of State,,REP,Secretary of State John Thurston,7,5,0,2
+Monroe,Duncan,Secretary of State,,REP,Secretary of State John Thurston,36,15,0,21
+Monroe,Rich/Greenfield/Fargo,Secretary of State,,REP,Secretary of State John Thurston,59,14,2,43
+Monroe,Cypress Ridge,Secretary of State,,REP,Secretary of State John Thurston,62,34,4,24
+Monroe,Hindman/Pine Ridge/Raymond,Secretary of State,,REP,Secretary of State John Thurston,48,28,0,20
+Monroe,Jackson/Cleburne/Mont./Smalley,Secretary of State,,REP,Secretary of State John Thurston,69,39,0,30
+Monroe,Roc Roe,Secretary of State,,REP,Secretary of State John Thurston,91,21,2,68
+Monroe,Brinkley Ward 1,State Treasurer,,REP,State Representative Mark Lowery,142,54,1,87
+Monroe,Brinkley Ward 2,State Treasurer,,REP,State Representative Mark Lowery,103,32,6,65
+Monroe,Brinkley Ward 3,State Treasurer,,REP,State Representative Mark Lowery,124,43,1,80
+Monroe,Clarendon Ward 1,State Treasurer,,REP,State Representative Mark Lowery,72,47,0,25
+Monroe,Clarendon Ward 2,State Treasurer,,REP,State Representative Mark Lowery,107,74,1,32
+Monroe,Clarendon Ward 3,State Treasurer,,REP,State Representative Mark Lowery,100,60,1,39
+Monroe,Brinkley/Dixon,State Treasurer,,REP,State Representative Mark Lowery,120,39,2,79
+Monroe,Cache,State Treasurer,,REP,State Representative Mark Lowery,44,33,0,11
+Monroe,Keevil,State Treasurer,,REP,State Representative Mark Lowery,49,20,1,28
+Monroe,Holly Grove,State Treasurer,,REP,State Representative Mark Lowery,13,8,0,5
+Monroe,Duncan,State Treasurer,,REP,State Representative Mark Lowery,36,15,0,21
+Monroe,Rich/Greenfield/Fargo,State Treasurer,,REP,State Representative Mark Lowery,58,14,2,42
+Monroe,Cypress Ridge,State Treasurer,,REP,State Representative Mark Lowery,69,38,4,27
+Monroe,Hindman/Pine Ridge/Raymond,State Treasurer,,REP,State Representative Mark Lowery,47,26,0,21
+Monroe,Jackson/Cleburne/Mont./Smalley,State Treasurer,,REP,State Representative Mark Lowery,70,38,0,32
+Monroe,Roc Roe,State Treasurer,,REP,State Representative Mark Lowery,93,23,2,68
+Monroe,Brinkley Ward 1,State Treasurer,,DEM,Pam Whitaker,114,50,4,60
+Monroe,Brinkley Ward 2,State Treasurer,,DEM,Pam Whitaker,128,53,2,73
+Monroe,Brinkley Ward 3,State Treasurer,,DEM,Pam Whitaker,127,46,3,78
+Monroe,Clarendon Ward 1,State Treasurer,,DEM,Pam Whitaker,90,60,1,29
+Monroe,Clarendon Ward 2,State Treasurer,,DEM,Pam Whitaker,68,36,1,31
+Monroe,Clarendon Ward 3,State Treasurer,,DEM,Pam Whitaker,64,39,0,25
+Monroe,Brinkley/Dixon,State Treasurer,,DEM,Pam Whitaker,42,11,6,25
+Monroe,Cache,State Treasurer,,DEM,Pam Whitaker,6,6,0,0
+Monroe,Keevil,State Treasurer,,DEM,Pam Whitaker,11,6,0,5
+Monroe,Holly Grove,State Treasurer,,DEM,Pam Whitaker,182,72,2,108
+Monroe,Duncan,State Treasurer,,DEM,Pam Whitaker,25,11,0,14
+Monroe,Rich/Greenfield/Fargo,State Treasurer,,DEM,Pam Whitaker,30,9,0,21
+Monroe,Cypress Ridge,State Treasurer,,DEM,Pam Whitaker,8,5,0,3
+Monroe,Hindman/Pine Ridge/Raymond,State Treasurer,,DEM,Pam Whitaker,12,8,0,4
+Monroe,Jackson/Cleburne/Mont./Smalley,State Treasurer,,DEM,Pam Whitaker,19,10,0,9
+Monroe,Roc Roe,State Treasurer,,DEM,Pam Whitaker,9,4,0,5
+Monroe,Brinkley Ward 1,State Senate,10,REP,Senator Ronald Caldwell,152,56,1,95
+Monroe,Brinkley Ward 2,State Senate,10,REP,Senator Ronald Caldwell,99,32,6,61
+Monroe,Brinkley Ward 3,State Senate,10,REP,Senator Ronald Caldwell,118,41,1,76
+Monroe,Clarendon Ward 1,State Senate,10,REP,Senator Ronald Caldwell,75,51,0,24
+Monroe,Clarendon Ward 2,State Senate,10,REP,Senator Ronald Caldwell,108,77,1,30
+Monroe,Clarendon Ward 3,State Senate,10,REP,Senator Ronald Caldwell,101,60,1,40
+Monroe,Brinkley/Dixon,State Senate,10,REP,Senator Ronald Caldwell,124,38,2,84
+Monroe,Cache,State Senate,10,REP,Senator Ronald Caldwell,43,33,0,10
+Monroe,Keevil,State Senate,10,REP,Senator Ronald Caldwell,51,21,1,29
+Monroe,Holly Grove,State Senate,10,REP,Senator Ronald Caldwell,17,12,0,5
+Monroe,Duncan,State Senate,10,REP,Senator Ronald Caldwell,39,17,0,22
+Monroe,Rich/Greenfield/Fargo,State Senate,10,REP,Senator Ronald Caldwell,61,14,2,45
+Monroe,Cypress Ridge,State Senate,10,REP,Senator Ronald Caldwell,69,37,4,28
+Monroe,Hindman/Pine Ridge/Raymond,State Senate,10,REP,Senator Ronald Caldwell,47,28,0,19
+Monroe,Jackson/Cleburne/Mont./Smalley,State Senate,10,REP,Senator Ronald Caldwell,71,39,0,32
+Monroe,Roc Roe,State Senate,10,REP,Senator Ronald Caldwell,88,19,2,67
+Monroe,Brinkley Ward 1,State Senate,10,DEM,Cliff Hart,104,48,4,52
+Monroe,Brinkley Ward 2,State Senate,10,DEM,Cliff Hart,129,54,2,73
+Monroe,Brinkley Ward 3,State Senate,10,DEM,Cliff Hart,130,51,2,77
+Monroe,Clarendon Ward 1,State Senate,10,DEM,Cliff Hart,85,55,1,29
+Monroe,Clarendon Ward 2,State Senate,10,DEM,Cliff Hart,69,35,1,33
+Monroe,Clarendon Ward 3,State Senate,10,DEM,Cliff Hart,62,37,0,25
+Monroe,Brinkley/Dixon,State Senate,10,DEM,Cliff Hart,39,11,6,22
+Monroe,Cache,State Senate,10,DEM,Cliff Hart,6,6,0,0
+Monroe,Keevil,State Senate,10,DEM,Cliff Hart,9,5,0,4
+Monroe,Holly Grove,State Senate,10,DEM,Cliff Hart,173,66,2,105
+Monroe,Duncan,State Senate,10,DEM,Cliff Hart,22,9,0,13
+Monroe,Rich/Greenfield/Fargo,State Senate,10,DEM,Cliff Hart,28,9,0,19
+Monroe,Cypress Ridge,State Senate,10,DEM,Cliff Hart,8,5,0,3
+Monroe,Hindman/Pine Ridge/Raymond,State Senate,10,DEM,Cliff Hart,11,6,0,5
+Monroe,Jackson/Cleburne/Mont./Smalley,State Senate,10,DEM,Cliff Hart,18,10,0,8
+Monroe,Roc Roe,State Senate,10,DEM,Cliff Hart,9,5,0,4
+Monroe,Brinkley Ward 1,State House,61,REP,Jeremiah Moore,150,60,1,89
+Monroe,Brinkley Ward 2,State House,61,REP,Jeremiah Moore,97,31,6,60
+Monroe,Brinkley Ward 3,State House,61,REP,Jeremiah Moore,121,42,1,78
+Monroe,Clarendon Ward 1,State House,61,REP,Jeremiah Moore,83,57,0,26
+Monroe,Clarendon Ward 2,State House,61,REP,Jeremiah Moore,114,78,0,36
+Monroe,Clarendon Ward 3,State House,61,REP,Jeremiah Moore,114,69,1,44
+Monroe,Brinkley/Dixon,State House,61,REP,Jeremiah Moore,98,34,2,62
+Monroe,Cache,State House,61,REP,Jeremiah Moore,43,32,0,11
+Monroe,Keevil,State House,61,REP,Jeremiah Moore,26,9,0,17
+Monroe,Rich/Greenfield/Fargo,State House,61,REP,Jeremiah Moore,60,14,2,44
+Monroe,Hindman/Pine Ridge/Raymond,State House,61,REP,Jeremiah Moore,0,0,0,0
+Monroe,Roc Roe,State House,61,REP,Jeremiah Moore,92,23,2,67
+Monroe,Brinkley Ward 1,State House,61,LIB,Garrett Sheeks,4,2,0,2
+Monroe,Brinkley Ward 2,State House,61,LIB,Garrett Sheeks,6,3,0,3
+Monroe,Brinkley Ward 3,State House,61,LIB,Garrett Sheeks,4,0,0,4
+Monroe,Clarendon Ward 1,State House,61,LIB,Garrett Sheeks,2,0,0,2
+Monroe,Clarendon Ward 2,State House,61,LIB,Garrett Sheeks,2,1,0,1
+Monroe,Clarendon Ward 3,State House,61,LIB,Garrett Sheeks,1,0,0,1
+Monroe,Brinkley/Dixon,State House,61,LIB,Garrett Sheeks,1,0,0,1
+Monroe,Cache,State House,61,LIB,Garrett Sheeks,1,1,0,0
+Monroe,Keevil,State House,61,LIB,Garrett Sheeks,0,0,0,0
+Monroe,Rich/Greenfield/Fargo,State House,61,LIB,Garrett Sheeks,2,0,0,2
+Monroe,Hindman/Pine Ridge/Raymond,State House,61,LIB,Garrett Sheeks,0,0,0,0
+Monroe,Roc Roe,State House,61,LIB,Garrett Sheeks,2,0,0,2
+Monroe,Brinkley Ward 1,State House,61,DEM,Bruce Martin,110,46,4,60
+Monroe,Brinkley Ward 2,State House,61,DEM,Bruce Martin,129,53,2,74
+Monroe,Brinkley Ward 3,State House,61,DEM,Bruce Martin,131,50,3,78
+Monroe,Clarendon Ward 1,State House,61,DEM,Bruce Martin,79,51,1,27
+Monroe,Clarendon Ward 2,State House,61,DEM,Bruce Martin,63,34,2,27
+Monroe,Clarendon Ward 3,State House,61,DEM,Bruce Martin,51,31,0,20
+Monroe,Brinkley/Dixon,State House,61,DEM,Bruce Martin,11,5,2,4
+Monroe,Cache,State House,61,DEM,Bruce Martin,6,6,0,0
+Monroe,Keevil,State House,61,DEM,Bruce Martin,10,7,0,3
+Monroe,Rich/Greenfield/Fargo,State House,61,DEM,Bruce Martin,28,9,0,19
+Monroe,Hindman/Pine Ridge/Raymond,State House,61,DEM,Bruce Martin,0,0,0,0
+Monroe,Roc Roe,State House,61,DEM,Bruce Martin,9,5,0,4
+Monroe,Brinkley Ward 2,State House,62,REP,Representative Mark D. McElroy,0,0,0,0
+Monroe,Brinkley/Dixon,State House,62,REP,Representative Mark D. McElroy,25,6,0,19
+Monroe,Holly Grove,State House,62,REP,Representative Mark D. McElroy,10,7,0,3
+Monroe,Duncan,State House,62,REP,Representative Mark D. McElroy,36,15,0,21
+Monroe,Cypress Ridge,State House,62,REP,Representative Mark D. McElroy,68,36,4,28
+Monroe,Hindman/Pine Ridge/Raymond,State House,62,REP,Representative Mark D. McElroy,46,28,0,18
+Monroe,Jackson/Cleburne/Mont./Smalley,State House,62,REP,Representative Mark D. McElroy,71,39,0,32
+Monroe,Brinkley Ward 2,State House,62,DEM,Dexter R. Miller,0,0,0,0
+Monroe,Brinkley/Dixon,State House,62,DEM,Dexter R. Miller,31,6,4,21
+Monroe,Holly Grove,State House,62,DEM,Dexter R. Miller,188,75,1,112
+Monroe,Duncan,State House,62,DEM,Dexter R. Miller,26,12,0,14
+Monroe,Cypress Ridge,State House,62,DEM,Dexter R. Miller,10,7,0,3
+Monroe,Hindman/Pine Ridge/Raymond,State House,62,DEM,Dexter R. Miller,11,4,0,7
+Monroe,Jackson/Cleburne/Mont./Smalley,State House,62,DEM,Dexter R. Miller,19,10,0,9
+Monroe,Brinkley Ward 1,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,144,55,4,85
+Monroe,Brinkley Ward 2,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,107,41,2,64
+Monroe,Brinkley Ward 3,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,141,50,0,91
+Monroe,Clarendon Ward 1,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,89,59,1,29
+Monroe,Clarendon Ward 2,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,97,58,2,37
+Monroe,Clarendon Ward 3,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,85,54,1,30
+Monroe,Brinkley/Dixon,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,97,33,5,59
+Monroe,Cache,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,24,19,0,5
+Monroe,Keevil,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,32,17,1,14
+Monroe,Holly Grove,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,65,30,1,34
+Monroe,Duncan,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,34,16,0,18
+Monroe,Rich/Greenfield/Fargo,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,44,13,1,30
+Monroe,Cypress Ridge,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,46,22,4,20
+Monroe,Hindman/Pine Ridge/Raymond,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,28,14,0,14
+Monroe,Jackson/Cleburne/Mont./Smalley,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,42,25,0,17
+Monroe,Roc Roe,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,47,5,0,42
+Monroe,Brinkley Ward 1,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,85,39,0,46
+Monroe,Brinkley Ward 2,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,90,28,6,56
+Monroe,Brinkley Ward 3,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,95,33,4,58
+Monroe,Clarendon Ward 1,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,54,38,0,16
+Monroe,Clarendon Ward 2,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,61,41,0,20
+Monroe,Clarendon Ward 3,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,59,35,0,24
+Monroe,Brinkley/Dixon,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,52,15,2,35
+Monroe,Cache,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,20,15,0,5
+Monroe,Keevil,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,20,8,0,12
+Monroe,Holly Grove,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,94,40,0,54
+Monroe,Duncan,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,19,10,0,9
+Monroe,Rich/Greenfield/Fargo,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,34,8,1,25
+Monroe,Cypress Ridge,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,18,11,0,7
+Monroe,Hindman/Pine Ridge/Raymond,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,22,15,0,7
+Monroe,Jackson/Cleburne/Mont./Smalley,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,29,14,0,15
+Monroe,Roc Roe,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,36,15,2,19
+Monroe,Brinkley Ward 1,County Judge,,REP,REP Richard Bubba Smith,78,34,1,43
+Monroe,Brinkley Ward 2,County Judge,,REP,REP Richard Bubba Smith,63,20,2,41
+Monroe,Brinkley Ward 3,County Judge,,REP,REP Richard Bubba Smith,56,18,2,36
+Monroe,Clarendon Ward 1,County Judge,,REP,REP Richard Bubba Smith,49,33,0,16
+Monroe,Clarendon Ward 2,County Judge,,REP,REP Richard Bubba Smith,68,46,0,22
+Monroe,Clarendon Ward 3,County Judge,,REP,REP Richard Bubba Smith,50,28,1,21
+Monroe,Brinkley/Dixon,County Judge,,REP,REP Richard Bubba Smith,57,21,0,36
+Monroe,Cache,County Judge,,REP,REP Richard Bubba Smith,20,13,0,7
+Monroe,Keevil,County Judge,,REP,REP Richard Bubba Smith,25,11,0,14
+Monroe,Holly Grove,County Judge,,REP,REP Richard Bubba Smith,22,5,0,17
+Monroe,Duncan,County Judge,,REP,REP Richard Bubba Smith,26,8,0,18
+Monroe,Rich/Greenfield/Fargo,County Judge,,REP,REP Richard Bubba Smith,31,6,2,23
+Monroe,Cypress Ridge,County Judge,,REP,REP Richard Bubba Smith,19,10,0,9
+Monroe,Hindman/Pine Ridge/Raymond,County Judge,,REP,REP Richard Bubba Smith,24,12,0,12
+Monroe,Jackson/Cleburne/Mont./Smalley,County Judge,,REP,REP Richard Bubba Smith,44,22,0,22
+Monroe,Roc Roe,County Judge,,REP,REP Richard Bubba Smith,74,20,2,52
+Monroe,Brinkley Ward 1,County Judge,,DEM,DEM P.K. Norman,186,74,4,108
+Monroe,Brinkley Ward 2,County Judge,,DEM,DEM P.K. Norman,172,67,6,99
+Monroe,Brinkley Ward 3,County Judge,,DEM,DEM P.K. Norman,202,75,2,125
+Monroe,Clarendon Ward 1,County Judge,,DEM,DEM P.K. Norman,114,75,1,38
+Monroe,Clarendon Ward 2,County Judge,,DEM,DEM P.K. Norman,110,65,3,42
+Monroe,Clarendon Ward 3,County Judge,,DEM,DEM P.K. Norman,116,73,0,43
+Monroe,Brinkley/Dixon,County Judge,,DEM,DEM P.K. Norman,112,33,8,71
+Monroe,Cache,County Judge,,DEM,DEM P.K. Norman,30,26,0,4
+Monroe,Keevil,County Judge,,DEM,DEM P.K. Norman,34,15,1,18
+Monroe,Holly Grove,County Judge,,DEM,DEM P.K. Norman,179,78,2,99
+Monroe,Duncan,County Judge,,DEM,DEM P.K. Norman,36,19,0,17
+Monroe,Rich/Greenfield/Fargo,County Judge,,DEM,DEM P.K. Norman,57,17,0,40
+Monroe,Cypress Ridge,County Judge,,DEM,DEM P.K. Norman,58,33,4,21
+Monroe,Hindman/Pine Ridge/Raymond,County Judge,,DEM,DEM P.K. Norman,35,22,0,13
+Monroe,Jackson/Cleburne/Mont./Smalley,County Judge,,DEM,DEM P.K. Norman,46,27,0,19
+Monroe,Roc Roe,County Judge,,DEM,DEM P.K. Norman,28,8,0,20
+Monroe,Brinkley Ward 1,Sheriff,,REP,REP Allan Spencer,84,31,0,53
+Monroe,Brinkley Ward 2,Sheriff,,REP,REP Allan Spencer,73,22,4,47
+Monroe,Brinkley Ward 3,Sheriff,,REP,REP Allan Spencer,84,30,2,52
+Monroe,Clarendon Ward 1,Sheriff,,REP,REP Allan Spencer,94,66,0,28
+Monroe,Clarendon Ward 2,Sheriff,,REP,REP Allan Spencer,114,73,2,39
+Monroe,Clarendon Ward 3,Sheriff,,REP,REP Allan Spencer,102,60,0,42
+Monroe,Brinkley/Dixon,Sheriff,,REP,REP Allan Spencer,61,21,0,40
+Monroe,Cache,Sheriff,,REP,REP Allan Spencer,36,29,0,7
+Monroe,Keevil,Sheriff,,REP,REP Allan Spencer,28,13,0,15
+Monroe,Holly Grove,Sheriff,,REP,REP Allan Spencer,31,14,0,17
+Monroe,Duncan,Sheriff,,REP,REP Allan Spencer,27,15,0,12
+Monroe,Rich/Greenfield/Fargo,Sheriff,,REP,REP Allan Spencer,41,13,2,26
+Monroe,Cypress Ridge,Sheriff,,REP,REP Allan Spencer,38,18,4,16
+Monroe,Hindman/Pine Ridge/Raymond,Sheriff,,REP,REP Allan Spencer,31,20,0,11
+Monroe,Jackson/Cleburne/Mont./Smalley,Sheriff,,REP,REP Allan Spencer,44,23,0,21
+Monroe,Roc Roe,Sheriff,,REP,REP Allan Spencer,73,17,1,55
+Monroe,Brinkley Ward 1,Sheriff,,DEM,DEM Michael K. Neal,176,74,5,97
+Monroe,Brinkley Ward 2,Sheriff,,DEM,DEM Michael K. Neal,160,67,4,89
+Monroe,Brinkley Ward 3,Sheriff,,DEM,DEM Michael K. Neal,175,63,2,110
+Monroe,Clarendon Ward 1,Sheriff,,DEM,DEM Michael K. Neal,72,44,1,27
+Monroe,Clarendon Ward 2,Sheriff,,DEM,DEM Michael K. Neal,64,38,1,25
+Monroe,Clarendon Ward 3,Sheriff,,DEM,DEM Michael K. Neal,68,43,1,24
+Monroe,Brinkley/Dixon,Sheriff,,DEM,DEM Michael K. Neal,106,31,8,67
+Monroe,Cache,Sheriff,,DEM,DEM Michael K. Neal,14,10,0,4
+Monroe,Keevil,Sheriff,,DEM,DEM Michael K. Neal,31,13,1,17
+Monroe,Holly Grove,Sheriff,,DEM,DEM Michael K. Neal,168,65,2,101
+Monroe,Duncan,Sheriff,,DEM,DEM Michael K. Neal,34,11,0,23
+Monroe,Rich/Greenfield/Fargo,Sheriff,,DEM,DEM Michael K. Neal,45,9,0,36
+Monroe,Cypress Ridge,Sheriff,,DEM,DEM Michael K. Neal,40,25,0,15
+Monroe,Hindman/Pine Ridge/Raymond,Sheriff,,DEM,DEM Michael K. Neal,25,12,0,13
+Monroe,Jackson/Cleburne/Mont./Smalley,Sheriff,,DEM,DEM Michael K. Neal,45,26,0,19
+Monroe,Roc Roe,Sheriff,,DEM,DEM Michael K. Neal,28,8,1,19
+Monroe,Brinkley Ward 1,Treasurer/Collector,,IND,IND Jessica Kersey Self,69,21,0,48
+Monroe,Brinkley Ward 2,Treasurer/Collector,,IND,IND Jessica Kersey Self,62,15,2,45
+Monroe,Brinkley Ward 3,Treasurer/Collector,,IND,IND Jessica Kersey Self,70,25,1,44
+Monroe,Clarendon Ward 1,Treasurer/Collector,,IND,IND Jessica Kersey Self,61,40,0,21
+Monroe,Clarendon Ward 2,Treasurer/Collector,,IND,IND Jessica Kersey Self,63,37,1,25
+Monroe,Clarendon Ward 3,Treasurer/Collector,,IND,IND Jessica Kersey Self,49,25,0,24
+Monroe,Brinkley/Dixon,Treasurer/Collector,,IND,IND Jessica Kersey Self,62,22,1,39
+Monroe,Cache,Treasurer/Collector,,IND,IND Jessica Kersey Self,13,12,0,1
+Monroe,Keevil,Treasurer/Collector,,IND,IND Jessica Kersey Self,21,11,0,10
+Monroe,Holly Grove,Treasurer/Collector,,IND,IND Jessica Kersey Self,42,19,0,23
+Monroe,Duncan,Treasurer/Collector,,IND,IND Jessica Kersey Self,24,9,0,15
+Monroe,Rich/Greenfield/Fargo,Treasurer/Collector,,IND,IND Jessica Kersey Self,38,10,2,26
+Monroe,Cypress Ridge,Treasurer/Collector,,IND,IND Jessica Kersey Self,23,8,1,14
+Monroe,Hindman/Pine Ridge/Raymond,Treasurer/Collector,,IND,IND Jessica Kersey Self,13,5,0,8
+Monroe,Jackson/Cleburne/Mont./Smalley,Treasurer/Collector,,IND,IND Jessica Kersey Self,27,9,0,18
+Monroe,Roc Roe,Treasurer/Collector,,IND,IND Jessica Kersey Self,36,8,0,28
+Monroe,Brinkley Ward 1,Treasurer/Collector,,DEM,DEM Steve Mitchell,186,85,5,96
+Monroe,Brinkley Ward 2,Treasurer/Collector,,DEM,DEM Steve Mitchell,174,74,6,94
+Monroe,Brinkley Ward 3,Treasurer/Collector,,DEM,DEM Steve Mitchell,185,68,3,114
+Monroe,Clarendon Ward 1,Treasurer/Collector,,DEM,DEM Steve Mitchell,104,69,1,34
+Monroe,Clarendon Ward 2,Treasurer/Collector,,DEM,DEM Steve Mitchell,116,76,2,38
+Monroe,Clarendon Ward 3,Treasurer/Collector,,DEM,DEM Steve Mitchell,117,74,1,42
+Monroe,Brinkley/Dixon,Treasurer/Collector,,DEM,DEM Steve Mitchell,99,28,7,64
+Monroe,Cache,Treasurer/Collector,,DEM,DEM Steve Mitchell,34,24,0,10
+Monroe,Keevil,Treasurer/Collector,,DEM,DEM Steve Mitchell,35,15,1,19
+Monroe,Holly Grove,Treasurer/Collector,,DEM,DEM Steve Mitchell,156,62,2,92
+Monroe,Duncan,Treasurer/Collector,,DEM,DEM Steve Mitchell,38,18,0,20
+Monroe,Rich/Greenfield/Fargo,Treasurer/Collector,,DEM,DEM Steve Mitchell,48,12,0,36
+Monroe,Cypress Ridge,Treasurer/Collector,,DEM,DEM Steve Mitchell,53,33,3,17
+Monroe,Hindman/Pine Ridge/Raymond,Treasurer/Collector,,DEM,DEM Steve Mitchell,40,24,0,16
+Monroe,Jackson/Cleburne/Mont./Smalley,Treasurer/Collector,,DEM,DEM Steve Mitchell,58,38,0,20
+Monroe,Roc Roe,Treasurer/Collector,,DEM,DEM Steve Mitchell,59,18,2,39
+Monroe,Brinkley Ward 1,Justice of the Peace District 1 Justice of the Pe,,IND,IND Jessica Kalen Armstrong,7,1,1,5
+Monroe,Brinkley Ward 2,Justice of the Peace District 1 Justice of the Pe,,IND,IND Jessica Kalen Armstrong,20,6,2,12
+Monroe,Brinkley Ward 3,Justice of the Peace District 1 Justice of the Pe,,IND,IND Jessica Kalen Armstrong,3,1,0,2
+Monroe,Brinkley/Dixon,Justice of the Peace District 1 Justice of the Pe,,IND,IND Jessica Kalen Armstrong,0,0,0,0
+Monroe,Rich/Greenfield/Fargo,Justice of the Peace District 1 Justice of the Pe,,IND,IND Jessica Kalen Armstrong,60,14,2,44
+Monroe,Brinkley Ward 1,Justice of the Peace District 1 Justice of the Pe,,DEM,DEM Cathy Shelton,18,7,0,11
+Monroe,Brinkley Ward 2,Justice of the Peace District 1 Justice of the Pe,,DEM,DEM Cathy Shelton,74,37,2,35
+Monroe,Brinkley Ward 3,Justice of the Peace District 1 Justice of the Pe,,DEM,DEM Cathy Shelton,4,2,0,2
+Monroe,Brinkley/Dixon,Justice of the Peace District 1 Justice of the Pe,,DEM,DEM Cathy Shelton,1,0,1,0
+Monroe,Rich/Greenfield/Fargo,Justice of the Peace District 1 Justice of the Pe,,DEM,DEM Cathy Shelton,25,9,0,16
+Monroe,Clarendon Ward 2,Justice of the Peace District 7 Justice of the Pe,,DEM,DEM David E. Smith,56,34,2,20
+Monroe,Clarendon Ward 3,Justice of the Peace District 7 Justice of the Pe,,DEM,DEM David E. Smith,66,43,0,23
+Monroe,Clarendon Ward 2,Justice of the Peace District 7 Justice of the Pe,,REP,REP Jimmy Rogers,73,47,1,25
+Monroe,Clarendon Ward 3,Justice of the Peace District 7 Justice of the Pe,,REP,REP Jimmy Rogers,101,56,1,44
+Monroe,Brinkley Ward 1,Circuit Clerk,,DEM,DEM Alice F. Smith,228,96,5,127
+Monroe,Brinkley Ward 2,Circuit Clerk,,DEM,DEM Alice F. Smith,201,74,6,121
+Monroe,Brinkley Ward 3,Circuit Clerk,,DEM,DEM Alice F. Smith,231,87,3,141
+Monroe,Clarendon Ward 1,Circuit Clerk,,DEM,DEM Alice F. Smith,148,99,1,48
+Monroe,Clarendon Ward 2,Circuit Clerk,,DEM,DEM Alice F. Smith,162,100,2,60
+Monroe,Clarendon Ward 3,Circuit Clerk,,DEM,DEM Alice F. Smith,153,94,1,58
+Monroe,Brinkley/Dixon,Circuit Clerk,,DEM,DEM Alice F. Smith,138,44,8,86
+Monroe,Cache,Circuit Clerk,,DEM,DEM Alice F. Smith,46,35,0,11
+Monroe,Keevil,Circuit Clerk,,DEM,DEM Alice F. Smith,50,22,1,27
+Monroe,Holly Grove,Circuit Clerk,,DEM,DEM Alice F. Smith,184,77,2,105
+Monroe,Duncan,Circuit Clerk,,DEM,DEM Alice F. Smith,60,27,0,33
+Monroe,Rich/Greenfield/Fargo,Circuit Clerk,,DEM,DEM Alice F. Smith,80,21,2,57
+Monroe,Cypress Ridge,Circuit Clerk,,DEM,DEM Alice F. Smith,68,37,4,27
+Monroe,Hindman/Pine Ridge/Raymond,Circuit Clerk,,DEM,DEM Alice F. Smith,51,31,0,20
+Monroe,Jackson/Cleburne/Mont./Smalley,Circuit Clerk,,DEM,DEM Alice F. Smith,77,41,0,36
+Monroe,Roc Roe,Circuit Clerk,,DEM,DEM Alice F. Smith,91,24,2,65
+Monroe,Brinkley Ward 1,Brinkley Mayor Brinkley Municipal,,IND,IND Billy Hankins,105,41,0,64
+Monroe,Brinkley Ward 2,Brinkley Mayor Brinkley Municipal,,IND,IND Billy Hankins,87,25,5,57
+Monroe,Brinkley Ward 3,Brinkley Mayor Brinkley Municipal,,IND,IND Billy Hankins,76,23,0,53
+Monroe,Brinkley Ward 1,Brinkley Mayor Brinkley Municipal,,IND,IND Della Mae Skinner,13,4,0,9
+Monroe,Brinkley Ward 2,Brinkley Mayor Brinkley Municipal,,IND,IND Della Mae Skinner,22,10,0,12
+Monroe,Brinkley Ward 3,Brinkley Mayor Brinkley Municipal,,IND,IND Della Mae Skinner,17,5,0,12
+Monroe,Brinkley Ward 1,Brinkley Mayor Brinkley Municipal,,IND,IND Oscar M. Conyears,78,36,4,38
+Monroe,Brinkley Ward 2,Brinkley Mayor Brinkley Municipal,,IND,IND Oscar M. Conyears,104,44,2,58
+Monroe,Brinkley Ward 3,Brinkley Mayor Brinkley Municipal,,IND,IND Oscar M. Conyears,109,46,3,60
+Monroe,Brinkley Ward 1,Brinkley Mayor Brinkley Municipal,,IND,IND Billy R. Linderman,70,27,1,42
+Monroe,Brinkley Ward 2,Brinkley Mayor Brinkley Municipal,,IND,IND Billy R. Linderman,25,10,1,14
+Monroe,Brinkley Ward 3,Brinkley Mayor Brinkley Municipal,,IND,IND Billy R. Linderman,58,19,1,38
+Monroe,Brinkley Ward 1,Brinkley City Clerk Brinkley Municipal,,IND,IND Sarah J. Rollins,223,92,5,126
+Monroe,Brinkley Ward 2,Brinkley City Clerk Brinkley Municipal,,IND,IND Sarah J. Rollins,197,68,6,123
+Monroe,Brinkley Ward 3,Brinkley City Clerk Brinkley Municipal,,IND,IND Sarah J. Rollins,230,81,3,146
+Monroe,Brinkley Ward 1,Brinkley Alderman Ward 1 Position 1 Brinkley Alde,,IND,IND Darren L. Sloate,84,26,1,57
+Monroe,Brinkley Ward 1,Brinkley Alderman Ward 1 Position 1 Brinkley Alde,,IND,IND Richard A. Ray,71,39,3,29
+Monroe,Brinkley Ward 1,Brinkley Alderman Ward 1 Position 1 Brinkley Alde,,IND,IND Scott F. Schindler,98,39,1,58
+Monroe,Clarendon Ward 1,Clarendon Mayor Clarendon Municipal,,IND,IND Leo Betts Jr.,34,18,0,16
+Monroe,Clarendon Ward 2,Clarendon Mayor Clarendon Municipal,,IND,IND Leo Betts Jr.,35,22,0,13
+Monroe,Clarendon Ward 3,Clarendon Mayor Clarendon Municipal,,IND,IND Leo Betts Jr.,31,17,0,14
+Monroe,Clarendon Ward 1,Clarendon Mayor Clarendon Municipal,,IND,IND Diane Cunningham,128,89,1,38
+Monroe,Clarendon Ward 2,Clarendon Mayor Clarendon Municipal,,IND,IND Diane Cunningham,141,87,3,51
+Monroe,Clarendon Ward 3,Clarendon Mayor Clarendon Municipal,,IND,IND Diane Cunningham,137,85,1,51
+Monroe,Clarendon Ward 1,Clarendon City Clerk Clarendon Municipal,,IND,IND Angie Baker,145,94,1,50
+Monroe,Clarendon Ward 2,Clarendon City Clerk Clarendon Municipal,,IND,IND Angie Baker,155,97,2,56
+Monroe,Clarendon Ward 3,Clarendon City Clerk Clarendon Municipal,,IND,IND Angie Baker,146,88,1,57
+Monroe,Rich/Greenfield/Fargo,Fargo Mayor Fargo Mayor,,IND,IND Derrick Young,76,20,2,54
+Monroe,Holly Grove,Holly Grove Mayor Holly Grove Municipal,,IND,IND Willie B. Stokes,174,73,2,99
+Monroe,Holly Grove,Holly Grove Mayor Holly Grove Municipal,,IND,IND Charles Hayden,19,8,0,11
+Monroe,Holly Grove,Holly Grove Mayor Holly Grove Municipal,,IND,IND Rakiyah Banks,18,4,0,14
+Monroe,Holly Grove,Holly Grove City Council Ward 1 Position 1 Holly,,IND,IND Montae'l Z. Williams,112,46,1,65
+Monroe,Holly Grove,Holly Grove City Council Ward 1 Position 1 Holly,,IND,IND Sandra Piggee,88,33,1,54
+Monroe,Clarendon Ward 1,Clarendon 1% Sales and Use Tax Clarendon 1% Sales,,NON,FOR adoption of a 1% local sales and,97,61,0,36
+Monroe,Clarendon Ward 2,Clarendon 1% Sales and Use Tax Clarendon 1% Sales,,NON,FOR adoption of a 1% local sales and,111,75,2,34
+Monroe,Clarendon Ward 3,Clarendon 1% Sales and Use Tax Clarendon 1% Sales,,NON,FOR adoption of a 1% local sales and,111,66,1,44
+Monroe,Clarendon Ward 1,Clarendon 1% Sales and Use Tax Clarendon 1% Sales,,NON,AGAINST adoption of a 1% local sales,61,42,1,18
+Monroe,Clarendon Ward 2,Clarendon 1% Sales and Use Tax Clarendon 1% Sales,,NON,AGAINST adoption of a 1% local sales,66,36,0,30
+Monroe,Clarendon Ward 3,Clarendon 1% Sales and Use Tax Clarendon 1% Sales,,NON,AGAINST adoption of a 1% local sales,54,34,0,20
+Monroe,Brinkley Ward 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,92,41,4,47
+Monroe,Brinkley Ward 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,79,34,1,44
+Monroe,Brinkley Ward 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,105,31,2,72
+Monroe,Clarendon Ward 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,62,42,0,20
+Monroe,Clarendon Ward 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,55,37,1,17
+Monroe,Clarendon Ward 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,54,30,0,24
+Monroe,Brinkley/Dixon,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,43,9,2,32
+Monroe,Cache,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,13,8,0,5
+Monroe,Keevil,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,19,9,1,9
+Monroe,Holly Grove,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,69,25,1,43
+Monroe,Duncan,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,19,11,0,8
+Monroe,Rich/Greenfield/Fargo,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,19,7,0,12
+Monroe,Cypress Ridge,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,23,9,3,11
+Monroe,Hindman/Pine Ridge/Raymond,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,14,6,0,8
+Monroe,Jackson/Cleburne/Mont./Smalley,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,26,11,0,15
+Monroe,Roc Roe,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,27,12,0,15
+Monroe,Brinkley Ward 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,162,65,1,96
+Monroe,Brinkley Ward 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,149,54,7,88
+Monroe,Brinkley Ward 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,143,57,2,84
+Monroe,Clarendon Ward 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,93,64,1,28
+Monroe,Clarendon Ward 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,113,66,1,46
+Monroe,Clarendon Ward 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,106,66,0,40
+Monroe,Brinkley/Dixon,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,122,43,5,74
+Monroe,Cache,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,33,30,0,3
+Monroe,Keevil,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,38,16,0,22
+Monroe,Holly Grove,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,117,49,0,68
+Monroe,Duncan,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,42,15,0,27
+Monroe,Rich/Greenfield/Fargo,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,69,14,2,53
+Monroe,Cypress Ridge,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,53,34,1,18
+Monroe,Hindman/Pine Ridge/Raymond,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,43,28,0,15
+Monroe,Jackson/Cleburne/Mont./Smalley,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,59,35,0,24
+Monroe,Roc Roe,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,67,14,1,52
+Monroe,Brinkley Ward 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,105,43,2,60
+Monroe,Brinkley Ward 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,83,32,4,47
+Monroe,Brinkley Ward 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,100,37,3,60
+Monroe,Clarendon Ward 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,60,44,0,16
+Monroe,Clarendon Ward 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,66,48,0,18
+Monroe,Clarendon Ward 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,78,44,0,34
+Monroe,Brinkley/Dixon,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,69,23,4,42
+Monroe,Cache,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,23,19,0,4
+Monroe,Keevil,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,17,7,1,9
+Monroe,Holly Grove,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,79,38,1,40
+Monroe,Duncan,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,26,8,0,18
+Monroe,Rich/Greenfield/Fargo,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,34,5,1,28
+Monroe,Cypress Ridge,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,30,14,2,14
+Monroe,Hindman/Pine Ridge/Raymond,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,24,14,0,10
+Monroe,Jackson/Cleburne/Mont./Smalley,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,33,17,0,16
+Monroe,Roc Roe,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,36,13,1,22
+Monroe,Brinkley Ward 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,153,61,3,89
+Monroe,Brinkley Ward 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,149,57,4,88
+Monroe,Brinkley Ward 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,149,54,1,94
+Monroe,Clarendon Ward 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,93,59,1,33
+Monroe,Clarendon Ward 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,104,58,1,45
+Monroe,Clarendon Ward 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,82,52,0,30
+Monroe,Brinkley/Dixon,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,97,29,3,65
+Monroe,Cache,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,25,20,0,5
+Monroe,Keevil,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,40,18,0,22
+Monroe,Holly Grove,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,113,38,1,74
+Monroe,Duncan,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,35,18,0,17
+Monroe,Rich/Greenfield/Fargo,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,54,16,1,37
+Monroe,Cypress Ridge,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,46,29,2,15
+Monroe,Hindman/Pine Ridge/Raymond,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,34,20,0,14
+Monroe,Jackson/Cleburne/Mont./Smalley,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,50,29,0,21
+Monroe,Roc Roe,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,63,15,0,48
+Monroe,Brinkley Ward 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,145,66,2,77
+Monroe,Brinkley Ward 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,127,43,5,79
+Monroe,Brinkley Ward 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,131,45,3,83
+Monroe,Clarendon Ward 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,84,55,0,29
+Monroe,Clarendon Ward 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,73,50,1,22
+Monroe,Clarendon Ward 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,102,60,1,41
+Monroe,Brinkley/Dixon,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,70,19,1,50
+Monroe,Cache,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,26,20,0,6
+Monroe,Keevil,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,33,16,0,17
+Monroe,Holly Grove,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,107,50,1,56
+Monroe,Duncan,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,25,11,0,14
+Monroe,Rich/Greenfield/Fargo,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,38,9,1,28
+Monroe,Cypress Ridge,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,34,19,2,13
+Monroe,Hindman/Pine Ridge/Raymond,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,31,15,0,16
+Monroe,Jackson/Cleburne/Mont./Smalley,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,45,23,0,22
+Monroe,Roc Roe,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,48,13,0,35
+Monroe,Brinkley Ward 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,112,37,2,73
+Monroe,Brinkley Ward 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,104,44,3,57
+Monroe,Brinkley Ward 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,118,44,1,73
+Monroe,Clarendon Ward 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,72,49,1,22
+Monroe,Clarendon Ward 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,98,56,1,41
+Monroe,Clarendon Ward 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,62,38,0,24
+Monroe,Brinkley/Dixon,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,95,33,6,56
+Monroe,Cache,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,22,18,0,4
+Monroe,Keevil,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,26,10,1,15
+Monroe,Holly Grove,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,82,27,0,55
+Monroe,Duncan,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,36,15,0,21
+Monroe,Rich/Greenfield/Fargo,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,51,13,1,37
+Monroe,Cypress Ridge,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,43,24,2,17
+Monroe,Hindman/Pine Ridge/Raymond,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,25,16,0,9
+Monroe,Jackson/Cleburne/Mont./Smalley,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,39,23,0,16
+Monroe,Roc Roe,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,50,13,1,36
+Monroe,Brinkley Ward 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,126,55,2,69
+Monroe,Brinkley Ward 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,112,49,3,60
+Monroe,Brinkley Ward 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,129,50,2,77
+Monroe,Clarendon Ward 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,102,65,1,36
+Monroe,Clarendon Ward 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,86,48,2,36
+Monroe,Clarendon Ward 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,73,40,0,33
+Monroe,Brinkley/Dixon,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,71,29,2,40
+Monroe,Cache,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,17,13,0,4
+Monroe,Keevil,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,17,9,0,8
+Monroe,Holly Grove,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,149,55,1,93
+Monroe,Duncan,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,27,10,0,17
+Monroe,Rich/Greenfield/Fargo,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,33,11,0,22
+Monroe,Cypress Ridge,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,24,14,0,10
+Monroe,Hindman/Pine Ridge/Raymond,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,16,9,0,7
+Monroe,Jackson/Cleburne/Mont./Smalley,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,31,11,0,20
+Monroe,Roc Roe,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,35,10,1,24
+Monroe,Brinkley Ward 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,137,51,3,83
+Monroe,Brinkley Ward 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,128,42,5,81
+Monroe,Brinkley Ward 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,130,43,2,85
+Monroe,Clarendon Ward 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,63,44,0,19
+Monroe,Clarendon Ward 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,91,63,0,28
+Monroe,Clarendon Ward 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,96,61,1,34
+Monroe,Brinkley/Dixon,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,95,25,5,65
+Monroe,Cache,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,33,26,0,7
+Monroe,Keevil,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,42,16,1,25
+Monroe,Holly Grove,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,58,26,1,31
+Monroe,Duncan,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,35,17,0,18
+Monroe,Rich/Greenfield/Fargo,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,57,12,2,43
+Monroe,Cypress Ridge,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,52,29,4,19
+Monroe,Hindman/Pine Ridge/Raymond,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,43,25,0,18
+Monroe,Jackson/Cleburne/Mont./Smalley,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,59,37,0,22
+Monroe,Roc Roe,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,68,18,1,49

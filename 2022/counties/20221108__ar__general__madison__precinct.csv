@@ -1,0 +1,465 @@
+county,precinct,office,district,party,candidate,votes,early_vote,absentee,election_day
+Madison,Alabam,U.S. Senate,,REP,Senator John Boozman,591,271,13,307
+Madison,Hilburn,U.S. Senate,,REP,Senator John Boozman,514,94,11,409
+Madison,Kings River,U.S. Senate,,REP,Senator John Boozman,349,102,1,246
+Madison,Lamar,U.S. Senate,,REP,Senator John Boozman,727,219,9,499
+Madison,Prairie,U.S. Senate,,REP,Senator John Boozman,832,302,4,526
+Madison,War Eagle,U.S. Senate,,REP,Senator John Boozman,1050,594,18,438
+Madison,Ward 1,U.S. Senate,,REP,Senator John Boozman,68,43,1,24
+Madison,Ward 2,U.S. Senate,,REP,Senator John Boozman,56,42,1,13
+Madison,Ward 3,U.S. Senate,,REP,Senator John Boozman,174,102,1,71
+Madison,Ward 4,U.S. Senate,,REP,Senator John Boozman,128,77,2,49
+Madison,Alabam,U.S. Senate,,DEM,Natalie James,147,103,7,37
+Madison,Hilburn,U.S. Senate,,DEM,Natalie James,163,45,3,115
+Madison,Kings River,U.S. Senate,,DEM,Natalie James,78,29,8,41
+Madison,Lamar,U.S. Senate,,DEM,Natalie James,168,77,2,89
+Madison,Prairie,U.S. Senate,,DEM,Natalie James,179,76,3,100
+Madison,War Eagle,U.S. Senate,,DEM,Natalie James,229,158,14,57
+Madison,Ward 1,U.S. Senate,,DEM,Natalie James,22,17,0,5
+Madison,Ward 2,U.S. Senate,,DEM,Natalie James,25,18,0,7
+Madison,Ward 3,U.S. Senate,,DEM,Natalie James,48,30,2,16
+Madison,Ward 4,U.S. Senate,,DEM,Natalie James,43,27,2,14
+Madison,Alabam,U.S. Senate,,LIB,Kenneth Cates,19,12,0,7
+Madison,Hilburn,U.S. Senate,,LIB,Kenneth Cates,39,6,2,31
+Madison,Kings River,U.S. Senate,,LIB,Kenneth Cates,12,5,0,7
+Madison,Lamar,U.S. Senate,,LIB,Kenneth Cates,25,8,0,17
+Madison,Prairie,U.S. Senate,,LIB,Kenneth Cates,22,6,0,16
+Madison,War Eagle,U.S. Senate,,LIB,Kenneth Cates,43,19,0,24
+Madison,Ward 1,U.S. Senate,,LIB,Kenneth Cates,10,3,1,6
+Madison,Ward 2,U.S. Senate,,LIB,Kenneth Cates,1,1,0,0
+Madison,Ward 3,U.S. Senate,,LIB,Kenneth Cates,9,4,0,5
+Madison,Ward 4,U.S. Senate,,LIB,Kenneth Cates,4,3,0,1
+Madison,Alabam,U.S. Congress District 03,,REP,Congressman Steve Womack,575,266,13,296
+Madison,Hilburn,U.S. Congress District 03,,REP,Congressman Steve Womack,498,91,11,396
+Madison,Kings River,U.S. Congress District 03,,REP,Congressman Steve Womack,341,101,0,240
+Madison,Lamar,U.S. Congress District 03,,REP,Congressman Steve Womack,713,211,9,493
+Madison,Prairie,U.S. Congress District 03,,REP,Congressman Steve Womack,819,291,5,523
+Madison,War Eagle,U.S. Congress District 03,,REP,Congressman Steve Womack,1036,577,18,441
+Madison,Ward 1,U.S. Congress District 03,,REP,Congressman Steve Womack,69,44,1,24
+Madison,Ward 2,U.S. Congress District 03,,REP,Congressman Steve Womack,60,44,2,14
+Madison,Ward 3,U.S. Congress District 03,,REP,Congressman Steve Womack,169,99,1,69
+Madison,Ward 4,U.S. Congress District 03,,REP,Congressman Steve Womack,128,79,1,48
+Madison,Alabam,U.S. Congress District 03,,LIB,Michael J. Kalagias,23,15,0,8
+Madison,Hilburn,U.S. Congress District 03,,LIB,Michael J. Kalagias,31,4,2,25
+Madison,Kings River,U.S. Congress District 03,,LIB,Michael J. Kalagias,14,5,0,9
+Madison,Lamar,U.S. Congress District 03,,LIB,Michael J. Kalagias,28,10,0,18
+Madison,Prairie,U.S. Congress District 03,,LIB,Michael J. Kalagias,22,5,0,17
+Madison,War Eagle,U.S. Congress District 03,,LIB,Michael J. Kalagias,48,20,0,28
+Madison,Ward 1,U.S. Congress District 03,,LIB,Michael J. Kalagias,6,2,1,3
+Madison,Ward 2,U.S. Congress District 03,,LIB,Michael J. Kalagias,1,1,0,0
+Madison,Ward 3,U.S. Congress District 03,,LIB,Michael J. Kalagias,8,1,0,7
+Madison,Ward 4,U.S. Congress District 03,,LIB,Michael J. Kalagias,2,1,0,1
+Madison,Alabam,U.S. Congress District 03,,DEM,Lauren Mallett-Hays,138,93,6,39
+Madison,Hilburn,U.S. Congress District 03,,DEM,Lauren Mallett-Hays,167,49,3,115
+Madison,Kings River,U.S. Congress District 03,,DEM,Lauren Mallett-Hays,78,27,9,42
+Madison,Lamar,U.S. Congress District 03,,DEM,Lauren Mallett-Hays,159,72,2,85
+Madison,Prairie,U.S. Congress District 03,,DEM,Lauren Mallett-Hays,167,74,1,92
+Madison,War Eagle,U.S. Congress District 03,,DEM,Lauren Mallett-Hays,214,153,14,47
+Madison,Ward 1,U.S. Congress District 03,,DEM,Lauren Mallett-Hays,19,14,0,5
+Madison,Ward 2,U.S. Congress District 03,,DEM,Lauren Mallett-Hays,21,15,0,6
+Madison,Ward 3,U.S. Congress District 03,,DEM,Lauren Mallett-Hays,50,33,2,15
+Madison,Ward 4,U.S. Congress District 03,,DEM,Lauren Mallett-Hays,43,27,3,13
+Madison,Alabam,Governor,,LIB,"Ricky Dale Harrington, Jr.",14,10,0,4
+Madison,Hilburn,Governor,,LIB,"Ricky Dale Harrington, Jr.",17,3,1,13
+Madison,Kings River,Governor,,LIB,"Ricky Dale Harrington, Jr.",11,4,0,7
+Madison,Lamar,Governor,,LIB,"Ricky Dale Harrington, Jr.",19,7,0,12
+Madison,Prairie,Governor,,LIB,"Ricky Dale Harrington, Jr.",12,5,0,7
+Madison,War Eagle,Governor,,LIB,"Ricky Dale Harrington, Jr.",23,13,0,10
+Madison,Ward 1,Governor,,LIB,"Ricky Dale Harrington, Jr.",4,1,0,3
+Madison,Ward 2,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Madison,Ward 3,Governor,,LIB,"Ricky Dale Harrington, Jr.",6,2,0,4
+Madison,Ward 4,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,1,0,2
+Madison,Alabam,Governor,,REP,Sarah Huckabee Sanders,579,259,14,306
+Madison,Hilburn,Governor,,REP,Sarah Huckabee Sanders,512,96,11,405
+Madison,Kings River,Governor,,REP,Sarah Huckabee Sanders,340,102,0,238
+Madison,Lamar,Governor,,REP,Sarah Huckabee Sanders,709,206,9,494
+Madison,Prairie,Governor,,REP,Sarah Huckabee Sanders,812,293,4,515
+Madison,War Eagle,Governor,,REP,Sarah Huckabee Sanders,1035,574,17,444
+Madison,Ward 1,Governor,,REP,Sarah Huckabee Sanders,68,41,2,25
+Madison,Ward 2,Governor,,REP,Sarah Huckabee Sanders,55,41,2,12
+Madison,Ward 3,Governor,,REP,Sarah Huckabee Sanders,167,96,1,70
+Madison,Ward 4,Governor,,REP,Sarah Huckabee Sanders,126,76,2,48
+Madison,Alabam,Governor,,DEM,Chris Jones,168,118,7,43
+Madison,Hilburn,Governor,,DEM,Chris Jones,193,49,4,140
+Madison,Kings River,Governor,,DEM,Chris Jones,95,36,9,50
+Madison,Lamar,Governor,,DEM,Chris Jones,196,92,2,102
+Madison,Prairie,Governor,,DEM,Chris Jones,214,87,3,124
+Madison,War Eagle,Governor,,DEM,Chris Jones,272,185,15,72
+Madison,Ward 1,Governor,,DEM,Chris Jones,27,21,0,6
+Madison,Ward 2,Governor,,DEM,Chris Jones,26,19,0,7
+Madison,Ward 3,Governor,,DEM,Chris Jones,63,42,2,19
+Madison,Ward 4,Governor,,DEM,Chris Jones,50,32,2,16
+Madison,Alabam,Lieutenant Governor,,DEM,Kelly Ross Krout,164,109,8,47
+Madison,Hilburn,Lieutenant Governor,,DEM,Kelly Ross Krout,162,48,4,110
+Madison,Kings River,Lieutenant Governor,,DEM,Kelly Ross Krout,93,34,8,51
+Madison,Lamar,Lieutenant Governor,,DEM,Kelly Ross Krout,179,80,2,97
+Madison,Prairie,Lieutenant Governor,,DEM,Kelly Ross Krout,190,82,2,106
+Madison,War Eagle,Lieutenant Governor,,DEM,Kelly Ross Krout,252,173,17,62
+Madison,Ward 1,Lieutenant Governor,,DEM,Kelly Ross Krout,23,19,0,4
+Madison,Ward 2,Lieutenant Governor,,DEM,Kelly Ross Krout,26,19,0,7
+Madison,Ward 3,Lieutenant Governor,,DEM,Kelly Ross Krout,58,33,2,23
+Madison,Ward 4,Lieutenant Governor,,DEM,Kelly Ross Krout,41,26,2,13
+Madison,Alabam,Lieutenant Governor,,LIB,Frank Gilbert,22,16,0,6
+Madison,Hilburn,Lieutenant Governor,,LIB,Frank Gilbert,35,3,2,30
+Madison,Kings River,Lieutenant Governor,,LIB,Frank Gilbert,13,5,0,8
+Madison,Lamar,Lieutenant Governor,,LIB,Frank Gilbert,36,12,0,24
+Madison,Prairie,Lieutenant Governor,,LIB,Frank Gilbert,21,8,0,13
+Madison,War Eagle,Lieutenant Governor,,LIB,Frank Gilbert,50,23,1,26
+Madison,Ward 1,Lieutenant Governor,,LIB,Frank Gilbert,5,3,1,1
+Madison,Ward 2,Lieutenant Governor,,LIB,Frank Gilbert,2,1,0,1
+Madison,Ward 3,Lieutenant Governor,,LIB,Frank Gilbert,8,2,0,6
+Madison,Ward 4,Lieutenant Governor,,LIB,Frank Gilbert,4,2,0,2
+Madison,Alabam,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,556,253,13,290
+Madison,Hilburn,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,505,93,10,402
+Madison,Kings River,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,324,94,1,229
+Madison,Lamar,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,678,198,9,471
+Madison,Prairie,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,808,285,5,518
+Madison,War Eagle,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,1000,560,14,426
+Madison,Ward 1,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,67,39,1,27
+Madison,Ward 2,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,55,41,2,12
+Madison,Ward 3,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,155,96,1,58
+Madison,Ward 4,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,126,77,2,47
+Madison,Alabam,Attorney General,,DEM,Jesse Gibson,162,108,7,47
+Madison,Hilburn,Attorney General,,DEM,Jesse Gibson,171,49,3,119
+Madison,Kings River,Attorney General,,DEM,Jesse Gibson,86,35,7,44
+Madison,Lamar,Attorney General,,DEM,Jesse Gibson,191,88,2,101
+Madison,Prairie,Attorney General,,DEM,Jesse Gibson,179,75,3,101
+Madison,War Eagle,Attorney General,,DEM,Jesse Gibson,259,175,16,68
+Madison,Ward 1,Attorney General,,DEM,Jesse Gibson,24,17,1,6
+Madison,Ward 2,Attorney General,,DEM,Jesse Gibson,27,20,0,7
+Madison,Ward 3,Attorney General,,DEM,Jesse Gibson,54,33,2,19
+Madison,Ward 4,Attorney General,,DEM,Jesse Gibson,47,30,3,14
+Madison,Alabam,Attorney General,,REP,Lieutenant Governor Tim Griffin,574,264,14,296
+Madison,Hilburn,Attorney General,,REP,Lieutenant Governor Tim Griffin,523,93,12,418
+Madison,Kings River,Attorney General,,REP,Lieutenant Governor Tim Griffin,341,100,1,240
+Madison,Lamar,Attorney General,,REP,Lieutenant Governor Tim Griffin,702,202,9,491
+Madison,Prairie,Attorney General,,REP,Lieutenant Governor Tim Griffin,833,296,4,533
+Madison,War Eagle,Attorney General,,REP,Lieutenant Governor Tim Griffin,1026,574,15,437
+Madison,Ward 1,Attorney General,,REP,Lieutenant Governor Tim Griffin,74,44,1,29
+Madison,Ward 2,Attorney General,,REP,Lieutenant Governor Tim Griffin,55,40,2,13
+Madison,Ward 3,Attorney General,,REP,Lieutenant Governor Tim Griffin,167,96,1,70
+Madison,Ward 4,Attorney General,,REP,Lieutenant Governor Tim Griffin,125,77,1,47
+Madison,Alabam,Secretary of State,,DEM,Anna Beth Gorman,162,110,7,45
+Madison,Hilburn,Secretary of State,,DEM,Anna Beth Gorman,178,50,3,125
+Madison,Kings River,Secretary of State,,DEM,Anna Beth Gorman,91,34,6,51
+Madison,Lamar,Secretary of State,,DEM,Anna Beth Gorman,182,79,2,101
+Madison,Prairie,Secretary of State,,DEM,Anna Beth Gorman,184,78,3,103
+Madison,War Eagle,Secretary of State,,DEM,Anna Beth Gorman,266,179,15,72
+Madison,Ward 1,Secretary of State,,DEM,Anna Beth Gorman,21,16,0,5
+Madison,Ward 2,Secretary of State,,DEM,Anna Beth Gorman,29,22,0,7
+Madison,Ward 3,Secretary of State,,DEM,Anna Beth Gorman,53,34,2,17
+Madison,Ward 4,Secretary of State,,DEM,Anna Beth Gorman,45,29,2,14
+Madison,Alabam,Secretary of State,,REP,Secretary of State John Thurston,595,278,13,304
+Madison,Hilburn,Secretary of State,,REP,Secretary of State John Thurston,525,92,12,421
+Madison,Kings River,Secretary of State,,REP,Secretary of State John Thurston,345,102,1,242
+Madison,Lamar,Secretary of State,,REP,Secretary of State John Thurston,735,219,9,507
+Madison,Prairie,Secretary of State,,REP,Secretary of State John Thurston,845,304,4,537
+Madison,War Eagle,Secretary of State,,REP,Secretary of State John Thurston,1046,588,16,442
+Madison,Ward 1,Secretary of State,,REP,Secretary of State John Thurston,77,47,2,28
+Madison,Ward 2,Secretary of State,,REP,Secretary of State John Thurston,54,39,2,13
+Madison,Ward 3,Secretary of State,,REP,Secretary of State John Thurston,174,101,1,72
+Madison,Ward 4,Secretary of State,,REP,Secretary of State John Thurston,128,77,2,49
+Madison,Alabam,State Treasurer,,DEM,Pam Whitaker,171,113,7,51
+Madison,Hilburn,State Treasurer,,DEM,Pam Whitaker,184,49,4,131
+Madison,Kings River,State Treasurer,,DEM,Pam Whitaker,95,32,8,55
+Madison,Lamar,State Treasurer,,DEM,Pam Whitaker,194,80,2,112
+Madison,Prairie,State Treasurer,,DEM,Pam Whitaker,194,82,3,109
+Madison,War Eagle,State Treasurer,,DEM,Pam Whitaker,274,185,15,74
+Madison,Ward 1,State Treasurer,,DEM,Pam Whitaker,25,19,0,6
+Madison,Ward 2,State Treasurer,,DEM,Pam Whitaker,26,19,0,7
+Madison,Ward 3,State Treasurer,,DEM,Pam Whitaker,59,37,2,20
+Madison,Ward 4,State Treasurer,,DEM,Pam Whitaker,50,33,3,14
+Madison,Alabam,State Treasurer,,REP,State Representative Mark Lowery,576,267,13,296
+Madison,Hilburn,State Treasurer,,REP,State Representative Mark Lowery,525,97,12,416
+Madison,Kings River,State Treasurer,,REP,State Representative Mark Lowery,342,106,1,235
+Madison,Lamar,State Treasurer,,REP,State Representative Mark Lowery,711,213,9,489
+Madison,Prairie,State Treasurer,,REP,State Representative Mark Lowery,829,296,4,529
+Madison,War Eagle,State Treasurer,,REP,State Representative Mark Lowery,1024,569,17,438
+Madison,Ward 1,State Treasurer,,REP,State Representative Mark Lowery,73,43,2,28
+Madison,Ward 2,State Treasurer,,REP,State Representative Mark Lowery,56,41,2,13
+Madison,Ward 3,State Treasurer,,REP,State Representative Mark Lowery,162,95,1,66
+Madison,Ward 4,State Treasurer,,REP,State Representative Mark Lowery,122,73,1,48
+Madison,Alabam,Auditor of State,,DEM,Diamond Arnold-Johnson,145,97,7,41
+Madison,Hilburn,Auditor of State,,DEM,Diamond Arnold-Johnson,159,45,4,110
+Madison,Kings River,Auditor of State,,DEM,Diamond Arnold-Johnson,81,29,6,46
+Madison,Lamar,Auditor of State,,DEM,Diamond Arnold-Johnson,162,74,1,87
+Madison,Prairie,Auditor of State,,DEM,Diamond Arnold-Johnson,164,74,2,88
+Madison,War Eagle,Auditor of State,,DEM,Diamond Arnold-Johnson,228,158,15,55
+Madison,Ward 1,Auditor of State,,DEM,Diamond Arnold-Johnson,19,14,0,5
+Madison,Ward 2,Auditor of State,,DEM,Diamond Arnold-Johnson,26,19,0,7
+Madison,Ward 3,Auditor of State,,DEM,Diamond Arnold-Johnson,51,32,2,17
+Madison,Ward 4,Auditor of State,,DEM,Diamond Arnold-Johnson,43,29,2,12
+Madison,Alabam,Auditor of State,,LIB,Simeon Snow,34,23,0,11
+Madison,Hilburn,Auditor of State,,LIB,Simeon Snow,43,5,2,36
+Madison,Kings River,Auditor of State,,LIB,Simeon Snow,17,4,0,13
+Madison,Lamar,Auditor of State,,LIB,Simeon Snow,42,13,0,29
+Madison,Prairie,Auditor of State,,LIB,Simeon Snow,27,8,0,19
+Madison,War Eagle,Auditor of State,,LIB,Simeon Snow,56,21,0,35
+Madison,Ward 1,Auditor of State,,LIB,Simeon Snow,6,0,1,5
+Madison,Ward 2,Auditor of State,,LIB,Simeon Snow,2,1,0,1
+Madison,Ward 3,Auditor of State,,LIB,Simeon Snow,5,3,0,2
+Madison,Ward 4,Auditor of State,,LIB,Simeon Snow,4,3,0,1
+Madison,Alabam,Auditor of State,,REP,Treasurer of State Dennis Milligan,573,263,13,297
+Madison,Hilburn,Auditor of State,,REP,Treasurer of State Dennis Milligan,500,91,10,399
+Madison,Kings River,Auditor of State,,REP,Treasurer of State Dennis Milligan,334,102,2,230
+Madison,Lamar,Auditor of State,,REP,Treasurer of State Dennis Milligan,702,208,10,484
+Madison,Prairie,Auditor of State,,REP,Treasurer of State Dennis Milligan,831,295,5,531
+Madison,War Eagle,Auditor of State,,REP,Treasurer of State Dennis Milligan,1022,579,16,427
+Madison,Ward 1,Auditor of State,,REP,Treasurer of State Dennis Milligan,74,48,1,25
+Madison,Ward 2,Auditor of State,,REP,Treasurer of State Dennis Milligan,55,41,2,12
+Madison,Ward 3,Auditor of State,,REP,Treasurer of State Dennis Milligan,167,97,1,69
+Madison,Ward 4,Auditor of State,,REP,Treasurer of State Dennis Milligan,128,77,2,49
+Madison,Alabam,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,160,109,6,45
+Madison,Hilburn,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,179,50,4,125
+Madison,Kings River,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,89,34,7,48
+Madison,Lamar,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,173,79,1,93
+Madison,Prairie,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,170,75,3,92
+Madison,War Eagle,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,247,169,14,64
+Madison,Ward 1,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,20,15,0,5
+Madison,Ward 2,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,28,22,0,6
+Madison,Ward 3,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,52,32,2,18
+Madison,Ward 4,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,41,25,2,14
+Madison,Alabam,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,585,272,14,299
+Madison,Hilburn,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,526,93,12,421
+Madison,Kings River,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,343,102,1,240
+Madison,Lamar,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,732,215,10,507
+Madison,Prairie,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,855,303,4,548
+Madison,War Eagle,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,1047,582,18,447
+Madison,Ward 1,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,74,46,2,26
+Madison,Ward 2,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,52,39,2,11
+Madison,Ward 3,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,166,98,1,67
+Madison,Ward 4,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,132,80,2,50
+Madison,Alabam,State Senate,28,DEM,Jim Wallace,170,113,7,50
+Madison,Hilburn,State Senate,28,DEM,Jim Wallace,172,50,3,119
+Madison,Kings River,State Senate,28,DEM,Jim Wallace,87,33,7,47
+Madison,Lamar,State Senate,28,DEM,Jim Wallace,189,84,2,103
+Madison,Prairie,State Senate,28,DEM,Jim Wallace,187,74,3,110
+Madison,War Eagle,State Senate,28,DEM,Jim Wallace,256,174,13,69
+Madison,Ward 1,State Senate,28,DEM,Jim Wallace,18,14,0,4
+Madison,Ward 2,State Senate,28,DEM,Jim Wallace,26,21,0,5
+Madison,Ward 3,State Senate,28,DEM,Jim Wallace,58,36,2,20
+Madison,Ward 4,State Senate,28,DEM,Jim Wallace,42,25,1,16
+Madison,Alabam,State Senate,28,REP,Bryan B. King,571,265,13,293
+Madison,Hilburn,State Senate,28,REP,Bryan B. King,520,95,12,413
+Madison,Kings River,State Senate,28,REP,Bryan B. King,347,102,2,243
+Madison,Lamar,State Senate,28,REP,Bryan B. King,716,212,9,495
+Madison,Prairie,State Senate,28,REP,Bryan B. King,832,303,4,525
+Madison,War Eagle,State Senate,28,REP,Bryan B. King,1030,577,18,435
+Madison,Ward 1,State Senate,28,REP,Bryan B. King,78,47,2,29
+Madison,Ward 2,State Senate,28,REP,Bryan B. King,54,39,2,13
+Madison,Ward 3,State Senate,28,REP,Bryan B. King,163,95,1,67
+Madison,Ward 4,State Senate,28,REP,Bryan B. King,130,81,3,46
+Madison,Alabam,State House,26,REP,Rep. Mark H. Berry,650,318,17,315
+Madison,Hilburn,State House,26,REP,Rep. Mark H. Berry,574,111,12,451
+Madison,Kings River,State House,26,REP,Rep. Mark H. Berry,366,110,7,249
+Madison,Lamar,State House,26,REP,Rep. Mark H. Berry,783,246,9,528
+Madison,Prairie,State House,26,REP,Rep. Mark H. Berry,907,323,7,577
+Madison,War Eagle,State House,26,REP,Rep. Mark H. Berry,1130,638,23,469
+Madison,Ward 1,State House,26,REP,Rep. Mark H. Berry,82,50,2,30
+Madison,Ward 2,State House,26,REP,Rep. Mark H. Berry,71,53,1,17
+Madison,Ward 3,State House,26,REP,Rep. Mark H. Berry,193,114,1,78
+Madison,Ward 4,State House,26,REP,Rep. Mark H. Berry,154,96,3,55
+Madison,Alabam,County Judge,,REP,REP Larry D. Garrett,610,310,16,284
+Madison,Hilburn,County Judge,,REP,REP Larry D. Garrett,545,110,9,426
+Madison,Kings River,County Judge,,REP,REP Larry D. Garrett,340,109,1,230
+Madison,Lamar,County Judge,,REP,REP Larry D. Garrett,715,215,9,491
+Madison,Prairie,County Judge,,REP,REP Larry D. Garrett,856,323,6,527
+Madison,War Eagle,County Judge,,REP,REP Larry D. Garrett,1072,627,21,424
+Madison,Ward 1,County Judge,,REP,REP Larry D. Garrett,78,46,2,30
+Madison,Ward 2,County Judge,,REP,REP Larry D. Garrett,60,43,2,15
+Madison,Ward 3,County Judge,,REP,REP Larry D. Garrett,171,102,3,66
+Madison,Ward 4,County Judge,,REP,REP Larry D. Garrett,142,87,3,52
+Madison,Alabam,County Judge,,IND,IND Jeremy Updegraff,140,72,5,63
+Madison,Hilburn,County Judge,,IND,IND Jeremy Updegraff,165,35,7,123
+Madison,Kings River,County Judge,,IND,IND Jeremy Updegraff,90,32,6,52
+Madison,Lamar,County Judge,,IND,IND Jeremy Updegraff,188,80,0,108
+Madison,Prairie,County Judge,,IND,IND Jeremy Updegraff,170,59,1,110
+Madison,War Eagle,County Judge,,IND,IND Jeremy Updegraff,241,135,9,97
+Madison,Ward 1,County Judge,,IND,IND Jeremy Updegraff,19,15,0,4
+Madison,Ward 2,County Judge,,IND,IND Jeremy Updegraff,20,15,0,5
+Madison,Ward 3,County Judge,,IND,IND Jeremy Updegraff,55,32,0,23
+Madison,Ward 4,County Judge,,IND,IND Jeremy Updegraff,34,22,0,12
+Madison,Alabam,Circuit Clerk,,REP,REP Tiffany McDaniel,678,340,18,320
+Madison,Hilburn,Circuit Clerk,,REP,REP Tiffany McDaniel,591,114,12,465
+Madison,Kings River,Circuit Clerk,,REP,REP Tiffany McDaniel,377,113,7,257
+Madison,Lamar,Circuit Clerk,,REP,REP Tiffany McDaniel,794,247,9,538
+Madison,Prairie,Circuit Clerk,,REP,REP Tiffany McDaniel,926,335,7,584
+Madison,War Eagle,Circuit Clerk,,REP,REP Tiffany McDaniel,1175,676,24,475
+Madison,Ward 1,Circuit Clerk,,REP,REP Tiffany McDaniel,88,54,2,32
+Madison,Ward 2,Circuit Clerk,,REP,REP Tiffany McDaniel,75,55,1,19
+Madison,Ward 3,Circuit Clerk,,REP,REP Tiffany McDaniel,194,116,1,77
+Madison,Ward 4,Circuit Clerk,,REP,REP Tiffany McDaniel,156,97,2,57
+Madison,Alabam,JP Dist 1,,REP,REP Bob Rawson,195,95,4,96
+Madison,Prairie,JP Dist 1,,REP,REP Bob Rawson,193,81,2,110
+Madison,Alabam,JP Dist 1,,DEM,DEM Jack E. Hudgins,121,74,3,44
+Madison,Prairie,JP Dist 1,,DEM,DEM Jack E. Hudgins,112,45,0,67
+Madison,Alabam,JP Dist 3,,REP,REP Jason Yates,208,94,4,110
+Madison,War Eagle,JP Dist 3,,REP,REP Jason Yates,215,103,8,104
+Madison,Ward 3,JP Dist 3,,REP,REP Jason Yates,75,44,1,30
+Madison,Alabam,JP Dist 3,,DEM,DEM Chonda McLoud Morin,108,72,1,35
+Madison,War Eagle,JP Dist 3,,DEM,DEM Chonda McLoud Morin,56,38,2,16
+Madison,Ward 3,JP Dist 3,,DEM,DEM Chonda McLoud Morin,24,9,2,13
+Madison,Ward 2,JP Dist 4,,REP,REP Sam Roddy,41,32,2,7
+Madison,Ward 3,JP Dist 4,,REP,REP Sam Roddy,84,51,0,33
+Madison,Ward 4,JP Dist 4,,REP,REP Sam Roddy,109,63,1,45
+Madison,Ward 2,JP Dist 4,,DEM,DEM Kristyn Shinn Clark,40,28,0,12
+Madison,Ward 3,JP Dist 4,,DEM,DEM Kristyn Shinn Clark,41,29,0,12
+Madison,Ward 4,JP Dist 4,,DEM,DEM Kristyn Shinn Clark,64,43,3,18
+Madison,Lamar,JP Dist 7,,REP,REP Joe Wilson,408,122,3,283
+Madison,War Eagle,JP Dist 7,,REP,REP Joe Wilson,25,13,0,12
+Madison,Lamar,JP Dist 7,,DEM,DEM Jay Moffett,218,91,3,124
+Madison,War Eagle,JP Dist 7,,DEM,DEM Jay Moffett,18,8,0,10
+Madison,Hilburn,JP Dist 8,,REP,REP Jerry Yates,258,46,6,206
+Madison,Lamar,JP Dist 8,,REP,REP Jerry Yates,170,39,4,127
+Madison,Hilburn,JP Dist 8,,DEM,DEM Devin Glenn,143,26,5,112
+Madison,Lamar,JP Dist 8,,DEM,DEM Devin Glenn,107,45,1,61
+Madison,Alabam,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,427,222,6,199
+Madison,Hilburn,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,356,80,7,269
+Madison,Kings River,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,245,78,6,161
+Madison,Lamar,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,495,178,4,313
+Madison,Prairie,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,561,207,4,350
+Madison,War Eagle,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,736,434,16,286
+Madison,Ward 1,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,43,32,0,11
+Madison,Ward 2,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,49,36,1,12
+Madison,Ward 3,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,135,81,1,53
+Madison,Ward 4,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,110,71,2,37
+Madison,Alabam,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,232,113,9,110
+Madison,Hilburn,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,246,37,2,207
+Madison,Kings River,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,129,38,3,88
+Madison,Lamar,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,255,79,3,173
+Madison,Prairie,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,321,111,2,208
+Madison,War Eagle,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,386,218,9,159
+Madison,Ward 1,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,40,19,2,19
+Madison,Ward 2,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,23,18,0,5
+Madison,Ward 3,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,57,32,0,25
+Madison,Ward 4,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,52,31,1,20
+Madison,Ward 1,City of Huntsville Mayor,,IND,IND Charles E. Coger,29,12,1,16
+Madison,Ward 2,City of Huntsville Mayor,,IND,IND Charles E. Coger,26,21,1,4
+Madison,Ward 3,City of Huntsville Mayor,,IND,IND Charles E. Coger,72,38,0,34
+Madison,Ward 4,City of Huntsville Mayor,,IND,IND Charles E. Coger,53,28,2,23
+Madison,Ward 1,City of Huntsville Mayor,,IND,IND Travis Dotson,69,49,1,19
+Madison,Ward 2,City of Huntsville Mayor,,IND,IND Travis Dotson,53,38,0,15
+Madison,Ward 3,City of Huntsville Mayor,,IND,IND Travis Dotson,160,101,2,57
+Madison,Ward 4,City of Huntsville Mayor,,IND,IND Travis Dotson,126,82,2,42
+Madison,Hilburn,Town of St. Paul Mayor,,IND,IND Linda S. Lewis,35,2,0,33
+Madison,Prairie,Town of Hindsville Mayor,,IND,IND Stephanie Casey,20,6,0,14
+Madison,Alabam,1.25% SALES AND USE TAX,,NON,FOR,368,199,8,161
+Madison,Hilburn,1.25% SALES AND USE TAX,,NON,FOR,341,76,5,260
+Madison,Kings River,1.25% SALES AND USE TAX,,NON,FOR,184,69,5,110
+Madison,Lamar,1.25% SALES AND USE TAX,,NON,FOR,444,156,1,287
+Madison,Prairie,1.25% SALES AND USE TAX,,NON,FOR,523,199,6,318
+Madison,War Eagle,1.25% SALES AND USE TAX,,NON,FOR,622,395,12,215
+Madison,Ward 1,1.25% SALES AND USE TAX,,NON,FOR,51,38,2,11
+Madison,Ward 2,1.25% SALES AND USE TAX,,NON,FOR,48,35,1,12
+Madison,Ward 3,1.25% SALES AND USE TAX,,NON,FOR,122,78,0,44
+Madison,Ward 4,1.25% SALES AND USE TAX,,NON,FOR,81,54,1,26
+Madison,Alabam,1.25% SALES AND USE TAX,,NON,AGAINST,386,185,13,188
+Madison,Hilburn,1.25% SALES AND USE TAX,,NON,AGAINST,372,68,11,293
+Madison,Kings River,1.25% SALES AND USE TAX,,NON,AGAINST,258,73,4,181
+Madison,Lamar,1.25% SALES AND USE TAX,,NON,AGAINST,470,144,10,316
+Madison,Prairie,1.25% SALES AND USE TAX,,NON,AGAINST,507,186,1,320
+Madison,War Eagle,1.25% SALES AND USE TAX,,NON,AGAINST,708,382,20,306
+Madison,Ward 1,1.25% SALES AND USE TAX,,NON,AGAINST,43,21,0,22
+Madison,Ward 2,1.25% SALES AND USE TAX,,NON,AGAINST,35,26,1,8
+Madison,Ward 3,1.25% SALES AND USE TAX,,NON,AGAINST,104,58,0,46
+Madison,Ward 4,1.25% SALES AND USE TAX,,NON,AGAINST,95,54,3,38
+Madison,Alabam,0.5% SALES AND USE TAX,,NON,FOR,368,192,9,167
+Madison,Hilburn,0.5% SALES AND USE TAX,,NON,FOR,356,79,4,273
+Madison,Kings River,0.5% SALES AND USE TAX,,NON,FOR,203,70,5,128
+Madison,Lamar,0.5% SALES AND USE TAX,,NON,FOR,469,167,3,299
+Madison,Prairie,0.5% SALES AND USE TAX,,NON,FOR,533,196,6,331
+Madison,War Eagle,0.5% SALES AND USE TAX,,NON,FOR,660,409,15,236
+Madison,Ward 1,0.5% SALES AND USE TAX,,NON,FOR,55,41,2,12
+Madison,Ward 2,0.5% SALES AND USE TAX,,NON,FOR,52,39,1,12
+Madison,Ward 3,0.5% SALES AND USE TAX,,NON,FOR,139,85,0,54
+Madison,Ward 4,0.5% SALES AND USE TAX,,NON,FOR,90,62,1,27
+Madison,Alabam,0.5% SALES AND USE TAX,,NON,AGAINST,385,190,12,183
+Madison,Hilburn,0.5% SALES AND USE TAX,,NON,AGAINST,352,63,11,278
+Madison,Kings River,0.5% SALES AND USE TAX,,NON,AGAINST,237,68,4,165
+Madison,Lamar,0.5% SALES AND USE TAX,,NON,AGAINST,452,138,8,306
+Madison,Prairie,0.5% SALES AND USE TAX,,NON,AGAINST,496,187,1,308
+Madison,War Eagle,0.5% SALES AND USE TAX,,NON,AGAINST,669,367,17,285
+Madison,Ward 1,0.5% SALES AND USE TAX,,NON,AGAINST,43,20,0,23
+Madison,Ward 2,0.5% SALES AND USE TAX,,NON,AGAINST,31,22,1,8
+Madison,Ward 3,0.5% SALES AND USE TAX,,NON,AGAINST,92,55,0,37
+Madison,Ward 4,0.5% SALES AND USE TAX,,NON,AGAINST,85,47,3,35
+Madison,Alabam,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,228,104,9,115
+Madison,Hilburn,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,189,32,2,155
+Madison,Kings River,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,126,45,4,77
+Madison,Lamar,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,287,83,1,203
+Madison,Prairie,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,344,138,2,204
+Madison,War Eagle,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,410,242,12,156
+Madison,Ward 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,33,24,1,8
+Madison,Ward 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,32,21,1,10
+Madison,Ward 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,104,59,0,45
+Madison,Ward 4,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,62,40,1,21
+Madison,Alabam,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,496,264,5,227
+Madison,Hilburn,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,500,105,13,382
+Madison,Kings River,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,298,90,3,205
+Madison,Lamar,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,598,210,10,378
+Madison,Prairie,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,654,229,4,421
+Madison,War Eagle,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,874,515,16,343
+Madison,Ward 1,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,61,34,1,26
+Madison,Ward 2,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,47,37,1,9
+Madison,Ward 3,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,120,75,2,43
+Madison,Ward 4,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,107,65,3,39
+Madison,Alabam,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,260,128,8,124
+Madison,Hilburn,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,259,42,4,213
+Madison,Kings River,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,158,50,1,107
+Madison,Lamar,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,366,86,1,279
+Madison,Prairie,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,434,147,0,287
+Madison,War Eagle,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,464,266,9,189
+Madison,Ward 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,41,28,0,13
+Madison,Ward 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,29,22,1,6
+Madison,Ward 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,97,58,0,39
+Madison,Ward 4,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,64,36,1,27
+Madison,Alabam,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,479,248,6,225
+Madison,Hilburn,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,442,97,11,334
+Madison,Kings River,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,274,88,6,180
+Madison,Lamar,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,539,209,10,320
+Madison,Prairie,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,577,225,6,346
+Madison,War Eagle,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,831,493,20,318
+Madison,Ward 1,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,53,29,2,22
+Madison,Ward 2,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,52,38,1,13
+Madison,Ward 3,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,128,76,2,50
+Madison,Ward 4,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,105,67,3,35
+Madison,Alabam,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,351,174,10,167
+Madison,Hilburn,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,312,54,4,254
+Madison,Kings River,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,202,72,2,128
+Madison,Lamar,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,450,121,7,322
+Madison,Prairie,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,498,171,3,324
+Madison,War Eagle,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,602,354,16,232
+Madison,Ward 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,47,31,0,16
+Madison,Ward 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,41,31,1,9
+Madison,Ward 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,133,72,0,61
+Madison,Ward 4,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,79,45,0,34
+Madison,Alabam,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,395,207,6,182
+Madison,Hilburn,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,394,87,11,296
+Madison,Kings River,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,230,65,6,159
+Madison,Lamar,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,452,173,4,275
+Madison,Prairie,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,521,205,3,313
+Madison,War Eagle,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,707,412,15,280
+Madison,Ward 1,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,49,27,2,20
+Madison,Ward 2,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,40,29,1,10
+Madison,Ward 3,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,91,61,2,28
+Madison,Ward 4,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,95,61,4,30
+Madison,Alabam,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,308,152,6,150
+Madison,Hilburn,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,307,57,6,244
+Madison,Kings River,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,155,59,6,90
+Madison,Lamar,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,349,113,5,231
+Madison,Prairie,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,387,138,2,247
+Madison,War Eagle,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,517,308,12,197
+Madison,Ward 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,44,29,1,14
+Madison,Ward 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,49,36,1,12
+Madison,Ward 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,112,67,0,45
+Madison,Ward 4,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,84,49,2,33
+Madison,Alabam,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,452,237,14,201
+Madison,Hilburn,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,417,89,10,318
+Madison,Kings River,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,284,80,3,201
+Madison,Lamar,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,581,191,6,384
+Madison,Prairie,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,649,247,5,397
+Madison,War Eagle,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,815,468,20,327
+Madison,Ward 1,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,54,32,1,21
+Madison,Ward 2,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,33,24,1,8
+Madison,Ward 3,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,122,72,2,48
+Madison,Ward 4,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,94,59,2,33

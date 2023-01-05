@@ -1,0 +1,785 @@
+county,precinct,office,district,party,candidate,votes,early_vote,absentee,election_day
+Mississippi,Trinity Baptist Church,U.S. Senate,,REP,Senator John Boozman,269,183,10,76
+Mississippi,Miss Co Election Center,U.S. Senate,,REP,Senator John Boozman,995,792,14,189
+Mississippi,Richard B Harrison Multipurpos,U.S. Senate,,REP,Senator John Boozman,102,77,1,24
+Mississippi,Armorel Planting Company,U.S. Senate,,REP,Senator John Boozman,306,139,0,167
+Mississippi,Gosnell Community Center,U.S. Senate,,REP,Senator John Boozman,514,288,3,223
+Mississippi,Dell Community Center,U.S. Senate,,REP,Senator John Boozman,259,91,3,165
+Mississippi,Leachville City Hall,U.S. Senate,,REP,Senator John Boozman,446,276,1,169
+Mississippi,Manila Police Dept,U.S. Senate,,REP,Senator John Boozman,951,481,9,461
+Mississippi,Charles Strong Center,U.S. Senate,,REP,Senator John Boozman,119,50,0,69
+Mississippi,Osc Old Jr High Gym,U.S. Senate,,REP,Senator John Boozman,615,457,13,145
+Mississippi,Keiser First Baptist Church,U.S. Senate,,REP,Senator John Boozman,175,33,0,142
+Mississippi,Wilson Fire Station,U.S. Senate,,REP,Senator John Boozman,231,53,0,178
+Mississippi,Joiner City Hall,U.S. Senate,,REP,Senator John Boozman,122,22,2,98
+Mississippi,Birdsong Community Center,U.S. Senate,,REP,Senator John Boozman,52,14,0,38
+Mississippi,Dyess City Hall,U.S. Senate,,REP,Senator John Boozman,103,15,1,87
+Mississippi,Etowah Fire Station,U.S. Senate,,REP,Senator John Boozman,171,32,2,137
+Mississippi,Trinity Baptist Church,U.S. Senate,,DEM,Natalie James,460,361,4,95
+Mississippi,Miss Co Election Center,U.S. Senate,,DEM,Natalie James,510,373,12,125
+Mississippi,Richard B Harrison Multipurpos,U.S. Senate,,DEM,Natalie James,445,330,10,105
+Mississippi,Armorel Planting Company,U.S. Senate,,DEM,Natalie James,35,27,0,8
+Mississippi,Gosnell Community Center,U.S. Senate,,DEM,Natalie James,133,76,3,54
+Mississippi,Dell Community Center,U.S. Senate,,DEM,Natalie James,24,15,0,9
+Mississippi,Leachville City Hall,U.S. Senate,,DEM,Natalie James,34,19,0,15
+Mississippi,Manila Police Dept,U.S. Senate,,DEM,Natalie James,118,61,4,53
+Mississippi,Charles Strong Center,U.S. Senate,,DEM,Natalie James,163,51,7,105
+Mississippi,Osc Old Jr High Gym,U.S. Senate,,DEM,Natalie James,720,519,19,182
+Mississippi,Keiser First Baptist Church,U.S. Senate,,DEM,Natalie James,31,8,0,23
+Mississippi,Wilson Fire Station,U.S. Senate,,DEM,Natalie James,38,9,2,27
+Mississippi,Joiner City Hall,U.S. Senate,,DEM,Natalie James,109,21,3,85
+Mississippi,Birdsong Community Center,U.S. Senate,,DEM,Natalie James,31,0,1,30
+Mississippi,Dyess City Hall,U.S. Senate,,DEM,Natalie James,11,0,0,11
+Mississippi,Etowah Fire Station,U.S. Senate,,DEM,Natalie James,14,6,0,8
+Mississippi,Trinity Baptist Church,U.S. Senate,,LIB,Kenneth Cates,23,17,0,6
+Mississippi,Miss Co Election Center,U.S. Senate,,LIB,Kenneth Cates,27,21,0,6
+Mississippi,Richard B Harrison Multipurpos,U.S. Senate,,LIB,Kenneth Cates,19,18,0,1
+Mississippi,Armorel Planting Company,U.S. Senate,,LIB,Kenneth Cates,13,10,0,3
+Mississippi,Gosnell Community Center,U.S. Senate,,LIB,Kenneth Cates,13,9,0,4
+Mississippi,Dell Community Center,U.S. Senate,,LIB,Kenneth Cates,6,3,0,3
+Mississippi,Leachville City Hall,U.S. Senate,,LIB,Kenneth Cates,13,6,0,7
+Mississippi,Manila Police Dept,U.S. Senate,,LIB,Kenneth Cates,19,9,0,10
+Mississippi,Charles Strong Center,U.S. Senate,,LIB,Kenneth Cates,10,3,0,7
+Mississippi,Osc Old Jr High Gym,U.S. Senate,,LIB,Kenneth Cates,34,23,1,10
+Mississippi,Keiser First Baptist Church,U.S. Senate,,LIB,Kenneth Cates,3,0,0,3
+Mississippi,Wilson Fire Station,U.S. Senate,,LIB,Kenneth Cates,6,4,0,2
+Mississippi,Joiner City Hall,U.S. Senate,,LIB,Kenneth Cates,2,0,0,2
+Mississippi,Birdsong Community Center,U.S. Senate,,LIB,Kenneth Cates,3,0,0,3
+Mississippi,Dyess City Hall,U.S. Senate,,LIB,Kenneth Cates,1,0,0,1
+Mississippi,Etowah Fire Station,U.S. Senate,,LIB,Kenneth Cates,3,0,0,3
+Mississippi,Trinity Baptist Church,U.S. Congress District 01,,REP,Congressman Rick Crawford,254,176,9,69
+Mississippi,Miss Co Election Center,U.S. Congress District 01,,REP,Congressman Rick Crawford,920,727,15,178
+Mississippi,Richard B Harrison Multipurpos,U.S. Congress District 01,,REP,Congressman Rick Crawford,116,90,1,25
+Mississippi,Armorel Planting Company,U.S. Congress District 01,,REP,Congressman Rick Crawford,300,142,0,158
+Mississippi,Gosnell Community Center,U.S. Congress District 01,,REP,Congressman Rick Crawford,483,269,3,211
+Mississippi,Dell Community Center,U.S. Congress District 01,,REP,Congressman Rick Crawford,246,79,3,164
+Mississippi,Leachville City Hall,U.S. Congress District 01,,REP,Congressman Rick Crawford,444,271,1,172
+Mississippi,Manila Police Dept,U.S. Congress District 01,,REP,Congressman Rick Crawford,921,458,9,454
+Mississippi,Charles Strong Center,U.S. Congress District 01,,REP,Congressman Rick Crawford,112,51,0,61
+Mississippi,Osc Old Jr High Gym,U.S. Congress District 01,,REP,Congressman Rick Crawford,563,423,12,128
+Mississippi,Keiser First Baptist Church,U.S. Congress District 01,,REP,Congressman Rick Crawford,174,32,0,142
+Mississippi,Wilson Fire Station,U.S. Congress District 01,,REP,Congressman Rick Crawford,229,52,0,177
+Mississippi,Joiner City Hall,U.S. Congress District 01,,REP,Congressman Rick Crawford,127,24,2,101
+Mississippi,Birdsong Community Center,U.S. Congress District 01,,REP,Congressman Rick Crawford,55,14,0,41
+Mississippi,Dyess City Hall,U.S. Congress District 01,,REP,Congressman Rick Crawford,98,14,1,83
+Mississippi,Etowah Fire Station,U.S. Congress District 01,,REP,Congressman Rick Crawford,165,31,2,132
+Mississippi,Trinity Baptist Church,U.S. Congress District 01,,DEM,Representative Monte Hodges,515,398,5,112
+Mississippi,Miss Co Election Center,U.S. Congress District 01,,DEM,Representative Monte Hodges,619,468,11,140
+Mississippi,Richard B Harrison Multipurpos,U.S. Congress District 01,,DEM,Representative Monte Hodges,477,355,11,111
+Mississippi,Armorel Planting Company,U.S. Congress District 01,,DEM,Representative Monte Hodges,57,36,0,21
+Mississippi,Gosnell Community Center,U.S. Congress District 01,,DEM,Representative Monte Hodges,175,102,3,70
+Mississippi,Dell Community Center,U.S. Congress District 01,,DEM,Representative Monte Hodges,40,27,0,13
+Mississippi,Leachville City Hall,U.S. Congress District 01,,DEM,Representative Monte Hodges,40,23,0,17
+Mississippi,Manila Police Dept,U.S. Congress District 01,,DEM,Representative Monte Hodges,158,88,4,66
+Mississippi,Charles Strong Center,U.S. Congress District 01,,DEM,Representative Monte Hodges,189,57,7,125
+Mississippi,Osc Old Jr High Gym,U.S. Congress District 01,,DEM,Representative Monte Hodges,822,585,20,217
+Mississippi,Keiser First Baptist Church,U.S. Congress District 01,,DEM,Representative Monte Hodges,34,6,0,28
+Mississippi,Wilson Fire Station,U.S. Congress District 01,,DEM,Representative Monte Hodges,43,13,2,28
+Mississippi,Joiner City Hall,U.S. Congress District 01,,DEM,Representative Monte Hodges,105,24,3,78
+Mississippi,Birdsong Community Center,U.S. Congress District 01,,DEM,Representative Monte Hodges,31,0,1,30
+Mississippi,Dyess City Hall,U.S. Congress District 01,,DEM,Representative Monte Hodges,14,1,0,13
+Mississippi,Etowah Fire Station,U.S. Congress District 01,,DEM,Representative Monte Hodges,22,7,0,15
+Mississippi,Trinity Baptist Church,Attorney General,,REP,Lieutenant Governor Tim Griffin,280,184,10,86
+Mississippi,Miss Co Election Center,Attorney General,,REP,Lieutenant Governor Tim Griffin,1001,790,14,197
+Mississippi,Richard B Harrison Multipurpos,Attorney General,,REP,Lieutenant Governor Tim Griffin,108,86,1,21
+Mississippi,Armorel Planting Company,Attorney General,,REP,Lieutenant Governor Tim Griffin,319,149,0,170
+Mississippi,Gosnell Community Center,Attorney General,,REP,Lieutenant Governor Tim Griffin,524,292,3,229
+Mississippi,Dell Community Center,Attorney General,,REP,Lieutenant Governor Tim Griffin,263,91,3,169
+Mississippi,Leachville City Hall,Attorney General,,REP,Lieutenant Governor Tim Griffin,454,281,1,172
+Mississippi,Manila Police Dept,Attorney General,,REP,Lieutenant Governor Tim Griffin,960,483,9,468
+Mississippi,Charles Strong Center,Attorney General,,REP,Lieutenant Governor Tim Griffin,115,48,0,67
+Mississippi,Osc Old Jr High Gym,Attorney General,,REP,Lieutenant Governor Tim Griffin,606,445,13,148
+Mississippi,Keiser First Baptist Church,Attorney General,,REP,Lieutenant Governor Tim Griffin,179,34,0,145
+Mississippi,Wilson Fire Station,Attorney General,,REP,Lieutenant Governor Tim Griffin,236,57,0,179
+Mississippi,Joiner City Hall,Attorney General,,REP,Lieutenant Governor Tim Griffin,124,26,2,96
+Mississippi,Birdsong Community Center,Attorney General,,REP,Lieutenant Governor Tim Griffin,56,14,0,42
+Mississippi,Dyess City Hall,Attorney General,,REP,Lieutenant Governor Tim Griffin,103,15,1,87
+Mississippi,Etowah Fire Station,Attorney General,,REP,Lieutenant Governor Tim Griffin,169,31,2,136
+Mississippi,Trinity Baptist Church,Attorney General,,DEM,Jesse Gibson,477,379,4,94
+Mississippi,Miss Co Election Center,Attorney General,,DEM,Jesse Gibson,535,400,12,123
+Mississippi,Richard B Harrison Multipurpos,Attorney General,,DEM,Jesse Gibson,456,333,10,113
+Mississippi,Armorel Planting Company,Attorney General,,DEM,Jesse Gibson,33,25,0,8
+Mississippi,Gosnell Community Center,Attorney General,,DEM,Jesse Gibson,136,78,3,55
+Mississippi,Dell Community Center,Attorney General,,DEM,Jesse Gibson,24,17,0,7
+Mississippi,Leachville City Hall,Attorney General,,DEM,Jesse Gibson,36,18,0,18
+Mississippi,Manila Police Dept,Attorney General,,DEM,Jesse Gibson,125,63,4,58
+Mississippi,Charles Strong Center,Attorney General,,DEM,Jesse Gibson,179,56,7,116
+Mississippi,Osc Old Jr High Gym,Attorney General,,DEM,Jesse Gibson,774,560,20,194
+Mississippi,Keiser First Baptist Church,Attorney General,,DEM,Jesse Gibson,29,7,0,22
+Mississippi,Wilson Fire Station,Attorney General,,DEM,Jesse Gibson,37,9,2,26
+Mississippi,Joiner City Hall,Attorney General,,DEM,Jesse Gibson,108,20,3,85
+Mississippi,Birdsong Community Center,Attorney General,,DEM,Jesse Gibson,32,0,1,31
+Mississippi,Dyess City Hall,Attorney General,,DEM,Jesse Gibson,11,0,0,11
+Mississippi,Etowah Fire Station,Attorney General,,DEM,Jesse Gibson,17,7,0,10
+Mississippi,Trinity Baptist Church,Auditor of State,,REP,Treasurer of State Dennis Milligan,256,175,10,71
+Mississippi,Miss Co Election Center,Auditor of State,,REP,Treasurer of State Dennis Milligan,986,776,14,196
+Mississippi,Richard B Harrison Multipurpos,Auditor of State,,REP,Treasurer of State Dennis Milligan,107,79,1,27
+Mississippi,Armorel Planting Company,Auditor of State,,REP,Treasurer of State Dennis Milligan,314,147,0,167
+Mississippi,Gosnell Community Center,Auditor of State,,REP,Treasurer of State Dennis Milligan,511,286,3,222
+Mississippi,Dell Community Center,Auditor of State,,REP,Treasurer of State Dennis Milligan,255,89,3,163
+Mississippi,Leachville City Hall,Auditor of State,,REP,Treasurer of State Dennis Milligan,449,275,1,173
+Mississippi,Manila Police Dept,Auditor of State,,REP,Treasurer of State Dennis Milligan,943,475,8,460
+Mississippi,Charles Strong Center,Auditor of State,,REP,Treasurer of State Dennis Milligan,113,47,0,66
+Mississippi,Osc Old Jr High Gym,Auditor of State,,REP,Treasurer of State Dennis Milligan,570,428,14,128
+Mississippi,Keiser First Baptist Church,Auditor of State,,REP,Treasurer of State Dennis Milligan,179,33,0,146
+Mississippi,Wilson Fire Station,Auditor of State,,REP,Treasurer of State Dennis Milligan,231,57,0,174
+Mississippi,Joiner City Hall,Auditor of State,,REP,Treasurer of State Dennis Milligan,123,24,2,97
+Mississippi,Birdsong Community Center,Auditor of State,,REP,Treasurer of State Dennis Milligan,53,14,0,39
+Mississippi,Dyess City Hall,Auditor of State,,REP,Treasurer of State Dennis Milligan,98,15,1,82
+Mississippi,Etowah Fire Station,Auditor of State,,REP,Treasurer of State Dennis Milligan,170,32,2,136
+Mississippi,Trinity Baptist Church,Auditor of State,,DEM,Diamond Arnold-Johnson,464,359,4,101
+Mississippi,Miss Co Election Center,Auditor of State,,DEM,Diamond Arnold-Johnson,497,374,12,111
+Mississippi,Richard B Harrison Multipurpos,Auditor of State,,DEM,Diamond Arnold-Johnson,448,336,10,102
+Mississippi,Armorel Planting Company,Auditor of State,,DEM,Diamond Arnold-Johnson,29,22,0,7
+Mississippi,Gosnell Community Center,Auditor of State,,DEM,Diamond Arnold-Johnson,130,78,2,50
+Mississippi,Dell Community Center,Auditor of State,,DEM,Diamond Arnold-Johnson,21,15,0,6
+Mississippi,Leachville City Hall,Auditor of State,,DEM,Diamond Arnold-Johnson,30,16,0,14
+Mississippi,Manila Police Dept,Auditor of State,,DEM,Diamond Arnold-Johnson,113,61,4,48
+Mississippi,Charles Strong Center,Auditor of State,,DEM,Diamond Arnold-Johnson,178,57,7,114
+Mississippi,Osc Old Jr High Gym,Auditor of State,,DEM,Diamond Arnold-Johnson,744,532,18,194
+Mississippi,Keiser First Baptist Church,Auditor of State,,DEM,Diamond Arnold-Johnson,24,7,0,17
+Mississippi,Wilson Fire Station,Auditor of State,,DEM,Diamond Arnold-Johnson,37,9,2,26
+Mississippi,Joiner City Hall,Auditor of State,,DEM,Diamond Arnold-Johnson,107,21,3,83
+Mississippi,Birdsong Community Center,Auditor of State,,DEM,Diamond Arnold-Johnson,32,0,1,31
+Mississippi,Dyess City Hall,Auditor of State,,DEM,Diamond Arnold-Johnson,8,0,0,8
+Mississippi,Etowah Fire Station,Auditor of State,,DEM,Diamond Arnold-Johnson,10,5,0,5
+Mississippi,Trinity Baptist Church,Auditor of State,,LIB,Simeon Snow,26,20,0,6
+Mississippi,Miss Co Election Center,Auditor of State,,LIB,Simeon Snow,41,31,0,10
+Mississippi,Richard B Harrison Multipurpos,Auditor of State,,LIB,Simeon Snow,6,5,0,1
+Mississippi,Armorel Planting Company,Auditor of State,,LIB,Simeon Snow,7,5,0,2
+Mississippi,Gosnell Community Center,Auditor of State,,LIB,Simeon Snow,13,5,0,8
+Mississippi,Dell Community Center,Auditor of State,,LIB,Simeon Snow,7,3,0,4
+Mississippi,Leachville City Hall,Auditor of State,,LIB,Simeon Snow,9,7,0,2
+Mississippi,Manila Police Dept,Auditor of State,,LIB,Simeon Snow,18,7,0,11
+Mississippi,Charles Strong Center,Auditor of State,,LIB,Simeon Snow,3,1,0,2
+Mississippi,Osc Old Jr High Gym,Auditor of State,,LIB,Simeon Snow,42,27,0,15
+Mississippi,Keiser First Baptist Church,Auditor of State,,LIB,Simeon Snow,6,0,0,6
+Mississippi,Wilson Fire Station,Auditor of State,,LIB,Simeon Snow,5,0,0,5
+Mississippi,Joiner City Hall,Auditor of State,,LIB,Simeon Snow,2,1,0,1
+Mississippi,Birdsong Community Center,Auditor of State,,LIB,Simeon Snow,3,0,0,3
+Mississippi,Dyess City Hall,Auditor of State,,LIB,Simeon Snow,4,0,0,4
+Mississippi,Etowah Fire Station,Auditor of State,,LIB,Simeon Snow,6,1,0,5
+Mississippi,Trinity Baptist Church,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,472,368,4,100
+Mississippi,Miss Co Election Center,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,533,401,12,120
+Mississippi,Richard B Harrison Multipurpos,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,439,325,10,104
+Mississippi,Armorel Planting Company,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,35,25,0,10
+Mississippi,Gosnell Community Center,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,140,81,3,56
+Mississippi,Dell Community Center,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,28,19,0,9
+Mississippi,Leachville City Hall,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,39,24,0,15
+Mississippi,Manila Police Dept,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,125,64,4,57
+Mississippi,Charles Strong Center,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,176,55,7,114
+Mississippi,Osc Old Jr High Gym,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,755,540,19,196
+Mississippi,Keiser First Baptist Church,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,22,6,0,16
+Mississippi,Wilson Fire Station,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,39,10,2,27
+Mississippi,Joiner City Hall,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,109,24,3,82
+Mississippi,Birdsong Community Center,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,31,0,1,30
+Mississippi,Dyess City Hall,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,12,0,0,12
+Mississippi,Etowah Fire Station,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,18,6,0,12
+Mississippi,Trinity Baptist Church,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,269,186,10,73
+Mississippi,Miss Co Election Center,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,979,771,14,194
+Mississippi,Richard B Harrison Multipurpos,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,114,89,1,24
+Mississippi,Armorel Planting Company,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,316,150,0,166
+Mississippi,Gosnell Community Center,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,511,286,3,222
+Mississippi,Dell Community Center,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,251,88,3,160
+Mississippi,Leachville City Hall,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,441,270,1,170
+Mississippi,Manila Police Dept,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,943,474,8,461
+Mississippi,Charles Strong Center,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,113,49,0,64
+Mississippi,Osc Old Jr High Gym,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,581,431,13,137
+Mississippi,Keiser First Baptist Church,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,183,33,0,150
+Mississippi,Wilson Fire Station,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,230,55,0,175
+Mississippi,Joiner City Hall,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,117,22,2,93
+Mississippi,Birdsong Community Center,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,53,14,0,39
+Mississippi,Dyess City Hall,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,101,15,1,85
+Mississippi,Etowah Fire Station,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,171,32,2,137
+Mississippi,Trinity Baptist Church,Governor,,REP,Sarah Huckabee Sanders,279,187,10,82
+Mississippi,Miss Co Election Center,Governor,,REP,Sarah Huckabee Sanders,958,758,13,187
+Mississippi,Richard B Harrison Multipurpos,Governor,,REP,Sarah Huckabee Sanders,105,77,0,28
+Mississippi,Armorel Planting Company,Governor,,REP,Sarah Huckabee Sanders,312,148,0,164
+Mississippi,Gosnell Community Center,Governor,,REP,Sarah Huckabee Sanders,518,292,3,223
+Mississippi,Dell Community Center,Governor,,REP,Sarah Huckabee Sanders,261,88,3,170
+Mississippi,Leachville City Hall,Governor,,REP,Sarah Huckabee Sanders,451,275,1,175
+Mississippi,Manila Police Dept,Governor,,REP,Sarah Huckabee Sanders,952,474,9,469
+Mississippi,Charles Strong Center,Governor,,REP,Sarah Huckabee Sanders,119,51,0,68
+Mississippi,Osc Old Jr High Gym,Governor,,REP,Sarah Huckabee Sanders,582,428,12,142
+Mississippi,Keiser First Baptist Church,Governor,,REP,Sarah Huckabee Sanders,184,35,0,149
+Mississippi,Wilson Fire Station,Governor,,REP,Sarah Huckabee Sanders,233,54,0,179
+Mississippi,Joiner City Hall,Governor,,REP,Sarah Huckabee Sanders,122,24,2,96
+Mississippi,Birdsong Community Center,Governor,,REP,Sarah Huckabee Sanders,52,14,0,38
+Mississippi,Dyess City Hall,Governor,,REP,Sarah Huckabee Sanders,102,15,1,86
+Mississippi,Etowah Fire Station,Governor,,REP,Sarah Huckabee Sanders,171,31,2,138
+Mississippi,Trinity Baptist Church,Governor,,LIB,"Ricky Dale Harrington, Jr.",21,17,0,4
+Mississippi,Miss Co Election Center,Governor,,LIB,"Ricky Dale Harrington, Jr.",33,24,0,9
+Mississippi,Richard B Harrison Multipurpos,Governor,,LIB,"Ricky Dale Harrington, Jr.",22,14,1,7
+Mississippi,Armorel Planting Company,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,4,0,1
+Mississippi,Gosnell Community Center,Governor,,LIB,"Ricky Dale Harrington, Jr.",10,4,0,6
+Mississippi,Dell Community Center,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,4,0,1
+Mississippi,Leachville City Hall,Governor,,LIB,"Ricky Dale Harrington, Jr.",9,5,0,4
+Mississippi,Manila Police Dept,Governor,,LIB,"Ricky Dale Harrington, Jr.",25,17,0,8
+Mississippi,Charles Strong Center,Governor,,LIB,"Ricky Dale Harrington, Jr.",12,5,0,7
+Mississippi,Osc Old Jr High Gym,Governor,,LIB,"Ricky Dale Harrington, Jr.",38,22,1,15
+Mississippi,Keiser First Baptist Church,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,0,0,3
+Mississippi,Wilson Fire Station,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,1,0,2
+Mississippi,Joiner City Hall,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,1,0,4
+Mississippi,Birdsong Community Center,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Mississippi,Dyess City Hall,Governor,,LIB,"Ricky Dale Harrington, Jr.",4,0,0,4
+Mississippi,Etowah Fire Station,Governor,,LIB,"Ricky Dale Harrington, Jr.",4,0,0,4
+Mississippi,Trinity Baptist Church,Governor,,DEM,Chris Jones,483,383,4,96
+Mississippi,Miss Co Election Center,Governor,,DEM,Chris Jones,571,430,13,128
+Mississippi,Richard B Harrison Multipurpos,Governor,,DEM,Chris Jones,481,367,11,103
+Mississippi,Armorel Planting Company,Governor,,DEM,Chris Jones,40,26,0,14
+Mississippi,Gosnell Community Center,Governor,,DEM,Chris Jones,139,81,3,55
+Mississippi,Dell Community Center,Governor,,DEM,Chris Jones,25,17,0,8
+Mississippi,Leachville City Hall,Governor,,DEM,Chris Jones,42,25,0,17
+Mississippi,Manila Police Dept,Governor,,DEM,Chris Jones,123,65,4,54
+Mississippi,Charles Strong Center,Governor,,DEM,Chris Jones,172,54,7,111
+Mississippi,Osc Old Jr High Gym,Governor,,DEM,Chris Jones,785,573,20,192
+Mississippi,Keiser First Baptist Church,Governor,,DEM,Chris Jones,23,6,0,17
+Mississippi,Wilson Fire Station,Governor,,DEM,Chris Jones,39,11,2,26
+Mississippi,Joiner City Hall,Governor,,DEM,Chris Jones,111,23,3,85
+Mississippi,Birdsong Community Center,Governor,,DEM,Chris Jones,34,0,1,33
+Mississippi,Dyess City Hall,Governor,,DEM,Chris Jones,9,0,0,9
+Mississippi,Etowah Fire Station,Governor,,DEM,Chris Jones,15,7,0,8
+Mississippi,Trinity Baptist Church,Lieutenant Governor,,DEM,Kelly Ross Krout,461,359,4,98
+Mississippi,Miss Co Election Center,Lieutenant Governor,,DEM,Kelly Ross Krout,539,401,13,125
+Mississippi,Richard B Harrison Multipurpos,Lieutenant Governor,,DEM,Kelly Ross Krout,431,318,10,103
+Mississippi,Armorel Planting Company,Lieutenant Governor,,DEM,Kelly Ross Krout,35,24,0,11
+Mississippi,Gosnell Community Center,Lieutenant Governor,,DEM,Kelly Ross Krout,141,83,3,55
+Mississippi,Dell Community Center,Lieutenant Governor,,DEM,Kelly Ross Krout,21,14,0,7
+Mississippi,Leachville City Hall,Lieutenant Governor,,DEM,Kelly Ross Krout,35,21,0,14
+Mississippi,Manila Police Dept,Lieutenant Governor,,DEM,Kelly Ross Krout,120,67,4,49
+Mississippi,Charles Strong Center,Lieutenant Governor,,DEM,Kelly Ross Krout,167,50,7,110
+Mississippi,Osc Old Jr High Gym,Lieutenant Governor,,DEM,Kelly Ross Krout,740,535,20,185
+Mississippi,Keiser First Baptist Church,Lieutenant Governor,,DEM,Kelly Ross Krout,29,8,0,21
+Mississippi,Wilson Fire Station,Lieutenant Governor,,DEM,Kelly Ross Krout,41,11,2,28
+Mississippi,Joiner City Hall,Lieutenant Governor,,DEM,Kelly Ross Krout,104,22,3,79
+Mississippi,Birdsong Community Center,Lieutenant Governor,,DEM,Kelly Ross Krout,33,0,1,32
+Mississippi,Dyess City Hall,Lieutenant Governor,,DEM,Kelly Ross Krout,11,0,0,11
+Mississippi,Etowah Fire Station,Lieutenant Governor,,DEM,Kelly Ross Krout,17,7,0,10
+Mississippi,Trinity Baptist Church,Lieutenant Governor,,LIB,Frank Gilbert,35,28,0,7
+Mississippi,Miss Co Election Center,Lieutenant Governor,,LIB,Frank Gilbert,42,27,0,15
+Mississippi,Richard B Harrison Multipurpos,Lieutenant Governor,,LIB,Frank Gilbert,16,15,0,1
+Mississippi,Armorel Planting Company,Lieutenant Governor,,LIB,Frank Gilbert,14,8,0,6
+Mississippi,Gosnell Community Center,Lieutenant Governor,,LIB,Frank Gilbert,18,7,0,11
+Mississippi,Dell Community Center,Lieutenant Governor,,LIB,Frank Gilbert,8,2,0,6
+Mississippi,Leachville City Hall,Lieutenant Governor,,LIB,Frank Gilbert,20,14,0,6
+Mississippi,Manila Police Dept,Lieutenant Governor,,LIB,Frank Gilbert,27,14,0,13
+Mississippi,Charles Strong Center,Lieutenant Governor,,LIB,Frank Gilbert,15,4,0,11
+Mississippi,Osc Old Jr High Gym,Lieutenant Governor,,LIB,Frank Gilbert,42,29,0,13
+Mississippi,Keiser First Baptist Church,Lieutenant Governor,,LIB,Frank Gilbert,7,1,0,6
+Mississippi,Wilson Fire Station,Lieutenant Governor,,LIB,Frank Gilbert,6,0,0,6
+Mississippi,Joiner City Hall,Lieutenant Governor,,LIB,Frank Gilbert,9,2,0,7
+Mississippi,Birdsong Community Center,Lieutenant Governor,,LIB,Frank Gilbert,3,1,0,2
+Mississippi,Dyess City Hall,Lieutenant Governor,,LIB,Frank Gilbert,4,0,0,4
+Mississippi,Etowah Fire Station,Lieutenant Governor,,LIB,Frank Gilbert,9,2,0,7
+Mississippi,Trinity Baptist Church,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,260,175,10,75
+Mississippi,Miss Co Election Center,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,945,755,13,177
+Mississippi,Richard B Harrison Multipurpos,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,103,76,1,26
+Mississippi,Armorel Planting Company,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,302,142,0,160
+Mississippi,Gosnell Community Center,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,495,279,3,213
+Mississippi,Dell Community Center,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,256,92,3,161
+Mississippi,Leachville City Hall,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,436,266,1,169
+Mississippi,Manila Police Dept,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,934,470,9,455
+Mississippi,Charles Strong Center,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,113,52,0,61
+Mississippi,Osc Old Jr High Gym,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,580,427,13,140
+Mississippi,Keiser First Baptist Church,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,174,31,0,143
+Mississippi,Wilson Fire Station,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,225,54,0,171
+Mississippi,Joiner City Hall,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,117,20,2,95
+Mississippi,Birdsong Community Center,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,51,13,0,38
+Mississippi,Dyess City Hall,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,98,15,1,82
+Mississippi,Etowah Fire Station,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,162,29,2,131
+Mississippi,Trinity Baptist Church,Secretary of State,,DEM,Anna Beth Gorman,476,372,4,100
+Mississippi,Miss Co Election Center,Secretary of State,,DEM,Anna Beth Gorman,545,406,13,126
+Mississippi,Richard B Harrison Multipurpos,Secretary of State,,DEM,Anna Beth Gorman,448,330,10,108
+Mississippi,Armorel Planting Company,Secretary of State,,DEM,Anna Beth Gorman,37,24,0,13
+Mississippi,Gosnell Community Center,Secretary of State,,DEM,Anna Beth Gorman,145,81,3,61
+Mississippi,Dell Community Center,Secretary of State,,DEM,Anna Beth Gorman,29,19,0,10
+Mississippi,Leachville City Hall,Secretary of State,,DEM,Anna Beth Gorman,42,24,0,18
+Mississippi,Manila Police Dept,Secretary of State,,DEM,Anna Beth Gorman,147,79,4,64
+Mississippi,Charles Strong Center,Secretary of State,,DEM,Anna Beth Gorman,177,54,7,116
+Mississippi,Osc Old Jr High Gym,Secretary of State,,DEM,Anna Beth Gorman,762,541,20,201
+Mississippi,Keiser First Baptist Church,Secretary of State,,DEM,Anna Beth Gorman,31,7,0,24
+Mississippi,Wilson Fire Station,Secretary of State,,DEM,Anna Beth Gorman,36,8,2,26
+Mississippi,Joiner City Hall,Secretary of State,,DEM,Anna Beth Gorman,106,20,3,83
+Mississippi,Birdsong Community Center,Secretary of State,,DEM,Anna Beth Gorman,36,0,1,35
+Mississippi,Dyess City Hall,Secretary of State,,DEM,Anna Beth Gorman,11,0,0,11
+Mississippi,Etowah Fire Station,Secretary of State,,DEM,Anna Beth Gorman,16,6,0,10
+Mississippi,Trinity Baptist Church,Secretary of State,,REP,Secretary of State John Thurston,272,188,10,74
+Mississippi,Miss Co Election Center,Secretary of State,,REP,Secretary of State John Thurston,977,773,13,191
+Mississippi,Richard B Harrison Multipurpos,Secretary of State,,REP,Secretary of State John Thurston,111,86,1,24
+Mississippi,Armorel Planting Company,Secretary of State,,REP,Secretary of State John Thurston,315,150,0,165
+Mississippi,Gosnell Community Center,Secretary of State,,REP,Secretary of State John Thurston,510,288,3,219
+Mississippi,Dell Community Center,Secretary of State,,REP,Secretary of State John Thurston,256,89,3,164
+Mississippi,Leachville City Hall,Secretary of State,,REP,Secretary of State John Thurston,444,274,1,169
+Mississippi,Manila Police Dept,Secretary of State,,REP,Secretary of State John Thurston,932,466,9,457
+Mississippi,Charles Strong Center,Secretary of State,,REP,Secretary of State John Thurston,112,48,0,64
+Mississippi,Osc Old Jr High Gym,Secretary of State,,REP,Secretary of State John Thurston,599,444,13,142
+Mississippi,Keiser First Baptist Church,Secretary of State,,REP,Secretary of State John Thurston,173,32,0,141
+Mississippi,Wilson Fire Station,Secretary of State,,REP,Secretary of State John Thurston,233,56,0,177
+Mississippi,Joiner City Hall,Secretary of State,,REP,Secretary of State John Thurston,123,25,2,96
+Mississippi,Birdsong Community Center,Secretary of State,,REP,Secretary of State John Thurston,51,14,0,37
+Mississippi,Dyess City Hall,Secretary of State,,REP,Secretary of State John Thurston,102,15,1,86
+Mississippi,Etowah Fire Station,Secretary of State,,REP,Secretary of State John Thurston,168,32,2,134
+Mississippi,Trinity Baptist Church,State Treasurer,,REP,State Representative Mark Lowery,269,180,9,80
+Mississippi,Miss Co Election Center,State Treasurer,,REP,State Representative Mark Lowery,972,769,13,190
+Mississippi,Richard B Harrison Multipurpos,State Treasurer,,REP,State Representative Mark Lowery,110,85,1,24
+Mississippi,Armorel Planting Company,State Treasurer,,REP,State Representative Mark Lowery,319,150,0,169
+Mississippi,Gosnell Community Center,State Treasurer,,REP,State Representative Mark Lowery,517,291,3,223
+Mississippi,Dell Community Center,State Treasurer,,REP,State Representative Mark Lowery,258,90,3,165
+Mississippi,Leachville City Hall,State Treasurer,,REP,State Representative Mark Lowery,444,275,1,168
+Mississippi,Manila Police Dept,State Treasurer,,REP,State Representative Mark Lowery,948,475,9,464
+Mississippi,Charles Strong Center,State Treasurer,,REP,State Representative Mark Lowery,120,47,0,73
+Mississippi,Osc Old Jr High Gym,State Treasurer,,REP,State Representative Mark Lowery,598,440,13,145
+Mississippi,Keiser First Baptist Church,State Treasurer,,REP,State Representative Mark Lowery,182,34,0,148
+Mississippi,Wilson Fire Station,State Treasurer,,REP,State Representative Mark Lowery,233,54,0,179
+Mississippi,Joiner City Hall,State Treasurer,,REP,State Representative Mark Lowery,123,22,2,99
+Mississippi,Birdsong Community Center,State Treasurer,,REP,State Representative Mark Lowery,54,13,0,41
+Mississippi,Dyess City Hall,State Treasurer,,REP,State Representative Mark Lowery,105,15,1,89
+Mississippi,Etowah Fire Station,State Treasurer,,REP,State Representative Mark Lowery,170,31,2,137
+Mississippi,Trinity Baptist Church,State Treasurer,,DEM,Pam Whitaker,486,385,4,97
+Mississippi,Miss Co Election Center,State Treasurer,,DEM,Pam Whitaker,559,419,13,127
+Mississippi,Richard B Harrison Multipurpos,State Treasurer,,DEM,Pam Whitaker,455,339,10,106
+Mississippi,Armorel Planting Company,State Treasurer,,DEM,Pam Whitaker,34,25,0,9
+Mississippi,Gosnell Community Center,State Treasurer,,DEM,Pam Whitaker,140,81,3,56
+Mississippi,Dell Community Center,State Treasurer,,DEM,Pam Whitaker,29,19,0,10
+Mississippi,Leachville City Hall,State Treasurer,,DEM,Pam Whitaker,41,22,0,19
+Mississippi,Manila Police Dept,State Treasurer,,DEM,Pam Whitaker,129,71,4,54
+Mississippi,Charles Strong Center,State Treasurer,,DEM,Pam Whitaker,169,56,7,106
+Mississippi,Osc Old Jr High Gym,State Treasurer,,DEM,Pam Whitaker,768,552,19,197
+Mississippi,Keiser First Baptist Church,State Treasurer,,DEM,Pam Whitaker,27,7,0,20
+Mississippi,Wilson Fire Station,State Treasurer,,DEM,Pam Whitaker,41,12,2,27
+Mississippi,Joiner City Hall,State Treasurer,,DEM,Pam Whitaker,110,25,3,82
+Mississippi,Birdsong Community Center,State Treasurer,,DEM,Pam Whitaker,34,1,1,32
+Mississippi,Dyess City Hall,State Treasurer,,DEM,Pam Whitaker,10,0,0,10
+Mississippi,Etowah Fire Station,State Treasurer,,DEM,Pam Whitaker,17,7,0,10
+Mississippi,Trinity Baptist Church,State Senate,19,REP,State Senator Dave Wallace,512,365,11,136
+Mississippi,Miss Co Election Center,State Senate,19,REP,State Senator Dave Wallace,1249,970,20,259
+Mississippi,Richard B Harrison Multipurpos,State Senate,19,REP,State Senator Dave Wallace,312,225,5,82
+Mississippi,Armorel Planting Company,State Senate,19,REP,State Senator Dave Wallace,340,162,0,178
+Mississippi,Gosnell Community Center,State Senate,19,REP,State Senator Dave Wallace,571,321,4,246
+Mississippi,Dell Community Center,State Senate,19,REP,State Senator Dave Wallace,279,104,3,172
+Mississippi,Leachville City Hall,State Senate,19,REP,State Senator Dave Wallace,481,292,1,188
+Mississippi,Manila Police Dept,State Senate,19,REP,State Senator Dave Wallace,1052,531,11,510
+Mississippi,Charles Strong Center,State Senate,19,REP,State Senator Dave Wallace,206,76,5,125
+Mississippi,Osc Old Jr High Gym,State Senate,19,REP,State Senator Dave Wallace,958,687,24,247
+Mississippi,Keiser First Baptist Church,State Senate,19,REP,State Senator Dave Wallace,198,36,0,162
+Mississippi,Wilson Fire Station,State Senate,19,REP,State Senator Dave Wallace,256,60,0,196
+Mississippi,Joiner City Hall,State Senate,19,REP,State Senator Dave Wallace,169,36,3,130
+Mississippi,Birdsong Community Center,State Senate,19,REP,State Senator Dave Wallace,66,13,0,53
+Mississippi,Dyess City Hall,State Senate,19,REP,State Senator Dave Wallace,110,15,1,94
+Mississippi,Etowah Fire Station,State Senate,19,REP,State Senator Dave Wallace,182,36,2,144
+Mississippi,Gosnell Community Center,State House,33,REP,Representative Jon Milligan,30,18,1,11
+Mississippi,Dell Community Center,State House,33,REP,Representative Jon Milligan,262,98,3,161
+Mississippi,Leachville City Hall,State House,33,REP,Representative Jon Milligan,451,268,1,182
+Mississippi,Manila Police Dept,State House,33,REP,Representative Jon Milligan,1005,503,11,491
+Mississippi,Charles Strong Center,State House,33,REP,Representative Jon Milligan,0,0,0,0
+Mississippi,Keiser First Baptist Church,State House,33,REP,Representative Jon Milligan,182,36,0,146
+Mississippi,Wilson Fire Station,State House,33,REP,Representative Jon Milligan,1,1,0,0
+Mississippi,Joiner City Hall,State House,33,REP,Representative Jon Milligan,10,1,0,9
+Mississippi,Birdsong Community Center,State House,33,REP,Representative Jon Milligan,64,13,0,51
+Mississippi,Dyess City Hall,State House,33,REP,Representative Jon Milligan,103,15,1,87
+Mississippi,Etowah Fire Station,State House,33,REP,Representative Jon Milligan,171,36,2,133
+Mississippi,Trinity Baptist Church,State House,34,REP,Joey Carr,304,208,10,86
+Mississippi,Miss Co Election Center,State House,34,REP,Joey Carr,1006,795,13,198
+Mississippi,Richard B Harrison Multipurpos,State House,34,REP,Joey Carr,125,94,1,30
+Mississippi,Armorel Planting Company,State House,34,REP,Joey Carr,325,156,0,169
+Mississippi,Gosnell Community Center,State House,34,REP,Joey Carr,499,280,2,217
+Mississippi,Dell Community Center,State House,34,REP,Joey Carr,0,0,0,0
+Mississippi,Charles Strong Center,State House,34,REP,Joey Carr,130,56,2,72
+Mississippi,Osc Old Jr High Gym,State House,34,REP,Joey Carr,554,412,16,126
+Mississippi,Wilson Fire Station,State House,34,REP,Joey Carr,221,50,0,171
+Mississippi,Joiner City Hall,State House,34,REP,Joey Carr,112,21,3,88
+Mississippi,Trinity Baptist Church,State House,34,DEM,Ollie Collins,459,363,4,92
+Mississippi,Miss Co Election Center,State House,34,DEM,Ollie Collins,513,380,13,120
+Mississippi,Richard B Harrison Multipurpos,State House,34,DEM,Ollie Collins,460,345,11,104
+Mississippi,Armorel Planting Company,State House,34,DEM,Ollie Collins,31,21,0,10
+Mississippi,Gosnell Community Center,State House,34,DEM,Ollie Collins,127,75,3,49
+Mississippi,Dell Community Center,State House,34,DEM,Ollie Collins,0,0,0,0
+Mississippi,Charles Strong Center,State House,34,DEM,Ollie Collins,174,54,5,115
+Mississippi,Osc Old Jr High Gym,State House,34,DEM,Ollie Collins,854,612,18,224
+Mississippi,Wilson Fire Station,State House,34,DEM,Ollie Collins,50,14,2,34
+Mississippi,Joiner City Hall,State House,34,DEM,Ollie Collins,111,24,2,85
+Mississippi,Trinity Baptist Church,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,414,304,11,99
+Mississippi,Miss Co Election Center,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,879,682,13,184
+Mississippi,Richard B Harrison Multipurpos,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,243,176,5,62
+Mississippi,Armorel Planting Company,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,212,104,0,108
+Mississippi,Gosnell Community Center,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,401,232,1,168
+Mississippi,Dell Community Center,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,167,64,2,101
+Mississippi,Leachville City Hall,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,321,189,1,131
+Mississippi,Manila Police Dept,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,717,366,10,341
+Mississippi,Charles Strong Center,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,142,53,4,85
+Mississippi,Osc Old Jr High Gym,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,730,509,21,200
+Mississippi,Keiser First Baptist Church,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,116,26,0,90
+Mississippi,Wilson Fire Station,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,170,43,0,127
+Mississippi,Joiner City Hall,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,128,27,3,98
+Mississippi,Birdsong Community Center,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,46,6,0,40
+Mississippi,Dyess City Hall,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,65,11,0,54
+Mississippi,Etowah Fire Station,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,115,25,2,88
+Mississippi,Trinity Baptist Church,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,246,188,2,56
+Mississippi,Miss Co Election Center,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,460,361,9,90
+Mississippi,Richard B Harrison Multipurpos,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,213,166,2,45
+Mississippi,Armorel Planting Company,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,92,46,0,46
+Mississippi,Gosnell Community Center,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,201,111,5,85
+Mississippi,Dell Community Center,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,91,36,0,55
+Mississippi,Leachville City Hall,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,124,79,0,45
+Mississippi,Manila Police Dept,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,251,136,2,113
+Mississippi,Charles Strong Center,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,110,36,1,73
+Mississippi,Osc Old Jr High Gym,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,455,345,10,100
+Mississippi,Keiser First Baptist Church,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,68,10,0,58
+Mississippi,Wilson Fire Station,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,74,16,0,58
+Mississippi,Joiner City Hall,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,73,15,1,57
+Mississippi,Birdsong Community Center,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,27,4,1,22
+Mississippi,Dyess City Hall,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,37,3,0,34
+Mississippi,Etowah Fire Station,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,49,10,0,39
+Mississippi,Trinity Baptist Church,Prosecuting Attorney,02,NON,Martin E. Lilly,239,182,3,54
+Mississippi,Miss Co Election Center,Prosecuting Attorney,02,NON,Martin E. Lilly,490,376,9,105
+Mississippi,Richard B Harrison Multipurpos,Prosecuting Attorney,02,NON,Martin E. Lilly,163,112,3,48
+Mississippi,Armorel Planting Company,Prosecuting Attorney,02,NON,Martin E. Lilly,114,53,0,61
+Mississippi,Gosnell Community Center,Prosecuting Attorney,02,NON,Martin E. Lilly,229,116,2,111
+Mississippi,Dell Community Center,Prosecuting Attorney,02,NON,Martin E. Lilly,125,47,0,78
+Mississippi,Leachville City Hall,Prosecuting Attorney,02,NON,Martin E. Lilly,239,150,1,88
+Mississippi,Manila Police Dept,Prosecuting Attorney,02,NON,Martin E. Lilly,449,221,3,225
+Mississippi,Charles Strong Center,Prosecuting Attorney,02,NON,Martin E. Lilly,92,30,1,61
+Mississippi,Osc Old Jr High Gym,Prosecuting Attorney,02,NON,Martin E. Lilly,372,279,12,81
+Mississippi,Keiser First Baptist Church,Prosecuting Attorney,02,NON,Martin E. Lilly,81,16,0,65
+Mississippi,Wilson Fire Station,Prosecuting Attorney,02,NON,Martin E. Lilly,107,22,2,83
+Mississippi,Joiner City Hall,Prosecuting Attorney,02,NON,Martin E. Lilly,80,18,1,61
+Mississippi,Birdsong Community Center,Prosecuting Attorney,02,NON,Martin E. Lilly,35,7,0,28
+Mississippi,Dyess City Hall,Prosecuting Attorney,02,NON,Martin E. Lilly,57,11,0,46
+Mississippi,Etowah Fire Station,Prosecuting Attorney,02,NON,Martin E. Lilly,78,14,0,64
+Mississippi,Trinity Baptist Church,Prosecuting Attorney,02,NON,Sonia Fonticiella,463,344,11,108
+Mississippi,Miss Co Election Center,Prosecuting Attorney,02,NON,Sonia Fonticiella,900,709,13,178
+Mississippi,Richard B Harrison Multipurpos,Prosecuting Attorney,02,NON,Sonia Fonticiella,345,269,6,70
+Mississippi,Armorel Planting Company,Prosecuting Attorney,02,NON,Sonia Fonticiella,205,107,0,98
+Mississippi,Gosnell Community Center,Prosecuting Attorney,02,NON,Sonia Fonticiella,380,226,4,150
+Mississippi,Dell Community Center,Prosecuting Attorney,02,NON,Sonia Fonticiella,135,53,2,80
+Mississippi,Leachville City Hall,Prosecuting Attorney,02,NON,Sonia Fonticiella,223,133,0,90
+Mississippi,Manila Police Dept,Prosecuting Attorney,02,NON,Sonia Fonticiella,546,289,9,248
+Mississippi,Charles Strong Center,Prosecuting Attorney,02,NON,Sonia Fonticiella,185,68,6,111
+Mississippi,Osc Old Jr High Gym,Prosecuting Attorney,02,NON,Sonia Fonticiella,897,644,18,235
+Mississippi,Keiser First Baptist Church,Prosecuting Attorney,02,NON,Sonia Fonticiella,104,21,0,83
+Mississippi,Wilson Fire Station,Prosecuting Attorney,02,NON,Sonia Fonticiella,145,40,0,105
+Mississippi,Joiner City Hall,Prosecuting Attorney,02,NON,Sonia Fonticiella,122,24,3,95
+Mississippi,Birdsong Community Center,Prosecuting Attorney,02,NON,Sonia Fonticiella,38,4,1,33
+Mississippi,Dyess City Hall,Prosecuting Attorney,02,NON,Sonia Fonticiella,49,2,0,47
+Mississippi,Etowah Fire Station,Prosecuting Attorney,02,NON,Sonia Fonticiella,95,24,2,69
+Mississippi,Trinity Baptist Church,County Assessor,,DEM,DEM Mark Terry,453,349,4,100
+Mississippi,Miss Co Election Center,County Assessor,,DEM,DEM Mark Terry,609,458,11,140
+Mississippi,Richard B Harrison Multipurpos,County Assessor,,DEM,DEM Mark Terry,441,333,8,100
+Mississippi,Armorel Planting Company,County Assessor,,DEM,DEM Mark Terry,53,32,0,21
+Mississippi,Gosnell Community Center,County Assessor,,DEM,DEM Mark Terry,149,89,3,57
+Mississippi,Dell Community Center,County Assessor,,DEM,DEM Mark Terry,32,18,0,14
+Mississippi,Leachville City Hall,County Assessor,,DEM,DEM Mark Terry,38,21,0,17
+Mississippi,Manila Police Dept,County Assessor,,DEM,DEM Mark Terry,131,76,3,52
+Mississippi,Charles Strong Center,County Assessor,,DEM,DEM Mark Terry,172,61,7,104
+Mississippi,Osc Old Jr High Gym,County Assessor,,DEM,DEM Mark Terry,711,508,19,184
+Mississippi,Keiser First Baptist Church,County Assessor,,DEM,DEM Mark Terry,26,7,0,19
+Mississippi,Wilson Fire Station,County Assessor,,DEM,DEM Mark Terry,47,12,2,33
+Mississippi,Joiner City Hall,County Assessor,,DEM,DEM Mark Terry,106,27,3,76
+Mississippi,Birdsong Community Center,County Assessor,,DEM,DEM Mark Terry,37,0,1,36
+Mississippi,Dyess City Hall,County Assessor,,DEM,DEM Mark Terry,12,0,0,12
+Mississippi,Etowah Fire Station,County Assessor,,DEM,DEM Mark Terry,21,5,0,16
+Mississippi,Trinity Baptist Church,County Assessor,,IND,IND Stanley Parks,142,111,2,29
+Mississippi,Miss Co Election Center,County Assessor,,IND,IND Stanley Parks,217,176,5,36
+Mississippi,Richard B Harrison Multipurpos,County Assessor,,IND,IND Stanley Parks,82,62,3,17
+Mississippi,Armorel Planting Company,County Assessor,,IND,IND Stanley Parks,32,16,0,16
+Mississippi,Gosnell Community Center,County Assessor,,IND,IND Stanley Parks,65,39,0,26
+Mississippi,Dell Community Center,County Assessor,,IND,IND Stanley Parks,23,13,0,10
+Mississippi,Leachville City Hall,County Assessor,,IND,IND Stanley Parks,25,20,0,5
+Mississippi,Manila Police Dept,County Assessor,,IND,IND Stanley Parks,74,37,1,36
+Mississippi,Charles Strong Center,County Assessor,,IND,IND Stanley Parks,37,12,0,25
+Mississippi,Osc Old Jr High Gym,County Assessor,,IND,IND Stanley Parks,191,141,5,45
+Mississippi,Keiser First Baptist Church,County Assessor,,IND,IND Stanley Parks,29,3,0,26
+Mississippi,Wilson Fire Station,County Assessor,,IND,IND Stanley Parks,31,5,0,26
+Mississippi,Joiner City Hall,County Assessor,,IND,IND Stanley Parks,28,5,0,23
+Mississippi,Birdsong Community Center,County Assessor,,IND,IND Stanley Parks,4,2,0,2
+Mississippi,Dyess City Hall,County Assessor,,IND,IND Stanley Parks,16,5,0,11
+Mississippi,Etowah Fire Station,County Assessor,,IND,IND Stanley Parks,23,5,0,18
+Mississippi,Trinity Baptist Church,County Assessor,,REP,REP Brannah Bibbs,185,127,8,50
+Mississippi,Miss Co Election Center,County Assessor,,REP,REP Brannah Bibbs,726,573,9,144
+Mississippi,Richard B Harrison Multipurpos,County Assessor,,REP,REP Brannah Bibbs,93,72,1,20
+Mississippi,Armorel Planting Company,County Assessor,,REP,REP Brannah Bibbs,265,125,0,140
+Mississippi,Gosnell Community Center,County Assessor,,REP,REP Brannah Bibbs,443,245,3,195
+Mississippi,Dell Community Center,County Assessor,,REP,REP Brannah Bibbs,234,77,3,154
+Mississippi,Leachville City Hall,County Assessor,,REP,REP Brannah Bibbs,432,260,1,171
+Mississippi,Manila Police Dept,County Assessor,,REP,REP Brannah Bibbs,878,437,9,432
+Mississippi,Charles Strong Center,County Assessor,,REP,REP Brannah Bibbs,94,36,0,58
+Mississippi,Osc Old Jr High Gym,County Assessor,,REP,REP Brannah Bibbs,480,355,10,115
+Mississippi,Keiser First Baptist Church,County Assessor,,REP,REP Brannah Bibbs,153,30,0,123
+Mississippi,Wilson Fire Station,County Assessor,,REP,REP Brannah Bibbs,198,49,0,149
+Mississippi,Joiner City Hall,County Assessor,,REP,REP Brannah Bibbs,99,15,2,82
+Mississippi,Birdsong Community Center,County Assessor,,REP,REP Brannah Bibbs,47,12,0,35
+Mississippi,Dyess City Hall,County Assessor,,REP,REP Brannah Bibbs,85,10,1,74
+Mississippi,Etowah Fire Station,County Assessor,,REP,REP Brannah Bibbs,143,28,2,113
+Mississippi,Trinity Baptist Church,County Coroner,,IND,IND Tresia Seaton,432,333,6,93
+Mississippi,Miss Co Election Center,County Coroner,,IND,IND Tresia Seaton,484,362,10,112
+Mississippi,Richard B Harrison Multipurpos,County Coroner,,IND,IND Tresia Seaton,342,260,8,74
+Mississippi,Armorel Planting Company,County Coroner,,IND,IND Tresia Seaton,47,27,0,20
+Mississippi,Gosnell Community Center,County Coroner,,IND,IND Tresia Seaton,143,81,3,59
+Mississippi,Dell Community Center,County Coroner,,IND,IND Tresia Seaton,37,21,0,16
+Mississippi,Leachville City Hall,County Coroner,,IND,IND Tresia Seaton,59,38,0,21
+Mississippi,Manila Police Dept,County Coroner,,IND,IND Tresia Seaton,151,77,2,72
+Mississippi,Charles Strong Center,County Coroner,,IND,IND Tresia Seaton,157,49,6,102
+Mississippi,Osc Old Jr High Gym,County Coroner,,IND,IND Tresia Seaton,670,475,18,177
+Mississippi,Keiser First Baptist Church,County Coroner,,IND,IND Tresia Seaton,39,9,0,30
+Mississippi,Wilson Fire Station,County Coroner,,IND,IND Tresia Seaton,58,15,2,41
+Mississippi,Joiner City Hall,County Coroner,,IND,IND Tresia Seaton,89,21,3,65
+Mississippi,Birdsong Community Center,County Coroner,,IND,IND Tresia Seaton,26,0,1,25
+Mississippi,Dyess City Hall,County Coroner,,IND,IND Tresia Seaton,24,1,0,23
+Mississippi,Etowah Fire Station,County Coroner,,IND,IND Tresia Seaton,24,7,0,17
+Mississippi,Trinity Baptist Church,County Coroner,,REP,REP Karen Ash Crane,280,196,8,76
+Mississippi,Miss Co Election Center,County Coroner,,REP,REP Karen Ash Crane,997,789,13,195
+Mississippi,Richard B Harrison Multipurpos,County Coroner,,REP,REP Karen Ash Crane,159,116,1,42
+Mississippi,Armorel Planting Company,County Coroner,,REP,REP Karen Ash Crane,301,144,0,157
+Mississippi,Gosnell Community Center,County Coroner,,REP,REP Karen Ash Crane,491,280,3,208
+Mississippi,Dell Community Center,County Coroner,,REP,REP Karen Ash Crane,248,87,3,158
+Mississippi,Leachville City Hall,County Coroner,,REP,REP Karen Ash Crane,421,256,1,164
+Mississippi,Manila Police Dept,County Coroner,,REP,REP Karen Ash Crane,914,461,11,442
+Mississippi,Charles Strong Center,County Coroner,,REP,REP Karen Ash Crane,113,47,1,65
+Mississippi,Osc Old Jr High Gym,County Coroner,,REP,REP Karen Ash Crane,593,438,15,140
+Mississippi,Keiser First Baptist Church,County Coroner,,REP,REP Karen Ash Crane,166,31,0,135
+Mississippi,Wilson Fire Station,County Coroner,,REP,REP Karen Ash Crane,212,48,0,164
+Mississippi,Joiner City Hall,County Coroner,,REP,REP Karen Ash Crane,123,23,2,98
+Mississippi,Birdsong Community Center,County Coroner,,REP,REP Karen Ash Crane,51,14,0,37
+Mississippi,Dyess City Hall,County Coroner,,REP,REP Karen Ash Crane,89,14,1,74
+Mississippi,Etowah Fire Station,County Coroner,,REP,REP Karen Ash Crane,160,30,2,128
+Mississippi,Osc Old Jr High Gym,Justice of the Peace District 11,,DEM,DEM Dr. Reggie Cullom,1,0,0,1
+Mississippi,Keiser First Baptist Church,Justice of the Peace District 11,,DEM,DEM Dr. Reggie Cullom,10,5,0,5
+Mississippi,Wilson Fire Station,Justice of the Peace District 11,,DEM,DEM Dr. Reggie Cullom,158,48,2,108
+Mississippi,Joiner City Hall,Justice of the Peace District 11,,DEM,DEM Dr. Reggie Cullom,168,37,5,126
+Mississippi,Birdsong Community Center,Justice of the Peace District 11,,DEM,DEM Dr. Reggie Cullom,43,4,1,38
+Mississippi,Dyess City Hall,Justice of the Peace District 11,,DEM,DEM Dr. Reggie Cullom,64,14,0,50
+Mississippi,Etowah Fire Station,Justice of the Peace District 11,,DEM,DEM Dr. Reggie Cullom,69,11,0,58
+Mississippi,Osc Old Jr High Gym,Justice of the Peace District 11,,REP,"REP Howard ""Bubba"" Norvell",0,0,0,0
+Mississippi,Keiser First Baptist Church,Justice of the Peace District 11,,REP,"REP Howard ""Bubba"" Norvell",17,8,0,9
+Mississippi,Wilson Fire Station,Justice of the Peace District 11,,REP,"REP Howard ""Bubba"" Norvell",116,17,0,99
+Mississippi,Joiner City Hall,Justice of the Peace District 11,,REP,"REP Howard ""Bubba"" Norvell",67,10,0,57
+Mississippi,Birdsong Community Center,Justice of the Peace District 11,,REP,"REP Howard ""Bubba"" Norvell",44,10,0,34
+Mississippi,Dyess City Hall,Justice of the Peace District 11,,REP,"REP Howard ""Bubba"" Norvell",53,1,1,51
+Mississippi,Etowah Fire Station,Justice of the Peace District 11,,REP,"REP Howard ""Bubba"" Norvell",80,15,1,64
+Mississippi,Joiner City Hall,Bassett City Recorder/Treasurer,,IND,IND Christine E. Lloyd,24,10,0,14
+Mississippi,Birdsong Community Center,Birdsong Mayor,,IND,IND Ronnie Johnson,19,0,0,19
+Mississippi,Birdsong Community Center,Birdsong City Recorder/Treasurer,,IND,IND Dorothy A. Johnson,19,0,0,19
+Mississippi,Dyess City Hall,Dyess Mayor,,IND,IND Kenneth Gillmore,62,5,1,56
+Mississippi,Etowah Fire Station,Etowah Mayor,,IND,IND Charles Bo McCollum,63,9,0,54
+Mississippi,Etowah Fire Station,Etowah City Recorder/Treasurer,,IND,IND Kattie Ann Riney,63,9,0,54
+Mississippi,Joiner City Hall,Joiner Mayor,,IND,IND Eddie Elzy,32,8,1,23
+Mississippi,Joiner City Hall,Joiner Mayor,,IND,IND Terrance Williams,4,1,0,3
+Mississippi,Joiner City Hall,Joiner Mayor,,IND,IND Leslie D. Ainsworth,1,0,0,1
+Mississippi,Joiner City Hall,Joiner Mayor,,IND,IND Michelle Williams,68,10,2,56
+Mississippi,Joiner City Hall,Joiner Mayor,,IND,IND Loretta Robinson,18,3,2,13
+Mississippi,Keiser First Baptist Church,Keiser Mayor,,IND,IND Rick Creecy,158,24,0,134
+Mississippi,Keiser First Baptist Church,Keiser City Council Ward 2, Pos 2,IND,IND Lynn Skaggs,108,15,0,93
+Mississippi,Keiser First Baptist Church,Keiser City Council Ward 2, Pos 2,IND,IND Jerry Sellars,46,8,0,38
+Mississippi,Charles Strong Center,Luxora Mayor,,IND,IND Lee Charles Brown Jr,188,51,6,131
+Mississippi,Charles Strong Center,Luxora Mayor,,IND,IND Jasper Jackson,61,30,1,30
+Mississippi,Charles Strong Center,Luxora City Council Ward 3, Position 2,IND,IND Teddy R. Quinn III,147,44,7,96
+Mississippi,Charles Strong Center,Luxora City Council Ward 3, Position 2,IND,IND Tracy Range,81,29,0,52
+Mississippi,Osc Old Jr High Gym,Osceola Mayor,,IND,"IND Gregory Baker, Sr",227,154,8,65
+Mississippi,Osc Old Jr High Gym,Osceola Mayor,,IND,"IND James ""Crab"" Watson",170,126,6,38
+Mississippi,Osc Old Jr High Gym,Osceola Mayor,,IND,IND Joe Harris Jr,1017,748,20,249
+Mississippi,Osc Old Jr High Gym,Osceola City Clerk/Treasurer,,IND,IND Jessica Griffin,1136,815,27,294
+Mississippi,Osc Old Jr High Gym,Osceola City Council Ward 1, Position 1,IND,IND Donnie Ray Pugh,105,76,6,23
+Mississippi,Osc Old Jr High Gym,Osceola City Council Ward 1, Position 1,IND,IND Veasley,100,71,1,28
+Mississippi,Osc Old Jr High Gym,Osceola City Council Ward 1, Position 1,IND,IND Stanley L. Williams,118,81,8,29
+Mississippi,Osc Old Jr High Gym,Osceola City Council Ward 1, Position 1,IND,IND Nerqvaydraian Cunningham,13,9,0,4
+Mississippi,Osc Old Jr High Gym,Osceola City Council Ward 1, Position 1,IND,IND Kristy Latham,51,35,2,14
+Mississippi,Osc Old Jr High Gym,Osceola City Council Ward 2, Position 1,IND,IND Tony L. Jefferson Sr,136,102,2,32
+Mississippi,Osc Old Jr High Gym,Osceola City Council Ward 2, Position 1,IND,IND Chris Fox,155,112,0,43
+Mississippi,Osc Old Jr High Gym,Osceola City Council Ward 2, Position 1,IND,IND Joe Guy,199,142,7,50
+Mississippi,Wilson Fire Station,Wilson Mayor,,IND,IND Becton Bell,196,41,2,153
+Mississippi,Trinity Baptist Church,Blytheville Mayor,,IND,IND Melisa R. Logan,345,257,3,85
+Mississippi,Miss Co Election Center,Blytheville Mayor,,IND,IND Melisa R. Logan,514,388,7,119
+Mississippi,Richard B Harrison Multipurpos,Blytheville Mayor,,IND,IND Melisa R. Logan,275,206,7,62
+Mississippi,Trinity Baptist Church,Blytheville Mayor,,IND,IND MAYBERRY,206,162,3,41
+Mississippi,Miss Co Election Center,Blytheville Mayor,,IND,IND MAYBERRY,165,121,4,40
+Mississippi,Richard B Harrison Multipurpos,Blytheville Mayor,,IND,IND MAYBERRY,228,176,2,50
+Mississippi,Trinity Baptist Church,Blytheville Mayor,,IND,IND John Musgraves,87,70,0,17
+Mississippi,Miss Co Election Center,Blytheville Mayor,,IND,IND John Musgraves,67,51,2,14
+Mississippi,Richard B Harrison Multipurpos,Blytheville Mayor,,IND,IND John Musgraves,94,77,2,15
+Mississippi,Trinity Baptist Church,Blytheville Mayor,,IND,IND Juanita V Jackson,17,12,0,5
+Mississippi,Miss Co Election Center,Blytheville Mayor,,IND,IND Juanita V Jackson,20,17,1,2
+Mississippi,Richard B Harrison Multipurpos,Blytheville Mayor,,IND,IND Juanita V Jackson,18,15,0,3
+Mississippi,Trinity Baptist Church,Blytheville Mayor,,IND,IND Ronnie Hayse,34,25,2,7
+Mississippi,Miss Co Election Center,Blytheville Mayor,,IND,IND Ronnie Hayse,45,33,2,10
+Mississippi,Richard B Harrison Multipurpos,Blytheville Mayor,,IND,IND Ronnie Hayse,12,8,0,4
+Mississippi,Trinity Baptist Church,Blytheville Mayor,,IND,"IND Jacqueline ""Jackie"" Welspom",9,7,0,2
+Mississippi,Miss Co Election Center,Blytheville Mayor,,IND,"IND Jacqueline ""Jackie"" Welspom",1,0,0,1
+Mississippi,Richard B Harrison Multipurpos,Blytheville Mayor,,IND,"IND Jacqueline ""Jackie"" Welspom",2,1,0,1
+Mississippi,Trinity Baptist Church,Blytheville Mayor,,IND,IND Barbara McAdoo Brothers,114,80,6,28
+Mississippi,Miss Co Election Center,Blytheville Mayor,,IND,IND Barbara McAdoo Brothers,382,314,6,62
+Mississippi,Richard B Harrison Multipurpos,Blytheville Mayor,,IND,IND Barbara McAdoo Brothers,34,25,1,8
+Mississippi,Trinity Baptist Church,Blytheville City Clerk,,IND,IND Melody Lawson,648,480,13,155
+Mississippi,Miss Co Election Center,Blytheville City Clerk,,IND,IND Melody Lawson,996,766,17,213
+Mississippi,Richard B Harrison Multipurpos,Blytheville City Clerk,,IND,IND Melody Lawson,444,331,8,105
+Mississippi,Trinity Baptist Church,Blytheville City Council Ward 1, Position 2,IND,IND Jacquin Benson Jr,366,282,1,83
+Mississippi,Trinity Baptist Church,Blytheville City Council Ward 1, Position 2,IND,IND Arnida King,134,92,1,41
+Mississippi,Trinity Baptist Church,Blytheville City Council Ward 1, Position 2,IND,IND Tony Emmert,274,202,12,60
+Mississippi,Miss Co Election Center,Blytheville City Council Ward 3, Position 2,IND,IND Shirley Middlebrook Marshall,29,26,0,3
+Mississippi,Richard B Harrison Multipurpos,Blytheville City Council Ward 3, Position 2,IND,IND Shirley Middlebrook Marshall,320,240,11,69
+Mississippi,Miss Co Election Center,Blytheville City Council Ward 3, Position 2,IND,IND Billy Fair,46,38,0,8
+Mississippi,Richard B Harrison Multipurpos,Blytheville City Council Ward 3, Position 2,IND,IND Billy Fair,289,220,1,68
+Mississippi,Gosnell Community Center,Gosnell Mayor,,IND,IND Darryl Grissom,112,58,1,53
+Mississippi,Gosnell Community Center,Gosnell Mayor,,IND,IND Robert Charles,39,24,0,15
+Mississippi,Gosnell Community Center,Gosnell Mayor,,IND,IND Jason M. Taylor,412,232,2,178
+Mississippi,Gosnell Community Center,Gosnell City Clerk/ Treasurer,,IND,IND Allison R. Hinson,513,288,3,222
+Mississippi,Gosnell Community Center,Gosnell City Council Ward 1, Position 1,IND,IND Steve Ledbetter,84,41,0,43
+Mississippi,Gosnell Community Center,Gosnell City Council Ward 1, Position 1,IND,IND Cody Mace,79,51,1,27
+Mississippi,Gosnell Community Center,Gosnell City Council Ward 2, Position 1,IND,IND Daniel Holifield,95,56,1,38
+Mississippi,Gosnell Community Center,Gosnell City Council Ward 2, Position 1,IND,IND Shawn Sanford,8,1,0,7
+Mississippi,Gosnell Community Center,Gosnell City Council Ward 2, Position 1,IND,IND John Wesley Pate,137,65,1,71
+Mississippi,Gosnell Community Center,Gosnell City Council Ward 3, Position 1,IND,IND Wayne Breckenridge,36,20,0,16
+Mississippi,Gosnell Community Center,Gosnell City Council Ward 3, Position 1,IND,IND Katie Walker,46,33,0,13
+Mississippi,Gosnell Community Center,Gosnell City Council Ward 3, Position 1,IND,IND Dal Freeman,67,42,0,25
+Mississippi,Dell Community Center,Dell Mayor,,IND,IND Trent Davison,23,10,1,12
+Mississippi,Dell Community Center,Dell Mayor,,IND,IND Don E. Ussery,22,6,0,16
+Mississippi,Dell Community Center,Dell Mayor,,IND,IND Danny Moody,52,7,0,45
+Mississippi,Dell Community Center,Dell City Recorder,,IND,IND Rebecca Cooper,87,19,0,68
+Mississippi,Dell Community Center,Dell City Council Position 5,,IND,IND Anglee Davison,39,10,1,28
+Mississippi,Dell Community Center,Dell City Council Position 5,,IND,IND Roger Dale Short,56,12,0,44
+Mississippi,Manila Police Dept,Manila Mayor,,IND,IND Donnie Wagner,40,21,1,18
+Mississippi,Manila Police Dept,Manila Mayor,,IND,IND Greg Smith,143,67,3,73
+Mississippi,Manila Police Dept,Manila Mayor,,IND,IND Tracey W. Reinhart,424,224,5,195
+Mississippi,Manila Police Dept,Manila Mayor,,IND,IND Pamela A. Chipman,236,125,3,108
+Mississippi,Manila Police Dept,Manila Mayor,,IND,IND Joni Isebell,57,30,1,26
+Mississippi,Manila Police Dept,Manila City Clerk,,IND,IND Susie B. Parker,839,439,12,388
+Mississippi,Manila Police Dept,Manila City Council Ward 3, Position 2,IND,IND Tony Hawkins,206,97,2,107
+Mississippi,Manila Police Dept,Manila City Council Ward 3, Position 2,IND,IND Wendell Poteet,211,138,4,69
+Mississippi,Manila Police Dept,Manila City Council Ward 3, Position 2,IND,IND Bobby Tate,463,224,6,233
+Mississippi,Leachville City Hall,Leachville Mayor,,IND,IND Paul J. Lancaster,106,72,0,34
+Mississippi,Leachville City Hall,Leachville Mayor,,IND,IND Rodney Robertson,314,186,1,127
+Mississippi,Leachville City Hall,Leachville City Council Ward 3, Position 1,IND,IND Kevin Cooper,116,70,0,46
+Mississippi,Leachville City Hall,Leachville City Council Ward 3, Position 1,IND,IND Michael Webster,297,183,1,113
+Mississippi,Charles Strong Center,Burdette Township,,REP,REP Terry McCanless,13,3,0,10
+Mississippi,Charles Strong Center,Burdette Township,,IND,IND Justin Webb,35,17,0,18
+Mississippi,Dell Community Center,Hector Township,,REP,REP Mark Dixon,168,43,3,122
+Mississippi,Dell Community Center,Hector Township,,IND,IND Jerry Byrd,20,9,0,11
+Mississippi,Charles Strong Center,Fletcher Township,,IND,IND Vandie James,162,49,5,108
+Mississippi,Charles Strong Center,Fletcher Township,,IND,IND Dewayne Seaton,75,32,2,41
+Mississippi,Trinity Baptist Church,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,359,268,2,89
+Mississippi,Miss Co Election Center,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,698,518,19,161
+Mississippi,Richard B Harrison Multipurpos,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,242,183,4,55
+Mississippi,Armorel Planting Company,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,186,90,0,96
+Mississippi,Gosnell Community Center,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,334,190,2,142
+Mississippi,Dell Community Center,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,145,57,0,88
+Mississippi,Leachville City Hall,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,203,112,1,90
+Mississippi,Manila Police Dept,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,508,264,7,237
+Mississippi,Charles Strong Center,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,163,55,1,107
+Mississippi,Osc Old Jr High Gym,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,648,461,13,174
+Mississippi,Keiser First Baptist Church,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,71,18,0,53
+Mississippi,Wilson Fire Station,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,118,22,2,94
+Mississippi,Joiner City Hall,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,96,27,0,69
+Mississippi,Birdsong Community Center,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,41,10,1,30
+Mississippi,Dyess City Hall,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,62,12,0,50
+Mississippi,Etowah Fire Station,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,70,18,1,51
+Mississippi,Trinity Baptist Church,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,358,267,12,79
+Mississippi,Miss Co Election Center,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,761,621,6,134
+Mississippi,Richard B Harrison Multipurpos,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,292,216,6,70
+Mississippi,Armorel Planting Company,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,148,77,0,71
+Mississippi,Gosnell Community Center,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,285,163,3,119
+Mississippi,Dell Community Center,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,122,44,2,76
+Mississippi,Leachville City Hall,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,264,172,0,92
+Mississippi,Manila Police Dept,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,523,253,6,264
+Mississippi,Charles Strong Center,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,102,44,4,54
+Mississippi,Osc Old Jr High Gym,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,625,456,15,154
+Mississippi,Keiser First Baptist Church,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,128,20,0,108
+Mississippi,Wilson Fire Station,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,147,41,0,106
+Mississippi,Joiner City Hall,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,129,17,3,109
+Mississippi,Birdsong Community Center,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,37,2,0,35
+Mississippi,Dyess City Hall,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,47,2,0,45
+Mississippi,Etowah Fire Station,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,115,19,1,95
+Mississippi,Trinity Baptist Church,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,356,265,5,86
+Mississippi,Miss Co Election Center,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,771,587,13,171
+Mississippi,Richard B Harrison Multipurpos,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,256,184,4,68
+Mississippi,Armorel Planting Company,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,187,90,0,97
+Mississippi,Gosnell Community Center,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,365,213,2,150
+Mississippi,Dell Community Center,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,145,53,2,90
+Mississippi,Leachville City Hall,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,204,129,0,75
+Mississippi,Manila Police Dept,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,553,281,6,266
+Mississippi,Charles Strong Center,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,178,62,1,115
+Mississippi,Osc Old Jr High Gym,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,709,511,15,183
+Mississippi,Keiser First Baptist Church,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,87,19,0,68
+Mississippi,Wilson Fire Station,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,123,21,0,102
+Mississippi,Joiner City Hall,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,120,25,1,94
+Mississippi,Birdsong Community Center,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,44,9,0,35
+Mississippi,Dyess City Hall,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,62,10,0,52
+Mississippi,Etowah Fire Station,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,89,22,2,65
+Mississippi,Trinity Baptist Church,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,363,271,9,83
+Mississippi,Miss Co Election Center,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,690,549,13,128
+Mississippi,Richard B Harrison Multipurpos,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,287,218,7,62
+Mississippi,Armorel Planting Company,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,153,80,0,73
+Mississippi,Gosnell Community Center,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,261,144,2,115
+Mississippi,Dell Community Center,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,126,49,1,76
+Mississippi,Leachville City Hall,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,267,155,1,111
+Mississippi,Manila Police Dept,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,491,242,7,242
+Mississippi,Charles Strong Center,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,98,43,4,51
+Mississippi,Osc Old Jr High Gym,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,595,433,16,146
+Mississippi,Keiser First Baptist Church,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,114,20,0,94
+Mississippi,Wilson Fire Station,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,148,43,2,103
+Mississippi,Joiner City Hall,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,109,20,3,86
+Mississippi,Birdsong Community Center,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,36,3,1,32
+Mississippi,Dyess City Hall,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,51,4,0,47
+Mississippi,Etowah Fire Station,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,95,13,0,82
+Mississippi,Trinity Baptist Church,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,462,348,6,108
+Mississippi,Miss Co Election Center,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,861,650,12,199
+Mississippi,Richard B Harrison Multipurpos,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,332,245,4,83
+Mississippi,Armorel Planting Company,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,217,111,0,106
+Mississippi,Gosnell Community Center,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,422,244,1,177
+Mississippi,Dell Community Center,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,181,71,3,107
+Mississippi,Leachville City Hall,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,272,161,0,111
+Mississippi,Manila Police Dept,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,646,322,5,319
+Mississippi,Charles Strong Center,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,193,71,2,120
+Mississippi,Osc Old Jr High Gym,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,835,602,18,215
+Mississippi,Keiser First Baptist Church,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,124,20,0,104
+Mississippi,Wilson Fire Station,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,151,35,0,116
+Mississippi,Joiner City Hall,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,132,31,1,100
+Mississippi,Birdsong Community Center,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,52,11,1,40
+Mississippi,Dyess City Hall,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,63,10,1,52
+Mississippi,Etowah Fire Station,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,102,20,1,81
+Mississippi,Trinity Baptist Church,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,269,197,8,64
+Mississippi,Miss Co Election Center,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,618,501,12,105
+Mississippi,Richard B Harrison Multipurpos,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,223,167,7,49
+Mississippi,Armorel Planting Company,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,125,60,0,65
+Mississippi,Gosnell Community Center,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,214,120,4,90
+Mississippi,Dell Community Center,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,96,36,0,60
+Mississippi,Leachville City Hall,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,201,124,1,76
+Mississippi,Manila Police Dept,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,401,205,8,188
+Mississippi,Charles Strong Center,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,81,30,3,48
+Mississippi,Osc Old Jr High Gym,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,473,347,11,115
+Mississippi,Keiser First Baptist Church,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,80,18,0,62
+Mississippi,Wilson Fire Station,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,121,29,2,90
+Mississippi,Joiner City Hall,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,100,16,2,82
+Mississippi,Birdsong Community Center,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,30,2,0,28
+Mississippi,Dyess City Hall,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,49,4,0,45
+Mississippi,Etowah Fire Station,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,83,17,1,65
+Mississippi,Trinity Baptist Church,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,443,326,5,112
+Mississippi,Miss Co Election Center,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,732,531,11,190
+Mississippi,Richard B Harrison Multipurpos,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,371,274,6,91
+Mississippi,Armorel Planting Company,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,139,73,0,66
+Mississippi,Gosnell Community Center,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,318,184,2,132
+Mississippi,Dell Community Center,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,110,43,0,67
+Mississippi,Leachville City Hall,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,192,115,0,77
+Mississippi,Manila Police Dept,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,471,232,4,235
+Mississippi,Charles Strong Center,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,184,61,4,119
+Mississippi,Osc Old Jr High Gym,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,829,574,20,235
+Mississippi,Keiser First Baptist Church,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,93,23,0,70
+Mississippi,Wilson Fire Station,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,108,25,2,81
+Mississippi,Joiner City Hall,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,146,26,2,118
+Mississippi,Birdsong Community Center,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,46,2,1,43
+Mississippi,Dyess City Hall,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,53,5,1,47
+Mississippi,Etowah Fire Station,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,69,15,1,53
+Mississippi,Trinity Baptist Church,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,316,245,9,62
+Mississippi,Miss Co Election Center,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,798,655,15,128
+Mississippi,Richard B Harrison Multipurpos,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,217,165,6,46
+Mississippi,Armorel Planting Company,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,215,103,0,112
+Mississippi,Gosnell Community Center,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,335,189,2,144
+Mississippi,Dell Community Center,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,175,65,3,107
+Mississippi,Leachville City Hall,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,301,184,1,116
+Mississippi,Manila Police Dept,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,611,312,9,290
+Mississippi,Charles Strong Center,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,99,46,2,51
+Mississippi,Osc Old Jr High Gym,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,538,420,13,105
+Mississippi,Keiser First Baptist Church,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,117,17,0,100
+Mississippi,Wilson Fire Station,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,168,40,0,128
+Mississippi,Joiner City Hall,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,90,22,3,65
+Mississippi,Birdsong Community Center,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,39,11,0,28
+Mississippi,Dyess City Hall,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,61,9,0,52
+Mississippi,Etowah Fire Station,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,120,22,1,97

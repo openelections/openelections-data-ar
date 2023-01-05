@@ -1,0 +1,656 @@
+county,precinct,office,district,party,candidate,votes,early_vote,absentee,election_day
+Cleveland,Rison Inside,U.S. Senate,,REP,Senator John Boozman,203,148,0,55
+Cleveland,Rison Outside,U.S. Senate,,REP,Senator John Boozman,104,74,0,30
+Cleveland,Kingsland Inside,U.S. Senate,,REP,Senator John Boozman,85,31,0,54
+Cleveland,Kingsland Outside,U.S. Senate,,REP,Senator John Boozman,182,74,0,108
+Cleveland,Bowman,U.S. Senate,,REP,Senator John Boozman,97,47,0,50
+Cleveland,Harper,U.S. Senate,,REP,Senator John Boozman,158,54,0,104
+Cleveland,Hudgin,U.S. Senate,,REP,Senator John Boozman,82,9,0,73
+Cleveland,Hurricane,U.S. Senate,,REP,Senator John Boozman,152,31,0,121
+Cleveland,Lee,U.S. Senate,,REP,Senator John Boozman,104,16,0,88
+Cleveland,Miller,U.S. Senate,,REP,Senator John Boozman,210,53,0,157
+Cleveland,Niven,U.S. Senate,,REP,Senator John Boozman,87,50,0,37
+Cleveland,Redland,U.S. Senate,,REP,Senator John Boozman,188,51,0,137
+Cleveland,Rowell,U.S. Senate,,REP,Senator John Boozman,115,31,0,84
+Cleveland,Saline,U.S. Senate,,REP,Senator John Boozman,13,8,0,5
+Cleveland,Smith,U.S. Senate,,REP,Senator John Boozman,152,77,0,75
+Cleveland,Whiteoak,U.S. Senate,,REP,Senator John Boozman,121,43,0,78
+Cleveland,Whiteville,U.S. Senate,,REP,Senator John Boozman,290,117,0,173
+Cleveland,Rison Inside,U.S. Senate,,LIB,Kenneth Cates,5,4,0,1
+Cleveland,Rison Outside,U.S. Senate,,LIB,Kenneth Cates,2,1,0,1
+Cleveland,Kingsland Inside,U.S. Senate,,LIB,Kenneth Cates,6,3,0,3
+Cleveland,Kingsland Outside,U.S. Senate,,LIB,Kenneth Cates,1,1,0,0
+Cleveland,Bowman,U.S. Senate,,LIB,Kenneth Cates,4,2,0,2
+Cleveland,Harper,U.S. Senate,,LIB,Kenneth Cates,5,1,0,4
+Cleveland,Hudgin,U.S. Senate,,LIB,Kenneth Cates,2,1,0,1
+Cleveland,Hurricane,U.S. Senate,,LIB,Kenneth Cates,7,1,0,6
+Cleveland,Lee,U.S. Senate,,LIB,Kenneth Cates,2,1,0,1
+Cleveland,Miller,U.S. Senate,,LIB,Kenneth Cates,5,1,0,4
+Cleveland,Niven,U.S. Senate,,LIB,Kenneth Cates,2,2,0,0
+Cleveland,Redland,U.S. Senate,,LIB,Kenneth Cates,11,2,0,9
+Cleveland,Rowell,U.S. Senate,,LIB,Kenneth Cates,4,1,0,3
+Cleveland,Saline,U.S. Senate,,LIB,Kenneth Cates,1,0,0,1
+Cleveland,Smith,U.S. Senate,,LIB,Kenneth Cates,3,1,0,2
+Cleveland,Whiteoak,U.S. Senate,,LIB,Kenneth Cates,4,3,0,1
+Cleveland,Whiteville,U.S. Senate,,LIB,Kenneth Cates,1,1,0,0
+Cleveland,Rison Inside,U.S. Senate,,DEM,Natalie James,106,65,0,41
+Cleveland,Rison Outside,U.S. Senate,,DEM,Natalie James,11,7,0,4
+Cleveland,Kingsland Inside,U.S. Senate,,DEM,Natalie James,31,13,0,18
+Cleveland,Kingsland Outside,U.S. Senate,,DEM,Natalie James,7,4,0,3
+Cleveland,Bowman,U.S. Senate,,DEM,Natalie James,39,15,0,24
+Cleveland,Harper,U.S. Senate,,DEM,Natalie James,15,4,0,11
+Cleveland,Hudgin,U.S. Senate,,DEM,Natalie James,10,1,0,9
+Cleveland,Hurricane,U.S. Senate,,DEM,Natalie James,17,6,0,11
+Cleveland,Lee,U.S. Senate,,DEM,Natalie James,19,1,0,18
+Cleveland,Miller,U.S. Senate,,DEM,Natalie James,19,4,0,15
+Cleveland,Niven,U.S. Senate,,DEM,Natalie James,16,13,0,3
+Cleveland,Redland,U.S. Senate,,DEM,Natalie James,28,8,0,20
+Cleveland,Rowell,U.S. Senate,,DEM,Natalie James,4,3,0,1
+Cleveland,Saline,U.S. Senate,,DEM,Natalie James,2,1,0,1
+Cleveland,Smith,U.S. Senate,,DEM,Natalie James,13,8,0,5
+Cleveland,Whiteoak,U.S. Senate,,DEM,Natalie James,12,5,0,7
+Cleveland,Whiteville,U.S. Senate,,DEM,Natalie James,31,15,0,16
+Cleveland,Rison Inside,U.S. Congress District 04,,LIB,Gregory Maxwell,8,4,0,4
+Cleveland,Rison Outside,U.S. Congress District 04,,LIB,Gregory Maxwell,2,2,0,0
+Cleveland,Kingsland Inside,U.S. Congress District 04,,LIB,Gregory Maxwell,4,2,0,2
+Cleveland,Kingsland Outside,U.S. Congress District 04,,LIB,Gregory Maxwell,2,2,0,0
+Cleveland,Bowman,U.S. Congress District 04,,LIB,Gregory Maxwell,7,3,0,4
+Cleveland,Harper,U.S. Congress District 04,,LIB,Gregory Maxwell,5,1,0,4
+Cleveland,Hudgin,U.S. Congress District 04,,LIB,Gregory Maxwell,4,0,0,4
+Cleveland,Hurricane,U.S. Congress District 04,,LIB,Gregory Maxwell,3,0,0,3
+Cleveland,Lee,U.S. Congress District 04,,LIB,Gregory Maxwell,2,0,0,2
+Cleveland,Miller,U.S. Congress District 04,,LIB,Gregory Maxwell,4,0,0,4
+Cleveland,Niven,U.S. Congress District 04,,LIB,Gregory Maxwell,1,1,0,0
+Cleveland,Redland,U.S. Congress District 04,,LIB,Gregory Maxwell,10,1,0,9
+Cleveland,Rowell,U.S. Congress District 04,,LIB,Gregory Maxwell,4,1,0,3
+Cleveland,Saline,U.S. Congress District 04,,LIB,Gregory Maxwell,0,0,0,0
+Cleveland,Smith,U.S. Congress District 04,,LIB,Gregory Maxwell,6,3,0,3
+Cleveland,Whiteoak,U.S. Congress District 04,,LIB,Gregory Maxwell,4,2,0,2
+Cleveland,Whiteville,U.S. Congress District 04,,LIB,Gregory Maxwell,1,1,0,0
+Cleveland,Rison Inside,U.S. Congress District 04,,DEM,John White,101,60,0,41
+Cleveland,Rison Outside,U.S. Congress District 04,,DEM,John White,10,6,0,4
+Cleveland,Kingsland Inside,U.S. Congress District 04,,DEM,John White,32,14,0,18
+Cleveland,Kingsland Outside,U.S. Congress District 04,,DEM,John White,11,5,0,6
+Cleveland,Bowman,U.S. Congress District 04,,DEM,John White,32,13,0,19
+Cleveland,Harper,U.S. Congress District 04,,DEM,John White,14,3,0,11
+Cleveland,Hudgin,U.S. Congress District 04,,DEM,John White,12,2,0,10
+Cleveland,Hurricane,U.S. Congress District 04,,DEM,John White,20,7,0,13
+Cleveland,Lee,U.S. Congress District 04,,DEM,John White,17,1,0,16
+Cleveland,Miller,U.S. Congress District 04,,DEM,John White,15,4,0,11
+Cleveland,Niven,U.S. Congress District 04,,DEM,John White,16,13,0,3
+Cleveland,Redland,U.S. Congress District 04,,DEM,John White,26,6,0,20
+Cleveland,Rowell,U.S. Congress District 04,,DEM,John White,2,1,0,1
+Cleveland,Saline,U.S. Congress District 04,,DEM,John White,2,1,0,1
+Cleveland,Smith,U.S. Congress District 04,,DEM,John White,13,7,0,6
+Cleveland,Whiteoak,U.S. Congress District 04,,DEM,John White,10,3,0,7
+Cleveland,Whiteville,U.S. Congress District 04,,DEM,John White,35,14,0,21
+Cleveland,Rison Inside,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,191,143,0,48
+Cleveland,Rison Outside,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,98,68,0,30
+Cleveland,Kingsland Inside,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,81,28,0,53
+Cleveland,Kingsland Outside,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,166,66,0,100
+Cleveland,Bowman,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,90,45,0,45
+Cleveland,Harper,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,148,50,0,98
+Cleveland,Hudgin,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,71,8,0,63
+Cleveland,Hurricane,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,142,27,0,115
+Cleveland,Lee,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,94,16,0,78
+Cleveland,Miller,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,202,48,0,154
+Cleveland,Niven,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,83,49,0,34
+Cleveland,Redland,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,173,50,0,123
+Cleveland,Rowell,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,108,32,0,76
+Cleveland,Saline,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,14,8,0,6
+Cleveland,Smith,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,143,71,0,72
+Cleveland,Whiteoak,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,110,40,0,70
+Cleveland,Whiteville,U.S. Congress District 04,,REP,U.S. Representative Bruce Westerman,271,109,0,162
+Cleveland,Rison Inside,Attorney General,,REP,Lieutenant Governor Tim Griffin,216,160,0,56
+Cleveland,Rison Outside,Attorney General,,REP,Lieutenant Governor Tim Griffin,107,75,0,32
+Cleveland,Kingsland Inside,Attorney General,,REP,Lieutenant Governor Tim Griffin,90,34,0,56
+Cleveland,Kingsland Outside,Attorney General,,REP,Lieutenant Governor Tim Griffin,181,74,0,107
+Cleveland,Bowman,Attorney General,,REP,Lieutenant Governor Tim Griffin,99,48,0,51
+Cleveland,Harper,Attorney General,,REP,Lieutenant Governor Tim Griffin,154,53,0,101
+Cleveland,Hudgin,Attorney General,,REP,Lieutenant Governor Tim Griffin,86,10,0,76
+Cleveland,Hurricane,Attorney General,,REP,Lieutenant Governor Tim Griffin,156,32,0,124
+Cleveland,Lee,Attorney General,,REP,Lieutenant Governor Tim Griffin,107,17,0,90
+Cleveland,Miller,Attorney General,,REP,Lieutenant Governor Tim Griffin,219,57,0,162
+Cleveland,Niven,Attorney General,,REP,Lieutenant Governor Tim Griffin,88,52,0,36
+Cleveland,Redland,Attorney General,,REP,Lieutenant Governor Tim Griffin,197,54,0,143
+Cleveland,Rowell,Attorney General,,REP,Lieutenant Governor Tim Griffin,118,33,0,85
+Cleveland,Saline,Attorney General,,REP,Lieutenant Governor Tim Griffin,14,8,0,6
+Cleveland,Smith,Attorney General,,REP,Lieutenant Governor Tim Griffin,159,81,0,78
+Cleveland,Whiteoak,Attorney General,,REP,Lieutenant Governor Tim Griffin,122,46,0,76
+Cleveland,Whiteville,Attorney General,,REP,Lieutenant Governor Tim Griffin,292,117,0,175
+Cleveland,Rison Inside,Attorney General,,DEM,Jesse Gibson,102,59,0,43
+Cleveland,Rison Outside,Attorney General,,DEM,Jesse Gibson,9,6,0,3
+Cleveland,Kingsland Inside,Attorney General,,DEM,Jesse Gibson,34,13,0,21
+Cleveland,Kingsland Outside,Attorney General,,DEM,Jesse Gibson,10,6,0,4
+Cleveland,Bowman,Attorney General,,DEM,Jesse Gibson,40,17,0,23
+Cleveland,Harper,Attorney General,,DEM,Jesse Gibson,22,6,0,16
+Cleveland,Hudgin,Attorney General,,DEM,Jesse Gibson,10,1,0,9
+Cleveland,Hurricane,Attorney General,,DEM,Jesse Gibson,21,6,0,15
+Cleveland,Lee,Attorney General,,DEM,Jesse Gibson,18,1,0,17
+Cleveland,Miller,Attorney General,,DEM,Jesse Gibson,19,3,0,16
+Cleveland,Niven,Attorney General,,DEM,Jesse Gibson,17,13,0,4
+Cleveland,Redland,Attorney General,,DEM,Jesse Gibson,28,6,0,22
+Cleveland,Rowell,Attorney General,,DEM,Jesse Gibson,3,2,0,1
+Cleveland,Saline,Attorney General,,DEM,Jesse Gibson,2,1,0,1
+Cleveland,Smith,Attorney General,,DEM,Jesse Gibson,12,6,0,6
+Cleveland,Whiteoak,Attorney General,,DEM,Jesse Gibson,14,5,0,9
+Cleveland,Whiteville,Attorney General,,DEM,Jesse Gibson,31,14,0,17
+Cleveland,Rison Inside,Auditor of State,,DEM,Diamond Arnold-Johnson,98,57,0,41
+Cleveland,Rison Outside,Auditor of State,,DEM,Diamond Arnold-Johnson,9,6,0,3
+Cleveland,Kingsland Inside,Auditor of State,,DEM,Diamond Arnold-Johnson,30,14,0,16
+Cleveland,Kingsland Outside,Auditor of State,,DEM,Diamond Arnold-Johnson,8,4,0,4
+Cleveland,Bowman,Auditor of State,,DEM,Diamond Arnold-Johnson,44,17,0,27
+Cleveland,Harper,Auditor of State,,DEM,Diamond Arnold-Johnson,25,9,0,16
+Cleveland,Hudgin,Auditor of State,,DEM,Diamond Arnold-Johnson,8,1,0,7
+Cleveland,Hurricane,Auditor of State,,DEM,Diamond Arnold-Johnson,21,6,0,15
+Cleveland,Lee,Auditor of State,,DEM,Diamond Arnold-Johnson,16,1,0,15
+Cleveland,Miller,Auditor of State,,DEM,Diamond Arnold-Johnson,16,3,0,13
+Cleveland,Niven,Auditor of State,,DEM,Diamond Arnold-Johnson,16,13,0,3
+Cleveland,Redland,Auditor of State,,DEM,Diamond Arnold-Johnson,28,8,0,20
+Cleveland,Rowell,Auditor of State,,DEM,Diamond Arnold-Johnson,5,3,0,2
+Cleveland,Saline,Auditor of State,,DEM,Diamond Arnold-Johnson,2,1,0,1
+Cleveland,Smith,Auditor of State,,DEM,Diamond Arnold-Johnson,8,5,0,3
+Cleveland,Whiteoak,Auditor of State,,DEM,Diamond Arnold-Johnson,11,4,0,7
+Cleveland,Whiteville,Auditor of State,,DEM,Diamond Arnold-Johnson,31,14,0,17
+Cleveland,Rison Inside,Auditor of State,,REP,Treasurer of State Dennis Milligan,200,151,0,49
+Cleveland,Rison Outside,Auditor of State,,REP,Treasurer of State Dennis Milligan,102,71,0,31
+Cleveland,Kingsland Inside,Auditor of State,,REP,Treasurer of State Dennis Milligan,85,29,0,56
+Cleveland,Kingsland Outside,Auditor of State,,REP,Treasurer of State Dennis Milligan,177,71,0,106
+Cleveland,Bowman,Auditor of State,,REP,Treasurer of State Dennis Milligan,91,45,0,46
+Cleveland,Harper,Auditor of State,,REP,Treasurer of State Dennis Milligan,149,49,0,100
+Cleveland,Hudgin,Auditor of State,,REP,Treasurer of State Dennis Milligan,85,9,0,76
+Cleveland,Hurricane,Auditor of State,,REP,Treasurer of State Dennis Milligan,148,29,0,119
+Cleveland,Lee,Auditor of State,,REP,Treasurer of State Dennis Milligan,107,17,0,90
+Cleveland,Miller,Auditor of State,,REP,Treasurer of State Dennis Milligan,214,54,0,160
+Cleveland,Niven,Auditor of State,,REP,Treasurer of State Dennis Milligan,89,53,0,36
+Cleveland,Redland,Auditor of State,,REP,Treasurer of State Dennis Milligan,183,51,0,132
+Cleveland,Rowell,Auditor of State,,REP,Treasurer of State Dennis Milligan,113,30,0,83
+Cleveland,Saline,Auditor of State,,REP,Treasurer of State Dennis Milligan,14,8,0,6
+Cleveland,Smith,Auditor of State,,REP,Treasurer of State Dennis Milligan,154,76,0,78
+Cleveland,Whiteoak,Auditor of State,,REP,Treasurer of State Dennis Milligan,117,44,0,73
+Cleveland,Whiteville,Auditor of State,,REP,Treasurer of State Dennis Milligan,284,117,0,167
+Cleveland,Rison Inside,Auditor of State,,LIB,Simeon Snow,6,3,0,3
+Cleveland,Rison Outside,Auditor of State,,LIB,Simeon Snow,0,0,0,0
+Cleveland,Kingsland Inside,Auditor of State,,LIB,Simeon Snow,4,1,0,3
+Cleveland,Kingsland Outside,Auditor of State,,LIB,Simeon Snow,2,1,0,1
+Cleveland,Bowman,Auditor of State,,LIB,Simeon Snow,2,1,0,1
+Cleveland,Harper,Auditor of State,,LIB,Simeon Snow,2,0,0,2
+Cleveland,Hudgin,Auditor of State,,LIB,Simeon Snow,1,0,0,1
+Cleveland,Hurricane,Auditor of State,,LIB,Simeon Snow,3,0,0,3
+Cleveland,Lee,Auditor of State,,LIB,Simeon Snow,4,0,0,4
+Cleveland,Miller,Auditor of State,,LIB,Simeon Snow,2,0,0,2
+Cleveland,Niven,Auditor of State,,LIB,Simeon Snow,1,1,0,0
+Cleveland,Redland,Auditor of State,,LIB,Simeon Snow,8,1,0,7
+Cleveland,Rowell,Auditor of State,,LIB,Simeon Snow,3,1,0,2
+Cleveland,Saline,Auditor of State,,LIB,Simeon Snow,0,0,0,0
+Cleveland,Smith,Auditor of State,,LIB,Simeon Snow,6,3,0,3
+Cleveland,Whiteoak,Auditor of State,,LIB,Simeon Snow,4,2,0,2
+Cleveland,Whiteville,Auditor of State,,LIB,Simeon Snow,1,1,0,0
+Cleveland,Rison Inside,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,209,150,0,59
+Cleveland,Rison Outside,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,100,68,0,32
+Cleveland,Kingsland Inside,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,81,30,0,51
+Cleveland,Kingsland Outside,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,175,73,0,102
+Cleveland,Bowman,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,92,43,0,49
+Cleveland,Harper,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,147,48,0,99
+Cleveland,Hudgin,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,82,9,0,73
+Cleveland,Hurricane,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,154,31,0,123
+Cleveland,Lee,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,105,16,0,89
+Cleveland,Miller,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,208,51,0,157
+Cleveland,Niven,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,89,52,0,37
+Cleveland,Redland,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,184,51,0,133
+Cleveland,Rowell,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,112,31,0,81
+Cleveland,Saline,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,13,8,0,5
+Cleveland,Smith,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,152,75,0,77
+Cleveland,Whiteoak,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,119,44,0,75
+Cleveland,Whiteville,Commissioner of State Lands,,REP,Tommy Land Commissioner of State Lands,280,115,0,165
+Cleveland,Rison Inside,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,94,59,0,35
+Cleveland,Rison Outside,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,8,7,0,1
+Cleveland,Kingsland Inside,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,32,11,0,21
+Cleveland,Kingsland Outside,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,8,4,0,4
+Cleveland,Bowman,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,38,16,0,22
+Cleveland,Harper,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,21,6,0,15
+Cleveland,Hudgin,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,9,1,0,8
+Cleveland,Hurricane,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,15,5,0,10
+Cleveland,Lee,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,17,1,0,16
+Cleveland,Miller,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,19,4,0,15
+Cleveland,Niven,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,15,13,0,2
+Cleveland,Redland,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,29,8,0,21
+Cleveland,Rowell,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,3,2,0,1
+Cleveland,Saline,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,2,1,0,1
+Cleveland,Smith,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,11,7,0,4
+Cleveland,Whiteoak,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,12,6,0,6
+Cleveland,Whiteville,Commissioner of State Lands,,DEM,Darlene Goldi Gaines,31,14,0,17
+Cleveland,Rison Inside,Governor,,REP,Sarah Huckabee Sanders,193,142,0,51
+Cleveland,Rison Outside,Governor,,REP,Sarah Huckabee Sanders,96,68,0,28
+Cleveland,Kingsland Inside,Governor,,REP,Sarah Huckabee Sanders,86,30,0,56
+Cleveland,Kingsland Outside,Governor,,REP,Sarah Huckabee Sanders,181,75,0,106
+Cleveland,Bowman,Governor,,REP,Sarah Huckabee Sanders,92,44,0,48
+Cleveland,Harper,Governor,,REP,Sarah Huckabee Sanders,151,51,0,100
+Cleveland,Hudgin,Governor,,REP,Sarah Huckabee Sanders,82,9,0,73
+Cleveland,Hurricane,Governor,,REP,Sarah Huckabee Sanders,153,31,0,122
+Cleveland,Lee,Governor,,REP,Sarah Huckabee Sanders,106,16,0,90
+Cleveland,Miller,Governor,,REP,Sarah Huckabee Sanders,215,53,0,162
+Cleveland,Niven,Governor,,REP,Sarah Huckabee Sanders,83,50,0,33
+Cleveland,Redland,Governor,,REP,Sarah Huckabee Sanders,189,52,0,137
+Cleveland,Rowell,Governor,,REP,Sarah Huckabee Sanders,113,31,0,82
+Cleveland,Saline,Governor,,REP,Sarah Huckabee Sanders,14,8,0,6
+Cleveland,Smith,Governor,,REP,Sarah Huckabee Sanders,153,77,0,76
+Cleveland,Whiteoak,Governor,,REP,Sarah Huckabee Sanders,118,41,0,77
+Cleveland,Whiteville,Governor,,REP,Sarah Huckabee Sanders,280,109,0,171
+Cleveland,Rison Inside,Governor,,DEM,Chris Jones,126,77,0,49
+Cleveland,Rison Outside,Governor,,DEM,Chris Jones,21,15,0,6
+Cleveland,Kingsland Inside,Governor,,DEM,Chris Jones,35,15,0,20
+Cleveland,Kingsland Outside,Governor,,DEM,Chris Jones,8,4,0,4
+Cleveland,Bowman,Governor,,DEM,Chris Jones,47,19,0,28
+Cleveland,Harper,Governor,,DEM,Chris Jones,23,7,0,16
+Cleveland,Hudgin,Governor,,DEM,Chris Jones,14,2,0,12
+Cleveland,Hurricane,Governor,,DEM,Chris Jones,21,7,0,14
+Cleveland,Lee,Governor,,DEM,Chris Jones,19,1,0,18
+Cleveland,Miller,Governor,,DEM,Chris Jones,23,7,0,16
+Cleveland,Niven,Governor,,DEM,Chris Jones,20,16,0,4
+Cleveland,Redland,Governor,,DEM,Chris Jones,38,9,0,29
+Cleveland,Rowell,Governor,,DEM,Chris Jones,7,4,0,3
+Cleveland,Saline,Governor,,DEM,Chris Jones,2,1,0,1
+Cleveland,Smith,Governor,,DEM,Chris Jones,17,10,0,7
+Cleveland,Whiteoak,Governor,,DEM,Chris Jones,19,9,0,10
+Cleveland,Whiteville,Governor,,DEM,Chris Jones,39,20,0,19
+Cleveland,Rison Inside,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,3,0,0
+Cleveland,Rison Outside,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Cleveland,Kingsland Inside,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,1,0,1
+Cleveland,Kingsland Outside,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Cleveland,Bowman,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,1,0,2
+Cleveland,Harper,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,1,0,2
+Cleveland,Hudgin,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Cleveland,Hurricane,Governor,,LIB,"Ricky Dale Harrington, Jr.",3,0,0,3
+Cleveland,Lee,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,1,0,0
+Cleveland,Miller,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Cleveland,Niven,Governor,,LIB,"Ricky Dale Harrington, Jr.",4,1,0,3
+Cleveland,Redland,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Cleveland,Rowell,Governor,,LIB,"Ricky Dale Harrington, Jr.",2,0,0,2
+Cleveland,Saline,Governor,,LIB,"Ricky Dale Harrington, Jr.",0,0,0,0
+Cleveland,Smith,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,0,0,1
+Cleveland,Whiteoak,Governor,,LIB,"Ricky Dale Harrington, Jr.",1,1,0,0
+Cleveland,Whiteville,Governor,,LIB,"Ricky Dale Harrington, Jr.",5,3,0,2
+Cleveland,Rison Inside,Lieutenant Governor,,DEM,Kelly Ross Krout,113,68,0,45
+Cleveland,Rison Outside,Lieutenant Governor,,DEM,Kelly Ross Krout,14,9,0,5
+Cleveland,Kingsland Inside,Lieutenant Governor,,DEM,Kelly Ross Krout,27,12,0,15
+Cleveland,Kingsland Outside,Lieutenant Governor,,DEM,Kelly Ross Krout,11,6,0,5
+Cleveland,Bowman,Lieutenant Governor,,DEM,Kelly Ross Krout,38,17,0,21
+Cleveland,Harper,Lieutenant Governor,,DEM,Kelly Ross Krout,16,5,0,11
+Cleveland,Hudgin,Lieutenant Governor,,DEM,Kelly Ross Krout,13,3,0,10
+Cleveland,Hurricane,Lieutenant Governor,,DEM,Kelly Ross Krout,19,7,0,12
+Cleveland,Lee,Lieutenant Governor,,DEM,Kelly Ross Krout,17,1,0,16
+Cleveland,Miller,Lieutenant Governor,,DEM,Kelly Ross Krout,19,5,0,14
+Cleveland,Niven,Lieutenant Governor,,DEM,Kelly Ross Krout,16,14,0,2
+Cleveland,Redland,Lieutenant Governor,,DEM,Kelly Ross Krout,30,9,0,21
+Cleveland,Rowell,Lieutenant Governor,,DEM,Kelly Ross Krout,5,3,0,2
+Cleveland,Saline,Lieutenant Governor,,DEM,Kelly Ross Krout,2,1,0,1
+Cleveland,Smith,Lieutenant Governor,,DEM,Kelly Ross Krout,13,7,0,6
+Cleveland,Whiteoak,Lieutenant Governor,,DEM,Kelly Ross Krout,13,5,0,8
+Cleveland,Whiteville,Lieutenant Governor,,DEM,Kelly Ross Krout,32,16,0,16
+Cleveland,Rison Inside,Lieutenant Governor,,LIB,Frank Gilbert,7,4,0,3
+Cleveland,Rison Outside,Lieutenant Governor,,LIB,Frank Gilbert,1,1,0,0
+Cleveland,Kingsland Inside,Lieutenant Governor,,LIB,Frank Gilbert,8,2,0,6
+Cleveland,Kingsland Outside,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0
+Cleveland,Bowman,Lieutenant Governor,,LIB,Frank Gilbert,4,1,0,3
+Cleveland,Harper,Lieutenant Governor,,LIB,Frank Gilbert,6,1,0,5
+Cleveland,Hudgin,Lieutenant Governor,,LIB,Frank Gilbert,2,0,0,2
+Cleveland,Hurricane,Lieutenant Governor,,LIB,Frank Gilbert,5,1,0,4
+Cleveland,Lee,Lieutenant Governor,,LIB,Frank Gilbert,1,0,0,1
+Cleveland,Miller,Lieutenant Governor,,LIB,Frank Gilbert,7,2,0,5
+Cleveland,Niven,Lieutenant Governor,,LIB,Frank Gilbert,3,2,0,1
+Cleveland,Redland,Lieutenant Governor,,LIB,Frank Gilbert,5,0,0,5
+Cleveland,Rowell,Lieutenant Governor,,LIB,Frank Gilbert,3,0,0,3
+Cleveland,Saline,Lieutenant Governor,,LIB,Frank Gilbert,0,0,0,0
+Cleveland,Smith,Lieutenant Governor,,LIB,Frank Gilbert,5,2,0,3
+Cleveland,Whiteoak,Lieutenant Governor,,LIB,Frank Gilbert,3,2,0,1
+Cleveland,Whiteville,Lieutenant Governor,,LIB,Frank Gilbert,4,1,0,3
+Cleveland,Rison Inside,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,200,149,0,51
+Cleveland,Rison Outside,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,101,71,0,30
+Cleveland,Kingsland Inside,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,86,30,0,56
+Cleveland,Kingsland Outside,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,179,73,0,106
+Cleveland,Bowman,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,99,47,0,52
+Cleveland,Harper,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,155,51,0,104
+Cleveland,Hudgin,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,80,8,0,72
+Cleveland,Hurricane,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,153,29,0,124
+Cleveland,Lee,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,107,17,0,90
+Cleveland,Miller,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,210,53,0,157
+Cleveland,Niven,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,86,51,0,35
+Cleveland,Redland,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,192,52,0,140
+Cleveland,Rowell,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,113,32,0,81
+Cleveland,Saline,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,14,8,0,6
+Cleveland,Smith,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,153,78,0,75
+Cleveland,Whiteoak,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,122,44,0,78
+Cleveland,Whiteville,Lieutenant Governor,,REP,Attorney General Leslie Rutledge,288,115,0,173
+Cleveland,Rison Inside,Secretary of State,,REP,Secretary of State John Thurston,210,154,0,56
+Cleveland,Rison Outside,Secretary of State,,REP,Secretary of State John Thurston,105,73,0,32
+Cleveland,Kingsland Inside,Secretary of State,,REP,Secretary of State John Thurston,84,29,0,55
+Cleveland,Kingsland Outside,Secretary of State,,REP,Secretary of State John Thurston,177,71,0,106
+Cleveland,Bowman,Secretary of State,,REP,Secretary of State John Thurston,93,43,0,50
+Cleveland,Harper,Secretary of State,,REP,Secretary of State John Thurston,153,52,0,101
+Cleveland,Hudgin,Secretary of State,,REP,Secretary of State John Thurston,85,8,0,77
+Cleveland,Hurricane,Secretary of State,,REP,Secretary of State John Thurston,158,31,0,127
+Cleveland,Lee,Secretary of State,,REP,Secretary of State John Thurston,105,17,0,88
+Cleveland,Miller,Secretary of State,,REP,Secretary of State John Thurston,211,54,0,157
+Cleveland,Niven,Secretary of State,,REP,Secretary of State John Thurston,87,52,0,35
+Cleveland,Redland,Secretary of State,,REP,Secretary of State John Thurston,189,54,0,135
+Cleveland,Rowell,Secretary of State,,REP,Secretary of State John Thurston,112,33,0,79
+Cleveland,Saline,Secretary of State,,REP,Secretary of State John Thurston,14,8,0,6
+Cleveland,Smith,Secretary of State,,REP,Secretary of State John Thurston,151,73,0,78
+Cleveland,Whiteoak,Secretary of State,,REP,Secretary of State John Thurston,121,44,0,77
+Cleveland,Whiteville,Secretary of State,,REP,Secretary of State John Thurston,284,117,0,167
+Cleveland,Rison Inside,Secretary of State,,DEM,Anna Beth Gorman,99,59,0,40
+Cleveland,Rison Outside,Secretary of State,,DEM,Anna Beth Gorman,8,5,0,3
+Cleveland,Kingsland Inside,Secretary of State,,DEM,Anna Beth Gorman,34,15,0,19
+Cleveland,Kingsland Outside,Secretary of State,,DEM,Anna Beth Gorman,10,5,0,5
+Cleveland,Bowman,Secretary of State,,DEM,Anna Beth Gorman,43,17,0,26
+Cleveland,Harper,Secretary of State,,DEM,Anna Beth Gorman,22,7,0,15
+Cleveland,Hudgin,Secretary of State,,DEM,Anna Beth Gorman,9,2,0,7
+Cleveland,Hurricane,Secretary of State,,DEM,Anna Beth Gorman,18,5,0,13
+Cleveland,Lee,Secretary of State,,DEM,Anna Beth Gorman,19,1,0,18
+Cleveland,Miller,Secretary of State,,DEM,Anna Beth Gorman,23,4,0,19
+Cleveland,Niven,Secretary of State,,DEM,Anna Beth Gorman,19,15,0,4
+Cleveland,Redland,Secretary of State,,DEM,Anna Beth Gorman,33,7,0,26
+Cleveland,Rowell,Secretary of State,,DEM,Anna Beth Gorman,6,3,0,3
+Cleveland,Saline,Secretary of State,,DEM,Anna Beth Gorman,2,1,0,1
+Cleveland,Smith,Secretary of State,,DEM,Anna Beth Gorman,16,10,0,6
+Cleveland,Whiteoak,Secretary of State,,DEM,Anna Beth Gorman,13,6,0,7
+Cleveland,Whiteville,Secretary of State,,DEM,Anna Beth Gorman,34,14,0,20
+Cleveland,Rison Inside,State Treasurer,,REP,State Representative Mark Lowery,210,155,0,55
+Cleveland,Rison Outside,State Treasurer,,REP,State Representative Mark Lowery,102,71,0,31
+Cleveland,Kingsland Inside,State Treasurer,,REP,State Representative Mark Lowery,88,30,0,58
+Cleveland,Kingsland Outside,State Treasurer,,REP,State Representative Mark Lowery,177,74,0,103
+Cleveland,Bowman,State Treasurer,,REP,State Representative Mark Lowery,96,46,0,50
+Cleveland,Harper,State Treasurer,,REP,State Representative Mark Lowery,157,51,0,106
+Cleveland,Hudgin,State Treasurer,,REP,State Representative Mark Lowery,82,7,0,75
+Cleveland,Hurricane,State Treasurer,,REP,State Representative Mark Lowery,155,30,0,125
+Cleveland,Lee,State Treasurer,,REP,State Representative Mark Lowery,105,16,0,89
+Cleveland,Miller,State Treasurer,,REP,State Representative Mark Lowery,214,53,0,161
+Cleveland,Niven,State Treasurer,,REP,State Representative Mark Lowery,90,53,0,37
+Cleveland,Redland,State Treasurer,,REP,State Representative Mark Lowery,190,52,0,138
+Cleveland,Rowell,State Treasurer,,REP,State Representative Mark Lowery,118,33,0,85
+Cleveland,Saline,State Treasurer,,REP,State Representative Mark Lowery,14,8,0,6
+Cleveland,Smith,State Treasurer,,REP,State Representative Mark Lowery,157,79,0,78
+Cleveland,Whiteoak,State Treasurer,,REP,State Representative Mark Lowery,124,44,0,80
+Cleveland,Whiteville,State Treasurer,,REP,State Representative Mark Lowery,287,117,0,170
+Cleveland,Rison Inside,State Treasurer,,DEM,Pam Whitaker,103,61,0,42
+Cleveland,Rison Outside,State Treasurer,,DEM,Pam Whitaker,13,9,0,4
+Cleveland,Kingsland Inside,State Treasurer,,DEM,Pam Whitaker,32,14,0,18
+Cleveland,Kingsland Outside,State Treasurer,,DEM,Pam Whitaker,11,4,0,7
+Cleveland,Bowman,State Treasurer,,DEM,Pam Whitaker,43,17,0,26
+Cleveland,Harper,State Treasurer,,DEM,Pam Whitaker,21,7,0,14
+Cleveland,Hudgin,State Treasurer,,DEM,Pam Whitaker,12,3,0,9
+Cleveland,Hurricane,State Treasurer,,DEM,Pam Whitaker,19,5,0,14
+Cleveland,Lee,State Treasurer,,DEM,Pam Whitaker,20,1,0,19
+Cleveland,Miller,State Treasurer,,DEM,Pam Whitaker,21,6,0,15
+Cleveland,Niven,State Treasurer,,DEM,Pam Whitaker,15,13,0,2
+Cleveland,Redland,State Treasurer,,DEM,Pam Whitaker,29,7,0,22
+Cleveland,Rowell,State Treasurer,,DEM,Pam Whitaker,4,2,0,2
+Cleveland,Saline,State Treasurer,,DEM,Pam Whitaker,2,1,0,1
+Cleveland,Smith,State Treasurer,,DEM,Pam Whitaker,14,8,0,6
+Cleveland,Whiteoak,State Treasurer,,DEM,Pam Whitaker,13,7,0,6
+Cleveland,Whiteville,State Treasurer,,DEM,Pam Whitaker,36,15,0,21
+Cleveland,Rison Inside,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,225,157,0,68
+Cleveland,Rison Outside,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,95,68,0,27
+Cleveland,Kingsland Inside,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,80,32,0,48
+Cleveland,Kingsland Outside,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,143,57,0,86
+Cleveland,Bowman,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,89,46,0,43
+Cleveland,Harper,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,116,35,0,81
+Cleveland,Hudgin,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,68,10,0,58
+Cleveland,Hurricane,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,136,28,0,108
+Cleveland,Lee,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,100,13,0,87
+Cleveland,Miller,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,166,43,0,123
+Cleveland,Niven,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,71,44,0,27
+Cleveland,Redland,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,162,49,0,113
+Cleveland,Rowell,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,98,30,0,68
+Cleveland,Saline,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,13,9,0,4
+Cleveland,Smith,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,132,67,0,65
+Cleveland,Whiteoak,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,105,39,0,66
+Cleveland,Whiteville,State Supreme Court Associate Justice Position 2,,NON,Supreme Court Associate Justice Robin Wynne,213,84,0,129
+Cleveland,Rison Inside,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,73,51,0,22
+Cleveland,Rison Outside,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,15,10,0,5
+Cleveland,Kingsland Inside,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,37,12,0,25
+Cleveland,Kingsland Outside,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,34,16,0,18
+Cleveland,Bowman,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,32,7,0,25
+Cleveland,Harper,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,41,16,0,25
+Cleveland,Hudgin,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,18,0,0,18
+Cleveland,Hurricane,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,25,5,0,20
+Cleveland,Lee,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,22,4,0,18
+Cleveland,Miller,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,56,9,0,47
+Cleveland,Niven,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,28,20,0,8
+Cleveland,Redland,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,52,9,0,43
+Cleveland,Rowell,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,19,4,0,15
+Cleveland,Saline,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,2,0,0,2
+Cleveland,Smith,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,28,15,0,13
+Cleveland,Whiteoak,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,22,11,0,11
+Cleveland,Whiteville,State Supreme Court Associate Justice Position 2,,NON,Judge Chris Carnahan,81,34,0,47
+Cleveland,Rison Inside,State Senate,01,REP,Senator Ben Gilmore,262,185,0,77
+Cleveland,Rison Outside,State Senate,01,REP,Senator Ben Gilmore,101,70,0,31
+Cleveland,Kingsland Inside,State Senate,01,REP,Senator Ben Gilmore,97,35,0,62
+Cleveland,Kingsland Outside,State Senate,01,REP,Senator Ben Gilmore,177,73,0,104
+Cleveland,Bowman,State Senate,01,REP,Senator Ben Gilmore,116,52,0,64
+Cleveland,Harper,State Senate,01,REP,Senator Ben Gilmore,158,54,0,104
+Cleveland,Hudgin,State Senate,01,REP,Senator Ben Gilmore,86,11,0,75
+Cleveland,Hurricane,State Senate,01,REP,Senator Ben Gilmore,166,35,0,131
+Cleveland,Lee,State Senate,01,REP,Senator Ben Gilmore,113,17,0,96
+Cleveland,Miller,State Senate,01,REP,Senator Ben Gilmore,213,51,0,162
+Cleveland,Niven,State Senate,01,REP,Senator Ben Gilmore,95,59,0,36
+Cleveland,Redland,State Senate,01,REP,Senator Ben Gilmore,196,54,0,142
+Cleveland,Rowell,State Senate,01,REP,Senator Ben Gilmore,111,32,0,79
+Cleveland,Saline,State Senate,01,REP,Senator Ben Gilmore,15,8,0,7
+Cleveland,Smith,State Senate,01,REP,Senator Ben Gilmore,160,80,0,80
+Cleveland,Whiteoak,State Senate,01,REP,Senator Ben Gilmore,123,48,0,75
+Cleveland,Whiteville,State Senate,01,REP,Senator Ben Gilmore,297,123,0,174
+Cleveland,Bowman,State House,93,LIB,Aaron A. Cagle,31,13,0,18
+Cleveland,Harper,State House,93,LIB,Aaron A. Cagle,16,4,0,12
+Cleveland,Hudgin,State House,93,LIB,Aaron A. Cagle,10,0,0,10
+Cleveland,Hurricane,State House,93,LIB,Aaron A. Cagle,14,3,0,11
+Cleveland,Miller,State House,93,LIB,Aaron A. Cagle,17,4,0,13
+Cleveland,Niven,State House,93,LIB,Aaron A. Cagle,16,12,0,4
+Cleveland,Rowell,State House,93,LIB,Aaron A. Cagle,5,1,0,4
+Cleveland,Whiteville,State House,93,LIB,Aaron A. Cagle,19,10,0,9
+Cleveland,Bowman,State House,93,REP,Representative Mike Holcomb,106,49,0,57
+Cleveland,Harper,State House,93,REP,Representative Mike Holcomb,155,53,0,102
+Cleveland,Hudgin,State House,93,REP,Representative Mike Holcomb,78,10,0,68
+Cleveland,Hurricane,State House,93,REP,Representative Mike Holcomb,158,34,0,124
+Cleveland,Miller,State House,93,REP,Representative Mike Holcomb,210,51,0,159
+Cleveland,Niven,State House,93,REP,Representative Mike Holcomb,83,52,0,31
+Cleveland,Rowell,State House,93,REP,Representative Mike Holcomb,112,33,0,79
+Cleveland,Whiteville,State House,93,REP,Representative Mike Holcomb,297,118,0,179
+Cleveland,Rison Inside,State House,96,REP,State Representative Sonia Barker,252,177,0,75
+Cleveland,Rison Outside,State House,96,REP,State Representative Sonia Barker,87,62,0,25
+Cleveland,Kingsland Inside,State House,96,REP,State Representative Sonia Barker,92,30,0,62
+Cleveland,Kingsland Outside,State House,96,REP,State Representative Sonia Barker,152,61,0,91
+Cleveland,Lee,State House,96,REP,State Representative Sonia Barker,92,13,0,79
+Cleveland,Redland,State House,96,REP,State Representative Sonia Barker,174,46,0,128
+Cleveland,Saline,State House,96,REP,State Representative Sonia Barker,13,8,0,5
+Cleveland,Smith,State House,96,REP,State Representative Sonia Barker,145,72,0,73
+Cleveland,Whiteoak,State House,96,REP,State Representative Sonia Barker,105,42,0,63
+Cleveland,Rison Inside,Cleveland County Judge,,REP,REP Jimmy Cummings,230,163,0,67
+Cleveland,Rison Outside,Cleveland County Judge,,REP,REP Jimmy Cummings,110,77,0,33
+Cleveland,Kingsland Inside,Cleveland County Judge,,REP,REP Jimmy Cummings,84,32,0,52
+Cleveland,Kingsland Outside,Cleveland County Judge,,REP,REP Jimmy Cummings,145,66,0,79
+Cleveland,Bowman,Cleveland County Judge,,REP,REP Jimmy Cummings,103,48,0,55
+Cleveland,Harper,Cleveland County Judge,,REP,REP Jimmy Cummings,123,45,0,78
+Cleveland,Hudgin,Cleveland County Judge,,REP,REP Jimmy Cummings,81,9,0,72
+Cleveland,Hurricane,Cleveland County Judge,,REP,REP Jimmy Cummings,70,14,0,56
+Cleveland,Lee,Cleveland County Judge,,REP,REP Jimmy Cummings,63,8,0,55
+Cleveland,Miller,Cleveland County Judge,,REP,REP Jimmy Cummings,180,46,0,134
+Cleveland,Niven,Cleveland County Judge,,REP,REP Jimmy Cummings,81,50,0,31
+Cleveland,Redland,Cleveland County Judge,,REP,REP Jimmy Cummings,117,39,0,78
+Cleveland,Rowell,Cleveland County Judge,,REP,REP Jimmy Cummings,101,27,0,74
+Cleveland,Saline,Cleveland County Judge,,REP,REP Jimmy Cummings,13,7,0,6
+Cleveland,Smith,Cleveland County Judge,,REP,REP Jimmy Cummings,150,75,0,75
+Cleveland,Whiteoak,Cleveland County Judge,,REP,REP Jimmy Cummings,123,46,0,77
+Cleveland,Whiteville,Cleveland County Judge,,REP,REP Jimmy Cummings,262,105,0,157
+Cleveland,Rison Inside,Cleveland County Judge,,DEM,DEM Jimmy Dale Adair,94,60,0,34
+Cleveland,Rison Outside,Cleveland County Judge,,DEM,DEM Jimmy Dale Adair,8,6,0,2
+Cleveland,Kingsland Inside,Cleveland County Judge,,DEM,DEM Jimmy Dale Adair,40,15,0,25
+Cleveland,Kingsland Outside,Cleveland County Judge,,DEM,DEM Jimmy Dale Adair,45,14,0,31
+Cleveland,Bowman,Cleveland County Judge,,DEM,DEM Jimmy Dale Adair,41,17,0,24
+Cleveland,Harper,Cleveland County Judge,,DEM,DEM Jimmy Dale Adair,55,14,0,41
+Cleveland,Hudgin,Cleveland County Judge,,DEM,DEM Jimmy Dale Adair,15,2,0,13
+Cleveland,Hurricane,Cleveland County Judge,,DEM,DEM Jimmy Dale Adair,109,24,0,85
+Cleveland,Lee,Cleveland County Judge,,DEM,DEM Jimmy Dale Adair,64,10,0,54
+Cleveland,Miller,Cleveland County Judge,,DEM,DEM Jimmy Dale Adair,60,13,0,47
+Cleveland,Niven,Cleveland County Judge,,DEM,DEM Jimmy Dale Adair,26,17,0,9
+Cleveland,Redland,Cleveland County Judge,,DEM,DEM Jimmy Dale Adair,112,22,0,90
+Cleveland,Rowell,Cleveland County Judge,,DEM,DEM Jimmy Dale Adair,25,10,0,15
+Cleveland,Saline,Cleveland County Judge,,DEM,DEM Jimmy Dale Adair,3,2,0,1
+Cleveland,Smith,Cleveland County Judge,,DEM,DEM Jimmy Dale Adair,20,11,0,9
+Cleveland,Whiteoak,Cleveland County Judge,,DEM,DEM Jimmy Dale Adair,15,6,0,9
+Cleveland,Whiteville,Cleveland County Judge,,DEM,DEM Jimmy Dale Adair,64,28,0,36
+Cleveland,Rison Inside,Cleveland County and Circuit Clerk,,REP,REP Brandy Herring,262,183,0,79
+Cleveland,Rison Outside,Cleveland County and Circuit Clerk,,REP,REP Brandy Herring,104,72,0,32
+Cleveland,Kingsland Inside,Cleveland County and Circuit Clerk,,REP,REP Brandy Herring,99,33,0,66
+Cleveland,Kingsland Outside,Cleveland County and Circuit Clerk,,REP,REP Brandy Herring,172,70,0,102
+Cleveland,Bowman,Cleveland County and Circuit Clerk,,REP,REP Brandy Herring,129,58,0,71
+Cleveland,Harper,Cleveland County and Circuit Clerk,,REP,REP Brandy Herring,164,56,0,108
+Cleveland,Hudgin,Cleveland County and Circuit Clerk,,REP,REP Brandy Herring,90,11,0,79
+Cleveland,Hurricane,Cleveland County and Circuit Clerk,,REP,REP Brandy Herring,171,35,0,136
+Cleveland,Lee,Cleveland County and Circuit Clerk,,REP,REP Brandy Herring,112,18,0,94
+Cleveland,Miller,Cleveland County and Circuit Clerk,,REP,REP Brandy Herring,226,57,0,169
+Cleveland,Niven,Cleveland County and Circuit Clerk,,REP,REP Brandy Herring,98,61,0,37
+Cleveland,Redland,Cleveland County and Circuit Clerk,,REP,REP Brandy Herring,195,56,0,139
+Cleveland,Rowell,Cleveland County and Circuit Clerk,,REP,REP Brandy Herring,115,34,0,81
+Cleveland,Saline,Cleveland County and Circuit Clerk,,REP,REP Brandy Herring,14,7,0,7
+Cleveland,Smith,Cleveland County and Circuit Clerk,,REP,REP Brandy Herring,157,78,0,79
+Cleveland,Whiteoak,Cleveland County and Circuit Clerk,,REP,REP Brandy Herring,123,49,0,74
+Cleveland,Whiteville,Cleveland County and Circuit Clerk,,REP,REP Brandy Herring,311,124,0,187
+Cleveland,Rison Inside,Rison City Mayor,,REP,REP Charles Roberts,299,206,0,93
+Cleveland,Rison Inside,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,110,70,0,40
+Cleveland,Rison Outside,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,35,24,0,11
+Cleveland,Kingsland Inside,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,35,11,0,24
+Cleveland,Kingsland Outside,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,57,22,0,35
+Cleveland,Bowman,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,40,20,0,20
+Cleveland,Harper,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,50,21,0,29
+Cleveland,Hudgin,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,30,4,0,26
+Cleveland,Hurricane,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,49,12,0,37
+Cleveland,Lee,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,29,6,0,23
+Cleveland,Miller,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,66,17,0,49
+Cleveland,Niven,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,34,17,0,17
+Cleveland,Redland,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,67,19,0,48
+Cleveland,Rowell,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,51,11,0,40
+Cleveland,Saline,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,6,4,0,2
+Cleveland,Smith,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,54,30,0,24
+Cleveland,Whiteoak,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,43,19,0,24
+Cleveland,Whiteville,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,FOR,93,35,0,58
+Cleveland,Rison Inside,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,199,143,0,56
+Cleveland,Rison Outside,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,76,54,0,22
+Cleveland,Kingsland Inside,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,82,33,0,49
+Cleveland,Kingsland Outside,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,125,53,0,72
+Cleveland,Bowman,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,92,41,0,51
+Cleveland,Harper,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,123,34,0,89
+Cleveland,Hudgin,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,62,7,0,55
+Cleveland,Hurricane,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,126,25,0,101
+Cleveland,Lee,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,96,12,0,84
+Cleveland,Miller,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,164,40,0,124
+Cleveland,Niven,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,67,46,0,21
+Cleveland,Redland,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,139,40,0,99
+Cleveland,Rowell,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,66,23,0,43
+Cleveland,Saline,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,10,5,0,5
+Cleveland,Smith,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,113,56,0,57
+Cleveland,Whiteoak,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,90,31,0,59
+Cleveland,Whiteville,Issue No. 1: A Constitutional Amendment to allow the General Assembly to Convene in Extraordinary Session Upon the Issuance of a Joint Written Proclamation of the Speaker of the House of Representatives and the President Pro Tempore of the Senate or Upon the Submission of a Written Proclamation Containing the Signatures of At Least Two-Thirds (2/3) of the Members of the House of Representatives and At Least Two-Thirds (2/3) of the Members of the Senate to the Speaker of the House of Representatives and the President Pro Tempore of the Senate Requesting that the General Assembly Convene in Extraordinary Session,,NON,AGAINST,221,93,0,128
+Cleveland,Rison Inside,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,126,81,0,45
+Cleveland,Rison Outside,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,43,33,0,10
+Cleveland,Kingsland Inside,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,38,12,0,26
+Cleveland,Kingsland Outside,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,54,20,0,34
+Cleveland,Bowman,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,46,22,0,24
+Cleveland,Harper,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,75,21,0,54
+Cleveland,Hudgin,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,49,7,0,42
+Cleveland,Hurricane,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,54,11,0,43
+Cleveland,Lee,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,48,6,0,42
+Cleveland,Miller,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,90,18,0,72
+Cleveland,Niven,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,28,14,0,14
+Cleveland,Redland,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,86,17,0,69
+Cleveland,Rowell,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,47,10,0,37
+Cleveland,Saline,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,7,4,0,3
+Cleveland,Smith,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,52,29,0,23
+Cleveland,Whiteoak,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,67,29,0,38
+Cleveland,Whiteville,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,FOR,144,49,0,95
+Cleveland,Rison Inside,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,190,138,0,52
+Cleveland,Rison Outside,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,72,48,0,24
+Cleveland,Kingsland Inside,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,78,30,0,48
+Cleveland,Kingsland Outside,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,135,58,0,77
+Cleveland,Bowman,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,87,40,0,47
+Cleveland,Harper,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,102,36,0,66
+Cleveland,Hudgin,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,45,4,0,41
+Cleveland,Hurricane,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,121,26,0,95
+Cleveland,Lee,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,78,12,0,66
+Cleveland,Miller,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,146,41,0,105
+Cleveland,Niven,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,77,52,0,25
+Cleveland,Redland,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,130,41,0,89
+Cleveland,Rowell,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,71,25,0,46
+Cleveland,Saline,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,9,5,0,4
+Cleveland,Smith,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,117,57,0,60
+Cleveland,Whiteoak,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,68,21,0,47
+Cleveland,Whiteville,Issue No. 2: A Constitutional Amendment to Reform Certain Measures Presented to Voters, to be Known as the 'Constitutional Amendment and Ballot Initiative Reform Amendment',NON,AGAINST,175,80,0,95
+Cleveland,Rison Inside,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,156,102,0,54
+Cleveland,Rison Outside,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,46,32,0,14
+Cleveland,Kingsland Inside,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,51,16,0,35
+Cleveland,Kingsland Outside,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,85,31,0,54
+Cleveland,Bowman,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,67,31,0,36
+Cleveland,Harper,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,83,30,0,53
+Cleveland,Hudgin,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,47,4,0,43
+Cleveland,Hurricane,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,70,13,0,57
+Cleveland,Lee,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,50,9,0,41
+Cleveland,Miller,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,125,34,0,91
+Cleveland,Niven,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,46,26,0,20
+Cleveland,Redland,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,92,24,0,68
+Cleveland,Rowell,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,68,19,0,49
+Cleveland,Saline,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,8,4,0,4
+Cleveland,Smith,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,79,39,0,40
+Cleveland,Whiteoak,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,70,27,0,43
+Cleveland,Whiteville,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,FOR,176,62,0,114
+Cleveland,Rison Inside,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,159,116,0,43
+Cleveland,Rison Outside,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,67,48,0,19
+Cleveland,Kingsland Inside,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,69,29,0,40
+Cleveland,Kingsland Outside,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,101,45,0,56
+Cleveland,Bowman,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,67,31,0,36
+Cleveland,Harper,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,94,27,0,67
+Cleveland,Hudgin,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,47,7,0,40
+Cleveland,Hurricane,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,106,25,0,81
+Cleveland,Lee,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,76,9,0,67
+Cleveland,Miller,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,113,26,0,87
+Cleveland,Niven,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,57,38,0,19
+Cleveland,Redland,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,119,37,0,82
+Cleveland,Rowell,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,52,17,0,35
+Cleveland,Saline,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,8,5,0,3
+Cleveland,Smith,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,88,47,0,41
+Cleveland,Whiteoak,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,64,23,0,41
+Cleveland,Whiteville,Issue No. 3: A Constitutional Amendment to Create the 'Arkansas Religious Freedom Amendment',,NON,AGAINST,141,67,0,74
+Cleveland,Rison Inside,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,114,73,0,41
+Cleveland,Rison Outside,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,28,18,0,10
+Cleveland,Kingsland Inside,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,52,19,0,33
+Cleveland,Kingsland Outside,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,38,9,0,29
+Cleveland,Bowman,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,65,24,0,41
+Cleveland,Harper,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,38,17,0,21
+Cleveland,Hudgin,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,28,4,0,24
+Cleveland,Hurricane,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,48,9,0,39
+Cleveland,Lee,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,49,6,0,43
+Cleveland,Miller,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,68,19,0,49
+Cleveland,Niven,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,39,25,0,14
+Cleveland,Redland,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,74,18,0,56
+Cleveland,Rowell,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,33,10,0,23
+Cleveland,Saline,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,2,2,0,0
+Cleveland,Smith,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,50,31,0,19
+Cleveland,Whiteoak,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,37,14,0,23
+Cleveland,Whiteville,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,FOR,93,31,0,62
+Cleveland,Rison Inside,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,207,150,0,57
+Cleveland,Rison Outside,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,89,64,0,25
+Cleveland,Kingsland Inside,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,71,28,0,43
+Cleveland,Kingsland Outside,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,153,71,0,82
+Cleveland,Bowman,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,76,41,0,35
+Cleveland,Harper,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,142,42,0,100
+Cleveland,Hudgin,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,68,7,0,61
+Cleveland,Hurricane,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,129,28,0,101
+Cleveland,Lee,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,78,12,0,66
+Cleveland,Miller,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,173,41,0,132
+Cleveland,Niven,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,67,41,0,26
+Cleveland,Redland,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,154,43,0,111
+Cleveland,Rowell,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,94,28,0,66
+Cleveland,Saline,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,14,7,0,7
+Cleveland,Smith,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,121,56,0,65
+Cleveland,Whiteoak,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,102,38,0,64
+Cleveland,Whiteville,Issue No. 4: An Amendment to Authorize the Possession, Personal Use,NON,AGAINST,229,100,0,129
